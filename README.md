@@ -36,7 +36,7 @@ A language learning platform designed for non-native business professionals, fea
 
 ## 🚀 Live Demo
 
-[Start Learning →](https://hyelinlee-code.github.io/lennys-quotes/)
+[Start Learning →](https://hyelinlee-code.github.io/lennys-quote/)
 
 ## 💡 How To Use
 
