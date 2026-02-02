@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lenny's Podcast - Quote Browser</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+</head>
+<body>
+  <!-- Top Bar -->
+  <header class="top-bar">
+    <div class="top-bar-inner">
+      <h1 class="logo">Lenny's Podcast <span class="logo-sub">Quote Browser</span></h1>
+      <div class="lang-selector">
+        <button class="lang-btn active" data-lang="text_ko">한국어</button>
+        <button class="lang-btn" data-lang="text_zh">中文</button>
+        <button class="lang-btn" data-lang="text_es">Español</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Filter Bar -->
+  <section class="filter-bar">
+    <div class="filter-bar-inner">
+      <label for="filter-function">Filter by role:</label>
+      <select id="filter-function">
+        <option value="All">All</option>
+        <option value="Product">Product</option>
+        <option value="Leadership">Leadership</option>
+        <option value="Marketing">Marketing</option>
+        <option value="Growth">Growth</option>
+        <option value="Design">Design</option>
+        <option value="Sales">Sales</option>
+        <option value="Engineering">Engineering</option>
+        <option value="Operations">Operations</option>
+        <option value="Finance">Finance</option>
+        <option value="Data">Data</option>
+      </select>
+      <span class="quote-count" id="quote-count"></span>
+    </div>
+  </section>
+
+  <!-- Quote Cards Grid -->
+  <main class="grid-container" id="quotes-grid">
+    <!-- Cards injected by JS -->
+  </main>
+
+  <!-- Loading State -->
+  <div class="loading" id="loading">Loading quotes...</div>
+
+  <!-- Empty State -->
+  <div class="empty-state" id="empty-state" style="display:none;">No quotes match this filter.</div>
+
+  <!-- Modal -->
+  <div class="modal-overlay" id="modal-overlay">
+    <div class="modal" id="modal">
+      <button class="modal-close" id="modal-close">&times;</button>
+
+      <!-- Flip Card for Quote -->
+      <div class="flip-card" id="flip-card">
+        <div class="flip-card-inner" id="flip-card-inner">
+          <div class="flip-card-front">
+            <h3 class="modal-label">Original (English)</h3>
+            <p class="modal-text-en" id="modal-text-en"></p>
+            <span class="flip-hint">Click to see translation →</span>
+          </div>
+          <div class="flip-card-back">
+            <h3 class="modal-label" id="modal-trans-label">Translation</h3>
+            <p class="modal-text-trans" id="modal-text-trans"></p>
+            <span class="flip-hint">Click to see original →</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="modal-context" id="modal-context-wrapper">
+        <button class="context-toggle" id="context-toggle">Show context ▾</button>
+        <p class="context-text" id="modal-context"></p>
+      </div>
+
+      <div class="modal-meta">
+        <div class="modal-speaker-row">
+          <span class="modal-speaker" id="modal-speaker"></span>
+          <span class="badge badge-function" id="modal-function"></span>
+        </div>
+
+        <div class="modal-tags-row" id="modal-expertise-row">
+          <span class="modal-label-sm">Expertise:</span>
+          <div class="tags" id="modal-expertise"></div>
+        </div>
+
+        <div class="modal-tags-row" id="modal-topics-row">
+          <span class="modal-label-sm">Topics:</span>
+          <div class="tags" id="modal-topics"></div>
+        </div>
+
+        <div class="modal-tags-row" id="modal-vocab-row">
+          <span class="modal-label-sm">Vocabulary:</span>
+          <div class="tags" id="modal-vocab"></div>
+        </div>
+
+        <div class="modal-detail-row">
+          <span class="badge badge-difficulty" id="modal-difficulty"></span>
+          <span class="modal-timestamp" id="modal-timestamp"></span>
+        </div>
+      </div>
+
+      <a class="listen-btn" href="https://www.lennyspodcast.com/" target="_blank" rel="noopener noreferrer">
+        🎧 Listen on Lenny's Podcast
+      </a>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
