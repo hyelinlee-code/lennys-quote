@@ -1,0 +1,35 @@
+# Environment / secrets
+.env
+.env.*
+*.local
+
+# Logs
+*.log
+errors.log
+
+# Checkpoints (generated during pipeline runs)
+*checkpoint*.json
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+
+# OS
+.DS_Store
+Thumbs.db
+nul
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Python
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,170 @@
+[
+  {
+    "text": "We're using a lot of human driving data to train our deep models. So it's important to make sure that the behavior of the car doesn't seem robotic, it can feel quite unnatural. And from the get-go, we focused on building a fully autonomous system. So it's important to have that familiarity, that trust, building with the riders where they're not daunted by technology, they don't feel like they're sitting in our walk. It has to feel very human-like, but in a good way.",
+    "speaker": "Shweta Shrivastava",
+    "timestamp": "06:07",
+    "context": "Lenny asks about how Waymo creates body language and communication systems for their self-driving cars to interact with other drivers and pedestrians. Shweta explains that Waymo uses human driving data to train their AI models, but filters out bad driving behaviors. She emphasizes that the goal is to make the autonomous vehicle feel natural and trustworthy to riders, not robotic or intimidating, while still being safer than human driving.",
+    "vocabulary_highlights": [
+      "from the get-go",
+      "daunted by technology",
+      "sitting in our walk"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "AI/ML Products",
+      "Growth Strategy"
+    ],
+    "text_ko": "우리는 사람이 운전한 데이터(human driving data)를 많이 써서 딥러닝 모델(deep models)을 학습시키고 있어요. 그래서 차량의 행동이 로봇처럼 느껴지면 안 돼요 — 그게 굉장히 어색하게 느껴질 수 있거든요. 처음부터 완전 자율주행 시스템(fully autonomous system) 구축에 집중해 왔기 때문에, 탑승자들과 친숙함과 신뢰를 쌓는 게 중요해요. 탑승자들이 기술에 위축되지 않고, ‘시험용 차량을 타고 있다’는 느낌을 받지 않게 해야 해요. 결국엔 좋은 의미로 아주 사람답게 느껴져야 해요.",
+    "text_zh": "我们用了大量的人类驾驶数据来训练我们的深度模型(deep models)。所以很重要的一点是，要确保车的行为不能显得太机械化，不然会让人觉得很不自然。从一开始我们就专注于打造完全自动驾驶系统(fully autonomous system)。所以很关键的是要让乘客有那种熟悉感，建立起信任，让他们不会被技术吓到，不会觉得自己坐在我们的实验品里。必须要有很人性化的感觉，但是是好的那种人性化。",
+    "text_es": "Estamos usando muchísimos datos de conductores reales para entrenar nuestros modelos profundos (deep models). Entonces es súper importante asegurarnos de que el comportamiento del coche no se sienta robótico, porque puede resultar muy antinatural. Y desde el primer día nos enfocamos en construir un sistema completamente autónomo. Por eso es clave generar esa familiaridad, esa confianza con los pasajeros para que no se intimiden con la tecnología, para que no sientan que están montados en nuestro experimento. Tiene que sentirse muy humano, pero en el buen sentido."
+  },
+  {
+    "text": "I would say that the PMC has to be able to go technically indeed, compared to what they would do in other software products. They have to be able to get into the details as much as needed. They have to be okay with uncertainty and ambiguity. Again, I think, that is part and parcel of any product management role, but it's even more so here.",
+    "speaker": "Shweta Shrivastava",
+    "timestamp": "08:46",
+    "context": "Lenny asks about the biggest differences between working at Waymo versus traditional software companies like Amazon or Cisco. Shweta explains that product managers at Waymo need different skills due to the technical complexity of autonomous driving systems. She describes how PMs must dive deeper into technical details and handle more uncertainty than they would in typical software product roles.",
+    "vocabulary_highlights": [
+      "go technically indeed",
+      "part and parcel"
+    ],
+    "topics": [
+      "Product Management",
+      "Career Development"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "AI/ML Products",
+      "Growth Strategy"
+    ],
+    "text_ko": "제 생각에는 PMC는 다른 소프트웨어 제품들에서 하던 것과 비교해 기술적으로 더 깊이 들어갈 수 있어야 해요. 필요한 만큼 세부 사항까지 파고들 줄 알아야 하고, 불확실성과 모호함을 견딜 수 있어야 해요. 다시 말하지만, 그건 모든 제품 관리 역할(product management role)의 일부이긴 한데, 여기서는 훨씬 더 그렇다고 생각해요.",
+    "text_zh": "我觉得PMC必须要有很强的技术能力，比起做其他软件产品的时候要求更高。他们得能够深入到各种细节中去，需要多深就得多深。还有就是要能接受不确定性和模糊性。虽然说这些本来就是产品管理工作的一部分，但在这里要求会更高。",
+    "text_es": "Yo diría que el PMC tiene que poder meterse de lleno en lo técnico, en comparación con lo que haría en otros productos de software. Tiene que poder profundizar en los detalles tanto como sea necesario. Tiene que estar cómodo con la incertidumbre y la ambigüedad. Otra vez, creo que eso es parte integral de cualquier rol de gestión de producto, pero aquí es aún más importante."
+  },
+  {
+    "text": "The concept of MVP, which is so widely popular in the SaaS product management world or product management world, in general, has a whole new meaning here at Waymo when you work in a product like this because safety is on top of mind for all of us and can't really cut corners on safety. The MVP bar itself for safety is extremely high for us.",
+    "speaker": "Shweta Shrivastava",
+    "timestamp": "10:04",
+    "context": "Lenny continues asking about differences between Waymo and traditional software companies. Shweta explains how the concept of Minimum Viable Product (MVP) - a core principle in software development where you release a basic version and iterate - works differently at Waymo. Because autonomous vehicles must prioritize safety above all else, their definition of 'minimum viable' still requires an extremely high safety standard, unlike typical software products where you can launch with basic features and improve over time.",
+    "vocabulary_highlights": [
+      "cut corners on safety"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "AI/ML Products",
+      "Growth Strategy"
+    ],
+    "text_ko": "일반적으로 SaaS 제품 관리 분야(SaaS product management)나 제품 관리 전반(product management)에서 널리 통용되는 '최소 기능 제품(MVP)' 개념이, 이런 제품을 다루는 Waymo에서는 전혀 다른 의미예요. 우리 모두 안전을 최우선으로 생각하기 때문에 안전에 대해서는 절대로 대충할 수 없고, 안전 관점에서의 MVP 기준 자체가 우리에겐 굉장히 높아요.",
+    "text_zh": "MVP这个概念在SaaS产品管理或者整个产品管理领域都特别火，但在我们Waymo这里，做这种产品的时候，这个概念就完全不一样了。因为安全是我们所有人最关心的事儿，在安全方面咱们真的不能偷工减料。对我们来说，MVP的安全门槛本身就定得特别高。",
+    "text_es": "El concepto de MVP (minimum viable product), que es tan popular en el mundo de la gestión de productos SaaS o en general en product management, tiene un significado completamente distinto aquí en Waymo cuando trabajas en un producto como este, porque la seguridad es lo primero para todos nosotros y realmente no puedes escatimar en temas de seguridad. Para nosotros, el estándar mínimo del MVP en cuanto a seguridad está altísimo."
+  },
+  {
+    "text": "At Amazon, I was the first PM and then I drove the team around it for a no-code application development platform called Honey Code. So that was a brand new service. Amazon had never delved in that space before. It was more infrastructure focused and this was first of its kind service that the team worked on. And this has played out many times in my career, and so I am a big believer in disrupting yourself before somebody else does it.",
+    "speaker": "Shweta Shrivastava",
+    "timestamp": "29:02",
+    "context": "Lenny asks for a specific example of disrupting yourself before competitors do, which Shweta had mentioned as an important lesson for large companies. Shweta shares how she led Amazon's first no-code application development platform called Honey Code, which was completely new territory for Amazon since they had previously focused on infrastructure services. This exemplifies her philosophy that established companies must innovate in new areas before startups disrupt them.",
+    "vocabulary_highlights": [
+      "drove the team around it",
+      "delved in that space",
+      "first of its kind",
+      "played out many times"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning",
+      "Starting a Company"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "AI/ML Products",
+      "Growth Strategy"
+    ],
+    "text_ko": "아마존에서 저는 첫 번째 PM이었고, 그 팀과 함께 코드 없이 애플리케이션을 개발할 수 있는 플랫폼인 Honey Code를 만들었어요. 그건 완전히 새로운 서비스였죠. 아마존은 그 분야에 한 번도 들어간 적이 없었고, 그동안은 인프라 중심이었거든요. 그래서 팀이 처음으로 이런 서비스를 개발한 거예요. 제 경력에서도 이런 경험이 여러 번 있었고, 그래서 저는 누군가가 저를 방해하기 전에 스스로 변화를 주는 게 중요하다고 믿어요.",
+    "text_zh": "在亚马逊的时候，我是第一个产品经理，后来带着团队做了一个叫Honey Code的无代码应用开发平台(no-code application development platform)。这是个全新的服务，亚马逊以前从来没涉足过这个领域。之前都是专注基础设施这块，这是团队做的第一个这种类型的服务。我职业生涯中这种情况遇到过很多次，所以我特别相信一个道理：与其等别人来颠覆你，不如自己先颠覆自己。",
+    "text_es": "En Amazon, fui el primer PM y luego dirigí el equipo para una plataforma de desarrollo de aplicaciones sin código que se llamaba Honey Code. Era un servicio completamente nuevo. Amazon nunca se había metido en ese espacio antes. Se enfocaban más en infraestructura y este fue el primer servicio de este tipo en el que trabajó el equipo. Y esto me ha pasado muchas veces en mi carrera, así que creo firmemente en disrumpirte a ti mismo antes de que alguien más lo haga."
+  },
+  {
+    "text": "I think a lot of that for me came by just being in different kind of situations and different kind of environments. And I think a lot of that for me came by just being in different kind of situations and different kind of environments.",
+    "speaker": "Shweta Shrivastava",
+    "timestamp": "31:06",
+    "context": "Lenny asks Shweta what helped her most develop listening and empathy skills, which she identified as underrated PM skills. Shweta explains that these crucial soft skills can only be developed through repeated practice across diverse work environments. She emphasizes that working with different types of teams, from startups to large companies, helped her understand various perspectives and constraints that different stakeholders face.",
+    "vocabulary_highlights": [],
+    "topics": [
+      "Career Development",
+      "Communication Skills"
+    ],
+    "difficulty_level": "Beginner",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "AI/ML Products",
+      "Growth Strategy"
+    ],
+    "text_ko": "저한테는 그런 부분들이 다양한 상황과 환경에 직접 있어 보면서 많이 생긴 것 같아요. 다시 말하면, 여러 상황과 환경을 직접 겪으면서 그런 것들이 더 많이 생겼던 것 같아요.",
+    "text_zh": "我觉得这主要是因为我接触了各种不同的情况和环境，在不同的场合都待过。我觉得这主要是因为我接触了各种不同的情况和环境，在不同的场合都待过。",
+    "text_es": "Creo que gran parte de eso lo aprendí simplemente por estar en todo tipo de situaciones y ambientes diferentes. Y creo que gran parte de eso lo aprendí simplemente por estar en todo tipo de situaciones y ambientes diferentes."
+  },
+  {
+    "text": "Are you proactively trying to challenge your own assumptions is extremely important, right? As a big enough product manager as well as a seasoned product leader, if you're not doing enough of that, then I think you might not be listening. If there's no conflict, if there's no contention, then something is missing.",
+    "speaker": "Shweta Shrivastava",
+    "timestamp": "32:24",
+    "context": "Lenny and Shweta are discussing how to develop better listening skills as a product manager. Shweta offers a specific technique for improving listening abilities: actively questioning your own assumptions. She argues that experienced product managers should expect disagreement and debate - if everyone always agrees with you, it's likely because you're not truly listening to different perspectives or you're missing important viewpoints.",
+    "vocabulary_highlights": [
+      "proactively trying to challenge",
+      "seasoned product leader"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Communication Skills"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "AI/ML Products",
+      "Growth Strategy"
+    ],
+    "text_ko": "스스로의 가정을 적극적으로 의심하려고 노력하는 게 정말 중요해요, 그렇죠? 제품 매니저(product manager)이든 경험 많은 제품 리더(product leader)이든, 그걸 충분히 하지 않는다면 말을 제대로 듣고 있지 않을 수 있어요. 충돌이나 이견이 전혀 없다면 뭔가 빠져 있는 거예요.",
+    "text_zh": "你有没有主动去质疑自己的假设？这点特别重要，对吧？作为一个资深的产品经理(product manager)或者产品负责人(product leader)，如果你在这方面做得不够，那我觉得你可能没有真正在倾听。如果没有冲突，没有争议，那说明肯定哪里出了问题。",
+    "text_es": "¿Estás tratando de manera proactiva de cuestionar tus propias suposiciones? Eso es súper importante, ¿no? Como product manager con experiencia y líder de producto consolidado, si no estás haciendo suficiente de eso, entonces creo que tal vez no estés escuchando bien. Si no hay conflicto, si no hay debate, entonces algo está faltando."
+  },
+  {
+    "text": "I'm going to say something that might sound a little cheeky, but I think the way to get promoted is to not want it too badly. It is about you have to focus on the impact. It's about having an impact and then doing what is right for the business. So not sort of optimizing things for your promotion, which look, we are all ambitious human beings.",
+    "speaker": "Shweta Shrivastava",
+    "timestamp": "33:28",
+    "context": "Lenny asks Shweta for advice on getting promoted, given her experience being promoted many times and now promoting others. Shweta offers counterintuitive advice: don't focus too heavily on wanting the promotion itself. Instead, she suggests focusing on creating meaningful business impact and doing what's right for the company. She acknowledges this might sound contradictory since ambition is natural, but argues that obsessing over promotion can actually hurt your chances.",
+    "vocabulary_highlights": [
+      "sound a little cheeky",
+      "optimizing things for your promotion"
+    ],
+    "topics": [
+      "Career Development",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "AI/ML Products",
+      "Growth Strategy"
+    ],
+    "text_ko": "좀 건방지게 들릴 수도 있지만, 제 생각엔 승진(promotion)을 너무 간절히 원하지 않는 게 오히려 도움이 돼요. 중요한 건 임팩트(impact)에 집중하는 거예요. 임팩트를 만들고 비즈니스(business)에 맞는 옳은 일을 하는 거죠. 승진을 위해 모든 걸 최적화하려고 하지 말라는 얘기예요 — 물론 우리 모두 야망 있는 사람들인 건 사실이지만요.",
+    "text_zh": "我要说句可能听起来有点调皮的话，但我觉得想要升职的诀窍就是别太急着要。关键是你得专注于影响力，要产生实际影响，然后做对公司有利的事情。不要为了升职而去优化一切，当然了，我们都是有野心的人嘛。",
+    "text_es": "Voy a decir algo que tal vez suene un poco atrevido, pero creo que la manera de conseguir un ascenso es no desearlo demasiado. Se trata de que tienes que enfocarte en el impacto. Se trata de generar impacto y luego hacer lo que es mejor para el negocio. O sea, no optimizar las cosas para tu ascenso, que bueno, todos somos seres humanos ambiciosos."
+  }
+]

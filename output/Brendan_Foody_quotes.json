@@ -1,0 +1,151 @@
+[
+  {
+    "text": "The wealthiest companies in the world are willing to spend whatever it takes to improve model capabilities. The market is bound by the amount of things where humans can do something that models can't. The lab's primary bottleneck to improve models is how they can effectively have some way of measuring what success looks like for the model.",
+    "speaker": "Brendan Foody",
+    "timestamp": "00:00:00",
+    "context": "Lenny asks Brendan why the AI training data market has become so valuable and why companies like Mercor are experiencing unprecedented growth. Brendan explains that AI labs are facing a fundamental bottleneck - they need ways to measure and evaluate model performance across different capabilities. Since the most advanced AI companies have virtually unlimited resources to improve their models, they're willing to pay premium rates for experts who can help them assess what success looks like for their AI systems.",
+    "vocabulary_highlights": [
+      "whatever it takes",
+      "bound by",
+      "primary bottleneck"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning",
+      "Growth & Marketing"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Leadership",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Marketplace",
+      "Growth Strategy"
+    ],
+    "text_ko": "세계에서 가장 부유한 기업들은 모델 역량(model capabilities)을 높이기 위해 필요한 건 뭐든지 투자할 준비가 돼 있어요.  \n시장 규모는 사람이 모델이 못 하는 일을 할 수 있는 영역의 크기에 의해 제한돼요.  \n랩(lab)의 모델 개선에서 가장 큰 병목은 모델의 성공이 어떤 모습인지 효과적으로 측정할 방법을 마련하는 거예요.",
+    "text_zh": "全世界最有钱的那些公司，为了提升模型能力，花多少钱都舍得。市场的天花板就看人类能做而模型做不了的事情还有多少。实验室要改进模型，最大的卡脖子问题就是怎么有效衡量模型到底做得成功不成功。",
+    "text_es": "Las empresas más prósperas del mundo están dispuestas a invertir lo que sea necesario para mejorar las capacidades de sus modelos. El mercado está limitado por la cantidad de tareas donde los humanos pueden hacer algo que los modelos no pueden. El principal cuello de botella (bottleneck) del laboratorio para mejorar los modelos es cómo pueden tener una manera efectiva de medir cómo se ve el éxito del modelo."
+  },
+  {
+    "text": "If the model is the product, then the eval is the product requirement document. And reinforcement learning is becoming so effective that once they have an eval, they can help climb it. If you look at just how fast people were able to saturate Olympiad Math once they focused on it, how fast we're even saturating SWE-bench once we focus on it.",
+    "speaker": "Brendan Foody",
+    "timestamp": "00:06:19",
+    "context": "Lenny asks Brendan to explain what the \"era of evals\" means and why evaluations are becoming so important in AI development. Brendan uses an analogy to explain that evaluations (evals) serve the same purpose for AI models that product requirement documents serve for traditional products - they define what success looks like. He explains that once labs have clear evaluation criteria, they can use reinforcement learning techniques to rapidly improve model performance on those specific tasks.",
+    "vocabulary_highlights": [
+      "climb it",
+      "saturate",
+      "focus on it"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Leadership",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Marketplace",
+      "Growth Strategy"
+    ],
+    "text_ko": "모델(model)이 제품이라면, 평가(eval)는 제품 요구사항 문서(product requirement document)와 같아요. 강화학습(reinforcement learning)이 워낙 효과적이라 일단 평가가 마련되면 그 평가를 바탕으로 성능을 끌어올리는 데 바로 활용할 수 있어요. 사람들이 올림피아드 수학(Olympiad Math)에만 집중했을 때 얼마나 빠르게 포화에 이르렀는지, 우리도 SWE-bench(SWE-bench)에 집중하면 얼마나 빨리 포화시키는지 보면 그게 잘 드러나요.",
+    "text_zh": "如果模型就是产品，那评测(eval)就相当于产品需求文档(PRD)。现在强化学习(reinforcement learning)变得特别厉害，只要有了评测标准，就能帮着往上冲。你看奥数竞赛，大家一认真搞，很快就刷到头了；还有SWE-bench那个基准测试，我们一专注去做，也很快就要刷满分了。",
+    "text_es": "Si el modelo es el producto, entonces la evaluación es el documento de requisitos del producto. Y el aprendizaje por refuerzo se está volviendo tan efectivo que una vez que tienen una eval, pueden ayudar a escalarla. Si ves qué tan rápido la gente pudo saturar las Olimpiadas de Matemáticas una vez que se enfocaron en eso, qué tan rápido estamos saturando incluso el SWE-bench una vez que nos enfocamos en ello."
+  },
+  {
+    "text": "What everyone is generally moving towards is reinforcement learning from AI feedback instead of human feedback where you have instead the human defined some sort of success criteria, some way to measure that. And it's far more scalable and data-efficient, and so that's why a lot of the broader trend in the market across the board is moving towards RLHF to both eval models as well as improved capabilities.",
+    "speaker": "Brendan Foody",
+    "timestamp": "00:15:22",
+    "context": "Lenny asks Brendan to explain what experts are actually doing when they work with AI labs. Brendan describes the evolution of AI training methods, explaining how the industry is shifting from human-driven feedback to AI-driven feedback systems. In this newer approach, humans create the success criteria and rubrics, but AI systems handle the actual evaluation and feedback process, making the training process much more efficient and scalable.",
+    "vocabulary_highlights": [
+      "data-efficient",
+      "across the board"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Leadership",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Marketplace",
+      "Growth Strategy"
+    ],
+    "text_ko": "요즘 대부분이 향하는 방향은 사람이 직접 평가하는 인간 피드백 대신 AI가 주는 피드백으로부터 학습하는 강화학습(reinforcement learning from AI feedback)이에요. 예전에는 사람이 어떤 성공 기준을 정해 그걸로 성과를 측정했죠. 그런데 AI 기반 방식이 훨씬 더 확장 가능하고 데이터 효율적이라서, 시장 전반에서 모델 평가와 성능 개선 모두에 AI 피드백 기반 강화학습(reinforcement learning from AI feedback, 기존 RLHF 개념의 확장) 쪽으로 움직이고 있어요.",
+    "text_zh": "现在大家普遍都在往一个方向走，就是用AI反馈来做强化学习(reinforcement learning)，而不是用人的反馈。这种方式是让人先定义好成功的标准，定义好怎么去衡量。这样做扩展性更强，数据效率也更高，所以你看市场上整体的大趋势都在朝RLHF这个方向发展，既能用来评估模型，也能提升模型的能力。",
+    "text_es": "Hacia donde se está moviendo todo el mundo en general es el aprendizaje por refuerzo con retroalimentación de IA en lugar de retroalimentación humana, donde lo que tienes es que el humano define algún tipo de criterio de éxito, alguna forma de medirlo. Y es mucho más escalable y eficiente en cuanto a datos, por eso es que gran parte de la tendencia general en el mercado está yendo hacia RLHF tanto para evaluar modelos como para mejorar capacidades."
+  },
+  {
+    "text": "It's highly likely that the entire economy will become an aural environment machine, building out all of these worlds and contexts. And I think the narrative in AI over the last three years has almost entirely been one of job displacement, but very few companies and people have talked about this new category of jobs that's being created.",
+    "speaker": "Brendan Foody",
+    "timestamp": "00:00:43",
+    "context": "Lenny shares a provocative tweet about humans being put on Earth to create training data for AI labs and asks Brendan what this means. Brendan explains his vision that the economy will increasingly involve creating virtual environments and evaluation systems for AI training. He argues that while most discussion about AI focuses on job displacement, there's insufficient attention paid to the entirely new categories of jobs being created in the AI training and evaluation space.",
+    "vocabulary_highlights": [
+      "aural environment machine",
+      "narrative",
+      "category of jobs"
+    ],
+    "topics": [
+      "Career Development",
+      "Learning & Growth"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Leadership",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Marketplace",
+      "Growth Strategy"
+    ],
+    "text_ko": "전체 경제가 이런 세계와 맥락을 전부 구현해 나가는 청각 기반 환경 플랫폼(aural environment machine)이 될 가능성이 커요. 그리고 제 생각엔 지난 3년간 AI 관련 논의는 거의 대부분 일자리 대체(job displacement)에만 집중돼 왔는데, 새로 생겨나는 일자리 카테고리(category of jobs)에 대해 말하는 회사나 사람은 거의 없었어요.",
+    "text_zh": "很可能整个经济都会变成一个听觉环境机器，构建出各种各样的世界和场景。我觉得过去三年关于AI的说法几乎都是在讲工作会被取代，但很少有公司和人谈到AI其实在创造一个全新的就业类别。",
+    "text_es": "Es muy probable que toda la economía se convierta en una máquina de entornos auditivos (aural environment machine), desarrollando todos estos mundos y contextos. Y creo que la narrativa en IA durante los últimos tres años ha sido casi completamente sobre el desplazamiento laboral (job displacement), pero muy pocas empresas y personas han hablado de esta nueva categoría de trabajos que se está creando."
+  },
+  {
+    "text": "I think it's people that can leverage AI to do whatever their day-to-day workflows are. We'll give people interviews where we say, 'Use ChatGPT and Kodak. Use Claude code. Use whatever tool cursor and whatever tools are available to build a website and let's see what product you're able to build in an hour.'",
+    "speaker": "Brendan Foody",
+    "timestamp": "00:20:47",
+    "context": "Lenny asks Brendan what skills young people should focus on developing given the rapid changes in AI. Brendan emphasizes that the most valuable skill is learning to effectively use AI tools to enhance productivity in any field. He gives an example of how his company now conducts interviews - instead of testing people's ability to work without AI, they provide access to all available AI tools and evaluate what candidates can accomplish with them.",
+    "vocabulary_highlights": [
+      "leverage",
+      "day-to-day workflows"
+    ],
+    "topics": [
+      "Career Development",
+      "Learning & Growth"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Leadership",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Marketplace",
+      "Growth Strategy"
+    ],
+    "text_ko": "제 생각에는 일상적인 업무 흐름( workflow)을 AI로 잘 활용할 수 있는 사람이 중요해요. 면접에서는 '챗GPT(ChatGPT)랑 코닥(Kodak)을 쓰세요. 클로드 코드(Claude code)를 쓰세요. 커서(Cursor)나 사용 가능한 다른 도구들을 아무거나 써서 웹사이트를 만들어 보고, 한 시간 안에 어떤 제품을 만들 수 있는지 보여주세요.'라고 말할 거예요.",
+    "text_zh": "我觉得关键是那些能用AI来处理日常工作流程的人。我们面试的时候会跟候选人说，\"你用ChatGPT也好，用Claude写代码也行，什么cursor工具啊，随便什么工具都可以，给你一个小时搭个网站，看看你能做出什么产品来。\"",
+    "text_es": "Creo que son las personas que pueden aprovechar la IA para hacer sus tareas del día a día. Les damos entrevistas donde les decimos: \"Usa ChatGPT y Kodak. Usa Claude code. Usa cualquier herramienta como cursor y las que tengas disponibles para armar un sitio web y veamos qué producto puedes crear en una hora.\""
+  },
+  {
+    "text": "I think the most important thing is looking at the leading indicators in fast-moving markets. What matters a ton is actually figuring out what are the new markets, the new pockets of demand that are changing very quickly where the wealthiest customers in the world are willing to pay whatever it takes to improve model capabilities, and how do we focus on the leading indicators of those markets.",
+    "speaker": "Brendan Foody",
+    "timestamp": "00:39:09",
+    "context": "Lenny asks Brendan what core tenets contributed to building the fastest-growing company in history. Brendan explains that success in rapidly evolving markets requires focusing on leading indicators rather than lagging metrics. He emphasizes identifying emerging market opportunities where customers have urgent, high-value needs and are willing to pay premium prices - exactly what happened with AI labs needing expert evaluation services.",
+    "vocabulary_highlights": [
+      "leading indicators",
+      "pockets of demand",
+      "whatever it takes"
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Growth & Marketing"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Leadership",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Marketplace",
+      "Growth Strategy"
+    ],
+    "text_ko": "저는 가장 중요한 건 빠르게 변화하는 시장(fast-moving markets)에서 선행 지표(leading indicators)를 보는 거라고 생각해요. 핵심은 세계에서 가장 부유한 고객들이 모델 성능(model capabilities)을 개선하기 위해 얼마든지 비용을 지불할 의향이 있는, 아주 빠르게 변하는 새로운 시장과 수요의 영역(pockets of demand)이 무엇인지 파악하고, 그 시장들의 선행 지표에 어떻게 집중할지 결정하는 거예요.",
+    "text_zh": "我觉得最关键的是要盯住快速变化市场里的先行指标(leading indicators)。真正重要的是要搞清楚哪些是新兴市场，哪些是需求变化特别快的新领域，那些全世界最有钱的客户愿意不惜代价来提升模型能力，我们怎么把注意力放在这些市场的先行指标上。",
+    "text_es": "Creo que lo más importante es fijarse en los indicadores adelantados (leading indicators) en mercados que se mueven súper rápido. Lo que realmente importa un montón es descifrar cuáles son los nuevos mercados, esos nuevos nichos de demanda que están cambiando a toda velocidad, donde los clientes con más recursos del mundo están dispuestos a pagar lo que sea para mejorar las capacidades del modelo, y cómo nos enfocamos en los indicadores adelantados de esos mercados."
+  }
+]

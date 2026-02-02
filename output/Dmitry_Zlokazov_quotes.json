@@ -1,0 +1,169 @@
+[
+  {
+    "text": "Everyone is striving for talented, skillful, smart people. Revolut values way more raw intellect and this unquenched hunger to build things rather than experience.",
+    "speaker": "Dmitry Zlokazov",
+    "timestamp": "00:00:00",
+    "context": "Lenny asks Dmitry about Revolut's unique approach to hiring product managers (called product owners at Revolut). Dmitry explains that while most companies prioritize experience and credentials, Revolut takes a contrarian approach by focusing on candidates' natural intelligence and genuine passion for building products over their years of experience in the field.",
+    "vocabulary_highlights": [
+      "raw intellect",
+      "unquenched hunger"
+    ],
+    "topics": [
+      "Career Development",
+      "Coaching & Development"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "User Experience",
+      "Product Strategy"
+    ],
+    "text_ko": "모두가 재능 있고 능숙하고 똑똑한 사람을 찾으려고 하죠. Revolut은 단순한 경력이나 경험보다 '순수한 지적 능력(raw intellect)'과 무언가를 만들어내려는 끝없는 갈망을 훨씬 더 중요하게 생각해요.",
+    "text_zh": "大家都在抢有才华、有技能、聪明的人才。但Revolut更看重的是那种天生的聪明劲儿，还有那种永远不满足、总想搞点什么出来的冲劲，而不是工作经验。",
+    "text_es": "Todos andan buscando gente talentosa, hábil e inteligente. En Revolut valoramos mucho más la inteligencia pura y esas ganas enormes de construir cosas que la experiencia en sí."
+  },
+  {
+    "text": "It's not getting traction. Is it because the underlying idea is wrong? Or maybe your product just sucks? By forcing everyone to build a product that people will love, we kind of cut out this part of uncertainty.",
+    "speaker": "Dmitry Zlokazov",
+    "timestamp": "00:00:18",
+    "context": "Lenny asks about how Revolut approaches early product development differently from other companies. Dmitry explains their philosophy of investing heavily in product quality from the start rather than launching scrappy MVPs. He argues that when products fail to gain traction, it's often unclear whether the core idea is flawed or the execution is simply poor quality.",
+    "vocabulary_highlights": [
+      "cut out this part of uncertainty"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "User Experience",
+      "Product Strategy"
+    ],
+    "text_ko": "트랙션(traction)이 안 나요. 근본 아이디어가 잘못된 걸까요? 아니면 제품이 그냥 별로라서 그런 걸까요? 모두가 사람들이 좋아할 제품을 만들게끔 하다 보니, 우리는 그 불확실성 부분을 어느 정도 없앴어요.",
+    "text_zh": "这个产品就是推不动。是不是底层的想法就有问题？还是说你们的产品就是做得不行？如果我们强制要求每个人都要做出用户真正喜欢的产品，其实就把这种不确定性给排除掉了。",
+    "text_es": "No está pegando. ¿Será porque la idea de fondo está mal? ¿O tal vez tu producto simplemente es una porquería? Al obligar a todos a crear un producto que la gente realmente ame, como que eliminamos esta parte de la incertidumbre."
+  },
+  {
+    "text": "If something is 99% done, it's closer to 0% rather than 100%.",
+    "speaker": "Dmitry Zlokazov",
+    "timestamp": "00:00:43",
+    "context": "Lenny asks Dmitry about what he's learned about setting up new products for success. Dmitry shares this philosophy about execution and completion, emphasizing that product owners at Revolut must be relentlessly focused on actually shipping and delivering value to customers, not just building features.",
+    "vocabulary_highlights": [],
+    "topics": [
+      "Product Management",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Beginner",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "User Experience",
+      "Product Strategy"
+    ],
+    "text_ko": "어떤 일이 99% 끝났다고 해도, 실제로는 100%보다 0%에 더 가깝다고 봐야 해요.",
+    "text_zh": "如果一件事做了99%，那其实更接近0%，而不是100%。",
+    "text_es": "Si algo está al 99%, está más cerca del 0% que del 100%."
+  },
+  {
+    "text": "We go very deep on example of each of these projects. For example, we launched a branch in Ireland, we launched a branch in Netherlands. Then we reverse engineered what was the best process to do it, and then we went back up on top level and we said, okay, but what's the ideal framework of doing it at scale?",
+    "speaker": "Dmitry Zlokazov",
+    "timestamp": "00:12:55",
+    "context": "Lenny asks for a specific example of what Dmitry means when he talks about product owners needing to go really deep into details. Dmitry explains how Revolut's lean team handles the complex challenge of launching banking operations across 50 countries. Rather than trying to solve everything at once, they dive deep into specific examples first, then extract learnings to create scalable processes.",
+    "vocabulary_highlights": [
+      "reverse engineered",
+      "top level",
+      "at scale"
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Product Management"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "User Experience",
+      "Product Strategy"
+    ],
+    "text_ko": "저희는 각 프로젝트 사례를 하나하나 아주 깊게 파고들어요. 예를 들어 아일랜드에 지사를 세우고 네덜란드에도 지사를 열었죠. 그런 다음 어떤 프로세스가 가장 효과적이었는지 역공학(reverse-engineering)으로 분석하고, 그걸 바탕으로 상위 수준에서 다시 보며 '이걸 대규모(at scale)로 진행할 때 이상적인 프레임워크(framework)는 뭘까?'라고 정리했어요.",
+    "text_zh": "我们会深挖每个项目的具体案例。比如说，我们在爱尔兰开了分公司，在荷兰也开了分公司。然后我们就倒推分析，看看最佳流程是什么，再回到顶层去思考，那如果要大规模复制的话，理想的框架应该是什么样的？",
+    "text_es": "Nos metemos a fondo con ejemplos de cada uno de estos proyectos. Por ejemplo, abrimos una sucursal en Irlanda, abrimos otra en Holanda. Después hicimos ingeniería inversa para ver cuál era el mejor proceso para hacerlo, y luego volvimos al nivel más alto y dijimos, bueno, ¿pero cuál es el marco ideal para hacerlo a gran escala?"
+  },
+  {
+    "text": "I would probably add an obsession with building wow product. I think in FinTech overall, this is probably the most neglected part usually, but it's also a part that we at Revolut, we pay enormous attention to.",
+    "speaker": "Dmitry Zlokazov",
+    "timestamp": "00:15:05",
+    "context": "Lenny asks what else contributes to Revolut alumni product managers becoming so successful at other companies. Dmitry identifies their focus on creating 'wow' products - meaning lovable, delightful user experiences - as a key differentiator. He notes that most FinTech companies neglect the emotional and aesthetic aspects of product design, focusing only on functionality.",
+    "vocabulary_highlights": [
+      "obsession with",
+      "most neglected part",
+      "pay enormous attention to"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "User Experience",
+      "Product Strategy"
+    ],
+    "text_ko": "저라면 '와우 제품(wow product)'을 만드는 데 대한 집착을 더하겠어요. 핀테크(FinTech) 업계 전반에서 보통 가장 소홀히 여기는 부분인데, 저희 Revolut에서는 이 부분에 엄청나게 신경 써요.",
+    "text_zh": "我觉得还要加上一点，就是要痴迷于打造让人眼前一亮的产品。整个金融科技(FinTech)行业，这块儿通常是最容易被忽视的，但在我们Revolut，这恰恰是我们最重视的地方。",
+    "text_es": "Yo probablemente añadiría una obsesión por crear productos que realmente impresionen. Creo que en FinTech en general, esta es probablemente la parte que más se descuida normalmente, pero también es una parte a la que nosotros en Revolut le prestamos muchísima atención."
+  },
+  {
+    "text": "Unfortunately, professionals with a lot of years of experience from established companies, they don't have this strong urge to change status quo, which by the way will require toil, tears, and sweat.",
+    "speaker": "Dmitry Zlokazov",
+    "timestamp": "00:25:12",
+    "context": "Lenny asks about Revolut's unique hiring approach and what they look for in product managers. Dmitry explains why they prefer hiring less experienced but highly driven people over senior professionals from established companies. He argues that experienced hires often lack the hunger and willingness to do difficult work required to disrupt existing systems and build innovative products.",
+    "vocabulary_highlights": [
+      "strong urge",
+      "change status quo",
+      "toil, tears, and sweat"
+    ],
+    "topics": [
+      "Career Development",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "User Experience",
+      "Product Strategy"
+    ],
+    "text_ko": "안타깝게도 기성 기업에서 오랜 경력을 쌓은 전문가들은 현상 유지(status quo)를 바꾸려는 강한 의지가 별로 없어요. 그런 변화는 땀과 눈물, 많은 고생을 각오해야 하거든요.",
+    "text_zh": "可惜的是，那些在大公司待了很多年的老员工，他们没有那种强烈的冲动去打破现状，而且说实话，要改变现状是需要付出很大代价的，得流汗流泪甚至流血。",
+    "text_es": "Lamentablemente, los profesionales con muchos años de experiencia en empresas consolidadas no tienen esa necesidad imperiosa de cambiar las cosas como están, lo cual, por cierto, va a requerir mucho esfuerzo, sacrificio y dedicación."
+  },
+  {
+    "text": "Most importantly, it's again, getting things done, getting your hands dirty, and great product owners are very hands-on. They don't think of themselves as managers who just give tasks to people and wait them to complete it.",
+    "speaker": "Dmitry Zlokazov",
+    "timestamp": "00:55:20",
+    "context": "Lenny asks what else Revolut looks for when hiring that leads to people being really successful in their careers. Dmitry emphasizes the importance of execution-focused candidates who are willing to personally tackle difficult problems rather than just delegating work. He explains that successful product owners at Revolut take personal ownership of outcomes and are willing to do whatever work is necessary themselves.",
+    "vocabulary_highlights": [
+      "getting your hands dirty",
+      "hands-on"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Career Development"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "User Experience",
+      "Product Strategy"
+    ],
+    "text_ko": "가장 중요한 건, 다시 말하지만 일을 해내는 거예요. 직접 발 벗고 나서서 손도 더럽히면서요. 훌륭한 프로덕트 오너(product owner)들은 아주 실무적으로 현장에 깊이 관여해요. 그냥 사람들에게 일만 시켜놓고 완료되기만 기다리는 관리자라고 생각하지 않아요.",
+    "text_zh": "最关键的是，还是要实打实地把事情做出来，要亲自上手干活，优秀的产品负责人都是很hands-on的。他们不会把自己当成那种只会分派任务然后坐等结果的管理者。",
+    "text_es": "Lo más importante es, otra vez, hacer que las cosas sucedan, meterse de lleno en el trabajo, y los grandes product owners son muy hands-on. No se ven a sí mismos como gerentes que solo reparten tareas y se quedan esperando a que otros las terminen."
+  }
+]

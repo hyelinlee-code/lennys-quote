@@ -1,0 +1,139 @@
+[
+  {
+    "text": "Like with any of these major tech revolutions, headlines tell one story and then on the ground, laying broadband means you need to dig up every single road in America to lay it. Someone's got to dig up the road or someone's got to run the undersea cable.",
+    "speaker": "Jason Droege",
+    "timestamp": "00:00:06",
+    "context": "Lenny asks Jason about the gap between AI hype and reality, noting that people think AI gets trained on all human knowledge when actually experts are sitting around teaching AI specific things it doesn't know. Jason explains that while AI models seem magical, there's always operational work behind major technological advances - just like how laying broadband infrastructure required physical cable installation across the country.",
+    "vocabulary_highlights": [
+      "on the ground",
+      "laying broadband",
+      "dig up every single road",
+      "run the undersea cable"
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Leadership",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Company Building"
+    ],
+    "text_ko": "이런 주요 기술 혁명들처럼 헤드라인은 한쪽 이야기만 전해주는데, 실제로는 광대역(broadband)을 깔려면 미국의 거의 모든 도로를 일일이 파헤쳐야 해요. 누군가는 도로를 파야 하고, 또 누군가는 해저 케이블(undersea cable)을 깔아야 하죠.",
+    "text_zh": "就像之前那些重大的科技革命一样，媒体报道说得天花乱坠，但真正干起来的时候，要铺宽带就得把美国的每条路都挖一遍。总得有人去挖路，有人去铺海底光缆，这些脏活累活还是得有人干。",
+    "text_es": "Como pasa con cualquier revolución tecnológica importante, los titulares cuentan una historia, pero la realidad sobre el terreno es otra: tender banda ancha significa que tienes que levantar cada carretera de Estados Unidos para instalarla. Alguien tiene que hacer el trabajo sucio de excavar las calles o tender los cables submarinos."
+  },
+  {
+    "text": "The general trend right now is going from models knowing things to models doing things. The next question becomes, what can it do for me? How does the agent make decisions for you?",
+    "speaker": "Jason Droege",
+    "timestamp": "00:00:26",
+    "context": "Lenny asks Jason what people don't understand about where AI models are heading in the next 2-3 years, given Jason's unique perspective working with labs on unreleased capabilities. Jason explains the current shift in AI development - models have become quite robust at knowledge tasks, but the next frontier is getting them to take actions and navigate real systems like Salesforce or healthcare platforms.",
+    "vocabulary_highlights": [],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Leadership",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Company Building"
+    ],
+    "text_ko": "지금 전반적인 추세는 모델(models)이 단순히 아는 것에서 실제로 하는 것으로 넘어가고 있어요. 다음으로 제기되는 질문은 그게 저한테 무엇을 해줄 수 있느냐는 점이고, 에이전트(agent)가 저를 위해 어떻게 의사결정을 내려주느냐가 관건이에요.",
+    "text_zh": "现在的大趋势就是从模型\"知道什么\"转向模型\"能做什么\"。接下来的问题就是，它到底能为我做些什么？这个智能体(agent)怎么帮我做决策？",
+    "text_es": "La tendencia general en este momento es pasar de modelos que saben cosas a modelos que hacen cosas. La siguiente pregunta que surge es: ¿qué puede hacer por mí? ¿Cómo toma decisiones el agente por ti?"
+  },
+  {
+    "text": "18 months ago, you would get a short story and it would say, 'Is this short story better than this short story?' And now you're at a point where one task is building an entire website by one of the world's best web developers, or it is explaining some very nuanced topic on cancer to a model. These tasks now take hours of time and they require PhDs and professionals.",
+    "speaker": "Jason Droege",
+    "timestamp": "00:00:39",
+    "context": "Lenny discusses how the data labeling industry has shifted from low-cost generalist workers to requiring experts like doctors and engineers. Jason explains how dramatically the complexity of training tasks has evolved at Scale - what used to be simple preference rankings between short stories has become sophisticated work requiring deep expertise, with tasks now taking hours instead of minutes and requiring advanced degrees.",
+    "vocabulary_highlights": [
+      "very nuanced topic"
+    ],
+    "topics": [
+      "Product Management",
+      "Learning & Growth"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Leadership",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Company Building"
+    ],
+    "text_ko": "18개월 전만 해도 단편소설 하나를 넣으면 결과가 '이 단편이 저 단편보다 낫나요?' 정도였어요. 그런데 지금은 상황이 완전히 달라졌어요. 어떤 작업은 세계 최고 수준의 웹 개발자(web developer) 중 한 사람이 통째로 웹사이트를 만드는 수준이고, 또 어떤 작업은 모델(model)에게 암(cancer)의 아주 미묘한 주제를 설명해야 하는 일이에요. 이런 작업들은 이제 몇 시간씩 걸리고 박사(PhDs)나 전문가들이 필요해요.",
+    "text_zh": "18个月前，你拿到一个小故事，系统会问你\"这个故事好还是那个故事好？\"现在呢？任务变成了让世界顶级的网站开发者去搭建整个网站，或者让模型去解释癌症方面特别复杂的专业问题。这些任务现在得花好几个小时，而且必须要博士或者专业人士才能搞定。",
+    "text_es": "Hace año y medio, te daban un cuento corto y te preguntaban '¿Este cuento es mejor que este otro?' Y ahora estamos en un punto donde una tarea es construir un sitio web completo como lo haría uno de los mejores desarrolladores web del mundo, o explicarle a un modelo algún tema súper complejo sobre cáncer. Estas tareas ahora toman horas y requieren gente con doctorados y profesionales especializados."
+  },
+  {
+    "text": "From an entrepreneurship standpoint, it truly is about what insight do I have? Why am I so lucky to have this insight? Why in a world of a million entrepreneurs who are thinking, who are smart, who are trying everything, why am I in the position where I likely have an insight that others do not?",
+    "speaker": "Jason Droege",
+    "timestamp": "00:01:07",
+    "context": "Lenny asks Jason about setting a high bar for new businesses and independent thinking. Jason explains his philosophy on entrepreneurship - with so many smart people trying to start companies, founders need to honestly assess what unique insight they possess that others don't have, rather than just pursuing any business opportunity they discover through customer research.",
+    "vocabulary_highlights": [
+      "why am I so lucky",
+      "in a world of a million entrepreneurs"
+    ],
+    "topics": [
+      "Starting a Company",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Leadership",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Company Building"
+    ],
+    "text_ko": "창업자 관점(entrepreneurship standpoint)에서 보면, 결국 제가 어떤 통찰(insight)을 갖고 있느냐가 중요해요. 그런데 왜 제가 그런 통찰을 가질 만큼 운이 좋은 걸까요? 생각하고 똑똑하고 무엇이든 시도하는 수백만 명의 창업자들이 있는 세상에서, 왜 하필 제가 다른 사람들에겐 없는 통찰을 가질 가능성이 높은 위치에 있는 걸까요?",
+    "text_zh": "从创业的角度来说，关键就是我到底有什么独到的见解？我凭什么这么幸运能有这种洞察力？在这个世界上有成千上万的创业者，他们都在思考，都很聪明，什么都在尝试，那我凭什么能处在这样一个位置，很可能拥有别人没有的洞察？",
+    "text_es": "Desde el punto de vista del emprendimiento, realmente se trata de qué perspectiva única tengo yo. ¿Por qué tengo la suerte de tener esta visión? ¿Por qué en un mundo lleno de millones de emprendedores que están pensando, que son inteligentes, que lo están intentando todo, por qué estoy yo en la posición donde probablemente tengo una perspectiva que otros no tienen?"
+  },
+  {
+    "text": "These things take 6 to 12 months to get them truly robust enough where an important process can be automated. If you actually do that, the impact is like, whoa, I never would've figured that out myself, and I'm one of the most educated doctors in the world as an example. But the time to get there is just longer than what people are selling.",
+    "speaker": "Jason Droege",
+    "timestamp": "00:00:06",
+    "context": "Lenny asks about AI not delivering on enterprise promises, citing studies showing failed pilots and lack of adoption. Jason explains that while there's hype around AI, successful implementations require months of work including legal approval, policy changes, and achieving high accuracy standards. He contrasts the reality of building robust AI systems with the quick demos people see in promotional videos.",
+    "vocabulary_highlights": [
+      "truly robust enough",
+      "whoa, I never would've figured that out myself"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Leadership",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Company Building"
+    ],
+    "text_ko": "이런 건 중요한 프로세스를 자동화(automated)할 수 있을 만큼 진짜 안정적(robust)이 되려면 6개월에서 12개월은 걸려요. 실제로 그렇게 하면 효과가 ‘와, 나 혼자서는 절대 못 알아냈을 거예요’ 싶을 정도예요 — 예를 들어 저처럼 세계에서 손꼽히게 교육받은 의사 중 한 명조차요. 그런데 그 수준에 도달하는 데 걸리는 시간은 사람들이 홍보하는 것보다 훨씬 더 길어요.",
+    "text_zh": "这些东西要真正做到足够稳定，能够自动化重要流程，得花6到12个月的时间。如果你真的做到了，那效果简直让人刮目相看，就像\"哇，这个我自己根本想不出来\"，比如我作为世界上受教育程度最高的医生之一都会这么想。但是达到这种程度所需要的时间，比那些销售人员吹的要长得多。",
+    "text_es": "Estas cosas tardan de 6 a 12 meses en volverse realmente sólidas como para poder automatizar un proceso importante. Si logras hacerlo bien, el impacto es impresionante - jamás me hubiera imaginado eso por mi cuenta, y mira que soy uno de los médicos más preparados del mundo, por ejemplo. Pero el tiempo que lleva llegar ahí es mucho más largo de lo que te están vendiendo."
+  },
+  {
+    "text": "The end is never the end. You got to survive before you thrive, which is your brain tells you, and along these entrepreneurial journeys, I think this is most applicable. If you go on this journey for five years, you are mentally harder than 99.9% of the population.",
+    "speaker": "Jason Droege",
+    "timestamp": "01:19:57",
+    "context": "Lenny asks Jason about his favorite life motto. Jason shares 'the end is never the end' and explains how entrepreneurial journeys involve constant mental challenges and self-doubt that feel insurmountable, but remininding yourself that you'll wake up tomorrow and find solutions helps you push through what seems like impossible situations.",
+    "vocabulary_highlights": [
+      "survive before you thrive",
+      "mentally harder than 99.9% of the population",
+      "Chinese water torture"
+    ],
+    "topics": [
+      "Starting a Company",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Leadership",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Company Building"
+    ],
+    "text_ko": "끝은 결코 끝이 아니에요. 번창하기 전에 살아남아야 해요 — 우리 뇌가 그렇게 말하거든요. 특히 이런 창업 여정(entrepreneurial journeys)에서는 더 그렇다고 생각해요. 이 길을 5년 동안 걸으면 정신적으로 인구의 99.9%보다 훨씬 강해져요.",
+    "text_zh": "结束从来都不是真正的结束。你得先活下来，才能发展壮大，这是你的大脑告诉你的道理。在创业这条路上，我觉得这个道理最管用了。如果你在创业路上坚持了五年，你的心理承受能力就比99.9%的人都要强。",
+    "text_es": "El final nunca es el final. Tienes que sobrevivir antes de prosperar, eso es lo que te dice tu cerebro, y en estos caminos empresariales, creo que esto es lo más aplicable. Si te mantienes en este viaje por cinco años, mentalmente eres más fuerte que el 99.9% de la población."
+  }
+]

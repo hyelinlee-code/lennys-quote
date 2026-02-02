@@ -1,0 +1,174 @@
+[
+  {
+    "text": "People talk about this as if there were a trade-off because when they think about speed, the thing they over-index on is rushing or being sloppy. What they should be indexing on is being really competent. If you look at people who are at the pinnacle of their craft, you can basically tell how good the output is going to be of their work product by how fast they're going.",
+    "speaker": "Nan Yu",
+    "timestamp": "00:00:06",
+    "context": "Lenny asks Nan about his perspective that there's not actually a trade-off between speed and quality in product development, which many people assume to be true. Nan explains that when people think about speed, they mistakenly focus on rushing or being sloppy rather than building expertise and competence. He argues that truly skilled practitioners - whether chefs, programmers, or builders - can deliver high-quality work quickly because their expertise allows them to move rapidly without sacrificing quality.",
+    "vocabulary_highlights": [
+      "over-index on",
+      "at the pinnacle of their craft",
+      "work product"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "B2B SaaS",
+      "Product Design",
+      "Product Management"
+    ],
+    "text_ko": "사람들은 이걸 마치 트레이드오프(trade-off)인 것처럼 얘기해요. 속도를 생각할 때 사람들이 지나치게 신경 쓰는 건 서두르거나 대충하는 쪽이에요. 대신 진짜로 중점 둬야 할 건 얼마나 유능한가예요. 분야 최고 수준의 사람들을 보면, 그들이 얼마나 빠르게 일하는지만 보고도 산출물(work product)의 퀄리티가 거의 바로 보인다고 할 수 있어요.",
+    "text_zh": "大家总觉得这是个取舍问题，因为一提到速度，他们就想到匆忙或者马虎。其实应该关注的是能力水平够不够强。你看那些行业顶尖的人，基本上从他们的工作速度就能看出来最终成果会有多好。",
+    "text_es": "La gente habla de esto como si fuera una disyuntiva porque cuando piensan en velocidad, lo que más valoran es apurarse o hacer las cosas a las carreras. En lo que deberían enfocarse es en ser realmente competentes. Si te fijas en la gente que está en la cima de su área, básicamente puedes saber qué tan bueno va a ser el resultado de su trabajo por la velocidad con la que trabajan."
+  },
+  {
+    "text": "What it really looks like is you have some rough time budget for how long you think something's going to take. By the time 10% of it has passed, after week one, you have something that works that tests some kind of key hypothesis internally.",
+    "speaker": "Nan Yu",
+    "timestamp": "00:00:26",
+    "context": "Lenny asks Nan to explain what speed actually looks like in practice when building high-quality products quickly. Nan describes Linear's approach to rapid iteration: instead of waiting until a project is halfway done to have something testable, they aim to have a working solution within the first 10% of their allocated time budget. This allows them to validate key assumptions early and avoid pushing deadlines when they discover incorrect assumptions late in the process.",
+    "vocabulary_highlights": [
+      "time budget",
+      "key hypothesis"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "B2B SaaS",
+      "Product Design",
+      "Product Management"
+    ],
+    "text_ko": "실제로는 어떤 일이 얼마나 걸릴지에 대해 대략적인 시간 예산(time budget)을 잡아 놓는 식이에요. 전체 기간의 10%가 지났을 때, 보통 일주일쯤 지나면 내부에서 핵심 가설(key hypothesis)을 검증할 수 있는 작동하는 결과물이 나와 있어요.",
+    "text_zh": "实际情况是这样的，你心里大概有个时间预算，估计这事儿要花多长时间。等到过了10%的时间，也就是第一周之后，你就得拿出个能用的东西来，能在内部验证一些关键假设。",
+    "text_es": "Lo que realmente pasa es que tienes un cálculo más o menos de cuánto tiempo crees que te va a llevar algo. Para cuando haya pasado el 10% de ese tiempo, después de la primera semana, ya tienes algo que funciona y que te permite probar internamente alguna hipótesis clave."
+  },
+  {
+    "text": "When we examine this problem, we look at, 'Well, what feature requests can we debate and what kind of feature requests do we absolutely have to say no to?' The stuff that we absolutely have to say no to is the exact kind of thing that leads to this bloatedness that makes ICs hate their lives.",
+    "speaker": "Nan Yu",
+    "timestamp": "00:00:42",
+    "context": "Lenny asks about criticism that Linear will eventually become bloated enterprise software like other tools. Nan explains Linear's systematic approach to avoiding feature bloat by categorizing feature requests into those they can debate versus those they must automatically reject. The requests they always reject are customization features requested by middle managers for reporting purposes, which make individual contributor (IC) workflows worse while providing minimal value to the actual users doing the work.",
+    "vocabulary_highlights": [
+      "bloatedness",
+      "ICs hate their lives"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "B2B SaaS",
+      "Product Design",
+      "Product Management"
+    ],
+    "text_ko": "이 문제를 살펴볼 때 우리는 '어떤 기능 요청(feature requests)은 논의할 수 있고, 어떤 기능 요청은 꼭 거절해야 할까?'를 따져봐요. 꼭 거절해야 하는 요청들이 바로 IC들(Individual Contributors)이 일하면서 진짜로 고통받게 만드는, 불필요하게 비대해지는(bloatedness) 주범이에요.",
+    "text_zh": "我们分析这个问题的时候，会考虑\"哪些功能需求我们可以讨论讨论，哪些功能需求我们必须直接拒绝？\"那些我们必须直接说不的需求，恰恰就是那种会让产品变得臃肿，让一线员工(IC)痛不欲生的东西。",
+    "text_es": "Cuando analizamos este problema, nos preguntamos: \"Bueno, ¿qué solicitudes de funcionalidades podemos debatir y a cuáles definitivamente tenemos que decir que no?\" Precisamente las cosas a las que tenemos que decir no rotundamente son las que llevan a esa sobrecarga (bloatedness) que hace que los colaboradores individuales (ICs) terminen odiando su trabajo."
+  },
+  {
+    "text": "My goal is to feel bad in the same way that customers feel bad.",
+    "speaker": "Nan Yu",
+    "timestamp": "00:01:02",
+    "context": "Lenny mentions that Linear's head of sales is impressed with how Nan asks questions on customer calls and keeps digging until he gets meaningful insights. Nan explains his approach to customer discovery calls, which goes beyond typical analytical frameworks like asking 'five whys.' His goal is to understand and literally experience the same emotional pain points that customers feel, rather than just understanding their functional requirements or goals.",
+    "vocabulary_highlights": [
+      "feel bad"
+    ],
+    "topics": [
+      "Product Management",
+      "Communication Skills"
+    ],
+    "difficulty_level": "Beginner",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "B2B SaaS",
+      "Product Design",
+      "Product Management"
+    ],
+    "text_ko": "제 목표는 고객들이 느끼는 불편함을 똑같이 느껴보는 거예요.",
+    "text_zh": "我的目标就是要和客户感受到一样的痛点。",
+    "text_es": "Mi objetivo es sentir la misma frustración que sienten nuestros clientes."
+  },
+  {
+    "text": "What is the actual emotional valence that is motivating whatever you're telling me? And it takes a little while to get there. You can ask people directly like, 'How do you feel?' And they're not necessarily going to tell you, but if you have a long enough and deep enough conversation with them, you start to level with them.",
+    "speaker": "Nan Yu",
+    "timestamp": "00:30:59",
+    "context": "Nan continues explaining his customer discovery approach, describing how he digs deeper than surface-level goals to understand the emotional motivations behind customer requests. He explains that customers won't directly tell you how they feel when asked, but through extended conversations where you demonstrate empathy and understanding, they begin to open up about the real emotional pain points driving their need for solutions.",
+    "vocabulary_highlights": [
+      "emotional valence",
+      "level with them"
+    ],
+    "topics": [
+      "Product Management",
+      "Communication Skills",
+      "Coaching & Development"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "B2B SaaS",
+      "Product Design",
+      "Product Management"
+    ],
+    "text_ko": "당신이 저한테 하는 말들을 움직이게 하는 실제 감정적 기조(emotional valence)가 뭔가요? 그걸 알아내려면 시간이 좀 걸려요. 사람들에게 '기분이 어떠세요?'처럼 직접 물어볼 수는 있는데, 다들 바로 말해주진 않아요. 하지만 충분히 길고 깊게 대화를 나누면 상대와 점점 마음을 터놓고 솔직해지기 시작해요.",
+    "text_zh": "你跟我说这些话背后真正的情绪动机是什么？这个得慢慢挖掘。你直接问别人\"你感觉怎么样？\"人家不一定会跟你说实话，但如果你跟他们聊得够久够深入，慢慢地他们就会跟你掏心窝子了。",
+    "text_es": "¿Cuál es realmente la carga emocional que está detrás de lo que me estás contando? Y lleva su tiempo llegar ahí. Puedes preguntarle directamente a la gente \"¿Cómo te sientes?\" pero no necesariamente te van a decir la verdad. Pero si tienes una conversación lo suficientemente larga y profunda con ellos, empiezas a conectar de verdad y ahí es cuando se abren contigo."
+  },
+  {
+    "text": "So, we have some rough time budget for how long you think something's going to take, and by the time 10% of it has passed, you have a workable solution. It's not like, 'Oh, at the halfway point, we have something that is maybe a candidate that we can play around with.' It's like, no, no, no. After week one you have something that works that tests some kind of key hypothesis internally so that you can feel like is this thing actually panning out the way we expect it to or did we have some crazy incorrect assumption?",
+    "speaker": "Nan Yu",
+    "timestamp": "00:09:36",
+    "context": "Lenny asks for more specifics about what speed looks like in product development. Nan elaborates on Linear's rapid iteration approach, emphasizing that they don't wait until the project is 50% complete to have something testable. Instead, within just the first week (roughly 10% of a month-long project), they have working software that can validate or invalidate their core assumptions, preventing late-stage discoveries that would force deadline pushouts and disappoint other teams.",
+    "vocabulary_highlights": [
+      "workable solution",
+      "panning out",
+      "crazy incorrect assumption"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "B2B SaaS",
+      "Product Design",
+      "Product Management"
+    ],
+    "text_ko": "그러니까 우리가 어떤 일에 대해 대략적인 시간 배정(time budget)을 잡아두면, 그중 10%가 지났을 때는 이미 작동하는 해결책(workable solution)이 나와 있어야 해요. 중간 지점에 가서 겨우 '아마 시험해볼 만한 후보가 있겠지' 하는 식은 아니에요. 첫 주가 끝날 무렵에는 내부적으로 어떤 핵심 가설(key hypothesis)을 검증해볼 수 있는, 실제로 돌아가는 무언가가 있어서 이게 우리가 기대한 대로 되는지 아니면 완전히 잘못된 가정을 했는지 확인할 수 있어야 해요.",
+    "text_zh": "所以我们会大概估算一下这件事要花多长时间，然后当10%的时间过去后，你就得有个能用的方案了。不是说\"哦，到一半的时候，我们可能会有个候选方案可以试试看\"。不不不，不是这样的。第一周结束你就得有个能跑起来的东西，能测试一些核心假设，这样你就能感觉到——这事儿到底是不是按我们预期的方向发展，还是说我们一开始就有什么离谱的错误假设？",
+    "text_es": "Entonces, tenemos como un presupuesto de tiempo aproximado de cuánto creemos que va a tomar algo, y cuando ya pasó el 10% de ese tiempo, ya tienes una solución que funciona. No es como \"Ay, ya a la mitad del proyecto tenemos algo que tal vez sea candidato para probar.\" No, no, no. Después de la primera semana ya tienes algo que jala y que pone a prueba alguna hipótesis clave internamente, para que puedas sentir si esto realmente está saliendo como esperábamos o si teníamos alguna suposición completamente equivocada."
+  },
+  {
+    "text": "I think when people talk about being opinionated, it can feel like they're almost saying like, 'Hey, this is arbitrary,' like your opinion and my opinion, they're just too opinions, man. Neither is right or wrong. What we try to do is find where there's actual consensus amongst a lot of different high performing teams, and then we can take those practices and say like, 'Okay, for a team that isn't already practicing this, can we give them a button so that they can start practicing this?'",
+    "speaker": "Nan Yu",
+    "timestamp": "00:44:41",
+    "context": "Lenny asks about Linear's opinionated approach to product design and whether they have a specific methodology. Nan clarifies that when Linear is 'opinionated,' they're not making arbitrary choices based on personal preferences. Instead, they identify best practices that have consensus among high-performing teams and then build features that make it easy for other teams to adopt these proven workflows, essentially giving teams a button to activate successful practices.",
+    "vocabulary_highlights": [
+      "opinionated",
+      "consensus amongst",
+      "high performing teams"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "B2B SaaS",
+      "Product Design",
+      "Product Management"
+    ],
+    "text_ko": "사람들이 '주관이 뚜렷하다(opinionated)'고 말할 때, 그게 거의 '이건 그냥 임의적이야'라는 식으로 들릴 때가 있어요 — 네 의견이든 내 의견이든 그냥 의견일 뿐이라서 어느 쪽이 옳고 그르다 하긴 어렵다는 뉘앙스요. 우리가 하려는 건 여러 고성과 팀들 사이에서 실제로 합의(consensus)가 있는 지점을 찾아내는 거예요. 그리고 그런 관행을 모아서, 아직 그렇게 하지 않는 팀에게는 '버튼 하나만 누르면 이걸 시작할 수 있게 해줄 수 있을까?' 하고 쉽게 적용해 줄 수 있게 만드는 거죠.",
+    "text_zh": "我觉得大家聊到\"有主见\"这个事儿的时候，感觉就像在说\"嘿，这都是随便想的\"，你的想法我的想法，就是两个观点嘛，哥们儿，没啥对错之分。我们想做的是找到那些高绩效团队之间真正的共识点，然后把这些做法拿过来说\"好，对于还没开始这么干的团队，咱们能不能给他们提供个简单的方法，让他们也能上手试试？\"",
+    "text_es": "Creo que cuando la gente habla de tener opiniones fuertes, puede sonar como si dijeran \"oye, esto es totalmente subjetivo\", como que tu opinión y la mía son solo eso, dos opiniones, ¿no? Que ninguna está bien o mal. Lo que nosotros tratamos de hacer es encontrar dónde hay consenso real entre muchos equipos de alto rendimiento diferentes, y entonces podemos tomar esas prácticas y decir \"bueno, para un equipo que todavía no está haciendo esto, ¿podemos darles una herramienta para que puedan empezar a implementarlo?\""
+  }
+]

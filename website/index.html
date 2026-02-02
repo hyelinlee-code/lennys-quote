@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lenny's Podcast - Quote Browser</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+</head>
+<body>
+  <!-- Top Bar -->
+  <header class="top-bar">
+    <div class="top-bar-inner">
+      <h1 class="logo">Lenny's Podcast <span class="logo-sub">Quote Browser</span></h1>
+      <div class="lang-selector">
+        <button class="lang-btn active" data-lang="text_ko">한국어</button>
+        <button class="lang-btn" data-lang="text_zh">中文</button>
+        <button class="lang-btn" data-lang="text_es">Español</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Mobile filter toggle -->
+  <button class="mobile-filter-toggle" id="mobile-filter-toggle">
+    <span>Filters</span>
+    <span class="filter-status" id="filter-status-mobile"></span>
+    <span class="toggle-arrow" id="toggle-arrow">▾</span>
+  </button>
+
+  <!-- App Layout -->
+  <div class="app-layout">
+
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+
+      <!-- Search -->
+      <div class="filter-group">
+        <div class="search-wrap">
+          <input type="text" id="search-input" class="search-input" placeholder="Search quotes..." aria-label="Search quotes">
+          <button class="search-clear" id="search-clear" aria-label="Clear search">&times;</button>
+        </div>
+      </div>
+
+      <!-- Role -->
+      <div class="filter-group">
+        <label class="filter-group-title" for="filter-function">Role</label>
+        <select id="filter-function">
+          <option value="All">All roles</option>
+          <option value="Product">Product</option>
+          <option value="Leadership">Leadership</option>
+          <option value="Marketing">Marketing</option>
+          <option value="Growth">Growth</option>
+          <option value="Design">Design</option>
+          <option value="Sales">Sales</option>
+          <option value="Engineering">Engineering</option>
+          <option value="Operations">Operations</option>
+          <option value="Finance">Finance</option>
+          <option value="Data">Data</option>
+        </select>
+      </div>
+
+      <!-- Expertise -->
+      <div class="filter-group">
+        <button class="filter-group-toggle" id="expertise-toggle" aria-expanded="false">
+          <span class="filter-group-title">Expertise</span>
+          <span class="checked-count" id="expertise-count"></span>
+          <span class="toggle-icon">▾</span>
+        </button>
+        <div class="checkbox-list collapsed" id="expertise-list">
+          <label class="cb-label"><input type="checkbox" value="Product Management"> Product Management</label>
+          <label class="cb-label"><input type="checkbox" value="Product Strategy"> Product Strategy</label>
+          <label class="cb-label"><input type="checkbox" value="Product Design"> Product Design</label>
+          <label class="cb-label"><input type="checkbox" value="Growth Strategy"> Growth Strategy</label>
+          <label class="cb-label"><input type="checkbox" value="Marketing Strategy"> Marketing Strategy</label>
+          <label class="cb-label"><input type="checkbox" value="Go-to-Market"> Go-to-Market</label>
+          <label class="cb-label"><input type="checkbox" value="Sales Strategy"> Sales Strategy</label>
+          <label class="cb-label"><input type="checkbox" value="Engineering Leadership"> Engineering Leadership</label>
+          <label class="cb-label"><input type="checkbox" value="User Experience"> User Experience</label>
+          <label class="cb-label"><input type="checkbox" value="Data Analytics"> Data Analytics</label>
+          <label class="cb-label"><input type="checkbox" value="AI/ML Products"> AI/ML Products</label>
+          <label class="cb-label"><input type="checkbox" value="B2B SaaS"> B2B SaaS</label>
+          <label class="cb-label"><input type="checkbox" value="Consumer Products"> Consumer Products</label>
+          <label class="cb-label"><input type="checkbox" value="Marketplace"> Marketplace</label>
+          <label class="cb-label"><input type="checkbox" value="Executive Coaching"> Executive Coaching</label>
+          <label class="cb-label"><input type="checkbox" value="Leadership Development"> Leadership Development</label>
+          <label class="cb-label"><input type="checkbox" value="Team Building"> Team Building</label>
+          <label class="cb-label"><input type="checkbox" value="Company Building"> Company Building</label>
+          <label class="cb-label"><input type="checkbox" value="Fundraising"> Fundraising</label>
+          <label class="cb-label"><input type="checkbox" value="Venture Capital"> Venture Capital</label>
+          <label class="cb-label"><input type="checkbox" value="Community Building"> Community Building</label>
+          <label class="cb-label"><input type="checkbox" value="Monetization"> Monetization</label>
+          <label class="cb-label"><input type="checkbox" value="Operations"> Operations</label>
+          <label class="cb-label"><input type="checkbox" value="Career Development"> Career Development</label>
+        </div>
+      </div>
+
+      <!-- Difficulty -->
+      <div class="filter-group">
+        <span class="filter-group-title">Difficulty</span>
+        <div class="checkbox-list">
+          <label class="cb-label"><input type="checkbox" name="difficulty" value="Beginner"> Beginner</label>
+          <label class="cb-label"><input type="checkbox" name="difficulty" value="Intermediate"> Intermediate</label>
+          <label class="cb-label"><input type="checkbox" name="difficulty" value="Advanced"> Advanced</label>
+        </div>
+      </div>
+
+      <!-- Topics -->
+      <div class="filter-group">
+        <button class="filter-group-toggle" id="topics-toggle" aria-expanded="false">
+          <span class="filter-group-title">Topics</span>
+          <span class="checked-count" id="topics-count"></span>
+          <span class="toggle-icon">▾</span>
+        </button>
+        <div class="checkbox-list collapsed" id="topics-list">
+          <label class="cb-label"><input type="checkbox" name="topic" value="Career Development"> Career Development</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Coaching & Development"> Coaching &amp; Development</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Communication Skills"> Communication Skills</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Community Building"> Community Building</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Competition"> Competition</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Content Creation"> Content Creation</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Content Marketing"> Content Marketing</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Customer Development"> Customer Development</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Customer Experience"> Customer Experience</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Customer Success"> Customer Success</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Decision Making"> Decision Making</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Financial Literacy"> Financial Literacy</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Fundraising"> Fundraising</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Growth & Marketing"> Growth &amp; Marketing</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Leadership & Management"> Leadership &amp; Management</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Learning & Growth"> Learning &amp; Growth</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Marketing"> Marketing</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Networking"> Networking</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Personal Development"> Personal Development</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Product Management"> Product Management</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Productivity"> Productivity</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Sales & Marketing"> Sales &amp; Marketing</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Starting a Company"> Starting a Company</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Strategy & Planning"> Strategy &amp; Planning</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Team Culture"> Team Culture</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Team Development"> Team Development</label>
+          <label class="cb-label"><input type="checkbox" name="topic" value="Work-Life Balance"> Work-Life Balance</label>
+        </div>
+      </div>
+
+      <!-- Filter footer -->
+      <div class="filter-footer">
+        <span class="filter-status" id="filter-status"></span>
+        <button class="clear-all-btn" id="clear-all-btn">Clear all filters</button>
+      </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <div class="results-bar" id="results-bar">
+        <span class="quote-count" id="quote-count"></span>
+      </div>
+
+      <div class="grid-container" id="quotes-grid"></div>
+
+      <div class="loading" id="loading">Loading quotes...</div>
+      <div class="empty-state" id="empty-state" style="display:none;">No quotes match your filters.</div>
+    </main>
+  </div>
+
+  <!-- Modal -->
+  <div class="modal-overlay" id="modal-overlay">
+    <div class="modal" id="modal">
+      <button class="modal-close" id="modal-close">&times;</button>
+
+      <!-- Flip Card for Quote -->
+      <div class="flip-card" id="flip-card">
+        <div class="flip-card-inner" id="flip-card-inner">
+          <div class="flip-card-front">
+            <h3 class="modal-label">Original (English)</h3>
+            <p class="modal-text-en" id="modal-text-en"></p>
+            <span class="flip-hint">Click to see translation →</span>
+          </div>
+          <div class="flip-card-back">
+            <h3 class="modal-label" id="modal-trans-label">Translation</h3>
+            <p class="modal-text-trans" id="modal-text-trans"></p>
+            <span class="flip-hint">Click to see original →</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="modal-context" id="modal-context-wrapper">
+        <button class="context-toggle" id="context-toggle">Show context ▾</button>
+        <p class="context-text" id="modal-context"></p>
+      </div>
+
+      <div class="modal-meta">
+        <div class="modal-speaker-row">
+          <span class="modal-speaker" id="modal-speaker"></span>
+          <span class="badge badge-function" id="modal-function"></span>
+        </div>
+        <div class="modal-tags-row" id="modal-expertise-row">
+          <span class="modal-label-sm">Expertise:</span>
+          <div class="tags" id="modal-expertise"></div>
+        </div>
+        <div class="modal-tags-row" id="modal-topics-row">
+          <span class="modal-label-sm">Topics:</span>
+          <div class="tags" id="modal-topics"></div>
+        </div>
+        <div class="modal-tags-row" id="modal-vocab-row">
+          <span class="modal-label-sm">Vocabulary:</span>
+          <div class="tags" id="modal-vocab"></div>
+        </div>
+        <div class="modal-detail-row">
+          <span class="badge badge-difficulty" id="modal-difficulty"></span>
+          <span class="modal-timestamp" id="modal-timestamp"></span>
+        </div>
+      </div>
+
+      <a class="listen-btn" href="https://www.lennyspodcast.com/" target="_blank" rel="noopener noreferrer">
+        🎧 Listen on Lenny's Podcast
+      </a>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

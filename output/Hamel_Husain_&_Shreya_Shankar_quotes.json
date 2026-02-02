@@ -1,0 +1,146 @@
+[
+  {
+    "text": "Sure. Evals is a way to systematically measure and improve an AI application, and it really doesn't have to be scary or unapproachable at all. It really is, at its core, data analytics on your LLM application and a systematic way of looking at that data, and where necessary, creating metrics around things so you can measure what's happening, and then so you can iterate and do experiments and improve.",
+    "speaker": "Hamel Husain",
+    "timestamp": "00:05:07",
+    "context": "Lenny asks Hamel to explain what evals are for people who have never heard the term. Hamel provides a foundational definition, emphasizing that evals are not mysterious or complex but simply a systematic approach to measuring and improving AI applications through data analysis.",
+    "vocabulary_highlights": [
+      "systematically measure",
+      "unapproachable",
+      "at its core"
+    ],
+    "topics": [
+      "Product Management",
+      "Learning & Growth"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Data Analytics",
+      "Product Management"
+    ],
+    "text_ko": "물론이죠. Evals는 AI 애플리케이션을 체계적으로 측정하고 개선하는 방법이에요. 전혀 무섭거나 접근하기 어려운 게 아니에요. 본질적으로는 대형 언어 모델(LLM) 애플리케이션에 대한 데이터 분석(data analytics)이고, 그 데이터를 체계적으로 바라보는 방식이에요. 필요할 때는 무슨 일이 일어나고 있는지 측정할 수 있도록 지표(metrics)를 만들고, 그걸 바탕으로 반복해서 실험하고 개선해 나가면 되는 거예요.",
+    "text_zh": "当然。评估(Evals)其实就是系统性地衡量和改进AI应用的一种方法，真的没什么可怕的，也不是什么高深莫测的东西。说白了，核心就是对你的大语言模型(LLM)应用做数据分析，系统性地看这些数据，必要的时候给一些指标量化一下，这样你就能知道到底发生了什么，然后就可以不断迭代、做实验、持续改进。",
+    "text_es": "Claro. Los evals son una forma sistemática de medir y mejorar una aplicación de IA, y la verdad es que no tiene por qué dar miedo ni ser algo inalcanzable. En el fondo, es análisis de datos de tu aplicación LLM y una manera sistemática de revisar esa información, y cuando sea necesario, crear métricas para poder medir lo que está pasando, y así poder iterar, hacer experimentos y mejorar."
+  },
+  {
+    "text": "When you're doing this open coding, a lot of teams get bogged down in having a committee do this. For a lot of situations, that's wholly unnecessary. You don't want to make this process so expensive that you can't do it. You can appoint one person whose taste that you trust. It should be the person with domain expertise. Oftentimes, it is the product manager.",
+    "speaker": "Hamel Husain",
+    "timestamp": "00:00:45",
+    "context": "Lenny asks about the concept of a 'benevolent dictator' in the evals process. Hamel explains that when doing open coding (manually reviewing and categorizing AI application errors), teams often get stuck trying to involve everyone in the decision-making process, which slows things down unnecessarily.",
+    "vocabulary_highlights": [
+      "get bogged down",
+      "wholly unnecessary",
+      "whose taste that you trust"
+    ],
+    "topics": [
+      "Product Management",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Data Analytics",
+      "Product Management"
+    ],
+    "text_ko": "오픈 코딩(open coding)을 할 때 많은 팀이 이걸 위원회에 맡기느라 일이 지체돼요. 많은 경우 그건 전혀 필요하지 않아요. 이 과정을 너무 비용이 많이 들게 만들어 실행 자체가 불가능해지면 안 돼요. 판단력이 믿을 만한 한 사람을 지정하면 돼요. 그 사람은 도메인 전문성(domain expertise)이 있는 사람이어야 해요. 보통 제품 매니저(product manager)가 그 역할을 맡아요.",
+    "text_zh": "做开放式编码(open coding)的时候，很多团队都会陷入委员会决策的泥潭。其实大部分情况下，这完全没必要。你不能让这个流程变得成本太高，搞得做都做不起。你可以指定一个你信得过、有判断力的人来负责。最好是在这个领域有专业知识的人。通常来说，就是产品经理最合适。",
+    "text_es": "Cuando estás haciendo esta codificación abierta (open coding), muchos equipos se atascan tratando de que lo haga un comité entero. Para la mayoría de situaciones, eso no tiene ningún sentido. No quieres que este proceso sea tan caro que al final no lo puedas hacer. Puedes asignar a una sola persona en la que confíes, alguien que tenga buen criterio. Debería ser la persona que más conoce del tema. Muchas veces es el product manager."
+  },
+  {
+    "text": "Everyone that does this immediately gets addicted to it. When you're building an AI application, you just learn a lot and you're like, 'Hmm, this is not how I want it to work. Okay.' And so that's just an example.",
+    "speaker": "Hamel Husain",
+    "timestamp": "00:00:05",
+    "context": "Hamel is explaining the process of manually reviewing AI application traces (logs of user interactions) to identify errors. He's describing how product teams react when they start systematically looking at how their AI applications are actually performing in real conversations with users.",
+    "vocabulary_highlights": [
+      "gets addicted to it"
+    ],
+    "topics": [
+      "Product Management",
+      "Learning & Growth"
+    ],
+    "difficulty_level": "Beginner",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Data Analytics",
+      "Product Management"
+    ],
+    "text_ko": "한번 해보면 다들 바로 빠져들어요. AI 애플리케이션(AI application)을 만들다 보면 배우는 게 엄청 많아서 '음, 이건 내가 원하던 대로 작동하지 않네. 알겠어요.' 하고 생각하게 돼요. 그러니까 그건 그냥 하나의 예일 뿐이에요.",
+    "text_zh": "每个人一接触这个就上瘾了。你在搭建AI应用的时候，会学到很多东西，然后就会想\"嗯，这不是我想要的效果，好吧。\"这就是个典型的例子。",
+    "text_es": "Todos los que hacen esto se enganchan de inmediato. Cuando estás desarrollando una aplicación de IA, simplemente aprendes un montón y te quedas como \"Mmm, esto no es como quiero que funcione. Ok.\" Y bueno, ese es solo un ejemplo."
+  },
+  {
+    "text": "One common question that we get from people at this stage is, 'Okay, I understand what's going on. Can I ask an LLM to do this process for me?' And I loved Hamel's most recent example because what we usually find when we try to ask an LLM to do this error analysis is it just says the trace looks good because it doesn't have the context needed to understand whether something might be bad product smell or not.",
+    "speaker": "Shreya Shankar",
+    "timestamp": "00:23:32",
+    "context": "Shreya is explaining why humans need to do the initial error analysis rather than automating it with AI. She's responding to a common misconception that LLMs can automatically identify problems in AI application traces without human domain expertise and product context.",
+    "vocabulary_highlights": [
+      "bad product smell"
+    ],
+    "topics": [
+      "Product Management",
+      "Decision Making"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Data Analytics",
+      "Product Management"
+    ],
+    "text_ko": "이 단계에 있는 분들한테 자주 받는 질문 중 하나가, \"알겠어요, 무슨 일이 일어나고 있는지는 이해했어요. 이 과정을 대형 언어 모델(LLM)에게 시켜도 될까요?\"예요. 해멜의 최근 예시가 참 마음에 들었던 이유는, 우리가 보통 LLM에게 이런 오류 분석(error analysis)을 부탁해 보면 LLM은 필요한 맥락(context)이 없어서 그냥 트레이스(trace)가 괜찮아 보인다고만 하고, 그게 제품 이상 징후(product smell)에 해당하는지 판단하진 못하더라는 거예요.",
+    "text_zh": "在这个阶段，大家经常会问我们：\"好吧，我明白是怎么回事了。那我能不能直接让LLM帮我做这个流程？\" 我特别喜欢Hamel最近举的那个例子，因为通常我们试图让LLM做错误分析(error analysis)的时候，它就会说追踪记录(trace)看起来没问题，因为它根本没有足够的上下文来判断某些东西是不是有问题的产品征象(product smell)。",
+    "text_es": "Una pregunta muy común que nos hacen las personas en esta etapa es: 'Vale, ya entiendo lo que está pasando. ¿Puedo pedirle a un LLM que haga este proceso por mí?' Y me encantó el último ejemplo de Hamel porque lo que normalmente encontramos cuando tratamos de pedirle a un LLM que haga este análisis de errores es que simplemente dice que el trace se ve bien, porque no tiene el contexto necesario para entender si algo podría ser una mala señal del producto (bad product smell) o no."
+  },
+  {
+    "text": "The goal is not to do evals perfectly, it's to actionably improve your product. We guarantee you, no matter what you do, if you're doing parts of these process, you're going to find ways of actionable improvement, and then you're going to iterate on your own process from there.",
+    "speaker": "Shreya Shankar",
+    "timestamp": "01:26:28",
+    "context": "Shreya is giving advice to people who feel intimidated about starting the evals process. She's addressing the common concern that people need to execute evals flawlessly, emphasizing that the primary objective is product improvement rather than perfect execution of the evaluation methodology.",
+    "vocabulary_highlights": [
+      "actionably improve",
+      "actionable improvement"
+    ],
+    "topics": [
+      "Product Management",
+      "Learning & Growth"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Data Analytics",
+      "Product Management"
+    ],
+    "text_ko": "목표는 평가(evals)를 완벽하게 하는 게 아니라 제품을 실제로 개선(actionably improve)하는 거예요. 장담해요 — 뭐를 하든 이 프로세스(process)의 일부라도 하고 있다면 실질적으로 개선할 방법(actionable improvement)을 꼭 찾게 되고, 그걸 바탕으로 자체 프로세스를 계속 반복(iterate)해서 개선해 나가게 될 거예요.",
+    "text_zh": "目标不是把评估做得十全十美，而是要能实实在在地改进你的产品。我们敢保证，不管你怎么做，只要你把这些流程的一部分做起来，你肯定能找到切实可行的改进方法，然后在这个基础上不断优化你自己的流程。",
+    "text_es": "El objetivo no es hacer las evaluaciones de manera perfecta, sino mejorar tu producto de forma práctica. Te garantizamos que sin importar lo que hagas, si estás aplicando partes de este proceso, vas a encontrar maneras concretas de mejorar, y de ahí vas a ir ajustando tu propio proceso sobre la marcha."
+  },
+  {
+    "text": "People have been burned by evals in the past. People have done evals badly, so then they didn't trust it anymore, and then they're like, 'Oh, I'm anti evals.' I 100% empathize with that, because you should be anti Likert scale LLM judge.",
+    "speaker": "Shreya Shankar",
+    "timestamp": "00:00:23",
+    "context": "Lenny asks about the controversy and debate around evals in the AI community. Shreya explains why some people are skeptical of evals, noting that many have had bad experiences with poorly implemented evaluation systems. A Likert scale LLM judge refers to using AI to score outputs on a 1-5 or 1-7 rating scale rather than binary pass/fail judgments.",
+    "vocabulary_highlights": [
+      "have been burned by",
+      "anti Likert scale"
+    ],
+    "topics": [
+      "Product Management",
+      "Decision Making"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Data Analytics",
+      "Product Management"
+    ],
+    "text_ko": "사람들이 과거에 평가(evals) 때문에 피해를 본 적이 있어요. 평가를 엉망으로 해서 신뢰를 잃었고, 그래서 '난 평가 반대야'라고 하는 사람이 나온 거예요. 저도 그 마음을 100% 공감해요. 리커트 척도(Likert scale) 기반 LLM 판정(LLM judge)에는 반대하는 게 맞아요.",
+    "text_zh": "很多人以前在评估(evals)上吃过亏。有些人把评估搞砸了，结果就不再相信这套东西，然后就说\"我就是反对评估\"。我完全理解这种想法，因为你确实应该反对那种李克特量表LLM判断(Likert scale LLM judge)的方式。",
+    "text_es": "La gente ha tenido malas experiencias con las evaluaciones antes. Han hecho evaluaciones muy mal, entonces ya no confían en ellas, y dicen \"Ay no, yo estoy en contra de las evaluaciones.\" Entiendo perfectamente esa postura, porque deberías estar en contra de los jueces LLM con escala Likert (Likert scale LLM judge)."
+  }
+]

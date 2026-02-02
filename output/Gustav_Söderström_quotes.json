@@ -1,0 +1,179 @@
+[
+  {
+    "text": "I suspect it will be as big of a shift that you will eventually have to rethink your products. We have to rethink the user interface and the experience for recommendation first era. And so what does that mean in the generative era? No one really knows yet.",
+    "speaker": "Gustav Söderström",
+    "timestamp": "00:00:00",
+    "context": "Lenny asks Gustav about how product teams should think about AI in their product thinking. Gustav explains his framework for understanding the evolution of the internet in three stages: curation (where users manually organize content), recommendation (where algorithms do this work), and now generation (where AI creates content). He emphasizes that each transition required companies to completely rethink their user experience and business models, and believes the shift to generative AI will be equally transformative.",
+    "vocabulary_highlights": [
+      "as big of a shift",
+      "rethink your products",
+      "recommendation first era",
+      "generative era"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Strategy",
+      "User Experience",
+      "Engineering Leadership"
+    ],
+    "text_ko": "이건 결국 제품을 다시 생각해봐야 할 만큼 큰 변화가 될 것 같아요. 먼저 추천 우선 시대(recommendation-first era)의 사용자 인터페이스(user interface)와 사용자 경험(user experience)을 다시 생각해야 해요. 그렇다면 생성 시대(generative era)에서는 그게 어떤 의미일까요? 사실 아직 아무도 잘 모르겠어요.",
+    "text_zh": "我觉得这个转变会很大，大到你最终得重新思考自己的产品。我们必须重新考虑用户界面和体验，因为我们现在进入了推荐优先的时代。那么在生成式AI(generative)时代这意味着什么呢？说实话，现在还没人真正搞清楚。",
+    "text_es": "Me parece que va a ser un cambio tan grande que al final van a tener que replantearse sus productos. Nosotros tenemos que repensar la interfaz de usuario y la experiencia para esta era donde las recomendaciones son lo primero. ¿Y qué significa eso en la era generativa? La verdad es que nadie lo sabe todavía."
+  },
+  {
+    "text": "So that product couldn't have existed without generative AI, both generating the voice and generating the content of what the voice says. So you can have individualized, personalized voice at the scale of half a billion people.",
+    "speaker": "Gustav Söderström",
+    "timestamp": "00:14:57",
+    "context": "Gustav discusses Spotify's AI DJ feature as their first true generative AI product. The AI DJ is a digitized version of a real person named X who talks to users about music they like and suggests new tracks. Gustav explains this represents a new category of product that literally couldn't exist without generative AI technology, as it requires both voice generation and content generation to provide personalized commentary at massive scale.",
+    "vocabulary_highlights": [
+      "couldn't have existed without",
+      "individualized, personalized",
+      "at the scale of"
+    ],
+    "topics": [
+      "Product Management",
+      "Growth & Marketing"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Strategy",
+      "User Experience",
+      "Engineering Leadership"
+    ],
+    "text_ko": "그 제품은 생성형 AI (generative AI)가 없었다면 아예 존재할 수 없었어요. 목소리를 만들어내는 것부터 그 목소리가 말하는 내용을 생성하는 것까지 모두 생성형 AI 덕분이었거든요. 그래서 5억 명 규모로 개인별 맞춤 음성을 제공할 수 있어요.",
+    "text_zh": "所以这个产品离不开生成式AI(generative AI)，既要生成语音，又要生成语音说的内容。这样你就能做到个性化的语音服务，而且能覆盖到五亿人的规模。",
+    "text_es": "Ese producto no habría podido existir sin IA generativa, tanto para generar la voz como para crear el contenido de lo que dice esa voz. Así puedes tener una voz individualizada y personalizada a escala de quinientos millones de personas."
+  },
+  {
+    "text": "The principle of fault-tolerant user interfaces. So you need to understand the performance of your machine learning to design for it. The quality of your machine learning, if you're going to have a single play button, needs to be literally 100% or zero prediction error, and that's never the case.",
+    "speaker": "Gustav Söderström",
+    "timestamp": "00:18:09",
+    "context": "Gustav shares key principles for building AI-powered products, crediting Chris Dixon for this concept. He explains that UI design must account for the imperfection of machine learning algorithms. Gustav uses the example that if your algorithm has a one-in-five hit rate, you need to show at least five options on screen so users have a good chance of finding something relevant, rather than designing a single play button that would disappoint users 80% of the time.",
+    "vocabulary_highlights": [
+      "fault-tolerant user interfaces",
+      "zero prediction error",
+      "literally 100%",
+      "that's never the case"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Strategy",
+      "User Experience",
+      "Engineering Leadership"
+    ],
+    "text_ko": "이건 결함 허용 사용자 인터페이스(fault-tolerant user interfaces)의 원칙이에요. 그래서 설계할 때는 머신러닝(machine learning)이 실제로 어느 정도 성능을 내는지 정확히 이해해야 해요. 재생 버튼 하나로 모든 걸 처리하려면 그 머신러닝의 품질은 문자 그대로 100% 정확하거나 예측 오류가 전혀 없어야 하는데, 현실에서는 그런 경우가 절대 없어요.",
+    "text_zh": "容错用户界面(fault-tolerant user interfaces)的原理。所以你得先搞清楚你的机器学习模型表现怎么样，然后针对性地去设计。如果你想做那种一键播放的功能，你的机器学习质量就得做到百分之百准确，预测错误率为零才行，但现实中根本不可能做到这一点。",
+    "text_es": "El principio de interfaces tolerantes a fallos (fault-tolerant). O sea, tienes que entender cómo se comporta tu machine learning para poder diseñar en base a eso. La calidad de tu machine learning, si vas a tener un solo botón de reproducir, tiene que ser literalmente del 100% o cero error de predicción, y eso nunca pasa."
+  },
+  {
+    "text": "So if you're hiring smart people, one way to think about it is you're renting brain power. So if you're renting all of this expensive brain power and then you give them no room to think for themselves, that doesn't sound smart, then you should actually hire less smart people and keep your costs down or something.",
+    "speaker": "Gustav Söderström",
+    "timestamp": "00:31:14",
+    "context": "Gustav explains why Spotify moved away from their famous squad model and how they now think about organizational autonomy. He discusses the balance between giving employees autonomy to maximize their talent versus maintaining strategic alignment. Gustav argues that if you're paying high salaries for smart people, you need to give them space to think and contribute meaningfully, otherwise you're wasting your investment in talent.",
+    "vocabulary_highlights": [
+      "you're renting brain power",
+      "keep your costs down",
+      "doesn't sound smart"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Strategy",
+      "User Experience",
+      "Engineering Leadership"
+    ],
+    "text_ko": "똑똑한 사람을 뽑는다고 하면, 한 가지로 생각해볼 수 있는 건 그 사람들의 두뇌 역량(brain power)을 빌리는 셈이라는 거예요. 비싼 두뇌 역량을 빌려놓고도 그들에게 스스로 생각할 여지를 전혀 주지 않으면, 그건 현명한 선택이 아니에요. 그런 상황이라면 차라리 덜 똑똑한 사람을 뽑아서 비용을 낮추는 게 낫겠죠.",
+    "text_zh": "如果你要招聪明人，可以这么想，你其实是在租用脑力。既然你花大价钱租了这些厉害的脑子，结果又不给人家独立思考的空间，这不是很傻嘛？那还不如直接招些普通点的人，还能省钱呢。",
+    "text_es": "Entonces, si estás contratando gente inteligente, una forma de verlo es que estás alquilando capacidad intelectual. O sea, si estás alquilando toda esta capacidad intelectual tan cara y después no les das espacio para que piensen por sí mismos, eso no suena muy inteligente. Mejor contrata gente menos capacitada y mantén los costos bajos o algo así."
+  },
+  {
+    "text": "But the problem with that is if you put autonomy very far towards the leaves of the organization, and also if you combine that with having a very junior organization, which we did back then, there's a fair chance that you're just going to produce heat. You're going to have a hundred squads with a hundred strategies running in a hundred directions.",
+    "speaker": "Gustav Söderström",
+    "timestamp": "00:31:39",
+    "context": "Gustav continues explaining why Spotify's original squad model became problematic as they scaled. He describes how giving too much autonomy to junior employees at the bottom of the organization (\"the leaves\") combined with their young, inexperienced workforce led to inefficiency. The metaphor of \"producing heat\" refers to wasted energy - lots of activity but not productive work aligned toward common goals.",
+    "vocabulary_highlights": [
+      "towards the leaves of the organization",
+      "produce heat",
+      "running in a hundred directions"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Strategy",
+      "User Experience",
+      "Engineering Leadership"
+    ],
+    "text_ko": "문제는 자율성(autonomy)을 조직의 말단까지 너무 많이 맡기고, 거기에 우리가 그때 그랬던 것처럼 경험이 적은 주니어 조직(junior organization)이 겹치면 결국 그냥 에너지(heat)만 낭비할 가능성이 크다는 거예요. 스쿼드(squad) 백 개가 각각 다른 전략으로 제각각 움직이게 될 테니까요.",
+    "text_zh": "但问题在于，如果你把自主权完全下放到组织的最底层，再加上当时我们团队都比较年轻缺乏经验，很可能就是瞎忙活一通。最后搞出一百个小团队，一百套策略，往一百个不同方向跑。",
+    "text_es": "Pero el problema con eso es que si das mucha autonomía a los niveles más bajos de la organización, y además lo combinas con tener un equipo muy junior, como teníamos en ese entonces, hay muchas posibilidades de que solo generes caos. Vas a terminar con cien equipos con cien estrategias distintas yendo cada uno por su lado."
+  },
+  {
+    "text": "What we misjudged or failed or rather learned about our own homepage is that the way it works right now, if you look at what people do on Spotify's homepage, the current one, it is almost 90% what we call recall. So it is either getting to a session that you're already in or a specific playlist that you know you want to get to or at least a specific use case.",
+    "speaker": "Gustav Söderström",
+    "timestamp": "00:48:59",
+    "context": "Gustav shares lessons from Spotify's recent homepage redesign that received negative user feedback. He explains they discovered that 90% of homepage usage is \"recall\" - users coming to find specific content they already know they want, like returning to a playlist or resuming a session. Only 10% is true discovery of new content. When they redesigned to prioritize discovery, they flipped this ratio and users couldn't easily find their familiar content anymore.",
+    "vocabulary_highlights": [
+      "what we misjudged",
+      "what we call recall",
+      "specific use case"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Strategy",
+      "User Experience",
+      "Engineering Leadership"
+    ],
+    "text_ko": "우리가 우리 홈페이지에 대해 잘못 판단했다기보다는 오히려 배운 건, 지금의 작동 방식이—스포티파이의 현재 홈페이지에서 사람들이 뭘 하는지 보면—거의 90%가 우리가 '리콜(recall)'이라고 부르는 유형이라는 거예요. 즉 이미 들어가 있는 세션(session)으로 이동하거나, 가려는 특정 플레이리스트(playlist)로 바로 가거나, 최소한 특정 사용 사례(use case)에 해당하는 행동인 셈이에요.",
+    "text_zh": "我们对自己主页的误判，或者说失误，或者更准确地说我们学到的是，现在这个主页的运作方式，如果你看看用户在Spotify主页上都干什么，现有的这个主页，基本上90%都是我们说的recall（回想召回）。就是说要么是回到你已经在听的那个session（播放会话），要么是找你知道想听的某个特定播放列表，或者至少是某个特定的使用场景。",
+    "text_es": "Lo que calculamos mal o más bien aprendimos sobre nuestra página de inicio es que tal como funciona ahora, si te fijas en lo que hace la gente en la homepage de Spotify, la actual, es casi un 90% lo que llamamos recall. O sea, es llegar a una sesión en la que ya estás o a una playlist específica que sabes que quieres escuchar, o por lo menos a un caso de uso específico."
+  },
+  {
+    "text": "I think there are two fundamentally different types of product development. One is designing a new feature. It is hard, but it's voluntary for people to use. But when you redesign, it is much more tricky because it's not voluntary to participate in the redesign. So there's a cost even for people who don't like it.",
+    "speaker": "Gustav Söderström",
+    "timestamp": "00:54:09",
+    "context": "Gustav reflects on the challenges of redesigning existing products versus building new features. He explains that new features are optional - if users don't like them, they simply don't use them. However, redesigns force all users to adapt to changes, creating unavoidable costs even for users who preferred the old version. This fundamental difference makes redesigns much riskier and more complex from a product development perspective.",
+    "vocabulary_highlights": [
+      "fundamentally different types",
+      "it's not voluntary",
+      "there's a cost even for"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Strategy",
+      "User Experience",
+      "Engineering Leadership"
+    ],
+    "text_ko": "저는 제품 개발(product development)이 근본적으로 두 가지 종류가 있다고 생각해요. 하나는 새로운 기능(feature)을 설계하는 건데, 어렵긴 해도 사람들이 쓰는 건 자발적인 선택이에요. 반면 리디자인(redesign)은 훨씬 더 까다로워요. 리디자인엔 참여가 자발적이지 않아서, 싫어하는 사람들에게도 비용(cost)이 발생하거든요.",
+    "text_zh": "我觉得产品开发基本上分两种。一种是做新功能，虽然难搞，但用户愿意用就用，不愿意用就算了。但重新设计就麻烦多了，因为用户没得选择，必须接受这个改版。所以哪怕有人不喜欢，他们也得承担这个成本。",
+    "text_es": "Creo que hay dos tipos de desarrollo de producto completamente diferentes. Uno es diseñar una nueva funcionalidad. Es difícil, pero la gente puede elegir si la usa o no. Pero cuando rediseñas, es mucho más complicado porque no es opcional participar en el rediseño. Entonces hay un costo incluso para la gente a la que no le gusta."
+  }
+]

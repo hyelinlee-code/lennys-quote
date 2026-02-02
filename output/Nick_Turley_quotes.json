@@ -1,0 +1,173 @@
+[
+  {
+    "text": "This is a pattern with AI, you won't know what to polish until after you ship. My dream is that we ship daily.",
+    "speaker": "Nick Turley",
+    "timestamp": "00:00:21",
+    "context": "Lenny asks Nick about the development philosophy at OpenAI and how they approach product releases. Nick explains that AI products have unique characteristics where the most valuable features and improvements only become clear after users interact with the product in the real world. He emphasizes that unlike traditional software where you can predict user behavior, AI capabilities are often emergent and unpredictable, making rapid iteration essential for learning what actually works.",
+    "vocabulary_highlights": [
+      "pattern with AI",
+      "polish",
+      "ship daily"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Growth Strategy",
+      "Consumer Products"
+    ],
+    "text_ko": "AI 쪽에서는 보통 이런 패턴이에요 — 배포(ship)해 보기 전까지는 어느 부분을 다듬어야 할지 잘 모르는 경우가 많아요. 저는 매일 배포하는 게 꿈이에요.",
+    "text_zh": "这就是AI的特点，你得先上线了才知道哪里需要优化。我的理想状态就是每天都能发布新版本。",
+    "text_es": "Este es un patrón típico con la IA, no vas a saber qué pulir hasta después de lanzar. Mi sueño es que lancemos todos los días."
+  },
+  {
+    "text": "I just really want to jump to the punchline, 'Why can't we do this now?' I always felt like part of my role here is to just set the pace and the resting heartbeat.",
+    "speaker": "Nick Turley",
+    "timestamp": "00:00:38",
+    "context": "Lenny asks about Nick's principle of 'maximally accelerated' development that Kevin Weil mentioned. Nick explains his philosophy of cutting through blockers and instilling urgency in teams by always questioning why something can't be done immediately. He describes his role as setting the tempo for the entire organization, using the metaphor of a 'resting heartbeat' to describe the natural pace at which teams operate when not under specific pressure.",
+    "vocabulary_highlights": [
+      "jump to the punchline",
+      "set the pace",
+      "resting heartbeat"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Growth Strategy",
+      "Consumer Products"
+    ],
+    "text_ko": "저는 사실 바로 핵심으로 뛰어들어 “이걸 지금 당장 왜 못 해요?”라고 묻고 싶을 때가 많아요. 여기서 제 역할 중 하나는 페이스랑 조직의 기본 리듬을 정하는 거라고 늘 느껴왔어요.",
+    "text_zh": "我就是特别想直接说重点，\"为什么我们现在就不能做这个事儿？\"我一直觉得我在这儿的作用就是要把节奏带起来，让团队保持那种基本的工作状态和活力。",
+    "text_es": "Solo quiero ir directo al grano, '¿Por qué no podemos hacer esto ya?' Siempre he sentido que parte de mi papel aquí es marcar el ritmo y mantener el pulso constante de la empresa."
+  },
+  {
+    "text": "I'm baffled by how much it took off, even more baffled by how many people have copied. Chat was the simplest way to ship at that time.",
+    "speaker": "Nick Turley",
+    "timestamp": "00:00:52",
+    "context": "Lenny asks whether chat interfaces are the future of AI interaction. Nick reflects on the unexpected massive success of ChatGPT's chat interface and expresses surprise that so many competitors simply copied the chat paradigm rather than experimenting with different ways to interact with AI. He reveals that chat was chosen not because it was the optimal interface, but because it was the fastest way to get the product to market and start learning from users.",
+    "vocabulary_highlights": [
+      "baffled",
+      "took off"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Growth Strategy",
+      "Consumer Products"
+    ],
+    "text_ko": "이게 이렇게 크게 뜰 줄은 몰라서 정말 어리둥절하고, 얼마나 많은 사람들이 따라 한 건지는 더 놀라워요. 당시에는 챗(Chat)이 제품을 출시하는 가장 간단한 방법이었어요.",
+    "text_zh": "我真没想到这东西会这么火，更没想到会有这么多人跟风抄袭。当时聊天功能是最简单直接的上线方式。",
+    "text_es": "Me sorprende muchísimo cómo despegó, y me sorprende aún más la cantidad de gente que lo ha copiado. El chat era la forma más sencilla de lanzarlo en ese momento."
+  },
+  {
+    "text": "ChatGPT feels a little bit like MS-DOS. We haven't built Windows yet, and it will be obvious once we do.",
+    "speaker": "Nick Turley",
+    "timestamp": "00:01:06",
+    "context": "Lenny asks Nick about the future direction of ChatGPT and what a more evolved version might look like. Nick uses a computer history analogy to explain that the current chat interface, while successful, is still a primitive way to interact with AI - similar to how MS-DOS was functional but not intuitive. He suggests that there will eventually be a breakthrough in AI interface design that will be as transformative as the graphical user interface was to personal computers, making the interaction much more natural and powerful.",
+    "vocabulary_highlights": [
+      "feels a little bit like",
+      "obvious once we do"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Growth Strategy",
+      "Consumer Products"
+    ],
+    "text_ko": "ChatGPT는 조금 도스(MS‑DOS) 같은 느낌이에요. 아직 윈도우(Windows)를 만들지 못했는데, 만들고 나면 그게 분명해질 거예요.",
+    "text_zh": "ChatGPT感觉就像当年的MS-DOS一样。我们还没做出Windows那样的东西，但一旦做出来，大家马上就能看出差别。",
+    "text_es": "ChatGPT se siente un poco como MS-DOS. Todavía no hemos creado Windows, pero va a ser súper obvio cuando lo hagamos."
+  },
+  {
+    "text": "Amazing ideas come from anywhere. The thing about running a research lab is you really don't tell people what to research. That's not what you do.",
+    "speaker": "Nick Turley",
+    "timestamp": "01:03:11",
+    "context": "Lenny asks about the most counterintuitive lessons Nick has learned building products at OpenAI compared to traditional tech companies like Dropbox and Instacart. Nick explains how OpenAI inherited a research culture where innovation emerges organically from empowered individuals rather than top-down direction. He contrasts this with typical corporate structures where product managers act as gatekeepers, arguing that OpenAI's approach of letting smart people pursue their ideas has been crucial to their success.",
+    "vocabulary_highlights": [
+      "amazing ideas come from anywhere",
+      "research lab"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Growth Strategy",
+      "Consumer Products"
+    ],
+    "text_ko": "놀라운 아이디어는 어디서든 나와요. 연구실(research lab)을 운영할 때 중요한 건 사람들에게 '뭘 연구하라'고 직접 지시하지 않는다는 거예요. 그건 연구실을 운영하는 사람이 할 일이 아니에요.",
+    "text_zh": "好点子哪儿都能冒出来。做研究实验室这一行，你其实不能告诉人家该研究什么，这可不是你的活儿。",
+    "text_es": "Las ideas increíbles pueden surgir de cualquier lado. Lo que pasa con dirigir un laboratorio de investigación es que en realidad no les dices a las personas qué tienen que investigar. Esa no es tu función."
+  },
+  {
+    "text": "You're either in a mode of explorer where you have a bunch of unknowns and you're testing to see whether or not you like it, or you're exploiting, where you actually have found something that's really rich and really deep.",
+    "speaker": "Nick Turley",
+    "timestamp": "01:29:15",
+    "context": "Lenny asks Nick for advice he'd give to people making career decisions, particularly in light of how Nick followed curiosity and smart people rather than chasing money. Nick explains his philosophy using an 'explore versus exploit' framework borrowed from decision theory. In the exploration phase, you're testing different opportunities to discover what energizes you and where you can excel, while in the exploitation phase, you go deep on something valuable you've already identified.",
+    "vocabulary_highlights": [
+      "mode of explorer",
+      "bunch of unknowns",
+      "really rich and really deep"
+    ],
+    "topics": [
+      "Career Development",
+      "Decision Making"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Growth Strategy",
+      "Consumer Products"
+    ],
+    "text_ko": "당신은 모르는 게 많은 탐험자(explorer) 모드여서 이게 마음에 드는지 테스트해 보는 중이거나, 아니면 진짜로 풍부하고 깊이 있는 걸 찾아내서 그걸 집중적으로 활용(exploiting)하는 모드에 있어요.",
+    "text_zh": "你要么是在探索模式，有一堆未知的东西，测试看看自己到底喜不喜欢；要么就是在挖掘模式，已经找到了真正有价值、很有深度的东西，就专心去做。",
+    "text_es": "O estás en modo explorador, donde tienes un montón de incógnitas y estás probando a ver si te funciona, o estás en modo de explotación, donde ya encontraste algo que realmente vale la pena y tiene mucho potencial."
+  },
+  {
+    "text": "We set out to build a super assistant. It was supposed to be a hackathon code base.",
+    "speaker": "Nick Turley",
+    "timestamp": "00:00:11",
+    "context": "Lenny asks about the early origins of ChatGPT and how it evolved from an internal experiment to the most successful consumer product in history. Nick reveals that ChatGPT emerged from a hackathon project where the team was trying to build various AI assistant concepts. The 'super assistant' was their original vision - an AI that could help with any task and understand your goals without requiring detailed explanations each time.",
+    "vocabulary_highlights": [
+      "super assistant",
+      "hackathon code base"
+    ],
+    "topics": [
+      "Product Management",
+      "Starting a Company"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Growth Strategy",
+      "Consumer Products"
+    ],
+    "text_ko": "우리는 슈퍼 어시스턴트(super assistant)를 만들겠다고 나섰어요. 원래는 그냥 해커톤용 코드베이스(hackathon code base)로 그칠 생각이었거든요.",
+    "text_zh": "我们当初想做一个超级助手，本来就是个黑客马拉松(hackathon)的代码基础而已。",
+    "text_es": "Nos propusimos crear un súper asistente. Se suponía que iba a ser solo código de hackathon."
+  }
+]

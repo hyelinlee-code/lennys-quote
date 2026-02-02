@@ -1,0 +1,154 @@
+[
+  {
+    "text": "Copilot is essentially that magnified by many lines of code. It is multi-line autocomplete that is fundamentally powered by an AI model called CodeX, which is a derivative of another one that you might be familiar with, GPT-3. When you are in the editor, it could be VS Code, it could be IntelliJ, it could be them, essentially, as you are typing, Copilot will provide suggestions usually in kind of this italicized gray text that is really, to your point, kind of magical what it's able to infer.",
+    "speaker": "Ryan J. Salva",
+    "timestamp": "00:11:26",
+    "context": "Lenny asks Ryan to explain what GitHub Copilot is for listeners who aren't familiar with it. Ryan describes how Copilot evolved from basic autocomplete features that developers have used for decades. He explains that while traditional autocomplete only suggests simple completions like variable names, Copilot uses advanced AI to suggest entire blocks of code based on context, comments, and surrounding code patterns.",
+    "vocabulary_highlights": [
+      "magnified by many lines",
+      "fundamentally powered by",
+      "italicized gray text",
+      "what it's able to infer"
+    ],
+    "topics": [
+      "Product Management",
+      "Learning & Growth"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "AI/ML Products",
+      "Community Building"
+    ],
+    "text_ko": "코파일럿(Copilot)은 본질적으로 많은 코드 라인으로 확장된 형태예요. 여러 줄 자동완성(multi-line autocomplete) 기능인데, 기본적으로 코덱스(CodeX)라는 AI 모델로 구동돼요. 그 모델은 익숙하실지도 모를 GPT-3(GPT-3)에서 파생된 거예요. 에디터(editor) — 예를 들어 VS Code(Visual Studio Code)나 인텔리제이(IntelliJ) — 에서 타이핑하면, 코파일럿이 보통 기울인 회색 텍스트로 제안을 보여주는데, 말씀하신 대로 무엇을 추론해내는지가 정말 마법 같아요.",
+    "text_zh": "Copilot其实就是把这个功能放大了很多倍，涉及到很多行代码。它本质上是个多行自动补全工具，背后用的是一个叫CodeX的AI模型，这个模型是从GPT-3衍生出来的，GPT-3你们应该都听说过。当你在编辑器里工作的时候，不管是VS Code还是IntelliJ什么的，你一边敲代码，Copilot就会给你提建议，通常是用那种斜体的灰色字显示出来，说实话，它能推断出什么东西来，真的挺神奇的。",
+    "text_es": "Copilot es básicamente eso mismo pero amplificado por muchísimas líneas de código. Es como un autocompletado multilínea que funciona con un modelo de IA llamado CodeX, que viene de otro que seguramente conoces, el GPT-3. Cuando estás en el editor, ya sea VS Code, IntelliJ, o cualquier otro, mientras vas escribiendo, Copilot te va dando sugerencias normalmente en esa letra gris en cursiva que, como dices, es casi mágico lo que logra inferir."
+  },
+  {
+    "text": "The labor of remembering what's the order of parameters that need to come into a particular API, or hey, what's the particular syntax of this thing I'm supposed to do, or oh, I've got to create a bunch of dummy data that is days of the week or months in the year. That's just labor. It's not creating. It's just typing.",
+    "speaker": "Ryan J. Salva",
+    "timestamp": "00:13:08",
+    "context": "Ryan continues explaining the value proposition of Copilot by describing common frustrations developers face. He argues that much of a developer's time is spent on mundane tasks like remembering API syntax or creating test data, rather than the creative problem-solving aspects of programming. Ryan positions Copilot as a tool that eliminates this 'busy work' so developers can focus on the creative and strategic aspects of coding.",
+    "vocabulary_highlights": [
+      "bunch of dummy data",
+      "That's just labor"
+    ],
+    "topics": [
+      "Product Management",
+      "Learning & Growth"
+    ],
+    "difficulty_level": "Beginner",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "AI/ML Products",
+      "Community Building"
+    ],
+    "text_ko": "어떤 애플리케이션 프로그래밍 인터페이스(API)에 어떤 파라미터(parameters)를 어떤 순서로 넣어야 하는지 기억해내거나, 이걸 어떻게 써야 하는지의 정확한 구문(syntax)을 떠올리거나, 요일(days of the week)이나 연중 월(months in the year) 같은 더미 데이터(dummy data)를 잔뜩 만들어야 하는 건 그냥 노동이에요. 창조적인 일이 아니라 단순히 타이핑하는 거예요.",
+    "text_zh": "记住某个API(API)参数的顺序，或者搞清楚这个功能到底怎么写，还有创建一堆像星期几、月份这样的测试数据，这些都是纯体力活。这不是在做创造性的工作，就是在敲键盘而已。",
+    "text_es": "El trabajo de recordar cuál es el orden de los parámetros que van en una API específica, o bueno, cuál es la sintaxis exacta de esto que tengo que hacer, o ay, tengo que crear un montón de datos de prueba que sean días de la semana o meses del año. Eso es puro trabajo manual. No es crear nada. Es solo teclear."
+  },
+  {
+    "text": "We had actually created a snapshot of GitHub's public code for what we call the Arctic Code Vault, right? Essentially, this is up in like way in the Northlands of Finland, there's a seed vault. We were like, you know what? Seed vaults are really there to preserve the diversity of the world's flora in seeds in case of some crazy either natural or manmade disaster. But another really important asset to the world is our code, our open source.",
+    "speaker": "Ryan J. Salva",
+    "timestamp": "00:00:00",
+    "context": "Ryan tells the origin story of how Copilot began when OpenAI was aggressively downloading GitHub's repositories for training data. He explains that GitHub had previously created the Arctic Code Vault - a physical preservation project storing code on silver film in Finland, similar to seed vaults that preserve plant genetics. This existing dataset became the foundation for training the AI model that would become Copilot.",
+    "vocabulary_highlights": [
+      "way in the Northlands",
+      "preserve the diversity",
+      "some crazy either natural or manmade disaster"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "AI/ML Products",
+      "Community Building"
+    ],
+    "text_ko": "사실 저희는 GitHub 공개 코드의 스냅샷(snapshot)을 만들어서 '아틱 코드 볼트(Arctic Code Vault)'라고 부르는 곳에 보관했어요. 기본적으로 그건 핀란드 북부 한참 위쪽에 있는 종자 저장고(seed vault) 같은 곳이에요. 그래서 '종자 저장고는 자연 재해든 인재든 말도 안 되는 일이 생겼을 때 세계 식물의 다양성을 씨앗 형태로 보존하려는 거지'라고 생각했어요. 그런데 또 하나 세상에 정말 중요한 자산이 바로 우리 코드, 즉 오픈소스(open source)라는 점이었어요.",
+    "text_zh": "其实我们为了所谓的北极代码库(Arctic Code Vault)创建了GitHub公开代码的快照，对吧？基本上就是这样的，在芬兰北部那边有个种子库。我们就想，你知道吗？种子库的存在就是为了保护全世界植物种子的多样性，以防万一出现什么疯狂的天灾人祸。但是对世界来说，我们的代码、我们的开源项目也是另一个非常重要的资产。",
+    "text_es": "Habíamos creado una instantánea de todo el código público de GitHub para lo que llamamos el Arctic Code Vault, ¿verdad? Básicamente, esto está allá arriba en el norte de Finlandia, donde hay un banco de semillas. Y dijimos, ¿sabes qué? Los bancos de semillas están ahí para preservar la diversidad de la flora mundial en caso de algún desastre loco, ya sea natural o causado por el hombre. Pero otro recurso súper importante para el mundo es nuestro código, nuestro código abierto (open source)."
+  },
+  {
+    "text": "The original team that was working on Copilot at GitHub was the team that we call GitHub Next. Essentially their job is to work on second and third horizon projects. What some folks might call moonshots, right? Things that we never really expect work in the next one or two years, but might three, five years down the line actually turn into something meaningful.",
+    "speaker": "Ryan J. Salva",
+    "timestamp": "00:27:25",
+    "context": "Lenny asks whether there was a clear moment when leadership decided to double down on Copilot as a major investment. Ryan explains GitHub's organizational structure for innovation, describing GitHub Next as their R&D team focused on long-term experimental projects. He defines horizon projects as initiatives organized by time and uncertainty rather than calendar dates, with different horizons representing different levels of risk and timeline expectations.",
+    "vocabulary_highlights": [
+      "second and third horizon projects",
+      "moonshots",
+      "down the line actually turn into something meaningful"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "AI/ML Products",
+      "Community Building"
+    ],
+    "text_ko": "원래 깃허브에서 코파일럿(Copilot)을 담당하던 팀이 바로 깃허브 넥스트(GitHub Next)예요. 요컨대 이들의 일은 2차·3차 호라이즌 프로젝트(second and third horizon projects)를 진행하는 건데요, 어떤 분들은 그런 걸 문샷(moonshots)이라고 부르기도 해요. 보통 1~2년 안에 바로 성과가 날 거라고 기대하진 않지만, 3년·5년쯤 지나면 실제로 의미 있는 결과로 이어질 수도 있는 일들이에요.",
+    "text_zh": "当时在GitHub开发Copilot的那个团队就是我们说的GitHub Next团队。基本上他们的工作就是搞一些第二、第三层面的项目。有些人可能会叫这种moonshot项目，对吧？就是那种我们其实也不指望在一两年内能搞出什么名堂，但可能三五年后真能做成点什么有意义的东西。",
+    "text_es": "El equipo original que estaba trabajando en Copilot en GitHub era el equipo que llamamos GitHub Next. Básicamente su trabajo es enfocarse en proyectos de segundo y tercer horizonte. Lo que algunos podrían llamar moonshots, ¿no? Cosas que realmente no esperamos que funcionen en los próximos uno o dos años, pero que tal vez en tres, cinco años puedan convertirse en algo realmente significativo."
+  },
+  {
+    "text": "Making sure that you've got a good mix of engineers who are comfortable maintaining a service, as well as engineers and researchers who are really thinking about, what is the idea that we've created, what is the new thing that we've brought to market, and can bring that vision to it.",
+    "speaker": "Ryan J. Salva",
+    "timestamp": "00:37:30",
+    "context": "Ryan shares lessons learned about transitioning experimental R&D projects to operational products within large companies. He emphasizes the importance of creating hybrid teams that combine researchers who understand the original innovation with engineers who have the skills to scale and maintain production services. This advice comes from GitHub's experience moving Copilot from their experimental Next team to their production engineering teams.",
+    "vocabulary_highlights": [
+      "good mix of engineers",
+      "bring that vision to it"
+    ],
+    "topics": [
+      "Product Management",
+      "Leadership & Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "AI/ML Products",
+      "Community Building"
+    ],
+    "text_ko": "서비스를 안정적으로 운영·유지보수(service maintenance)할 수 있는 엔지니어들과, 우리가 만들어낸 아이디어가 무엇인지, 시장에 새로 선보이는 것(go-to-market)이 무엇인지 깊이 고민하고 그 비전을 실현할 수 있는 엔지니어·연구자들이 고루 섞여 있어야 해요.",
+    "text_zh": "你得确保团队里既有能稳稳当当维护服务的工程师，也要有那些真正在思考的工程师和研究人员——就是那种会问\"我们到底创造了什么东西？我们给市场带来了什么新玩意儿？\"然后能把这个愿景真正落地的人。",
+    "text_es": "Tienes que asegurarte de tener una buena mezcla de ingenieros que se sientan cómodos manteniendo un servicio, y también ingenieros e investigadores que realmente se enfoquen en pensar: ¿cuál es la idea que hemos creado?, ¿qué es lo nuevo que hemos traído al mercado?, y que puedan aportar esa visión al proyecto."
+  },
+  {
+    "text": "As a general rule, as a general principle, I certainly try to make sure that we're always reserving some capacity for bold, audacious experimental research projects. You can think of those really uncertain bets as being five to 10% of the team's capacity. About 25, maybe 30% of the team's capacity should generally be on just operations.",
+    "speaker": "Ryan J. Salva",
+    "timestamp": "00:54:51",
+    "context": "Lenny asks Ryan for advice on balancing bold bets versus incremental improvements when managing product portfolios at large companies. Ryan provides specific percentage recommendations for resource allocation: 5-10% on experimental moonshots, 25-30% on maintaining existing products, and about 60% on incremental improvements to in-market products. He notes this framework works for larger teams, while startups typically must go all-in on single big bets.",
+    "vocabulary_highlights": [
+      "bold, audacious experimental research projects",
+      "really uncertain bets",
+      "just operations"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "AI/ML Products",
+      "Community Building"
+    ],
+    "text_ko": "원칙적으로 저는 항상 팀 역량(capacity)의 일부를 대담하고 과감한 실험형 연구 프로젝트(experimental research projects)에 쓸 여지를 남겨두려고 해요. 그런 정말 불확실한 베팅은 팀 역량의 대략 5~10% 정도로 보면 되고요. 반면에 약 25%, 많아야 30% 정도는 일반적인 운영(operations)에 할당돼야 해요.",
+    "text_zh": "一般来说，我肯定会确保团队始终留出一些精力去做那些大胆的、有挑战性的实验研究项目。你可以把这些高风险的尝试理解为占团队精力的5%到10%。大概25%，也许30%的团队精力应该主要放在日常运营上。",
+    "text_es": "Como regla general, siempre trato de asegurarme de que estemos reservando cierta capacidad para proyectos de investigación experimental audaces, ¿sabes? Puedes pensar en esas apuestas más arriesgadas como un 5 a 10% de la capacidad del equipo. Y alrededor del 25, tal vez 30% de la capacidad del equipo debería estar enfocada en operaciones del día a día."
+  }
+]

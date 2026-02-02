@@ -1,0 +1,171 @@
+[
+  {
+    "text": "Amazon was actually, to some degree, equally focused on process innovation. In many cases, by the way, we stood on other people's shoulders, we cannot take credit for having... For most of these, there were other inspirations or we built on work that others had done, which by the way, was what I think all great companies should do. And again, that's also why we wrote the book was because we would like to allow people to stand on Amazon's shoulders to learn what we learned, and then take all or part of these things and build from there.",
+    "speaker": "Bill Carr",
+    "timestamp": "00:06:43",
+    "context": "Lenny asks Bill what made Amazon unique in creating so many innovative ways of working that have proliferated throughout the tech industry. Bill explains that while Amazon is known for product innovation like Kindle and AWS, the company was equally focused on developing new processes and ways of working. He emphasizes that Amazon built upon existing ideas and methodologies from other companies, adapting and improving them rather than creating everything from scratch.",
+    "vocabulary_highlights": [
+      "stood on other people's shoulders",
+      "built on work",
+      "take all or part of these things"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Learning & Growth"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Consulting",
+    "speaker_expertise": [
+      "Marketplace",
+      "Marketing Strategy",
+      "Growth Strategy"
+    ],
+    "text_ko": "아마존은 사실 어느 정도 프로세스 혁신(process innovation)에도 똑같이 집중했어요. 참고로 많은 경우 우리는 다른 사람들의 어깨 위에 있었고, 그걸 전적으로 우리가 해낸 것처럼 공을 다 가져갈 순 없어요. 대부분은 다른 사람들에게서 영감을 받았거나, 다른 사람들이 해놓은 일을 기반으로 우리가 더한 것이었고, 저는 모든 훌륭한 회사들이 그렇게 해야 한다고 생각해요. 그리고 그게 우리가 책을 쓴 이유이기도 해요 — 사람들이 아마존의 어깨 위에 올라 우리가 배운 것을 배우고, 그걸 전부나 일부 가져가서 거기서부터 더 발전시킬 수 있게 하려는 거예요.",
+    "text_zh": "亚马逊其实在很大程度上也同样专注于流程创新。顺便说一下，很多情况下，我们都是站在别人的肩膀上，我们不能把功劳都揽到自己身上……这些东西大部分都有其他的灵感来源，或者说我们是在别人已有工作的基础上继续发展的。我觉得所有伟大的公司都应该这么做。这也是我们写这本书的原因——我们希望让大家能够站在亚马逊的肩膀上，学习我们学到的东西，然后把这些经验全部或部分拿去用，在此基础上继续往前走。",
+    "text_es": "Amazon también estaba enfocado, en cierta medida, en la innovación de procesos. En muchos casos, la verdad es que nos apoyamos en el trabajo de otros, no podemos llevarnos el mérito de haber... Para la mayoría de estas cosas, tuvimos otras inspiraciones o construimos sobre el trabajo que otros ya habían hecho, y eso, por cierto, es lo que creo que todas las grandes empresas deberían hacer. Y también por eso escribimos el libro, porque nos gustaría permitir que la gente se apoye en los hombros de Amazon para aprender lo que nosotros aprendimos, y luego tomen todo o parte de estas cosas y construyan desde ahí."
+  },
+  {
+    "text": "So the concept of single-threaded leadership was first... When I was born from this time of complexity at Amazon, and where again, large... Once you get to a certain scale, you get to a point of where there are competing departments, competing interests, and they're competing for some centralized pool of resources. For all of you who are working for a tech company, this is this pool of engineering resources, or today, data science and AI resources.",
+    "speaker": "Bill Carr",
+    "timestamp": "00:12:23",
+    "context": "Lenny asks Bill to explain what single-threaded leadership means and why it's effective. Bill is describing the origin of Amazon's single-threaded leader concept, explaining that it emerged when Amazon reached a scale where different departments were competing for limited centralized resources like engineering talent. This competition was creating inefficiencies and slowing down product development across the organization.",
+    "vocabulary_highlights": [
+      "single-threaded leadership",
+      "competing for some centralized pool of resources"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Consulting",
+    "speaker_expertise": [
+      "Marketplace",
+      "Marketing Strategy",
+      "Growth Strategy"
+    ],
+    "text_ko": "단일 스레드 리더십(single-threaded leadership)이라는 개념은 아마존에서 복잡성이 커지던 시절에 처음 생겨났어요. 회사가 일정 규모를 넘어서면 부서 간 이해관계가 충돌하고, 각 부서가 중앙화된 자원 풀(centralized pool of resources)을 두고 경쟁하게 되거든요. 기술 회사에서 일하시는 분들에게 그 자원은 바로 엔지니어링 자원(engineering resources)이고, 요즘엔 데이터 사이언스와 AI 자원(data science and AI resources)이에요.",
+    "text_zh": "所以单线程领导(single-threaded leadership)这个概念最初是...当时我在亚马逊面临复杂局面时想出来的。就是说，公司一旦做大到一定规模，你就会发现各个部门开始打架，各有各的利益，大家都在抢那些集中的资源池。你们在科技公司工作的都知道，就是抢工程师资源，现在还要抢数据科学和AI资源。",
+    "text_es": "Entonces el concepto de liderazgo de un solo hilo (single-threaded leadership) nació por primera vez... Cuando surgió de esta época de complejidad en Amazon, y donde otra vez, grandes... Una vez que llegas a cierta escala, llegas a un punto donde tienes departamentos que compiten entre sí, intereses que chocan, y todos están peleándose por el mismo pool centralizado de recursos. Para todos ustedes que trabajan en una empresa de tecnología, este es el pool de recursos de ingeniería, o hoy en día, recursos de ciencia de datos e IA."
+  },
+  {
+    "text": "We've moved from what we called a project orientation to a program orientation. So, a project orientation means, oh, we are going to do this project to change our search result page and algorithm, and the project is defined in this way and it's going to take six months. The resources will come and swarm on that, and then they'll move off to some other thing in some other part of the company.",
+    "speaker": "Bill Carr",
+    "timestamp": "00:13:35",
+    "context": "Bill is continuing to explain the single-threaded leader model by contrasting two different organizational approaches. He's describing how Amazon shifted from temporary project-based work (where resources come together briefly for specific initiatives) to a program-based approach where dedicated teams work continuously on specific areas of the business like search functionality.",
+    "vocabulary_highlights": [
+      "project orientation to a program orientation",
+      "resources will come and swarm on that"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Consulting",
+    "speaker_expertise": [
+      "Marketplace",
+      "Marketing Strategy",
+      "Growth Strategy"
+    ],
+    "text_ko": "우리가 '프로젝트 지향(project orientation)'이라고 부르던 방식에서 '프로그램 지향(program orientation)'으로 옮겼어요. 프로젝트 지향이라는 건, '이번에 검색 결과 페이지(search results page)와 알고리즘(algorithm)을 바꾸는 이 프로젝트를 하자' 하고 프로젝트를 그렇게 정의하고 기간을 6개월로 잡으면, 자원들이 그쪽에 우르르 몰려와서 집중 투입됐다가 끝나면 회사의 다른 부서에 있는 다른 일로 옮겨 가는 방식이에요.",
+    "text_zh": "我们从项目导向(project orientation)转变为计划导向(program orientation)了。项目导向就是说，比如我们要做个项目来改变搜索结果页面和算法，项目就这么定义好了，要做六个月。资源就会集中过来搞这个，搞完了就跑去公司其他地方做别的事了。",
+    "text_es": "Hemos pasado de lo que llamábamos una orientación por proyectos a una orientación por programas. O sea, la orientación por proyectos significa, bueno, vamos a hacer este proyecto para cambiar nuestra página de resultados de búsqueda y el algoritmo, y el proyecto está definido de tal manera y va a tomar seis meses. Los recursos van a llegar y se van a volcar en eso, y después se van a mover a otra cosa en alguna otra área de la empresa."
+  },
+  {
+    "text": "The beauty of that though is that once we'd had those discussions, those interchanges, then the teams were free to sprint hard after their plan. They didn't have to worry about whether was, 'Am I aligned with my CEO? Am I aligned with my senior vice president?' They could know that they were. But yes, this creates then clear... If they're going to deliver it or not. It's up to that owner and that team.",
+    "speaker": "Bill Carr",
+    "timestamp": "00:18:24",
+    "context": "Lenny asks whether single-threaded leadership is about having one person's vision drive decisions. Bill clarifies that while there is one leader and team responsible, there's still an intensive review process where senior leadership scrutinizes and aligns on plans before teams execute. He's explaining how this creates clear accountability while ensuring alignment with company leadership.",
+    "vocabulary_highlights": [
+      "sprint hard after their plan",
+      "those interchanges"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Consulting",
+    "speaker_expertise": [
+      "Marketplace",
+      "Marketing Strategy",
+      "Growth Strategy"
+    ],
+    "text_ko": "그런데 좋은 점은 우리가 그런 논의들과 교류들을 한 번 마치고 나니까 팀들이 자기 계획을 가지고 마음껏 전력 질주(스프린트)할 수 있게 됐다는 거예요. '내가 CEO와 방향이 맞나? 시니어 부사장과 조율돼 있나?' 같은 걸 걱정할 필요가 없었고, 팀들은 이미 그렇게 맞춰져 있다는 걸 알 수 있었어요. 그리고 이렇게 되면 '이걸 정말로 해낼지'가 분명해지고, 그걸 해낼지는 결국 그 오너(owner)와 그 팀에게 달려 있어요.",
+    "text_zh": "不过这样做的好处就是，一旦我们把这些讨论都搞定了，把想法都交流透了，团队就可以放开手脚去冲刺他们的计划了。他们不用再纠结什么\"我跟CEO的想法一致吗？我跟高级副总裁站在一条线上吗？\"这些问题，因为他们心里有数。当然了，这样一来责任就很明确了……能不能交付出来，就看那个负责人和他的团队了。",
+    "text_es": "Lo hermoso de eso es que una vez que tuvimos esas conversaciones, esos intercambios, entonces los equipos pudieron lanzarse de lleno con su plan. Ya no tenían que preocuparse por si estaban alineados con el CEO o con el vicepresidente senior, ya sabían que sí lo estaban. Pero claro, esto crea una responsabilidad muy clara... Si van a cumplir o no, eso ya depende del responsable y su equipo."
+  },
+  {
+    "text": "What it means is that have backbone and disagree, meaning when we are making any kind of a decision, important decision, if you are part of that team, part of that unit, it is your obligation to voice your point of view if you disagree with your approach that's been taken. The point of that disagreement, by the way, is to provide usually additional information or a new point of view that people have not considered.",
+    "speaker": "Bill Carr",
+    "timestamp": "00:25:49",
+    "context": "Lenny asks Bill to explain Amazon's 'disagree and commit' principle, noting that people often misunderstand it. Bill clarifies that it starts with 'have backbone' and explains the first part - that team members have an obligation to voice disagreement when they have different perspectives. The purpose is to bring new information or viewpoints to improve decision-making, not just to be contrarian.",
+    "vocabulary_highlights": [
+      "have backbone and disagree",
+      "it is your obligation to voice your point of view"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Communication Skills"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Consulting",
+    "speaker_expertise": [
+      "Marketplace",
+      "Marketing Strategy",
+      "Growth Strategy"
+    ],
+    "text_ko": "이 말은 ‘소신을 가지고 반대하라(have backbone and disagree)’는 뜻이에요. 다시 말해 어떤 결정을—특히 중요한 결정일수록—내릴 때 팀이나 조직의 일원이라면 현재 취해진 접근 방식에 동의하지 않을 경우 자신의 관점을 말할 의무가 있어요. 그리고 그런 반대의 요지는 보통 사람들이 생각하지 못한 추가 정보나 새로운 시각을 제공하기 위해서예요.",
+    "text_zh": "这个意思就是说要有骨气，该反对的时候就要反对。也就是说，当我们要做什么重要决定的时候，如果你是团队的一份子，你就有责任把自己的想法说出来，特别是当你不同意现在这个做法的时候。其实disagreement的目的呢，通常是为了提供一些额外的信息，或者是大家之前没有考虑到的新角度。",
+    "text_es": "Esto significa que hay que tener agallas y estar en desacuerdo cuando sea necesario. O sea, cuando estamos tomando cualquier tipo de decisión importante, si formas parte de ese equipo, de esa unidad, es tu obligación expresar tu punto de vista si no estás de acuerdo con el enfoque que se está tomando. El objetivo de ese desacuerdo, por cierto, es aportar información adicional o una perspectiva nueva que la gente no ha considerado."
+  },
+  {
+    "text": "I got great advice actually from one of my managers at one point, Steve Kessel who said, 'You have to look for what that is, and then your job is to then take that kernel and try to run with it and expand it and try to see how I can take that idea, that concept, and then make it into something viable.'",
+    "speaker": "Bill Carr",
+    "timestamp": "00:30:37",
+    "context": "Lenny asks Bill for advice on what to do when you still disagree after going through the disagree and commit process. Bill shares personal experience working with Jeff Bezos on ideas he didn't initially agree with. He explains how his manager Steve Kessel advised him to focus on the core kernel of the leader's thinking and try to make that concept viable, rather than just going through the motions.",
+    "vocabulary_highlights": [
+      "take that kernel and try to run with it",
+      "make it into something viable"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Communication Skills"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Consulting",
+    "speaker_expertise": [
+      "Marketplace",
+      "Marketing Strategy",
+      "Growth Strategy"
+    ],
+    "text_ko": "사실 예전에 매니저였던 스티브 케슬에게서 정말 좋은 조언을 들었어요. \"그게 뭔지 찾아내고, 그 핵심(kernel)을 잡아서 그걸 바탕으로 직접 밀고 나가서 확장해 보고, 그 아이디어나 개념을 어떻게 실현 가능한 형태로 만들 수 있을지 보는 게 네 일이에요.\"",
+    "text_zh": "其实我有个经理Steve Kessel给过我一个特别好的建议，他说：\"你得去找到那个点在哪里，然后你的工作就是抓住这个核心，去推进它，去扩展它，看看怎么能把这个想法、这个概念变成真正可行的东西。\"",
+    "text_es": "Recibí un consejo buenísimo de uno de mis jefes, Steve Kessel, que me dijo: 'Tienes que buscar cuál es esa cosa, y entonces tu trabajo es agarrar esa semillita e intentar desarrollarla y expandirla, y ver cómo puedes tomar esa idea, ese concepto, y convertirlo en algo que realmente funcione.'"
+  },
+  {
+    "text": "We took it as an article of faith that if we served customers well, if we prioritized customers and delivered for them, we took it as an article of faith that then things like sales, things like revenue and active customers and things like the share price and free cash flow would follow. So therefore, when we're making a decision thinking about a problem, we're going to start with what's best for the customer and then come backward from there.",
+    "speaker": "Bill Carr",
+    "timestamp": "00:37:57",
+    "context": "Lenny asks Bill to explain the concept of 'working backwards' and how it differs from working forwards. Bill describes Amazon's core philosophy of customer obsession, explaining that they believed as an article of faith that prioritizing customer needs would ultimately drive business success. This belief informed their decision-making process of starting with customer problems rather than business constraints.",
+    "vocabulary_highlights": [
+      "took it as an article of faith",
+      "come backward from there"
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Product Management"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Consulting",
+    "speaker_expertise": [
+      "Marketplace",
+      "Marketing Strategy",
+      "Growth Strategy"
+    ],
+    "text_ko": "저희는 고객에게 잘해드리고 고객을 최우선으로 삼아 가치를 제공하면, 매출(sales)이나 수익(revenue), 활성 고객 수(active customers), 주가(share price), 잉여현금흐름(free cash flow) 같은 것들이 자연스럽게 따라온다고 믿었어요. 그래서 문제를 고민하고 결정을 내릴 때는 항상 고객에게 무엇이 가장 좋은지부터 시작해서 거기서부터 역으로 생각해요.",
+    "text_zh": "我们坚信一个道理，就是只要我们好好服务客户，把客户放在第一位，真正为他们交付价值，那么销售额啊、营收啊、活跃客户数啊，还有股价、自由现金流(free cash flow)这些东西自然就会跟上来。所以我们在做决策、思考问题的时候，都是先考虑什么对客户最好，然后再往回推。",
+    "text_es": "Nosotros teníamos la convicción absoluta de que si atendíamos bien a los clientes, si los poníamos como prioridad y les cumplíamos, teníamos la fe ciega de que entonces todo lo demás iba a venir solo: las ventas, los ingresos, los clientes activos, el precio de las acciones y el flujo de caja libre (free cash flow). Por eso, cuando estamos tomando una decisión o analizando un problema, siempre arrancamos preguntándonos qué es lo mejor para el cliente y de ahí trabajamos hacia atrás."
+  }
+]

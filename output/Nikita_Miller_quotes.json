@@ -1,0 +1,158 @@
+[
+  {
+    "text": "And some folks, myself included at certain points, swung way too far on the outcomes train and forgot that output is an indicator of that. So if you have a team that's doing all of the ideation and figuring out how to make decisions quickly and getting the right documentation and setting up the right product briefs and design briefs and experiment briefs, all the things that we know go into to successful product development, that's great, but if you're also not shipping a lot of things to market quickly enough, then it just doesn't matter that much.",
+    "speaker": "Nikita Miller",
+    "timestamp": "00:00:00",
+    "context": "Lenny asks Nikita about lessons she's learned about building successful teams. Nikita explains a common problem she's observed across companies where teams become too focused on outcomes (like setting goals and OKRs) while neglecting output (actual shipping and execution). She argues that while having the right goals is important, teams also need to monitor how quickly they're actually delivering products to market, as output serves as a key indicator of whether the outcomes-focused approach is working.",
+    "vocabulary_highlights": [
+      "swung way too far",
+      "outcomes train",
+      "indicator of that",
+      "go into",
+      "doesn't matter that much"
+    ],
+    "topics": [
+      "Product Management",
+      "Leadership & Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "Team Building",
+      "Growth Strategy"
+    ],
+    "text_ko": "사실 어떤 사람들, 저도 가끔 그랬는데, 성과(outcomes)에만 너무 치우치다 보니 산출(output)이 그걸 보여주는 지표라는 걸 잊었어요. 그래서 팀이 아이데이션(ideation)을 하고, 빠르게 의사결정하는 방법을 찾아 문서화도 잘 해두고, 제품 브리프(product briefs), 디자인 브리프(design briefs), 실험 브리프(experiment briefs) 같은 것들까지 다 갖추고 있다면 그건 정말 좋은 일이에요. 그런데도 시장에 빨리 많이 출시(shipping)하지 못하면 그건 별로 큰 의미가 없어요.",
+    "text_zh": "有些人，包括我自己在某些时候，都太过于追求结果导向，忘记了产出其实是结果的一个体现。所以说，如果你的团队在做头脑风暴(ideation)、快速决策、整理合适的文档、制定产品简报(product briefs)、设计简报(design briefs)、实验简报(experiment briefs)等等这些我们都知道对成功的产品开发很重要的事情，这当然很好，但如果你们同时没有足够快地把很多东西推向市场，那这些其实都没什么太大意义。",
+    "text_es": "Y algunas personas, yo incluido en ciertos momentos, nos fuimos demasiado al extremo con el tema de los resultados finales y se nos olvidó que lo que produces es un indicador de eso. O sea, si tienes un equipo que está haciendo toda la lluvia de ideas (ideation) y descubriendo cómo tomar decisiones rápido y consiguiendo la documentación correcta y armando los briefs de producto adecuados y los briefs de diseño y los briefs de experimentos, todas esas cosas que sabemos que van en el desarrollo exitoso de productos, eso está genial, pero si también no estás lanzando muchas cosas al mercado lo suficientemente rápido, entonces realmente no importa tanto."
+  },
+  {
+    "text": "The exercise that I often do is I generally have an idea of what I think the roles and responsibilities are and the expectations across these four roles, but the exercise especially with leaders in an org is to have them sit down and write them for each other. So Atlassian has some of this that they do in the form of playbooks, but it's basically I as a product leader, I'm going to write down what I think the expectations and the role and responsibilities of my engineering manager, of my designer, of my data.",
+    "speaker": "Nikita Miller",
+    "timestamp": "16:53",
+    "context": "Lenny asks Nikita about her biggest lessons for building successful teams. Nikita describes her framework for creating clear roles and responsibilities within cross-functional product teams. She advocates for expanding the traditional product-design-engineering triad to include data scientists as a fourth member. Her approach involves having each team member write down not only their own role but also their expectations of their counterparts, then reviewing these together to create a shared agreement or 'contract' about how the team will work together.",
+    "vocabulary_highlights": [
+      "sit down and write them",
+      "in the form of",
+      "write down"
+    ],
+    "topics": [
+      "Product Management",
+      "Leadership & Management",
+      "Communication Skills"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "Team Building",
+      "Growth Strategy"
+    ],
+    "text_ko": "제가 자주 하는 연습은 보통 이 네 가지 역할에 대해 제가 생각하는 역할과 책임(roles and responsibilities)과 기대치를 대략 정리해 놓는 거예요. 그런데 조직 내 리더들과 할 때는 서로 앉아서 각자 서로를 위해 그걸 직접 써보게 하는 게 핵심이에요. Atlassian도 이런 걸 플레이북(playbooks) 형태로 일부 하고 있고, 기본적으로 저는 프로덕트 리더(product leader)로서 제 엔지니어링 매니저(engineering manager), 디자이너(designer), 데이터 담당자(data)에게 기대하는 역할과 책임을 직접 적어보는 거예요.",
+    "text_zh": "我经常做的一个练习是这样的：虽然我心里大概知道这四个岗位的职责分工和期望值是什么，但我特别喜欢让团队里的领导们坐下来，互相给对方写一遍。Atlassian就有类似的做法，他们叫playbook（工作手册），基本上就是我作为产品负责人，把我认为的工程经理、设计师、数据分析师他们各自的职责和期望值都写下来。",
+    "text_es": "El ejercicio que suelo hacer es que generalmente tengo una idea de cuáles creo que son los roles y responsabilidades, y las expectativas entre estos cuatro roles, pero el ejercicio, especialmente con líderes en la organización, es hacer que se sienten y los escriban el uno para el otro. Atlassian tiene algo de esto que hacen en forma de playbooks, pero básicamente es: yo, como líder de producto, voy a escribir lo que creo que son las expectativas, el rol y las responsabilidades de mi gerente de ingeniería, de mi diseñador, de mi analista de datos."
+  },
+  {
+    "text": "From my experience as a product manager, it was always a blocker. Getting your hands on the data, maybe having someone to troubleshoot with if as a PM you couldn't kind of understand or figure it out yourself, it was just always a blocker. And so then you'd also then have to go and negotiate with other teams about getting someone's resources to look at this problem, so that's one.",
+    "speaker": "Nikita Miller",
+    "timestamp": "22:13",
+    "context": "Lenny asks why Nikita pushes to embed data scientists directly into product teams rather than having them in a centralized data team. Nikita explains that when data scientists are centralized, product managers constantly face delays in getting data analysis done. They have to negotiate with other teams for data science resources and wait in queues, which slows down product development. Having a dedicated data scientist on each product team eliminates these bottlenecks and allows for faster decision-making.",
+    "vocabulary_highlights": [
+      "getting your hands on",
+      "troubleshoot with",
+      "figure it out yourself",
+      "negotiate with"
+    ],
+    "topics": [
+      "Product Management",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "Team Building",
+      "Growth Strategy"
+    ],
+    "text_ko": "프로덕트 매니저(product manager)로 일하면서 제 경험으론 그게 항상 블로커(blocker)였어요. 데이터를 직접 확보하거나 접근하는 것 자체가 문제였고, PM(PM) 혼자서 이해하거나 해결하기 어려울 때 같이 트러블슈팅(troubleshoot)해줄 사람이 없으면 더 막혔죠. 그래서 다른 팀에 가서 누군가의 리소스(resources)를 빌려 이 문제를 봐 달라고 조율해야 했어요. 그게 한 가지 큰 문제였어요.",
+    "text_zh": "从我做产品经理的经验来看，这个一直都是个障碍。想要拿到数据，或者找个人帮你排查问题，如果你作为PM自己搞不定的话，这就一直卡在那儿。然后你还得去跟其他团队谈，让他们分个人手来看这个问题，这是其中一点。",
+    "text_es": "Por mi experiencia como product manager, siempre era un cuello de botella (blocker). El poder acceder a los datos, tal vez tener a alguien con quien resolver problemas si como PM no podías como que entenderlo o resolverlo tú solo, simplemente siempre era un obstáculo. Y entonces también tenías que ir a negociar con otros equipos para conseguir que alguien dedicara recursos a mirar este problema, eso es una cosa."
+  },
+  {
+    "text": "I'll tell you what I do. I don't know, I think folks might get defensive sometime. But I'll tell you what I try. For me the biggest thing is just if folks are working on a sprint, it's very simply, 'What did you deliver this sprint?' That's it. Just ask a bunch of questions. 'What did you deliver?' And more questions, 'Okay, fine, but what did you deliver to production? Great. And how long have you been working on that? How long? What was the cycle time?'",
+    "speaker": "Nikita Miller",
+    "timestamp": "31:53",
+    "context": "Lenny asks how to help teams recognize when they're not delivering enough output without making them defensive. Nikita shares her approach of asking direct but non-accusatory questions about actual deliverables. Rather than making statements about poor performance, she focuses on understanding what was actually shipped to production and how long it took. This questioning approach helps teams self-reflect on their execution velocity while avoiding defensiveness that comes from direct criticism.",
+    "vocabulary_highlights": [
+      "get defensive",
+      "ask a bunch of questions",
+      "cycle time"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Communication Skills"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "Team Building",
+      "Growth Strategy"
+    ],
+    "text_ko": "제가 어떻게 하는지 말해드릴게요. 글쎄요, 사람들은 가끔 방어적으로 나올 때가 있는 것 같아요. 그래도 제가 시도하는 건 이거예요. 제일 중요한 건 스프린트(sprint) 동안 사람들이 실제로 뭘 했는지예요. 아주 단순하게 \"이번 스프린트에서 무엇을 배포했나요?\" 그게 전부예요. 그냥 질문을 막 던져요. \"무엇을 배포했나요?\" 그리고 더 물어봐요. \"좋아요, 그런데 그걸 프로덕션(production)에 배포했나요?\" \"잘했네요. 그걸 얼마나 오래 작업했나요? 얼마나요? 사이클 타임(cycle time)은 어땠나요?\"",
+    "text_zh": "我跟你说我是怎么做的。我也不知道，可能有些人会觉得不舒服吧。但我告诉你我的做法。对我来说最重要的就是，如果团队在做冲刺(sprint)的话，很简单，就问\"这个冲刺你们交付了什么？\"就这样。就是不停地问问题。\"你们交付了什么？\"然后接着问，\"好吧，那你们实际上线了什么？很好。那你们在这上面花了多长时间？多久？周期时间(cycle time)是多少？\"",
+    "text_es": "Te voy a decir lo que hago yo. No sé, creo que a veces la gente se puede poner a la defensiva. Pero te cuento lo que trato de hacer. Para mí lo más importante es simplemente, si el equipo está trabajando en un sprint, muy sencillo: \"¿Qué entregaron en este sprint?\" Y ya. Nada más hacer un montón de preguntas. \"¿Qué entregaron?\" Y más preguntas: \"Bueno, está bien, ¿pero qué subieron a producción? Perfecto. ¿Y cuánto tiempo llevan trabajando en eso? ¿Cuánto tiempo? ¿Cuál fue el tiempo de ciclo (cycle time)?\""
+  },
+  {
+    "text": "When I reflect back on what works across my early career, it really comes down in a nutshell to this career concept of explore and exploit. You're either in a mode of explorer where you have a bunch of unknowns and you're testing to see whether or not you like it, or you're exploiting, where you actually have found something that's really rich and really deep.",
+    "speaker": "Nikita Miller",
+    "timestamp": "15:59",
+    "context": "Lenny asks about Nikita's biggest lessons for building successful teams, and she shifts to discussing team building fundamentals. Nikita explains that successful team building starts with clearly defining individual roles and responsibilities, particularly within cross-functional product teams. She advocates for what she calls a 'quartet' approach - expanding the traditional product-design-engineering triad to include data scientists as a fourth core member of product teams.",
+    "vocabulary_highlights": [
+      "in a nutshell",
+      "mode of explorer",
+      "bunch of unknowns",
+      "really rich and really deep"
+    ],
+    "topics": [
+      "Career Development",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "Team Building",
+      "Growth Strategy"
+    ],
+    "text_ko": "제 경력 초반에 뭐가 통했나 돌아보면, 한마디로 경력 개념인 '탐색과 활용(explore and exploit)'으로 정리돼요. 보통은 미지의 게 많아서 이 일이 맞는지, 내가 좋아하는지 시험해보는 탐색자 모드(explorer)에 있거나, 아니면 정말 깊고 가치 있는 무언가를 찾아내 그걸 깊이 파고들며 활용하는 활용 모드(exploit)에 있어요.",
+    "text_zh": "回头想想我职业生涯早期什么管用，说白了就是两个字：探索和深耕。要么你在探索模式，面对一堆未知的东西，试试看自己到底喜不喜欢；要么你在深耕模式，已经找到了真正有价值、有深度的东西，就使劲挖下去。",
+    "text_es": "Cuando reflexiono sobre lo que me funcionó en mis primeros años profesionales, todo se resume básicamente en este concepto de carrera: explorar y explotar. O estás en modo explorador, donde tienes un montón de incógnitas y estás probando a ver si te gusta, o estás explotando, donde ya encontraste algo que realmente vale la pena y tiene mucha profundidad."
+  },
+  {
+    "text": "So when I say outcome, you're saying here's the goal they're achieving or the impact they're having, or is it just the idea we know what our outcome will be but they're not actually shipping anything? The outcomes are understanding what the goals are and what we might do to get there. So OKRs is one way to talk about that. Great. But embedded in that is and how are we going to get there? And the fact is, the more tries you have at it, the likelier you are to get it right.",
+    "speaker": "Nikita Miller",
+    "timestamp": "27:04",
+    "context": "Lenny asks Nikita to clarify what she means by outcomes versus output after she mentioned teams focusing too heavily on outcomes. Nikita explains that outcomes refer to understanding goals and strategy (like OKRs), but teams often get stuck in planning mode. She emphasizes that successful execution requires multiple attempts and iterations - the more experiments and products you ship to market, the higher your chances of achieving your desired outcomes. The key is balancing strategic thinking with actual delivery.",
+    "vocabulary_highlights": [
+      "embedded in that",
+      "the more tries you have at it",
+      "the likelier you are"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "Team Building",
+      "Growth Strategy"
+    ],
+    "text_ko": "제가 '성과(outcome)'라고 말할 때, 당신은 그들이 달성하려는 목표나 만들어내는 영향(impact)을 말하는 건가요, 아니면 결과는 알고 있는데 실제로는 아무 것도 출시(shipping)하지 않는다는 뜻인가요? 성과라는 건 목표가 무엇인지, 그리고 그 목표에 도달하기 위해 우리가 무엇을 할 수 있을지 이해하는 거예요. 그래서 OKR(목표와 핵심 결과, OKRs)이 그걸 이야기하는 한 방법이에요. 좋은 접근이에요. 그런데 거기에는 '우리는 어떻게 그 목표에 도달할 것인가?'라는 질문이 포함돼 있어요. 그리고 사실 여러 번 시도해볼수록 정답을 맞출 가능성이 더 커져요.",
+    "text_zh": "所以我说到结果的时候，你是指他们要达成的目标或者产生的影响，还是说我们只是知道会有什么结果，但实际上他们什么都没做出来？这里说的结果就是要搞清楚目标是什么，我们可能怎么去实现。所以OKR就是讨论这个的一种方法。很好。但这里面还包含一个问题——我们怎么去实现？事实上就是，你尝试的次数越多，成功的可能性就越大。",
+    "text_es": "Entonces cuando digo resultado, ¿te refieres a que aquí está la meta que están logrando o el impacto que están teniendo, o es solo la idea de que sabemos cuál va a ser nuestro resultado pero en realidad no están entregando nada? Los resultados tienen que ver con entender cuáles son los objetivos y qué podríamos hacer para llegar ahí. Los OKRs son una forma de hablar de eso. Perfecto. Pero dentro de eso está el cómo vamos a llegar ahí. Y la realidad es que mientras más intentos tengas, más probable es que le atines."
+  }
+]

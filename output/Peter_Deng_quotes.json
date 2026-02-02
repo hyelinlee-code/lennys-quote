@@ -1,0 +1,155 @@
+[
+  {
+    "text": "I think education is going to change in a big way. And I think a lot about this because I'm involved in my kid's school quite a bit, and that's something I've done after I left OpenAI. And what's fascinating to me is that watching my son who got to dog food, a bunch of the OpenAI stuff before it was public, I think I can safely say that, that seems okay. And when he was playing with ChatGPT and some of the latest models and he was nine at the time, I can already see his brain rewiring.",
+    "speaker": "Peter Deng",
+    "timestamp": "00:11:35",
+    "context": "Lenny asks Peter what specific thing will change in a big way with AI that people don't think enough about. Peter explains that education will transform dramatically as young people's minds adapt to AI tools. He shares how his nine-year-old son used ChatGPT and other OpenAI models before they were public, and Peter observed how exposure to AI at an early age was literally changing how his son's brain processed information and approached problems.",
+    "vocabulary_highlights": [
+      "dog food",
+      "brain rewiring",
+      "I can safely say"
+    ],
+    "topics": [
+      "Learning & Growth",
+      "Decision Making"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "AI/ML Products",
+      "Growth Strategy"
+    ],
+    "text_ko": "교육이 크게 변할 거라고 생각해요. 제가 아이 학교에 많이 참여하고 있어서 이 부분에 대해 많이 고민하게 되는데, OpenAI를 떠난 이후로 계속 그렇게 하고 있어요. 그리고 저에게 흥미로운 점은, 제 아들이 공개되기 전에 OpenAI의 여러 제품을 사용해 본 경험이 있다는 거예요. 그때 그가 ChatGPT 같은 최신 모델을 가지고 놀 때, 아홉 살이었는데, 그의 사고 방식이 이미 바뀌고 있는 걸 느낄 수 있었어요.",
+    "text_zh": "我觉得教育肯定会有翻天覆地的变化。我经常想这个问题，因为离开OpenAI之后，我在我儿子学校那边参与得挺多的。最让我觉得神奇的是，看着我儿子体验那些OpenAI还没公开的产品——我觉得可以这么说吧，应该没什么问题。当时他才九岁，在玩ChatGPT和一些最新的模型时，我已经能看出来他的思维方式在发生变化。",
+    "text_es": "Creo que la educación va a cambiar de manera radical. Y pienso mucho en esto porque estoy bastante involucrado en el colegio de mi hijo, algo que he estado haciendo después de dejar OpenAI. Y lo que me parece fascinante es que al ver a mi hijo, que pudo probar internamente (dog food) un montón de cosas de OpenAI antes de que fueran públicas, creo que puedo decir con seguridad que eso estuvo bien. Y cuando estaba jugando con ChatGPT y algunos de los modelos más recientes - tenía nueve años en ese momento - ya podía ver cómo se le estaba reconfigurando el cerebro."
+  },
+  {
+    "text": "Sometimes your product actually doesn't matter. At Uber, I learned this because, really, the price and the ETA at Uber was the product. Looking at it from a holistic perspective, we humans consume the entirety of the product. It's not to say that you shouldn't fix the bug, but it doesn't have as much of an impact as something that is more important to people.",
+    "speaker": "Peter Deng",
+    "timestamp": "00:00:21",
+    "context": "Lenny asks Peter about the most counterintuitive lesson he's learned about building products. Peter shares a hard-learned insight from his time leading the Uber Rider product team - that the digital interface and app features he was optimizing weren't actually the core product. Instead, the real product was the operational elements like pricing and estimated time of arrival, which had much more impact on user satisfaction than any UI improvements.",
+    "vocabulary_highlights": [
+      "holistic perspective",
+      "entirety of the product",
+      "hard hitting"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "AI/ML Products",
+      "Growth Strategy"
+    ],
+    "text_ko": "사실 때로는 제품(product) 자체가 크게 중요하지 않을 때가 있어요. 우버에서 일하면서 그걸 배웠어요. 우버에서는 사실 가격과 도착 예정 시간(ETA)이 곧 그 제품이나 마찬가지였거든요. 전체적인 관점에서 보면 사람들은 제품 전체의 경험을 소비해요. 버그(bug)를 안 고치라는 얘기는 아니에요. 다만 사람들에게 더 중요한 것들에 비하면 그런 건 영향력이 크지 않을 때가 많아요.",
+    "text_zh": "有时候你的产品本身其实没那么重要。我在优步(Uber)的时候就发现了这一点，因为说白了，优步真正的产品就是价格和预估到达时间(ETA)。从整体角度来看，我们人类消费的是整个产品体验。这不是说你不用修bug，而是这些东西的影响力远不如那些用户真正在意的东西。",
+    "text_es": "A veces tu producto en realidad no importa tanto. En Uber aprendí esto porque, la verdad, el precio y el tiempo estimado de llegada eran realmente el producto. Si lo ves desde una perspectiva más amplia, nosotros como usuarios consumimos la experiencia completa del producto. No es que no debas arreglar el bug, pero no va a tener tanto impacto como algo que realmente le importa más a la gente."
+  },
+  {
+    "text": "You have to plan your chess moves out in advance. You have to really think before you act and build systems that were going to let you go sustainably faster. Because the zero to one is you're trying to find that product market fit and then when you get to one to 100, you're trying to make sure you can get to hyperscale as fast as you can.",
+    "speaker": "Peter Deng",
+    "timestamp": "00:00:12",
+    "context": "Lenny asks Peter about important lessons for building products from idea to billions of users, drawing on Peter's experience scaling products like Facebook Newsfeed, Messenger, Instagram, and ChatGPT. Peter explains that scaling from one to 100 users requires different thinking than finding initial product-market fit - you must build robust systems and infrastructure that will support rapid growth rather than just moving fast and breaking things.",
+    "vocabulary_highlights": [
+      "chess moves out in advance",
+      "sustainably faster",
+      "hyperscale"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "AI/ML Products",
+      "Growth Strategy"
+    ],
+    "text_ko": "체스처럼 몇 수 앞을 미리 내다보고 계획해야 해요. 행동하기 전에 충분히 생각하고, 속도를 내되 지속 가능하게 더 빨리 움직일 수 있게 해주는 시스템을 만들어야 해요. 왜냐하면 제로 투 원(zero to one)은 제품-시장 적합도(product-market fit)를 찾는 단계이고, 1에서 100(1 to 100)은 가능한 한 빨리 하이퍼스케일(hyperscale)에 도달할 수 있도록 준비하는 단계이기 때문이에요.",
+    "text_zh": "你得提前规划好每一步棋。在行动之前必须深思熟虑，搭建能让你可持续快速发展的体系。因为从零到一(zero to one)阶段，你要找的是产品市场契合度(product market fit)，而到了一到一百(one to 100)阶段，你得确保能以最快速度实现超大规模增长(hyperscale)。",
+    "text_es": "Tienes que planear tus jugadas de ajedrez con anticipación. Realmente tienes que pensar bien antes de actuar y crear sistemas que te permitan crecer de manera sostenible y más rápido. Porque en la fase de cero a uno estás tratando de encontrar ese ajuste producto-mercado (product market fit), y después cuando llegas a la fase de uno a cien, tienes que asegurarte de poder llegar al hiperescalamiento (hyperscale) lo más rápido posible."
+  },
+  {
+    "text": "In 6 months, if I'm telling you what to do, I've hired the wrong person. It helps me and the person operate on a different level where the goal is not, did you hit this OKR? The Meta goal becomes, are we calibrating enough? Are we actually getting into a spot where in 6 months you're the one telling me what needs to be done?",
+    "speaker": "Peter Deng",
+    "timestamp": "00:01:00",
+    "context": "Lenny asks Peter what he looks for when hiring people. Peter shares his signature hiring philosophy that has helped him build successful teams across Facebook, Instagram, Uber, OpenAI and other companies. Rather than focusing on specific skills, he optimizes for people who can quickly become autonomous and eventually guide him rather than need constant direction, which creates a meta-goal of developing true partnership rather than just task completion.",
+    "vocabulary_highlights": [
+      "meta goal",
+      "calibrating enough",
+      "operate on a different level"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Coaching & Development"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "AI/ML Products",
+      "Growth Strategy"
+    ],
+    "text_ko": "6개월 후에 내가 너한테 뭘 해야 한다고 말하고 있다면, 내가 잘못된 사람을 고용한 거야. 그게 나와 너가 다른 차원에서 일하는 데 도움이 돼. 목표가 '이 OKR을 달성했냐?'가 아니라, '우리가 충분히 조율하고 있냐?'로 바뀌는 거지. 6개월 후에는 네가 나한테 뭘 해야 하는지 말해주는 위치에 가는 게 목표야.",
+    "text_zh": "六个月后，如果还是我在告诉你该做什么，那说明我招错人了。这样我们俩就能在一个更高的层面上合作，目标不再是你有没有完成这个OKR，而是我们有没有磨合到位？六个月后能不能达到那种状态——变成你来告诉我需要做什么？",
+    "text_es": "En 6 meses, si yo te tengo que estar diciendo qué hacer, es que contraté a la persona equivocada. Esto nos ayuda tanto a mí como a la persona a operar en otro nivel, donde el objetivo ya no es ¿cumpliste con este OKR? El meta objetivo se convierte en ¿nos estamos calibrando lo suficiente? ¿Realmente estamos llegando al punto donde en 6 meses seas tú quien me diga qué hay que hacer?"
+  },
+  {
+    "text": "I think there are five different types of product managers. Number one is the consumer PM. This is the person that's half designer, half product person, really obsessed over the details. Another type is the growth PM. These people are half data scientist, half product person, they are wired to think numbers first and they have this air about them that's like the best ones do, which is like, 'I'm really skeptical. Show me the data.'",
+    "speaker": "Peter Deng",
+    "timestamp": "00:01:20",
+    "context": "Peter shares a framework he developed at Uber for understanding different product manager archetypes. He explains that rather than viewing PM as a single role, there are five distinct types with different natural motivations and skills. He describes consumer PMs who focus on craft and user experience, and growth PMs who are data-driven and skeptical, noting how these different types create healthy tension when working together on teams.",
+    "vocabulary_highlights": [
+      "wired to think",
+      "have this air about them",
+      "really skeptical"
+    ],
+    "topics": [
+      "Product Management",
+      "Leadership & Management",
+      "Coaching & Development"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "AI/ML Products",
+      "Growth Strategy"
+    ],
+    "text_ko": "제품 관리자(product manager)가 다섯 가지 유형이 있다고 생각해요. 첫 번째는 컨슈머 PM(consumer PM)이에요. 이 사람은 반은 디자이너, 반은 제품 담당자(product person) 같은 스타일로 세세한 부분에 진짜 집착해요. 또 다른 유형은 그로스 PM(growth PM)이에요. 이들은 반은 데이터 과학자(data scientist), 반은 제품 담당자(product person)라서 숫자를 가장 먼저 생각하는 사고방식이에요. 그리고 최고의 그들은 ‘저는 정말 회의적이에요. 데이터로 보여주세요.’라는 태도를 풍겨요.",
+    "text_zh": "我觉得产品经理(PM)大概分五种类型吧。第一种是消费者产品经理，这种人一半是设计师，一半是产品人，特别抠细节，就是那种细节控。还有一种是增长产品经理，这些人一半是数据科学家，一半是产品人，脑子里第一反应就是数字，而且那些厉害的都有个特点，就是特别较真儿，张口就是\"拿数据说话\"。",
+    "text_es": "Creo que hay cinco tipos diferentes de product managers. El primero es el PM de consumidor. Esta persona es mitad diseñador, mitad product person, súper obsesionado con los detalles. Otro tipo es el PM de crecimiento (growth PM). Estas personas son mitad científico de datos, mitad product person, están programados para pensar primero en números y tienen esa actitud que tienen los mejores, que es como 'Soy muy escéptico. Enséñame los datos.'"
+  },
+  {
+    "text": "Say you're going to do the thing, say that you're doing the thing, and then say that you did it. By giving this phrase to Joanne, maybe it was just like, 'Hey, let's just be very intentional about what we build.' That becomes a constant reminder. And it also has this other effect, where if you're saying, 'This is what I'm doing,' and then that's a thing that your manager's like, 'Wait, we don't need to do that anymore,' you can have a conversation about that.",
+    "speaker": "Peter Deng",
+    "timestamp": "01:18:51",
+    "context": "Lenny asks Peter about management advice he gave to Joanne Jang at OpenAI for managing up more effectively. Peter explains this simple three-part communication framework that helps people stay aligned with their managers and teams. The framework forces intentionality in planning, creates opportunities for course correction during execution, and ensures proper communication of completed work and impact.",
+    "vocabulary_highlights": [
+      "very intentional",
+      "constant reminder",
+      "course correction"
+    ],
+    "topics": [
+      "Communication Skills",
+      "Leadership & Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "AI/ML Products",
+      "Growth Strategy"
+    ],
+    "text_ko": "먼저 “이거 할게요”라고 말하고, 하고 있을 땐 “지금 하고 있어요”라고 알리고, 끝나면 “다 했어요”라고 말하세요. 이 말을 조앤에게 건네면서 ‘우리가 만드는 것에 대해 훨씬 더 의도적으로 하자’는 느낌이었을 거예요. 그 말이 계속 상기시켜 주는 역할을 해요. 또 한 가지 효과는, ‘이걸 하고 있다’고 미리 말해 두면 매니저가 ‘잠깐, 그건 이제 안 해도 돼요’라고 할 때 그걸 가지고 대화를 나눌 수 있다는 거예요.",
+    "text_zh": "要做什么事就说出来，正在做的时候也要说，做完了还要说一声。我把这话告诉乔安妮，其实就是想说\"咱们做什么都得有个明确的目标\"。这样能时刻提醒自己。还有个好处，当你说\"我现在在做这个\"的时候，如果你老板觉得\"诶，这事儿不用做了\"，你们俩就能马上沟通一下。",
+    "text_es": "Dile que vas a hacer algo, dile que lo estás haciendo, y después dile que ya lo hiciste. Al darle esta frase a Joanne, tal vez era como decirle, 'Oye, seamos muy claros con lo que vamos a construir.' Se vuelve un recordatorio constante. Y también tiene otro efecto: cuando dices 'Esto es lo que estoy haciendo,' y tu jefe te dice, 'Espera, ya no necesitamos hacer eso,' ahí puedes tener una conversación al respecto."
+  }
+]

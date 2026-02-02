@@ -1,0 +1,180 @@
+[
+  {
+    "text": "One is, there's a group of people who think that software building in the future is going to look very much like it does today, which mostly means text editing, formal programming languages, like TypeScript, and Go, and C, and Rust. And then there's another group that kind of thinks you're just going to type into a bot, and you're going to ask it to build you something, and then you're going to ask it to change something about what you're building, and it's kind of like this chatbot, Slackbot style where you're talking to your engineering department. And we think that there are problems with both of those visions.",
+    "speaker": "Michael Truell",
+    "timestamp": "00:05:21",
+    "context": "Lenny asks Michael about his vision of 'what comes after code' - essentially how programming will evolve beyond current methods. Michael is explaining why he disagrees with two popular visions for the future of software development. He argues that one camp thinks nothing will change from today's text-based coding, while another camp believes everything will be done through chatbot-style interactions with AI.",
+    "vocabulary_highlights": [
+      "formal programming languages",
+      "chatbot, Slackbot style",
+      "both of those visions"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Leadership",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Product Strategy",
+      "Company Building"
+    ],
+    "text_ko": "한쪽에는 앞으로 소프트웨어 개발이 지금과 거의 똑같을 거라고 보는 사람들이 있어요. 그 말은 대부분 텍스트 편집(text editing)과 정형화된 프로그래밍 언어(TypeScript, Go, C, Rust)로 작업하는 방식이라는 뜻이에요. 다른 한쪽은 그냥 봇(bot)에게 타이핑해서 뭔가를 만들어 달라고 하고, 그 만든 것에 대해 바꿔 달라고 말하면 되는 식일 거라고 생각해요 — 일종의 챗봇(chatbot), 슬랙봇(Slackbot) 스타일로 엔지니어링 부서(engineering department)랑 대화하듯이요. 저희는 그 두 가지 전망 모두에 문제점이 있다고 생각해요.",
+    "text_zh": "一种观点是，有一群人认为未来的软件开发基本上还会和现在差不多，主要就是编辑文本，用正式的编程语言，比如TypeScript、Go、C和Rust这些。另一种观点呢，有些人觉得以后你就直接跟机器人聊天就行了，让它帮你做个什么东西，然后再让它改改这改改那的，就像跟聊天机器人(chatbot)或者Slack机器人(Slackbot)对话一样，感觉像是在跟你们工程部门聊天似的。我们觉得这两种想法都有问题。",
+    "text_es": "Mira, hay un grupo de gente que piensa que el desarrollo de software en el futuro va a ser muy parecido a como es hoy en día, o sea, básicamente editando texto, usando lenguajes de programación formales como TypeScript, Go, C y Rust. Y después está el otro grupo que más bien cree que simplemente vas a escribirle a un bot, le vas a pedir que te construya algo, y luego le vas a decir que le cambie tal o cual cosa a lo que estás desarrollando, como si fuera un chatbot estilo Slackbot donde estás hablando con tu departamento de ingeniería. Y nosotros creemos que ambas visiones tienen sus problemas."
+  },
+  {
+    "text": "And so a world after code, I think that it looks like a world where you have a representation of the logic of your software that does look more like English, you have written down... You can imagine in [inaudible] form, you can imagine in kind of an evolution of programming language towards pseudocode. You have written down the logic of the software, and you can edit that at a high level, and you can point at that.",
+    "speaker": "Michael Truell",
+    "timestamp": "00:06:10",
+    "context": "Lenny is asking Michael to elaborate on his concept of 'what comes after code.' Michael is describing his vision where programming evolves from today's complex code syntax to something more human-readable, resembling English or pseudocode. This represents his prediction for how software development will fundamentally change as AI capabilities improve.",
+    "vocabulary_highlights": [
+      "world after code",
+      "evolution of programming language towards pseudocode",
+      "edit that at a high level"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Leadership",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Product Strategy",
+      "Company Building"
+    ],
+    "text_ko": "제가 보기에는 코드(code) 이후의 세상은 소프트웨어(software) 로직을 더 영어처럼 보이는 형태로 표현해 둔 게 있고, 그걸 적어놓을 수 있는 세상이에요. 어떤 방식으로든 프로그래밍 언어(programming language)가 의사 코드(pseudocode) 쪽으로 진화한 모습을 상상할 수 있고, 소프트웨어 로직을 적어두고 그것을 고수준(high level)에서 편집할 수 있으며, 그냥 가리키기만 해서 수정할 수도 있어요.",
+    "text_zh": "所以我觉得后代码时代(post-code)的世界，应该是这样的：你的软件逻辑表达会更像英语，你把逻辑写下来...你可以想象成某种形式，也可以想象成编程语言朝着伪代码(pseudocode)方向的演进。你把软件的逻辑写出来，然后可以在高层面上编辑，也可以直接指向那些逻辑。",
+    "text_es": "Y entonces, un mundo después del código, yo creo que se ve como un mundo donde tienes una representación de la lógica de tu software que se parece más al inglés, donde has escrito... Te puedes imaginar de forma [inaudible], te puedes imaginar como una evolución del lenguaje de programación hacia pseudocódigo. Has escrito la lógica del software, y puedes editarla a alto nivel, y puedes señalarla directamente."
+  },
+  {
+    "text": "I think taste will be increasingly more valuable. And I think often when people think about tastes in the realm of software, they think about visuals, or taste over smooth animations, and coloring things, UI, UX, et cetera on the visual design of things. And the visual side of things is an important part of defining a piece of software, but then, as mentioned before, I think that the other half of defining a piece of software is the logic of it, and how the thing works.",
+    "speaker": "Michael Truell",
+    "timestamp": "00:08:33",
+    "context": "Lenny asks what skills will become more valuable in the future world where coding evolves beyond traditional programming languages. Michael explains that 'taste' - the ability to make good decisions about what should be built - will become increasingly important. He argues that taste applies not just to visual design elements, but also to the underlying logic and functionality of software.",
+    "vocabulary_highlights": [
+      "taste will be increasingly more valuable",
+      "in the realm of software",
+      "the other half of defining"
+    ],
+    "topics": [
+      "Career Development",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Leadership",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Product Strategy",
+      "Company Building"
+    ],
+    "text_ko": "앞으로 미적 감각의 가치가 점점 더 커질 거예요. 그리고 소프트웨어에서의 감각을 말할 때 사람들은 보통 시각적 요소, 즉 부드러운 애니메이션(smooth animations)이나 색채 처리, 사용자 인터페이스(UI), 사용자 경험(UX) 같은 시각적 디자인(visual design)부터 떠올리는 경우가 많아요. 시각적 측면이 소프트웨어를 정의하는 데 중요한 부분인 건 맞지만, 앞서 말한 것처럼 나머지 절반은 그 소프트웨어의 로직(logic), 즉 실제로 어떻게 작동하느냐에 있다고 생각해요.",
+    "text_zh": "我觉得品味会越来越值钱。说到软件的品味，大家往往想到的是视觉效果，比如流畅的动画啊，配色啊，UI、UX这些视觉设计方面的东西。视觉确实是定义一个软件很重要的部分，但就像我刚才说的，我觉得定义软件的另一半是它的逻辑，也就是这个东西到底怎么运作的。",
+    "text_es": "Creo que el buen gusto va a ser cada vez más valioso. Y me parece que cuando la gente piensa en el gusto en el mundo del software, se enfocan en lo visual, o en el gusto por las animaciones fluidas, los colores, la UI, UX, etcétera, todo lo relacionado con el diseño visual. Y sí, la parte visual es importante para definir un software, pero como mencioné antes, creo que la otra mitad de lo que define un software es la lógica detrás, cómo funciona realmente la cosa."
+  },
+  {
+    "text": "And so I think that more and more, being an engineer will start to feel like being a logic designer, and really, it will be about specifying your intent for how exactly you want everything to work. It'd be more about the whats, and a little bit less about how exactly you're going to do things under the hood.",
+    "speaker": "Michael Truell",
+    "timestamp": "00:09:22",
+    "context": "Lenny is asking about what skills will be valuable as programming evolves beyond traditional code. Michael is explaining how the role of software engineers will transform - instead of focusing on the technical implementation details ('how'), engineers will focus more on defining the desired outcomes and logic ('what'). He uses the term 'logic designer' to describe this future role.",
+    "vocabulary_highlights": [
+      "logic designer",
+      "specifying your intent",
+      "under the hood"
+    ],
+    "topics": [
+      "Career Development",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Leadership",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Product Strategy",
+      "Company Building"
+    ],
+    "text_ko": "그래서 점점 엔지니어라는 일이 논리 디자이너(logic designer)처럼 느껴질 것 같아요. 실제로는 모든 것이 정확히 어떻게 동작하길 원하는지 의도를 명확히 하는 일이 될 거예요. 무엇을 할지(what)에 더 집중하고, 내부에서 어떻게 구체적으로 구현할지(under the hood)에는 좀 덜 신경 쓰게 될 거예요.",
+    "text_zh": "所以我觉得，工程师这个职业会越来越像做逻辑设计师，关键是要把你的想法说清楚——你到底想要什么样的效果。重点会放在\"要什么结果\"上，而不是纠结底层具体怎么实现。",
+    "text_es": "Y entonces creo que cada vez más, ser ingeniero va a empezar a sentirse como ser un diseñador de lógica, y en realidad, va a tratarse de especificar tu intención de cómo exactamente quieres que funcione todo. Va a ser más sobre los qués, y un poco menos sobre cómo exactamente vas a hacer las cosas por debajo del capó (under the hood)."
+  },
+  {
+    "text": "I think that vibe coding right now describes exactly this state of creation that is pretty controversial, where you're generating a lot of coding, you aren't really understanding the details. That is a state of creation that then has lots of problems, you don't really... By not understanding the details under the hood right now, you then very quickly get to a place where you're kind of limited at a certain point, where you create something that's big enough that you can't change.",
+    "speaker": "Michael Truell",
+    "timestamp": "00:10:40",
+    "context": "Lenny asks if Michael's vision relates to 'vibe coding' - a controversial programming approach where developers generate code quickly without fully understanding the technical details. Michael explains that while vibe coding represents a new state of creation, it currently has limitations because when you don't understand the underlying implementation, you eventually hit barriers where you can't modify or scale your creation effectively.",
+    "vocabulary_highlights": [
+      "vibe coding",
+      "state of creation",
+      "under the hood",
+      "limited at a certain point"
+    ],
+    "topics": [
+      "Product Management",
+      "Learning & Growth"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Leadership",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Product Strategy",
+      "Company Building"
+    ],
+    "text_ko": "지금 '바이브 코딩(vibe coding)'이라는 표현이 바로 이런 꽤 논란이 되는 만드는 상태를 정확히 설명한다고 생각해요. 코드를 엄청 많이 생성하긴 하는데 내부 구조(under the hood) 같은 세부를 제대로 이해하진 못하는 거죠. 그런 방식은 나중에 여러 문제를 만들어요. 세부를 모른 채로 가다 보면 금방 한계에 부딪히고, 어느 순간엔 너무 커져서 변경하기 어려운 걸 만들게 돼요.",
+    "text_zh": "我觉得现在这种氛围编程(vibe coding)说的就是这么一种创作状态，挺有争议的，就是你能生成大量代码，但其实你并不真正理解细节。这种创作状态问题很多，你不是真的...因为不了解底层的具体原理，你很快就会遇到瓶颈，到了某个点就被卡住了，你做出来的东西太大太复杂，根本没法改。",
+    "text_es": "Creo que lo que llaman \"vibe coding\" describe perfectamente este estado de creación que genera bastante polémica, donde estás produciendo un montón de código pero realmente no entiendes los detalles. Es un estado de creación que trae muchos problemas después, porque al no entender lo que está pasando por debajo, llegas muy rápido a un punto donde te quedas limitado, donde creates algo tan grande que ya no lo puedes cambiar."
+  },
+  {
+    "text": "We definitely didn't expect to be doing any of our own model development when we started. As mentioned, when we got into this, there were companies that were immediately from the get-go going and just focusing on training model from scratch. And we had done the calculation for what it to train before, and just knew that that was not going to be able to do. And also felt a bit like focusing one's attention in the wrong area, because there were lots of amazing models out there, and why develop all this work to replicate what other players had done.",
+    "speaker": "Michael Truell",
+    "timestamp": "00:00:20",
+    "context": "Lenny asks about the most counterintuitive lesson Michael learned while building Cursor. Michael explains that they initially planned to rely entirely on existing AI models from other companies, believing it would be inefficient to replicate work that had already been done. However, they eventually discovered that custom model development became essential for creating the best user experience, which was unexpected given their original strategy.",
+    "vocabulary_highlights": [
+      "from the get-go",
+      "done the calculation",
+      "focusing one's attention in the wrong area",
+      "replicate what other players had done"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Leadership",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Product Strategy",
+      "Company Building"
+    ],
+    "text_ko": "처음 시작할 때 우리가 직접 모델 개발(model development)을 하게 될 줄은 전혀 몰랐어요. 말씀드린 것처럼, 우리가 이 분야에 들어왔을 때는 어떤 회사들이 시작부터 처음부터 학습시키는(training models from scratch)에만 바로 전념하고 있었죠. 우리는 모델을 학습시키는 데 드는 비용과 시간 등을 계산해봤고, 우리로선 그걸 감당할 수 없을 거라는 결론이었어요. 또 주의를 잘못된 곳에 두는 것 같다는 느낌도 들었어요. 이미 훌륭한 모델들이 많은데, 다른 플레이어들이 해놓은 걸 똑같이 복제하기 위해 그 많은 노력을 들일 이유가 없으니까요.",
+    "text_zh": "我们一开始真的没想过要自己搞模型开发。就像前面说的，当时我们刚入行的时候，已经有不少公司从一开始就专门做从零训练模型这块。我们之前算过从头训练模型要花多少钱，就知道我们肯定搞不起。而且我们也觉得把注意力放在这上面有点跑偏了，因为市面上已经有很多很棒的模型了，为什么还要花那么大力气去重复别人已经做过的事情呢。",
+    "text_es": "Definitivamente no esperábamos acabar desarrollando nuestros propios modelos cuando empezamos. Como mencioné, cuando nos metimos en esto, había empresas que desde el primer día se lanzaron a entrenar modelos desde cero. Ya habíamos calculado lo que costaba entrenar antes, y sabíamos que eso no lo íbamos a poder hacer. Y también sentíamos que era como enfocar la atención en el lugar equivocado, porque había un montón de modelos increíbles por ahí, y para qué desarrollar todo ese trabajo para replicar lo que otros ya habían hecho."
+  },
+  {
+    "text": "And at this point, every magic moment in Cursor involves a custom model in some way. So that was definitely counterintuitive, and surprising, and it's been a gradual thing, where there was an initial use case for training our own model, where it really didn't make sense to use any of the biggest foundation models. That was incredibly successful, moved to another use case that worked really well, and had been going from there.",
+    "speaker": "Michael Truell",
+    "timestamp": "00:33:18",
+    "context": "Lenny asks about counterintuitive lessons from building Cursor. Michael is continuing his explanation about how they unexpectedly ended up developing their own AI models despite initially planning to rely on existing ones. He reveals that every impressive feature ('magic moment') in Cursor now uses some form of custom model, and this transition happened gradually as they found specific use cases where custom models significantly outperformed existing foundation models.",
+    "vocabulary_highlights": [
+      "every magic moment",
+      "counterintuitive",
+      "gradual thing",
+      "foundation models"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Leadership",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Product Strategy",
+      "Company Building"
+    ],
+    "text_ko": "지금은 Cursor의 모든 매직 모먼트(magic moment)에 어떤 식으로든 맞춤형 모델(custom model)이 들어가 있어요. 그래서 처음엔 확실히 직관에 반하는 일이라 놀랐어요. 이건 점진적으로 이뤄진 변화인데, 초반에는 자체 모델을 학습시키는 초기 사용 사례(initial use case)가 있었고 그때는 가장 큰 파운데이션 모델들(foundation models)을 쓰는 게 전혀 말이 안 됐어요. 그게 엄청 성공했고, 그다음엔 또 잘 맞는 다른 사용 사례로 옮겨가서 잘 작동했어요. 그 이후로는 계속 그런 식으로 발전해왔어요.",
+    "text_zh": "现在Cursor里每个让人眼前一亮的功能，背后都离不开我们自己训练的模型。说实话，这确实挺反直觉的，也挺出人意料的。这是个循序渐进的过程，一开始我们遇到一个使用场景，用那些大的基础模型根本不合适，只能自己训练模型。结果效果出奇的好，然后我们又在另一个场景试了试，也很成功，就这样一步步做下来的。",
+    "text_es": "Y en este punto, cada momento mágico en Cursor involucra un modelo personalizado de alguna manera. Así que definitivamente fue algo contraintuitivo y sorprendente, y ha sido algo gradual, donde hubo un caso de uso inicial para entrenar nuestro propio modelo, donde realmente no tenía sentido usar ninguno de los modelos fundacionales (foundation models) más grandes. Eso fue increíblemente exitoso, pasamos a otro caso de uso que funcionó muy bien, y desde ahí hemos seguido avanzando."
+  }
+]

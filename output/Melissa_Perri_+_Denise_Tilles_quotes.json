@@ -1,0 +1,145 @@
+[
+  {
+    "text": "Do you want to hire 10,000 product managers and let them all do these things off the side of their desk and then concentrate on strategic work 30% of the time or do you want them concentrating on strategic work majority of the time and then help build a product operations team around them that can create these shared systems and this infrastructure to allow them to work better?",
+    "speaker": "Melissa Perri",
+    "timestamp": "00:00:00",
+    "context": "Lenny asks Melissa about the value proposition of product operations. Melissa is explaining the fundamental choice companies face when scaling their product management function. She's arguing that as companies grow, product managers end up spending most of their time on operational tasks like data analysis, research coordination, and process management rather than strategic work. The alternative is to build a product operations team that can handle these operational tasks through shared systems and infrastructure, allowing product managers to focus primarily on strategic decisions.",
+    "vocabulary_highlights": [
+      "off the side of their desk",
+      "shared systems",
+      "infrastructure"
+    ],
+    "topics": [
+      "Product Management",
+      "Leadership & Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "Engineering Leadership"
+    ],
+    "text_ko": "프로덕트 매니저(product managers) 1만 명을 뽑아서 이런 일들을 각자 책상 옆에서 겸사겸사 처리하게 두고 전략 업무에는 30%만 집중하게 할 건가요, 아니면 전략 업무에 대부분의 시간을 쓰게 하고 그들 주변에 프로덕트 오퍼레이션(product operations) 팀을 만들어 공통 시스템과 인프라를 구축해 더 효율적으로 일하게 도와줄 건가요?",
+    "text_zh": "你是想招一万个产品经理，让他们把这些事情当副业来做，然后只有30%的时间搞战略工作？还是说让他们把大部分时间都专注在战略上，然后帮他们搭建一个产品运营(product operations)团队，建立这些共享系统和基础设施，让他们能更高效地工作？",
+    "text_es": "¿Quieres contratar 10,000 gerentes de producto y dejar que hagan todas estas cosas como tareas secundarias mientras se concentran en trabajo estratégico solo el 30% del tiempo, o prefieres que se enfoquen en trabajo estratégico la mayor parte del tiempo y ayudar a construir un equipo de operaciones de producto a su alrededor que pueda crear estos sistemas compartidos y esta infraestructura para que trabajen mejor?"
+  },
+  {
+    "text": "Product operations does not take away decision making rights from the product manager. It's there to inform them. So if you're judging your success as a product manager of, \"Hey, I do the SQL queries and I have to spend the 50 hours to set up all these customer interviews and calls,\" that to me is very operational process type work, but it's not work that's going to help you make a decision about your product.",
+    "speaker": "Melissa Perri",
+    "timestamp": "00:08:48",
+    "context": "Lenny expresses concern that product managers might feel threatened by product operations taking over their responsibilities. Melissa is addressing the fear that product ops will diminish the PM role by clarifying that product ops handles operational tasks, not strategic decision-making. She argues that activities like writing SQL queries and coordinating interviews are time-consuming operational work that doesn't directly contribute to product decisions, and product ops should handle these tasks to free up PMs for more strategic work.",
+    "vocabulary_highlights": [
+      "judging your success",
+      "operational process type work"
+    ],
+    "topics": [
+      "Product Management",
+      "Decision Making"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "Engineering Leadership"
+    ],
+    "text_ko": "제품 운영(Product operations)은 프로덕트 매니저(product manager)의 의사결정 권한을 빼앗는 게 아니에요. 결정을 내리도록 정보를 제공하는 역할이에요. 그래서 본인이 '내가 SQL 쿼리(SQL queries)를 직접 돌리고, 고객 인터뷰랑 통화 일정을 잡느라 50시간을 써야 성공한 매니저다'라고 스스로 평가한다면, 그건 제게는 굉장히 운영적이고 프로세스 중심적인 업무예요. 그런데 그런 일들은 제품에 대한 결정을 내리는 데 실제로 도움이 되지 않아요.",
+    "text_zh": "产品运营(product operations)并不是要抢产品经理的决策权，而是为了给他们提供信息支持。如果你作为产品经理，把成功标准定义为\"我得自己写SQL查询，还得花50个小时去安排客户访谈和电话沟通\"，那在我看来，这些确实是很重要的运营流程工作，但这些事情并不能真正帮你做出关于产品的决策。",
+    "text_es": "Las operaciones de producto no le quitan al product manager el derecho a tomar decisiones. Están ahí para darle información. Entonces, si como product manager estás midiendo tu éxito por \"Oye, yo hago las consultas SQL y tengo que dedicar 50 horas a organizar todas estas entrevistas y llamadas con clientes,\" para mí eso es trabajo muy operativo, pero no es trabajo que te va a ayudar a tomar decisiones sobre tu producto."
+  },
+  {
+    "text": "What I constantly hear from product managers though is, \"I am so busy, I don't have time to do the things that I need to do correctly. I'm so busy trying to line up customer interviews,\" or, \"I'm so busy just trying to get data out of systems. I'm fighting these fights to get the things that I need to do my job correctly that I don't have time to do my job correctly,\" and that's what we're trying to help them with.",
+    "speaker": "Melissa Perri",
+    "timestamp": "00:10:27",
+    "context": "Melissa continues explaining why product operations is valuable for product managers. She's describing the common frustration PMs experience when they get bogged down in operational tasks like scheduling interviews and extracting data from systems. The core problem she identifies is that PMs spend so much time on these supporting activities that they can't focus on their primary job responsibilities of making strategic product decisions and working directly on product development.",
+    "vocabulary_highlights": [
+      "line up customer interviews",
+      "fighting these fights",
+      "get data out of systems"
+    ],
+    "topics": [
+      "Product Management",
+      "Work-Life Balance"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "Engineering Leadership"
+    ],
+    "text_ko": "제가 프로덕트 매니저(product managers)들한테서 늘 듣는 말이 있어요. \"너무 바빠서 제대로 해야 할 일을 할 시간이 없어요. 고객 인터뷰(customer interviews) 일정 잡느라 정신이 없고,\" 또는 \"시스템에서 데이터(data)를 뽑아오느라 바빠서, 일하려면 필요한 것들을 얻기 위해 계속 싸우느라 정작 일을 제대로 할 시간이 없어요.\" 그래서 우리가 도와주려는 게 바로 그 부분이에요.",
+    "text_zh": "不过我经常听产品经理们说，\"我忙得要死，根本没时间把该做的事情做到位。我光是安排客户访谈就忙得团团转\"，或者\"我光是从系统里搞数据就够呛了。我天天为了拿到做好工作需要的东西跟各种人扯皮，结果反而没时间好好干活\"，这就是我们想帮他们解决的问题。",
+    "text_es": "Lo que escucho constantemente de los product managers es: \"Estoy súper ocupado, no tengo tiempo para hacer las cosas como se debe. Ando corriendo tratando de conseguir entrevistas con clientes\" o \"Estoy batallando para sacar datos de los sistemas. Me la paso peleando para conseguir lo que necesito para hacer bien mi trabajo, que al final no tengo tiempo para hacerlo bien\", y justo en eso es donde les queremos echar la mano."
+  },
+  {
+    "text": "We usually see that high growth companies start with business data and insights and make sure that they can actually monitor what they're doing and get the strategic inputs. We see larger companies and enterprises go more towards the process and governance, especially if they're in, let's say, a transformation because they don't have the infrastructure to run good product.",
+    "speaker": "Melissa Perri",
+    "timestamp": "00:13:03",
+    "context": "Lenny asks about which of the three product ops pillars (business data and insights, customer and market insights, or process and practices) is most important. Melissa explains that the priority depends on the company's stage and situation. High-growth companies typically need better data and insights to make strategic decisions quickly, while larger, more established companies often need help with processes and governance, especially during digital transformations when they're building their product management capabilities from scratch.",
+    "vocabulary_highlights": [
+      "strategic inputs",
+      "run good product"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "Engineering Leadership"
+    ],
+    "text_ko": "보통 고성장 기업들(high growth companies)은 비즈니스 데이터와 인사이트(business data and insights)에서 출발해서, 자신들이 하는 일을 실제로 모니터링할 수 있는지와 전략적 인풋(strategic inputs)을 제대로 확보하고 있는지를 확인해요. 반면에 더 큰 기업들이나 엔터프라이즈(enterprises)는 프로세스와 거버넌스(process and governance)에 더 초점을 맞추는 편인데, 특히 트랜스포메이션(transformation) 중이라면 좋은 프로덕트(product)를 운영할 인프라(infrastructure)가 갖춰져 있지 않아서 그렇게 하는 경우가 많아요.",
+    "text_zh": "我们通常看到高增长的公司都是从业务数据和洞察入手，确保他们能实时监控自己在做什么，获得战略层面的输入。而那些大企业更倾向于先搞流程和治理这一套，特别是在转型期的时候，因为他们缺乏运营好产品的基础设施。",
+    "text_es": "Por lo general vemos que las empresas de alto crecimiento arrancan con los datos del negocio y los insights, y se aseguran de que realmente puedan monitorear lo que están haciendo y obtener esa información estratégica clave. En cambio, las empresas más grandes y las corporaciones tienden más hacia los procesos y la gobernanza, sobre todo si están en una transformación, digamos, porque no tienen la infraestructura para manejar bien el producto."
+  },
+  {
+    "text": "I also think it's funny how many people want to be a product manager until they realize what product management entails. This happens a lot and I saw it with my MBA students at Harvard too. We do a whole class, they play a product manager. I had a lot of people opt out of being a product manager at the end of it. They were like, \"I did not realize it was like that. I did not realize I had to do so many things.\"",
+    "speaker": "Melissa Perri",
+    "timestamp": "00:21:41",
+    "context": "Melissa is discussing why people underestimate the complexity of product management roles. She shares her experience teaching MBA students at Harvard, where students initially express interest in product management but change their minds after experiencing what the role actually involves. This supports her argument for product operations - that PM roles have become overwhelmingly complex with too many different responsibilities, making it difficult for people to excel at the strategic aspects of the job.",
+    "vocabulary_highlights": [
+      "opt out",
+      "I did not realize it was like that"
+    ],
+    "topics": [
+      "Product Management",
+      "Career Development"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "Engineering Leadership"
+    ],
+    "text_ko": "저도 많은 사람이 프로덕트 매니저(product manager)가 되고 싶어하지만, 정작 프로덕트 매니지먼트(product management)가 뭔지를 알게 되면 생각이 바뀌는 게 참 신기해요. 하버드에서 가르친 제 MBA 학생들에게도 똑같이 그걸 봤어요. 수업 하나를 통째로 구성해서 학생들이 프로덕트 매니저 역할을 맡아보게 했는데, 수업이 끝날 때쯤 꽤 많은 학생이 \"이런 줄 몰랐어요. 이렇게 해야 할 일이 많은 줄 몰랐어요\"라며 프로덕트 매니저 하기를 포기하겠다고 하더라고요.",
+    "text_zh": "我也觉得挺有意思的，很多人都想当产品经理(product manager)，但真正了解产品管理(product management)是干什么的时候就不想干了。这种情况特别常见，我在哈佛教MBA学生的时候也经常遇到。我们专门有一堂课让他们体验当产品经理，结果课程结束后好多人都打退堂鼓了。他们就说：\"我之前完全不知道是这样的，没想到要管这么多事儿。\"",
+    "text_es": "También me parece gracioso cómo hay muchísima gente que quiere ser product manager hasta que se da cuenta de lo que realmente implica la gestión de producto. Pasa un montón y lo vi también con mis estudiantes de MBA en Harvard. Hacemos toda una clase donde interpretan el papel de product manager. Al final, muchos decidían que no era lo suyo. Me decían, \"No tenía ni idea de que fuera así. No sabía que había que hacer tantas cosas.\""
+  },
+  {
+    "text": "So I work with all these CPOs, these VPs of product and they're like ... I see them just not working on strategy. I'm like, \"Why are you not working on strategy?\" and they're like, \"I don't have time to do that. I'm in here stopping all these fires. I'm figuring out what template I should put my roadmap in.\" Like I said, it's not hard. They know what template it should be in, but think about if you now can delegate that to somebody else and say, \"I want it in this template. Go roll it out. Go roll it out, go train everybody on it, find the right software for it, do it.\"",
+    "speaker": "Melissa Perri",
+    "timestamp": "00:22:46",
+    "context": "Melissa is explaining how product operations benefits not just individual product managers but also senior product leaders. She describes how Chief Product Officers and VPs of Product get consumed by operational tasks like creating templates and stopping fires rather than focusing on strategic work. Her point is that while these leaders know what needs to be done operationally, having someone else execute and roll out these operational tasks frees up the leaders to focus on the high-level strategic work that justifies their senior roles and salaries.",
+    "vocabulary_highlights": [
+      "stopping all these fires",
+      "go roll it out",
+      "delegate that to somebody else"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "Engineering Leadership"
+    ],
+    "text_ko": "저는 많은 CPO(Chief Product Officer)와 VP(부사장)들과 일하는데, 그분들이 전략에 집중하지 않는 걸 자주 봐요. 그래서 \"왜 전략에 신경 안 쓰세요?\"라고 물어보면, \"그럴 시간이 없어요. 여기서 불 끄느라 바빠요. 로드맵에 어떤 템플릿을 써야 할지 고민하고 있어요.\"라고 하더라고요. 사실 그렇게 어렵지 않은데, 그분들도 어떤 템플릿을 써야 하는지 알고 있어요. 그런데 만약 그걸 다른 사람에게 맡길 수 있다면, \"이 템플릿으로 해주세요. 진행해 주세요. 모든 사람에게 교육도 시켜 주세요, 적절한 소프트웨어도 찾아 주세요, 진행해 주세요.\"라고 할 수 있다면 좋겠죠.",
+    "text_zh": "我跟这些CPO、产品VP们打交道，发现他们就是不做战略规划。我就问他们，\"你们怎么不做战略啊？\"他们说，\"哪有时间啊，天天在这儿救火呢。还得琢磨路线图(roadmap)用什么模板。\"其实吧，这事儿不难，他们心里清楚该用什么模板，但是你想想，如果现在能把这活儿交给别人，直接说，\"我要用这个模板，你去搞定。去推广，去培训大家怎么用，找合适的软件，全给我办了。\"",
+    "text_es": "Entonces trabajo con todos estos CPOs, estos VPs de producto y están como... los veo que simplemente no se enfocan en estrategia. Les digo, \"¿Por qué no están trabajando en estrategia?\" y me dicen, \"No tengo tiempo para eso. Estoy aquí apagando fuegos todo el día. Estoy tratando de decidir en qué plantilla poner mi roadmap.\" Como dije, no es difícil. Ellos saben en qué plantilla debería ir, pero piensen si ahora pueden delegar eso a alguien más y decir, \"Lo quiero en esta plantilla. Ve e impleméntalo. Ve e impleméntalo, ve y entrena a todos, busca el software adecuado, hazlo.\""
+  }
+]

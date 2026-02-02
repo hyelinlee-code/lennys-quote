@@ -1,0 +1,138 @@
+[
+  {
+    "text": "Most productivity metrics are a lie. If the goal is more lines of code, I can prompt something to write the longest piece of code ever. It's just too easy to gain that system.",
+    "speaker": "Nicole Forsgren",
+    "timestamp": "00:00:03",
+    "context": "Lenny asks Nicole about how companies are measuring productivity for their teams in the age of AI. Nicole explains that traditional productivity metrics like lines of code have become meaningless with AI tools because they can be easily gamed. She points out that AI agents and LLMs tend to be very verbose by default, making it trivial to generate large amounts of code that may introduce complexity and technical debt rather than actual value.",
+    "vocabulary_highlights": [
+      "gain that system",
+      "too easy to gain"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Consulting",
+    "speaker_expertise": [
+      "Engineering Leadership",
+      "Product Management"
+    ],
+    "text_ko": "사실 대부분의 생산성 지표(productivity metrics)는 속임수예요. 목표가 코드 라인 수(lines of code)를 늘리는 것이라면, 가장 긴 코드를 쓰게 만드는 프롬프트(prompt)를 얼마든지 만들 수 있어요. 그런 식으로 시스템을 조작(game the system)하는 건 너무 쉬워요.",
+    "text_zh": "大部分生产力指标都是扯淡。如果目标是写更多代码行数，我随便找个工具就能生成史上最长的代码。这种系统太好钻空子了。",
+    "text_es": "La mayoría de las métricas de productividad son pura mentira. Si el objetivo es más líneas de código, puedo pedirle a cualquier herramienta que me escriba el código más largo del mundo. Es súper fácil manipular ese sistema."
+  },
+  {
+    "text": "Most teams can move faster. But faster for what? We can ship trash faster every single day. We need strategy and really smart decisions to know what to ship.",
+    "speaker": "Nicole Forsgren",
+    "timestamp": "00:00:12",
+    "context": "Lenny asks how to know if an engineering team is moving fast enough or if they can move faster. Nicole responds that while most teams have room for improvement in speed, velocity alone isn't valuable without direction. She emphasizes that the real challenge isn't just moving faster, but ensuring teams are building the right things with proper strategic guidance.",
+    "vocabulary_highlights": [
+      "ship trash"
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Consulting",
+    "speaker_expertise": [
+      "Engineering Leadership",
+      "Product Management"
+    ],
+    "text_ko": "대부분의 팀은 더 빨리 움직일 수 있어요. 그런데 더 빨라지는 게 무슨 소용일까요? 매일 쓰레기를 더 빠르게 출시(ship)할 수도 있어요. 뭘 출시할지 알려면 전략(strategy)과 정말 현명한 판단이 필요해요.",
+    "text_zh": "大部分团队都能提速，但是提速是为了什么呢？我们完全可以每天更快地出垃圾产品。关键是要有战略眼光，做明智的决策，知道该推出什么产品。",
+    "text_es": "La mayoría de los equipos pueden ir más rápido. ¿Pero más rápido para qué? Podemos lanzar basura más rápido todos los días. Lo que necesitamos es estrategia y decisiones realmente inteligentes para saber qué vale la pena sacar al mercado."
+  },
+  {
+    "text": "We can't just put in a command and guess something back and accept it. We really need to evaluate it. Are we seeing hallucinations? What's the reliability? Does it meet the style that we would typically write?",
+    "speaker": "Nicole Forsgren",
+    "timestamp": "00:00:27",
+    "context": "Lenny discusses how one of the biggest issues with AI will be learning how much to trust the code it generates. Nicole explains that unlike traditional code compilation where you get clear feedback, LLMs are non-deterministic and require careful evaluation. She emphasizes the need to check for AI hallucinations, reliability issues, and whether the generated code meets the team's coding standards before accepting it.",
+    "vocabulary_highlights": [
+      "put in a command and guess something back"
+    ],
+    "topics": [
+      "Product Management",
+      "Decision Making"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Consulting",
+    "speaker_expertise": [
+      "Engineering Leadership",
+      "Product Management"
+    ],
+    "text_ko": "명령을 입력해서 AI가 그냥 대충 추측해 내놓은 답을 그대로 받아들일 수는 없어요. 반드시 검증해봐야 해요. 환각(hallucination)이 있는 건 아닌가요? 신뢰성은 어느 정도인가요? 우리가 평소 쓰는 문체에 맞나요?",
+    "text_zh": "我们不能就这么输个指令，然后AI随便给个回复我们就接受了。真的需要好好评估一下——有没有出现幻觉(hallucination)？可靠性怎么样？风格符不符合我们平时的写作习惯？",
+    "text_es": "No podemos simplemente meter un comando y aceptar cualquier cosa que nos devuelva. De verdad necesitamos evaluarlo bien. ¿Estamos viendo alucinaciones (hallucinations)? ¿Qué tan confiable es? ¿Cumple con el estilo que normalmente manejamos nosotros?"
+  },
+  {
+    "text": "There's some real opportunity there to not just rethink workflows, but rethink how we structure our days and how we structure our work. Now, we can also make a 45-minute work block useful because getting into the flow is actually kind of handed off, at least, in part to the machine or the machine can help us get back into the flow by, reminding us of context and generating diagrams of the system.",
+    "speaker": "Nicole Forsgren",
+    "timestamp": "00:00:42",
+    "context": "Lenny and Nicole are discussing how AI is changing the nature of engineering work, with more time spent reviewing code versus writing it. Nicole explains that this shift presents an opportunity to restructure how developers organize their workdays. She references research showing humans can only do about four hours of deep work daily, but suggests AI tools might make shorter work blocks more productive by helping developers get into flow states faster.",
+    "vocabulary_highlights": [
+      "handed off",
+      "getting into the flow",
+      "work block"
+    ],
+    "topics": [
+      "Work-Life Balance",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Consulting",
+    "speaker_expertise": [
+      "Engineering Leadership",
+      "Product Management"
+    ],
+    "text_ko": "단순히 워크플로(workflows)를 다시 생각하는 수준이 아니라, 하루를 어떻게 짜고 업무를 어떻게 구성할지 자체를 재구성할 수 있는 진짜 기회가 있어요. 그리고 45분짜리 작업 단위도 쓸모 있게 만들 수 있어요. 플로우(flow)에 들어가는 건 적어도 일부는 기계(예: AI)가 맡아줄 수 있고, 기계가 맥락을 상기시켜주거나 시스템 다이어그램(system diagrams)을 만들어줘서 다시 플로우로 돌아가게 도와줄 수 있으니까요.",
+    "text_zh": "这里真的有很大机会，不只是重新考虑工作流程，而是重新思考我们怎么安排一天的时间，怎么组织工作。现在我们也能让45分钟的工作时间块变得很有用，因为进入心流状态(flow state)这件事其实可以部分交给机器来处理，或者说机器可以帮我们重新进入状态——比如提醒我们上下文，生成系统图表什么的。",
+    "text_es": "Ahí hay una oportunidad real de no solo repensar los flujos de trabajo (workflows), sino también repensar cómo estructuramos nuestros días y cómo organizamos nuestro trabajo. Ahora también podemos hacer que un bloque de 45 minutos de trabajo sea útil porque entrar en el flujo (flow) se puede delegar, al menos en parte, a la máquina, o la máquina nos puede ayudar a recuperar ese flujo recordándonos el contexto y generando diagramas del sistema."
+  },
+  {
+    "text": "Honestly, I think the best thing you can do is go talk to people and listen. I love that the audience of this podcast is primarily PMs because they tend to be really good at this. And I would say start with listening and not with tools and automation.",
+    "speaker": "Nicole Forsgren",
+    "timestamp": "00:22:21",
+    "context": "Lenny asks Nicole for one practical thing that engineering or product teams can do immediately to improve their developer experience and get more done. Nicole emphasizes that the most effective starting point isn't implementing new tools or automation, but rather conducting a listening tour with developers to understand their actual pain points and friction areas in their daily work.",
+    "vocabulary_highlights": [],
+    "topics": [
+      "Communication Skills",
+      "Leadership & Management",
+      "Coaching & Development"
+    ],
+    "difficulty_level": "Beginner",
+    "speaker_function": "Consulting",
+    "speaker_expertise": [
+      "Engineering Leadership",
+      "Product Management"
+    ],
+    "text_ko": "솔직히 말하면, 가장 좋은 건 사람들을 직접 만나서 얘기하고 귀 기울이는 거예요. 이 팟캐스트 청중이 주로 프로덕트 매니저(PM)분들이라는 게 마음에 들어요 — 보통 이걸 잘하거든요. 그리고 저는 도구나 자동화부터 시작하지 말고 일단 듣는 것부터 시작하라고 권해요.",
+    "text_zh": "说实话，我觉得最好的办法就是去跟人聊，多听听。我特别喜欢这个播客的听众主要都是PM，因为他们在这方面通常很在行。我建议先从倾听开始，别一上来就想着用什么工具和自动化。",
+    "text_es": "La verdad, creo que lo mejor que puedes hacer es ir a hablar con la gente y escuchar. Me encanta que la audiencia de este podcast sean principalmente PMs porque suelen ser muy buenos en esto. Y yo diría que empieces por escuchar, no por las herramientas y la automatización."
+  },
+  {
+    "text": "Most teams can move faster, right? Also, given what we know about cognitive load, not all speed gains are necessarily good. Or the upside is going to be kind of limited once you hit kind of a certain point, and most people are not even near that point.",
+    "speaker": "Nicole Forsgren",
+    "timestamp": "00:26:50",
+    "context": "Lenny asks Nicole the challenging question that most founders think about: how to know if an engineering team is moving fast enough or could move faster. Nicole explains that while most teams have room for improvement, there are diminishing returns to speed gains due to cognitive load limitations. However, she notes that most teams haven't reached the point where these limitations become a concern.",
+    "vocabulary_highlights": [
+      "cognitive load",
+      "upside is going to be kind of limited",
+      "hit kind of a certain point"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Consulting",
+    "speaker_expertise": [
+      "Engineering Leadership",
+      "Product Management"
+    ],
+    "text_ko": "대부분 팀은 더 빨리 움직일 수 있어요, 그렇죠? 또 인지 부하(cognitive load)에 대해 우리가 아는 걸 감안하면, 속도를 올린다고 해서 다 좋은 건 아니에요. 어떤 한계점에 이르면 얻을 수 있는 이득이 제한될 텐데, 대부분 사람들은 그 지점에조차 못 미쳐요.",
+    "text_zh": "大部分团队都能提速，对吧？不过从认知负荷(cognitive load)的角度来看，提速也不见得都是好事。到了某个节点之后，收益其实就很有限了，而且大多数人连那个节点都还没碰到呢。",
+    "text_es": "La mayoría de los equipos pueden ir más rápido, ¿no? Pero también, con lo que sabemos sobre la carga cognitiva (cognitive load), no todas las mejoras de velocidad son necesariamente buenas. O sea, los beneficios van a ser medio limitados una vez que llegas a cierto punto, y la mayoría de la gente ni siquiera está cerca de ese punto."
+  }
+]

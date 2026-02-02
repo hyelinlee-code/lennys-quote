@@ -1,0 +1,158 @@
+[
+  {
+    "text": "We have a side car product called Snyk Advisor. Snyk Advisor, it's basically a service that developers use to search and find open source packages when they're considering integrating some within their software applications. The unique thing about it is it indexes all of the package managers. It learns about those packages. It augments the data about them with a bunch of metadata, including of course Snyk security scans, but we also find out how actively maintained the software is on the source repo on GitHub or wherever.",
+    "speaker": "Ben Williams",
+    "timestamp": "00:23:44",
+    "context": "Lenny asks Ben about the growth tactics and content loops that have worked well for Snyk beyond their GitHub pull request strategy. Ben explains one of their successful programmatic SEO strategies through a product called Snyk Advisor. This tool helps developers search and evaluate open source packages by providing comprehensive metadata including security information and maintenance activity. The strategy works as a growth loop because developers searching for packages on Google find Snyk's indexed pages in search results, learn about package security, and are then directed to sign up for Snyk's main security platform.",
+    "vocabulary_highlights": [
+      "side car product",
+      "augments the data",
+      "bunch of metadata"
+    ],
+    "topics": [
+      "Growth & Marketing",
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Growth Strategy",
+      "Community Building",
+      "Monetization"
+    ],
+    "text_ko": "Snyk Advisor라는 사이드카(sidecar) 제품이 있어요. Snyk Advisor는 기본적으로 개발자들이 소프트웨어에 통합하려고 할 때 오픈 소스 패키지(open source packages)를 검색하고 찾아보는 데 쓰는 서비스예요. 이 제품의 특징은 모든 패키지 매니저(package managers)를 인덱싱한다는 점이에요. 패키지에 대해 학습하고 여러 메타데이터(metadata)를 덧붙여 정보를 보강해요. 물론 Snyk의 보안 스캔(Snyk security scans) 결과도 포함되고, GitHub 같은 소스 저장소(source repo)에서 얼마나 활발히 유지관리되는지도 확인해요.",
+    "text_zh": "我们有个配套产品叫Snyk Advisor。Snyk Advisor说白了就是给开发者用的，他们要往自己的软件应用里集成一些开源包的时候，可以用这个服务来搜索和找包。它最牛的地方就是把所有的包管理器都索引了，了解这些包的情况，然后用一大堆元数据来丰富这些包的信息，当然包括我们Snyk的安全扫描，另外我们还会去看这个软件在GitHub或者其他源码库里维护得活跃不活跃。",
+    "text_es": "Tenemos un producto complementario que se llama Snyk Advisor. Snyk Advisor es básicamente un servicio que usan los desarrolladores para buscar y encontrar paquetes de código abierto (open source) cuando están considerando integrar algunos en sus aplicaciones de software. Lo que lo hace único es que indexa todos los gestores de paquetes (package managers). Aprende sobre esos paquetes. Enriquece la información sobre ellos con un montón de metadatos, incluyendo por supuesto los escaneos de seguridad de Snyk, pero también averiguamos qué tan activamente se mantiene el software en el repositorio fuente (source repo) en GitHub o donde sea."
+  },
+  {
+    "text": "At the time, the only buyers were security teams and dev first Security for the most part wasn't something that CISOs and ApSec leaders were driving. But if you look at Snyk through that lens of, as I mentioned, being a change agent, being a key piece of the transformational journey of our customers' DevSecOps journeys, you realize how important it was for us to start to build relationships with those security leaders.",
+    "speaker": "Ben Williams",
+    "timestamp": "00:29:04",
+    "context": "Lenny asks about Snyk's early monetization challenges when their self-serve model struggled to gain traction with larger companies. Ben explains that in the early days, Snyk was ahead of the curve with their developer-first security approach. The problem was that security decisions were still controlled by traditional security teams (CISOs and Application Security leaders) who weren't yet driving developer-first initiatives. Ben describes how Snyk needed to position itself as a change agent helping companies transform their DevSecOps practices, which required building relationships with security decision-makers rather than just focusing on developer adoption.",
+    "vocabulary_highlights": [
+      "change agent",
+      "transformational journey",
+      "DevSecOps journeys"
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Leadership & Management",
+      "Decision Making"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Growth Strategy",
+      "Community Building",
+      "Monetization"
+    ],
+    "text_ko": "그 당시에는 보안 팀이 유일한 구매자였고, 대부분의 경우 보안(Security)은 CISOs나 ApSec 리더들이 주도하는 게 아니었어요. 하지만 Snyk을 고객들의 DevSecOps 여정에서 변화의 주체(change agent)로서 바라보면, 그 보안 리더들과 관계를 맺는 게 얼마나 중요한지 깨닫게 돼요.",
+    "text_zh": "当时，买我们产品的基本上只有安全团队和开发团队，安全这块事儿大多数情况下都不是CISO和应用安全(ApSec)负责人在推动的。但是如果你从我刚才说的那个角度来看Snyk——把它当作一个变革推动者，当作客户DevSecOps转型路上的关键一环——你就会意识到我们开始跟这些安全负责人建立关系有多重要了。",
+    "text_es": "En ese momento, los únicos que compraban eran los equipos de seguridad y los desarrolladores. La seguridad en primer lugar no era algo que estuvieran impulsando los CISOs y los líderes de seguridad de aplicaciones (ApSec). Pero si ves a Snyk desde esa perspectiva de, como mencioné, ser un agente de cambio, ser una pieza clave en el proceso de transformación del DevSecOps de nuestros clientes, te das cuenta de lo importante que era para nosotros empezar a construir relaciones con esos líderes de seguridad."
+  },
+  {
+    "text": "The ideal state is that every growth team member has common vocabulary. They're comfortable with the growth process. They can work well with data and experimentation platform. They understand the data. They have the right skills and mindset. Education I think plays a big part here. So we're big fans of Reforge, but we've also developed a bunch of internal programs to align and uplevel the teams.",
+    "speaker": "Ben Williams",
+    "timestamp": "00:49:10",
+    "context": "Lenny asks Ben for advice on building effective growth teams, particularly in B2B product-led sales environments. Ben is explaining the first pillar of building successful growth teams: people and process. He emphasizes that team members need to be properly equipped with both skills and knowledge to do their best work. Ben explains that everyone on the growth team should share a common vocabulary around growth concepts, be comfortable with data and experimentation, and have the right mindset for growth work, which often involves rapid iteration and being comfortable with imperfection.",
+    "vocabulary_highlights": [
+      "common vocabulary",
+      "uplevel the teams",
+      "align and uplevel"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Coaching & Development",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Growth Strategy",
+      "Community Building",
+      "Monetization"
+    ],
+    "text_ko": "이상적인 상태는 모든 성장 팀 멤버가 공통의 용어를 가지고 있는 거예요. 그들은 성장 프로세스에 익숙하고, 데이터와 실험 플랫폼을 잘 활용할 수 있어야 해요. 데이터를 이해하고, 필요한 기술과 마인드셋을 갖추는 것도 중요하고요. 교육이 여기서 큰 역할을 한다고 생각해요. 그래서 저희는 Reforge를 정말 좋아하지만, 팀을 정렬하고 수준을 높이기 위해 내부 프로그램도 많이 개발했어요.",
+    "text_zh": "理想状态就是增长团队(growth team)的每个人都说得上话，对增长流程都很熟悉，能熟练使用数据和实验平台(experimentation platform)，看得懂数据，技能和思维方式都到位。我觉得培训在这方面特别重要。我们很推崇Reforge，但也自己搞了不少内部项目来让团队步调一致、水平提升。",
+    "text_es": "El estado ideal es que todos los miembros del equipo de crecimiento manejen el mismo vocabulario. Que se sientan cómodos con el proceso de growth. Que sepan trabajar bien con datos y plataformas de experimentación. Que entiendan realmente los datos. Que tengan las habilidades y la mentalidad correcta. Creo que la capacitación juega un papel clave aquí. Somos muy fans de Reforge, pero también hemos desarrollado un montón de programas internos para alinear y elevar el nivel de los equipos."
+  },
+  {
+    "text": "You're never going to have a shortage of ideas in a high performing growth team. So, knowing where to focus amidst that kind of sea of ideas is a really important role of the strategy. Being able to identify the various micro and macro loops, how they're all connected, being able to document them in a qualitative model to communicate a shared understanding of how you grow, it's really powerful.",
+    "speaker": "Ben Williams",
+    "timestamp": "00:00:00",
+    "context": "Ben is explaining the importance of having a clear growth strategy to guide team execution. He's discussing how successful growth teams generate many ideas, but the real challenge is knowing where to focus efforts. Ben advocates for using a loop-based model to document and understand growth mechanisms. This involves identifying both small-scale (micro) and large-scale (macro) growth loops, understanding how they connect, and creating a shared framework that helps teams prioritize where to invest their time and resources among numerous potential opportunities.",
+    "vocabulary_highlights": [
+      "sea of ideas",
+      "micro and macro loops",
+      "qualitative model"
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Growth & Marketing",
+      "Decision Making"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Growth Strategy",
+      "Community Building",
+      "Monetization"
+    ],
+    "text_ko": "성과 좋은 그로스 팀(growth team)에선 아이디어가 부족할 일이 전혀 없어요. 그래서 그 많은 아이디어 속에서 어디에 집중할지 아는 게 전략의 핵심 역할이에요. 다양한 마이크로 루프와 매크로 루프(micro and macro loops)를 찾아내고 이들이 어떻게 연결되는지 파악해서 정성적 모델(qualitative model)로 문서화해 우리가 어떻게 성장하는지에 대한 공통된 이해를 공유할 수 있으면 정말 강력해요.",
+    "text_zh": "在一个高效增长团队里，点子肯定不会缺，关键是在这么多想法里知道该重点搞哪个，这就是战略的核心作用了。你得能识别出各种微观和宏观的循环(micro and macro loops)，搞清楚它们之间怎么相互影响，然后用一个定性模型把这些都梳理出来，让团队对增长逻辑有个共同认知，这招真的很管用。",
+    "text_es": "En un equipo de alto rendimiento enfocado en crecimiento nunca te van a faltar ideas. Entonces, saber dónde enfocar tus esfuerzos en medio de ese mar de ideas es donde la estrategia juega un papel súper importante. Poder identificar los diferentes bucles micro y macro (micro and macro loops), cómo están todos conectados, poder documentarlos en un modelo cualitativo para comunicar una comprensión compartida de cómo creces, eso es realmente poderoso."
+  },
+  {
+    "text": "We track a metric that we call product-driven revenue, which basically accounts for all revenue in customers where we saw meaningful value-based activity in the product before there was any sales contact. And that really tells actually a super interesting story about the PLG efficiency of your company across all revenue channels, self-serve and sales-led.",
+    "speaker": "Ben Williams",
+    "timestamp": "01:15:27",
+    "context": "Lenny asks about freemium strategy and how to balance what goes in free versus paid plans. Ben is explaining how Snyk thinks about their product-led growth strategy in conjunction with their sales-led motion. He describes a key metric they use called 'product-driven revenue' which measures revenue from customers who engaged meaningfully with the product before any sales interaction occurred. This metric helps them understand how effectively their product-led approach contributes to overall business growth, even when sales teams are involved in closing deals.",
+    "vocabulary_highlights": [
+      "product-driven revenue",
+      "meaningful value-based activity",
+      "PLG efficiency"
+    ],
+    "topics": [
+      "Growth & Marketing",
+      "Strategy & Planning",
+      "Product Management"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Growth Strategy",
+      "Community Building",
+      "Monetization"
+    ],
+    "text_ko": "저희는 '제품 주도 수익(product-driven revenue)'이라는 지표를 추적해요. 이 지표는 영업팀과 접촉하기 전에 제품에서 의미 있는 가치 기반 활동(value-based activity)이 관찰된 고객들로부터 발생한 모든 수익을 포함해요. 그리고 이건 셀프 서비스(self-serve)든 영업 주도(sales-led)든 모든 수익 채널 전반에서 회사의 제품 주도 성장(PLG) 효율성에 대해 굉장히 흥미로운 시사점을 제공해요.",
+    "text_zh": "我们追踪一个指标，叫做产品驱动收入(product-driven revenue)，基本上就是统计那些在销售接触之前，我们就看到客户在产品里有明显价值行为的所有收入。这个指标其实能很好地反映你们公司在各个收入渠道上的PLG效率怎么样，不管是自助服务还是销售主导的都包括。",
+    "text_es": "Hacemos seguimiento a una métrica que llamamos ingresos impulsados por producto (product-driven revenue), que básicamente incluye todos los ingresos de clientes donde vimos actividad significativa basada en valor dentro del producto antes de que hubiera cualquier contacto de ventas. Y esto realmente cuenta una historia súper interesante sobre la eficiencia PLG de tu empresa en todos los canales de ingresos, tanto autoservicio (self-serve) como dirigidos por ventas (sales-led)."
+  },
+  {
+    "text": "Flow is just this incredibly important concept for developers and you want to strive to keep them in that flow for as long as possible. The GitHub kind of pool requests are a great example of that. Someone can sign up for Snyk and they could theoretically be the only user of Snyk and connect their repos. All of a sudden we're protecting, securing those repos, a hundred, a thousand developers could be working in GitHub with that code, all benefiting from Snyk without necessarily needing to sign up.",
+    "speaker": "Ben Williams",
+    "timestamp": "00:32:44",
+    "context": "Lenny asks Ben about lessons for companies targeting developers and how to win their hearts and minds. Ben is explaining that the key to developer adoption is meeting developers where they already work rather than pulling them out of their existing workflows. He uses the concept of 'flow state' - when developers are deeply focused and productive - and explains how Snyk's GitHub integration allows developers to benefit from security improvements without disrupting their normal coding workflow. This approach allows one Snyk user to generate value for entire development teams without requiring everyone to sign up.",
+    "vocabulary_highlights": [
+      "flow state",
+      "keep them in that flow",
+      "theoretically be the only user"
+    ],
+    "topics": [
+      "Product Management",
+      "Growth & Marketing",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Growth Strategy",
+      "Community Building",
+      "Monetization"
+    ],
+    "text_ko": "플로우(flow)는 개발자에게 정말 중요한 개념이라 가능한 한 오래 그 상태를 유지하도록 노력해야 해요. GitHub의 풀 리퀘스트(pull requests)가 그런 좋은 예예요. 누군가 Snyk에 가입(sign up)해서 유일한 사용자일 수 있고 자신의 저장소(repos)를 연결할 수 있어요. 그러면 갑자기 그 저장소들이 보호되고, 그 코드로 수백·수천 명의 개발자가 GitHub에서 작업하더라도 굳이 가입하지 않아도 Snyk의 혜택을 모두 누릴 수 있어요.",
+    "text_zh": "对于开发者来说，心流状态(flow)这个概念特别重要，你得想办法让他们尽可能长时间保持在这种状态里。GitHub的那种拉取请求(pull requests)就是个很好的例子。有人注册了Snyk，理论上他可以是Snyk的唯一用户，然后连接他们的代码库。突然间我们就在保护、加固这些代码库了，可能有一百个、一千个开发者在GitHub上用这些代码工作，他们都能从Snyk中受益，而且不一定需要自己去注册。",
+    "text_es": "El flujo (flow) es un concepto súper importante para los desarrolladores y quieres mantenerlos en ese flujo el mayor tiempo posible. Las pull requests de GitHub son un ejemplo perfecto de esto. Alguien puede registrarse en Snyk y teóricamente podría ser el único usuario de Snyk y conectar sus repositorios. De repente ya estamos protegiendo y asegurando esos repos, cien o mil desarrolladores podrían estar trabajando en GitHub con ese código, todos beneficiándose de Snyk sin necesariamente tener que registrarse."
+  }
+]

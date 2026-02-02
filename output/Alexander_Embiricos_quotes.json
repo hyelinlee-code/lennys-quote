@@ -1,0 +1,144 @@
+[
+  {
+    "text": "By far, I would say the speed and ambition of working at OpenAI are just dramatically more than what I can imagine. And I guess it's kind of an embarrassing thing to say because everyone who's a startup founder thinks like, \"Oh yeah, my startup moves super fast and the talent bar is super high and we're super ambitious.\" But I have to say, working in OpenAI just made me reimagine what that even means.",
+    "speaker": "Alexander Embiricos",
+    "timestamp": "00:05:21",
+    "context": "Lenny asks Alexander what is most different about how OpenAI operates compared to other places he's worked. Alexander explains that despite having been a startup founder who thought his company moved fast, OpenAI's speed and ambition are on a completely different level that forced him to reimagine what those concepts even mean.",
+    "vocabulary_highlights": [
+      "by far",
+      "dramatically more than what I can imagine",
+      "embarrassing thing to say",
+      "reimagine what that even means"
+    ],
+    "topics": [
+      "Career Development",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Engineering Leadership"
+    ],
+    "text_ko": "솔직히 말하면, OpenAI에서 일하는 속도와 야망은 제가 상상했던 것보다 훨씬 더 대단해요. 스타트업 창립자라면 누구나 \"우리 스타트업은 정말 빠르게 움직이고, 인재 수준도 높고, 야망도 엄청나다\"고 생각하잖아요. 그런데 OpenAI에서 일하면서 그게 어떤 의미인지 다시 생각하게 됐어요.",
+    "text_zh": "我可以说，在OpenAI工作的速度和雄心远远超出了我的想象。我觉得这有点尴尬，因为每个创业公司创始人都认为“哦，我的创业公司发展得非常快，人才标准非常高，我们的雄心也非常大。”但我必须说，在OpenAI的工作让我重新定义了这一切的意义。",
+    "text_es": "Sin duda, diría que la velocidad y la ambición de trabajar en OpenAI son mucho más de lo que puedo imaginar. Y supongo que es un poco vergonzoso decirlo, porque todos los fundadores de startups piensan: \"Oh sí, mi startup se mueve súper rápido, el nivel de talento es muy alto y somos muy ambiciosos.\" Pero tengo que decir que trabajar en OpenAI me hizo replantear lo que eso realmente significa."
+  },
+  {
+    "text": "One of the learnings over the past year is that for models to do stuff, they're much more effective when they can use a computer. It turns out the best way for models to use computers is simply to write code. And so we're kind of getting to this idea where if you want to build any agent, maybe you should be building a coding agent.",
+    "speaker": "Alexander Embiricos",
+    "timestamp": "00:00:47",
+    "context": "Lenny asks Alexander how he thinks OpenAI will win in the AI coding space. Alexander explains his vision for building a super assistant that can take actions in the world. He argues that the most effective way for AI models to use computers and accomplish tasks is through writing code, leading to the insight that all useful agents should fundamentally be coding agents.",
+    "vocabulary_highlights": [
+      "turns out",
+      "we're kind of getting to this idea"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Engineering Leadership"
+    ],
+    "text_ko": "지난 1년 동안 배운 것 중 하나는 모델들이 일을 잘 하려면 컴퓨터를 활용하는 게 훨씬 효과적이라는 거예요. 결국 모델들이 컴퓨터를 잘 활용하는 방법은 코드를 작성하는 거더라고요. 그래서 이제는 어떤 에이전트를 만들고 싶다면, 코딩 에이전트를 만드는 게 좋지 않을까 하는 생각이 드는 것 같아요.",
+    "text_zh": "过去一年中的一个重要经验是，模型在执行任务时，能够使用计算机会更加高效。事实证明，模型使用计算机的最佳方式就是编写代码。因此，我们逐渐形成了这样的观点：如果你想构建任何智能体，或许应该考虑构建一个编码智能体。",
+    "text_es": "Una de las lecciones del año pasado es que para que los modelos sean efectivos, es mucho mejor que puedan utilizar una computadora. Resulta que la mejor manera para que los modelos usen computadoras es simplemente escribiendo código. Así que estamos llegando a la idea de que si quieres construir algún agente, tal vez deberías estar construyendo un agente de programación (coding agent)."
+  },
+  {
+    "text": "A few of us are constantly on Reddit. There's praise up there and there's a lot of complaints. What we can do is as a product team just try to always think about how are we building a tool so that it feels like we're maximally accelerating people rather than building a tool that makes it more unclear what you should do as the human?",
+    "speaker": "Alexander Embiricos",
+    "timestamp": "00:01:04",
+    "context": "Lenny asks Alexander how they measure progress on Codex and what metrics they focus on. Alexander explains that beyond traditional metrics, his team actively monitors social media platforms like Reddit to gather user feedback. He emphasizes their philosophy of building tools that maximize human acceleration rather than creating confusion about the human's role.",
+    "vocabulary_highlights": [
+      "maximally accelerating",
+      "makes it more unclear"
+    ],
+    "topics": [
+      "Product Management",
+      "Communication Skills"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Engineering Leadership"
+    ],
+    "text_ko": "우리 몇 명은 항상 Reddit을 확인해요. 거기에는 칭찬도 많고 불만도 많죠. 우리가 제품 팀으로서 할 수 있는 건, 사람들이 최대한 빠르게 성장할 수 있도록 도와주는 도구를 어떻게 만들지 항상 고민하는 거예요. 인간이 해야 할 일이 더 불분명해지는 도구를 만드는 게 아니라요.",
+    "text_zh": "我们团队中的一些人经常在Reddit上浏览。那里有很多赞扬，也有不少抱怨。作为产品团队，我们需要始终思考如何构建一个工具，让用户感受到我们在最大程度上加速他们的工作，而不是让他们对该做什么感到更加困惑。",
+    "text_es": "Algunos de nosotros estamos constantemente en Reddit. Allí hay elogios y muchas quejas. Lo que podemos hacer como equipo de producto es siempre pensar en cómo estamos construyendo una herramienta que haga sentir a los usuarios que los estamos impulsando al máximo, en lugar de desarrollar una herramienta que genere más confusión sobre lo que deben hacer como personas."
+  },
+  {
+    "text": "One of the most mind-blowing examples of acceleration, the Sora Android app, like a fully new app, we built it in 18 days and then 10 days later, so 28 days total, we went to the public.",
+    "speaker": "Alexander Embiricos",
+    "timestamp": "00:00:21",
+    "context": "Alexander is describing the impressive capabilities of Codex in accelerating software development at OpenAI. He shares a concrete example of how Codex enabled the team to build and ship the Sora Android app - which became the number one app in the app store - in just 28 days total, demonstrating the dramatic speed improvements possible with AI coding assistance.",
+    "vocabulary_highlights": [
+      "mind-blowing examples",
+      "went to the public"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Engineering Leadership"
+    ],
+    "text_ko": "가장 놀라운 가속화의 예 중 하나인 Sora 안드로이드 앱은 완전히 새로운 앱처럼, 우리는 18일 만에 만들었고, 그 후 10일이 지나서 총 28일 만에 공개했어요.",
+    "text_zh": "Sora Android 应用是加速的一个令人震惊的例子，我们在18天内完成了这个全新的应用，10天后，也就是总共28天，我们就向公众发布了。",
+    "text_es": "Uno de los ejemplos más sorprendentes de aceleración, la aplicación Sora para Android, como si fuera una aplicación completamente nueva, la desarrollamos en 18 días y luego, 10 días después, en total 28 días, la lanzamos al público."
+  },
+  {
+    "text": "I think there's constantly these levels of abstraction and they're actually already played out today. Today, coding agents, mostly it's prompt to patch. We're starting to see people doing spec-driven development or planned and driven development.",
+    "speaker": "Alexander Embiricos",
+    "timestamp": "00:35:49",
+    "context": "Lenny asks Alexander about the future of software development, specifically whether engineers will move to higher abstraction levels like spec-driven development rather than writing actual code. Alexander explains that these abstraction levels are already emerging, with current coding agents evolving from simple prompt-to-patch workflows to more sophisticated spec-driven and plan-driven development approaches.",
+    "vocabulary_highlights": [
+      "levels of abstraction",
+      "played out",
+      "prompt to patch",
+      "spec-driven development"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Engineering Leadership"
+    ],
+    "text_ko": "지금은 계속해서 다양한 추상화 수준이 존재하는 것 같아요. 오늘날에는 주로 프롬프트를 패치하는 방식으로 코딩 에이전트들이 활용되고 있죠. 요즘에는 스펙 기반 개발(spec-driven development)이나 계획 기반 개발(planned and driven development)을 하는 사람들도 점점 늘어나고 있어요.",
+    "text_zh": "我认为在不断地存在这些抽象层次，而这些层次实际上已经在今天得到了体现。目前，编码代理主要是通过提示进行修补。我们开始看到人们在进行规范驱动开发（spec-driven development）或计划驱动开发（planned and driven development）。",
+    "text_es": "Creo que constantemente existen estos niveles de abstracción que ya se están manifestando hoy en día. Actualmente, los agentes de codificación, en su mayoría, se basan en prompts para realizar parches. Estamos comenzando a ver a personas que practican el desarrollo basado en especificaciones (spec-driven development) o el desarrollo planificado y orientado (planned and driven development)."
+  },
+  {
+    "text": "The current underappreciated limiting factor is literally human typing speed or human multitasking speed.",
+    "speaker": "Alexander Embiricos",
+    "timestamp": "00:01:24",
+    "context": "Lenny asks Alexander about his AGI timeline and how far we are from artificial general intelligence. Alexander shares his unique perspective that one of the biggest bottlenecks to achieving AGI-level productivity isn't the AI capabilities themselves, but rather human limitations in typing prompts and reviewing AI-generated work fast enough to keep up with AI's potential output.",
+    "vocabulary_highlights": [
+      "underappreciated limiting factor",
+      "multitasking speed"
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Learning & Growth"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Engineering Leadership"
+    ],
+    "text_ko": "현재 간과되고 있는 제한 요소는 사실상 사람의 타이핑 속도나 멀티태스킹 속도예요.",
+    "text_zh": "当前被低估的限制因素实际上是人类的打字速度或多任务处理速度。",
+    "text_es": "El factor limitante que actualmente se subestima es, en realidad, la velocidad de tecleo humano o la velocidad de multitarea humana."
+  }
+]

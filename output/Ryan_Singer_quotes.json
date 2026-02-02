@@ -1,0 +1,164 @@
+[
+  {
+    "text": "I often use this analogy of if you're doing a home renovation, you can have the most beautiful rendering of the new bedroom and we're going to have these lamps on the side of the bed that are coming out from the wall. But if you haven't checked if there's electricity in that wall there or not, it's going to drastically change the cost and the time and everything.",
+    "speaker": "Ryan Singer",
+    "timestamp": "00:00:00",
+    "context": "Ryan uses this home renovation analogy to explain why technical feasibility must be explored during the shaping phase, not after committing to build something. He's illustrating how beautiful designs or plans can fall apart when they encounter technical reality - just like planning wall-mounted lamps without checking if electrical wiring exists in that wall. This speaks to the core Shape Up principle of de-risking projects upfront rather than discovering problems mid-build.",
+    "vocabulary_highlights": [
+      "drastically change",
+      "rendering"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "Team Building"
+    ],
+    "text_ko": "제가 자주 하는 비유가 있어요. 집을 리모델링(home renovation)한다고 생각해 보세요. 새 침실의 가장 멋진 렌더링(rendering)을 갖고, 침대 옆에 벽에서 나오는 조명을 달기로 했어요. 그런데 그 벽 안에 전기 배선(electrical wiring)이 있는지 확인을 안 했다면 비용이랑 공사 기간, 결과까지 모두 크게 달라져요.",
+    "text_zh": "我经常打这样一个比方：就像你装修房子，你可能设计了一个特别漂亮的卧室效果图，床两边要装那种从墙里伸出来的壁灯，看起来特别棒。但是如果你事先没搞清楚那面墙里到底有没有电线，那成本啊、工期啊什么的都得大改，完全不是一回事了。",
+    "text_es": "Siempre uso esta analogía: si estás renovando tu casa, puedes tener el diseño más bonito del dormitorio nuevo, con estas lámparas súper lindas que van a salir de la pared junto a la cama. Pero si no te fijaste antes si hay instalación eléctrica en esa pared, te va a cambiar completamente el presupuesto, los tiempos y todo el proyecto."
+  },
+  {
+    "text": "What we need to do in a shaping session is we come out with some kind of diagram where engineers, product and design, they're saying, 'We understand that.' So the first thing is we are not going to start something unless we can see the end from the beginning. We're not going to take a big concept and then say, 'What's the estimate for this thing?'",
+    "speaker": "Ryan Singer",
+    "timestamp": "00:00:16",
+    "context": "Ryan explains a core Shape Up principle about project clarity before starting work. Instead of estimating big, vague concepts, Shape Up requires creating clear diagrams during shaping sessions where all team members - engineers, product managers, and designers - can understand exactly what needs to be built. This ensures everyone can visualize the end result before committing engineering time to the project.",
+    "vocabulary_highlights": [
+      "big concept"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "Team Building"
+    ],
+    "text_ko": "셰이핑 세션(shaping session)에서 우리가 할 일은 엔지니어, 프로덕트(product), 디자인(design)팀이 모두 '이해했어요'라고 말할 수 있는 어떤 다이어그램(diagram)을 갖고 나오는 거예요. 그래서 첫 번째 원칙은 처음부터 끝을 볼 수 없으면 시작하지 않는다는 거예요. 큰 콘셉트만 던져놓고 '이거 견적(estimate) 얼마예요?'라고 묻는 식으로는 진행하지 않아요.",
+    "text_zh": "在塑形会议(shaping session)里，我们要做的就是画出一个图，让工程师、产品和设计的同事都能说\"这个我们明白了\"。所以第一点就是，如果从一开始就看不到结果会是什么样，我们就不会启动这个项目。我们不会拿一个很大的概念然后问\"这东西要多长时间能做完？\"",
+    "text_es": "Lo que tenemos que lograr en una sesión de shaping es salir con algún tipo de diagrama donde los ingenieros, producto y diseño digan: \"Ah, ya entendemos\". Entonces lo primero es que no vamos a arrancar nada a menos que podamos ver el final desde el principio. No vamos a agarrar un concepto enorme y después preguntar \"¿Cuánto tiempo le calculamos a esto?\""
+  },
+  {
+    "text": "We're going to go the other way around and we're going to say, what is the maximum amount of time we're willing to go before we actually finish something? How do we come up with a idea that's going to work in the amount of time that the business is interested in spending?",
+    "speaker": "Ryan Singer",
+    "timestamp": "00:00:37",
+    "context": "Ryan describes the fundamental Shape Up approach of working backward from time constraints rather than forward from scope. Instead of estimating how long a feature will take to build, Shape Up starts by setting a maximum time budget (appetite) and then shapes the solution to fit within that constraint. This forces teams to make deliberate trade-offs and ensures projects don't drag on indefinitely.",
+    "vocabulary_highlights": [
+      "the other way around",
+      "come up with"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning",
+      "Decision Making"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "Team Building"
+    ],
+    "text_ko": "반대로 접근해볼게요. 우리가 실제로 뭔가를 끝내기 전에 기꺼이 들일 수 있는 최대 시간, 즉 타임박스(timebox)를 먼저 정하는 거예요. 그다음 비즈니스가 기꺼이 투자하려는 시간 안에 제대로 작동할 아이디어를 어떻게 찾아낼지 고민하는 거예요.",
+    "text_zh": "我们要反过来思考，先问自己：我们最多愿意花多长时间才能真正把一件事做完？然后再想，怎么在公司愿意投入的时间范围内，找到一个真正行得通的点子？",
+    "text_es": "Vamos a darle la vuelta al asunto y vamos a preguntarnos: ¿cuál es el tiempo máximo que estamos dispuestos a invertir antes de terminar algo de verdad? ¿Cómo se nos ocurre una idea que funcione en el tiempo que la empresa está dispuesta a gastar?"
+  },
+  {
+    "text": "There was always this really intense urgency from both Jason and David, 'We've got to get to something we can ship. We have to finish this and move on. We have to get to something that's done.' There was just no tolerance for big things that got fuzzy and started to drag.",
+    "speaker": "Ryan Singer",
+    "timestamp": "00:10:25",
+    "context": "Ryan describes the cultural foundation that led to Shape Up at Basecamp's early days. Founders Jason Fried and David Heinemeier Hansson maintained intense urgency around shipping, refusing to let projects become unclear or drag on indefinitely. This drive to reach concrete, shippable outcomes quickly became a core principle that later evolved into the formal Shape Up methodology when the company needed to scale this approach.",
+    "vocabulary_highlights": [
+      "no tolerance for",
+      "got fuzzy",
+      "started to drag"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "Team Building"
+    ],
+    "text_ko": "제이슨과 데이비드 두 사람 모두 항상 진짜 강한 긴박감을 갖고 있었어요. \"우리는 출시(ship)할 수 있는 걸 빨리 만들어야 해요. 이걸 끝내고 넘어가야 해요. 완성된 상태에 도달해야 해요.\" 막연해지면서 늘어지는 큰 프로젝트들은 전혀 용납하지 않았어요.",
+    "text_zh": "杰森和大卫两个人总是特别着急，就是那种\"咱们得赶紧弄出能发布的东西来，必须把这个搞定然后继续下一个，一定要做出成品来\"。他们就是受不了那种搞得模模糊糊、拖拖拉拉的大项目。",
+    "text_es": "Siempre había esta urgencia súper intensa de parte de Jason y David: \"Tenemos que llegar a algo que podamos lanzar. Hay que terminar esto y seguir adelante. Tenemos que llegar a algo que esté listo.\" Simplemente no había tolerancia para proyectos grandes que se volvían confusos y empezaban a alargarse."
+  },
+  {
+    "text": "Those sessions with Jason, they were these short, very, very intense sessions where you're trying to crack the nut together. Where's the idea? What's the concept? How can we go... What's this thing that we're going to go and 10 hours later, right, David's going to come back and we're going to be like, 'This is awesome. This thing works and it does something we're excited about,' right?",
+    "speaker": "Ryan Singer",
+    "timestamp": "00:14:28",
+    "context": "Ryan describes the early collaborative sessions with Jason Fried that became the foundation for Shape Up's shaping process. These were intense, focused sessions aimed at 'cracking the nut' - finding the core idea that could be built quickly and effectively. With David only available 10 hours per week for programming, they needed absolute clarity on what to build before he started coding, which forced them to do deep thinking upfront.",
+    "vocabulary_highlights": [
+      "crack the nut together"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning",
+      "Coaching & Development"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "Team Building"
+    ],
+    "text_ko": "제이슨과 했던 그 세션들은 짧지만 정말 강렬하고 집중된 시간이었어요. 같이 머리 맞대고 핵심을 풀어보려는 자리였죠. 아이디어는 어디에 있지? 콘셉트는 뭐지? 어떻게 해볼 수 있지… 10시간 뒤에 데이비드가 돌아왔을 때 ‘이거 정말 멋지다. 이게 작동하고 우리가 기대하던 걸 해주네’라고 말하게 될 그런 걸 어떻게 만들어낼지 고민하는 시간이었어요, 그렇죠?",
+    "text_zh": "跟Jason开的那些会，都是短时间但特别紧张的头脑风暴，大家一起想办法解决问题。想法在哪儿？核心概念是什么？我们怎么能够...就是找到那个点，然后10个小时之后，David回来了，我们就能说\"太棒了！这个方案行得通，而且正是我们想要的那种效果\"，你知道吧？",
+    "text_es": "Esas sesiones con Jason eran súper cortas pero intensísimas, ¿sabes? Era como tratar de resolver el problema juntos. ¿Dónde está la idea? ¿Cuál es el concepto? ¿Cómo podemos... qué es esa cosa que vamos a desarrollar y que 10 horas después David va a regresar y vamos a decir \"Esto está padrísimo. Esta cosa funciona y hace algo que nos emociona\"?"
+  },
+  {
+    "text": "That was one of those moments where you're like, 'Oh, this isn't going to automatically, organically just keep it spreading as we hire forever.' You know what I mean? We did reach a point where it's like, 'Oh, we're going to have to figure out when this goes well, why does it go well and what do we do differently and how do we formalize that so it's reproducible as we keep onboarding more people?'",
+    "speaker": "Ryan Singer",
+    "timestamp": "00:18:06",
+    "context": "Ryan recounts the moment Basecamp realized their organic way of working wouldn't scale indefinitely. After about 10 years of organic growth, they encountered their first project that didn't go well due to team members not understanding the implicit processes. This was the catalyst for formalizing their approach into what became Shape Up - they needed to systematize what had been working intuitively so new hires could participate effectively.",
+    "vocabulary_highlights": [
+      "organically just keep it spreading",
+      "formalize that so it's reproducible"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "Team Building"
+    ],
+    "text_ko": "그건 '아, 이건 우리가 계속 사람을 뽑는다고 해서 저절로 자연스럽게 계속 퍼지진 않겠구나' 하고 느끼는 순간 중 하나였어요. 무슨 말인지 알죠? 결국 '이게 잘 될 때 왜 잘 되는지, 뭘 다르게 해야 하는지, 그리고 사람들을 더 많이 온보딩(onboarding)할수록 그걸 재현할 수 있게 어떻게 체계화할지' 알아내야 한다는 생각이 들었어요.",
+    "text_zh": "那一刻我们就意识到，\"哎呀，这个东西不会因为我们一直招人就自然而然地传承下去。\"你懂我意思吧？我们确实到了一个节点，就是\"好吧，我们得搞清楚什么时候做得好，为什么做得好，我们哪里做得不一样，怎么把这些东西规范化，这样以后新人入职(onboarding)的时候就能复制这套做法？\"",
+    "text_es": "Fue uno de esos momentos donde dices, \"Ah, esto no va a seguir extendiéndose automáticamente por sí solo conforme vayamos contratando más gente.\" ¿Me entiendes? Llegamos a un punto donde dijimos, \"Oye, vamos a tener que averiguar cuándo esto funciona bien, por qué funciona bien y qué hacemos diferente, y cómo lo formalizamos para que sea replicable mientras sigamos incorporando más personas.\""
+  },
+  {
+    "text": "You can't put 10 pounds of crap in a five pound bag. So, it's a high academic statement and we can't just take any project, no matter how giant it is, and then throw it at a team and say, 'Figure it out and ship something meaningful in six weeks by cutting away scope,' right?",
+    "speaker": "Ryan Singer",
+    "timestamp": "00:25:12",
+    "context": "Ryan, quoting Bob Moesta, explains why proper shaping is crucial before giving teams time-boxed projects. He's addressing a common Shape Up misapplication where teams try to take massive, undefined projects and force them into six-week cycles by cutting scope. This approach fails because without proper upfront shaping work to define what's actually achievable, teams can't meaningfully reduce an oversized project to fit the time constraint.",
+    "vocabulary_highlights": [
+      "10 pounds of crap in a five pound bag",
+      "cutting away scope"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "Team Building"
+    ],
+    "text_ko": "5파운드 가방에 10파운드 짐을 넣을 수는 없어요. 이건 이론적으로는 맞는 말이긴 한데, 아무리 프로젝트가 거대해도 무작정 팀에 떠맡기고 '범위(scope)를 잘라내서 6주 만에 알아서 해결하고 의미 있는 결과물을 출시(ship)해'라고 할 순 없어요, 그렇죠?",
+    "text_zh": "你不能往五磅的袋子里塞十磅的垃圾。所以说，这是个很学术的说法，但道理就是我们不能随便接个项目，不管这项目有多大，然后就扔给团队说\"你们想办法，削减一些功能范围，六周内搞出个像样的东西来\"，对吧？",
+    "text_es": "No puedes meter diez kilos de porquería en una bolsa de cinco kilos. Entonces, es una declaración muy académica y no podemos simplemente tomar cualquier proyecto, por más gigante que sea, y luego tirárselo a un equipo y decirles: \"Resuelvan esto y entreguen algo que tenga sentido en seis semanas reduciendo el alcance\", ¿verdad?"
+  }
+]

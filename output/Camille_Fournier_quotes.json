@@ -1,0 +1,146 @@
+[
+  {
+    "text": "A lot of people assume that engineers just write code and don't underestimate the ability for your engineers to want to understand the business problem, want to understand the customer problem.",
+    "speaker": "Camille Fournier",
+    "timestamp": "00:00:34",
+    "context": "Lenny asks Camille about the motivations of engineers and what excites them. Camille emphasizes that engineers are often underestimated in their desire to grasp the broader business and customer issues, highlighting the importance of product managers acknowledging this interest to foster better collaboration.",
+    "vocabulary_highlights": [
+      "underestimate",
+      "business problem",
+      "customer problem"
+    ],
+    "topics": [
+      "Product Management",
+      "Communication Skills"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Engineering",
+    "speaker_expertise": [
+      "Engineering Leadership",
+      "Leadership Development"
+    ],
+    "text_ko": "많은 사람들이 엔지니어가 단순히 코드를 작성한다고 생각하는데, 엔지니어들이 비즈니스 문제나 고객 문제를 이해하고 싶어하는 능력을 과소평가하지 마세요.",
+    "text_zh": "很多人认为工程师只是写代码，但不要低估工程师理解业务问题和客户需求的能力。",
+    "text_es": "Muchas personas asumen que los ingenieros solo escriben código, pero no subestimes la capacidad de tus ingenieros para querer entender el problema del negocio y el problema del cliente."
+  },
+  {
+    "text": "Making every effort to be credit sharing and inclusive of the engineering team and giving them the opportunity to speak about their contributions when it makes sense.",
+    "speaker": "Camille Fournier",
+    "timestamp": "00:02:42",
+    "context": "Lenny inquires about behaviors that PMs can change to avoid annoying engineers. Camille suggests that PMs should consciously share credit for projects and provide engineers with opportunities to discuss their contributions, which fosters a more inclusive environment and reduces frustration among team members.",
+    "vocabulary_highlights": [
+      "credit sharing",
+      "inclusive",
+      "contributions"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Team Culture"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Engineering",
+    "speaker_expertise": [
+      "Engineering Leadership",
+      "Leadership Development"
+    ],
+    "text_ko": "엔지니어링 팀이 기여한 부분에 대해 이야기할 수 있는 기회를 주고, 그들의 노력을 인정하고 포용하는 데 최선을 다하는 게 중요해요.",
+    "text_zh": "尽全力与工程团队共享荣誉，确保他们在合适的时机有机会谈论自己的贡献。",
+    "text_es": "Haciendo todo lo posible por compartir el crédito e incluir al equipo de ingeniería, dándoles la oportunidad de hablar sobre sus contribuciones cuando sea pertinente."
+  },
+  {
+    "text": "If you are being asked questions that you cannot answer because you just don't know or because that's something that involves a level of technical detail that only the engineers have... that drives engineers, particularly senior engineers on projects, it's crazy.",
+    "speaker": "Camille Fournier",
+    "timestamp": "00:07:08",
+    "context": "Lenny asks Camille about behaviors that PMs exhibit that frustrate engineers. Camille explains that when PMs play the middleman and cannot answer technical questions, it creates inefficiencies and annoys engineers, particularly those in senior roles who expect direct communication.",
+    "vocabulary_highlights": [
+      "technical detail",
+      "senior engineers",
+      "middleman"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Communication Skills"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Engineering",
+    "speaker_expertise": [
+      "Engineering Leadership",
+      "Leadership Development"
+    ],
+    "text_ko": "모르는 질문을 받거나 기술적인 세부사항이 필요한 질문을 받으면, 특히 프로젝트의 시니어 엔지니어들은 정말 힘들어해요. 그게 정말 미치겠죠.",
+    "text_zh": "如果你被问到一些你无法回答的问题，因为你不知道答案，或者这些问题涉及的技术细节只有工程师才能掌握……这会让工程师，尤其是项目中的高级工程师，感到非常困扰。",
+    "text_es": "Si te hacen preguntas que no puedes responder porque simplemente no lo sabes o porque se trata de un nivel de detalle técnico que solo los ingenieros manejan... eso frustra a los ingenieros, especialmente a los ingenieros senior en los proyectos, es una locura."
+  },
+  {
+    "text": "Most of the time, you can't really afford to just say we're going to go away and we're not going to touch the system for a long time and we're going to build something new over here.",
+    "speaker": "Camille Fournier",
+    "timestamp": "00:17:08",
+    "context": "Lenny prompts Camille to elaborate on her view that rewrites can be traps. Camille warns that taking a long break from the current system to build something new often leads to complications, as teams typically underestimate the time needed for migration and the necessity of maintaining existing systems.",
+    "vocabulary_highlights": [
+      "afford",
+      "touch the system",
+      "build something new"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Engineering",
+    "speaker_expertise": [
+      "Engineering Leadership",
+      "Leadership Development"
+    ],
+    "text_ko": "대부분의 경우, 그냥 시스템을 손대지 않고 오랫동안 떠나서 새로운 걸 만들겠다고 할 수는 없어요.",
+    "text_zh": "大多数情况下，你不能仅仅说我们要离开一段时间，不去触碰系统，而是在这里重新构建一些新东西。",
+    "text_es": "La mayoría de las veces, no puedes permitirte simplemente decir que nos vamos a alejar y que no vamos a tocar el sistema durante un largo tiempo, y que vamos a construir algo nuevo por aquí."
+  },
+  {
+    "text": "If you don't have any software engineers on your platform team and you only have more operations systems engineers, DevOps, SRE... you're kind of missing the picture.",
+    "speaker": "Camille Fournier",
+    "timestamp": "00:58:04",
+    "context": "Lenny inquires about structuring effective platform teams. Camille stresses the importance of including software engineers alongside operations and DevOps personnel, as platform engineering requires a mix of skills to create cohesive and effective products that support engineering productivity.",
+    "vocabulary_highlights": [
+      "operations systems engineers",
+      "DevOps",
+      "cohesive"
+    ],
+    "topics": [
+      "Starting a Company",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Engineering",
+    "speaker_expertise": [
+      "Engineering Leadership",
+      "Leadership Development"
+    ],
+    "text_ko": "플랫폼 팀에 소프트웨어 엔지니어가 없고 운영 시스템 엔지니어, DevOps, SRE만 있다면, 뭔가 중요한 걸 놓치고 있는 거예요.",
+    "text_zh": "如果你的平台团队没有软件工程师，只有运维系统工程师、DevOps、SRE等角色，那你可能会错失关键的视角。",
+    "text_es": "Si no tienes ingenieros de software en tu equipo de plataforma y solo cuentas con ingenieros de sistemas de operaciones, DevOps, SRE, etc., te estás perdiendo de la perspectiva completa."
+  },
+  {
+    "text": "I think when you see people that are 23, they are just out, very recently out of school, it's a different thing if you're a founder... but if you're at a big company and somebody is like you have great communication skills, why don't you start to become a manager?",
+    "speaker": "Camille Fournier",
+    "timestamp": "00:33:42",
+    "context": "Lenny asks Camille about the common timeline for engineers transitioning into management roles. Camille comments on the issue of young professionals being pushed into management too early in their careers, suggesting that they should spend more time developing technical skills before taking on such responsibilities.",
+    "vocabulary_highlights": [
+      "transitioning",
+      "pushed",
+      "responsibilities"
+    ],
+    "topics": [
+      "Career Development",
+      "Coaching & Development"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Engineering",
+    "speaker_expertise": [
+      "Engineering Leadership",
+      "Leadership Development"
+    ],
+    "text_ko": "23살인 사람들을 보면, 막 학교를 졸업한 경우가 많잖아요. 창업자라면 다르겠지만, 큰 회사에 다니면서 누군가가 \"너는 커뮤니케이션 능력이 뛰어난데, 왜 매니저가 되지 않니?\"라고 하면 좀 다른 느낌이죠.",
+    "text_zh": "我认为，当你看到23岁的人，他们刚刚从学校毕业，如果你是创始人，那是另一回事……但如果你在大公司工作，有人对你说你沟通能力很强，为什么不考虑成为一名经理呢？",
+    "text_es": "Creo que cuando ves a personas de 23 años, que recién han salido de la escuela, es diferente si eres un fundador... pero si estás en una gran empresa y alguien te dice que tienes excelentes habilidades de comunicación, ¿por qué no comienzas a convertirte en un gerente?"
+  }
+]

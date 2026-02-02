@@ -1,0 +1,181 @@
+[
+  {
+    "text": "You fake it, you do a fake door test, you do a smoke test, Wizard of Oz tests. We used a lot of those in the tabbed inbox by the way, one of the first early versions was actually we showed the tabbed inbox working to people. But it wasn't really Gmail, it was just a facade of HTML and behind the scenes and according to the permissions that the users gave us some of us moved just the subject and the sender into the right place.",
+    "speaker": "Itamar Gilad",
+    "timestamp": "00:00:00",
+    "context": "Lenny asks Itamar about methods for testing product ideas before building them. Itamar explains various low-cost validation techniques including fake door tests, smoke tests, and Wizard of Oz tests - methods where you simulate a working product without actually building the real functionality. He shares how his team at Google used this approach when developing Gmail's tabbed inbox feature, creating an HTML facade that manually sorted messages to test user reactions before writing any actual code.",
+    "vocabulary_highlights": [
+      "fake door test",
+      "smoke test",
+      "Wizard of Oz tests",
+      "facade of HTML"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "User Experience"
+    ],
+    "text_ko": "일단 흉내를 내요. 페이크 도어 테스트(fake door test), 스모크 테스트(smoke test), 위자드 오브 오즈 테스트(Wizard of Oz test) 같은 걸 해요. 참고로 탭형 인박스(tabbed inbox) 만들 때 그런 방식을 많이 썼어요. 초기 버전 중 하나는 탭형 인박스가 실제로 작동하는 것처럼 사람들한테 보여주는 거였어요. 근데 그게 진짜 Gmail이 작동하는 건 아니고, 단지 HTML(HTML)로 만든 겉모습(facade)뿐이었어요. 내부적으로는 사용자들이 준 권한(permissions)에 따라 제목(subject)과 발신자(sender) 정보만 옮겨서 적절한 곳에 배치했어요.",
+    "text_zh": "你先造个假的，做个假门测试(fake door test)，做个冒烟测试(smoke test)，还有绿野仙踪测试(Wizard of Oz test)。我们在标签收件箱那个项目里就大量用了这些方法，最早的一个版本其实就是我们给用户演示标签收件箱的功能。但那根本不是真的Gmail，就是个HTML的壳子，后台我们根据用户给的权限，手动把邮件主题和发件人挪到对应的位置。",
+    "text_es": "Lo simulas, haces una prueba de puerta falsa (fake door test), haces una prueba de humo (smoke test), pruebas del Mago de Oz (Wizard of Oz tests). De hecho usamos muchas de esas técnicas en la bandeja de entrada con pestañas, una de las primeras versiones en realidad consistía en mostrarle a la gente cómo funcionaba la bandeja con pestañas. Pero no era realmente Gmail, era solo una fachada de HTML y por detrás, según los permisos que nos daban los usuarios, algunos de nosotros simplemente movíamos el asunto y el remitente al lugar correcto."
+  },
+  {
+    "text": "Google+ was my first experience at Gmail, I joined Gmail in August 2011 and the first thing they asked me is, \"Let's connect Gmail with Google+.\" If you're hazy about the story, back then Facebook was massive. It's still massive but then it was growing like mushrooms, people were spending hours. That really freaked out Google and the obvious solution was to launch a social network of Google called Google+ and we all believe in this thing, it really caught on very well initially we all used it, we all believed in it.",
+    "speaker": "Itamar Gilad",
+    "timestamp": "00:04:42",
+    "context": "Lenny asks Itamar to share the story of his work on Google+ and Gmail that shaped his product development philosophy. Itamar explains that when he joined Gmail in 2011, his first assignment was integrating Gmail with Google+, Google's new social network created in response to Facebook's rapid growth. He describes how Facebook's success 'freaked out' Google leadership, leading them to launch their own social platform that initially seemed promising within the company.",
+    "vocabulary_highlights": [
+      "hazy about the story",
+      "growing like mushrooms",
+      "freaked out",
+      "caught on very well"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "User Experience"
+    ],
+    "text_ko": "구글플러스(Google+)가 제 지메일(Gmail)에서의 첫 경험이었어요. 저는 2011년 8월에 지메일에 합류했는데, 첫 말이 “지메일을 구글플러스와 연결하자”였어요. 이야기가 잘 안 떠오르면 당시 페이스북(Facebook)이 엄청났다는 걸 기억하시면 돼요. 지금도 크지만 그때는 마치 버섯처럼 폭발적으로 성장해서 사람들이 몇 시간씩 그 안에 머물렀죠. 그게 구글을 정말 긴장하게 만들었고, 당연한 해법은 구글의 소셜 네트워크인 구글플러스(Google+)를 내놓는 거였어요. 우리도 다들 그걸 믿었고 초반에는 반응도 좋아서 모두가 사용했어요.",
+    "text_zh": "我在Google+的经历其实是我在Gmail的第一次体验，我2011年8月加入Gmail，他们给我的第一个任务就是\"把Gmail和Google+连起来\"。如果你对当时的情况不太清楚的话，那时候Facebook特别火，现在也很火，但当时真的是疯狂增长，用户一泡就是好几个小时。这把Google吓得不轻，最明显的解决办法就是推出Google自己的社交网络，也就是Google+。我们所有人都对这个产品很有信心，刚开始确实挺成功的，我们都在用，也都很看好它。",
+    "text_es": "Google+ fue mi primera experiencia en Gmail, me uní a Gmail en agosto de 2011 y lo primero que me pidieron fue: \"Vamos a conectar Gmail con Google+.\" Si no tienes claro el panorama, en esa época Facebook era enorme. Sigue siendo enorme pero en ese entonces estaba creciendo como la espuma, la gente se pasaba horas ahí. Eso realmente puso nervioso a Google y la solución obvia era lanzar una red social de Google llamada Google+ y todos creíamos en esto, realmente pegó muy bien al principio, todos la usábamos, todos creíamos en ella."
+  },
+  {
+    "text": "So putting aside all the tremendous waste that went into this, all the millions of person hours and personal weeks. In hindsight, not only did Google bet on the wrong thing it missed much easier opportunities. So just not far from Google's headquarters there was WhatsApp, not very famous in the US but they actually created massive impact. Hundreds of millions of people were using their stuff and they became a threat to Facebook much more than Google was.",
+    "speaker": "Itamar Gilad",
+    "timestamp": "00:06:09",
+    "context": "Lenny asks about the scale of resources invested in the Google+ project. Itamar reflects on the massive waste of resources - millions of person hours - that Google+ represented when it ultimately failed. He points out the irony that while Google was building a Facebook competitor, WhatsApp (located near Google's headquarters) was creating a much more successful social product that actually threatened Facebook, representing the kind of opportunity Google missed by focusing on the wrong approach.",
+    "vocabulary_highlights": [
+      "putting aside",
+      "tremendous waste",
+      "bet on the wrong thing",
+      "not far from"
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Decision Making"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "User Experience"
+    ],
+    "text_ko": "그 모든 엄청난 낭비—수백만 인시(person-hours)와 수천 인주(person-weeks)를 제쳐두고 보면, 돌이켜 보면 구글은 잘못된 것에 베팅했을 뿐 아니라 훨씬 더 쉬운 기회들도 놓쳤어요. 구글 본사 근처에 WhatsApp이 있었는데, 미국에선 그렇게 유명하진 않았지만 실제로는 엄청난 영향력을 만들었어요. 수억 명이 그 서비스를 사용했고, 그들은 구글보다 오히려 페이스북에게 더 큰 위협이 되었어요.",
+    "text_zh": "先不说这里面浪费了多少资源，投入了多少人力和时间。现在回头看，谷歌不仅押错了宝，还错过了更容易抓住的机会。就在谷歌总部不远的地方有个WhatsApp，在美国可能不太出名，但人家确实做出了巨大影响。几亿人在用他们的产品，对Facebook的威胁比谷歌大多了。",
+    "text_es": "Entonces, dejando de lado todo el tremendo desperdicio que hubo en esto, todos esos millones de horas-persona y semanas de trabajo. Viendo las cosas ahora, no solo Google apostó por lo que no era, sino que se perdió oportunidades mucho más fáciles. Mira, ahí nomás cerca de las oficinas de Google estaba WhatsApp, que no era muy conocido en Estados Unidos pero que realmente creó un impacto enorme. Cientos de millones de personas usaban su plataforma y se convirtieron en una amenaza para Facebook mucho mayor de lo que Google jamás fue."
+  },
+  {
+    "text": "So for me, this story kind of was the epitome of what I call today, opinion-based development. We come up with an idea, we believe in it, all the indications show it's good. Maybe the early tests show it's good, then we just go all in and we try to implement it and I made this very mistake many times as the product manager, I was the guy pushing for the ideas.",
+    "speaker": "Itamar Gilad",
+    "timestamp": "00:07:13",
+    "context": "Lenny asks Itamar about lessons learned from the Google+ experience. Itamar explains how Google+ became the perfect example of 'opinion-based development' - a flawed approach where teams become overly confident in their ideas based on limited evidence and then commit massive resources without proper validation. He admits his own role in perpetuating this mistake as a product manager who enthusiastically championed ideas without sufficient evidence.",
+    "vocabulary_highlights": [
+      "epitome of",
+      "opinion-based development",
+      "go all in",
+      "pushing for the ideas"
+    ],
+    "topics": [
+      "Product Management",
+      "Decision Making",
+      "Learning & Growth"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "User Experience"
+    ],
+    "text_ko": "저에게 이 이야기는 제가 요즘 '의견 기반 개발(opinion-based development)'이라고 부르는 방식의 전형이었어요. 아이디어가 떠오르면 우리가 그걸 믿고, 모든 지표가 괜찮게 보이면—초기 테스트에서도 괜찮게 나오면—그냥 올인해서 구현하려고 해요. 제품 매니저로 일할 때 저도 그런 실수를 여러 번 했어요. 아이디어를 밀어붙이던 사람이 바로 저였거든요.",
+    "text_zh": "对我来说，这个故事就是我现在说的\"观点驱动开发(opinion-based development)\"的典型例子。我们想出一个点子，觉得肯定行，各种迹象都显示不错，可能早期测试也挺好的，然后我们就全力以赴去做，拼命想把它落地。我当产品经理的时候就经常犯这种错误，我就是那个一个劲儿推想法的人。",
+    "text_es": "Entonces para mí, esta historia fue como el ejemplo perfecto de lo que hoy llamo desarrollo basado en opiniones (opinion-based development). Se nos ocurre una idea, creemos en ella, todas las señales indican que está buena. A lo mejor las primeras pruebas salen bien, y entonces nos lanzamos de lleno a implementarla. Y yo cometí este mismo error muchas veces como product manager, yo era el que empujaba las ideas."
+  },
+  {
+    "text": "So that sent us, kind of me and my team into researching these users into establishing a goal that was much more user-centric and then thinking of other ideas. And then we started testing them much more rigorously and basically we started testing on our own inboxes and then we recruited other dog footers, other Googlers to test the same inbox, then we put it outside for external testers.",
+    "speaker": "Itamar Gilad",
+    "timestamp": "00:09:56",
+    "context": "Lenny asks about the contrasting approach used for Gmail's tabbed inbox feature. Itamar describes how skeptical feedback from colleagues forced his team to adopt a more evidence-based approach. Instead of immediately building their idea, they researched users more deeply, established user-centric goals, and implemented rigorous testing methods - starting with their own inboxes, then expanding to other Google employees (called 'dog fooders' in tech parlance), and finally external users.",
+    "vocabulary_highlights": [
+      "sent us into",
+      "user-centric",
+      "more rigorously",
+      "dog footers"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning",
+      "Learning & Growth"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "User Experience"
+    ],
+    "text_ko": "그래서 저랑 제 팀은 그 사용자들을 조사하고 훨씬 사용자 중심적인 목표를 세우는 쪽으로 움직였어요. 그러면서 다른 아이디어들도 생각해보고, 그 아이디어들을 훨씬 더 엄격하게 테스트하기 시작했죠. 일단 우리 각자의 인박스(inbox)에서 먼저 해봤고, 그다음 사내 도그푸딩(dogfooding)에 참여한 다른 구글러들(Googlers)에게도 같은 인박스를 테스트하게 했어요. 이후에는 외부 테스터들(external testers)에게도 공개했어요.",
+    "text_zh": "这就让我们，也就是我和我的团队，开始深入研究这些用户，制定了一个更加以用户为中心的目标，然后想出了其他一些想法。接着我们开始更严格地测试这些想法，基本上我们先在自己的邮箱里测试，然后招募其他dog footer，也就是其他谷歌员工来测试同样的邮箱功能，最后我们把它放到外部给外部测试人员使用。",
+    "text_es": "Entonces eso nos llevó, tanto a mí como a mi equipo, a investigar más a fondo a estos usuarios, a establecer un objetivo que fuera mucho más centrado en el usuario y después pensar en otras ideas. Y ahí empezamos a hacer pruebas mucho más rigurosas - básicamente comenzamos probando en nuestros propios correos y luego reclutamos a otros dog footers, otros Googlers para que probaran la misma bandeja de entrada, y después lo sacamos afuera para probadores externos."
+  },
+  {
+    "text": "I think the founders are very important, especially in the startup and scale-ups phase. They come up with many of the most important ideas and it's super important that they have the space to express and to push the organization to look at those. However, it's not about shutting them down it's about looking at them critically.",
+    "speaker": "Itamar Gilad",
+    "timestamp": "00:14:23",
+    "context": "Lenny asks whether there are instances where opinion-based approaches make sense, particularly with visionary founders like Steve Jobs. Itamar clarifies that founders play a crucial role in generating important ideas, especially in startups and scale-ups, and should have space to express their vision. However, he emphasizes that the solution isn't to shut down founder ideas but rather to examine them critically with evidence rather than blindly executing them.",
+    "vocabulary_highlights": [
+      "scale-ups phase",
+      "push the organization",
+      "shutting them down",
+      "looking at them critically"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Starting a Company",
+      "Decision Making"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "User Experience"
+    ],
+    "text_ko": "창업자들(founders)은 정말 중요해요, 특히 스타트업과 스케일업 단계(startup and scale-ups phase)에서요. 많은 핵심 아이디어들이 창업자들로부터 나오니까, 그들이 아이디어를 말하고 조직이 그걸 검토해볼 수 있게 공간을 주는 게 엄청 중요해요. 다만 그들을 무조건 막아버리는 게 아니라, 그 아이디어들을 비판적으로 살펴보는 게 중요한 거예요.",
+    "text_zh": "我觉得创始人特别重要，尤其是在创业和扩张阶段。很多最核心的想法都是他们想出来的，所以一定要给他们空间去表达，去推动公司关注这些想法。但这不是说要完全否定他们，而是要批判性地看待这些想法。",
+    "text_es": "Creo que los fundadores son fundamentales, sobre todo en la fase de startup y cuando estás escalando. Se les ocurren muchas de las ideas más importantes y es clave que tengan el espacio para expresarlas y empujar a la organización a considerarlas. Pero ojo, no se trata de cortarles las alas, sino de analizar esas ideas con sentido crítico."
+  },
+  {
+    "text": "I think there's a few telltale signs that I look for, first the goals are very unclear. Either there are many or they're very kind of obscure and vague or they are about output, there's misalignment. So the goals part is not there, usually this goes hand in hand with metrics. Missing metrics or just using revenue and business metric but there's no user facing metrics.",
+    "speaker": "Itamar Gilad",
+    "timestamp": "00:19:28",
+    "context": "Lenny asks what signs indicate that a company isn't as evidence-guided as they think they are. Itamar identifies several telltale signs of poor evidence-guided practices: unclear, numerous, or vague goals that focus on outputs rather than outcomes, misalignment across teams, and inadequate metrics - particularly the absence of user-facing metrics while only tracking business metrics like revenue.",
+    "vocabulary_highlights": [
+      "telltale signs",
+      "obscure and vague",
+      "goes hand in hand",
+      "user facing metrics"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Product Management",
+      "User Experience"
+    ],
+    "text_ko": "제가 보는 몇 가지 대표적인 징후가 있어요. 먼저 목표가 굉장히 불명확해요. 목표가 너무 많거나 애매모호하거나, 산출물(output) 위주라서 정렬이 안 돼 있는 경우가 많아요. 즉 목표 자체가 제대로 잡혀 있지 않은 거죠. 보통 이런 문제는 지표(metrics)와 함께 나타나요. 지표가 아예 없거나 매출(revenue)이나 비즈니스 지표(business metric)만 보고 사용자 지향 지표(user-facing metrics)는 전혀 안 보는 식이에요.",
+    "text_zh": "我觉得有几个明显的征象，首先就是目标特别不清楚。要么目标太多，要么就是很模糊很含糊，或者都是围绕产出的，整个就是不匹配的。所以目标这块就有问题，通常这和指标也是连在一起的。要么就是缺指标，要么就只看营收和业务指标，但是没有面向用户的指标。",
+    "text_es": "Yo creo que hay varias señales que siempre busco. Primero, los objetivos están súper confusos - o hay demasiados, o están muy vagos y poco claros, o se enfocan solo en resultados sin alineación real. Entonces esa parte de los objetivos no está funcionando, y esto normalmente va de la mano con las métricas. Te das cuenta que faltan métricas o solo están usando ingresos y métricas de negocio, pero no hay métricas que miren al usuario."
+  }
+]

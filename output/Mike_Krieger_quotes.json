@@ -1,0 +1,173 @@
+[
+  {
+    "text": "I had this notion coming in like, 'Yes, these models are great, but are they able to have an independent opinion?' And it's actually really flipped for me only in the last month. My go-to product strategy partner is Claude. And it has been basically for that full year where I'll write an initial strategy, I'll share it with Claude basically, and I'll have it, look at it.",
+    "speaker": "Mike Krieger",
+    "timestamp": "00:00:55",
+    "context": "Lenny asks Mike what he's changed his mind about regarding AI capabilities since joining Anthropic. Mike explains how he initially doubted whether AI models could provide independent, creative opinions rather than just following instructions. He describes using Claude as his primary thought partner for product strategy development, where he writes strategies and asks Claude to review and critique them.",
+    "vocabulary_highlights": [
+      "flipped for me",
+      "go-to product strategy partner",
+      "notion coming in"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning",
+      "Decision Making"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Company Building"
+    ],
+    "text_ko": "처음엔 '이 모델들(models)은 훌륭한데, 독립적인 의견을 가질 수 있을까?'라고 생각했어요. 그런데 그 생각은 사실 지난 한 달 사이에 완전히 바뀌었어요. 요즘은 제품 전략(product strategy) 파트너로 Claude를 가장 자주 활용해요. 지난 1년 동안 거의 계속 그랬는데, 제가 초안 전략을 쓰면 Claude에게 공유해서 봐달라고 하고요.",
+    "text_zh": "我一开始的想法是，\"这些模型确实很棒，但它们能有独立的见解吗？\" 但就在上个月，我的想法彻底转变了。现在Claude就是我的首选产品策略伙伴。基本上这整整一年来，我都是这么做的——先写个初步策略方案，然后分享给Claude，让它帮我看看。",
+    "text_es": "Tenía esta idea al principio de que \"sí, estos modelos están geniales, pero ¿realmente pueden tener una opinión independiente?\" Y la verdad es que eso me cambió completamente solo en el último mes. Mi compañero de estrategia de producto de cabecera es Claude. Y básicamente ha sido así durante todo este año donde escribo una estrategia inicial, se la comparto básicamente a Claude, y lo pongo a revisarla."
+  },
+  {
+    "text": "The team that works in the most futuristic way is the Claude Code team. They're using Claude Code to build Claude Code in a very self-improving kind of way. We really rapidly became bottlenecked on other things like our merge queue. We had to completely re-architect it because so much more code was being written and so many more pull requests were being submitted.",
+    "speaker": "Mike Krieger",
+    "timestamp": "00:00:03",
+    "context": "Lenny discusses how 90% of Anthropic's code is now written by AI. Mike explains that the Claude Code team represents the most advanced way of working, where they use their own AI coding tool to build and improve itself. This created unexpected infrastructure challenges as the volume of code generation overwhelmed their existing systems for managing code changes.",
+    "vocabulary_highlights": [
+      "self-improving kind of way",
+      "rapidly became bottlenecked",
+      "re-architect"
+    ],
+    "topics": [
+      "Product Management",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Company Building"
+    ],
+    "text_ko": "가장 미래지향적으로 일하는 팀은 Claude Code 팀이에요. 그들은 Claude Code를 이용해 Claude Code를 만들고 있는데, 스스로 계속 개선되는 방식으로 운영하고 있어요. 코드가 훨씬 더 많이 작성되고 풀 리퀘스트(pull requests)가 훨씬 더 많이 올라오다 보니 병합 대기열(merge queue) 같은 다른 부분에서 금세 병목이 생겼어요. 그래서 아키텍처를 아예 완전히 다시 설계해야 했어요.",
+    "text_zh": "Claude Code团队的工作方式最有未来感。他们用Claude Code来开发Claude Code，这种自我改进的方式特别厉害。我们很快就发现瓶颈出现在其他地方，比如合并队列(merge queue)。因为代码写得太多了，提交的拉取请求(pull request)也特别多，我们不得不把整个架构重新设计一遍。",
+    "text_es": "El equipo que trabaja de la manera más futurista es el equipo de Claude Code. Están usando Claude Code para construir Claude Code de una forma que se automejora constantemente. Muy rápido nos topamos con cuellos de botella (bottlenecks) en otras cosas como nuestra cola de fusión (merge queue). Tuvimos que rediseñar completamente la arquitectura porque se estaba escribiendo muchísimo más código y se estaban enviando muchas más pull requests."
+  },
+  {
+    "text": "I think there's room for several generationally important companies to be built in AI right now. How do we figure out what we want to be when we grow up versus what we currently aren't or wish that we were or see other players in the space being?",
+    "speaker": "Mike Krieger",
+    "timestamp": "00:00:36",
+    "context": "Lenny asks about competing with ChatGPT's consumer mindshare dominance. Mike discusses the strategic challenge of positioning Anthropic in the competitive AI landscape. He emphasizes that multiple significant AI companies can coexist, and the key is focusing on authentic strengths rather than copying competitors' approaches.",
+    "vocabulary_highlights": [
+      "generationally important companies",
+      "what we want to be when we grow up",
+      "players in the space"
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Starting a Company",
+      "Decision Making"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Company Building"
+    ],
+    "text_ko": "저는 지금 인공지능(AI) 분야에서 세대를 규정할 만한 중요한 회사들이 여러 개 나올 수 있다고 생각해요. 그런데 우리가 커서 어떤 회사가 되고 싶은지와, 현재 우리가 그렇지 못한 점이나 우리가 바라는 모습인지, 아니면 단지 같은 분야의 다른 플레이어들(players)을 보고 있는 건지—이걸 어떻게 구분해요?",
+    "text_zh": "我觉得现在AI这个赛道里，完全有空间诞生好几家具有时代意义的公司。关键是我们得想清楚，等我们真正做大了想成为什么样的公司，而不是纠结于我们现在还不是什么、或者羡慕别人在做什么。",
+    "text_es": "Creo que hay espacio para crear varias empresas generacionalmente importantes en IA ahora mismo. ¿Cómo definimos qué queremos ser cuando maduremos como empresa versus lo que no somos ahora o lo que quisiéramos ser o lo que vemos que están haciendo otros jugadores en el sector?"
+  },
+  {
+    "text": "I think the role of engineering has changed a lot, but the suite of people that come together to produce a product hasn't yet. And I think for the worst in a lot of ways because I think we're still holding on some assumptions. What I've learned though is the process of knowing what to ask the AI, how to compose the question, how to even think about structuring a change between the backend and the front end. Those are still very difficult and specialized skills and they still require the engineer to think about it.",
+    "speaker": "Mike Krieger",
+    "timestamp": "00:12:57",
+    "context": "Lenny asks how product development changes when 90% of code is written by AI. Mike explains that while engineering roles have transformed significantly, the overall team structure hasn't adapted accordingly. He emphasizes that even with AI writing most code, engineers still need sophisticated skills to properly structure requests and guide the AI effectively.",
+    "vocabulary_highlights": [
+      "suite of people",
+      "holding on some assumptions",
+      "compose the question"
+    ],
+    "topics": [
+      "Product Management",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Company Building"
+    ],
+    "text_ko": "엔지니어링의 역할은 많이 달라졌다고 생각해요. 그런데 제품을 만들기 위해 모인 사람들의 구성은 아직 바뀌지 않았고, 여러 면에서 오히려 그게 안 좋은 쪽이라고 봐요. 아직도 몇 가지 가정에 매달리고 있기 때문이에요. 제가 배운 건 인공지능(AI)에게 무엇을 물어봐야 하는지, 질문을 어떻게 구성해야 하는지, 백엔드(backend)와 프론트엔드(front end) 사이의 변경을 어떻게 구조화해서 생각해야 하는지 같은 과정들은 여전히 어렵고 전문적인 기술이라는 점이에요. 그래서 결국 엔지니어가 그것들을 직접 고민해야 해요.",
+    "text_zh": "我觉得工程师这个角色变化挺大的，但是做产品的那帮人基本没怎么变。而且很多方面我觉得是变差了，因为我们还是抱着一些老想法不放。不过我学到的是，怎么问AI问题，怎么组织问题，甚至怎么考虑后端和前端之间的结构调整，这些还是很难的专业技能，还是需要工程师去动脑子思考的。",
+    "text_es": "Creo que el rol de la ingeniería ha cambiado un montón, pero el equipo de gente que se junta para sacar un producto todavía no. Y pienso que en muchos aspectos para mal, porque seguimos aferrándonos a ciertas ideas preconcebidas. Pero lo que he aprendido es que el proceso de saber qué preguntarle a la IA, cómo plantear la pregunta, cómo incluso pensar en estructurar un cambio entre el backend y el frontend... esas siguen siendo habilidades muy difíciles y especializadas, y todavía requieren que el ingeniero lo piense bien."
+  },
+  {
+    "text": "At this point, I would be shocked if it wasn't 95% plus. What's been cool is so nitty-gritty stuff, Claude Code is written in TypeScript. It's actually our largest TypeScript project. Most of the rest of Anthropic is written in Python, some Go, some Rust now, but we're not like a TypeScript shop.",
+    "speaker": "Mike Krieger",
+    "timestamp": "00:17:12",
+    "context": "Lenny asks what percentage of Claude Code (Anthropic's coding tool) is written by Claude Code itself. Mike estimates it's over 95% and explains how this self-improving approach has enabled developers to contribute to projects in programming languages they don't know, breaking down traditional barriers to entry.",
+    "vocabulary_highlights": [
+      "nitty-gritty stuff",
+      "TypeScript shop"
+    ],
+    "topics": [
+      "Product Management",
+      "Learning & Growth"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Company Building"
+    ],
+    "text_ko": "지금 이 상황에서 95% 이상이 아닐 거라면 정말 놀랄 것 같아요. 흥미로운 건, Claude Code가 TypeScript로 작성됐다는 거예요. 사실, 이게 우리 최대의 TypeScript 프로젝트예요. 나머지 Anthropic은 대부분 Python으로 작성됐고, 일부는 Go, 일부는 Rust로 되어 있지만, 우리는 TypeScript 전문 회사는 아니에요.",
+    "text_zh": "到这个程度，如果不是95%以上我反而会觉得奇怪。有意思的是一些很细节的东西，Claude Code是用TypeScript写的，其实这是我们最大的TypeScript项目。Anthropic其他大部分代码都是用Python写的，也有一些Go，现在还有一些Rust，但我们并不是专门做TypeScript的公司。",
+    "text_es": "En este punto, me sorprendería mucho si no fuera 95% o más. Lo que ha estado genial es que son cosas muy específicas, muy detalladas. Claude Code está escrito en TypeScript. De hecho, es nuestro proyecto más grande en TypeScript. La mayoría del resto de Anthropic está escrito en Python, algo de Go, algo de Rust ahora, pero no somos como una empresa que se dedique principalmente a TypeScript."
+  },
+  {
+    "text": "Our headwinds were a couple. One of them was just mobile websites have really taken a turn. I don't blame any individuals for this. I think it's the market dynamics of it, but we put so much time or designers, sky Gunner Gray who's phenomenal that for Perplexity now, the app experience I was so proud of, but when you click through it was like the pressures on these mobile sites and these mobile publishers would be like, 'Sign up for our newsletter. Here's a full screen video ad.'",
+    "speaker": "Mike Krieger",
+    "timestamp": "00:36:20",
+    "context": "Lenny asks why Mike shut down Artifact, his news app startup. Mike explains the challenges they faced, particularly how the deteriorating mobile web experience hurt user engagement. Despite creating a beautiful in-app experience, users would encounter intrusive ads and popups when clicking through to publisher websites.",
+    "vocabulary_highlights": [
+      "headwinds",
+      "taken a turn",
+      "click through"
+    ],
+    "topics": [
+      "Starting a Company",
+      "Decision Making",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Company Building"
+    ],
+    "text_ko": "우리가 겪은 역풍(headwinds)이 몇 가지 있었어요. 그중 하나는 모바일 사이트(mobile sites) 쪽이 큰 변화를 겪었다는 거예요. 특정 개인을 탓하진 않아요. 이건 시장의 역학(market dynamics) 때문이라고 생각해요. 저희는 디자이너들, 특히 Sky Gunner Gray 같은 훌륭한 분들과 많은 시간을 들여 퍼플렉시티(Perplexity)의 앱 경험(app experience)을 정말 자랑스럽게 만들었는데, 막상 클릭해서 들어가 보면 모바일 사이트들과 모바일 퍼블리셔들(mobile publishers)이 '뉴스레터(newsletter) 구독하세요. 전체화면 동영상 광고(full-screen video ad)입니다.' 이런 식으로 압박이 심하더라고요.",
+    "text_zh": "我们遇到的阻力主要有两个。其中一个就是移动网站真的变得很糟糕。我不怪任何个人，我觉得这是市场环境造成的。但我们在这上面投入了太多时间，还有我们的设计师，像Sky Gunner Gray这样超棒的人才，现在为Perplexity做的应用体验我真的很自豪。但问题是当你点击进去的时候，这些移动网站和移动发布商面临的压力太大了，它们就会弹出\"订阅我们的通讯\"，然后是全屏视频广告。",
+    "text_es": "Nuestros obstáculos fueron un par de cosas. Uno de ellos fue simplemente que los sitios web móviles han tomado un rumbo bastante malo. No culpo a ninguna persona en particular por esto. Creo que son las dinámicas del mercado, pero invertimos tanto tiempo con nuestros diseñadores, como Gunner Gray que es fenomenal y que ahora trabaja para Perplexity. La experiencia de la app me tenía súper orgulloso, pero cuando hacías clic era como que las presiones sobre estos sitios móviles y estos publishers móviles los hacía decir: \"Suscríbete a nuestro newsletter. Aquí tienes un anuncio de video en pantalla completa.\""
+  },
+  {
+    "text": "How do we help people get work done? How do we let people delegate hours of work to Claude? And maybe there's fewer direct consumer applications on day one. I think they'll come, but I don't think that spending all of our time focused on that is the right approach either. And so I came in, everybody expected me to just go super, super hard on consumer and make that the thing and again, would make the other mistake.",
+    "speaker": "Mike Krieger",
+    "timestamp": "00:45:29",
+    "context": "Lenny asks about Anthropic's strategy given ChatGPT's consumer dominance. Mike explains Anthropic's focus on helping people accomplish meaningful work rather than chasing immediate consumer market share. He describes deliberately avoiding the expected approach of prioritizing consumer applications in favor of building strong foundations with developers and business users.",
+    "vocabulary_highlights": [
+      "delegate hours of work",
+      "go super, super hard on",
+      "make the other mistake"
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Product Management",
+      "Decision Making"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Company Building"
+    ],
+    "text_ko": "사람들이 업무를 해내도록 어떻게 도울까요? 사람들이 몇 시간치 작업을 Claude에게 맡길 수 있게 하려면 어떻게 해야 할까요? 아마도 첫날에는 직접 소비자용 애플리케이션(consumer applications)이 많지 않을 거예요. 나오긴 하겠지만, 그쪽에만 우리 시간을 전부 쏟는 건 옳은 접근법이 아니라고 생각해요. 그래서 제가 합류했을 때 모두들 제가 소비자 쪽에 완전히 몰두해서 그걸 메인으로 만들 거라고 기대했는데, 그렇게 했으면 또 다른 실수를 했을 거예요.",
+    "text_zh": "我们怎么帮助人们把工作做好？怎么让人们把几个小时的工作量交给Claude来处理？可能在一开始，直接面向消费者的应用会少一些。我觉得这些应用肯定会有的，但是把所有时间都花在这上面，我觉得也不太对。所以我进来之后，大家都以为我会狠抓消费者市场，把这个当重点，但那样的话又会犯另一个错误。",
+    "text_es": "¿Cómo ayudamos a la gente a que haga su trabajo? ¿Cómo logramos que puedan delegarle horas de trabajo a Claude? Y tal vez no haya tantas aplicaciones directas para el consumidor desde el primer día. Creo que van a llegar, pero tampoco pienso que enfocarnos únicamente en eso sea la estrategia correcta. Entonces cuando llegué, todos esperaban que me fuera súper fuerte en el tema de consumidor y que lo hiciera mi prioridad, pero otra vez, eso sería cometer el mismo error."
+  }
+]

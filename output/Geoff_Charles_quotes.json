@@ -1,0 +1,177 @@
+[
+  {
+    "text": "So when I joined, we were about 10-ish folks, about eight engineers, and in three months, we built a competitor to Amex. Six months after that, we built a competitor to Expensify, both publicly traded companies. We hit a hundred million in annual revenue. I think we were under at that point, 50 total in the R&D department, less than four engineers and three PMs. And then we started expanding into accounts payable. It was three engineers, one designer, one PM three months, and they hit out of the park. And that product is moving in billions of dollars a year.",
+    "speaker": "Geoff Charles",
+    "timestamp": "00:00:00",
+    "context": "Lenny asks for concrete examples of what velocity actually looks like at Ramp beyond just saying they move fast. Geoff provides specific examples of how small teams at Ramp built competitors to major publicly traded companies in extremely short timeframes. He explains how they built products that compete with American Express and Expensify with minimal team sizes, and how they expanded into accounts payable with just a 5-person team that created a product processing billions of dollars annually.",
+    "vocabulary_highlights": [
+      "hit out of the park"
+    ],
+    "topics": [
+      "Product Management",
+      "Leadership & Management",
+      "Starting a Company"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "B2B SaaS",
+      "Product Design",
+      "Leadership Development"
+    ],
+    "text_ko": "제가 합류했을 때, 팀이 한 10명 정도였고, 그 중 8명이 엔지니어였어요. 3개월 만에 Amex의 경쟁 제품을 만들었고, 그로부터 6개월 후에는 Expensify의 경쟁 제품도 만들었죠. 두 회사 모두 상장된 회사인데, 우리는 연매출 1억 달러를 달성했어요. 그 당시 R&D 부서에는 50명도 안 되고, 엔지니어는 4명도 안 됐고 PM은 3명이었어요. 그리고 나서 우리는 외상 매출금(accounts payable) 쪽으로 확장을 시작했어요. 그때 엔지니어 3명, 디자이너 1명, PM 1명으로 3개월 만에 대박을 쳤죠. 그 제품은 연간 수십억 달러를 움직이고 있어요.",
+    "text_zh": "我刚加入的时候，团队大概就10个人左右，8个工程师。三个月内，我们就做出了一个能跟美国运通(Amex)竞争的产品。又过了六个月，我们又搞出了一个跟Expensify竞争的产品，这俩都是上市公司啊。我们做到了年收入一个亿美金。那时候我们整个研发部门还不到50个人，工程师不到4个，产品经理3个。后来我们开始拓展应付账款(accounts payable)业务，就3个工程师，1个设计师，1个产品经理，三个月时间，结果做得特别成功。这个产品现在一年能跑几十亿美金的流水。",
+    "text_es": "Entonces cuando me uní, éramos como 10 personas, unos ocho ingenieros, y en tres meses armamos un competidor de Amex. Seis meses después, creamos un competidor de Expensify, ambas empresas que cotizan en bolsa. Llegamos a cien millones en ingresos anuales. Creo que en ese momento éramos menos de 50 en total en el departamento de I+D, menos de cuatro ingenieros y tres PMs. Y entonces empezamos a expandirnos a cuentas por pagar. Fueron tres ingenieros, un diseñador, un PM, tres meses, y la pegaron fuera del estadio. Y ese producto está moviendo miles de millones de dólares al año."
+  },
+  {
+    "text": "There are very few people who are able to execute extremely well in more than one thing, and it's especially true for individual contributors. And so what I mean by single threaded is there's only one goal, one thread, that they're waking up in the morning to focus on. And in order to remove that, you basically need to remove anything else that they're being asked to do to just focus on that thing, whether it's any type of research or any type of production engineering or any type of process that's outside of that single goal.",
+    "speaker": "Geoff Charles",
+    "timestamp": "00:10:25",
+    "context": "Lenny asks Geoff to explain what 'single-threaded teams' means in practice, as this was mentioned as a key ingredient for moving fast at Ramp. Geoff clarifies that single-threaded means each person has literally one goal or 'thread' they focus on when they wake up each morning. He explains this requires actively removing all other distractions, tasks, research, or processes that don't directly contribute to that single goal.",
+    "vocabulary_highlights": [
+      "single threaded",
+      "individual contributors"
+    ],
+    "topics": [
+      "Product Management",
+      "Leadership & Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "B2B SaaS",
+      "Product Design",
+      "Leadership Development"
+    ],
+    "text_ko": "여러 분야에서 아주 뛰어나게 실행할 수 있는 사람은 거의 없고, 특히 개인 기여자(individual contributors)에게는 더 그래요. 제가 '한 가지에만 집중하는(single-threaded)'이라고 말할 때는, 아침에 일어나서 오직 하나의 목표, 하나의 실무에만 집중한다는 뜻이에요. 그리고 그런 상태를 만들려면, 기본적으로 그들이 하라고 요청받는 다른 모든 일을 제거해야 해요 — 연구(research)이든 생산 엔지니어링(production engineering)이든, 그 단일 목표와 상관없는 어떤 업무나 프로세스도요.",
+    "text_zh": "能够在多个领域都做得特别出色的人真的很少，对于一线员工来说更是如此。我说的\"单线程(single threaded)\"就是指他们每天早上醒来只专注一个目标、一条线。要做到这一点，你基本上得把他们手上其他所有的活儿都拿掉，让他们就盯着这一件事，不管是什么研究工作、生产工程，还是跟这个核心目标无关的流程，统统都得清理掉。",
+    "text_es": "Hay muy poca gente que puede ejecutar súper bien en más de una cosa a la vez, y esto es especialmente cierto para los colaboradores individuales. Cuando digo \"single threaded\" me refiero a que solo hay un objetivo, un hilo conductor, en el que se enfocan cuando se levantan por las mañanas. Y para lograr eso, básicamente necesitas quitarles todo lo demás que les estés pidiendo que hagan para que se concentren únicamente en esa cosa - ya sea cualquier tipo de investigación, ingeniería de producción, o cualquier proceso que esté fuera de ese objetivo único."
+  },
+  {
+    "text": "The first thing is we have market comparables, which is very exciting for us. So when you look at Bill.com, they're a publicly traded company, Expensify, publicly traded, or Concur or Coupa, these are all large players that are actually very motivating and largely de-risk some of the business decisions you're making. That's existing markets. We've also been able to create markets. Spend management was an actual market before we and other competitors jump into it.",
+    "speaker": "Geoff Charles",
+    "timestamp": "00:13:15",
+    "context": "Lenny asks how Ramp finds the balance between setting ambitious goals versus impossible goals, referencing how other companies like Airbnb are known for very lofty targets. Geoff explains that having market comparables - existing publicly traded competitors like Bill.com and Expensify - makes ambitious goals feel more achievable and helps de-risk business decisions. He notes they can point to these successful companies as proof that large markets exist for their products.",
+    "vocabulary_highlights": [
+      "market comparables",
+      "de-risk",
+      "jump into"
+    ],
+    "topics": [
+      "Strategy & Planning",
+      "Product Management",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "B2B SaaS",
+      "Product Design",
+      "Leadership Development"
+    ],
+    "text_ko": "우선 우리에겐 시장 비교 자료(market comparables)가 있다는 것만 해도 정말 고무적이에요. Bill.com이나 Expensify는 상장사고 Concur나 Coupa 같은 회사들도 모두 큰 플레이어라서 오히려 자극이 되고 우리가 내리는 여러 사업 결정의 리스크를 상당히 줄여줘요(de-risk). 그건 기존 시장(existing markets)에 해당해요. 또 저희는 시장을 만들어내기도 했어요. 스펜드 매니지먼트(spend management)라는 시장은 저희와 다른 경쟁사들이 뛰어들기 전부터 이미 실제로 존재하던 시장이었어요.",
+    "text_zh": "首先呢，我们有市场对标公司，这对我们来说特别振奋人心。你看像Bill.com，他们是上市公司，还有Expensify也上市了，或者Concur、Coupa这些，都是行业大玩家，真的很激励人，而且在很大程度上能降低我们做商业决策的风险。这些都是现有市场。我们也有能力去创造市场。支出管理(spend management)在我们和其他竞争对手进入之前，其实就已经是一个实实在在的市场了。",
+    "text_es": "Lo primero es que tenemos comparables del mercado (market comparables), lo cual es súper emocionante para nosotros. Entonces cuando miras a Bill.com, que cotiza en bolsa, Expensify, que también cotiza públicamente, o Concur o Coupa, todos estos son jugadores grandes que realmente te motivan y en gran medida reducen el riesgo de las decisiones de negocio que estás tomando. Esos son mercados que ya existen. También hemos podido crear mercados. La gestión de gastos (spend management) ya era un mercado real antes de que nosotros y otros competidores nos metiéramos."
+  },
+  {
+    "text": "And oftentimes, more junior leaders, and I was certainly in that camp earlier on, kept focusing on the solutions and debating the right solution when in fact you should really be debating upstream of that. You should be debating the interpretation of data, you should be debating the hypotheses and the different ideas that you have there as to what's really going on or you should be debating the goals themselves.",
+    "speaker": "Geoff Charles",
+    "timestamp": "00:15:43",
+    "context": "Lenny asks how Ramp operationalizes 'context over control' - empowering product teams without micromanaging them. Geoff explains that successful empowerment starts with alignment on goals, hypotheses, and data interpretation rather than debating specific solutions. He shares that junior leaders often make the mistake of focusing downstream on solutions when they should be focusing upstream on understanding the problem, data, and objectives first.",
+    "vocabulary_highlights": [
+      "upstream of that",
+      "debating the hypotheses"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Product Management",
+      "Decision Making"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "B2B SaaS",
+      "Product Design",
+      "Leadership Development"
+    ],
+    "text_ko": "종종 주니어 리더들(junior leaders)은—저도 예전엔 그랬어요—해결책에만 계속 집착해서 어떤 해결책이 옳은지 논쟁하곤 해요. 그런데 사실은 그보다 앞선 단계, 즉 상위 단계(upstream)에서 논의해야 해요. 데이터 해석(interpretation of data)을 두고 토론하고, 가설(hypotheses)이나 실제로 무슨 일이 일어나고 있는지에 대한 다양한 아이디어들을 검토하거나, 때로는 목표 자체(goals)를 다시 논의해야 해요.",
+    "text_zh": "很多时候，那些资历比较浅的领导者，我以前也是这样，总是盯着解决方案不放，老在那儿争论哪个方案更好。其实你应该往前推一步，应该争论的是对数据的理解，应该争论各种假设和想法——到底发生了什么，或者干脆争论目标本身对不对。",
+    "text_es": "Y muchas veces, los líderes más junior, y yo claramente estaba en ese grupo al principio, se la pasaban enfocándose en las soluciones y discutiendo cuál era la solución correcta, cuando en realidad deberían estar debatiendo mucho antes de llegar ahí. Deberían estar debatiendo cómo interpretan los datos, deberían estar debatiendo las hipótesis y las diferentes ideas que tienen sobre qué está pasando realmente, o deberían estar debatiendo los objetivos mismos."
+  },
+  {
+    "text": "We don't have a bug backlog. We fix every bug once they're surfaced almost. So it's part of the production engineer's job really just to fix those things. I think where we get to nuances, like user experience improvements, the metric there that I really look at is how many support tickets come in that were due to a customer being confused.",
+    "speaker": "Geoff Charles",
+    "timestamp": "00:22:55",
+    "context": "Lenny asks how teams should balance fixing quality issues and bugs versus hitting their main KPIs and goals. Geoff explains Ramp's approach to maintaining quality while moving fast - they don't maintain a traditional bug backlog but instead fix every bug immediately when it's discovered. He describes how they track customer confusion through support tickets as a key quality metric, and teams must stop shipping new features if this metric gets elevated.",
+    "vocabulary_highlights": [
+      "bug backlog",
+      "get to nuances"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "B2B SaaS",
+      "Product Design",
+      "Leadership Development"
+    ],
+    "text_ko": "우리는 버그 백로그(bug backlog)가 없어요. 버그가 발견되면 거의 바로 고쳐요. 그래서 그런 것들을 고치는 건 사실 프로덕션 엔지니어(production engineer)의 업무 중 하나예요. 사용자 경험 개선(user experience improvements)처럼 미묘한 부분으로 가면, 제가 실제로 보는 지표는 고객이 혼란스러워해서 들어오는 지원 티켓(support tickets)의 수예요.",
+    "text_zh": "我们不会积压bug。基本上一发现问题就马上修，这其实就是生产工程师的活儿。但涉及到一些细节，比如用户体验优化这块，我主要看的指标就是有多少客服工单(support tickets)是因为用户搞不清楚操作才提交的。",
+    "text_es": "No tenemos una acumulación de errores pendientes. Arreglamos casi todos los bugs en cuanto salen a la luz. Así que es parte del trabajo del ingeniero de producción simplemente solucionar esas cosas. Creo que donde entramos en matices, como mejoras en la experiencia del usuario (user experience), la métrica que realmente reviso es cuántos tickets de soporte nos llegan porque un cliente se confundió."
+  },
+  {
+    "text": "Behind Ramp's velocity is a lot less the culture that I try to amplify, but a lot more the quality of the engineering and design talent candidly. And so I'm just standing really on their shoulders here. And so advice number one is ensure that from the top down there's an investment in R&D as a first-class citizen that you're paying upmarket, that you're hiring the best, that you're focusing on your engineering and tech brand, that you're bringing people who want to work there because they want to be empowered.",
+    "speaker": "Geoff Charles",
+    "timestamp": "00:24:49",
+    "context": "Lenny mentions that after their post about Ramp's approach, many CEOs started pressuring their PMs to move faster like Ramp, and asks for advice for PMs facing this pressure. Geoff clarifies that Ramp's velocity comes primarily from having exceptional engineering and design talent rather than just culture. He emphasizes that leaders must first invest in R&D as a priority, pay competitive rates, hire top talent, and build a strong engineering brand that attracts people who want to be empowered.",
+    "vocabulary_highlights": [
+      "standing really on their shoulders",
+      "first-class citizen",
+      "paying upmarket"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "B2B SaaS",
+      "Product Design",
+      "Leadership Development"
+    ],
+    "text_ko": "Ramp의 속도 뒤에는 제가 강조하려는 문화보다 솔직히 말해서 엔지니어링과 디자인 인재의 품질이 훨씬 더 중요해요. 그래서 저는 그들의 어깨 위에 서 있는 거죠. 첫 번째 조언은 위에서부터 R&D에 대한 투자가 1급 시민으로 이루어지도록 해야 한다는 거예요. 즉, 좋은 인재를 채용하고, 엔지니어링과 기술 브랜드에 집중하며, 그곳에서 일하고 싶어 하는 사람들을 끌어들이는 것이죠. 그들이 권한을 부여받고 싶어 하니까요.",
+    "text_zh": "Ramp能发展这么快，说实话主要不是因为我推动的企业文化，更多的是因为我们工程和设计团队的质量真的很高。我其实就是站在他们肩膀上而已。所以我的第一个建议就是，从上到下一定要把研发(R&D)当成头等大事来投资，该花的钱不能省，要招最好的人，要好好打造你的工程和技术品牌，要让那些真正想发挥才能的人愿意来你这里工作。",
+    "text_es": "Detrás de la velocidad de Ramp hay mucho menos de la cultura que trato de impulsar, y mucho más de la calidad del talento en ingeniería y diseño, para ser honesto. Yo simplemente me apoyo en sus hombros aquí. Entonces mi primer consejo es asegurarte de que desde arriba haya una inversión en I+D como ciudadano de primera clase - que pagues bien en el mercado premium, que contrates a los mejores, que te enfoques en tu marca de ingeniería y tecnología, que traigas gente que quiera trabajar ahí porque quieren sentirse empoderados."
+  },
+  {
+    "text": "I think the debate around working hard and burnout misses a key point, which is all about how much impact and how good you feel about the work that you're doing. And I think that for me, when I felt burnout, it was actually at the time where I had the lowest amount of velocity. But it was when I felt like I was putting a lot of effort into things that weren't actually moving.",
+    "speaker": "Geoff Charles",
+    "timestamp": "00:29:17",
+    "context": "Lenny asks about burnout concerns given Ramp's intense focus on velocity and constant shipping. Geoff argues that the typical debate about working hard versus burnout misses a crucial point - burnout is more about lack of impact and meaningful progress than about working long hours. He shares that his personal experience with burnout occurred during periods of low velocity when he felt he was putting effort into work that wasn't actually moving the needle or creating meaningful outcomes.",
+    "vocabulary_highlights": [
+      "misses a key point",
+      "moving the needle"
+    ],
+    "topics": [
+      "Work-Life Balance",
+      "Leadership & Management",
+      "Career Development"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "B2B SaaS",
+      "Product Design",
+      "Leadership Development"
+    ],
+    "text_ko": "열심히 일하는 것과 번아웃에 대한 논의는 중요한 한 가지를 놓치고 있는 것 같아요. 그건 바로 당신이 하는 일이 얼마나 임팩트(impact)가 있는지, 그리고 그 일에 대해 얼마나 만족감이나 보람을 느끼는지예요. 제 경우 번아웃을 느꼈을 때는 사실 진행 속도(velocity)가 가장 낮았을 때였어요. 많은 노력을 들이고 있다고 느꼈는데도 정작 일이 앞으로 나아가지 않을 때였죠.",
+    "text_zh": "我觉得大家在讨论努力工作和职业倦怠的时候，漏掉了一个关键点，就是你的工作到底能产生多大影响，以及你对自己做的事情感觉怎么样。对我来说，我感到倦怠的时候，其实恰恰是我工作效率最低的时候。那时候我感觉自己明明很努力，但做的那些事情根本没什么进展。",
+    "text_es": "Creo que todo el debate sobre trabajar duro y el agotamiento se pierde un punto clave, que tiene que ver con el impacto que generas y qué tan bien te sientes con el trabajo que estás haciendo. Y para mí, cuando me sentí quemado, en realidad fue justo cuando tenía menos velocidad. Pero era cuando sentía que le estaba metiendo un montón de esfuerzo a cosas que realmente no estaban avanzando."
+  }
+]

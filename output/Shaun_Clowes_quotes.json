@@ -1,0 +1,146 @@
+[
+  {
+    "text": "Why is it that product management is still such a relatively undeveloped discipline? We're like 15 to 20 years into this, and so there's something about the current state of product management that isn't getting at the truly important things, the truly value-added things. If we were doctors, you'd be like, \"That's totally unacceptable.\"",
+    "speaker": "Shaun Clowes",
+    "timestamp": "00:00:08",
+    "context": "Lenny asks Shaun about his strong opinions on the state of product management and how most PMs are not that great. Shaun is reflecting on why product management as a discipline hasn't matured as much as it should have after 15-20 years. He explains that there's something fundamentally wrong with how product management is currently practiced, as it's not focusing on the truly valuable and important aspects of the role, leading to random outcomes and performance.",
+    "vocabulary_highlights": [
+      "relatively undeveloped discipline",
+      "truly value-added things",
+      "totally unacceptable"
+    ],
+    "topics": [
+      "Product Management",
+      "Career Development"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Growth Strategy",
+      "Product Management"
+    ],
+    "text_ko": "프로덕트 매니지먼트(product management)가 왜 아직도 상대적으로 덜 발달한 분야일까요? 이제 한 15~20년 정도 지났는데도, 현재의 프로덕트 매니지먼트는 진짜로 중요한 것들, 실제로 부가가치(value-added)를 만들어내는 부분에 제대로 닿지 못하고 있어요. 우리가 의사였다면 \"그건 절대 용납할 수 없다\"고 했을 거예요.",
+    "text_zh": "为什么产品管理到现在还是个相对不成熟的领域呢？我们都搞了15到20年了，但产品管理的现状就是抓不住真正重要的东西，真正有价值的东西。如果我们是医生的话，你肯定会说\"这完全不能接受啊\"。",
+    "text_es": "¿Por qué la gestión de productos sigue siendo una disciplina tan poco desarrollada? Ya llevamos como 15 o 20 años en esto, y hay algo en el estado actual del product management que no está llegando a lo realmente importante, a las cosas que realmente aportan valor. Si fuéramos médicos, dirías \"Eso es totalmente inaceptable.\""
+  },
+  {
+    "text": "In everything always talk from the customer's perspective, from the market's perspective, from the competitor's perspective, the very small number of PMs do that. They get dragged into internal politics, they get dragged into scrum management or scrum execution or product delivery, and you just can't win that way.",
+    "speaker": "Shaun Clowes",
+    "timestamp": "00:00:24",
+    "context": "Lenny asks Shaun for the solution to help PMs level up and become great product managers. Shaun explains that the fundamental problem is most PMs spend too much time looking inside the building rather than outside. He emphasizes that PMs should always start from external perspectives - customer, market, and competitor viewpoints - but most get distracted by internal operational tasks and politics, which prevents them from being truly effective.",
+    "vocabulary_highlights": [
+      "get dragged into",
+      "scrum execution",
+      "you just can't win that way"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Growth Strategy",
+      "Product Management"
+    ],
+    "text_ko": "모든 일에서는 항상 고객 관점에서, 시장 관점에서, 경쟁자 관점에서 얘기해야 해요. 그렇게 하는 프로덕트 매니저들(PMs)은 극히 소수예요. 대부분은 사내 정치(internal politics)에 휘말리거나 스크럼 관리(scrum management)나 스크럼 실행(scrum execution), 제품 딜리버리(product delivery)에 끌려 들어가요. 그렇게는 절대 이길 수 없어요.",
+    "text_zh": "做任何事情都要站在客户角度、市场角度、竞争对手角度去考虑，但真正能做到这点的PM(产品经理)少之又少。他们总是被卷入内部斗争，被拖进敏捷管理或者产品交付这些事务性工作里，这样下去肯定是没戏的。",
+    "text_es": "En todo siempre tienes que hablar desde la perspectiva del cliente, desde la perspectiva del mercado, desde la perspectiva de la competencia - muy pocos PMs hacen eso. Se dejan arrastrar por las políticas internas, se meten en la gestión del scrum o la ejecución del scrum o la entrega del producto, y así simplemente no puedes ganar."
+  },
+  {
+    "text": "Well, you've got this synthesis machine, which is this LLM thing that's going to help you do synthesis, but if it hasn't got all that data to do synthesis on top of, it's got nothing. And so that means that LLMs can only be as good as the data they are given and how recent that data is.",
+    "speaker": "Shaun Clowes",
+    "timestamp": "00:00:40",
+    "context": "Lenny asks about Shaun's hot take that AI will most impact product management through data management rather than models. Shaun explains that LLMs are essentially synthesis machines - they're very good at analyzing and synthesizing information, but they're completely dependent on the quality and recency of data fed to them. Without good data input, even the smartest LLM produces nothing valuable, making data management the critical bottleneck for AI success.",
+    "vocabulary_highlights": [
+      "synthesis machine",
+      "LLM thing",
+      "it's got nothing"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Growth Strategy",
+      "Product Management"
+    ],
+    "text_ko": "그러니까 합성 도구(synthesis machine)인 LLM(large language model)이 있어서 합성을 도와주긴 하는데요, 그게 작동하려면 바탕이 되는 데이터가 있어야 해요. 그런 데이터가 없다면 아무것도 할 수 없어요. 그래서 LLM은 주어진 데이터의 품질과 그 데이터의 최신성만큼만 성능을 낼 수 있어요.",
+    "text_zh": "你看，你有这个合成机器，就是这个大语言模型(LLM)，它能帮你做综合分析，但如果它没有足够的数据做基础，那就什么都干不了。所以说，LLM的效果完全取决于你给它什么样的数据，还有这些数据有多新。",
+    "text_es": "Bueno, tienes esta máquina de síntesis, que es esto del LLM que te va a ayudar a hacer síntesis, pero si no tiene todos esos datos sobre los cuales hacer la síntesis, no tiene nada. Entonces eso significa que los LLMs solo pueden ser tan buenos como los datos que les das y qué tan actualizados estén esos datos."
+  },
+  {
+    "text": "People really underestimate where the value is created in these applications and they just kind of get it completely wrong.",
+    "speaker": "Shaun Clowes",
+    "timestamp": "00:00:58",
+    "context": "Lenny asks about the future of B2B SaaS businesses if AI makes it easy to clone applications like Salesforce or Atlassian - whether these companies will be in trouble. Shaun responds that people fundamentally misunderstand where the real value lies in these enterprise applications. He's setting up to explain that the value isn't just in the user interface or basic functionality that can be easily replicated, but in something much deeper and harder to clone.",
+    "vocabulary_highlights": [
+      "really underestimate",
+      "get it completely wrong"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Growth Strategy",
+      "Product Management"
+    ],
+    "text_ko": "사람들이 이런 애플리케이션(applications)에서 가치가 실제로 어디서 창출되는지를 정말 과소평가하고, 그래서 그냥 완전히 잘못 판단해요.",
+    "text_zh": "大家真的是小看了这些应用程序的价值到底在哪儿创造出来的，基本上是完全搞错了方向。",
+    "text_es": "La gente de verdad no entiende dónde se genera el valor en estas aplicaciones y simplemente se equivocan por completo."
+  },
+  {
+    "text": "They get dragged into internal politics, they get dragged into scrum management or scrum execution or product delivery, like elements of the delivery thing and you just can't win that way. You just can't win that way. You can never get an A because you're fundamentally not solving the job.",
+    "speaker": "Shaun Clowes",
+    "timestamp": "00:09:43",
+    "context": "Lenny asks Shaun what makes PMs become great 10x product managers. Shaun explains that the biggest mistake most PMs make is spending time on internal operational tasks rather than focusing on external market insights. He emphasizes that PMs who get caught up in delivery mechanics and internal politics cannot achieve excellence because they're not addressing the core job of product management, which is finding reliable, differentiated value in the market.",
+    "vocabulary_highlights": [
+      "get dragged into",
+      "you just can't win that way",
+      "never get an A",
+      "fundamentally not solving the job"
+    ],
+    "topics": [
+      "Product Management",
+      "Leadership & Management"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Growth Strategy",
+      "Product Management"
+    ],
+    "text_ko": "사람들이 내부 정치(internal politics)에 말려들고, 스크럼 관리(scrum management)나 스크럼 실행(scrrum execution), 제품 전달(product delivery) 같은 전달 관련 업무에 끌려 들어가요. 그렇게는 이길 수 없어요. 근본적으로 맡은 일을 해결하지 못하면 A를 받을 수가 없어요.",
+    "text_zh": "他们被卷入内部政治斗争，被拖进敏捷管理(scrum management)或者敏捷执行(scrum execution)，还有产品交付这些执行层面的事情里，这样下去肯定是赢不了的。真的赢不了。你永远拿不到A，因为根本就没有解决核心问题。",
+    "text_es": "Se meten en las políticas internas, se dejan arrastrar por la gestión de scrum o la ejecución de scrum o la entrega de productos, o sea, todas esas cosas operativas, y así simplemente no puedes ganar. Así no puedes ganar. Nunca vas a sacar una A porque en el fondo no estás resolviendo el verdadero problema."
+  },
+  {
+    "text": "It's one thing to say you're spending a lot of time looking outside the building. It's a whole other thing to hear from the places you don't normally hear from. So avoid availability or confirmation bias. Most of the time people go talk to the people they always talk to and they learn nothing particularly new.",
+    "speaker": "Shaun Clowes",
+    "timestamp": "00:11:30",
+    "context": "Lenny asks how someone can recognize if they're actually not doing enough external research, even if they think they are. Shaun explains that many PMs claim to talk to customers and look at data frequently, but they fall into the trap of only seeking familiar sources and perspectives. He emphasizes the importance of actively seeking out unfamiliar viewpoints and challenging your own assumptions to avoid confirmation bias and truly learn something new.",
+    "vocabulary_highlights": [
+      "It's a whole other thing",
+      "availability or confirmation bias",
+      "nothing particularly new"
+    ],
+    "topics": [
+      "Product Management",
+      "Learning & Growth"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "Growth Strategy",
+      "Product Management"
+    ],
+    "text_ko": "밖을 많이 보고 있다고 말하는 건 쉬운 일이에요. 그런데 평소 잘 듣지 않는 곳(혹은 사람들)으로부터 실제로 듣는 건 완전히 다른 얘기예요. 그래서 가용성 편향(availability bias)이나 확증 편향(confirmation bias)을 피하세요. 대부분 사람들은 늘 얘기하던 사람들한테만 가서 얘기하고, 특별히 새로 배울 게 별로 없어요.",
+    "text_zh": "嘴上说要多往外面看看是一回事，真正去听那些平时接触不到的声音又是另一回事。所以一定要避免可得性偏差(availability bias)和确认偏差(confirmation bias)。大多数时候人们就是找那些老面孔聊天，根本学不到什么新东西。",
+    "text_es": "Una cosa es decir que estás dedicando mucho tiempo a mirar hacia afuera de la empresa. Pero algo completamente distinto es escuchar voces de lugares donde normalmente no escuchas nada. Así que evita el sesgo de disponibilidad o el sesgo de confirmación (confirmation bias). La mayoría de las veces la gente va y habla con las mismas personas de siempre y no aprende nada realmente nuevo."
+  }
+]

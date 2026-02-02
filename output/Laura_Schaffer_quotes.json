@@ -1,0 +1,158 @@
+[
+  {
+    "text": "So I wanted to run a test. I didn't have a team, I didn't have an engineering team yet and none of that stuff had built out. It was just me, myself and I. But like I said, I had started to build a little bit of trust and Andre, who I mentioned earlier who, because he was early employee and he had access to everything, one of those people, and he also was supportive of this and had similar haunches. And so like the dead of the night, and by that, I mean 7:00 PM or something, I'm pretty sure it was a Friday. We just asked for forgiveness and put these questions into the signup flow and ran as Navy test with a small group.",
+    "speaker": "Laura Schaffer",
+    "timestamp": "00:22:14",
+    "context": "Lenny asks Laura about a surprising experiment result that changed her perspective on experimentation. Laura explains how she wanted to test adding questions to Twilio's signup flow, which was controversial because the company believed developers wanted a frictionless signup experience. Without official approval and lacking an engineering team, she convinced an early employee with system access to help her implement the questions in production late on a Friday evening as a guerrilla test with a small user group.",
+    "vocabulary_highlights": [
+      "dead of the night",
+      "asked for forgiveness",
+      "Navy test",
+      "similar haunches"
+    ],
+    "topics": [
+      "Growth & Marketing",
+      "Decision Making"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Growth",
+    "speaker_expertise": [
+      "Growth Strategy"
+    ],
+    "text_ko": "그래서 테스트를 해보고 싶었어요. 팀도 없었고, 엔지니어링 팀(engineering team)도 아직 없었고 그런 것들이 다 갖춰져 있지 않았어요. 그냥 저 혼자였죠. 근데 말했듯이 조금씩 신뢰는 쌓이고 있었고, 아까 언급한 안드레는 초창기 직원이라 모든 것에 접근할 수 있는 사람 중 하나였어요. 그도 이걸 지지했고 비슷한 직감이 있었어요. 그래서, 말하자면 한밤중에—여기서는 대충 저녁 7시쯤을 말하는 건데요, 아마 금요일이었던 것 같아요—우리는 일단 나중에 용서를 구하자고 하고 이 질문들을 회원가입 흐름(signup flow)에 넣어서 소규모 그룹 대상으로 네이비 테스트(Navy test)로 돌려봤어요.",
+    "text_zh": "所以我就想做个测试。当时我没有团队，也没有工程团队，什么都还没搭建起来，就我一个人。但是像我刚说的，我已经开始建立了一点信任，还有Andre，就是我之前提到的那个人，因为他是早期员工，什么权限都有，就是那种人，而且他也支持这个想法，有类似的直觉。然后在深更半夜，我是说晚上7点左右吧，应该是个周五。我们就先斩后奏，把这些问题加到注册流程里，然后对一小群人跑了个Navy测试。",
+    "text_es": "Entonces quise hacer una prueba. No tenía equipo, todavía no tenía un equipo de ingeniería ni nada de eso armado. Era yo solito. Pero como te digo, ya había empezado a generar un poquito de confianza y André, que mencioné antes, como era empleado desde el principio y tenía acceso a todo, era de esas personas clave, y además apoyaba esto y tenía las mismas corazonadas. Entonces a altas horas de la noche, bueno, serían las 7 de la tarde o algo así, estoy seguro de que era viernes. Simplemente decidimos pedir perdón después y metimos estas preguntas en el flujo de registro y corrimos una prueba Navy con un grupo pequeño."
+  },
+  {
+    "text": "I'm not kidding, an improved conversion. There's no personalization, nothing past it, just the questions. An improved conversion by like 5%, just improved signups. And it was one of those like, 'What? Okay, what is going on here?' And I actually dug into it, and what I found from just talking to a few customers once through the flow, I'm just learning about it. It was actually for folks, it was comforting.",
+    "speaker": "Laura Schaffer",
+    "timestamp": "00:00:00",
+    "context": "Laura describes the shocking results of her guerrilla experiment at Twilio where she added signup questions. Instead of hurting conversion rates as everyone expected, the questions actually improved signups by 5%. This counterintuitive result prompted her to investigate by talking to customers who had gone through the new flow, discovering that the questions were actually making users feel more comfortable and confident about using the product.",
+    "vocabulary_highlights": [
+      "dug into it",
+      "went through the flow"
+    ],
+    "topics": [
+      "Growth & Marketing",
+      "Product Management"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Growth",
+    "speaker_expertise": [
+      "Growth Strategy"
+    ],
+    "text_ko": "농담 아니에요. 전환율(conversion rate)이 실제로 개선됐어요. 개인화(personalization) 같은 건 전혀 없었고, 그 다음 단계도 없었어요 — 그냥 질문들뿐이었어요. 전환이 대략 5% 정도 올랐고, 단순히 가입(signups)이 좀 늘어난 수준이었어요. '뭐지? 왜 이러지?' 싶은 상황이었죠. 그래서 제가 직접 파고들어봤더니, 고객 몇 명에게 그 흐름(flow)을 한 번 겪어보게 하고 얘기해본 것만으로도 배운 게 있었어요. 의외로 그건 사람들에게 오히려 안심이 되는 경험이었어요.",
+    "text_zh": "我没开玩笑，转化率(conversion)真的提升了。没有个性化，什么都没加，就是问了几个问题而已。转化率(conversion)提升了大概5%，注册用户就是增加了。当时我就想，'什么情况？这到底怎么回事？'然后我就深挖了一下，跟几个客户聊了聊整个流程，想搞明白是怎么回事。结果发现，对用户来说，这样做其实让他们觉得很安心。",
+    "text_es": "No es broma, mejoramos la conversión. Sin personalización, sin nada después, solo las preguntas. Mejoramos la conversión como un 5%, simplemente más registros. Y fue una de esas situaciones de \"¿Qué? Bueno, ¿qué está pasando aquí?\" Y la verdad me puse a investigar a fondo, y lo que descubrí hablando con algunos clientes durante el proceso, aprendiendo sobre esto, fue que en realidad para la gente era tranquilizador."
+  },
+  {
+    "text": "When you think about it, when users are signing up for your product for the very first time, it's new. This is new, that means it's scary. They're expecting it to be difficult. They're anticipating that there's going to be friction and challenges and that they're not going to figure it out. Almost like looking for the bogeyman. And that's the headspace. It's often the headspace that any of us are in when we're doing something new for the first time like ooh, this could be very challenging.",
+    "speaker": "Laura Schaffer",
+    "timestamp": "00:23:03",
+    "context": "Laura explains the psychological insight she gained from her signup experiment at Twilio. She discovered that when users try a new product for the first time, they're naturally anxious and expecting difficulties. The signup questions actually helped alleviate this anxiety by giving users confidence that the product would support their specific needs and use cases, which is why conversion rates improved rather than decreased.",
+    "vocabulary_highlights": [
+      "looking for the bogeyman",
+      "headspace"
+    ],
+    "topics": [
+      "Product Management",
+      "Growth & Marketing"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Growth",
+    "speaker_expertise": [
+      "Growth Strategy"
+    ],
+    "text_ko": "생각해보면, 사용자가 제품에 처음 가입할 때 그건 완전히 새로워요. 새롭다는 건 무섭다는 뜻이에요. 어렵겠거니, 여기저기 마찰과 문제가 생길 거니, 내가 못 해내겠구나 하고 예상해요. 거의 문제거리를 먼저 찾아내려는 것처럼요. 그게 바로 그들의 마인드셋이에요. 사실 우리도 처음 해보는 일 앞에서는 ‘이거 꽤 어려울 수도 있겠다’ 하고 그런 마음가짐을 갖고 있는 경우가 많아요.",
+    "text_zh": "你想想啊，用户第一次注册你的产品的时候，这对他们来说是全新的东西。新的东西就意味着可怕嘛。他们心里就预设这肯定很难搞，肯定会遇到各种麻烦和挑战，肯定搞不明白。就像在找什么妖魔鬼怪似的。这就是他们的心理状态。其实我们任何人第一次做新事情的时候都是这种心态，心里想着\"哎呀，这可能会很有挑战性\"。",
+    "text_es": "Cuando lo piensas bien, cuando los usuarios se registran en tu producto por primera vez, es algo nuevo para ellos. Es nuevo, y eso da miedo. Ya van esperando que sea difícil. Van anticipando que va a haber trabas y problemas, que no le van a agarrar la onda. Como si estuvieran buscando el coco. Y esa es la mentalidad que traen. Es la mentalidad en la que muchas veces estamos todos cuando hacemos algo nuevo por primera vez, como que \"ay, esto puede estar muy complicado.\""
+  },
+  {
+    "text": "The simple catchy thing I say is that ultimately the learning here is, bad friction is bad, and good friction is good. There's no such thing as it being simple. It's just all friction is bad, which is what I had assumed going into this.",
+    "speaker": "Laura Schaffer",
+    "timestamp": "00:24:51",
+    "context": "Laura summarizes the key insight from her Twilio signup experiment that challenged conventional wisdom about user experience. Rather than all friction being inherently harmful to conversion, she learned that there's a critical distinction between different types of friction. Good friction can actually improve user experience and conversion by addressing user psychology and concerns, while bad friction creates unnecessary barriers without providing value.",
+    "vocabulary_highlights": [
+      "catchy thing I say"
+    ],
+    "topics": [
+      "Product Management",
+      "Growth & Marketing"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Growth",
+    "speaker_expertise": [
+      "Growth Strategy"
+    ],
+    "text_ko": "제가 간단히 자주 하는 말은, 결국 여기서 배운 건 나쁜 마찰(friction)은 해롭고 좋은 마찰은 도움이 된다는 거예요. 이건 그렇게 단순한 문제가 아니고, '모든 마찰이 나쁘다'고만 보는 건 옳지 않아요 — 사실 저도 처음엔 그렇게 가정하고 들어갔어요.",
+    "text_zh": "我总结得很简单好记：关键是要明白，坏的摩擦就是不好，好的摩擦就是好的。不能简单地认为所有摩擦都是坏事——我一开始就是这么想的，以为只要有摩擦就不好，其实不是这样。",
+    "text_es": "Lo que siempre digo de manera sencilla es que al final lo que aprendimos aquí es que la fricción mala es mala, y la fricción buena es buena. No es tan simple como pensar que toda fricción es mala, que era lo que yo creía al principio."
+  },
+  {
+    "text": "So always better to be iterative so that you are letting failure work for you instead of having it be a trap that you fall into.",
+    "speaker": "Laura Schaffer",
+    "timestamp": "00:35:40",
+    "context": "Lenny asks Laura whether it's better to redesign entire experiences or iterate piece by piece when running experiments. Laura advocates for iterative approaches, explaining that roughly 80% of product hypotheses fail according to research from companies like Netflix and Microsoft. By testing small changes incrementally, teams can learn from failures quickly and use those insights as guidance rather than investing heavily in complete redesigns that are more likely to fail entirely.",
+    "vocabulary_highlights": [
+      "letting failure work for you",
+      "be a trap that you fall into"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Growth",
+    "speaker_expertise": [
+      "Growth Strategy"
+    ],
+    "text_ko": "항상 반복적으로(iterative) 시도하는 편이 좋아요. 그래야 실패가 덫이 되는 대신 오히려 실패가 당신에게 도움이 돼요.",
+    "text_zh": "所以最好还是一步步来，让失败成为你的垫脚石，而不是掉进坑里爬不出来。",
+    "text_es": "Siempre es mejor ir paso a paso, iterando, para que los fracasos te sirvan en lugar de convertirse en una trampa en la que caes."
+  },
+  {
+    "text": "If it's not embarrassing, you've gone too far. Got to be embarrassing. The first thing, that was embarrassing, kicking people out, onboarding, spend all this money and whatever to get them into your center flow, and then the first thing we do, get out of here. That's nuts. But if it hadn't validated, that would've been a very cheap but very valuable learning.",
+    "speaker": "Laura Schaffer",
+    "timestamp": "00:35:17",
+    "context": "Laura explains her philosophy about iterative experimentation and the importance of launching embarrassingly simple first versions. She gives an example of redirecting users out of Twilio's onboarding flow to test a hypothesis about developer psychology with phone numbers. While this approach seemed counterintuitive and embarrassing, it provided cheap validation before investing in building a more polished solution.",
+    "vocabulary_highlights": [
+      "gone too far",
+      "kicked people out",
+      "get out of here"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Growth",
+    "speaker_expertise": [
+      "Growth Strategy"
+    ],
+    "text_ko": "부끄럽지 않다면, 뭔가 잘못된 거예요. 부끄러워야 해요. 처음에 부끄러운 건, 사람들을 쫓아내는 거예요. 온보딩(onboarding)도 하고, 돈도 많이 쓰고, 그 사람들을 우리 시스템에 맞추려고 하는데, 첫 번째로 하는 게 '나가세요'라니, 말도 안 돼요. 하지만 만약 그게 검증되지 않았다면, 그건 정말 값싼, 하지만 아주 소중한 배움이었을 거예요.",
+    "text_zh": "如果你觉得不丢脸，那说明你做得还不够。一定要让人觉得尴尬才行。第一件事确实挺尴尬的，把人踢出去——你知道吧，我们花了那么多钱和精力让他们进入我们的核心流程(center flow)，结果第一件事就是告诉他们\"你们走吧\"。这听起来就很疯狂对不对。但如果这个假设没得到验证的话，那这个教训虽然代价不高，但价值可就大了。",
+    "text_es": "Si no te da un poco de vergüenza, es que ya te pasaste. Tiene que dar vergüenza. Lo primero que hicimos, que sí daba vergüenza, fue echar a la gente, después de todo el proceso de incorporación (onboarding), gastamos un montón de dinero y lo que fuera para meterlos en nuestro flujo central, y luego lo primero que hacemos es decirles \"lárguense de aquí\". Está loco. Pero si no se hubiera validado, habría sido un aprendizaje muy barato pero súper valioso."
+  },
+  {
+    "text": "If you are a company that is providing, that requires developers to build, you must invest in self-serve experiences in order to effectively convert your audience. And you should be thinking of them, something akin your self-serve function and growth folks, someone akin to Salesforce because your developers are not going to accept sales coming in and trying to convert them at that stage.",
+    "speaker": "Laura Schaffer",
+    "timestamp": "01:09:50",
+    "context": "Lenny asks Laura about advice for building products that sell to developers. Laura explains that developers have unique psychology because they're personally responsible when tools they choose fail - it affects their reputation, team trust, and potentially their job. This high-stakes environment means developers need to prove tools work themselves through hands-on building before committing, making self-serve experiences critical for developer-focused companies.",
+    "vocabulary_highlights": [
+      "something akin to",
+      "at that stage"
+    ],
+    "topics": [
+      "Product Management",
+      "Growth & Marketing"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Growth",
+    "speaker_expertise": [
+      "Growth Strategy"
+    ],
+    "text_ko": "개발자들이 직접 구축해야 하는 제품을 제공하는 회사라면, 잠재 고객을 효과적으로 전환하려면 셀프 서비스 경험(self-serve experiences)에 투자해야 해요. 그리고 이걸 담당하는 건 세일즈포스(Salesforce)식의 직접 영업이 아니라, 셀프 서비스 담당자(self-serve function)나 성장팀(growth folks)처럼 사용자가 스스로 써보고 전환되게 만드는 쪽으로 생각해야 해요. 개발자들은 그 단계에서 영업이 와서 설득하는 걸 받아들이지 않을 거예요.",
+    "text_zh": "如果你们公司是做开发者产品的，就必须要投资做好自助服务体验，这样才能有效地转化你的用户。你应该把自助服务功能和增长团队看得跟Salesforce一样重要，因为开发者们在那个阶段是不会接受销售人员主动联系他们做转化的。",
+    "text_es": "Si eres una empresa que ofrece servicios para desarrolladores, tienes que invertir sí o sí en experiencias de autoservicio para convertir bien a tu audiencia. Y deberías pensar en algo parecido a tu función de autoservicio y la gente de crecimiento, algo como lo que hace Salesforce, porque los desarrolladores no van a aceptar que llegue el equipo de ventas a tratar de convertirlos en esa etapa."
+  }
+]

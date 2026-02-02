@@ -1,0 +1,146 @@
+[
+  {
+    "text": "I have a cheesy Chrome extension. Literally whenever I open a new tab, it just says, how can you use AI to do what you're going to do right now? It's very cheesy, but it kind of helps to pause and think, 'Oh, what am I trying to do here?'",
+    "speaker": "Aparna Chennapragada",
+    "timestamp": "00:00:00",
+    "context": "Lenny asks Aparna about how she stays current with AI capabilities and overcomes old assumptions about what AI tools can or cannot do. Aparna explains that she built a simple Chrome extension that prompts her to consider using AI for whatever task she's about to do whenever she opens a new browser tab. She describes this as part of her experiment to become more 'AI-pilled' and develop reflexive AI usage habits both at work and in her personal life.",
+    "vocabulary_highlights": [
+      "cheesy",
+      "AI-pilled",
+      "reflexive AI usage"
+    ],
+    "topics": [
+      "Learning & Growth",
+      "Decision Making"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Product Design"
+    ],
+    "text_ko": "저는 약간 유치한 크롬 확장 프로그램(Chrome extension)을 하나 써요. 새 탭을 열 때마다 '지금 하려는 일을 인공지능(AI)으로 어떻게 활용할 수 있을까?'라고 딱 떠요. 좀 유치하긴 한데, 잠깐 멈춰서 '아, 내가 지금 하려는 게 뭐지?' 생각하게 해줘서 의외로 도움이 돼요.",
+    "text_zh": "我装了个特别俗的Chrome插件。每次打开新标签页的时候，它就问你：你能不能用AI来做你现在要做的事？虽然很俗，但确实能让你停下来想想：\"嗯，我现在到底要干什么？\"",
+    "text_es": "Tengo una extensión de Chrome súper cursi. Literalmente cada vez que abro una pestaña nueva, me pregunta: ¿cómo puedes usar IA para hacer lo que vas a hacer ahora mismo? Es súper cursi, pero la verdad es que me ayuda a pausar y pensar: \"A ver, ¿qué es lo que estoy tratando de hacer aquí?\""
+  },
+  {
+    "text": "If you're not prototyping and building to see what you want to build, I think you're doing it wrong. It becomes even more important to have that editorial and taste-making at the heart of it because, otherwise, you just have a Frankenstein product.",
+    "speaker": "Aparna Chennapragada",
+    "timestamp": "00:00:09",
+    "context": "Lenny asks how the future of product development will be different from today. Aparna emphasizes that modern product development requires immediate prototyping rather than just writing specifications. She argues that the prompt is becoming the new PRD (Product Requirements Document) and that teams should demonstrate ideas through working prototypes. However, she warns that while AI makes it easier to generate ideas and prototypes, it also raises the bar for quality and requires strong editorial judgment to avoid creating disjointed products.",
+    "vocabulary_highlights": [
+      "doing it wrong",
+      "editorial and taste-making",
+      "Frankenstein product"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Product Design"
+    ],
+    "text_ko": "프로토타이핑(prototyping)하고 직접 만들어 보면서 '무엇을 만들고 싶은지' 확인하지 않는다면, 그건 잘못하고 있는 거예요. 그래서 그 중심엔 편집적 판단(editorial)과 취향 결정(taste-making)이 더 중요해져요. 안 그러면 결국 여기저기 붙여 놓은 프랑켄슈타인 같은 제품이 될 뿐이에요.",
+    "text_zh": "如果你不去做原型、不去实际搭建来看看自己到底想做什么，我觉得这个方向就错了。这时候更需要有人把关产品方向和品味，不然最后出来的就是个四不像的产品。",
+    "text_es": "Si no estás haciendo prototipos y construyendo para ver qué es lo que realmente quieres crear, creo que lo estás haciendo mal. Se vuelve aún más importante tener ese criterio editorial y ese buen gusto en el centro de todo, porque si no, terminas con un producto Frankenstein."
+  },
+  {
+    "text": "Natural language interface. NLX is the new UX. Often I hear a product builders say, 'Oh, yeah. With AI, the model eats the products.' That doesn't mean it's not designed. You and I are having a conversation. It's a podcast. I'll have another conversation at Microsoft and that's a meeting. Conversations also have grammars. They have structures. They have UI elements. They're invisible.",
+    "speaker": "Aparna Chennapragada",
+    "timestamp": "00:00:23",
+    "context": "Lenny asks about the acronym NLX that Aparna had mentioned. She explains that NLX stands for Natural Language Interface and represents a fundamental shift in how users interact with products. Aparna argues that just because AI interactions feel conversational doesn't mean they're undesigned - conversations have their own invisible structures, grammars, and UI elements that need to be carefully crafted. She's pushing back against the common belief that AI products design themselves.",
+    "vocabulary_highlights": [
+      "the model eats the products",
+      "grammars",
+      "invisible UI elements"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Product Design"
+    ],
+    "text_ko": "자연어 인터페이스 (Natural language interface). NLX는 새로운 UX (user experience)이에요. 제품을 만드는 분들한테서 종종 \"아, 그렇죠. AI가 들어오면 모델이 제품을 대체한다\"라고 듣곤 해요. 하지만 그게 설계가 안 돼 있다는 뜻은 아니에요. 지금 우리 둘이 대화를 나누고 있어요. 이건 팟캐스트고, 제가 마이크로소프트에서 나눌 다른 대화는 회의예요. 대화에도 문법이 있고 구조가 있으며, UI 요소 (UI elements)가 있어요. 다만 눈에 보이지 않을 뿐이에요.",
+    "text_zh": "自然语言界面，NLX就是新的UX。我经常听到产品开发的人说，\"哦对，有了AI，模型把产品都吃掉了。\"但这不意味着就不用设计了。你看，咱俩现在在聊天，这是播客。我待会儿在微软还要开个会，那是会议。对话其实也有语法的，有结构，有UI元素，只是你看不见而已。",
+    "text_es": "Interfaz de lenguaje natural. NLX es el nuevo UX. A menudo escucho a los que desarrollan productos decir: \"Ah, sí. Con la IA, el modelo se come los productos.\" Pero eso no significa que no tenga diseño. Tú y yo estamos teniendo una conversación. Es un podcast. Luego tendré otra conversación en Microsoft y esa será una reunión. Las conversaciones también tienen sus reglas gramaticales. Tienen estructuras. Tienen elementos de interfaz. Son invisibles."
+  },
+  {
+    "text": "I feel like a lot of the companies, including the tech companies, but certainly the enterprises that I talk to are in these two modes where one hand, this is the most compressed tech cycle that we've ever experienced. It's in the order of weeks and months versus years and decades. On the other hand, there's also humans and habits that... Productivity habits change. It's hard to change and change management through the company is also hard.",
+    "speaker": "Aparna Chennapragada",
+    "timestamp": "00:09:14",
+    "context": "Lenny asks what's most different about working at Microsoft compared to consumer internet companies. Aparna uses the metaphor of Jean-Claude Van Damme doing splits between two moving trucks to describe the challenge enterprises face. She explains that companies must balance two conflicting pressures: the incredibly fast pace of AI development happening in weeks and months, versus the slow pace of human behavior change and organizational change management that companies need for successful adoption.",
+    "vocabulary_highlights": [
+      "compressed tech cycle",
+      "change management through the company"
+    ],
+    "topics": [
+      "Leadership & Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Product Design"
+    ],
+    "text_ko": "제가 만나는 많은 회사들, 특히 테크 회사들뿐 아니라 엔터프라이즈들도 두 가지 모드에 있는 것 같아요. 한편으로는 지금이 우리가 경험한 것 중 가장 압축된 기술 주기(tech cycle)라서 변화가 몇 주, 몇 달 단위로 일어나고 예전처럼 몇 년·몇십 년 단위가 아니에요. 다른 한편으로는 사람들과 습관이 있어서요... 생산성 습관(productivity habits)은 쉽게 바뀌지 않고 조직 전체의 변화 관리(change management)도 쉽지 않아요.",
+    "text_zh": "我感觉很多公司，包括科技公司，特别是我接触的那些企业，现在都面临两个矛盾的情况。一方面，这是我们经历过的最紧凑的技术周期(tech cycle)，以前是按年、按十年来算的，现在是按周、按月来算。另一方面呢，人的习惯很难改变，特别是工作习惯。想要提高生产力，改变习惯本来就不容易，再加上整个公司的变革管理(change management)也很难推进。",
+    "text_es": "Me parece que muchas de las empresas con las que hablo, incluyendo las de tecnología, pero especialmente las grandes corporaciones, están como en estos dos modos: por un lado, este es el ciclo tecnológico más acelerado que hemos vivido jamás. Estamos hablando de semanas y meses en lugar de años y décadas. Pero por otro lado, también están los humanos y los hábitos... Los hábitos de productividad cambian. Es difícil cambiar y la gestión del cambio (change management) en toda la empresa también es complicada."
+  },
+  {
+    "text": "When I think about agents, I think about these three things. So one, it's autonomy like being... And it's a spectrum, it's not a zero-one, it's how do I actually delegate things that it can do. Second, I think of as complexity. It's not a one-shot, 'Hey, summarize this document, generate this image, but it's build me this prototype or help me knock this meeting out of the park.' And then the third one I think of is it's a much more natural interaction.",
+    "speaker": "Aparna Chennapragada",
+    "timestamp": "00:17:05",
+    "context": "Lenny asks Aparna to define what agents actually are, since the term is used everywhere but often unclear. Aparna provides her framework for understanding AI agents through three key characteristics. She emphasizes that agents represent an evolution from simple AI assistance to more sophisticated tools that can handle complex, multi-step tasks independently while maintaining natural communication with users. This is her practical product-building perspective on what distinguishes agents from regular AI tools.",
+    "vocabulary_highlights": [
+      "one-shot",
+      "knock this meeting out of the park",
+      "natural interaction"
+    ],
+    "topics": [
+      "Product Management",
+      "Strategy & Planning"
+    ],
+    "difficulty_level": "Advanced",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Product Design"
+    ],
+    "text_ko": "에이전트(agent)에 대해 생각하면 세 가지가 먼저 떠올라요. 첫째는 자율성(autonomy)인데, 완전한 0·1 문제가 아니라 스펙트럼(spectrum)처럼 어느 정도까지 일을 맡길 수 있느냐의 문제예요. 둘째는 복잡성인데, '이 문서 요약해'나 '이미지 만들어' 같은 원샷(one-shot) 작업이 아니라 '이 프로토타입(prototype)을 만들어줘'라든지 '이 회의를 완벽하게 해내도록 도와줘'처럼 더 복잡한 과제를 수행하는 능력이에요. 셋째는 훨씬 더 자연스러운 상호작용(natural interaction)이에요.",
+    "text_zh": "我一想到智能代理(agents)，就会想到三个方面。第一个是自主性，就是说...这是个程度问题，不是非黑即白，而是我能把哪些事儿真正放心交给它去做。第二个我觉得是复杂性。不是那种一次性的简单任务，比如\"帮我总结一下这个文档\"或者\"生成个图片\"，而是\"帮我搭个原型\"或者\"帮我把这个会议搞定\"这种。第三个就是交互方式更自然了。",
+    "text_es": "Cuando pienso en agentes, pienso en estas tres cosas. Primero, está la autonomía, como ser... Y es un espectro, no es algo de cero o uno, sino más bien cómo le puedo delegar cosas que realmente puede hacer. Segundo, pienso en la complejidad. No es algo de una sola vez como \"Oye, resume este documento, genera esta imagen\", sino más bien \"construyeme este prototipo\" o \"ayúdame a que esta reunión sea un éxito total\". Y tercero, pienso que es una interacción mucho más natural."
+  },
+  {
+    "text": "I've repeatedly learned that when you're doing something new, zero-to-one, the temptation is to kind of think about... It's like that South Park episode. So I've always said to my teams solve before scale. So what that does mean is there's a different posture and different mode when you're trying to solve a problem versus scaling something that's either post-product market fit or even at least in roughly in the ballpark.",
+    "speaker": "Aparna Chennapragada",
+    "timestamp": "00:37:57",
+    "context": "Lenny asks about counterintuitive lessons Aparna has learned about building products that go against common startup wisdom. She references the South Park 'underpants gnomes' episode (step 1: collect underpants, step 2: ?, step 3: profit) to illustrate how startups often jump to scaling before actually solving the core problem. Her key insight is that teams need to be comfortable with chaos and wide pivots during the solve phase, rather than prematurely optimizing for growth metrics.",
+    "vocabulary_highlights": [
+      "zero-to-one",
+      "solve before scale",
+      "different posture and different mode",
+      "in the ballpark"
+    ],
+    "topics": [
+      "Product Management",
+      "Starting a Company"
+    ],
+    "difficulty_level": "Intermediate",
+    "speaker_function": "Product",
+    "speaker_expertise": [
+      "AI/ML Products",
+      "Product Design"
+    ],
+    "text_ko": "새로운 걸 할 때, 제로에서 원(Zero-to-One)으로 가는 과정에서 항상 느끼는 건, 뭔가를 해결하기 전에 먼저 확장(scale)하려는 유혹이 있다는 거예요. 마치 '사우스 파크(South Park)' 에피소드처럼요. 그래서 저는 항상 제 팀에게 문제를 해결한 다음에 확장하라고 말해요. 이게 의미하는 건, 문제를 해결할 때와 제품 시장 적합성(product market fit) 이후에 확장할 때는 자세와 접근 방식이 다르다는 거예요.",
+    "text_zh": "我反复发现，当你在做全新的事情，从零到一(zero-to-one)的时候，你会忍不住想...就像那集《南方公园》一样。所以我一直跟我的团队说，先解决问题，再考虑规模化(scale)。这意思就是说，你解决问题的时候和扩大规模的时候，心态和做法是完全不一样的——后者要么是已经找到了产品市场契合点(product market fit)，要么至少差不多在那个范围内了。",
+    "text_es": "He aprendido una y otra vez que cuando estás haciendo algo completamente nuevo, de cero a uno (zero-to-one), la tentación es como pensar... Es como ese episodio de South Park. Por eso siempre le digo a mis equipos: resuelvan antes de escalar (solve before scale). Lo que esto significa es que hay una mentalidad y un enfoque completamente distinto cuando estás tratando de resolver un problema versus escalar algo que ya tiene product-market fit o que por lo menos anda más o menos en la dirección correcta."
+  }
+]
