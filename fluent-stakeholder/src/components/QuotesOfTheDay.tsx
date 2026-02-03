@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react';
 import { Quote } from '../types';
-import { ArrowRight, PlayCircle, Sparkles } from 'lucide-react';
+import { ArrowRight, PlayCircle } from 'lucide-react';
 
 interface QuotesOfTheDayProps {
   quotes: Quote[];
@@ -28,16 +28,12 @@ const QuotesOfTheDay: React.FC<QuotesOfTheDayProps> = ({ quotes, onQuoteClick, o
   return (
     <section className="w-full max-w-5xl mx-auto py-16 px-4">
       <div className="text-center mb-12">
-        <div className="inline-flex items-center gap-2 mb-3 px-3 py-1 bg-amber-50 border border-amber-200 rounded-full text-xs font-semibold tracking-wider text-amber-700 uppercase">
-          <Sparkles size={14} />
-          Today's Picks
-        </div>
         <h2 className="font-serif text-3xl md:text-4xl text-ink mb-3">
-          4 Expressions of the Day
+          Featured Expressions
         </h2>
         <p className="text-stone-500 max-w-lg mx-auto">
-          A daily selection of powerful expressions from top tech leaders.
-          Click any card to explore vocabulary and translations.
+          See how tech leaders communicate. Tap a card to expand the full quote,
+          decode key vocabulary, nuance, and translations.
         </p>
       </div>
 

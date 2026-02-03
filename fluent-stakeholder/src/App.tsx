@@ -1,6 +1,7 @@
 import React, { useState, useMemo } from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
+import StatsBand from './components/StatsBand';
 import QuotesOfTheDay from './components/QuotesOfTheDay';
 import WhatIsLennyLingo from './components/WhatIsLennyLingo';
 import HowToUseIt from './components/HowToUseIt';
@@ -146,9 +147,12 @@ const App: React.FC = () => {
       {page === 'landing' && (
         <main className="container mx-auto px-4 pb-20">
           {/* 1. Hero Section */}
-          <Hero totalQuotes={totalCount} totalSpeakers={totalSpeakers} />
+          <Hero />
 
-          {/* 2. Expressions of the Day */}
+          {/* 2. Stats Band */}
+          <StatsBand />
+
+          {/* 3. Featured Expressions */}
           {!loading && (
             <QuotesOfTheDay
               quotes={allQuotes}
