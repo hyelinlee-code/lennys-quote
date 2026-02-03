@@ -22,6 +22,7 @@ export interface Quote {
   topic: string;
   topics: string[];
   text: string;
+  keySentence: string;
   text_ko: string;
   text_zh: string;
   text_es: string;
@@ -29,9 +30,12 @@ export interface Quote {
   vocabulary: Vocabulary[];
   difficulty_level: string;
   timestamp: string;
+  episodeOrder?: number;
 }
 
 export type Language = 'en' | 'ko' | 'zh' | 'es';
+
+export type SortBy = 'recent' | 'popular' | 'speaker';
 
 export interface Filters {
   search: string;

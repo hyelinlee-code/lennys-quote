@@ -20,7 +20,8 @@
     ],
     "text_ko": "스케일드 애자일 프레임워크(Scaled Agile Framework, SAFe)는 우리가 스크럼(Scrum)과 여러 프로세스를 어떻게 확장할지 알아내고자 하는 욕구에서 나온 거예요. 다만 저는 SAFe 사용을 권하지 않아요. 제가 만나서 얘기해본 사람들 중 SAFe를 좋아하거나 SAFe로 성공했다고 말한 분들은 전부 결국 그 프레임워크를 다 뜯어고쳐서 자기들만의 방식으로 바꿔버리더라고요.",
     "text_zh": "规模化敏捷框架(Scaled Agile Framework)当初就是想解决一个问题：怎么把Scrum这些流程放大到更大规模。但我真的不建议用SAFe。我接触过的每一个说SAFe好用、用SAFe成功了的人，到最后都把它拆得七零八落，改成了别的东西。",
-    "text_es": "El Scaled Agile Framework (SAFe) surgió de la necesidad de descifrar cómo escalar Scrum y otros procesos. Pero te digo que no recomiendo usar SAFe. Cada persona con la que he hablado que le gustó SAFe, que tuvo éxito con SAFe, al final terminó deshaciéndose de todo eso y convirtiéndolo en algo completamente diferente."
+    "text_es": "El Scaled Agile Framework (SAFe) surgió de la necesidad de descifrar cómo escalar Scrum y otros procesos. Pero te digo que no recomiendo usar SAFe. Cada persona con la que he hablado que le gustó SAFe, que tuvo éxito con SAFe, al final terminó deshaciéndose de todo eso y convirtiéndolo en algo completamente diferente.",
+    "key_sentence": "People who liked SAFe ended up ripping it up and creating something else."
   },
   {
     "text": "A lot of large companies turn to Scrum or to the frameworks, and it's because they traditionally didn't grow up building software. When you look at agile methodologies, what we're really saying there is we want to be able to move quickly and deliver great value to customers. If you embrace those principles, you're going to do well.",
@@ -45,7 +46,8 @@
     ],
     "text_ko": "많은 대기업이 스크럼(Scrum)이나 여러 프레임워크들(frameworks)에 의지하는 건, 전통적으로 소프트웨어를 직접 만들어온 조직이 아니었기 때문이에요. 애자일 방법론(agile methodologies)을 보면 핵심은 빠르게 움직여 고객에게 큰 가치를 제공하자는 거예요. 그 원칙들을 받아들이면 잘 해낼 거예요.",
     "text_zh": "很多大公司都开始用Scrum或者各种框架(framework)，主要是因为他们以前不是做软件出身的。你看敏捷开发方法(agile methodologies)，说白了就是我们希望能快速行动，给客户带来真正的价值。如果你能抓住这些核心理念，肯定能做得不错。",
-    "text_es": "Muchas empresas grandes recurren a Scrum o a estos frameworks, y es porque tradicionalmente no crecieron desarrollando software. Cuando ves las metodologías ágiles, lo que realmente estamos diciendo ahí es que queremos poder movernos rápido y entregar gran valor a los clientes. Si abrazas esos principios, te va a ir bien."
+    "text_es": "Muchas empresas grandes recurren a Scrum o a estos frameworks, y es porque tradicionalmente no crecieron desarrollando software. Cuando ves las metodologías ágiles, lo que realmente estamos diciendo ahí es que queremos poder movernos rápido y entregar gran valor a los clientes. Si abrazas esos principios, te va a ir bien.",
+    "key_sentence": "Companies turn to Scrum because they didn't grow up building software."
   },
   {
     "text": "This product owner role did not emerge from product management as we know it today. It was a way to help the developers prioritize what to work on. I ended up going to a ton of agile conferences and speaking about product management, and I started to learn that there was this product owner role in Scrum.",
@@ -69,7 +71,8 @@
     ],
     "text_ko": "이 프로덕트 오너 역할(product owner role)은 지금 우리가 아는 프로덕트 매니지먼트(product management)에서 바로 나온 건 아니었어요. 원래는 개발자들이 무엇을 먼저 작업할지 우선순위를 정하도록 돕기 위한 방식이었죠. 결국 저는 수많은 애자일 컨퍼런스(agile conferences)에 가서 프로덕트 매니지먼트(product management)에 대해 발표를 했고, 그 과정에서 스크럼(Scrum) 안에 이런 프로덕트 오너 역할(product owner role)이 있다는 걸 알게 됐어요.",
     "text_zh": "这个产品负责人(product owner)的角色其实不是从我们现在理解的产品管理里发展出来的。当时就是为了帮开发人员搞清楚优先级，知道先做什么后做什么。后来我跑了好多敏捷开发(agile)的会议，去讲产品管理的事儿，慢慢才发现原来Scrum里面有这么个产品负责人的角色。",
-    "text_es": "Este rol de product owner no surgió del product management como lo conocemos hoy. Era una forma de ayudar a los desarrolladores a priorizar en qué trabajar. Terminé yendo a un montón de conferencias ágiles hablando sobre gestión de productos, y ahí fue cuando empecé a enterarme de que existía este rol de product owner en Scrum."
+    "text_es": "Este rol de product owner no surgió del product management como lo conocemos hoy. Era una forma de ayudar a los desarrolladores a priorizar en qué trabajar. Terminé yendo a un montón de conferencias ágiles hablando sobre gestión de productos, y ahí fue cuando empecé a enterarme de que existía este rol de product owner en Scrum.",
+    "key_sentence": "I ended up going to a ton of agile conferences and started to learn about product ownership."
   },
   {
     "text": "What I found was that there was a really big misconception about what those people should be doing compared to what they teach in agile and Scrum versus what we all consider great product management. I've been trying to fill that gap for the last almost 10 years working with these companies here.",
@@ -93,7 +96,8 @@
     ],
     "text_ko": "제가 발견한 건, 애자일(agile)과 스크럼(Scrum)에서 가르치는 것과 우리가 생각하는 훌륭한 제품 관리 사이에, 그 역할을 맡은 분들이 실제로 해야 할 일에 대해 큰 오해가 있다는 점이에요. 지난 거의 10년 동안 여기서 여러 회사들과 일하면서 그 간극을 메우려고 노력해왔어요.",
     "text_zh": "我发现有个很大的误区，就是关于这些人应该做什么，敏捷(agile)和Scrum里教的那套，跟我们认为的优秀产品管理(product management)之间，差距挺大的。过去快10年，我一直在跟这些公司合作，想要填补这个空白。",
-    "text_es": "Lo que me di cuenta es que había una confusión bastante grande sobre lo que esa gente debería estar haciendo comparado con lo que enseñan en agile y Scrum versus lo que todos consideramos una buena gestión de producto. He estado tratando de cerrar esa brecha durante casi 10 años trabajando con estas empresas aquí."
+    "text_es": "Lo que me di cuenta es que había una confusión bastante grande sobre lo que esa gente debería estar haciendo comparado con lo que enseñan en agile y Scrum versus lo que todos consideramos una buena gestión de producto. He estado tratando de cerrar esa brecha durante casi 10 años trabajando con estas empresas aquí.",
+    "key_sentence": "There's a really big misconception about agile practices versus great product management."
   },
   {
     "text": "When I've worked with companies on digital transformations, you want a development operating model. That's where a lot of these agile methodologies came out of. You have to understand that's just the development operating model, that's not actually going to help you with go-to-market, with launching your products and with product management.",
@@ -118,7 +122,8 @@
     ],
     "text_ko": "디지털 전환을 진행하는 기업들과 일해보면 개발 운영 모델(development operating model)이 필요하다고 느끼게 돼요. 많은 애자일 방법론(agile methodologies)도 바로 거기서 나온 거고요. 다만 그건 어디까지나 개발 운영 모델일 뿐이라 시장 진입(go-to-market), 제품 출시나 제품 관리(product management)에는 직접적인 도움이 되지는 않아요.",
     "text_zh": "我跟一些公司合作做数字化转型的时候，你得有一个开发运营模式。很多敏捷方法论(agile methodologies)就是从这儿来的。但你要明白，这只是开发运营模式，对你的市场推广(go-to-market)、产品发布，还有产品管理其实帮不上什么忙。",
-    "text_es": "Cuando he trabajado con empresas en transformaciones digitales, necesitas un modelo operativo de desarrollo. De ahí es donde salieron muchas de estas metodologías ágiles. Tienes que entender que eso es solo el modelo operativo de desarrollo, eso en realidad no te va a ayudar con el go-to-market, con lanzar tus productos ni con la gestión de productos."
+    "text_es": "Cuando he trabajado con empresas en transformaciones digitales, necesitas un modelo operativo de desarrollo. De ahí es donde salieron muchas de estas metodologías ágiles. Tienes que entender que eso es solo el modelo operativo de desarrollo, eso en realidad no te va a ayudar con el go-to-market, con lanzar tus productos ni con la gestión de productos.",
+    "key_sentence": "Agile methodologies came out of the development operating model, not go-to-market strategies."
   },
   {
     "text": "I'd say there's a lot of things you can do to help move your companies forward, and I have seen in a lot of these organizations too, a groundswell of product owners and product managers saying, 'Hey, what's next for me? What's going on?' That makes the organizations go and figure it out.",
@@ -142,7 +147,8 @@
     ],
     "text_ko": "제가 보기엔 회사를 앞으로 나아가게 하려면 할 수 있는 일이 정말 많아요. 그리고 많은 조직에서 프로덕트 오너(product owners)랑 프로덕트 매니저(product managers)들이 '다음엔 내가 뭘 하지? 지금 무슨 일이 벌어지고 있는 거지?'라고 묻기 시작하는 큰 흐름이 생기는 것도 많이 봤어요. 그런 분위기가 조직을 움직여서 스스로 답을 찾아내게 만들어요.",
     "text_zh": "我觉得有很多事情可以帮助推动公司向前发展，而且我在很多组织里都看到，产品负责人(product owners)和产品经理(product managers)开始主动问：\"嘿，我下一步该怎么走？接下来会发生什么？\"正是这种声音让组织开始思考并找出解决方案。",
-    "text_es": "Yo diría que hay muchas cosas que puedes hacer para impulsar a tus empresas hacia adelante, y también he visto en muchas de estas organizaciones un movimiento desde abajo donde los product owners y product managers están diciendo: \"Oye, ¿qué sigue para mí? ¿Qué está pasando?\" Y eso hace que las organizaciones se pongan las pilas y lo resuelvan."
+    "text_es": "Yo diría que hay muchas cosas que puedes hacer para impulsar a tus empresas hacia adelante, y también he visto en muchas de estas organizaciones un movimiento desde abajo donde los product owners y product managers están diciendo: \"Oye, ¿qué sigue para mí? ¿Qué está pasando?\" Y eso hace que las organizaciones se pongan las pilas y lo resuelvan.",
+    "key_sentence": "A groundswell of product owners helps move your companies forward and figure it out."
   },
   {
     "text": "When I think of product operating models and what I do with companies is we break out how do you determine product strategy? Do you have a good product strategy? You look at your organizational design. How are we actually organized around our products? Do we have good coverage of product managers and do we have skilled product managers up and down the organization?",
@@ -167,6 +173,7 @@
     ],
     "text_ko": "제가 프로덕트 운영 모델(product operating models)을 생각하고 회사들과 일할 때는, 제품 전략(product strategy)을 어떻게 정하는지부터 세부적으로 나눠서 봐요. 좋은 제품 전략이 있는지, 조직 설계(organizational design)는 어떤지 살펴보고요. 실제로 제품을 중심으로 어떻게 조직되어 있는지, 프로덕트 매니저(product managers)가 충분히 배치돼 있는지, 조직 전반에 걸쳐 능력 있는 프로덕트 매니저들이 있는지도 확인해요.",
     "text_zh": "说到产品运营模式(product operating models)，我跟公司合作的时候会拆解几个问题：你们怎么制定产品策略的？产品策略做得好不好？还要看组织架构设计，就是围绕产品我们的组织架构搭得怎么样？产品经理的覆盖面够不够，从上到下各个层级的产品经理水平行不行？",
-    "text_es": "Cuando pienso en modelos operativos de producto y lo que hago con las empresas es que desglosamos: ¿cómo determinas tu estrategia de producto? ¿Tienes una buena estrategia de producto? Miras el diseño organizacional. ¿Cómo estamos realmente organizados alrededor de nuestros productos? ¿Tenemos buena cobertura de product managers y tenemos product managers capacitados en toda la organización?"
+    "text_es": "Cuando pienso en modelos operativos de producto y lo que hago con las empresas es que desglosamos: ¿cómo determinas tu estrategia de producto? ¿Tienes una buena estrategia de producto? Miras el diseño organizacional. ¿Cómo estamos realmente organizados alrededor de nuestros productos? ¿Tenemos buena cobertura de product managers y tenemos product managers capacitados en toda la organización?",
+    "key_sentence": "We break out how to determine product strategy and ensure good coverage of product managers."
   }
 ]

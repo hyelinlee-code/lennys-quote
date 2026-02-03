@@ -21,7 +21,8 @@
     ],
     "text_ko": "숙제나 연습, 모의 작업으론 안 돼요. 프로덕트 매니지먼트(product management)를 잘하려면 실제 제품을, 실제 회사에서, 실제 고객을 대상으로, 실제 데이터를 가지고 직접 일해봐야 해요. 그러니까 어떤 교육이나 멘토링, 독서 등은 그 위에 얹어지는 보조적인 것일 뿐이에요.",
     "text_zh": "你没法通过做作业、做练习题或者搞一些虚的东西来提升产品管理能力。你必须在真实的公司里，面对真实的客户，用真实的数据来做真实的产品，这样才能真正提高。所以什么培训啊、导师指导啊、看书学习啊这些，都只是锦上添花而已。",
-    "text_es": "No puedes hacer tareas teóricas. No puedes hacer ejercicios de práctica. No puedes trabajar con cosas inventadas. Tienes que trabajar en productos reales, en empresas reales, con clientes reales, con datos reales para mejorar en gestión de productos. Entonces cualquier tipo de capacitación, mentoría, lectura, etcétera que hagas es solo una capa adicional encima de eso."
+    "text_es": "No puedes hacer tareas teóricas. No puedes hacer ejercicios de práctica. No puedes trabajar con cosas inventadas. Tienes que trabajar en productos reales, en empresas reales, con clientes reales, con datos reales para mejorar en gestión de productos. Entonces cualquier tipo de capacitación, mentoría, lectura, etcétera que hagas es solo una capa adicional encima de eso.",
+    "key_sentence": "Work on real products, not fake stuff, to improve product management."
   },
   {
     "text": "At the foundation of it is when I first got there, I thought what was important was modeling how things work in the real world. They're making things look right, so to speak. What I learned there is that actually, you're trying to deliver an end experience, and product, and story to your viewers, to your audience.",
@@ -45,7 +46,8 @@
     ],
     "text_ko": "처음 거기에 갔을 때는 현실에서 사물이 어떻게 작동하는지를 모델링(modeling)하는 게 중요하다고 생각했어요. 다시 말하면 보기만 그럴듯하게 만드는 거였죠. 그런데 거기서 배운 건 사실 우리가 하려는 건 시청자나 관객에게 최종 경험(end experience), 제품(product), 그리고 이야기를 전달하는 거라는 점이었어요.",
     "text_zh": "最根本的是，我刚到那里的时候，觉得重要的是要模拟现实世界的运作方式，就是让东西看起来对，你懂的。但我在那里学到的是，其实你要做的是给观众、给你的受众交付一个完整的体验、产品和故事。",
-    "text_es": "Al final del día, cuando llegué ahí pensaba que lo importante era modelar cómo funcionan las cosas en el mundo real. O sea, hacer que las cosas se vean bien, por decirlo así. Lo que aprendí ahí es que en realidad, lo que buscas es entregar una experiencia completa, un producto y una historia a tus usuarios, a tu audiencia."
+    "text_es": "Al final del día, cuando llegué ahí pensaba que lo importante era modelar cómo funcionan las cosas en el mundo real. O sea, hacer que las cosas se vean bien, por decirlo así. Lo que aprendí ahí es que en realidad, lo que buscas es entregar una experiencia completa, un producto y una historia a tus usuarios, a tu audiencia.",
+    "key_sentence": "You're delivering an end experience, not just modeling things, so to speak."
   },
   {
     "text": "I think the hard part of this is I have not figured out how to do this well in a remote environment without throwing a lot of one-on-ones on people's calendars because sometimes you figured this out just by hearing conversations, hang out at lunch, and asking questions, and those kinds of things, but it's certainly not impossible.",
@@ -69,7 +71,8 @@
     ],
     "text_ko": "어려운 건, 원격 근무 환경(remote environment)에서는 사람들 캘린더에 일대일 미팅(one-on-ones)을 잔뜩 잡아 넣지 않고는 이걸 잘 해내기가 쉽지 않다는 거예요. 가끔은 옆에서 대화 듣거나 점심 같이 어울리면서 질문하다가 해결되기도 하는데, 그런 기회가 원격에선 잘 안 생기거든요. 그래도 전혀 불가능한 건 아니에요.",
     "text_zh": "我觉得难点在于，在远程办公的环境下，我还没想出怎么能做好这件事，又不用在大家日程里塞一堆一对一会议，因为有时候你就是通过听别人聊天、一起吃午饭、随便问问问题这些方式就能搞明白，但这肯定不是不可能的事。",
-    "text_es": "Creo que lo complicado de esto es que no he logrado hacerlo bien en un entorno remoto sin llenar el calendario de la gente con reuniones uno a uno, porque a veces te enterabas de estas cosas simplemente escuchando conversaciones, charlando en el almuerzo, haciendo preguntas y ese tipo de cosas, pero desde luego no es imposible."
+    "text_es": "Creo que lo complicado de esto es que no he logrado hacerlo bien en un entorno remoto sin llenar el calendario de la gente con reuniones uno a uno, porque a veces te enterabas de estas cosas simplemente escuchando conversaciones, charlando en el almuerzo, haciendo preguntas y ese tipo de cosas, pero desde luego no es imposible.",
+    "key_sentence": "Remote work complicates collaboration without throwing a lot of one-on-ones on calendars."
   },
   {
     "text": "I think there's a framework thing, and then there's like, 'What practical advice?' So from a framework perspective, I think it's important to ask the question, 'For each of the things that I am responsible for, what category does this fall into? What's important about it? What are the right ways to think about building that, given that it is different than what I've built before?'",
@@ -93,7 +96,8 @@
     ],
     "text_ko": "제 생각에는 프레임워크(framework)적인 얘기가 있고, 또 '실무적으로 어떤 조언을 해주냐'는 얘기가 따로 있는 것 같아요. 프레임워크 관점에서는 제가 맡은 각각의 일이 어떤 카테고리(category)에 속하는지, 그 일에서 무엇이 중요한지, 그리고 이전에 만들던 것들과 다르다면 그걸 어떻게 접근해서 만들어야 하는지를 묻는 게 중요하다고 생각해요.",
     "text_zh": "我觉得这里面有个框架性的东西，然后就是\"有什么实用的建议？\"从框架的角度来说，我觉得很重要的一点是要问自己：\"我负责的每一件事，它属于哪个类别？它的重点是什么？考虑到这跟我之前做过的不一样，应该用什么样的思路去搭建？\"",
-    "text_es": "Mira, creo que hay dos niveles: el tema del marco conceptual y luego el \"¿qué hago en la práctica?\" Desde el punto de vista del framework, me parece clave preguntarse: \"De todas las cosas de las que soy responsable, ¿en qué categoría entra cada una? ¿Qué es lo importante aquí? ¿Cuáles son las mejores formas de enfocar la construcción de esto, considerando que es distinto a lo que he construido antes?\""
+    "text_es": "Mira, creo que hay dos niveles: el tema del marco conceptual y luego el \"¿qué hago en la práctica?\" Desde el punto de vista del framework, me parece clave preguntarse: \"De todas las cosas de las que soy responsable, ¿en qué categoría entra cada una? ¿Qué es lo importante aquí? ¿Cuáles son las mejores formas de enfocar la construcción de esto, considerando que es distinto a lo que he construido antes?\"",
+    "key_sentence": "Ask what category does this fall into for each responsibility, a framework thing."
   },
   {
     "text": "When you're a leader, it's now your job to propose, 'What are the resources we need to have the most impact on this problem?' I think I personally have messed this up a bunch of times where at the end of the core, I'll be like, 'Yeah, but we only had four engineers, and this is what we could do.'",
@@ -117,7 +121,8 @@
     ],
     "text_ko": "리더(leader)라면 이제 \"'이 문제에 가장 큰 임팩트를 내려면 어떤 리소스(resources)가 필요할까?'라고 제안해야 해요.\" 저도 개인적으로 이걸 몇 번 망친 적이 있어요 — 핵심 단계(core)가 끝날 무렵이면 \"우린 엔지니어(engineers)가 넷밖에 없었으니까 이게 우리가 할 수 있는 전부였어\"라고 말하곤 했어요.",
     "text_zh": "当你成为领导者的时候，你的职责就是要主动提出：\"我们需要什么资源才能最大程度地解决这个问题？\" 我觉得我个人在这方面搞砸过很多次，经常到最后总结的时候会说：\"是啊，但我们只有四个工程师，能做的就这些了。\"",
-    "text_es": "Cuando eres líder, ahora tu trabajo es plantear: '¿Qué recursos necesitamos para tener el mayor impacto en este problema?' Creo que yo personalmente la he regado un montón de veces donde al final del día termino diciendo: 'Sí, pero solo teníamos cuatro ingenieros, y esto es lo que pudimos hacer.'"
+    "text_es": "Cuando eres líder, ahora tu trabajo es plantear: '¿Qué recursos necesitamos para tener el mayor impacto en este problema?' Creo que yo personalmente la he regado un montón de veces donde al final del día termino diciendo: 'Sí, pero solo teníamos cuatro ingenieros, y esto es lo que pudimos hacer.'",
+    "key_sentence": "Propose resources needed for impact; I've messed this up a bunch of times."
   },
   {
     "text": "You need to have some breadth, right, but it's like same problem, different industry. It's one way to think about depth that's focused. Different problem, same industry is another way to think about it, but you have to come up with a unique intersection that is clearly you are in the top tier of the people who know how to do that.",
@@ -141,6 +146,7 @@
     ],
     "text_ko": "어느 정도 폭넓이(breadth)는 필요하지만, 결국 본질은 같아요 — 같은 문제인데 업계만 다른 경우(same problem, different industry)는 초점을 둔 깊이(depth)를 생각하는 한 방식이에요. 반대로 문제는 다른데 같은 업계인 경우(different problem, same industry)는 또 다른 방식이고요. 하지만 결국에는 당신만의 고유한 교차점(unique intersection)을 만들어서, 그걸 해낼 줄 아는 사람들 중에서 분명히 최상위권(top tier)에 있다는 걸 보여줄 수 있어야 해요.",
     "text_zh": "你得有一定的广度，对吧，但其实是同样的问题，只是换了个行业。这是一种专注深度的思路。换个问题，但还是同一个行业，这又是另一种思路，但关键是你得找到一个独特的交集点，让你明显处在那个领域最顶尖的那批人当中。",
-    "text_es": "Necesitas tener cierta amplitud, ¿no?, pero es como el mismo problema en distinta industria. Es una forma de pensar en profundidad pero enfocada. Problema diferente, misma industria es otra manera de verlo, pero tienes que encontrar esa intersección única donde claramente estés entre los mejores que saben hacer eso."
+    "text_es": "Necesitas tener cierta amplitud, ¿no?, pero es como el mismo problema en distinta industria. Es una forma de pensar en profundidad pero enfocada. Problema diferente, misma industria es otra manera de verlo, pero tienes que encontrar esa intersección única donde claramente estés entre los mejores que saben hacer eso.",
+    "key_sentence": "Identify a unique intersection to be in the top tier of your field."
   }
 ]

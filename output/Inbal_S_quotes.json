@@ -23,7 +23,8 @@
     ],
     "text_ko": "AI 도구(AI tools)를 써서 소프트웨어를 개발하는 사람은 사고 방식 자체를 달리 가져가야 해요. 이 도구들을 어떻게 활용해서 성공을 만들지부터 고민하기 시작해야 해요. 이제는 단순히 코드 작성(code writing)만이 아니라 더 큰 그림으로 사고를 확장해 연결된 경험(connected experience)과 연결된 시스템(connected systems)을 생각해야 해요. 그런 관점은 요즘 시니어 개발자들(senior developers) 쪽에서 더 많이 보이고, 주니어 개발자들(junior developers)에겐 점점 덜 보이고 있어요.",
     "text_zh": "用AI工具来开发软件的人得转变一下思路。你得琢磨怎么用这些AI工具帮你做成事儿。现在不光是写代码那么简单了，你得把思维格局打开，要考虑大局，考虑用户体验的连贯性，考虑系统之间怎么打通。这种思维方式现在主要还是资深开发者有，初级开发者越来越缺这块儿。",
-    "text_es": "Quien usa herramientas de IA para desarrollar software necesita cambiar su forma de pensar. Tienes que empezar a entender cómo vas a usar estas herramientas de IA para tener éxito. Y ya no se trata solo de escribir código, sino de evolucionar tu mentalidad hacia el panorama general (big picture), hacia la experiencia conectada, hacia sistemas conectados - algo que hoy en día vemos más en desarrolladores senior y cada vez menos en los junior."
+    "text_es": "Quien usa herramientas de IA para desarrollar software necesita cambiar su forma de pensar. Tienes que empezar a entender cómo vas a usar estas herramientas de IA para tener éxito. Y ya no se trata solo de escribir código, sino de evolucionar tu mentalidad hacia el panorama general (big picture), hacia la experiencia conectada, hacia sistemas conectados - algo que hoy en día vemos más en desarrolladores senior y cada vez menos en los junior.",
+    "key_sentence": "Users of AI tools must form a different thinking for success."
   },
   {
     "text": "When we're looking into what's happening right now with AI, it really became table stakes on expectations among developers, and it's really central and critical for them to be able to do their job. We know that something like 92% of developers are already using AI tools.",
@@ -47,7 +48,8 @@
     ],
     "text_ko": "지금 AI 현황을 보면, 개발자들(developers) 사이에선 이제 '기본 요건(table stakes)'이 되었고, 그게 일을 하는 데 있어 정말 핵심이자 필수 조건이에요. 이미 약 92%의 개발자들이 AI 도구(AI tools)를 사용하고 있어요.",
     "text_zh": "我们现在看AI这块儿，对开发者来说基本上已经是必备条件了，这对他们干活儿来说真的是核心需求。我们知道大概92%的开发者已经在用AI工具了。",
-    "text_es": "Cuando vemos lo que está pasando ahora mismo con la IA, realmente se volvió algo básico e indispensable en las expectativas de los desarrolladores, y es realmente central y crítico para que puedan hacer su trabajo. Sabemos que algo como el 92% de los desarrolladores ya están usando herramientas de IA."
+    "text_es": "Cuando vemos lo que está pasando ahora mismo con la IA, realmente se volvió algo básico e indispensable en las expectativas de los desarrolladores, y es realmente central y crítico para que puedan hacer su trabajo. Sabemos que algo como el 92% de los desarrolladores ya están usando herramientas de IA.",
+    "key_sentence": "AI tools are table stakes for developers' job expectations."
   },
   {
     "text": "Most developers span less than 25, some say less than 20% of their time writing in code. So if we're able to give them half an hour back, one, they can write more code. Second, they can have a break and take a breath so we don't burn them out and they're more happy. Third, we give them more time for collaboration and creative thinking, so that sparks innovation.",
@@ -71,7 +73,8 @@
     ],
     "text_ko": "대부분의 개발자들(developers)은 코드(code)를 작성하는 데에 25%도 채 쓰지 못하고, 어떤 분들은 20%도 안 쓴다고들 해요. 그래서 우리가 30분만 돌려줄 수 있다면, 첫째로 더 많은 코드를 작성할 수 있어요. 둘째로 한숨 돌릴 시간이 생겨 번아웃(burnout)을 막고 더 행복해져요. 셋째로 협업(collaboration)과 창의적 사고(creative thinking)에 더 많은 시간을 쓸 수 있어서 결국 혁신(innovation)을 촉발해요.",
     "text_zh": "大部分开发者写代码的时间其实不到25%，有人说甚至不到20%。所以如果我们能给他们省出半小时，第一，他们可以写更多代码。第二，他们能歇口气，不会那么累，心情也更好。第三，给他们更多时间去协作和创新思考，这样就能激发更多创意。",
-    "text_es": "La mayoría de los desarrolladores dedican menos del 25% de su tiempo, algunos dicen que menos del 20%, escribiendo código. Entonces, si logramos devolverles media hora, primero, pueden escribir más código. Segundo, pueden tomarse un respiro para no quemarse y estar más contentos. Y tercero, les damos más tiempo para colaborar y pensar de forma creativa, lo que genera innovación."
+    "text_es": "La mayoría de los desarrolladores dedican menos del 25% de su tiempo, algunos dicen que menos del 20%, escribiendo código. Entonces, si logramos devolverles media hora, primero, pueden escribir más código. Segundo, pueden tomarse un respiro para no quemarse y estar más contentos. Y tercero, les damos más tiempo para colaborar y pensar de forma creativa, lo que genera innovación.",
+    "key_sentence": "Giving developers time back sparks innovation and prevents burnout."
   },
   {
     "text": "We are in a world that there are no right metrics. There is no one metric to rule them all. It's a combination of the things that you're looking to measure out of adopting AI. The most easiest one is time, but time is, it's funny what I'm going to say, but time is not quantifiable as a success metrics because you can write really bad code really fast.",
@@ -95,7 +98,8 @@
     ],
     "text_ko": "우리는 정답인 메트릭(metrics)이 존재하지 않는 세상에 있어요. 모든 것을 해결해주는 단 하나의 메트릭은 없고요. AI(인공지능)를 도입해서 무엇을 측정하려는지에 따라 여러 항목을 조합해야 해요. 가장 쉬운 건 시간인데, 웃긴 얘기지만 시간만으로 성공 지표(success metrics)를 삼을 수는 없어요. 왜냐하면 정말 형편없는 코드(code)를 아주 빠르게 쓸 수도 있으니까요.",
     "text_zh": "我们现在面临的情况是，没有什么标准的衡量指标。不存在一个万能的指标能解决所有问题。你得把各种你想要衡量的AI应用效果综合起来看。最容易衡量的就是时间，但是说出来可能有点搞笑，时间其实不能算是一个可靠的成功指标，因为你完全可以很快地写出一堆烂代码。",
-    "text_es": "Estamos en un mundo donde no existen las métricas perfectas. No hay una sola métrica que lo resuelva todo. Es una combinación de las cosas que buscas medir al adoptar IA. La más fácil es el tiempo, pero el tiempo es... va a sonar raro lo que voy a decir, pero el tiempo no se puede cuantificar como métrica de éxito porque puedes escribir código pésimo muy rápido."
+    "text_es": "Estamos en un mundo donde no existen las métricas perfectas. No hay una sola métrica que lo resuelva todo. Es una combinación de las cosas que buscas medir al adoptar IA. La más fácil es el tiempo, pero el tiempo es... va a sonar raro lo que voy a decir, pero el tiempo no se puede cuantificar como métrica de éxito porque puedes escribir código pésimo muy rápido.",
+    "key_sentence": "No one metric to rule them all exists for AI adoption."
   },
   {
     "text": "If you try to structure innovation, you're losing that organic spark that is humanity. Imagine that someone say you have 15 minutes a day to be creative. I don't think it's the pull. So it's encouraging that thinking more than structured.",
@@ -119,7 +123,8 @@
     ],
     "text_ko": "혁신(innovation)을 틀에 맞춰 구조화하려고 하면 인간 고유의 자연스러운 불꽃을 잃게 돼요. 누군가가 '하루에 15분만 창의적으로 해라'고 말한다고 상상해보세요 — 그게 사람들을 끌어들이는 힘이 되진 않을 거예요. 그래서 구조화된 접근보다 생각(사고)을 더 중요하게 여기는 태도가 오히려 고무적이에요.",
     "text_zh": "如果你想把创新搞得很结构化，那你就失去了人性中那种自然的灵感火花。你想想，要是有人跟你说每天只能有15分钟时间搞创意，这根本没什么吸引力啊。所以说，应该更多地鼓励这种思维方式，而不是把它框得死死的。",
-    "text_es": "Si tratas de estructurar la innovación, pierdes esa chispa natural que es lo humano. Imagínate que alguien te diga que tienes 15 minutos al día para ser creativo. No creo que esa sea la clave. Entonces se trata más de fomentar ese pensamiento que de estructurarlo."
+    "text_es": "Si tratas de estructurar la innovación, pierdes esa chispa natural que es lo humano. Imagínate que alguien te diga que tienes 15 minutos al día para ser creativo. No creo que esa sea la clave. Entonces se trata más de fomentar ese pensamiento que de estructurarlo.",
+    "key_sentence": "Structuring innovation loses the organic spark of creativity."
   },
   {
     "text": "And I've seen that when I started doing that without building that understanding of why we need to do a change or why this is a problem that we need to go and fix it, then you don't take people with you through that journey. So really analyzing that not everyone appreciate change the way you are, not everyone has that mindset of the go, go, go, let's go do it.",
@@ -143,6 +148,7 @@
     ],
     "text_ko": "제가 해보니 왜 변화를 해야 하는지, 왜 이 문제를 해결해야 하는지에 대한 이해를 먼저 만들지 않고 바로 시작하면 사람들을 그 여정에 함께 끌고 갈 수 없더라고요. 그래서 정말 잘 분석해봐야 해요. 모든 사람이 당신처럼 변화를 좋아하거나 '빨리빨리, 바로 해보자'라는 마인드셋(mindset)을 가진 건 아니거든요.",
     "text_zh": "我发现如果一开始就直接动手，没有先让大家明白为什么要做这个改变，或者为什么这个问题必须得解决，那你就没法带着团队一起走。所以真的要想清楚，不是每个人都像你一样喜欢变化，不是每个人都有那种\"冲冲冲，干就完了\"的心态。",
-    "text_es": "Y he visto que cuando empecé a hacer eso sin construir primero esa comprensión de por qué necesitamos hacer un cambio o por qué esto es un problema que tenemos que resolver, entonces la gente no te sigue en ese proceso. Así que realmente hay que analizar que no todo el mundo aprecia el cambio como tú, no todo el mundo tiene esa mentalidad de \"vamos, vamos, vamos, hagámoslo\"."
+    "text_es": "Y he visto que cuando empecé a hacer eso sin construir primero esa comprensión de por qué necesitamos hacer un cambio o por qué esto es un problema que tenemos que resolver, entonces la gente no te sigue en ese proceso. Así que realmente hay que analizar que no todo el mundo aprecia el cambio como tú, no todo el mundo tiene esa mentalidad de \"vamos, vamos, vamos, hagámoslo\".",
+    "key_sentence": "Understanding change is crucial to take people with you through that journey."
   }
 ]

@@ -21,7 +21,8 @@
     ],
     "text_ko": "이 모델(models)들이 이제 워낙 효과적이어서, 특정한 결과에 맞게 튜닝(tuning)하기 시작해야 해요. 어느 순간부터 이건 상호작용이 늘어날수록 더 좋아지는 살아있는 유기체처럼 됐어요. 생각하고, 살아있고, 학습하는 모든 회사 제품들에겐 이게 새로운 지적재산(IP)이 될 거라고 생각해요.",
     "text_zh": "现在这些模型已经非常厉害了，你就想开始调教它们，让它们产生特定的结果。突然间，这些东西就像活的生物一样，互动得越多就越聪明。我觉得这就是每个公司的新知识产权(IP)——能思考、能存活、能学习的产品。",
-    "text_es": "Como estos modelos son tan efectivos ya en este punto, quieres empezar a ajustarlos para ciertos tipos de resultados. De repente, se convierten en estos organismos vivos que mejoran mientras más interacciones tengan. Creo que esta es la nueva propiedad intelectual (IP) de todas las empresas: productos que piensan, viven y aprenden."
+    "text_es": "Como estos modelos son tan efectivos ya en este punto, quieres empezar a ajustarlos para ciertos tipos de resultados. De repente, se convierten en estos organismos vivos que mejoran mientras más interacciones tengan. Creo que esta es la nueva propiedad intelectual (IP) de todas las empresas: productos que piensan, viven y aprenden.",
+    "key_sentence": "Tune models to certain types of outcomes for better interactions."
   },
   {
     "text": "We're approaching this world in which the marginal cost of the good output is approaching zero. We're going to see exponential demand for productivity and outputs. The way that you scale to that is with agents. When all of that happens, the org chart starts to become the work chart. You just don't need as many layers.",
@@ -46,7 +47,8 @@
     ],
     "text_ko": "우리는 산출물의 한계비용(marginal cost)이 거의 0에 가까워지는 세상으로 접어들고 있어요. 생산성(productivity)과 산출물(outputs)에 대한 수요가 기하급수적으로 늘어날 거예요. 그걸 확장(scale)하는 방법은 에이전트(agents)를 활용하는 거고요. 그런 변화가 일어나면 조직도(org chart)가 곧 실제 일(work chart)이 되기 시작해요. 그래서 계층 구조가 그렇게 많이 필요하지 않게 돼요.",
     "text_zh": "我们正在进入一个边际成本(marginal cost)接近零的时代。生产力和产出的需求会呈指数级增长。要应对这种规模，就得靠智能代理(agents)。当这一切发生时，组织架构图基本上就变成了工作流程图。你根本不需要那么多层级了。",
-    "text_es": "Nos estamos acercando a un mundo donde el costo marginal de producir buenos resultados se está volviendo casi cero. Vamos a ver una demanda exponencial de productividad y resultados. La forma de escalar a ese nivel es con agentes. Cuando todo eso pase, el organigrama empieza a convertirse en el diagrama de trabajo. Simplemente ya no necesitas tantos niveles jerárquicos."
+    "text_es": "Nos estamos acercando a un mundo donde el costo marginal de producir buenos resultados se está volviendo casi cero. Vamos a ver una demanda exponencial de productividad y resultados. La forma de escalar a ese nivel es con agentes. Cuando todo eso pase, el organigrama empieza a convertirse en el diagrama de trabajo. Simplemente ya no necesitas tantos niveles jerárquicos.",
+    "key_sentence": "Marginal cost of good output is approaching zero, changing the org chart."
   },
   {
     "text": "I think everybody is using some sort of co-pilot or sort of AI in their day-to-day workflows like job one, so everyone's not afraid of it, understands how we can raise the ceiling and lower the floor for all sorts of skills and tasks.",
@@ -69,7 +71,8 @@
     ],
     "text_ko": "제 생각에는 거의 모든 사람이 일상 업무에서 코파일럿(co-pilot)이나 인공지능(AI) 같은 걸 이미 쓰고 있어요. 그래서 다들 이제 두려워하지 않고, 이런 도구로 여러 기술과 업무의 최고 성과는 끌어올리고 최소 수행 수준(진입 장벽)은 낮출 수 있다는 걸 이해하고 있어요.",
     "text_zh": "我觉得现在大家在日常工作中都会用到一些副驾驶(co-pilot)或者AI工具，这已经是基本操作了，所以大家都不怕这些技术，也明白怎么用它们来提升上限、降低门槛，让各种技能和任务都变得更容易上手。",
-    "text_es": "Creo que todo el mundo ya está usando algún tipo de copiloto o IA en su trabajo del día a día como prioridad número uno, entonces ya nadie le tiene miedo, entiende cómo podemos subir el techo y bajar el piso para todo tipo de habilidades y tareas."
+    "text_es": "Creo que todo el mundo ya está usando algún tipo de copiloto o IA en su trabajo del día a día como prioridad número uno, entonces ya nadie le tiene miedo, entiende cómo podemos subir el techo y bajar el piso para todo tipo de habilidades y tareas.",
+    "key_sentence": "Job one is using AI to raise the ceiling and lower the floor."
   },
   {
     "text": "I really believe in the concept of the full stack builder. You're seeing it with a bunch of the AI native companies that are coming up. I'm even seeing it in enterprises that have been around for 50 years starting to operate in that way. And I think that gives you velocity and throughput and then gives you the whole loop to start to actually metabolize and go through that much faster.",
@@ -93,7 +96,8 @@
     ],
     "text_ko": "저는 풀 스택 빌더(full stack builder)라는 개념을 정말 믿어요. 요즘 생겨나는 AI 네이티브(AI native) 기업들에서 그 모습이 보이고 있고, 50년 넘은 기업들조차 그렇게 운영하기 시작하는 걸 보고 있어요. 그런 접근이 속도와 처리량(velocity and throughput)을 높여주고, 전체 루프(loop)를 만들어 실제로 그걸 더 빠르게 내재화(metabolize)하고 과정을 훨씬 빨리 돌릴 수 있게 해줘요.",
     "text_zh": "我特别认同全栈建设者(full stack builder)这个理念。你看现在很多AI原生公司都是这么做的，连那些有五十年历史的老企业都开始这样运作了。我觉得这样能让你的执行速度更快，产出更高，而且能形成一个完整的闭环，让你消化吸收、迭代优化的速度大大提升。",
-    "text_es": "Yo creo mucho en el concepto del desarrollador full stack (full stack builder). Lo estás viendo con un montón de estas empresas nativas de IA que están surgiendo. Incluso lo estoy viendo en empresas que llevan 50 años operando y están empezando a trabajar de esa manera. Y creo que eso te da velocidad y productividad, y luego te da todo el ciclo completo para realmente procesar y avanzar mucho más rápido."
+    "text_es": "Yo creo mucho en el concepto del desarrollador full stack (full stack builder). Lo estás viendo con un montón de estas empresas nativas de IA que están surgiendo. Incluso lo estoy viendo en empresas que llevan 50 años operando y están empezando a trabajar de esa manera. Y creo que eso te da velocidad y productividad, y luego te da todo el ciclo completo para realmente procesar y avanzar mucho más rápido.",
+    "key_sentence": "Full stack builder concept enhances velocity and throughput for faster operations."
   },
   {
     "text": "We think about it as what season are we in? Season one might've been prototyping of AI and then it was all around models and reasoning models, and now it's the advent of agents.",
@@ -115,7 +119,8 @@
     ],
     "text_ko": "우리는 지금 어떤 시즌에 있나 생각해요. 첫 시즌은 인공지능(AI) 프로토타이핑(prototyping) 단계였고, 그다음에는 모델(models)과 추론 모델(reasoning models)이 중심이었어요. 지금은 에이전트(agents)가 본격적으로 등장한 시기예요.",
     "text_zh": "我们是这么想的，现在我们处在哪个阶段？第一阶段可能是AI原型开发，然后就是各种模型和推理模型(reasoning models)的阶段，现在我们迎来了智能代理(agents)的时代。",
-    "text_es": "Lo vemos como ¿en qué temporada estamos? La primera temporada pudo haber sido el prototipado de la IA, después todo giró en torno a los modelos y modelos de razonamiento, y ahora estamos en la llegada de los agentes."
+    "text_es": "Lo vemos como ¿en qué temporada estamos? La primera temporada pudo haber sido el prototipado de la IA, después todo giró en torno a los modelos y modelos de razonamiento, y ahora estamos en la llegada de los agentes.",
+    "key_sentence": "We are witnessing the advent of agents in AI development."
   },
   {
     "text": "I've learned that optimism is a renewable resource. This company for 50 years has had every reason not to succeed and it has even as it's had early success in the AI era and challenges and other successes and the space is developing so quickly, I think that his ability to generate energy and to use his optimism to renew everybody's dedication to the mission is unbelievable.",
@@ -139,7 +144,8 @@
     ],
     "text_ko": "저는 낙관주의가 재생 가능한 자원이라는 걸 배웠어요. 이 회사는 지난 50년 동안 성공하지 못할 이유가 수도 없이 많았는데도, AI 시대(AI era)에 초기에 성공을 거두기도 했고 여러 도전과 또 다른 성과를 겪으면서 분야가 너무 빠르게 변하는 상황에서도, 그가 에너지를 만들어내고 자신의 낙관주의로 모두의 사명(mission)에 대한 헌신을 다시 불러일으키는 능력은 정말 놀라워요.",
     "text_zh": "我发现乐观主义其实是可以不断更新的资源。这家公司50年来遇到过各种各样本来可能让它失败的理由，但它还是挺过来了。哪怕在AI时代早期取得成功，后来又遇到挑战，然后又有其他成功，整个行业发展得这么快，我觉得他那种能够激发团队活力，用自己的乐观精神重新点燃大家对使命投入的能力，真的是太厉害了。",
-    "text_es": "He aprendido que el optimismo es un recurso renovable. Esta empresa durante 50 años ha tenido todas las razones del mundo para no triunfar y aun así lo ha logrado, incluso cuando tuvo éxito temprano en la era de la IA y desafíos y otros logros, y el sector está evolucionando tan rápido que creo que su capacidad para generar energía y usar su optimismo para renovar la dedicación de todos hacia la misión es increíble."
+    "text_es": "He aprendido que el optimismo es un recurso renovable. Esta empresa durante 50 años ha tenido todas las razones del mundo para no triunfar y aun así lo ha logrado, incluso cuando tuvo éxito temprano en la era de la IA y desafíos y otros logros, y el sector está evolucionando tan rápido que creo que su capacidad para generar energía y usar su optimismo para renovar la dedicación de todos hacia la misión es increíble.",
+    "key_sentence": "Optimism is a renewable resource that generates energy and renews dedication."
   },
   {
     "text": "I believe we will see just as much money spent on post-training as we will on pre-training and in the future, more on post-training. We talked a little bit about Nathan Lambert's study where his review was that when a model hits 30 billion parameters, it makes more sense to fine-tune and optimize that 50% of developers according to surveys are now fine-tuning.",
@@ -163,6 +169,7 @@
     ],
     "text_ko": "저는 사전 학습(pre-training)만큼 사후 학습(post-training)에 돈이 들어갈 거라고 봐요. 앞으로는 오히려 사후 학습에 더 많이 투자할 것 같아요. 네이선 램버트(Nathan Lambert)의 연구를 잠깐 얘기했는데, 그 연구는 모델이 파라미터(parameters) 300억 개쯤 되면 파인튜닝(fine-tuning)과 최적화(optimize)가 더 합리적이라고 결론 내렸어요. 설문조사에 따르면 개발자의 약 50%가 지금 파인튜닝을 하고 있다고 하더라고요.",
     "text_zh": "我觉得未来在后训练(post-training)上花的钱会跟预训练(pre-training)一样多，甚至后面可能后训练花得更多。我们之前聊过Nathan Lambert的那个研究，他的结论是模型一旦到了300亿参数，做微调(fine-tune)和优化就更划算了。调研显示现在有50%的开发者都在搞微调。",
-    "text_es": "Creo que vamos a ver tanto dinero invertido en el post-entrenamiento como en el pre-entrenamiento, y en el futuro, incluso más en el post-entrenamiento. Hablamos un poco del estudio de Nathan Lambert donde concluyó que cuando un modelo llega a los 30 mil millones de parámetros, tiene más sentido hacer fine-tuning y optimizar. Y según las encuestas, el 50% de los desarrolladores ya están haciendo fine-tuning."
+    "text_es": "Creo que vamos a ver tanto dinero invertido en el post-entrenamiento como en el pre-entrenamiento, y en el futuro, incluso más en el post-entrenamiento. Hablamos un poco del estudio de Nathan Lambert donde concluyó que cuando un modelo llega a los 30 mil millones de parámetros, tiene más sentido hacer fine-tuning y optimizar. Y según las encuestas, el 50% de los desarrolladores ya están haciendo fine-tuning.",
+    "key_sentence": "Post-training will see as much investment as pre-training, focusing on fine-tune and optimize."
   }
 ]

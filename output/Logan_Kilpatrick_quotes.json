@@ -21,7 +21,8 @@
     ],
     "text_ko": "저는 높은 주도성(high agency)과 긴급함(urgency)을 갖고 일하는 사람들을 찾는 게 중요하다고 생각해요. 만약 오늘 다섯 명을 뽑는다면 그 두 가지가 가장 먼저 보는 특성일 거예요. 그런 사람들만 있으면 못할 일이 없거든요—50명씩 여기저기 합의를 구할 필요가 없어요. 고객이 어떤 문제를 말하면 이미 해결책을 고민하고 어떻게 해결할지 밀어붙이기 시작하고, 다른 일들이 다 갖춰지길 기다리지 않아요. 그냥 가서 문제를 해결해 버리는 사람들인데, 저는 그런 태도를 정말 좋아해요.",
     "text_zh": "我觉得找那种特别有主动性、做事急迫感很强的人，如果我今天要招五个人的话，这两个特质绝对是我最看重的。因为有了这样的人，你就能闯出一片天地，不用去搞什么50个人的共识那一套。他们一听到客户反映什么问题，马上就开始琢磨解决方案了，不会等这等那的...就是那种直接上手解决问题的人，我特别喜欢这样的。",
-    "text_es": "Si hoy tuviera que contratar a cinco personas, creo que buscaría gente que tome la iniciativa y que trabaje con urgencia - esas serían las dos características principales que buscaría. Porque puedes conquistar el mundo si tienes gente que tiene alta autonomía (high agency) y que no necesita el consenso de 50 personas diferentes. Escuchan algo de nuestros clientes sobre algún problema que tienen, y ya están trabajando en cuál va a ser la solución para ellos, sin esperar a que pasen todas las otras cosas que... La gente simplemente va y lo hace, resuelve el problema, y eso me encanta."
+    "text_es": "Si hoy tuviera que contratar a cinco personas, creo que buscaría gente que tome la iniciativa y que trabaje con urgencia - esas serían las dos características principales que buscaría. Porque puedes conquistar el mundo si tienes gente que tiene alta autonomía (high agency) y que no necesita el consenso de 50 personas diferentes. Escuchan algo de nuestros clientes sobre algún problema que tienen, y ya están trabajando en cuál va a ser la solución para ellos, sin esperar a que pasen todas las otras cosas que... La gente simplemente va y lo hace, resuelve el problema, y eso me encanta.",
+    "key_sentence": "High agency and urgency are top characteristics I look for in hiring."
   },
   {
     "text": "I think where you start to get into some of these very vertical applications... And I think a great example of this is actually Harvey. I don't know if you've seen Harvey, but it's this legal AI use case where they're building custom models and tools to help lawyers and people at legal firms and stuff like that. And that's a great example of our models are probably never going to be as capable as some of the things that Harvey's doing because our goal and our mission is really to solve this very general use case and then people can do things like fine-tuning and build all their own custom UI and product features on top of that.",
@@ -45,7 +46,8 @@
     ],
     "text_ko": "이런 특정 분야의 애플리케이션에 대해 이야기할 때, 좋은 예시가 바로 Harvey예요. 혹시 Harvey를 들어본 적이 있나요? 이건 법률 AI의 사례로, 변호사와 법률 사무소에서 일하는 사람들을 돕기 위해 맞춤형 모델과 도구를 만들고 있어요. 우리 모델이 Harvey가 하는 것만큼 능력이 뛰어나지는 않을 것 같아요. 왜냐하면 우리의 목표와 미션은 아주 일반적인 사용 사례를 해결하는 것이고, 그 위에 사람들이 자신만의 UI나 제품 기능을 추가할 수 있도록 하는 거니까요.",
     "text_zh": "我觉得当你开始进入一些非常垂直的应用场景时...我觉得Harvey就是一个很好的例子。不知道你有没有听说过Harvey，它是一个法律AI应用案例，专门为律师和律所的人员构建定制化模型和工具。这就是一个很好的例子——我们的模型可能永远不会像Harvey做的那些东西那么强大，因为我们的目标和使命实际上是解决非常通用的使用场景，然后大家可以在此基础上进行微调(fine-tuning)，构建自己的定制UI和产品功能。",
-    "text_es": "Creo que cuando empezás a meterte en estas aplicaciones súper específicas... Y un ejemplo buenísimo de esto es Harvey. No sé si lo conocés, pero es un caso de uso de IA legal donde están construyendo modelos y herramientas a medida para ayudar a abogados y gente de bufetes jurídicos y todo eso. Y ese es un gran ejemplo de que nuestros modelos probablemente nunca van a ser tan capaces como algunas de las cosas que está haciendo Harvey porque nuestro objetivo y nuestra misión realmente es resolver este caso de uso súper general, y después la gente puede hacer cosas como fine-tuning y construir toda su propia interfaz personalizada y funcionalidades de producto encima de eso."
+    "text_es": "Creo que cuando empezás a meterte en estas aplicaciones súper específicas... Y un ejemplo buenísimo de esto es Harvey. No sé si lo conocés, pero es un caso de uso de IA legal donde están construyendo modelos y herramientas a medida para ayudar a abogados y gente de bufetes jurídicos y todo eso. Y ese es un gran ejemplo de que nuestros modelos probablemente nunca van a ser tan capaces como algunas de las cosas que está haciendo Harvey porque nuestro objetivo y nuestra misión realmente es resolver este caso de uso súper general, y después la gente puede hacer cosas como fine-tuning y construir toda su propia interfaz personalizada y funcionalidades de producto encima de eso.",
+    "key_sentence": "Harvey exemplifies vertical applications with custom models for legal AI."
   },
   {
     "text": "My whole position on this is prompt engineering is a very human thing. When we want to get some value out of a human, we do this prompt engineering. We try to effectively communicate with that human in order to get the best output. And the same thing is true of models. And I think it's like, again, because we're using a system that appears to be really smart, we assume that it has all this context, but it's really like imagine a human level intelligence but literally no context.",
@@ -67,7 +69,8 @@
     ],
     "text_ko": "제 입장은 이거예요. 프롬프트 엔지니어링(prompt engineering)은 아주 인간적인 일이에요. 사람에게서 뭔가 가치를 얻으려면 하듯이, 최상의 결과를 얻으려고 그 사람과 효과적으로 소통하려고 노력하잖아요. 모델도 똑같아요. 그리고 우리가 똑똑해 보이는 시스템을 쓰다 보니 그 시스템이 모든 맥락을 알고 있다고 가정하기 쉬운데, 사실 인간 수준의 지능이 있다고 해도 맥락이 전혀 없는 사람을 상상하면 돼요.",
     "text_zh": "我对这个事情的看法是，提示工程(prompt engineering)其实是很人性化的东西。你想想，我们要从一个人身上得到价值的时候，不也是在做提示工程嘛。我们会想办法跟那个人有效沟通，这样才能得到最好的结果。对模型也是一样的道理。我觉得就是因为我们用的这个系统看起来特别聪明，我们就以为它什么背景信息都知道，但实际上你可以把它想象成一个智商很高的人，但是完全没有任何背景信息。",
-    "text_es": "Mi posición sobre esto es que la ingeniería de prompts (prompt engineering) es algo muy humano. Cuando queremos sacar valor de una persona, hacemos esto mismo - ingeniería de prompts. Tratamos de comunicarnos de manera efectiva con esa persona para obtener el mejor resultado. Y exactamente lo mismo pasa con los modelos. Y creo que es como... otra vez, como estamos usando un sistema que parece súper inteligente, asumimos que tiene todo este contexto, pero en realidad es como imaginarte una inteligencia a nivel humano pero literalmente sin contexto alguno."
+    "text_es": "Mi posición sobre esto es que la ingeniería de prompts (prompt engineering) es algo muy humano. Cuando queremos sacar valor de una persona, hacemos esto mismo - ingeniería de prompts. Tratamos de comunicarnos de manera efectiva con esa persona para obtener el mejor resultado. Y exactamente lo mismo pasa con los modelos. Y creo que es como... otra vez, como estamos usando un sistema que parece súper inteligente, asumimos que tiene todo este contexto, pero en realidad es como imaginarte una inteligencia a nivel humano pero literalmente sin contexto alguno.",
+    "key_sentence": "Prompt engineering is essential for extracting value from human level intelligence."
   },
   {
     "text": "Context is the only thing that matters. It's such an important piece of getting a language model to do anything for you.",
@@ -87,7 +90,8 @@
     ],
     "text_ko": "문맥(context)이 전부예요. 언어 모델(language model)에게 뭔가 시키려면 그 문맥이 정말 중요해요.",
     "text_zh": "上下文是唯一重要的东西。想让语言模型(language model)帮你做任何事，这一点太关键了。",
-    "text_es": "El contexto es lo único que realmente importa. Es clave para lograr que un modelo de lenguaje te funcione como necesitas."
+    "text_es": "El contexto es lo único que realmente importa. Es clave para lograr que un modelo de lenguaje te funcione como necesitas.",
+    "key_sentence": "Context is the only thing that matters for language models."
   },
   {
     "text": "I think the thing that surprised me the most was just how quickly everybody got back to business. I flew to San Francisco the next week after Thanksgiving, which I wasn't planning to do, to deal with the team in person and seeing, literally Monday morning, I was walking into the office being, like expecting, I don't know, something weird to be going on or happening. And really it was like people laser focused and back to work, and I think that speaks to the caliber of our team and everybody who's just so excited about building towards the mission that we're building towards.",
@@ -111,7 +115,8 @@
     ],
     "text_ko": "가장 놀랐던 건 다들 얼마나 빨리 바로 업무 모드로 돌아왔는가였어요. 원래 계획엔 없었는데 추수감사절 다음 주에 샌프란시스코로 가서 팀을 직접 만나고 왔어요. 월요일 아침 사무실에 들어서면서 혹시 뭔가 이상한 일이 벌어지고 있지 않을까 기대했는데, 막상 가보니 다들 완전히 집중해서 일하고 있더라고요. 그 모습을 보면서 우리 팀의 수준을 느꼈고, 우리가 이루려는 미션을 향해 함께 일하는 데 다들 얼마나 신나하고 열정적인지도 알겠더라고요.",
     "text_zh": "我觉得最让我意外的是，大家这么快就重新投入工作了。感恩节后那周我临时飞到旧金山，本来没打算去的，就是为了跟团队当面聊聊。结果周一早上我走进办公室的时候，还以为会有什么奇怪的氛围或者别的什么情况。没想到大家都特别专注，该干嘛干嘛，这真的说明了我们团队的水平，每个人都对我们要实现的目标特别有激情。",
-    "text_es": "Lo que más me sorprendió fue lo rápido que todos regresaron al trabajo. Volé a San Francisco la semana después del Día de Acción de Gracias, algo que no tenía planeado hacer, para estar con el equipo en persona. Y cuando llegué literalmente el lunes por la mañana, iba caminando hacia la oficina esperando no sé, que hubiera algo raro pasando. Pero en realidad fue como ver a la gente súper enfocada y de vuelta al trabajo, y creo que eso habla de la calidad de nuestro equipo y de todos los que están súper emocionados por construir hacia la misión que estamos construyendo."
+    "text_es": "Lo que más me sorprendió fue lo rápido que todos regresaron al trabajo. Volé a San Francisco la semana después del Día de Acción de Gracias, algo que no tenía planeado hacer, para estar con el equipo en persona. Y cuando llegué literalmente el lunes por la mañana, iba caminando hacia la oficina esperando no sé, que hubiera algo raro pasando. Pero en realidad fue como ver a la gente súper enfocada y de vuelta al trabajo, y creo que eso habla de la calidad de nuestro equipo y de todos los que están súper emocionados por construir hacia la misión que estamos construyendo.",
+    "key_sentence": "People were laser focused and back to work, showcasing the caliber of our team."
   },
   {
     "text": "I think 2024 is the year of multimodal AI, but it's also the year that people really push the boundaries of some of these new UX paradigms around AI.",
@@ -135,7 +140,8 @@
     ],
     "text_ko": "제 생각에는 2024년이 멀티모달 AI(multimodal AI)의 해인 것 같아요. 동시에 사람들이 이 새로운 AI 관련 UX 패러다임(UX paradigms)들 중 일부의 경계를 정말로 밀어붙이는 해이기도 해요.",
     "text_zh": "我觉得2024年是多模态AI(multimodal AI)的元年，但同时也是大家真正开始突破AI用户体验(UX)新范式边界的一年。",
-    "text_es": "Creo que el 2024 va a ser el año de la IA multimodal, pero también va a ser cuando la gente realmente se lance a explorar los límites de estos nuevos paradigmas de experiencia de usuario (UX paradigms) en torno a la IA."
+    "text_es": "Creo que el 2024 va a ser el año de la IA multimodal, pero también va a ser cuando la gente realmente se lance a explorar los límites de estos nuevos paradigmas de experiencia de usuario (UX paradigms) en torno a la IA.",
+    "key_sentence": "2024 will be the year of multimodal AI and pushing the boundaries of UX paradigms."
   },
   {
     "text": "I've got it. It's on a Post-It note that I... Right behind my camera and it's 'Measure in hundreds.' I love this idea of measuring things in hundreds, and it's for folks who are at the beginning of some journey. I talk to people all the time, they're like, 'Yeah, I've tried this thing and it hasn't worked.' And if your mental model is to measure in hundreds, 'I measure in hundreds,' the five times that you failed at something, you failed and tried zero times.",
@@ -158,6 +164,7 @@
     ],
     "text_ko": "있어요. 제 카메라 바로 뒤에 붙여둔 포스트잇에 적어 놨죠. '수백 단위로 측정하라(measure in hundreds)'. 저는 이 수백 단위로 측정하라는 생각이 정말 마음에 들고, 어떤 여정을 막 시작한 사람들에게 특히 맞는 말이라고 생각해요. 사람들 만나면 늘 '해봤는데 안 됐어요'라고들 해요. 그런데 당신의 멘탈 모델(mental model)이 '수백 단위로 측정한다'라면, 다섯 번 실패했다고 하는 건 사실상 실패가 아니라 시도한 걸로도 안 치는 거예요.",
     "text_zh": "我明白了。我在一张便利贴(Post-It note)上写了这个，就贴在我摄像头后面，上面写着\"以百为单位来衡量\"。我特别喜欢这个概念，就是用一百次来衡量事情，这主要是给那些刚开始某个journey的人的建议。我经常遇到有人跟我说：\"哎，我试过这个东西，但是没成功。\"但如果你的思维模式是\"以百为单位来衡量\"，那么你失败的那五次，其实等于零次，你还没开始呢。",
-    "text_es": "Ya lo tengo. Está en un Post-It que tengo... justo detrás de mi cámara y dice 'Mide en cientos.' Me encanta esta idea de medir las cosas en cientos, y es para la gente que está empezando algún proyecto. Hablo con personas todo el tiempo que me dicen, 'Sí, probé esto y no funcionó.' Y si tu modelo mental es medir en cientos, 'Yo mido en cientos,' esas cinco veces que fallaste en algo, fallaste y probaste cero veces."
+    "text_es": "Ya lo tengo. Está en un Post-It que tengo... justo detrás de mi cámara y dice 'Mide en cientos.' Me encanta esta idea de medir las cosas en cientos, y es para la gente que está empezando algún proyecto. Hablo con personas todo el tiempo que me dicen, 'Sí, probé esto y no funcionó.' Y si tu modelo mental es medir en cientos, 'Yo mido en cientos,' esas cinco veces que fallaste en algo, fallaste y probaste cero veces.",
+    "key_sentence": "Measure in hundreds is a valuable mental model for beginners on their journey."
   }
 ]

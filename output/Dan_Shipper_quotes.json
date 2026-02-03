@@ -21,7 +21,8 @@
     ],
     "text_ko": "일단 제일 '핫테이크(hottest take)'부터 말할게요. 이건 제가 근거가 제일 약한 주장인데요, 그 얘기부터 시작하죠. 더 합리적이고 근거 있는 분석들도 있지만, 제 가장 강한 주장은 AI가 미국 일자리의 리쇼어링(reshoring)을 이끄는 가장 큰 힘 중 하나가 될 수 있다는 거예요.",
     "text_zh": "我要说一个最大胆的观点，而且这个观点我手头的证据是最少的。咱们就先从这个说起吧。我还有其他更有依据的观点可以跟你分享，但这是我最激进的一个观点——我觉得AI可能会成为让美国工作岗位回流(reshoring)的最大推动力之一。",
-    "text_es": "Voy a ir con mi opinión más arriesgada, y esta es la que tengo menos evidencia para respaldar. Así que empecemos por ahí. Tengo otras opiniones más fundamentadas que te puedo dar, pero esta es la más atrevida: creo que la IA podría ser una de las fuerzas más grandes para traer de vuelta empleos americanos."
+    "text_es": "Voy a ir con mi opinión más arriesgada, y esta es la que tengo menos evidencia para respaldar. Así que empecemos por ahí. Tengo otras opiniones más fundamentadas que te puedo dar, pero esta es la más atrevida: creo que la IA podría ser una de las fuerzas más grandes para traer de vuelta empleos americanos.",
+    "key_sentence": "AI may be the hottest take for reshoring American jobs."
   },
   {
     "text": "And what I noticed with him is he was just making a year. He made a year's worth of progress in two months because every time I sat down with him and told him, okay, here's how you tell a story. Here's how you think about a headline. He recorded all of it, put it into a prompt, and he never made the same mistake twice.",
@@ -44,7 +45,8 @@
     ],
     "text_ko": "제가 그에게서 본 건, 그가 2개월 만에 1년치 성과를 만들어냈다는 거예요. 제가 매번 그와 앉아서 \"이렇게 이야기를 풀어야 해, 헤드라인(headline)은 이렇게 생각해\"라고 알려주면 그는 전부 녹음해서 프롬프트(prompt)에 넣고 같은 실수를 두 번 다시 하지 않았어요.",
     "text_zh": "我发现他的进步特别快，两个月就走完了别人一年的路。因为每次我跟他坐下来聊，告诉他该怎么讲故事，怎么想标题，他都会录下来，整理成提示词(prompt)，同样的错误绝对不犯第二次。",
-    "text_es": "Y lo que noté con él es que estaba avanzando a toda velocidad. Hizo el progreso de un año completo en solo dos meses porque cada vez que me sentaba con él y le decía, \"mira, así es como cuentas una historia, así es como piensas en un titular\", él lo grababa todo, lo metía en un prompt, y nunca volvía a cometer el mismo error."
+    "text_es": "Y lo que noté con él es que estaba avanzando a toda velocidad. Hizo el progreso de un año completo en solo dos meses porque cada vez que me sentaba con él y le decía, \"mira, así es como cuentas una historia, así es como piensas en un titular\", él lo grababa todo, lo metía en un prompt, y nunca volvía a cometer el mismo error.",
+    "key_sentence": "He made a year's worth of progress in two months, never making the same mistake twice."
   },
   {
     "text": "We have a head of AI operations. I sit with her once a week. And every time I'm doing something repetitively, we put it in a to-do list. And she's just constantly building prompts and building workflows that I and everyone else on the team are just automating as much as possible.",
@@ -68,7 +70,8 @@
     ],
     "text_ko": "저희 팀에는 AI 운영 책임자(head of AI operations)가 있어요. 저는 매주 한 번 그녀와 같이 앉아서 얘기해요. 같은 일을 반복하면 그걸 바로 할 일 목록(to-do list)에 올리고요. 그녀는 계속해서 프롬프트(prompts)와 워크플로(workflows)를 만들어서 저랑 팀원들 모두가 가능한 한 많이 자동화하고 있어요.",
     "text_zh": "我们有个AI运营负责人。我每周都跟她坐下来聊一次。每次我发现自己在重复做什么事情，我们就把它加到待办清单里。然后她就不停地在那儿搭建提示词(prompts)和工作流程(workflows)，让我和团队其他人尽可能多地实现自动化。",
-    "text_es": "Tenemos una jefa de operaciones de IA. Me reúno con ella una vez por semana. Y cada vez que estoy haciendo algo repetitivo, lo apuntamos en una lista de pendientes. Y ella está constantemente creando prompts y armando flujos de trabajo para que yo y todo el equipo podamos automatizar lo más posible."
+    "text_es": "Tenemos una jefa de operaciones de IA. Me reúno con ella una vez por semana. Y cada vez que estoy haciendo algo repetitivo, lo apuntamos en una lista de pendientes. Y ella está constantemente creando prompts y armando flujos de trabajo para que yo y todo el equipo podamos automatizar lo más posible.",
+    "key_sentence": "Our head of AI operations is building workflows and automating as much as possible."
   },
   {
     "text": "One of the things that we do that I think is really cool, and they basically invented this, I had nothing to do with this, is they invented the idea of compounding engineering. So basically, for every unit of work, you should make the next unit of work easier to do.",
@@ -91,7 +94,8 @@
     ],
     "text_ko": "우리가 하는 것 중 하나인데 진짜 멋진 거예요. 그리고 이걸 사실상 처음 고안한 사람들이고 저는 전혀 관여하지 않았어요. '컴파운딩 엔지니어링(compounding engineering)'이라는 아이디어인데, 쉽게 말하면 한 단위의 작업을 할 때마다 다음 작업이 더 쉬워지게 만들어야 한다는 거예요.",
     "text_zh": "我们做的一件我觉得特别酷的事情，这基本上是他们发明的，跟我没什么关系，就是他们发明了复合工程(compounding engineering)这个概念。简单来说就是，每做一个单位的工作，都要让下一个单位的工作变得更容易做。",
-    "text_es": "Una de las cosas que hacemos que me parece súper genial, y que básicamente ellos inventaron - yo no tuve nada que ver con esto - es que inventaron el concepto de ingeniería compuesta (compounding engineering). Entonces básicamente, por cada unidad de trabajo que hagas, deberías hacer que la siguiente unidad de trabajo sea más fácil de realizar."
+    "text_es": "Una de las cosas que hacemos que me parece súper genial, y que básicamente ellos inventaron - yo no tuve nada que ver con esto - es que inventaron el concepto de ingeniería compuesta (compounding engineering). Entonces básicamente, por cada unidad de trabajo que hagas, deberías hacer que la siguiente unidad de trabajo sea más fácil de realizar.",
+    "key_sentence": "Compounding engineering makes each unit of work easier to do."
   },
   {
     "text": "I think the number one predictor is, does the CEO use ChatGPT, or insert your own chatbot. If the CEO is in it all the time, being like, this is the coolest thing, everybody else is going to start doing it. If the CEO is like, I don't know, this is for someone else, no one else is going to be able to lead that charge.",
@@ -114,7 +118,8 @@
     ],
     "text_ko": "제일 큰 예측 요소는 최고경영자(CEO)가 ChatGPT(챗GPT)나 자체 챗봇(chatbot)을 실제로 쓰느냐예요. CEO가 항상 쓰면서 “이거 진짜 멋지다”라고 하면 다른 사람들도 곧 따라 하기 시작해요. 반대로 CEO가 “글쎄, 이건 다른 사람들 일이야”라며 거리를 두면 아무도 그 변화를 주도하지 못해요.",
     "text_zh": "我觉得最重要的预测指标就是，CEO自己用不用ChatGPT，或者别的什么聊天机器人(chatbot)。如果CEO天天在那儿摆弄这个，说这玩意儿太酷了，那下面的人肯定都会跟着用起来。但如果CEO的态度是，我也不懂，这是别人的事儿，那公司里就不会有人能推动这个事儿了。",
-    "text_es": "Creo que el factor más determinante es si el CEO usa ChatGPT, o ponle el chatbot que quieras. Si el CEO está metido en eso todo el tiempo, diciendo \"esto es lo más genial que hay\", entonces todos los demás van a empezar a usarlo. Pero si el CEO dice \"no sé, esto es para otros\", nadie más va a poder liderar ese cambio."
+    "text_es": "Creo que el factor más determinante es si el CEO usa ChatGPT, o ponle el chatbot que quieras. Si el CEO está metido en eso todo el tiempo, diciendo \"esto es lo más genial que hay\", entonces todos los demás van a empezar a usarlo. Pero si el CEO dice \"no sé, esto es para otros\", nadie más va a poder liderar ese cambio.",
+    "key_sentence": "The number one predictor is CEO engagement with ChatGPT to lead that charge."
   },
   {
     "text": "And what I noticed using, at the time, like GPT-3 or maybe GPT-4, was that I was spending a lot of time, for example, thinking about, how do I communicate the problem? How do I gather the right information for the problem? How do I put it in the right way so that the model that I'm working with gets it?",
@@ -138,6 +143,7 @@
     ],
     "text_ko": "당시에 GPT-3이나 어쩌면 GPT-4(GPT-3, GPT-4)를 쓰면서 제가 깨달은 건, 예컨대 문제를 어떻게 전달할지, 문제에 맞는 정보를 어떻게 모을지, 그리고 함께 작업하는 모델이 제대로 이해하도록 어떻게 표현할지에 많은 시간을 쏟고 있다는 거였어요.",
     "text_zh": "我当时用GPT-3或者GPT-4的时候发现，我花了特别多时间在想，怎么把问题说清楚？怎么收集对的信息？怎么用合适的方式表达，让模型能真正理解我想要什么？",
-    "text_es": "Y lo que me di cuenta usando, en ese momento, como GPT-3 o tal vez GPT-4, era que estaba gastando muchísimo tiempo, por ejemplo, pensando en, ¿cómo le comunico el problema? ¿Cómo recopilo la información correcta para el problema? ¿Cómo lo planteo de la manera adecuada para que el modelo con el que estoy trabajando lo entienda?"
+    "text_es": "Y lo que me di cuenta usando, en ese momento, como GPT-3 o tal vez GPT-4, era que estaba gastando muchísimo tiempo, por ejemplo, pensando en, ¿cómo le comunico el problema? ¿Cómo recopilo la información correcta para el problema? ¿Cómo lo planteo de la manera adecuada para que el modelo con el que estoy trabajando lo entienda?",
+    "key_sentence": "I struggled to communicate the problem and gather the right information so the model gets it."
   }
 ]

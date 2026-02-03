@@ -22,7 +22,8 @@
     ],
     "text_ko": "저는 많은 제품 관리자(PM)들이 이걸 깨닫게 된 것 같아요. 즉, 어떤 걸 만들자고 엔지니어(engineer)에게 얼마나 걸리냐고 물어보면, 그 아이디어가 엔지니어 본인이 제안했거나 본인이 밀고 있는 것이라면, PM이 요청했을 때 예상한 시간의 거의 절반밖에 안 걸리는 경우가 대부분이에요. 그리고 그 동기가 완전히 달라요.",
     "text_zh": "我觉得很多PM(产品经理)现在都明白这个道理了，就是说，如果你问工程师做某个功能要花多长时间，要是这个想法是他们自己提出来的或者他们特别支持的，那估出来的时间基本上是你作为PM提需求时的一半。这个积极性真的差太多了。",
-    "text_es": "Y creo que muchos PMs ya se han dado cuenta de esto: si le preguntas a un ingeniero cuánto tiempo va a tomar desarrollar algo, y es algo que se le ocurrió a él o que está promoviendo, casi siempre te va a decir la mitad del tiempo que si fueras tú, como PM, quien se lo está pidiendo. Y es que la motivación es completamente distinta."
+    "text_es": "Y creo que muchos PMs ya se han dado cuenta de esto: si le preguntas a un ingeniero cuánto tiempo va a tomar desarrollar algo, y es algo que se le ocurrió a él o que está promoviendo, casi siempre te va a decir la mitad del tiempo que si fueras tú, como PM, quien se lo está pidiendo. Y es que la motivación es completamente distinta.",
+    "key_sentence": "Engineers often estimate half the time for their own ideas as PM requests."
   },
   {
     "text": "I think one of the most powerful things, especially for startups, is that bottoms up energy, and maybe a developer noticing something is wrong and just going off and fixing it. And for the most part, I try not to get in the way of that because if people are doing that constantly, and everyone the company is trying to make the product better, that is sometimes a way more effective way to improve the quality of experience than this top down of, oh, let's define this quality experience metric and try to change all the things, because you might miss these things.",
@@ -48,7 +49,8 @@
     ],
     "text_ko": "저는 특히 스타트업에선 그 보텀업(bottoms-up) 에너지가 정말 강력하다고 생각해요. 예를 들어 개발자가 뭔가 잘못됐다고 보고 그냥 가서 고쳐버리는 경우요. 저는 그런 움직임을 대체로 막지 않으려고 해요. 사람들이 계속 그렇게 하고, 회사에 있는 모두가 제품을 더 좋게 만들려고 한다면, 그게 위에서 내려오는 방식(top-down)으로 '자, 경험의 질(quality of experience) 지표(metric)를 정하고 모든 걸 바꿔보자'는 것보다 훨씬 더 효과적일 때가 많거든요. 위에서 정하는 방식으로는 이런 사소한 것들을 놓치기 쉬워요.",
     "text_zh": "我觉得有一个特别厉害的地方，尤其是对创业公司来说，就是那种自下而上(bottoms up)的能量——比如说一个开发人员发现了什么问题，然后就自己跑去把它修好了。大部分时候，我都尽量不去阻止这种事情，因为如果大家都经常这么做，公司里每个人都想着怎么把产品做得更好，这种方式有时候比那种自上而下(top down)的做法要有效得多——你知道，就是那种\"咱们先定义一个用户体验质量指标，然后改这改那\"的做法，因为用那种方式你可能会漏掉很多东西。",
-    "text_es": "Creo que una de las cosas más poderosas, sobre todo para las startups, es esa energía que viene de abajo hacia arriba (bottoms up), y que tal vez un desarrollador se dé cuenta de que algo anda mal y simplemente se ponga a arreglarlo. Y la mayoría del tiempo, trato de no meterme en su camino porque si la gente está haciendo eso constantemente, y todos en la empresa están tratando de mejorar el producto, a veces esa es una forma mucho más efectiva de mejorar la calidad de la experiencia que el enfoque de arriba hacia abajo (top down) de \"ay, vamos a definir esta métrica de experiencia de calidad y tratemos de cambiar todas las cosas\", porque te puedes perder esos detalles."
+    "text_es": "Creo que una de las cosas más poderosas, sobre todo para las startups, es esa energía que viene de abajo hacia arriba (bottoms up), y que tal vez un desarrollador se dé cuenta de que algo anda mal y simplemente se ponga a arreglarlo. Y la mayoría del tiempo, trato de no meterme en su camino porque si la gente está haciendo eso constantemente, y todos en la empresa están tratando de mejorar el producto, a veces esa es una forma mucho más efectiva de mejorar la calidad de la experiencia que el enfoque de arriba hacia abajo (top down) de \"ay, vamos a definir esta métrica de experiencia de calidad y tratemos de cambiar todas las cosas\", porque te puedes perder esos detalles.",
+    "key_sentence": "Bottoms up energy improves product quality more than top down approaches."
   },
   {
     "text": "I think the most crazy version of it, maybe, is Dylan's always reading customer feedback. In fact, has reads the most customer feedback of all of us and has been doing that for a decade. And oftentimes, there used to be this thing where he would drop in tweets that he sees into different Slack channels to be like, hey, this seems concerning, or we're getting this feedback.",
@@ -74,7 +76,8 @@
     ],
     "text_ko": "아마도 그 중에서 가장 극단적인 건 Dylan이 항상 고객 피드백(customer feedback)을 읽고 있다는 점이에요. 사실 우리 중에서 제일 많은 고객 피드백을 읽고 있고, 10년째 그걸 해오고 있어요. 예전에는 그가 본 트윗(tweets)을 여러 슬랙 채널(Slack channels)에 올리면서 “이거 좀 우려돼요”라거나 “이런 피드백이 들어오고 있어요”라고 알려주곤 했어요.",
     "text_zh": "我觉得最疯狂的可能就是Dylan总是在看用户反馈。实际上，他看的用户反馈比我们所有人都多，而且已经坚持了十年了。以前经常有这种情况，他会把看到的推文扔到不同的Slack频道里，然后说\"嘿，这个看起来有点问题\"，或者\"我们收到了这样的反馈\"。",
-    "text_es": "Creo que lo más loco de todo, tal vez, es que Dylan siempre está leyendo los comentarios de los clientes. De hecho, es el que más feedback de clientes lee de todos nosotros y lleva haciéndolo una década. Y muchas veces, antes había esto de que él llegaba y soltaba tweets que veía en diferentes canales de Slack como diciendo, oye, esto parece preocupante, o estamos recibiendo este tipo de comentarios."
+    "text_es": "Creo que lo más loco de todo, tal vez, es que Dylan siempre está leyendo los comentarios de los clientes. De hecho, es el que más feedback de clientes lee de todos nosotros y lleva haciéndolo una década. Y muchas veces, antes había esto de que él llegaba y soltaba tweets que veía en diferentes canales de Slack como diciendo, oye, esto parece preocupante, o estamos recibiendo este tipo de comentarios.",
+    "key_sentence": "Dylan reads the most customer feedback and shares concerning insights."
   },
   {
     "text": "I often talk about memification, which is this idea that I found this out most at Uber, I feel, where there's certain insights, data insights, research insights that were memmified to the point where someone like Travis or Dara would just cite this insight in the middle of a meeting, and you know that you've really done your job as, maybe, a researcher or a data scientist or product manager if people are able to do that and draw from that in that way.",
@@ -101,7 +104,8 @@
     ],
     "text_ko": "저는 '밈화(memification)'에 대해 자주 얘기해요. 제 경험상 특히 우버에서 그걸 가장 많이 느꼈는데, 데이터 인사이트나 리서치 인사이트 같은 것들이 밈화돼서 회의 중에 트래비스(Travis)나 다라(Dara) 같은 사람이 그냥 그 인사이트를 꺼내 말하곤 했어요. 사람들이 그렇게 자연스럽게 그걸 끌어다 쓸 수 있다면 리서처(researcher)나 데이터 사이언티스트(data scientist), 프로덕트 매니저(product manager)로서 일을 잘한 거구나 하고 알게 돼요.",
     "text_zh": "我经常提到一个概念叫\"模因化\"(memification)，这个想法主要是我在Uber的时候发现的。就是说，有些洞察，比如数据洞察啊、研究洞察啊，被\"模因化\"到什么程度呢？就是像Travis或者Dara这样的人，在开会的时候随口就能引用这些洞察。如果你作为研究员、数据科学家或者产品经理，能让别人这样自然地引用和运用你的成果，那你就真的把活儿干到位了。",
-    "text_es": "A menudo hablo de la memificación (memification), que es esta idea que descubrí sobre todo en Uber, donde hay ciertos insights, insights de datos, insights de investigación que se memificaron tanto que alguien como Travis o Dara simplemente citaba este insight en medio de una reunión, y sabes que realmente hiciste bien tu trabajo como investigador o científico de datos o product manager si la gente puede hacer eso y recurrir a esa información de esa manera."
+    "text_es": "A menudo hablo de la memificación (memification), que es esta idea que descubrí sobre todo en Uber, donde hay ciertos insights, insights de datos, insights de investigación que se memificaron tanto que alguien como Travis o Dara simplemente citaba este insight en medio de una reunión, y sabes que realmente hiciste bien tu trabajo como investigador o científico de datos o product manager si la gente puede hacer eso y recurrir a esa información de esa manera.",
+    "key_sentence": "Memification allows insights to be easily cited in meetings."
   },
   {
     "text": "There's something controversial about this idea that everyone can see what you're doing or that multiple designers can be in the file at the same time. We like to say that one of the first responses we saw to Figma was, if this is the future of design, I'm quitting, right? I'm changing careers. And there's that tension of that narrative tension, but that is signal that you're part of this revolution and you're trying to change something.",
@@ -126,7 +130,8 @@
     ],
     "text_ko": "다른 사람들이 당신이 뭘 하는지 전부 볼 수 있다거나, 여러 디자이너가 동시에 같은 파일(file) 안에서 작업할 수 있다는 생각은 논란이 있어요. 우리는 피그마(Figma)에 대한 초기 반응 중 하나가 “이게 디자인의 미래라면 난 그만둘래, 진로를 바꿀 거야”였다고 말하곤 해요. 그런 서사에서 오는 긴장감이 분명 있지만, 그 자체가 당신이 이 혁명의 일부이고 뭔가를 바꾸려 하고 있다는 신호예요.",
     "text_zh": "这个想法确实挺有争议的，就是说每个人都能看到你在做什么，或者多个设计师可以同时在一个文件里工作。我们经常说，当初Figma刚出来的时候，有人的第一反应就是，如果这就是设计的未来，那我不干了，对吧？我要转行了。这种冲突和叙事张力其实是个信号，说明你正在参与一场革命，你在试图改变什么东西。",
-    "text_es": "Hay algo polémico en esta idea de que todos puedan ver lo que estás haciendo o que varios diseñadores puedan estar en el archivo al mismo tiempo. Nos gusta decir que una de las primeras reacciones que vimos hacia Figma fue: \"si este es el futuro del diseño, yo renuncio, ¿no? Me cambio de carrera.\" Y ahí está esa tensión, esa tensión narrativa, pero eso es señal de que eres parte de esta revolución y estás tratando de cambiar algo."
+    "text_es": "Hay algo polémico en esta idea de que todos puedan ver lo que estás haciendo o que varios diseñadores puedan estar en el archivo al mismo tiempo. Nos gusta decir que una de las primeras reacciones que vimos hacia Figma fue: \"si este es el futuro del diseño, yo renuncio, ¿no? Me cambio de carrera.\" Y ahí está esa tensión, esa tensión narrativa, pero eso es señal de que eres parte de esta revolución y estás tratando de cambiar algo.",
+    "key_sentence": "Narrative tension signals you're part of this revolution in design."
   },
   {
     "text": "So Chris, our CTO, and I intervened. We created this new channel, private channel called Concerning Tweets, and it just, we're this small group of us that Dylan can drop us in. And these are tweets that aren't going viral, by any means. They're just things that you see is with one like, sometimes zero likes, but he feels there's an essence of truth to them and we make sure that we look at what's going on there and see if there isn't something much bigger that we should be focusing on.",
@@ -152,6 +157,7 @@
     ],
     "text_ko": "그래서 최고기술책임자(CTO)인 크리스와 제가 나섰어요. 'Concerning Tweets'라는 비공개 채널(private channel)을 새로 만들었고, 소수의 우리끼리 있는 곳이라 딜런이 필요할 때 우리를 여기로 불러올 수 있어요. 여기에 올라오는 트윗들은 결코 바이럴(go viral)되는 것들이 아니에요. 좋아요(likes)가 하나 있거나 때로는 아예 없을 때도 있는데, 딜런은 거기서 어딘가 진실의 기미를 느끼고 우리는 무슨 일이 일어나고 있는지 꼼꼼히 살펴봐서 우리가 더 집중해야 할 훨씬 큰 문제가 있는지 확인해요.",
     "text_zh": "所以我和我们的CTO Chris就出手了。我们建了一个新的私人频道，叫\"值得关注的推文(Concerning Tweets)\"，就是我们几个人的小群，Dylan可以把东西扔进来。这些推文根本不是什么病毒式传播的，就是那种只有一个赞，有时候零赞的内容，但Dylan觉得里面有些真实的东西，我们会确保去看看那里到底发生了什么，看看是不是有什么更大的事情需要我们关注。",
-    "text_es": "Entonces Chris, nuestro CTO, y yo decidimos meternos en el asunto. Creamos este nuevo canal, un canal privado que llamamos Tweets Preocupantes, y somos un grupo pequeñito donde Dylan nos puede incluir. Y estos son tweets que para nada se están volviendo virales. Son simplemente cosas que ves con un like, a veces cero likes, pero él siente que tienen algo de verdad y nos aseguramos de revisar qué está pasando ahí para ver si no hay algo mucho más grande en lo que deberíamos estar enfocándonos."
+    "text_es": "Entonces Chris, nuestro CTO, y yo decidimos meternos en el asunto. Creamos este nuevo canal, un canal privado que llamamos Tweets Preocupantes, y somos un grupo pequeñito donde Dylan nos puede incluir. Y estos son tweets que para nada se están volviendo virales. Son simplemente cosas que ves con un like, a veces cero likes, pero él siente que tienen algo de verdad y nos aseguramos de revisar qué está pasando ahí para ver si no hay algo mucho más grande en lo que deberíamos estar enfocándonos.",
+    "key_sentence": "We intervened to create a channel for tweets with an essence of truth."
   }
 ]

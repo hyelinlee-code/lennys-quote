@@ -22,7 +22,8 @@
     ],
     "text_ko": "저한텐 애널리틱스(analytics)가 단순한 서비스 기능이 아니라 비즈니스 임팩트를 만들어내는 역할이에요. 단지 '왜 그랬는지'를 설명해주는 데 그치지 않고, '이걸 알게 됐으니 이제 우리가 뭘 해야 하나요?'에 답할 수 있어야 해요. 기회를 찾아내고 우리가 내려야 할 결정에 대해 관점을 갖는 거예요. '왜'를 넘어 '그게 그래서 무슨 의미인지(so what)?'와 '이걸 알았으니 이제 우리가 뭘 할 건가요?'까지 말해주는 거예요.",
     "text_zh": "在我看来，数据分析(analytics)不只是个服务部门，而是能直接推动业务成果的核心职能。我们不能只回答\"为什么\"，更要回答\"知道了这个，我们接下来该怎么办？\"对我来说，关键是发现机会，对我们应该做什么决策提出自己的观点和建议。不只是解释原因，更要回答\"然后呢？知道了这些信息，我们具体该采取什么行动？\"",
-    "text_es": "Para mí, la analítica es una función que realmente impulsa el impacto en el negocio, no es solo una función de servicio que responde el porqué de las cosas, sino que también responde: \"¿Y ahora qué hacemos con esta información?\" Se trata de identificar oportunidades, de tener una posición clara sobre las decisiones que deberíamos tomar, no solo explicar el porqué sino también el \"¿y qué?\" O sea, \"¿qué hacemos ahora que sabemos esto?\""
+    "text_es": "Para mí, la analítica es una función que realmente impulsa el impacto en el negocio, no es solo una función de servicio que responde el porqué de las cosas, sino que también responde: \"¿Y ahora qué hacemos con esta información?\" Se trata de identificar oportunidades, de tener una posición clara sobre las decisiones que deberíamos tomar, no solo explicar el porqué sino también el \"¿y qué?\" O sea, \"¿qué hacemos ahora que sabemos esto?\"",
+    "key_sentence": "Analytics is a business impact driving function, answering 'What do we do now?'."
   },
   {
     "text": "Retention is a terrible thing to goal on. It's almost impossible to drive in a meaningful way in a short term. Ultimately, you want to find a short-term metric you can measure that drives a long-term output.",
@@ -46,7 +47,8 @@
     ],
     "text_ko": "리텐션(retention)을 목표로 삼는 건 별로예요. 단기간에 의미 있게 끌어올리기는 거의 불가능해요. 결국엔 장기 성과(long-term output)를 만들어내는, 측정 가능한 단기 지표(short-term metric)를 찾아서 거기에 집중해야 해요.",
     "text_zh": "把留存当目标真的很坑。短期内想有效提升留存几乎不可能。说到底，你得找个能在短期内衡量的指标，这个指标能带动长期的结果。",
-    "text_es": "La retención es pésima como objetivo. Es casi imposible moverla de manera significativa a corto plazo. Al final, lo que necesitas es encontrar una métrica de corto plazo que puedas medir y que impulse un resultado a largo plazo."
+    "text_es": "La retención es pésima como objetivo. Es casi imposible moverla de manera significativa a corto plazo. Al final, lo que necesitas es encontrar una métrica de corto plazo que puedas medir y que impulse un resultado a largo plazo.",
+    "key_sentence": "Retention is a terrible goal on; find metrics that drive a long-term output."
   },
   {
     "text": "Yes, you are a data scientist, but your goal is to figure out what's happening. And if that means that you're going to pick up the phone and call customers, then that is what you're going to do to roll up your sleeves.",
@@ -69,7 +71,8 @@
     ],
     "text_ko": "맞아요, 데이터 사이언티스트(data scientist)이긴 하지만 목표는 무슨 일이 일어나고 있는지 알아내는 거예요. 고객에게 전화를 걸어야 한다면 팔을 걷어붙이고 직접 전화해서 물어보면 돼요.",
     "text_zh": "没错，你是个数据科学家，但你的目标是要搞清楚到底发生了什么。如果这意味着你得拿起电话给客户打电话，那你就得撸起袖子这么干。",
-    "text_es": "Sí, eres científico de datos, pero tu objetivo es entender qué está pasando. Y si eso significa que vas a tomar el teléfono y llamar a los clientes, pues eso es lo que vas a hacer para arremangarte y meterte de lleno."
+    "text_es": "Sí, eres científico de datos, pero tu objetivo es entender qué está pasando. Y si eso significa que vas a tomar el teléfono y llamar a los clientes, pues eso es lo que vas a hacer para arremangarte y meterte de lleno.",
+    "key_sentence": "Data scientists must roll up their sleeves to understand what's happening."
   },
   {
     "text": "I became a data scientist out of necessity. I completely self-taught in terms of SQL and Python and I did it because there was a need at DoorDash for someone to help figure out what the right goals were, how we set those goals, how we were performing different markets early in the DoorDash story, so 10 years ago at this point.",
@@ -93,7 +96,8 @@
     ],
     "text_ko": "저는 필요 때문에 데이터 사이언티스트(data scientist)가 되었어요. SQL(SQL)과 Python(Python)은 전부 독학했어요. 당시 DoorDash에는 누군가가 올바른 목표가 무엇인지, 그 목표를 어떻게 설정할지, 그리고 DoorDash 초창기 각 시장의 성과가 어땠는지를 파악해줄 사람이 필요했기 때문에 그렇게 했어요. 지금으로부터 약 10년 전 일이에요.",
     "text_zh": "我是被逼成数据科学家的。SQL和Python(Python)都是我自学的，当时DoorDash急需有人帮忙搞清楚我们的目标到底应该是什么，怎么定这些目标，还有在DoorDash早期阶段各个市场的表现怎么样，那已经是十年前的事了。",
-    "text_es": "Me convertí en científico de datos por necesidad. Aprendí SQL y Python completamente por mi cuenta porque en DoorDash hacía falta alguien que ayudara a entender cuáles eran los objetivos correctos, cómo establecer esas metas, y cómo nos estaba yendo en los diferentes mercados al principio de la historia de DoorDash, hace ya unos 10 años."
+    "text_es": "Me convertí en científico de datos por necesidad. Aprendí SQL y Python completamente por mi cuenta porque en DoorDash hacía falta alguien que ayudara a entender cuáles eran los objetivos correctos, cómo establecer esas metas, y cómo nos estaba yendo en los diferentes mercados al principio de la historia de DoorDash, hace ya unos 10 años.",
+    "key_sentence": "I became a data scientist out of necessity, self-taught in SQL and Python."
   },
   {
     "text": "I think it happened organically and I don't think I realized at the time what I was even doing. And then I think if you think about things from first principles about what you need right now in front of you to unblock yourself or solve a problem, and you just focus on that instead of thinking about a global org that you're trying to build.",
@@ -118,7 +122,8 @@
     ],
     "text_ko": "제 생각엔 그게 자연스럽게 생긴 일이라서, 그때 제가 뭘 하고 있는지도 잘 몰랐던 것 같아요. 그리고 지금 눈앞에 있는 문제를 풀거나 막힌 걸 뚫기 위해 당장 필요한 게 뭔지 기본 원리(first principles)에서 생각해 보면, 큰 조직을 만들겠다고 고민하는 대신 그거에만 집중하는 게 더 낫다고 생각해요.",
     "text_zh": "我觉得这个过程很自然，当时我也没意识到自己在做什么。我觉得如果你从第一性原理(first principles)的角度去思考，就想想眼前需要什么来解决卡壳的问题，专注于此就行了，而不是去想着要搭建一个全球性的组织架构。",
-    "text_es": "Creo que pasó de forma natural y en ese momento ni me daba cuenta de lo que estaba haciendo realmente. Y después creo que si piensas las cosas desde los fundamentos básicos (first principles) sobre lo que necesitas ahora mismo, justo enfrente de ti, para desbloquearte o resolver un problema, y te enfocas solo en eso en lugar de estar pensando en toda una organización global que estás tratando de construir."
+    "text_es": "Creo que pasó de forma natural y en ese momento ni me daba cuenta de lo que estaba haciendo realmente. Y después creo que si piensas las cosas desde los fundamentos básicos (first principles) sobre lo que necesitas ahora mismo, justo enfrente de ti, para desbloquearte o resolver un problema, y te enfocas solo en eso en lugar de estar pensando en toda una organización global que estás tratando de construir.",
+    "key_sentence": "Focus on solving problems from first principles to unblock yourself."
   },
   {
     "text": "I think keeping things simple is another thing I've learned over the years, maybe it's data scientists, but they tend to love these composite metrics with a coefficient. 'We're going to wait this input at X and this input at X+2.' And then you end up with a metric that nobody really understands that doesn't actually mean anything.",
@@ -142,6 +147,7 @@
     ],
     "text_ko": "제가 수년 동안 배운 것 중 하나는, 뭔가를 단순하게 유지하는 거예요. 아마 데이터 사이언티스트들(data scientists) 탓일 수도 있는데, 이분들은 계수(coefficient)가 들어간 합성 지표(composite metrics)를 좋아하는 경향이 있어요. “이 입력에는 가중치(weight)를 X로, 저 입력에는 X+2로 하자”라고 하고 나면 결국 아무도 제대로 이해하지 못하는, 사실상 아무 의미 없는 지표가 나오고 말아요.",
     "text_zh": "我觉得保持简单是我这些年学到的另一个道理。可能是数据科学家的通病吧，他们特别爱搞那些复合指标(composite metrics)，还要加系数。什么\"这个输入我们按X权重，那个输入按X+2权重\"。最后整出来一个指标，没人能看懂，其实也没什么实际意义。",
-    "text_es": "Creo que mantener las cosas sencillas es algo que he aprendido con los años. Tal vez sea cosa de los científicos de datos, pero tienden a enamorarse de estas métricas compuestas con coeficientes. \"Vamos a ponderar esta variable con X y esta otra con X+2.\" Y al final terminas con una métrica que nadie entiende realmente y que no significa nada en la práctica."
+    "text_es": "Creo que mantener las cosas sencillas es algo que he aprendido con los años. Tal vez sea cosa de los científicos de datos, pero tienden a enamorarse de estas métricas compuestas con coeficientes. \"Vamos a ponderar esta variable con X y esta otra con X+2.\" Y al final terminas con una métrica que nadie entiende realmente y que no significa nada en la práctica.",
+    "key_sentence": "Data scientists love composite metrics, but they often lack meaning."
   }
 ]

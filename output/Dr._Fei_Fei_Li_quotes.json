@@ -21,7 +21,8 @@
     ],
     "text_ko": "저는 기술이 전반적으로 인류에 긍정적(net positive)이라고 믿어요. 그렇지만 모든 기술은 양날의 검(double-edged sword)이에요. 사회로서나 개인으로서 우리가 올바르게 행동하지 않으면, 이걸 망칠 수도 있어요.",
     "text_zh": "我确实觉得科技对人类总体来说是好事，但我认为每项技术都是双刃剑。如果我们作为社会、作为个人没有做对的事情，我们也完全可能把这事儿搞砸。",
-    "text_es": "Sí creo que la tecnología es algo positivo para la humanidad en general, pero pienso que toda tecnología es un arma de doble filo. Si no hacemos lo correcto como sociedad, como individuos, también podemos cagarla bien feo."
+    "text_es": "Sí creo que la tecnología es algo positivo para la humanidad en general, pero pienso que toda tecnología es un arma de doble filo. Si no hacemos lo correcto como sociedad, como individuos, también podemos cagarla bien feo.",
+    "key_sentence": "Technology is a net positive but a double-edged sword if misused."
   },
   {
     "text": "We need to train machines with as much information as possible on images of objects, but objects are very, very difficult to learn. A single object can have infinite possibilities that is shown on an image. In order to train computers with tens and thousands of object concepts, you really need to show it millions of examples.",
@@ -45,7 +46,8 @@
     ],
     "text_ko": "우리는 사물 이미지(images of objects)에서 가능한 한 많은 정보를 이용해 기계(machines)를 학습시켜야 해요. 그런데 사물(objects)은 배우기가 정말, 정말 어렵습니다. 같은 사물도 이미지상에서는 무한한 가능성을 가질 수 있어요. 컴퓨터에 수십, 수천 개의 사물 개념(object concepts)을 학습시키려면 실제로 수백만 개의 예시를 보여줘야 해요.",
     "text_zh": "我们得用尽可能多的物体图像信息来训练机器，但物体这东西真的特别难学。就一个物体，在图像上能呈现出无数种可能性。要想让电脑掌握成千上万种物体概念，你真得给它看几百万个样本才行。",
-    "text_es": "Necesitamos entrenar las máquinas con toda la información posible sobre imágenes de objetos, pero los objetos son súper difíciles de aprender. Un solo objeto puede tener infinitas posibilidades de cómo se ve en una imagen. Para entrenar computadoras con miles y miles de conceptos de objetos, realmente necesitas mostrarles millones de ejemplos."
+    "text_es": "Necesitamos entrenar las máquinas con toda la información posible sobre imágenes de objetos, pero los objetos son súper difíciles de aprender. Un solo objeto puede tener infinitas posibilidades de cómo se ve en una imagen. Para entrenar computadoras con miles y miles de conceptos de objetos, realmente necesitas mostrarles millones de ejemplos.",
+    "key_sentence": "Objects have infinite possibilities, requiring millions of examples for object concepts."
   },
   {
     "text": "I am recognized for being part of the history, but there are so many heroes and so many researchers. We're talking about generations of researchers. In my own world, there are so many people who have inspired me, which I talked about in my book, but I do feel our culture, especially Silicon Valley, tends to assign achievements to a single person.",
@@ -68,7 +70,8 @@
     ],
     "text_ko": "저는 역사의 한 부분으로 인정받고는 해요. 그런데 정말 많은 영웅들과 수많은 연구자들이 있어요. 연구자들이 세대를 이어 이어온 거죠. 제 분야에도 저에게 영감을 준 분들이 정말 많아서 그 이야기를 제 책에서도 했어요. 다만 우리 문화, 특히 실리콘밸리(Silicon Valley)는 성과를 한 사람에게 귀속시키는 경향이 있는 것 같아요.",
     "text_zh": "大家都说我是历史的一部分，但其实英雄太多了，做研究的人也太多了。我们说的可是好几代研究人员啊。在我自己的圈子里，有太多人给了我启发，我在书里也提到过，但我确实觉得我们这个文化，特别是硅谷(Silicon Valley)，总是喜欢把成就都归到一个人头上。",
-    "text_es": "Me reconocen por haber sido parte de la historia, pero hay muchísimos héroes y muchísimos investigadores. Estamos hablando de generaciones enteras de investigadores. En mi propio mundo, hay tanta gente que me ha inspirado, de la que hablé en mi libro, pero sí siento que nuestra cultura, especialmente Silicon Valley, tiende a atribuirle los logros a una sola persona."
+    "text_es": "Me reconocen por haber sido parte de la historia, pero hay muchísimos héroes y muchísimos investigadores. Estamos hablando de generaciones enteras de investigadores. En mi propio mundo, hay tanta gente que me ha inspirado, de la que hablé en mi libro, pero sí siento que nuestra cultura, especialmente Silicon Valley, tiende a atribuirle los logros a una sola persona.",
+    "key_sentence": "Silicon Valley tends to assign achievements to a single person, ignoring generations of researchers."
   },
   {
     "text": "Some tech companies avoid using the word AI because they were not sure if AI was a dirty word. I was actually encouraging everybody to use the word AI because to me that is one of the most audacious question humanity has ever asked in our quest for science and technology, and I feel very proud of this term.",
@@ -92,7 +95,8 @@
     ],
     "text_ko": "몇몇 테크 기업들은 인공지능(AI)이라는 말을 피했어요. 인공지능이 부정적인 의미로 받아들여질지 확신이 없었기 때문이에요. 저는 오히려 모두가 인공지능(AI)이라는 말을 쓰라고 권했어요. 제게 그 말은 인류가 과학과 기술을 추구해오면서 던져온 가장 대담한 질문들 중 하나로 느껴져요. 그리고 저는 이 용어가 정말 자랑스러워요.",
     "text_zh": "有些科技公司不敢用AI这个词，怕这词儿听起来不太好。但我其实一直鼓励大家大胆用AI这个词，因为在我看来，这是人类在科技探索路上提出的最有野心的问题之一，我为这个词感到特别骄傲。",
-    "text_es": "Algunas empresas de tecnología evitaban usar la palabra IA porque no estaban seguras si era un término que daba mala imagen. Yo en realidad animaba a todo el mundo a usar la palabra IA porque para mí es una de las preguntas más ambiciosas que la humanidad se ha planteado jamás en nuestra búsqueda del conocimiento científico y tecnológico, y me siento muy orgulloso de este término."
+    "text_es": "Algunas empresas de tecnología evitaban usar la palabra IA porque no estaban seguras si era un término que daba mala imagen. Yo en realidad animaba a todo el mundo a usar la palabra IA porque para mí es una de las preguntas más ambiciosas que la humanidad se ha planteado jamás en nuestra búsqueda del conocimiento científico y tecnológico, y me siento muy orgulloso de este término.",
+    "key_sentence": "AI is one of humanity's most audacious questions in our quest for science and technology."
   },
   {
     "text": "I'm an intellectually very fearless person, and I have to say when I hire young people, I look for that because I think that's a very important quality if one wants to make a difference. When you want to make a difference, you have to accept that you're creating something new or you're diving into something new.",
@@ -115,7 +119,8 @@
     ],
     "text_ko": "저는 지적으로 굉장히 두려움이 없는 편이에요. 젊은 인재를 뽑을 때 그런 태도를 중요하게 보는데, 무언가 변화를 만들고 싶다면 그게 정말 중요한 자질이라고 생각해요. 변화를 원한다면 새로운 걸 창조하거나 미지의 영역에 뛰어드는 걸 받아들여야 해요.",
     "text_zh": "我这个人在思维上特别不怕事儿，说实话我招年轻人的时候也专门看这一点，因为我觉得你要是想干出点名堂来，这个品质太重要了。你想要有所作为的话，就得接受这个现实——要么你在创造全新的东西，要么你在往一个全新的领域里扎猛子。",
-    "text_es": "Soy una persona sin miedo intelectual, y tengo que decir que cuando contrato gente joven, busco exactamente eso porque creo que es una cualidad súper importante si uno quiere marcar la diferencia. Cuando quieres marcar la diferencia, tienes que aceptar que estás creando algo nuevo o te estás metiendo en algo completamente nuevo."
+    "text_es": "Soy una persona sin miedo intelectual, y tengo que decir que cuando contrato gente joven, busco exactamente eso porque creo que es una cualidad súper importante si uno quiere marcar la diferencia. Cuando quieres marcar la diferencia, tienes que aceptar que estás creando algo nuevo o te estás metiendo en algo completamente nuevo.",
+    "key_sentence": "I seek intellectually very fearless individuals diving into something new to make a difference."
   },
   {
     "text": "It's so important that even a technologist like me are sincere about that everybody has a role in AI. No technology should take away human dignity and the human dignity and agency should be at the heart of the development, the deployment, as well as the governance of every technology.",
@@ -138,6 +143,7 @@
     ],
     "text_ko": "저 같은 기술자(technologist)도 누구나 AI에서 역할이 있다는 것에 대해 진심이어야 해요. 어떤 기술도 인간의 존엄성을 빼앗아서는 안 되고, 인간의 존엄성과 자율성(agency)이 모든 기술의 개발과 도입(deployment), 그리고 거버넌스(governance)의 중심에 있어야 해요.",
     "text_zh": "这点真的太重要了，就连我这样搞技术的人都特别认真地认为，每个人在AI这件事上都有自己的角色。任何技术都不应该剥夺人的尊严，人的尊严和主体性应该是每一项技术在开发、部署和治理过程中的核心。",
-    "text_es": "Es súper importante que incluso alguien de tecnología como yo sea honesto sobre esto: todos tenemos un papel que jugar en la IA. Ninguna tecnología debería quitarle dignidad a las personas, y la dignidad humana y la capacidad de decidir tienen que estar en el centro del desarrollo, la implementación y también de cómo manejamos cualquier tecnología."
+    "text_es": "Es súper importante que incluso alguien de tecnología como yo sea honesto sobre esto: todos tenemos un papel que jugar en la IA. Ninguna tecnología debería quitarle dignidad a las personas, y la dignidad humana y la capacidad de decidir tienen que estar en el centro del desarrollo, la implementación y también de cómo manejamos cualquier tecnología.",
+    "key_sentence": "Human dignity and agency should be at the heart of every technology's development."
   }
 ]

@@ -22,7 +22,8 @@
     ],
     "text_ko": "우리 팀 전체는 한 해에 대략 엔지니어 15명 정도밖에 안 돼요. Devin을 만들 때 우리는 Devin을 진짜 많이 활용해요. 팀원 대부분은 한 번에 최대 다섯 개의 Devin을 다루고 있고, 그래서 Devin은 매달 코드베이스(code bases)에 수백 건의 풀 리퀘스트(pull requests)를 프로덕션(production)으로 머지(merge)해요.",
     "text_zh": "我们整个团队一年也就15个工程师左右。我们在开发Devin的时候大量使用Devin本身。团队里大部分人都是同时和最多5个Devin一起干活，所以每个月Devin都会往生产环境合并几百个pull request到Devin的代码库里。",
-    "text_es": "Nuestro equipo completo son como 15 ingenieros al año nada más. Usamos Devin un montón cuando estamos desarrollando Devin. La mayoría del equipo definitivamente está trabajando con hasta cinco Devins a la vez, y entonces Devin fusiona como varios cientos de pull requests a producción en las bases de código de Devin cada mes."
+    "text_es": "Nuestro equipo completo son como 15 ingenieros al año nada más. Usamos Devin un montón cuando estamos desarrollando Devin. La mayoría del equipo definitivamente está trabajando con hasta cinco Devins a la vez, y entonces Devin fusiona como varios cientos de pull requests a producción en las bases de código de Devin cada mes.",
+    "key_sentence": "Our team uses a ton of Devins, merging hundreds of pull requests monthly."
   },
   {
     "text": "AI is going to be the biggest technology shift of our lives, so most of the big tech revolutions that we've had over the last 50 years, like personal computer, and the internet, and the mobile phone, they all had this big hardware component that was a big part of the distribution. One of the things which is already I'd say different in AI, is just how explosive the technology can be. There's no weight on hardware distribution.",
@@ -46,7 +47,8 @@
     ],
     "text_ko": "인공지능(AI)은 우리 삶에서 겪게 될 가장 큰 기술적 전환일 거예요. 지난 50년 동안 있었던 큰 기술 혁명들—개인용 컴퓨터(personal computer), 인터넷(internet), 휴대전화(mobile phone)—은 모두 유통에서 큰 비중을 차지한 하드웨어 요소가 있었어요. 그런데 인공지능(AI)은 이미 다른 점이 하나 있어요: 기술 자체가 얼마나 폭발적으로 확산될 수 있는지예요. 하드웨어 유통(hardware distribution)에 얽매여 있지 않거든요.",
     "text_zh": "AI会是我们这辈子遇到的最大的技术变革。你看过去50年那些重大的科技革命，比如个人电脑、互联网、手机，它们都有一个共同点，就是硬件是很重要的一块，硬件的普及决定了技术能推广到什么程度。但AI这次不一样，我觉得最明显的区别就是这技术爆发力太强了，完全不受硬件分发的限制。",
-    "text_es": "La IA va a ser el cambio tecnológico más grande de nuestras vidas. Fíjate que todas las grandes revoluciones tecnológicas que hemos tenido en los últimos 50 años - como la computadora personal, el internet, el celular - todas tenían ese componente de hardware que era clave para su distribución. Pero algo que ya veo diferente con la IA es lo explosivo que puede ser esta tecnología. No depende para nada de la distribución de hardware."
+    "text_es": "La IA va a ser el cambio tecnológico más grande de nuestras vidas. Fíjate que todas las grandes revoluciones tecnológicas que hemos tenido en los últimos 50 años - como la computadora personal, el internet, el celular - todas tenían ese componente de hardware que era clave para su distribución. Pero algo que ya veo diferente con la IA es lo explosivo que puede ser esta tecnología. No depende para nada de la distribución de hardware.",
+    "key_sentence": "AI is the biggest technology shift, with explosive potential and no weight on hardware distribution."
   },
   {
     "text": "I think there's going to be way more programmers and way more engineers a few years from now. Pretty quickly. The form factor of what it means to be a programmer obviously is going to change, but at the end of the day, of course the discipline is all about just being able to tell your computer what's do. And so in that lens, I really think that programming is only going to become more and more important as AI gets more powerful.",
@@ -70,7 +72,8 @@
     ],
     "text_ko": "제 생각에는 앞으로 몇 년 안에 프로그래머(programmer)랑 엔지니어(engineer)가 훨씬 더 많아질 거예요. 꽤 빠르게요. 프로그래머라는 개념의 형태(form factor)는 분명히 바뀔 텐데, 결국 이 분야는 컴퓨터(computer)에게 무엇을 하라고 지시할 수 있는 능력에 관한 거예요. 그런 관점에서 보면 인공지능(AI)이 더 강력해질수록 프로그래밍(programming)은 점점 더 중요해질 거라고 정말 생각해요.",
     "text_zh": "我觉得再过几年，程序员和工程师的数量会大幅增加，而且会很快。当程序员的形式肯定会变，但说到底，这个行业本质上就是要能告诉电脑该做什么。从这个角度看，我真的认为随着AI越来越强大，编程只会变得越来越重要。",
-    "text_es": "Creo que va a haber muchísimos más programadores e ingenieros en unos años. Bastante rápido, la verdad. Obviamente va a cambiar completamente lo que significa ser programador, pero al final del día, claro, la disciplina se trata simplemente de poder decirle a tu computadora qué tiene que hacer. Y desde esa perspectiva, realmente creo que la programación va a ser cada vez más importante mientras la IA se vuelve más poderosa."
+    "text_es": "Creo que va a haber muchísimos más programadores e ingenieros en unos años. Bastante rápido, la verdad. Obviamente va a cambiar completamente lo que significa ser programador, pero al final del día, claro, la disciplina se trata simplemente de poder decirle a tu computadora qué tiene que hacer. Y desde esa perspectiva, realmente creo que la programación va a ser cada vez más importante mientras la IA se vuelve más poderosa.",
+    "key_sentence": "The form factor of programming will change, but its importance will grow with AI."
   },
   {
     "text": "And then the other thing that we felt very strongly about was that the product experience was going to shift from what I'll call text completion to agents basically. The big shift that we really felt we would see is moving from kind of this text to text model to an actual autonomous system that can make decisions, that can interact with the real world, that can take in feedback, that can iterate and take multiple steps to solve problems.",
@@ -95,7 +98,8 @@
     ],
     "text_ko": "그리고 우리가 특히 확신했던 또 하나는 제품 경험이 제가 '텍스트 완성(text completion)'이라고 부르는 것에서 기본적으로 '에이전트(agents)'로 전환될 거라는 점이에요. 우리가 정말로 예상한 큰 변화는 일종의 텍스트-투-텍스트 모델(text-to-text model)에서 벗어나 스스로 결정을 내리고 현실 세계와 상호작용하며 피드백(feedback)을 받아들여 반복(iterate)하고 여러 단계를 거쳐 문제를 해결할 수 있는 실제 자율 시스템(autonomous system)으로 옮겨간다는 거예요.",
     "text_zh": "然后还有一点我们特别坚信的就是，产品体验会从我说的文本补全转向智能体(agents)。我们真正感受到的大变化是，从这种文本到文本的模式转向真正的自主系统，这个系统能做决策，能跟现实世界交互，能接收反馈，能不断迭代，还能通过多个步骤来解决问题。",
-    "text_es": "Y después, lo otro en lo que teníamos clarísimo es que la experiencia del producto iba a cambiar de lo que yo llamaría completar texto a básicamente agentes. El gran cambio que realmente veíamos venir era pasar de este modelo de texto a texto a un sistema autónomo de verdad que puede tomar decisiones, que puede interactuar con el mundo real, que puede recibir feedback, que puede iterar y dar varios pasos para resolver problemas."
+    "text_es": "Y después, lo otro en lo que teníamos clarísimo es que la experiencia del producto iba a cambiar de lo que yo llamaría completar texto a básicamente agentes. El gran cambio que realmente veíamos venir era pasar de este modelo de texto a texto a un sistema autónomo de verdad que puede tomar decisiones, que puede interactuar con el mundo real, que puede recibir feedback, que puede iterar y dar varios pasos para resolver problemas.",
+    "key_sentence": "We felt very strongly about shifting from a text to text model to autonomous systems."
   },
   {
     "text": "I think there are certain things that it is much better at than a human. There are certain things that it's much worse at than a human. And I think over the last year we've learned a lot especially about not just coding agents but agents in general just really building out how all of us should be working and interacting with agents as part of our flow.",
@@ -120,7 +124,8 @@
     ],
     "text_ko": "저는 어떤 일들은 사람보다 훨씬 잘하는 부분이 분명히 있다고 생각해요. 반대로 어떤 일들은 사람보다 훨씬 못하는 부분도 있어요. 그리고 지난 1년 동안 우리는 특히 코딩 에이전트(coding agents)뿐만 아니라 에이전트(agents) 전반에 대해, 에이전트를 우리의 워크플로(workflow)의 일부로서 어떻게 함께 일하고 상호작용하게 할지에 대해 많은 걸 배웠어요.",
     "text_zh": "我觉得AI在某些方面确实比人强很多，但在另一些方面又比人差得远。这一年下来我们学到了不少东西，特别是不光是代码智能体(coding agents)，而是各种智能体(agents)，就是怎么把这些智能体融入到我们的工作流程里，大家该怎么跟它们配合。",
-    "text_es": "Creo que hay ciertas cosas en las que es mucho mejor que los humanos. Hay otras en las que es mucho peor que nosotros. Y creo que durante el último año hemos aprendido muchísimo, especialmente no solo sobre los agentes de programación sino sobre los agentes en general, realmente desarrollando cómo todos nosotros deberíamos trabajar e interactuar con los agentes como parte de nuestro flujo de trabajo."
+    "text_es": "Creo que hay ciertas cosas en las que es mucho mejor que los humanos. Hay otras en las que es mucho peor que nosotros. Y creo que durante el último año hemos aprendido muchísimo, especialmente no solo sobre los agentes de programación sino sobre los agentes en general, realmente desarrollando cómo todos nosotros deberíamos trabajar e interactuar con los agentes como parte de nuestro flujo de trabajo.",
+    "key_sentence": "AI is much better at certain tasks and much worse at others in our flow."
   },
   {
     "text": "I think the way that we've always thought about it is there's layers of abstraction and there's tools, and one way I would say it at a high level is kind of I think of AI in general as, yeah, I mean computers are obviously getting more and more intelligence and are able to do more and more and it's possible there may come a day where computers truly do everything that we do and humans are not responsible for any of it.",
@@ -145,7 +150,8 @@
     ],
     "text_ko": "제가 보기에 우리가 늘 그렇게 생각해온 방식은 추상화 계층(layers of abstraction)과 여러 도구들이 있다는 거예요. 한마디로 말하면, 인공지능(AI)을 대체로 이렇게 생각해요. 그러니까 컴퓨터가 점점 더 지능을 갖추고 할 수 있는 일이 늘어나고 있고, 어쩌면 언젠가는 컴퓨터가 우리가 하는 모든 일을 진짜로 다 해내서 인간은 아무런 책임도 지지 않는 날이 올 수도 있다고 생각해요.",
     "text_zh": "我觉得我们一直以来的想法就是，技术有很多层级，也有各种工具，从宏观角度来说，我对AI的理解就是，电脑明显是越来越聪明了，能干的事也越来越多，说不定哪天电脑真的能把我们人类做的所有事都包了，到时候可能就不需要人来负责任何事情了。",
-    "text_es": "Mira, yo creo que siempre lo hemos visto así: hay diferentes niveles de abstracción (layers of abstraction) y hay herramientas, y si lo digo a grandes rasgos, pienso en la IA en general como... bueno, es obvio que las computadoras cada vez son más inteligentes y pueden hacer más y más cosas, y es posible que llegue el día en que las computadoras realmente hagan todo lo que hacemos nosotros y los humanos ya no seamos responsables de nada."
+    "text_es": "Mira, yo creo que siempre lo hemos visto así: hay diferentes niveles de abstracción (layers of abstraction) y hay herramientas, y si lo digo a grandes rasgos, pienso en la IA en general como... bueno, es obvio que las computadoras cada vez son más inteligentes y pueden hacer más y más cosas, y es posible que llegue el día en que las computadoras realmente hagan todo lo que hacemos nosotros y los humanos ya no seamos responsables de nada.",
+    "key_sentence": "AI has layers of abstraction, and computers may one day do everything, leaving humans not responsible."
   },
   {
     "text": "One of the ways that we've kind of thought about Devin in building Devin is really allowing engineers to go from bricklayer to architect, so to speak. A lot of it is just getting to the point where you can do the high-level directing and you can basically specify things exactly how you want. I think it's very much about still having the human in control and having the human able to do the full specification, but just multiplying the magnitude of what you can do and what you can build in one day or one hour or however long.",
@@ -170,6 +176,7 @@
     ],
     "text_ko": "우리가 Devin을 만들면서 생각한 것 중 하나는 엔지니어들이 벽돌공에서 건축가로 역할을 전환할 수 있게 해주는 거예요. 많은 부분이 결국 상위 수준의 지시(high-level directing)를 할 수 있는 단계에 이르고, 원하는 대로 정확히 지정(specify)할 수 있게 되는 거죠. 핵심은 여전히 사람이 주도권을 가지고 전체 사양(full specification)을 직접 작성할 수 있다는 점이고, 다만 하루나 한 시간 같은 짧은 시간 안에 할 수 있는 일과 만들 수 있는 것들의 규모를 훨씬 더 키워준다는 거예요.",
     "text_zh": "我们在开发Devin的时候，有个想法就是让工程师能够从搬砖工变成架构师，这么说吧。很大程度上就是让你能够做高层次的指导工作，基本上可以完全按照你想要的方式去指定需求。我觉得这还是要让人来掌控全局，让人能够做完整的需求规划，只不过是把你一天或者一小时内能完成的工作量和能搭建的东西成倍放大。",
-    "text_es": "Una de las formas en que hemos pensado en Devin al desarrollarlo es realmente permitir que los ingenieros pasen de ser albañiles a ser arquitectos, por decirlo así. Mucho de esto se trata de llegar al punto donde puedes hacer la dirección de alto nivel y básicamente especificar las cosas exactamente como las quieres. Creo que se trata mucho de seguir teniendo al humano en control y que el humano pueda hacer toda la especificación, pero simplemente multiplicar la magnitud de lo que puedes hacer y lo que puedes construir en un día o en una hora o el tiempo que sea."
+    "text_es": "Una de las formas en que hemos pensado en Devin al desarrollarlo es realmente permitir que los ingenieros pasen de ser albañiles a ser arquitectos, por decirlo así. Mucho de esto se trata de llegar al punto donde puedes hacer la dirección de alto nivel y básicamente especificar las cosas exactamente como las quieres. Creo que se trata mucho de seguir teniendo al humano en control y que el humano pueda hacer toda la especificación, pero simplemente multiplicar la magnitud de lo que puedes hacer y lo que puedes construir en un día o en una hora o el tiempo que sea.",
+    "key_sentence": "Building Devin allows engineers to focus on high-level directing, multiplying the magnitude of their output."
   }
 ]

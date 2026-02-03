@@ -22,7 +22,8 @@
     ],
     "text_ko": "우리는 상당한 수준의 성과를 보고 있어요. 매우 AI 지향(AI-forward)이 강한 엔지니어링 팀들은 주당 약 8~10시간을 절약한다고 보고해요. 이런 통계를 들을 때마다 저는 한 가지 중요한 점이 떠올라요. 이건 지금이 앞으로 가장 나쁠 때라는 뜻이에요. 이제 이게 기준선(baseline)이 된 거고요. 사실 가치는 날마다 변하고 있으니, 그 변화의 파도를 함께 타야 해요.",
     "text_zh": "我们看到很多公司都在玩各种花样。我们发现那些在AI方面走得很前的工程团队，他们说每周能节省8到10个小时。每当我听到这种数据，我觉得有个重要点就是——这已经是最差的情况了，这就是个起点。事实上价值每天都在变，所以你得跟上这个浪潮。",
-    "text_es": "Vemos una cantidad considerable de juegos. Nos encontramos con equipos de ingeniería que están muy, muy enfocados en IA y nos reportan que se ahorran entre ocho y diez horas por semana. Cada vez que escucho una estadística así, pienso que algo importante es que esto es lo peor que va a estar. Este es ahora el punto de partida. La realidad es que el valor está cambiando todos los días, así que tienes que montarte en esa ola y seguirla."
+    "text_es": "Vemos una cantidad considerable de juegos. Nos encontramos con equipos de ingeniería que están muy, muy enfocados en IA y nos reportan que se ahorran entre ocho y diez horas por semana. Cada vez que escucho una estadística así, pienso que algo importante es que esto es lo peor que va a estar. Este es ahora el punto de partida. La realidad es que el valor está cambiando todos los días, así que tienes que montarte en esa ola y seguirla.",
+    "key_sentence": "AI forward teams report eight to 10 hours saved weekly; this is the baseline."
   },
   {
     "text": "What's been surprising and really amazing, the non-technical people using AI agents and programming tools to build things, the people that are able to embrace it to optimize for their particular workday and their particular set of tasks are really showing the most impact from these tools.",
@@ -46,7 +47,8 @@
     ],
     "text_ko": "정말 놀랍고 인상적인 건, 기술 배경이 없는 사람들이 AI 에이전트(AI agents)와 프로그래밍 도구(programming tools)를 활용해 자신만의 근무 방식과 업무에 맞게 하루 일과를 최적화하는 사람들이 이 도구들로부터 가장 큰 효과를 보고 있다는 점이에요.",
     "text_zh": "特别让人意外也很厉害的是，那些非技术背景的人用AI代理(AI agents)和编程工具来做东西，那些能够拥抱这些技术、针对自己具体的工作日程和任务去优化的人，他们从这些工具中获得的效果是最明显的。",
-    "text_es": "Lo que ha sido sorprendente y realmente increíble es ver cómo la gente no técnica está usando agentes de IA (AI agents) y herramientas de programación (programming tools) para crear cosas. Las personas que logran adoptarlas para optimizar su día a día laboral y sus tareas específicas son las que están viendo el mayor impacto de estas herramientas."
+    "text_es": "Lo que ha sido sorprendente y realmente increíble es ver cómo la gente no técnica está usando agentes de IA (AI agents) y herramientas de programación (programming tools) para crear cosas. Las personas que logran adoptarlas para optimizar su día a día laboral y sus tareas específicas son las que están viendo el mayor impacto de estas herramientas.",
+    "key_sentence": "Non-technical users embracing AI tools optimize for their workday and show significant impact."
   },
   {
     "text": "All these LLMs are sitting idle overnight and on weekends, while humans aren't there. There's no need for that. They should be working all the time. They should be trying to build in anticipation of what we want.",
@@ -70,7 +72,8 @@
     ],
     "text_ko": "대형 언어 모델(LLMs)들이 밤이든 주말이든 사람이 없을 때 가만히 유휴 상태로 있는 건 필요 없어요. 24시간 작동해서 우리가 원할 걸 미리 예측하고 그에 맞춰 계속 뭔가를 만들어내려고 해야 해요.",
     "text_zh": "这些大语言模型(LLM)晚上和周末都闲着，人不在的时候就停工了，完全没必要嘛。应该让它们24小时不停地干活，提前琢磨我们想要什么，把东西准备好。",
-    "text_es": "Todos estos LLMs se quedan ahí sin hacer nada por las noches y los fines de semana, cuando no está la gente. No tiene sentido. Deberían estar trabajando todo el tiempo. Deberían estar intentando construir cosas anticipándose a lo que queremos."
+    "text_es": "Todos estos LLMs se quedan ahí sin hacer nada por las noches y los fines de semana, cuando no está la gente. No tiene sentido. Deberían estar trabajando todo el tiempo. Deberían estar intentando construir cosas anticipándose a lo que queremos.",
+    "key_sentence": "LLMs should not be sitting idle; they must work in anticipation of our needs."
   },
   {
     "text": "A lot of engineers think that code quality is important to building a successful product. The two have nothing to do with each other.",
@@ -93,7 +96,8 @@
     ],
     "text_ko": "많은 엔지니어들이 코드 품질(code quality)이 성공적인 제품을 만드는 데 중요하다고 생각해요. 그런데 사실 둘은 전혀 상관없어요.",
     "text_zh": "很多工程师都觉得代码质量对做出成功产品很重要。其实这俩压根儿就没什么关系。",
-    "text_es": "Muchos ingenieros creen que la calidad del código es clave para construir un producto exitoso. En realidad, una cosa no tiene nada que ver with la otra."
+    "text_es": "Muchos ingenieros creen que la calidad del código es clave para construir un producto exitoso. En realidad, una cosa no tiene nada que ver with la otra.",
+    "key_sentence": "Code quality and building a successful product have nothing to do with each other."
   },
   {
     "text": "So everything from getting the top ICs in the company together to talk to each other, to starting a whole bunch of special projects. So we got about two to five engineers per project. There were about eight or nine different projects and we had reinstituted, the company-wide hack week.",
@@ -118,7 +122,8 @@
     ],
     "text_ko": "그래서 회사 내 핵심 IC들(Individual Contributors)을 모아 서로 얘기하게 하는 것부터 여러 특화 프로젝트를 시작하는 것까지 다 했어요. 프로젝트당 엔지니어는 대략 2~5명 정도였고, 서로 다른 프로젝트가 8~9개 정도 있었어요. 그리고 전사 해커톤 주간(hack week)을 다시 도입했어요.",
     "text_zh": "所以我们做了很多事情，比如把公司里最牛的那些个人贡献者(individual contributors)聚到一起互相交流，还启动了一堆特殊项目。每个项目大概配了2到5个工程师，总共有八九个不同的项目，然后我们还重新搞起了全公司的黑客周(hack week)。",
-    "text_es": "Entonces, desde juntar a los mejores ICs (individual contributors) de la empresa para que se pongan a platicar entre ellos, hasta arrancar un montón de proyectos especiales. Metimos como dos a cinco ingenieros por proyecto. Fueron como ocho o nueve proyectos diferentes y reinstauramos la semana de hack (hack week) a nivel de toda la compañía."
+    "text_es": "Entonces, desde juntar a los mejores ICs (individual contributors) de la empresa para que se pongan a platicar entre ellos, hasta arrancar un montón de proyectos especiales. Metimos como dos a cinco ingenieros por proyecto. Fueron como ocho o nueve proyectos diferentes y reinstauramos la semana de hack (hack week) a nivel de toda la compañía.",
+    "key_sentence": "Gathering top ICs and reinstituting a company-wide hack week fosters innovation."
   },
   {
     "text": "I think that one of the things that I learned the most throughout this process is that Conway's Law can be really, really powerful. So it's the law that basically says you ship your org structure. So what you're organized as in terms of teams, in terms of collaborating groups and your operating model matters a lot to what you build.",
@@ -143,6 +148,7 @@
     ],
     "text_ko": "이번 과정을 통해 가장 많이 배운 것 중 하나는 콘웨이의 법칙(Conway's Law)이 정말, 정말 강력하다는 거예요. 이 법칙은 기본적으로 조직 구조가 그대로 제품에 반영된다는 의미예요. 즉 팀 구성이나 협업 단위, 운영 모델(operating model)이 어떻게 돼 있느냐에 따라 결국 무엇을 만들게 될지가 크게 달라진다는 뜻이에요.",
     "text_zh": "我觉得在整个过程中学到最深刻的一点就是，康威定律(Conway's Law)真的特别厉害。这个定律基本上就是说，你交付的产品会反映你的组织架构。所以你的团队怎么组织的，协作小组怎么搭建的，还有你的运营模式，这些对你最终做出来的东西影响特别大。",
-    "text_es": "Creo que una de las cosas que más aprendí en todo este proceso es que la Ley de Conway puede ser súper poderosa. Básicamente es la ley que dice que terminas creando productos que reflejan cómo está organizada tu empresa. O sea, cómo tienes armados los equipos, los grupos que colaboran y tu modelo operativo influye muchísimo en lo que construyes al final."
+    "text_es": "Creo que una de las cosas que más aprendí en todo este proceso es que la Ley de Conway puede ser súper poderosa. Básicamente es la ley que dice que terminas creando productos que reflejan cómo está organizada tu empresa. O sea, cómo tienes armados los equipos, los grupos que colaboran y tu modelo operativo influye muchísimo en lo que construyes al final.",
+    "key_sentence": "Conway's Law shows you ship your org structure, impacting what you build."
   }
 ]

@@ -8,6 +8,7 @@ and enriched data format (structured vocab objects).
 Reads:
   - output/*.json (quote files)
   - speaker_profiles_enriched.json (or speaker_profiles.json as fallback)
+  - episode_dates.json (speaker → publish date mapping)
 
 Output:
   - fluent-stakeholder/public/data/quotes.json
@@ -21,6 +22,7 @@ from pathlib import Path
 OUTPUT_DIR = "output"
 ENRICHED_PROFILES = "speaker_profiles_enriched.json"
 FALLBACK_PROFILES = "speaker_profiles.json"
+EPISODE_DATES = "episode_dates.json"
 REACT_OUTPUT_DIR = "fluent-stakeholder/public/data"
 REACT_OUTPUT_FILE = os.path.join(REACT_OUTPUT_DIR, "quotes.json")
 
@@ -105,8 +107,31 @@ def normalize_vocabulary(vocab_highlights, vocab_enriched=None):
     return []
 
 
+def load_episode_dates() -> dict:
+    """Load episode publish dates. Returns speaker_name → date string mapping."""
+    if os.path.exists(EPISODE_DATES):
+        with open(EPISODE_DATES, "r", encoding="utf-8") as f:
+            return json.load(f)
+    print(f"Warning: {EPISODE_DATES} not found. Episode ordering will be unavailable.")
+    return {}
+
+
+def date_to_order(dates: dict) -> dict:
+    """Convert date strings to integer order (1=oldest, N=newest).
+    Speakers without dates get order 0 (bottom of recency sort).
+    """
+    dated_speakers = [(name, d) for name, d in dates.items() if d]
+    dated_speakers.sort(key=lambda x: x[1])  # sort by date ascending
+    order_map = {}
+    for i, (name, _) in enumerate(dated_speakers, start=1):
+        order_map[name] = i
+    return order_map
+
+
 def main():
     profiles = load_speaker_profiles()
+    episode_dates = load_episode_dates()
+    episode_order = date_to_order(episode_dates)
     files = sorted(Path(OUTPUT_DIR).glob("*_quotes.json"))
 
     all_quotes = []
@@ -157,13 +182,15 @@ def main():
                 "topic": primary_topic,
                 "topics": topics,
                 "text": quote.get("text", ""),
+                "keySentence": quote.get("key_sentence", ""),
                 "text_ko": quote.get("text_ko", ""),
                 "text_zh": quote.get("text_zh", ""),
                 "text_es": quote.get("text_es", ""),
                 "fullContext": quote.get("context", ""),
                 "vocabulary": vocabulary,
                 "difficulty_level": quote.get("difficulty_level", "Intermediate"),
-                "timestamp": quote.get("timestamp", "")
+                "timestamp": quote.get("timestamp", ""),
+                "episodeOrder": episode_order.get(speaker_name, 0)
             }
 
             all_quotes.append(react_quote)
@@ -185,6 +212,7 @@ def main():
     has_translations = sum(1 for q in all_quotes if q["text_ko"])
     has_enriched_vocab = sum(1 for q in all_quotes if any(v.get("definition") for v in q["vocabulary"]))
     has_insights = sum(1 for q in all_quotes if any(v.get("insight") for v in q["vocabulary"]))
+    has_episode_order = sum(1 for q in all_quotes if q.get("episodeOrder", 0) > 0)
 
     print("\n" + "=" * 60)
     print(f"Export complete! {REACT_OUTPUT_FILE}")
@@ -197,6 +225,7 @@ def main():
     print(f"  With translations:  {has_translations}")
     print(f"  With enriched vocab:{has_enriched_vocab}")
     print(f"  With AI insights:   {has_insights}")
+    print(f"  With episode order: {has_episode_order}")
     print(f"\nTopics: {', '.join(sorted(topics_set))}")
 
 

@@ -22,7 +22,8 @@
     ],
     "text_ko": "가장 기본적인 예로 망치를 만든다고 해볼게요. 그 하단 축(bottom axis)을 ‘품질’로 보면, 손잡이가 조금만 충격을 받아도 부러지는 망치는 완전히 쓸모없어요. 조금 더 튼튼하게 만든다고 해도 여전히 별로고, 그냥 쓰레기예요, 쓰레기... 알겠죠? 그러면 더 이상 상관없어요.",
     "text_zh": "我能想到的最简单的例子就是，比如说你在做锤子，底下这个轴代表质量，如果锤子的把手一碰就断，那就完全没用。你稍微做结实一点，还是很垃圾，就是垃圾、垃圾、垃圾、垃圾、垃圾。然后突然就变成，好，很好，非常好。再往上就没什么区别了。",
-    "text_es": "El ejemplo más básico que se me ocurre es digamos que estás fabricando un martillo, y en ese eje inferior tienes la calidad, y si el martillo tiene un mango que se rompe con cualquier golpe, pues es totalmente inútil. Y si lo haces un poquito más resistente, sigue siendo bastante inútil y es como basura, basura, basura, basura, basura. Vale, bien, genial. Después ya no importa más."
+    "text_es": "El ejemplo más básico que se me ocurre es digamos que estás fabricando un martillo, y en ese eje inferior tienes la calidad, y si el martillo tiene un mango que se rompe con cualquier golpe, pues es totalmente inútil. Y si lo haces un poquito más resistente, sigue siendo bastante inútil y es como basura, basura, basura, basura, basura. Vale, bien, genial. Después ya no importa más.",
+    "key_sentence": "A hammer with a weak handle is totally useless and considered junk."
   },
   {
     "text": "I would tell the story at Slack over and over again. It actually made it part of the new hire welcome. Your failure to really be considerate and exercise this courtesy and really be empathic about other people's experience is an advantage that you can create a critical advantage.",
@@ -49,7 +50,8 @@
     ],
     "text_ko": "슬랙에서는 그 이야기를 계속해서 반복했어요. 실제로 그걸 신입 환영 프로그램(new hire welcome)의 일부로 넣었죠. 다른 사람들이 진정으로 배려하거나 타인의 경험에 공감(empathic)하지 못하는 건 오히려 기회예요. 그걸 잘 활용하면 결정적인 이점(critical advantage)을 만들 수 있어요.",
     "text_zh": "我在Slack的时候会反复讲这个故事，后来甚至把它加到了新员工入职培训里。你要是不够体贴，不懂得换位思考，不能真正理解别人的感受和经历，这其实是你可以创造的一个关键优势。",
-    "text_es": "Yo contaba esta historia en Slack una y otra vez. De hecho, terminó siendo parte de la bienvenida para los nuevos empleados. Si no logras ser realmente considerado y tener esta cortesía, si no eres empático con la experiencia de los demás, pierdes la oportunidad de crear una ventaja competitiva crucial."
+    "text_es": "Yo contaba esta historia en Slack una y otra vez. De hecho, terminó siendo parte de la bienvenida para los nuevos empleados. Si no logras ser realmente considerado y tener esta cortesía, si no eres empático con la experiencia de los demás, pierdes la oportunidad de crear una ventaja competitiva crucial.",
+    "key_sentence": "Your failure to be considerate can create a critical advantage."
   },
   {
     "text": "So we came up with what was called the shouty rooster, and internally we said, 'Don't be a cock.' But we didn't obviously say that publicly when you @everyone, a little rooster would pop up and it would have you sound waves coming out of its mouth and being really obnoxious and say, 'Hey, this is going to cause a notification for 147 people in eight different time zones. Are you sure you want to send this message with the @everyone?'",
@@ -74,7 +76,8 @@
     ],
     "text_ko": "그래서 저희는 '소리지르는 수탉(shouty rooster)'이라는 걸 만들었고, 내부적으로는 '건방지게 굴지 말자'고 했어요. 물론 그걸 공개적으로 말하진 않았고요. 누군가 @everyone(@everyone)을 쓰면 작은 수탉 아이콘이 팝업하면서 입에서 소리파가 나오는 애니메이션으로 정말 거슬리게 등장해서, \"이걸 보내면 8개 시간대에 걸쳐 147명에게 알림(notification)이 갑니다. @everyone으로 이 메시지를 보내시겠어요?\"라고 뜨게 했어요.",
     "text_zh": "所以我们就设计了一个叫\"大嗓门公鸡\"的功能，内部我们叫它\"别当混蛋\"。当然对外我们肯定不会这么说。当你要@所有人的时候，会弹出一只小公鸡，嘴巴里冒出声波，特别讨厌的样子，然后说：\"嘿，这条消息会给8个不同时区的147个人发通知。你确定要发这条@所有人的消息吗？\"",
-    "text_es": "Entonces se nos ocurrió lo que llamamos el gallo gritón (shouty rooster), y internamente decíamos \"No seas gallina\" - aunque obviamente no lo dijimos así públicamente. Cuando hacías @everyone, aparecía un gallito con ondas de sonido saliendo de su pico, súper molesto, que te decía: \"Oye, esto va a mandar una notificación a 147 personas en ocho zonas horarias diferentes. ¿Estás seguro de que quieres enviar este mensaje con @everyone?\""
+    "text_es": "Entonces se nos ocurrió lo que llamamos el gallo gritón (shouty rooster), y internamente decíamos \"No seas gallina\" - aunque obviamente no lo dijimos así públicamente. Cuando hacías @everyone, aparecía un gallito con ondas de sonido saliendo de su pico, súper molesto, que te decía: \"Oye, esto va a mandar una notificación a 147 personas en ocho zonas horarias diferentes. ¿Estás seguro de que quieres enviar este mensaje con @everyone?\"",
+    "key_sentence": "The shouty rooster warns about notifications in eight different time zones."
   },
   {
     "text": "It became an assumption that it should always be trying to remove friction when the challenge is really comprehension. If your software stops me and asks me to make a decision and I don't really understand it, you make me feel stupid. If people could get over the idea of reducing friction as a number of goal or reducing the number of clicks or taps to do something, and instead focus on how can I make this simple? How do I prevent people from having to think in order to use my software?",
@@ -101,7 +104,8 @@
     ],
     "text_ko": "항상 마찰(friction)을 없애야 한다는 전제가 생겼는데, 실제 문제는 이해에 있는 경우가 많아요. 소프트웨어가 저를 멈춰 세우고 결정을 요구하는데 제가 그걸 잘 이해하지 못하면, 그건 저를 바보처럼 느끼게 해요. 사람들이 마찰(friction)을 줄이는 걸 목표로 삼거나 클릭(clicks)이나 탭(taps) 횟수만 줄이려는 집착에서 벗어나서, 대신 \"이걸 어떻게 더 단순하게 만들까? 사람들이 내 소프트웨어를 쓰면서 굳이 생각하지 않게 하려면 어떻게 해야 할까?\"에 집중하면 좋겠어요.",
     "text_zh": "大家都觉得应该一直想着怎么减少摩擦，但其实真正的挑战是理解问题。如果你的软件突然跳出来让我做决定，而我根本搞不清楚是怎么回事，这就让我觉得自己很蠢。要是大家能不要老想着减少摩擦或者减少点击次数这些指标，而是专注于\"我怎么能让这个东西变简单？怎么让用户不用动脑子就能用我的软件？\"那就好了。",
-    "text_es": "Se convirtió en algo que dábamos por hecho: que siempre había que eliminar la fricción, cuando en realidad el desafío está en la comprensión. Si tu software me detiene y me pide que tome una decisión y yo realmente no la entiendo, me haces sentir tonto. Si la gente pudiera dejar atrás esa idea de reducir la fricción como un objetivo numérico, o de reducir la cantidad de clics o toques para hacer algo, y en cambio se enfocara en: ¿cómo puedo hacer esto más simple? ¿Cómo evito que la gente tenga que pensar para usar mi software?"
+    "text_es": "Se convirtió en algo que dábamos por hecho: que siempre había que eliminar la fricción, cuando en realidad el desafío está en la comprensión. Si tu software me detiene y me pide que tome una decisión y yo realmente no la entiendo, me haces sentir tonto. Si la gente pudiera dejar atrás esa idea de reducir la fricción como un objetivo numérico, o de reducir la cantidad de clics o toques para hacer algo, y en cambio se enfocara en: ¿cómo puedo hacer esto más simple? ¿Cómo evito que la gente tenga que pensar para usar mi software?",
+    "key_sentence": "The challenge is really comprehension, not just removing friction."
   },
   {
     "text": "The decision is about have you exhausted the possibilities? Creating the distance so that you can make an intellectual rational decision about it rather than an emotional decision is essential. And the reason I say you have to be coldly rational about it is because it's fucking humiliating.",
@@ -128,7 +132,8 @@
     ],
     "text_ko": "결정은 '가능한 선택지를 다 써봤나?' 하는 거예요. 감정적으로 결정하지 않고 이성적으로 판단할 수 있도록 거리를 두는 게 중요해요. 제가 냉정하게 이성적으로 하라고 말하는 이유는 솔직히 그게 진짜 굴욕적이거든요.",
     "text_zh": "这个决定的关键是，你有没有把所有可能性都试遍了？你得拉开距离，这样才能理性地、冷静地做决定，而不是凭感情用事，这一点特别重要。我之所以说必须得冷酷理性，是因为这事儿真的太他妈丢人了。",
-    "text_es": "La decisión se trata de: ¿ya agotaste todas las posibilidades? Crear esa distancia para poder tomar una decisión racional e intelectual en lugar de una emocional es fundamental. Y la razón por la que digo que tienes que ser fríamente racional es porque es jodidamente humillante."
+    "text_es": "La decisión se trata de: ¿ya agotaste todas las posibilidades? Crear esa distancia para poder tomar una decisión racional e intelectual en lugar de una emocional es fundamental. Y la razón por la que digo que tienes que ser fríamente racional es porque es jodidamente humillante.",
+    "key_sentence": "Creating the distance allows for an intellectual rational decision, not a humiliating one."
   },
   {
     "text": "At more than one company all hands, I made everyone in the company repeat this as a chant. In the long run, the measure of our success will be the amount of value that we create for customers, and you can put effort into demonstrating that you have created this value and stuff like that, but there's no substitute for actually having created it.",
@@ -154,7 +159,8 @@
     ],
     "text_ko": "여러 회사의 올핸즈(all-hands) 미팅에서 저는 회사 사람들 모두에게 이 말을 구호처럼 외치게 했어요. 장기적으로 성공의 척도는 고객에게 우리가 만들어낸 가치의 크기예요. 그 가치를 증명하려고 애쓰거나 겉으로 보여주려 할 수는 있지만, 실제로 그 가치를 만들어낸 것만큼 대체할 수 있는 건 없어요.",
     "text_zh": "在不止一次的全员大会上，我让公司所有人跟我一起喊这句话。从长远来看，衡量我们成功与否的标准就是我们为客户创造了多少价值，你可以花力气去证明你创造了这些价值什么的，但这些都比不上你真的创造出了价值。",
-    "text_es": "En más de una reunión general de la empresa, hice que todos repitieran esto como un mantra. A la larga, lo que va a medir nuestro éxito será el valor real que creemos para nuestros clientes, y sí, puedes esforzarte en demostrar que has creado ese valor y todo eso, pero no hay nada que sustituya el haberlo creado de verdad."
+    "text_es": "En más de una reunión general de la empresa, hice que todos repitieran esto como un mantra. A la larga, lo que va a medir nuestro éxito será el valor real que creemos para nuestros clientes, y sí, puedes esforzarte en demostrar que has creado ese valor y todo eso, pero no hay nada que sustituya el haberlo creado de verdad.",
+    "key_sentence": "The measure of our success is the value we create for customers, with no substitute."
   },
   {
     "text": "So people are like calling meetings with their colleagues to preview the deck that they're going to show in the big meeting to get feedback on whether they should improve some of the slides. And that hyper-realistic work-like activity is superficially identical to work.",
@@ -179,6 +185,7 @@
     ],
     "text_ko": "그래서 사람들은 동료들끼리 모여서 큰 미팅(big meeting)에서 보여줄 덱(deck)을 미리 돌려보면서, 슬라이드를 고칠지 말지 피드백(feedback)을 받아요. 그런데 그렇게 일처럼 아주 현실감 있게 벌어지는 활동(hyper-realistic work-like activity)은 겉으로 보면 실제 업무와 거의 똑같아 보여요.",
     "text_zh": "所以大家都在跟同事开会，先预演一下要在大会上展示的PPT，听听大家的意见看哪些页面需要改进。这种超级真实的类似工作的活动，表面上看起来跟真正的工作一模一样。",
-    "text_es": "Entonces la gente está convocando reuniones con sus colegas para revisar la presentación que van a mostrar en la reunión importante, para recibir comentarios sobre si deberían mejorar algunas diapositivas. Y esa actividad hiper-realista que parece trabajo es superficialmente idéntica al trabajo real."
+    "text_es": "Entonces la gente está convocando reuniones con sus colegas para revisar la presentación que van a mostrar en la reunión importante, para recibir comentarios sobre si deberían mejorar algunas diapositivas. Y esa actividad hiper-realista que parece trabajo es superficialmente idéntica al trabajo real.",
+    "key_sentence": "Previewing the deck is a hyper-realistic work-like activity, superficially identical to work."
   }
 ]

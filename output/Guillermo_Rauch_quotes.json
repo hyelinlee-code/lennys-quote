@@ -22,7 +22,8 @@
     ],
     "text_ko": "미적 감각은 가끔 '그 사람은 타고났어' 하고 도달할 수 없는 것으로 여겨지는 것 같아요. 저는 미적 감각을 개발할 수 있는 기술이라고 봐요. 여러 제품을 많이 써보는 게 정말 중요하다고 생각해요. 우리 회사의 내부 운영 원칙(internal operating principles) 중 하나는 노출 시간(exposure hours)을 늘리는 거예요. 사람들이 우리 제품을 어떻게 쓰는지 지켜보는 데 자신을 얼마나 노출시키는지, 그 시간을 정량화해 보세요. 그러면 그 근육이 길러져요.",
     "text_zh": "品味这个东西，有时候我觉得大家都认为这是天生的，觉得\"哎呀，那个人就是天生有品味\"。但我把它看成是一种可以培养的技能。我觉得多体验各种产品特别重要。我们有一个内部运营原则叫做增加接触时长(increasing exposure hours)。你要量化一下自己花了多少时间去观察用户怎么使用你的产品，这样你就能锻炼出这种感觉来。",
-    "text_es": "El buen gusto, a veces creo que lo vemos como algo inalcanzable, como \"ay, esa persona nació con buen gusto.\" Yo lo veo como una habilidad que se puede desarrollar. Creo que es súper importante probar muchos productos. Tenemos uno de nuestros principios operativos internos que es aumentar las horas de exposición (exposure hours). Trata de cuantificar cuánto tiempo te expones a observar cómo la gente usa tus productos y vas a desarrollar ese músculo."
+    "text_es": "El buen gusto, a veces creo que lo vemos como algo inalcanzable, como \"ay, esa persona nació con buen gusto.\" Yo lo veo como una habilidad que se puede desarrollar. Creo que es súper importante probar muchos productos. Tenemos uno de nuestros principios operativos internos que es aumentar las horas de exposición (exposure hours). Trata de cuantificar cuánto tiempo te expones a observar cómo la gente usa tus productos y vas a desarrollar ese músculo.",
+    "key_sentence": "Taste is a skill that can develop through exposure hours."
   },
   {
     "text": "A lot of the programming jobs to be done that used to be specializations, I think, are going away, in a way. They're translation tasks, but knowing how things work under the hood is going to be very important for you because you're going to be able to influence the model and make it follow your intention a lot better.",
@@ -47,7 +48,8 @@
     ],
     "text_ko": "예전엔 전문화된 일이었던 많은 프로그래밍 업무들이, 어떤 면에선 사라지고 있는 것 같아요. 그런 일들이 번역 작업(translation tasks) 같은 성격이긴 한데, 내부 작동 방식(under the hood)을 아는 건 아주 중요해질 거예요. 그래야 모델(model)에 영향을 줘서 여러분의 의도(intention)를 훨씬 더 잘 따르게 만들 수 있으니까요.",
     "text_zh": "我觉得以前那些需要专门技能的编程工作，很多都在慢慢消失。它们更像是翻译任务了，但是你得真正懂底层原理，这对你来说会非常重要，因为只有这样你才能更好地引导模型，让它按照你的想法去执行。",
-    "text_es": "Muchos de los trabajos de programación que antes eran especializaciones, creo que van a desaparecer, de cierta manera. Son tareas de traducción, pero saber cómo funcionan las cosas por dentro va a ser súper importante para ti porque vas a poder influir en el modelo y lograr que siga tu intención mucho mejor."
+    "text_es": "Muchos de los trabajos de programación que antes eran especializaciones, creo que van a desaparecer, de cierta manera. Son tareas de traducción, pero saber cómo funcionan las cosas por dentro va a ser súper importante para ti porque vas a poder influir en el modelo y lograr que siga tu intención mucho mejor.",
+    "key_sentence": "Understanding how things work under the hood is crucial for influencing the model."
   },
   {
     "text": "People could be more full stack. Imagine a designer that can ship a fully baked product, a product manager that can prototype and ship to production. We shouldn't put limits on ourselves and what we can build, and what we can ship, and what we can dream about making possible on these web surfaces.",
@@ -72,7 +74,8 @@
     ],
     "text_ko": "사람들이 더 풀스택(full stack)이 될 수 있어요. 예를 들어 완성된 제품을 직접 배포(ship)할 수 있는 디자이너나, 프로토타입(prototype)을 만들고 그대로 프로덕션(production)에 배포(ship)할 수 있는 프로덕트 매니저(product manager)를 상상해 보세요. 우리 자신이나 우리가 만들고 배포할 수 있는 것, 그리고 이 웹 환경(web surfaces)에서 가능하다고 꿈꿀 수 있는 것에 제한을 두면 안 돼요.",
     "text_zh": "其实大家都可以变得更全能一些。你想想，如果一个设计师能够独立交付一个完整的产品，一个产品经理能够自己做原型还能直接上线，那该多牛。我们不应该给自己设限，不管是开发能力、交付能力，还是在web端实现各种可能性的想象力，都不应该有界限。",
-    "text_es": "La gente podría ser más full stack. Imagínate un diseñador que pueda sacar un producto completamente terminado, un product manager que pueda hacer prototipos y llevarlos a producción. No deberíamos ponernos límites sobre lo que podemos construir, lo que podemos lanzar, y lo que podemos soñar con hacer posible en estas plataformas web."
+    "text_es": "La gente podría ser más full stack. Imagínate un diseñador que pueda sacar un producto completamente terminado, un product manager que pueda hacer prototipos y llevarlos a producción. No deberíamos ponernos límites sobre lo que podemos construir, lo que podemos lanzar, y lo que podemos soñar con hacer posible en estas plataformas web.",
+    "key_sentence": "We shouldn't put limits on ourselves in building and shipping products."
   },
   {
     "text": "One of the bets that I made early on with Vercel that really paid off is Vercel, maybe as a metaphor is like AWS in easy mode for a lot of people. We have a very large user base of people that would have otherwise not have been able to configure all of the ins and outs of the cloud, but do want the scale, flexibility, speed, et cetera.",
@@ -97,7 +100,8 @@
     ],
     "text_ko": "제가 Vercel과 함께 초기에 한 베팅 중 하나가 정말 성공적이었는데, Vercel은 많은 사람들에게 AWS의 쉬운 모드 같은 느낌이에요. 클라우드의 복잡한 설정을 할 수 없었던 많은 사용자들이 있지만, 그들은 여전히 규모, 유연성, 속도 같은 것들을 원하거든요.",
     "text_zh": "我早期在Vercel上押的一个宝，现在看来真的押对了。打个比方，Vercel就像是简化版的AWS，对很多人来说特别好用。我们有一大批用户，他们本来搞不定云服务那些复杂的配置，但又想要规模化、灵活性、速度这些好处，Vercel正好满足了他们的需求。",
-    "text_es": "Una de las apuestas que hice desde el principio con Vercel y que realmente dio resultado es que Vercel, como metáfora, es como AWS pero en modo fácil para mucha gente. Tenemos una base de usuarios enorme de personas que de otra manera no habrían podido configurar todos los detalles técnicos de la nube, pero sí quieren la escalabilidad, flexibilidad, velocidad y todo eso."
+    "text_es": "Una de las apuestas que hice desde el principio con Vercel y que realmente dio resultado es que Vercel, como metáfora, es como AWS pero en modo fácil para mucha gente. Tenemos una base de usuarios enorme de personas que de otra manera no habrían podido configurar todos los detalles técnicos de la nube, pero sí quieren la escalabilidad, flexibilidad, velocidad y todo eso.",
+    "key_sentence": "Vercel is like AWS in easy mode for those needing cloud flexibility."
   },
   {
     "text": "The secrets of product quality is blood, sweat, and tears. The other thing is that a great product is made up of a thousand little details and so you're never really done. There's a humility that comes from the process also of why the best product builders will say nine nos for every yes. Because when you say yes, it's like adopting a puppy.",
@@ -122,7 +126,8 @@
     ],
     "text_ko": "제품 품질의 비결은 피와 땀과 눈물이에요. 그리고 훌륭한 제품은 천 가지 작은 디테일로 이루어져 있어서 사실 끝난 적이 없어요. 그 과정에서 겸손이 생기기도 하는데, 그래서 최고의 프로덕트 빌더들(product builders)은 '예스' 하나에 '노' 아홉 개를 말한다고 해요. '예스'를 한다는 건 강아지를 입양하는 것과 같거든요.",
     "text_zh": "产品质量的秘诀就是要下血本，真的是汗水和泪水都要付出。还有就是一个好产品是由无数个小细节堆起来的，所以你永远都做不完。这个过程也会让人变得谦逊，这就是为什么最厉害的产品经理十个想法里要否掉九个，只留一个的原因。因为你一旦说\"行\"，就像是收养了一只小狗一样，要负责到底。",
-    "text_es": "Los secretos de la calidad del producto son sangre, sudor y lágrimas. Lo otro es que un gran producto se compone de mil pequeños detalles, así que nunca realmente terminas. También hay una humildad que viene del proceso, por eso los mejores desarrolladores de productos dicen nueve \"no\" por cada \"sí\". Porque cuando dices que sí, es como adoptar un cachorro."
+    "text_es": "Los secretos de la calidad del producto son sangre, sudor y lágrimas. Lo otro es que un gran producto se compone de mil pequeños detalles, así que nunca realmente terminas. También hay una humildad que viene del proceso, por eso los mejores desarrolladores de productos dicen nueve \"no\" por cada \"sí\". Porque cuando dices que sí, es como adoptar un cachorro.",
+    "key_sentence": "Product quality requires blood, sweat, and tears, with humility in the process."
   },
   {
     "text": "I foresee a lot of people becoming incredibly impactful in building and shipping amazing products, and building gigantic companies, and everything you could imagine, where a single person can do the job of a hundred different people in a hundred different specializations.",
@@ -147,6 +152,7 @@
     ],
     "text_ko": "앞으로 많은 사람들이 멋진 제품을 만들고 출시하면서 거대한 회사를 세우고 상상할 수 있는 거의 모든 일을 해내며 엄청난 영향력을 발휘할 것 같아요. 한 사람이 백 명의 서로 다른 전문 분야에서 하던 일을 해낼 수 있는 시대가 올 거예요.",
     "text_zh": "我觉得以后会有很多人变得超级厉害，能做出特别棒的产品，建立巨无霸公司，你能想到的各种事情他们都能做到，一个人就能顶一百个不同专业领域的人。",
-    "text_es": "Veo que mucha gente va a lograr un impacto increíble creando y lanzando productos espectaculares, construyendo empresas enormes, y todo lo que te puedas imaginar, donde una sola persona va a poder hacer el trabajo de cien personas diferentes en cien especializaciones distintas."
+    "text_es": "Veo que mucha gente va a lograr un impacto increíble creando y lanzando productos espectaculares, construyendo empresas enormes, y todo lo que te puedas imaginar, donde una sola persona va a poder hacer el trabajo de cien personas diferentes en cien especializaciones distintas.",
+    "key_sentence": "A single person can be incredibly impactful in building gigantic companies."
   }
 ]

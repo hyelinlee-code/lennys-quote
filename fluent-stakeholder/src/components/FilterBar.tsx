@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { Search, ChevronDown, X } from 'lucide-react';
-import { Filters } from '../types';
+import { ChevronDown, X, ArrowUpDown } from 'lucide-react';
+import { Filters, SortBy } from '../types';
 
 interface FilterBarProps {
   filters: Filters;
@@ -13,6 +13,8 @@ interface FilterBarProps {
     difficulties: string[];
   };
   resultCount: number;
+  sortBy: SortBy;
+  onSortChange: (sort: SortBy) => void;
 }
 
 interface DropdownProps {
@@ -21,6 +23,12 @@ interface DropdownProps {
   selected: string[];
   onToggle: (value: string) => void;
 }
+
+const SORT_OPTIONS: { value: SortBy; label: string }[] = [
+  { value: 'recent', label: 'Episode Recency' },
+  { value: 'popular', label: 'My Favorites' },
+  { value: 'speaker', label: 'Guest Name' },
+];
 
 const Dropdown: React.FC<DropdownProps> = ({ label, options, selected, onToggle }) => {
   const [open, setOpen] = useState(false);
@@ -84,7 +92,22 @@ const FilterBar: React.FC<FilterBarProps> = ({
   hasActiveFilters,
   filterOptions,
   resultCount,
+  sortBy,
+  onSortChange,
 }) => {
+  const [sortOpen, setSortOpen] = useState(false);
+  const sortRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const handleClickOutside = (e: MouseEvent) => {
+      if (sortRef.current && !sortRef.current.contains(e.target as Node)) {
+        setSortOpen(false);
+      }
+    };
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, []);
+
   const toggleArrayFilter = (key: 'functions' | 'topics' | 'difficulties', value: string) => {
     const current = filters[key];
     const next = current.includes(value)
@@ -114,22 +137,45 @@ const FilterBar: React.FC<FilterBarProps> = ({
     });
   }
 
+  const currentSortLabel = SORT_OPTIONS.find((o) => o.value === sortBy)?.label ?? 'Sort';
+
   return (
     <div className="max-w-5xl mx-auto mb-8 px-4">
       <div className="flex flex-col sm:flex-row gap-3 items-start sm:items-center">
-        {/* Search */}
-        <div className="relative flex-1 w-full sm:w-auto">
-          <Search size={16} className="absolute left-3 top-1/2 -translate-y-1/2 text-stone-400" />
-          <input
-            type="text"
-            value={filters.search}
-            onChange={(e) => onUpdateFilter('search', e.target.value)}
-            placeholder="Search quotes, speakers, topics..."
-            className="w-full pl-9 pr-4 py-2 text-sm border border-stone-200 rounded-lg bg-white focus:outline-none focus:border-ink focus:ring-1 focus:ring-ink transition-all"
-          />
+        {/* Sort By */}
+        <div className="relative" ref={sortRef}>
+          <button
+            onClick={() => setSortOpen(!sortOpen)}
+            className="flex items-center gap-2 px-3 py-2 text-sm rounded-lg border border-stone-200 text-stone-600 hover:border-stone-400 bg-white transition-colors"
+          >
+            <ArrowUpDown size={14} />
+            <span>Sort: {currentSortLabel}</span>
+            <ChevronDown size={14} className={`transition-transform ${sortOpen ? 'rotate-180' : ''}`} />
+          </button>
+
+          {sortOpen && (
+            <div className="absolute top-full left-0 mt-1 w-48 bg-white border border-stone-200 rounded-lg shadow-lg z-30 animate-fade-in">
+              {SORT_OPTIONS.map((option) => (
+                <button
+                  key={option.value}
+                  onClick={() => {
+                    onSortChange(option.value);
+                    setSortOpen(false);
+                  }}
+                  className={`w-full text-left px-3 py-2 text-sm hover:bg-stone-50 transition-colors ${
+                    sortBy === option.value
+                      ? 'text-ink font-medium bg-stone-50'
+                      : 'text-stone-600'
+                  }`}
+                >
+                  {option.label}
+                </button>
+              ))}
+            </div>
+          )}
         </div>
 
-        {/* Dropdowns */}
+        {/* Filter Dropdowns */}
         <div className="flex flex-wrap gap-2">
           <Dropdown
             label="Role"

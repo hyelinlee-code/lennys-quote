@@ -21,7 +21,8 @@
     ],
     "text_ko": "그래서 저희는 시장 반대편에 있는 더 경험 많은 분들로 진짜로 연결해 줄 맞춤형 기능(custom bespoke features)을 몇 가지 만들기로 했어요. 그리고 얼마 지나지 않아 지표(metrics)가 좋아지기 시작했죠. 그런데 살펴보니, 잠깐만요, 반대편에 있던 기존 사용자들의 경험은 오히려 나빠지고 있더라고요. 그래서 저희가 이랬다저랬다 하게 된 거예요.",
     "text_zh": "所以我们就决定搞一些定制化的功能，专门把他们导向到市场另一边那些更有经验的人那里去。效果不错。然后你猜怎么着，很快那些指标数据就开始好看起来了。但是我们一看，就发现\"等等，现在市场另一边那些老用户的体验反而变差了\"，这样一来就像坐过山车一样，左摇右摆的。",
-    "text_es": "Entonces lo que decidimos hacer fue crear algunas funciones personalizadas a medida que realmente iban a dirigirlos hacia gente más experimentada del otro lado del mercado. Perfecto. Y luego, sí, como era de esperarse, muy pronto esas métricas empezaron a verse mejor. Pero después estamos viendo todo esto y pensamos, \"Un momento. Ahora los usuarios que ya estaban del otro lado están teniendo una experiencia peor,\" entonces como que te das cuenta de que estás dando bandazos de un lado para otro."
+    "text_es": "Entonces lo que decidimos hacer fue crear algunas funciones personalizadas a medida que realmente iban a dirigirlos hacia gente más experimentada del otro lado del mercado. Perfecto. Y luego, sí, como era de esperarse, muy pronto esas métricas empezaron a verse mejor. Pero después estamos viendo todo esto y pensamos, \"Un momento. Ahora los usuarios que ya estaban del otro lado están teniendo una experiencia peor,\" entonces como que te das cuenta de que estás dando bandazos de un lado para otro.",
+    "key_sentence": "Custom bespoke features improved metrics but worsened existing users' experience, causing whiplash."
   },
   {
     "text": "The most important one is this. What I've found talking to people who want to start what they think is a marketplace is that they think too much about a marketplace before they're a marketplace. That in my view is the biggest failure mode.",
@@ -43,7 +44,8 @@
     ],
     "text_ko": "가장 중요한 건 이거예요. 제가 마켓플레이스(marketplace)를 시작하려는 사람들과 얘기해보면, 정작 마켓플레이스가 되기도 전에 마켓플레이스에 대해 너무 많이 생각해요. 제 생각엔 그게 가장 큰 실패 유형(failure mode)이에요.",
     "text_zh": "最重要的一点是这个。我发现那些想做marketplace的人，他们还没成为marketplace之前，就想得太多了。在我看来，这是最容易栽跟头的地方。",
-    "text_es": "Lo más importante es esto. Lo que he visto hablando con gente que quiere crear lo que creen que es un marketplace es que se obsesionan demasiado con ser un marketplace antes de serlo realmente. Esa para mí es la forma más común de fracasar."
+    "text_es": "Lo más importante es esto. Lo que he visto hablando con gente que quiere crear lo que creen que es un marketplace es que se obsesionan demasiado con ser un marketplace antes de serlo realmente. Esa para mí es la forma más común de fracasar.",
+    "key_sentence": "Marketplace founders often fail by overthinking before establishing a marketplace, a failure mode."
   },
   {
     "text": "So in their example, as they evolved, they actually shifted their monetization model away from billing specifically for this friction of allowing you to pay with credit cards, instead to now billing for how you were interviewing and contacting sitters. They had a two-part plan for that. One with a pay as you go menu, one with a more of a subscription option.",
@@ -65,7 +67,8 @@
     ],
     "text_ko": "그들의 사례에서는 서비스가 진화하면서 수익화 모델(monetization model)을 바꿨어요. 원래는 신용카드로 결제하게 해 주는 데서 생기는 마찰(friction)에 대해 따로 과금했는데, 나중에는 시터와 인터뷰하고 연락하는 방식 자체에 대해 과금하는 쪽으로 전환했어요. 그걸 위해 두 가지 계획을 세웠는데, 하나는 사용한 만큼 지불(pay-as-you-go)하는 메뉴이고, 다른 하나는 구독(subscription)형 옵션이었어요.",
     "text_zh": "拿他们的例子来说，随着业务发展，他们其实调整了变现模式(monetization model)，不再专门针对信用卡支付这个痛点收费，而是改为按你面试和联系保姆的次数来收费。他们搞了个两套方案：一个是按次付费的套餐，另一个是订阅制(subscription)的选择。",
-    "text_es": "Entonces en su ejemplo, conforme fueron evolucionando, en realidad cambiaron su modelo de monetización y dejaron de cobrar específicamente por esa fricción de permitirte pagar con tarjetas de crédito, para ahora cobrar por cómo entrevistabas y contactabas a las niñeras. Tenían un plan de dos partes para eso: uno con un menú de pago por uso (pay as you go), y otro más tipo suscripción."
+    "text_es": "Entonces en su ejemplo, conforme fueron evolucionando, en realidad cambiaron su modelo de monetización y dejaron de cobrar específicamente por esa fricción de permitirte pagar con tarjetas de crédito, para ahora cobrar por cómo entrevistabas y contactabas a las niñeras. Tenían un plan de dos partes para eso: uno con un menú de pago por uso (pay as you go), y otro más tipo suscripción.",
+    "key_sentence": "They shifted to a pay as you go menu for monetization, enhancing user experience."
   },
   {
     "text": "So when you start, you had better be thinking, \"What's my value proposition in a world in which I don't have that scaled liquidity on both sides?\" And that's bespoke. It means different things.",
@@ -88,7 +91,8 @@
     ],
     "text_ko": "그래서 시작할 때는 “양측에서의 규모화된 유동성(scaled liquidity on both sides)이 없는 세상에서 내 가치 제안(value proposition)은 뭐지?”라고 생각해봐야 해요. 그건 맞춤형(bespoke)이어서 경우마다 의미가 달라요.",
     "text_zh": "所以刚开始的时候，你最好想清楚一个问题：\"在我还没有双边规模化流动性的情况下，我的价值主张(value proposition)到底是什么？\" 这个问题因人而异，每家公司的答案都不一样。",
-    "text_es": "Entonces cuando empiezas, más te vale preguntarte: \"¿Cuál es mi propuesta de valor (value proposition) en un mundo donde no tengo esa liquidez escalada de ambos lados?\" Y eso es algo muy específico para cada caso. Significa cosas distintas."
+    "text_es": "Entonces cuando empiezas, más te vale preguntarte: \"¿Cuál es mi propuesta de valor (value proposition) en un mundo donde no tengo esa liquidez escalada de ambos lados?\" Y eso es algo muy específico para cada caso. Significa cosas distintas.",
+    "key_sentence": "Consider your value proposition without scaled liquidity; that's bespoke to your marketplace."
   },
   {
     "text": "So one thing you said was, \"That's what you tell marketplace founders.\" I mean, something I've actually pressed hard on in my own way of thinking about this is that maybe we shouldn't talk about the concept of a marketplace founder. Really there's founders.",
@@ -110,7 +114,8 @@
     ],
     "text_ko": "그래서 당신이 “그건 마켓플레이스 창업자들(marketplace founders)에게 하는 말이에요”라고 하신 게 하나 있었어요. 제가 이걸 제 방식대로 생각하면서 꽤 강하게 주장해온 건, 어쩌면 ‘마켓플레이스 창업자들(marketplace founders)’이라는 개념 자체를 굳이 얘기할 필요가 없다는 점이에요. 사실 결국엔 그냥 창업자들일 뿐이에요.",
     "text_zh": "你刚才说的\"这就是你告诉市场平台创始人的话\"，其实我一直在想一个问题，可能我们根本就不应该谈什么市场平台创始人这个概念。说白了，创始人就是创始人。",
-    "text_es": "Entonces, una cosa que dijiste fue: \"Eso es lo que les dices a los fundadores de marketplace.\" O sea, algo en lo que he insistido mucho en mi forma de pensar esto es que tal vez no deberíamos hablar del concepto de \"fundador de marketplace.\" En realidad lo que hay son fundadores, punto."
+    "text_es": "Entonces, una cosa que dijiste fue: \"Eso es lo que les dices a los fundadores de marketplace.\" O sea, algo en lo que he insistido mucho en mi forma de pensar esto es que tal vez no deberíamos hablar del concepto de \"fundador de marketplace.\" En realidad lo que hay son fundadores, punto.",
+    "key_sentence": "I've pressed hard on the idea that we shouldn't label founders as marketplace founders."
   },
   {
     "text": "That meant that the longer that goes on, the less value the platform is adding into that relationship, but you're still pulling 10% of all the dollars. So what does that lead to? A word that most marketplace CEOs know well is disintermediation, which is where you were intermediating between the two parties, and now disintermediation means that essentially they're like, \"Hey, we don't need you anymore.\"",
@@ -134,7 +139,8 @@
     ],
     "text_ko": "그 말은 시간이 갈수록 플랫폼이 그 관계에 더해주는 가치가 줄어드는데도 여전히 전체 거래액의 10%를 가져간다는 뜻이에요. 그럼 그게 뭐로 이어질까요? 대부분의 마켓플레이스 CEO들이 잘 아는 탈중개(disintermediation) 현상이 생기는데, 원래 두 당사자 사이에서 중개하던 플랫폼을 당사자들이 직접 만나서 거래하면서 “이제 너 필요 없어요”라고 하는 상황이에요.",
     "text_zh": "这就意味着，时间越长，平台在这种关系中创造的价值就越少，但你还是要抽取所有交易金额的10%。那这会导致什么呢？有一个词，大部分平台CEO都很熟悉，叫做去中介化(disintermediation)，就是说你本来是在两方之间做中介的，现在去中介化就是他们基本上会说：\"嘿，我们不再需要你了。\"",
-    "text_es": "Eso significaba que mientras más tiempo pasara, menos valor agregaba la plataforma a esa relación, pero seguías cobrando el 10% de todo el dinero. Entonces, ¿a qué lleva esto? A una palabra que la mayoría de los CEOs de marketplaces conocen muy bien: desintermediación (disintermediation). O sea, antes tú hacías de intermediario entre las dos partes, pero con la desintermediación básicamente te dicen: \"Oye, ya no te necesitamos.\""
+    "text_es": "Eso significaba que mientras más tiempo pasara, menos valor agregaba la plataforma a esa relación, pero seguías cobrando el 10% de todo el dinero. Entonces, ¿a qué lleva esto? A una palabra que la mayoría de los CEOs de marketplaces conocen muy bien: desintermediación (disintermediation). O sea, antes tú hacías de intermediario entre las dos partes, pero con la desintermediación básicamente te dicen: \"Oye, ya no te necesitamos.\"",
+    "key_sentence": "Marketplace CEOs face disintermediation when they pull 10% of all the dollars without value."
   },
   {
     "text": "You have to recognize when you run marketplaces that many of the changes that are most consequential create winners and losers. And rolling with those changes is about recognizing whether the winners you've created are more important to your business than the losers you've created in the process.",
@@ -157,6 +163,7 @@
     ],
     "text_ko": "마켓플레이스(marketplaces)를 운영할 때는, 가장 큰 영향을 미치는 변화들이 종종 승자(winners)와 패자(losers)를 만들어낸다는 걸 알아야 해요. 그리고 그런 변화에 유연하게 대응하는 건, 그 과정에서 생긴 승자들이 만든 패자들보다 당신의 비즈니스에 더 중요한지 판단하는 일이에요.",
     "text_zh": "做平台生意你得明白，很多重大变化都会造成有人得利有人受损。能不能适应这些变化，关键看你创造出来的受益方对你生意的重要性，是不是比那些在过程中利益受损的一方更重要。",
-    "text_es": "Cuando manejas marketplaces tienes que darte cuenta de que muchos de los cambios más importantes van a crear ganadores y perdedores. Y adaptarte a esos cambios se trata de reconocer si los ganadores que has creado son más importantes para tu negocio que los perdedores que generaste en el proceso."
+    "text_es": "Cuando manejas marketplaces tienes que darte cuenta de que muchos de los cambios más importantes van a crear ganadores y perdedores. Y adaptarte a esos cambios se trata de reconocer si los ganadores que has creado son más importantes para tu negocio que los perdedores que generaste en el proceso.",
+    "key_sentence": "Most consequential changes in marketplaces create winners and losers; rolling with those changes is crucial."
   }
 ]

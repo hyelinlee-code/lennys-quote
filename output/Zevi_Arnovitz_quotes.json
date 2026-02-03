@@ -22,7 +22,8 @@
     ],
     "text_ko": "저는 기술 배경이 전혀 없고, 고등학교 때 음악을 했어요... Sonnet 3.5가 나왔을 때요. 그때 Bolt나 Lovable을 사용해서 앱 만드는 유튜브 영상을 봤던 기억이 나요. 그 순간 누군가 저한테 \"이제 너에게 슈퍼파워가 생겼어.\"라고 말해준 기분이었어요.",
     "text_zh": "我完全没有技术背景，高中学的是音乐...当Sonnet 3.5发布的时候，我记得看了个YouTube视频，讲怎么用Bolt或者Lovable来开发应用。那感觉就像有人跑过来跟我说：\"你现在有超能力了。\"",
-    "text_es": "No tengo nada de formación técnica, estudié música en el bachillerato... cuando salió Sonnet 3.5. Me acuerdo de ver un video en YouTube donde construían apps usando Bolt o Lovable. Básicamente fue como si alguien se me hubiera acercado y me dijera: \"Ahora tienes súper poderes.\""
+    "text_es": "No tengo nada de formación técnica, estudié música en el bachillerato... cuando salió Sonnet 3.5. Me acuerdo de ver un video en YouTube donde construían apps usando Bolt o Lovable. Básicamente fue como si alguien se me hubiera acercado y me dijera: \"Ahora tienes súper poderes.\"",
+    "key_sentence": "I felt like someone came up to me and said, 'You have superpowers now.'"
   },
   {
     "text": "If you're non-technical like me, code is terrifying, but AI just makes it so much possible. In the next coming years, I think everyone's going to become a builder. Titles are going to collapse and responsibilities are going to collapse.",
@@ -47,7 +48,8 @@
     ],
     "text_ko": "저처럼 기술 쪽이 아니면 코드(code)는 정말 무섭게 느껴지는데요, 인공지능(AI)이 그걸 훨씬 가능하게 만들어줘요. 앞으로 몇 년 안에 거의 모든 사람이 빌더(builder)가 될 거라고 생각해요. 직함과 책임의 경계가 무너질 거예요.",
     "text_zh": "像我这样不懂技术的人，一看到代码就头大，但AI让一切都变得可能了。我觉得接下来几年，人人都能成为开发者(builder)。什么职位头衔啊、工作职责划分啊，这些界限都会被打破。",
-    "text_es": "Si no eres técnico como yo, programar da muchísimo miedo, pero la IA lo hace súper posible. En los próximos años, creo que todo el mundo se va a convertir en creador. Los títulos se van a desdibujar y las responsabilidades también se van a desdibujar."
+    "text_es": "Si no eres técnico como yo, programar da muchísimo miedo, pero la IA lo hace súper posible. En los próximos años, creo que todo el mundo se va a convertir en creador. Los títulos se van a desdibujar y las responsabilidades también se van a desdibujar.",
+    "key_sentence": "AI makes it so much possible; everyone's going to become a builder."
   },
   {
     "text": "It's the best time to be a junior, contrary to what a lot of people are saying, how there's no more junior roles out there. Yeah, that's true, but also when else in history could you get out of school and just build a startup on your own?",
@@ -72,7 +74,8 @@
     ],
     "text_ko": "많은 사람들이 ‘이제 주니어 포지션(junior roles)이 없다’고들 하지만, 오히려 지금이 주니어로 시작하기에 가장 좋은 시기예요. 물론 그 말이 완전히 틀린 건 아니에요 — 주니어 일자리가 줄어든 건 사실이에요. 그런데 학교를 갓 졸업해서 혼자서 바로 스타트업(startup)을 만들 수 있는 시절이 과거에 있었을까요?",
     "text_zh": "现在其实是做junior最好的时候，虽然很多人都在说现在没有junior的岗位了。确实是这样，但是你想想，历史上还有哪个时候能让你一毕业就自己去创业做startup的？",
-    "text_es": "Es el mejor momento para ser junior, al contrario de lo que dice mucha gente, que ya no hay puestos junior por ahí. Sí, eso es cierto, pero ¿cuándo más en la historia podrías salir de la universidad y simplemente montar tu propia startup?"
+    "text_es": "Es el mejor momento para ser junior, al contrario de lo que dice mucha gente, que ya no hay puestos junior por ahí. Sí, eso es cierto, pero ¿cuándo más en la historia podrías salir de la universidad y simplemente montar tu propia startup?",
+    "key_sentence": "Contrary to what a lot of people are saying, it's the best time to build a startup."
   },
   {
     "text": "I created sort of a CTO. So again, I'm not technical. I have been in product for a while, but I know zero stuff about code. So basically what I did was I created a CTO with the custom prompt of it being the complete technical owner of the project.",
@@ -97,7 +100,8 @@
     ],
     "text_ko": "일종의 최고기술책임자(CTO)를 만들어놓았어요. 다시 말하지만 저는 기술 쪽은 아니에요. 프로덕트 쪽에서 일한 지는 꽤 됐지만 코드(code)는 전혀 몰라요. 그래서 제가 한 건, 그 CTO를 프로젝트의 전적인 기술 책임자(technical owner)로 삼도록 하는 맞춤형 프롬프트(custom prompt)를 만든 거예요.",
     "text_zh": "我搞了一个CTO出来。因为我本身不是技术出身，虽然做产品做了挺久，但对代码这块是完全不懂的。所以我就是用自定义提示词(custom prompt)创建了一个CTO，让它完全负责项目的技术部分。",
-    "text_es": "Creé como una especie de CTO. O sea, de nuevo, yo no soy técnico para nada. He estado en producto un tiempo, pero de código no tengo ni idea. Entonces básicamente lo que hice fue crear un CTO con un prompt personalizado donde le dije que fuera el dueño técnico completo del proyecto."
+    "text_es": "Creé como una especie de CTO. O sea, de nuevo, yo no soy técnico para nada. He estado en producto un tiempo, pero de código no tengo ni idea. Entonces básicamente lo que hice fue crear un CTO con un prompt personalizado donde le dije que fuera el dueño técnico completo del proyecto.",
+    "key_sentence": "I created sort of a CTO, knowing zero stuff about code."
   },
   {
     "text": "I always think about this where for some reason, the easiest way for me to think about AI is to imagine it as people. And I think ChatGPT would probably be the worst CTO because it's such a people pleaser and it's so sycophantic.",
@@ -122,7 +126,8 @@
     ],
     "text_ko": "저는 왠지 인공지능(AI)을 사람으로 상상하면 생각이 가장 편해요. 그래서 가끔 이렇게 생각해요: ChatGPT는 아마 최악의 최고기술책임자(CTO)가 될 거예요. 사람들 기분 맞춰주느라 지나치게 아첨적이어서 리더로서 냉정한 판단을 하기엔 별로일 것 같아요.",
     "text_zh": "我一直有个想法，不知道为什么，我觉得理解AI最简单的方法就是把它们想象成人。我觉得ChatGPT要是当CTO的话，绝对是最糟糕的，因为它太爱讨好人了，简直就是个马屁精。",
-    "text_es": "Siempre pienso en esto donde por alguna razón, la forma más fácil para mí de entender la IA es imaginármela como personas. Y creo que ChatGPT sería probablemente el peor CTO del mundo porque es súper complaciente y demasiado adulador."
+    "text_es": "Siempre pienso en esto donde por alguna razón, la forma más fácil para mí de entender la IA es imaginármela como personas. Y creo que ChatGPT sería probablemente el peor CTO del mundo porque es súper complaciente y demasiado adulador.",
+    "key_sentence": "ChatGPT would be the worst CTO; it's such a people pleaser."
   },
   {
     "text": "I would really recommend starting slow with a GPT project, beautiful UI, super simple, then maybe graduate to like a Bolt or a Lovable, and then go to Cursor in light mode, slowly, slowly, gradually ease in until you open a terminal, go full dark mode, go full dev.",
@@ -148,7 +153,8 @@
     ],
     "text_ko": "지피티 프로젝트(GPT project)는 천천히 시작하는 걸 정말 추천해요. UI는 예쁘고 아주 단순하게 만들고, 그다음에는 볼트(Bolt)나 러버블(Lovable) 정도로 단계적으로 옮기세요. 그리고 커서(Cursor) 라이트 모드로 가면서 서서히 익숙해지다가, 마지막엔 터미널(terminal)을 열고 완전 다크 모드(dark mode), 완전 개발자 모드(dev)로 가면 돼요.",
     "text_zh": "我真心建议做GPT项目(GPT project)要慢慢来，先搞个界面漂亮、功能简单的，然后可以试试Bolt或者Lovable这些，接着再用Cursor的简化模式，一步一步来，慢慢适应，直到你能打开终端、切换到深色模式，变成真正的开发者。",
-    "text_es": "Te recomiendo mucho empezar despacio con un proyecto de GPT, una interfaz bonita, súper sencilla, y después tal vez pasar a algo como Bolt o Lovable, y luego ir a Cursor en modo claro, poco a poco, de a poquito, ir adaptándose hasta que abras una terminal, te vayas al modo oscuro completo, y te pongas en full dev."
+    "text_es": "Te recomiendo mucho empezar despacio con un proyecto de GPT, una interfaz bonita, súper sencilla, y después tal vez pasar a algo como Bolt o Lovable, y luego ir a Cursor en modo claro, poco a poco, de a poquito, ir adaptándose hasta que abras una terminal, te vayas al modo oscuro completo, y te pongas en full dev.",
+    "key_sentence": "Gradually ease in until you go full dark mode and full dev."
   },
   {
     "text": "What I'll do is basically /review. This tells Claude to start reviewing its own code, but what's even cooler is I have Codex as well as Cursor open. I will have each of them review the code.",
@@ -172,6 +178,7 @@
     ],
     "text_ko": "제가 할 건 기본적으로 /review 명령어(command)를 실행하는 거예요. 이건 Claude에게 자신의 코드를 스스로 리뷰(review)하기 시작하라고 지시하는 건데, 더 멋진 건 Codex와 Cursor도 열어놨다는 점이에요. 각 도구에게 코드 리뷰(code review)를 맡길 거예요.",
     "text_zh": "我要做的基本上就是让它review一下。这样Claude就会开始检查自己的代码，更酷的是我还同时开着Codex和Cursor。我会让它们几个都来检查一遍代码。",
-    "text_es": "Lo que voy a hacer es básicamente revisar. Esto le dice a Claude que empiece a revisar su propio código, pero lo que está aún más genial es que tengo Codex y también Cursor abiertos. Voy a hacer que cada uno de ellos revise el código."
+    "text_es": "Lo que voy a hacer es básicamente revisar. Esto le dice a Claude que empiece a revisar su propio código, pero lo que está aún más genial es que tengo Codex y también Cursor abiertos. Voy a hacer que cada uno de ellos revise el código.",
+    "key_sentence": "What's even cooler is having each of them review the code."
   }
 ]

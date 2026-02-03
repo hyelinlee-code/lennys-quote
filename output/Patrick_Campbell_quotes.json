@@ -23,7 +23,8 @@
     ],
     "text_ko": "약간 건방지게 들릴 수 있는데, 핵심은 진짜 프로는 출시(ship)를 한다는 거예요. 결국엔 마케터든 제품 담당자든 엔지니어든 운영 담당자든 피플 오퍼레이션(people ops)이든 상관없이, 진짜 프로는 자기 일이 무엇이든 꽤 높은 빈도로 출시(ship)를 해요. 제 생각엔 템포 프레임워크(tempo framework)가 조직 설계(org design)보다 더 중요해요.",
     "text_zh": "这里最关键的一点就是，真正的专业人士都能交付成果。说到底，不管你是做市场的、产品的、工程师、运营，还是人事运营，真正专业的人都能持续交付，而且频率还挺高的。在我看来，你的节奏框架(tempo framework)比组织架构设计更重要。",
-    "text_es": "Lo que me molesta aquí es esa mentalidad de entregar trabajo profesional de verdad. Al final del día, los profesionales de verdad... me da igual si eres de marketing, de producto, ingeniero, de operaciones, de recursos humanos, los profesionales de verdad entregan resultados, y lo hacen con bastante frecuencia en lo que sea que estén haciendo. En mi opinión, tu ritmo de trabajo es más importante que cómo tengas estructurada la organización."
+    "text_es": "Lo que me molesta aquí es esa mentalidad de entregar trabajo profesional de verdad. Al final del día, los profesionales de verdad... me da igual si eres de marketing, de producto, ingeniero, de operaciones, de recursos humanos, los profesionales de verdad entregan resultados, y lo hacen con bastante frecuencia en lo que sea que estén haciendo. En mi opinión, tu ritmo de trabajo es más importante que cómo tengas estructurada la organización.",
+    "key_sentence": "Real professional ship requires high frequency shipping, more than org design."
   },
   {
     "text": "The basic idea is bootstrapping is for lifestyle businesses that want to cash flow. Funding is for companies trying to create a billion dollars in annual revenue. And that answer offends everybody. That answer offends the indie friends I have, they're going to be like, \"Oh, what about Basecamp [inaudible 00:12:43], ProfitWell?\"",
@@ -48,7 +49,8 @@
     ],
     "text_ko": "기본적으로 부트스트래핑(bootstrapping)은 현금흐름(cash flow)을 원하느 라이프스타일 비즈니스(lifestyle businesses)를 위한 거예요. 펀딩(funding)은 연매출 10억 달러(billion dollars in annual revenue)를 만들려는 회사들을 위한 거고요. 이 말은 사람들 기분을 상하게 해요. 제 인디(indie) 친구들은 ‘그럼 Basecamp나 ProfitWell은요?’ 하고 반발할 거예요.",
     "text_zh": "基本思路就是这样的：自力更生(bootstrapping)适合那些想要现金流的生活方式企业。而融资呢，是给那些想创造年收入十亿美金的公司用的。这个答案得罪所有人。我那些做独立开发的朋友肯定不爽，他们会说：\"那Basecamp怎么说？还有ProfitWell呢？\"",
-    "text_es": "La idea básica es que el bootstrapping es para negocios de estilo de vida que quieren generar flujo de caja. El financiamiento externo es para empresas que buscan crear mil millones de dólares en ingresos anuales. Y esa respuesta ofende a todo el mundo. Esa respuesta ofende a mis amigos indie, van a decir \"Oye, ¿y qué pasa con Basecamp [inaudible 00:12:43], ProfitWell?\""
+    "text_es": "La idea básica es que el bootstrapping es para negocios de estilo de vida que quieren generar flujo de caja. El financiamiento externo es para empresas que buscan crear mil millones de dólares en ingresos anuales. Y esa respuesta ofende a todo el mundo. Esa respuesta ofende a mis amigos indie, van a decir \"Oye, ¿y qué pasa con Basecamp [inaudible 00:12:43], ProfitWell?\"",
+    "key_sentence": "Bootstrapping suits lifestyle businesses; funding aims for billion-dollar revenue."
   },
   {
     "text": "The number one thing to figure out when you're thinking about the different pricing pieces, pound for pound, it's the pricing metric or the value metric. That's how you charge per user, per thousand visits, per thousand what's its, whatever it is.",
@@ -73,7 +75,8 @@
     ],
     "text_ko": "가격의 여러 요소를 고민할 때 무엇보다 중요한 건 바로 가격 지표(pricing metric), 즉 가치 지표(value metric)예요. 그게 사용자당, 방문 천 건당 같은 어떤 단위로 과금할지 정하는 기준이거든요.",
     "text_zh": "在考虑定价策略的时候，最关键的一点就是要搞清楚定价指标(pricing metric)或者说价值指标(value metric)。就是说你按什么来收费——按用户数、按千次访问量、按千次什么的，反正就是按什么单位来计费。",
-    "text_es": "Lo más importante que tienes que definir cuando estás pensando en los diferentes elementos de precios, sin duda alguna, es la métrica de precio o la métrica de valor (value metric). O sea, cómo vas a cobrar: por usuario, por mil visitas, por mil lo que sea, da igual lo que uses."
+    "text_es": "Lo más importante que tienes que definir cuando estás pensando en los diferentes elementos de precios, sin duda alguna, es la métrica de precio o la métrica de valor (value metric). O sea, cómo vas a cobrar: por usuario, por mil visitas, por mil lo que sea, da igual lo que uses.",
+    "key_sentence": "Pound for pound, the pricing metric determines how you charge."
   },
   {
     "text": "Strategic retention is all the stuff that you as a great product leader, a great product team are doing. Your ICPs, your time to value, road mapping, the right features, figuring out your mission metric, agonizing over every little thing, all the paper cuts of being a great product leader. But because you're so focused and so biased towards that, you miss out typically on this thing we call tactical retention.",
@@ -99,7 +102,8 @@
     ],
     "text_ko": "전략적 리텐션(strategic retention)은 훌륭한 제품 리더로서, 훌륭한 제품 팀으로서 하는 모든 일들이에요. 이상적 고객 프로필(ICP), 가치 실현 시간(time to value), 로드맵 작성(road mapping), 적절한 기능 선정, 미션 메트릭(mission metric) 찾아내기, 사소한 것까지 신경 쓰며 괴로워하는—제품 리더로서 겪는 자잘한 문제들(paper cuts) 같은 것들이요. 그런데 거기에만 너무 집중하고 편향되다 보면 보통 우리가 전술적 리텐션(tactical retention)이라고 부르는 걸 놓치게 되는 경우가 많아요.",
     "text_zh": "战略留存就是你们作为优秀产品负责人和产品团队在做的所有事情。你们的ICP(理想客户画像)，缩短价值实现时间，产品路线图规划，做对的功能，找准你们的核心指标，为每个细节抠破头，这些都是优秀产品负责人要承受的各种折磨。但正因为你们太专注于这些，有了思维定式，往往就会错过我们说的战术留存这一块。",
-    "text_es": "La retención estratégica es todo lo que tú como líder de producto increíble, como equipo de producto increíble, están haciendo. Tus ICPs, tu tiempo de valor (time to value), el mapeo de ruta (road mapping), las funcionalidades correctas, definir tu métrica de misión (mission metric), preocuparte por cada detallito, todas esas pequeñas molestias de ser un gran líder de producto. Pero como estás tan enfocado y tan sesgado hacia eso, típicamente te pierdes esta cosa que llamamos retención táctica."
+    "text_es": "La retención estratégica es todo lo que tú como líder de producto increíble, como equipo de producto increíble, están haciendo. Tus ICPs, tu tiempo de valor (time to value), el mapeo de ruta (road mapping), las funcionalidades correctas, definir tu métrica de misión (mission metric), preocuparte por cada detallito, todas esas pequeñas molestias de ser un gran líder de producto. Pero como estás tan enfocado y tan sesgado hacia eso, típicamente te pierdes esta cosa que llamamos retención táctica.",
+    "key_sentence": "Strategic retention focuses on product leadership, often missing tactical retention."
   },
   {
     "text": "In my opinion, your tempo framework is more important than your org design. And so if you've ever had a team that seems really, really smart, but they're always planning or they don't really ship a lot, or you've had trouble where everyone kind of gets it at the leadership level, but then the team below them and below them seems to be kind of going in a different direction, you probably don't have enough alignment and you don't have enough alignment on what good looks like in terms of tempo.",
@@ -124,7 +128,8 @@
     ],
     "text_ko": "제 생각에는 템포 프레임워크(tempo framework)가 조직 설계(org design)보다 더 중요해요. 그래서 만약 정말 똑똑해 보이는 팀이 있는데 항상 계획만 하고 실제로는 자주 결과물을 내지 못하거나, 리더십 레벨에서는 다들 이해하는 것 같은데 그 아래 팀들이 어딘가 다른 방향으로 움직인다면, 아마 충분한 정렬(alignment)이 안 돼 있는 거고 특히 템포 관점에서 무엇이 '잘하는 모습'인지에 대한 공감대가 부족한 거예요.",
     "text_zh": "我觉得吧，节奏框架(tempo framework)比组织架构设计更重要。你肯定遇到过这种情况：有些团队看起来特别聪明，但总是在那儿规划规划的，实际出活儿不多；或者领导层都挺明白的，但下面的人、再下面的人，好像都在各干各的，方向不太一致。这种情况多半是大家没有达成共识，特别是在节奏把控上，什么叫\"做得好\"，大家心里都没个准儿。",
-    "text_es": "En mi opinión, tu marco de ritmo de trabajo es más importante que el diseño organizacional. Entonces, si alguna vez has tenido un equipo que parece súper inteligente, pero siempre están planeando o no entregan mucho, o has tenido problemas donde todos los líderes lo entienden, pero después el equipo que está debajo de ellos y así sucesivamente parece ir en otra dirección, probablemente no tienes suficiente alineación y no tienes suficiente alineación sobre cómo se ve un buen ritmo de trabajo."
+    "text_es": "En mi opinión, tu marco de ritmo de trabajo es más importante que el diseño organizacional. Entonces, si alguna vez has tenido un equipo que parece súper inteligente, pero siempre están planeando o no entregan mucho, o has tenido problemas donde todos los líderes lo entienden, pero después el equipo que está debajo de ellos y así sucesivamente parece ir en otra dirección, probablemente no tienes suficiente alineación y no tienes suficiente alineación sobre cómo se ve un buen ritmo de trabajo.",
+    "key_sentence": "Tempo framework is crucial; misalignment leads teams in different directions."
   },
   {
     "text": "Everything in your business, it does not matter what type of business you have, everything is used to drive someone to a point of conversion or justify the product or the price that you're offering up. That customer is a human being you're driving to that point of conversion and it's your job to understand how they perceive you, how they perceive their problem, how they perceive the world around them, around your products.",
@@ -148,6 +153,7 @@
     ],
     "text_ko": "어떤 비즈니스를 운영하든 상관없이, 비즈니스의 모든 요소는 결국 누군가를 구매 같은 전환 지점(conversion)으로 이끌거나, 당신이 제시하는 제품이나 가격을 납득시키는 데 쓰여요. 그 고객은 결국 한 사람이고, 당신의 역할은 그들이 당신을 어떻게 인식하는지, 자신의 문제를 어떻게 바라보는지, 그리고 당신의 제품을 둘러싼 세상을 어떻게 생각하는지를 이해하는 거예요.",
     "text_zh": "不管你做什么生意，所有的一切都是为了让客户最终下单买你的东西，或者让他们觉得你的产品和价格物有所值。那个客户是活生生的人，你要让他们最终转化(conversion)，你就得搞清楚他们怎么看你，怎么看他们自己遇到的问题，还有他们对你产品周围这个世界是怎么理解的。",
-    "text_es": "Todo en tu negocio, no importa qué tipo de empresa tengas, todo se usa para llevar a alguien a ese punto de conversión o para justificar el producto o el precio que estás ofreciendo. Ese cliente es un ser humano al que estás llevando a ese punto de conversión y tu trabajo es entender cómo te percibe a ti, cómo percibe su problema, cómo percibe el mundo que lo rodea, el mundo alrededor de tus productos."
+    "text_es": "Todo en tu negocio, no importa qué tipo de empresa tengas, todo se usa para llevar a alguien a ese punto de conversión o para justificar el producto o el precio que estás ofreciendo. Ese cliente es un ser humano al que estás llevando a ese punto de conversión y tu trabajo es entender cómo te percibe a ti, cómo percibe su problema, cómo percibe el mundo que lo rodea, el mundo alrededor de tus productos.",
+    "key_sentence": "Everything drives a point of conversion or justifies the product offered."
   }
 ]

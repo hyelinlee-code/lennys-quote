@@ -23,7 +23,8 @@
     ],
     "text_ko": "제 생각엔 직관은 가설 생성기(hypothesis generator) 같아요. 우리는 계속해서 이런 가설을 만들어 내고, 다른 사람들도 마찬가지로 가설을 만들어요. 그 가설들을 제시해서 토론하고, 그것들을 지지할 증거나 반박할 데이터를 찾아보는 거예요. 그런 과정을 통해 추려서 우리의 작업 가설(working hypothesis)이 뭔지 정하고, 그걸 바탕으로 앞으로 나아가는 식이에요.",
     "text_zh": "我觉得直觉就像是个假设生成器，你在不断地产生各种假设，别人也在产生假设。然后你把这些假设拿出来，大家一起讨论辩论，想办法找数据来验证或者推翻它们。最后筛选出我们的工作假设(working hypothesis)，然后基于这个往前推进。",
-    "text_es": "Creo que la intuición es como un generador de hipótesis, ¿no? Constantemente estás generando estas hipótesis y otros también están generando las suyas. Entonces tomas esas hipótesis, las pones sobre la mesa, las debates y tratas de encontrar datos que las respalden o las refuten. Y después vas descartando hasta llegar a cuál es nuestra hipótesis de trabajo. Y de ahí sigues adelante."
+    "text_es": "Creo que la intuición es como un generador de hipótesis, ¿no? Constantemente estás generando estas hipótesis y otros también están generando las suyas. Entonces tomas esas hipótesis, las pones sobre la mesa, las debates y tratas de encontrar datos que las respalden o las refuten. Y después vas descartando hasta llegar a cuál es nuestra hipótesis de trabajo. Y de ahí sigues adelante.",
+    "key_sentence": "Intuition is a hypothesis generator that requires winnowing down to a working hypothesis."
   },
   {
     "text": "I ask for examples a lot, I try to ask follow up questions about things and make sure I fully understand it. And I think where I get stuck sometimes is if I ask follow up questions and we don't have answers yet, and then my response might be, 'Let's go find the answer to these questions and then let's go back to this conversation', if I think it's something that's really important.",
@@ -49,7 +50,8 @@
     ],
     "text_ko": "저는 예시를 자주 부탁하고, 관련해서 추가 질문(follow-up questions)을 해서 완전히 이해하려고 해요. 그런데 가끔 막히는 건 추가 질문을 했는데 아직 답이 없을 때예요. 그럴 땐 그게 정말 중요하다고 생각하면 \"이 질문들에 대한 답을 찾아보고 다시 이 대화로 돌아가요\"라고 말하곤 해요.",
     "text_zh": "我经常会要求举例子，会追问各种细节，确保自己完全搞明白。我觉得有时候卡住的地方就是，当我追问下去发现大家都没有答案的时候，我可能会说\"咱们先去把这些问题的答案找出来，然后再回过头来聊这个话题\"，特别是我觉得这个问题很重要的时候。",
-    "text_es": "Yo pregunto por ejemplos constantemente, trato de hacer preguntas de seguimiento sobre las cosas y asegurarme de que realmente lo entiendo todo. Y creo que donde a veces me quedo atascado es cuando hago estas preguntas de seguimiento y todavía no tenemos las respuestas, entonces mi respuesta suele ser: \"Vamos a buscar las respuestas a estas preguntas y después retomamos esta conversación\", si creo que es algo realmente importante."
+    "text_es": "Yo pregunto por ejemplos constantemente, trato de hacer preguntas de seguimiento sobre las cosas y asegurarme de que realmente lo entiendo todo. Y creo que donde a veces me quedo atascado es cuando hago estas preguntas de seguimiento y todavía no tenemos las respuestas, entonces mi respuesta suele ser: \"Vamos a buscar las respuestas a estas preguntas y después retomamos esta conversación\", si creo que es algo realmente importante.",
+    "key_sentence": "Asking follow up questions helps, but I get stuck without answers."
   },
   {
     "text": "I think sometimes when you see people that fall down in that function is because they treat it too much like process. Which is very important too, don't me wrong. Good process can help support good outcomes. But I think that you can't lose sight of the problems that you're solving. You have to go talk to users and you have to actually have a strategy. And if you're really good, you should have a point of view.",
@@ -76,7 +78,8 @@
     ],
     "text_ko": "가끔 그 역할에서 잘 못하는 사람들을 보면, 그 이유가 그걸 지나치게 프로세스(process)처럼만 다루기 때문인 것 같아요. 물론 프로세스도 중요해요, 오해하지 마세요. 좋은 프로세스(process)는 좋은 결과를 뒷받침해 줄 수 있어요. 하지만 해결하려는 문제 자체를 잊으면 안 돼요. 직접 사용자(users)에게 가서 얘기해보고, 실제적인 전략(strategy)을 가져야 해요. 정말 잘하는 사람이라면 자기만의 관점(point of view)을 가지고 있어야 해요.",
     "text_zh": "我觉得有些人在这个职能上栽跟头，就是因为他们太把它当流程来做了。当然流程也很重要，别误会我的意思。好的流程确实能帮你出好结果。但我觉得你不能忘了你到底要解决什么问题。你得去跟用户聊，你得有个真正的策略。如果你真的厉害，你应该有自己的观点和看法。",
-    "text_es": "Creo que a veces cuando ves gente que falla en esa función es porque lo tratan demasiado como si fuera puro proceso. Lo cual también es muy importante, no me malinterpretes. Un buen proceso puede ayudar a conseguir buenos resultados. Pero pienso que no puedes perder de vista los problemas que estás resolviendo. Tienes que ir a hablar con los usuarios y realmente tienes que tener una estrategia. Y si eres realmente bueno, deberías tener un punto de vista claro."
+    "text_es": "Creo que a veces cuando ves gente que falla en esa función es porque lo tratan demasiado como si fuera puro proceso. Lo cual también es muy importante, no me malinterpretes. Un buen proceso puede ayudar a conseguir buenos resultados. Pero pienso que no puedes perder de vista los problemas que estás resolviendo. Tienes que ir a hablar con los usuarios y realmente tienes que tener una estrategia. Y si eres realmente bueno, deberías tener un punto de vista claro.",
+    "key_sentence": "People fall down in that function by losing sight of the problems they're solving."
   },
   {
     "text": "The best PMs, I think again, create those frameworks that bring everyone else along and those frameworks also have a point of view and a strategy associated with them. So you're able to take the strategy, take the point of view, wrap it all up in a framework, and then make it so that everyone knows what the destination is and how to get there.",
@@ -101,7 +104,8 @@
     ],
     "text_ko": "다시 말하면 제 생각엔 최고의 PM(프로덕트 매니저)들은 모두를 함께 이끄는 프레임워크(framework)를 만드는 사람들이에요. 그런 프레임워크에는 분명한 관점(point of view)과 전략(strategy)이 녹아 있고요. 그래서 그 전략과 관점을 하나의 프레임워크로 정리해서 모두가 목적지와 거기까지 가는 방법을 알 수 있게 만드는 거예요.",
     "text_zh": "我觉得最厉害的产品经理(PM)，都会搭建一套框架，让整个团队都能跟上节奏。而且这套框架里面，既有明确的观点，也有配套的策略。你能把战略、观点这些东西都整合到一个框架里，然后让所有人都清楚我们要去哪儿，怎么去。",
-    "text_es": "Los mejores PMs, yo creo que son los que crean esos marcos de trabajo que logran que todo el equipo vaya en la misma dirección, y esos frameworks también llevan una visión clara y una estrategia bien definida. Entonces puedes tomar la estrategia, tomar esa visión, empaquetarlo todo en un marco de trabajo, y hacer que todos sepan cuál es el destino y cómo llegar ahí."
+    "text_es": "Los mejores PMs, yo creo que son los que crean esos marcos de trabajo que logran que todo el equipo vaya en la misma dirección, y esos frameworks también llevan una visión clara y una estrategia bien definida. Entonces puedes tomar la estrategia, tomar esa visión, empaquetarlo todo en un marco de trabajo, y hacer que todos sepan cuál es el destino y cómo llegar ahí.",
+    "key_sentence": "The best PMs create frameworks that bring everyone else along with a strategy."
   },
   {
     "text": "One essay that Evan, my co-founder, introduced me to early on in famous history, I think from Stevie's grants or something like that, contains the term irreducible complexity. And it's basically this idea that one plus one does not equal three, it sometimes equals one and a half. And the more that you add and the more that you continue to put in something, the more complex it gets and the worse it gets.",
@@ -125,7 +129,8 @@
     ],
     "text_ko": "초기에 공동창업자 에반이 소개해준 에세이 하나가 있는데, 유명한 역사 쪽에서였던 것 같고 스티비의 'grants'였나 뭐였나 기억이 가물가물해요. 그 글에 '환원 불가능한 복잡성(irreducible complexity)'이라는 표현이 나오는데, 기본적으로 1 더하기 1이 항상 3이 되는 게 아니라 때로는 1.5밖에 안 된다는 얘기예요. 더 많이 더하고 계속 뭔가를 집어넣을수록 더 복잡해지고 상황은 더 안 좋아진다는 뜻이에요.",
     "text_zh": "我联合创始人Evan很早就给我看过一篇挺有名的文章，好像是史蒂夫的什么基金报告里的，里面提到一个概念叫\"不可简化的复杂性(irreducible complexity)\"。大概意思就是说，一加一不一定等于三，有时候反而只等于一点五。你往里面塞的东西越多，继续加的东西越多，整个事情就变得越复杂，效果反而越差。",
-    "text_es": "Un ensayo que me presentó Evan, mi co-fundador, al principio de nuestra historia conocida, creo que era de las becas de Stevie o algo así, contenía el término complejidad irreducible (irreducible complexity). Y básicamente es esta idea de que uno más uno no siempre es igual a tres, a veces es igual a uno y medio. Y mientras más le agregas y más sigues metiendo cosas, más complejo se vuelve todo y peor queda."
+    "text_es": "Un ensayo que me presentó Evan, mi co-fundador, al principio de nuestra historia conocida, creo que era de las becas de Stevie o algo así, contenía el término complejidad irreducible (irreducible complexity). Y básicamente es esta idea de que uno más uno no siempre es igual a tres, a veces es igual a uno y medio. Y mientras más le agregas y más sigues metiendo cosas, más complejo se vuelve todo y peor queda.",
+    "key_sentence": "Irreducible complexity shows that one plus one does not equal three in complexity."
   },
   {
     "text": "Get it out as fast as you possibly can. Everything they tell you about making sure that you get a product out really quickly is totally true. The faster you get it out, the more feedback you get. That is a positive thing. And now I index on that when we try to build.",
@@ -149,7 +154,8 @@
     ],
     "text_ko": "가능한 한 빨리 내놓으세요. 제품을 정말 빨리 내놓으라고들 하는 말은 다 맞아요. 빨리 내놓을수록 피드백을 더 많이 받거든요. 그건 긍정적인 일이에요. 그래서 저는 뭔가를 만들 때 그걸 기준으로 삼아요 (index on).",
     "text_zh": "能多快就多快地推出产品。他们说的那些关于要快速推产品的话，完全没错。你推得越快，收到的反馈就越多。这绝对是好事。现在我们在做产品的时候，我就特别看重这一点。",
-    "text_es": "Sácalo lo más rápido que puedas. Todo lo que te dicen sobre lanzar un producto súper rápido es totalmente cierto. Mientras más rápido lo saques, más feedback vas a recibir. Eso es algo positivo. Y ahora me enfoco en eso cuando tratamos de desarrollar algo."
+    "text_es": "Sácalo lo más rápido que puedas. Todo lo que te dicen sobre lanzar un producto súper rápido es totalmente cierto. Mientras más rápido lo saques, más feedback vas a recibir. Eso es algo positivo. Y ahora me enfoco en eso cuando tratamos de desarrollar algo.",
+    "key_sentence": "I index on getting products out quickly to receive more feedback."
   },
   {
     "text": "I think that mentors can come from anywhere. It can come from the community, all of you. Mentorship can come from the people you hire. It can come from folks that you actively seek out as investors or explicit mentorship and mentors. It can come from people that call themselves coaches. And what's interesting too is it can come from people you mentor as well.",
@@ -175,6 +181,7 @@
     ],
     "text_ko": "저는 멘토(mentor)는 어디서든 나올 수 있다고 생각해요. 커뮤니티, 그러니까 여러분에게서도 올 수 있고요. 멘토십(mentorship)은 여러분이 고용한 사람들한테서도 생길 수 있어요. 투자자(investor)나 멘토십을 위해 적극적으로 찾아가는 멘토들에게서도 올 수 있고요. 스스로 코치(coach)라고 부르는 사람들에게서도 배울 수 있어요. 흥미로운 건, 여러분이 멘토하는 사람들에게서도 멘토십이 생길 수 있다는 점이에요.",
     "text_zh": "我觉得导师可以来自各个地方。可能就在你身边的社群里，就是在座的各位。也可能是你招进来的员工。还可能是你主动去找的投资人，或者专门请的导师。有些人叫自己教练(coach)的也行。更有意思的是，有时候你指导的那些人反过来也能当你的老师。",
-    "text_es": "Creo que los mentores pueden salir de cualquier lado. Pueden venir de la comunidad, de todos ustedes. La mentoría puede llegar de la gente que contratas. Puede venir de personas que buscas activamente como inversionistas o de mentores explícitos. Puede venir de gente que se hace llamar coaches. Y lo interesante también es que puede venir de las personas a las que tú les das mentoría."
+    "text_es": "Creo que los mentores pueden salir de cualquier lado. Pueden venir de la comunidad, de todos ustedes. La mentoría puede llegar de la gente que contratas. Puede venir de personas que buscas activamente como inversionistas o de mentores explícitos. Puede venir de gente que se hace llamar coaches. Y lo interesante también es que puede venir de las personas a las que tú les das mentoría.",
+    "key_sentence": "Mentors can come from anywhere, including those you actively seek out."
   }
 ]

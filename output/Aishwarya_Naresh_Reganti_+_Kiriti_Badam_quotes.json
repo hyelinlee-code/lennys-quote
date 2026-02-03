@@ -23,7 +23,8 @@
     ],
     "text_ko": "대부분의 사람들은 비결정론(non-determinism)을 간과하는 경향이 있어요. 사용자가 제품을 가지고 어떻게 행동할지, 그리고 LLM이 그에 대해 어떻게 반응할지 알 수 없거든요. 두 번째 차이점은 에이전시 제어의 트레이드오프(agency control trade-off)예요. 에이전틱 시스템에 의사결정 능력을 넘길 때마다, 어느 정도의 통제를 포기하는 거라고 할 수 있어요.",
     "text_zh": "大多数人往往忽视非确定性（non-determinism）。你无法预测用户如何使用你的产品，也无法预知大型语言模型（LLM）会如何回应。第二个区别是代理控制的权衡（agency control trade-off）。每次将决策能力交给代理系统时，你实际上是在放弃一定程度的控制权。",
-    "text_es": "La mayoría de las personas tienden a ignorar el no determinismo. No sabes cómo se comportará el usuario con tu producto, y tampoco sabes cómo responderá el LLM (modelo de lenguaje grande) a eso. La segunda diferencia es el equilibrio entre el control y la agencia. Cada vez que delegas capacidades de toma de decisiones a sistemas agentivos, estás cediendo un cierto grado de control de tu parte."
+    "text_es": "La mayoría de las personas tienden a ignorar el no determinismo. No sabes cómo se comportará el usuario con tu producto, y tampoco sabes cómo responderá el LLM (modelo de lenguaje grande) a eso. La segunda diferencia es el equilibrio entre el control y la agencia. Cada vez que delegas capacidades de toma de decisiones a sistemas agentivos, estás cediendo un cierto grado de control de tu parte.",
+    "key_sentence": "Handing over decision-making capabilities to agentic systems relinquishes control."
   },
   {
     "text": "When you start small, it forces you to think about what is the problem that I'm going to solve. In all this advancements of the AI, one easy, slippery slope is to keep thinking about complexities of the solution and forget the problem that you're trying to solve.",
@@ -46,7 +47,8 @@
     ],
     "text_ko": "작게 시작하면 해결해야 할 문제가 뭐인지 고민하게 돼요. AI가 발전하면서, 복잡한 해결책에만 집중하다가 진짜 해결해야 할 문제를 잊어버리기 쉬운 함정이 있어요.",
     "text_zh": "当你从小规模开始时，这迫使你思考自己要解决的问题。在人工智能（AI）不断发展的过程中，一个容易陷入的误区就是不断关注解决方案的复杂性，而忽视了你真正要解决的问题。",
-    "text_es": "Cuando comienzas pequeño, te obliga a reflexionar sobre cuál es el problema que vas a resolver. En medio de todos estos avances de la IA (AI), una trampa fácil y resbaladiza es seguir pensando en las complejidades de la solución y olvidar el problema que estás tratando de resolver."
+    "text_es": "Cuando comienzas pequeño, te obliga a reflexionar sobre cuál es el problema que vas a resolver. En medio de todos estos avances de la IA (AI), una trampa fácil y resbaladiza es seguir pensando en las complejidades de la solución y olvidar el problema que estás tratando de resolver.",
+    "key_sentence": "The slippery slope is forgetting the problem while focusing on complexities of the solution."
   },
   {
     "text": "It's not about being the first company to have an agent among your competitors. It's about have you built the right flywheels in place so that you can improve over time.",
@@ -70,7 +72,8 @@
     ],
     "text_ko": "경쟁사 중에서 가장 먼저 에이전트를 도입하는 게 중요한 게 아니에요. 중요한 건 시간이 지나면서 개선할 수 있도록 올바른 플라이휠(flywheel)을 만들어 놓았느냐는 거예요.",
     "text_zh": "这并不是关于在竞争对手中率先拥有代理（agent）的问题，而是你是否建立了正确的飞轮（flywheel），以便能够随着时间的推移不断改进。",
-    "text_es": "No se trata de ser la primera empresa en tener un agente entre tus competidores. Se trata de si has construido los engranajes adecuados (flywheels) para poder mejorar con el tiempo."
+    "text_es": "No se trata de ser la primera empresa en tener un agente entre tus competidores. Se trata de si has construido los engranajes adecuados (flywheels) para poder mejorar con el tiempo.",
+    "key_sentence": "It's about building the right flywheels in place to improve over time."
   },
   {
     "text": "Leaders have to get back to being hands-on. You must be comfortable with the fact that your intuitions might not be right. And you probably are the dumbest person in the room and you want to learn from everyone.",
@@ -94,7 +97,8 @@
     ],
     "text_ko": "리더는 다시 직접 나서야 해요. 자신의 직감이 항상 맞지 않을 수도 있다는 걸 받아들여야 하고요. 그리고 아마도 방에서 가장 멍청한 사람일 수도 있으니, 모든 사람에게서 배우고 싶어야 해요.",
     "text_zh": "领导者需要重新回到实地操作的状态。你必须接受你的直觉可能并不总是正确的。而且，你可能是房间里最愚蠢的人，应该向每个人学习。",
-    "text_es": "Los líderes deben volver a involucrarse de manera activa. Deben estar dispuestos a aceptar que sus intuiciones pueden no ser correctas. Y probablemente sean la persona menos sabia en la sala y deseen aprender de todos."
+    "text_es": "Los líderes deben volver a involucrarse de manera activa. Deben estar dispuestos a aceptar que sus intuiciones pueden no ser correctas. Y probablemente sean la persona menos sabia en la sala y deseen aprender de todos.",
+    "key_sentence": "Leaders must get back to being hands-on and accept being the dumbest person in the room."
   },
   {
     "text": "Persistence is extremely valuable. Successful companies right now building in any new area, they are going through the pain of learning this, implementing this and understanding what works and what doesn't work. Pain is the new moat.",
@@ -117,7 +121,8 @@
     ],
     "text_ko": "지속성이 정말 중요해요. 지금 새로운 분야에서 성공적인 회사들은 이 과정을 겪으면서 배우고, 실행하고, 어떤 게 효과가 있고 어떤 게 효과가 없는지 이해하고 있어요. 이 고통이 새로운 방어선이 되고 있죠.",
     "text_zh": "坚持是极其重要的。目前，成功的公司在任何新领域的发展中，都在经历学习、实施以及理解什么有效、什么无效的痛苦。痛苦就是新的护城河。",
-    "text_es": "La persistencia es extremadamente valiosa. Las empresas exitosas que actualmente están incursionando en nuevas áreas están atravesando el proceso doloroso de aprender, implementar y entender lo que funciona y lo que no. El dolor se ha convertido en la nueva ventaja competitiva."
+    "text_es": "La persistencia es extremadamente valiosa. Las empresas exitosas que actualmente están incursionando en nuevas áreas están atravesando el proceso doloroso de aprender, implementar y entender lo que funciona y lo que no. El dolor se ha convertido en la nueva ventaja competitiva.",
+    "key_sentence": "Pain is the new moat for successful companies going through the pain of learning."
   },
   {
     "text": "If someone's selling you one click-agents, it's pure marketing. You don't want to buy into that. I would rather go with a company that says, 'We're going to build this pipeline for you,' and that will learn over time and build a flywheel to improve than something that's going to work out of the box.",
@@ -143,6 +148,7 @@
     ],
     "text_ko": "누군가가 원클릭 에이전트(click-agent)를 팔고 있다면, 그건 순수한 마케팅이에요. 그런 건 사지 않는 게 좋죠. 저는 '우리가 이 파이프라인(pipeline)을 만들어 줄게요'라고 말하는 회사와 함께하고 싶어요. 시간이 지나면서 배우고, 개선할 수 있는 플라이휠(flywheel)을 만들 수 있는 그런 회사가 더 낫죠.",
     "text_zh": "如果有人向你推销一键代理（one click-agents），那纯粹是营销手段。你不应该被这种产品所吸引。我更倾向于选择一家说“我们将为你构建这个管道（pipeline）”的公司，这家公司会随着时间的推移不断学习并建立一个自我增强的循环（flywheel），而不是选择一个开箱即用的解决方案。",
-    "text_es": "Si alguien te está vendiendo agentes de un clic (click-agents), es pura mercadotecnia. No querrás caer en eso. Prefiero optar por una empresa que diga: 'Vamos a construir este pipeline para ti', y que aprenda con el tiempo y desarrolle un ciclo de retroalimentación (flywheel) para mejorar, en lugar de algo que funcione directamente desde el principio."
+    "text_es": "Si alguien te está vendiendo agentes de un clic (click-agents), es pura mercadotecnia. No querrás caer en eso. Prefiero optar por una empresa que diga: 'Vamos a construir este pipeline para ti', y que aprenda con el tiempo y desarrolle un ciclo de retroalimentación (flywheel) para mejorar, en lugar de algo que funcione directamente desde el principio.",
+    "key_sentence": "One click-agents are pure marketing; choose companies that build learning pipelines instead."
   }
 ]

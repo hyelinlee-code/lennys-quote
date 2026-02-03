@@ -1,24 +1,18 @@
 import React from 'react';
 import { Quote, Language } from '../types';
-import { ArrowRight, PlayCircle } from 'lucide-react';
+import { ArrowRight, PlayCircle, Heart } from 'lucide-react';
 
 interface QuoteCardProps {
   quote: Quote;
   language: Language;
   onClick: (quote: Quote) => void;
+  isLiked: boolean;
+  onToggleLike: (quoteId: string) => void;
 }
 
-const QuoteCard: React.FC<QuoteCardProps> = ({ quote, language, onClick }) => {
-  const displayText = () => {
-    if (language === 'en') return quote.text;
-    const translationKey = `text_${language}` as keyof Quote;
-    const translation = quote[translationKey] as string;
-    return translation || quote.text;
-  };
-
-  // Truncate long quotes for card display
-  const text = displayText();
-  const truncated = text.length > 200 ? text.slice(0, 200) + '...' : text;
+const QuoteCard: React.FC<QuoteCardProps> = ({ quote, language: _language, onClick, isLiked, onToggleLike }) => {
+  // Always show keySentence in English on card (translation is in the detail view)
+  const displayText = quote.keySentence || quote.text.split(/[.!?]\s/)[0] + '.';
 
   return (
     <div
@@ -37,7 +31,7 @@ const QuoteCard: React.FC<QuoteCardProps> = ({ quote, language, onClick }) => {
         </div>
 
         <blockquote className="font-serif text-xl md:text-2xl leading-snug text-ink mb-6">
-          &ldquo;{truncated}&rdquo;
+          &ldquo;{displayText}&rdquo;
         </blockquote>
       </div>
 
@@ -50,8 +44,28 @@ const QuoteCard: React.FC<QuoteCardProps> = ({ quote, language, onClick }) => {
           </p>
         </div>
 
-        <div className="w-8 h-8 rounded-full bg-stone-100 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-          <ArrowRight size={16} className="text-ink" />
+        <div className="flex items-center gap-2">
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              onToggleLike(quote.id);
+            }}
+            className={`p-1.5 rounded-full transition-all duration-200 ${
+              isLiked
+                ? 'text-red-500 hover:text-red-600'
+                : 'text-stone-300 hover:text-stone-500'
+            }`}
+            aria-label={isLiked ? 'Unlike' : 'Like'}
+          >
+            <Heart
+              size={18}
+              fill={isLiked ? 'currentColor' : 'none'}
+              strokeWidth={isLiked ? 0 : 1.5}
+            />
+          </button>
+          <div className="w-8 h-8 rounded-full bg-stone-100 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+            <ArrowRight size={16} className="text-ink" />
+          </div>
         </div>
       </div>
 

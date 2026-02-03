@@ -58,11 +58,11 @@ const DetailView: React.FC<DetailViewProps> = ({ quote, language, onClose }) => 
   const translation = getTranslation();
   const canFlip = translation !== null;
 
-  // Highlight vocabulary words in the context text
-  const renderHighlightedContext = () => {
-    const contextText = quote.fullContext || quote.text;
+  // Highlight vocabulary words in the QUOTE text (not the context)
+  const renderHighlightedQuote = () => {
+    const quoteText = quote.text;
     if (!quote.vocabulary.length) {
-      return <span className="text-stone-600">{contextText}</span>;
+      return <span>{quoteText}</span>;
     }
 
     const vocabWords = quote.vocabulary.map((v) => v.word);
@@ -72,7 +72,7 @@ const DetailView: React.FC<DetailViewProps> = ({ quote, language, onClose }) => 
       w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
     );
     const pattern = new RegExp(`(${escaped.join('|')})`, 'gi');
-    const parts = contextText.split(pattern);
+    const parts = quoteText.split(pattern);
 
     return parts.map((part, i) => {
       const matchingVocab = quote.vocabulary.find(
@@ -95,11 +95,7 @@ const DetailView: React.FC<DetailViewProps> = ({ quote, language, onClose }) => 
           </span>
         );
       }
-      return (
-        <span key={i} className="text-stone-500">
-          {part}
-        </span>
-      );
+      return <span key={i}>{part}</span>;
     });
   };
 
@@ -119,22 +115,24 @@ const DetailView: React.FC<DetailViewProps> = ({ quote, language, onClose }) => 
         </button>
       </div>
 
-      <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 min-h-[calc(100vh-56px)]">
-        {/* Left Panel: The Content */}
-        <div className="p-6 md:p-12 lg:p-16 lg:border-r border-stone-200 flex flex-col justify-center">
-          <span className="text-accent text-sm font-bold tracking-wider uppercase mb-6 flex items-center gap-2">
+      {/* Vertical layout: quote on top, learning below */}
+      <div className="max-w-3xl mx-auto px-4 md:px-8 py-8 md:py-12">
+
+        {/* ===== TOP: Quote Section ===== */}
+        <section className="mb-10">
+          <span className="text-accent text-sm font-bold tracking-wider uppercase mb-4 flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-accent"></span>
             {quote.topic}
           </span>
 
           {/* Flip Card for quote text */}
-          <div className="flip-card mb-6" style={cardHeight ? { minHeight: cardHeight } : undefined}>
+          <div className="flip-card mb-4" style={cardHeight ? { minHeight: cardHeight } : undefined}>
             <div className={`flip-card-inner ${isFlipped ? 'flipped' : ''}`}>
-              {/* Front — English context with highlighted vocab */}
+              {/* Front — English quote with highlighted vocab */}
               <div ref={frontRef} className="flip-card-front">
-                <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl text-ink leading-tight">
-                  {renderHighlightedContext()}
-                </h2>
+                <blockquote className="font-serif text-2xl md:text-3xl lg:text-4xl text-ink leading-snug">
+                  {renderHighlightedQuote()}
+                </blockquote>
               </div>
 
               {/* Back — Translation */}
@@ -143,9 +141,9 @@ const DetailView: React.FC<DetailViewProps> = ({ quote, language, onClose }) => 
                   <p className="text-xs font-bold text-accent uppercase tracking-widest mb-3">
                     {LANG_LABELS[language]}
                   </p>
-                  <h2 className="font-serif text-2xl md:text-3xl lg:text-4xl text-ink leading-tight">
+                  <blockquote className="font-serif text-xl md:text-2xl lg:text-3xl text-ink leading-snug">
                     {translation}
-                  </h2>
+                  </blockquote>
                 </div>
               </div>
             </div>
@@ -155,7 +153,7 @@ const DetailView: React.FC<DetailViewProps> = ({ quote, language, onClose }) => 
           {canFlip && (
             <button
               onClick={() => setIsFlipped((f) => !f)}
-              className="group flex items-center gap-2 self-start px-4 py-2 rounded-full border border-stone-300 text-sm text-stone-500 hover:border-ink hover:text-ink transition-colors mb-6"
+              className="group flex items-center gap-2 px-4 py-2 rounded-full border border-stone-300 text-sm text-stone-500 hover:border-ink hover:text-ink transition-colors mb-6"
             >
               <RotateCcw
                 size={14}
@@ -165,46 +163,60 @@ const DetailView: React.FC<DetailViewProps> = ({ quote, language, onClose }) => 
             </button>
           )}
 
-          {/* Speaker info */}
-          <div className="flex items-center space-x-4 mt-2">
-            <div className="w-12 h-12 rounded-full bg-stone-200 flex items-center justify-center text-stone-500 font-serif font-bold text-lg shrink-0">
-              {quote.speaker.charAt(0)}
+          {/* Speaker info + meta */}
+          <div className="flex items-center justify-between flex-wrap gap-4 mt-4">
+            <div className="flex items-center space-x-3">
+              <div className="w-10 h-10 rounded-full bg-stone-200 flex items-center justify-center text-stone-500 font-serif font-bold text-base shrink-0">
+                {quote.speaker.charAt(0)}
+              </div>
+              <div>
+                <p className="font-bold text-ink text-sm">{quote.speaker}</p>
+                <p className="text-xs text-stone-500">
+                  {quote.role}
+                  {quote.company && <> at {quote.company}</>}
+                </p>
+              </div>
             </div>
-            <div>
-              <p className="font-bold text-ink">{quote.speaker}</p>
-              <p className="text-sm text-stone-500">
-                {quote.role}
-                {quote.company && <> at {quote.company}</>}
+            <div className="flex flex-wrap gap-1.5">
+              {quote.topics.map((t) => (
+                <span
+                  key={t}
+                  className="px-2 py-0.5 bg-stone-100 text-stone-600 text-xs rounded-full"
+                >
+                  {t}
+                </span>
+              ))}
+              <span
+                className={`px-2 py-0.5 text-xs rounded-full ${
+                  quote.difficulty_level === 'Advanced'
+                    ? 'bg-red-50 text-red-600'
+                    : quote.difficulty_level === 'Beginner'
+                      ? 'bg-green-50 text-green-600'
+                      : 'bg-amber-50 text-amber-600'
+                }`}
+              >
+                {quote.difficulty_level}
+              </span>
+            </div>
+          </div>
+
+          {/* Conversation context (the editorial summary) */}
+          {quote.fullContext && (
+            <div className="mt-6 p-4 bg-stone-50 rounded-lg border border-stone-200">
+              <p className="text-xs font-bold text-stone-400 uppercase tracking-widest mb-2">
+                Conversation Context
+              </p>
+              <p className="text-sm text-stone-600 leading-relaxed">
+                {quote.fullContext}
               </p>
             </div>
-          </div>
+          )}
+        </section>
 
-          {/* Topics */}
-          <div className="mt-6 flex flex-wrap gap-2">
-            {quote.topics.map((t) => (
-              <span
-                key={t}
-                className="px-2 py-1 bg-stone-100 text-stone-600 text-xs rounded-full"
-              >
-                {t}
-              </span>
-            ))}
-            <span
-              className={`px-2 py-1 text-xs rounded-full ${
-                quote.difficulty_level === 'Advanced'
-                  ? 'bg-red-50 text-red-600'
-                  : quote.difficulty_level === 'Beginner'
-                    ? 'bg-green-50 text-green-600'
-                    : 'bg-amber-50 text-amber-600'
-              }`}
-            >
-              {quote.difficulty_level}
-            </span>
-          </div>
-        </div>
+        <hr className="border-stone-200 mb-10" />
 
-        {/* Right Panel: The Learning (unchanged during flip) */}
-        <div className="p-6 md:p-12 lg:p-16 bg-white">
+        {/* ===== BOTTOM: Learning Section ===== */}
+        <section>
           {quote.vocabulary.length > 0 ? (
             <>
               {/* Vocabulary word pills */}
@@ -335,15 +347,11 @@ const DetailView: React.FC<DetailViewProps> = ({ quote, language, onClose }) => 
               )}
             </>
           ) : (
-            <div className="h-full flex flex-col items-center justify-center text-center text-stone-400">
-              <p className="text-lg">
-                No vocabulary highlights
-                <br />
-                for this quote.
-              </p>
+            <div className="py-12 text-center text-stone-400">
+              <p className="text-lg">No vocabulary highlights for this quote.</p>
             </div>
           )}
-        </div>
+        </section>
       </div>
     </div>
   );

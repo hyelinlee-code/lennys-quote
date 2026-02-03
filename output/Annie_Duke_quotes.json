@@ -21,7 +21,8 @@
     ],
     "text_ko": "의사결정의 질(decision quality)을 높이려면 암묵적인 것(implicit)을 명시적인 것(explicit)으로 드러내는 게 정말 중요해요. 그렇다고 직관(intuition)이 쓸모없다는 건 아니에요 — 직관이 맞을 때도 있어요. 다만 그걸 명시화하지 않으면 언제 틀렸는지 알 수 있는 기회를 얻지 못해요.",
     "text_zh": "想要提升决策质量，最关键的就是把那些模模糊糊的想法说清楚、讲明白。不是说直觉不靠谱，有时候你的直觉确实是对的。但如果你不把它摊开来说，那你永远不知道什么时候它是错的。",
-    "text_es": "Es súper importante para mejorar la calidad de nuestras decisiones sacar a la luz lo que tenemos implícito y hacerlo explícito. No es que la intuición sea una porquería, a veces tu intuición está en lo correcto. Pero si no la haces explícita, entonces nunca te vas a enterar de cuándo está equivocada."
+    "text_es": "Es súper importante para mejorar la calidad de nuestras decisiones sacar a la luz lo que tenemos implícito y hacerlo explícito. No es que la intuición sea una porquería, a veces tu intuición está en lo correcto. Pero si no la haces explícita, entonces nunca te vas a enterar de cuándo está equivocada.",
+    "key_sentence": "Make what's implicit explicit to improve decision quality; intuition isn't always right."
   },
   {
     "text": "People generally think the purpose of a meeting is for three things, discover, discuss, decide. The only thing that's ever supposed to happen in a meeting is the discussion part.",
@@ -42,7 +43,8 @@
     ],
     "text_ko": "사람들은 보통 회의 목적을 발견(discover), 논의(discuss), 결정(decide) 이렇게 세 가지로 보지만, 사실 회의에서 실제로 일어나야 하는 건 논의(discuss)뿐이에요.",
     "text_zh": "大家一般都觉得开会有三个目的：发现问题、讨论问题、做决定。但其实呢，会议上真正应该做的事情就只有讨论这一件事。",
-    "text_es": "La gente generalmente piensa que las reuniones sirven para tres cosas: descubrir, discutir y decidir. Pero en realidad, lo único que debería pasar en una reunión es la parte de discusión."
+    "text_es": "La gente generalmente piensa que las reuniones sirven para tres cosas: descubrir, discutir y decidir. Pero en realidad, lo único que debería pasar en una reunión es la parte de discusión.",
+    "key_sentence": "Meetings should focus solely on discussion, not discovery or decision-making."
   },
   {
     "text": "So a pre-mortem, it's great only if you set up kill criteria. Commit to actions that you're going to take if you see those signals.",
@@ -66,7 +68,8 @@
     ],
     "text_ko": "프리모템(pre-mortem)은 킬 기준(kill criteria)을 미리 정해둬야 효과 있어요. 그런 신호가 보이면 어떤 조치를 취할지 분명히 약속하고 바로 실행해요.",
     "text_zh": "所以事前验尸(pre-mortem)这个方法，只有设定了明确的叫停标准(kill criteria)才真正有用。关键是要提前承诺——一旦看到那些危险信号，就必须采取行动。",
-    "text_es": "Entonces, un pre-mortem solo funciona bien si defines criterios de cancelación. Tienes que comprometerte con las acciones que vas a tomar si ves esas señales."
+    "text_es": "Entonces, un pre-mortem solo funciona bien si defines criterios de cancelación. Tienes que comprometerte con las acciones que vas a tomar si ves esas señales.",
+    "key_sentence": "A pre-mortem is effective only with established kill criteria."
   },
   {
     "text": "There is no such thing as a long feedback loop. And the way you choose to shorten the feedback loop is to say, what are the things that are correlated with the outcome that I eventually desire?",
@@ -89,7 +92,8 @@
     ],
     "text_ko": "긴 피드백 루프(feedback loop)라는 건 없어요. 피드백 루프를 단축하는 방법은 결국 내가 궁극적으로 원하는 결과(outcome)와 연관된 것들이 무엇인지 파악하는 거예요.",
     "text_zh": "根本就没有什么反馈循环(feedback loop)应该很长的道理。你要想缩短这个反馈循环(feedback loop)，就得问自己：哪些东西跟我最终想要的结果是有关联的？",
-    "text_es": "No existe algo así como un ciclo de retroalimentación (feedback loop) largo. Y la forma en que eliges acortar ese ciclo de retroalimentación es preguntándote: ¿cuáles son las cosas que están correlacionadas con el resultado que finalmente quiero lograr?"
+    "text_es": "No existe algo así como un ciclo de retroalimentación (feedback loop) largo. Y la forma en que eliges acortar ese ciclo de retroalimentación es preguntándote: ¿cuáles son las cosas que están correlacionadas con el resultado que finalmente quiero lograr?",
+    "key_sentence": "Shorten the feedback loop by identifying correlated outcomes."
   },
   {
     "text": "He was so humble, he really wanted to hear what you thought. He said, 'I don't know a lot', he would change his mind. It's funny, I got asked in a class that I was teaching about thinking fast and slow and someone was talking about how there's a lot of studies in there that didn't end up replicating.",
@@ -112,7 +116,8 @@
     ],
     "text_ko": "그 사람은 정말 겸손했어요. 당신의 의견을 듣고 싶어 했죠. '나는 많이 알지 못해'라고 하면서 마음을 바꾸기도 했어요. 재밌는 건, 제가 가르치던 수업에서 '빠르게 생각하고 느리게 생각하기'에 대해 이야기할 때, 어떤 사람이 그 안에 있는 많은 연구들이 재현되지 않았다고 언급했어요.",
     "text_zh": "他这个人特别谦虚，是真心想听你的想法。他经常说\"我懂的不多\"，而且很愿意改变自己的观点。有意思的是，我在讲《思考，快与慢》(Thinking, Fast and Slow)那门课的时候，有学生问到这本书里提到的很多研究后来都没能重现出来。",
-    "text_es": "Era súper humilde, de verdad quería escuchar lo que pensabas. Decía 'No sé mucho', y podía cambiar de opinión sin problema. Es curioso, me preguntaron en una clase que estaba dando sobre pensar rápido y despacio (thinking fast and slow) y alguien comentó que había muchos estudios ahí que al final no se pudieron replicar."
+    "text_es": "Era súper humilde, de verdad quería escuchar lo que pensabas. Decía 'No sé mucho', y podía cambiar de opinión sin problema. Es curioso, me preguntaron en una clase que estaba dando sobre pensar rápido y despacio (thinking fast and slow) y alguien comentó que había muchos estudios ahí que al final no se pudieron replicar.",
+    "key_sentence": "Some studies in thinking fast and slow didn't end up replicating."
   },
   {
     "text": "But the thing about Danny was when you talked about it, he was the first one to tell you, 'I wish priming wasn't in the book. It doesn't replicate.' He was just so open-minded to the idea that he knows what he knows now, but he knows that he doesn't know everything.",
@@ -136,7 +141,8 @@
     ],
     "text_ko": "근데 대니에 대해 말하자면, 그 얘기가 나오면 제일 먼저 “프라이밍(priming)은 책에 안 넣었으면 좋았을 텐데. 재현(replicate)이 안 돼요.”라고 말해주던 사람이었어요. 그는 지금 자기가 아는 건 알고 있지만, 모든 걸 아는 건 아니라고 인정하는 데 아주 열린 마음을 가진 사람이었어요.",
     "text_zh": "但是丹尼这个人就是这样，你要是跟他聊起这个话题，他第一个就会告诉你：\"我真希望当初没把启动效应(priming)写进书里，这个实验根本重现不了。\" 他就是这么开放的心态，知道自己现在懂什么，但也清楚自己不是什么都懂。",
-    "text_es": "Pero lo que pasaba con Danny es que cuando hablabas del tema, él era el primero en decirte: \"Ojalá no hubiera incluido lo del priming en el libro. No se puede replicar.\" Tenía una mentalidad súper abierta, sabía lo que sabía en ese momento, pero también sabía que no lo sabía todo."
+    "text_es": "Pero lo que pasaba con Danny es que cuando hablabas del tema, él era el primero en decirte: \"Ojalá no hubiera incluido lo del priming en el libro. No se puede replicar.\" Tenía una mentalidad súper abierta, sabía lo que sabía en ese momento, pero también sabía que no lo sabía todo.",
+    "key_sentence": "Danny was open-minded, acknowledging that priming doesn't replicate."
   },
   {
     "text": "I think the answer is a lot with a big if, with an if you can get people to do it. And I think that's where the issue comes in. Now, the good news is that you can then reverse that and say if I'm willing to do it, think about what an edge I'm going to have over people who aren't willing to do it, right?",
@@ -160,6 +166,7 @@
     ],
     "text_ko": "제 생각엔 가능성이 큰데, 다만 큰 '만약' 하나가 있어요 — 사람들을 그걸 하게 만들 수 있느냐는 조건이요. 그게 바로 문제가 되는 부분이라고 생각해요. 다행인 건, 관점을 바꿔서 내가 기꺼이 한다면 하지 않으려는 사람들에 비해 어떤 경쟁 우위(competitive edge)를 가지게 될지 생각해 볼 수 있다는 거예요, 그렇죠?",
     "text_zh": "我觉得答案是肯定的，但有个大前提，就是你得能让大家都去做这件事。我觉得问题就出在这儿。不过好消息是，你可以反过来想，如果我愿意去做，想想看我会比那些不愿意做的人有多大优势，对吧？",
-    "text_es": "Creo que la respuesta es \"muchísimo, pero con un gran 'si'\", con un \"si logras que la gente lo haga\". Y creo que ahí está el problema. Ahora, lo bueno es que puedes darle la vuelta y decir: si yo estoy dispuesto a hacerlo, imagínate la ventaja que voy a tener sobre los que no están dispuestos a hacerlo, ¿no?"
+    "text_es": "Creo que la respuesta es \"muchísimo, pero con un gran 'si'\", con un \"si logras que la gente lo haga\". Y creo que ahí está el problema. Ahora, lo bueno es que puedes darle la vuelta y decir: si yo estoy dispuesto a hacerlo, imagínate la ventaja que voy a tener sobre los que no están dispuestos a hacerlo, ¿no?",
+    "key_sentence": "Willing to do it gives you what an edge over those who aren't."
   }
 ]

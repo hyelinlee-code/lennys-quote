@@ -19,7 +19,8 @@
     ],
     "text_ko": "AI 가드레일(guardrails)은 작동하지 않아요. 한 번 더 말할게요. 가드레일은 작동하지 않아요. 누군가가 GPT-5를 속이려고 결심만 한다면, 그 가드레일을 금방 돌파할 거예요. 아무 문제도 아니에요. 이런 가드레일 제공자들이 \"우리는 모든 걸 잡아낸다\"라고 말할 때, 그건 완전한 거짓말이에요.",
     "text_zh": "AI的安全防护根本不管用。我再说一遍，这些防护措施压根就不起作用。如果有人铁了心要绕过GPT-5的限制，那些guardrail对他们来说就是小菜一碟。那些做安全防护的厂商说\"我们能拦截所有问题\"，这纯粹是在忽悠人。",
-    "text_es": "Las barreras de seguridad de la IA no funcionan. Lo voy a decir una vez más. Las barreras de seguridad no funcionan. Si alguien está lo suficientemente decidido a engañar a GPT-5, va a sortear esa barrera sin problema alguno. Cuando estos proveedores de barreras de seguridad (guardrails) dicen \"Lo detectamos todo\", es una mentira completa."
+    "text_es": "Las barreras de seguridad de la IA no funcionan. Lo voy a decir una vez más. Las barreras de seguridad no funcionan. Si alguien está lo suficientemente decidido a engañar a GPT-5, va a sortear esa barrera sin problema alguno. Cuando estos proveedores de barreras de seguridad (guardrails) dicen \"Lo detectamos todo\", es una mentira completa.",
+    "key_sentence": "Guardrails do not work; claiming they catch everything is a complete lie."
   },
   {
     "text": "You can patch a bug, but you can't patch a brain. If you find some bug in your software and you go and patch it, you can be maybe 99.99% sure that bug is solved. Try to do that in your AI system. You can be 99.99% sure that the problem is still there.",
@@ -41,7 +42,8 @@
     ],
     "text_ko": "버그(bug)는 패치(patch)할 수 있지만, 두뇌(brain)는 패치할 수 없어요. 소프트웨어(software)에서 버그를 찾아 패치하면 그 버그가 거의 99.99% 해결됐다고 확신할 수 있어요. 그런데 그걸 AI 시스템(AI system)에 적용해 보세요 — 패치해도 문제가 여전히 99.99% 남아 있을 가능성이 높아요.",
     "text_zh": "软件有bug你可以打个补丁修复，但是AI的\"大脑\"可不是说补就能补的。软件出了问题，你打个补丁，基本上99.99%能确定这个bug就解决了。但AI系统就不一样了，你以为修好了，其实99.99%的情况下问题还在那儿呢。",
-    "text_es": "Puedes parchear un bug, pero no puedes parchear un cerebro. Si encuentras algún error en tu software y lo vas a parchear, puedes estar tal vez 99.99% seguro de que ese bug está resuelto. Ahora trata de hacer eso mismo con tu sistema de IA. Puedes estar 99.99% seguro de que el problema sigue ahí."
+    "text_es": "Puedes parchear un bug, pero no puedes parchear un cerebro. Si encuentras algún error en tu software y lo vas a parchear, puedes estar tal vez 99.99% seguro de que ese bug está resuelto. Ahora trata de hacer eso mismo con tu sistema de IA. Puedes estar 99.99% seguro de que el problema sigue ahí.",
+    "key_sentence": "You can patch a bug, but you can't patch a brain with 99.99% surety."
   },
   {
     "text": "I found through running these events is that they are terribly, terribly insecure and frankly, they don't work. They just don't work.",
@@ -63,7 +65,8 @@
     ],
     "text_ko": "제가 이런 이벤트들을 직접 운영해 보면서 알게 된 건, 정말 심각하게 불안정하고 솔직히 말해서 제대로 작동하지 않는다는 거예요. 그냥 안 돼요.",
     "text_zh": "我办这些活动下来发现，效果真的是很不稳定，说白了就是不管用。就是不行。",
-    "text_es": "Lo que descubrí organizando estos eventos es que son terriblemente, pero terriblemente inseguros y, siendo honestos, simplemente no funcionan. No funcionan y ya."
+    "text_es": "Lo que descubrí organizando estos eventos es que son terriblemente, pero terriblemente inseguros y, siendo honestos, simplemente no funcionan. No funcionan y ya.",
+    "key_sentence": "These events are terribly, terribly insecure and frankly, they don't work."
   },
   {
     "text": "The number of possible attacks against another LLM is equivalent to the number of possible prompts. Each possible prompt could be an attack. And for a model like GPT-5, the number of possible attacks is one followed by a million zeros.",
@@ -85,7 +88,8 @@
     ],
     "text_ko": "다른 대형 언어 모델(LLM)을 겨냥한 가능한 공격의 수는 가능한 프롬프트(prompt)의 수와 똑같아요. 가능한 각 프롬프트가 공격이 될 수 있고, GPT-5 같은 모델에서는 그 수가 1 뒤에 0이 백만 개나 붙는 엄청난 수예요.",
     "text_zh": "对另一个LLM的潜在攻击数量，基本上就等于可能的提示词(prompt)数量。每个提示词都有可能成为攻击手段。像GPT-5这种模型，可能的攻击方式简直是天文数字，后面得跟上百万个零。",
-    "text_es": "El número de posibles ataques contra otro modelo de lenguaje (LLM) es equivalente al número de prompts posibles. Cualquier prompt podría ser un ataque. Y para un modelo como GPT-5, estamos hablando de un número de ataques posibles que es un uno seguido de un millón de ceros."
+    "text_es": "El número de posibles ataques contra otro modelo de lenguaje (LLM) es equivalente al número de prompts posibles. Cualquier prompt podría ser un ataque. Y para un modelo como GPT-5, estamos hablando de un número de ataques posibles que es un uno seguido de un millón de ceros.",
+    "key_sentence": "The number of possible attacks is equivalent to one followed by a million zeros."
   },
   {
     "text": "The smartest artificial intelligence researchers in the world are working at Frontier Labs like OpenAI, Google, Anthropic. They can't solve this problem. They haven't been able to solve this problem in the last couple years of large language models being popular.",
@@ -107,7 +111,8 @@
     ],
     "text_ko": "세계에서 가장 똑똑한 인공지능 연구자들이 OpenAI, Google, Anthropic 같은 최첨단 연구소에서 일하고 있어요. 그런데 그들도 이 문제를 못 풀고 있어요. 대규모 언어 모델(large language models)이 인기 있었던 지난 몇 년 동안에도 해결하지 못했어요.",
     "text_zh": "全世界最顶尖的AI研究人员都在那些前沿实验室工作，比如OpenAI、谷歌、Anthropic这些公司。连他们都搞不定这个问题。大语言模型(large language models)火了这么几年，他们到现在还是没能解决这个问题。",
-    "text_es": "Los investigadores de inteligencia artificial más brillantes del mundo están trabajando en laboratorios de vanguardia como OpenAI, Google, Anthropic. Y no han podido resolver este problema. En estos últimos años, con todo el boom de los modelos de lenguaje grandes (large language models), siguen sin encontrarle la vuelta."
+    "text_es": "Los investigadores de inteligencia artificial más brillantes del mundo están trabajando en laboratorios de vanguardia como OpenAI, Google, Anthropic. Y no han podido resolver este problema. En estos últimos años, con todo el boom de los modelos de lenguaje grandes (large language models), siguen sin encontrarle la vuelta.",
+    "key_sentence": "Frontier Labs researchers can't solve this problem with large language models."
   },
   {
     "text": "There's not an incredible amount of value in just doing AI red teaming. And I suppose there'll be... I don't know if I want to say that. It's possible that there will be less value in just doing classical cybersecurity work. But where those two meet is, it's just going to be a job of great, great importance.",
@@ -130,6 +135,7 @@
     ],
     "text_ko": "AI 레드팀(AI red teaming)만으로는 큰 가치가 나오지 않아요. 그리고... 굳이 말해야 할지 모르겠지만, 어쩌면 기존 사이버보안 업무(classical cybersecurity work)만으로도 가치는 줄어들 수 있어요. 하지만 그 둘이 만나는 지점은 정말, 정말 중요한 일이 될 거예요.",
     "text_zh": "光做AI红队测试(red teaming)其实价值没那么大。我觉得可能... 我不知道该不该这么说。可能单纯做传统的网络安全工作价值也会变小。但是这两个领域的交汇点，那绝对是个超级重要的岗位。",
-    "text_es": "No hay un valor increíble en simplemente hacer red teaming de IA. Y supongo que habrá... no sé si quiero decir esto. Es posible que haya menos valor en solo hacer trabajo clásico de ciberseguridad. Pero donde se juntan esas dos cosas, ahí va a estar un trabajo de grandísima importancia."
+    "text_es": "No hay un valor increíble en simplemente hacer red teaming de IA. Y supongo que habrá... no sé si quiero decir esto. Es posible que haya menos valor en solo hacer trabajo clásico de ciberseguridad. Pero donde se juntan esas dos cosas, ahí va a estar un trabajo de grandísima importancia.",
+    "key_sentence": "There's not an incredible amount of value in just doing AI red teaming."
   }
 ]

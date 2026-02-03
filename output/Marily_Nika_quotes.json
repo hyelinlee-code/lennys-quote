@@ -24,7 +24,8 @@
     ],
     "text_ko": "샤이니 오브젝트 트랩(shiny object trap)이라는 게 있는데요, 저는 항상 사람들에게 \"그냥 한다고 해서 AI를 도입하지 마세요\"라고 말해요. 실제로 해결해야 할 문제가 있는지, 그리고 똑똑하게 해결해야 할 페인 포인트(pain point)가 있는지 꼭 확인하세요. 그 문제와 아주 높은 수준의 해결책(high-level solution)이 무엇인지 파악한 다음에는, 실제로 어떻게 구현할지 찾아보고 시도해 보세요.",
     "text_zh": "有个东西叫\"闪亮物体陷阱\"(shiny object trap)，我总是跟大家说，\"嘿，别为了做AI而做AI。\"你得确保那里真的有问题存在，确保有个痛点需要用巧妙的方式来解决。一旦你搞清楚问题是什么，以及大方向的解决方案是什么，然后再去琢磨具体怎么落地实施。",
-    "text_es": "Existe algo que se llama la trampa del objeto brillante (shiny object trap), y siempre les digo a las empresas: \"Oigan, no hagan IA solo por hacer IA.\" Asegúrense de que realmente haya un problema ahí. Asegúrense de que exista un punto de dolor (pain point) que necesite resolverse de manera inteligente. Una vez que hayan identificado cuál es ese problema y cuál es esa solución a muy alto nivel, entonces sí, acérquense y traten de encontrar cómo implementarla realmente."
+    "text_es": "Existe algo que se llama la trampa del objeto brillante (shiny object trap), y siempre les digo a las empresas: \"Oigan, no hagan IA solo por hacer IA.\" Asegúrense de que realmente haya un problema ahí. Asegúrense de que exista un punto de dolor (pain point) que necesite resolverse de manera inteligente. Una vez que hayan identificado cuál es ese problema y cuál es esa solución a muy alto nivel, entonces sí, acérquense y traten de encontrar cómo implementarla realmente.",
+    "key_sentence": "Avoid the shiny object trap; solve a pain point with a high-level solution."
   },
   {
     "text": "I believe that all product managers will be AI product managers in the future. And this is because we see all products needing to have a personalized experience, a recommender system that is actually good. I mean you cannot watch Netflix, you cannot even watch a movie without needing that. After you watch White Lotus or Stranger Things, you will want something similar to watch. You're not going to want a romantic thing to be suggested or recommended to you.",
@@ -48,7 +49,8 @@
     ],
     "text_ko": "앞으로 모든 프로덕트 매니저들이 AI 프로덕트 매니저(AI product managers)가 될 거라고 생각해요. 그 이유는 모든 제품이 개인화된 경험(personalized experience)을 제공해야 하고, 정말 잘 작동하는 추천 시스템(recommender system)이 필요해지는 걸 보았기 때문이에요. 제 말은 넷플릭스 같은 서비스를 볼 때 그게 없으면 영화를 보기 힘들어요. 'White Lotus'나 'Stranger Things'를 본 뒤에는 비슷한 걸 보고 싶을 텐데, 로맨스물이 추천되는 걸 원하지 않잖아요.",
     "text_zh": "我觉得以后所有的产品经理都会变成AI产品经理。为什么这么说呢？因为现在所有产品都需要个性化体验，需要一个真正好用的推荐系统(recommender system)。就拿看Netflix来说吧，现在你想看个电影都离不开推荐算法。比如你刚看完《白莲花度假村》或者《怪奇物语》，肯定想看点类似的内容对吧？这时候系统要是给你推荐爱情片，你肯定不乐意啊。",
-    "text_es": "Creo que todos los product managers van a ser product managers de IA en el futuro. Y esto es porque vemos que todos los productos necesitan tener una experiencia personalizada, un sistema de recomendaciones que realmente funcione bien. O sea, no puedes ver Netflix, ni siquiera puedes ver una película sin necesitar eso. Después de que veas White Lotus o Stranger Things, vas a querer ver algo parecido. No vas a querer que te sugieran o recomienden algo romántico."
+    "text_es": "Creo que todos los product managers van a ser product managers de IA en el futuro. Y esto es porque vemos que todos los productos necesitan tener una experiencia personalizada, un sistema de recomendaciones que realmente funcione bien. O sea, no puedes ver Netflix, ni siquiera puedes ver una película sin necesitar eso. Después de que veas White Lotus o Stranger Things, vas a querer ver algo parecido. No vas a querer que te sugieran o recomienden algo romántico.",
+    "key_sentence": "All products will need a personalized experience and a good recommender system."
   },
   {
     "text": "Don't do it for your MVP. It makes zero sense. Do not waste time of data scientists that can train models using powerful machines that are going take weeks to train. This is because if you have an MVP and you just want to get buy-in for an idea or feature that may use AI in the future, fake it, create a little Figma prototype and just show it to some users, just fake what the AI is going to be doing.",
@@ -75,7 +77,8 @@
     ],
     "text_ko": "MVP를 위해 그렇게 하지 마세요. 전혀 의미가 없어요. 강력한 머신을 이용해 모델을 훈련할 수 있는 데이터 과학자들의 시간을 낭비하지 마세요. 훈련하는 데 몇 주가 걸릴 수 있거든요. 만약 MVP가 있고, 단순히 아이디어나 기능에 대한 동의를 얻고 싶다면, 그냥 Figma 프로토타입 같은 걸 만들어서 몇몇 사용자에게 보여주면 돼요. AI가 할 것처럼 보이게 살짝 꾸며서 보여주는 거죠.",
     "text_zh": "MVP阶段千万别这么干，完全没意义。别浪费数据科学家的时间让他们用高配机器训练模型，那种训练一跑就是好几周。因为如果你只是做MVP，就是想让大家认可一个想法或者功能，以后可能会用到AI，那就直接造假呗，做个Figma原型出来给用户看看，把AI要做的事情模拟一下就行了。",
-    "text_es": "No lo hagas para tu MVP. No tiene ningún sentido. No desperdicies el tiempo de los científicos de datos que pueden entrenar modelos usando máquinas potentes que van a tardar semanas en entrenar. Esto es porque si tienes un MVP y solo quieres conseguir apoyo para una idea o funcionalidad que tal vez use IA en el futuro, simúlalo, crea un prototipito en Figma y simplemente muéstraselo a algunos usuarios, solo simula lo que va a hacer la IA."
+    "text_es": "No lo hagas para tu MVP. No tiene ningún sentido. No desperdicies el tiempo de los científicos de datos que pueden entrenar modelos usando máquinas potentes que van a tardar semanas en entrenar. Esto es porque si tienes un MVP y solo quieres conseguir apoyo para una idea o funcionalidad que tal vez use IA en el futuro, simúlalo, crea un prototipito en Figma y simplemente muéstraselo a algunos usuarios, solo simula lo que va a hacer la IA.",
+    "key_sentence": "Don't waste time on MVP; fake it with mock-ups to get buy-in."
   },
   {
     "text": "So I have a three-year-old girl and I'm teaching her about life and everything. So I was recently teaching her about the animals and you explain things to her once or twice, what a mammal is or rhino and so on. But you will end up training your kid's brain by repeating the same information again. So you will say, 'Hey, here's what the rhino looks like, here's what an elephant looks like,' and once you've done this enough times, then your kid will see an animal on the street and they'll be able to recognize and say, 'Oh yeah, that's like rhino we're talking about.' This is exactly what a model is.",
@@ -99,7 +102,8 @@
     ],
     "text_ko": "제가 세 살 된 딸이 있어요. 그 아이한테 삶과 이런저런 걸 가르치고 있는데요, 얼마 전엔 동물에 대해 알려주고 있었어요. 포유류가 뭔지, 코뿔소가 어떤 동물인지 한두 번 설명해 주면 되는데요, 같은 정보를 반복해서 알려주다 보면 결국 아이의 뇌를 훈련시키게 돼요. 예를 들어 '코뿔소는 이렇게 생겼고, 코끼리는 이렇게 생겼어' 하고 자꾸 보여주면, 나중에 길에서 동물을 보면 '아, 아까 말한 코뿔소랑 비슷하네' 하고 알아보게 되는 거예요. 이게 바로 모델(model)이에요.",
     "text_zh": "我有个三岁的女儿，平时教她认识这个世界的各种东西。最近在教她认动物，你跟她解释一两遍什么是哺乳动物啊、犀牛长什么样啊这些。但是你得不断重复同样的信息，这样才能训练孩子的大脑。你会说\"来，犀牛长这样，大象长那样\"，重复多了以后，你孩子在街上看到动物就能认出来，会说\"哎呀，这就是我们说的那个犀牛！\"这就是模型(model)的工作原理。",
-    "text_es": "Mira, tengo una niña de tres años y le estoy enseñando sobre la vida y todo eso. Hace poco le estaba enseñando sobre los animales y le explicas las cosas una o dos veces, qué es un mamífero o un rinoceronte y todo eso. Pero terminas entrenando el cerebro de tu hijo repitiendo la misma información una y otra vez. Entonces le dices: \"Mira, así se ve un rinoceronte, así se ve un elefante\", y una vez que has hecho esto suficientes veces, entonces tu hijo ve un animal en la calle y puede reconocerlo y decir: \"Ah sí, eso es como el rinoceronte del que estábamos hablando\". Esto es exactamente lo que es un modelo."
+    "text_es": "Mira, tengo una niña de tres años y le estoy enseñando sobre la vida y todo eso. Hace poco le estaba enseñando sobre los animales y le explicas las cosas una o dos veces, qué es un mamífero o un rinoceronte y todo eso. Pero terminas entrenando el cerebro de tu hijo repitiendo la misma información una y otra vez. Entonces le dices: \"Mira, así se ve un rinoceronte, así se ve un elefante\", y una vez que has hecho esto suficientes veces, entonces tu hijo ve un animal en la calle y puede reconocerlo y decir: \"Ah sí, eso es como el rinoceronte del que estábamos hablando\". Esto es exactamente lo que es un modelo.",
+    "key_sentence": "Training your kid's brain involves repeating the same information for recognition."
   },
   {
     "text": "I'd like to see people being less overwhelmed, less intimidated, less afraid to start learning how to code, how to train a little model on their own. This is because even if ChatGPT or these no-code applications may be able to do this for us, it gives you a different approach, a different mindset, a different confidence to know how things work.",
@@ -124,7 +128,8 @@
     ],
     "text_ko": "사람들이 코딩(coding)을 배우기 시작할 때 덜 압도당하고, 덜 위축되고, 덜 두려워했으면 해요. 자신이 직접 작은 모델을 훈련시키는 법(train a little model on their own)도 마찬가지예요. 설령 ChatGPT(ChatGPT)나 이런 노코드 애플리케이션(no-code applications)이 우리 대신 해줄 수 있다 해도, 스스로 어떻게 작동하는지 아는 건 다른 접근 방식과 다른 사고방식, 그리고 자신감을 줘요.",
     "text_zh": "我希望大家不要被编程吓到，不要觉得压力山大，也别害怕开始学写代码，或者自己训练个小模型什么的。虽然ChatGPT或者那些无代码(no-code)工具可能都能帮我们搞定这些事儿，但你自己会了就不一样了，思维方式会变，做事的信心也会不同，因为你知道这些东西到底是怎么运作的。",
-    "text_es": "Me gustaría ver que la gente se sienta menos abrumada, menos intimidada, que tenga menos miedo de empezar a aprender a programar o a entrenar un pequeño modelo por su cuenta. Esto es porque aunque ChatGPT o estas aplicaciones sin código (no-code) puedan hacerlo por nosotros, te da un enfoque diferente, una mentalidad distinta, otra confianza al saber cómo funcionan las cosas por dentro."
+    "text_es": "Me gustaría ver que la gente se sienta menos abrumada, menos intimidada, que tenga menos miedo de empezar a aprender a programar o a entrenar un pequeño modelo por su cuenta. Esto es porque aunque ChatGPT o estas aplicaciones sin código (no-code) puedan hacerlo por nosotros, te da un enfoque diferente, una mentalidad distinta, otra confianza al saber cómo funcionan las cosas por dentro.",
+    "key_sentence": "Be less intimidated; no-code applications offer a different mindset for learning."
   },
   {
     "text": "What I feel people should understand is what it takes to manage an AI product. Of course people are very familiar with the stages of product development in general, but AI product development is different. As I mentioned before, sometimes you're actually managing the problem and not the product and you're trying to scope out if there is a problem that makes sense to be answered by a smart solution.",
@@ -149,7 +154,8 @@
     ],
     "text_ko": "제가 사람들이 알았으면 하는 건 AI 제품(AI product)을 관리하려면 어떤 일이 필요한지예요. 물론 일반적인 제품 개발(product development) 단계는 익숙하실 텐데, AI 제품 개발은 달라요. 앞서 말했듯이 때로는 제품 자체를 관리하는 게 아니라 문제를 관리하게 되고, 그 문제가 스마트한 솔루션(smart solution)으로 의미 있게 답할 수 있는지 범위를 정하는(스코핑(scoping)) 작업을 하게 돼요.",
     "text_zh": "我觉得大家应该明白的是，管理AI产品到底需要什么。当然了，大家对一般的产品开发流程都很熟悉，但AI产品开发就不一样了。就像我之前说的，有时候你其实是在管理问题本身，而不是管理产品，你要搞清楚这个问题是不是真的需要用智能化的方案来解决。",
-    "text_es": "Lo que creo que la gente debería entender es lo que implica gestionar un producto de IA. Claro, todos conocemos bien las etapas del desarrollo de productos en general, pero el desarrollo de productos de IA es otra cosa. Como mencioné antes, a veces en realidad estás gestionando el problema y no el producto, y estás tratando de definir si hay un problema que tenga sentido resolver con una solución inteligente."
+    "text_es": "Lo que creo que la gente debería entender es lo que implica gestionar un producto de IA. Claro, todos conocemos bien las etapas del desarrollo de productos en general, pero el desarrollo de productos de IA es otra cosa. Como mencioné antes, a veces en realidad estás gestionando el problema y no el producto, y estás tratando de definir si hay un problema que tenga sentido resolver con una solución inteligente.",
+    "key_sentence": "AI product development requires scoping out problems for smart solutions."
   },
   {
     "text": "You may have been working on all of these incredible research and ideas and hypotheses, but then when you actually train the model, the results you may be getting may not be optimal, may not be answering the questions or the hypothesis that you actually had in mind. So that's number one. You need to be able to encourage the teams throughout this process because you're like the captain of the ship, you need to be the one that's cheerleading the team, making sure everyone keeps going.",
@@ -174,6 +180,7 @@
     ],
     "text_ko": "멋진 연구와 아이디어, 여러 가설들(hypotheses)을 쌓아왔을 수 있어요. 그런데 실제로 모델을 학습시켜볼 때(train the model)는 기대만큼 성과가 안 나거나, 원래 의도했던 질문이나 가설에 답하지 못하는 경우가 있어요. 이게 첫 번째로 짚어야 할 점이에요. 그리고 이 과정 전체에서 팀을 계속 격려해야 해요. 당신은 배의 선장 같은 위치라서 팀의 치어리더 역할(cheerleading)을 하면서 모두가 멈추지 않고 계속 나아가도록 챙겨야 해요.",
     "text_zh": "你可能已经做了很多很棒的研究，有很多想法和假设，但是等你真正开始训练模型的时候，得出来的结果可能不太理想，可能根本回答不了你原本想解决的问题，或者验证不了你的假设。这是第一点。在这整个过程中，你得给团队打气加油，因为你就像船长一样，你得当啦啦队长，确保大家都能坚持下去。",
-    "text_es": "Puede que hayas estado trabajando en todas estas investigaciones increíbles, ideas e hipótesis, pero luego cuando realmente entrenas el modelo, los resultados que obtienes pueden no ser los óptimos, pueden no estar respondiendo las preguntas o la hipótesis que tenías en mente. Entonces ese es el punto número uno. Tienes que poder motivar a los equipos durante todo este proceso porque eres como el capitán del barco, tienes que ser el que anime al equipo, asegurándote de que todos sigan adelante."
+    "text_es": "Puede que hayas estado trabajando en todas estas investigaciones increíbles, ideas e hipótesis, pero luego cuando realmente entrenas el modelo, los resultados que obtienes pueden no ser los óptimos, pueden no estar respondiendo las preguntas o la hipótesis que tenías en mente. Entonces ese es el punto número uno. Tienes que poder motivar a los equipos durante todo este proceso porque eres como el capitán del barco, tienes que ser el que anime al equipo, asegurándote de que todos sigan adelante.",
+    "key_sentence": "Model training results may not be optimal; cheerleading the team is essential."
   }
 ]

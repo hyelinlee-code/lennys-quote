@@ -22,7 +22,8 @@
     ],
     "text_ko": "솔직히 스타트업이라면 기술 부채(technical debt)를 어느 정도 감수하는 게 일이에요. 그게 더 큰 회사보다 빨리 움직일 수 있는 방법이거든요. 큰 회사들은 보통 기술 부채를 안 떠안고 바로 갚아버리거나, 예전 스타트업 시절에 쌓인 기술 부채를 지금 갚고 있는 경우가 많아요.",
     "text_zh": "我觉得作为创业公司，你就应该承担技术债务(technical debt)，因为这样你才能比大公司跑得更快。大公司不会承担技术债务，他们通常马上就把债还了，要么就是在还他们创业时期欠下的技术债务。",
-    "text_es": "En realidad creo que como startup tu trabajo es asumir deuda técnica (technical debt) porque así es como puedes operar más rápido que una empresa grande. Las empresas grandes no asumen deuda técnica, la pagan inmediatamente por lo general, o están pagando la deuda técnica de cuando eran startups."
+    "text_es": "En realidad creo que como startup tu trabajo es asumir deuda técnica (technical debt) porque así es como puedes operar más rápido que una empresa grande. Las empresas grandes no asumen deuda técnica, la pagan inmediatamente por lo general, o están pagando la deuda técnica de cuando eran startups.",
+    "key_sentence": "Startups take on technical debt to operate faster than bigger companies."
   },
   {
     "text": "We have what we think of as the public roadmap. This is basically what people have asked us for. There's all these surface areas where we receive user feedback, but these are all features that every competitor knows about. If a user is asking us for it, they're asking everybody for it. It's not going to be a game changer in terms of winning against your competition. So we have a second roadmap which we think of as a secret roadmap.",
@@ -47,7 +48,8 @@
     ],
     "text_ko": "저희에겐 공개 로드맵(public roadmap)이 있어요. 기본적으로 사람들이 요청해온 것들이고, 사용자 피드백(user feedback)이 들어오는 겉으로 드러나는 여러 영역(surface areas)이 있는데 그런 기능들은 사실 모든 경쟁사(competitors)가 다 알고 있어요. 사용자가 우리한테 요청하는 건 결국 다들 똑같이 요청하는 거라 경쟁에서 판도를 바꿀 결정적 요소(game changer)는 되지 못해요. 그래서 저희는 비공개 로드맵(secret roadmap)도 따로 갖고 있어요.",
     "text_zh": "我们有一个公开路线图，基本上就是用户要求我们做的那些功能。我们有很多渠道收集用户反馈，但这些功能每个竞争对手都知道。用户跟我们提的需求，肯定也会跟其他家提。光做这些是没法在竞争中脱颖而出的，不会成为制胜法宝。所以我们还有第二个路线图，我们叫它秘密路线图。",
-    "text_es": "Tenemos lo que llamamos el roadmap público. Básicamente es lo que la gente nos ha pedido. Hay un montón de puntos donde recibimos feedback de usuarios, pero todas estas son funcionalidades que todos los competidores ya conocen. Si un usuario nos lo está pidiendo a nosotros, se lo está pidiendo a todo el mundo. No va a ser algo que cambie las reglas del juego para ganarle a tu competencia. Entonces tenemos un segundo roadmap que consideramos nuestro roadmap secreto."
+    "text_es": "Tenemos lo que llamamos el roadmap público. Básicamente es lo que la gente nos ha pedido. Hay un montón de puntos donde recibimos feedback de usuarios, pero todas estas son funcionalidades que todos los competidores ya conocen. Si un usuario nos lo está pidiendo a nosotros, se lo está pidiendo a todo el mundo. No va a ser algo que cambie las reglas del juego para ganarle a tu competencia. Entonces tenemos un segundo roadmap que consideramos nuestro roadmap secreto.",
+    "key_sentence": "User feedback features aren't game changers against competition."
   },
   {
     "text": "He surrounded himself with the design team. That was sort of the central team in the company. And the design team was like 10, 12 people. Basically, pretty small, even at 5, 6,000 employees it was that small still. These weren't your sort of average designers. These were designers who were actually PMs as well. That's what the secret sauce was.",
@@ -72,7 +74,8 @@
     ],
     "text_ko": "그는 디자인 팀을 곁에 두었어요. 그 팀이 회사에서 사실상 중심 팀 같은 역할이었어요. 디자인 팀은 대략 10명에서 12명 정도였고, 직원 수가 5천, 6천 명이 돼도 여전히 그 정도로 작았어요. 이건 평범한 디자이너들이 아니라 실제로 프로덕트 매니저(PM)이기도 한 디자이너들이었어요. 그게 바로 핵심 비결(secret sauce)이었어요.",
     "text_zh": "他身边都是设计团队的人，这个团队算是公司的核心。设计团队也就10个、12个人，规模挺小的，就算公司有五六千员工了，设计团队还是那么点人。这些可不是一般的设计师，他们同时也是产品经理(PM)，这就是他们的杀手锏。",
-    "text_es": "Se rodeó del equipo de diseño. Ese era como el equipo central de la empresa. Y el equipo de diseño eran unas 10, 12 personas. Básicamente, bastante pequeño, incluso con 5 o 6 mil empleados seguía siendo así de chico. Estos no eran diseñadores comunes y corrientes. Eran diseñadores que también funcionaban como PMs (product managers). Ahí estaba la salsa secreta."
+    "text_es": "Se rodeó del equipo de diseño. Ese era como el equipo central de la empresa. Y el equipo de diseño eran unas 10, 12 personas. Básicamente, bastante pequeño, incluso con 5 o 6 mil empleados seguía siendo así de chico. Estos no eran diseñadores comunes y corrientes. Eran diseñadores que también funcionaban como PMs (product managers). Ahí estaba la salsa secreta.",
+    "key_sentence": "He surrounded himself with a small, exceptional design team; that's the secret sauce."
   },
   {
     "text": "One of the insights that we had, which was unique was as the company gets bigger, you can actually create alignment by causing internal virality. If there's enough people in the company, it actually starts acting like a consumer base might. If you share something interesting with someone, they will share it with somebody else because they think it's interesting and you can actually create virality inside a company.",
@@ -97,7 +100,8 @@
     ],
     "text_ko": "우리가 얻은 독특한 통찰 중 하나는, 회사가 커질수록 내부 확산(internal virality)을 통해 자연스럽게 방향이 맞춰진다는 거예요. 직원 수가 충분히 많아지면 회사가 소비자층(consumer base)처럼 행동하기 시작해요. 누군가에게 흥미로운 걸 공유하면 그 사람이 흥미를 느껴 다른 사람에게 또 공유하고, 회사 내부에서 바이럴(virality)이 생겨요.",
     "text_zh": "我们有个挺独特的发现，就是公司越做越大的时候，你其实可以通过内部的病毒式传播(internal virality)来让大家步调一致。如果公司人够多的话，其实就跟消费者群体差不多了。你跟别人分享个有意思的东西，他们觉得确实不错，就会再传给其他人，这样在公司内部就能形成病毒式传播(virality)的效果。",
-    "text_es": "Una de las cosas que descubrimos, y que fue algo único, es que cuando la empresa crece, en realidad puedes crear alineación generando viralidad interna. Si hay suficiente gente en la compañía, empieza a comportarse como si fuera una base de consumidores. Si compartes algo interesante con alguien, esa persona se lo va a compartir a otra porque le parece interesante, y así puedes crear viralidad dentro de la empresa."
+    "text_es": "Una de las cosas que descubrimos, y que fue algo único, es que cuando la empresa crece, en realidad puedes crear alineación generando viralidad interna. Si hay suficiente gente en la compañía, empieza a comportarse como si fuera una base de consumidores. Si compartes algo interesante con alguien, esa persona se lo va a compartir a otra porque le parece interesante, y así puedes crear viralidad dentro de la empresa.",
+    "key_sentence": "Create internal virality to align a growing company like a consumer base."
   },
   {
     "text": "I think PM is a very valuable function. I think it may be actually, and maybe I'll get roasted for this, but I think at the end of the day, not hiring PMs at Snap might've been one of those decisions where it actually succeeded despite that and because someone needs to do that work. If you don't have enough people to do it, then nobody truly owns it and then it doesn't really happen.",
@@ -122,7 +126,8 @@
     ],
     "text_ko": "저는 프로덕트 매니저(PM)가 정말 가치 있는 역할이라고 생각해요. 이 얘기 때문에 까일 수도 있지만, 솔직히 말하면 스냅에서 PM을 안 뽑은 결정이 오히려 잘된 선택이었을 수도 있다고 봐요. 결국 그 일을 누군가는 해야 하고, 사람이 충분하지 않으면 아무도 진짜로 그 책임을 지지 않아서 일이 제대로 안 돌아가거든요.",
     "text_zh": "我觉得产品经理(PM)这个岗位真的很有价值。可能我这么说会被人喷，但我觉得说到底，Snap不招PM可能是那种看起来成功了但其实有问题的决定，因为总得有人干这活儿。如果没有足够的人手去做，那就没人真正负责这事儿，最后就搞不成了。",
-    "text_es": "Creo que PM es una función súper valiosa. De hecho, creo que puede ser que... y a lo mejor me van a crucificar por esto, pero creo que al final del día, no contratar PMs en Snap pudo haber sido una de esas decisiones donde la cosa funcionó a pesar de eso, porque alguien tiene que hacer ese trabajo. Si no tienes suficiente gente para hacerlo, entonces nadie realmente se hace cargo y al final no pasa nada."
+    "text_es": "Creo que PM es una función súper valiosa. De hecho, creo que puede ser que... y a lo mejor me van a crucificar por esto, pero creo que al final del día, no contratar PMs en Snap pudo haber sido una de esas decisiones donde la cosa funcionó a pesar de eso, porque alguien tiene que hacer ese trabajo. Si no tienes suficiente gente para hacerlo, entonces nadie realmente se hace cargo y al final no pasa nada.",
+    "key_sentence": "Not hiring PMs at Snap succeeded despite nobody truly owning the work."
   },
   {
     "text": "I think from a user acquisition/marketing perspective, in a world five or seven years ago, if you were making something novel and you went to users and it was like, 'Oh, we got something better.' People are going to be like, 'Well, whatever. Everybody says they got something better. I don't care.' But today, you can go and just say, 'We've rethought this thing with AI.' And a bunch of people will just be like, 'Well, how?' Or 'Maybe I should check this out.'",
@@ -147,6 +152,7 @@
     ],
     "text_ko": "사용자 확보/마케팅(user acquisition/marketing) 관점에서 보면, 5~7년 전쯤엔 뭔가 새롭고 독창적인 걸 만들고 사용자한테 '우리가 더 나은 걸 만들었어요'라고 해도 사람들 반응이 '다들 다 더 낫다고 해요. 별로 신경 안 써요'였을 거예요. 근데 요즘엔 '이걸 인공지능(AI)으로 다시 설계했어요'라고만 해도 많은 사람이 '어떻게요?' '한번 써봐야겠다' 하고 반응해요.",
     "text_zh": "我觉得从用户获取和营销的角度来看，要是在五六年前，如果你做了个新产品，跟用户说\"嘿，我们这个更牛\"，人家会想\"得了吧，谁都这么说，我才不信呢。\" 但现在不一样了，你只要说\"我们用AI(人工智能)重新设计了这个东西\"，很多人马上就会问\"怎么个用法？\"或者\"我得去看看\"。",
-    "text_es": "Yo creo que desde el punto de vista de captación de usuarios y marketing, hace cinco o siete años, si estabas creando algo nuevo y le decías a los usuarios \"Oye, tenemos algo mejor\", la gente te respondía \"Sí, claro. Todo el mundo dice que tiene algo mejor. Me da igual.\" Pero hoy en día, puedes llegar y simplemente decir \"Hemos repensado esto con IA\" y un montón de gente va a reaccionar como \"¿Ah sí? ¿Cómo?\" o \"A lo mejor debería echarle un vistazo.\""
+    "text_es": "Yo creo que desde el punto de vista de captación de usuarios y marketing, hace cinco o siete años, si estabas creando algo nuevo y le decías a los usuarios \"Oye, tenemos algo mejor\", la gente te respondía \"Sí, claro. Todo el mundo dice que tiene algo mejor. Me da igual.\" Pero hoy en día, puedes llegar y simplemente decir \"Hemos repensado esto con IA\" y un montón de gente va a reaccionar como \"¿Ah sí? ¿Cómo?\" o \"A lo mejor debería echarle un vistazo.\"",
+    "key_sentence": "User acquisition today thrives on rethinking things with AI to attract interest."
   }
 ]

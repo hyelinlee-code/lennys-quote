@@ -22,7 +22,8 @@
     ],
     "text_ko": "충분히 해결할 수 있는 문제라고 생각했어요. 결국 우리는 몇 주 만에 6만 명의 기사들을 뽑기 위해 경기장까지 빌렸어요. 돌이켜보면 확실히 큰 리스크(risk)였던 것 같아요. 처음 그곳에 갔을 땐 사무실이 집 같아서 ‘아, 큰 실수를 한 건 아닐까’ 싶었는데, 그 작은 규모—하루 4,000건의 주문—에서도 이미 굉장히 빠르게 성장하고 있었어요.",
     "text_zh": "我觉得这个问题完全可以解决。后来我们直接租了个体育场，两周内就招了6万名司机。现在回头看，确实挺冒险的。我到那儿一看，公司就在一个民房里办公，当时心想完蛋了，估计做了个超级错误的决定。不过我们增长得确实很快，哪怕那时候规模还很小，一天也有4000单了。",
-    "text_es": "Yo sentía que era un problema que se podía resolver perfectamente. Y terminamos rentando un estadio para contratar 60,000 conductores en un par de semanas. Entonces, viéndolo en retrospectiva, definitivamente fue un riesgo. Cuando llegué allí estaba en una casa y me di cuenta de que probablemente había cometido un error enorme, pero ya estábamos creciendo súper rápido, incluso a esa pequeña escala de 4,000 pedidos por día."
+    "text_es": "Yo sentía que era un problema que se podía resolver perfectamente. Y terminamos rentando un estadio para contratar 60,000 conductores en un par de semanas. Entonces, viéndolo en retrospectiva, definitivamente fue un riesgo. Cuando llegué allí estaba en una casa y me di cuenta de que probablemente había cometido un error enorme, pero ya estábamos creciendo súper rápido, incluso a esa pequeña escala de 4,000 pedidos por día.",
+    "key_sentence": "It was a problem very solvable, but I made a huge mistake."
   },
   {
     "text": "I literally emailed someone after Googling HR at Gojek and said, 'I'm willing to move to Indonesia, take a bet on me.' And they actually did. So I got extremely lucky. Five years fly by insanely fast. I went through building out the data team from scratch.",
@@ -48,7 +49,8 @@
     ],
     "text_ko": "실제로 고젝의 인사(HR)를 구글링해보고 누군가에게 이메일을 보냈어요. \"인도네시아로 이사할 의향이 있으니 저한테 한 번 기회를 주세요.\"라고요. 그리고 진짜 그렇게 해주셨어요. 정말 운이 좋았어요. 5년은 순식간에 지나가더라고요. 그동안 데이터 팀(data team)을 완전히 처음부터 만들어봤어요.",
     "text_zh": "我直接谷歌搜了Gojek的HR邮箱，给他们发邮件说：\"我愿意搬到印尼去，赌我一把吧。\" 没想到他们真的同意了，我运气太好了。五年时间眨眼就过去了，我从零开始把数据团队给搭建起来了。",
-    "text_es": "Literalmente le mandé un email a alguien después de buscar en Google \"HR en Gojek\" y le dije: \"Estoy dispuesto a mudarme a Indonesia, apuesten por mí.\" Y de verdad lo hicieron. Así que tuve una suerte increíble. Cinco años se pasan volando. Pasé por todo el proceso de armar el equipo de datos desde cero."
+    "text_es": "Literalmente le mandé un email a alguien después de buscar en Google \"HR en Gojek\" y le dije: \"Estoy dispuesto a mudarme a Indonesia, apuesten por mí.\" Y de verdad lo hicieron. Así que tuve una suerte increíble. Cinco años se pasan volando. Pasé por todo el proceso de armar el equipo de datos desde cero.",
+    "key_sentence": "I got extremely lucky taking a bet on me."
   },
   {
     "text": "We would do things as simple as wanting to test a subscription feature, which was just released in Singapore a couple weeks ago. We ended up saying, 'We have this voucher system that we can distribute vouchers in the back end. We obviously know our driver's phone numbers. Why don't we just add them to a WhatsApp group?'",
@@ -72,7 +74,8 @@
     ],
     "text_ko": "우리는 싱가포르에서 몇 주 전에 막 출시된 구독 기능(subscription feature)을 테스트해 보고 싶다 같은 정말 단순한 일도 했어요. 결국에는 “백엔드(back end)에서 바우처를 배포할 수 있는 바우처 시스템(voucher system)이 있고, 운전자들 전화번호는 당연히 알고 있으니까 그냥 그들을 WhatsApp 그룹(WhatsApp group)에 추가하면 어떨까요?”라고 말했어요.",
     "text_zh": "我们会做一些很简单的事情，比如想测试一个订阅功能，这个功能几周前刚在新加坡上线。最后我们就说，\"我们有这个优惠券系统，可以在后台发放优惠券。我们肯定知道司机的手机号码。为什么不直接把他们拉到一个微信群里呢？\"",
-    "text_es": "Hacíamos cosas tan sencillas como querer probar una función de suscripción que acabábamos de lanzar en Singapur hace un par de semanas. Al final dijimos: \"Tenemos este sistema de cupones donde podemos distribuir cupones desde el back end. Obviamente conocemos los números de teléfono de nuestros conductores. ¿Por qué no los agregamos simplemente a un grupo de WhatsApp?\""
+    "text_es": "Hacíamos cosas tan sencillas como querer probar una función de suscripción que acabábamos de lanzar en Singapur hace un par de semanas. Al final dijimos: \"Tenemos este sistema de cupones donde podemos distribuir cupones desde el back end. Obviamente conocemos los números de teléfono de nuestros conductores. ¿Por qué no los agregamos simplemente a un grupo de WhatsApp?\"",
+    "key_sentence": "We can distribute vouchers in the back end via WhatsApp."
   },
   {
     "text": "The only thing better than knowing... If you have data of what your customers are doing, that is the best data you could ever get. And so if you don't have a tested hypothesis, if you can't think of a way to run an experiment, then honestly that idea is pretty useless.",
@@ -97,7 +100,8 @@
     ],
     "text_ko": "알고 있는 것보다 더 좋은 건 고객들이 실제로 어떤 행동을 하는지에 대한 데이터예요. 그게 사실 얻을 수 있는 가장 좋은 데이터예요. 그래서 검증된 가설(tested hypothesis)이 없다면, 실험을 해볼 방법(run an experiment)이 떠오르지 않으면 솔직히 그 아이디어는 거의 쓸모없어요.",
     "text_zh": "有一个道理大家都懂...如果你能拿到客户行为数据，那绝对是最值钱的数据了。所以说，如果你连个靠谱的假设都没有，连个实验都不知道怎么设计，那说实话，这个想法基本上就是废的。",
-    "text_es": "Lo único mejor que saber... Si tienes datos de lo que están haciendo tus clientes, esos son los mejores datos que puedes conseguir. Y entonces, si no tienes una hipótesis probada, si no se te ocurre una manera de hacer un experimento, pues la verdad es que esa idea no sirve para nada."
+    "text_es": "Lo único mejor que saber... Si tienes datos de lo que están haciendo tus clientes, esos son los mejores datos que puedes conseguir. Y entonces, si no tienes una hipótesis probada, si no se te ocurre una manera de hacer un experimento, pues la verdad es que esa idea no sirve para nada.",
+    "key_sentence": "Without a tested hypothesis, that idea is pretty useless."
   },
   {
     "text": "So mathematically speaking, you're going to get the same level of trends, but the precision at which you understand those trends will become more deep if you have more data. But the underlying information that you're getting out of that won't be very different at larger scales.",
@@ -123,7 +127,8 @@
     ],
     "text_ko": "수학적으로 보면 추세(trends)의 전반적인 수준은 비슷하게 나와요. 다만 데이터가 많아질수록 그 추세를 이해하는 정밀도(precision)는 높아지고, 더 큰 규모(larger scales)에서 얻는 근본적인 정보(underlying information)는 크게 달라지지 않아요.",
     "text_zh": "从数学角度来讲，你得到的趋势程度其实是一样的，但如果数据更多的话，你对这些趋势的理解会更加精准、更深入。不过呢，在更大规模下，你从中获得的核心信息其实不会有太大差别。",
-    "text_es": "Matemáticamente hablando, vas a obtener el mismo nivel de tendencias, pero la precisión con la que entiendes esas tendencias va a ser mucho más profunda si tienes más datos. Pero la información de fondo que sacas de ahí no va a ser muy diferente a gran escala."
+    "text_es": "Matemáticamente hablando, vas a obtener el mismo nivel de tendencias, pero la precisión con la que entiendes esas tendencias va a ser mucho más profunda si tienes más datos. Pero la información de fondo que sacas de ahí no va a ser muy diferente a gran escala.",
+    "key_sentence": "Mathematically speaking, more data deepens understanding of trends."
   },
   {
     "text": "So to say, oh, this is the thing, instrumentation is what's wrong, I think it's a very actionable thing. It's probably one of the most solvable problems out there. It just takes some time and mental model shifts to do it well.",
@@ -149,7 +154,8 @@
     ],
     "text_ko": "그래서 '아, 이게 문제구나 — 계측(instrumentation)에 문제가 있네'라고 하는 건 제 생각에 꽤 실행 가능한 접근이에요. 아마 해결하기 쉬운 문제들 중 하나일 거예요. 다만 제대로 해내려면 시간과 사고 방식 전환(mental model shifts)이 좀 필요해요.",
     "text_zh": "所以说，要找到问题的根源，仪表监控(instrumentation)才是关键，我觉得这个问题其实很好解决。这可能是最容易搞定的问题之一了，只是需要花点时间，转变一下思路就能做好。",
-    "text_es": "O sea, decir \"ah, este es el problema, la instrumentación es lo que está fallando\", me parece algo muy accionable. Probablemente sea uno de los problemas más fáciles de resolver que hay. Solo requiere tiempo y cambiar un poco el chip mental para hacerlo bien."
+    "text_es": "O sea, decir \"ah, este es el problema, la instrumentación es lo que está fallando\", me parece algo muy accionable. Probablemente sea uno de los problemas más fáciles de resolver que hay. Solo requiere tiempo y cambiar un poco el chip mental para hacerlo bien.",
+    "key_sentence": "Instrumentation is an actionable thing and one of the most solvable problems."
   },
   {
     "text": "Do not treat metric gathering as entertainment. It's not there for you to be like, 'Oh, that's interesting, how novel,' and then not act on it. So real news is information that changes what you do in the real world.",
@@ -174,6 +180,7 @@
     ],
     "text_ko": "지표 수집(metric gathering)을 오락거리로 다루지 마세요. '오, 흥미롭네, 신기하네' 하고 끝내고 아무 조치도 안 해서는 안 돼요. 진짜 뉴스는 실제로 당신의 행동을 바꾸게 하는 정보예요.",
     "text_zh": "别把收集数据当成娱乐消遣。不是让你看了之后就\"哇，挺有意思的，挺新鲜\"，然后就没下文了。真正有价值的信息，是那种能让你在实际工作中改变做法的东西。",
-    "text_es": "No trates la recolección de métricas como entretenimiento. No está ahí para que digas \"Ay, qué interesante, qué curioso\" y luego no hagas nada al respecto. Así que las noticias de verdad son información que cambia lo que haces en el mundo real."
+    "text_es": "No trates la recolección de métricas como entretenimiento. No está ahí para que digas \"Ay, qué interesante, qué curioso\" y luego no hagas nada al respecto. Así que las noticias de verdad son información que cambia lo que haces en el mundo real.",
+    "key_sentence": "Do not treat metric gathering as entertainment; real news changes your actions."
   }
 ]

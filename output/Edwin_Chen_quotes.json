@@ -22,7 +22,8 @@
     ],
     "text_ko": "우리는 기본적으로 실리콘밸리 방식(Silicon Valley game)을 따르고 싶지 않았어요. 저는 항상 그게 터무니없다고 생각했어요. 예전에 여러 대형 테크 회사에서 일해봤는데, 직원들 중 90%를 해고해도 괜찮을 것 같다고 느꼈어요. 그러면 핵심 인재들이 이런저런 산만한 일에 방해받지 않아 훨씬 더 빨리 움직일 수 있을 거라고요. 그래서 Surge를 시작할 때는 완전히 다르게 가서, 아주 소수의 초정예 팀으로 만들고 싶었어요.",
     "text_zh": "我们基本上从来就不想玩硅谷那一套。我一直觉得那些都挺扯的。我之前在好几个大科技公司待过，总感觉我们可以裁掉90%的人，反而能跑得更快，因为最牛的那些人就不会被各种乱七八糟的事情分心了。所以我们做Surge的时候，就想完全换个路子，搞一个超小但超精英的团队。",
-    "text_es": "Básicamente nunca quisimos jugar el juego de Silicon Valley. Siempre me pareció ridículo. Trabajé en un montón de las grandes empresas tecnológicas y siempre sentí que podríamos despedir al 90% de la gente y avanzaríamos más rápido porque la gente más talentosa no tendría todas esas distracciones. Entonces cuando empezamos Surge, quisimos construirlo de manera completamente diferente con un equipo súper pequeño y súper élite."
+    "text_es": "Básicamente nunca quisimos jugar el juego de Silicon Valley. Siempre me pareció ridículo. Trabajé en un montón de las grandes empresas tecnológicas y siempre sentí que podríamos despedir al 90% de la gente y avanzaríamos más rápido porque la gente más talentosa no tendría todas esas distracciones. Entonces cuando empezamos Surge, quisimos construirlo de manera completamente diferente con un equipo súper pequeño y súper élite.",
+    "key_sentence": "We wanted to build Surge with a super elite team, avoiding the Silicon Valley game."
   },
   {
     "text": "I think most people don't understand what quality even means in this space. They think you could just throw bodies at a problem and get good data and that's completely wrong.",
@@ -45,7 +46,8 @@
     ],
     "text_ko": "제 생각엔 대부분 사람들이 이 분야에서 '품질(quality)'이 도대체 무슨 뜻인지조차 잘 모르는 것 같아요. 사람만 잔뜩 투입하면 좋은 데이터(data)를 얻을 수 있다고 생각하는데, 그건 완전히 잘못된 생각이에요.",
     "text_zh": "我觉得大部分人根本不懂这个领域里的\"质量\"到底是什么概念。他们以为随便找一堆人来干活就能搞出好数据，这想法完全是错的。",
-    "text_es": "Creo que la mayoría de la gente no entiende ni siquiera qué significa calidad en este sector. Piensan que puedes simplemente meter más gente a un problema y obtener buenos datos, y eso está completamente equivocado."
+    "text_es": "Creo que la mayoría de la gente no entiende ni siquiera qué significa calidad en este sector. Piensan que puedes simplemente meter más gente a un problema y obtener buenos datos, y eso está completamente equivocado.",
+    "key_sentence": "Throwing bodies at a problem won't yield good data in this space."
   },
   {
     "text": "I'm worried that instead of building AI that will actually advance us as a species, curing cancer, solving poverty, understand the universe, we are optimizing for AI slop instead. But we're optimizing your models for the types of people who buy tabloids at a grocery store. We're basically teaching our models to chase dopamine instead of truth.",
@@ -69,7 +71,8 @@
     ],
     "text_ko": "솔직히 걱정돼요. 인류를 진보시키고 암을 치료하고 빈곤을 해결하고 우주를 이해하게 해줄 인공지능(AI)을 만드는 대신에, 우리가 오히려 형편없는 AI(AI slop)을 최적화하고 있는 건 아닌가 싶어요. 문제는 우리가 모델(models)을 식료품점에서 타블로이드(tabloid)를 사는 사람들 같은 타입에 맞춰 최적화하고 있다는 거예요. 결국 모델들을 진실(truth) 대신 도파민(dopamine)을 쫓게 가르치고 있는 셈이에요.",
     "text_zh": "我担心我们现在不是在开发那种真正能推动人类进步的AI，比如攻克癌症、解决贫困问题、探索宇宙奥秘，而是在制造一堆AI垃圾内容。我们现在优化模型的方向，基本上就是迎合那些在超市买八卦小报的人群。说白了，我们是在教模型去追求多巴胺刺激，而不是追求真相。",
-    "text_es": "Me preocupa que en lugar de crear IA que realmente nos haga avanzar como especie, curando el cáncer, solucionando la pobreza, entendiendo el universo, estemos optimizando para pura basura de IA. Pero estamos optimizando nuestros modelos para el tipo de gente que compra revistas del corazón en el supermercado. Básicamente les estamos enseñando a nuestros modelos a perseguir la dopamina en vez de la verdad."
+    "text_es": "Me preocupa que en lugar de crear IA que realmente nos haga avanzar como especie, curando el cáncer, solucionando la pobreza, entendiendo el universo, estemos optimizando para pura basura de IA. Pero estamos optimizando nuestros modelos para el tipo de gente que compra revistas del corazón en el supermercado. Básicamente les estamos enseñando a nuestros modelos a perseguir la dopamina en vez de la verdad.",
+    "key_sentence": "We're optimizing for AI slop, chasing dopamine instead of truth."
   },
   {
     "text": "So long story short, I think there's all these different factors, and certainly the data is a big part of it, but it's also like what is the objective function that you're trying to optimize your model towards?",
@@ -92,7 +95,8 @@
     ],
     "text_ko": "간단히 말하면 여러 요인이 있고 데이터가 확실히 큰 부분이긴 한데, 결국 어떤 목적 함수(objective function)를 기준으로 모델(model)을 최적화하느냐가 관건이라고 생각해요.",
     "text_zh": "长话短说吧，我觉得有很多不同的因素在起作用，数据肯定是很重要的一块，但关键还是你想让你的模型朝着什么目标函数(objective function)去优化？",
-    "text_es": "Bueno, para no hacerte el cuento largo, creo que hay un montón de factores diferentes, y claro que los datos son una parte importante, pero también está el tema de cuál es la función objetivo (objective function) hacia la que estás tratando de optimizar tu modelo, ¿no?"
+    "text_es": "Bueno, para no hacerte el cuento largo, creo que hay un montón de factores diferentes, y claro que los datos son una parte importante, pero también está el tema de cuál es la función objetivo (objective function) hacia la que estás tratando de optimizar tu modelo, ¿no?",
+    "key_sentence": "What is the objective function you're trying to optimize your model towards?"
   },
   {
     "text": "The easiest way to climb LLM Arena, it's adding crazy boating. It's doubling the number of emojis. It's tripling the length of your model responses, even if your model starts hallucinating and getting the answer completely wrong.",
@@ -116,7 +120,8 @@
     ],
     "text_ko": "LLM 아레나(LLM Arena)에서 순위를 올리는 가장 쉬운 방법은 미친 듯이 과시(boating)를 하는 거예요. 이모지(emojis) 수를 두 배로 늘리고, 모델 응답(model responses) 길이를 세 배로 늘리는 식이죠. 설령 모델이 환각(hallucinating)을 일으켜 답이 완전히 틀려도 괜찮아요.",
     "text_zh": "要在LLM Arena排行榜上爬升，最简单的办法就是疯狂吹牛。把emoji表情符号加倍，把模型回复的长度增加三倍，哪怕你的模型开始出现幻觉(hallucination)，答案完全跑偏了也无所谓。",
-    "text_es": "La forma más fácil de escalar posiciones en LLM Arena es añadir un montón de palabrería (crazy boating). Es duplicar el número de emojis. Es triplicar la longitud de las respuestas de tu modelo, aunque el modelo empiece a alucinar (hallucinating) y se equivoque completamente en la respuesta."
+    "text_es": "La forma más fácil de escalar posiciones en LLM Arena es añadir un montón de palabrería (crazy boating). Es duplicar el número de emojis. Es triplicar la longitud de las respuestas de tu modelo, aunque el modelo empiece a alucinar (hallucinating) y se equivoque completamente en la respuesta.",
+    "key_sentence": "Climbing LLM Arena involves crazy boating and increasing model response length."
   },
   {
     "text": "So yeah, I would say don't pivot. Don't put scale. Don't hire that Stanford grad who simply wants to add a hot company to your resume, just build the one thing only you could build, a thing that wouldn't exist without the insight and expertise that only you have.",
@@ -140,7 +145,8 @@
     ],
     "text_ko": "그러니까 피벗(pivot)하지 마세요. 스케일(scale)에만 매달리지 마시고, 단지 이력서(resume)에 '핫한 회사' 하나 더 올리려고 하는 스탠퍼드 출신 같은 사람은 채용하지 마세요. 그냥 오직 당신만이 만들 수 있는 한 가지를 만드세요 — 당신의 통찰력과 전문성 없이는 아예 존재하지 않았을 그런 것 말이에요.",
     "text_zh": "所以我的建议就是，别轻易转型，别急着扩张规模，也别为了给简历加分就去招那些斯坦福毕业生。就专心做一件事——做只有你能做出来的东西，做那种没有你的独特见解和专业能力就不可能存在的产品。",
-    "text_es": "Entonces sí, yo diría que no hagas pivot. No te enfoques en escalar. No contrates a ese graduado de Stanford que simplemente quiere agregar una empresa exitosa a su currículum, solo construye esa única cosa que solo tú podrías construir, algo que no existiría sin la perspectiva y experiencia que solo tú tienes."
+    "text_es": "Entonces sí, yo diría que no hagas pivot. No te enfoques en escalar. No contrates a ese graduado de Stanford que simplemente quiere agregar una empresa exitosa a su currículum, solo construye esa única cosa que solo tú podrías construir, algo que no existiría sin la perspectiva y experiencia que solo tú tienes.",
+    "key_sentence": "Don't pivot; build the one thing only you could create, not a hot company."
   },
   {
     "text": "If you could choose the perfect model behavior, which model would you want? Do you want a model that says, 'You're absolutely right. There are definitely 20 more ways to improve this email,' and it continues for 50 more iterations or do you want a model that's optimizing for your time and productivity and just says, 'No. You need to stop. Your email's great. Just send it and move on'?",
@@ -165,6 +171,7 @@
     ],
     "text_ko": "완벽한 모델(model) 행동을 고를 수 있다면 어떤 걸 원하세요? '정말 맞아요. 이 이메일을 더 고칠 방법이 분명히 20가지 더 있어요.'라고 말하면서 50번이나 더 반복(iterations)해서 계속 피드백을 주는 모델(model)을 원하세요, 아니면 당신의 시간과 생산성(productivity)을 최적화하는 모델(model)이 '아니요. 그만하세요. 이메일 충분히 좋아요. 그냥 보내고 다음으로 넘어가요.'라고 딱 잘라 말해 주는 걸 원하세요?",
     "text_zh": "如果让你选择一个完美的模型行为，你会要哪种？你是想要一个模型跟你说\"你说得对，这封邮件肯定还有20种改进方法\"，然后继续折腾50轮？还是想要一个为你的时间和效率考虑的模型，直接告诉你\"别改了，邮件已经很好了，发出去，该干嘛干嘛去\"？",
-    "text_es": "Si pudieras elegir el comportamiento ideal de un modelo, ¿cuál querrías? ¿Quieres un modelo que te diga \"Tienes toda la razón. Definitivamente hay 20 formas más de mejorar este email\" y que siga así por 50 iteraciones más, o prefieres un modelo que optimice tu tiempo y productividad y que simplemente te diga \"No. Para ya. Tu email está perfecto. Solo mándalo y sigue adelante\"?"
+    "text_es": "Si pudieras elegir el comportamiento ideal de un modelo, ¿cuál querrías? ¿Quieres un modelo que te diga \"Tienes toda la razón. Definitivamente hay 20 formas más de mejorar este email\" y que siga así por 50 iteraciones más, o prefieres un modelo que optimice tu tiempo y productividad y que simplemente te diga \"No. Para ya. Tu email está perfecto. Solo mándalo y sigue adelante\"?",
+    "key_sentence": "Do you want a model that suggests 50 more iterations or helps you move on?"
   }
 ]

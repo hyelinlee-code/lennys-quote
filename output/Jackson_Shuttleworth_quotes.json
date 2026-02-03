@@ -23,7 +23,8 @@
     ],
     "text_ko": "뭐든 다 테스트해 보라고 말하고 싶어요. 지난 4년 동안 스트릭스(streaks)에서 600건이 넘는 실험을 해서 거의 이틀에 한 번 꼴이었어요. 카피 테스트(copy testing)를 위한 인프라(infrastructure)도 정말 잘 마련해놨고요. 예전에는 기본 콜투액션(CTA)으로 '계속하기'를 썼는데, '내 목표에 전념하기(commit to my goal)'로 바꿨더니 효과가 정말 컸어요.",
     "text_zh": "我觉得什么都要测试，过去四年我们在连续打卡功能上跑了600多个实验，基本上隔天就有一个。我们搭建了很不错的文案测试(copy testing)基础设施。以前我们的标准行动按钮(CTA)就是\"继续\"，后来改成\"承诺达成我的目标\"，效果特别好。",
-    "text_es": "Yo diría que prueben todo, nosotros hemos hecho en los últimos cuatro años más de 600 experimentos con las rachas, prácticamente día por medio. La verdad es que montamos una infraestructura buenísima para testear copy. Antes decíamos \"continuar\", ese era nuestro CTA (call-to-action) estándar, y lo cambiamos a \"comprometerme con mi meta\", y fue un exitazo increíble."
+    "text_es": "Yo diría que prueben todo, nosotros hemos hecho en los últimos cuatro años más de 600 experimentos con las rachas, prácticamente día por medio. La verdad es que montamos una infraestructura buenísima para testear copy. Antes decíamos \"continuar\", ese era nuestro CTA (call-to-action) estándar, y lo cambiamos a \"comprometerme con mi meta\", y fue un exitazo increíble.",
+    "key_sentence": "Test everything; changing standard CTA to commit was a massive win."
   },
   {
     "text": "And this is not just the subjective retention PM talking, I think this is our biggest feature, with the exception of the lessons. Streaks are a great engagement hack. I'm of the opinion that any team, any app out there can introduce a streak, and if you figure it out, it probably works to retain users, but at the core, you have to have an app that people want to use.",
@@ -48,7 +49,8 @@
     ],
     "text_ko": "이건 단순히 주관적인 유지율 PM의 의견이 아니에요. 저는 이게 우리 가장 큰 특징이라고 생각해요, 수업을 제외하면요. 연속 사용(streaks)은 정말 좋은 참여 유도 방법이에요. 어떤 팀이나 앱도 연속 사용 기능을 도입할 수 있다고 생각하고, 그걸 잘 활용하면 사용자 유지에 효과적일 거예요. 하지만 가장 중요한 건 사람들이 사용하고 싶어하는 앱이 있어야 한다는 거예요.",
     "text_zh": "这不只是我作为一个负责用户留存的产品经理(PM)的主观看法，我觉得除了课程内容本身，这就是我们最大的亮点。连续打卡(streaks)绝对是个超棒的用户粘性技巧(engagement hack)。我的观点是，任何团队、任何应用都可以加入连续打卡功能，如果你搞明白怎么做，基本上都能起到留住用户的效果。但说到底，你的应用本身得是用户真正想用的东西。",
-    "text_es": "Y esto no es solo el PM de retención hablando de forma subjetiva, creo que esta es nuestra funcionalidad más importante, después de las lecciones. Las rachas son un truco genial para el engagement. Yo opino que cualquier equipo, cualquier app que esté por ahí puede meter una racha, y si le atinas, probablemente funciona para retener usuarios, pero al final del día, tienes que tener una app que la gente realmente quiera usar."
+    "text_es": "Y esto no es solo el PM de retención hablando de forma subjetiva, creo que esta es nuestra funcionalidad más importante, después de las lecciones. Las rachas son un truco genial para el engagement. Yo opino que cualquier equipo, cualquier app que esté por ahí puede meter una racha, y si le atinas, probablemente funciona para retener usuarios, pero al final del día, tienes que tener una app que la gente realmente quiera usar.",
+    "key_sentence": "Streaks are a great engagement hack for user retention at the core."
   },
   {
     "text": "We have right now over 9 million users with a year plus streak. So, 9 million of our users have used Duolingo every year, almost every day, for well over a year. Which is pretty... I don't know, I like to imagine things in terms of like, okay, well, if you put all these people in a city, or in a place, where would it be? I'm like, ah, it's like a very large city, 9 million people.",
@@ -72,7 +74,8 @@
     ],
     "text_ko": "지금 연속 이용 기록(스트릭)이 1년 이상인 사용자가 900만 명이 넘어요. 그러니까 900만 명의 사용자가 1년 넘게 거의 매일 Duolingo를 사용해 온 셈이에요. 솔직히 저는 이런 숫자를 도시 규모로 상상하는 편이에요. 이 사람들을 한데 모아 도시로 만든다면 어느 정도일까 생각해 보면, 아, 정말 큰 도시예요 — 900만 명이나 되는.",
     "text_zh": "我们现在有超过900万用户保持了一年以上的连续打卡记录。也就是说，有900万用户每年都在用多邻国，基本上天天都用，而且坚持了一年多。这个数字挺...怎么说呢，我喜欢把这些数字具象化一下，就是说，如果把这些人都聚到一个城市或者一个地方，那会是什么概念？我觉得就像是一个超大型城市，900万人呢。",
-    "text_es": "En este momento tenemos más de 9 millones de usuarios con una racha de más de un año. O sea, 9 millones de nuestros usuarios han usado Duolingo cada año, casi todos los días, por más de un año. Lo cual es bastante... no sé, me gusta imaginarme las cosas como, bueno, si pusieras a toda esta gente en una ciudad, o en un lugar, ¿dónde sería? Y pienso, ah, sería como una ciudad muy grande, 9 millones de personas."
+    "text_es": "En este momento tenemos más de 9 millones de usuarios con una racha de más de un año. O sea, 9 millones de nuestros usuarios han usado Duolingo cada año, casi todos los días, por más de un año. Lo cual es bastante... no sé, me gusta imaginarme las cosas como, bueno, si pusieras a toda esta gente en una ciudad, o en un lugar, ¿dónde sería? Y pienso, ah, sería como una ciudad muy grande, 9 millones de personas.",
+    "key_sentence": "Over 9 million users have a year plus streak, like a large city."
   },
   {
     "text": "What Duolingo really focuses on is, how do we help users build habits around language learning? Getting user come back the next day is the biggest problem to solve. If you look at the numbers, I think pretty objectively has been our biggest growth lever for driving DAUs, and also say a lot of it's just related to how we think about growth at Duolingo.",
@@ -98,7 +101,8 @@
     ],
     "text_ko": "Duolingo가 진짜로 집중하는 건, 어떻게 하면 사람들이 언어 학습을 습관으로 만들게 도울 수 있느냐예요. 다음 날에도 사용자가 다시 돌아오게 하는 게 해결해야 할 가장 큰 문제예요. 숫자를 보면, 꽤 객관적으로 이게 일간 활성 사용자(DAUs)를 끌어올리는 우리의 가장 큰 성장 레버(growth lever)였다고 생각하고, 또 많은 부분이 Duolingo에서 성장을 바라보는 방식과 관련돼 있다고 말할 수 있어요.",
     "text_zh": "多邻国(Duolingo)真正关注的其实是，我们怎么帮用户养成学语言的习惯？让用户第二天还会回来用，这是我们要解决的最大难题。你看数据就知道，客观来说这已经成了我们推动日活用户(DAU)增长最重要的手段，这也很大程度上反映了我们多邻国对增长的整体思路。",
-    "text_es": "En lo que realmente se enfoca Duolingo es en cómo ayudamos a los usuarios a crear hábitos alrededor del aprendizaje de idiomas. Lograr que el usuario regrese al día siguiente es el mayor problema que tenemos que resolver. Si miras las cifras, creo que objetivamente ha sido nuestra palanca de crecimiento más importante para impulsar los DAUs (daily active users), y también dice mucho sobre cómo pensamos el crecimiento en Duolingo."
+    "text_es": "En lo que realmente se enfoca Duolingo es en cómo ayudamos a los usuarios a crear hábitos alrededor del aprendizaje de idiomas. Lograr que el usuario regrese al día siguiente es el mayor problema que tenemos que resolver. Si miras las cifras, creo que objetivamente ha sido nuestra palanca de crecimiento más importante para impulsar los DAUs (daily active users), y también dice mucho sobre cómo pensamos el crecimiento en Duolingo.",
+    "key_sentence": "Building habits is the biggest growth lever for driving DAUs."
   },
   {
     "text": "We actually tested, hey, what if we make it even easier to extend your streak? And so, we actually tested, hey, if you do one exercise, just one exercise in a lesson will extend your streak. What we realized when we ran this experiment is DAUs moved not one bit. And what we were doing by... And if we go back to unit of measure, we had dumbed down the unit of measure that we were basing our streak around.",
@@ -124,7 +128,8 @@
     ],
     "text_ko": "우리는 '연속 기록(streak)을 더 쉽게 늘리면 어떨까?' 해서 실제로 실험해봤어요. 예를 들어 한 레슨에서 단 한 개의 연습만 해도 연속 기록이 연장되게 했죠. 그런데 그 실험을 해보니 일일 활성 사용자(DAU, Daily Active Users)는 전혀 변하지 않았어요. 다시 말하면 측정 단위(unit of measure)를 보면, 우리가 연속 기록을 기준으로 삼으려고 그 측정 단위를 지나치게 낮춰 버렸던 거예요.",
     "text_zh": "我们当时就想，诶，要不我们让用户更容易维持连续学习记录？于是我们就测试了一下，如果用户只做一道题，就一道题，就能延续连续学习记录会怎么样。结果跑完这个实验我们发现，日活用户数(DAUs)一点变化都没有。我们这么做其实是...如果回到衡量标准上来说，我们把连续学习记录的衡量标准给降得太低了。",
-    "text_es": "La verdad es que probamos, oye, ¿qué tal si hacemos que sea aún más fácil mantener tu racha? Entonces probamos que si haces solo un ejercicio, nada más un ejercicio en una lección, eso te mantendría la racha. Lo que nos dimos cuenta cuando corrimos este experimento es que los DAUs no se movieron ni un poquito. Y lo que estábamos haciendo... Si regresamos a la unidad de medida, habíamos simplificado demasiado la unidad de medida en la que basábamos nuestra racha."
+    "text_es": "La verdad es que probamos, oye, ¿qué tal si hacemos que sea aún más fácil mantener tu racha? Entonces probamos que si haces solo un ejercicio, nada más un ejercicio en una lección, eso te mantendría la racha. Lo que nos dimos cuenta cuando corrimos este experimento es que los DAUs no se movieron ni un poquito. Y lo que estábamos haciendo... Si regresamos a la unidad de medida, habíamos simplificado demasiado la unidad de medida en la que basábamos nuestra racha.",
+    "key_sentence": "DAUs moved not one bit after we dumbed down the unit of measure."
   },
   {
     "text": "One of the fun ones that we did, and it's honestly as much about process as it is about the feature itself, was we have a feature called streak goal, and it is... Again, so much of this stuff seems so obvious in retrospect, but it was really novel at the time. We had this idea of like, hey, maybe we'll just goal users to hitting a certain streak length.",
@@ -149,6 +154,7 @@
     ],
     "text_ko": "재밌게 했던 것들 중 하나는, 솔직히 기능 자체만큼이나 프로세스(process)에 관한 얘기였어요. 연속 달성 목표(streak goal)라는 기능이었는데, 그리고… 뒤돌아보면 다 뻔해 보이지만 그때는 정말 새로웠어요. ‘사용자들이 일정한 연속 기록 길이(streak length)를 달성하도록 목표를 설정하면 어떨까’ 하는 아이디어였어요.",
     "text_zh": "我们做过一个挺有意思的功能，说实话这个功能本身和背后的流程都很重要，就是我们有个叫连击目标(streak goal)的功能。现在回头看这些东西好像都很显而易见，但在当时真的是很新颖的想法。我们就想，嘿，要不我们就让用户以达到某个连击长度为目标。",
-    "text_es": "Una de las cosas divertidas que hicimos, y honestamente tiene tanto que ver con el proceso como con la funcionalidad en sí, fue que tenemos una función que se llama meta de racha (streak goal), y es... otra vez, muchas de estas cosas parecen súper obvias cuando las ves hacia atrás, pero en su momento fue realmente innovador. Teníamos esta idea de, oye, qué tal si simplemente motivamos a los usuarios a llegar a cierta longitud de racha."
+    "text_es": "Una de las cosas divertidas que hicimos, y honestamente tiene tanto que ver con el proceso como con la funcionalidad en sí, fue que tenemos una función que se llama meta de racha (streak goal), y es... otra vez, muchas de estas cosas parecen súper obvias cuando las ves hacia atrás, pero en su momento fue realmente innovador. Teníamos esta idea de, oye, qué tal si simplemente motivamos a los usuarios a llegar a cierta longitud de racha.",
+    "key_sentence": "Streak goal was really novel at the time, obvious in retrospect."
   }
 ]

@@ -21,7 +21,8 @@
     ],
     "text_ko": "무엇이 문제인지, 목표가 무엇인지부터 시작해 보세요. 이건 대부분 사람들이 인식하는 것보다 훨씬 더 큰 도전이에요. 제가 함께 일하는 분들 중 80%에게 이게 가장 큰 문제예요. 임원급에서도 팀들이 몇 달 동안 그 과제를 해오다가 불확실한 상태로 돌아와서 \"그러니까 개발자 경험(developer experience)을 개선하라고 하신 거죠\"라고 말하곤 해요.",
     "text_zh": "先搞清楚你要解决什么问题，或者你的目标是什么？我觉得这比大多数人想象的要难得多。我合作过的人里面，80%最大的问题就是这个。就算是高管层面，团队可能忙活了好几个月，在那儿死磕某个事情，结果回来还是一头雾水，然后跟你说：\"你之前不是让我提升开发者体验(developer experience)吗。\"",
-    "text_es": "Empezar por \"¿cuál es tu problema?\" o \"¿cuál es tu objetivo?\" Yo diría que esto es un reto mucho más grande de lo que la mayoría de la gente se da cuenta. El 80% de las personas con las que trabajo, este es su mayor problema. Incluso a nivel ejecutivo, los equipos pueden estar trabajando durante varios meses en algo, y regresan con dudas, y te dicen algo como: \"Bueno, me dijiste que mejorara la experiencia del desarrollador (developer experience).\""
+    "text_es": "Empezar por \"¿cuál es tu problema?\" o \"¿cuál es tu objetivo?\" Yo diría que esto es un reto mucho más grande de lo que la mayoría de la gente se da cuenta. El 80% de las personas con las que trabajo, este es su mayor problema. Incluso a nivel ejecutivo, los equipos pueden estar trabajando durante varios meses en algo, y regresan con dudas, y te dicen algo como: \"Bueno, me dijiste que mejorara la experiencia del desarrollador (developer experience).\"",
+    "key_sentence": "This is a bigger challenge than most people recognize or realize."
   },
   {
     "text": "I'm like, \"Okay, what do you mean by this? Are you talking about inner and outer loop? Are you talking about friction? Are you talking about culture? But if you're talking about culture, this is totally different than if you're talking about friction in toolchains. If you're on different pages, you're heading in completely different directions.\"",
@@ -45,7 +46,8 @@
     ],
     "text_ko": "저는 \"그게 무슨 뜻이에요? 내부 루프와 외부 루프(inner and outer loop)를 말하는 건가요? 마찰(friction)을 말하는 건가요? 문화(culture)를 말하는 건가요?\"라고 했어요. 근데 문화 얘기라면 도구 체인(toolchains)의 마찰 얘기랑은 완전히 달라요. 서로 같은 생각을 하고 있지 않으면 완전히 다른 방향으로 가고 있어요.",
     "text_zh": "我就说，\"等等，你这话是什么意思？你说的是内循环外循环(inner and outer loop)？还是说摩擦力(friction)？还是在讲企业文化？但如果你讲的是文化，那跟工具链摩擦(friction in toolchains)完全是两码事啊。大家想法不在一个频道上，那方向肯定就南辕北辙了。\"",
-    "text_es": "\"Yo les digo, 'A ver, ¿qué quieren decir exactamente con eso? ¿Están hablando del bucle interno y externo (inner and outer loop)? ¿Se refieren a fricción? ¿O están hablando de cultura? Pero si se trata de cultura, eso es algo completamente distinto a si hablamos de fricción en las cadenas de herramientas (toolchains). Si no están en la misma página, van a terminar yendo cada uno por su lado.'\""
+    "text_es": "\"Yo les digo, 'A ver, ¿qué quieren decir exactamente con eso? ¿Están hablando del bucle interno y externo (inner and outer loop)? ¿Se refieren a fricción? ¿O están hablando de cultura? Pero si se trata de cultura, eso es algo completamente distinto a si hablamos de fricción en las cadenas de herramientas (toolchains). Si no están en la misma página, van a terminar yendo cada uno por su lado.'\"",
+    "key_sentence": "If you're on different pages, you're heading in completely different directions."
   },
   {
     "text": "So I started as a software engineer at IBM. I was writing software for large enterprise systems, which meant I ended up running them. So I was also a CIS admin. I was racking the stacking. I was running these really, really large labs, and then I kind of stumbled into this seven-day march for several years, and I was like, \"There has to be a better way.\"",
@@ -68,7 +70,8 @@
     ],
     "text_ko": "IBM에서 소프트웨어 엔지니어(software engineer)로 일을 시작했어요. 대규모 엔터프라이즈 시스템(enterprise systems)용 소프트웨어를 개발했는데, 결국 그 시스템들을 직접 운영하게 되더라고요. 그래서 CIS 관리자(CIS admin) 역할도 했고, 서버를 랙에 장착하고 케이블 연결하는 랙킹과 스태킹(racking and stacking) 같은 일도 했어요. 진짜 엄청나게 큰 랩(lab)들을 운영했는데, 몇 년 동안 주 7일 쉬지 못하는 7일 행군(seven-day march)을 겪으면서 '이대로 계속할 순 없다, 분명 더 나은 방법이 있을 거야'라고 생각했어요.",
     "text_zh": "我最开始在IBM做软件工程师，给那些大型企业系统写代码，结果就是我还得负责运维这些系统。所以我同时还是个系统管理员，要搭机架、做部署什么的。我管理着那些超大规模的实验室，然后有好几年我就陷入了那种七天连轴转的状态，我就想：\"肯定有更好的办法啊。\"",
-    "text_es": "Empecé como ingeniero de software en IBM. Estaba desarrollando software para sistemas empresariales grandes, lo que significaba que también tenía que operarlos. Así que también hacía de administrador de sistemas. Estaba armando los racks, apilando servidores. Manejaba laboratorios enormes, y después como que caí en esta marcha de siete días que duró varios años, y yo ahí pensando: \"Tiene que haber una manera mejor de hacer esto.\""
+    "text_es": "Empecé como ingeniero de software en IBM. Estaba desarrollando software para sistemas empresariales grandes, lo que significaba que también tenía que operarlos. Así que también hacía de administrador de sistemas. Estaba armando los racks, apilando servidores. Manejaba laboratorios enormes, y después como que caí en esta marcha de siete días que duró varios años, y yo ahí pensando: \"Tiene que haber una manera mejor de hacer esto.\"",
+    "key_sentence": "I stumbled into this seven-day march and sought a better way."
   },
   {
     "text": "And the joke there when we met with Gartner, they were like, \"Your superpower here was that you tricked people into strategy,\" which was not only how do I benchmark? That was kind of our top-of-the-funnel. Everyone wants to know how they compare. But the important thing is what should you do next? What's the most important next step?",
@@ -91,7 +94,8 @@
     ],
     "text_ko": "Gartner랑 만났을 때 웃긴 얘기가 있었는데요, 걔네들이 \"여기서 너희의 슈퍼파워는 사람들을 전략으로 끌어들인 거였어\"라고 하더라고요. 단순히 \"우리는 어떻게 벤치마크(benchmark)하죠?\"라는 질문만 받은 게 아니라, 그게 일종의 퍼널 상단(top-of-the-funnel)이었어요. 다들 자기들이 어디에 있는지 비교해 보길 원하잖아요. 그런데 중요한 건 그다음에 뭘 해야 하느냐예요. 다음에 가장 중요한 단계가 뭔가요?",
     "text_zh": "有个笑话，我们跟高德纳(Gartner)开会的时候，他们说：\"你们的超能力就是把大家套路进了战略规划里。\"不光是让人做基准测试(benchmark)那么简单，这其实是我们的引流手段(top-of-the-funnel)。每个人都想知道自己跟别人比怎么样。但关键是接下来该怎么办？下一步最重要的是什么？",
-    "text_es": "Y lo gracioso es que cuando nos reunimos with Gartner, nos dijeron: \"Su superpoder aquí fue que engañaron a la gente para que hiciera estrategia\", que no era solo cómo me comparo con otros. Eso era como nuestro gancho inicial (top-of-the-funnel). Todo el mundo quiere saber cómo se posiciona frente a la competencia. Pero lo importante es ¿qué deberías hacer después? ¿Cuál es el siguiente paso más importante?"
+    "text_es": "Y lo gracioso es que cuando nos reunimos with Gartner, nos dijeron: \"Su superpoder aquí fue que engañaron a la gente para que hiciera estrategia\", que no era solo cómo me comparo con otros. Eso era como nuestro gancho inicial (top-of-the-funnel). Todo el mundo quiere saber cómo se posiciona frente a la competencia. Pero lo importante es ¿qué deberías hacer después? ¿Cuál es el siguiente paso más importante?",
+    "key_sentence": "You tricked people into strategy, but what's the most important next step?"
   },
   {
     "text": "And when I first started ITIL and ITSM, right, the old school kind of change management processes, the common knowledge was that you had to have at least a two-week wait for change approvals in order to get that stability. Turns out that's not right. It was just kind of an old wives' tale, right.",
@@ -113,7 +117,8 @@
     ],
     "text_ko": "제가 ITIL과 ITSM(IT Service Management)을 처음 시작했을 때요, 예전식 변경 관리 프로세스(change management processes) 쪽에서는 안정성을 위해 변경 승인(change approvals)을 받기까지 최소 2주는 기다려야 한다고들 했어요. 그런데 알고 보니 그게 사실이 아니었어요. 그냥 오래된 속설에 불과했더라고요.",
     "text_zh": "我刚开始接触ITIL和ITSM(IT服务管理)的时候，那种老式的变更管理流程，大家都认为变更审批至少要等两个星期才能保证系统稳定性。结果发现这完全是错的，就是一个老掉牙的说法而已。",
-    "text_es": "Y cuando empecé con ITIL e ITSM, ¿verdad?, esos procesos de gestión de cambios de la vieja escuela, lo que todo el mundo daba por hecho era que tenías que esperar como mínimo dos semanas para que te aprobaran los cambios si querías tener estabilidad. Resulta que eso no era cierto. Era más bien un mito, ¿no?"
+    "text_es": "Y cuando empecé con ITIL e ITSM, ¿verdad?, esos procesos de gestión de cambios de la vieja escuela, lo que todo el mundo daba por hecho era que tenías que esperar como mínimo dos semanas para que te aprobaran los cambios si querías tener estabilidad. Resulta que eso no era cierto. Era más bien un mito, ¿no?",
+    "key_sentence": "The two-week wait for change approvals was just an old wives' tale."
   },
   {
     "text": "We want to implement good technical practices like automated testing, good architectural practices so that when you move fast, you are also more stable, right. We want to be thinking about improving the developer experience so that when we are faster, we are also saving time.",
@@ -133,7 +138,8 @@
     ],
     "text_ko": "우리는 자동화된 테스트(automated testing) 같은 좋은 기술 관행과 좋은 아키텍처 관행(architectural practices)을 도입해서, 속도를 내더라도 더 안정적일 수 있게 하고 싶어요. 또 개발자 경험(developer experience)을 개선하는 데 계속 신경 써서, 빨라질수록 시간도 절약되게 하고 싶어요.",
     "text_zh": "我们想要落地一些好的技术实践，比如自动化测试(automated testing)，还有好的架构实践，这样你跑得快的同时，系统也更稳定，对吧。我们还要考虑提升开发者体验(developer experience)，这样我们提速的同时，也能节省时间。",
-    "text_es": "Queremos implementar buenas prácticas técnicas como las pruebas automatizadas (automated testing), buenas prácticas de arquitectura para que cuando te muevas rápido, también tengas más estabilidad, ¿no? Queremos pensar en mejorar la experiencia del desarrollador (developer experience) para que cuando seamos más rápidos, también estemos ahorrando tiempo."
+    "text_es": "Queremos implementar buenas prácticas técnicas como las pruebas automatizadas (automated testing), buenas prácticas de arquitectura para que cuando te muevas rápido, también tengas más estabilidad, ¿no? Queremos pensar en mejorar la experiencia del desarrollador (developer experience) para que cuando seamos más rápidos, también estemos ahorrando tiempo.",
+    "key_sentence": "Implement good practices to improve developer experience while moving fast."
   },
   {
     "text": "Most people only think about this from the speed standpoint, which means when you move faster, you are more stable, which means you're pushing smaller changes more often, right. Because if you're pushing all the time, it's going to be very, very small changes, which means you have a smaller blast radius, which means when you push, you have an error in production. It's going to be easier to debug, right.",
@@ -155,6 +161,7 @@
     ],
     "text_ko": "대부분 사람들은 이걸 속도 관점(speed standpoint)에서만 바라봐요. 빨리 움직이면 더 안정적이라는 건데, 그건 다시 말해 더 작은 변경을 더 자주 배포(deploy)한다는 뜻이에요. 계속 배포하면 변경 폭이 아주 작아져서 영향 범위(blast radius)가 줄고, 그래서 프로덕션(production)에서 에러가 나더라도 디버깅(debug)이 훨씬 쉬워요.",
     "text_zh": "大部分人只从速度这个角度来看这个问题，就是说你动作越快，其实越稳定，因为你会更频繁地推送一些小的改动，对吧。因为如果你一直在推送的话，每次的改动都会很小很小，这样你的影响范围(blast radius)就比较小，所以当你推送的时候，生产环境出了问题，调试起来就容易多了，对吧。",
-    "text_es": "La mayoría de la gente solo piensa en esto desde el punto de vista de la velocidad, o sea que cuando te mueves más rápido, eres más estable, lo que significa que estás subiendo cambios más pequeños y más seguido, ¿no? Porque si estás subiendo todo el tiempo, van a ser cambios muy, muy pequeños, lo que significa que tienes un radio de impacto (blast radius) menor, entonces cuando subes algo y tienes un error en producción, va a ser mucho más fácil hacer el debug, ¿me explico?"
+    "text_es": "La mayoría de la gente solo piensa en esto desde el punto de vista de la velocidad, o sea que cuando te mueves más rápido, eres más estable, lo que significa que estás subiendo cambios más pequeños y más seguido, ¿no? Porque si estás subiendo todo el tiempo, van a ser cambios muy, muy pequeños, lo que significa que tienes un radio de impacto (blast radius) menor, entonces cuando subes algo y tienes un error en producción, va a ser mucho más fácil hacer el debug, ¿me explico?",
+    "key_sentence": "Pushing smaller changes reduces the blast radius and eases debugging."
   }
 ]

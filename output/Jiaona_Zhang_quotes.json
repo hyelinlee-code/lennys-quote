@@ -21,7 +21,8 @@
     ],
     "text_ko": "정말 쉽게 고쳐지지 않는 습관이 하나 있는데, 사람이라면 다들 하는 것 같아요 — 바로 해결책에 성급히 뛰어드는 거예요. 제가 강의에서만이 아니라 PM (product manager)으로 일하면서도 자주 보는 큰 실수 중 하나는, 머릿속에 그려둔 구현 방식(implementation)이나 만들고 싶은 솔루션(solution)에 너무 집착해버리는 거예요.",
     "text_zh": "我觉得有一个特别难改的习惯，但是每个人都会这样做，就是你会直接跳到解决方案上去。所以我发现一个最大的问题，不光是在我的课程里，就是作为产品经理(PM)也是这样，很多产品经理都会犯的错误就是，你会特别执着于某个解决方案，执着于你脑子里想象的那个实现方式，就是你特别想要去做的那个东西。",
-    "text_es": "Creo que hay algo súper difícil de quitarse de encima, pero que todos hacemos: saltar directo a las soluciones. Y una de las cosas más grandes que veo, no solo en mi curso sino también como PM y algunos de los errores que cometes como PM, es que te enamoras de una solución, de una forma de implementar algo que ya tienes clarísimo en la cabeza y que quieres construir."
+    "text_es": "Creo que hay algo súper difícil de quitarse de encima, pero que todos hacemos: saltar directo a las soluciones. Y una de las cosas más grandes que veo, no solo en mi curso sino también como PM y algunos de los errores que cometes como PM, es que te enamoras de una solución, de una forma de implementar algo que ya tienes clarísimo en la cabeza y que quieres construir.",
+    "key_sentence": "It's hard to untrain jumping to solutions and getting attached to them."
   },
   {
     "text": "You could be known for shepherding like the most complex launches because you're just so good at quarterbacking. Working with go-to--market teams and cross-functional stakeholders that could be like your thing. You could be known for working on the most technically complex problems, find something that you can be really, really good at.",
@@ -45,7 +46,8 @@
     ],
     "text_ko": "가장 복잡한 런칭(launches)을 총괄해서 이끄는 사람으로 알려질 수 있어요. 쿼터백 역할(quarterbacking)을 정말 잘하니까요. 시장 진입(go-to-market) 팀이나 교차 기능 이해관계자(cross-functional stakeholders)들과 함께 일하는 게 당신의 강점이 될 수 있어요. 또는 가장 기술적으로 복잡한 문제(technically complex problems)를 다루는 일로 이름을 낼 수도 있어요. 정말 잘할 수 있는 무언가를 찾아보세요.",
     "text_zh": "你可以因为特别擅长统筹协调那些最复杂的产品发布而出名，因为你就是很会做项目管理(quarterbacking)。跟市场推广(go-to-market)团队还有各个部门的利益相关方打交道，这可能就是你的强项。你也可以专门攻克那些技术上最复杂的难题，总之要找到一个你能做得特别特别好的领域。",
-    "text_es": "Podrías ser conocido por liderar los lanzamientos más complejos porque eres increíble coordinando equipos. Trabajar con los equipos de go-to-market y con stakeholders de diferentes áreas podría ser lo tuyo. Podrías ser conocido por resolver los problemas técnicos más difíciles, encuentra algo en lo que puedas ser realmente, pero realmente bueno."
+    "text_es": "Podrías ser conocido por liderar los lanzamientos más complejos porque eres increíble coordinando equipos. Trabajar con los equipos de go-to-market y con stakeholders de diferentes áreas podría ser lo tuyo. Podrías ser conocido por resolver los problemas técnicos más difíciles, encuentra algo en lo que puedas ser realmente, pero realmente bueno.",
+    "key_sentence": "You could be known for shepherding complex launches and quarterbacking cross-functional stakeholders."
   },
   {
     "text": "My biggest tip on OKRs is actually get really, really crisp on qualitatively. What would make you say \"Yes, we did a great job\"? And the reason I pushed so hard on that is because I see so many teams get really mucked down by OKRs.",
@@ -68,7 +70,8 @@
     ],
     "text_ko": "OKR에 대한 저의 가장 큰 팁은 사실 질적인 부분에 대해 정말 명확해지는 거예요. \"우리가 정말 잘했다!\"라고 말할 수 있는 기준이 뭔지 생각해보세요. 제가 이렇게 강조하는 이유는 많은 팀들이 OKR 때문에 정말 힘들어하는 걸 많이 봤거든요.",
     "text_zh": "我对OKRs最大的建议就是，一定要在定性描述上特别特别清晰。什么情况下你会说\"对，我们这次干得很棒\"？我特别强调这点是因为我见过太多团队在OKRs上搞得一团糟。",
-    "text_es": "Mi consejo más importante sobre los OKRs es que te enfoques súper bien en lo cualitativo. ¿Qué tendría que pasar para que digas \"Sí, lo hicimos genial\"? Y insisto tanto en esto porque he visto muchos equipos que se atascan completamente con los OKRs."
+    "text_es": "Mi consejo más importante sobre los OKRs es que te enfoques súper bien en lo cualitativo. ¿Qué tendría que pasar para que digas \"Sí, lo hicimos genial\"? Y insisto tanto en esto porque he visto muchos equipos que se atascan completamente con los OKRs.",
+    "key_sentence": "Get really crisp on what defines a great job to avoid being mucked down by OKRs."
   },
   {
     "text": "I think the biggest tips I have is how do to be clear about the phase that you're in? So I think it's totally fine to be like, \"Hey, we are going to try X for six months, three months, whatever it is, and we're explicitly going to go learn these types of things.\"",
@@ -90,7 +93,8 @@
     ],
     "text_ko": "제가 드릴 가장 큰 팁은 지금 어떤 단계인지 분명히 하는 방법이에요. 예를 들어 \"저희는 X를 6개월이나 3개월 등 정해진 기간 동안 시도해볼 거고, 그 기간에 구체적으로 이런 것들을 배우는 걸 목표로 삼을 거예요\"라고 명확하게 말하는 건 전혀 문제없다고 생각해요.",
     "text_zh": "我觉得最重要的建议就是，你得搞清楚自己现在处在哪个阶段，对吧？我觉得完全可以这样说：\"嘿，我们打算试试X这个方向，给自己定个期限，六个月也好，三个月也好，就是要专门去摸索这些东西。\"",
-    "text_es": "Creo que el consejo más importante que tengo es ser súper claro sobre en qué etapa estás, ¿no? O sea, me parece perfectamente válido decir: \"Oye, vamos a probar X durante seis meses, tres meses, lo que sea, y específicamente vamos a enfocarnos en aprender este tipo de cosas.\""
+    "text_es": "Creo que el consejo más importante que tengo es ser súper claro sobre en qué etapa estás, ¿no? O sea, me parece perfectamente válido decir: \"Oye, vamos a probar X durante seis meses, tres meses, lo que sea, y específicamente vamos a enfocarnos en aprender este tipo de cosas.\"",
+    "key_sentence": "Be explicit about the phase you're in and what you're going to learn."
   },
   {
     "text": "On the product side, it's about really understanding why people love you and not forgetting to invest deeply in that core concept and then building everything around that. And so I'll walk you through the different companies.",
@@ -112,7 +116,8 @@
     ],
     "text_ko": "제품 측면(product side)에서는 사람들이 왜 여러분을 좋아하는지를 정말로 이해하고, 그 핵심 개념(core concept)에 깊이 투자하는 걸 잊지 않으면서 모든 것을 그걸 중심으로 만들어가는 것이 중요해요. 그래서 이제 제가 여러 회사를 하나씩 소개해 드릴게요.",
     "text_zh": "在产品这块儿，关键是要真正搞清楚用户为什么喜欢你，别忘了在这个核心理念上下重本，然后围绕这个来做所有的东西。所以我给你们讲几个不同公司的例子。",
-    "text_es": "En cuanto al producto, se trata de entender realmente por qué la gente te ama y no olvidarte de apostar fuerte en ese concepto central, y después construir todo alrededor de eso. Así que te voy a explicar las diferentes empresas."
+    "text_es": "En cuanto al producto, se trata de entender realmente por qué la gente te ama y no olvidarte de apostar fuerte en ese concepto central, y después construir todo alrededor de eso. Así que te voy a explicar las diferentes empresas.",
+    "key_sentence": "Invest deeply in that core concept to understand why people love you."
   },
   {
     "text": "Trust is so important. Trust is everything. As a PM, the trust that your cross-functional partners have in you, the trust that the CEO has is you... It's huge. Trust is everything. And maybe here, I'll even talk about some of the mistakes I made in the first 90 days.",
@@ -134,6 +139,7 @@
     ],
     "text_ko": "신뢰는 정말 중요해요. 신뢰가 모든 것이죠. PM으로서, 당신의 다양한 파트너들이 당신을 믿는 것, CEO가 당신을 믿는 것... 이건 정말 큰 일이에요. 신뢰가 모든 거예요. 그리고 여기서 제가 처음 90일 동안 저지른 실수에 대해서도 이야기해볼게요.",
     "text_zh": "信任太重要了，信任就是一切。作为PM，你的跨职能合作伙伴对你的信任，CEO对你的信任...这些都太关键了。信任真的就是一切。说到这里，我甚至可以聊聊我在前90天犯的一些错误。",
-    "text_es": "La confianza es súper importante. La confianza lo es todo. Como PM, la confianza que tengan en ti tus compañeros de otras áreas, la confianza que tenga el CEO en ti... es enorme. La confianza lo es todo. Y tal vez aquí hasta les cuente algunos errores que cometí en mis primeros 90 días."
+    "text_es": "La confianza es súper importante. La confianza lo es todo. Como PM, la confianza que tengan en ti tus compañeros de otras áreas, la confianza que tenga el CEO en ti... es enorme. La confianza lo es todo. Y tal vez aquí hasta les cuente algunos errores que cometí en mis primeros 90 días.",
+    "key_sentence": "Trust is everything for cross-functional partners and your relationship with the CEO."
   }
 ]

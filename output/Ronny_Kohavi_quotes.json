@@ -20,7 +20,8 @@
     ],
     "text_ko": "저는 '모든 것을 테스트하기(test everything)' 방식을 아주 강하게 지지해요. 즉, 코드 변경이나 새로 도입하는 기능은 모두 어떤 형태로든 실험(experiment)을 통해 검증돼야 해요. 다시 말하지만, 제가 경험해 보니 작은 버그 수정이나 사소한 변경조차 때로는 예상치 못한 영향을 줄 수 있더라고요.",
     "text_zh": "我的态度很明确，我是\"全面测试\"的忠实拥护者，也就是说你做的任何代码修改、引入的任何功能都必须放到实验(experiment)里去验证。因为我发现了一个很意外的现象，就是哪怕是修个小bug、做个小改动，有时候都会产生让人意想不到的影响。",
-    "text_es": "Tengo muy claro que soy súper fan de testear todo, o sea, cualquier cambio de código que hagas, cualquier funcionalidad nueva que introduzcas tiene que estar en algún experimento. Porque otra vez, he visto este resultado medio sorprendente de que hasta las correcciones de bugs más pequeñas, hasta los cambios más mínimos a veces pueden tener un impacto sorprendente e inesperado."
+    "text_es": "Tengo muy claro que soy súper fan de testear todo, o sea, cualquier cambio de código que hagas, cualquier funcionalidad nueva que introduzcas tiene que estar en algún experimento. Porque otra vez, he visto este resultado medio sorprendente de que hasta las correcciones de bugs más pequeñas, hasta los cambios más mínimos a veces pueden tener un impacto sorprendente e inesperado.",
+    "key_sentence": "Test everything; even small changes can have a sort of surprising result."
   },
   {
     "text": "You have to allocate sometimes to these high risk, high reward ideas. We're going to try something that's most likely to fail. But if it does win, it's going to be a home run. And you have to be ready to understand and agree that most will fail.",
@@ -44,7 +45,8 @@
     ],
     "text_ko": "가끔은 하이 리스크 하이 리턴(high risk, high reward)인 아이디어에 자원을 배분해야 해요. 실패할 가능성이 가장 높은 걸 시도해 보려고 해요. 하지만 성공하면 홈런(home run)이 될 거예요. 그리고 대부분은 실패할 거라는 걸 이해하고 받아들일 준비가 돼 있어야 해요.",
     "text_zh": "有时候你得在这些高风险高回报的想法上投点钱。我们要尝试一些很可能失败的东西，但如果成功了，那就是全垒打(home run)。你必须做好心理准备，接受大部分都会失败这个现实。",
-    "text_es": "A veces tienes que apostar por esas ideas de alto riesgo y alta recompensa. Vamos a intentar algo que probablemente va a fracasar. Pero si funciona, va a ser un pelotazo. Y tienes que estar preparado para entender y aceptar que la mayoría van a fallar."
+    "text_es": "A veces tienes que apostar por esas ideas de alto riesgo y alta recompensa. Vamos a intentar algo que probablemente va a fracasar. Pero si funciona, va a ser un pelotazo. Y tienes que estar preparado para entender y aceptar que la mayoría van a fallar.",
+    "key_sentence": "Allocate to high risk, high reward ideas for potential home runs."
   },
   {
     "text": "And it's amazing how many times I've seen people come up with new designs or a radical new idea. And they believe in it, and that's okay. I'm just cautioning them all the time to say, 'If you go for something big, try it out, but be ready to fail 80% of the time.'",
@@ -69,7 +71,8 @@
     ],
     "text_ko": "사람들이 새로운 디자인이나 파격적인 아이디어를 떠올리는 걸 얼마나 자주 보는지 정말 놀라워요. 그리고 그걸 믿는 것도 괜찮아요. 다만 저는 항상 이렇게 얘기해요: \"큰 도전을 하려면 시도는 해보되, 80%는 실패할 준비를 하세요.\"",
     "text_zh": "我见过太多人想出新设计或者很颠覆性的想法，他们特别相信自己的点子，这没问题。但我总是提醒他们：如果你想搞个大的，可以试试看，但要做好失败的准备——十有八九都会失败的。",
-    "text_es": "Y es increíble cuántas veces he visto a gente que se le ocurren diseños nuevos o una idea súper innovadora. Y se la creen a muerte, y está bien. Pero siempre les estoy advirtiendo: 'Si van a por algo grande, pruébenlo, pero prepárense para fallar el 80% de las veces.'"
+    "text_es": "Y es increíble cuántas veces he visto a gente que se le ocurren diseños nuevos o una idea súper innovadora. Y se la creen a muerte, y está bien. Pero siempre les estoy advirtiendo: 'Si van a por algo grande, pruébenlo, pero prepárense para fallar el 80% de las veces.'",
+    "key_sentence": "Cautioning them, if you go for something big, be ready to fail 80%."
   },
   {
     "text": "Of these experiments, 92% failed to improve the metric that we were trying to move. So only 8% of our ideas actually were successful at moving the key metrics.",
@@ -92,7 +95,8 @@
     ],
     "text_ko": "이 실험들(experiments) 중 92%는 우리가 움직이려고 했던 지표(metric)를 개선하지 못했어요. 그래서 결국 우리 아이디어(ideas) 중 실제로 핵심 지표(key metrics)를 움직인 건 단 8%뿐이었어요.",
     "text_zh": "这些实验里面，92%都没能把我们想要提升的指标搞上去。所以我们的想法中，真正能推动关键指标的其实只有8%。",
-    "text_es": "De todos estos experimentos, el 92% no logró mejorar la métrica que queríamos impactar. O sea que solo el 8% de nuestras ideas realmente funcionaron para mover las métricas clave."
+    "text_es": "De todos estos experimentos, el 92% no logró mejorar la métrica que queríamos impactar. O sea que solo el 8% de nuestras ideas realmente funcionaron para mover las métricas clave.",
+    "key_sentence": "Only 8% of our ideas successfully move the key metrics."
   },
   {
     "text": "I think one of the mistakes that some company makes is they launch a lot of experiments and never go back and summarize the learnings. So I've actually put a lot of effort in this idea of institutional learning, of doing the quarterly meeting of the most surprising experiments.",
@@ -115,7 +119,8 @@
     ],
     "text_ko": "제가 보기엔 어떤 회사들이 하는 실수 중 하나가 실험은 많이 해두고 정작 배운 점을 되돌아보거나 정리하지 않는 거예요. 그래서 저는 제도화된 학습(institutional learning)에 많은 공을 들였고, 가장 놀라웠던 실험들을 모아 분기별 회의(quarterly meeting)를 여는 일을 실제로 하고 있어요.",
     "text_zh": "我觉得有些公司犯的一个错误就是，做了一大堆实验但从来不回头总结学到了什么。所以我其实在制度化学习这块下了很大功夫，每个季度都开会专门讲那些最让人意外的实验结果。",
-    "text_es": "Creo que uno de los errores que cometen algunas empresas es que lanzan un montón de experimentos y nunca regresan a hacer un resumen de lo que aprendieron. Así que yo le he puesto mucho empeño a esta idea del aprendizaje institucional, de hacer esa junta trimestral de los experimentos más sorprendentes."
+    "text_es": "Creo que uno de los errores que cometen algunas empresas es que lanzan un montón de experimentos y nunca regresan a hacer un resumen de lo que aprendieron. Así que yo le he puesto mucho empeño a esta idea del aprendizaje institucional, de hacer esa junta trimestral de los experimentos más sorprendentes.",
+    "key_sentence": "Summarize the learnings from experiments for effective institutional learning."
   },
   {
     "text": "Document it. We had a large deck internally of these successes and failures, and we encourage people to look at them. The other thing that's very beneficial is just to have your whole history of experiments and do some ability to search by keywords.",
@@ -138,6 +143,7 @@
     ],
     "text_ko": "문서로 남겨 두세요. 저희는 내부적으로 이런 성공·실패 사례를 모아둔 큰 슬라이드 덱(deck)이 있었고, 사람들에게 그걸 보라고 권장해요. 또 정말 유용한 건 전체 실험(experiments) 이력을 남겨서 키워드(keywords)로 검색할 수 있게 해두는 거예요.",
     "text_zh": "把这些都记录下来。我们内部有一套很全的材料，把这些成功和失败的案例都整理在里面，我们也鼓励大家多去看看。另外还有一个特别有用的做法，就是把你们所有的实验历史都保存好，然后可以按关键词来搜索查找。",
-    "text_es": "Documéntalo todo. Nosotros teníamos internamente una presentación bien grande con todos estos éxitos y fracasos, y animábamos a la gente a revisarla. Lo otro que es súper útil es tener todo el historial de experimentos y poder buscar por palabras clave."
+    "text_es": "Documéntalo todo. Nosotros teníamos internamente una presentación bien grande con todos estos éxitos y fracasos, y animábamos a la gente a revisarla. Lo otro que es súper útil es tener todo el historial de experimentos y poder buscar por palabras clave.",
+    "key_sentence": "Document a large deck internally to track successes and failures, searchable by keywords."
   }
 ]

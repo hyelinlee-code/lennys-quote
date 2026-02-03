@@ -1,13 +1,14 @@
 import { useState, useEffect, useMemo } from 'react';
-import { Quote, Filters, Language } from '../types';
+import { Quote, Filters, Language, SortBy } from '../types';
 
 const DATA_URL = '/data/quotes.json';
 
-export function useQuotes() {
+export function useQuotes(likes: Set<string>) {
   const [allQuotes, setAllQuotes] = useState<Quote[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [language, setLanguage] = useState<Language>('en');
+  const [sortBy, setSortBy] = useState<SortBy>('recent');
   const [filters, setFilters] = useState<Filters>({
     search: '',
     functions: [],
@@ -56,7 +57,7 @@ export function useQuotes() {
   // Filter quotes
   const filteredQuotes = useMemo(() => {
     return allQuotes.filter((q) => {
-      // Search filter
+      // Search filter (kept for programmatic use, just not in UI)
       if (filters.search) {
         const term = filters.search.toLowerCase();
         const matchText =
@@ -96,6 +97,39 @@ export function useQuotes() {
     });
   }, [allQuotes, filters]);
 
+  // Sort quotes
+  const sortedQuotes = useMemo(() => {
+    const sorted = [...filteredQuotes];
+
+    switch (sortBy) {
+      case 'recent':
+        // Sort by episodeOrder descending (newest first)
+        // Quotes without episodeOrder go to the end
+        sorted.sort((a, b) => {
+          const aOrder = a.episodeOrder ?? 0;
+          const bOrder = b.episodeOrder ?? 0;
+          return bOrder - aOrder;
+        });
+        break;
+
+      case 'popular':
+        // Liked quotes first, then rest in default order
+        sorted.sort((a, b) => {
+          const aLiked = likes.has(a.id) ? 1 : 0;
+          const bLiked = likes.has(b.id) ? 1 : 0;
+          if (bLiked !== aLiked) return bLiked - aLiked;
+          return 0; // preserve relative order among equally liked/unliked
+        });
+        break;
+
+      case 'speaker':
+        sorted.sort((a, b) => a.speaker.localeCompare(b.speaker));
+        break;
+    }
+
+    return sorted;
+  }, [filteredQuotes, sortBy, likes]);
+
   const updateFilter = (key: keyof Filters, value: Filters[keyof Filters]) => {
     setFilters((prev) => ({ ...prev, [key]: value }));
   };
@@ -115,11 +149,13 @@ export function useQuotes() {
   }, [allQuotes]);
 
   return {
-    quotes: filteredQuotes,
+    quotes: sortedQuotes,
     loading,
     error,
     language,
     setLanguage,
+    sortBy,
+    setSortBy,
     filters,
     updateFilter,
     clearFilters,

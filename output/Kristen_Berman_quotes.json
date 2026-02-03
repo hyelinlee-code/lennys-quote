@@ -22,7 +22,8 @@
     ],
     "text_ko": "사람들에게 개방형 질문(open-ended question)을 받아 자유 입력 필드(open text field)처럼 되어 있던 항목을 없애려고 했고, 그 결과 페이지별로 보니 전환율(conversion)이 40%나 올랐어요. 확실히 어떤 질문들은 난이도가 높아서 굳이 물어보면 안 돼요. 질문이 더 쉽고 드롭다운 다지선다(drop-down multiple choice)로 만들 수 있을 때 시도해보는 게 좋아요.",
     "text_zh": "我们把那个开放式文本框给去掉了，就是那种让用户自己填写的开放性问题，结果转化率直接提升了40%。所以肯定有些问题比较难回答，你就别问了。如果问题比较简单，用下拉菜单或者多选的形式，这种时候你就可以试试看。",
-    "text_es": "Queremos quitar ese campo que era como un texto abierto donde les hacíamos una pregunta muy general, y así mejoramos la conversión en un 40% de página a página. O sea, está claro que hay preguntas que son más complicadas y mejor no hacerlas. Cuando las preguntas son más fáciles y puedes usar un menú desplegable (dropdown) con opciones múltiples, ahí es cuando sí vale la pena intentarlo."
+    "text_es": "Queremos quitar ese campo que era como un texto abierto donde les hacíamos una pregunta muy general, y así mejoramos la conversión en un 40% de página a página. O sea, está claro que hay preguntas que son más complicadas y mejor no hacerlas. Cuando las preguntas son más fáciles y puedes usar un menú desplegable (dropdown) con opciones múltiples, ahí es cuando sí vale la pena intentarlo.",
+    "key_sentence": "Improved conversion by 40% using drop down multiple choice questions."
   },
   {
     "text": "We are all present bias, which means we prioritize our present self over our future self, so there are plenty of reasons that somebody, your customer, your user should take an action, but you actually have to give them a reason to take an action today.",
@@ -47,7 +48,8 @@
     ],
     "text_ko": "우리는 모두 현재 편향(present bias)이 있어서 현재의 나를 미래의 나보다 더 우선시해요. 그래서 누군가, 즉 당신의 고객이나 사용자가 어떤 행동을 해야 할 이유는 많을 수 있지만, 그들이 오늘 당장 행동하도록 만들 만한 이유를 반드시 줘야 해요.",
     "text_zh": "我们都有当下偏见(present bias)的毛病，就是说我们总是优先考虑现在的自己，而不是将来的自己。所以呢，虽然你的客户、用户有很多理由应该采取行动，但你必须得给他们一个今天就行动的理由。",
-    "text_es": "Todos tenemos sesgo del presente (present bias), o sea que priorizamos nuestro yo actual por encima de nuestro yo futuro, entonces aunque haya muchas razones por las que alguien —tu cliente, tu usuario— debería tomar una acción, en realidad tienes que darle una razón para que actúe hoy mismo."
+    "text_es": "Todos tenemos sesgo del presente (present bias), o sea que priorizamos nuestro yo actual por encima de nuestro yo futuro, entonces aunque haya muchas razones por las que alguien —tu cliente, tu usuario— debería tomar una acción, en realidad tienes que darle una razón para que actúe hoy mismo.",
+    "key_sentence": "Present bias leads us to prioritize our present self over our future self."
   },
   {
     "text": "I like to say we are what we measure, and it really matters what you measure. I'll give you a personal example. LendingClub, a while ago, hired me to increase their conversion flow for borrowers. They're a lending app and they wanted to get more borrowers in the flow. The novel thing here was that they would pay me a lot of money if I hit a bump. It was like a five-point bump and zero if I didn't hit anything.",
@@ -72,7 +74,8 @@
     ],
     "text_ko": "제가 늘 하는 말이 있어요. 우리는 우리가 측정하는 것이고, 무엇을 측정하느냐가 정말 중요해요. 개인적인 예를 들면요. 얼마 전 LendingClub이 저를 고용해서 대출자 대상 전환 흐름(conversion flow)을 높여달라고 했어요. 그들은 대출 앱(lending app)이고 전환 흐름으로 더 많은 대출자를 유입시키고 싶어했죠. 특이한 점은 제가 어떤 증가(bump)를 만들어내면 거액을 지급하겠다고 한 거예요. 대략 5포인트(5-point) 정도 올리면 큰 보상을 주고, 아무 효과가 없으면 전혀 없다고 했어요.",
     "text_zh": "我经常说，我们就是我们所衡量的东西，你衡量什么真的很重要。我给你举个我自己的例子。之前LendingClub找我去提升他们借款人的转化流程(conversion flow)。他们是个借贷app，想要更多借款人进入流程。这里有个很特别的地方，如果我能达到指标，他们会给我一大笔钱。就是说如果我能提升五个点，钱就到位了，如果没达到就一分钱都没有。",
-    "text_es": "Me gusta decir que somos lo que medimos, y de verdad importa mucho qué es lo que mides. Te voy a dar un ejemplo personal. LendingClub me contrató hace un tiempo para mejorar su flujo de conversión (conversion flow) de prestatarios. Es una app de préstamos y querían meter más prestatarios en el embudo (funnel). Lo interesante aquí era que me iban a pagar un dineral si lograba un incremento. Era como un aumento de cinco puntos y cero si no conseguía nada."
+    "text_es": "Me gusta decir que somos lo que medimos, y de verdad importa mucho qué es lo que mides. Te voy a dar un ejemplo personal. LendingClub me contrató hace un tiempo para mejorar su flujo de conversión (conversion flow) de prestatarios. Es una app de préstamos y querían meter más prestatarios en el embudo (funnel). Lo interesante aquí era que me iban a pagar un dineral si lograba un incremento. Era como un aumento de cinco puntos y cero si no conseguía nada.",
+    "key_sentence": "We are what we measure; hitting a bump was the novel thing for LendingClub."
   },
   {
     "text": "So, we did this literature review. We came up with a hypothesis, and we had probably 30 different ways to implement this because the hypothesis is just a starting point. And then, we put it into quantitative research. So, we actually put five different version of the popup in front of over a thousand users, which... We got users from Prolific, which is a platform where you can easily test things.",
@@ -97,7 +100,8 @@
     ],
     "text_ko": "그래서 문헌 조사(literature review)를 했어요. 가설(hypothesis)을 세웠고, 가설은 출발점일 뿐이라서 이걸 구현할 방법이 아마 30가지 정도 나왔어요. 그다음엔 정량 연구(quantitative research)로 검증했어요. 실제로 팝업(popup) 다섯 가지 버전을 천 명이 넘는 사용자(users)에게 보여줬고, 그 사용자들은 쉽게 테스트할 수 있는 플랫폼인 프로필릭(Prolific)에서 모집했어요.",
     "text_zh": "所以我们做了文献调研，提出了一个假设，然后发现大概有30种不同的实现方式，因为假设只是个起点嘛。接着我们就做定量研究，把5个不同版本的弹窗放到一千多个用户面前测试。这些用户是从Prolific平台找来的，那个平台测东西特别方便。",
-    "text_es": "Entonces, hicimos esta revisión bibliográfica. Llegamos a una hipótesis, y teníamos como 30 formas diferentes de implementar esto porque la hipótesis es solo un punto de partida. Y luego, lo metimos en investigación cuantitativa. Así que pusimos cinco versiones distintas del popup frente a más de mil usuarios, lo cual... Conseguimos usuarios de Prolific, que es una plataforma donde puedes probar cosas fácilmente."
+    "text_es": "Entonces, hicimos esta revisión bibliográfica. Llegamos a una hipótesis, y teníamos como 30 formas diferentes de implementar esto porque la hipótesis es solo un punto de partida. Y luego, lo metimos en investigación cuantitativa. Así que pusimos cinco versiones distintas del popup frente a más de mil usuarios, lo cual... Conseguimos usuarios de Prolific, que es una plataforma donde puedes probar cosas fácilmente.",
+    "key_sentence": "The hypothesis is a starting point for de-risking our quantitative research."
   },
   {
     "text": "We never do a UX study where we're just showing people one thing because they could really like it or hate it, but they could really like or hate all the designs. We have no idea. So, when we're doing this, we always present multiple options, and then relatively look for which one is going to drive the behavior we're intending to change.",
@@ -122,7 +126,8 @@
     ],
     "text_ko": "우리는 사람들에게 한 가지만 보여주는 UX 조사(UX study)는 절대 안 해요. 그 한 가지를 되게 좋아할 수도, 완전 싫어할 수도 있는데 다른 디자인들도 마찬가지라서 어떤 결과가 나올지 전혀 모르거든요. 그래서 조사할 땐 항상 여러 옵션을 제시하고, 그중에서 우리가 바꾸려는 행동을 실제로 더 잘 이끌어낼 게 뭔지 비교해봐요.",
     "text_zh": "我们做用户体验(UX)研究的时候，从来不会只给用户看一个方案，因为他们可能特别喜欢或者特别讨厌这个方案，但问题是，也许所有的设计他们都会有同样的反应，我们根本不知道啊。所以我们做测试的时候，总是会拿出好几个选项来，然后对比看看哪个更能引导用户做出我们想要的行为改变。",
-    "text_es": "Nunca hacemos un estudio de UX donde solo les mostramos una cosa a las personas, porque puede que les encante o la odien, pero en realidad podrían amar u odiar todos los diseños por igual. No tenemos ni idea. Entonces, cuando hacemos esto, siempre presentamos varias opciones, y luego comparamos relativamente para ver cuál va a impulsar el comportamiento que queremos cambiar."
+    "text_es": "Nunca hacemos un estudio de UX donde solo les mostramos una cosa a las personas, porque puede que les encante o la odien, pero en realidad podrían amar u odiar todos los diseños por igual. No tenemos ni idea. Entonces, cuando hacemos esto, siempre presentamos varias opciones, y luego comparamos relativamente para ver cuál va a impulsar el comportamiento que queremos cambiar.",
+    "key_sentence": "We relatively look for options intending to change user behavior through comparative testing."
   },
   {
     "text": "There's kind of two steps. One, you can outline the full high level flow where you're saying maybe there's 50 steps in getting to the behavior, and you can do this before they hit your product, too. But when we're working with just a very kind of... We want to help a team grow their product versus develop a new product, if it's just about growing and improving the current product, we'll do a deck of 200, 300 slides of screenshots where it's just very detailed analysis of the steps that it takes to get to the behavior change.",
@@ -147,6 +152,7 @@
     ],
     "text_ko": "사실 두 단계가 있어요. 먼저 전체 하이레벨 플로우(high-level flow)를 개괄하는 건데, 어떤 행동(behavior change)에 도달하기까지 50단계쯤 있다고 보고 흐름을 쭉 정리해요. 이건 사용자가 제품에 접속하기 전에도 할 수 있어요. 그런데 우리가 새 제품을 만드는 게 아니라 팀이 현재 제품을 성장시키고 개선하도록 도와주는 상황이라면 훨씬 더 자세히 들어가요. 현재 제품을 성장시키는 게 목적이라면 행동 변화(behavior change)에 이르는 단계들을 아주 세밀하게 분석한 스크린샷(screenshots) 위주의 200~300슬라이드짜리 덱(deck)을 만들어요.",
     "text_zh": "基本上分两步走。第一步，你可以先把整个大框架梳理出来，比如说要达到这个行为改变可能需要50个步骤，而且这个在用户接触你产品之前就可以做。但如果我们现在主要是帮一个团队把现有产品做大做强，而不是从头开发新产品的话，那我们就会做一个200到300页截图的PPT，非常详细地分析每一个步骤，看怎么才能实现行为改变。",
-    "text_es": "Básicamente son como dos pasos. Uno, puedes mapear todo el flujo general de alto nivel donde dices que tal vez hay 50 pasos para llegar al comportamiento que buscas, y esto lo puedes hacer incluso antes de que lleguen a tu producto. Pero cuando trabajamos con algo más... Digamos que queremos ayudar a un equipo a hacer crecer su producto en lugar de desarrollar uno nuevo, si se trata solo de hacer crecer y mejorar el producto actual, hacemos una presentación de 200, 300 slides con capturas de pantalla donde es un análisis súper detallado de todos los pasos que se necesitan para lograr ese cambio de comportamiento."
+    "text_es": "Básicamente son como dos pasos. Uno, puedes mapear todo el flujo general de alto nivel donde dices que tal vez hay 50 pasos para llegar al comportamiento que buscas, y esto lo puedes hacer incluso antes de que lleguen a tu producto. Pero cuando trabajamos con algo más... Digamos que queremos ayudar a un equipo a hacer crecer su producto en lugar de desarrollar uno nuevo, si se trata solo de hacer crecer y mejorar el producto actual, hacemos una presentación de 200, 300 slides con capturas de pantalla donde es un análisis súper detallado de todos los pasos que se necesitan para lograr ese cambio de comportamiento.",
+    "key_sentence": "A detailed analysis outlines the high level flow to achieve behavior change."
   }
 ]

@@ -23,7 +23,8 @@
     ],
     "text_ko": "2010년부터 2020년까지는 결정론적 매칭(deterministic matching)의 황금기였어요. 광고를 내면 누가 앱을 설치했는지 아주 정확히 파악하기가 쉬웠죠. 이름은 몰라도 그 사람의 광고 식별자(IDFA)를 알고, 그걸 개인 식별 정보(PII, personally identifiable information)와 연결할 수 있었어요. 이제는 그게 안 돼요. 그래서 광고 네트워크(ad networks)들이 더 복잡하고 정교해지면서 흥미로워지고 있는데, 마케터들이 실제로 돈을 어떻게 쓰는지 이해하기는 훨씬 더 어려워졌어요.",
     "text_zh": "从2010年到2020年，那是确定性匹配(deterministic matching)的黄金时代，跑个广告就能很精准地知道是谁下载了你的应用。虽然你可能不知道用户的真实姓名，但你能拿到他们的IDFA，然后把这个跟个人身份信息(PII)关联起来。现在这套玩法行不通了。这就意味着，广告网络(ad networks)变得越来越复杂、越来越高端，与此同时，营销人员却更难搞清楚自己的钱到底花到哪儿去了。",
-    "text_es": "Desde el 2010 hasta el 2020, tuvimos la época dorada del deterministic matching, donde era súper fácil lanzar un anuncio y entender con precisión exacta quién se descargó la app. Tal vez no sabías su nombre, pero sí sabías su IDFA y podías conectar eso con su información personal. Ya no se puede hacer eso. Entonces, lo que significa es que estas redes publicitarias se están volviendo más complejas, sofisticadas e interesantes, justo al mismo tiempo que se les hace más difícil a los marketers entender realmente en qué se están gastando el dinero."
+    "text_es": "Desde el 2010 hasta el 2020, tuvimos la época dorada del deterministic matching, donde era súper fácil lanzar un anuncio y entender con precisión exacta quién se descargó la app. Tal vez no sabías su nombre, pero sí sabías su IDFA y podías conectar eso con su información personal. Ya no se puede hacer eso. Entonces, lo que significa es que estas redes publicitarias se están volviendo más complejas, sofisticadas e interesantes, justo al mismo tiempo que se les hace más difícil a los marketers entender realmente en qué se están gastando el dinero.",
+    "key_sentence": "Deterministic matching made ad spending easier, but now it's more complex."
   },
   {
     "text": "Marketing technology is like this very amorphous, cross-functional discipline that lives at the crossroads of product and growth and engineering and marketing. It brings together processes and systems from a wide range of disciplines. And I think really the way to think about marketing technology is it's a product manager whose specific role and focus is the system or the third party or first party platform.",
@@ -49,7 +50,8 @@
     ],
     "text_ko": "마케팅 테크(marketing technology)는 굉장히 모호하고 크로스펑셔널(cross-functional)한 분야로, 제품(product)과 그로스(growth), 엔지니어링, 마케팅이 만나는 교차점에 있어요. 다양한 영역의 프로세스와 시스템을 한데 모으는 역할을 하고요. 제 생각엔 마케팅 테크를 이해하는 가장 좋은 방식은, 그 역할과 초점이 시스템이나 서드파티(third-party) 혹은 퍼스트파티(first-party) 플랫폼에 있는 제품 매니저(product manager)라고 보는 거예요.",
     "text_zh": "营销技术(marketing technology)这个东西其实挺模糊的，它是个跨部门的领域，处在产品、增长、工程和营销的交叉点上。它把各个不同领域的流程和系统都整合在一起。我觉得理解营销技术最好的方式就是，把它想象成一个产品经理，只不过这个产品经理专门负责系统平台，不管是第三方的还是自家的平台。",
-    "text_es": "La tecnología de marketing es como una disciplina muy fluida y transversal que está justo en el cruce entre producto, crecimiento, ingeniería y marketing. Junta procesos y sistemas de un montón de áreas diferentes. Y yo creo que realmente la forma de pensar en la tecnología de marketing es como un product manager cuyo rol específico y enfoque es el sistema o la plataforma, ya sea de terceros o propia."
+    "text_es": "La tecnología de marketing es como una disciplina muy fluida y transversal que está justo en el cruce entre producto, crecimiento, ingeniería y marketing. Junta procesos y sistemas de un montón de áreas diferentes. Y yo creo que realmente la forma de pensar en la tecnología de marketing es como un product manager cuyo rol específico y enfoque es el sistema o la plataforma, ya sea de terceros o propia.",
+    "key_sentence": "Marketing technology exists at the crossroads of product, growth, engineering, and marketing."
   },
   {
     "text": "And everybody thinks that marketing technology is just the third party tools, but actually it's designing, architecting and building that stuff on top of your third party tools. That's how you actually have a lot of velocity is thinking about not just build versus buy. It's build and buy now. So, you buy the tool to get 90% of the way there and then you build the cool thing on top with the other 10%.",
@@ -76,7 +78,8 @@
     ],
     "text_ko": "사람들은 마케팅 기술(marketing technology)이 그냥 서드파티 툴(third-party tools)이라고만 생각하지만, 사실은 그 위에 무엇을 설계(designing)하고, 아키텍처(architecting)를 잡아서 실제로 구현(building)하는 일이에요. 속도(velocity)를 내려면 단순히 '구축 대 구매(build vs buy)'만 고민할 게 아니라, 지금은 '구축도 하고 구매도 하는(build and buy)' 접근이 필요해요. 툴을 사서 90%는 해결하고, 나머지 10%를 직접 만들어서 멋진 기능을 얹는 식이에요.",
     "text_zh": "大家都觉得营销技术(marketing technology)就是那些第三方工具，但其实真正的核心是在这些第三方工具基础上去设计、架构和开发东西。要想真正提高效率，不能只想着是自己开发还是直接买，现在得两手抓——既要买也要开发。你买个工具能解决90%的问题，然后在上面开发点酷炫的功能把剩下10%搞定。",
-    "text_es": "Y todo el mundo piensa que la tecnología de marketing son solo las herramientas de terceros, pero en realidad se trata de diseñar, estructurar y construir cosas encima de esas herramientas que ya tienes. Así es como realmente logras mucha velocidad (velocity): no se trata solo de pensar en construir versus comprar. Ahora es construir y comprar a la vez. O sea, compras la herramienta para llegar al 90% del camino y luego construyes la parte genial encima con ese otro 10%."
+    "text_es": "Y todo el mundo piensa que la tecnología de marketing son solo las herramientas de terceros, pero en realidad se trata de diseñar, estructurar y construir cosas encima de esas herramientas que ya tienes. Así es como realmente logras mucha velocidad (velocity): no se trata solo de pensar en construir versus comprar. Ahora es construir y comprar a la vez. O sea, compras la herramienta para llegar al 90% del camino y luego construyes la parte genial encima con ese otro 10%.",
+    "key_sentence": "Velocity comes from building on top of third party tools, not just buying them."
   },
   {
     "text": "I think all marketing technologists at some level are ICs. I think it's a great job personally, because I get to be an IC and a manager. You have to be an IC in that, you are the most senior technical expert on all first party and third party systems. So, you have to know really well how third party tools work and you don't know that without doing the work yourself.",
@@ -97,7 +100,8 @@
     ],
     "text_ko": "저는 모든 마케팅 테크놀로지스트(marketing technologists)가 어느 정도는 다들 IC(Individual Contributor)라고 생각해요. 개인적으로 이 일은 정말 좋은 직무예요 — IC이면서 매니저를 겸할 수 있어서요. 그 역할에서는 IC로서 직접 기여해야 해요. 퍼스트파티(first-party)와 서드파티(third-party) 시스템 전반에 대해 가장 선임된 기술 전문가거든요. 그래서 서드파티 도구(third-party tools)가 어떻게 작동하는지 정말 잘 알아야 하고, 직접 해보지 않으면 그걸 알 수 없어요.",
     "text_zh": "我觉得所有的营销技术专家(marketing technologist)某种程度上都是个人贡献者(IC)。我个人认为这是个很棒的工作，因为我既能做IC又能做管理。你必须得是个IC，因为你要成为所有第一方和第三方系统最资深的技术专家。所以你得真正了解第三方工具是怎么运作的，不亲自动手你是搞不明白的。",
-    "text_es": "Creo que todos los tecnólogos de marketing a cierto nivel son contribuidores individuales (ICs). Personalmente pienso que es un trabajo genial, porque puedo ser IC y gerente a la vez. Tienes que ser IC en el sentido de que eres el experto técnico más senior en todos los sistemas propios y de terceros. Entonces, tienes que saber muy bien cómo funcionan las herramientas de terceros y eso no lo aprendes sin meter las manos en la masa tú mismo."
+    "text_es": "Creo que todos los tecnólogos de marketing a cierto nivel son contribuidores individuales (ICs). Personalmente pienso que es un trabajo genial, porque puedo ser IC y gerente a la vez. Tienes que ser IC en el sentido de que eres el experto técnico más senior en todos los sistemas propios y de terceros. Entonces, tienes que saber muy bien cómo funcionan las herramientas de terceros y eso no lo aprendes sin meter las manos en la masa tú mismo.",
+    "key_sentence": "Marketing technologists must be senior technical experts on first and third party systems."
   },
   {
     "text": "I almost view them like a true quarterback every [inaudible] says people are quarterbacks. But really marketing technology because it lives between so many departments, it plays that role of having to call plays and pull on different departments.",
@@ -121,7 +125,8 @@
     ],
     "text_ko": "저는 사실 그걸 진짜 쿼터백(quarterback)처럼 보는 편이에요. 사람들이 다들 쿼터백이라고 말하긴 하는데, 마케팅 테크놀로지(marketing technology)는 여러 부서 사이에 걸쳐 있어서 전술을 지시하고 다양한 부서를 끌어모아 조율하는 역할을 해요.",
     "text_zh": "我觉得他们就像真正的四分卫(quarterback)一样，虽然每个人都说自己是四分卫。但营销技术因为要跟这么多部门打交道，确实起到了那种统筹协调的作用，需要制定策略，还要调动各个部门的资源。",
-    "text_es": "Yo casi los veo como un verdadero mariscal de campo (quarterback), porque todo el mundo dice que la gente son mariscales de campo. Pero realmente la tecnología de marketing, como está entre tantos departamentos, juega ese papel de tener que dirigir las jugadas y coordinar con diferentes áreas."
+    "text_es": "Yo casi los veo como un verdadero mariscal de campo (quarterback), porque todo el mundo dice que la gente son mariscales de campo. Pero realmente la tecnología de marketing, como está entre tantos departamentos, juega ese papel de tener que dirigir las jugadas y coordinar con diferentes áreas.",
+    "key_sentence": "Marketing technology calls plays and pulls on different departments like a quarterback."
   },
   {
     "text": "I tend to take a little bit of a different approach than most, which is like I think you should always be thinking about the future. That doesn't necessarily mean you should make design choices that over index towards the future so much that you miss product market fit or you make poor product decisions. But when you set up tools and you pick tools and you implement them, you should be thinking, what's going to happen a year from now if I don't change anything?",
@@ -146,7 +151,8 @@
     ],
     "text_ko": "저는 보통 사람들과 조금 다르게 접근해요. 항상 미래를 생각해야 한다고 보는 편인데, 그렇다고 해서 미래에 지나치게 치우친 설계 선택으로 제품-시장 적합도(product-market fit)를 놓치거나 잘못된 제품 결정을 내려도 된다는 건 아니에요. 다만 도구를 고르고 도입해서 구현할 때는 '아무것도 안 바꾸면 1년 뒤에 어떻게 될까?'를 항상 염두에 둬야 해요.",
     "text_zh": "我的做法跟大多数人不太一样，我觉得应该时刻想着未来。当然这不是说你要过度迎合未来，搞得连产品市场契合度(product market fit)都找不到，或者做出一堆糟糕的产品决策。但是当你在搭建工具、选择工具、落地实施的时候，你得想想，如果我一年内什么都不改，会发生什么？",
-    "text_es": "Mi enfoque suele ser un poco diferente al de la mayoría. Yo creo que siempre hay que estar pensando en el futuro. Eso no significa que tengas que tomar decisiones de diseño que se enfoquen tanto en el futuro que termines perdiendo el product market fit o tomando malas decisiones de producto. Pero cuando configuras herramientas, las eliges y las implementas, tienes que preguntarte: ¿qué va a pasar dentro de un año si no cambio nada?"
+    "text_es": "Mi enfoque suele ser un poco diferente al de la mayoría. Yo creo que siempre hay que estar pensando en el futuro. Eso no significa que tengas que tomar decisiones de diseño que se enfoquen tanto en el futuro que termines perdiendo el product market fit o tomando malas decisiones de producto. Pero cuando configuras herramientas, las eliges y las implementas, tienes que preguntarte: ¿qué va a pasar dentro de un año si no cambio nada?",
+    "key_sentence": "Design choices shouldn't over index towards the future at the expense of product market fit."
   },
   {
     "text": "I think the most superhuman user acquisition people out there are engineers and they don't need a marketing technologist because they set up the tool themself. They know how the paid campaign runs and they just do it all. And you'll typically find these super humans at small startups where the engineer is just told by the co-founder, hey, go figure out how Facebook ads work.",
@@ -171,6 +177,7 @@
     ],
     "text_ko": "제 생각에는 가장 대단한 사용자 확보(user acquisition) 담당자들은 엔지니어들이에요. 마케팅 테크놀로지스트(marketing technologist)가 따로 필요 없어요 — 도구를 스스로 세팅해 버리니까요. 유료 캠페인(paid campaign)이 어떻게 돌아가는지 알고, 그냥 전부 다 해버려요. 보통 이런 사람들은 작은 스타트업에서 만나는데, 공동창업자(co-founder)가 엔지니어에게 “페이스북 광고(Facebook ads) 어떻게 되는지 알아봐”라고 그냥 시키는 그런 곳이에요.",
     "text_zh": "我觉得最牛的用户获取(user acquisition)高手其实都是工程师，他们根本不需要什么营销技术专家，因为工具都是自己搭建的。付费推广(paid campaign)怎么跑他们门儿清，什么都能自己搞定。你通常能在小创业公司见到这种大神，就是联合创始人跟工程师说一句：\"嘿，你去研究研究Facebook广告怎么玩。\"",
-    "text_es": "Creo que la gente más extraordinaria en adquisición de usuarios son los ingenieros, y no necesitan un tecnólogo de marketing porque ellos mismos configuran las herramientas. Saben cómo funcionan las campañas pagadas y simplemente lo hacen todo. Y normalmente encuentras a estos genios en startups pequeñas donde el cofundador le dice al ingeniero: \"Oye, averigua cómo funcionan los anuncios de Facebook.\""
+    "text_es": "Creo que la gente más extraordinaria en adquisición de usuarios son los ingenieros, y no necesitan un tecnólogo de marketing porque ellos mismos configuran las herramientas. Saben cómo funcionan las campañas pagadas y simplemente lo hacen todo. Y normalmente encuentras a estos genios en startups pequeñas donde el cofundador le dice al ingeniero: \"Oye, averigua cómo funcionan los anuncios de Facebook.\"",
+    "key_sentence": "Superhuman user acquisition people are engineers who set up tools themselves."
   }
 ]

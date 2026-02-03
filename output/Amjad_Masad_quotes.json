@@ -23,7 +23,8 @@
     ],
     "text_ko": "보통 아이디어가 잘 맞지 않아서 막히는 경우가 많아요. 그 아이디어를 빨리 만들어야 하는데 말이죠. 이제 그 막힘을 없애면 실제로 만드는 게 훨씬 쉬워져요. 그러니까 이제는 아이디어를 얼마나 빨리 낼 수 있는지가 제한이 되는 거예요.",
     "text_zh": "通常情况下，你会在想法无法适应的地方遇到瓶颈，因为这些想法需要被实现，并且需要快速实现。现在，你打破了这个瓶颈。因此，实际制作东西变得容易多了。实际上，你的限制变成了你生成想法的速度。",
-    "text_es": "Normalmente, te encuentras en un punto crítico (bottleneck) cuando tus ideas no encajan porque necesitan ser realizadas y de manera rápida. Ahora, al abrir ese punto crítico, hacer las cosas se vuelve mucho más fácil. De hecho, te limitas por la rapidez con la que puedes generar ideas."
+    "text_es": "Normalmente, te encuentras en un punto crítico (bottleneck) cuando tus ideas no encajan porque necesitan ser realizadas y de manera rápida. Ahora, al abrir ese punto crítico, hacer las cosas se vuelve mucho más fácil. De hecho, te limitas por la rapidez con la que puedes generar ideas.",
+    "key_sentence": "Open up that bottleneck to make generating ideas easier."
   },
   {
     "text": "I could imagine whatever five years from now, someone running a billion-dollar company with zero employees where it's like the support is handled by AI, the development is handled by AI, and you're just building and creating this thing.",
@@ -48,7 +49,8 @@
     ],
     "text_ko": "5년 후에는 직원이 하나도 없는 10억 달러짜리 회사를 운영하는 모습이 상상이 가요. 지원도 AI가 처리하고, 개발도 AI가 맡아서, 그냥 그걸 만들고 창조하는 것만 하는 거죠.",
     "text_zh": "我可以想象五年后，会有人经营一家市值十亿美元的公司，完全没有员工，所有的支持和开发都由人工智能（AI）处理，而你只是专注于构建和创造这个项目。",
-    "text_es": "Puedo imaginar que en cinco años, alguien esté dirigiendo una empresa de mil millones de dólares sin empleados, donde el soporte sea gestionado por inteligencia artificial, el desarrollo también por inteligencia artificial, y tú simplemente estés construyendo y creando este proyecto."
+    "text_es": "Puedo imaginar que en cinco años, alguien esté dirigiendo una empresa de mil millones de dólares sin empleados, donde el soporte sea gestionado por inteligencia artificial, el desarrollo también por inteligencia artificial, y tú simplemente estés construyendo y creando este proyecto.",
+    "key_sentence": "Imagine a billion-dollar company with zero employees, all handled by AI."
   },
   {
     "text": "One of the reasons for the difficulty is that it is very fragmented, so you would need to download what's called an IDE. It's basically a code editor. You need to download the runtime, basically Python or JavaScript, need to figure out a package manager to configure your kind of open source packages, and once you've done all of that, you need to figure out how to deploy it, how to share it.",
@@ -72,7 +74,8 @@
     ],
     "text_ko": "어려운 이유 중 하나는 너무 분산되어 있어서, IDE라고 하는 걸 다운로드해야 해요. 기본적으로 코드 편집기 같은 거예요. 그리고 런타임도 다운로드해야 하는데, 보통 Python이나 JavaScript 같은 거죠. 오픈 소스 패키지를 설정할 패키지 매니저도 알아내야 하고, 그 모든 걸 다 한 다음에는 배포하는 방법, 공유하는 방법도 알아내야 해요.",
     "text_zh": "其中一个困难的原因是这个领域非常分散，因此你需要下载一个称为IDE（集成开发环境）的工具。它基本上是一个代码编辑器。你还需要下载运行时环境，基本上是Python或JavaScript，并且需要弄清楚一个包管理器（package manager）来配置你的开源包。一旦完成这些，你还需要弄清楚如何部署（deploy）以及如何分享（share）它。",
-    "text_es": "Una de las razones de la dificultad es que está muy fragmentado, por lo que necesitarías descargar lo que se llama un IDE (entorno de desarrollo integrado). Básicamente, es un editor de código. Necesitas descargar el runtime, que puede ser Python o JavaScript, y averiguar un gestor de paquetes para configurar tus paquetes de código abierto. Una vez que hayas hecho todo eso, tendrás que descubrir cómo implementarlo y cómo compartirlo."
+    "text_es": "Una de las razones de la dificultad es que está muy fragmentado, por lo que necesitarías descargar lo que se llama un IDE (entorno de desarrollo integrado). Básicamente, es un editor de código. Necesitas descargar el runtime, que puede ser Python o JavaScript, y averiguar un gestor de paquetes para configurar tus paquetes de código abierto. Una vez que hayas hecho todo eso, tendrás que descubrir cómo implementarlo y cómo compartirlo.",
+    "key_sentence": "The difficulty arises because it is very fragmented and requires a package manager."
   },
   {
     "text": "What gets me excited is a lot of these CEOs are building the future concept, the next product they're going to build, the next, say, company they're going to build. And so it unlocks the creativity and again, sort of unblocks them from that.",
@@ -96,7 +99,8 @@
     ],
     "text_ko": "저를 신나게 하는 건 많은 CEO들이 미래의 개념이나 다음에 만들 제품, 혹은 다음에 만들 회사를 구상하고 있다는 거예요. 그래서 그게 창의력을 발휘하게 하고, 다시 막힌 걸 뚫어주는 것 같아요.",
     "text_zh": "让我感到兴奋的是，许多首席执行官正在构建未来的概念、他们将要开发的下一个产品，以及他们将要创办的下一个公司。这激发了他们的创造力，并帮助他们打破了思维的障碍。",
-    "text_es": "Lo que me entusiasma es que muchos de estos CEOs están construyendo el concepto del futuro, el próximo producto que van a desarrollar, la próxima, digamos, empresa que van a crear. Esto desbloquea la creatividad y, de alguna manera, los libera de esas limitaciones."
+    "text_es": "Lo que me entusiasma es que muchos de estos CEOs están construyendo el concepto del futuro, el próximo producto que van a desarrollar, la próxima, digamos, empresa que van a crear. Esto desbloquea la creatividad y, de alguna manera, los libera de esas limitaciones.",
+    "key_sentence": "Unlocks the creativity and unblocks them from that future concept."
   },
   {
     "text": "I think a very important scale that's perhaps harder to develop but it's worth working on is being generative, being more generative, being able to generate new ideas quickly, because you can think about it as a factory line.",
@@ -120,7 +124,8 @@
     ],
     "text_ko": "생산적인 능력을 키우는 게 정말 중요하다고 생각해요. 새로운 아이디어를 빠르게 만들어내는 게 쉽지는 않지만, 그만한 가치가 있어요. 마치 공장 라인처럼 생각해볼 수 있죠.",
     "text_zh": "我认为一个非常重要的能力是创造性，尽管这可能更难培养，但值得我们去努力。这种能力能够快速产生新想法，可以把它看作是一条生产线。",
-    "text_es": "Creo que una escala muy importante que quizás sea más difícil de desarrollar, pero que vale la pena trabajar, es ser generativo, ser más generativo, y poder generar nuevas ideas rápidamente, porque se puede pensar en ello como una línea de producción."
+    "text_es": "Creo que una escala muy importante que quizás sea más difícil de desarrollar, pero que vale la pena trabajar, es ser generativo, ser más generativo, y poder generar nuevas ideas rápidamente, porque se puede pensar en ello como una línea de producción.",
+    "key_sentence": "Being generative is important, like a factory line for new ideas."
   },
   {
     "text": "I have this that's been called not by me, dubbed as Amjad's Law, which is the return on investment for learn to code is doubling every six months. And really just learning a little bit of that skill, learning a bit of skill about how to prompt AI, how to read code, and be able to debug it.",
@@ -144,7 +149,8 @@
     ],
     "text_ko": "제가 '암자드의 법칙(Amjad's Law)'이라고 부르는 게 있는데요, 코딩을 배우는 데 투자한 수익이 매 6개월마다 두 배로 늘어난다는 거예요. 사실, 그 기술을 조금만 배우면, AI를 어떻게 활용하는지, 코드를 읽는 방법, 그리고 디버깅하는 방법을 익힐 수 있어요.",
     "text_zh": "我有一个被称为阿姆贾德法则（Amjad's Law）的观点，认为学习编程的投资回报率每六个月翻一番。实际上，只需掌握一些相关技能，比如如何与人工智能（AI）进行有效对话、阅读代码和调试代码，就能获得显著的收益。",
-    "text_es": "Tengo algo que se ha denominado, no por mí, como la Ley de Amjad, que establece que el retorno de inversión (ROI) por aprender a programar se duplica cada seis meses. En realidad, solo aprender un poco de esa habilidad, como cómo interactuar con la inteligencia artificial (IA), leer código y ser capaz de depurarlo, puede marcar una gran diferencia."
+    "text_es": "Tengo algo que se ha denominado, no por mí, como la Ley de Amjad, que establece que el retorno de inversión (ROI) por aprender a programar se duplica cada seis meses. En realidad, solo aprender un poco de esa habilidad, como cómo interactuar con la inteligencia artificial (IA), leer código y ser capaz de depurarlo, puede marcar una gran diferencia.",
+    "key_sentence": "Dubbed as Amjad's Law, the return on investment is doubling every six months."
   },
   {
     "text": "The way we work is going to change rapidly, and it's important to be resilient to that change. One thing that I think is really difficult now is having roadmaps, especially if you're doing anything in AI, but really anything that AI could affect, you want to be able to react to it really quickly.",
@@ -167,6 +173,7 @@
     ],
     "text_ko": "우리가 일하는 방식이 빠르게 변할 거예요. 그래서 그 변화에 잘 적응하는 게 중요해요. 요즘 특히 어려운 점은 로드맵을 만드는 거예요. AI와 관련된 일을 하든, AI가 영향을 미칠 수 있는 어떤 일이든, 정말 빠르게 반응할 수 있어야 해요.",
     "text_zh": "我们的工作方式将迅速改变，适应这种变化至关重要。我认为现在特别困难的一点是制定路线图（roadmaps），尤其是在人工智能（AI）领域，实际上任何可能受到人工智能影响的领域，都需要能够快速做出反应。",
-    "text_es": "La forma en que trabajamos va a cambiar rápidamente, y es importante ser resilientes ante ese cambio. Una de las cosas que considero realmente difícil en este momento es tener hojas de ruta (roadmaps), especialmente si estás trabajando en inteligencia artificial (AI), pero en realidad, cualquier cosa que la inteligencia artificial pueda afectar requiere que puedas reaccionar con rapidez."
+    "text_es": "La forma en que trabajamos va a cambiar rápidamente, y es importante ser resilientes ante ese cambio. Una de las cosas que considero realmente difícil en este momento es tener hojas de ruta (roadmaps), especialmente si estás trabajando en inteligencia artificial (AI), pero en realidad, cualquier cosa que la inteligencia artificial pueda afectar requiere que puedas reaccionar con rapidez.",
+    "key_sentence": "Be resilient to that change and react to it really quickly."
   }
 ]

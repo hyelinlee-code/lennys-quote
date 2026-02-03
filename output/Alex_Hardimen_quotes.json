@@ -22,7 +22,8 @@
     ],
     "text_ko": "전쟁 같은 상황에서 제품 관리를 생각해보면, 들어오는 순간부터... 제가 페이스북에서 그 시기에 정말 감사했던 점은 플랫폼에서 실제로 무슨 일이 일어나고 있는지를 이해하고 진단하기 위해 필요한 겸손함이었어요.",
     "text_zh": "我想到的是战时产品管理，对吧？你进入这个环境，我认为……我对在Facebook的那段时间印象深刻的是，真正理解并首先诊断平台上发生的事情需要一种令人敬佩的谦逊。",
-    "text_es": "Pienso en la gestión de productos en tiempos de guerra, ¿verdad? Estás entrando, y lo que aprecié de esa época en Facebook fue la increíble humildad que se necesitaba para realmente entender y, primero, diagnosticar lo que estaba sucediendo en la plataforma."
+    "text_es": "Pienso en la gestión de productos en tiempos de guerra, ¿verdad? Estás entrando, y lo que aprecié de esa época en Facebook fue la increíble humildad que se necesitaba para realmente entender y, primero, diagnosticar lo que estaba sucediendo en la plataforma.",
+    "key_sentence": "Wartime product management requires incredible humility to diagnose platform issues."
   },
   {
     "text": "I just actually think that that's where product people thrive. The idea of being able to take all of these crazy inputs, trying to create a very structured model to figure out, 'Okay, what is true? Where do we have conviction? Where do we have questions? What are the most important problems to solve? How do you prioritize? How do you get a team rallied around a shared context in one single goal?'",
@@ -47,7 +48,8 @@
     ],
     "text_ko": "저는 제품 관련 사람들이 바로 그곳에서 잘 성장한다고 생각해요. 다양한 복잡한 정보들을 모아서, '이게 진짜 뭐지? 우리가 확신하는 건 뭐고? 궁금한 점은 뭐지? 해결해야 할 가장 중요한 문제는 무엇인가? 우선순위는 어떻게 정하지? 팀을 하나의 목표를 위해 어떻게 모을 수 있을까?' 같은 구조화된 모델을 만드는 과정이 정말 중요하다고 봐요.",
     "text_zh": "我认为这正是产品经理发挥优势的地方。能够将各种复杂的输入整合起来，构建一个有条理的模型，以弄清楚“什么是真实的？我们在哪些方面有信心？我们有哪些疑问？最重要的问题是什么？如何进行优先级排序？如何让团队围绕一个共同的目标团结起来？”",
-    "text_es": "Creo que ahí es donde realmente prosperan las personas de producto. La idea de poder tomar todos estos insumos locos y tratar de crear un modelo muy estructurado para determinar: '¿Qué es lo que realmente importa? ¿Dónde tenemos convicción? ¿Dónde tenemos dudas? ¿Cuáles son los problemas más importantes que debemos resolver? ¿Cómo se prioriza? ¿Cómo se logra que un equipo se una en torno a un contexto compartido y un objetivo único?'"
+    "text_es": "Creo que ahí es donde realmente prosperan las personas de producto. La idea de poder tomar todos estos insumos locos y tratar de crear un modelo muy estructurado para determinar: '¿Qué es lo que realmente importa? ¿Dónde tenemos convicción? ¿Dónde tenemos dudas? ¿Cuáles son los problemas más importantes que debemos resolver? ¿Cómo se prioriza? ¿Cómo se logra que un equipo se una en torno a un contexto compartido y un objetivo único?'",
+    "key_sentence": "Product people thrive by getting a team rallied around shared context and priorities."
   },
   {
     "text": "When we acquired Wordle, it was a simple web game with no backend. That meant that people's stats and streaks, which was that was the value in terms of social currency that people were sharing after playing, those stats and streaks were stored in local browsers.",
@@ -70,7 +72,8 @@
     ],
     "text_ko": "우리가 Wordle을 인수했을 때, 그건 백엔드도 없는 간단한 웹 게임이었어요. 그래서 사람들이 게임을 한 후에 공유하던 통계와 연속 기록은 로컬 브라우저에 저장되고 있었죠. 그게 바로 사람들이 소셜 커런시(social currency)로 생각했던 가치였어요.",
     "text_zh": "当我们收购Wordle时，它只是一个简单的网页游戏，没有后端。这意味着玩家的统计数据和连胜记录（streaks），即人们在游戏后分享的社交价值，都是存储在本地浏览器中的。",
-    "text_es": "Cuando adquirimos Wordle, era un juego web simple sin backend. Eso significaba que las estadísticas y las rachas de los jugadores, que eran el valor en términos de moneda social que la gente compartía después de jugar, se almacenaban en los navegadores locales."
+    "text_es": "Cuando adquirimos Wordle, era un juego web simple sin backend. Eso significaba que las estadísticas y las rachas de los jugadores, que eran el valor en términos de moneda social que la gente compartía después de jugar, se almacenaban en los navegadores locales.",
+    "key_sentence": "People's stats and streaks represent social currency in Wordle."
   },
   {
     "text": "This was a moment where we just had to come out and really tell the world, 'We're mid integration. We're really not trying to communicate more than Wordle being a fun diversion from the news. Here's what happened, and why.' Everyone understood. This is where coming out being really transparent about the facts and in some cases just exposing more about the product development process really helps demystify some of the rumors that people might otherwise think.",
@@ -95,7 +98,8 @@
     ],
     "text_ko": "이건 우리가 나와서 세상에 정말로 말해야 했던 순간이에요. '우리는 지금 통합 중이에요. Wordle이 뉴스에서 잠깐 벗어나는 재미있는 오락이라는 걸 더 이상 설명하려고 하지 않아요. 이게 무슨 일이 있었고, 왜 그런지 알려드릴게요.' 모두가 이해했어요. 이렇게 사실에 대해 투명하게 이야기하고, 때로는 제품 개발 과정에 대해 더 많이 공개하는 게 사람들이 가질 수 있는 여러 루머를 불식시키는 데 정말 도움이 돼요.",
     "text_zh": "这是一个我们必须向世界坦诚的时刻，我们正在进行中期整合（mid integration）。我们并不想传达比《Wordle》作为一种有趣的消遣（fun diversion from the news）更多的信息。事情是这样的，原因也在这里。大家都理解。这时，坦诚地公开事实，并在某些情况下更多地揭示产品开发过程，确实有助于澄清人们可能会产生的一些谣言。",
-    "text_es": "Este fue un momento en el que simplemente teníamos que salir y decirle al mundo: 'Estamos en medio de la integración. Realmente no estamos tratando de comunicar más que Wordle como una divertida distracción de las noticias. Esto es lo que sucedió y por qué.' Todos lo entendieron. Aquí es donde ser realmente transparente sobre los hechos y, en algunos casos, revelar más sobre el proceso de desarrollo del producto ayuda a desmitificar algunos de los rumores que la gente podría pensar de otra manera."
+    "text_es": "Este fue un momento en el que simplemente teníamos que salir y decirle al mundo: 'Estamos en medio de la integración. Realmente no estamos tratando de comunicar más que Wordle como una divertida distracción de las noticias. Esto es lo que sucedió y por qué.' Todos lo entendieron. Aquí es donde ser realmente transparente sobre los hechos y, en algunos casos, revelar más sobre el proceso de desarrollo del producto ayuda a desmitificar algunos de los rumores que la gente podría pensar de otra manera.",
+    "key_sentence": "Transparency helps demystify some of the rumors about product development."
   },
   {
     "text": "This is a product leader, it's a real wartime moment where you just need to blow up roadmaps, share context with everyone and say, 'Okay, everyone, we have a totally different mandate than what we did a couple weeks ago.' Given the needs in the world and the mission of the New York Times and our purpose, which is to help people access information to make informed decision about their lives, we're going to do a whole bunch of these things.",
@@ -120,7 +124,8 @@
     ],
     "text_ko": "이건 제품 리더로서 정말 전시 상황 같은 순간이에요. 로드맵을 완전히 바꿔야 하고, 모든 사람과 상황을 공유하면서 '자, 여러분, 우리는 몇 주 전과는 완전히 다른 임무를 맡게 됐어요.'라고 말해야 해요. 세상의 필요와 뉴욕 타임스의 미션, 즉 사람들이 정보에 접근해서 자신의 삶에 대한 현명한 결정을 내릴 수 있도록 돕는 우리의 목적을 고려할 때, 우리는 이런 것들을 많이 할 거예요.",
     "text_zh": "这是一个产品领导者的真实战时时刻，我们需要彻底重塑路线图，与每个人分享背景，并说：“好吧，大家，我们的任务与几周前完全不同。”鉴于世界的需求以及《纽约时报》的使命和我们的目标，即帮助人们获取信息，以便对他们的生活做出明智的决策，我们将开展一系列新的工作。",
-    "text_es": "Este es un momento crucial para un líder de producto; es un verdadero momento de crisis en el que es necesario revisar completamente los planes (roadmaps), compartir el contexto con todos y decir: 'Bien, todos, tenemos un mandato totalmente diferente al que teníamos hace un par de semanas.' Dadas las necesidades del mundo y la misión del New York Times, que es ayudar a las personas a acceder a la información para tomar decisiones informadas sobre sus vidas, vamos a llevar a cabo una serie de iniciativas."
+    "text_es": "Este es un momento crucial para un líder de producto; es un verdadero momento de crisis en el que es necesario revisar completamente los planes (roadmaps), compartir el contexto con todos y decir: 'Bien, todos, tenemos un mandato totalmente diferente al que teníamos hace un par de semanas.' Dadas las necesidades del mundo y la misión del New York Times, que es ayudar a las personas a acceder a la información para tomar decisiones informadas sobre sus vidas, vamos a llevar a cabo una serie de iniciativas.",
+    "key_sentence": "Blow up roadmaps to share context and embrace a totally different mandate."
   },
   {
     "text": "One thing that's really interesting is that our impact and our business goals are in service of our mission, which is to seek the truth and help people understand the world, not the other way around. What it means is that the way that we think about impact is growing a giant subscription business. That business exists to strengthen an informed democracy at a time when people are struggling to understand basic facts and struggling to understand each other.",
@@ -144,6 +149,7 @@
     ],
     "text_ko": "정말 흥미로운 점은 우리의 영향력과 비즈니스 목표가 우리의 사명, 즉 진실을 추구하고 사람들이 세상을 이해하도록 돕는 데에 있다는 거예요. 반대가 아니라는 거죠. 그래서 우리가 영향력에 대해 생각하는 방식은 거대한 구독 비즈니스를 키우는 거예요. 이 비즈니스는 사람들이 기본적인 사실을 이해하는 데 어려움을 겪고 서로를 이해하는 데 힘든 시기에 정보에 기반한 민주주의를 강화하기 위해 존재하는 거예요.",
     "text_zh": "一个非常有趣的事情是，我们的影响力和商业目标是为了实现我们的使命，即寻求真相并帮助人们理解世界，而不是反过来。这意味着我们对影响力的看法是发展一个庞大的订阅业务。这个业务的存在是为了在一个人们难以理解基本事实和彼此沟通的时代，增强一个知情的民主。",
-    "text_es": "Una cosa realmente interesante es que nuestro impacto y nuestros objetivos comerciales están al servicio de nuestra misión, que es buscar la verdad y ayudar a las personas a entender el mundo, no al revés. Esto significa que nuestra forma de pensar sobre el impacto se centra en hacer crecer un gran negocio de suscripción. Ese negocio existe para fortalecer una democracia informada en un momento en que las personas tienen dificultades para entender hechos básicos y para comprenderse entre sí."
+    "text_es": "Una cosa realmente interesante es que nuestro impacto y nuestros objetivos comerciales están al servicio de nuestra misión, que es buscar la verdad y ayudar a las personas a entender el mundo, no al revés. Esto significa que nuestra forma de pensar sobre el impacto se centra en hacer crecer un gran negocio de suscripción. Ese negocio existe para fortalecer una democracia informada en un momento en que las personas tienen dificultades para entender hechos básicos y para comprenderse entre sí.",
+    "key_sentence": "Our business goals are in service of strengthening an informed democracy."
   }
 ]

@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, Mic, Menu, X } from 'lucide-react';
+import { Mic, Menu, X } from 'lucide-react';
 import { Language } from '../types';
 
 interface HeaderProps {
@@ -24,14 +24,13 @@ const Header: React.FC<HeaderProps> = ({ onHome, language, onLanguageChange }) =
         {/* Logo */}
         <div
           onClick={onHome}
-          className="flex items-center space-x-2 cursor-pointer group"
+          className="flex items-center cursor-pointer group"
         >
-          <div className="w-8 h-8 bg-ink text-white rounded-full flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
-            <BookOpen size={16} />
-          </div>
-          <span className="font-serif text-xl font-bold tracking-tight text-ink">
-            Fluent Stakeholder
-          </span>
+          <img
+            src="/lennylingo.png"
+            alt="LennyLingo"
+            className="h-10 group-hover:scale-105 transition-transform duration-300"
+          />
         </div>
 
         {/* Desktop nav */}

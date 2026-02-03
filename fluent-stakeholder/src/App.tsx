@@ -5,18 +5,23 @@ import FilterBar from './components/FilterBar';
 import QuoteCard from './components/QuoteCard';
 import DetailView from './components/DetailView';
 import { useQuotes } from './hooks/useQuotes';
+import { useLikes } from './hooks/useLikes';
 import { Quote } from './types';
 import { Mail, Loader2 } from 'lucide-react';
 
 const QUOTES_PER_PAGE = 20;
 
 const App: React.FC = () => {
+  const { likes, toggleLike, isLiked } = useLikes();
+
   const {
     quotes,
     loading,
     error,
     language,
     setLanguage,
+    sortBy,
+    setSortBy,
     filters,
     updateFilter,
     clearFilters,
@@ -24,7 +29,7 @@ const App: React.FC = () => {
     filterOptions,
     totalCount,
     totalSpeakers,
-  } = useQuotes();
+  } = useQuotes(likes);
 
   const [selectedQuote, setSelectedQuote] = useState<Quote | null>(null);
   const [visibleCount, setVisibleCount] = useState(QUOTES_PER_PAGE);
@@ -54,10 +59,10 @@ const App: React.FC = () => {
 
   const hasMore = visibleCount < quotes.length;
 
-  // Reset visible count when filters change
+  // Reset visible count when filters or sort change
   React.useEffect(() => {
     setVisibleCount(QUOTES_PER_PAGE);
-  }, [filters]);
+  }, [filters, sortBy]);
 
   if (error) {
     return (
@@ -88,6 +93,8 @@ const App: React.FC = () => {
           hasActiveFilters={hasActiveFilters}
           filterOptions={filterOptions}
           resultCount={quotes.length}
+          sortBy={sortBy}
+          onSortChange={setSortBy}
         />
 
         {loading ? (
@@ -114,6 +121,8 @@ const App: React.FC = () => {
                   quote={quote}
                   language={language}
                   onClick={handleCardClick}
+                  isLiked={isLiked(quote.id)}
+                  onToggleLike={toggleLike}
                 />
               ))}
             </div>
@@ -155,7 +164,7 @@ const App: React.FC = () => {
 
       <footer className="w-full py-8 text-center text-stone-400 text-sm border-t border-stone-200 mt-12 bg-white">
         <p>
-          &copy; {new Date().getFullYear()} Fluent Stakeholder. Inspired by
+          &copy; {new Date().getFullYear()} LennyLingo. Inspired by
           Lenny&apos;s Podcast.
         </p>
       </footer>
