@@ -32,8 +32,9 @@ const QuotesOfTheDay: React.FC<QuotesOfTheDayProps> = ({ quotes, onQuoteClick, o
           Featured Expressions
         </h2>
         <p className="text-stone-500 max-w-lg mx-auto">
-          See how tech leaders communicate. Tap a card to expand the full quote,
-          decode key vocabulary, nuance, and translations.
+          See how real tech leaders communicate.
+          Tap a card to reveal definitions, business context, and translations.
+          Learn not just what the phrase means, but why it works in high-stakes conversations.
         </p>
       </div>
 

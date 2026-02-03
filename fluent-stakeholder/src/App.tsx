@@ -14,7 +14,7 @@ import FavoritesView from './components/FavoritesView';
 import { useQuotes } from './hooks/useQuotes';
 import { useLikes } from './hooks/useLikes';
 import { Quote, TranslationLanguage } from './types';
-import { Mail, Loader2 } from 'lucide-react';
+import { Loader2 } from 'lucide-react';
 
 type Page = 'landing' | 'browse' | 'about' | 'favorites';
 
@@ -170,29 +170,11 @@ const App: React.FC = () => {
           {/* 4. How to Use It */}
           <HowToUseIt />
 
-          {/* 5. Kudo to Lenny */}
-          <KudoToLenny />
 
-          {/* Newsletter Section */}
-          <div className="mt-8 max-w-2xl mx-auto text-center border-t border-stone-200 pt-16">
-            <h3 className="font-serif text-3xl mb-4">Get the weekly digest</h3>
-            <p className="text-stone-500 mb-8">
-              One powerful business idiom, explained deeply, delivered to your
-              inbox every Monday.
-            </p>
-            <div className="flex flex-col sm:flex-row gap-3">
-              <input
-                type="email"
-                placeholder="product.manager@acme.co"
-                className="flex-1 bg-white border border-stone-200 px-4 py-3 rounded-lg focus:outline-none focus:border-ink focus:ring-1 focus:ring-ink transition-all"
-              />
-              <button className="bg-ink text-white px-6 py-3 rounded-lg font-medium hover:bg-stone-800 transition-colors flex items-center justify-center gap-2">
-                <Mail size={16} />
-                <span>Subscribe</span>
-              </button>
-            </div>
-          </div>
         </main>
+
+        {/* 5. Kudo to Lenny */}
+        <KudoToLenny />
         </>
       )}
 
@@ -277,10 +259,12 @@ const App: React.FC = () => {
         />
       )}
 
-      <footer className="w-full py-8 text-center text-stone-400 text-sm border-t border-stone-200 mt-12 bg-white">
+      <footer className="w-full py-6 text-center text-stone-400 text-sm border-t border-stone-200 bg-white">
         <p>
-          &copy; {new Date().getFullYear()} LennyLingo. Inspired by
-          Lenny&apos;s Podcast.
+          &copy; {new Date().getFullYear()} LennyLingo. Made by{' '}
+          <a href="https://www.linkedin.com/in/hyelinlee09/" target="_blank" rel="noopener noreferrer" className="text-stone-500 hover:text-ink transition-colors underline">Hyelin Lee</a>{' '}
+          and Inspired by{' '}
+          <a href="https://www.lennysnewsletter.com/podcast" target="_blank" rel="noopener noreferrer" className="text-stone-500 hover:text-ink transition-colors underline">Lenny&apos;s Podcast</a>.
         </p>
       </footer>
 
