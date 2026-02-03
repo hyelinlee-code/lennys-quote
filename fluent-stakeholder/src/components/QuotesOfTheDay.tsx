@@ -21,7 +21,7 @@ function getDailyQuotes(quotes: Quote[], count: number): Quote[] {
 }
 
 const QuotesOfTheDay: React.FC<QuotesOfTheDayProps> = ({ quotes, onQuoteClick, onBrowseAll }) => {
-  const dailyQuotes = useMemo(() => getDailyQuotes(quotes, 5), [quotes]);
+  const dailyQuotes = useMemo(() => getDailyQuotes(quotes, 4), [quotes]);
 
   if (dailyQuotes.length === 0) return null;
 
@@ -33,7 +33,7 @@ const QuotesOfTheDay: React.FC<QuotesOfTheDayProps> = ({ quotes, onQuoteClick, o
           Today's Picks
         </div>
         <h2 className="font-serif text-3xl md:text-4xl text-ink mb-3">
-          5 Expressions of the Day
+          4 Expressions of the Day
         </h2>
         <p className="text-stone-500 max-w-lg mx-auto">
           A daily selection of powerful expressions from top tech leaders.

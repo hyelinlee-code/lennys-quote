@@ -8,9 +8,6 @@ interface HeroProps {
 const Hero: React.FC<HeroProps> = ({ totalQuotes, totalSpeakers }) => {
   return (
     <section className="w-full max-w-4xl mx-auto pt-12 pb-16 px-4 text-center">
-      <div className="inline-block mb-4 px-3 py-1 bg-stone-200 rounded-full text-xs font-semibold tracking-wider text-stone-600 uppercase">
-        For Non-Native Professionals
-      </div>
       <h1 className="font-serif text-5xl md:text-7xl leading-[1.1] text-ink mb-6">
         Speak the language <br />
         <span className="italic text-stone-500">of silicon valley.</span>
