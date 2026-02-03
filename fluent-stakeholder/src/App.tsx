@@ -145,13 +145,16 @@ const App: React.FC = () => {
       />
 
       {page === 'landing' && (
-        <main className="container mx-auto px-4 pb-20">
+        <>
+        <main className="container mx-auto px-4">
           {/* 1. Hero Section */}
           <Hero />
+        </main>
 
-          {/* 2. Stats Band */}
-          <StatsBand />
+        {/* 2. Stats Band */}
+        <StatsBand />
 
+        <main className="container mx-auto px-4 pb-20">
           {/* 3. Featured Expressions */}
           {!loading && (
             <QuotesOfTheDay
@@ -190,6 +193,7 @@ const App: React.FC = () => {
             </div>
           </div>
         </main>
+        </>
       )}
 
       {page === 'browse' && (
