@@ -1,24 +1,25 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Quote, Vocabulary, Language } from '../types';
+import { Quote, Vocabulary, TranslationLanguage } from '../types';
 import { X, ArrowLeft, Sparkles, RotateCcw } from 'lucide-react';
 
 interface DetailViewProps {
   quote: Quote;
-  language: Language;
+  translationLang: TranslationLanguage;
+  onTranslationLangChange: (lang: TranslationLanguage) => void;
   onClose: () => void;
 }
 
-const LANG_LABELS: Record<Language, string> = {
-  en: 'English',
-  ko: '한국어',
-  zh: '中文',
-  es: 'Español',
-};
+const TRANSLATION_LANGUAGES: { code: TranslationLanguage; label: string }[] = [
+  { code: 'ko', label: '한국어' },
+  { code: 'zh', label: '中文' },
+  { code: 'es', label: 'Español' },
+];
 
-const DetailView: React.FC<DetailViewProps> = ({ quote, language, onClose }) => {
+const DetailView: React.FC<DetailViewProps> = ({ quote, translationLang, onTranslationLangChange, onClose }) => {
   const [selectedWord, setSelectedWord] = useState<Vocabulary | null>(null);
   const [isFlipped, setIsFlipped] = useState(false);
   const frontRef = useRef<HTMLDivElement>(null);
+  const backRef = useRef<HTMLDivElement>(null);
   const [cardHeight, setCardHeight] = useState<number | undefined>(undefined);
 
   // Auto-select the first vocab word on load
@@ -31,12 +32,12 @@ const DetailView: React.FC<DetailViewProps> = ({ quote, language, onClose }) => 
     setIsFlipped(false);
   }, [quote]);
 
-  // Measure front face so the container keeps a stable height during flip
+  // Measure both faces so the container keeps a stable height during flip
   useEffect(() => {
-    if (frontRef.current) {
-      setCardHeight(frontRef.current.offsetHeight);
-    }
-  }, [quote, language]);
+    const frontH = frontRef.current?.offsetHeight ?? 0;
+    const backH = backRef.current?.offsetHeight ?? 0;
+    setCardHeight(Math.max(frontH, backH));
+  }, [quote, translationLang]);
 
   // Close on Escape key
   useEffect(() => {
@@ -49,8 +50,7 @@ const DetailView: React.FC<DetailViewProps> = ({ quote, language, onClose }) => 
 
   // Get translation text
   const getTranslation = (): string | null => {
-    if (language === 'en') return null;
-    const key = `text_${language}` as keyof Quote;
+    const key = `text_${translationLang}` as keyof Quote;
     const translation = quote[key] as string;
     return translation || null;
   };
@@ -135,16 +135,30 @@ const DetailView: React.FC<DetailViewProps> = ({ quote, language, onClose }) => 
                 </blockquote>
               </div>
 
-              {/* Back — Translation */}
-              <div className="flip-card-back flex items-start">
-                <div>
-                  <p className="text-xs font-bold text-accent uppercase tracking-widest mb-3">
-                    {LANG_LABELS[language]}
-                  </p>
-                  <blockquote className="font-serif text-xl md:text-2xl lg:text-3xl text-ink leading-snug">
-                    {translation}
-                  </blockquote>
+              {/* Back — Language selector + Translation */}
+              <div ref={backRef} className="flip-card-back flex flex-col items-start">
+                {/* Language pills */}
+                <div className="flex items-center gap-1.5 mb-4">
+                  {TRANSLATION_LANGUAGES.map(({ code, label }) => (
+                    <button
+                      key={code}
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        onTranslationLangChange(code);
+                      }}
+                      className={`px-3 py-1 rounded-full text-xs font-semibold transition-all ${
+                        translationLang === code
+                          ? 'bg-ink text-white'
+                          : 'bg-stone-100 text-stone-500 hover:text-ink'
+                      }`}
+                    >
+                      {label}
+                    </button>
+                  ))}
                 </div>
+                <blockquote className="font-serif text-xl md:text-2xl lg:text-3xl text-ink leading-snug">
+                  {translation}
+                </blockquote>
               </div>
             </div>
           </div>
@@ -159,7 +173,7 @@ const DetailView: React.FC<DetailViewProps> = ({ quote, language, onClose }) => 
                 size={14}
                 className="transition-transform group-hover:-rotate-45"
               />
-              {isFlipped ? 'Flip back to English' : `Flip for ${LANG_LABELS[language]} translation`}
+              {isFlipped ? 'Flip back to English' : 'Flip for translation'}
             </button>
           )}
 

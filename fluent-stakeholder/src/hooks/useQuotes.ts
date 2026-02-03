@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo } from 'react';
-import { Quote, Filters, Language, SortBy } from '../types';
+import { Quote, Filters, SortBy } from '../types';
 
 const DATA_URL = '/data/quotes.json';
 
@@ -7,7 +7,6 @@ export function useQuotes(likes: Set<string>) {
   const [allQuotes, setAllQuotes] = useState<Quote[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [language, setLanguage] = useState<Language>('en');
   const [sortBy, setSortBy] = useState<SortBy>('recent');
   const [filters, setFilters] = useState<Filters>({
     search: '',
@@ -150,10 +149,9 @@ export function useQuotes(likes: Set<string>) {
 
   return {
     quotes: sortedQuotes,
+    allQuotes,
     loading,
     error,
-    language,
-    setLanguage,
     sortBy,
     setSortBy,
     filters,

@@ -1,21 +1,29 @@
 import React from 'react';
-import { Mic, Menu, X } from 'lucide-react';
-import { Language } from '../types';
+import { Search, Heart, Menu, X } from 'lucide-react';
 
 interface HeaderProps {
   onHome: () => void;
-  language: Language;
-  onLanguageChange: (lang: Language) => void;
+  onBrowse: () => void;
+  onAbout: () => void;
+  onFavorites: () => void;
+  searchOpen: boolean;
+  onSearchToggle: () => void;
+  searchTerm: string;
+  onSearchChange: (value: string) => void;
+  likeCount: number;
 }
 
-const LANGUAGES: { code: Language; label: string }[] = [
-  { code: 'en', label: 'EN' },
-  { code: 'ko', label: 'KO' },
-  { code: 'zh', label: 'ZH' },
-  { code: 'es', label: 'ES' },
-];
-
-const Header: React.FC<HeaderProps> = ({ onHome, language, onLanguageChange }) => {
+const Header: React.FC<HeaderProps> = ({
+  onHome,
+  onBrowse,
+  onAbout,
+  onFavorites,
+  searchOpen,
+  onSearchToggle,
+  searchTerm,
+  onSearchChange,
+  likeCount,
+}) => {
   const [mobileMenuOpen, setMobileMenuOpen] = React.useState(false);
 
   return (
@@ -35,35 +43,36 @@ const Header: React.FC<HeaderProps> = ({ onHome, language, onLanguageChange }) =
 
         {/* Desktop nav */}
         <div className="hidden md:flex items-center space-x-6">
-          {/* Language pills */}
-          <div className="flex items-center bg-stone-100 rounded-full p-0.5">
-            {LANGUAGES.map(({ code, label }) => (
-              <button
-                key={code}
-                onClick={() => onLanguageChange(code)}
-                className={`px-3 py-1 rounded-full text-xs font-semibold transition-all ${
-                  language === code
-                    ? 'bg-ink text-white'
-                    : 'text-stone-500 hover:text-ink'
-                }`}
-              >
-                {label}
-              </button>
-            ))}
-          </div>
-
-          <a href="#" className="text-sm font-medium text-stone-600 hover:text-ink transition-colors">
-            Methodology
-          </a>
-          <a href="#" className="text-sm font-medium text-stone-600 hover:text-ink transition-colors">
-            The Podcast
-          </a>
-          <a href="#" className="text-sm font-medium text-stone-600 hover:text-ink transition-colors">
-            Sign In
-          </a>
-          <button className="bg-ink text-white px-4 py-2 rounded-full hover:bg-stone-800 transition-colors flex items-center space-x-2 text-sm font-medium">
-            <Mic size={14} />
-            <span>Subscribe</span>
+          <button
+            onClick={onAbout}
+            className="text-sm font-semibold text-stone-600 hover:text-ink transition-colors"
+          >
+            About
+          </button>
+          <button
+            onClick={onBrowse}
+            className="text-sm font-semibold text-stone-600 hover:text-ink transition-colors"
+          >
+            Browse
+          </button>
+          <button
+            onClick={onSearchToggle}
+            className="p-2 text-stone-500 hover:text-ink transition-colors"
+            aria-label="Toggle search"
+          >
+            <Search size={18} />
+          </button>
+          <button
+            onClick={onFavorites}
+            className="relative p-2 text-stone-500 hover:text-ink transition-colors"
+            aria-label="Favorites"
+          >
+            <Heart size={18} />
+            {likeCount > 0 && (
+              <span className="absolute -top-0.5 -right-0.5 bg-red-500 text-white text-[10px] font-bold rounded-full min-w-[18px] h-[18px] flex items-center justify-center px-1">
+                {likeCount}
+              </span>
+            )}
           </button>
         </div>
 
@@ -76,34 +85,77 @@ const Header: React.FC<HeaderProps> = ({ onHome, language, onLanguageChange }) =
         </button>
       </div>
 
+      {/* Search bar */}
+      {searchOpen && (
+        <div className="max-w-7xl mx-auto mt-3 animate-fade-in">
+          <div className="relative">
+            <Search size={16} className="absolute left-3 top-1/2 -translate-y-1/2 text-stone-400" />
+            <input
+              type="text"
+              value={searchTerm}
+              onChange={(e) => onSearchChange(e.target.value)}
+              placeholder="Search quotes, speakers, topics..."
+              className="w-full pl-10 pr-10 py-2.5 bg-white border border-stone-200 rounded-lg text-sm focus:outline-none focus:border-ink focus:ring-1 focus:ring-ink transition-all"
+              autoFocus
+            />
+            {searchTerm && (
+              <button
+                onClick={() => onSearchChange('')}
+                className="absolute right-3 top-1/2 -translate-y-1/2 text-stone-400 hover:text-ink"
+              >
+                <X size={16} />
+              </button>
+            )}
+          </div>
+        </div>
+      )}
+
       {/* Mobile menu */}
       {mobileMenuOpen && (
         <div className="md:hidden mt-4 pb-4 border-t border-stone-200 pt-4 animate-fade-in">
-          <div className="flex items-center justify-center mb-4 bg-stone-100 rounded-full p-0.5 mx-auto w-fit">
-            {LANGUAGES.map(({ code, label }) => (
-              <button
-                key={code}
-                onClick={() => {
-                  onLanguageChange(code);
-                  setMobileMenuOpen(false);
-                }}
-                className={`px-3 py-1.5 rounded-full text-xs font-semibold transition-all ${
-                  language === code
-                    ? 'bg-ink text-white'
-                    : 'text-stone-500 hover:text-ink'
-                }`}
-              >
-                {label}
-              </button>
-            ))}
-          </div>
           <div className="flex flex-col items-center space-y-3">
-            <a href="#" className="text-sm font-medium text-stone-600">Methodology</a>
-            <a href="#" className="text-sm font-medium text-stone-600">The Podcast</a>
-            <a href="#" className="text-sm font-medium text-stone-600">Sign In</a>
-            <button className="bg-ink text-white px-6 py-2 rounded-full text-sm font-medium flex items-center space-x-2">
-              <Mic size={14} />
-              <span>Subscribe</span>
+            <button
+              onClick={() => {
+                onAbout();
+                setMobileMenuOpen(false);
+              }}
+              className="text-sm font-semibold text-stone-600"
+            >
+              About
+            </button>
+            <button
+              onClick={() => {
+                onBrowse();
+                setMobileMenuOpen(false);
+              }}
+              className="text-sm font-semibold text-stone-600"
+            >
+              Browse
+            </button>
+            <button
+              onClick={() => {
+                onSearchToggle();
+                setMobileMenuOpen(false);
+              }}
+              className="flex items-center gap-2 text-sm font-semibold text-stone-600"
+            >
+              <Search size={16} />
+              Search
+            </button>
+            <button
+              onClick={() => {
+                onFavorites();
+                setMobileMenuOpen(false);
+              }}
+              className="flex items-center gap-2 text-sm font-semibold text-stone-600"
+            >
+              <Heart size={16} />
+              Favorites
+              {likeCount > 0 && (
+                <span className="bg-red-500 text-white text-[10px] font-bold rounded-full min-w-[18px] h-[18px] flex items-center justify-center px-1">
+                  {likeCount}
+                </span>
+              )}
             </button>
           </div>
         </div>

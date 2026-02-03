@@ -1,16 +1,15 @@
 import React from 'react';
-import { Quote, Language } from '../types';
+import { Quote } from '../types';
 import { ArrowRight, PlayCircle, Heart } from 'lucide-react';
 
 interface QuoteCardProps {
   quote: Quote;
-  language: Language;
   onClick: (quote: Quote) => void;
   isLiked: boolean;
   onToggleLike: (quoteId: string) => void;
 }
 
-const QuoteCard: React.FC<QuoteCardProps> = ({ quote, language: _language, onClick, isLiked, onToggleLike }) => {
+const QuoteCard: React.FC<QuoteCardProps> = ({ quote, onClick, isLiked, onToggleLike }) => {
   // Always show keySentence in English on card (translation is in the detail view)
   const displayText = quote.keySentence || quote.text.split(/[.!?]\s/)[0] + '.';
 

@@ -35,6 +35,8 @@ export interface Quote {
 
 export type Language = 'en' | 'ko' | 'zh' | 'es';
 
+export type TranslationLanguage = 'ko' | 'zh' | 'es';
+
 export type SortBy = 'recent' | 'popular' | 'speaker';
 
 export interface Filters {
