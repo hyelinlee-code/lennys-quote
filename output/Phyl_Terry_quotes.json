@@ -1,12 +1,14 @@
 [
   {
-    "text": "While it's hard to figure out your candidate market fit, it's also a relief to know it's not about you. So what I ask people to do is I ask them to think about what they want and what they don't want. Now, you might not think that that's a radical step, Lenny, but most people don't do that. When they get laid off, they spray and pray.",
+    "text": "While it's hard to figure out your candidate market fit, it's also a relief to know it's not about you. So what I ask people to do is I ask them to think about what they want and what they don't want.",
     "speaker": "Phyl Terry",
     "timestamp": "00:00:16",
     "context": "Lenny asks how Phyl realized this candidate market fit method is powerful versus traditional job searching approaches. Phyl explains that candidate market fit is about understanding where you fit in the job marketplace based on supply and demand, not personal worth. She emphasizes that the first step is defining what you want and don't want in a role, which most people skip when they get laid off and instead immediately start applying everywhere without strategy.",
     "vocabulary_highlights": [
-      "spray and pray",
-      "radical step"
+      "candidate market fit",
+      "traditional job searching",
+      "understanding",
+      "relief"
     ],
     "topics": [
       "Career Development",
@@ -22,15 +24,78 @@
     "text_ko": "후보자 시장 적합성(candidate market fit)을 파악하는 건 어렵지만, 그게 당신 개인 문제만은 아니라는 걸 알면 오히려 한숨 돌릴 수 있어요. 그래서 제가 사람들에게 부탁하는 건, 자신이 원하는 것과 원하지 않는 것을 먼저 생각해 보라는 거예요. Lenny, 이게 대단한 발상 같지 않을 수도 있지만, 사실 대부분의 사람들은 그렇게 하지 않아요. 해고당하면 대부분 무작정 여기저기 지원하고 운에 맡기거든요 (spray and pray).",
     "text_zh": "虽然搞清楚自己和目标市场的匹配度(candidate market fit)挺难的，但换个角度想，这事儿跟你个人能力没关系，这样想会轻松不少。所以我会让大家做的就是，先想清楚自己要什么，不要什么。你可能觉得这没什么，Lenny，但大多数人其实都不会这么做。他们一被裁员，就开始海投简历碰运气。",
     "text_es": "Aunque es difícil encontrar el ajuste perfecto con el mercado laboral (candidate market fit), también es un alivio saber que no es algo personal. Entonces lo que les pido a las personas es que piensen en qué es lo que sí quieren y qué es lo que no quieren. Puede que no te parezca algo revolucionario, Lenny, pero la mayoría de la gente no hace esto. Cuando los despiden, salen disparando currículos a lo loco esperando que algo pegue.",
-    "key_sentence": "It's a relief to know candidate market fit is not about you."
+    "key_sentence": "It's a relief to know candidate market fit is not about you.",
+    "text_trimmed": true,
+    "original_text": "While it's hard to figure out your candidate market fit, it's also a relief to know it's not about you. So what I ask people to do is I ask them to think about what they want and what they don't want. Now, you might not think that that's a radical step, Lenny, but most people don't do that. When they get laid off, they spray and pray.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "candidate market fit",
+        "definition": "Candidate market fit refers to the alignment between a job seeker's skills, experiences, and preferences with the demands and culture of potential employers in the job market.",
+        "businessContext": "In recruitment and talent acquisition, understanding candidate market fit helps organizations identify suitable candidates who not only possess the required qualifications but also align with the company's values and work environment.",
+        "nuance": "This term emphasizes the importance of mutual compatibility between candidates and employers, rather than viewing the job search as a one-sided evaluation.",
+        "synonyms": [
+          "job seeker alignment",
+          "employment compatibility"
+        ],
+        "antonyms": [
+          "candidate mismatch",
+          "employment misalignment"
+        ]
+      },
+      {
+        "word": "traditional job searching",
+        "definition": "Traditional job searching refers to the conventional methods of seeking employment, such as applying through job boards, networking, and attending career fairs.",
+        "businessContext": "In the context of business and recruitment, traditional job searching often contrasts with modern approaches like online platforms and social media recruiting, highlighting the evolution of job-seeking strategies.",
+        "nuance": "While traditional job searching is still relevant, it may be perceived as less effective in today's digital age, where innovative methods are gaining prominence.",
+        "synonyms": [
+          "conventional job hunting",
+          "classic employment search"
+        ],
+        "antonyms": [
+          "modern job searching",
+          "digital recruitment"
+        ]
+      },
+      {
+        "word": "understanding",
+        "definition": "Understanding refers to the ability to comprehend and grasp the meaning, significance, or nature of something.",
+        "businessContext": "In business settings, understanding is crucial for effective communication, decision-making, and problem-solving, as it enables individuals to interpret information and respond appropriately.",
+        "nuance": "This term often implies a deeper level of insight beyond mere knowledge, suggesting an empathetic or contextual grasp of a situation.",
+        "synonyms": [
+          "comprehension",
+          "insight"
+        ],
+        "antonyms": [
+          "misunderstanding",
+          "ignorance"
+        ]
+      },
+      {
+        "word": "relief",
+        "definition": "Relief is the alleviation of distress or discomfort, often resulting in a sense of reassurance or comfort.",
+        "businessContext": "In a business context, relief can refer to the easing of pressure in stressful situations, such as job searching or project deadlines, contributing to improved morale and productivity.",
+        "nuance": "Relief often conveys a sense of release from anxiety or burden, making it a positive term in contexts where stress is prevalent.",
+        "synonyms": [
+          "comfort",
+          "ease"
+        ],
+        "antonyms": [
+          "stress",
+          "burden"
+        ]
+      }
+    ]
   },
   {
-    "text": "When you're looking for a job, you need a spear and not a net. What happens when we're building a product? Same thing, right? We want this product to be for everyone, but we've learned with product market fit that doesn't work. We need a narrow, clear focus.",
+    "text": "When you're looking for a job, you need a spear and not a net. What happens when we're building a product? Same thing, right? We want this product to be for everyone, but we've learned with product market fit that doesn't work.",
     "speaker": "Phyl Terry",
     "timestamp": "00:00:00",
     "context": "Phyl is explaining her philosophy about candidate market fit, drawing parallels between job searching and product development. She argues that just as products need focused target markets rather than trying to appeal to everyone, job seekers need specific, narrow focus in their search rather than casting a wide net. This approach helps people be more memorable and creates better opportunities.",
     "vocabulary_highlights": [
-      "spear and not a net"
+      "product market fit",
+      "focused target markets",
+      "building a product"
     ],
     "topics": [
       "Product Management",
@@ -47,7 +112,45 @@
     "text_ko": "구직할 땐 그물보다 창이 필요해요. 제품을 만들 때도 마찬가지예요. 이 제품을 모두를 위한 것으로 만들고 싶지만, 제품-시장 적합성(product-market fit)을 겪어 보니 그 방식은 통하지 않더라고요. 좁고 명확한 초점이 필요해요.",
     "text_zh": "找工作的时候，你得用长矛，不能撒大网。做产品其实也是一个道理，对吧？我们总想让产品适合所有人，但从产品市场匹配度(product market fit)的经验来看，这样是行不通的。我们需要专注，目标要明确，范围要收窄。",
     "text_es": "Cuando estás buscando trabajo, necesitas una lanza, no una red. ¿Qué pasa cuando desarrollamos un producto? Lo mismo, ¿verdad? Queremos que este producto sea para todo el mundo, pero ya hemos aprendido que con el product market fit eso no funciona. Necesitamos un enfoque muy específico y claro.",
-    "key_sentence": "We need a spear and not a net for job searching."
+    "key_sentence": "We need a spear and not a net for job searching.",
+    "text_trimmed": true,
+    "original_text": "When you're looking for a job, you need a spear and not a net. What happens when we're building a product? Same thing, right? We want this product to be for everyone, but we've learned with product market fit that doesn't work. We need a narrow, clear focus.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "product market fit",
+        "definition": "Product market fit refers to the degree to which a product satisfies a strong market demand. Achieving product market fit indicates that a product is well-received by its target audience and meets their needs effectively.",
+        "businessContext": "In startup and tech environments, product market fit is a critical milestone that signifies the potential for growth and scalability, as it validates the product's value proposition in the market.",
+        "nuance": "This term is often used to emphasize the importance of aligning a product with customer needs, and it suggests that without this alignment, a product may struggle to gain traction.",
+        "synonyms": [
+          "market validation",
+          "customer alignment"
+        ],
+        "antonyms": []
+      },
+      {
+        "word": "focused target markets",
+        "definition": "Focused target markets are specific segments of consumers that a business aims to reach with its products or services. This strategy involves tailoring marketing efforts to meet the unique needs and preferences of these defined groups.",
+        "businessContext": "In business strategy, identifying focused target markets allows companies to allocate resources efficiently and develop targeted marketing campaigns that resonate with particular consumer demographics.",
+        "nuance": "Using this term implies a strategic approach to marketing, suggesting that a broad approach may dilute effectiveness; it is often used in discussions about niche marketing.",
+        "synonyms": [
+          "niche markets",
+          "specific consumer segments"
+        ],
+        "antonyms": []
+      },
+      {
+        "word": "building a product",
+        "definition": "Building a product involves the process of designing, developing, and refining a tangible item or service intended for sale or use. This encompasses all stages from ideation to production and market introduction.",
+        "businessContext": "In the context of startups and technology companies, building a product is a fundamental activity that requires collaboration across various teams, including engineering, design, and marketing, to ensure the final offering meets market needs.",
+        "nuance": "The phrase suggests a hands-on, iterative process, often associated with agile methodologies, and is typically used in discussions about product development cycles.",
+        "synonyms": [
+          "product development",
+          "creating a product"
+        ],
+        "antonyms": []
+      }
+    ]
   },
   {
     "text": "There's no I in team. Well, there is an I in village, and the I in village is that when you start to interview and negotiate, you've got to be in charge. I want you to play to win, not not to lose.",
@@ -55,7 +158,10 @@
     "timestamp": "00:00:31",
     "context": "Phyl is discussing her philosophy about taking control during the job search process. While emphasizing the importance of community support through job search councils, she explains that individuals must still take personal responsibility and be proactive during interviews and negotiations. The concept of 'playing to win, not not to lose' means being confident and strategic rather than defensive or passive.",
     "vocabulary_highlights": [
-      "play to win, not not to lose"
+      "negotiate",
+      "play to win",
+      "community support",
+      "job search process"
     ],
     "topics": [
       "Career Development",
@@ -71,15 +177,77 @@
     "text_ko": "팀에는 '나'가 없다고들 하죠. 그런데 'village'에는 'I'가 있어요. 여기서 말하는 'I'는 면접이나 협상에 들어갈 때 주도권을 잡아야 한다는 뜻이에요. 저는 여러분이 지지 않으려고만 하지 말고, 이기기 위해 적극적으로 나서길 바라요.",
     "text_zh": "团队里没有\"我\"字。不过呢，在打造团队这件事上，\"我\"还是很重要的，因为当你去面试和谈判的时候，你必须得主导局面。我希望你们是奔着赢去的，而不是光想着别输。",
     "text_es": "No hay \"yo\" en equipo. Bueno, pero sí hay un \"yo\" en liderazgo, y ese \"yo\" significa que cuando empiezas a entrevistar y negociar, tienes que tomar las riendas. Quiero que juegues para ganar, no para no perder.",
-    "key_sentence": "Play to win, not not to lose during interviews."
+    "key_sentence": "Play to win, not not to lose during interviews.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "negotiate",
+        "definition": "To discuss something in order to reach an agreement, often involving compromises from both parties.",
+        "businessContext": "In business, negotiation is a critical skill used during contract discussions, salary talks, and partnership agreements to ensure favorable outcomes.",
+        "nuance": "While negotiation implies a give-and-take process, it can also carry a connotation of strategic maneuvering, making it essential to approach with a collaborative mindset.",
+        "synonyms": [
+          "bargain",
+          "discuss"
+        ],
+        "antonyms": [
+          "agree",
+          "accept"
+        ]
+      },
+      {
+        "word": "play to win",
+        "definition": "To approach a situation with the intention of achieving success, often by taking proactive and assertive actions.",
+        "businessContext": "In competitive business environments, 'playing to win' encourages teams to adopt a mindset focused on achieving goals and outperforming competitors.",
+        "nuance": "This phrase conveys a sense of ambition and determination, suggesting that one should not only aim to participate but to excel.",
+        "synonyms": [
+          "aim for success",
+          "strive for victory"
+        ],
+        "antonyms": [
+          "play it safe",
+          "settle for less"
+        ]
+      },
+      {
+        "word": "community support",
+        "definition": "The assistance and resources provided by a group of individuals or organizations to help a particular cause or initiative.",
+        "businessContext": "In startups, community support can be vital for gaining traction, as it often leads to increased visibility, customer loyalty, and collaborative opportunities.",
+        "nuance": "While community support is generally positive, it can imply a reliance on external validation and resources, which may not always be sustainable.",
+        "synonyms": [
+          "public backing",
+          "local assistance"
+        ],
+        "antonyms": [
+          "isolation",
+          "neglect"
+        ]
+      },
+      {
+        "word": "job search process",
+        "definition": "The series of steps taken by an individual to find employment, including researching opportunities, applying for positions, and interviewing.",
+        "businessContext": "In the business world, understanding the job search process is crucial for both job seekers and employers, as it shapes recruitment strategies and candidate experiences.",
+        "nuance": "This term encompasses both the proactive and reactive aspects of finding a job, and it can imply varying levels of effort and strategy depending on the individual's circumstances.",
+        "synonyms": [
+          "employment hunt",
+          "career search"
+        ],
+        "antonyms": [
+          "job security",
+          "employment stability"
+        ]
+      }
+    ]
   },
   {
-    "text": "I want you to create what I call a job mission with OKRs. Most job descriptions, they suck, Lenny. The company doesn't know what the eff they're doing. They don't know exactly what they're looking for. But I'm not telling you to say that to them, just to be clear. I'm telling you, 'I want you to create your own job mission with OKRs.'",
+    "text": "I want you to create what I call a job mission with OKRs. Most job descriptions, they suck, Lenny. The company doesn't know what the eff they're doing. They don't know exactly what they're looking for.",
     "speaker": "Phyl Terry",
     "timestamp": "00:49:49",
     "context": "Phyl is explaining one of her key interview tactics where job candidates create their own version of the job description with specific objectives and key results (OKRs). She argues that most companies have poorly written job descriptions and don't clearly know what they want, so candidates should privately develop their own understanding of what the role should accomplish, which can then be shared with hiring managers to demonstrate initiative and strategic thinking.",
     "vocabulary_highlights": [
-      "what the eff they're doing"
+      "job mission",
+      "OKRs",
+      "objectives",
+      "key results"
     ],
     "topics": [
       "Career Development",
@@ -95,7 +263,68 @@
     "text_ko": "대부분의 직무 설명서는 엉망이에요, Lenny. 회사가 도대체 뭘 하는지 모르겠고, 어떤 사람을 정확히 원하는지도 모르는 경우가 많아요. 근데 그걸 그들에게 그대로 말하라는 건 아니고, 그냥 분명히 해두는 거예요. 제 말은, '자신만의 직무 미션(job mission)을 OKR(OKRs)로 만들어 달라'는 거예요.",
     "text_zh": "我希望你自己制定一个工作使命，配上OKRs（目标和关键结果）。说实话，大部分职位描述都写得一塌糊涂，Lenny。公司自己都搞不清楚在干什么，根本不知道到底要找什么样的人。当然了，我不是让你当面这么跟他们说，你懂的。我的意思是，你要主动出击，给自己定一个清晰的工作使命和OKRs。",
     "text_es": "Quiero que te armes lo que yo llamo una misión de trabajo con OKRs. La mayoría de las descripciones de puesto son un desastre, Lenny. La empresa no tiene ni idea de lo que está haciendo. No saben exactamente lo que buscan. Pero ojo, no te estoy diciendo que les digas eso, para que quede claro. Lo que te digo es: 'Quiero que te crees tu propia misión de trabajo con OKRs.'",
-    "key_sentence": "Most job descriptions suck; create your own job mission with OKRs."
+    "key_sentence": "Most job descriptions suck; create your own job mission with OKRs.",
+    "text_trimmed": true,
+    "original_text": "I want you to create what I call a job mission with OKRs. Most job descriptions, they suck, Lenny. The company doesn't know what the eff they're doing. They don't know exactly what they're looking for. But I'm not telling you to say that to them, just to be clear. I'm telling you, 'I want you to create your own job mission with OKRs.'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "job mission",
+        "definition": "A job mission is a clear and concise statement that outlines the primary purpose and goals of a specific role within an organization.",
+        "businessContext": "In business and startup environments, a job mission helps align employee expectations with company objectives, ensuring that individuals understand their contributions to the overall mission of the organization.",
+        "nuance": "The term conveys a sense of purpose and direction, making it more impactful than a traditional job description.",
+        "synonyms": [
+          "role purpose",
+          "job objective"
+        ],
+        "antonyms": [
+          "job description",
+          "N/A"
+        ]
+      },
+      {
+        "word": "OKRs",
+        "definition": "OKRs, or Objectives and Key Results, is a goal-setting framework used to define measurable goals and track their outcomes.",
+        "businessContext": "In tech and startup settings, OKRs are employed to ensure that teams and individuals are aligned with the company's strategic priorities and to facilitate performance tracking.",
+        "nuance": "The acronym is widely recognized in innovative organizations, and using it can signal a modern, results-oriented approach to management.",
+        "synonyms": [
+          "goal framework",
+          "performance metrics"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "objectives",
+        "definition": "Objectives are specific, measurable goals that an organization aims to achieve within a defined timeframe.",
+        "businessContext": "In business, objectives guide strategic planning and decision-making, helping teams focus their efforts on achieving desired outcomes.",
+        "nuance": "While objectives are often quantifiable, they can also be qualitative, emphasizing the importance of clarity in goal-setting.",
+        "synonyms": [
+          "goals",
+          "targets"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "key results",
+        "definition": "Key results are specific, quantifiable outcomes that measure the achievement of an objective within the OKR framework.",
+        "businessContext": "In business settings, key results provide a clear benchmark for success, enabling teams to assess their progress towards their objectives.",
+        "nuance": "Key results should be ambitious yet attainable, reflecting a balance between challenge and feasibility in performance measurement.",
+        "synonyms": [
+          "performance indicators",
+          "success metrics"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "If someone did this, it would blow my mind. I would hire them on the spot.",
@@ -103,8 +332,10 @@
     "timestamp": "00:00:45",
     "context": "Phyl is quoting a senior Amazon executive who has hired over 2,000 product leaders, describing his reaction to candidates who present a job mission with OKRs during interviews. This quote emphasizes how rare and impressive this tactic is - most candidates never do this level of preparation, so those who do immediately stand out and demonstrate their strategic thinking and commitment to success in the role.",
     "vocabulary_highlights": [
-      "blow my mind",
-      "on the spot"
+      "hire on the spot",
+      "job mission",
+      "OKRs",
+      "candidates"
     ],
     "topics": [
       "Career Development",
@@ -120,16 +351,77 @@
     "text_ko": "누군가 이런 걸 해낸다면 정말 깜짝 놀랄 거예요. 그 자리에서 바로 고용할 거예요.",
     "text_zh": "要是有人能做到这个，我真的会被震撼到。我会当场就录用他。",
     "text_es": "Si alguien hiciera esto, me dejaría impresionado. Lo contrataría inmediatamente.",
-    "key_sentence": "If someone did this, it would blow my mind; I'd hire them on the spot."
+    "key_sentence": "If someone did this, it would blow my mind; I'd hire them on the spot.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "hire on the spot",
+        "definition": "To immediately offer someone a job during an interview or meeting without further deliberation.",
+        "businessContext": "In fast-paced industries such as tech startups, hiring on the spot can expedite the recruitment process and secure top talent before they are approached by competitors.",
+        "nuance": "This phrase conveys a sense of urgency and decisiveness, often used when a candidate impresses the interviewer significantly.",
+        "synonyms": [
+          "immediate hire",
+          "instant employment"
+        ],
+        "antonyms": [
+          "delayed hiring",
+          "extended interview process"
+        ]
+      },
+      {
+        "word": "job mission",
+        "definition": "A statement that outlines the primary purpose and objectives of a specific job role within an organization.",
+        "businessContext": "In business, a clear job mission helps align employee responsibilities with the company's goals and ensures that candidates understand the expectations of the role.",
+        "nuance": "This term emphasizes the strategic importance of a position, often used in job descriptions to attract candidates who resonate with the organization's vision.",
+        "synonyms": [
+          "role purpose",
+          "job objective"
+        ],
+        "antonyms": [
+          "job ambiguity",
+          "role confusion"
+        ]
+      },
+      {
+        "word": "OKRs",
+        "definition": "A framework for defining and tracking objectives and their outcomes, commonly used in organizations to align goals across teams.",
+        "businessContext": "In tech and startup environments, OKRs facilitate transparency and accountability, allowing teams to measure progress towards ambitious goals.",
+        "nuance": "OKRs are typically set quarterly and are meant to be aspirational, encouraging teams to stretch their capabilities rather than just meet basic expectations.",
+        "synonyms": [
+          "objectives and key results",
+          "goal-setting framework"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "candidates",
+        "definition": "Individuals who apply for a job or are considered for a position within an organization.",
+        "businessContext": "In recruitment, candidates are evaluated based on their qualifications, skills, and fit for the company culture during the hiring process.",
+        "nuance": "The term carries a neutral connotation, but can imply competition among applicants, especially in high-demand job markets.",
+        "synonyms": [
+          "applicants",
+          "prospects"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "Asking for help is not a sign of weakness, it's a sign of confidence. It both requires confidence and strengthens it, Lenny. Two, it's not a taking activity, it's a giving activity. If you do it well, you're actually being giving to the people you ask.",
+    "text": "Asking for help is not a sign of weakness, it's a sign of confidence. It both requires confidence and strengthens it, Lenny. Two, it's not a taking activity, it's a giving activity.",
     "speaker": "Phyl Terry",
     "timestamp": "01:14:36",
     "context": "Lenny asks Phyl about her expertise in teaching people how to ask for help, noting it was a common theme when he asked people what she's amazing at. Phyl is explaining her counterintuitive philosophy about asking for help, arguing against common misconceptions. She outlines four key principles: asking for help shows confidence rather than weakness, it's actually a generous act toward the person being asked, and when done properly with preparation and vulnerability, people feel honored to be asked for their expertise.",
     "vocabulary_highlights": [
+      "confidence",
+      "requires",
       "counterintuitive",
-      "being giving to"
+      "activity"
     ],
     "topics": [
       "Communication Skills",
@@ -146,6 +438,67 @@
     "text_ko": "도움을 요청하는 건 약함의 표시가 아니라 자신감의 표현이에요. 도와달라고 하려면 자신감이 필요하고, 또 그런 과정을 통해 자신감이 더 강해져요, Lenny. 두 번째로, 도움을 청하는 건 받기만 하는 행위가 아니라 주는 행위예요. 잘하면 도움을 요청받는 사람들에게 오히려 베푸는 셈이에요.",
     "text_zh": "寻求帮助不是软弱的表现，而是自信的体现。这既需要自信，也能增强自信，Lenny。第二点，这不是索取，而是给予。如果你做得好，其实是在给那些你求助的人机会。",
     "text_es": "Pedir ayuda no es señal de debilidad, es señal de que tienes confianza en ti mismo. Te exige tener seguridad y a la vez te la refuerza, Lenny. Segundo, no es algo donde solo recibes, es algo donde también das. Si lo haces bien, en realidad les estás dando algo valioso a las personas a las que les pides ayuda.",
-    "key_sentence": "Asking for help is counterintuitive but is being giving to others."
+    "key_sentence": "Asking for help is not a sign of weakness, it's a sign of confidence.",
+    "text_trimmed": true,
+    "original_text": "Asking for help is not a sign of weakness, it's a sign of confidence. It both requires confidence and strengthens it, Lenny. Two, it's not a taking activity, it's a giving activity. If you do it well, you're actually being giving to the people you ask.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "confidence",
+        "definition": "Confidence is a belief in one's abilities, qualities, and judgment. It often leads to assertive behavior and decision-making.",
+        "businessContext": "In business, confidence is crucial for leadership, negotiations, and team dynamics, as it can influence how others perceive and respond to an individual or organization.",
+        "nuance": "While confidence is generally viewed positively, overconfidence can lead to poor decision-making; thus, it's important to balance confidence with humility.",
+        "synonyms": [
+          "self-assurance",
+          "certainty"
+        ],
+        "antonyms": [
+          "insecurity",
+          "doubt"
+        ]
+      },
+      {
+        "word": "requires",
+        "definition": "Requires means to need or demand something as necessary or essential. It indicates a condition that must be met for a particular outcome.",
+        "businessContext": "In a business context, understanding what a project or task requires is essential for resource allocation, planning, and execution.",
+        "nuance": "The term can imply a sense of obligation or necessity, and it is often used in formal communication to specify conditions.",
+        "synonyms": [
+          "necessitates",
+          "demands"
+        ],
+        "antonyms": [
+          "allows",
+          "permits"
+        ]
+      },
+      {
+        "word": "counterintuitive",
+        "definition": "Counterintuitive refers to something that goes against what one would expect or intuitively believe. It challenges common assumptions.",
+        "businessContext": "In business and technology, counterintuitive strategies or findings can lead to innovative solutions and competitive advantages, often requiring a shift in mindset.",
+        "nuance": "This term is often used to highlight surprising results or approaches that may initially seem illogical but prove effective upon closer examination.",
+        "synonyms": [
+          "paradoxical",
+          "unexpected"
+        ],
+        "antonyms": [
+          "intuitive",
+          "predictable"
+        ]
+      },
+      {
+        "word": "activity",
+        "definition": "Activity refers to a specific action or set of actions undertaken to achieve a particular goal or outcome. It can encompass various tasks or engagements.",
+        "businessContext": "In a business environment, activities are often categorized into strategic initiatives, operational tasks, or team-building exercises, each contributing to overall objectives.",
+        "nuance": "The term can imply a level of engagement or participation, and it is often used in discussions about productivity and resource management.",
+        "synonyms": [
+          "task",
+          "operation"
+        ],
+        "antonyms": [
+          "inactivity",
+          "idleness"
+        ]
+      }
+    ]
   }
 ]

@@ -1,13 +1,14 @@
 [
   {
-    "text": "I think it's very important to do a core job really well at any company, but it's equally important to have curiosity and be open to serendipity. I think Zoom makes it harder, but it's very important to understand what else is going on at the company, what else people are working on, and just keep talking to people and build relationship with the company, because those are what will lead to the next set of opportunities.",
+    "text": "I think it's very important to do a core job really well at any company, but it's equally important to have curiosity and be open to serendipity.",
     "speaker": "Gokul Rajaram",
     "timestamp": "00:06:38",
     "context": "Lenny asks Gokul about his journey to becoming a tech leader. Gokul shares how he discovered Google AdSense by walking around the office after hours and finding engineers working on a side project, eventually becoming their part-time PM. He explains that great career opportunities often don't come from linear progression but from staying curious about what's happening around you and building relationships across the company.",
     "vocabulary_highlights": [
-      "be open to serendipity",
-      "build relationship with the company",
-      "lead to the next set of opportunities"
+      "curiosity",
+      "serendipity",
+      "important",
+      "core job"
     ],
     "topics": [
       "Career Development",
@@ -23,16 +24,79 @@
     "text_ko": "어떤 회사에서든 핵심 업무를 정말 잘하는 건 굉장히 중요해요. 하지만 똑같이 중요한 건 호기심을 갖고 우연한 기회(serendipity)에 열려 있는 자세예요. Zoom 때문에 그런 게 더 어려워졌다고 생각하지만, 회사에서 무슨 일이 일어나고 있는지, 동료들이 어떤 걸 하고 있는지 파악하고 계속 사람들과 대화하면서 관계를 쌓아 가는 게 매우 중요해요. 그런 것들이 다음 기회로 이어지거든요.",
     "text_zh": "我觉得在任何公司把核心工作做好都很重要，但同样重要的是要保持好奇心，对意外机会保持开放态度。我觉得Zoom让这变得更难了，但了解公司里还在发生什么事，别人在做什么项目，多跟人聊天，在公司里建立人脉关系，这些都非常重要，因为这些才会给你带来下一波机会。",
     "text_es": "Creo que es súper importante hacer muy bien tu trabajo principal en cualquier empresa, pero igual de importante es tener curiosidad y estar abierto a las oportunidades que surgen de casualidad. Creo que Zoom lo hace más difícil, pero es clave entender qué más está pasando en la empresa, en qué más está trabajando la gente, y simplemente seguir hablando con las personas y construir relaciones dentro de la compañía, porque eso es lo que te va a llevar al siguiente grupo de oportunidades.",
-    "key_sentence": "Curiosity and relationships lead to the next set of opportunities."
+    "key_sentence": "it's equally important to have curiosity and be open to serendipity.",
+    "text_trimmed": true,
+    "original_text": "I think it's very important to do a core job really well at any company, but it's equally important to have curiosity and be open to serendipity. I think Zoom makes it harder, but it's very important to understand what else is going on at the company, what else people are working on, and just keep talking to people and build relationship with the company, because those are what will lead to the next set of opportunities.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "curiosity",
+        "definition": "A strong desire to learn or know something, often leading to exploration and discovery.",
+        "businessContext": "In business, curiosity drives innovation and problem-solving, encouraging employees to seek new solutions and improve processes.",
+        "nuance": "While curiosity is generally viewed positively, excessive curiosity can sometimes be seen as intrusive or distracting in a professional setting.",
+        "synonyms": [
+          "inquisitiveness",
+          "interest"
+        ],
+        "antonyms": [
+          "indifference",
+          "apathy"
+        ]
+      },
+      {
+        "word": "serendipity",
+        "definition": "The occurrence of events by chance in a happy or beneficial way, often leading to unexpected discoveries.",
+        "businessContext": "In the startup world, serendipity can lead to breakthrough ideas or partnerships that were not initially planned, enhancing creativity and innovation.",
+        "nuance": "Serendipity implies a fortunate outcome from an unexpected situation, and while it is often welcomed, it should not be relied upon as a primary strategy.",
+        "synonyms": [
+          "fortune",
+          "luck"
+        ],
+        "antonyms": [
+          "misfortune",
+          "bad luck"
+        ]
+      },
+      {
+        "word": "important",
+        "definition": "Of great significance or value; likely to have a profound effect on success or outcomes.",
+        "businessContext": "In a corporate environment, identifying important tasks and priorities is crucial for effective time management and resource allocation.",
+        "nuance": "The term 'important' can vary in meaning based on context, and what is considered important in one scenario may not hold the same weight in another.",
+        "synonyms": [
+          "crucial",
+          "significant"
+        ],
+        "antonyms": [
+          "trivial",
+          "insignificant"
+        ]
+      },
+      {
+        "word": "core job",
+        "definition": "The primary responsibilities or essential functions that define an individual's role within an organization.",
+        "businessContext": "Focusing on one's core job is vital for achieving organizational goals and ensuring that key tasks are executed effectively and efficiently.",
+        "nuance": "While core jobs are foundational to an employee's role, it is also important to balance them with additional responsibilities or projects that may arise.",
+        "synonyms": [
+          "primary role",
+          "essential function"
+        ],
+        "antonyms": [
+          "peripheral task",
+          "secondary role"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think many opportunities don't come linearly just working in your job and making sure you get promoted. That's not how I think great careers are built. I think great careers are built by knowing a lot of people doing great work so they know and want you on their teams, and just waiting for serendipity and then seizing it and jumping.",
+    "text": "I think many opportunities don't come linearly just working in your job and making sure you get promoted. That's not how I think great careers are built.",
     "speaker": "Gokul Rajaram",
     "timestamp": "00:05:09",
     "context": "Gokul continues explaining his career philosophy after sharing how random encounters led to major opportunities like joining Square. He argues against the traditional approach of focusing solely on your current role to get promoted, instead advocating for building a broad network within your company and being ready to act when unexpected opportunities arise.",
     "vocabulary_highlights": [
-      "don't come linearly",
-      "seizing it and jumping"
+      "opportunities",
+      "careers",
+      "traditional approach",
+      "promoted"
     ],
     "topics": [
       "Career Development",
@@ -48,17 +112,79 @@
     "text_ko": "저는 많은 기회가 그냥 직장 생활만 하고 승진만 하면 알아서 오는 건 아니라고 생각해요. 그렇게 해서 훌륭한 커리어가 만들어지는 건 아니에요. 좋은 커리어는 훌륭한 일을 하는 사람들을 많이 알고 있어서 그 사람들이 당신을 알고 팀에 데려가고 싶어 하게 만드는 것, 그리고 우연한 기회(serendipity)를 기다렸다가 그 기회가 오면 과감히 잡고 뛰어드는 것으로 만들어진다고 봐요.",
     "text_zh": "我觉得很多机会不是靠在一个岗位上埋头苦干、等着升职就能得到的。真正牛的职业发展不是这么来的。我认为要想事业做得好，就得认识很多厉害的人，自己活儿也得干得漂亮，这样他们才会想要你加入他们的团队。然后就是等机缘巧合，一旦碰上了就得抓住，该跳就跳。",
     "text_es": "Creo que muchas oportunidades no llegan de forma lineal solo trabajando en tu puesto y asegurándo que te asciendan. Así no es como se construyen las grandes carreras. Pienso que las grandes carreras se construyen conociendo a mucha gente, haciendo un trabajo excelente para que te conozcan y te quieran en sus equipos, y simplemente esperando a que llegue la casualidad afortunada (serendipity) para entonces aprovecharla y lanzarte.",
-    "key_sentence": "Opportunities don't come linearly; seize them when they arise."
+    "key_sentence": "That's not how I think great careers are built.",
+    "text_trimmed": true,
+    "original_text": "I think many opportunities don't come linearly just working in your job and making sure you get promoted. That's not how I think great careers are built. I think great careers are built by knowing a lot of people doing great work so they know and want you on their teams, and just waiting for serendipity and then seizing it and jumping.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "opportunities",
+        "definition": "Circumstances that make it possible to do something or achieve a goal.",
+        "businessContext": "In business, opportunities often refer to potential avenues for growth, innovation, or market expansion that can be leveraged for competitive advantage.",
+        "nuance": "The term carries a positive connotation, suggesting potential for success, and is often used in the context of strategic planning and career development.",
+        "synonyms": [
+          "prospects",
+          "possibilities"
+        ],
+        "antonyms": [
+          "challenges",
+          "obstacles"
+        ]
+      },
+      {
+        "word": "careers",
+        "definition": "The series of jobs and experiences that a person has in their professional life.",
+        "businessContext": "In the corporate world, careers are often viewed in terms of progression, skill development, and alignment with organizational goals.",
+        "nuance": "While often associated with long-term professional paths, the term can also imply a broader spectrum of roles and experiences beyond a single job.",
+        "synonyms": [
+          "professions",
+          "vocations"
+        ],
+        "antonyms": [
+          "unemployment",
+          "idleness"
+        ]
+      },
+      {
+        "word": "traditional approach",
+        "definition": "A method or strategy that is established and widely accepted, often based on historical practices.",
+        "businessContext": "In business, a traditional approach may refer to conventional methods of management, marketing, or operations that have been proven over time.",
+        "nuance": "This phrase can imply resistance to change or innovation, and may be viewed as less effective in rapidly evolving industries.",
+        "synonyms": [
+          "conventional method",
+          "standard practice"
+        ],
+        "antonyms": [
+          "innovative approach",
+          "modern strategy"
+        ]
+      },
+      {
+        "word": "promoted",
+        "definition": "The act of being elevated to a higher position or rank within an organization, often accompanied by increased responsibilities and compensation.",
+        "businessContext": "Promotion is a key aspect of career advancement in business, often tied to performance evaluations and organizational needs.",
+        "nuance": "While generally viewed positively, the term can also imply favoritism or competition among peers, depending on the context of the promotion.",
+        "synonyms": [
+          "elevated",
+          "advanced"
+        ],
+        "antonyms": [
+          "demoted",
+          "relegated"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think the biggest one is, the founder becomes too tactical and disempowers their team. I think the founder thinks they know what customers want. I think they don't empower their teams enough and they basically just tell the engineers what to build. And I think that leads to teams that are basically tactically just shaping feature after feature without truly solving problems.",
+    "text": "I think the biggest one is, the founder becomes too tactical and disempowers their team. I think the founder thinks they know what customers want. I think they don't empower their teams enough and they basically just tell the engineers what to build.",
     "speaker": "Gokul Rajaram",
     "timestamp": "00:22:04",
     "context": "Lenny asks about common pitfalls in startup product development processes. Gokul identifies the biggest mistake as founders who micromanage by dictating specific features rather than presenting problems for their teams to solve. This creates what he calls a 'feature factory' where teams build features without understanding their impact on customer behavior.",
     "vocabulary_highlights": [
-      "becomes too tactical",
-      "disempowers their team",
-      "shaping feature after feature"
+      "disempower",
+      "empower",
+      "tactical",
+      "micromanage"
     ],
     "topics": [
       "Leadership & Management",
@@ -74,17 +200,79 @@
     "text_ko": "제가 보기엔 제일 큰 문제는 창업자(founder)가 너무 전술적(tactical)으로 변해서 팀의 자율성을 빼앗는다는 점이에요. 창업자는 자기가 고객이 뭘 원하는지 안다고 생각하고, 팀에 충분히 권한을 주지 않은 채 그냥 엔지니어(engineers)들에게 무엇을 만들어야 할지 지시해요. 그러다 보니 팀은 근본적인 문제를 해결하기보다 전술적으로 기능(feature)들만 잇달아 만드는 수준에 그치게 돼요.",
     "text_zh": "我觉得最大的问题就是，创始人管得太细了，把团队的权力都收走了。创始人总觉得自己最懂客户要什么，不给团队足够的自主权，基本上就是直接告诉工程师该做什么。这样搞下去，团队就变成纯执行的了，一个功能接一个功能地堆，根本解决不了真正的问题。",
     "text_es": "Creo que el problema más grande es que el fundador se vuelve demasiado operativo y le quita poder a su equipo. El fundador piensa que sabe lo que quieren los clientes. No empodera lo suficiente a sus equipos y básicamente solo les dice a los ingenieros qué construir. Y eso lleva a equipos que están solo desarrollando funcionalidad tras funcionalidad de manera táctica, sin realmente resolver problemas de fondo.",
-    "key_sentence": "Founders become too tactical and disempower their team."
+    "key_sentence": "Founders become too tactical and disempower their team.",
+    "text_trimmed": true,
+    "original_text": "I think the biggest one is, the founder becomes too tactical and disempowers their team. I think the founder thinks they know what customers want. I think they don't empower their teams enough and they basically just tell the engineers what to build. And I think that leads to teams that are basically tactically just shaping feature after feature without truly solving problems.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "disempower",
+        "definition": "To take away power, authority, or influence from someone, rendering them less effective or capable.",
+        "businessContext": "In business settings, disempowering team members can lead to decreased motivation and innovation, as employees may feel undervalued and restricted in their roles.",
+        "nuance": "This term often carries a negative connotation, suggesting a lack of trust or support from leadership.",
+        "synonyms": [
+          "weaken",
+          "diminish"
+        ],
+        "antonyms": [
+          "empower",
+          "enable"
+        ]
+      },
+      {
+        "word": "empower",
+        "definition": "To give someone the authority, confidence, or means to do something, enabling them to take control of their work or decisions.",
+        "businessContext": "Empowering employees is crucial in fostering a culture of innovation and accountability, as it encourages them to take initiative and contribute to organizational goals.",
+        "nuance": "This term is generally viewed positively, indicating a supportive leadership style that values employee input and autonomy.",
+        "synonyms": [
+          "authorize",
+          "enable"
+        ],
+        "antonyms": [
+          "disempower",
+          "restrict"
+        ]
+      },
+      {
+        "word": "tactical",
+        "definition": "Relating to actions or strategies that are designed to achieve a specific short-term goal or objective.",
+        "businessContext": "In business, a tactical approach often involves detailed planning and execution of specific tasks to meet immediate objectives, sometimes at the expense of long-term strategy.",
+        "nuance": "While tactical decisions can be necessary, overemphasis on tactics may detract from broader strategic thinking.",
+        "synonyms": [
+          "strategic",
+          "operational"
+        ],
+        "antonyms": [
+          "strategic",
+          "long-term"
+        ]
+      },
+      {
+        "word": "micromanage",
+        "definition": "To control every part of a task or project, often excessively, leaving little room for autonomy or independent decision-making.",
+        "businessContext": "Micromanagement can lead to employee frustration and decreased morale, as it undermines trust and stifles creativity within teams.",
+        "nuance": "This term typically has a negative connotation, suggesting a lack of confidence in employees' abilities and an overbearing management style.",
+        "synonyms": [
+          "oversee",
+          "control"
+        ],
+        "antonyms": [
+          "delegate",
+          "trust"
+        ]
+      }
+    ]
   },
   {
-    "text": "Engineers are by far the most expensive resources in the company. By far, right? I mean if you look at the composition of engineers versus... And PMs versus any other function, it's two to three, equity, cash, everything. And if you think of it that way, then if you're not caring and feeding and not leveraging this amazing most expensive resource, well, that's a crime.",
+    "text": "Engineers are by far the most expensive resources in the company. By far, right? I mean if you look at the composition of engineers versus... And PMs versus any other function, it's two to three, equity, cash, everything.",
     "speaker": "Gokul Rajaram",
     "timestamp": "00:24:04",
     "context": "Lenny asks when startups should hire their first PM, and Gokul explains why it's typically when you have 8-10 engineers. He emphasizes that engineers are the most expensive resource at any company in terms of compensation and equity, so if a founder doesn't have bandwidth to properly manage and direct this expensive team, they need to hire a PM to ensure these resources are being leveraged effectively.",
     "vocabulary_highlights": [
-      "caring and feeding",
-      "leveraging this amazing most expensive resource",
-      "that's a crime"
+      "resources",
+      "composition",
+      "function",
+      "equity"
     ],
     "topics": [
       "Product Management",
@@ -100,14 +288,78 @@
     "text_ko": "엔지니어(engineers)는 회사에서 단연 가장 비싼 자원이에요. 정말 그렇죠? 엔지니어와 프로덕트 매니저(PMs)를 다른 어떤 직무와 비교해 보면 보수나 지분(equity), 현금(cash) 등 모든 면에서 두세 배(2~3배) 차이가 나요. 그렇게 보면 이 엄청나게 비싼 자원을 신경 써서 지원하고 잘 활용하지 않는다면, 솔직히 그건 죄나 마찬가지예요.",
     "text_zh": "工程师绝对是公司里最贵的资源，没有之一，对吧？你看看工程师的配置，还有产品经理(PM)，跟其他岗位比起来，股权啊现金啊什么的，都是人家的两三倍。这么想的话，要是你不好好照顾这些最贵的宝贝疙瘩，不充分利用他们，那简直就是暴殄天物啊。",
     "text_es": "Los ingenieros son, por mucho, el recurso más caro de la empresa. Y cuando digo por mucho, es en serio, ¿verdad? O sea, si te fijas en la composición de ingenieros versus... y PMs versus cualquier otra función, estamos hablando de dos a tres veces más - acciones, efectivo, todo. Y si lo ves de esa manera, pues si no estás cuidando y alimentando y no estás aprovechando al máximo este recurso tan caro e increíble, eso es un crimen.",
-    "key_sentence": "Caring and feeding engineers is crucial; neglecting them is a crime."
+    "key_sentence": "Engineers are by far the most expensive resources in the company.",
+    "text_trimmed": true,
+    "original_text": "Engineers are by far the most expensive resources in the company. By far, right? I mean if you look at the composition of engineers versus... And PMs versus any other function, it's two to three, equity, cash, everything. And if you think of it that way, then if you're not caring and feeding and not leveraging this amazing most expensive resource, well, that's a crime.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "resources",
+        "definition": "Resources refer to the assets, materials, or personnel that are available for use in achieving organizational goals.",
+        "businessContext": "In business and tech environments, resources often include human capital, financial assets, and technological tools necessary for project execution and operational efficiency.",
+        "nuance": "While 'resources' can imply both tangible and intangible assets, it is often used to emphasize the human aspect, particularly in discussions about workforce allocation and costs.",
+        "synonyms": [
+          "assets",
+          "capital"
+        ],
+        "antonyms": [
+          "liabilities",
+          "debt"
+        ]
+      },
+      {
+        "word": "composition",
+        "definition": "Composition refers to the arrangement or makeup of various elements within a whole, particularly in terms of their proportions and relationships.",
+        "businessContext": "In a corporate setting, composition is frequently analyzed in relation to team structures, workforce diversity, or product portfolios to assess balance and effectiveness.",
+        "nuance": "The term can carry a technical connotation, suggesting a detailed analysis of elements, and is often used in strategic discussions about optimizing team dynamics or resource allocation.",
+        "synonyms": [
+          "structure",
+          "configuration"
+        ],
+        "antonyms": [
+          "disorganization",
+          "chaos"
+        ]
+      },
+      {
+        "word": "function",
+        "definition": "Function refers to the specific role or activity that an entity or component performs within a system or organization.",
+        "businessContext": "In business, understanding the function of various departments or roles is crucial for ensuring that organizational objectives are met efficiently and effectively.",
+        "nuance": "While 'function' can denote a straightforward role, it may also imply a broader significance in terms of how different parts of an organization interact and contribute to overall success.",
+        "synonyms": [
+          "role",
+          "operation"
+        ],
+        "antonyms": [
+          "dysfunction",
+          "inactivity"
+        ]
+      },
+      {
+        "word": "equity",
+        "definition": "Equity refers to the ownership interest in a company, represented by shares of stock, as well as the value of an asset after deducting liabilities.",
+        "businessContext": "In startups and investment discussions, equity is a critical factor in negotiations, compensation packages, and funding strategies, often determining the distribution of ownership among founders, employees, and investors.",
+        "nuance": "Equity can imply not only financial stakes but also a sense of fairness and balance in ownership distribution, making it a key term in discussions about corporate governance and employee incentives.",
+        "synonyms": [
+          "ownership",
+          "stake"
+        ],
+        "antonyms": [
+          "debt",
+          "liability"
+        ]
+      }
+    ]
   },
   {
-    "text": "I always feel that you should hire to solve a problem you're facing. You should never hire... Or you feel you're going to face. But especially I think just over-hiring, especially... You want to be efficient and smaller teams are always good. Smaller companies are always good, part of the problem.",
+    "text": "I always feel that you should hire to solve a problem you're facing. You should never hire... Or you feel you're going to face. But especially I think just over-hiring, especially... You want to be efficient and smaller teams are always good.",
     "speaker": "Gokul Rajaram",
     "timestamp": "00:23:41",
     "context": "Lenny asks what signals indicate it's time to hire a PM beyond the 8-10 engineer rule of thumb. Gokul emphasizes a fundamental hiring principle - only hire when you have a specific problem that needs solving, rather than hiring preemptively. He warns against over-hiring and stresses that maintaining lean, efficient teams is crucial for startup success.",
     "vocabulary_highlights": [
+      "efficient",
+      "fundamental",
+      "specific",
       "over-hiring"
     ],
     "topics": [
@@ -124,17 +376,79 @@
     "text_ko": "저는 항상 지금 당면한 문제를 해결하려고 사람을 뽑아야 한다고 생각해요. 앞으로 닥칠 것 같아서 미리 뽑는 건 하지 말아야 해요. 특히 과잉 채용(over-hiring)은 정말 문제라고 봐요. 효율적으로 운영하려면 팀은 작을수록 좋고, 작은 조직이 더 잘 돌아가는 경우가 많아요. 과도한 채용이 문제의 한 부분이기도 해요.",
     "text_zh": "我一直觉得吧，招人应该是为了解决你现在面临的问题。千万别为了...或者说你觉得可能会遇到的问题就招人。特别是那种过度招聘，真的...你得追求效率，小团队总是好的。小公司也总是有优势的，这也是问题的一部分。",
     "text_es": "Siempre pienso que debes contratar para resolver un problema que tienes encima. Nunca deberías contratar... O que sientes que vas a enfrentar. Pero sobre todo creo que contratar de más, especialmente... Quieres ser eficiente y los equipos pequeños siempre funcionan bien. Las empresas pequeñas siempre son buenas, parte del problema.",
-    "key_sentence": "Avoid over-hiring; focus on solving current problems."
+    "key_sentence": "you should hire to solve a problem you're facing.",
+    "text_trimmed": true,
+    "original_text": "I always feel that you should hire to solve a problem you're facing. You should never hire... Or you feel you're going to face. But especially I think just over-hiring, especially... You want to be efficient and smaller teams are always good. Smaller companies are always good, part of the problem.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "efficient",
+        "definition": "Achieving maximum productivity with minimum wasted effort or expense.",
+        "businessContext": "In business, efficiency is crucial for optimizing resources and improving profitability, often leading to streamlined processes and reduced operational costs.",
+        "nuance": "While 'efficient' generally has a positive connotation, it can imply a lack of flexibility or creativity in some contexts.",
+        "synonyms": [
+          "effective",
+          "productive"
+        ],
+        "antonyms": [
+          "inefficient",
+          "wasteful"
+        ]
+      },
+      {
+        "word": "fundamental",
+        "definition": "Forming a necessary base or core; essential or foundational.",
+        "businessContext": "Understanding fundamental principles is vital in business strategy, as they guide decision-making and influence long-term success.",
+        "nuance": "The term often implies a basic level of understanding that is crucial for further development or complexity.",
+        "synonyms": [
+          "basic",
+          "essential"
+        ],
+        "antonyms": [
+          "superficial",
+          "secondary"
+        ]
+      },
+      {
+        "word": "specific",
+        "definition": "Clearly defined or identified; precise and detailed.",
+        "businessContext": "In business communication, being specific helps eliminate ambiguity, ensuring that all stakeholders understand objectives and expectations.",
+        "nuance": "While 'specific' is generally positive, it can also suggest a lack of flexibility or openness to broader interpretations.",
+        "synonyms": [
+          "particular",
+          "definite"
+        ],
+        "antonyms": [
+          "vague",
+          "general"
+        ]
+      },
+      {
+        "word": "over-hiring",
+        "definition": "The practice of recruiting more employees than necessary for the current workload or business needs.",
+        "businessContext": "Over-hiring can lead to increased payroll costs and inefficiencies, making it a concern for startups and companies aiming to maintain lean operations.",
+        "nuance": "The term carries a negative connotation, suggesting poor planning or misjudgment in resource allocation.",
+        "synonyms": [
+          "excessive hiring",
+          "overstaffing"
+        ],
+        "antonyms": [
+          "under-hiring",
+          "staffing appropriately"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think once you have three to four PMs, you do want those three to four PMs to report to a functional product leader just because I feel they want a mentor, first of all. They want a coach. And you want to build a product culture and hopefully discipline across those four or five PMs because the leverage you get.",
+    "text": "I think once you have three to four PMs, you do want those three to four PMs to report to a functional product leader just because I feel they want a mentor, first of all. They want a coach.",
     "speaker": "Gokul Rajaram",
     "timestamp": "00:33:03",
     "context": "Lenny asks about organizational structures as PM teams grow, specifically when PMs should report to a CPO versus a GM. Gokul explains that once you reach 3-4 PMs, they need a dedicated functional leader who can mentor them and build consistent product culture and practices across the team, rather than reporting to a GM who manages multiple functions.",
     "vocabulary_highlights": [
-      "functional product leader",
-      "build a product culture",
-      "the leverage you get"
+      "functional",
+      "mentor",
+      "coach",
+      "organizational structure"
     ],
     "topics": [
       "Leadership & Management",
@@ -150,16 +464,79 @@
     "text_ko": "제 생각에는 프로덕트 매니저들(PMs)이 세 명에서 네 명 정도로 늘어나면, 그분들이 실무 중심의 프로덕트 리더(functional product leader)에게 보고하게 하는 게 좋아요. 우선 멘토가 필요하고, 코치도 원하거든요. 또 그 네다섯 명의 프로덕트 매니저들 사이에 프로덕트 문화(product culture)와 어느 정도의 규율을 만들어야 해요. 그래야 얻는 레버리지(leverage)가 커요.",
     "text_zh": "我觉得一旦你有三四个产品经理(PM)的时候，你肯定希望这三四个PM都汇报给一个专门负责产品的领导，因为我感觉他们首先需要一个导师嘛，需要有人指导他们。而且你也想在这四五个PM中间建立起产品文化，最好还能形成一套规范，这样你能发挥出来的杠杆效应就大了。",
     "text_es": "Yo creo que una vez que tienes tres o cuatro PMs, sí quieres que esos tres o cuatro PMs le reporten a un líder funcional de producto, principalmente porque siento que necesitan un mentor, para empezar. Necesitan un coach. Y quieres crear una cultura de producto y ojalá disciplina entre esos cuatro o cinco PMs por todo el leverage que obtienes.",
-    "key_sentence": "A functional product leader helps build a product culture and leverage."
+    "key_sentence": "you do want those three to four PMs to report to a functional product leader just because I feel they want a mentor",
+    "text_trimmed": true,
+    "original_text": "I think once you have three to four PMs, you do want those three to four PMs to report to a functional product leader just because I feel they want a mentor, first of all. They want a coach. And you want to build a product culture and hopefully discipline across those four or five PMs because the leverage you get.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "functional",
+        "definition": "Relating to a specific function or role within an organization, often emphasizing practical application over theoretical aspects.",
+        "businessContext": "In business, 'functional' often describes departments or roles that focus on specific tasks, such as marketing, finance, or product development, ensuring that each area operates effectively.",
+        "nuance": "While 'functional' implies efficiency and purpose, it can sometimes suggest a lack of creativity or flexibility.",
+        "synonyms": [
+          "practical",
+          "operational"
+        ],
+        "antonyms": [
+          "dysfunctional",
+          "ineffective"
+        ]
+      },
+      {
+        "word": "mentor",
+        "definition": "An experienced and trusted advisor who provides guidance, support, and knowledge to a less experienced individual in a professional setting.",
+        "businessContext": "In the workplace, mentors play a crucial role in developing talent, helping employees navigate their careers, and fostering professional growth.",
+        "nuance": "The term 'mentor' carries a positive connotation of wisdom and support, often implying a long-term relationship.",
+        "synonyms": [
+          "advisor",
+          "guide"
+        ],
+        "antonyms": [
+          "mentee",
+          "novice"
+        ]
+      },
+      {
+        "word": "coach",
+        "definition": "A professional who provides training and development to individuals or teams, focusing on enhancing performance and achieving specific goals.",
+        "businessContext": "In business environments, coaches are often employed to improve team dynamics, leadership skills, and overall productivity through tailored strategies and feedback.",
+        "nuance": "While similar to mentoring, 'coaching' often implies a more structured and goal-oriented approach, sometimes with a shorter-term focus.",
+        "synonyms": [
+          "trainer",
+          "facilitator"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "organizational structure",
+        "definition": "The system that outlines how certain activities are directed in order to achieve an organization's goals, including roles, responsibilities, and communication pathways.",
+        "businessContext": "Understanding an organization's structure is essential for effective management and collaboration, as it defines how teams interact and how information flows within the company.",
+        "nuance": "The term can imply rigidity or hierarchy, but it can also suggest clarity and efficiency in operations, depending on the context.",
+        "synonyms": [
+          "hierarchical framework",
+          "organizational design"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      }
+    ]
   },
   {
-    "text": "When companies ask me... Because the number one, if you ever ask a company, 'What's the thing that's keeping you up at night?' They'll always say one of the things always that's keeping them at night, 'I want to hire a leader for X, Y, Z function.' And I never respond with, here's a person. I'll always say, 'Well, you're in this space selling to this kind of customer or serving this kind of customer. Let's think about the best in class companies, who's also, who's very good at functionally the thing you're hiring for, serving the similar type of customer.'",
+    "text": "When companies ask me...",
     "speaker": "Gokul Rajaram",
     "timestamp": "00:35:49",
     "context": "Lenny asks about Gokul's approach to helping companies hire leaders, referencing a popular Twitter thread. Gokul explains his methodology - instead of recommending specific people, he helps companies identify best-in-class companies that excel at the function they're hiring for while serving similar customer types. This allows them to target the right talent pools rather than just looking at direct competitors.",
     "vocabulary_highlights": [
-      "keeping you up at night",
-      "best in class companies"
+      "methodology",
+      "recommend",
+      "approach",
+      "specific"
     ],
     "topics": [
       "Leadership & Management",
@@ -175,6 +552,67 @@
     "text_ko": "기업들이 제게 물어볼 때가 있어요. 사실 가장 흔한 질문이 뭔지 아세요? 회사에 '요즘 밤잠을 설치게 하는 게 뭐예요?'라고 물어보면 거의 항상 돌아오는 답이 있어요. 'X, Y, Z 기능(function)을 맡을 리더를 뽑고 싶어요.' 저는 절대 '이 사람이요' 하며 특정 인물을 바로 제안하지 않아요. 대신에 이렇게 말해요. '지금 여러분은 이 분야에서 이런 유형의 고객에게 판매(selling)하거나 서비스를 제공하고 있으니, 같은 유형의 고객을 잘 상대하면서도 기능적으로 여러분이 찾는 일을 잘 해내는 '베스트 인 클래스(best-in-class)' 회사를 함께 생각해 봅시다.'",
     "text_zh": "每当公司来找我的时候...因为第一点，如果你问任何一家公司，\"什么事情让你夜不能寐？\"他们总是会说其中一件让他们睡不着的事就是，\"我想为某某某职能招一个领导。\"我从来不会直接回答说，这里有个人选。我总是会说，\"好，你们在这个领域，服务的是这类客户。咱们想想那些最顶尖的公司，谁在你们要招的这个职能上做得特别好，而且服务的也是类似的客户群体。\"",
     "text_es": "Cuando las empresas me consultan... Porque lo número uno, si alguna vez le preguntas a una empresa '¿Qué es lo que no te deja dormir por las noches?', siempre van a decir una de las cosas que los desvela: 'Quiero contratar a un líder para tal o cual función.' Y yo nunca respondo con 'aquí tienes a esta persona.' Siempre les digo: 'Bueno, ustedes están en este sector vendiendo a este tipo de cliente o atendiendo a este tipo de cliente. Pensemos en las empresas que son referentes en el mercado, ¿quién es realmente bueno funcionalmente en lo que están buscando contratar y que atiende a un tipo de cliente similar?'",
-    "key_sentence": "Companies are kept up at night by hiring leaders for key functions."
+    "key_sentence": "When companies ask me...",
+    "text_trimmed": true,
+    "original_text": "When companies ask me... Because the number one, if you ever ask a company, 'What's the thing that's keeping you up at night?' They'll always say one of the things always that's keeping them at night, 'I want to hire a leader for X, Y, Z function.' And I never respond with, here's a person. I'll always say, 'Well, you're in this space selling to this kind of customer or serving this kind of customer. Let's think about the best in class companies, who's also, who's very good at functionally the thing you're hiring for, serving the similar type of customer.'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "methodology",
+        "definition": "A systematic, theoretical analysis of the methods applied to a field of study or practice.",
+        "businessContext": "In business, methodology refers to the structured processes and techniques used to achieve project goals, ensuring consistency and efficiency in operations.",
+        "nuance": "While 'methodology' implies a formalized approach, it is often used in contexts where rigor and precision are valued, such as research or project management.",
+        "synonyms": [
+          "framework",
+          "system"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "recommend",
+        "definition": "To endorse or suggest a particular course of action based on expertise or experience.",
+        "businessContext": "In a business setting, recommending strategies or solutions is crucial for guiding decision-making processes and influencing stakeholders.",
+        "nuance": "The term carries a sense of authority and trust; it is best used when the recommender has relevant knowledge or experience to support their suggestion.",
+        "synonyms": [
+          "advise",
+          "suggest"
+        ],
+        "antonyms": [
+          "discourage",
+          "dissuade"
+        ]
+      },
+      {
+        "word": "approach",
+        "definition": "A way of dealing with a situation or problem, often characterized by a particular method or strategy.",
+        "businessContext": "In business, the approach taken to tackle challenges can significantly impact outcomes, influencing everything from project management to marketing strategies.",
+        "nuance": "The word 'approach' suggests flexibility and adaptability, making it suitable for discussions about innovative or creative problem-solving.",
+        "synonyms": [
+          "method",
+          "strategy"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "specific",
+        "definition": "Clearly defined or identified; precise in detail.",
+        "businessContext": "In business communications, being specific helps to eliminate ambiguity, ensuring that all parties understand expectations and objectives.",
+        "nuance": "While 'specific' implies clarity, it can also suggest a limitation; it is important to balance specificity with flexibility in dynamic business environments.",
+        "synonyms": [
+          "particular",
+          "definite"
+        ],
+        "antonyms": [
+          "general",
+          "vague"
+        ]
+      }
+    ]
   }
 ]

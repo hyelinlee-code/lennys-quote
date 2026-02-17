@@ -1,12 +1,14 @@
 [
   {
-    "text": "I communicate to my leaders that my expectation is they bring in the clock speed one click faster. If you think something needs to be done this year, it needs to be done this half. If you think it needs to be done this half, it needs to be done this quarter. This quarter, this month. This week, today. End of day, in this meeting.",
+    "text": "I communicate to my leaders that my expectation is they bring in the clock speed one click faster. If you think something needs to be done this year, it needs to be done this half.",
     "speaker": "Claire Vo",
     "timestamp": "00:00:16",
     "context": "Lenny asks Claire about her tactics for maintaining fast pace while keeping high quality in larger companies. Claire explains her specific approach to preventing organizations from defaulting to slower cadences that match their meeting schedules. She describes how she sets explicit expectations with leadership teams to accelerate their natural timelines by one iteration - essentially compressing every deadline to create urgency and momentum throughout the organization.",
     "vocabulary_highlights": [
-      "bring in the clock speed one click faster",
-      "end of day"
+      "expectation",
+      "clock speed",
+      "maintaining",
+      "quality"
     ],
     "topics": [
       "Leadership & Management",
@@ -21,7 +23,68 @@
     "text_ko": "저는 제 리더들에게 기대하는 바를 전달해요. 시계 속도(clock speed)를 한 단계 더 빠르게 가져와야 한다고요. 만약 올해 안에 뭔가 해야 한다면, 이번 반기 안에 해야 하고, 이번 반기 안에 해야 한다면 이번 분기 안에 해야 해요. 이번 분기, 이번 달, 이번 주, 오늘, 그리고 오늘 회의 끝나기 전에요.",
     "text_zh": "我跟我的领导层说得很清楚，我的要求就是把节奏再提快一档。你觉得今年要完成的事，那就得这半年搞定。你觉得这半年要做完的，那就得这个季度拿下。这个季度的事这个月做，这周的事今天做。今天的事下班前做完，这周的事这次会上就敲定。",
     "text_es": "Les comunico a mis líderes que mi expectativa es que aceleren el ritmo un nivel más. Si creen que algo se tiene que hacer este año, se tiene que hacer este semestre. Si creen que se tiene que hacer este semestre, se tiene que hacer este trimestre. Este trimestre, este mes. Esta semana, hoy. Al final del día, en esta misma reunión.",
-    "key_sentence": "Expect leaders to bring in the clock speed one click faster."
+    "key_sentence": "Expect leaders to bring in the clock speed one click faster.",
+    "text_trimmed": true,
+    "original_text": "I communicate to my leaders that my expectation is they bring in the clock speed one click faster. If you think something needs to be done this year, it needs to be done this half. If you think it needs to be done this half, it needs to be done this quarter. This quarter, this month. This week, today. End of day, in this meeting.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "expectation",
+        "definition": "A belief or anticipation regarding a future event or outcome.",
+        "businessContext": "In business, expectations often relate to performance targets, project deadlines, or the quality of deliverables that stakeholders anticipate.",
+        "nuance": "While expectations can be positive, they may also carry pressure; it's important to communicate them clearly to avoid misunderstandings.",
+        "synonyms": [
+          "anticipation",
+          "assumption"
+        ],
+        "antonyms": [
+          "disappointment",
+          "doubt"
+        ]
+      },
+      {
+        "word": "clock speed",
+        "definition": "The rate at which a process or operation is completed, often measured in terms of time efficiency.",
+        "businessContext": "In tech and startup environments, increasing clock speed refers to accelerating project timelines or decision-making processes to maintain competitive advantage.",
+        "nuance": "The term implies a sense of urgency and efficiency, and should be used when discussing the need for faster execution without compromising quality.",
+        "synonyms": [
+          "pace",
+          "velocity"
+        ],
+        "antonyms": [
+          "slowness",
+          "delay"
+        ]
+      },
+      {
+        "word": "maintaining",
+        "definition": "The act of keeping something in a specified state or condition over time.",
+        "businessContext": "In business, maintaining can refer to sustaining operational standards, customer relationships, or product quality to ensure long-term success.",
+        "nuance": "While maintaining suggests stability, it can also imply the need for ongoing effort and resources to prevent decline.",
+        "synonyms": [
+          "sustaining",
+          "upholding"
+        ],
+        "antonyms": [
+          "neglecting",
+          "abandoning"
+        ]
+      },
+      {
+        "word": "quality",
+        "definition": "The standard of something as measured against other things of a similar kind; the degree of excellence.",
+        "businessContext": "In a business context, quality is crucial for customer satisfaction and can impact brand reputation, operational efficiency, and compliance with industry standards.",
+        "nuance": "Quality can be subjective and context-dependent; it's important to define what quality means in specific projects or products.",
+        "synonyms": [
+          "excellence",
+          "caliber"
+        ],
+        "antonyms": [
+          "inferiority",
+          "mediocrity"
+        ]
+      }
+    ]
   },
   {
     "text": "I'm using CPTO for short code of running product and engineering design functionally together. There should be no debates over what's best for product or what's best for engineering, what's best for design speed. What is best for the organization?",
@@ -29,8 +92,10 @@
     "timestamp": "00:00:24",
     "context": "Lenny mentions the trend of combining engineering and product roles under one leader. Claire explains her CPTO (Chief Product and Technology Officer) role, where she manages product, engineering, and design as unified functions. She emphasizes that this structure eliminates internal conflicts between departments by focusing all teams on what serves the overall business objectives rather than optimizing for individual functional goals.",
     "vocabulary_highlights": [
-      "short code of running",
-      "functionally together"
+      "functionally",
+      "debates",
+      "organization",
+      "trend"
     ],
     "topics": [
       "Leadership & Management",
@@ -45,17 +110,77 @@
     "text_ko": "제품과 엔지니어링·디자인을 기능적으로 함께 운영하는 걸 줄여서 CPTO(Chief Product & Technology Officer)라고 부르고 있어요. 제품에 가장 좋은 것인지, 엔지니어링에 가장 좋은 것인지, 디자인 속도를 우선해야 하는지로 논쟁할 필요는 없어요. 중요한 건 조직에 가장 좋은 게 무엇인지예요.",
     "text_zh": "我用CPTO这个简称来让产品和工程设计功能性地协同工作。不应该争论什么对产品最好，什么对工程最好，什么对设计速度最好。应该问的是：什么对整个组织最好？",
     "text_es": "Estoy usando CPTO como código corto para hacer que producto e ingeniería funcionen juntos en el diseño. No debería haber discusiones sobre qué es mejor para producto o qué es mejor para ingeniería, o qué es mejor para la velocidad de diseño. ¿Qué es lo mejor para la organización?",
-    "key_sentence": "Using CPTO as a short code of running product and engineering functionally together."
+    "key_sentence": "Using CPTO as a short code of running product and engineering functionally together.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "functionally",
+        "definition": "In a manner that relates to the practical use or operation of something.",
+        "businessContext": "In business and technology, 'functionally' often refers to how different departments or teams work together to achieve operational efficiency.",
+        "nuance": "This term emphasizes the practical aspects of a role or process, rather than theoretical or aesthetic considerations.",
+        "synonyms": [
+          "practically",
+          "operationally"
+        ],
+        "antonyms": [
+          "theoretically",
+          "impractically"
+        ]
+      },
+      {
+        "word": "debates",
+        "definition": "Formal discussions or arguments about a particular topic, where differing viewpoints are presented and considered.",
+        "businessContext": "In a corporate setting, debates can occur during strategy meetings or project discussions, where team members present their perspectives on the best course of action.",
+        "nuance": "While debates can foster healthy discussion, they may also indicate a lack of consensus or clarity on an issue.",
+        "synonyms": [
+          "discussions",
+          "arguments"
+        ],
+        "antonyms": [
+          "agreement",
+          "consensus"
+        ]
+      },
+      {
+        "word": "organization",
+        "definition": "A structured group of people working together to achieve common goals, often defined by specific roles and responsibilities.",
+        "businessContext": "In business, an organization refers to the overall structure of a company, including its departments, hierarchy, and operational processes.",
+        "nuance": "The term can imply a sense of order and efficiency, but may also highlight bureaucratic challenges in larger entities.",
+        "synonyms": [
+          "company",
+          "institution"
+        ],
+        "antonyms": [
+          "disorganization",
+          "chaos"
+        ]
+      },
+      {
+        "word": "trend",
+        "definition": "A general direction in which something is developing or changing, often observed over time.",
+        "businessContext": "In business and marketing, identifying trends is crucial for strategic planning and staying competitive in the market.",
+        "nuance": "While trends can indicate popular movements or shifts, they may also suggest fleeting fads that lack long-term sustainability.",
+        "synonyms": [
+          "movement",
+          "tendency"
+        ],
+        "antonyms": [
+          "stagnation",
+          "decline"
+        ]
+      }
+    ]
   },
   {
-    "text": "I really believe operating in your zone of genius. I really believe in leaning into strengths. And if you are in a position in which you're good at things and you've been giving a lot of responsibility, but you have tremendous growth edges and you're spending more time on the things you need to level up than the things you are exceptional at, I think that's not fair for the organization.",
+    "text": "I really believe operating in your zone of genius. I really believe in leaning into strengths.",
     "speaker": "Claire Vo",
     "timestamp": "00:17:00",
     "context": "Lenny asks Claire about avoiding the trap of taking on too much responsibility just because you're good at things. Claire discusses the importance of operating within your zone of genius - the intersection of what you're exceptional at and what brings you joy. She warns against spending too much time on areas where you need significant development rather than leveraging your natural strengths, as this creates inefficiency for both the individual and the organization.",
     "vocabulary_highlights": [
+      "operating",
       "zone of genius",
-      "leaning into strengths",
-      "tremendous growth edges"
+      "leaning into",
+      "strengths"
     ],
     "topics": [
       "Career Development",
@@ -70,17 +195,79 @@
     "text_ko": "저는 사람들이 자신의 탁월한 영역(zone of genius)에서 일해야 한다고 정말 믿어요. 자신의 강점(strengths)에 더 기대고 활용하는 것도 정말 중요하다고 생각해요. 그런데 만약 당신이 잘하는 일을 맡아 많은 책임을 지고 있는데 성장해야 할 부분(growth edges)이 커서 역량을 끌어올려야 하는 일에 더 많은 시간을 쓰고, 반대로 본인이 탁월한 일에 쏟는 시간이 적다면 그건 조직에 공정하지 않다고 생각해요.",
     "text_zh": "我特别相信要在自己最擅长的领域发挥作用，要发挥自己的优势。如果你现在的职位上，虽然你各方面都还不错，也被委以重任，但是你还有很大的成长空间，而且你把更多时间花在需要提升的地方，而不是你真正出色的地方，我觉得这对公司来说其实不太公平。",
     "text_es": "Realmente creo en trabajar desde tu zona de genialidad (zone of genius). Creo mucho en aprovechar las fortalezas. Y si estás en una posición donde eres bueno en ciertas cosas y te han dado mucha responsabilidad, pero tienes áreas enormes de crecimiento y estás invirtiendo más tiempo en las cosas que necesitas mejorar que en las que realmente destacas, creo que eso no es justo para la organización.",
-    "key_sentence": "Operate in your zone of genius and lean into strengths."
+    "key_sentence": "Operate in your zone of genius and lean into strengths.",
+    "text_trimmed": true,
+    "original_text": "I really believe operating in your zone of genius. I really believe in leaning into strengths. And if you are in a position in which you're good at things and you've been giving a lot of responsibility, but you have tremendous growth edges and you're spending more time on the things you need to level up than the things you are exceptional at, I think that's not fair for the organization.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "operating",
+        "definition": "The act of functioning or working in a particular capacity or manner.",
+        "businessContext": "In business, 'operating' often refers to the day-to-day activities and processes that keep an organization running efficiently.",
+        "nuance": "While 'operating' can imply routine tasks, it can also suggest strategic decision-making in a broader context.",
+        "synonyms": [
+          "functioning",
+          "running"
+        ],
+        "antonyms": [
+          "ceasing",
+          "stopping"
+        ]
+      },
+      {
+        "word": "zone of genius",
+        "definition": "A unique area of expertise or talent where an individual excels and feels most fulfilled.",
+        "businessContext": "In the workplace, identifying one's 'zone of genius' can lead to increased productivity and job satisfaction, as employees are encouraged to focus on their strengths.",
+        "nuance": "This phrase emphasizes not just skill, but also passion and joy in one's work, making it more personal than simply 'area of expertise.'",
+        "synonyms": [
+          "area of excellence",
+          "niche expertise"
+        ],
+        "antonyms": [
+          "weakness",
+          "area of struggle"
+        ]
+      },
+      {
+        "word": "leaning into",
+        "definition": "Embracing or fully engaging with a particular situation, challenge, or strength.",
+        "businessContext": "In a business context, 'leaning into' often refers to taking advantage of one's strengths or opportunities rather than avoiding challenges.",
+        "nuance": "This phrase suggests a proactive and positive approach, often used in discussions about personal development or team dynamics.",
+        "synonyms": [
+          "embracing",
+          "fully engaging"
+        ],
+        "antonyms": [
+          "shying away",
+          "avoiding"
+        ]
+      },
+      {
+        "word": "strengths",
+        "definition": "Inherent qualities or skills that enable an individual to perform tasks effectively and efficiently.",
+        "businessContext": "Recognizing and leveraging 'strengths' within a team can enhance collaboration and drive better results in projects and initiatives.",
+        "nuance": "The term often carries a positive connotation, suggesting not just competence but also potential for growth and success.",
+        "synonyms": [
+          "assets",
+          "capabilities"
+        ],
+        "antonyms": [
+          "weaknesses",
+          "limitations"
+        ]
+      }
+    ]
   },
   {
-    "text": "I try to stay in an empowered space. I know my value. I have no time for imposter syndrome. It's not a constructive thing for me, but I do think knowing that, as I said earlier, the universe is bendable to your will. There are things we can change. I don't think these numbers are not tractable.",
+    "text": "I try to stay in an empowered space. I know my value. I have no time for imposter syndrome. It's not a constructive thing for me, but I do think knowing that, as I said earlier, the universe is bendable to your will.",
     "speaker": "Claire Vo",
     "timestamp": "00:36:24",
     "context": "Lenny asks Claire about her approach to being a woman in tech leadership. Claire shares her philosophy of staying curious about structural and cultural challenges while maintaining an empowered mindset. She explains how she rejects imposter syndrome as unconstructive, given her proven track record, and instead focuses on her ability to influence change. The 'numbers' she references are the statistics she mentioned earlier about low representation of women in tech leadership roles.",
     "vocabulary_highlights": [
-      "empowered space",
-      "universe is bendable to your will",
-      "not tractable"
+      "empowered",
+      "imposter syndrome",
+      "constructive",
+      "curious"
     ],
     "topics": [
       "Career Development",
@@ -95,16 +282,79 @@
     "text_ko": "저는 주도적인 상태를 유지하려고 해요. 제 가치를 알고 있고, 임포스터 신드롬(imposter syndrome)에 신경 쓸 시간이 없어요. 그건 제게 건설적이지 않아요. 앞서 말했듯이, 우주는 당신의 의지에 따라 굽힐 수 있다고 생각해요. 우리가 바꿀 수 있는 것들이 있어요. 이 수치들이 해결 불가능하다고는 생각하지 않아요.",
     "text_zh": "我尽量让自己保持在一个充满力量的状态。我知道自己的价值。我没时间搞什么冒牌货综合征(imposter syndrome)。这对我来说没什么建设性，但我确实觉得，就像我之前说的，这个世界是可以被你的意志所改变的。有些事情我们是能改变的。我不认为这些数字是搞不定的。",
     "text_es": "Trato de mantenerme en un lugar de poder personal. Conozco mi valor. No tengo tiempo para el síndrome del impostor. No me sirve de nada, pero sí creo que, como dije antes, el universo se puede moldear a tu voluntad. Hay cosas que podemos cambiar. No creo que estos números sean imposibles de mover.",
-    "key_sentence": "Stay in an empowered space; the universe is bendable to your will."
+    "key_sentence": "Stay in an empowered space; the universe is bendable to your will.",
+    "text_trimmed": true,
+    "original_text": "I try to stay in an empowered space. I know my value. I have no time for imposter syndrome. It's not a constructive thing for me, but I do think knowing that, as I said earlier, the universe is bendable to your will. There are things we can change. I don't think these numbers are not tractable.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "empowered",
+        "definition": "Having the authority or power to make decisions and take actions independently.",
+        "businessContext": "In business settings, being empowered often refers to employees who are given the autonomy to make decisions that affect their work and contribute to organizational goals.",
+        "nuance": "While empowerment generally has a positive connotation, it can imply a lack of oversight if misused, leading to potential risks in decision-making.",
+        "synonyms": [
+          "enabled",
+          "authorized"
+        ],
+        "antonyms": [
+          "disempowered",
+          "restricted"
+        ]
+      },
+      {
+        "word": "imposter syndrome",
+        "definition": "A psychological pattern where individuals doubt their accomplishments and fear being exposed as a 'fraud' despite evident success.",
+        "businessContext": "In the workplace, imposter syndrome can hinder professionals from pursuing promotions or taking on new challenges, as they may feel unworthy of their achievements.",
+        "nuance": "This term often carries a stigma, so it's important to approach discussions about it with sensitivity and understanding.",
+        "synonyms": [
+          "self-doubt",
+          "fraud syndrome"
+        ],
+        "antonyms": [
+          "self-confidence",
+          "self-assurance"
+        ]
+      },
+      {
+        "word": "constructive",
+        "definition": "Serving a useful purpose; tending to build up rather than tear down.",
+        "businessContext": "Constructive feedback is crucial in business environments, as it helps employees improve their performance and fosters a culture of continuous improvement.",
+        "nuance": "While constructive criticism is valuable, it should be delivered thoughtfully to ensure it is received positively and encourages growth.",
+        "synonyms": [
+          "beneficial",
+          "productive"
+        ],
+        "antonyms": [
+          "destructive",
+          "unhelpful"
+        ]
+      },
+      {
+        "word": "curious",
+        "definition": "Eager to learn or know more about something; inquisitive.",
+        "businessContext": "Curiosity in business can drive innovation and lead to the exploration of new ideas, products, and markets, making it a valuable trait in dynamic environments.",
+        "nuance": "While curiosity is generally seen as a positive trait, excessive curiosity can sometimes lead to distractions or overstepping boundaries.",
+        "synonyms": [
+          "inquisitive",
+          "interested"
+        ],
+        "antonyms": [
+          "indifferent",
+          "apathetic"
+        ]
+      }
+    ]
   },
   {
-    "text": "The reason I'm curious about it is I do think it's complicated and I do think you can be successful, but I don't think we're being successful at the rates I would love to see. And I think we're missing a lot of innovation and a lot of economic growth by not having incredible, technical, capable women start companies and lead organizations.",
+    "text": "The reason I'm curious about it is I do think it's complicated and I do think you can be successful, but I don't think we're being successful at the rates I would love to see.",
     "speaker": "Claire Vo",
     "timestamp": "00:39:35",
     "context": "Lenny asks Claire why she stays curious about gender challenges in tech rather than just getting frustrated. Claire explains that her curiosity stems from recognizing the complexity of systemic issues while believing change is possible. She frames the underrepresentation of women in tech leadership not just as an individual career issue, but as an economic opportunity cost - the industry loses innovation and growth potential when talented women aren't starting companies or leading technical organizations.",
     "vocabulary_highlights": [
-      "at the rates I would love to see",
-      "economic opportunity cost"
+      "curious",
+      "complicated",
+      "successful",
+      "systemic"
     ],
     "topics": [
       "Leadership & Management",
@@ -119,7 +369,68 @@
     "text_ko": "제가 그걸 궁금해하는 이유는 이게 복잡하다고 생각하면서도 성공할 수 있다고 보지만, 제가 바라는 속도만큼 성공하고 있지는 않다고 느끼기 때문이에요. 그리고 뛰어나고 기술적인(technical) 역량을 가진 유능한 여성들이 회사를 창업하고 조직을 이끌지 못해서 많은 혁신과 경제 성장을 놓치고 있다고 생각해요.",
     "text_zh": "我之所以对这个问题感兴趣，是因为我觉得这事儿确实挺复杂的，而且我相信女性是可以成功的，但问题是现在的成功率还远远达不到我希望看到的水平。我觉得正是因为缺少那些技术能力超强的优秀女性来创业、来领导企业，我们错失了太多创新机会，也损失了很多经济增长的潜力。",
     "text_es": "La razón por la que me llama tanto la atención es que creo que es un tema complejo y sí se puede tener éxito, pero no creo que estemos teniendo el éxito que me encantaría ver. Y creo que nos estamos perdiendo muchísima innovación y crecimiento económico al no tener mujeres increíbles, técnicamente capaces, creando empresas y liderando organizaciones.",
-    "key_sentence": "We're missing economic opportunity cost by not having capable women lead organizations."
+    "key_sentence": "I do think it's complicated and I do think you can be successful.",
+    "text_trimmed": true,
+    "original_text": "The reason I'm curious about it is I do think it's complicated and I do think you can be successful, but I don't think we're being successful at the rates I would love to see. And I think we're missing a lot of innovation and a lot of economic growth by not having incredible, technical, capable women start companies and lead organizations.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "curious",
+        "definition": "Eager to learn or know something; inquisitive.",
+        "businessContext": "In business settings, being curious often drives innovation and problem-solving, as individuals seek to understand market trends and customer needs.",
+        "nuance": "While curiosity is generally positive, excessive curiosity can sometimes be perceived as prying or intrusive in professional environments.",
+        "synonyms": [
+          "inquisitive",
+          "interested"
+        ],
+        "antonyms": [
+          "indifferent",
+          "apathetic"
+        ]
+      },
+      {
+        "word": "complicated",
+        "definition": "Consisting of many interconnected parts; complex and difficult to understand.",
+        "businessContext": "In the context of business or technology, a complicated process may hinder efficiency and require additional resources for management and execution.",
+        "nuance": "The term can imply a negative connotation, suggesting that something is unnecessarily intricate or convoluted.",
+        "synonyms": [
+          "complex",
+          "intricate"
+        ],
+        "antonyms": [
+          "simple",
+          "straightforward"
+        ]
+      },
+      {
+        "word": "successful",
+        "definition": "Achieving desired aims or attaining prosperity; marked by favorable outcomes.",
+        "businessContext": "Success in business is often measured by profitability, market share, and customer satisfaction, indicating the effectiveness of strategies and operations.",
+        "nuance": "While success is generally viewed positively, it can also imply a temporary state, as ongoing efforts are often needed to maintain it.",
+        "synonyms": [
+          "prosperous",
+          "effective"
+        ],
+        "antonyms": [
+          "unsuccessful",
+          "failing"
+        ]
+      },
+      {
+        "word": "systemic",
+        "definition": "Relating to or affecting an entire system; comprehensive and integrated.",
+        "businessContext": "In business, systemic issues may refer to challenges that impact the entire organization, necessitating holistic approaches for resolution.",
+        "nuance": "The term often suggests that the problems are deep-rooted and require significant changes rather than superficial fixes.",
+        "synonyms": [
+          "holistic",
+          "comprehensive"
+        ],
+        "antonyms": [
+          "isolated",
+          "individual"
+        ]
+      }
+    ]
   },
   {
     "text": "Is it going to eliminate PMs next year? Probably not. Are the skills required going to shift? Yes. Could they shift much faster than we all anticipate? Probably.",
@@ -127,7 +438,10 @@
     "timestamp": "00:00:38",
     "context": "Lenny introduces Claire's AI tool ChatPRD and asks about AI's impact on product management. Claire shares her perspective on how AI will affect product managers' roles. She believes that while PMs won't be completely replaced in the near term, the fundamental skills and ratios between PMs and other roles will change significantly, and this transformation may happen more rapidly than the industry expects.",
     "vocabulary_highlights": [
-      "shift much faster than we all anticipate"
+      "eliminate",
+      "shift",
+      "anticipate",
+      "impact"
     ],
     "topics": [
       "Product Management",
@@ -142,6 +456,65 @@
     "text_ko": "내년에 PM(프로덕트 매니저·프로젝트 매니저)들이 사라질까요? 아마 그럴 것 같지는 않아요. 필요한 역량은 바뀔까요? 네, 바뀔 거예요. 우리가 예상하는 것보다 훨씬 더 빨리 바뀔 수도 있을까요? 아마 그럴 가능성이 있어요.",
     "text_zh": "明年会不会直接干掉PM这个岗位？估计不会。但技能要求会变吗？肯定会变。会不会变得比我们预想的还要快？很有可能。",
     "text_es": "¿Va a eliminar por completo a los project managers el próximo año? Probablemente no. ¿Van a cambiar las competencias que se necesitan? Sí. ¿Podrían cambiar mucho más rápido de lo que todos esperamos? Lo más probable.",
-    "key_sentence": "Skills required could shift much faster than we all anticipate."
+    "key_sentence": "Skills required could shift much faster than we all anticipate.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "eliminate",
+        "definition": "To completely remove or eradicate something from existence or consideration.",
+        "businessContext": "In business, 'eliminate' often refers to the removal of inefficiencies, processes, or roles that are deemed unnecessary for operational effectiveness.",
+        "nuance": "While 'eliminate' suggests a definitive removal, it can carry a negative connotation if associated with job losses or cutbacks.",
+        "synonyms": [
+          "remove",
+          "eradicate"
+        ],
+        "antonyms": [
+          "retain",
+          "introduce"
+        ]
+      },
+      {
+        "word": "shift",
+        "definition": "To change position, direction, or focus; to move from one state or condition to another.",
+        "businessContext": "In a business context, 'shift' can refer to changes in market trends, consumer behavior, or organizational strategies that require adaptation.",
+        "nuance": "The term 'shift' implies a gradual or strategic change rather than a sudden or drastic one, making it suitable for discussions about evolving business landscapes.",
+        "synonyms": [
+          "change",
+          "transition"
+        ],
+        "antonyms": [
+          "stabilize",
+          "maintain"
+        ]
+      },
+      {
+        "word": "anticipate",
+        "definition": "To expect or predict something based on current knowledge or trends.",
+        "businessContext": "In business, 'anticipate' is often used in the context of forecasting market trends, consumer needs, or potential challenges that may arise.",
+        "nuance": "While 'anticipate' suggests a proactive approach, it can imply uncertainty, so it is often used in conjunction with data analysis or strategic planning.",
+        "synonyms": [
+          "foresee",
+          "predict"
+        ],
+        "antonyms": [
+          "ignore",
+          "overlook"
+        ]
+      },
+      {
+        "word": "impact",
+        "definition": "The strong effect or influence that one thing has on another.",
+        "businessContext": "In a business setting, 'impact' is frequently used to discuss the effects of decisions, policies, or market changes on performance and outcomes.",
+        "nuance": "The term 'impact' can carry both positive and negative connotations, depending on the context in which it is used, making it versatile for various discussions.",
+        "synonyms": [
+          "effect",
+          "influence"
+        ],
+        "antonyms": [
+          "insignificance",
+          "irrelevance"
+        ]
+      }
+    ]
   }
 ]

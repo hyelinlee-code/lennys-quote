@@ -1,12 +1,14 @@
 [
   {
-    "text": "I often use this analogy of if you're doing a home renovation, you can have the most beautiful rendering of the new bedroom and we're going to have these lamps on the side of the bed that are coming out from the wall. But if you haven't checked if there's electricity in that wall there or not, it's going to drastically change the cost and the time and everything.",
+    "text": "I often use this analogy of if you're doing a home renovation, you can have the most beautiful rendering of the new bedroom and we're going to have these lamps on the side of the bed that are coming out from the wall.",
     "speaker": "Ryan Singer",
     "timestamp": "00:00:00",
     "context": "Ryan uses this home renovation analogy to explain why technical feasibility must be explored during the shaping phase, not after committing to build something. He's illustrating how beautiful designs or plans can fall apart when they encounter technical reality - just like planning wall-mounted lamps without checking if electrical wiring exists in that wall. This speaks to the core Shape Up principle of de-risking projects upfront rather than discovering problems mid-build.",
     "vocabulary_highlights": [
-      "drastically change",
-      "rendering"
+      "analogy",
+      "technical feasibility",
+      "shaping phase",
+      "commitment"
     ],
     "topics": [
       "Product Management",
@@ -21,15 +23,79 @@
     "text_ko": "제가 자주 하는 비유가 있어요. 집을 리모델링(home renovation)한다고 생각해 보세요. 새 침실의 가장 멋진 렌더링(rendering)을 갖고, 침대 옆에 벽에서 나오는 조명을 달기로 했어요. 그런데 그 벽 안에 전기 배선(electrical wiring)이 있는지 확인을 안 했다면 비용이랑 공사 기간, 결과까지 모두 크게 달라져요.",
     "text_zh": "我经常打这样一个比方：就像你装修房子，你可能设计了一个特别漂亮的卧室效果图，床两边要装那种从墙里伸出来的壁灯，看起来特别棒。但是如果你事先没搞清楚那面墙里到底有没有电线，那成本啊、工期啊什么的都得大改，完全不是一回事了。",
     "text_es": "Siempre uso esta analogía: si estás renovando tu casa, puedes tener el diseño más bonito del dormitorio nuevo, con estas lámparas súper lindas que van a salir de la pared junto a la cama. Pero si no te fijaste antes si hay instalación eléctrica en esa pared, te va a cambiar completamente el presupuesto, los tiempos y todo el proyecto.",
-    "key_sentence": "Beautiful rendering won't matter if you haven't checked electricity; costs will drastically change."
+    "key_sentence": "you can have the most beautiful rendering of the new bedroom",
+    "text_trimmed": true,
+    "original_text": "I often use this analogy of if you're doing a home renovation, you can have the most beautiful rendering of the new bedroom and we're going to have these lamps on the side of the bed that are coming out from the wall. But if you haven't checked if there's electricity in that wall there or not, it's going to drastically change the cost and the time and everything.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "analogy",
+        "definition": "A comparison between two different things that highlights some form of similarity, often used to explain a concept or idea.",
+        "businessContext": "In business and tech, analogies are frequently employed to simplify complex ideas, making them more relatable to stakeholders or team members.",
+        "nuance": "While analogies can clarify, they should be used carefully to avoid oversimplification or misleading comparisons.",
+        "synonyms": [
+          "comparison",
+          "metaphor"
+        ],
+        "antonyms": [
+          "contrast",
+          "dissimilarity"
+        ]
+      },
+      {
+        "word": "technical feasibility",
+        "definition": "The assessment of whether a proposed project or solution can be implemented using current technology and resources.",
+        "businessContext": "In startups and tech, evaluating technical feasibility is crucial during the planning phase to ensure that ideas can be realistically developed and executed.",
+        "nuance": "Technical feasibility focuses on the practicality of execution rather than the desirability or market potential of the project.",
+        "synonyms": [
+          "practical viability",
+          "technological feasibility"
+        ],
+        "antonyms": [
+          "technical impossibility",
+          "N/A"
+        ]
+      },
+      {
+        "word": "shaping phase",
+        "definition": "A stage in project development where ideas are refined and structured to align with strategic goals and stakeholder expectations.",
+        "businessContext": "In product development, the shaping phase is critical for defining features and functionalities before moving into design and implementation.",
+        "nuance": "This phase emphasizes collaboration and iteration, allowing for adjustments based on feedback before finalizing plans.",
+        "synonyms": [
+          "development phase",
+          "refinement stage"
+        ],
+        "antonyms": [
+          "finalization phase",
+          "N/A"
+        ]
+      },
+      {
+        "word": "commitment",
+        "definition": "A pledge or obligation to carry out a course of action or to support a project, often involving time, resources, or effort.",
+        "businessContext": "In business, commitment is essential for team cohesion and project success, as it reflects the dedication of individuals or organizations to achieve shared goals.",
+        "nuance": "While commitment is generally positive, it can also imply a binding responsibility that may limit flexibility in decision-making.",
+        "synonyms": [
+          "dedication",
+          "obligation"
+        ],
+        "antonyms": [
+          "indifference",
+          "disengagement"
+        ]
+      }
+    ]
   },
   {
-    "text": "What we need to do in a shaping session is we come out with some kind of diagram where engineers, product and design, they're saying, 'We understand that.' So the first thing is we are not going to start something unless we can see the end from the beginning. We're not going to take a big concept and then say, 'What's the estimate for this thing?'",
+    "text": "We're not going to start something unless we can see the end from the beginning.",
     "speaker": "Ryan Singer",
     "timestamp": "00:00:16",
     "context": "Ryan explains a core Shape Up principle about project clarity before starting work. Instead of estimating big, vague concepts, Shape Up requires creating clear diagrams during shaping sessions where all team members - engineers, product managers, and designers - can understand exactly what needs to be built. This ensures everyone can visualize the end result before committing engineering time to the project.",
     "vocabulary_highlights": [
-      "big concept"
+      "clarity",
+      "estimate",
+      "concept",
+      "diagrams"
     ],
     "topics": [
       "Product Management",
@@ -44,16 +110,79 @@
     "text_ko": "셰이핑 세션(shaping session)에서 우리가 할 일은 엔지니어, 프로덕트(product), 디자인(design)팀이 모두 '이해했어요'라고 말할 수 있는 어떤 다이어그램(diagram)을 갖고 나오는 거예요. 그래서 첫 번째 원칙은 처음부터 끝을 볼 수 없으면 시작하지 않는다는 거예요. 큰 콘셉트만 던져놓고 '이거 견적(estimate) 얼마예요?'라고 묻는 식으로는 진행하지 않아요.",
     "text_zh": "在塑形会议(shaping session)里，我们要做的就是画出一个图，让工程师、产品和设计的同事都能说\"这个我们明白了\"。所以第一点就是，如果从一开始就看不到结果会是什么样，我们就不会启动这个项目。我们不会拿一个很大的概念然后问\"这东西要多长时间能做完？\"",
     "text_es": "Lo que tenemos que lograr en una sesión de shaping es salir con algún tipo de diagrama donde los ingenieros, producto y diseño digan: \"Ah, ya entendemos\". Entonces lo primero es que no vamos a arrancar nada a menos que podamos ver el final desde el principio. No vamos a agarrar un concepto enorme y después preguntar \"¿Cuánto tiempo le calculamos a esto?\"",
-    "key_sentence": "We won't start a big concept unless we can see the end from the beginning."
+    "key_sentence": "We won't start a big concept unless we can see the end from the beginning.",
+    "text_trimmed": true,
+    "original_text": "What we need to do in a shaping session is we come out with some kind of diagram where engineers, product and design, they're saying, 'We understand that.' So the first thing is we are not going to start something unless we can see the end from the beginning. We're not going to take a big concept and then say, 'What's the estimate for this thing?'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "clarity",
+        "definition": "The quality of being clear and easy to understand, often relating to communication or thought processes.",
+        "businessContext": "In business, clarity is essential for effective communication, ensuring that all stakeholders understand objectives, strategies, and outcomes.",
+        "nuance": "While clarity is generally positive, excessive simplicity can sometimes lead to oversimplification of complex issues.",
+        "synonyms": [
+          "lucidity",
+          "transparency"
+        ],
+        "antonyms": [
+          "confusion",
+          "ambiguity"
+        ]
+      },
+      {
+        "word": "estimate",
+        "definition": "An approximate calculation or judgment regarding the value, number, quantity, or extent of something.",
+        "businessContext": "Estimates are commonly used in project management and budgeting to forecast costs, timelines, and resource needs.",
+        "nuance": "Estimates can vary in accuracy; they are often based on assumptions and should be treated as provisional rather than definitive.",
+        "synonyms": [
+          "approximation",
+          "evaluation"
+        ],
+        "antonyms": [
+          "certainty",
+          "exactness"
+        ]
+      },
+      {
+        "word": "concept",
+        "definition": "An abstract idea or a general notion that represents something, often serving as a foundation for further development or discussion.",
+        "businessContext": "In business and innovation, a concept often refers to a new product idea or a strategic initiative that requires validation and development.",
+        "nuance": "While concepts are foundational for brainstorming and ideation, they may lack practical application until they are fully developed into actionable plans.",
+        "synonyms": [
+          "idea",
+          "notion"
+        ],
+        "antonyms": [
+          "reality",
+          "fact"
+        ]
+      },
+      {
+        "word": "diagrams",
+        "definition": "Visual representations of information, data, or concepts, often used to illustrate relationships or processes.",
+        "businessContext": "Diagrams are frequently employed in business presentations and reports to clarify complex information and enhance understanding among stakeholders.",
+        "nuance": "While diagrams can simplify communication, they may also oversimplify intricate details, leading to misinterpretation if not accompanied by adequate explanation.",
+        "synonyms": [
+          "charts",
+          "graphs"
+        ],
+        "antonyms": [
+          "text",
+          "narrative"
+        ]
+      }
+    ]
   },
   {
-    "text": "We're going to go the other way around and we're going to say, what is the maximum amount of time we're willing to go before we actually finish something? How do we come up with a idea that's going to work in the amount of time that the business is interested in spending?",
+    "text": "We're going to go the other way around and we're going to say, what is the maximum amount of time we're willing to go before we actually finish something?",
     "speaker": "Ryan Singer",
     "timestamp": "00:00:37",
     "context": "Ryan describes the fundamental Shape Up approach of working backward from time constraints rather than forward from scope. Instead of estimating how long a feature will take to build, Shape Up starts by setting a maximum time budget (appetite) and then shapes the solution to fit within that constraint. This forces teams to make deliberate trade-offs and ensures projects don't drag on indefinitely.",
     "vocabulary_highlights": [
-      "the other way around",
-      "come up with"
+      "fundamental",
+      "constraints",
+      "estimate",
+      "feature"
     ],
     "topics": [
       "Product Management",
@@ -69,17 +198,79 @@
     "text_ko": "반대로 접근해볼게요. 우리가 실제로 뭔가를 끝내기 전에 기꺼이 들일 수 있는 최대 시간, 즉 타임박스(timebox)를 먼저 정하는 거예요. 그다음 비즈니스가 기꺼이 투자하려는 시간 안에 제대로 작동할 아이디어를 어떻게 찾아낼지 고민하는 거예요.",
     "text_zh": "我们要反过来思考，先问自己：我们最多愿意花多长时间才能真正把一件事做完？然后再想，怎么在公司愿意投入的时间范围内，找到一个真正行得通的点子？",
     "text_es": "Vamos a darle la vuelta al asunto y vamos a preguntarnos: ¿cuál es el tiempo máximo que estamos dispuestos a invertir antes de terminar algo de verdad? ¿Cómo se nos ocurre una idea que funcione en el tiempo que la empresa está dispuesta a gastar?",
-    "key_sentence": "We will come up with ideas based on the maximum time before finishing something."
+    "key_sentence": "what is the maximum amount of time we're willing to go before we actually finish something?",
+    "text_trimmed": true,
+    "original_text": "We're going to go the other way around and we're going to say, what is the maximum amount of time we're willing to go before we actually finish something? How do we come up with a idea that's going to work in the amount of time that the business is interested in spending?",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "fundamental",
+        "definition": "Serving as a foundation or basis; essential and primary in nature.",
+        "businessContext": "In business, 'fundamental' often refers to core principles or values that guide decision-making and strategy development.",
+        "nuance": "While 'fundamental' implies something crucial, it can also suggest that other elements may be secondary or less important.",
+        "synonyms": [
+          "essential",
+          "basic"
+        ],
+        "antonyms": [
+          "superficial",
+          "secondary"
+        ]
+      },
+      {
+        "word": "constraints",
+        "definition": "Limitations or restrictions that affect the scope or outcome of a project or decision.",
+        "businessContext": "In project management and business strategy, understanding constraints is vital for effective planning and resource allocation.",
+        "nuance": "The term often carries a negative connotation, suggesting obstacles that must be overcome, but can also refer to necessary boundaries that ensure focus.",
+        "synonyms": [
+          "limitations",
+          "restrictions"
+        ],
+        "antonyms": [
+          "freedom",
+          "flexibility"
+        ]
+      },
+      {
+        "word": "estimate",
+        "definition": "An approximate calculation or judgment regarding the value, number, or extent of something.",
+        "businessContext": "Estimates are crucial in budgeting, forecasting, and project planning, helping businesses allocate resources and set timelines.",
+        "nuance": "While 'estimate' suggests a degree of uncertainty, it is often used in a professional context to convey informed judgment rather than guesswork.",
+        "synonyms": [
+          "approximation",
+          "assessment"
+        ],
+        "antonyms": [
+          "certainty",
+          "exactness"
+        ]
+      },
+      {
+        "word": "feature",
+        "definition": "A distinctive attribute or aspect of a product, service, or system that provides value to users.",
+        "businessContext": "In product development and marketing, features are highlighted to differentiate offerings and meet customer needs.",
+        "nuance": "The term can imply both positive attributes and potential drawbacks, depending on the context in which it is discussed.",
+        "synonyms": [
+          "characteristic",
+          "attribute"
+        ],
+        "antonyms": [
+          "flaw",
+          "deficiency"
+        ]
+      }
+    ]
   },
   {
-    "text": "There was always this really intense urgency from both Jason and David, 'We've got to get to something we can ship. We have to finish this and move on. We have to get to something that's done.' There was just no tolerance for big things that got fuzzy and started to drag.",
+    "text": "There was always this really intense urgency from both Jason and David, 'We've got to get to something we can ship. We have to finish this and move on.",
     "speaker": "Ryan Singer",
     "timestamp": "00:10:25",
     "context": "Ryan describes the cultural foundation that led to Shape Up at Basecamp's early days. Founders Jason Fried and David Heinemeier Hansson maintained intense urgency around shipping, refusing to let projects become unclear or drag on indefinitely. This drive to reach concrete, shippable outcomes quickly became a core principle that later evolved into the formal Shape Up methodology when the company needed to scale this approach.",
     "vocabulary_highlights": [
-      "no tolerance for",
-      "got fuzzy",
-      "started to drag"
+      "intense urgency",
+      "ship",
+      "finish",
+      "move on"
     ],
     "topics": [
       "Leadership & Management",
@@ -94,15 +285,79 @@
     "text_ko": "제이슨과 데이비드 두 사람 모두 항상 진짜 강한 긴박감을 갖고 있었어요. \"우리는 출시(ship)할 수 있는 걸 빨리 만들어야 해요. 이걸 끝내고 넘어가야 해요. 완성된 상태에 도달해야 해요.\" 막연해지면서 늘어지는 큰 프로젝트들은 전혀 용납하지 않았어요.",
     "text_zh": "杰森和大卫两个人总是特别着急，就是那种\"咱们得赶紧弄出能发布的东西来，必须把这个搞定然后继续下一个，一定要做出成品来\"。他们就是受不了那种搞得模模糊糊、拖拖拉拉的大项目。",
     "text_es": "Siempre había esta urgencia súper intensa de parte de Jason y David: \"Tenemos que llegar a algo que podamos lanzar. Hay que terminar esto y seguir adelante. Tenemos que llegar a algo que esté listo.\" Simplemente no había tolerancia para proyectos grandes que se volvían confusos y empezaban a alargarse.",
-    "key_sentence": "There was no tolerance for big things that got fuzzy and started to drag."
+    "key_sentence": "We've got to get to something we can ship.",
+    "text_trimmed": true,
+    "original_text": "There was always this really intense urgency from both Jason and David, 'We've got to get to something we can ship. We have to finish this and move on. We have to get to something that's done.' There was just no tolerance for big things that got fuzzy and started to drag.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "intense urgency",
+        "definition": "A strong and immediate sense of importance or necessity to act quickly.",
+        "businessContext": "In business, particularly in startups, intense urgency often drives teams to prioritize tasks that lead to rapid product development or market entry.",
+        "nuance": "This phrase conveys a heightened level of pressure and can imply a need for swift decision-making, often associated with high-stakes environments.",
+        "synonyms": [
+          "pressing urgency",
+          "critical immediacy"
+        ],
+        "antonyms": [
+          "leisurely pace",
+          "casual approach"
+        ]
+      },
+      {
+        "word": "ship",
+        "definition": "To deliver or release a product or service to customers or the market.",
+        "businessContext": "In tech and startup environments, 'shipping' refers to the completion and deployment of a product, often marking a significant milestone in development.",
+        "nuance": "While 'ship' is commonly used in tech, it can imply a sense of finality and readiness, so it should be used when a product is truly prepared for launch.",
+        "synonyms": [
+          "release",
+          "deploy"
+        ],
+        "antonyms": [
+          "delay",
+          "withhold"
+        ]
+      },
+      {
+        "word": "finish",
+        "definition": "To complete a task or project, bringing it to a conclusion.",
+        "businessContext": "In business, finishing a project is crucial for meeting deadlines and achieving objectives, often linked to performance metrics and accountability.",
+        "nuance": "The term can suggest a sense of closure, but it may also imply that the quality of the work should not be compromised for the sake of speed.",
+        "synonyms": [
+          "complete",
+          "conclude"
+        ],
+        "antonyms": [
+          "start",
+          "abandon"
+        ]
+      },
+      {
+        "word": "move on",
+        "definition": "To progress to the next stage or task after completing a previous one.",
+        "businessContext": "In a business context, moving on is essential for maintaining momentum and ensuring that teams do not linger on completed projects, which can hinder innovation.",
+        "nuance": "This phrase can carry a sense of urgency to transition quickly, but it should be used carefully to avoid implying disregard for the work that has been done.",
+        "synonyms": [
+          "advance",
+          "proceed"
+        ],
+        "antonyms": [
+          "linger",
+          "remain"
+        ]
+      }
+    ]
   },
   {
-    "text": "Those sessions with Jason, they were these short, very, very intense sessions where you're trying to crack the nut together. Where's the idea? What's the concept? How can we go... What's this thing that we're going to go and 10 hours later, right, David's going to come back and we're going to be like, 'This is awesome. This thing works and it does something we're excited about,' right?",
+    "text": "Those sessions with Jason, they were these short, very, very intense sessions where you're trying to crack the nut together. Where's the idea? What's the concept? How can we go...",
     "speaker": "Ryan Singer",
     "timestamp": "00:14:28",
     "context": "Ryan describes the early collaborative sessions with Jason Fried that became the foundation for Shape Up's shaping process. These were intense, focused sessions aimed at 'cracking the nut' - finding the core idea that could be built quickly and effectively. With David only available 10 hours per week for programming, they needed absolute clarity on what to build before he started coding, which forced them to do deep thinking upfront.",
     "vocabulary_highlights": [
-      "crack the nut together"
+      "intense",
+      "collaborative",
+      "concept",
+      "foundation"
     ],
     "topics": [
       "Product Management",
@@ -118,16 +373,79 @@
     "text_ko": "제이슨과 했던 그 세션들은 짧지만 정말 강렬하고 집중된 시간이었어요. 같이 머리 맞대고 핵심을 풀어보려는 자리였죠. 아이디어는 어디에 있지? 콘셉트는 뭐지? 어떻게 해볼 수 있지… 10시간 뒤에 데이비드가 돌아왔을 때 ‘이거 정말 멋지다. 이게 작동하고 우리가 기대하던 걸 해주네’라고 말하게 될 그런 걸 어떻게 만들어낼지 고민하는 시간이었어요, 그렇죠?",
     "text_zh": "跟Jason开的那些会，都是短时间但特别紧张的头脑风暴，大家一起想办法解决问题。想法在哪儿？核心概念是什么？我们怎么能够...就是找到那个点，然后10个小时之后，David回来了，我们就能说\"太棒了！这个方案行得通，而且正是我们想要的那种效果\"，你知道吧？",
     "text_es": "Esas sesiones con Jason eran súper cortas pero intensísimas, ¿sabes? Era como tratar de resolver el problema juntos. ¿Dónde está la idea? ¿Cuál es el concepto? ¿Cómo podemos... qué es esa cosa que vamos a desarrollar y que 10 horas después David va a regresar y vamos a decir \"Esto está padrísimo. Esta cosa funciona y hace algo que nos emociona\"?",
-    "key_sentence": "Those sessions with Jason were intense, trying to crack the nut together."
+    "key_sentence": "Those sessions with Jason were intense, trying to crack the nut together.",
+    "text_trimmed": true,
+    "original_text": "Those sessions with Jason, they were these short, very, very intense sessions where you're trying to crack the nut together. Where's the idea? What's the concept? How can we go... What's this thing that we're going to go and 10 hours later, right, David's going to come back and we're going to be like, 'This is awesome. This thing works and it does something we're excited about,' right?",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "intense",
+        "definition": "Having a strong or extreme degree of force, energy, or concentration.",
+        "businessContext": "In business settings, 'intense' often describes high-pressure situations or focused efforts to achieve specific outcomes, such as during brainstorming sessions or project deadlines.",
+        "nuance": "While 'intense' can imply a positive drive towards productivity, it may also suggest stress or overwhelming pressure if not managed properly.",
+        "synonyms": [
+          "extreme",
+          "fervent"
+        ],
+        "antonyms": [
+          "mild",
+          "calm"
+        ]
+      },
+      {
+        "word": "collaborative",
+        "definition": "Involving two or more parties working together towards a common goal or outcome.",
+        "businessContext": "Collaboration is essential in business environments, especially in team projects, where diverse skills and perspectives contribute to innovation and problem-solving.",
+        "nuance": "The term 'collaborative' carries a positive connotation, emphasizing teamwork and shared responsibility, but can imply a lack of individual accountability if overused.",
+        "synonyms": [
+          "cooperative",
+          "joint"
+        ],
+        "antonyms": [
+          "competitive",
+          "individualistic"
+        ]
+      },
+      {
+        "word": "concept",
+        "definition": "An abstract idea or a general notion that serves as the foundation for a theory or plan.",
+        "businessContext": "In business and startups, a 'concept' often refers to the initial idea behind a product, service, or strategy that guides development and marketing efforts.",
+        "nuance": "While 'concept' suggests a theoretical framework, it may lack the specificity needed for execution, making it important to clarify and develop further.",
+        "synonyms": [
+          "idea",
+          "notion"
+        ],
+        "antonyms": [
+          "reality",
+          "fact"
+        ]
+      },
+      {
+        "word": "foundation",
+        "definition": "The underlying basis or principle upon which something is built or established.",
+        "businessContext": "In a business context, 'foundation' can refer to the core values, principles, or structures that support an organization's mission and operations.",
+        "nuance": "The term often implies stability and reliability, but can also suggest rigidity if the foundation is not adaptable to change.",
+        "synonyms": [
+          "basis",
+          "cornerstone"
+        ],
+        "antonyms": [
+          "superstructure",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "That was one of those moments where you're like, 'Oh, this isn't going to automatically, organically just keep it spreading as we hire forever.' You know what I mean? We did reach a point where it's like, 'Oh, we're going to have to figure out when this goes well, why does it go well and what do we do differently and how do we formalize that so it's reproducible as we keep onboarding more people?'",
+    "text": "That was one of those moments where you're like, 'Oh, this isn't going to automatically, organically just keep it spreading as we hire forever.' You know what I mean?",
     "speaker": "Ryan Singer",
     "timestamp": "00:18:06",
     "context": "Ryan recounts the moment Basecamp realized their organic way of working wouldn't scale indefinitely. After about 10 years of organic growth, they encountered their first project that didn't go well due to team members not understanding the implicit processes. This was the catalyst for formalizing their approach into what became Shape Up - they needed to systematize what had been working intuitively so new hires could participate effectively.",
     "vocabulary_highlights": [
-      "organically just keep it spreading",
-      "formalize that so it's reproducible"
+      "organically",
+      "scale",
+      "growth",
+      "indefinitely"
     ],
     "topics": [
       "Leadership & Management",
@@ -142,16 +460,79 @@
     "text_ko": "그건 '아, 이건 우리가 계속 사람을 뽑는다고 해서 저절로 자연스럽게 계속 퍼지진 않겠구나' 하고 느끼는 순간 중 하나였어요. 무슨 말인지 알죠? 결국 '이게 잘 될 때 왜 잘 되는지, 뭘 다르게 해야 하는지, 그리고 사람들을 더 많이 온보딩(onboarding)할수록 그걸 재현할 수 있게 어떻게 체계화할지' 알아내야 한다는 생각이 들었어요.",
     "text_zh": "那一刻我们就意识到，\"哎呀，这个东西不会因为我们一直招人就自然而然地传承下去。\"你懂我意思吧？我们确实到了一个节点，就是\"好吧，我们得搞清楚什么时候做得好，为什么做得好，我们哪里做得不一样，怎么把这些东西规范化，这样以后新人入职(onboarding)的时候就能复制这套做法？\"",
     "text_es": "Fue uno de esos momentos donde dices, \"Ah, esto no va a seguir extendiéndose automáticamente por sí solo conforme vayamos contratando más gente.\" ¿Me entiendes? Llegamos a un punto donde dijimos, \"Oye, vamos a tener que averiguar cuándo esto funciona bien, por qué funciona bien y qué hacemos diferente, y cómo lo formalizamos para que sea replicable mientras sigamos incorporando más personas.\"",
-    "key_sentence": "We must formalize that so it's reproducible as we keep onboarding more people."
+    "key_sentence": "Oh, this isn't going to automatically, organically just keep it spreading as we hire forever.",
+    "text_trimmed": true,
+    "original_text": "That was one of those moments where you're like, 'Oh, this isn't going to automatically, organically just keep it spreading as we hire forever.' You know what I mean? We did reach a point where it's like, 'Oh, we're going to have to figure out when this goes well, why does it go well and what do we do differently and how do we formalize that so it's reproducible as we keep onboarding more people?'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "organically",
+        "definition": "In a natural or inherent manner, without external influence or intervention.",
+        "businessContext": "In business, 'organically' often refers to growth or expansion that occurs through internal efforts rather than through acquisitions or mergers.",
+        "nuance": "The term carries a connotation of sustainability and authenticity, suggesting that growth is genuine rather than artificially stimulated.",
+        "synonyms": [
+          "naturally",
+          "inherently"
+        ],
+        "antonyms": [
+          "artificially",
+          "externally"
+        ]
+      },
+      {
+        "word": "scale",
+        "definition": "To increase in size, capacity, or scope in a systematic and efficient manner.",
+        "businessContext": "In the context of startups and technology, scaling refers to the ability to grow a business or its operations without being hampered by its structure or available resources.",
+        "nuance": "The term implies not just growth, but growth that is sustainable and manageable, often requiring strategic planning and resource allocation.",
+        "synonyms": [
+          "expand",
+          "grow"
+        ],
+        "antonyms": [
+          "diminish",
+          "contract"
+        ]
+      },
+      {
+        "word": "growth",
+        "definition": "The process of increasing in size, number, value, or strength.",
+        "businessContext": "In business, growth can refer to revenue increases, market share expansion, or overall company development, often measured through various metrics.",
+        "nuance": "While growth is generally viewed positively, it can also imply challenges such as resource strain or operational inefficiencies if not managed properly.",
+        "synonyms": [
+          "expansion",
+          "development"
+        ],
+        "antonyms": [
+          "decline",
+          "recession"
+        ]
+      },
+      {
+        "word": "indefinitely",
+        "definition": "For an unlimited or unspecified period of time; without a fixed end.",
+        "businessContext": "In business discussions, 'indefinitely' may refer to ongoing projects, contracts, or policies that do not have a predetermined conclusion, often indicating uncertainty.",
+        "nuance": "The term can suggest a lack of clarity or permanence, which may be viewed negatively in contexts where timelines and commitments are important.",
+        "synonyms": [
+          "unlimited",
+          "perpetually"
+        ],
+        "antonyms": [
+          "temporarily",
+          "definitely"
+        ]
+      }
+    ]
   },
   {
-    "text": "You can't put 10 pounds of crap in a five pound bag. So, it's a high academic statement and we can't just take any project, no matter how giant it is, and then throw it at a team and say, 'Figure it out and ship something meaningful in six weeks by cutting away scope,' right?",
+    "text": "You can't put 10 pounds of crap in a five pound bag.",
     "speaker": "Ryan Singer",
     "timestamp": "00:25:12",
     "context": "Ryan, quoting Bob Moesta, explains why proper shaping is crucial before giving teams time-boxed projects. He's addressing a common Shape Up misapplication where teams try to take massive, undefined projects and force them into six-week cycles by cutting scope. This approach fails because without proper upfront shaping work to define what's actually achievable, teams can't meaningfully reduce an oversized project to fit the time constraint.",
     "vocabulary_highlights": [
-      "10 pounds of crap in a five pound bag",
-      "cutting away scope"
+      "shaping",
+      "crucial",
+      "time-boxed",
+      "undefined"
     ],
     "topics": [
       "Product Management",
@@ -166,6 +547,67 @@
     "text_ko": "5파운드 가방에 10파운드 짐을 넣을 수는 없어요. 이건 이론적으로는 맞는 말이긴 한데, 아무리 프로젝트가 거대해도 무작정 팀에 떠맡기고 '범위(scope)를 잘라내서 6주 만에 알아서 해결하고 의미 있는 결과물을 출시(ship)해'라고 할 순 없어요, 그렇죠?",
     "text_zh": "你不能往五磅的袋子里塞十磅的垃圾。所以说，这是个很学术的说法，但道理就是我们不能随便接个项目，不管这项目有多大，然后就扔给团队说\"你们想办法，削减一些功能范围，六周内搞出个像样的东西来\"，对吧？",
     "text_es": "No puedes meter diez kilos de porquería en una bolsa de cinco kilos. Entonces, es una declaración muy académica y no podemos simplemente tomar cualquier proyecto, por más gigante que sea, y luego tirárselo a un equipo y decirles: \"Resuelvan esto y entreguen algo que tenga sentido en seis semanas reduciendo el alcance\", ¿verdad?",
-    "key_sentence": "You can't put 10 pounds of crap in a five pound bag by cutting away scope."
+    "key_sentence": "You can't put 10 pounds of crap in a five pound bag by cutting away scope.",
+    "text_trimmed": true,
+    "original_text": "You can't put 10 pounds of crap in a five pound bag. So, it's a high academic statement and we can't just take any project, no matter how giant it is, and then throw it at a team and say, 'Figure it out and ship something meaningful in six weeks by cutting away scope,' right?",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "shaping",
+        "definition": "The act of influencing or determining the form, character, or development of something.",
+        "businessContext": "In business, shaping often refers to the process of guiding the direction of a project, strategy, or organizational culture to achieve desired outcomes.",
+        "nuance": "While shaping can imply a positive influence, it may also suggest manipulation if not done transparently.",
+        "synonyms": [
+          "molding",
+          "formulating"
+        ],
+        "antonyms": [
+          "destroying",
+          "neglecting"
+        ]
+      },
+      {
+        "word": "crucial",
+        "definition": "Extremely important or essential for the success or failure of something.",
+        "businessContext": "In a business context, crucial decisions or factors can significantly impact project outcomes, stakeholder satisfaction, or overall company performance.",
+        "nuance": "Crucial carries a sense of urgency and importance, suggesting that failure to address the issue could lead to serious consequences.",
+        "synonyms": [
+          "critical",
+          "vital"
+        ],
+        "antonyms": [
+          "insignificant",
+          "trivial"
+        ]
+      },
+      {
+        "word": "time-boxed",
+        "definition": "A method of limiting the amount of time allocated to a specific task or project phase.",
+        "businessContext": "In project management and agile methodologies, time-boxing is used to enhance focus and productivity by setting strict deadlines for deliverables.",
+        "nuance": "Time-boxed can imply a sense of urgency and efficiency, but it may also lead to rushed work if not managed properly.",
+        "synonyms": [
+          "deadline-driven",
+          "time-constrained"
+        ],
+        "antonyms": [
+          "open-ended",
+          "unrestricted"
+        ]
+      },
+      {
+        "word": "undefined",
+        "definition": "Not clearly or explicitly stated or determined; lacking a specific definition or boundaries.",
+        "businessContext": "In business, undefined roles, goals, or processes can lead to confusion and inefficiency, making it important to establish clear parameters.",
+        "nuance": "Undefined often suggests ambiguity or lack of clarity, which can be detrimental in structured environments like corporate settings.",
+        "synonyms": [
+          "ambiguous",
+          "vague"
+        ],
+        "antonyms": [
+          "defined",
+          "clear"
+        ]
+      }
+    ]
   }
 ]

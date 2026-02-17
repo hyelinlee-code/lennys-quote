@@ -1,14 +1,14 @@
 [
   {
-    "text": "I actually think the first step in a good positioning exercise is to really understand what do we have to position against? So put another way, it's like saying, what do I have to beat in order to win a deal? So in positioning work we call this competitive alternatives. Now, how people mess up this first step is, I say competitive alternatives and they think competition. So things that look exactly like me. But in B2B we kind of have two sets of competitors.",
+    "text": "I actually think the first step in a good positioning exercise is to really understand what do we have to position against? So put another way, it's like saying, what do I have to beat in order to win a deal?",
     "speaker": "April Dunford",
     "timestamp": "00:03:06",
     "context": "Lenny asks April what the first step is for a PM or founder ready to figure out their product's positioning. April explains that before you can position your product, you need to understand what you're competing against - not just direct competitors, but also the status quo (what customers are currently doing to solve the problem). She emphasizes that many companies lose deals to 'no decision' because they fail to position effectively against existing solutions like spreadsheets or manual processes.",
     "vocabulary_highlights": [
-      "position against",
-      "competitive alternatives",
-      "mess up this first step",
-      "put another way"
+      "positioning",
+      "understand",
+      "win a deal",
+      "beat"
     ],
     "topics": [
       "Product Management",
@@ -23,17 +23,79 @@
     "text_ko": "제가 생각하기에 좋은 포지셔닝 작업(positioning exercise)의 첫 번째 단계는 우리가 무엇을 상대해서 포지셔닝해야 하는지를 정말로 이해하는 거예요. 다시 말하면, 거래를 따내기 위해 무엇을 이겨야 하는지, 누구를 이겨야 하는지를 묻는 거죠. 포지셔닝 작업에서는 이를 경쟁 대안(competitive alternatives)이라고 부릅니다. 그런데 사람들이 이 첫 단계를 흔히 잘못 이해하는 건, 제가 '경쟁 대안'이라고 하면 곧장 '경쟁자'—나와 똑같이 보이는 것들—만 떠올린다는 점이에요. 하지만 B2B에서는 사실 경쟁자가 두 가지 종류로 나뉘어요.",
     "text_zh": "我觉得要做好定位(positioning)，第一步其实是要搞清楚我们要对抗什么。换句话说，就是我要打败谁才能拿下这个单子？在定位工作中，我们叫这个\"竞争替代方案(competitive alternatives)\"。很多人在第一步就搞错了，我一说竞争替代方案，他们就想到竞争对手，就是那些跟我们长得一模一样的公司。但是在B2B里面，其实我们面对两类竞争对手。",
     "text_es": "La verdad es que creo que el primer paso en un buen ejercicio de posicionamiento es entender realmente contra qué nos tenemos que posicionar. O sea, dicho de otra manera, es como preguntarse: ¿qué tengo que superar para cerrar un negocio? En el trabajo de posicionamiento a esto le llamamos alternativas competitivas (competitive alternatives). Ahora, donde la gente se equivoca en este primer paso es que digo alternativas competitivas y piensan en competencia directa. O sea, cosas que se parecen exactamente a lo mío. Pero en B2B como que tenemos dos tipos de competidores.",
-    "key_sentence": "Understand what to position against, called competitive alternatives."
+    "key_sentence": "Understand what to position against, called competitive alternatives.",
+    "text_trimmed": true,
+    "original_text": "I actually think the first step in a good positioning exercise is to really understand what do we have to position against? So put another way, it's like saying, what do I have to beat in order to win a deal? So in positioning work we call this competitive alternatives. Now, how people mess up this first step is, I say competitive alternatives and they think competition. So things that look exactly like me. But in B2B we kind of have two sets of competitors.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "positioning",
+        "definition": "The strategic process of defining how a product or service is perceived in the marketplace relative to competitors.",
+        "businessContext": "In business, effective positioning helps differentiate a brand and communicate its value proposition to target customers, often guiding marketing and sales strategies.",
+        "nuance": "Positioning often implies a competitive context, suggesting that a brand must establish its unique identity to stand out in a crowded market.",
+        "synonyms": [
+          "branding",
+          "differentiation"
+        ],
+        "antonyms": [
+          "confusion",
+          "homogeneity"
+        ]
+      },
+      {
+        "word": "understand",
+        "definition": "To grasp the meaning, significance, or nature of something through comprehension and insight.",
+        "businessContext": "In a business context, understanding market dynamics, customer needs, and competitive landscapes is crucial for making informed strategic decisions.",
+        "nuance": "While 'understand' is a general term, in business it often implies a deeper level of analysis and insight beyond surface-level knowledge.",
+        "synonyms": [
+          "comprehend",
+          "grasp"
+        ],
+        "antonyms": [
+          "misunderstand",
+          "ignore"
+        ]
+      },
+      {
+        "word": "win a deal",
+        "definition": "To successfully negotiate and finalize an agreement or contract, often resulting in a sale or partnership.",
+        "businessContext": "Winning a deal is a critical objective for sales teams, as it directly impacts revenue and business growth, often requiring strategic negotiation skills.",
+        "nuance": "The phrase conveys a sense of competition and achievement, suggesting that success is not guaranteed and requires effort and strategy.",
+        "synonyms": [
+          "close a deal",
+          "secure a contract"
+        ],
+        "antonyms": [
+          "lose a deal",
+          "fail to negotiate"
+        ]
+      },
+      {
+        "word": "beat",
+        "definition": "To surpass or defeat an opponent or challenge, often in a competitive context.",
+        "businessContext": "In business, to 'beat' the competition means to outperform rivals in terms of sales, market share, or innovation, which is essential for maintaining a competitive edge.",
+        "nuance": "While 'beat' implies competition, it can also suggest a proactive approach to overcoming obstacles, making it a motivating term in sales and strategy discussions.",
+        "synonyms": [
+          "surpass",
+          "outperform"
+        ],
+        "antonyms": [
+          "lose to",
+          "fall behind"
+        ]
+      }
+    ]
   },
   {
-    "text": "So a lot of people look at tracking data as how do I track my OKR? How do I know if I'm going up or down? But they don't use it to track or identify insights. So I will use the example of using Twitter for, \"News\" when in reality they're actually using Twitter for entertainment. Do not treat metric gathering as entertainment. It's not there for you to be like, oh, that's interesting, how novel, and then not act on it.",
+    "text": "So a lot of people look at tracking data as how do I track my OKR? How do I know if I'm going up or down? But they don't use it to track or identify insights.",
     "speaker": "Crystal Widjaja",
     "timestamp": "00:07:51",
     "context": "Lenny asks Crystal about her popular post on why most analytics efforts fail and what teams can do to avoid this. Crystal explains that companies often treat data tracking like entertainment rather than actionable intelligence. She uses the analogy of people claiming they use Twitter for news when they're actually using it for entertainment - similarly, teams look at metrics and find them 'interesting' but don't change their behavior based on the insights.",
     "vocabulary_highlights": [
-      "how novel",
-      "metric gathering",
-      "track or identify insights"
+      "track",
+      "identify",
+      "insights",
+      "analytics"
     ],
     "topics": [
       "Product Management",
@@ -49,16 +111,79 @@
     "text_ko": "많은 분들이 데이터 추적(tracking data)을 '내 OKR(목표와 핵심 결과)은 어떻게 추적하지? 오르고 있나 내리고 있나?'를 확인하는 용도로만 봐요. 그런데 그걸로 인사이트(insights)를 찾아내거나 식별하는 데는 잘 안 써요. 예를 들어 트위터(Twitter)를 '뉴스'로 쓴다고 생각하지만 사실은 엔터테인먼트(entertainment)로 쓰고 있는 경우가 많습니다. 지표(metric) 수집을 그저 엔터테인먼트(entertainment)처럼 취급하지 마세요. '아, 재밌네, 신기하네' 하고 끝내고 아무 행동도 하지 않는 용도가 아니에요.",
     "text_zh": "很多人看跟踪数据就是为了看自己的OKR(目标与关键结果)怎么样，是在上升还是下降，但他们不会用这些数据去发现洞察。就像很多人说自己上Twitter是为了\"看新闻\"，实际上就是在娱乐。千万别把收集指标当娱乐，不是让你看了说\"哦，挺有意思的，挺新鲜\"，然后就没下文了。",
     "text_es": "Entonces mucha gente ve los datos de seguimiento como \"¿cómo hago tracking de mis OKRs? ¿Cómo sé si voy para arriba o para abajo?\" Pero no los usan para identificar insights o sacar conclusiones reales. Te pongo el ejemplo de usar Twitter para \"noticias\" cuando en realidad lo estás usando para entretenerte. No trates la recopilación de métricas como entretenimiento. No está ahí para que digas \"ay, qué interesante, qué curioso\" y después no hagas nada al respecto.",
-    "key_sentence": "Do not treat metric gathering as entertainment; act on insights."
+    "key_sentence": "But they don't use it to track or identify insights.",
+    "text_trimmed": true,
+    "original_text": "So a lot of people look at tracking data as how do I track my OKR? How do I know if I'm going up or down? But they don't use it to track or identify insights. So I will use the example of using Twitter for, \"News\" when in reality they're actually using Twitter for entertainment. Do not treat metric gathering as entertainment. It's not there for you to be like, oh, that's interesting, how novel, and then not act on it.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "track",
+        "definition": "To monitor or follow the progress or development of something over time.",
+        "businessContext": "In business, tracking is essential for measuring performance metrics, such as sales growth, customer engagement, or project milestones.",
+        "nuance": "While 'track' implies a systematic approach to monitoring, it can also suggest a passive observation rather than active analysis.",
+        "synonyms": [
+          "monitor",
+          "follow"
+        ],
+        "antonyms": [
+          "ignore",
+          "neglect"
+        ]
+      },
+      {
+        "word": "identify",
+        "definition": "To recognize or establish the characteristics or qualities of something.",
+        "businessContext": "In a business context, identifying key trends or issues is crucial for strategic decision-making and problem-solving.",
+        "nuance": "The term 'identify' often implies a deeper analysis beyond mere recognition, suggesting a thorough understanding of the subject.",
+        "synonyms": [
+          "recognize",
+          "determine"
+        ],
+        "antonyms": [
+          "overlook",
+          "misidentify"
+        ]
+      },
+      {
+        "word": "insights",
+        "definition": "Deep understanding or awareness of a situation or problem, often derived from analysis of data.",
+        "businessContext": "Insights are valuable in business as they inform strategy, enhance decision-making, and drive innovation based on data analysis.",
+        "nuance": "The term 'insights' carries a connotation of actionable knowledge, suggesting that the information derived can lead to significant improvements or changes.",
+        "synonyms": [
+          "understanding",
+          "awareness"
+        ],
+        "antonyms": [
+          "ignorance",
+          "confusion"
+        ]
+      },
+      {
+        "word": "analytics",
+        "definition": "The systematic computational analysis of data or statistics to uncover patterns and insights.",
+        "businessContext": "In the business realm, analytics is utilized to drive data-driven decision-making, optimize operations, and enhance customer experiences.",
+        "nuance": "While 'analytics' suggests a rigorous and quantitative approach, it can also imply complex methodologies that may not be easily understood by all stakeholders.",
+        "synonyms": [
+          "data analysis",
+          "statistical analysis"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "But looking back, I think it probably took me about seven or eight years until I became a little bit more comfortable with that. After seven or eight years I could look back, I could see all of the things that I got to work on, I could see all the ways that I had grown and learned in that experience. And something clicked for me where I realized it's kind of two sides of the same coin.",
+    "text": "But looking back, I think it probably took me about seven or eight years until I became a little bit more comfortable with that.",
     "speaker": "Julie Zhou",
     "timestamp": "00:12:30",
     "context": "Lenny asks Julie about her rapid rise from designer to VP of design at Facebook and what advice she has for early career professionals. Julie reflects on how she felt like an imposter for seven to eight years at Facebook, constantly questioning whether she deserved her position. She explains that over time she realized that feeling uncomfortable and unprepared often coincides with the fastest periods of career growth - it's two sides of the same coin.",
     "vocabulary_highlights": [
-      "two sides of the same coin",
-      "something clicked for me"
+      "reflect",
+      "imposter",
+      "comfortable",
+      "rise"
     ],
     "topics": [
       "Career Development",
@@ -74,17 +199,79 @@
     "text_ko": "돌이켜보면, 그게 조금 편해지기까지 아마 7~8년 정도 걸린 것 같아요. 7~8년쯤 지나서야 제가 해온 일들을 돌아볼 수 있었고, 그 경험을 통해 얼마나 성장하고 배웠는지도 보이기 시작했어요. 그러다 어느 순간 모든 게 딱 맞춰지면서 결국 그건 같은 동전의 양면이라는 걸 깨달았어요.",
     "text_zh": "不过回头看，我觉得大概花了七八年时间吧，才对这件事稍微适应一些。七八年之后回过头来看，我能看到自己参与过的所有那些项目，也能看到自己在这个过程中各种各样的成长和收获。然后突然就开窍了，意识到这其实是一个硬币的两面。",
     "text_es": "Pero mirándolo ahora, creo que me tomó como siete u ocho años hasta que me empecé a sentir más cómodo con eso. Después de esos siete u ocho años pude ver hacia atrás, pude ver todas las cosas en las que había trabajado, todas las formas en las que había crecido y aprendido en esa experiencia. Y ahí fue cuando me cayó el veinte de que en realidad son dos caras de la misma moneda.",
-    "key_sentence": "After years, I realized it's two sides of the same coin."
+    "key_sentence": "it probably took me about seven or eight years until I became a little bit more comfortable with that.",
+    "text_trimmed": true,
+    "original_text": "But looking back, I think it probably took me about seven or eight years until I became a little bit more comfortable with that. After seven or eight years I could look back, I could see all of the things that I got to work on, I could see all the ways that I had grown and learned in that experience. And something clicked for me where I realized it's kind of two sides of the same coin.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "reflect",
+        "definition": "To think deeply or carefully about something, often to consider its implications or lessons.",
+        "businessContext": "In business, reflecting on past decisions or strategies can lead to improved future performance and innovation.",
+        "nuance": "While 'reflect' often carries a positive connotation of thoughtful consideration, it can imply hesitation or indecision if used in certain contexts.",
+        "synonyms": [
+          "contemplate",
+          "ponder"
+        ],
+        "antonyms": [
+          "ignore",
+          "disregard"
+        ]
+      },
+      {
+        "word": "imposter",
+        "definition": "A person who pretends to be someone else in order to deceive others, often for personal gain.",
+        "businessContext": "In the corporate world, the term 'imposter syndrome' refers to the feeling of self-doubt and fear of being exposed as a fraud, despite evident success.",
+        "nuance": "The term can carry a negative connotation, suggesting deceit or lack of authenticity, and is best used in contexts where authenticity is valued.",
+        "synonyms": [
+          "fraud",
+          "charlatan"
+        ],
+        "antonyms": [
+          "genuine",
+          "authentic"
+        ]
+      },
+      {
+        "word": "comfortable",
+        "definition": "Feeling at ease, free from stress or anxiety, and having a sense of security or well-being.",
+        "businessContext": "In a business setting, being comfortable often refers to employees feeling secure in their roles, which can enhance productivity and morale.",
+        "nuance": "While 'comfortable' generally has a positive connotation, it can also imply complacency if used to describe a lack of ambition or drive.",
+        "synonyms": [
+          "at ease",
+          "content"
+        ],
+        "antonyms": [
+          "uncomfortable",
+          "anxious"
+        ]
+      },
+      {
+        "word": "rise",
+        "definition": "To move from a lower position to a higher one, or to increase in quantity, quality, or status.",
+        "businessContext": "In business, 'rise' can refer to an increase in profits, market share, or employee engagement, often indicating positive growth.",
+        "nuance": "The term can suggest both upward movement and improvement, but in some contexts, it may imply a sudden or unexpected increase.",
+        "synonyms": [
+          "increase",
+          "ascend"
+        ],
+        "antonyms": [
+          "fall",
+          "decline"
+        ]
+      }
+    ]
   },
   {
-    "text": "I have an interview question I ask, it's a very simple question and it's a coded Eigenquestions test. And the question is, a group of scientists have invented a teleportation device. They've hired you, Lenny, to be they're sort of business counterpart, bring this to market, product [inaudible] this question actually worked well for [inaudible]. But say, you could be the product manager for this thing, bring it to market. What do you do?",
+    "text": "I have an interview question I ask, it's a very simple question and it's a coded Eigenquestions test. And the question is, a group of scientists have invented a teleportation device.",
     "speaker": "Shishir Mehrotra",
     "timestamp": "00:19:14",
     "context": "Lenny asks Shishir about his interview techniques and frameworks for evaluating talent. Shishir describes his favorite interview question which tests a candidate's ability to identify 'eigenquestions' - the most important questions that unlock the core understanding needed to make decisions. He gives candidates a hypothetical scenario about commercializing a teleportation device, then limits them to asking only two questions before creating a business plan.",
     "vocabulary_highlights": [
-      "coded Eigenquestions test",
-      "business counterpart",
-      "bring this to market"
+      "interview techniques",
+      "evaluate talent",
+      "frameworks",
+      "identify"
     ],
     "topics": [
       "Leadership & Management",
@@ -100,17 +287,79 @@
     "text_ko": "제가 면접에서 자주 묻는 질문이 하나 있어요. 아주 단순한 질문인데 코드화된 Eigenquestions 테스트(Eigenquestions test)에요. 질문은 이래요. 과학자 그룹이 순간이동 장치(teleportation device)를 발명했어요. 그리고 레니(Lenny)를 비즈니스 쪽 파트너로 고용해서 이걸 시장에 내놓으라고 했다고 해요. 제품 관리자(product manager)가 돼서 이걸 시장에 출시한다면, 당신은 어떻게 하시겠어요?",
     "text_zh": "我有个面试问题，很简单的一个问题，其实是个隐性特征测试(coded Eigenquestions test)。问题是这样的：有一群科学家发明了一个传送装置，他们雇你来做商业合作伙伴，负责把这个产品推向市场。假设你就是这个产品的产品经理，要把它推向市场，你会怎么做？",
     "text_es": "Tengo una pregunta que siempre hago en entrevistas, es muy sencilla y en realidad es una prueba codificada de Eigenquestions. La pregunta es así: imagínate que un grupo de científicos ha inventado un dispositivo de teletransportación. Te han contratado a ti, Lenny, para ser como su contraparte de negocios, para llevar esto al mercado, ser el product manager... esta pregunta en realidad me ha funcionado muy bien. Pero digamos, tú podrías ser el product manager de esto, llevarlo al mercado. ¿Qué harías?",
-    "key_sentence": "What do you do to bring this teleportation device to market?"
+    "key_sentence": "a group of scientists have invented a teleportation device.",
+    "text_trimmed": true,
+    "original_text": "I have an interview question I ask, it's a very simple question and it's a coded Eigenquestions test. And the question is, a group of scientists have invented a teleportation device. They've hired you, Lenny, to be they're sort of business counterpart, bring this to market, product [inaudible] this question actually worked well for [inaudible]. But say, you could be the product manager for this thing, bring it to market. What do you do?",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "interview techniques",
+        "definition": "Methods and strategies used to conduct interviews effectively, aimed at assessing candidates' qualifications and fit for a position.",
+        "businessContext": "In business settings, effective interview techniques are crucial for hiring managers to select the best candidates and ensure a successful recruitment process.",
+        "nuance": "While 'interview techniques' generally refer to structured approaches, the term can imply a level of sophistication or expertise in conducting interviews.",
+        "synonyms": [
+          "interview methods",
+          "interview strategies"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "evaluate talent",
+        "definition": "The process of assessing the skills, abilities, and potential of individuals to determine their suitability for specific roles or tasks.",
+        "businessContext": "In corporate environments, evaluating talent is essential for making informed hiring decisions, promoting employee development, and optimizing team performance.",
+        "nuance": "The phrase suggests a systematic approach to assessment, often involving various metrics and criteria, rather than a casual or subjective judgment.",
+        "synonyms": [
+          "assess talent",
+          "appraise talent"
+        ],
+        "antonyms": [
+          "ignore talent",
+          "overlook talent"
+        ]
+      },
+      {
+        "word": "frameworks",
+        "definition": "Structured approaches or systems that provide a foundation for understanding, analyzing, or solving complex problems.",
+        "businessContext": "In business and technology, frameworks are often utilized to guide project management, decision-making, and strategic planning, ensuring consistency and efficiency.",
+        "nuance": "While 'frameworks' imply a level of organization and systematic thinking, they can also suggest rigidity, so it's important to balance structure with flexibility.",
+        "synonyms": [
+          "structures",
+          "models"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "identify",
+        "definition": "To recognize or establish the identity of someone or something, often through analysis or investigation.",
+        "businessContext": "In a business context, identifying key issues, opportunities, or talent is crucial for strategic planning and operational efficiency.",
+        "nuance": "The term 'identify' carries a connotation of clarity and certainty, suggesting a thorough understanding rather than mere speculation.",
+        "synonyms": [
+          "recognize",
+          "determine"
+        ],
+        "antonyms": [
+          "overlook",
+          "misidentify"
+        ]
+      }
+    ]
   },
   {
-    "text": "There are so many mistakes that humans make and we can call them biases, heuristics, our team uses psychologies. What are the psychologies that drive us? And so to tackle this, our team basically has created a model of behavior change we call the three Bs. And this summarizes the most important psychologies that drive user that are important to the product managers and the marketers.",
+    "text": "There are so many mistakes that humans make and we can call them biases, heuristics, our team uses psychologies. What are the psychologies that drive us?",
     "speaker": "Kristen Berman",
     "timestamp": "00:27:10",
     "context": "Lenny asks Kristen about using behavioral science to improve products. Kristen introduces her team's framework called the 'three Bs' for understanding behavioral change. This model summarizes the key psychological drivers that influence user behavior and is designed specifically for product managers and marketers. The framework has been implemented at major companies like Google, Microsoft, and LinkedIn to help teams systematically apply behavioral science principles.",
     "vocabulary_highlights": [
-      "biases, heuristics",
-      "psychologies that drive us",
-      "to tackle this"
+      "biases",
+      "heuristics",
+      "psychologies",
+      "behavioral change"
     ],
     "topics": [
       "Product Management",
@@ -126,17 +375,79 @@
     "text_ko": "사람들이 저지르는 실수들이 정말 많은데, 우리는 그걸 편향(biases)이나 휴리스틱(heuristics)이라고도 하고, 우리 팀은 보통 심리(psychologies)라는 표현을 써요. 그럼 도대체 우리를 움직이는 심리들은 뭘까요? 그래서 이를 해결하려고 우리 팀은 행동 변화 모델(model of behavior change)을 만들었고, 그걸 세 가지 B(Three Bs)라고 불러요. 이 모델은 제품 관리자와 마케터에게 중요한, 사용자를 움직이는 핵심 심리들을 요약한 거예요.",
     "text_zh": "人类会犯很多错误，我们可以叫它们偏见、启发式思维，我们团队叫它们心理因素。到底是什么心理因素在驱动我们呢？为了解决这个问题，我们团队基本上创建了一个行为改变模型，我们叫它\"三个B\"。这个模型总结了驱动用户的最重要的心理因素，对产品经理和市场营销人员来说特别重要。",
     "text_es": "Hay muchísimos errores que cometemos los humanos y los podemos llamar sesgos, heurísticas, nuestro equipo usa el término \"psicologías\". ¿Cuáles son las psicologías que nos impulsan? Y para abordar esto, nuestro equipo básicamente creó un modelo de cambio de comportamiento que llamamos las tres Bs. Y esto resume las psicologías más importantes que impulsan al usuario y que son clave para los product managers y los de marketing.",
-    "key_sentence": "Our team created a model of behavior change called the three Bs."
+    "key_sentence": "What are the psychologies that drive us?",
+    "text_trimmed": true,
+    "original_text": "There are so many mistakes that humans make and we can call them biases, heuristics, our team uses psychologies. What are the psychologies that drive us? And so to tackle this, our team basically has created a model of behavior change we call the three Bs. And this summarizes the most important psychologies that drive user that are important to the product managers and the marketers.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "biases",
+        "definition": "Biases are systematic tendencies to think or act in certain ways that deviate from rationality or objective judgment. They can influence decision-making processes and perceptions.",
+        "businessContext": "In business, understanding biases is crucial for improving decision-making, enhancing team dynamics, and developing marketing strategies that resonate with target audiences.",
+        "nuance": "While biases can often lead to errors in judgment, they can also reflect cultural or contextual influences that may be important to acknowledge in discussions.",
+        "synonyms": [
+          "prejudices",
+          "distortions"
+        ],
+        "antonyms": [
+          "objectivity",
+          "neutrality"
+        ]
+      },
+      {
+        "word": "heuristics",
+        "definition": "Heuristics are mental shortcuts or rules of thumb that simplify decision-making processes, often based on past experiences or common sense. They help individuals make quick judgments without extensive analysis.",
+        "businessContext": "In the business environment, heuristics can streamline decision-making and problem-solving, particularly in high-pressure situations where time is limited.",
+        "nuance": "While heuristics can be efficient, they may also lead to oversimplified conclusions or errors if not applied judiciously.",
+        "synonyms": [
+          "rules of thumb",
+          "shortcuts"
+        ],
+        "antonyms": [
+          "analysis",
+          "thoroughness"
+        ]
+      },
+      {
+        "word": "psychologies",
+        "definition": "Psychologies refer to the study of the mind and behavior, encompassing various theories and principles that explain how individuals think, feel, and act. It includes cognitive, social, and emotional aspects.",
+        "businessContext": "In business, psychologies are leveraged to understand consumer behavior, enhance employee engagement, and create effective marketing strategies that appeal to emotional triggers.",
+        "nuance": "The term can imply a broad range of psychological theories, so it is important to specify which aspects are being referenced in discussions.",
+        "synonyms": [
+          "mindsets",
+          "behavioral sciences"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "behavioral change",
+        "definition": "Behavioral change refers to the process of altering human behavior, often through interventions or strategies aimed at encouraging new habits or practices. It is a key focus in psychology and organizational development.",
+        "businessContext": "In a business context, behavioral change is essential for implementing new policies, improving workplace culture, and driving customer engagement through targeted marketing efforts.",
+        "nuance": "Behavioral change can be gradual and complex, often requiring sustained effort and reinforcement to achieve lasting results.",
+        "synonyms": [
+          "behavior modification",
+          "habit change"
+        ],
+        "antonyms": [
+          "stagnation",
+          "consistency"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think every single company has to first focus on being product led and retention, period. The only way that you will ever have any chance of acquisition being product led is if you nail your product led retention. Let me break it down. Retention falls into two main KPIs, which is activation and then engagement.",
+    "text": "I think every single company has to first focus on being product led and retention, period. The only way that you will ever have any chance of acquisition being product led is if you nail your product led retention. Let me break it down.",
     "speaker": "Elena Verna",
     "timestamp": "00:33:29",
     "context": "Lenny discusses B2B growth strategies with Elena, who is head of growth at Amplitude and considered one of the top experts in B2B growth. Elena explains her fundamental principle that companies must master product-led retention before attempting product-led acquisition. She breaks down retention into activation and engagement, arguing that without habitual user engagement, there's no foundation for users to refer others or create content that attracts new users.",
     "vocabulary_highlights": [
       "product led",
-      "nail your product led retention",
-      "let me break it down"
+      "retention",
+      "acquisition",
+      "fundamental"
     ],
     "topics": [
       "Product Management",
@@ -152,17 +463,79 @@
     "text_ko": "제 생각에는 모든 회사가 먼저 제품 주도(product-led)와 고객 유지(retention)에 집중해야 해요. 그게 핵심이에요. 제품 주도(product-led)로 고객 획득(acquisition)을 하려면 제품 주도형 유지(product-led retention)를 확실히 잡아야 해요. 좀 더 풀어 설명할게요. 유지(retention)는 두 가지 핵심 성과 지표(KPI)로 나뉘는데, 하나는 활성화(activation), 다른 하나는 참여(engagement)이에요.",
     "text_zh": "我觉得每家公司都必须先专注于产品驱动(product led)和留存，没得商量。只有你把产品驱动的留存做到位了，你的获客(acquisition)才有可能也做到产品驱动。我给你拆解一下。留存主要看两个关键指标(KPI)，一个是激活(activation)，另一个是用户参与度(engagement)。",
     "text_es": "Mira, yo creo que todas las empresas, sin excepción, tienen que enfocarse primero en ser product led y en la retención, punto. La única manera de que tengas alguna posibilidad de que tu adquisición sea product led es si claves completamente tu retención product led. Te lo explico mejor. La retención se divide en dos KPIs principales: la activación y después el engagement.",
-    "key_sentence": "Focus on being product led and nail your product led retention."
+    "key_sentence": "Focus on being product led and nail your product led retention.",
+    "text_trimmed": true,
+    "original_text": "I think every single company has to first focus on being product led and retention, period. The only way that you will ever have any chance of acquisition being product led is if you nail your product led retention. Let me break it down. Retention falls into two main KPIs, which is activation and then engagement.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "product led",
+        "definition": "A business strategy that prioritizes the product itself as the primary driver of customer acquisition, retention, and growth.",
+        "businessContext": "In tech and startup environments, being product led means that the development and enhancement of the product are central to the company's operations and marketing efforts, often leading to organic growth through user satisfaction.",
+        "nuance": "This term often implies a focus on user experience and product quality over traditional sales or marketing tactics, and is best used when discussing innovative or agile companies.",
+        "synonyms": [
+          "product-driven",
+          "product-focused"
+        ],
+        "antonyms": [
+          "sales-led",
+          "marketing-led"
+        ]
+      },
+      {
+        "word": "retention",
+        "definition": "The ability of a company to keep its customers over a specified period, often measured as a percentage of customers who continue to use a product or service.",
+        "businessContext": "In business, particularly in subscription-based models, retention is critical as it directly impacts revenue and profitability, making it a key performance indicator for many companies.",
+        "nuance": "While retention is generally viewed positively, it can also imply a need for improvement if low; it is often discussed in conjunction with customer satisfaction and engagement strategies.",
+        "synonyms": [
+          "customer loyalty",
+          "client retention"
+        ],
+        "antonyms": [
+          "churn",
+          "attrition"
+        ]
+      },
+      {
+        "word": "acquisition",
+        "definition": "The process of gaining new customers or clients, often through marketing strategies, partnerships, or mergers and acquisitions.",
+        "businessContext": "In the context of startups and tech companies, acquisition strategies are crucial for growth, as they aim to expand the customer base and increase market share.",
+        "nuance": "Acquisition can have a broader meaning, including the purchase of other companies, and is often used in discussions about growth strategies; it is less favorable when overemphasized at the expense of retention.",
+        "synonyms": [
+          "customer acquisition",
+          "client onboarding"
+        ],
+        "antonyms": [
+          "loss",
+          "abandonment"
+        ]
+      },
+      {
+        "word": "fundamental",
+        "definition": "Essential or foundational; serving as a basis for understanding or action in a particular context.",
+        "businessContext": "In business discussions, identifying fundamental principles or practices is crucial for establishing strategies and ensuring long-term success.",
+        "nuance": "This term conveys a sense of importance and necessity, and is often used to emphasize core values or strategies that should not be overlooked.",
+        "synonyms": [
+          "basic",
+          "essential"
+        ],
+        "antonyms": [
+          "superficial",
+          "secondary"
+        ]
+      }
+    ]
   },
   {
-    "text": "All your tasks are not created equal. There are actually three type of tasks that you end up doing in such a role. So there are L tasks, which are leverage tasks. And the L tasks are such that when you put in a certain amount of effort, you get 10X or 100X in return in terms of impact. So those are L tasks, leverage tasks.",
+    "text": "All your tasks are not created equal. There are actually three type of tasks that you end up doing in such a role. So there are L tasks, which are leverage tasks.",
     "speaker": "Shreyas Doshi",
     "timestamp": "00:44:28",
     "context": "Lenny asks Shreyas about productivity frameworks for product managers. Shreyas introduces his LNO framework, which he developed after experiencing overwhelming stress early in his Google career. He explains that not all tasks provide equal return on investment - L tasks (leverage) give 10X or 100X impact, N tasks (neutral) give roughly 1:1 return, and O tasks (overhead) give less return than the effort invested. The key insight is that most people treat all tasks the same way, leading to burnout and inefficiency.",
     "vocabulary_highlights": [
-      "not created equal",
-      "leverage tasks",
-      "10X or 100X in return"
+      "leverage",
+      "productivity",
+      "framework",
+      "overwhelming"
     ],
     "topics": [
       "Product Management",
@@ -177,6 +550,67 @@
     "text_ko": "모든 업무가 똑같이 만들어진 건 아니에요. 사실 그런 역할에서는 하게 되는 업무가 세 가지 유형으로 나뉘어요. 그중 하나가 L 작업(L tasks), 즉 레버리지 작업(leverage tasks)인데요. 이런 L 작업은 일정한 노력을 들이면 영향력이 10배(10X)나 100배(100X)로 돌아오는 업무예요.",
     "text_zh": "你的所有任务其实是不一样的。在这种职位上，你做的任务实际上分三种类型。有一种叫L类任务，就是杠杆任务(leverage tasks)。这种L类任务的特点就是，你投入一定的精力，能获得10倍甚至100倍的回报和影响力。这就是L类任务，杠杆任务(leverage tasks)。",
     "text_es": "No todas las tareas son iguales. En realidad hay tres tipos de tareas que acabas haciendo en este tipo de rol. Están las tareas L, que son las tareas de apalancamiento (leverage tasks). Y las tareas L son aquellas donde cuando pones cierto esfuerzo, obtienes 10 veces o 100 veces más de retorno en términos de impacto. Esas son las tareas L, las tareas de apalancamiento (leverage tasks).",
-    "key_sentence": "Tasks are not created equal; leverage tasks yield 10X or 100X in return."
+    "key_sentence": "There are actually three type of tasks that you end up doing in such a role.",
+    "text_trimmed": true,
+    "original_text": "All your tasks are not created equal. There are actually three type of tasks that you end up doing in such a role. So there are L tasks, which are leverage tasks. And the L tasks are such that when you put in a certain amount of effort, you get 10X or 100X in return in terms of impact. So those are L tasks, leverage tasks.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "leverage",
+        "definition": "To use something to maximum advantage or to exert influence over a situation.",
+        "businessContext": "In business, leveraging often refers to utilizing resources, skills, or relationships to enhance performance or achieve strategic goals.",
+        "nuance": "Leverage carries a connotation of strategic advantage and should be used in contexts where influence or resource optimization is implied.",
+        "synonyms": [
+          "utilize",
+          "capitalize"
+        ],
+        "antonyms": [
+          "squander",
+          "waste"
+        ]
+      },
+      {
+        "word": "productivity",
+        "definition": "The efficiency with which goods and services are produced, often measured in output per unit of input.",
+        "businessContext": "In the business world, productivity is a key performance indicator that organizations strive to improve through various means such as technology, training, and process optimization.",
+        "nuance": "While productivity generally has a positive connotation, it can imply pressure on employees if overemphasized without regard for work-life balance.",
+        "synonyms": [
+          "efficiency",
+          "output"
+        ],
+        "antonyms": [
+          "inefficiency",
+          "unproductiveness"
+        ]
+      },
+      {
+        "word": "framework",
+        "definition": "A structured approach or system that provides guidance for understanding or addressing a particular issue or process.",
+        "businessContext": "In business and technology, frameworks are often used to outline methodologies for project management, software development, or strategic planning.",
+        "nuance": "Frameworks imply a level of flexibility and adaptability, suggesting that they can be tailored to specific needs rather than being rigid prescriptions.",
+        "synonyms": [
+          "structure",
+          "system"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorder"
+        ]
+      },
+      {
+        "word": "overwhelming",
+        "definition": "Having a strong emotional effect or being too intense to manage effectively.",
+        "businessContext": "In a business context, overwhelming can describe situations where demands exceed capacity, such as during peak workloads or crises.",
+        "nuance": "While overwhelming typically has negative connotations, it can also refer to positive scenarios, such as overwhelming success or demand.",
+        "synonyms": [
+          "intense",
+          "overpowering"
+        ],
+        "antonyms": [
+          "manageable",
+          "underwhelming"
+        ]
+      }
+    ]
   }
 ]

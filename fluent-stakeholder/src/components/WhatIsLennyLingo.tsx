@@ -27,17 +27,13 @@ const WhatIsLennyLingo: React.FC = () => {
     <section className="w-full max-w-5xl mx-auto py-16 px-4">
       <div className="border-t border-stone-200 pt-16">
         <div className="text-center mb-14">
-          <h2 className="font-serif text-3xl md:text-4xl text-ink mb-2">
+          <h2 className="font-serif text-3xl md:text-4xl text-ink mb-6">
             What is LennyLingo?
           </h2>
-          <p className="font-serif text-lg md:text-xl text-stone-500 italic mb-6">
-            Bridging the gap between textbook English and the boardroom
-          </p>
           <p className="text-stone-500 max-w-2xl mx-auto text-lg leading-relaxed">
-            A curated library of business English drawn from{' '}
-            <span className="font-semibold text-stone-700">Lenny's Podcast</span> — the
-            go-to resource for product, growth, and startup leaders. We break down the
-            language of Silicon Valley so you can speak it with confidence.
+            LennyLingo turns real conversations from top tech leaders into practical business English. We curate high-impact expressions from{' '}
+            <a href="https://www.lennysnewsletter.com/podcast" target="_blank" rel="noopener noreferrer" className="font-semibold text-stone-700 underline hover:text-accent">Lenny's Podcast</a>{' '}
+            and transform them into learnable units you can confidently use at work.
           </p>
         </div>
 

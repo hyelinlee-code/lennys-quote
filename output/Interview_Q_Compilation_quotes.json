@@ -1,12 +1,14 @@
 [
   {
-    "text": "\"To what do you attribute your success?\" And you can't say \"luck\". Because I think humble people will always say \"luck\" in some way, and I always kind of want to know, how self-aware are you, basically, and how curious are you? I think people have really sort of gone back and reflected on why are they where they are today really says a lot about how they think about the world.",
+    "text": "\"To what do you attribute your success?\" And you can't say \"luck\". Because I think humble people will always say \"luck\" in some way, and I always kind of want to know, how self-aware are you, basically, and how curious are you?",
     "speaker": "Eeke De Miliano",
     "timestamp": "03:36",
     "context": "Lenny is featuring favorite interview questions from previous podcast guests. Eeke De Miliano, former head of product at Retool and PM at Stripe, shares her go-to interview question for candidates. She explains that this question is designed to test self-awareness and curiosity, as it forces candidates to think deeply about their career journey rather than giving modest responses about luck.",
     "vocabulary_highlights": [
-      "attribute your success",
-      "gone back and reflected"
+      "attribute",
+      "self-aware",
+      "curious",
+      "humble"
     ],
     "topics": [
       "Career Development",
@@ -22,15 +24,79 @@
     "text_ko": "성공을 어디에 돌리시겠어요? 그냥 '운'이라고만 할 순 없어요. 겸손한 사람들은 어떻게든 '운'이라고 하긴 하는데, 저는 그 사람이 얼마나 자기 인식(self-awareness)이 있고, 얼마나 호기심(curiosity)이 있는지가 궁금해요. 자신이 왜 지금 이 자리에 있게 됐는지 다시 돌아보고 성찰해보는 태도 자체가 그 사람이 세상을 어떻게 보는지를 많은 걸 말해준다고 생각해요.",
     "text_zh": "\"你觉得自己的成功主要靠什么？\"而且你不能说是\"运气\"。因为我觉得谦虚的人总会说是运气什么的，但我其实想知道的是，你到底有多了解自己，有多好奇？我觉得那些真正回过头来思考\"我为什么能走到今天这一步\"的人，从他们的回答就能看出他们是怎么看这个世界的。",
     "text_es": "\"¿A qué atribuyes tu éxito?\" Y no puedes decir \"suerte\". Porque creo que la gente humilde siempre va a decir \"suerte\" de alguna manera, y yo siempre quiero saber, básicamente, ¿qué tan consciente eres de ti mismo y qué tan curioso eres? Creo que las personas que realmente se han puesto a reflexionar y analizar por qué están donde están hoy, eso dice mucho sobre cómo ven el mundo.",
-    "key_sentence": "You can't attribute your success to luck; self-awareness matters."
+    "key_sentence": "You can't attribute your success to luck; self-awareness matters.",
+    "text_trimmed": true,
+    "original_text": "\"To what do you attribute your success?\" And you can't say \"luck\". Because I think humble people will always say \"luck\" in some way, and I always kind of want to know, how self-aware are you, basically, and how curious are you? I think people have really sort of gone back and reflected on why are they where they are today really says a lot about how they think about the world.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "attribute",
+        "definition": "To regard something as being caused by someone or something; to ascribe a quality or characteristic to a person or thing.",
+        "businessContext": "In business, 'attribute' is often used to identify the factors contributing to success, performance metrics, or customer satisfaction.",
+        "nuance": "While 'attribute' can imply a positive recognition, it may also suggest a lack of personal responsibility if overused.",
+        "synonyms": [
+          "ascribe",
+          "credit"
+        ],
+        "antonyms": [
+          "disregard",
+          "deny"
+        ]
+      },
+      {
+        "word": "self-aware",
+        "definition": "Having a conscious knowledge of one's own character, feelings, motives, and desires.",
+        "businessContext": "In a corporate environment, self-aware individuals are often seen as effective leaders who understand their strengths and weaknesses, leading to better decision-making and team dynamics.",
+        "nuance": "Self-awareness is generally viewed positively, but excessive self-awareness can lead to overthinking or hesitation.",
+        "synonyms": [
+          "introspective",
+          "self-reflective"
+        ],
+        "antonyms": [
+          "oblivious",
+          "unaware"
+        ]
+      },
+      {
+        "word": "curious",
+        "definition": "Eager to know or learn something; inquisitive.",
+        "businessContext": "Curiosity in business fosters innovation and problem-solving, as employees who are curious are more likely to explore new ideas and challenge the status quo.",
+        "nuance": "While curiosity is typically a positive trait, it can be perceived negatively if it leads to prying into others' affairs or if it distracts from tasks.",
+        "synonyms": [
+          "inquisitive",
+          "eager"
+        ],
+        "antonyms": [
+          "indifferent",
+          "apathetic"
+        ]
+      },
+      {
+        "word": "humble",
+        "definition": "Having or showing a modest or low estimate of one's own importance; not arrogant.",
+        "businessContext": "Humble leaders often create a positive workplace culture by valuing team contributions and fostering collaboration, which can enhance employee morale and productivity.",
+        "nuance": "While humility is generally admired, excessive humility can sometimes be mistaken for a lack of confidence or assertiveness.",
+        "synonyms": [
+          "modest",
+          "unpretentious"
+        ],
+        "antonyms": [
+          "arrogant",
+          "proud"
+        ]
+      }
+    ]
   },
   {
-    "text": "I ask, \"What's the hardest thing you've ever done?\" I ask that because working at Ramp is hard, and I want to understand what hard means for them. I want to understand why it was hard. I want to understand how they overcame that difficulty, how they worked with other people to overcome that difficulty, and how much agency they had in overcoming that.",
+    "text": "I ask, \"What's the hardest thing you've ever done?\" I ask that because working at Ramp is hard, and I want to understand what hard means for them. I want to understand why it was hard.",
     "speaker": "Geoff Charles",
     "timestamp": "04:06",
     "context": "Geoff Charles, Head of Product at Ramp, explains his favorite interview question when Lenny asks about effective ways to evaluate candidates. This question helps him assess a candidate's resilience and problem-solving abilities, which are crucial for success at Ramp since the work environment is particularly challenging and demanding.",
     "vocabulary_highlights": [
-      "how much agency they had"
+      "resilience",
+      "evaluate",
+      "understand",
+      "assess"
     ],
     "topics": [
       "Leadership & Management",
@@ -46,17 +112,79 @@
     "text_ko": "저는 \"지금까지 해본 일 중 가장 어려웠던 게 뭐예요?\"라고 물어봐요. Ramp에서 일하는 건 쉽지 않아서 그런 질문을 하는 거고, '힘들다'가 그분들한테는 구체적으로 어떤 의미인지 알고 싶어요. 왜 그게 힘들었는지, 그 어려움을 어떻게 극복했는지, 다른 사람들과는 어떻게 협력해서 해냈는지, 그리고 그 과정을 극복하는 데 본인의 주도성(agency)이 어느 정도였는지도 알고 싶어요.",
     "text_zh": "我会问：\"你做过最难的事情是什么？\"我之所以这么问，是因为在Ramp工作很辛苦，我想了解对他们来说\"难\"意味着什么。我想知道为什么那件事很难，想了解他们是怎么克服困难的，怎么和别人配合一起解决问题的，还有他们在解决问题的过程中发挥了多大的主观能动性。",
     "text_es": "Les pregunto: \"¿Qué ha sido lo más difícil que has hecho en tu vida?\" Hago esta pregunta porque trabajar en Ramp es exigente, y quiero entender qué significa \"difícil\" para ellos. Quiero saber por qué fue tan complicado, cómo lograron superarlo, cómo trabajaron con otros para salir adelante, y qué tanto control tuvieron sobre la situación para resolverlo.",
-    "key_sentence": "Understand how much agency they had in overcoming difficulty."
+    "key_sentence": "I want to understand what hard means for them.",
+    "text_trimmed": true,
+    "original_text": "I ask, \"What's the hardest thing you've ever done?\" I ask that because working at Ramp is hard, and I want to understand what hard means for them. I want to understand why it was hard. I want to understand how they overcame that difficulty, how they worked with other people to overcome that difficulty, and how much agency they had in overcoming that.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "resilience",
+        "definition": "The capacity to recover quickly from difficulties or setbacks; the ability to adapt to challenging situations.",
+        "businessContext": "In business, resilience refers to an organization's ability to withstand market fluctuations and recover from crises, ensuring long-term sustainability and growth.",
+        "nuance": "While resilience often implies strength and durability, it can also suggest a need for flexibility and adaptability in the face of adversity.",
+        "synonyms": [
+          "adaptability",
+          "tenacity"
+        ],
+        "antonyms": [
+          "fragility",
+          "vulnerability"
+        ]
+      },
+      {
+        "word": "evaluate",
+        "definition": "To assess or appraise the value, quality, or significance of something based on certain criteria.",
+        "businessContext": "In a business context, evaluating often involves analyzing performance metrics, financial reports, or project outcomes to inform decision-making and strategy.",
+        "nuance": "Evaluate suggests a systematic and objective approach, often involving comparison against benchmarks or standards, rather than a subjective opinion.",
+        "synonyms": [
+          "assess",
+          "appraise"
+        ],
+        "antonyms": [
+          "ignore",
+          "overlook"
+        ]
+      },
+      {
+        "word": "understand",
+        "definition": "To grasp the meaning, significance, or nature of something; to comprehend fully.",
+        "businessContext": "In business, understanding is crucial for effective communication, collaboration, and decision-making, as it allows stakeholders to align their goals and strategies.",
+        "nuance": "Understanding implies a deeper level of insight beyond mere knowledge, often involving empathy and the ability to see things from others' perspectives.",
+        "synonyms": [
+          "comprehend",
+          "grasp"
+        ],
+        "antonyms": [
+          "misunderstand",
+          "confuse"
+        ]
+      },
+      {
+        "word": "assess",
+        "definition": "To evaluate or estimate the nature, ability, or quality of something, often through careful consideration.",
+        "businessContext": "In business settings, assessing is critical for risk management, performance reviews, and project evaluations, helping leaders make informed decisions.",
+        "nuance": "Assess carries a connotation of thoroughness and often involves quantitative or qualitative measures, distinguishing it from more casual evaluations.",
+        "synonyms": [
+          "evaluate",
+          "appraise"
+        ],
+        "antonyms": [
+          "neglect",
+          "dismiss"
+        ]
+      }
+    ]
   },
   {
-    "text": "Interestingly, all of a sudden the sharp product managers, engineers, basically every role, they very quickly find what are the one or two Eigenquestions on this topic. There's no right answer, but I'll tell you one of my favorite ones, because the product manager said, \"Okay, if I had to ask two questions, the two questions I would ask, one, is it safe enough for humans or not?\"",
+    "text": "Interestingly, all of a sudden the sharp product managers, engineers, basically every role, they very quickly find what are the one or two Eigenquestions on this topic.",
     "speaker": "Shishir Mehrotra",
     "timestamp": "05:59",
     "context": "Shishir Mehrotra, CEO of Coda, describes his teleportation device interview question where candidates must identify the most important questions to ask. An \"Eigenquestion\" in his framework refers to the fundamental questions that unlock the most critical information needed to make strategic decisions. He explains how strong candidates quickly identify these core questions that drive all other business decisions.",
     "vocabulary_highlights": [
-      "all of a sudden",
-      "sharp product managers",
-      "Eigenquestions"
+      "product managers",
+      "engineers",
+      "identify",
+      "important questions"
     ],
     "topics": [
       "Product Management",
@@ -72,17 +200,79 @@
     "text_ko": "재밌게도, 갑자기 유능한 제품 매니저들, 엔지니어들, 사실상 모든 역할의 사람들이 이 주제에 대해 한두 가지 핵심 질문(Eigenquestions)을 아주 빠르게 찾아내요. 정답은 없지만, 제가 좋아하는 질문 중 하나를 말해볼게요. 한 제품 매니저가 \"만약 제가 두 가지 질문만 해야 한다면, 제가 물어볼 두 가지 중 첫 번째는 이게 사람들에게 충분히 안전한가요, 아닌가요?\"라고 했거든요.",
     "text_zh": "有意思的是，突然间那些敏锐的产品经理、工程师，基本上各个岗位的人，都能很快找到这个话题的一两个核心问题(Eigenquestions)。虽然没有标准答案，但我跟你说一个我最喜欢的，因为那个产品经理说：\"好吧，如果我只能问两个问题的话，我会问的两个问题，第一个就是，这对人类来说够不够安全？\"",
     "text_es": "Es interesante, de repente los product managers más avispados, los ingenieros, básicamente todos los roles, muy rápido encuentran cuáles son las una o dos preguntas fundamentales sobre este tema. No hay una respuesta correcta, pero te voy a contar una de mis favoritas, porque el product manager dijo: \"Oye, si tuviera que hacer dos preguntas, las dos preguntas que haría serían: una, ¿es lo suficientemente seguro para los humanos o no?\"",
-    "key_sentence": "Sharp product managers quickly find Eigenquestions on the topic."
+    "key_sentence": "Sharp product managers quickly find Eigenquestions on the topic.",
+    "text_trimmed": true,
+    "original_text": "Interestingly, all of a sudden the sharp product managers, engineers, basically every role, they very quickly find what are the one or two Eigenquestions on this topic. There's no right answer, but I'll tell you one of my favorite ones, because the product manager said, \"Okay, if I had to ask two questions, the two questions I would ask, one, is it safe enough for humans or not?\"",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "product managers",
+        "definition": "Product managers are professionals responsible for guiding the development, launch, and ongoing improvement of a product, ensuring it meets customer needs and aligns with business goals.",
+        "businessContext": "In tech and startup environments, product managers act as the bridge between engineering, marketing, and sales teams, prioritizing features and managing the product lifecycle.",
+        "nuance": "The term often implies a strategic role that requires both technical knowledge and strong interpersonal skills, distinguishing them from other managerial positions.",
+        "synonyms": [
+          "product owner",
+          "product lead"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "engineers",
+        "definition": "Engineers are professionals who apply scientific and mathematical principles to design, develop, and maintain structures, systems, and technologies.",
+        "businessContext": "In the context of technology and startups, engineers are crucial for building products, solving technical problems, and innovating new solutions to meet market demands.",
+        "nuance": "The term can refer to various specializations, such as software engineers or mechanical engineers, and is often associated with technical expertise and problem-solving capabilities.",
+        "synonyms": [
+          "technicians",
+          "developers"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "identify",
+        "definition": "To identify means to recognize or establish the characteristics, qualities, or significance of something.",
+        "businessContext": "In business settings, identifying key issues, opportunities, or customer needs is essential for strategic planning and decision-making.",
+        "nuance": "The term suggests a process of analysis and discernment, often used in contexts where clarity and precision are required.",
+        "synonyms": [
+          "recognize",
+          "determine"
+        ],
+        "antonyms": [
+          "ignore",
+          "overlook"
+        ]
+      },
+      {
+        "word": "important questions",
+        "definition": "Important questions are inquiries that hold significant relevance or implications for understanding a situation, making decisions, or driving strategic initiatives.",
+        "businessContext": "In business and tech environments, asking important questions is critical for uncovering insights, guiding product development, and fostering innovation.",
+        "nuance": "The phrase emphasizes the need for thoughtful consideration and prioritization of inquiries that can lead to impactful outcomes.",
+        "synonyms": [
+          "critical inquiries",
+          "key questions"
+        ],
+        "antonyms": [
+          "trivial questions",
+          "insignificant inquiries"
+        ]
+      }
+    ]
   },
   {
-    "text": "The thought experiment for me is always, coming out of that, do I feel compelled to work on that problem? Right? No matter how boring it sounds on the surface, I think a really great product manager kind of casts something. It's like, \"Well, this is why it's so existential and this is why it's so interesting, and really rallied the troops up.",
+    "text": "The thought experiment for me is always, coming out of that, do I feel compelled to work on that problem? Right? No matter how boring it sounds on the surface, I think a really great product manager kind of casts something.",
     "speaker": "Yuhki Yamashita",
     "timestamp": "09:25",
     "context": "Yuhki Yamashita, Chief Product Officer at Figma, discusses what he looks for when candidates describe big problems they've worked on. He explains that exceptional product managers have the ability to make any problem sound compelling and important through their storytelling skills, which is crucial since much of a PM's job involves communication and inspiring teams to work on challenging problems.",
     "vocabulary_highlights": [
-      "feel compelled",
-      "casts something",
-      "rallied the troops up"
+      "compelled",
+      "exceptional",
+      "casts",
+      "product manager"
     ],
     "topics": [
       "Product Management",
@@ -98,7 +288,68 @@
     "text_ko": "저한테는 항상 하나의 사고 실험(thought experiment)이 있어요. 그걸 거치고 나서 이 문제에 꼭 뛰어들어 일하고 싶다는 마음이 드는지가 중요한 거예요. 표면적으로 아무리 지루해 보여도, 정말 훌륭한 프로덕트 매니저(product manager)는 뭔가를 던져요. \"이게 왜 그렇게 근본적이고 흥미로운지\"를 설명하면서 사람들 사기를 북돋우고 하나로 모이게 만드는 식이에요.",
     "text_zh": "我经常做这样的思考实验：从这个问题出发，我会不会有冲动去解决它？对吧？不管表面上听起来多无聊，我觉得真正厉害的产品经理(product manager)都有一种魔力。他们会说：\"你看，这就是为什么这个问题这么要命，为什么这么有意思\"，然后就把整个团队都给调动起来了。",
     "text_es": "Para mí el ejercicio mental siempre es: después de eso, ¿siento que realmente me urge trabajar en ese problema? ¿No? Por más aburrido que suene al principio, creo que un product manager realmente bueno como que le da una vuelta especial. Es tipo \"Mira, por esto es tan fundamental y por esto es tan interesante\", y logra motivar a todo el equipo.",
-    "key_sentence": "A great product manager compels you to work on the problem."
+    "key_sentence": "A great product manager compels you to work on the problem.",
+    "text_trimmed": true,
+    "original_text": "The thought experiment for me is always, coming out of that, do I feel compelled to work on that problem? Right? No matter how boring it sounds on the surface, I think a really great product manager kind of casts something. It's like, \"Well, this is why it's so existential and this is why it's so interesting, and really rallied the troops up.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "compelled",
+        "definition": "To be driven or forced to take a particular action or make a decision.",
+        "businessContext": "In business settings, being compelled often refers to a strong motivation to address a specific challenge or opportunity, indicating a sense of urgency or necessity.",
+        "nuance": "While 'compelled' suggests a strong internal drive, it can also imply a lack of choice, so it should be used carefully to avoid connotations of coercion.",
+        "synonyms": [
+          "driven",
+          "obligated"
+        ],
+        "antonyms": [
+          "unmotivated",
+          "indifferent"
+        ]
+      },
+      {
+        "word": "exceptional",
+        "definition": "Remarkably good or outstanding; surpassing the usual standards.",
+        "businessContext": "In the context of business or technology, 'exceptional' is often used to describe products, services, or performance that exceed expectations and stand out in the marketplace.",
+        "nuance": "While 'exceptional' has a positive connotation, it can also imply rarity, so it should be used to highlight truly unique qualities rather than common achievements.",
+        "synonyms": [
+          "extraordinary",
+          "remarkable"
+        ],
+        "antonyms": [
+          "ordinary",
+          "average"
+        ]
+      },
+      {
+        "word": "casts",
+        "definition": "To project or present an idea, image, or impression to others.",
+        "businessContext": "In business, 'casts' often refers to how leaders or managers communicate their vision or influence the perception of a product or brand among stakeholders.",
+        "nuance": "The term can imply a deliberate effort to shape perceptions, so it is best used in contexts where intention and impact are clear.",
+        "synonyms": [
+          "projects",
+          "conveys"
+        ],
+        "antonyms": [
+          "conceals",
+          "hides"
+        ]
+      },
+      {
+        "word": "product manager",
+        "definition": "A professional responsible for the strategy, roadmap, and feature definition of a product or product line.",
+        "businessContext": "In tech and startup environments, product managers play a crucial role in guiding cross-functional teams to develop products that meet market needs and align with business goals.",
+        "nuance": "The role of a product manager can vary significantly across organizations, so it's important to clarify the specific responsibilities and authority associated with the title in different contexts.",
+        "synonyms": [
+          "product owner",
+          "product lead"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "Good answers are people who put structure and a way forward through the ambiguity. That's what you look for. You want your PM to not just be like, \"Oh no, we're swimming in ambiguity,\" but actually put a path forward.",
@@ -106,9 +357,10 @@
     "timestamp": "11:44",
     "context": "JZ, Head of Product at Webflow, explains her approach to behavioral interview questions when Lenny asks about evaluating PM candidates. She emphasizes that product management is inherently ambiguous, so she tests how candidates navigate unclear situations. The best candidates don't get paralyzed by uncertainty but instead create structure and actionable plans to move forward.",
     "vocabulary_highlights": [
-      "put structure",
-      "swimming in ambiguity",
-      "put a path forward"
+      "structure",
+      "ambiguity",
+      "path forward",
+      "evaluate"
     ],
     "topics": [
       "Product Management",
@@ -123,16 +375,77 @@
     "text_ko": "좋은 답을 주는 사람은 애매한 상황에서도 구조를 세우고 앞으로 나아갈 길을 제시하는 사람이에요. 그게 바로 당신이 찾는 사람이고요. 프로덕트 매니저(PM)가 그냥 \"아, 불확실성 속에서 허우적대고 있다\"만 말하는 사람이 아니라 실제로 갈 길을 만들어 주길 원해요.",
     "text_zh": "好的回答是那些能在不确定性中理出头绪、找到前进方向的人。这就是你要找的。你希望你的产品经理(PM)不是那种遇到模糊情况就说\"完了，咱们现在一头雾水\"，而是能实实在在地规划出一条路来。",
     "text_es": "Las buenas respuestas vienen de gente que logra poner estructura y trazar un camino claro en medio de toda esa incertidumbre. Eso es lo que buscas. Quieres que tu PM no se quede ahí diciendo \"Ay, no, estamos perdidos en la ambigüedad,\" sino que realmente proponga un plan para seguir adelante.",
-    "key_sentence": "Good answers put structure through ambiguity and a path forward."
+    "key_sentence": "Good answers put structure through ambiguity and a path forward.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "structure",
+        "definition": "The arrangement or organization of components within a system or framework.",
+        "businessContext": "In business, structure often refers to the organizational hierarchy or the systematic approach to project management that facilitates decision-making and efficiency.",
+        "nuance": "While 'structure' implies order and clarity, it can also suggest rigidity, so it's important to balance structure with flexibility.",
+        "synonyms": [
+          "framework",
+          "organization"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "ambiguity",
+        "definition": "The quality of being open to more than one interpretation; uncertainty or inexactness.",
+        "businessContext": "In a business context, ambiguity can arise in project requirements, market conditions, or stakeholder expectations, necessitating clear communication and strategic planning.",
+        "nuance": "Ambiguity often carries a negative connotation in business, as it can lead to confusion and indecision, but it can also indicate complexity that requires careful navigation.",
+        "synonyms": [
+          "uncertainty",
+          "vagueness"
+        ],
+        "antonyms": [
+          "clarity",
+          "certainty"
+        ]
+      },
+      {
+        "word": "path forward",
+        "definition": "A strategic plan or course of action designed to achieve a specific goal or overcome challenges.",
+        "businessContext": "In business discussions, a 'path forward' is often proposed to address obstacles or to capitalize on opportunities, guiding teams toward actionable steps.",
+        "nuance": "The phrase suggests a proactive and solution-oriented mindset, emphasizing the importance of moving beyond problems rather than dwelling on them.",
+        "synonyms": [
+          "way forward",
+          "action plan"
+        ],
+        "antonyms": [
+          "deadlock",
+          "stalemate"
+        ]
+      },
+      {
+        "word": "evaluate",
+        "definition": "To assess or appraise the value, quality, or significance of something based on established criteria.",
+        "businessContext": "In business, evaluating performance, projects, or strategies is crucial for informed decision-making and resource allocation.",
+        "nuance": "While 'evaluate' implies a thorough and systematic approach, it can sometimes suggest a level of subjectivity, depending on the criteria used.",
+        "synonyms": [
+          "assess",
+          "appraise"
+        ],
+        "antonyms": [
+          "ignore",
+          "disregard"
+        ]
+      }
+    ]
   },
   {
-    "text": "\"What unfair secrets have you learned to improve the velocity and energy level of a product team?\" When I say \"unfair\" or \"secret\", I usually mean not something that you probably read on a media. \"What did you learn? How did you learn it? How does it work, and how do you apply it?\"",
+    "text": "\"What unfair secrets have you learned to improve the velocity and energy level of a product team?\" When I say \"unfair\" or \"secret\", I usually mean not something that you probably read on a media. \"What did you learn? How did you learn it?",
     "speaker": "Noah Weiss",
     "timestamp": "12:49",
     "context": "Noah Weiss, Chief Product Officer at Slack, shares his favorite interview question when Lenny asks about creative ways to evaluate candidates. He's looking for unique insights or unconventional methods that candidates have discovered through experience rather than from commonly available resources like blog posts or articles. This helps him identify people with genuine hands-on learning and innovative thinking.",
     "vocabulary_highlights": [
-      "unfair secrets",
-      "velocity and energy level"
+      "velocity",
+      "energy level",
+      "unconventional",
+      "insights"
     ],
     "topics": [
       "Product Management",
@@ -148,7 +461,68 @@
     "text_ko": "프로덕트 팀(product team)의 속도(velocity)와 활력(energy level)을 개선하기 위해 터득한 'unfair'한 비결이 뭐예요? 여기서 'unfair'나 'secret'이라고 하면 보통 미디어에서 볼 수 있는 평범한 얘기가 아니라, 잘 알려지지 않은 실전 노하우를 말해요. 무엇을 배웠나요? 어떻게 배웠고, 그게 어떻게 작동하며, 실제로 어떻게 적용하나요?",
     "text_zh": "\"你有什么不为人知的独门绝活，能让产品团队的效率和活力大幅提升？我说的'不为人知'或者'独门绝活'，不是那种你在媒体上随便就能看到的东西。你是怎么学到的？具体怎么操作？又是怎么运用到实际工作中的？\"",
     "text_es": "\"¿Qué trucos o secretos no tan conocidos has aprendido para acelerar el ritmo y subir la energía de un equipo de producto? Cuando digo 'trucos' o 'secretos', me refiero a cosas que probablemente no vas a leer en cualquier artículo o blog. ¿Qué aprendiste? ¿Cómo lo aprendiste? ¿Cómo funciona y cómo lo aplicas?\"",
-    "key_sentence": "Unfair secrets improve the velocity and energy level of a product team."
+    "key_sentence": "Unfair secrets improve the velocity and energy level of a product team.",
+    "text_trimmed": true,
+    "original_text": "\"What unfair secrets have you learned to improve the velocity and energy level of a product team?\" When I say \"unfair\" or \"secret\", I usually mean not something that you probably read on a media. \"What did you learn? How did you learn it? How does it work, and how do you apply it?\"",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "velocity",
+        "definition": "Velocity refers to the speed of something in a given direction, often used to describe the rate of progress or movement in a specific context.",
+        "businessContext": "In business and tech, velocity is frequently used to measure the speed at which a team delivers work or a product reaches the market, particularly in agile methodologies.",
+        "nuance": "While velocity implies speed, it also suggests efficiency and effectiveness in achieving goals, making it a critical metric in performance assessments.",
+        "synonyms": [
+          "speed",
+          "pace"
+        ],
+        "antonyms": [
+          "slowness",
+          "delay"
+        ]
+      },
+      {
+        "word": "energy level",
+        "definition": "Energy level refers to the amount of vitality or enthusiasm exhibited by individuals or teams, influencing their productivity and engagement.",
+        "businessContext": "In a business setting, maintaining high energy levels within teams is crucial for fostering creativity, collaboration, and overall performance, especially in fast-paced environments.",
+        "nuance": "The term often carries a positive connotation, suggesting motivation and dynamism, and is typically used in discussions about team morale and workplace culture.",
+        "synonyms": [
+          "enthusiasm",
+          "vitality"
+        ],
+        "antonyms": [
+          "apathy",
+          "lethargy"
+        ]
+      },
+      {
+        "word": "unconventional",
+        "definition": "Unconventional describes approaches, ideas, or methods that deviate from the norm or traditional practices.",
+        "businessContext": "In the startup and tech industries, being unconventional can lead to innovative solutions and competitive advantages, as companies seek to differentiate themselves in crowded markets.",
+        "nuance": "The term often implies a positive embrace of creativity and risk-taking, but can also suggest a lack of structure or predictability in certain contexts.",
+        "synonyms": [
+          "nontraditional",
+          "original"
+        ],
+        "antonyms": [
+          "conventional",
+          "standard"
+        ]
+      },
+      {
+        "word": "insights",
+        "definition": "Insights are deep understandings or realizations that provide clarity and guidance on a particular subject or situation.",
+        "businessContext": "In business, insights derived from data analysis, market research, or customer feedback are essential for informed decision-making and strategic planning.",
+        "nuance": "Insights carry a connotation of valuable knowledge that can lead to actionable strategies, distinguishing them from mere information or data points.",
+        "synonyms": [
+          "understandings",
+          "revelations"
+        ],
+        "antonyms": [
+          "ignorance",
+          "misunderstanding"
+        ]
+      }
+    ]
   },
   {
     "text": "\"What's something that everyone takes for granted that you think is essentially hogwash or inaccurate?\" Sometimes I'll ask a manager, \"Look, you've managed hundreds of people in your career. What's conventional wisdom that you bet against, that you have found is actually inaccurate?\"",
@@ -156,10 +530,10 @@
     "timestamp": "16:25",
     "context": "Nikhyl Singhal, VP of Product at Facebook, explains his strategy for breaking through typical interview responses when Lenny asks about authentic ways to evaluate candidates. This question forces people to share genuine opinions and challenge widely accepted beliefs, helping him assess whether candidates can think independently and avoid giving rehearsed answers that don't reveal their true thinking.",
     "vocabulary_highlights": [
-      "takes for granted",
-      "essentially hogwash",
       "conventional wisdom",
-      "bet against"
+      "bet against",
+      "essentially",
+      "evaluate"
     ],
     "topics": [
       "Leadership & Management",
@@ -175,6 +549,65 @@
     "text_ko": "사람들이 다들 당연하게 여기는 것 중에 사실 본질적으로 엉터리이거나 틀렸다고 생각하는 게 뭐예요? 가끔 매니저들에게 이렇게 물어봐요. \"경력 동안 수백 명을 관리해오셨잖아요. 사람들이 당연하게 믿는 통념(conventional wisdom) 중에서 당신이 반대했던, 그리고 실제로는 틀렸다고 확인된 게 뭐예요?\"",
     "text_zh": "\"有什么事情是大家都觉得理所当然，但你认为其实是胡扯或者不对的？\"有时候我会问管理者：\"你看，你职业生涯中管过几百号人了，有什么所谓的传统观念(conventional wisdom)是你不认同的，觉得其实是错的？\"",
     "text_es": "\"¿Hay algo que todo el mundo da por sentado pero que tú consideras puras tonterías o incorrecto?\" A veces le pregunto a un gerente: \"Mira, has dirigido a cientos de personas en tu carrera. ¿Qué sabiduría convencional rechazas, que has comprobado que en realidad está equivocada?\"",
-    "key_sentence": "Conventional wisdom often takes for granted what is essentially hogwash."
+    "key_sentence": "Conventional wisdom often takes for granted what is essentially hogwash.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "conventional wisdom",
+        "definition": "Conventional wisdom refers to widely accepted beliefs or opinions that are generally taken for granted as true or valid.",
+        "businessContext": "In business settings, conventional wisdom can influence decision-making and strategic planning, often leading organizations to follow established norms without questioning their validity.",
+        "nuance": "While conventional wisdom can provide a useful framework, it may also stifle innovation if not critically examined.",
+        "synonyms": [
+          "common belief",
+          "accepted knowledge"
+        ],
+        "antonyms": [
+          "unorthodox thinking",
+          "radical ideas"
+        ]
+      },
+      {
+        "word": "bet against",
+        "definition": "To bet against means to take a position that something will fail or underperform, often in a financial context.",
+        "businessContext": "In investment and trading, betting against a stock or market trend indicates a belief that the asset's value will decrease, which can be a high-risk strategy.",
+        "nuance": "This phrase carries a connotation of skepticism and can imply a contrarian viewpoint, which may not always be well-received.",
+        "synonyms": [
+          "short sell",
+          "oppose"
+        ],
+        "antonyms": [
+          "bet on",
+          "support"
+        ]
+      },
+      {
+        "word": "essentially",
+        "definition": "Essentially means fundamentally or in essence, highlighting the core nature or most important aspect of something.",
+        "businessContext": "In business communication, using 'essentially' can help clarify complex ideas by distilling them to their most important points, making discussions more efficient.",
+        "nuance": "This term can sometimes imply simplification, so it should be used carefully to avoid oversimplifying complex issues.",
+        "synonyms": [
+          "fundamentally",
+          "basically"
+        ],
+        "antonyms": [
+          "superficially",
+          "incidentally"
+        ]
+      },
+      {
+        "word": "evaluate",
+        "definition": "To evaluate means to assess or appraise the value, quality, or performance of something based on specific criteria.",
+        "businessContext": "In a business context, evaluation is crucial for decision-making processes, such as performance reviews, project assessments, and financial analyses.",
+        "nuance": "The term suggests a systematic approach to judgment, which is important in professional settings to ensure objectivity and thoroughness.",
+        "synonyms": [
+          "assess",
+          "appraise"
+        ],
+        "antonyms": [
+          "ignore",
+          "neglect"
+        ]
+      }
+    ]
   }
 ]

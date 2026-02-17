@@ -1,13 +1,14 @@
 [
   {
-    "text": "It's important because at the end of the day, it is those business critical outcomes against which you and your team will be evaluated. That's the reality of working for a business, right? If you are contributing to the business in a way that the business at large can understand, that the CEO can understand, that the CFO can understand, if your team is a good investment for the business, then the business will continue making that investment.",
+    "text": "It's important because at the end of the day, it is those business critical outcomes against which you and your team will be evaluated. That's the reality of working for a business, right?",
     "speaker": "Matt LeMay",
     "timestamp": "00:07:40",
     "context": "Lenny asks Matt why aligning work to business critical outcomes is so important. Matt explains that product managers and teams are increasingly being laid off, and CEOs are explicitly stating they have 'too many teams doing work around the work' rather than focusing on real impact. Matt emphasizes that teams will ultimately be evaluated based on their contribution to business critical outcomes, not on following best practices or shipping features.",
     "vocabulary_highlights": [
-      "business critical outcomes",
-      "good investment",
-      "continue making that investment"
+      "business critical",
+      "evaluated",
+      "aligning",
+      "outcomes"
     ],
     "topics": [
       "Product Management",
@@ -24,17 +25,79 @@
     "text_ko": "중요한 이유는 결국 당신과 당신의 팀이 평가받는 기준이 바로 그런 비즈니스 핵심 성과(business critical outcomes)이기 때문이에요. 회사에서 일하는 현실이 그런 거잖아요. 조직 전체와 최고경영자(CEO), 최고재무책임자(CFO)까지 이해할 수 있는 방식으로 비즈니스에 기여하면, 당신의 팀이 회사에 투자할 만한 가치가 있다는 판단을 받을 거예요. 그러면 회사는 그 투자를 계속하게 될 거예요.",
     "text_zh": "这个很重要，因为说到底，你和你的团队会根据这些关键业务成果来被评估。在公司工作就是这个现实，对吧？如果你对业务的贡献是整个公司都能理解的，CEO能理解的，CFO也能理解的，如果你的团队对公司来说是个好投资，那公司就会继续在你们身上投钱。",
     "text_es": "Es importante porque al final del día, van a evaluar a tu equipo y a ti en base a esos resultados críticos para el negocio. Esa es la realidad de trabajar en una empresa, ¿no? Si estás contribuyendo al negocio de una manera que toda la empresa pueda entender, que el CEO pueda entender, que el CFO pueda entender, si tu equipo es una buena inversión para el negocio, entonces la empresa va a seguir haciendo esa inversión.",
-    "key_sentence": "Business critical outcomes evaluate your team's contributions and investment."
+    "key_sentence": "it is those business critical outcomes against which you and your team will be evaluated.",
+    "text_trimmed": true,
+    "original_text": "It's important because at the end of the day, it is those business critical outcomes against which you and your team will be evaluated. That's the reality of working for a business, right? If you are contributing to the business in a way that the business at large can understand, that the CEO can understand, that the CFO can understand, if your team is a good investment for the business, then the business will continue making that investment.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "business critical",
+        "definition": "Referring to elements, processes, or outcomes that are essential for the survival and success of a business.",
+        "businessContext": "In a business setting, identifying business critical factors helps prioritize resources and efforts to ensure operational continuity and strategic goals are met.",
+        "nuance": "This term often carries a sense of urgency and importance, indicating that failure to address these factors could lead to significant negative consequences.",
+        "synonyms": [
+          "mission-critical",
+          "essential"
+        ],
+        "antonyms": [
+          "non-essential",
+          "peripheral"
+        ]
+      },
+      {
+        "word": "evaluated",
+        "definition": "To assess or appraise the value, quality, or performance of something based on specific criteria.",
+        "businessContext": "In business, employees and projects are frequently evaluated to determine effectiveness, efficiency, and alignment with organizational goals.",
+        "nuance": "The term suggests a formal process of judgment, often involving metrics or standards, rather than informal or subjective opinions.",
+        "synonyms": [
+          "assessed",
+          "appraised"
+        ],
+        "antonyms": [
+          "ignored",
+          "overlooked"
+        ]
+      },
+      {
+        "word": "aligning",
+        "definition": "The process of adjusting or coordinating different elements to achieve a common goal or standard.",
+        "businessContext": "Aligning teams, strategies, and objectives is crucial in business to ensure that all parts of the organization work towards the same outcomes.",
+        "nuance": "This term implies a collaborative effort and often suggests the need for negotiation and compromise to achieve harmony among stakeholders.",
+        "synonyms": [
+          "coordinating",
+          "harmonizing"
+        ],
+        "antonyms": [
+          "diverging",
+          "discrepancy"
+        ]
+      },
+      {
+        "word": "outcomes",
+        "definition": "The results or consequences of actions, decisions, or processes within a business context.",
+        "businessContext": "In business, outcomes are often measured to evaluate the success of strategies, projects, or initiatives against predefined goals.",
+        "nuance": "The term can imply both positive and negative results, and is often used in discussions about performance metrics and accountability.",
+        "synonyms": [
+          "results",
+          "consequences"
+        ],
+        "antonyms": [
+          "inputs",
+          "causes"
+        ]
+      }
+    ]
   },
   {
-    "text": "The message that Daniel Ek from Spotify sent out with their layoffs in 2024 said, 'We still have too many teams doing work around the work and supporting work, rather than focusing on opportunities with real impact.' And that really struck a nerve because I've been on those supporting teams before. I've done the work around the work.",
+    "text": "We still have too many teams doing work around the work and supporting work, rather than focusing on opportunities with real impact.",
     "speaker": "Matt LeMay",
     "timestamp": "00:09:05",
     "context": "Lenny asks what this focus on business impact is a reaction to, wondering why many product teams aren't already driving business impact. Matt explains that more product managers and teams are being laid off, citing a specific example from Spotify's CEO Daniel Ek who explicitly stated the problem: too many teams doing 'work around the work' instead of focusing on real impact.",
     "vocabulary_highlights": [
-      "struck a nerve",
-      "work around the work",
-      "supporting work"
+      "focus on opportunities",
+      "real impact",
+      "supporting work",
+      "driving business impact"
     ],
     "topics": [
       "Product Management",
@@ -50,16 +113,79 @@
     "text_ko": "다니엘 에크(Daniel Ek)가 2024년 해고와 관련해 보낸 메시지에서 '우리는 여전히 실제로 영향력 있는 기회에 집중하기보다는 일을 지원하는 팀이 너무 많다'고 했어요. 이 말이 정말 와닿았어요. 저도 예전에 그런 지원 팀에서 일해본 적이 있거든요. 일을 둘러싼 일을 한 경험이 있어요.",
     "text_zh": "Spotify的Daniel Ek在2024年裁员时发的那个消息说，\"我们还是有太多团队在做一些围绕工作的工作，做一些支持性的工作，而不是专注于那些真正有影响力的机会。\" 这话真的戳中了我的痛点，因为我以前就在那种支持团队里待过，我也做过那种为了工作而工作的事情。",
     "text_es": "El mensaje que mandó Daniel Ek de Spotify cuando hicieron los recortes en 2024 decía: \"Todavía tenemos demasiados equipos haciendo trabajo alrededor del trabajo y apoyando el trabajo, en lugar de enfocarse en oportunidades con impacto real.\" Y eso realmente me tocó la fibra porque yo he estado en esos equipos de apoyo antes. He hecho ese trabajo alrededor del trabajo.",
-    "key_sentence": "That message struck a nerve about supporting work versus real impact."
+    "key_sentence": "focusing on opportunities with real impact.",
+    "text_trimmed": true,
+    "original_text": "The message that Daniel Ek from Spotify sent out with their layoffs in 2024 said, 'We still have too many teams doing work around the work and supporting work, rather than focusing on opportunities with real impact.' And that really struck a nerve because I've been on those supporting teams before. I've done the work around the work.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "focus on opportunities",
+        "definition": "To concentrate one's efforts and resources on potential areas for growth or improvement.",
+        "businessContext": "In business settings, focusing on opportunities involves identifying and pursuing new markets, innovations, or efficiencies that can enhance profitability and competitive advantage.",
+        "nuance": "This phrase implies a proactive and strategic mindset, suggesting that one should prioritize potential benefits over routine tasks.",
+        "synonyms": [
+          "pursue opportunities",
+          "capitalize on prospects"
+        ],
+        "antonyms": [
+          "ignore opportunities",
+          "miss chances"
+        ]
+      },
+      {
+        "word": "real impact",
+        "definition": "A significant effect or influence that leads to measurable change or improvement.",
+        "businessContext": "In corporate discussions, 'real impact' often refers to outcomes that contribute to the bottom line, enhance customer satisfaction, or drive strategic goals.",
+        "nuance": "The term suggests a distinction between superficial changes and those that are genuinely transformative or beneficial.",
+        "synonyms": [
+          "meaningful effect",
+          "substantial influence"
+        ],
+        "antonyms": [
+          "negligible effect",
+          "minimal impact"
+        ]
+      },
+      {
+        "word": "supporting work",
+        "definition": "Tasks or activities that assist or enable primary functions but do not directly contribute to core objectives.",
+        "businessContext": "In a business environment, supporting work may include administrative tasks, maintenance activities, or ancillary services that facilitate the main operations.",
+        "nuance": "While necessary, supporting work can sometimes be viewed as secondary or less valuable compared to primary initiatives.",
+        "synonyms": [
+          "ancillary tasks",
+          "auxiliary work"
+        ],
+        "antonyms": [
+          "core work",
+          "primary tasks"
+        ]
+      },
+      {
+        "word": "driving business impact",
+        "definition": "The act of influencing or shaping outcomes that significantly affect the performance and success of a business.",
+        "businessContext": "This phrase is often used in strategic planning and performance evaluation to describe initiatives or actions that lead to substantial improvements in revenue, market share, or operational efficiency.",
+        "nuance": "It conveys a sense of leadership and initiative, emphasizing the importance of taking decisive actions that yield tangible results.",
+        "synonyms": [
+          "creating business value",
+          "generating significant outcomes"
+        ],
+        "antonyms": [
+          "diminishing business impact",
+          "hindering performance"
+        ]
+      }
+    ]
   },
   {
-    "text": "So the first question I ask most of the teams I work with is if you were the CEO of this company, would you fully fund your own team? And frankly, most of the people I ask that question to don't know the answer right away. They're not sure. They say, 'I think so,' or, 'Yeah, yeah. Yeah, because...' And then you can see the gears turning.",
+    "text": "So the first question I ask most of the teams I work with is if you were the CEO of this company, would you fully fund your own team?",
     "speaker": "Matt LeMay",
     "timestamp": "00:11:49",
     "context": "Lenny asks for ways product managers can stress test whether they're actually driving impact or just think they are. Matt shares his go-to question for teams he works with: asking them to think like a CEO and consider whether they would fully fund their own team. He notes that most people can't answer this confidently, which indicates they may not understand their team's true value to the business.",
     "vocabulary_highlights": [
       "fully fund",
-      "gears turning"
+      "drive impact",
+      "stress test",
+      "think like"
     ],
     "topics": [
       "Product Management",
@@ -76,17 +202,79 @@
     "text_ko": "제가 함께 일하는 팀들한테 가장 먼저 묻는 질문이 있어요. \"만약 당신이 이 회사의 CEO라면, 자신의 팀에 전적으로 자금을 대겠어요?\" 솔직히 말하면 그 질문을 받는 사람들 대부분은 바로 답을 못해요. 확신이 없죠. \"그럴 것 같아요\" 또는 \"네, 네. 왜냐하면…\" 하고 말하면서 머릿속에서 생각이 돌아가는 게 보여요.",
     "text_zh": "所以我和团队合作时，第一个问题通常是：如果你是这家公司的CEO，你会全力支持自己的团队吗？说实话，大部分人听到这个问题都答不上来，不太确定。他们会说\"应该会吧\"，或者\"嗯嗯，会的，因为...\"然后你就能看出他们在那儿琢磨。",
     "text_es": "Entonces la primera pregunta que les hago a la mayoría de los equipos con los que trabajo es: si ustedes fueran el CEO de esta empresa, ¿financiarían completamente a su propio equipo? Y la verdad, la mayoría de las personas a las que les hago esa pregunta no saben la respuesta de inmediato. No están seguros. Dicen \"Creo que sí\" o \"Sí, sí. Sí, porque...\" Y ahí puedes ver cómo se les mueven los engranajes.",
-    "key_sentence": "Most people aren't sure if they'd fully fund their own team."
+    "key_sentence": "if you were the CEO of this company, would you fully fund your own team?",
+    "text_trimmed": true,
+    "original_text": "So the first question I ask most of the teams I work with is if you were the CEO of this company, would you fully fund your own team? And frankly, most of the people I ask that question to don't know the answer right away. They're not sure. They say, 'I think so,' or, 'Yeah, yeah. Yeah, because...' And then you can see the gears turning.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "fully fund",
+        "definition": "To provide complete financial resources necessary for a project or initiative.",
+        "businessContext": "In business settings, 'fully fund' often refers to allocating the total budget required to ensure a team's or project's success without any financial shortfall.",
+        "nuance": "This phrase implies a commitment to support and invest in a team or project, suggesting that partial funding may not be sufficient for achieving desired outcomes.",
+        "synonyms": [
+          "completely finance",
+          "fully finance"
+        ],
+        "antonyms": [
+          "partially fund",
+          "underfund"
+        ]
+      },
+      {
+        "word": "drive impact",
+        "definition": "To create significant and measurable effects or changes in a particular area or context.",
+        "businessContext": "In the corporate world, 'drive impact' is often used to describe initiatives or strategies aimed at producing tangible results, such as increased revenue or improved customer satisfaction.",
+        "nuance": "This phrase conveys a sense of purpose and effectiveness, indicating that actions taken are intended to lead to meaningful outcomes rather than mere activity.",
+        "synonyms": [
+          "create influence",
+          "generate effect"
+        ],
+        "antonyms": [
+          "have no effect",
+          "diminish impact"
+        ]
+      },
+      {
+        "word": "stress test",
+        "definition": "A simulation or analysis conducted to evaluate the performance and stability of a system under extreme conditions or scenarios.",
+        "businessContext": "In finance and technology, 'stress testing' is crucial for assessing how systems or portfolios would react to adverse conditions, helping organizations prepare for potential risks.",
+        "nuance": "This term often carries a connotation of thoroughness and rigor, implying that the testing is comprehensive enough to uncover vulnerabilities that may not be apparent under normal circumstances.",
+        "synonyms": [
+          "scenario analysis",
+          "risk assessment"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "think like",
+        "definition": "To adopt a mindset or perspective similar to that of another individual or group, often to understand their motivations or decision-making processes.",
+        "businessContext": "In business, 'think like' is frequently used in discussions about empathy, customer-centric strategies, or leadership styles, encouraging team members to adopt the viewpoints of stakeholders or competitors.",
+        "nuance": "This phrase suggests a deeper level of understanding and alignment with others' perspectives, and is often used in contexts where collaboration and innovation are key.",
+        "synonyms": [
+          "emulate the mindset of",
+          "adopt the perspective of"
+        ],
+        "antonyms": [
+          "think differently from",
+          "disregard the views of"
+        ]
+      }
+    ]
   },
   {
-    "text": "The Low Impact Death Spiral is the dynamic in which every medium to large company I've ever worked with finds itself in one way or another. It starts with teams taking on low impact work. Adding little features here and there, making little cosmetic improvements because it's easier, it invites less scrutiny and you're less likely to mess up something important.",
+    "text": "The Low Impact Death Spiral is the dynamic in which every medium to large company I've ever worked with finds itself in one way or another. It starts with teams taking on low impact work.",
     "speaker": "Matt LeMay",
     "timestamp": "00:23:37",
     "context": "Lenny asks Matt to explain the 'Low Impact PM Death Spiral' concept from his book. Matt describes this as a common dynamic where product teams gravitate toward low-risk, low-impact work like small features and cosmetic improvements because it's safer and invites less scrutiny. This creates a cycle where low-impact work makes it harder to do high-impact work, leading teams deeper into irrelevant projects until layoffs occur.",
     "vocabulary_highlights": [
-      "death spiral",
-      "invites less scrutiny",
-      "cosmetic improvements"
+      "dynamic",
+      "impact",
+      "gravitate",
+      "medium to large company"
     ],
     "topics": [
       "Product Management",
@@ -102,17 +290,79 @@
     "text_ko": "영향이 적은 데스 스파이럴(Low Impact Death Spiral)은 제가 일해본 거의 모든 중대형 회사들이 어떤 식으로든 빠져 있는 역학이에요. 보통 팀들이 영향이 적은 업무(low-impact work)를 맡는 것부터 시작돼요. 여기저기 작은 기능을 붙이거나, 보기 좋게 하는 정도의 사소한 개선만 하는 식인데, 그게 더 쉽고 검토도 덜 들어오니까 중요한 걸 망칠 위험이 적거든요.",
     "text_zh": "低影响死亡螺旋(Low Impact Death Spiral)这个现象，我合作过的中大型公司基本都会碰到。一开始呢，团队就爱接一些没什么影响力的活儿。这里加个小功能，那里改改界面什么的，做些表面功夫，因为这样省事儿嘛，不容易被人挑毛病，也不太可能把重要的东西搞砸。",
     "text_es": "La Espiral de la Muerte de Bajo Impacto es esa dinámica en la que se meten todas las empresas medianas y grandes con las que he trabajado, de una forma u otra. Empieza cuando los equipos se enfocan en trabajo de poco impacto. Van agregando funcionalidades menores por aquí y por allá, haciendo mejoritas cosméticas porque es más fácil, genera menos ruido con los jefes y hay menos chance de que la riegues con algo importante.",
-    "key_sentence": "The death spiral begins with teams taking on low impact work."
+    "key_sentence": "The death spiral begins with teams taking on low impact work.",
+    "text_trimmed": true,
+    "original_text": "The Low Impact Death Spiral is the dynamic in which every medium to large company I've ever worked with finds itself in one way or another. It starts with teams taking on low impact work. Adding little features here and there, making little cosmetic improvements because it's easier, it invites less scrutiny and you're less likely to mess up something important.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "dynamic",
+        "definition": "Characterized by constant change, activity, or progress; energetic and forceful.",
+        "businessContext": "In business, 'dynamic' often refers to the evolving nature of markets, teams, or strategies that require adaptability and responsiveness to new challenges.",
+        "nuance": "While 'dynamic' generally has a positive connotation, it can imply unpredictability or instability in certain contexts.",
+        "synonyms": [
+          "energetic",
+          "fluid"
+        ],
+        "antonyms": [
+          "static",
+          "stagnant"
+        ]
+      },
+      {
+        "word": "impact",
+        "definition": "The strong effect or influence that something has on a situation, person, or process.",
+        "businessContext": "In a business context, 'impact' is often used to measure the effectiveness of initiatives, strategies, or changes on performance and outcomes.",
+        "nuance": "The term can imply both positive and negative effects, so it is important to clarify the nature of the impact being discussed.",
+        "synonyms": [
+          "effect",
+          "influence"
+        ],
+        "antonyms": [
+          "insignificance",
+          "irrelevance"
+        ]
+      },
+      {
+        "word": "gravitate",
+        "definition": "To be attracted to or move toward something, often in a natural or instinctive way.",
+        "businessContext": "In business, 'gravitate' is used to describe how employees or consumers may naturally lean towards certain roles, products, or company cultures based on their preferences or interests.",
+        "nuance": "This term often implies a subconscious or inherent attraction, making it suitable for discussions about trends or behaviors.",
+        "synonyms": [
+          "attract",
+          "lean"
+        ],
+        "antonyms": [
+          "repel",
+          "dissuade"
+        ]
+      },
+      {
+        "word": "medium to large company",
+        "definition": "An organization that typically employs a significant number of people and generates substantial revenue, falling between small businesses and large corporations in size and scale.",
+        "businessContext": "This classification is important in business for understanding market dynamics, resource allocation, and strategic planning, as medium to large companies often face different challenges compared to smaller firms.",
+        "nuance": "The term can vary in definition based on industry standards and geographical context, so it is essential to clarify the specific metrics used to define 'medium' and 'large.'",
+        "synonyms": [
+          "mid-sized company",
+          "established enterprise"
+        ],
+        "antonyms": [
+          "small business",
+          "startup"
+        ]
+      }
+    ]
   },
   {
-    "text": "You can follow all the best practices and have the highest velocity and do everything quote-unquote 'right', but if your company goes out of business, they're not going to say, 'Yeah, we're going out of business, but we're going to keep writing your paycheck for two years because all of your OKRs were a 0.6 or a 0.7.'",
+    "text": "if your company goes out of business, they're not going to say, 'Yeah, we're going out of business, but we're going to keep writing your paycheck for two years...",
     "speaker": "Matt LeMay",
     "timestamp": "00:00:50",
     "context": "Matt discusses the emotional challenge of being accountable for things outside our control, like business impact that depends on market conditions and customer behavior. He explains that while we naturally want to avoid accountability for uncontrollable factors, the reality is that business success affects us regardless. He uses this example to illustrate that following best practices doesn't protect you if the business fails.",
     "vocabulary_highlights": [
-      "quote-unquote",
-      "writing your paycheck",
-      "OKRs"
+      "accountable",
+      "market conditions",
+      "customer behavior",
+      "business impact"
     ],
     "topics": [
       "Product Management",
@@ -129,7 +379,68 @@
     "text_ko": "모든 최선의 방법을 따르고, 속도도 최고로 유지하고, 모든 걸 '제대로' 해도, 만약 회사가 망하게 된다면, '그래, 우리는 망하지만, 너의 OKR이 0.6이나 0.7이었으니까 2년 동안 너의 월급은 계속 줄게'라고 하진 않을 거예요.",
     "text_zh": "你可以遵循所有最佳实践，保持最高的执行速度，把所谓的\"正确\"事情都做到位，但如果公司倒闭了，他们不会说：\"是的，我们要关门了，不过因为你所有的OKRs都达到了0.6或0.7的完成度，所以我们还会继续给你发两年工资。\"",
     "text_es": "Puedes seguir todas las mejores prácticas y tener la velocidad más alta y hacer todo \"como debe ser\", pero si tu empresa quiebra, no te van a decir: \"Sí, nos vamos a la quiebra, pero te vamos a seguir pagando el sueldo dos años más porque todos tus OKRs estuvieron en 0.6 o 0.7.\"",
-    "key_sentence": "They won't keep writing your paycheck if the company goes out of business."
+    "key_sentence": "They won't keep writing your paycheck if the company goes out of business.",
+    "text_trimmed": true,
+    "original_text": "You can follow all the best practices and have the highest velocity and do everything quote-unquote 'right', but if your company goes out of business, they're not going to say, 'Yeah, we're going out of business, but we're going to keep writing your paycheck for two years because all of your OKRs were a 0.6 or a 0.7.'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "accountable",
+        "definition": "Responsible for one's actions or decisions, often requiring justification or explanation.",
+        "businessContext": "In business, being accountable means that individuals or teams must answer for their performance and outcomes, particularly in relation to goals and objectives.",
+        "nuance": "The term often carries a sense of obligation and transparency, making it important in discussions about leadership and responsibility.",
+        "synonyms": [
+          "responsible",
+          "answerable"
+        ],
+        "antonyms": [
+          "irresponsible",
+          "unaccountable"
+        ]
+      },
+      {
+        "word": "market conditions",
+        "definition": "The various factors that affect the supply and demand for goods and services in a particular market at a given time.",
+        "businessContext": "Understanding market conditions is crucial for businesses to make informed decisions regarding pricing, production, and marketing strategies.",
+        "nuance": "This term encompasses both macroeconomic factors, such as economic growth and inflation, and microeconomic factors, such as consumer preferences and competition.",
+        "synonyms": [
+          "market environment",
+          "economic conditions"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "customer behavior",
+        "definition": "The study of how individuals make decisions to spend their available resources on consumption-related items.",
+        "businessContext": "Analyzing customer behavior helps businesses tailor their marketing strategies and product offerings to better meet the needs and preferences of their target audience.",
+        "nuance": "This term often implies a focus on psychological and sociological factors that influence purchasing decisions.",
+        "synonyms": [
+          "consumer behavior",
+          "buyer behavior"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "business impact",
+        "definition": "The effect that a particular action, decision, or event has on a company's operations, profitability, or overall success.",
+        "businessContext": "Evaluating business impact is essential for assessing the potential risks and benefits of strategic initiatives, investments, or changes in policy.",
+        "nuance": "This term is often used in discussions about risk management and strategic planning, emphasizing the importance of foresight in decision-making.",
+        "synonyms": [
+          "business effect",
+          "organizational impact"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "So the first step, and I think the most important and where a lot of my work plays out is in setting team goals, close to company goals. No more than one step away from company goals. Don't let it get cascaded into oblivion.",
@@ -137,7 +448,10 @@
     "timestamp": "00:44:50",
     "context": "Lenny asks about Matt's three steps to become more of an impact-first product team. Matt explains the first and most critical step: setting team goals that are no more than one step away from company goals. He references Christina Wodtke's concept from 'Radical Focus' about avoiding multi-level goal cascading that leads to team goals that can't be traced back to company objectives.",
     "vocabulary_highlights": [
-      "cascaded into oblivion"
+      "setting team goals",
+      "cascaded",
+      "impact-first",
+      "critical step"
     ],
     "topics": [
       "Product Management",
@@ -154,6 +468,65 @@
     "text_ko": "그래서 첫 번째 단계이자 제가 가장 중요하다고 생각하는 건 팀 목표를 회사 목표에 최대한 가깝게, 즉 회사 목표에서 한 단계 이내로 설정하는 거예요. 목표가 하향식으로 전파(cascade)되면서 흐지부지해지지 않도록 하세요.",
     "text_zh": "所以第一步，也是我觉得最关键的一步，也是我大部分工作重点，就是设定团队目标，要跟公司目标紧密挂钩。最多只能偏离公司目标一步，千万别让目标在层层传递中变得面目全非。",
     "text_es": "Entonces el primer paso, y creo que es el más importante y donde se concentra gran parte de mi trabajo, es definir objetivos de equipo que estén muy alineados con los objetivos de la empresa. Como máximo un escalón por debajo de los objetivos corporativos. No dejes que se diluyan pasando de nivel en nivel hasta que no signifiquen nada.",
-    "key_sentence": "Team goals must be close to company goals, not cascaded into oblivion."
+    "key_sentence": "Team goals must be close to company goals, not cascaded into oblivion.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "setting team goals",
+        "definition": "The process of establishing specific, measurable objectives for a group to achieve within a defined timeframe.",
+        "businessContext": "In business settings, setting team goals aligns the team's efforts with the broader organizational objectives, ensuring that all members are working towards a common purpose.",
+        "nuance": "This phrase emphasizes the collaborative nature of goal-setting and is often used to foster teamwork and accountability.",
+        "synonyms": [
+          "establishing team objectives",
+          "defining team targets"
+        ],
+        "antonyms": [
+          "disregarding team objectives",
+          "neglecting team focus"
+        ]
+      },
+      {
+        "word": "cascaded",
+        "definition": "The process of distributing information or objectives from higher levels of an organization to lower levels in a structured manner.",
+        "businessContext": "In corporate environments, goals and strategies are often cascaded down from executives to managers and teams to ensure alignment and clarity throughout the organization.",
+        "nuance": "While cascading can enhance communication, it may also imply a dilution of original intent if not managed properly.",
+        "synonyms": [
+          "distributed",
+          "devolved"
+        ],
+        "antonyms": [
+          "consolidated",
+          "centralized"
+        ]
+      },
+      {
+        "word": "impact-first",
+        "definition": "An approach that prioritizes the potential effects or outcomes of actions and decisions over other considerations.",
+        "businessContext": "In startups and innovation-driven companies, an impact-first mindset encourages teams to focus on creating significant value and measurable results from their initiatives.",
+        "nuance": "This term is often used to highlight a strategic orientation towards meaningful change, contrasting with profit-first or process-first approaches.",
+        "synonyms": [
+          "outcome-oriented",
+          "results-driven"
+        ],
+        "antonyms": [
+          "process-oriented",
+          "profit-first"
+        ]
+      },
+      {
+        "word": "critical step",
+        "definition": "An essential action or decision that is necessary for the successful progression of a project or initiative.",
+        "businessContext": "Identifying critical steps in a project plan helps teams prioritize tasks and allocate resources effectively to ensure successful outcomes.",
+        "nuance": "This phrase conveys urgency and importance, often used in discussions about project management and strategic planning.",
+        "synonyms": [
+          "essential phase",
+          "key action"
+        ],
+        "antonyms": [
+          "minor detail",
+          "insignificant step"
+        ]
+      }
+    ]
   }
 ]

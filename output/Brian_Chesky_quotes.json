@@ -1,13 +1,14 @@
 [
   {
-    "text": "Way too many founders apologize for how they want to run the company. They find some midpoint between how they want to run a company and how the people they lead want to run the company. That's a good way to make everyone miserable. Because what everyone really wants is clarity.",
+    "text": "Way too many founders apologize for how they want to run the company. They find some midpoint between how they want to run a company and how the people they lead want to run the company. That's a good way to make everyone miserable.",
     "speaker": "Brian Chesky",
     "timestamp": "00:00:00",
     "context": "Lenny asks Brian about the challenges founders face in managing their companies. Brian emphasizes that many founders often compromise their vision for how to run a company in order to please their teams, which leads to dissatisfaction and confusion. He argues that clarity in leadership is essential for ensuring that everyone can work towards a common goal effectively.",
     "vocabulary_highlights": [
-      "midpoint",
-      "miserable",
-      "clarity"
+      "compromise",
+      "vision",
+      "lead",
+      "manage"
     ],
     "topics": [
       "Leadership & Management",
@@ -23,17 +24,79 @@
     "text_ko": "너무 많은 창업자들이 회사를 운영하는 방식에 대해 사과해요. 그들은 자신이 원하는 방식과 팀원들이 원하는 방식 사이에서 중간점을 찾으려고 해요. 이렇게 하면 모두가 불행해질 수 있어요. 사실 모든 사람이 원하는 건 명확함이에요.",
     "text_zh": "太多创始人对自己想要如何运营公司感到抱歉。他们试图在自己想要的管理方式和团队成员希望的管理方式之间找到一个折中点。这种做法只会让每个人都感到不快。因为大家真正想要的是清晰的方向。",
     "text_es": "Demasiados fundadores se disculpan por la forma en que quieren dirigir la empresa. Buscan un punto intermedio entre su visión y la manera en que las personas que lideran desean gestionar la compañía. Esa no es la mejor manera de hacer felices a todos. Lo que realmente todos quieren es claridad.",
-    "key_sentence": "Founders make everyone miserable by seeking a midpoint instead of providing clarity."
+    "key_sentence": "That's a good way to make everyone miserable.",
+    "text_trimmed": true,
+    "original_text": "Way too many founders apologize for how they want to run the company. They find some midpoint between how they want to run a company and how the people they lead want to run the company. That's a good way to make everyone miserable. Because what everyone really wants is clarity.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "compromise",
+        "definition": "A compromise is an agreement reached by mutual concession, where parties make concessions to settle a dispute or achieve a common goal.",
+        "businessContext": "In business settings, compromise often occurs during negotiations, where stakeholders must balance differing interests to reach a consensus that satisfies all parties involved.",
+        "nuance": "While compromise can foster collaboration, it may also imply a lack of decisiveness or clarity in leadership when overused.",
+        "synonyms": [
+          "concession",
+          "settlement"
+        ],
+        "antonyms": [
+          "agreement",
+          "disagreement"
+        ]
+      },
+      {
+        "word": "vision",
+        "definition": "Vision refers to a clear and compelling long-term goal or aspiration that guides an organization’s strategy and decision-making.",
+        "businessContext": "In startups, a strong vision is crucial for inspiring teams, attracting investors, and differentiating the company in a competitive market.",
+        "nuance": "A well-articulated vision can motivate employees and stakeholders, whereas a vague or unrealistic vision may lead to confusion and disengagement.",
+        "synonyms": [
+          "foresight",
+          "dream"
+        ],
+        "antonyms": [
+          "myopia",
+          "narrow-mindedness"
+        ]
+      },
+      {
+        "word": "lead",
+        "definition": "To lead means to guide or direct a group or organization towards achieving specific goals, often by influencing and inspiring others.",
+        "businessContext": "Effective leadership is essential in business to foster teamwork, drive performance, and navigate challenges within an organization.",
+        "nuance": "While leading can imply authority, it also encompasses the ability to inspire and empower others, which is crucial for modern leadership styles.",
+        "synonyms": [
+          "guide",
+          "direct"
+        ],
+        "antonyms": [
+          "follow",
+          "subordinate"
+        ]
+      },
+      {
+        "word": "manage",
+        "definition": "To manage is to coordinate and oversee the operations and resources of an organization to achieve its objectives efficiently and effectively.",
+        "businessContext": "In business, management involves planning, organizing, leading, and controlling resources, including human capital, to ensure organizational success.",
+        "nuance": "Management often implies a more structured and procedural approach compared to leadership, which may focus more on vision and inspiration.",
+        "synonyms": [
+          "administer",
+          "supervise"
+        ],
+        "antonyms": [
+          "neglect",
+          "disregard"
+        ]
+      }
+    ]
   },
   {
-    "text": "People think that great leader's job is to hire people and just empower them to do a good job. Well, how do you know they're doing a good job if you're not in the details? And so I made sure I was in the details and we really drove the product.",
+    "text": "People think that great leader's job is to hire people and just empower them to do a good job. Well, how do you know they're doing a good job if you're not in the details?",
     "speaker": "Brian Chesky",
     "timestamp": "00:00:00",
     "context": "In response to a question about leadership, Brian discusses the common misconception that leaders should simply hire talented individuals and allow them to work independently. He stresses the importance of leaders being involved in the details of their operations to ensure quality and effectiveness. This hands-on approach helps foster a productive environment.",
     "vocabulary_highlights": [
       "empower",
-      "in the details",
-      "drove the product"
+      "misconception",
+      "importan",
+      "details"
     ],
     "topics": [
       "Leadership & Management",
@@ -49,7 +112,68 @@
     "text_ko": "사람들은 훌륭한 리더의 역할이 사람들을 채용하고 그들이 잘 할 수 있도록 지원하는 것이라고 생각해요. 그런데 세부사항을 모르면 그들이 잘 하고 있는지 어떻게 알 수 있을까요? 그래서 저는 세부사항에 신경을 쓰고, 정말로 제품을 이끌어 나갔어요.",
     "text_zh": "人们认为优秀领导者的工作就是招聘人才并赋予他们权力去做好工作。然而，如果你不深入细节，怎么知道他们是否做得好呢？因此，我确保关注细节，并且我们真正推动了产品的发展。",
     "text_es": "La gente piensa que el trabajo de un gran líder es contratar personas y simplemente empoderarlas para que hagan un buen trabajo. Sin embargo, ¿cómo sabes si están haciendo un buen trabajo si no estás en los detalles? Por eso me aseguré de estar en los detalles y realmente impulsamos el producto.",
-    "key_sentence": "I empowered my team by being in the details and drove the product forward."
+    "key_sentence": "how do you know they're doing a good job if you're not in the details?",
+    "text_trimmed": true,
+    "original_text": "People think that great leader's job is to hire people and just empower them to do a good job. Well, how do you know they're doing a good job if you're not in the details? And so I made sure I was in the details and we really drove the product.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "empower",
+        "definition": "To give someone the authority or power to do something; to enable or authorize.",
+        "businessContext": "In business settings, empowering employees often involves delegating decision-making authority and fostering a culture of trust and autonomy.",
+        "nuance": "While 'empower' conveys a positive connotation of support and trust, it should be used carefully to ensure it does not imply a lack of oversight.",
+        "synonyms": [
+          "authorize",
+          "enable"
+        ],
+        "antonyms": [
+          "restrict",
+          "subjugate"
+        ]
+      },
+      {
+        "word": "misconception",
+        "definition": "A view or opinion that is incorrect based on faulty thinking or understanding.",
+        "businessContext": "In the corporate world, misconceptions can lead to poor decision-making and strategic errors, making it crucial for leaders to clarify misunderstandings.",
+        "nuance": "The term 'misconception' often implies a widespread misunderstanding, so it should be used when addressing common errors in perception.",
+        "synonyms": [
+          "fallacy",
+          "misunderstanding"
+        ],
+        "antonyms": [
+          "understanding",
+          "clarity"
+        ]
+      },
+      {
+        "word": "important",
+        "definition": "Of great significance or value; likely to have a profound effect on success or outcomes.",
+        "businessContext": "In business discussions, identifying important factors or metrics is essential for strategic planning and prioritization.",
+        "nuance": "While 'important' is a straightforward term, it can be enhanced by specifying the context to convey urgency or priority.",
+        "synonyms": [
+          "crucial",
+          "significant"
+        ],
+        "antonyms": [
+          "insignificant",
+          "trivial"
+        ]
+      },
+      {
+        "word": "details",
+        "definition": "Small elements or particulars that contribute to the overall understanding or functioning of a larger concept or project.",
+        "businessContext": "Attention to details is critical in business operations, as overlooking them can lead to errors and inefficiencies.",
+        "nuance": "The term 'details' often implies a need for thoroughness, so it is best used when emphasizing the importance of precision and accuracy.",
+        "synonyms": [
+          "specifics",
+          "particulars"
+        ],
+        "antonyms": [
+          "overview",
+          "generalization"
+        ]
+      }
+    ]
   },
   {
     "text": "The basic idea is this. You can't build a product unless you know how to talk about the product. You can't be an expert in making the product unless you're also an expert in the market of it.",
@@ -58,8 +182,9 @@
     "context": "Lenny inquires about the integration of product management and marketing at Airbnb. Brian explains that understanding both the product and the market is crucial for successful product development. He emphasizes that expertise in one area alone is insufficient; leaders must also be adept at communicating the value of their products to customers.",
     "vocabulary_highlights": [
       "expert",
-      "talk about",
-      "market of it"
+      "integration",
+      "crucial",
+      "product development"
     ],
     "topics": [
       "Product Management",
@@ -75,7 +200,66 @@
     "text_ko": "기본적인 아이디어는 이거예요. 제품에 대해 이야기할 줄 모르면 제품을 만들 수 없어요. 그리고 그 제품의 시장에 대한 전문가가 아니면 제품 만드는 전문가가 될 수 없어요.",
     "text_zh": "基本的观点是这样的：如果你不知道如何谈论一个产品，就无法构建这个产品。要成为该产品的专家，你也必须在其市场中具备专业知识。",
     "text_es": "La idea básica es esta: no puedes desarrollar un producto a menos que sepas cómo comunicarlo. No puedes ser un experto en la creación del producto si no eres también un experto en su mercado.",
-    "key_sentence": "You can't be an expert in making a product without knowing how to talk about it."
+    "key_sentence": "You can't be an expert in making a product without knowing how to talk about it.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "expert",
+        "definition": "A person who has a comprehensive and authoritative knowledge of or skill in a particular area.",
+        "businessContext": "In business settings, being an expert often implies having specialized knowledge that can drive innovation, inform strategy, and enhance competitive advantage.",
+        "nuance": "While 'expert' conveys a high level of proficiency, it can also imply a degree of exclusivity or elitism, so it's important to use it in contexts where such expertise is genuinely recognized.",
+        "synonyms": [
+          "specialist",
+          "authority"
+        ],
+        "antonyms": [
+          "novice",
+          "amateur"
+        ]
+      },
+      {
+        "word": "integration",
+        "definition": "The process of combining or coordinating different components or systems to work together effectively.",
+        "businessContext": "In the tech industry, integration is crucial for ensuring that various software applications, platforms, or services can operate seamlessly together, enhancing overall efficiency and user experience.",
+        "nuance": "Integration can imply a strategic alignment of resources and processes, and is often used in contexts where collaboration and synergy are emphasized.",
+        "synonyms": [
+          "combination",
+          "unification"
+        ],
+        "antonyms": [
+          "segregation",
+          "disconnection"
+        ]
+      },
+      {
+        "word": "crucial",
+        "definition": "Extremely important or essential, particularly in determining the outcome of a situation.",
+        "businessContext": "In business, identifying crucial factors can mean the difference between success and failure, especially when making strategic decisions or launching new initiatives.",
+        "nuance": "While 'crucial' indicates high importance, it can also suggest urgency, so it should be used when the stakes are particularly high.",
+        "synonyms": [
+          "critical",
+          "vital"
+        ],
+        "antonyms": [
+          "insignificant",
+          "trivial"
+        ]
+      },
+      {
+        "word": "product development",
+        "definition": "The process of creating, designing, and bringing a new product to market, encompassing all stages from idea generation to market launch.",
+        "businessContext": "In startups and tech companies, product development is a key focus area that involves cross-functional collaboration to ensure that products meet market needs and are delivered efficiently.",
+        "nuance": "The term 'product development' encompasses both the creative and technical aspects, and is often used in contexts where innovation and market responsiveness are prioritized.",
+        "synonyms": [
+          "product design",
+          "product innovation"
+        ],
+        "antonyms": [
+          "product stagnation",
+          "product decline"
+        ]
+      }
+    ]
   },
   {
     "text": "If you want to improve the speed of a company, then make faster decisions. And fast decisions come from a bias of action.",
@@ -83,9 +267,10 @@
     "timestamp": "00:47:22",
     "context": "Brian shares insights on how to enhance organizational efficiency. He argues that accelerating decision-making processes can significantly improve a company's speed and productivity. He advocates for a culture that encourages quick, decisive actions rather than prolonged deliberations.",
     "vocabulary_highlights": [
-      "improve the speed",
+      "accelerating",
+      "organizational efficiency",
       "bias of action",
-      "decisive"
+      "productivity"
     ],
     "topics": [
       "Leadership & Management",
@@ -101,7 +286,66 @@
     "text_ko": "회사의 속도를 높이고 싶다면, 빠른 결정을 내려야 해요. 그리고 빠른 결정은 행동 편향(bias of action)에서 나와요.",
     "text_zh": "如果想提高公司的运作速度，就要加快决策。而快速决策源于行动的偏向。",
     "text_es": "Si deseas mejorar la velocidad de una empresa, entonces toma decisiones más rápidas. Y las decisiones rápidas provienen de un sesgo hacia la acción.",
-    "key_sentence": "Make faster decisions to improve the speed of a company through a bias of action."
+    "key_sentence": "Make faster decisions to improve the speed of a company through a bias of action.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "accelerating",
+        "definition": "The act of increasing speed or rate of progress.",
+        "businessContext": "In business, accelerating often refers to the rapid advancement of projects, processes, or growth strategies to enhance competitiveness and responsiveness in the market.",
+        "nuance": "While 'accelerating' implies a positive drive towards improvement, it can also suggest a potential risk of hasty decisions if not managed properly.",
+        "synonyms": [
+          "speeding up",
+          "hastening"
+        ],
+        "antonyms": [
+          "slowing down",
+          "delaying"
+        ]
+      },
+      {
+        "word": "organizational efficiency",
+        "definition": "The ability of an organization to deliver products or services in the most cost-effective manner without compromising quality.",
+        "businessContext": "In a business setting, organizational efficiency is crucial for maximizing output while minimizing waste, often leading to increased profitability and competitiveness.",
+        "nuance": "This term emphasizes not just productivity but also the optimal use of resources, making it essential for sustainable business practices.",
+        "synonyms": [
+          "operational efficiency",
+          "process optimization"
+        ],
+        "antonyms": [
+          "inefficiency",
+          "wastefulness"
+        ]
+      },
+      {
+        "word": "bias of action",
+        "definition": "A tendency to favor taking action over inaction, particularly in decision-making processes.",
+        "businessContext": "In the context of startups and fast-paced environments, a bias of action encourages teams to make swift decisions, fostering innovation and responsiveness to market changes.",
+        "nuance": "While a bias of action can lead to rapid progress, it may also overlook the importance of thorough analysis and strategic planning.",
+        "synonyms": [
+          "proactive mindset",
+          "action-oriented approach"
+        ],
+        "antonyms": [
+          "bias of inaction",
+          "hesitance"
+        ]
+      },
+      {
+        "word": "productivity",
+        "definition": "The measure of efficiency in converting inputs into outputs, often quantified as the amount of output per unit of input.",
+        "businessContext": "In business, productivity is a key performance indicator that reflects how effectively resources are utilized to achieve desired outcomes, impacting overall profitability and growth.",
+        "nuance": "While productivity is often celebrated, it is important to balance it with employee well-being and quality of work to avoid burnout.",
+        "synonyms": [
+          "efficiency",
+          "output"
+        ],
+        "antonyms": [
+          "inefficiency",
+          "unproductiveness"
+        ]
+      }
+    ]
   },
   {
     "text": "The secret to happiness, if there is one, is healthy relationships. And I had found, Lenny, that over the time of being an entrepreneur, I had gotten totally isolated.",
@@ -109,9 +353,10 @@
     "timestamp": "00:54:01",
     "context": "In response to a question about avoiding burnout, Brian reflects on the importance of maintaining healthy personal relationships for overall happiness. He reveals how entrepreneurship can lead to isolation and emphasizes the necessity of nurturing connections with friends and loved ones to achieve balance in life.",
     "vocabulary_highlights": [
-      "secret to happiness",
-      "healthy relationships",
-      "isolated"
+      "entrepreneur",
+      "isolated",
+      "relationships",
+      "happiness"
     ],
     "topics": [
       "Work-Life Balance",
@@ -127,7 +372,66 @@
     "text_ko": "행복의 비밀이 있다면, 그건 건강한 관계라고 생각해요. 그리고 레니, 제가 기업가로 활동하면서 완전히 고립되어 버렸다는 걸 깨달았어요.",
     "text_zh": "如果有幸福的秘诀，那就是健康的人际关系。而我发现，Lenny，作为一名企业家，我在这段时间里变得完全孤立。",
     "text_es": "El secreto de la felicidad, si es que existe uno, son las relaciones saludables. Y he descubierto, Lenny, que con el tiempo como emprendedor, me he sentido completamente aislado.",
-    "key_sentence": "The secret to happiness is healthy relationships, but I felt isolated as an entrepreneur."
+    "key_sentence": "The secret to happiness is healthy relationships, but I felt isolated as an entrepreneur.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "entrepreneur",
+        "definition": "An entrepreneur is an individual who initiates and manages a business venture, taking on financial risks in the hope of profit.",
+        "businessContext": "In the business world, entrepreneurs are often seen as innovators who create new products or services and drive economic growth.",
+        "nuance": "While the term generally conveys a sense of ambition and creativity, it can also imply a level of risk-taking and uncertainty.",
+        "synonyms": [
+          "business owner",
+          "founder"
+        ],
+        "antonyms": [
+          "employee",
+          "follower"
+        ]
+      },
+      {
+        "word": "isolated",
+        "definition": "Isolated refers to being separated from others or being in a state of solitude, often resulting in a lack of social interaction.",
+        "businessContext": "In a business context, isolation can hinder collaboration and innovation, as it may prevent individuals from sharing ideas and resources.",
+        "nuance": "While isolation can sometimes be a choice for focused work, it often carries negative connotations related to loneliness and disconnection.",
+        "synonyms": [
+          "secluded",
+          "detached"
+        ],
+        "antonyms": [
+          "connected",
+          "integrated"
+        ]
+      },
+      {
+        "word": "relationships",
+        "definition": "Relationships are the connections or associations between individuals or groups, characterized by mutual interactions and emotional bonds.",
+        "businessContext": "In business, strong relationships are crucial for networking, partnerships, and customer loyalty, often leading to increased success and collaboration.",
+        "nuance": "The term can imply both personal and professional connections, with a focus on trust and mutual benefit in a business setting.",
+        "synonyms": [
+          "connections",
+          "associations"
+        ],
+        "antonyms": [
+          "estrangement",
+          "disconnection"
+        ]
+      },
+      {
+        "word": "happiness",
+        "definition": "Happiness is a state of well-being and contentment, often characterized by positive emotions and life satisfaction.",
+        "businessContext": "In the workplace, happiness is increasingly recognized as a key factor in employee productivity and overall organizational success.",
+        "nuance": "While happiness is often viewed as a personal emotion, in business, it can also relate to workplace culture and employee engagement.",
+        "synonyms": [
+          "contentment",
+          "joy"
+        ],
+        "antonyms": [
+          "unhappiness",
+          "discontent"
+        ]
+      }
+    ]
   },
   {
     "text": "I think the pace of the team is one of the most important things you can do. And that pace is sometimes governed not by how hard people work, but how decisive they are.",
@@ -135,9 +439,10 @@
     "timestamp": "00:47:22",
     "context": "Brian discusses the significance of pace in a team's performance during a conversation about leadership. He suggests that a team's rhythm is influenced more by the decisiveness of its leaders than by the sheer volume of work. This highlights the critical role of leadership in setting the tempo for productivity.",
     "vocabulary_highlights": [
-      "pace of the team",
+      "decisive",
       "governed",
-      "decisive"
+      "pace",
+      "significance"
     ],
     "topics": [
       "Leadership & Management",
@@ -153,6 +458,65 @@
     "text_ko": "팀의 속도가 가장 중요한 요소 중 하나라고 생각해요. 그리고 그 속도는 때때로 사람들이 얼마나 열심히 일하느냐보다는 얼마나 결단력이 있느냐에 따라 결정돼요.",
     "text_zh": "我认为团队的节奏是你能做的最重要的事情之一。而这种节奏有时并不是由人们的工作努力程度决定的，而是由他们的果断程度决定的。",
     "text_es": "Creo que el ritmo del equipo es una de las cosas más importantes que puedes lograr. Y ese ritmo a veces no está determinado por cuán duro trabajan las personas, sino por cuán decisivas son.",
-    "key_sentence": "The pace of the team is governed by how decisive they are, not just hard work."
+    "key_sentence": "The pace of the team is governed by how decisive they are, not just hard work.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "decisive",
+        "definition": "Having the ability to make decisions quickly and effectively; characterized by firmness and resolution.",
+        "businessContext": "In business, being decisive is crucial for leaders to navigate challenges and capitalize on opportunities without unnecessary delays.",
+        "nuance": "While decisiveness is generally viewed positively, it can be perceived negatively if it leads to hasty decisions without adequate consideration.",
+        "synonyms": [
+          "resolute",
+          "determined"
+        ],
+        "antonyms": [
+          "indecisive",
+          "hesitant"
+        ]
+      },
+      {
+        "word": "governed",
+        "definition": "Controlled or regulated by a set of rules, principles, or authority.",
+        "businessContext": "In a corporate environment, processes and behaviors are often governed by company policies, industry regulations, or market conditions.",
+        "nuance": "The term can imply a sense of authority or structure, suggesting that actions are not merely random but are influenced by established guidelines.",
+        "synonyms": [
+          "regulated",
+          "controlled"
+        ],
+        "antonyms": [
+          "uncontrolled",
+          "unregulated"
+        ]
+      },
+      {
+        "word": "pace",
+        "definition": "The speed or rate at which something occurs or progresses.",
+        "businessContext": "In a team setting, the pace can refer to the speed of project completion, which is critical for meeting deadlines and maintaining competitive advantage.",
+        "nuance": "Pace can have both positive and negative connotations; a fast pace may indicate efficiency, while a slow pace may suggest inefficiency or lack of urgency.",
+        "synonyms": [
+          "speed",
+          "tempo"
+        ],
+        "antonyms": [
+          "slowness",
+          "lag"
+        ]
+      },
+      {
+        "word": "significance",
+        "definition": "The importance or meaning of something, particularly in a specific context.",
+        "businessContext": "Understanding the significance of market trends or consumer behavior is essential for strategic planning and decision-making in business.",
+        "nuance": "Significance often implies a deeper understanding or impact, and should be used when discussing matters that have substantial implications.",
+        "synonyms": [
+          "importance",
+          "relevance"
+        ],
+        "antonyms": [
+          "insignificance",
+          "triviality"
+        ]
+      }
+    ]
   }
 ]

@@ -1,12 +1,14 @@
 [
   {
-    "text": "I first opened up my DMs- I had 'em closed, which is like traditionally the default on Twitter for a long time. 'Cause I was like, \"Oh, if I open them up, I'll just get a bunch of spam and I don't need another inbox to- to call through.\" I opened it up quietly and, um, actually didn't get a lot of spam, uh, surprisingly.",
+    "text": "I first opened up my DMs- I had 'em closed, which is like traditionally the default on Twitter for a long time.",
     "speaker": "Ryan Hoover",
     "timestamp": "00:09:26",
     "context": "Lenny asks Ryan about his practice of offering free advice to founders who DM him on Twitter. Ryan explains how he initially hesitated to open his direct messages because he expected to receive spam, but was surprised to find that wasn't the case. This led to him actively inviting founders to reach out for advice, which he then sometimes shares publicly (anonymized) as a form of micro-blogging.",
     "vocabulary_highlights": [
-      "call through",
-      "opened it up quietly"
+      "default",
+      "hesitated",
+      "practice",
+      "founders"
     ],
     "topics": [
       "Communication Skills",
@@ -22,16 +24,79 @@
     "text_ko": "처음에 다이렉트 메시지(DMs)를 열었어요 — 원래 닫아놨었거든요. 트위터에서는 오랫동안 그게 기본 설정이었고요. '열어 놓으면 스팸(spam)이 막 올 거고, 또 하나 더 확인할 받은편지함은 필요 없을 거야'라고 생각했어요. 그래서 조용히 열어봤는데, 의외로 스팸이 많이 오지 않았어요.",
     "text_zh": "我一开始把私信功能打开了——之前一直关着的，Twitter上默认设置就是关闭的嘛，用了很长时间都这样。因为我当时想，\"哎呀，要是打开了，肯定会收到一大堆垃圾信息，我可不想再多一个收件箱要处理。\" 结果我悄悄打开了，嗯，其实没收到什么垃圾信息，还挺意外的。",
     "text_es": "Primero abrí mis mensajes directos - los tenía cerrados, que es como tradicionalmente viene por defecto en Twitter desde hace mucho tiempo. Porque pensé, \"Ay, si los abro, me van a llegar un montón de spam y no necesito otra bandeja de entrada que revisar.\" Los abrí sin hacer ruido y, eh, la verdad es que no me llegó tanto spam, sorprendentemente.",
-    "key_sentence": "I opened it up quietly and surprisingly didn't get a lot of spam."
+    "key_sentence": "I had 'em closed, which is like traditionally the default on Twitter for a long time.",
+    "text_trimmed": true,
+    "original_text": "I first opened up my DMs- I had 'em closed, which is like traditionally the default on Twitter for a long time. 'Cause I was like, \"Oh, if I open them up, I'll just get a bunch of spam and I don't need another inbox to- to call through.\" I opened it up quietly and, um, actually didn't get a lot of spam, uh, surprisingly.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "default",
+        "definition": "A default is a preset option or value that is automatically selected unless an alternative is specified by the user. In technology, it often refers to settings or configurations that are applied when no other choice is made.",
+        "businessContext": "In business and tech, understanding defaults is crucial for user experience design, as they can significantly influence user behavior and decision-making processes.",
+        "nuance": "The term 'default' can imply a lack of active choice, which may carry a negative connotation in contexts where proactive decision-making is valued.",
+        "synonyms": [
+          "preset",
+          "standard"
+        ],
+        "antonyms": [
+          "custom",
+          "optional"
+        ]
+      },
+      {
+        "word": "hesitated",
+        "definition": "To hesitate means to pause before taking action or making a decision, often due to uncertainty or indecision. It reflects a moment of doubt or contemplation.",
+        "businessContext": "In a business context, hesitation can affect decision-making processes, negotiations, and the speed of project execution, potentially leading to missed opportunities.",
+        "nuance": "While hesitation can indicate careful consideration, it may also suggest a lack of confidence or clarity, which can be viewed negatively in fast-paced environments.",
+        "synonyms": [
+          "paused",
+          "wavered"
+        ],
+        "antonyms": [
+          "decided",
+          "resolved"
+        ]
+      },
+      {
+        "word": "practice",
+        "definition": "Practice refers to the repeated exercise of an activity or skill to improve proficiency. It can also denote a customary way of doing something within a specific context.",
+        "businessContext": "In business, best practices are established methods or techniques that have proven effective in achieving desired outcomes, guiding organizations in their operations.",
+        "nuance": "The term can imply a level of informality or routine, distinguishing it from more formalized processes or theories.",
+        "synonyms": [
+          "method",
+          "procedure"
+        ],
+        "antonyms": [
+          "theory",
+          "inactivity"
+        ]
+      },
+      {
+        "word": "founders",
+        "definition": "Founders are individuals who establish or create an organization, particularly startups or businesses, often taking on significant risk and responsibility in the process.",
+        "businessContext": "In the startup ecosystem, founders are critical as they drive the vision, culture, and strategic direction of the company, often influencing its success or failure.",
+        "nuance": "The term 'founder' carries a connotation of innovation and leadership, but it can also imply a heavy burden of accountability and pressure to succeed.",
+        "synonyms": [
+          "creators",
+          "entrepreneurs"
+        ],
+        "antonyms": [
+          "employees",
+          "followers"
+        ]
+      }
+    ]
   },
   {
-    "text": "And maybe the biggest surprise was a lot of people are pretty vulnerable. These are strangers, founders who DM me saying, \"Hey, I'm- we have three months runway left. We're running out of money. Here's a situation. What advice do you have?\" Or just things that, you know, everyone has to wear this unfortunate mask is kind of the way I- what I used to describe it.",
+    "text": "And maybe the biggest surprise was a lot of people are pretty vulnerable. These are strangers, founders who DM me saying, \"Hey, I'm- we have three months runway left. We're running out of money. Here's a situation.",
     "speaker": "Ryan Hoover",
     "timestamp": "00:11:24",
     "context": "Lenny asks what Ryan has learned from founders who DM him questions. Ryan explains that he was surprised by how vulnerable and authentic people are willing to be in private messages, sharing serious problems like running out of funding. He reflects on how founders typically have to project confidence publicly while dealing with significant challenges privately.",
     "vocabulary_highlights": [
-      "three months runway left",
-      "wear this unfortunate mask"
+      "vulnerable",
+      "runway",
+      "authentic",
+      "situation"
     ],
     "topics": [
       "Starting a Company",
@@ -47,16 +112,79 @@
     "text_ko": "아마 제일 놀랐던 건 생각보다 많은 사람들이 꽤 취약하다는 점이에요. 모르는 사람들, 창업자들(founders)이 다이렉트 메시지(DM)로 “저희 런웨이(runway)가 3개월밖에 안 남았어요. 돈이 거의 다 떨어져가고 있어요. 이런 상황인데 조언해주실 수 있나요?”라고 보내요. 혹은 다들 어쩔 수 없이 불행한 가면을 써야 한다는 식의 얘기들인데, 제가 예전부터 그렇게 표현하곤 했던 방식이에요.",
     "text_zh": "最让我意外的可能是，很多人其实挺脆弱的。这些素不相识的创始人会私信我说：\"嘿，我们——我们还有三个月的runway（资金跑道）就用完了，快没钱了。情况就是这样，你有什么建议吗？\"或者聊一些别的事情，你知道的，每个人都得戴着这种让人无奈的面具，我以前是这么形容的。",
     "text_es": "Y tal vez la sorpresa más grande fue que mucha gente es bastante vulnerable. Son desconocidos, fundadores que me escriben por DM diciéndome: \"Oye, nos quedan tres meses de runway, se nos está acabando el dinero. Esta es nuestra situación. ¿Qué consejo nos das?\" O simplemente cosas que, ya sabes, todo mundo tiene que ponerse esta máscara desafortunada, así es como yo solía describirlo.",
-    "key_sentence": "Many founders wear this unfortunate mask of vulnerability about their three months runway left."
+    "key_sentence": "a lot of people are pretty vulnerable.",
+    "text_trimmed": true,
+    "original_text": "And maybe the biggest surprise was a lot of people are pretty vulnerable. These are strangers, founders who DM me saying, \"Hey, I'm- we have three months runway left. We're running out of money. Here's a situation. What advice do you have?\" Or just things that, you know, everyone has to wear this unfortunate mask is kind of the way I- what I used to describe it.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "vulnerable",
+        "definition": "Exposed to the possibility of being harmed or attacked, either physically or emotionally.",
+        "businessContext": "In business, being vulnerable often refers to a company's financial or operational weaknesses that could be exploited by competitors or lead to failure.",
+        "nuance": "While vulnerability can imply weakness, it can also indicate openness and honesty, especially in discussions about challenges faced by startups.",
+        "synonyms": [
+          "exposed",
+          "susceptible"
+        ],
+        "antonyms": [
+          "invulnerable",
+          "secure"
+        ]
+      },
+      {
+        "word": "runway",
+        "definition": "The amount of time a company can operate before it runs out of cash, typically measured in months.",
+        "businessContext": "In the startup ecosystem, runway is a critical metric for assessing a company's financial health and sustainability, influencing investment decisions and strategic planning.",
+        "nuance": "Runway is often discussed in terms of cash flow management and can indicate urgency for fundraising or cost-cutting measures.",
+        "synonyms": [
+          "financial cushion",
+          "operating time"
+        ],
+        "antonyms": [
+          "financial crisis",
+          "bankruptcy"
+        ]
+      },
+      {
+        "word": "authentic",
+        "definition": "Genuine and true to one's own personality, spirit, or character; not false or copied.",
+        "businessContext": "In business, authenticity is crucial for building trust with customers and stakeholders, often reflected in branding, marketing, and leadership styles.",
+        "nuance": "While authenticity is generally viewed positively, it can be challenging to maintain in highly competitive environments where pressure to conform exists.",
+        "synonyms": [
+          "genuine",
+          "real"
+        ],
+        "antonyms": [
+          "inauthentic",
+          "fake"
+        ]
+      },
+      {
+        "word": "situation",
+        "definition": "A set of circumstances in which one finds oneself; a state of affairs.",
+        "businessContext": "In business discussions, 'situation' often refers to the current state of a company or market, particularly when assessing challenges or opportunities.",
+        "nuance": "The term can be neutral but may carry negative connotations depending on the context, especially if it refers to a crisis or problematic scenario.",
+        "synonyms": [
+          "circumstance",
+          "condition"
+        ],
+        "antonyms": [
+          "solution",
+          "resolution"
+        ]
+      }
+    ]
   },
   {
-    "text": "I do spend time, ironically, like. challenging founders sometimes when they're thinking about raising or thinking about an idea to- to not raise. Um, people who are in tech, uh, especially, are certain bubbles of tech, that's the default. It's like, \"The first thing I do, I have an idea, now let's go raise money.\"",
+    "text": "I do spend time, ironically, like. challenging founders sometimes when they're thinking about raising or thinking about an idea to- to not raise. Um, people who are in tech, uh, especially, are certain bubbles of tech, that's the default.",
     "speaker": "Ryan Hoover",
     "timestamp": "00:15:15",
     "context": "Lenny asks Ryan about his advice to founders considering whether to start a company, given how difficult startups are. Ryan explains that he often challenges founders who assume they need to raise venture capital immediately after having an idea. He points out that in certain tech circles, fundraising has become the default first step, even when it may not be necessary or appropriate.",
     "vocabulary_highlights": [
-      "certain bubbles of tech",
-      "that's the default"
+      "challenge",
+      "assume",
+      "default",
+      "founders"
     ],
     "topics": [
       "Starting a Company",
@@ -73,17 +201,79 @@
     "text_ko": "아이러니하게도 저는 창업자들(founders)이 자금 조달(raising)을 고민하거나 아예 안 하겠다고 생각할 때 그 생각에 대해 가끔 도전적으로 질문을 던지며 시간을 써요. 특히 테크(tech) 쪽 사람들은, 어떤 기술 버블(tech bubbles) 안에서는 그게 기본값이에요. '아이디어가 생기면 제일 먼저 투자 유치(raise money)를 하자'라는 식이죠.",
     "text_zh": "我确实会花时间，挺讽刺的，就是有时候会质疑一些创始人，当他们在考虑融资或者在考虑某个想法的时候，我会建议他们别急着融资。搞科技的人，特别是在某些科技圈子里的人，融资已经成了默认选项了。就像\"我一有想法，第一件事就是去融钱。\"",
     "text_es": "Me paso tiempo, irónicamente, desafiando a los fundadores a veces cuando están pensando en levantar capital o considerando una idea para que... para que no levanten capital. La gente que está en tech, especialmente en ciertas burbujas del tech, eso es lo normal. Es como, \"Lo primero que hago, tengo una idea, ahora vamos a buscar financiamiento.\"",
-    "key_sentence": "In certain bubbles of tech, that's the default to raise money immediately."
+    "key_sentence": "In certain bubbles of tech, that's the default to raise money immediately.",
+    "text_trimmed": true,
+    "original_text": "I do spend time, ironically, like. challenging founders sometimes when they're thinking about raising or thinking about an idea to- to not raise. Um, people who are in tech, uh, especially, are certain bubbles of tech, that's the default. It's like, \"The first thing I do, I have an idea, now let's go raise money.\"",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "challenge",
+        "definition": "A challenge refers to a difficult task or situation that requires effort and determination to overcome.",
+        "businessContext": "In business, challenges often arise in the form of market competition, resource limitations, or strategic decision-making, prompting leaders to innovate and adapt.",
+        "nuance": "While 'challenge' can imply a negative situation, it often carries a connotation of opportunity for growth and improvement.",
+        "synonyms": [
+          "obstacle",
+          "difficulty"
+        ],
+        "antonyms": [
+          "ease",
+          "solution"
+        ]
+      },
+      {
+        "word": "assume",
+        "definition": "To assume means to accept something as true without proof or verification.",
+        "businessContext": "In business, making assumptions can lead to strategic missteps if decisions are based on unverified information or beliefs about market conditions.",
+        "nuance": "Assuming can sometimes indicate a lack of thorough analysis, so it is often advisable to verify facts before proceeding.",
+        "synonyms": [
+          "presume",
+          "suppose"
+        ],
+        "antonyms": [
+          "doubt",
+          "question"
+        ]
+      },
+      {
+        "word": "default",
+        "definition": "Default refers to a pre-set condition or standard that is automatically applied unless an alternative is specified.",
+        "businessContext": "In the tech industry, default settings in software applications can significantly influence user behavior and decision-making processes.",
+        "nuance": "The term can also imply a lack of action or choice, suggesting complacency or an unexamined status quo.",
+        "synonyms": [
+          "standard",
+          "norm"
+        ],
+        "antonyms": [
+          "exception",
+          "alternative"
+        ]
+      },
+      {
+        "word": "founders",
+        "definition": "Founders are individuals who establish or create a company or organization, often taking on significant risk and responsibility.",
+        "businessContext": "In the startup ecosystem, founders are crucial as they drive the vision, culture, and initial growth of their ventures, often seeking investment to scale their ideas.",
+        "nuance": "The term 'founder' carries a sense of innovation and leadership but can also imply a level of inexperience in navigating business challenges.",
+        "synonyms": [
+          "entrepreneurs",
+          "creators"
+        ],
+        "antonyms": [
+          "employees",
+          "followers"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think it's super important that founders see a line of sight to work on this for ... I think my rule of thumb is a decade, just do you see yourself working on this for a decade? And maybe it's not a decade that you actually work on it. It probably won't, it either, it'll probably fail before then as most startups do, but I think it's a good litmus test for yourself.",
+    "text": "I think it's super important that founders see a line of sight to work on this for ... I think my rule of thumb is a decade, just do you see yourself working on this for a decade?",
     "speaker": "Ryan Hoover",
     "timestamp": "00:15:15",
     "context": "Ryan continues discussing his advice for founders considering starting a company. He explains his framework for evaluating startup commitment - founders should be able to envision working on their idea for a decade. While acknowledging that most startups fail before reaching that timeframe, he believes this long-term perspective serves as an important litmus test for genuine passion and commitment to the problem they're trying to solve.",
     "vocabulary_highlights": [
-      "see a line of sight",
       "rule of thumb",
-      "good litmus test"
+      "commitment",
+      "envision",
+      "framework"
     ],
     "topics": [
       "Starting a Company",
@@ -99,16 +289,79 @@
     "text_ko": "창업자들이 이 일을 앞으로도 계속할 수 있다는 확신을 갖고 있는 게 정말 중요하다고 생각해요. 제 경험상 기준은 대략 10년이에요. 스스로 '내가 이걸 10년 동안 해도 괜찮을까?'라고 물어보는 거예요. 실제로 10년을 채 일하게 될지는 모르고, 대부분의 스타트업처럼 그 전에 실패할 가능성이 더 커요. 그래도 스스로를 평가해 보는 좋은 리트머스 테스트(litmus test)가 된다고 생각해요.",
     "text_zh": "我觉得创始人得能看到自己会在这个项目上坚持下去，这点特别重要。我的经验法则就是十年，你能想象自己在这件事上干十年吗？当然不一定真的要干满十年，大概率也干不到，就像大部分创业公司一样，可能早就挂了。但我觉得这是个不错的试金石，可以测试一下自己。",
     "text_es": "Creo que es súper importante que los fundadores se vean trabajando en esto a largo plazo... Mi regla general es una década, ¿te ves trabajando en esto por diez años? Y tal vez no sean diez años los que realmente le dediques. Probablemente no sea así, lo más probable es que fracase antes como pasa con la mayoría de startups, pero creo que es una buena prueba de fuego para uno mismo.",
-    "key_sentence": "Founders should see a line of sight to work on this for a decade."
+    "key_sentence": "Founders should see a line of sight to work on this for a decade.",
+    "text_trimmed": true,
+    "original_text": "I think it's super important that founders see a line of sight to work on this for ... I think my rule of thumb is a decade, just do you see yourself working on this for a decade? And maybe it's not a decade that you actually work on it. It probably won't, it either, it'll probably fail before then as most startups do, but I think it's a good litmus test for yourself.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "rule of thumb",
+        "definition": "A general principle or guideline based on practical experience rather than a strict rule.",
+        "businessContext": "In business, a rule of thumb can help entrepreneurs make quick decisions based on past experiences or common practices, especially in uncertain situations.",
+        "nuance": "While useful, a rule of thumb should not replace thorough analysis or data-driven decision-making.",
+        "synonyms": [
+          "guideline",
+          "principle"
+        ],
+        "antonyms": [
+          "exception",
+          "anomaly"
+        ]
+      },
+      {
+        "word": "commitment",
+        "definition": "A pledge or obligation to carry out a course of action or to support a cause.",
+        "businessContext": "In a business context, commitment often refers to the dedication of resources, time, and effort towards achieving specific goals or projects.",
+        "nuance": "Commitment implies a long-term dedication and may carry a sense of personal or organizational responsibility.",
+        "synonyms": [
+          "dedication",
+          "obligation"
+        ],
+        "antonyms": [
+          "indifference",
+          "disengagement"
+        ]
+      },
+      {
+        "word": "envision",
+        "definition": "To imagine or visualize a future scenario or outcome.",
+        "businessContext": "In startups, founders often need to envision their business's future direction, market position, and growth potential to strategize effectively.",
+        "nuance": "Envisioning is often associated with creativity and foresight, suggesting a proactive approach to planning.",
+        "synonyms": [
+          "imagine",
+          "foresee"
+        ],
+        "antonyms": [
+          "ignore",
+          "overlook"
+        ]
+      },
+      {
+        "word": "framework",
+        "definition": "A structured approach or system that provides a foundation for understanding or addressing a particular issue.",
+        "businessContext": "In business and technology, frameworks are essential for developing strategies, processes, and methodologies that guide decision-making and project execution.",
+        "nuance": "The term framework often implies a level of flexibility within a defined structure, allowing for adaptation to specific circumstances.",
+        "synonyms": [
+          "structure",
+          "system"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      }
+    ]
   },
   {
-    "text": "I don't know how to articulate that- that feeling, but that flutter in your stomach that you wake up with in the morning of just anxiety and stress and- and worry. Um, being a CEO or founder makes it slightly harder, uh, in some ways, because you still have to put on this mask.",
+    "text": "I don't know how to articulate that- that feeling, but that flutter in your stomach that you wake up with in the morning of just anxiety and stress and- and worry.",
     "speaker": "Ryan Hoover",
     "timestamp": "00:00:00",
     "context": "Ryan is describing the emotional toll of being a founder during difficult periods at Product Hunt. He's explaining to Lenny the physical manifestation of startup stress - the stomach flutter of anxiety upon waking. He emphasizes how being in a leadership position compounds this difficulty because founders must project confidence externally while dealing with internal anxiety, creating additional pressure beyond the underlying business challenges.",
     "vocabulary_highlights": [
-      "flutter in your stomach",
-      "put on this mask"
+      "articulate",
+      "anxiety",
+      "stress",
+      "manifestation"
     ],
     "topics": [
       "Leadership & Management",
@@ -124,16 +377,79 @@
     "text_ko": "그 느낌을 어떻게 말로 표현해야 할지 잘 모르겠어요 — 아침에 눈 뜰 때부터 가슴이 두근거리고 불안하고 스트레스와 걱정이 밀려오는 그런 느낌요. 최고경영자(CEO)나 창업자(founder)로서 보면 어떤 면에서는 그게 조금 더 힘들어요, 왜냐하면 여전히 겉으로는 괜찮은 척하는 가면을 써야 하거든요.",
     "text_zh": "我不知道怎么形容那种感觉，就是早上醒来肚子里翻江倒海的那种焦虑、压力和担忧。当CEO或创始人会让这种感觉更难受，因为你还得装出一副若无其事的样子。",
     "text_es": "No sé cómo expresar esa... esa sensación, pero esas mariposas en el estómago con las que te despiertas por la mañana, pura ansiedad y estrés y... y preocupación. Eh, ser CEO o fundador lo hace un poco más difícil, eh, de cierta manera, porque aún tienes que ponerte esa máscara.",
-    "key_sentence": "The flutter in your stomach makes being a CEO harder; you must put on this mask."
+    "key_sentence": "that flutter in your stomach that you wake up with in the morning of just anxiety and stress and- and worry.",
+    "text_trimmed": true,
+    "original_text": "I don't know how to articulate that- that feeling, but that flutter in your stomach that you wake up with in the morning of just anxiety and stress and- and worry. Um, being a CEO or founder makes it slightly harder, uh, in some ways, because you still have to put on this mask.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "articulate",
+        "definition": "To express an idea or feeling fluently and coherently. It involves the ability to convey thoughts clearly and effectively.",
+        "businessContext": "In business settings, being articulate is crucial for effective communication during presentations, meetings, and negotiations, as it helps convey complex ideas succinctly.",
+        "nuance": "While 'articulate' generally has a positive connotation, it may imply that someone is overly verbose if used inappropriately.",
+        "synonyms": [
+          "express",
+          "communicate"
+        ],
+        "antonyms": [
+          "mumble",
+          "miscommunicate"
+        ]
+      },
+      {
+        "word": "anxiety",
+        "definition": "A feeling of worry, nervousness, or unease about something with an uncertain outcome. It can manifest physically and mentally.",
+        "businessContext": "In the workplace, anxiety can affect employee performance and decision-making, often leading to decreased productivity and morale.",
+        "nuance": "Anxiety can be a normal response to stress, but excessive anxiety may indicate deeper issues that require attention.",
+        "synonyms": [
+          "nervousness",
+          "unease"
+        ],
+        "antonyms": [
+          "calmness",
+          "composure"
+        ]
+      },
+      {
+        "word": "stress",
+        "definition": "A state of mental or emotional strain resulting from challenging or adverse circumstances. It can impact both physical and psychological well-being.",
+        "businessContext": "In business environments, stress is often linked to tight deadlines, high expectations, and workload, which can lead to burnout if not managed effectively.",
+        "nuance": "While stress can sometimes motivate individuals to perform better, chronic stress is detrimental and should be addressed proactively.",
+        "synonyms": [
+          "tension",
+          "pressure"
+        ],
+        "antonyms": [
+          "relaxation",
+          "ease"
+        ]
+      },
+      {
+        "word": "manifestation",
+        "definition": "The act of displaying or exhibiting something, often referring to the tangible expression of an idea or feeling. It can also indicate the realization of a concept.",
+        "businessContext": "In business, manifestation often refers to the realization of goals or visions, such as a successful product launch or the achievement of strategic objectives.",
+        "nuance": "Manifestation can carry a positive connotation, suggesting the successful outcome of efforts, but it may also imply that something was merely a superficial display.",
+        "synonyms": [
+          "demonstration",
+          "expression"
+        ],
+        "antonyms": [
+          "concealment",
+          "suppression"
+        ]
+      }
+    ]
   },
   {
-    "text": "The biggest surprise has probably been ... There are cases when I didn't think the company would make it. I- uh, either the product wasn't working, and you know, many months had passed, and it was very clear that they're- they- well, to me, I thought it was clear that, okay, that this probably isn't gonna work out. In my head I kinda wrote it off.",
+    "text": "The biggest surprise has probably been ... There are cases when I didn't think the company would make it.",
     "speaker": "Ryan Hoover",
     "timestamp": "00:58:20",
     "context": "Lenny asks Ryan what has surprised him most about angel investing. Ryan explains that his biggest surprise has been seeing companies he had mentally written off as failures eventually succeed through pivots or unexpected breakthroughs. This taught him never to count portfolio companies out until they're definitively done, highlighting the unpredictable nature of startup journeys and the importance of backing resilient founders.",
     "vocabulary_highlights": [
-      "wrote it off",
-      "count a portfolio company out"
+      "surprise",
+      "mentally",
+      "written off",
+      "succeed"
     ],
     "topics": [
       "Learning & Growth",
@@ -149,6 +465,67 @@
     "text_ko": "가장 놀랐던 건 아마도… 어떤 경우에는 제가 그 회사가 버티지 못할 거라고 생각했을 때예요. 저, 음, 제품이 제대로 작동하지 않거나 몇 달이 지나도 별 진전이 없어서 제게는 ‘아, 이건 안 될 것 같다’가 너무 분명해 보였어요. 그래서 속으로는 이미 접어뒀어요.",
     "text_zh": "最大的意外可能就是...有些时候我觉得这家公司肯定要完蛋了。我...呃，要么就是产品根本搞不定，你知道的，好几个月过去了，我觉得很明显他们...他们...反正在我看来，就是很明显嘛，这事儿八成是黄了。我心里基本上已经把它给划掉了。",
     "text_es": "La sorpresa más grande probablemente ha sido... Hay casos en los que pensé que la empresa no lo iba a lograr. Yo... eh, o el producto no funcionaba, y sabes, habían pasado muchos meses, y para mí era muy claro que ellos... bueno, yo pensaba que era obvio que, okay, esto probablemente no va a salir adelante. En mi mente ya lo había dado por perdido.",
-    "key_sentence": "I kind of wrote it off, thinking I could count a portfolio company out."
+    "key_sentence": "There are cases when I didn't think the company would make it.",
+    "text_trimmed": true,
+    "original_text": "The biggest surprise has probably been ... There are cases when I didn't think the company would make it. I- uh, either the product wasn't working, and you know, many months had passed, and it was very clear that they're- they- well, to me, I thought it was clear that, okay, that this probably isn't gonna work out. In my head I kinda wrote it off.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "surprise",
+        "definition": "An unexpected event or occurrence that causes astonishment or shock.",
+        "businessContext": "In business, a surprise can refer to unforeseen outcomes in market trends, financial results, or project developments that can significantly impact strategic planning.",
+        "nuance": "While 'surprise' can have a positive connotation, such as a pleasant surprise in sales growth, it can also imply negative outcomes, making it essential to clarify the context.",
+        "synonyms": [
+          "astonishment",
+          "shock"
+        ],
+        "antonyms": [
+          "expectation",
+          "predictability"
+        ]
+      },
+      {
+        "word": "mentally",
+        "definition": "In a manner relating to the mind or cognitive processes.",
+        "businessContext": "In a business context, being mentally prepared refers to the psychological readiness to face challenges, make decisions, or adapt to changes in the workplace.",
+        "nuance": "The term often emphasizes the importance of mental resilience and clarity in high-pressure environments, distinguishing it from physical readiness.",
+        "synonyms": [
+          "cognitively",
+          "intellectually"
+        ],
+        "antonyms": [
+          "physically",
+          "emotionally"
+        ]
+      },
+      {
+        "word": "written off",
+        "definition": "To dismiss or disregard something as no longer viable or valuable, often in a financial or strategic context.",
+        "businessContext": "In finance, an asset may be 'written off' when it is deemed uncollectible or worthless, impacting a company's balance sheet and overall financial health.",
+        "nuance": "This phrase can carry a negative implication, suggesting failure or loss, and is typically used when discussing losses rather than gains.",
+        "synonyms": [
+          "dismissed",
+          "abandoned"
+        ],
+        "antonyms": [
+          "recognized",
+          "valued"
+        ]
+      },
+      {
+        "word": "succeed",
+        "definition": "To achieve a desired aim or result, particularly in a competitive or challenging environment.",
+        "businessContext": "In business, success can be measured through various metrics such as profitability, market share, or successful project completion, often reflecting the effectiveness of strategies employed.",
+        "nuance": "While 'succeed' generally has a positive connotation, it can also imply the pressure to continuously perform well, making it a term that carries both achievement and expectation.",
+        "synonyms": [
+          "prosper",
+          "thrive"
+        ],
+        "antonyms": [
+          "fail",
+          "struggle"
+        ]
+      }
+    ]
   }
 ]

@@ -1,14 +1,14 @@
 [
   {
-    "text": "The user of the AI tools to develop software needs to form a different thinking. You need to start figuring out how are you using these AI tools to help you be successful. And it's no longer just the actual code writing, it's really evolving your thinking to the big picture, to the connected experience, to connected systems, which today we just find it more in the world of more senior developers and less and less in the junior developers.",
+    "text": "The user of the AI tools to develop software needs to form a different thinking. You need to start figuring out how are you using these AI tools to help you be successful.",
     "speaker": "Inbal Shani",
     "timestamp": "00:00:00",
     "context": "Lenny asks about how software development will be different in the future with AI tools like Copilot. Inbal explains that developers will need to shift their mindset when working with AI-powered development tools. Instead of focusing primarily on writing code, they'll need to think more systematically about architecture, user experience, and how different systems connect together - skills that are currently more common among senior developers.",
     "vocabulary_highlights": [
-      "form a different thinking",
-      "big picture",
-      "connected experience",
-      "connected systems"
+      "shift",
+      "mindset",
+      "tools",
+      "successful"
     ],
     "topics": [
       "Career Development",
@@ -24,16 +24,79 @@
     "text_ko": "AI 도구(AI tools)를 써서 소프트웨어를 개발하는 사람은 사고 방식 자체를 달리 가져가야 해요. 이 도구들을 어떻게 활용해서 성공을 만들지부터 고민하기 시작해야 해요. 이제는 단순히 코드 작성(code writing)만이 아니라 더 큰 그림으로 사고를 확장해 연결된 경험(connected experience)과 연결된 시스템(connected systems)을 생각해야 해요. 그런 관점은 요즘 시니어 개발자들(senior developers) 쪽에서 더 많이 보이고, 주니어 개발자들(junior developers)에겐 점점 덜 보이고 있어요.",
     "text_zh": "用AI工具来开发软件的人得转变一下思路。你得琢磨怎么用这些AI工具帮你做成事儿。现在不光是写代码那么简单了，你得把思维格局打开，要考虑大局，考虑用户体验的连贯性，考虑系统之间怎么打通。这种思维方式现在主要还是资深开发者有，初级开发者越来越缺这块儿。",
     "text_es": "Quien usa herramientas de IA para desarrollar software necesita cambiar su forma de pensar. Tienes que empezar a entender cómo vas a usar estas herramientas de IA para tener éxito. Y ya no se trata solo de escribir código, sino de evolucionar tu mentalidad hacia el panorama general (big picture), hacia la experiencia conectada, hacia sistemas conectados - algo que hoy en día vemos más en desarrolladores senior y cada vez menos en los junior.",
-    "key_sentence": "Users of AI tools must form a different thinking for success."
+    "key_sentence": "Users of AI tools must form a different thinking for success.",
+    "text_trimmed": true,
+    "original_text": "The user of the AI tools to develop software needs to form a different thinking. You need to start figuring out how are you using these AI tools to help you be successful. And it's no longer just the actual code writing, it's really evolving your thinking to the big picture, to the connected experience, to connected systems, which today we just find it more in the world of more senior developers and less and less in the junior developers.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "shift",
+        "definition": "To change or move from one position, situation, or state to another.",
+        "businessContext": "In business, a 'shift' often refers to a strategic change in direction, such as altering a company's focus or adapting to market demands.",
+        "nuance": "While 'shift' implies a change, it can also suggest a gradual transition rather than an abrupt alteration.",
+        "synonyms": [
+          "change",
+          "transition"
+        ],
+        "antonyms": [
+          "stability",
+          "continuity"
+        ]
+      },
+      {
+        "word": "mindset",
+        "definition": "A set of beliefs or attitudes that shape how an individual thinks and behaves.",
+        "businessContext": "In a corporate environment, fostering a growth mindset can encourage innovation and adaptability among employees, essential for navigating challenges.",
+        "nuance": "The term often carries a connotation of being entrenched in one's views, making it important to encourage openness to new ideas.",
+        "synonyms": [
+          "attitude",
+          "perspective"
+        ],
+        "antonyms": [
+          "fixed mindset",
+          "narrow view"
+        ]
+      },
+      {
+        "word": "tools",
+        "definition": "Instruments or software applications used to perform tasks or solve problems.",
+        "businessContext": "In the tech industry, 'tools' can refer to software development platforms, project management applications, or any resources that enhance productivity and efficiency.",
+        "nuance": "The term can imply both physical instruments and digital solutions, so context is key to understanding its specific application.",
+        "synonyms": [
+          "resources",
+          "instruments"
+        ],
+        "antonyms": [
+          "obstacles",
+          "hindrances"
+        ]
+      },
+      {
+        "word": "successful",
+        "definition": "Achieving desired aims or attaining prosperity in a particular endeavor.",
+        "businessContext": "In a business context, being 'successful' often relates to meeting or exceeding goals, such as revenue targets or market share.",
+        "nuance": "The term can be subjective, as success may vary greatly depending on individual or organizational objectives.",
+        "synonyms": [
+          "prosperous",
+          "effective"
+        ],
+        "antonyms": [
+          "unsuccessful",
+          "failing"
+        ]
+      }
+    ]
   },
   {
-    "text": "When we're looking into what's happening right now with AI, it really became table stakes on expectations among developers, and it's really central and critical for them to be able to do their job. We know that something like 92% of developers are already using AI tools.",
+    "text": "When we're looking into what's happening right now with AI, it really became table stakes on expectations among developers, and it's really central and critical for them to be able to do their job.",
     "speaker": "Inbal Shani",
     "timestamp": "05:11",
     "context": "Lenny asks what's overhyped versus underhyped in AI and software development. Inbal explains that AI has become a fundamental expectation in developer tooling rather than a nice-to-have feature. She shares statistics showing the widespread adoption of AI tools among developers, emphasizing how quickly these tools have become essential to the development process.",
     "vocabulary_highlights": [
       "table stakes",
-      "central and critical"
+      "central",
+      "critical",
+      "fundamental"
     ],
     "topics": [
       "Product Management",
@@ -49,16 +112,79 @@
     "text_ko": "지금 AI 현황을 보면, 개발자들(developers) 사이에선 이제 '기본 요건(table stakes)'이 되었고, 그게 일을 하는 데 있어 정말 핵심이자 필수 조건이에요. 이미 약 92%의 개발자들이 AI 도구(AI tools)를 사용하고 있어요.",
     "text_zh": "我们现在看AI这块儿，对开发者来说基本上已经是必备条件了，这对他们干活儿来说真的是核心需求。我们知道大概92%的开发者已经在用AI工具了。",
     "text_es": "Cuando vemos lo que está pasando ahora mismo con la IA, realmente se volvió algo básico e indispensable en las expectativas de los desarrolladores, y es realmente central y crítico para que puedan hacer su trabajo. Sabemos que algo como el 92% de los desarrolladores ya están usando herramientas de IA.",
-    "key_sentence": "AI tools are table stakes for developers' job expectations."
+    "key_sentence": "AI tools are table stakes for developers' job expectations.",
+    "text_trimmed": true,
+    "original_text": "When we're looking into what's happening right now with AI, it really became table stakes on expectations among developers, and it's really central and critical for them to be able to do their job. We know that something like 92% of developers are already using AI tools.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "table stakes",
+        "definition": "Table stakes refer to the minimum requirements or essential elements needed to compete in a particular market or industry.",
+        "businessContext": "In business and technology, table stakes often denote the baseline features or capabilities that a product must have to be considered viable or competitive.",
+        "nuance": "While the term suggests a baseline, it can also imply that merely meeting these expectations is not sufficient for success; differentiation is still necessary.",
+        "synonyms": [
+          "minimum requirements",
+          "baseline expectations"
+        ],
+        "antonyms": [
+          "luxury features",
+          "optional enhancements"
+        ]
+      },
+      {
+        "word": "central",
+        "definition": "Central refers to something that is of primary importance or is located at the heart of a particular issue or system.",
+        "businessContext": "In a business context, a central element is often crucial for strategy formulation, decision-making, or operational efficiency.",
+        "nuance": "The term can imply not only importance but also a position of influence or control within a larger framework.",
+        "synonyms": [
+          "essential",
+          "key"
+        ],
+        "antonyms": [
+          "peripheral",
+          "secondary"
+        ]
+      },
+      {
+        "word": "critical",
+        "definition": "Critical describes something that is of great importance or essential to the success or failure of a situation.",
+        "businessContext": "In business, critical factors often refer to elements that can significantly impact project outcomes, operational success, or strategic initiatives.",
+        "nuance": "The term can also convey urgency, suggesting that immediate attention or action is required.",
+        "synonyms": [
+          "crucial",
+          "vital"
+        ],
+        "antonyms": [
+          "insignificant",
+          "trivial"
+        ]
+      },
+      {
+        "word": "fundamental",
+        "definition": "Fundamental refers to something that is basic, foundational, or essential to the nature of a system or concept.",
+        "businessContext": "In the business realm, fundamental principles often underpin strategies, policies, and practices that guide organizational behavior and decision-making.",
+        "nuance": "While it denotes something essential, it can also suggest simplicity or a lack of complexity in its nature.",
+        "synonyms": [
+          "basic",
+          "core"
+        ],
+        "antonyms": [
+          "superficial",
+          "nonessential"
+        ]
+      }
+    ]
   },
   {
-    "text": "Most developers span less than 25, some say less than 20% of their time writing in code. So if we're able to give them half an hour back, one, they can write more code. Second, they can have a break and take a breath so we don't burn them out and they're more happy. Third, we give them more time for collaboration and creative thinking, so that sparks innovation.",
+    "text": "Most developers span less than 25, some say less than 20% of their time writing in code. So if we're able to give them half an hour back, one, they can write more code.",
     "speaker": "Inbal Shani",
     "timestamp": "13:03",
     "context": "Lenny suggests that companies might think they need fewer engineers if AI makes them 25% more efficient. Inbal pushes back on this idea, explaining that developers already spend very little time actually writing code due to all their other responsibilities like meetings, collaboration, and legacy system maintenance. She argues that AI efficiency gains should be used to improve developer happiness and enable more innovation rather than reduce headcount.",
     "vocabulary_highlights": [
-      "burn them out",
-      "sparks innovation"
+      "efficient",
+      "developers",
+      "writing in code",
+      "time back"
     ],
     "topics": [
       "Work-Life Balance",
@@ -74,16 +200,79 @@
     "text_ko": "대부분의 개발자들(developers)은 코드(code)를 작성하는 데에 25%도 채 쓰지 못하고, 어떤 분들은 20%도 안 쓴다고들 해요. 그래서 우리가 30분만 돌려줄 수 있다면, 첫째로 더 많은 코드를 작성할 수 있어요. 둘째로 한숨 돌릴 시간이 생겨 번아웃(burnout)을 막고 더 행복해져요. 셋째로 협업(collaboration)과 창의적 사고(creative thinking)에 더 많은 시간을 쓸 수 있어서 결국 혁신(innovation)을 촉발해요.",
     "text_zh": "大部分开发者写代码的时间其实不到25%，有人说甚至不到20%。所以如果我们能给他们省出半小时，第一，他们可以写更多代码。第二，他们能歇口气，不会那么累，心情也更好。第三，给他们更多时间去协作和创新思考，这样就能激发更多创意。",
     "text_es": "La mayoría de los desarrolladores dedican menos del 25% de su tiempo, algunos dicen que menos del 20%, escribiendo código. Entonces, si logramos devolverles media hora, primero, pueden escribir más código. Segundo, pueden tomarse un respiro para no quemarse y estar más contentos. Y tercero, les damos más tiempo para colaborar y pensar de forma creativa, lo que genera innovación.",
-    "key_sentence": "Giving developers time back sparks innovation and prevents burnout."
+    "key_sentence": "Most developers span less than 25, some say less than 20% of their time writing in code.",
+    "text_trimmed": true,
+    "original_text": "Most developers span less than 25, some say less than 20% of their time writing in code. So if we're able to give them half an hour back, one, they can write more code. Second, they can have a break and take a breath so we don't burn them out and they're more happy. Third, we give them more time for collaboration and creative thinking, so that sparks innovation.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "efficient",
+        "definition": "Achieving maximum productivity with minimum wasted effort or expense.",
+        "businessContext": "In business and technology, efficiency is crucial for optimizing processes, reducing costs, and improving overall performance.",
+        "nuance": "While 'efficient' often has a positive connotation, it can imply a focus on speed over quality if not balanced appropriately.",
+        "synonyms": [
+          "effective",
+          "productive"
+        ],
+        "antonyms": [
+          "inefficient",
+          "wasteful"
+        ]
+      },
+      {
+        "word": "developers",
+        "definition": "Professionals who create software applications or systems by writing code and utilizing various programming languages.",
+        "businessContext": "In the tech industry, developers are essential for building products, maintaining software, and driving innovation within organizations.",
+        "nuance": "The term can refer to different specializations, such as front-end, back-end, or full-stack developers, each with distinct roles and skills.",
+        "synonyms": [
+          "programmers",
+          "software engineers"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "writing in code",
+        "definition": "The process of creating instructions for computers using programming languages.",
+        "businessContext": "In software development, writing in code is a fundamental task that enables the creation of applications, websites, and systems that meet user needs.",
+        "nuance": "This phrase emphasizes the technical aspect of software development, distinguishing it from other tasks such as design or project management.",
+        "synonyms": [
+          "coding",
+          "programming"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "time back",
+        "definition": "The concept of reclaiming or saving time that can be redirected towards productive activities.",
+        "businessContext": "In a business context, giving employees 'time back' can enhance productivity, allowing them to focus on core tasks that drive value.",
+        "nuance": "This phrase is often used informally and may imply a more casual approach to time management, contrasting with more formal time allocation strategies.",
+        "synonyms": [
+          "time saved",
+          "time regained"
+        ],
+        "antonyms": [
+          "time lost",
+          "time wasted"
+        ]
+      }
+    ]
   },
   {
-    "text": "We are in a world that there are no right metrics. There is no one metric to rule them all. It's a combination of the things that you're looking to measure out of adopting AI. The most easiest one is time, but time is, it's funny what I'm going to say, but time is not quantifiable as a success metrics because you can write really bad code really fast.",
+    "text": "We are in a world that there are no right metrics. There is no one metric to rule them all. It's a combination of the things that you're looking to measure out of adopting AI.",
     "speaker": "Inbal Shani",
     "timestamp": "20:35",
     "context": "Lenny asks about success metrics for Copilot and how GitHub measures productivity gains from AI tools. Inbal explains the complexity of measuring AI effectiveness in software development. She emphasizes that simple metrics like time saved or lines of code written don't capture the full value, since developers could potentially write poor quality code faster. The challenge is finding metrics that reflect true productivity and code quality improvements.",
     "vocabulary_highlights": [
-      "one metric to rule them all",
-      "not quantifiable"
+      "metrics",
+      "measure",
+      "effectiveness",
+      "complexity"
     ],
     "topics": [
       "Product Management",
@@ -99,7 +288,68 @@
     "text_ko": "우리는 정답인 메트릭(metrics)이 존재하지 않는 세상에 있어요. 모든 것을 해결해주는 단 하나의 메트릭은 없고요. AI(인공지능)를 도입해서 무엇을 측정하려는지에 따라 여러 항목을 조합해야 해요. 가장 쉬운 건 시간인데, 웃긴 얘기지만 시간만으로 성공 지표(success metrics)를 삼을 수는 없어요. 왜냐하면 정말 형편없는 코드(code)를 아주 빠르게 쓸 수도 있으니까요.",
     "text_zh": "我们现在面临的情况是，没有什么标准的衡量指标。不存在一个万能的指标能解决所有问题。你得把各种你想要衡量的AI应用效果综合起来看。最容易衡量的就是时间，但是说出来可能有点搞笑，时间其实不能算是一个可靠的成功指标，因为你完全可以很快地写出一堆烂代码。",
     "text_es": "Estamos en un mundo donde no existen las métricas perfectas. No hay una sola métrica que lo resuelva todo. Es una combinación de las cosas que buscas medir al adoptar IA. La más fácil es el tiempo, pero el tiempo es... va a sonar raro lo que voy a decir, pero el tiempo no se puede cuantificar como métrica de éxito porque puedes escribir código pésimo muy rápido.",
-    "key_sentence": "No one metric to rule them all exists for AI adoption."
+    "key_sentence": "No one metric to rule them all exists for AI adoption.",
+    "text_trimmed": true,
+    "original_text": "We are in a world that there are no right metrics. There is no one metric to rule them all. It's a combination of the things that you're looking to measure out of adopting AI. The most easiest one is time, but time is, it's funny what I'm going to say, but time is not quantifiable as a success metrics because you can write really bad code really fast.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "metrics",
+        "definition": "Metrics are quantitative measures used to assess, compare, and track performance or progress in various domains.",
+        "businessContext": "In business and technology, metrics are essential for evaluating the success of strategies, products, and processes, particularly in data-driven decision-making.",
+        "nuance": "While metrics provide valuable insights, relying solely on them can lead to a narrow view of performance; it's important to consider qualitative factors as well.",
+        "synonyms": [
+          "measurements",
+          "indicators"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "measure",
+        "definition": "To measure is to ascertain the size, amount, or degree of something using a standard unit or method.",
+        "businessContext": "In a business context, measuring performance, customer satisfaction, or market trends is crucial for informed decision-making and strategic planning.",
+        "nuance": "The term can imply both quantitative assessments (like sales figures) and qualitative evaluations (like customer feedback), depending on the context.",
+        "synonyms": [
+          "assess",
+          "evaluate"
+        ],
+        "antonyms": [
+          "ignore",
+          "neglect"
+        ]
+      },
+      {
+        "word": "effectiveness",
+        "definition": "Effectiveness refers to the degree to which something is successful in producing a desired result or outcome.",
+        "businessContext": "In business, assessing the effectiveness of campaigns, strategies, or technologies is vital for optimizing resources and achieving organizational goals.",
+        "nuance": "Effectiveness often emphasizes the achievement of objectives, while efficiency focuses on the resources used to achieve those objectives.",
+        "synonyms": [
+          "efficacy",
+          "success"
+        ],
+        "antonyms": [
+          "ineffectiveness",
+          "failure"
+        ]
+      },
+      {
+        "word": "complexity",
+        "definition": "Complexity is the state of having multiple interconnected parts, making something intricate and difficult to understand or analyze.",
+        "businessContext": "In technology and business, understanding complexity is crucial when developing systems, processes, or products, as it can impact usability and scalability.",
+        "nuance": "While complexity can indicate sophistication, it can also lead to challenges in implementation and communication, so it's important to balance complexity with clarity.",
+        "synonyms": [
+          "intricacy",
+          "complication"
+        ],
+        "antonyms": [
+          "simplicity",
+          "ease"
+        ]
+      }
+    ]
   },
   {
     "text": "If you try to structure innovation, you're losing that organic spark that is humanity. Imagine that someone say you have 15 minutes a day to be creative. I don't think it's the pull. So it's encouraging that thinking more than structured.",
@@ -107,8 +357,10 @@
     "timestamp": "36:18",
     "context": "Lenny asks how GitHub structures teams to allow for innovation and experimentation, similar to how Copilot emerged from their research efforts. Inbal explains that innovation at GitHub comes from everywhere - field teams, product teams, engineering, and design. She argues against overly structured approaches to innovation, believing that forcing creativity into specific time slots or rigid frameworks kills the natural human spark that drives breakthrough ideas.",
     "vocabulary_highlights": [
-      "organic spark",
-      "I don't think it's the pull"
+      "structure",
+      "innovation",
+      "encouraging",
+      "experimentation"
     ],
     "topics": [
       "Leadership & Management",
@@ -124,16 +376,77 @@
     "text_ko": "혁신(innovation)을 틀에 맞춰 구조화하려고 하면 인간 고유의 자연스러운 불꽃을 잃게 돼요. 누군가가 '하루에 15분만 창의적으로 해라'고 말한다고 상상해보세요 — 그게 사람들을 끌어들이는 힘이 되진 않을 거예요. 그래서 구조화된 접근보다 생각(사고)을 더 중요하게 여기는 태도가 오히려 고무적이에요.",
     "text_zh": "如果你想把创新搞得很结构化，那你就失去了人性中那种自然的灵感火花。你想想，要是有人跟你说每天只能有15分钟时间搞创意，这根本没什么吸引力啊。所以说，应该更多地鼓励这种思维方式，而不是把它框得死死的。",
     "text_es": "Si tratas de estructurar la innovación, pierdes esa chispa natural que es lo humano. Imagínate que alguien te diga que tienes 15 minutos al día para ser creativo. No creo que esa sea la clave. Entonces se trata más de fomentar ese pensamiento que de estructurarlo.",
-    "key_sentence": "Structuring innovation loses the organic spark of creativity."
+    "key_sentence": "you're losing that organic spark that is humanity.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "structure",
+        "definition": "The arrangement or organization of components within a system or framework.",
+        "businessContext": "In business, structure often refers to the organizational hierarchy or the systematic approach to project management and workflow.",
+        "nuance": "While 'structure' implies order and efficiency, over-structuring can stifle creativity and flexibility.",
+        "synonyms": [
+          "framework",
+          "organization"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorder"
+        ]
+      },
+      {
+        "word": "innovation",
+        "definition": "The process of creating new ideas, products, or methods that significantly improve or transform existing practices.",
+        "businessContext": "In the business world, innovation is crucial for competitive advantage and can lead to the development of new markets or the enhancement of customer experiences.",
+        "nuance": "Innovation carries a positive connotation of progress and improvement, but it can also imply risk and uncertainty.",
+        "synonyms": [
+          "creativity",
+          "advancement"
+        ],
+        "antonyms": [
+          "stagnation",
+          "conformity"
+        ]
+      },
+      {
+        "word": "encouraging",
+        "definition": "Providing support, confidence, or hope to someone, often to foster positive behavior or outcomes.",
+        "businessContext": "In a business setting, encouraging leadership can enhance team morale and drive productivity by motivating employees to embrace challenges.",
+        "nuance": "While 'encouraging' has a generally positive connotation, it can sometimes imply a lack of critical feedback if overused.",
+        "synonyms": [
+          "supportive",
+          "motivating"
+        ],
+        "antonyms": [
+          "discouraging",
+          "dismissing"
+        ]
+      },
+      {
+        "word": "experimentation",
+        "definition": "The process of testing new ideas or methods through trials to determine their effectiveness or feasibility.",
+        "businessContext": "In tech and startup environments, experimentation is vital for product development and market validation, allowing teams to iterate based on real-world feedback.",
+        "nuance": "Experimentation suggests a willingness to take risks and learn from failures, which is essential in dynamic industries but may be viewed as reckless in more traditional settings.",
+        "synonyms": [
+          "testing",
+          "trial-and-error"
+        ],
+        "antonyms": [
+          "certainty",
+          "conformity"
+        ]
+      }
+    ]
   },
   {
-    "text": "And I've seen that when I started doing that without building that understanding of why we need to do a change or why this is a problem that we need to go and fix it, then you don't take people with you through that journey. So really analyzing that not everyone appreciate change the way you are, not everyone has that mindset of the go, go, go, let's go do it.",
+    "text": "And I've seen that when I started doing that without building that understanding of why we need to do a change or why this is a problem that we need to go and fix it, then you don't take people with you through that journey.",
     "speaker": "Inbal Shani",
     "timestamp": "43:03",
     "context": "Lenny asks about Inbal's biggest career failure in a new segment called 'Failure Corner.' Inbal shares her early leadership experience at TomTom where she tried to drive too much change too quickly. She learned that her high-energy, action-oriented approach didn't work when she failed to explain the reasoning behind changes or get team buy-in first. This taught her the importance of change management and taking people along on the transformation journey.",
     "vocabulary_highlights": [
-      "take people with you through that journey",
-      "go, go, go"
+      "understanding",
+      "drive change",
+      "take people with you",
+      "journey"
     ],
     "topics": [
       "Leadership & Management",
@@ -149,6 +462,67 @@
     "text_ko": "제가 해보니 왜 변화를 해야 하는지, 왜 이 문제를 해결해야 하는지에 대한 이해를 먼저 만들지 않고 바로 시작하면 사람들을 그 여정에 함께 끌고 갈 수 없더라고요. 그래서 정말 잘 분석해봐야 해요. 모든 사람이 당신처럼 변화를 좋아하거나 '빨리빨리, 바로 해보자'라는 마인드셋(mindset)을 가진 건 아니거든요.",
     "text_zh": "我发现如果一开始就直接动手，没有先让大家明白为什么要做这个改变，或者为什么这个问题必须得解决，那你就没法带着团队一起走。所以真的要想清楚，不是每个人都像你一样喜欢变化，不是每个人都有那种\"冲冲冲，干就完了\"的心态。",
     "text_es": "Y he visto que cuando empecé a hacer eso sin construir primero esa comprensión de por qué necesitamos hacer un cambio o por qué esto es un problema que tenemos que resolver, entonces la gente no te sigue en ese proceso. Así que realmente hay que analizar que no todo el mundo aprecia el cambio como tú, no todo el mundo tiene esa mentalidad de \"vamos, vamos, vamos, hagámoslo\".",
-    "key_sentence": "Understanding change is crucial to take people with you through that journey."
+    "key_sentence": "Understanding change is crucial to take people with you through that journey.",
+    "text_trimmed": true,
+    "original_text": "And I've seen that when I started doing that without building that understanding of why we need to do a change or why this is a problem that we need to go and fix it, then you don't take people with you through that journey. So really analyzing that not everyone appreciate change the way you are, not everyone has that mindset of the go, go, go, let's go do it.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "understanding",
+        "definition": "The ability to grasp the meaning, significance, or nature of something; comprehension.",
+        "businessContext": "In business, understanding often refers to the awareness of market dynamics, customer needs, or internal processes that inform decision-making.",
+        "nuance": "While 'understanding' implies a deep comprehension, it can also suggest empathy or insight into others' perspectives, making it essential in leadership and team dynamics.",
+        "synonyms": [
+          "comprehension",
+          "insight"
+        ],
+        "antonyms": [
+          "misunderstanding",
+          "ignorance"
+        ]
+      },
+      {
+        "word": "drive change",
+        "definition": "To actively promote or instigate alterations in processes, strategies, or organizational culture.",
+        "businessContext": "In a business setting, driving change is crucial for innovation and adaptation, often led by leaders or change agents to improve efficiency or respond to market demands.",
+        "nuance": "The phrase carries a proactive connotation, suggesting not just the initiation of change but also the motivation and leadership required to sustain it.",
+        "synonyms": [
+          "initiate transformation",
+          "lead change"
+        ],
+        "antonyms": [
+          "resist change",
+          "maintain status quo"
+        ]
+      },
+      {
+        "word": "take people with you",
+        "definition": "To ensure that others are engaged, supportive, and aligned with a particular vision or change initiative.",
+        "businessContext": "This phrase is often used in leadership contexts where influencing and persuading team members is essential for successful implementation of strategies or projects.",
+        "nuance": "It implies a collaborative approach, emphasizing the importance of communication and empathy in leadership rather than unilateral decision-making.",
+        "synonyms": [
+          "gain buy-in",
+          "build consensus"
+        ],
+        "antonyms": [
+          "alienate others",
+          "create division"
+        ]
+      },
+      {
+        "word": "journey",
+        "definition": "A process of development or progression toward a particular goal or outcome, often involving various stages or experiences.",
+        "businessContext": "In business, 'journey' frequently refers to the customer journey, employee journey, or organizational change journey, highlighting the importance of experiences along the way.",
+        "nuance": "The term suggests a dynamic and evolving process, often with ups and downs, rather than a straightforward path, which can resonate emotionally with stakeholders.",
+        "synonyms": [
+          "process",
+          "pathway"
+        ],
+        "antonyms": [
+          "destination",
+          "standstill"
+        ]
+      }
+    ]
   }
 ]

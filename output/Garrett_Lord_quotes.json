@@ -1,14 +1,14 @@
 [
   {
-    "text": "Generally speaking, anytime that you're interacting with a model and you're asking it to do really advanced things, and it's not performing your expectations, like somewhere there's probably an expert that is the top mind in that domain working directly for the best researchers in the world at the Frontier Labs trying to understand and go through the scientific iteration process of how to make that better.",
+    "text": "anytime that you're interacting with a model and you're asking it to do really advanced things, and it's not performing your expectations, like somewhere there's probably an expert...working directly for the best researchers in the world.",
     "speaker": "Garrett Lord",
     "timestamp": "00:27:58",
     "context": "Lenny asks if there's anything else about the data labeling field that people don't fully understand. Garrett explains how AI labs are constantly working to improve model performance across different domains. When users experience limitations with AI models in advanced areas, there are likely domain experts already working with top researchers at frontier AI labs to address those specific weaknesses through a scientific process of iteration and improvement.",
     "vocabulary_highlights": [
-      "performing your expectations",
-      "top mind in that domain",
-      "frontier labs",
-      "scientific iteration process"
+      "interacting",
+      "performing",
+      "expert",
+      "researchers"
     ],
     "topics": [
       "Product Management",
@@ -24,17 +24,79 @@
     "text_ko": "보통은 모델(model)하고 상호작용하면서 정말 고난도 작업을 시키는데 기대만큼 성능이 안 나오면, 어딘가엔 아마 그 분야의 최고 전문가가 있고요. 그 전문가는 세계 최고 연구자들과 함께 프론티어 랩(Frontier Labs)에서 직접 문제를 파악하고 어떻게 개선할지 과학적 반복 개선 과정(scientific iteration process)을 거치며 연구하고 있을 가능성이 커요.",
     "text_zh": "一般来说，当你在使用模型，让它做一些特别高端的任务，但它的表现达不到你的期望时，背后肯定有这个领域的顶级专家，在世界最好的前沿实验室(Frontier Labs)里跟最牛的研究人员一起合作，通过科学的迭代过程来琢磨怎么把这个问题解决得更好。",
     "text_es": "En términos generales, cada vez que estás trabajando con un modelo y le pides que haga cosas realmente avanzadas, y no está cumpliendo con tus expectativas, seguramente hay un experto en algún lugar que es la mente más brillante en ese campo, trabajando directamente con los mejores investigadores del mundo en los Frontier Labs, tratando de entender y llevando a cabo todo el proceso de iteración científica para mejorar esa función.",
-    "key_sentence": "An expert at Frontier Labs can improve models not performing your expectations."
+    "key_sentence": "somewhere there's probably an expert...working directly for the best researchers in the world.",
+    "text_trimmed": true,
+    "original_text": "Generally speaking, anytime that you're interacting with a model and you're asking it to do really advanced things, and it's not performing your expectations, like somewhere there's probably an expert that is the top mind in that domain working directly for the best researchers in the world at the Frontier Labs trying to understand and go through the scientific iteration process of how to make that better.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "interacting",
+        "definition": "The act of communicating or engaging with someone or something, often involving a reciprocal exchange.",
+        "businessContext": "In business and technology, interacting often refers to the way users engage with software, models, or systems to achieve desired outcomes.",
+        "nuance": "While 'interacting' implies a two-way communication, it can also suggest varying levels of engagement, from passive observation to active participation.",
+        "synonyms": [
+          "communicating",
+          "engaging"
+        ],
+        "antonyms": [
+          "isolating",
+          "disengaging"
+        ]
+      },
+      {
+        "word": "performing",
+        "definition": "Executing a task or function, particularly in a manner that meets or exceeds established standards or expectations.",
+        "businessContext": "In a business context, performing often relates to the effectiveness of employees, systems, or technologies in achieving specific goals or metrics.",
+        "nuance": "The term 'performing' can carry a positive connotation when results are favorable, but may imply failure or inadequacy when expectations are not met.",
+        "synonyms": [
+          "executing",
+          "operating"
+        ],
+        "antonyms": [
+          "failing",
+          "underperforming"
+        ]
+      },
+      {
+        "word": "expert",
+        "definition": "A person who possesses a high level of knowledge or skill in a particular area, often recognized by peers or industry standards.",
+        "businessContext": "In business, experts are often sought for their specialized knowledge to inform decision-making, guide projects, or provide training.",
+        "nuance": "The term 'expert' suggests a depth of experience and authority, but can also imply a narrow focus; it's important to specify the area of expertise.",
+        "synonyms": [
+          "specialist",
+          "authority"
+        ],
+        "antonyms": [
+          "novice",
+          "amateur"
+        ]
+      },
+      {
+        "word": "researchers",
+        "definition": "Individuals or groups engaged in systematic investigation to establish facts, gather information, or develop new insights in a specific field.",
+        "businessContext": "Researchers in business and technology often contribute to innovation, product development, and market analysis by providing data-driven insights.",
+        "nuance": "While 'researchers' typically denotes a formal role within academia or industry, it can also imply a broader group of individuals involved in inquiry and analysis.",
+        "synonyms": [
+          "investigators",
+          "analysts"
+        ],
+        "antonyms": [
+          "practitioners",
+          "doers"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think if you viewed your research team and your model building team, and the experiments they're running to be really the cornerstone of how you're improving, you probably wouldn't want the latest research of what you're trying to work on being invested in by a peer. We like to say the only moat in human data is access to an audience.",
+    "text": "the only moat in human data is access to an audience.",
     "speaker": "Garrett Lord",
     "timestamp": "00:29:50",
     "context": "Lenny asks about Scale AI being acquired by Meta and whether this creates opportunities for other companies in the data labeling space. Garrett explains why AI labs prefer working with independent data providers rather than competitors. He emphasizes that in the human data labeling business, the key competitive advantage is having direct access to the right experts, rather than relying on expensive recruitment and advertising to find qualified people.",
     "vocabulary_highlights": [
-      "cornerstone of how you're improving",
-      "invested in by a peer",
-      "only moat in human data"
+      "moat",
+      "access",
+      "audience",
+      "opportunities"
     ],
     "topics": [
       "Strategy & Planning",
@@ -50,17 +112,79 @@
     "text_ko": "연구팀과 모델 구축 팀, 그리고 그들이 진행하는 실험이 개선의 핵심이라고 생각한다면, 아마도 당신이 작업하고 있는 최신 연구가 동료에게 투자되는 걸 원하지 않을 거예요. 우리는 인간 데이터에서 유일한 방어선은 청중에 대한 접근이라고 자주 말하곤 해요.",
     "text_zh": "我觉得如果你把研究团队、模型搭建团队，还有他们跑的那些实验当作是你们改进提升的核心基石，那你肯定不希望竞争对手也投资你正在研究的最新方向吧。我们常说，在人类数据这块，唯一的护城河就是能接触到用户群体。",
     "text_es": "Mira, si consideras que tu equipo de investigación y tu equipo de desarrollo de modelos, y los experimentos que están haciendo, son realmente la base de cómo vas mejorando, probablemente no querrías que la investigación más reciente en lo que estás trabajando esté siendo financiada por un competidor. Nos gusta decir que la única ventaja competitiva real en datos humanos es tener acceso a una audiencia.",
-    "key_sentence": "Your research team is the cornerstone of how you're improving access to an audience."
+    "key_sentence": "the only moat in human data is access to an audience.",
+    "text_trimmed": true,
+    "original_text": "I think if you viewed your research team and your model building team, and the experiments they're running to be really the cornerstone of how you're improving, you probably wouldn't want the latest research of what you're trying to work on being invested in by a peer. We like to say the only moat in human data is access to an audience.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "moat",
+        "definition": "A moat is a protective barrier, often a physical or metaphorical one, that safeguards a business from competition. In business, it refers to unique advantages that prevent competitors from easily entering the market.",
+        "businessContext": "In the context of startups, a moat can include intellectual property, brand loyalty, or proprietary technology that gives a company a competitive edge.",
+        "nuance": "While traditionally associated with physical barriers, in business it often implies strategic advantages that are not easily replicable.",
+        "synonyms": [
+          "barrier",
+          "defense"
+        ],
+        "antonyms": [
+          "vulnerability",
+          "exposure"
+        ]
+      },
+      {
+        "word": "access",
+        "definition": "Access refers to the ability or right to approach, enter, or use something. It signifies the availability of resources or information to individuals or organizations.",
+        "businessContext": "In business and technology, access often pertains to the ability to utilize data, tools, or networks that can enhance operational efficiency and decision-making.",
+        "nuance": "Access can imply both privilege and restriction, depending on the context, and is often discussed in relation to data privacy and security.",
+        "synonyms": [
+          "entry",
+          "availability"
+        ],
+        "antonyms": [
+          "exclusion",
+          "denial"
+        ]
+      },
+      {
+        "word": "audience",
+        "definition": "An audience is a group of individuals who receive or engage with content, products, or services. It represents the target demographic for communication and marketing efforts.",
+        "businessContext": "In marketing and advertising, understanding the audience is crucial for tailoring messages and strategies that resonate and drive engagement.",
+        "nuance": "The term can imply a passive group of listeners or viewers, but in a business context, it often refers to an active participant in the brand experience.",
+        "synonyms": [
+          "viewers",
+          "consumers"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "opportunities",
+        "definition": "Opportunities are favorable situations or conditions that can be leveraged for growth, advancement, or profit. They represent potential avenues for success in various contexts.",
+        "businessContext": "In business, identifying opportunities is essential for strategic planning, market expansion, and innovation, often driving competitive advantage.",
+        "nuance": "While opportunities are generally seen as positive, they can also imply risk and require careful evaluation before pursuit.",
+        "synonyms": [
+          "prospects",
+          "possibilities"
+        ],
+        "antonyms": [
+          "challenges",
+          "obstacles"
+        ]
+      }
+    ]
   },
   {
-    "text": "The huge advantage that we've had and why we've resonated so fast in the marketplace is we built a decade of trust with 18 million people, and they trust us, and we built a ton of brand affinity, and they use Handshake, and they have an active profile, and we have a ton of information around their academic performance and what they've done in school.",
+    "text": "we built a decade of trust with 18 million people, and they trust us, and we built a ton of brand affinity.",
     "speaker": "Garrett Lord",
     "timestamp": "00:30:58",
     "context": "Garrett explains why Handshake has been so successful in the data labeling market compared to competitors. While other companies spend millions on advertising and recruiting to find experts, Handshake leveraged their existing decade-old platform that already had relationships with 18 million students and professionals. This existing trust and detailed user profiles gave them a massive competitive advantage in quickly scaling their expert network.",
     "vocabulary_highlights": [
-      "resonated so fast in the marketplace",
       "brand affinity",
-      "ton of information around"
+      "trust",
+      "built",
+      "success"
     ],
     "topics": [
       "Growth & Marketing",
@@ -76,16 +200,79 @@
     "text_ko": "우리가 가진 큰 장점이자 시장에서 이렇게 빠르게 반응을 얻은 이유는 10년 동안 1,800만 명과 쌓아온 신뢰 덕분이에요. 사람들은 우리를 믿고 있고, 브랜드에 대한 호감(brand affinity)도 많이 쌓였어요. 그들은 핸드쉐이크(Handshake)를 사용하고 활동적인 프로필을 가지고 있으며, 학업 성과나 학교에서 해온 활동에 대한 정보도 방대한 양으로 가지고 있어요.",
     "text_zh": "我们最大的优势，也是为什么能在市场上这么快打响的原因，就是我们花了十年时间跟1800万用户建立了信任关系，他们信任我们，而且我们积累了超强的品牌黏性(brand affinity)，他们都在用Handshake，档案也很活跃，我们掌握了大量他们学习成绩和在校表现的数据。",
     "text_es": "La ventaja enorme que hemos tenido y por qué hemos conectado tan rápido en el mercado es que construimos una década de confianza con 18 millones de personas, confían en nosotros, creamos un montón de afinidad con la marca, usan Handshake, tienen un perfil activo, y tenemos muchísima información sobre su rendimiento académico y lo que han hecho en la universidad.",
-    "key_sentence": "We resonated so fast in the marketplace due to brand affinity and trust with users."
+    "key_sentence": "we built a decade of trust with 18 million people, and they trust us",
+    "text_trimmed": true,
+    "original_text": "The huge advantage that we've had and why we've resonated so fast in the marketplace is we built a decade of trust with 18 million people, and they trust us, and we built a ton of brand affinity, and they use Handshake, and they have an active profile, and we have a ton of information around their academic performance and what they've done in school.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "brand affinity",
+        "definition": "Brand affinity refers to the emotional connection and loyalty that consumers feel towards a particular brand, often resulting in repeat purchases and advocacy.",
+        "businessContext": "In business, particularly in marketing and branding, fostering brand affinity is crucial for building long-term customer relationships and enhancing brand equity.",
+        "nuance": "While brand affinity suggests a positive emotional bond, it should not be confused with mere brand awareness, which indicates recognition without emotional attachment.",
+        "synonyms": [
+          "brand loyalty",
+          "customer attachment"
+        ],
+        "antonyms": [
+          "brand indifference",
+          "brand aversion"
+        ]
+      },
+      {
+        "word": "trust",
+        "definition": "Trust is the firm belief in the reliability, truth, or ability of someone or something, often forming the foundation of relationships and transactions.",
+        "businessContext": "In business settings, trust is essential for establishing partnerships, customer loyalty, and effective team dynamics, as it influences decision-making and collaboration.",
+        "nuance": "Trust can be fragile and takes time to build, but it can be quickly eroded by negative experiences or breaches of confidence.",
+        "synonyms": [
+          "confidence",
+          "faith"
+        ],
+        "antonyms": [
+          "distrust",
+          "suspicion"
+        ]
+      },
+      {
+        "word": "built",
+        "definition": "Built refers to the process of constructing or developing something, often implying a foundation or groundwork laid over time.",
+        "businessContext": "In a business context, 'built' often relates to the development of systems, relationships, or brands, indicating a deliberate and sustained effort to create value.",
+        "nuance": "The term 'built' conveys a sense of permanence and effort, distinguishing it from terms like 'created' which may imply a more transient or less substantial process.",
+        "synonyms": [
+          "established",
+          "constructed"
+        ],
+        "antonyms": [
+          "destroyed",
+          "dismantled"
+        ]
+      },
+      {
+        "word": "success",
+        "definition": "Success is the achievement of desired aims, goals, or objectives, often measured by specific metrics such as profitability, growth, or customer satisfaction.",
+        "businessContext": "In business, success can be quantified through various performance indicators, and it is often the ultimate goal of strategic initiatives and operational efforts.",
+        "nuance": "Success can be subjective and context-dependent, as what constitutes success may vary between individuals, organizations, and industries.",
+        "synonyms": [
+          "achievement",
+          "accomplishment"
+        ],
+        "antonyms": [
+          "failure",
+          "setback"
+        ]
+      }
+    ]
   },
   {
-    "text": "We're the largest expert network in the world. We have more PhDs, 500,000 of them use Handshake than any other platform. We have three million master students who are in school or alumni. And so, we started to see all what I would call middleman companies reaching out to us saying, 'Can we recruit your PhDs and master's students?'",
+    "text": "We're the largest expert network in the world. We have more PhDs, 500,000 of them use Handshake than any other platform. We have three million master students who are in school or alumni.",
     "speaker": "Garrett Lord",
     "timestamp": "00:00:15",
     "context": "Garrett describes how Handshake discovered the opportunity in AI data labeling. As the demand shifted from generalist workers to experts for training AI models, companies began approaching Handshake to recruit from their massive network of PhD and master's degree holders. This led them to realize they could cut out these middleman companies and serve the AI labs directly while providing a better experience for their users.",
     "vocabulary_highlights": [
-      "middleman companies",
-      "reaching out to us"
+      "expert network",
+      "alumni",
+      "opportunity",
+      "demand"
     ],
     "topics": [
       "Starting a Company",
@@ -101,18 +288,79 @@
     "text_ko": "우리는 세계에서 가장 큰 전문가 네트워크예요. 50만 명의 박사님들이 Handshake를 사용하고 있어서 다른 플랫폼보다 더 많아요. 그리고 현재 재학 중이거나 졸업한 석사 학생이 300만 명이나 있어요. 그래서 중개업체들이 우리에게 연락해서 '우리의 박사님들과 석사 학생들을 모집할 수 있을까요?'라고 물어보는 경우가 많아졌어요.",
     "text_zh": "我们是全球最大的专家网络。我们平台上有五十万博士在用Handshake，比其他任何平台都多。还有三百万硕士生，包括在校生和毕业生。所以呢，我们开始看到很多中介公司找上门来，问我们\"能不能让我们招你们的博士和硕士？\"",
     "text_es": "Somos la red de expertos más grande del mundo. Tenemos más doctores que nadie, 500,000 de ellos usan Handshake más que cualquier otra plataforma. Tenemos tres millones de estudiantes de maestría que están estudiando o ya son egresados. Y entonces empezamos a ver que todas estas empresas intermediarias (middleman companies) nos contactaban diciéndonos: '¿Podemos reclutar a sus doctores y estudiantes de maestría?'",
-    "key_sentence": "Middleman companies are reaching out to us for recruiting our PhDs and master's students."
+    "key_sentence": "We have more PhDs, 500,000 of them use Handshake than any other platform.",
+    "text_trimmed": true,
+    "original_text": "We're the largest expert network in the world. We have more PhDs, 500,000 of them use Handshake than any other platform. We have three million master students who are in school or alumni. And so, we started to see all what I would call middleman companies reaching out to us saying, 'Can we recruit your PhDs and master's students?'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "expert network",
+        "definition": "An expert network is a platform that connects businesses with industry specialists who provide insights and advice based on their expertise. These networks facilitate knowledge sharing and help organizations make informed decisions.",
+        "businessContext": "In business and tech settings, expert networks are often utilized for market research, product development, and strategic planning, allowing companies to tap into specialized knowledge that may not be readily available internally.",
+        "nuance": "The term 'expert network' conveys a sense of exclusivity and high-level expertise, making it suitable for discussions about specialized consulting services but less appropriate for general networking contexts.",
+        "synonyms": [
+          "consulting network",
+          "knowledge network"
+        ],
+        "antonyms": [
+          "amateur group",
+          "generalist network"
+        ]
+      },
+      {
+        "word": "alumni",
+        "definition": "Alumni are individuals who have graduated from a particular institution, especially a school or university. They often maintain connections with their alma mater and can play a role in its community and activities.",
+        "businessContext": "In business, alumni networks can be valuable for recruiting, mentorship, and fostering partnerships, as former students often have a shared experience and can support each other's professional endeavors.",
+        "nuance": "While 'alumni' typically refers to graduates, it carries a connotation of loyalty and ongoing engagement with the institution, making it more suitable in formal or community-focused discussions.",
+        "synonyms": [
+          "graduates",
+          "former students"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "opportunity",
+        "definition": "An opportunity is a favorable set of circumstances that makes it possible to do something or achieve a desired outcome. It often implies potential for growth, advancement, or profit.",
+        "businessContext": "In the business world, identifying and capitalizing on opportunities is crucial for innovation, market expansion, and competitive advantage, often driving strategic decision-making.",
+        "nuance": "The term 'opportunity' suggests a positive and proactive approach, making it ideal for discussions about potential growth, but it may be less appropriate in contexts where risks or challenges are emphasized.",
+        "synonyms": [
+          "prospect",
+          "chance"
+        ],
+        "antonyms": [
+          "obstacle",
+          "hindrance"
+        ]
+      },
+      {
+        "word": "demand",
+        "definition": "Demand refers to the desire and ability of consumers to purchase goods or services at a given price. It is a fundamental concept in economics that influences market dynamics.",
+        "businessContext": "In business, understanding demand is essential for forecasting sales, managing inventory, and shaping marketing strategies, as it directly impacts revenue and operational planning.",
+        "nuance": "The term 'demand' carries a sense of urgency and necessity, making it suitable for discussions about market needs, but it may not be appropriate in contexts where supply or availability is the focus.",
+        "synonyms": [
+          "requirement",
+          "need"
+        ],
+        "antonyms": [
+          "supply",
+          "oversupply"
+        ]
+      }
+    ]
   },
   {
-    "text": "There will never be a time like this. I've never seen anything like it. I doubt I'll ever feel anything like this in business again where there's unlimited demand. How do you make sure that three months from now, six months, you have no regrets? Get on the plane to go talk to a customer, make the late night push, check the data six times over again.",
+    "text": "There will never be a time like this. I've never seen anything like it. I doubt I'll ever feel anything like this in business again where there's unlimited demand. How do you make sure that three months from now, six months, you have no regrets?",
     "speaker": "Garrett Lord",
     "timestamp": "00:00:00",
     "context": "Garrett shares the motto 'leave nothing to chance' that his team adopted while building their AI data labeling business. He emphasizes the unprecedented nature of the current AI opportunity, where there's essentially unlimited demand for high-quality training data. This mindset drove his team to work extremely hard - including nights and weekends - to ensure they could capitalize on this once-in-a-lifetime market opportunity.",
     "vocabulary_highlights": [
-      "unlimited demand",
-      "have no regrets",
-      "make the late night push",
-      "check the data six times over again"
+      "unprecedented",
+      "demand",
+      "regrets",
+      "opportunity"
     ],
     "topics": [
       "Leadership & Management",
@@ -128,16 +376,79 @@
     "text_ko": "지금 같은 순간은 다시 오지 않을 거예요. 저도 이런 걸 본 적이 없고요. 수요가 끝없이 쏟아지는 이 상황을 비즈니스에서 다시 만나게 될지 잘 모르겠어요. 3개월, 6개월 뒤에 후회하지 않으려면 어떻게 해야 할까요? 고객 만나러 비행기 타고 가고, 밤을 새워서라도 밀어붙이고, 데이터를 몇 번이고 꼼꼼히 다시 확인하세요.",
     "text_zh": "这种机会绝对是千载难逢的。我从来没见过这样的情况，估计以后在商场上也不太可能再遇到需求如此爆炸的时候了。怎么确保三个月后、半年后不会后悔呢？该飞就飞，去见客户；该熬夜就熬夜，拼一把；数据该检查几遍就检查几遍，不能马虎。",
     "text_es": "Nunca va a haber un momento como este. Jamás he visto algo así. Dudo que vuelva a sentir algo parecido en los negocios, donde hay una demanda ilimitada. ¿Cómo te aseguras de que dentro de tres meses, seis meses, no te vayas a arrepentir? Súbete al avión para ir a hablar con un cliente, haz ese último esfuerzo hasta tarde, revisa los datos seis veces más.",
-    "key_sentence": "There's unlimited demand; make the late night push to avoid regrets later."
+    "key_sentence": "I doubt I'll ever feel anything like this in business again where there's unlimited demand.",
+    "text_trimmed": true,
+    "original_text": "There will never be a time like this. I've never seen anything like it. I doubt I'll ever feel anything like this in business again where there's unlimited demand. How do you make sure that three months from now, six months, you have no regrets? Get on the plane to go talk to a customer, make the late night push, check the data six times over again.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "unprecedented",
+        "definition": "Never done or known before; without previous example.",
+        "businessContext": "In business, 'unprecedented' often describes market conditions, trends, or events that have not been experienced before, which can create unique opportunities or challenges.",
+        "nuance": "While it conveys a sense of rarity and significance, it can also imply uncertainty and risk when applied to volatile situations.",
+        "synonyms": [
+          "extraordinary",
+          "unmatched"
+        ],
+        "antonyms": [
+          "commonplace",
+          "ordinary"
+        ]
+      },
+      {
+        "word": "demand",
+        "definition": "The desire of consumers to purchase goods or services at a given price.",
+        "businessContext": "In business, understanding demand is crucial for inventory management, pricing strategies, and forecasting sales, as it directly influences revenue potential.",
+        "nuance": "The term can imply urgency or necessity, particularly when discussing market conditions where demand exceeds supply.",
+        "synonyms": [
+          "requirement",
+          "need"
+        ],
+        "antonyms": [
+          "supply",
+          "surplus"
+        ]
+      },
+      {
+        "word": "regrets",
+        "definition": "Feelings of sadness or disappointment over something that has happened or been done, especially a missed opportunity.",
+        "businessContext": "In a business context, 'regrets' often refer to decisions made or opportunities missed that could have led to better outcomes, emphasizing the importance of strategic planning.",
+        "nuance": "The term carries a reflective connotation, suggesting a desire to learn from past experiences to avoid similar feelings in the future.",
+        "synonyms": [
+          "remorse",
+          "lament"
+        ],
+        "antonyms": [
+          "satisfaction",
+          "contentment"
+        ]
+      },
+      {
+        "word": "opportunity",
+        "definition": "A set of circumstances that makes it possible to do something; a favorable chance for advancement or progress.",
+        "businessContext": "In business, identifying opportunities is essential for growth and innovation, as they can lead to new markets, products, or improvements in processes.",
+        "nuance": "The term often implies a positive potential outcome, but it can also suggest the need for action and decision-making to capitalize on the situation.",
+        "synonyms": [
+          "chance",
+          "prospect"
+        ],
+        "antonyms": [
+          "obstacle",
+          "hindrance"
+        ]
+      }
+    ]
   },
   {
-    "text": "That's not what we're hearing from our employers, this is just enabling human beings to be even more productive. You used to put a Google Search on a skill on your resume because you grew up with Google. Being AI native, young people are at a huge advantage.",
+    "text": "That's not what we're hearing from our employers, this is just enabling human beings to be even more productive. You used to put a Google Search on a skill on your resume because you grew up with Google.",
     "speaker": "Garrett Lord",
     "timestamp": "00:00:44",
     "context": "Lenny asks about the tension between students training AI models that might eventually replace entry-level jobs. Garrett pushes back on fears about job displacement, explaining that employers using Handshake aren't reducing hiring. Instead, AI is making workers more productive, similar to how previous generations became skilled with Google search. He argues that young people who grow up using AI tools naturally will have significant advantages in the job market.",
     "vocabulary_highlights": [
-      "AI native",
-      "at a huge advantage"
+      "enabling",
+      "productive",
+      "tension",
+      "displacement"
     ],
     "topics": [
       "Career Development",
@@ -153,6 +464,67 @@
     "text_ko": "고용주들한테서 듣는 얘기는 그게 아니에요. 이건 사람들을 훨씬 더 생산적으로 만들어 주는 도구일 뿐이에요. 예전에는 구글 검색(Google Search)을 이력서에 기술로 적곤 했는데, 구글과 함께 자라서 그랬죠. AI 네이티브(AI native)인 젊은 세대는 훨씬 더 큰 이점을 가지고 있어요.",
     "text_zh": "我们从雇主那边听到的可不是这样，AI其实是让人变得更高效了。以前你们那代人简历上还会写\"熟练使用Google搜索\"，因为你们是跟着Google长大的。现在这些年轻人从小就接触AI，他们占大便宜了。",
     "text_es": "Eso no es lo que escuchamos de nuestros empleadores, esto simplemente permite que las personas sean aún más productivas. Antes ponías \"búsqueda en Google\" como habilidad en tu currículum porque creciste con Google. Al ser nativos de la IA (AI native), los jóvenes tienen una ventaja enorme.",
-    "key_sentence": "AI native young people are at a huge advantage in productivity."
+    "key_sentence": "this is just enabling human beings to be even more productive.",
+    "text_trimmed": true,
+    "original_text": "That's not what we're hearing from our employers, this is just enabling human beings to be even more productive. You used to put a Google Search on a skill on your resume because you grew up with Google. Being AI native, young people are at a huge advantage.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "enabling",
+        "definition": "Providing the means or opportunity for something to happen or be achieved.",
+        "businessContext": "In business and technology, 'enabling' often refers to tools, processes, or systems that facilitate greater efficiency or capability within an organization.",
+        "nuance": "While 'enabling' generally has a positive connotation, it can imply a degree of dependency if overused.",
+        "synonyms": [
+          "empowering",
+          "facilitating"
+        ],
+        "antonyms": [
+          "restricting",
+          "hindering"
+        ]
+      },
+      {
+        "word": "productive",
+        "definition": "Yielding favorable or significant results, especially in terms of output or efficiency.",
+        "businessContext": "In a business context, 'productive' often describes employees, processes, or technologies that maximize output and contribute positively to organizational goals.",
+        "nuance": "The term can sometimes imply a focus on quantity over quality, so context is important when using it.",
+        "synonyms": [
+          "efficient",
+          "effective"
+        ],
+        "antonyms": [
+          "unproductive",
+          "inefficient"
+        ]
+      },
+      {
+        "word": "tension",
+        "definition": "A state of mental or emotional strain, or a situation in which competing interests or forces are in conflict.",
+        "businessContext": "In business, 'tension' can refer to conflicts within teams, between departments, or in negotiations, often highlighting areas that require resolution for progress.",
+        "nuance": "While 'tension' can have negative connotations, it can also indicate a necessary dynamic that drives innovation and change.",
+        "synonyms": [
+          "stress",
+          "strain"
+        ],
+        "antonyms": [
+          "harmony",
+          "calm"
+        ]
+      },
+      {
+        "word": "displacement",
+        "definition": "The act of moving something from its usual or proper place, often resulting in a change in position or status.",
+        "businessContext": "In the context of business and technology, 'displacement' often refers to the replacement of traditional jobs or processes by new technologies or methods.",
+        "nuance": "The term can evoke feelings of loss or disruption, particularly in discussions about automation and workforce changes.",
+        "synonyms": [
+          "removal",
+          "relocation"
+        ],
+        "antonyms": [
+          "placement",
+          "installation"
+        ]
+      }
+    ]
   }
 ]

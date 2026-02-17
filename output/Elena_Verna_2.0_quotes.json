@@ -1,13 +1,14 @@
 [
   {
-    "text": "Product-led growth has actually started more on individual use case, so an individual has a problem. They have a job to be done. They come into the product and they solve it, and that was product-led growth in a nutshell for a lot of the B2B companies. However, if you're going to attach a salesperson, there is nobody in the company that is going to pay 10, 15, $20,000 for one individual to solve their problem.",
+    "text": "Product-led growth has actually started more on individual use case, so an individual has a problem. They have a job to be done.",
     "speaker": "Elena Verna",
     "timestamp": "00:09:44",
     "context": "Lenny asks whether product-led sales is a new trend or if it has always been part of product-led growth. Elena explains the evolution from traditional product-led growth, which focused on individuals solving personal problems through self-serve products, to product-led sales, which requires scaling beyond individual use cases to justify enterprise-level sales involvement and higher contract values.",
     "vocabulary_highlights": [
-      "in a nutshell",
-      "attach a salesperson",
-      "job to be done"
+      "product-led growth",
+      "individual use case",
+      "job to be done",
+      "evolution"
     ],
     "topics": [
       "Product Management",
@@ -24,17 +25,79 @@
     "text_ko": "제품 주도 성장(product-led growth)은 사실 개인의 사용 사례에서 시작된 경우가 많아요. 개인이 문제를 가지고 있고, 해결해야 할 일이 있죠. 그들이 제품에 들어와서 그 문제를 해결하면, 이게 많은 B2B 회사에서의 제품 주도 성장의 핵심이에요. 하지만 만약 영업사원을 붙이게 되면, 회사에서 한 개인이 문제를 해결하는 데 1만, 1만5천, 2만 달러를 지불할 사람은 없어요.",
     "text_zh": "产品驱动增长(product-led growth)其实一开始都是从个人用户的具体需求出发的，就是某个人遇到了问题，需要完成某项工作，然后他们用你的产品解决了这个问题，这就是很多B2B公司产品驱动增长的核心逻辑。但是呢，如果你要配销售人员的话，公司里没人会为了解决一个员工的个人问题就花个一两万、甚至两三万美金的。",
     "text_es": "El crecimiento impulsado por producto (product-led growth) en realidad empezó más con casos de uso individuales, o sea, una persona tiene un problema específico. Tiene una tarea que resolver (job to be done). Entra al producto, lo resuelve, y eso era el crecimiento impulsado por producto en pocas palabras para muchas empresas B2B. Pero si vas a meter a un vendedor en la ecuación, no hay nadie en la empresa que vaya a pagar 10, 15 o 20 mil dólares para que una sola persona resuelva su problemita.",
-    "key_sentence": "Product-led growth solves individual problems, but lacks sales for high costs."
+    "key_sentence": "an individual has a problem. They have a job to be done.",
+    "text_trimmed": true,
+    "original_text": "Product-led growth has actually started more on individual use case, so an individual has a problem. They have a job to be done. They come into the product and they solve it, and that was product-led growth in a nutshell for a lot of the B2B companies. However, if you're going to attach a salesperson, there is nobody in the company that is going to pay 10, 15, $20,000 for one individual to solve their problem.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "product-led growth",
+        "definition": "A business strategy that prioritizes the product itself as the primary driver of customer acquisition, retention, and expansion.",
+        "businessContext": "In tech and startup environments, product-led growth emphasizes delivering a superior user experience to encourage organic growth through user satisfaction and referrals.",
+        "nuance": "This term is often used in contrast to sales-led or marketing-led growth strategies, highlighting the importance of the product's value proposition.",
+        "synonyms": [
+          "product-driven growth",
+          "user-centric growth"
+        ],
+        "antonyms": [
+          "sales-led growth",
+          "marketing-led growth"
+        ]
+      },
+      {
+        "word": "individual use case",
+        "definition": "A specific scenario in which a product or service is utilized by a single user to address a particular need or problem.",
+        "businessContext": "Understanding individual use cases is crucial for product development and marketing, as it helps businesses tailor their offerings to meet specific customer needs.",
+        "nuance": "While often used in product design discussions, it is important to differentiate between individual use cases and broader market applications.",
+        "synonyms": [
+          "specific application",
+          "personal scenario"
+        ],
+        "antonyms": [
+          "general use case",
+          "collective application"
+        ]
+      },
+      {
+        "word": "job to be done",
+        "definition": "A framework for understanding customer needs by identifying the specific tasks or problems they aim to solve with a product or service.",
+        "businessContext": "This concept is widely used in product development and marketing to ensure that offerings align with the actual needs and motivations of users.",
+        "nuance": "The phrase emphasizes the functional, emotional, and social dimensions of customer needs, making it a versatile tool in innovation discussions.",
+        "synonyms": [
+          "customer task",
+          "user requirement"
+        ],
+        "antonyms": [
+          "unmet need",
+          "irrelevant task"
+        ]
+      },
+      {
+        "word": "evolution",
+        "definition": "The gradual development or change of a product, service, or business model over time, often in response to market demands or technological advancements.",
+        "businessContext": "In business settings, evolution refers to the iterative process of refining offerings to remain competitive and relevant in a dynamic market landscape.",
+        "nuance": "While often associated with positive growth and adaptation, evolution can also imply a need for change in response to challenges or failures.",
+        "synonyms": [
+          "progression",
+          "development"
+        ],
+        "antonyms": [
+          "stagnation",
+          "regression"
+        ]
+      }
+    ]
   },
   {
-    "text": "Product-led sales assumes that there is a migration from an individual use case that you acquired an end user with and an escalation into an enterprise-level solution that solves enterprise-level problems. Individual is not solving for data-driven culture. Individual is just solving for data insights for them. Company's solving for data-driven culture.",
+    "text": "Product-led sales assumes that there is a migration from an individual use case that you acquired an end user with and an escalation into an enterprise-level solution that solves enterprise-level problems. Individual is not solving for data-driven culture.",
     "speaker": "Elena Verna",
     "timestamp": "00:10:06",
     "context": "Elena uses Amplitude as an example to illustrate the difference between individual and enterprise-level problems. She explains how product-led sales bridges the gap between what individuals need (personal data insights) versus what companies need (organization-wide data-driven culture), demonstrating why sales involvement becomes necessary for larger contracts.",
     "vocabulary_highlights": [
-      "migration from",
-      "escalation into",
-      "enterprise-level solution"
+      "migration",
+      "escalation",
+      "enterprise-level",
+      "data-driven"
     ],
     "topics": [
       "Product Management",
@@ -51,17 +114,79 @@
     "text_ko": "제품 주도 영업(product-led sales)은 개별 사용 사례(individual use case)로 확보한 최종 사용자(end user)가 점차 기업용 솔루션(enterprise-level solution)으로 확장되며 기업 차원의 문제를 해결하게 된다는 가정이에요. 개인 수준에서는 데이터 기반 문화(data-driven culture)를 만드는 게 목표가 아니에요. 개인은 그저 자신에게 필요한 데이터 인사이트(data insights)를 얻는 것이고, 회사는 데이터 기반 문화를 구축하려고 해요.",
     "text_zh": "产品驱动销售(product-led sales)有个基本假设，就是用户会从个人使用场景慢慢升级到企业级解决方案，去解决企业层面的问题。个人用户关注的不是什么数据驱动文化(data-driven culture)，他们就是想要对自己有用的数据洞察(data insights)。但公司考虑的是整个数据驱动文化的建设。",
     "text_es": "Las ventas impulsadas por producto (product-led sales) asumen que hay una migración desde un caso de uso individual con el que captaste al usuario final hacia una escalación a una solución a nivel empresarial que resuelve problemas empresariales. El individuo no está buscando crear una cultura basada en datos. El individuo solo está resolviendo sus propias necesidades de insights de datos. La empresa está resolviendo el tema de crear una cultura basada en datos.",
-    "key_sentence": "Product-led sales assumes migration from individual use cases to enterprise-level solutions."
+    "key_sentence": "Product-led sales assumes migration from individual use cases to enterprise-level solutions.",
+    "text_trimmed": true,
+    "original_text": "Product-led sales assumes that there is a migration from an individual use case that you acquired an end user with and an escalation into an enterprise-level solution that solves enterprise-level problems. Individual is not solving for data-driven culture. Individual is just solving for data insights for them. Company's solving for data-driven culture.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "migration",
+        "definition": "The process of moving from one system, platform, or environment to another, often involving the transfer of data or applications.",
+        "businessContext": "In business and technology, migration is commonly used to describe the transition of services or data to cloud-based solutions or new software systems to enhance efficiency and scalability.",
+        "nuance": "While 'migration' often implies a significant change, it can also suggest a gradual process, making it important to clarify the extent and nature of the transition.",
+        "synonyms": [
+          "transition",
+          "relocation"
+        ],
+        "antonyms": [
+          "stagnation",
+          "stability"
+        ]
+      },
+      {
+        "word": "escalation",
+        "definition": "The process of increasing in intensity, magnitude, or severity, often referring to the growth of issues or challenges within a business context.",
+        "businessContext": "In a business setting, escalation typically refers to the process of addressing unresolved issues by involving higher levels of management or more resources to ensure timely resolution.",
+        "nuance": "While 'escalation' can have negative connotations, such as conflict or urgency, it can also imply proactive management of challenges when handled appropriately.",
+        "synonyms": [
+          "intensification",
+          "amplification"
+        ],
+        "antonyms": [
+          "de-escalation",
+          "reduction"
+        ]
+      },
+      {
+        "word": "enterprise-level",
+        "definition": "Referring to solutions, strategies, or systems that are designed to meet the needs of large organizations or corporations, often characterized by scalability and complexity.",
+        "businessContext": "In tech and business, enterprise-level solutions are crucial for addressing the comprehensive needs of large companies, including integration, security, and compliance requirements.",
+        "nuance": "The term 'enterprise-level' suggests a higher standard of quality and capability, and should be used when discussing solutions that cater specifically to large-scale operations rather than small or medium-sized enterprises.",
+        "synonyms": [
+          "corporate-level",
+          "organizational-level"
+        ],
+        "antonyms": [
+          "small-scale",
+          "individual-level"
+        ]
+      },
+      {
+        "word": "data-driven",
+        "definition": "An approach that relies on data analysis and interpretation to inform decision-making and strategy development.",
+        "businessContext": "In business and technology, a data-driven culture emphasizes the importance of using empirical evidence to guide actions, optimize processes, and enhance customer experiences.",
+        "nuance": "While 'data-driven' implies a reliance on quantitative analysis, it is essential to balance data insights with qualitative factors to ensure well-rounded decision-making.",
+        "synonyms": [
+          "analytics-based",
+          "evidence-based"
+        ],
+        "antonyms": [
+          "intuition-based",
+          "subjective"
+        ]
+      }
+    ]
   },
   {
-    "text": "Sales can tell that story. Sales can bridge that gap, and then you can increase the perceived value in order to bridge the gap to that $15,000, 20, hundred-thousand dollar contract. I would say self-serve monetization is very much an individual use case versus product-led sales is turning that individual use case and self-serve usage into a sales pipeline with enterprise-level value.",
+    "text": "Sales can tell that story. Sales can bridge that gap, and then you can increase the perceived value in order to bridge the gap to that $15,000, 20, hundred-thousand dollar contract.",
     "speaker": "Elena Verna",
     "timestamp": "00:11:25",
     "context": "Elena explains why sales teams are essential in product-led sales motions. She describes how products excel at demonstrating individual user value but struggle to communicate enterprise-level benefits, while sales teams can effectively articulate organizational value propositions to justify much larger contract values than what self-serve models typically achieve.",
     "vocabulary_highlights": [
-      "bridge the gap",
       "perceived value",
-      "sales pipeline"
+      "bridge the gap",
+      "enterprise-level benefits",
+      "product-led sales motions"
     ],
     "topics": [
       "Product Management",
@@ -78,18 +203,79 @@
     "text_ko": "영업팀이 그 이야기를 전할 수 있어요. 영업이 그 간극을 메워주고, 인지된 가치를 끌어올려서 $15,000, $20,000, $100,000짜리 계약까지 이어가게 할 수 있어요. 저는 셀프 서비스 수익화(self-serve monetization)는 주로 개별 사용 사례에 가깝고, 제품 주도 영업(product-led sales)은 그 개별 사용 사례와 셀프 서비스 이용을 영업 파이프라인(sales pipeline)으로 전환해 엔터프라이즈급 가치(enterprise-level value)를 만들어내는 접근이라고 생각해요.",
     "text_zh": "销售团队能讲好这个故事，能够填补这个空缺，然后你就可以提升客户感知价值，这样就能拿下1万5、2万，甚至几十万美金的大单。我觉得自助式变现(self-serve monetization)主要针对的是个人用户场景，而产品驱动销售(product-led sales)就是把这些个人用户场景和自助使用转化成销售管道(sales pipeline)，创造企业级的价值。",
     "text_es": "Ventas puede contar esa historia. Ventas puede cerrar esa brecha, y entonces puedes aumentar el valor percibido para llegar a ese contrato de 15 mil, 20 mil, o hasta cien mil dólares. Yo diría que la monetización de autoservicio (self-serve monetization) es más bien para casos de uso individuales, mientras que las ventas dirigidas por producto (product-led sales) es tomar ese caso de uso individual y ese uso de autoservicio y convertirlo en un pipeline de ventas con valor a nivel empresarial.",
-    "key_sentence": "Sales can bridge the gap to increase perceived value for high-value contracts."
+    "key_sentence": "Sales can bridge the gap to increase perceived value for high-value contracts.",
+    "text_trimmed": true,
+    "original_text": "Sales can tell that story. Sales can bridge that gap, and then you can increase the perceived value in order to bridge the gap to that $15,000, 20, hundred-thousand dollar contract. I would say self-serve monetization is very much an individual use case versus product-led sales is turning that individual use case and self-serve usage into a sales pipeline with enterprise-level value.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "perceived value",
+        "definition": "Perceived value refers to the worth that a product or service holds in the eyes of the consumer, which may differ from its actual cost or market value.",
+        "businessContext": "In business, enhancing perceived value can lead to increased customer loyalty and higher sales, as consumers are often willing to pay more for products they believe offer greater benefits or prestige.",
+        "nuance": "This term often implies a subjective assessment, meaning that marketing strategies should focus on shaping consumer perceptions rather than just the intrinsic qualities of the product.",
+        "synonyms": [
+          "subjective value",
+          "customer value"
+        ],
+        "antonyms": [
+          "actual value",
+          "real value"
+        ]
+      },
+      {
+        "word": "bridge the gap",
+        "definition": "To bridge the gap means to connect two disparate elements, such as ideas, groups, or stages, in order to facilitate understanding or progress.",
+        "businessContext": "In a corporate environment, bridging the gap can refer to aligning different departments, such as sales and marketing, to ensure cohesive strategies and improved communication.",
+        "nuance": "This phrase is often used in contexts where there is a significant difference or disconnect that needs to be addressed, making it important to use it when discussing solutions to challenges.",
+        "synonyms": [
+          "close the divide",
+          "connect the dots"
+        ],
+        "antonyms": [
+          "widen the divide",
+          "create distance"
+        ]
+      },
+      {
+        "word": "enterprise-level benefits",
+        "definition": "Enterprise-level benefits are advantages or features that are specifically designed to meet the needs of large organizations, often involving scalability, security, and integration capabilities.",
+        "businessContext": "In the tech industry, products that offer enterprise-level benefits are typically marketed to large businesses that require robust solutions to manage complex operations and data.",
+        "nuance": "This term suggests a higher level of sophistication and capability, so it is best used when discussing products or services tailored for large-scale implementations rather than small businesses.",
+        "synonyms": [
+          "corporate benefits",
+          "business-grade advantages"
+        ],
+        "antonyms": [
+          "small business benefits",
+          "individual-level advantages"
+        ]
+      },
+      {
+        "word": "product-led sales motions",
+        "definition": "Product-led sales motions refer to sales strategies that prioritize the product itself as the primary driver of customer acquisition and revenue generation, often leveraging user experience and product trials.",
+        "businessContext": "In startups and tech companies, product-led sales motions are increasingly popular as they allow potential customers to experience the product's value firsthand before making a purchasing decision.",
+        "nuance": "This approach emphasizes the importance of the product's usability and effectiveness, making it crucial to use in discussions about modern sales strategies that rely on customer engagement with the product.",
+        "synonyms": [
+          "product-driven sales",
+          "user-centric sales approach"
+        ],
+        "antonyms": [
+          "sales-led motions",
+          "service-led sales"
+        ]
+      }
+    ]
   },
   {
-    "text": "That organic demand very quickly dries up if you rely on hand-raisers of your champions. If you rely on having enterprise buyers in your user base that are asking to just sign on the dotted line, then you have a very limited ceiling for your growth because what majority of the usage transforms to be is to have product qualification that there's a meaningful sales conversation that could occur based on the signals within usage that the buyer is missing.",
+    "text": "That organic demand very quickly dries up if you rely on hand-raisers of your champions.",
     "speaker": "Elena Verna",
     "timestamp": "00:18:15",
     "context": "Lenny asks about the bridge between product and sales in product-led sales motions. Elena explains that while companies often start with organic demand from users requesting enterprise purchases, this approach has limitations. Most successful product-led sales requires proactive identification of qualified accounts based on usage patterns, since end users typically aren't the enterprise buyers.",
     "vocabulary_highlights": [
-      "dries up",
-      "hand-raisers",
-      "sign on the dotted line",
-      "limited ceiling"
+      "organic demand",
+      "rely on",
+      "champions",
+      "product-led sales"
     ],
     "topics": [
       "Growth & Marketing",
@@ -106,17 +292,79 @@
     "text_ko": "그 유기적 수요(organic demand)는 챔피언(champions)들 가운데 자발적으로 손을 드는 사람들(hand-raisers)에만 의존하면 금세 말라버려요. 사용자 기반에 있는 엔터프라이즈 구매자(enterprise buyers)들이 그냥 도장 찍고 서명만 하길 바라는 식으로 의존하면 성장의 한계가 아주 낮아요. 그 이유는 대부분의 사용이 구매자가 놓치고 있는 사용 내 신호(signals)를 바탕으로 영업 대화가 성립할 만한지 판단하는 제품 적합성(product qualification)으로 바뀌기 때문이에요.",
     "text_zh": "如果你只是坐等那些支持你的人主动举手，或者只指望用户群里的企业买家主动要求签合同，那这种自然需求很快就会枯竭。这样做的话，你的增长天花板会很低，因为大部分使用情况最终都需要做产品验证(product qualification)，需要根据使用数据里的信号来判断买家可能忽略的地方，这样才能开展有意义的销售对话。",
     "text_es": "Esa demanda orgánica se seca muy rápido si te basas solo en que tus usuarios más entusiastas levanten la mano. Si dependes de tener compradores corporates en tu base de usuarios que simplemente quieran firmar el contrato, entonces tienes un techo de crecimiento muy limitado, porque lo que pasa con la mayoría del uso es que necesitas una calificación del producto (product qualification) para que pueda haber una conversación de ventas que valga la pena, basada en las señales de uso que el comprador no está viendo.",
-    "key_sentence": "Organic demand dries up if relying on hand-raisers for enterprise buyers."
+    "key_sentence": "Organic demand dries up if relying on hand-raisers for enterprise buyers.",
+    "text_trimmed": true,
+    "original_text": "That organic demand very quickly dries up if you rely on hand-raisers of your champions. If you rely on having enterprise buyers in your user base that are asking to just sign on the dotted line, then you have a very limited ceiling for your growth because what majority of the usage transforms to be is to have product qualification that there's a meaningful sales conversation that could occur based on the signals within usage that the buyer is missing.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "organic demand",
+        "definition": "Organic demand refers to the natural interest or need for a product or service that arises without direct marketing efforts. It is often generated through word-of-mouth, brand reputation, or inherent market needs.",
+        "businessContext": "In business, organic demand is crucial as it indicates genuine customer interest and can lead to sustainable growth without heavy reliance on advertising or promotions.",
+        "nuance": "While organic demand is generally seen as positive, it can be volatile and may diminish if not supported by ongoing engagement strategies.",
+        "synonyms": [
+          "natural demand",
+          "inherent demand"
+        ],
+        "antonyms": [
+          "artificial demand",
+          "manufactured demand"
+        ]
+      },
+      {
+        "word": "rely on",
+        "definition": "To rely on means to depend on someone or something for support, assistance, or a particular outcome. It implies a level of trust and expectation that the subject will fulfill a need.",
+        "businessContext": "In a business context, companies often rely on key stakeholders, resources, or technologies to achieve their objectives and maintain operational efficiency.",
+        "nuance": "Relying on something can suggest vulnerability; over-reliance may lead to risks if the dependent factor fails to deliver.",
+        "synonyms": [
+          "depend on",
+          "count on"
+        ],
+        "antonyms": [
+          "disregard",
+          "independence"
+        ]
+      },
+      {
+        "word": "champions",
+        "definition": "Champions are individuals or entities that actively advocate for a product, service, or idea, often influencing others to adopt or support it. They are typically enthusiastic supporters who can drive engagement and sales.",
+        "businessContext": "In business, champions can be customers, employees, or industry leaders who promote a brand or product, significantly impacting its market success and acceptance.",
+        "nuance": "The term carries a positive connotation, suggesting passion and loyalty, but can imply a need for ongoing support to maintain their advocacy.",
+        "synonyms": [
+          "advocates",
+          "supporters"
+        ],
+        "antonyms": [
+          "opponents",
+          "critics"
+        ]
+      },
+      {
+        "word": "product-led sales",
+        "definition": "Product-led sales is a strategy where the product itself drives the sales process, emphasizing user experience and product value to attract and convert customers. This approach often relies on product trials or freemium models.",
+        "businessContext": "In tech and startup environments, product-led sales can streamline the sales cycle, allowing users to experience the product's benefits firsthand before making a purchase decision.",
+        "nuance": "This approach may not be suitable for all products, particularly those requiring extensive customization or personal interaction during the sales process.",
+        "synonyms": [
+          "product-driven sales",
+          "product-centric sales"
+        ],
+        "antonyms": [
+          "sales-led approach",
+          "service-led sales"
+        ]
+      }
+    ]
   },
   {
-    "text": "To have product-led sales means you're going upmarket, period. That means you going for contract values that are probably over your sales floor, so the minimum that the sales is willing to engage and close, which is traditionally around $15,000. If you're going for contract values of $15,000, that means you're probably trying to close a hundred, $200,000 contracts as well.",
+    "text": "To have product-led sales means you're going upmarket, period. That means you going for contract values that are probably over your sales floor, so the minimum that the sales is willing to engage and close, which is traditionally around $15,000.",
     "speaker": "Elena Verna",
     "timestamp": "00:20:31",
     "context": "Lenny asks what signs indicate a product is fit for investing in product-led sales. Elena explains that product-led sales inherently means moving upmarket to enterprise customers, as it requires contract values that justify sales team involvement - typically $15,000 minimum but often $100,000-200,000 contracts, which only larger companies with 200+ or 1,000+ employees can handle.",
     "vocabulary_highlights": [
-      "going upmarket",
-      "sales floor",
-      "contract values"
+      "upmarket",
+      "contract values",
+      "engage",
+      "enterprise customers"
     ],
     "topics": [
       "Strategy & Planning",
@@ -133,18 +381,79 @@
     "text_ko": "제품 주도 영업(product-led sales)을 한다는 건 결국 업마켓(upmarket)으로 간다는 뜻이에요. 즉 전통적으로 영업팀이 기꺼이 개입해서 성사시키는 최소 수준, 이른바 '영업 최저선'(sales floor)인 약 $15,000를 넘는 계약 규모(contract values)를 노리게 된다는 말이에요. 그리고 최소선이 $15,000라면 보통 $100,000~$200,000짜리 계약도 함께 성사시키려는 경우가 많아요.",
     "text_zh": "做产品驱动销售(product-led sales)就意味着你要往高端市场走，这是必然的。也就是说你要去争取那些超过你销售底线的合同金额，就是销售团队愿意跟进和成交的最低金额，传统上大概是1万5千美金左右。如果你的目标合同金额是1万5千美金的话，那说明你可能同时也在努力拿下10万、20万美金的大单子。",
     "text_es": "Tener ventas orientadas por el producto significa que vas hacia mercados más grandes, punto. Eso significa que vas por contratos que probablemente están por encima de tu piso de ventas (sales floor), o sea, lo mínimo que el equipo de ventas está dispuesto a trabajar y cerrar, que tradicionalmente anda por los $15,000 dólares. Si estás buscando contratos de $15,000, eso significa que probablemente también estás tratando de cerrar contratos de cien mil, $200,000 dólares.",
-    "key_sentence": "Product-led sales means going upmarket for higher contract values."
+    "key_sentence": "Product-led sales means going upmarket for higher contract values.",
+    "text_trimmed": true,
+    "original_text": "To have product-led sales means you're going upmarket, period. That means you going for contract values that are probably over your sales floor, so the minimum that the sales is willing to engage and close, which is traditionally around $15,000. If you're going for contract values of $15,000, that means you're probably trying to close a hundred, $200,000 contracts as well.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "upmarket",
+        "definition": "Referring to products or services that are designed for a higher-end market segment, often characterized by premium pricing and superior quality.",
+        "businessContext": "In business, going 'upmarket' indicates a strategic shift towards targeting affluent customers and higher contract values, often requiring enhanced marketing and product features.",
+        "nuance": "While 'upmarket' conveys a sense of exclusivity and quality, it may also imply a departure from more accessible or budget-friendly offerings.",
+        "synonyms": [
+          "premium",
+          "luxury"
+        ],
+        "antonyms": [
+          "downmarket",
+          "budget"
+        ]
+      },
+      {
+        "word": "contract values",
+        "definition": "The monetary worth assigned to a contract, typically reflecting the total amount to be paid for goods or services over the contract's duration.",
+        "businessContext": "In sales and negotiations, understanding contract values is crucial for setting pricing strategies and determining the profitability of deals.",
+        "nuance": "The term can imply varying levels of commitment and risk, as higher contract values often come with greater expectations and responsibilities.",
+        "synonyms": [
+          "contract worth",
+          "contract amount"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "engage",
+        "definition": "To actively involve or participate in a process, often referring to interactions between businesses and their clients or stakeholders.",
+        "businessContext": "In a sales context, to 'engage' means to connect with potential customers, fostering relationships that can lead to successful transactions.",
+        "nuance": "The term carries a proactive connotation, suggesting not just initial contact but ongoing interaction and relationship-building.",
+        "synonyms": [
+          "interact",
+          "involve"
+        ],
+        "antonyms": [
+          "disengage",
+          "ignore"
+        ]
+      },
+      {
+        "word": "enterprise customers",
+        "definition": "Large organizations or corporations that purchase products or services in significant quantities, often requiring tailored solutions and support.",
+        "businessContext": "Targeting enterprise customers typically involves longer sales cycles and more complex negotiations due to their specific needs and higher stakes.",
+        "nuance": "The term implies a level of sophistication and resource availability, suggesting that products or services must meet rigorous standards and expectations.",
+        "synonyms": [
+          "corporate clients",
+          "business clients"
+        ],
+        "antonyms": [
+          "individual consumers",
+          "small businesses"
+        ]
+      }
+    ]
   },
   {
-    "text": "We've alleviated our product management in B2B from monetization ownership. When a SLG company actually goes into product-assisted tactics or product-led growth, the biggest pain point is actually educating product team on how can you get product to sell itself, which is all about monetization awareness, monetization friction of conversion to get into the paid plan, and then having actual correct value metrics that are understood self-serve by the customer.",
+    "text": "We've alleviated our product management in B2B from monetization ownership.",
     "speaker": "Elena Verna",
     "timestamp": "00:25:38",
     "context": "Elena discusses how sales-led growth companies have historically separated product teams from revenue responsibility. She explains that when these companies try to add product-led elements, the main challenge is teaching product teams to own monetization - including making customers aware of paid features, reducing conversion friction, and creating clear value metrics that customers can understand without sales assistance.",
     "vocabulary_highlights": [
       "alleviated",
-      "monetization ownership",
-      "monetization friction",
-      "value metrics"
+      "monetization",
+      "ownership",
+      "product management"
     ],
     "topics": [
       "Product Management",
@@ -161,17 +470,79 @@
     "text_ko": "우리는 B2B에서 제품 관리의 수익화 책임을 덜어냈어요. SLG 회사가 제품 중심의 전략이나 제품 주도 성장(product-led growth)을 시도할 때 가장 큰 문제는 제품 팀에게 제품이 스스로 판매될 수 있는 방법을 교육하는 거예요. 이건 수익화 인식과 유료 플랜으로 전환하는 데 필요한 수익화 마찰에 관한 것이고, 고객이 스스로 이해할 수 있는 올바른 가치 지표를 갖추는 것도 중요해요.",
     "text_zh": "我们把B2B产品管理从变现责任中解放出来了。当一个销售主导(SLG)的公司真正开始用产品辅助策略或者产品驱动增长(PLG)的时候，最大的痛点其实是教会产品团队怎么让产品自己会卖货，这主要涉及三个方面：变现意识、付费转化时的摩擦问题，还有让客户能够自助理解的正确价值指标。",
     "text_es": "Hemos liberado a nuestro equipo de producto en B2B de tener que encargarse directamente de la monetización. Cuando una empresa SLG realmente se mete en tácticas asistidas por producto o crecimiento liderado por producto (product-led growth), el mayor dolor de cabeza es en realidad educar al equipo de producto sobre cómo lograr que el producto se venda solo, lo cual tiene que ver con crear conciencia sobre la monetización, reducir la fricción en la conversión para que pasen al plan de pago, y después tener métricas de valor correctas que el cliente pueda entender por sí mismo de manera autoservicio.",
-    "key_sentence": "We've alleviated monetization ownership to educate product teams on selling themselves."
+    "key_sentence": "We've alleviated our product management in B2B from monetization ownership.",
+    "text_trimmed": true,
+    "original_text": "We've alleviated our product management in B2B from monetization ownership. When a SLG company actually goes into product-assisted tactics or product-led growth, the biggest pain point is actually educating product team on how can you get product to sell itself, which is all about monetization awareness, monetization friction of conversion to get into the paid plan, and then having actual correct value metrics that are understood self-serve by the customer.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "alleviated",
+        "definition": "To make a problem or situation less severe or serious.",
+        "businessContext": "In business, alleviating challenges often refers to reducing operational burdens or simplifying processes to enhance efficiency and productivity.",
+        "nuance": "This term conveys a sense of relief and improvement, often used in contexts where stress or difficulty is being addressed.",
+        "synonyms": [
+          "mitigated",
+          "lessened"
+        ],
+        "antonyms": [
+          "exacerbated",
+          "aggravated"
+        ]
+      },
+      {
+        "word": "monetization",
+        "definition": "The process of converting an asset, service, or product into a source of revenue.",
+        "businessContext": "In tech and startups, monetization strategies are crucial for generating income from products, often involving various pricing models or advertising methods.",
+        "nuance": "This term often implies a strategic approach to generating profit and can carry connotations of innovation or exploitation, depending on context.",
+        "synonyms": [
+          "revenue generation",
+          "commercialization"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "ownership",
+        "definition": "The state or fact of possessing something, typically implying control and responsibility over it.",
+        "businessContext": "In a business context, ownership can refer to the rights and responsibilities associated with assets, projects, or intellectual property, influencing decision-making and accountability.",
+        "nuance": "Ownership can imply a deeper commitment and investment in the success of a project or company, and is often contrasted with shared or delegated responsibilities.",
+        "synonyms": [
+          "control",
+          "proprietorship"
+        ],
+        "antonyms": [
+          "disownership",
+          "abandonment"
+        ]
+      },
+      {
+        "word": "product management",
+        "definition": "The function within an organization responsible for guiding the development, marketing, and lifecycle of a product.",
+        "businessContext": "In tech and startups, product management involves cross-functional collaboration to ensure that products meet market needs and align with business goals.",
+        "nuance": "This term encompasses both strategic and tactical aspects of product development, and is often associated with leadership roles that require both technical and business acumen.",
+        "synonyms": [
+          "product development",
+          "product strategy"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "The most important thing in product-led sales is that there is a different configuration internally of collaboration that needs to occur. In traditional sales world, marketing creates pipeline for sales. Sales sells product. Product engages with a paid user to drive retention. In the product-led sales, product acquires and activates a customer and product creates pipeline for sales, so relationship is not that there's a go-to-market org with marketing and sales and product just kind of throws features across the fence for them to sell.",
+    "text": "The most important thing in product-led sales is that there is a different configuration internally of collaboration that needs to occur. In traditional sales world, marketing creates pipeline for sales. Sales sells product. Product engages with a paid user to drive retention.",
     "speaker": "Elena Verna",
     "timestamp": "00:00:00",
     "context": "Elena explains the fundamental organizational changes required for successful product-led sales implementation. She contrasts the traditional sales model where marketing feeds sales and product only engages post-purchase, with product-led sales where product teams must take accountability for both customer acquisition and pipeline creation, requiring much closer collaboration between product and sales teams.",
     "vocabulary_highlights": [
-      "configuration internally",
-      "throws features across the fence",
-      "go-to-market org"
+      "configuration",
+      "collaboration",
+      "pipeline",
+      "retention"
     ],
     "topics": [
       "Leadership & Management",
@@ -188,6 +559,67 @@
     "text_ko": "제품 주도형 영업(product-led sales)에서 가장 중요한 건 내부적으로 협업 방식이 달라져야 한다는 점이에요. 전통적인 영업 환경에서는 마케팅이 세일즈를 위한 파이프라인(pipeline)을 만들고, 세일즈가 제품을 팔고, 제품팀은 유료 사용자(paid user)를 케어해 유지(retention)를 높이는 역할을 해요. 반면 제품 주도형 영업에서는 제품이 고객을 획득하고 활성화시키며, 제품이 세일즈를 위한 파이프라인(pipeline)을 만들어요. 즉, 마케팅과 세일즈로 구성된 go-to-market(go-to-market) 조직이 있고 제품은 그냥 기능만 넘겨주면 그들이 알아서 파는 그런 관계가 아니에요.",
     "text_zh": "产品驱动销售(product-led sales)最关键的一点是，内部协作的配置跟传统模式完全不一样。传统销售模式下，市场部负责给销售部输送潜客，销售部负责卖产品，产品部负责跟付费用户打交道来提高留存率。但在产品驱动销售模式里，是产品部门来获客和激活客户，产品给销售部创造销售线索。所以这种关系不是说有个市场销售部门(go-to-market org)，然后产品部就在那儿闷头做功能，做完了扔给他们去卖。",
     "text_es": "Lo más importante en las ventas impulsadas por producto (product-led sales) es que internamente necesitas una configuración de colaboración completamente diferente. En el mundo de ventas tradicional, marketing crea el pipeline para ventas. Ventas vende el producto. Producto trabaja con usuarios pagos para impulsar la retención. En las ventas impulsadas por producto (product-led sales), el producto adquiere y activa al cliente y el producto crea el pipeline para ventas, entonces la relación ya no es que tengas una organización de go-to-market con marketing y ventas donde producto simplemente les lanza funcionalidades por encima del muro para que las vendan.",
-    "key_sentence": "Product-led sales requires a different configuration internally for collaboration."
+    "key_sentence": "Product-led sales requires a different configuration internally for collaboration.",
+    "text_trimmed": true,
+    "original_text": "The most important thing in product-led sales is that there is a different configuration internally of collaboration that needs to occur. In traditional sales world, marketing creates pipeline for sales. Sales sells product. Product engages with a paid user to drive retention. In the product-led sales, product acquires and activates a customer and product creates pipeline for sales, so relationship is not that there's a go-to-market org with marketing and sales and product just kind of throws features across the fence for them to sell.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "configuration",
+        "definition": "The arrangement or setup of components in a system or process.",
+        "businessContext": "In business and technology, configuration often refers to the specific setup of software, hardware, or organizational structures that facilitate operations and workflows.",
+        "nuance": "While 'configuration' can imply a technical setup, it can also refer to organizational arrangements, making it versatile in usage.",
+        "synonyms": [
+          "arrangement",
+          "setup"
+        ],
+        "antonyms": [
+          "disorganization",
+          "chaos"
+        ]
+      },
+      {
+        "word": "collaboration",
+        "definition": "The act of working together with one or more individuals or groups to achieve a common goal.",
+        "businessContext": "In a business setting, collaboration is essential for fostering teamwork, innovation, and efficiency, particularly in projects that require diverse skills and perspectives.",
+        "nuance": "Collaboration implies a cooperative effort and is often more productive than competition; it is best used when emphasizing teamwork rather than individual achievement.",
+        "synonyms": [
+          "cooperation",
+          "partnership"
+        ],
+        "antonyms": [
+          "competition",
+          "isolation"
+        ]
+      },
+      {
+        "word": "pipeline",
+        "definition": "A system or process through which something is developed, managed, or delivered, often referring to the flow of leads or projects.",
+        "businessContext": "In sales and marketing, a pipeline typically refers to the stages that potential customers go through before making a purchase, helping teams manage and forecast revenue.",
+        "nuance": "While 'pipeline' is commonly associated with sales, it can also refer to any systematic process in business, making it a flexible term.",
+        "synonyms": [
+          "workflow",
+          "process"
+        ],
+        "antonyms": [
+          "disruption",
+          "blockage"
+        ]
+      },
+      {
+        "word": "retention",
+        "definition": "The ability to keep customers or employees engaged and satisfied over time, preventing them from leaving.",
+        "businessContext": "In business, retention is a critical metric that reflects customer loyalty and satisfaction, influencing long-term profitability and growth strategies.",
+        "nuance": "Retention often carries a positive connotation, suggesting successful engagement, and is best used in contexts emphasizing customer loyalty rather than turnover.",
+        "synonyms": [
+          "loyalty",
+          "engagement"
+        ],
+        "antonyms": [
+          "attrition",
+          "loss"
+        ]
+      }
+    ]
   }
 ]

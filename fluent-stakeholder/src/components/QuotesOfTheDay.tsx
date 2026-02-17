@@ -10,14 +10,56 @@ interface QuotesOfTheDayProps {
 
 function getDailyQuotes(quotes: Quote[], count: number): Quote[] {
   if (quotes.length === 0) return [];
+
   const today = new Date();
   const seed = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100 + today.getDate();
-  const shuffled = [...quotes].sort((a, b) => {
-    const hashA = ((seed * 31 + a.id.charCodeAt(0)) % 1000) / 1000;
-    const hashB = ((seed * 31 + b.id.charCodeAt(0)) % 1000) / 1000;
-    return hashA - hashB;
-  });
-  return shuffled.slice(0, count);
+
+  // Seeded random for deterministic daily selection
+  const seededRandom = (s: number): number => {
+    const x = Math.sin(s) * 10000;
+    return x - Math.floor(x);
+  };
+
+  const hashString = (str: string, s: number): number => {
+    let hash = s;
+    for (let i = 0; i < str.length; i++) {
+      hash = ((hash << 5) - hash + str.charCodeAt(i)) | 0;
+    }
+    return seededRandom(hash);
+  };
+
+  // Shuffle deterministically
+  const shuffled = [...quotes].sort((a, b) =>
+    hashString(a.id, seed) - hashString(b.id, seed)
+  );
+
+  // Select with diversity: different speakers, different first letters
+  const selected: Quote[] = [];
+  const usedFirstLetters = new Set<string>();
+  const usedSpeakers = new Set<string>();
+
+  // First pass: prioritize diverse first letters
+  for (const quote of shuffled) {
+    if (selected.length >= count) break;
+    const firstLetter = quote.speaker.charAt(0).toUpperCase();
+    if (usedFirstLetters.has(firstLetter) || usedSpeakers.has(quote.speaker)) continue;
+
+    selected.push(quote);
+    usedFirstLetters.add(firstLetter);
+    usedSpeakers.add(quote.speaker);
+  }
+
+  // Second pass: fill remaining with different speakers (allow same first letter)
+  if (selected.length < count) {
+    for (const quote of shuffled) {
+      if (selected.length >= count) break;
+      if (usedSpeakers.has(quote.speaker)) continue;
+      selected.push(quote);
+      usedSpeakers.add(quote.speaker);
+    }
+  }
+
+  return selected;
 }
 
 const QuotesOfTheDay: React.FC<QuotesOfTheDayProps> = ({ quotes, onQuoteClick, onBrowseAll }) => {

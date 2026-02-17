@@ -1,12 +1,14 @@
 [
   {
-    "text": "I really enjoy being right and then it turns out in the working world, that did not serve me so great. I think the hard part is sublimating your ego a little bit and saying it's more important to get to the outcome than to be right.",
+    "text": "I really enjoy being right and then it turns out in the working world, that did not serve me so great.",
     "speaker": "Ami Vora",
     "timestamp": "00:00:09",
     "context": "Lenny shares a quote from Boz (Meta's CTO) about Ami's ability to respond with curiosity when faced with profound disagreements. Ami explains that her natural tendency to always be right didn't work well in professional settings. She had to learn to prioritize getting to the best outcome rather than being the person who's always right, which required setting aside her ego and being open to learning from others' perspectives.",
     "vocabulary_highlights": [
-      "did not serve me so great",
-      "sublimating your ego"
+      "respond with curiosity",
+      "profound disagreements",
+      "natural tendency",
+      "serve me well"
     ],
     "topics": [
       "Career Development",
@@ -22,7 +24,68 @@
     "text_ko": "저는 맞는 게 정말 좋았는데, 일하는 세상에서는 그게 그렇게 도움이 되지 않았어요. 어려운 부분은 자존심을 조금 내려놓고, 맞는 것보다 결과를 내는 게 더 중요하다는 걸 인정하는 거예요.",
     "text_zh": "我很喜欢自己是对的，但在职场中，这并没有给我带来太大的帮助。我认为困难之处在于要稍微抑制自己的自我，意识到达成结果比证明自己是对的更重要。",
     "text_es": "Realmente disfruto tener razón, pero en el mundo laboral, eso no siempre me ha servido de mucho. Creo que lo difícil es sublimar un poco el ego y reconocer que es más importante alcanzar el resultado que tener razón.",
-    "key_sentence": "Sublimating your ego is crucial for achieving the outcome, not just being right."
+    "key_sentence": "that did not serve me so great.",
+    "text_trimmed": true,
+    "original_text": "I really enjoy being right and then it turns out in the working world, that did not serve me so great. I think the hard part is sublimating your ego a little bit and saying it's more important to get to the outcome than to be right.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "respond with curiosity",
+        "definition": "To reply or react to a situation or inquiry with an eagerness to learn or understand more.",
+        "businessContext": "In business settings, responding with curiosity can foster innovation and collaboration, as it encourages team members to explore new ideas and solutions.",
+        "nuance": "This phrase conveys a positive approach to communication, emphasizing openness and a desire for deeper engagement, rather than a defensive or dismissive attitude.",
+        "synonyms": [
+          "inquire thoughtfully",
+          "engage inquisitively"
+        ],
+        "antonyms": [
+          "dismiss outright",
+          "ignore"
+        ]
+      },
+      {
+        "word": "profound disagreements",
+        "definition": "Significant and deep-seated differences in opinion or belief that can lead to conflict or debate.",
+        "businessContext": "In a corporate environment, profound disagreements may arise during strategic planning or decision-making processes, potentially impacting team dynamics and project outcomes.",
+        "nuance": "This phrase suggests that the disagreements are not trivial but rather fundamental, often requiring careful negotiation and resolution strategies.",
+        "synonyms": [
+          "deep conflicts",
+          "serious disputes"
+        ],
+        "antonyms": [
+          "harmonious agreement",
+          "consensus"
+        ]
+      },
+      {
+        "word": "natural tendency",
+        "definition": "An inherent inclination or predisposition to behave or think in a certain way.",
+        "businessContext": "Understanding natural tendencies can help leaders tailor their management styles to better motivate employees and enhance team performance.",
+        "nuance": "This phrase implies that the behavior is instinctual rather than learned, which can be useful in discussions about personality traits in the workplace.",
+        "synonyms": [
+          "innate inclination",
+          "default behavior"
+        ],
+        "antonyms": [
+          "unnatural behavior",
+          "forced action"
+        ]
+      },
+      {
+        "word": "serve me well",
+        "definition": "To be beneficial or advantageous to someone, often in terms of personal or professional growth.",
+        "businessContext": "In a business context, recognizing what has served someone well can inform future decisions and strategies, helping to replicate success.",
+        "nuance": "This phrase often carries a reflective tone, suggesting that past experiences or decisions have had a positive impact, which may not always be the case in every situation.",
+        "synonyms": [
+          "benefit me",
+          "aid my progress"
+        ],
+        "antonyms": [
+          "hinder my success",
+          "impede my growth"
+        ]
+      }
+    ]
   },
   {
     "text": "If we all agree that the feeling of something should be, I'm sitting in Dolores Park with my friends on a sunny Saturday, then people will just naturally build something that feels more consistent.",
@@ -30,7 +93,10 @@
     "timestamp": "00:00:19",
     "context": "Ami is discussing how to use metaphors and imagery to rally teams around a shared vision. She explains that when teams agree on a specific feeling or metaphor for their product - in this case, the relaxed, friendly atmosphere of hanging out with friends in a San Francisco park - it guides design and product decisions naturally without needing detailed specifications for every choice.",
     "vocabulary_highlights": [
-      "just naturally build"
+      "rally teams",
+      "shared vision",
+      "consistent",
+      "metaphors and imagery"
     ],
     "topics": [
       "Product Management",
@@ -46,17 +112,77 @@
     "text_ko": "모두가 어떤 느낌이 있어야 한다고 동의한다면, 나는 친구들과 함께 화창한 토요일에 돌로레스 파크에 앉아 있을 거예요. 그러면 사람들은 자연스럽게 더 일관된 느낌을 주는 뭔가를 만들게 될 거예요.",
     "text_zh": "如果我们都认同某种感觉应该是这样的，比如在阳光明媚的星期六，我和朋友们坐在多洛雷斯公园，那么人们自然会创造出更一致的东西。",
     "text_es": "Si todos estamos de acuerdo en que la sensación de algo debería ser, como estar sentado en el Parque Dolores con mis amigos en un sábado soleado, entonces las personas naturalmente crearán algo que se sienta más coherente.",
-    "key_sentence": "People will just naturally build something that feels consistent when they agree on feelings."
+    "key_sentence": "People will just naturally build something that feels consistent when they agree on feelings.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "rally teams",
+        "definition": "To rally teams means to gather and motivate a group of individuals towards a common goal or objective, often in a spirited or enthusiastic manner.",
+        "businessContext": "In business, rallying teams is crucial during project launches or crisis management, where leadership is needed to inspire collaboration and focus among team members.",
+        "nuance": "This phrase often carries a connotation of urgency and enthusiasm, making it more suitable for situations requiring motivation rather than routine tasks.",
+        "synonyms": [
+          "mobilize teams",
+          "inspire groups"
+        ],
+        "antonyms": [
+          "disband teams",
+          "demotivate groups"
+        ]
+      },
+      {
+        "word": "shared vision",
+        "definition": "A shared vision refers to a common understanding and agreement among a group about the future direction and goals of an organization or project.",
+        "businessContext": "In a business setting, a shared vision is essential for aligning team efforts and fostering collaboration, ensuring that all members are working towards the same objectives.",
+        "nuance": "This term implies a collective commitment and emotional investment, making it more impactful in discussions about leadership and organizational culture.",
+        "synonyms": [
+          "collective vision",
+          "common goal"
+        ],
+        "antonyms": [
+          "divergent goals",
+          "individual agendas"
+        ]
+      },
+      {
+        "word": "consistent",
+        "definition": "Consistent means acting or done in the same way over time, ensuring reliability and uniformity in performance or behavior.",
+        "businessContext": "In business, consistency is vital for brand reputation, customer experience, and operational efficiency, as it builds trust and predictability among stakeholders.",
+        "nuance": "While often viewed positively, overemphasis on consistency can stifle innovation; thus, it should be balanced with flexibility when necessary.",
+        "synonyms": [
+          "reliable",
+          "uniform"
+        ],
+        "antonyms": [
+          "inconsistent",
+          "variable"
+        ]
+      },
+      {
+        "word": "metaphors and imagery",
+        "definition": "Metaphors and imagery refer to figurative language that creates vivid mental pictures or comparisons, enhancing understanding and engagement through descriptive expression.",
+        "businessContext": "In business communication, metaphors and imagery are used in marketing and branding to evoke emotions and create memorable messages that resonate with audiences.",
+        "nuance": "While effective for storytelling and persuasion, reliance on metaphors and imagery should be balanced with clarity to avoid confusion in technical or formal contexts.",
+        "synonyms": [
+          "figurative language",
+          "descriptive expressions"
+        ],
+        "antonyms": [
+          "literal language",
+          "plain speech"
+        ]
+      }
+    ]
   },
   {
-    "text": "For me, the hill climb is all about the difference between a local optimum and a global optimum. You're standing on top of the hill, you're looking down, you can see rolling hills, the sheep, the grass, whatever, but then, way off in the distance you can see a mountain. And the thing that gets me through the valley is remembering what the summit feels like.",
+    "text": "For me, the hill climb is all about the difference between a local optimum and a global optimum.",
     "speaker": "Ami Vora",
     "timestamp": "00:00:36",
     "context": "Lenny asks Ami about her hill climb metaphor. Ami explains this metaphor represents the challenge of leaving a good situation (local optimum) to pursue something much better (global optimum). The hill climb describes the difficult decision of giving up current success to cross an uncertain valley and climb a higher mountain, with the understanding that remembering the potential reward helps sustain you through the difficult transition period.",
     "vocabulary_highlights": [
-      "local optimum",
-      "global optimum",
-      "way off in the distance"
+      "optimum",
+      "pursue",
+      "challenge",
+      "situation"
     ],
     "topics": [
       "Decision Making",
@@ -72,16 +198,79 @@
     "text_ko": "저한테 언덕 오르기는 지역 최적(local optimum)과 전역 최적(global optimum)의 차이에 대한 거예요. 언덕 꼭대기에 서서 아래를 내려다보면 구불구불한 언덕들과 양들, 풀들이 보이죠. 그런데 멀리 산이 보이기도 해요. 제가 계곡을 지나갈 때 버티게 해주는 건 꼭대기에서 느꼈던 그 기분을 기억하는 거예요.",
     "text_zh": "对我来说，爬坡的过程在于局部最优（local optimum）和全局最优（global optimum）之间的差异。你站在山顶，俯瞰四周，可以看到起伏的山丘、羊群、草地等等，但在远处你能看到一座高山。让我穿越山谷的动力，就是时刻记住山顶的感觉。",
     "text_es": "Para mí, la subida a la colina se trata de la diferencia entre un óptimo local y un óptimo global. Estás en la cima de la colina, mirando hacia abajo, puedes ver colinas onduladas, ovejas, el pasto, lo que sea, pero luego, a lo lejos, puedes ver una montaña. Y lo que me ayuda a atravesar el valle es recordar cómo se siente estar en la cumbre.",
-    "key_sentence": "The hill climb illustrates the difference between local optimum and global optimum."
+    "key_sentence": "The hill climb illustrates the difference between local optimum and global optimum.",
+    "text_trimmed": true,
+    "original_text": "For me, the hill climb is all about the difference between a local optimum and a global optimum. You're standing on top of the hill, you're looking down, you can see rolling hills, the sheep, the grass, whatever, but then, way off in the distance you can see a mountain. And the thing that gets me through the valley is remembering what the summit feels like.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "optimum",
+        "definition": "The most favorable condition or level for achieving the best possible outcome. In various contexts, it refers to the ideal point where efficiency or effectiveness is maximized.",
+        "businessContext": "In business and technology, 'optimum' often refers to the best allocation of resources or strategies that yield the highest return on investment or performance.",
+        "nuance": "While 'optimum' suggests the best possible scenario, it can imply that there are multiple acceptable levels, and it is often used in contrast to 'suboptimal'.",
+        "synonyms": [
+          "ideal",
+          "best"
+        ],
+        "antonyms": [
+          "suboptimal",
+          "worst"
+        ]
+      },
+      {
+        "word": "pursue",
+        "definition": "To follow or chase after a goal, objective, or course of action with determination. It implies a continuous effort towards achieving something.",
+        "businessContext": "In the business world, 'pursue' is commonly used to describe the act of seeking new opportunities, markets, or innovations that align with a company's strategic goals.",
+        "nuance": "The term carries a connotation of active engagement and persistence, often suggesting that the pursuit may involve overcoming obstacles.",
+        "synonyms": [
+          "chase",
+          "seek"
+        ],
+        "antonyms": [
+          "abandon",
+          "neglect"
+        ]
+      },
+      {
+        "word": "challenge",
+        "definition": "A difficult task or situation that requires effort, skill, or determination to overcome. It often involves obstacles that must be addressed to achieve success.",
+        "businessContext": "In business settings, 'challenge' can refer to market competition, operational hurdles, or any issues that impede progress towards objectives.",
+        "nuance": "While 'challenge' can imply a negative situation, it is often viewed positively as an opportunity for growth and innovation.",
+        "synonyms": [
+          "obstacle",
+          "difficulty"
+        ],
+        "antonyms": [
+          "ease",
+          "solution"
+        ]
+      },
+      {
+        "word": "situation",
+        "definition": "A set of circumstances or a condition in which individuals or organizations find themselves. It encompasses the context surrounding events or decisions.",
+        "businessContext": "In business, 'situation' is frequently used to analyze market conditions, internal company dynamics, or specific challenges that need to be addressed.",
+        "nuance": "The term is neutral and can describe both positive and negative contexts, making it versatile in discussions about strategy and decision-making.",
+        "synonyms": [
+          "condition",
+          "circumstance"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think the hard part is just sublimating your ego a little bit and saying it's more important to get to the outcome than to be right. And I think all of growth is a battle with yourself, but this is one of the hardest ones because we all want to be right, we all want to protect ourselves.",
+    "text": "I think the hard part is just sublimating your ego a little bit and saying it's more important to get to the outcome than to be right.",
     "speaker": "Ami Vora",
     "timestamp": "00:13:18",
     "context": "Lenny asks Ami for practical advice on how to disagree skillfully and respond with curiosity like Boz described. Ami explains that the core challenge is managing your ego and prioritizing collective success over personal validation. She emphasizes that personal growth fundamentally involves internal struggles, and the desire to be right is one of the most difficult impulses to overcome because it's tied to our natural self-protective instincts.",
     "vocabulary_highlights": [
-      "sublimating your ego",
-      "battle with yourself"
+      "sublimate",
+      "outcome",
+      "prioritizing",
+      "collective"
     ],
     "topics": [
       "Leadership & Management",
@@ -97,7 +286,68 @@
     "text_ko": "저는 힘든 부분이 자기 자아를 조금 내려놓고 결과를 얻는 게 옳은 것보다 더 중요하다는 걸 인정하는 거라고 생각해요. 성장이라는 건 결국 자기 자신과의 싸움인데, 이게 가장 어려운 싸움 중 하나인 것 같아요. 왜냐하면 우리 모두 옳고 싶어하고, 자신을 보호하고 싶어하니까요.",
     "text_zh": "我认为最困难的部分就是稍微放下自己的自我，意识到达成结果比证明自己正确更重要。我觉得成长的过程就是与自己斗争，而这其中最难的就是我们都希望自己是对的，都想保护自己。",
     "text_es": "Creo que la parte difícil es sublimar un poco tu ego y reconocer que es más importante alcanzar el resultado que tener la razón. Y creo que todo el crecimiento es una lucha contigo mismo, pero esta es una de las más difíciles porque todos queremos tener la razón, todos queremos protegernos.",
-    "key_sentence": "Growth is a battle with yourself, especially when sublimating your ego."
+    "key_sentence": "it's more important to get to the outcome than to be right.",
+    "text_trimmed": true,
+    "original_text": "I think the hard part is just sublimating your ego a little bit and saying it's more important to get to the outcome than to be right. And I think all of growth is a battle with yourself, but this is one of the hardest ones because we all want to be right, we all want to protect ourselves.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "sublimate",
+        "definition": "To redirect or transform an impulse or desire into a more socially acceptable or productive form.",
+        "businessContext": "In business settings, sublimating one's ego can lead to better teamwork and collaboration, as individuals focus on collective goals rather than personal recognition.",
+        "nuance": "This term often implies a positive transformation of instincts or desires, making it suitable in contexts where selflessness is valued.",
+        "synonyms": [
+          "redirect",
+          "transform"
+        ],
+        "antonyms": [
+          "indulge",
+          "satisfy"
+        ]
+      },
+      {
+        "word": "outcome",
+        "definition": "The result or effect of an action, decision, or process.",
+        "businessContext": "In project management and strategic planning, understanding the desired outcomes is crucial for measuring success and aligning team efforts.",
+        "nuance": "While often used interchangeably with 'result,' 'outcome' can imply a broader scope, including both intended and unintended consequences.",
+        "synonyms": [
+          "result",
+          "consequence"
+        ],
+        "antonyms": [
+          "cause",
+          "initiation"
+        ]
+      },
+      {
+        "word": "prioritizing",
+        "definition": "The act of arranging or dealing with tasks or issues in order of importance.",
+        "businessContext": "Effective prioritizing is essential in business environments to ensure that resources are allocated efficiently and critical tasks are completed on time.",
+        "nuance": "This term suggests a systematic approach to decision-making, and it is often used in contexts where time and resources are limited.",
+        "synonyms": [
+          "ranking",
+          "ordering"
+        ],
+        "antonyms": [
+          "neglecting",
+          "disregarding"
+        ]
+      },
+      {
+        "word": "collective",
+        "definition": "Relating to a group of individuals acting together as a single entity.",
+        "businessContext": "In collaborative work environments, fostering a collective mindset can enhance innovation and problem-solving by leveraging diverse perspectives.",
+        "nuance": "While 'collective' emphasizes unity and shared goals, it can sometimes downplay individual contributions, so care should be taken in its application.",
+        "synonyms": [
+          "joint",
+          "shared"
+        ],
+        "antonyms": [
+          "individual",
+          "singular"
+        ]
+      }
+    ]
   },
   {
     "text": "I think we misuse product reviews sometimes as ways to get decisions and actually, they should be ways to calibrate on principles. So what you don't want is to come to a product review for every single that you want to make.",
@@ -105,8 +355,10 @@
     "timestamp": "00:20:30",
     "context": "Lenny asks Ami for additional advice about running effective product reviews beyond keeping them simple and having recommendations. Ami explains that product reviews are often used incorrectly as decision-making forums when they should actually be used to establish consistent principles. Instead of seeking approval for every individual decision, teams should use reviews to align on decision-making frameworks that enable autonomous choices in the future.",
     "vocabulary_highlights": [
-      "misuse product reviews",
-      "calibrate on principles"
+      "calibrate",
+      "principles",
+      "decisions",
+      "effective"
     ],
     "topics": [
       "Product Management",
@@ -122,16 +374,77 @@
     "text_ko": "가끔 제품 리뷰를 결정을 내리는 수단으로 잘못 활용하는 경우가 있는 것 같아요. 사실 제품 리뷰는 원칙을 조율하는 방법이어야 해요. 그래서 매번 모든 결정에 대해 제품 리뷰를 하러 가는 건 피해야 해요.",
     "text_zh": "我认为我们有时错误地使用产品评审作为决策的依据，实际上它们应该是用来校准原则的工具。因此，我们不希望每次做决策时都依赖于产品评审。",
     "text_es": "Creo que a veces hacemos un mal uso de las revisiones de productos como una forma de tomar decisiones, cuando en realidad deberían servir para calibrar principios. Lo que no queremos es acudir a una revisión de producto por cada decisión que queremos tomar.",
-    "key_sentence": "We misuse product reviews instead of using them to calibrate on principles."
+    "key_sentence": "We misuse product reviews instead of using them to calibrate on principles.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "calibrate",
+        "definition": "To adjust or fine-tune something to ensure accuracy or optimal performance.",
+        "businessContext": "In business settings, calibrating often refers to aligning strategies, metrics, or processes to ensure they meet established standards or objectives.",
+        "nuance": "While 'calibrate' implies precision and adjustment, it is often used in contexts where ongoing evaluation and refinement are necessary.",
+        "synonyms": [
+          "adjust",
+          "fine-tune"
+        ],
+        "antonyms": [
+          "misalign",
+          "disregard"
+        ]
+      },
+      {
+        "word": "principles",
+        "definition": "Fundamental truths or propositions that serve as the foundation for a system of belief or behavior.",
+        "businessContext": "In a business context, principles guide decision-making, corporate culture, and ethical practices, helping organizations maintain consistency and integrity.",
+        "nuance": "The term 'principles' often carries a moral or ethical weight, suggesting a commitment to core values rather than just operational guidelines.",
+        "synonyms": [
+          "values",
+          "standards"
+        ],
+        "antonyms": [
+          "exceptions",
+          "anomalies"
+        ]
+      },
+      {
+        "word": "decisions",
+        "definition": "Choices made after consideration, often involving a selection between alternatives.",
+        "businessContext": "Decisions in business can range from strategic planning to daily operational choices, impacting the direction and success of an organization.",
+        "nuance": "The term 'decisions' can imply a level of finality and responsibility, often associated with the consequences that follow the choice made.",
+        "synonyms": [
+          "choices",
+          "conclusions"
+        ],
+        "antonyms": [
+          "indecision",
+          "ambiguity"
+        ]
+      },
+      {
+        "word": "effective",
+        "definition": "Producing a desired or intended result; successful in achieving goals.",
+        "businessContext": "In business, effectiveness is often measured by how well strategies, campaigns, or processes meet their objectives and contribute to overall success.",
+        "nuance": "While 'effective' suggests success, it does not necessarily imply efficiency; something can be effective but not efficient in terms of resource use.",
+        "synonyms": [
+          "efficient",
+          "successful"
+        ],
+        "antonyms": [
+          "ineffective",
+          "unproductive"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think execution eats strategy for breakfast and that's something we used to say a lot at Meta. It was just the most important part and I was well-trained in that. That was one of the key lessons that I learned there, and it's because when you have... Look, strategy is super fun. You get to think about all this pie in the sky stuff.",
+    "text": "I think execution eats strategy for breakfast and that's something we used to say a lot at Meta. It was just the most important part and I was well-trained in that.",
     "speaker": "Ami Vora",
     "timestamp": "00:37:58",
     "context": "Lenny brings up Ami's belief that execution beats strategy every time, asking her to elaborate on this philosophy. Ami explains this was a core lesson from Meta, emphasizing that while strategy is intellectually engaging and allows for big-picture thinking, customers only experience the actual product in their hands. She argues that focusing too much on abstract strategic planning can distract from solving real customer problems today.",
     "vocabulary_highlights": [
-      "execution eats strategy for breakfast",
-      "pie in the sky stuff"
+      "execution",
+      "strategy",
+      "core lesson",
+      "emphasizing"
     ],
     "topics": [
       "Product Management",
@@ -147,6 +460,67 @@
     "text_ko": "실행이 전략을 아침으로 먹는다고 생각해요. 메타에서 자주 하던 말이었죠. 그게 가장 중요한 부분이었고, 저는 그 부분에 대해 잘 훈련받았어요. 거기서 배운 핵심 교훈 중 하나였죠. 전략은 정말 재미있어요. 온갖 멋진 아이디어를 생각해볼 수 있으니까요.",
     "text_zh": "我认为执行力（execution）胜过战略（strategy），这是我们在Meta常常提到的一点。这是最重要的部分，而我在这方面受过良好的训练。这是我在那里学到的关键教训之一，因为当你拥有……你看，战略确实很有趣。你可以思考很多理想化的事情。",
     "text_es": "Creo que la ejecución se come la estrategia para el desayuno, y eso es algo que solíamos decir mucho en Meta. Era la parte más importante y yo estaba bien entrenado en eso. Esa fue una de las lecciones clave que aprendí allí, y es porque cuando tienes... Mira, la estrategia es muy divertida. Puedes pensar en todas estas ideas grandiosas.",
-    "key_sentence": "Execution eats strategy for breakfast; strategy is just pie in the sky stuff."
+    "key_sentence": "Execution eats strategy for breakfast; strategy is just pie in the sky stuff.",
+    "text_trimmed": true,
+    "original_text": "I think execution eats strategy for breakfast and that's something we used to say a lot at Meta. It was just the most important part and I was well-trained in that. That was one of the key lessons that I learned there, and it's because when you have... Look, strategy is super fun. You get to think about all this pie in the sky stuff.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "execution",
+        "definition": "The act of carrying out or putting into effect a plan, order, or course of action.",
+        "businessContext": "In business, execution refers to the implementation of strategies and plans to achieve desired outcomes, often emphasizing the importance of timely and effective action.",
+        "nuance": "While execution implies the practical application of ideas, it can also suggest a focus on results over theoretical planning, making it a critical term in performance-driven environments.",
+        "synonyms": [
+          "implementation",
+          "performance"
+        ],
+        "antonyms": [
+          "planning",
+          "theory"
+        ]
+      },
+      {
+        "word": "strategy",
+        "definition": "A high-level plan designed to achieve specific goals or objectives, often involving the allocation of resources.",
+        "businessContext": "In the context of business and startups, strategy encompasses the long-term vision and direction of the organization, guiding decision-making and resource allocation.",
+        "nuance": "The term can imply a deliberate and calculated approach, distinguishing it from more spontaneous or reactive methods of operation.",
+        "synonyms": [
+          "plan",
+          "tactic"
+        ],
+        "antonyms": [
+          "improvisation",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "core lesson",
+        "definition": "A fundamental principle or insight gained from experience or analysis that serves as a guide for future actions.",
+        "businessContext": "In business, core lessons are often derived from successes and failures, providing valuable insights that inform strategic decisions and operational practices.",
+        "nuance": "This term suggests a depth of understanding that transcends surface-level observations, highlighting the importance of learning from both achievements and setbacks.",
+        "synonyms": [
+          "key takeaway",
+          "fundamental insight"
+        ],
+        "antonyms": [
+          "misunderstanding",
+          "confusion"
+        ]
+      },
+      {
+        "word": "emphasizing",
+        "definition": "The act of giving special importance or prominence to something in speech or writing.",
+        "businessContext": "In business communication, emphasizing certain aspects of a message can help clarify priorities, highlight key points, and influence stakeholder perceptions.",
+        "nuance": "While emphasizing can enhance clarity and focus, overuse may lead to perceived exaggeration or manipulation, so it should be applied judiciously.",
+        "synonyms": [
+          "highlighting",
+          "underscoring"
+        ],
+        "antonyms": [
+          "downplaying",
+          "minimizing"
+        ]
+      }
+    ]
   }
 ]

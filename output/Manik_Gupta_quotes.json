@@ -1,13 +1,14 @@
 [
   {
-    "text": "I'm a strong technology optimist. There's always a lot of narrative these days around technology and maybe a little bit more pessimism, and I find that bizarre. I'm just such a strong technology advocate and optimist, because I feel technology's such a strong force for good.",
+    "text": "I'm a strong technology optimist. There's always a lot of narrative these days around technology and maybe a little bit more pessimism, and I find that bizarre.",
     "speaker": "Manik Gupta",
     "timestamp": "00:07:19",
     "context": "Lenny asks Manik what are the one or two main things he did that helped him get to where he is today for people early in their careers. Manik explains his second pattern for career success - being a strong technology optimist who believes in using technology to solve real human needs at scale. He contrasts this with current pessimistic narratives about technology and emphasizes how this optimism has guided his choice of projects throughout his career.",
     "vocabulary_highlights": [
-      "strong force for good",
-      "technology advocate",
-      "find that bizarre"
+      "optimist",
+      "narrative",
+      "pessimism",
+      "bizarre"
     ],
     "topics": [
       "Career Development",
@@ -22,15 +23,79 @@
     "text_ko": "저는 기술(technology)에 대해 아주 낙관적인 편이에요. 요즘은 기술을 둘러싼 이야기들이 많은데, 오히려 비관적인 목소리가 더 커진 것 같아 좀 이상해요. 저는 기술을 강력히 지지하는 사람이자 낙관론자예요. 기술이 세상에 선한 영향을 주는 강한 힘이라고 믿거든요.",
     "text_zh": "我是个坚定的技术乐观派。现在总有很多关于技术的讨论，而且可能还带着点悲观情绪，我觉得这挺奇怪的。我就是特别支持技术发展，特别乐观，因为我觉得技术绝对是个正面力量。",
     "text_es": "Soy muy optimista con la tecnología. Últimamente hay mucha conversación sobre la tecnología y quizás un poco más de pesimismo, y me parece rarísimo. Es que soy un defensor y optimista de la tecnología súper convencido, porque siento que la tecnología es una fuerza increíblemente positiva.",
-    "key_sentence": "I'm a strong technology advocate because technology is a strong force for good."
+    "key_sentence": "I'm a strong technology optimist.",
+    "text_trimmed": true,
+    "original_text": "I'm a strong technology optimist. There's always a lot of narrative these days around technology and maybe a little bit more pessimism, and I find that bizarre. I'm just such a strong technology advocate and optimist, because I feel technology's such a strong force for good.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "optimist",
+        "definition": "An optimist is a person who tends to see the positive side of situations and expects favorable outcomes.",
+        "businessContext": "In business and technology, an optimist may advocate for innovation and growth, believing that challenges can be overcome through creative solutions.",
+        "nuance": "While optimism is generally viewed positively, excessive optimism can lead to unrealistic expectations and poor decision-making.",
+        "synonyms": [
+          "hopeful",
+          "positive thinker"
+        ],
+        "antonyms": [
+          "pessimist",
+          "cynic"
+        ]
+      },
+      {
+        "word": "narrative",
+        "definition": "A narrative is a spoken or written account of connected events; a story that conveys a particular perspective or message.",
+        "businessContext": "In the business world, narratives are often used in marketing and branding to shape consumer perceptions and convey a company's mission or values.",
+        "nuance": "The term can imply a constructed story that may emphasize certain aspects while downplaying others, so it is important to be mindful of bias.",
+        "synonyms": [
+          "story",
+          "account"
+        ],
+        "antonyms": [
+          "fact",
+          "reality"
+        ]
+      },
+      {
+        "word": "pessimism",
+        "definition": "Pessimism is a tendency to see the worst aspect of things or believe that the worst will happen.",
+        "businessContext": "In a business context, pessimism can lead to risk aversion and reluctance to invest in new projects, potentially stifling innovation.",
+        "nuance": "While a degree of pessimism can be healthy for risk assessment, excessive pessimism can hinder progress and morale within teams.",
+        "synonyms": [
+          "negativity",
+          "doubt"
+        ],
+        "antonyms": [
+          "optimism",
+          "hopefulness"
+        ]
+      },
+      {
+        "word": "bizarre",
+        "definition": "Bizarre refers to something that is very strange or unusual, often in a way that is unsettling or difficult to understand.",
+        "businessContext": "In the tech industry, a 'bizarre' trend or idea may indicate a disruptive innovation that challenges conventional thinking or practices.",
+        "nuance": "While 'bizarre' can highlight creativity or uniqueness, it may also carry a negative connotation if it suggests impracticality or absurdity.",
+        "synonyms": [
+          "strange",
+          "outlandish"
+        ],
+        "antonyms": [
+          "normal",
+          "ordinary"
+        ]
+      }
+    ]
   },
   {
-    "text": "When I joined Google in India in 2008, I started off working on Google Maps and I remember how counterintuitive it was for anybody; my friends and family, a bunch of other folks whom I talked to. Counterintuitive in terms of why would anybody ever use maps on their mobile phone in India?",
+    "text": "When I joined Google in India in 2008, I started off working on Google Maps and I remember how counterintuitive it was for anybody; my friends and family, a bunch of other folks whom I talked to.",
     "speaker": "Manik Gupta",
     "timestamp": "00:09:23",
     "context": "Lenny asks what project or product Manik is most proud of from his career. Manik discusses his work on Google Maps in India, explaining how initially it seemed counterintuitive to build a maps product for India because the country seemed unmappable due to poor addressing systems and people traditionally asked for directions from locals instead of using technology.",
     "vocabulary_highlights": [
-      "counterintuitive"
+      "counterintuitive",
+      "project",
+      "product",
+      "build"
     ],
     "topics": [
       "Product Management",
@@ -45,7 +110,68 @@
     "text_ko": "2008년 인도에서 구글에 합류했을 때 구글 지도(Google Maps) 일을 처음 맡았어요. 친구들이나 가족, 만나봤던 여러 사람들 모두 '인도에서 누가 휴대폰으로 지도를 쓰겠어?'라며 전혀 이해를 못 했던 기억이 나요.",
     "text_zh": "2008年我刚加入谷歌印度的时候，一开始是做谷歌地图的。我记得当时所有人都觉得特别不可思议——我的朋友、家人，还有其他很多我聊过的人。他们都想不通，在印度谁会在手机上用地图啊？",
     "text_es": "Cuando me uní a Google en India en 2008, empecé trabajando en Google Maps y recuerdo lo raro que le parecía a todo el mundo; a mis amigos, mi familia, y a un montón de gente con la que hablaba. Les parecía rarísimo la idea de por qué alguien iba a usar mapas en su celular en India.",
-    "key_sentence": "Using maps on mobile phones was counterintuitive for many in India."
+    "key_sentence": "Using maps on mobile phones was counterintuitive for many in India.",
+    "text_trimmed": true,
+    "original_text": "When I joined Google in India in 2008, I started off working on Google Maps and I remember how counterintuitive it was for anybody; my friends and family, a bunch of other folks whom I talked to. Counterintuitive in terms of why would anybody ever use maps on their mobile phone in India?",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "counterintuitive",
+        "definition": "Contrary to what one would intuitively expect; something that goes against common sense or initial assumptions.",
+        "businessContext": "In business and technology, counterintuitive ideas often lead to innovative solutions or strategies that challenge conventional wisdom, prompting teams to rethink their approaches.",
+        "nuance": "This term is often used to highlight surprising outcomes or insights that may not align with initial expectations, making it suitable for discussions about innovation and problem-solving.",
+        "synonyms": [
+          "unexpected",
+          "paradoxical"
+        ],
+        "antonyms": [
+          "intuitive",
+          "predictable"
+        ]
+      },
+      {
+        "word": "project",
+        "definition": "A planned set of interrelated tasks to be executed over a fixed period and within certain cost and performance parameters.",
+        "businessContext": "In business settings, projects are essential for achieving specific objectives, such as launching a product, improving processes, or implementing new systems.",
+        "nuance": "While 'project' can refer to any planned activity, it often implies a temporary endeavor with a clear beginning and end, making it distinct from ongoing operations.",
+        "synonyms": [
+          "initiative",
+          "undertaking"
+        ],
+        "antonyms": [
+          "routine",
+          "operation"
+        ]
+      },
+      {
+        "word": "product",
+        "definition": "An item or service that is created to meet the needs or demands of consumers, typically offered for sale in the marketplace.",
+        "businessContext": "In the context of business and technology, a product can range from physical goods to software applications, and its development often involves extensive market research and user testing.",
+        "nuance": "The term 'product' encompasses both tangible and intangible offerings, and its use can vary depending on whether one is discussing consumer goods or digital solutions.",
+        "synonyms": [
+          "offering",
+          "merchandise"
+        ],
+        "antonyms": [
+          "service",
+          "N/A"
+        ]
+      },
+      {
+        "word": "build",
+        "definition": "To create or develop something, often referring to the construction of a product, system, or organization.",
+        "businessContext": "In tech and startup environments, 'build' frequently refers to the process of developing software or hardware, as well as the broader concept of establishing a company or brand.",
+        "nuance": "While 'build' can imply physical construction, in business it often connotes a focus on innovation and development, making it a versatile term in entrepreneurial discussions.",
+        "synonyms": [
+          "construct",
+          "develop"
+        ],
+        "antonyms": [
+          "destroy",
+          "dismantle"
+        ]
+      }
+    ]
   },
   {
     "text": "We glamorize successes and we don't talk enough about challenges. I'm really happy that you're asking this. I would give you two times which... I had a lot of learning from both of them, but they were pretty tough times for me.",
@@ -53,7 +179,10 @@
     "timestamp": "00:13:59",
     "context": "Lenny asks about challenging times in Manik's career, noting that people might see his career as always successful. Manik emphasizes the importance of discussing challenges rather than just successes, and prepares to share two particularly difficult periods from his career - one during the dotcom bust after starting his company, and another during Uber's turbulent period in 2017-2018.",
     "vocabulary_highlights": [
-      "glamorize successes"
+      "glamorize",
+      "challenges",
+      "learning",
+      "emphasizes"
     ],
     "topics": [
       "Career Development",
@@ -68,17 +197,77 @@
     "text_ko": "사람들은 성공만 미화하고 어려움에 대해서는 충분히 이야기하지 않아요. 이런 질문을 해주셔서 정말 기뻐요. 제가 꼽자면 두 번의 시기를 말씀드리겠는데요. 둘 다 많이 배운 시간이었지만 제게는 꽤 힘든 시기였어요.",
     "text_zh": "我们总是把成功说得特别光鲜，但很少聊那些困难和挑战。你能问这个问题我真的很开心。我想跟你分享两个时期，这两段经历让我学到了很多，但当时对我来说真的挺难熬的。",
     "text_es": "Tendemos a romantizar los éxitos y no hablamos lo suficiente de los retos. Me da mucho gusto que me preguntes esto. Te diría que hubo dos momentos en los que... aprendí muchísimo de ambos, pero fueron épocas bastante duras para mí.",
-    "key_sentence": "We glamorize successes and neglect to discuss challenges."
+    "key_sentence": "We glamorize successes and neglect to discuss challenges.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "glamorize",
+        "definition": "To make something appear more attractive or exciting than it actually is, often by exaggerating its positive aspects.",
+        "businessContext": "In business, glamorizing can occur in marketing strategies where companies highlight the benefits of a product or service while downplaying potential drawbacks.",
+        "nuance": "While glamorizing can be effective in attracting customers, it may lead to unrealistic expectations and potential dissatisfaction.",
+        "synonyms": [
+          "romanticize",
+          "idealize"
+        ],
+        "antonyms": [
+          "diminish",
+          "disparage"
+        ]
+      },
+      {
+        "word": "challenges",
+        "definition": "Difficulties or obstacles that require effort and determination to overcome.",
+        "businessContext": "In a business context, challenges can refer to market competition, resource limitations, or internal organizational issues that impede progress.",
+        "nuance": "Acknowledging challenges is crucial for growth and innovation, as it encourages problem-solving and resilience.",
+        "synonyms": [
+          "obstacles",
+          "hurdles"
+        ],
+        "antonyms": [
+          "opportunities",
+          "advantages"
+        ]
+      },
+      {
+        "word": "learning",
+        "definition": "The process of acquiring knowledge, skills, or competencies through study, experience, or teaching.",
+        "businessContext": "In the business world, learning is essential for professional development, fostering innovation, and adapting to changing market conditions.",
+        "nuance": "Learning can be both formal and informal; recognizing informal learning experiences is important for holistic development.",
+        "synonyms": [
+          "education",
+          "knowledge acquisition"
+        ],
+        "antonyms": [
+          "ignorance",
+          "unlearning"
+        ]
+      },
+      {
+        "word": "emphasizes",
+        "definition": "To give special importance or prominence to something in order to highlight its significance.",
+        "businessContext": "In business communications, emphasizing certain points can help clarify priorities and direct focus towards key initiatives or values.",
+        "nuance": "Overemphasizing can lead to misinterpretation or distraction, so it is important to balance emphasis with clarity.",
+        "synonyms": [
+          "stresses",
+          "highlights"
+        ],
+        "antonyms": [
+          "downplays",
+          "minimizes"
+        ]
+      }
+    ]
   },
   {
-    "text": "People can smell fear and pessimism from far. Just like optimism is infectious, so is pessimism. If you're not feeling great as a leader, people will see it. Absolutely. People are not stupid. You have to not fake it. You have to really be motivated to stick it out, and that's what I tried to do at least, and I learned a lot in that.",
+    "text": "People can smell fear and pessimism from far. Just like optimism is infectious, so is pessimism. If you're not feeling great as a leader, people will see it. Absolutely. People are not stupid. You have to not fake it.",
     "speaker": "Manik Gupta",
     "timestamp": "00:15:35",
     "context": "Manik is describing lessons learned during the challenging dotcom bust period when he was running his startup. He explains how he learned about managing ambiguity and keeping people motivated during tough times, emphasizing that as a leader you cannot fake motivation - people will detect insincerity and your genuine emotional state affects the entire team.",
     "vocabulary_highlights": [
-      "smell fear and pessimism from far",
-      "optimism is infectious",
-      "stick it out"
+      "pessimism",
+      "infectious",
+      "ambiguity",
+      "motivate"
     ],
     "topics": [
       "Leadership & Management",
@@ -93,16 +282,79 @@
     "text_ko": "사람들은 멀리서도 두려움이나 비관을 금방 느껴요. 낙관이 전염되듯이 비관도 전염돼요. 리더로서 기분이 안 좋으면 사람들은 금방 알아차려요. 사람들은 바보가 아니에요. 겉으로만 꾸미면 안 돼요. 진짜로 버티고자 하는 동기와 의지가 있어야 해요. 적어도 저는 그렇게 하려고 노력했고, 그 과정에서 많은 걸 배웠어요.",
     "text_zh": "人们老远就能闻到你的恐惧和悲观情绪。就像乐观会传染一样，悲观也会传染。如果你作为领导者状态不好，大家肯定看得出来。绝对的。大家又不傻。你不能装，必须真的有动力坚持下去，至少我是这么努力做的，从中也学到了很多。",
     "text_es": "La gente huele el miedo y el pesimismo de lejos. Igual que el optimismo se contagia, el pesimismo también. Si como líder no te sientes bien, la gente se va a dar cuenta. Totalmente. La gente no es tonta. No puedes fingir. Tienes que estar realmente motivado para aguantar y seguir adelante, y eso es lo que traté de hacer por lo menos, y aprendí muchísimo en el proceso.",
-    "key_sentence": "People can smell fear and pessimism from far; optimism is infectious."
+    "key_sentence": "People can smell fear and pessimism from far; optimism is infectious.",
+    "text_trimmed": true,
+    "original_text": "People can smell fear and pessimism from far. Just like optimism is infectious, so is pessimism. If you're not feeling great as a leader, people will see it. Absolutely. People are not stupid. You have to not fake it. You have to really be motivated to stick it out, and that's what I tried to do at least, and I learned a lot in that.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "pessimism",
+        "definition": "A tendency to see the worst aspect of things or believe that the worst will happen; a lack of hope or confidence in the future.",
+        "businessContext": "In business settings, pessimism can hinder decision-making and innovation, as it may lead to a reluctance to take risks or invest in new opportunities.",
+        "nuance": "While some caution is necessary in business, excessive pessimism can demoralize teams and stifle growth; it is often better to balance caution with a realistic optimism.",
+        "synonyms": [
+          "negativity",
+          "despair"
+        ],
+        "antonyms": [
+          "optimism",
+          "hopefulness"
+        ]
+      },
+      {
+        "word": "infectious",
+        "definition": "Capable of being transmitted or spread, especially in terms of emotions or behaviors; highly contagious.",
+        "businessContext": "In a corporate environment, an infectious attitude—whether positive or negative—can significantly influence team morale and productivity, affecting overall company culture.",
+        "nuance": "While the term often has a negative connotation in health contexts, in business, it can describe the spread of enthusiasm or motivation, making it a powerful tool for leadership.",
+        "synonyms": [
+          "contagious",
+          "communicable"
+        ],
+        "antonyms": [
+          "noncontagious",
+          "isolated"
+        ]
+      },
+      {
+        "word": "ambiguity",
+        "definition": "The quality of being open to more than one interpretation; inexactness or uncertainty in meaning.",
+        "businessContext": "In business communication, ambiguity can lead to misunderstandings and misaligned expectations, making it crucial to strive for clarity in messaging and documentation.",
+        "nuance": "While some level of ambiguity can foster creativity and open-ended discussions, excessive ambiguity can create confusion and hinder effective collaboration.",
+        "synonyms": [
+          "uncertainty",
+          "vagueness"
+        ],
+        "antonyms": [
+          "clarity",
+          "precision"
+        ]
+      },
+      {
+        "word": "motivate",
+        "definition": "To provide someone with a reason or incentive to act or behave in a certain way; to inspire or encourage.",
+        "businessContext": "Effective leaders must motivate their teams to achieve goals, often employing various strategies such as incentives, recognition, and fostering a positive work environment.",
+        "nuance": "While motivation can stem from external rewards, intrinsic motivation—driven by personal satisfaction and purpose—tends to lead to more sustainable performance and engagement.",
+        "synonyms": [
+          "inspire",
+          "encourage"
+        ],
+        "antonyms": [
+          "demotivate",
+          "discourage"
+        ]
+      }
+    ]
   },
   {
-    "text": "Build for the world from day one. Understand that there are going to be some nuances that you'll have to solve as you drive adoption in certain markets, but don't over index on building market specific solutions, because consumers have moved on from that kind of a model.",
+    "text": "Build for the world from day one.",
     "speaker": "Manik Gupta",
     "timestamp": "00:24:33",
     "context": "Lenny asks about counterintuitive things Manik has learned about building consumer products. Manik argues against the common belief that you need different products for different global markets. He explains that while localization for language and pricing is necessary, the core user interface patterns and product functionality should be universal, as consumers worldwide now expect similar experiences.",
     "vocabulary_highlights": [
-      "over index on",
-      "moved on from that kind of a model"
+      "counterintuitive",
+      "global markets",
+      "consumer products",
+      "build for"
     ],
     "topics": [
       "Product Management",
@@ -117,14 +369,80 @@
     "text_ko": "처음부터 전 세계를 대상으로 설계하세요. 특정 시장에서 채택을 촉진(drive adoption)하다 보면 해결해야 할 미묘한 차이들이 있겠지만, 시장별 솔루션(market-specific solutions) 만드는 데 과도하게 치중하지 마세요. 소비자들은 그런 모델을 이미 넘어섰어요.",
     "text_zh": "从第一天起就要做全球化的产品。你得明白，在不同市场推广的时候肯定会遇到一些细节问题需要解决，但是别太纠结于为特定市场量身定制解决方案，因为现在的消费者已经不吃这一套了。",
     "text_es": "Construye pensando en el mercado global desde el primer día. Ten claro que van a surgir ciertos matices que tendrás que resolver conforme vayas ganando tracción en algunos mercados, pero no te enfoques demasiado en crear soluciones súper específicas para cada mercado, porque los consumidores ya superaron ese tipo de modelo.",
-    "key_sentence": "Don't over index on building market specific solutions; consumers have moved on."
+    "key_sentence": "Build for the world from day one.",
+    "text_trimmed": true,
+    "original_text": "Build for the world from day one. Understand that there are going to be some nuances that you'll have to solve as you drive adoption in certain markets, but don't over index on building market specific solutions, because consumers have moved on from that kind of a model.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "counterintuitive",
+        "definition": "Counterintuitive refers to something that goes against common sense or what one would expect based on intuition.",
+        "businessContext": "In business and technology, counterintuitive strategies or decisions may lead to unexpected positive outcomes, challenging conventional wisdom and prompting innovation.",
+        "nuance": "This term is often used to highlight surprising results or approaches that defy traditional logic, making it suitable for discussions on innovation or strategy.",
+        "synonyms": [
+          "unexpected",
+          "paradoxical"
+        ],
+        "antonyms": [
+          "intuitive",
+          "expected"
+        ]
+      },
+      {
+        "word": "global markets",
+        "definition": "Global markets refer to the international economic systems where goods, services, and capital are exchanged across borders.",
+        "businessContext": "In a business context, understanding global markets is crucial for companies looking to expand their reach and compete on an international scale, influencing strategies in marketing, production, and distribution.",
+        "nuance": "The term implies a broader scope of operations and considerations, including cultural, economic, and regulatory factors, making it essential for multinational corporations.",
+        "synonyms": [
+          "international markets",
+          "world markets"
+        ],
+        "antonyms": [
+          "local markets",
+          "domestic markets"
+        ]
+      },
+      {
+        "word": "consumer products",
+        "definition": "Consumer products are goods that are purchased by individuals for personal use, as opposed to business or industrial use.",
+        "businessContext": "In the business sector, companies focus on consumer products to drive sales and brand loyalty, often requiring extensive market research to understand consumer preferences and trends.",
+        "nuance": "The term is often associated with mass-market items and can imply a focus on marketing and branding strategies aimed at end-users.",
+        "synonyms": [
+          "retail products",
+          "end-user products"
+        ],
+        "antonyms": [
+          "industrial products",
+          "business-to-business products"
+        ]
+      },
+      {
+        "word": "build for",
+        "definition": "Build for refers to the practice of designing and developing products or services with a specific audience or market in mind from the outset.",
+        "businessContext": "In startups and tech, 'build for' emphasizes the importance of user-centric design and market fit, ensuring that offerings meet the needs and expectations of the target demographic.",
+        "nuance": "This phrase suggests a proactive approach to product development, highlighting the importance of foresight and strategic planning in addressing user needs.",
+        "synonyms": [
+          "design for",
+          "develop for"
+        ],
+        "antonyms": [
+          "neglect",
+          "ignore"
+        ]
+      }
+    ]
   },
   {
-    "text": "What I define as company product fit. Which is a company essentially is a portfolio of products, and every large company, medium-sized company also has a portfolio. They'll have 10, 20, in some cases hundreds of products in the portfolio. Every company has unique strengths and weaknesses.",
+    "text": "What I define as company product fit. Which is a company essentially is a portfolio of products, and every large company, medium-sized company also has a portfolio. They'll have 10, 20, in some cases hundreds of products in the portfolio.",
     "speaker": "Manik Gupta",
     "timestamp": "00:26:57",
     "context": "Lenny asks Manik to explain his concept of company product fit for bigger companies building new products. Manik introduces his framework that comes before finding product market fit - companies must first determine if a new product fits within their portfolio and leverages their unique strengths. He explains that companies are portfolios of products with distinct capabilities, and new products should align with these strengths.",
-    "vocabulary_highlights": [],
+    "vocabulary_highlights": [
+      "portfolio",
+      "product fit",
+      "framework",
+      "market fit"
+    ],
     "topics": [
       "Product Management",
       "Strategy & Planning"
@@ -138,15 +456,79 @@
     "text_ko": "제가 말하는 회사-제품 적합성 (company product fit)은, 즉 회사는 본질적으로 여러 제품으로 이뤄진 제품 포트폴리오 (product portfolio)라는 뜻이에요. 대기업이든 중견기업이든 포트폴리오를 갖고 있고 보통 10개, 20개, 경우에 따라 수백 개의 제품을 포함하죠. 모든 회사는 저마다 고유한 강점과 약점이 있어요.",
     "text_zh": "我定义的叫公司产品匹配度(company product fit)。其实公司本质上就是一个产品组合，每个大公司、中等规模的公司都有自己的产品组合。他们会有十几个、二十几个产品，有些情况下甚至几百个产品在这个组合里。每家公司都有自己独特的优势和短板。",
     "text_es": "Lo que yo defino como el ajuste entre empresa y producto. Básicamente, una empresa es como una cartera de productos, y toda empresa grande, o incluso mediana, también tiene su portafolio. Van a tener 10, 20, en algunos casos cientos de productos en su cartera. Cada empresa tiene sus fortalezas y debilidades únicas.",
-    "key_sentence": ""
+    "key_sentence": "a company essentially is a portfolio of products",
+    "text_trimmed": true,
+    "original_text": "What I define as company product fit. Which is a company essentially is a portfolio of products, and every large company, medium-sized company also has a portfolio. They'll have 10, 20, in some cases hundreds of products in the portfolio. Every company has unique strengths and weaknesses.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "portfolio",
+        "definition": "A collection of financial investments, products, or projects held by an individual or organization.",
+        "businessContext": "In business, a portfolio often refers to the range of products or services a company offers, showcasing its capabilities and market presence.",
+        "nuance": "While 'portfolio' can refer to investments, in a business context it emphasizes the strategic management of diverse offerings to maximize value.",
+        "synonyms": [
+          "collection",
+          "assortment"
+        ],
+        "antonyms": [
+          "singularity",
+          "isolation"
+        ]
+      },
+      {
+        "word": "product fit",
+        "definition": "The degree to which a product meets the needs and expectations of its target market.",
+        "businessContext": "In startups, achieving product fit is crucial for success, as it indicates that the product resonates well with customers and fulfills a market demand.",
+        "nuance": "Product fit is often discussed in relation to customer feedback and market research, highlighting the importance of alignment between product features and user needs.",
+        "synonyms": [
+          "product-market alignment",
+          "customer satisfaction"
+        ],
+        "antonyms": [
+          "product misalignment",
+          "market disconnect"
+        ]
+      },
+      {
+        "word": "framework",
+        "definition": "A structured approach or system that provides guidance for understanding and solving complex problems.",
+        "businessContext": "In business and technology, frameworks are used to develop strategies, manage projects, or analyze data, providing a consistent methodology for decision-making.",
+        "nuance": "The term 'framework' suggests a flexible structure that can be adapted to various situations, rather than a rigid set of rules.",
+        "synonyms": [
+          "structure",
+          "system"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "market fit",
+        "definition": "The extent to which a product or service satisfies a strong market demand and is well-received by consumers.",
+        "businessContext": "Achieving market fit is a critical milestone for startups, indicating that the product not only exists but also has a viable customer base and demand.",
+        "nuance": "Market fit often implies a broader acceptance and sustainability of the product in the market, beyond initial sales or interest.",
+        "synonyms": [
+          "market alignment",
+          "consumer acceptance"
+        ],
+        "antonyms": [
+          "market rejection",
+          "product failure"
+        ]
+      }
+    ]
   },
   {
-    "text": "Having the right metrics is important, but it's incredible how many times people have the metrics but they don't instrument them. They'll have all these debates, because the product is not instrumented properly. And everybody will talk about the same metric, but they'll have different nuances in terms of, 'Oh, what does it really mean? What is a daily active user?'",
+    "text": "Having the right metrics is important, but it's incredible how many times people have the metrics but they don't instrument them. They'll have all these debates, because the product is not instrumented properly.",
     "speaker": "Manik Gupta",
     "timestamp": "00:33:00",
     "context": "Manik is explaining his 'consumer stack' - five capabilities companies need to build successful consumer products. He's discussing the third capability around having the right metrics and instrumentation. He emphasizes that companies often define metrics but fail to properly instrument them, leading to confusion and debates about what metrics actually mean when they're not clearly codified.",
     "vocabulary_highlights": [
-      "instrument them"
+      "metrics",
+      "instrument",
+      "debates",
+      "capabilities"
     ],
     "topics": [
       "Product Management",
@@ -161,6 +543,67 @@
     "text_ko": "지표(metrics)를 제대로 갖추는 건 중요해요. 그런데 그 지표들을 계측(instrument)해 놓지 않은 경우가 얼마나 많은지 정말 놀라워요. 제품을 제대로 계측해 놓지 않아서 온갖 논쟁이 벌어지고, 모두 같은 지표(metrics)에 대해 얘기하지만 “이게 정확히 무슨 뜻이지? 일간 활성 사용자(daily active user)가 뭔가요?”처럼 세부 해석이 다 달라요.",
     "text_zh": "有正确的指标很重要，但你知道吗，很多时候大家手里有数据，但就是没有好好去追踪。产品的数据埋点(instrument)做得不到位，然后就开始各种争论。明明说的是同一个指标，但每个人理解的都不一样，比如\"日活用户到底怎么定义？\"这种问题就出来了。",
     "text_es": "Tener las métricas correctas es importante, pero es increíble la cantidad de veces que la gente tiene las métricas pero no las implementa bien. Se la pasan en debates interminables porque el producto no está instrumentado como debe ser. Y todos hablan de la misma métrica, pero cada quien le da su propia interpretación: \"¿Qué significa realmente esto? ¿Qué es un usuario activo diario?\"",
-    "key_sentence": "Having the right metrics is important, but many fail to instrument them."
+    "key_sentence": "Having the right metrics is important, but many fail to instrument them.",
+    "text_trimmed": true,
+    "original_text": "Having the right metrics is important, but it's incredible how many times people have the metrics but they don't instrument them. They'll have all these debates, because the product is not instrumented properly. And everybody will talk about the same metric, but they'll have different nuances in terms of, 'Oh, what does it really mean? What is a daily active user?'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "metrics",
+        "definition": "Metrics are quantitative measures used to assess, compare, and track performance or progress in various domains.",
+        "businessContext": "In business and tech, metrics are crucial for evaluating the success of strategies, products, or services, often guiding decision-making processes.",
+        "nuance": "While metrics provide valuable data, relying solely on them without context can lead to misinterpretation of performance.",
+        "synonyms": [
+          "measurements",
+          "indicators"
+        ],
+        "antonyms": [
+          "qualitative assessments",
+          "N/A"
+        ]
+      },
+      {
+        "word": "instrument",
+        "definition": "To instrument means to equip a system or product with tools or processes that enable the collection of data for analysis.",
+        "businessContext": "In tech startups, proper instrumentation is essential for gathering actionable insights from user interactions and system performance.",
+        "nuance": "The term often implies a technical setup that is necessary for effective monitoring and evaluation, and is not merely about having data but ensuring it can be analyzed.",
+        "synonyms": [
+          "equip",
+          "configure"
+        ],
+        "antonyms": [
+          "neglect",
+          "disarm"
+        ]
+      },
+      {
+        "word": "debates",
+        "definition": "Debates are formal discussions or arguments where opposing viewpoints are presented and examined.",
+        "businessContext": "In a business context, debates can occur during strategy meetings or product development discussions, where team members argue different approaches or solutions.",
+        "nuance": "While debates can foster innovation and critical thinking, they may also lead to conflict if not managed constructively.",
+        "synonyms": [
+          "discussions",
+          "arguments"
+        ],
+        "antonyms": [
+          "agreement",
+          "consensus"
+        ]
+      },
+      {
+        "word": "capabilities",
+        "definition": "Capabilities refer to the skills, resources, and competencies that an organization possesses to achieve its objectives.",
+        "businessContext": "In business, understanding and leveraging capabilities is vital for competitive advantage and effective resource allocation.",
+        "nuance": "The term often implies a focus on potential and capacity for growth, rather than just current performance.",
+        "synonyms": [
+          "competencies",
+          "resources"
+        ],
+        "antonyms": [
+          "limitations",
+          "inabilities"
+        ]
+      }
+    ]
   }
 ]

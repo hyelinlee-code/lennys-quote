@@ -1,13 +1,14 @@
 [
   {
-    "text": "Honestly, it wasn't so much that we set out to build a community, it was that we got together with some product people with the idea that we didn't know what we were doing. And so we figured if we got together with some other product people and started chatting it through, we'd all learn together. And so it was just the sense of sharing and collaborating and learning from each other and just keeping it as grassroots as possible as it grew.",
+    "text": "Honestly, it wasn't so much that we set out to build a community, it was that we got together with some product people with the idea that we didn't know what we were doing.",
     "speaker": "Janna Bastow",
     "timestamp": "06:23",
     "context": "Lenny asks Janna about what has been most important in building and maintaining the quality of the Mind the Product community, which is the world's largest community of product managers. Janna explains that they didn't initially set out to build a community but rather came together with other product people because they felt uncertain about their work. The key insight is that successful communities often grow organically from genuine shared learning needs rather than being artificially constructed.",
     "vocabulary_highlights": [
-      "set out to",
-      "chatted it through",
-      "grassroots as possible"
+      "build a community",
+      "product people",
+      "maintaining quality",
+      "set out to"
     ],
     "topics": [
       "Networking",
@@ -22,17 +23,79 @@
     "text_ko": "솔직히 처음부터 커뮤니티를 만들려고 한 건 아니었어요. 그냥 우리도 뭘 잘 모른다는 생각으로 프로덕트 사람들(product people) 몇 명이 모였던 거예요. 그래서 다른 프로덕트 사람들과 만나서 얘기해보면 같이 배울 수 있겠다 싶었고요. 결국 서로 나누고 협력하고 서로에게서 배우는 그런 분위기였고, 커져도 최대한 풀뿌리(grassroots) 방식으로 유지하려고 했어요.",
     "text_zh": "说实话，我们一开始并不是想着要建个社群什么的，而是几个做产品的人聚在一起，觉得自己也不太懂，摸着石头过河嘛。所以我们想，不如找些同行一起聊聊，大家互相学习。就是这种分享、合作、互相学习的想法，而且尽量保持那种草根的感觉，让它自然发展。",
     "text_es": "La verdad es que no fue tanto que nos propusiéramos crear una comunidad desde el principio, sino que nos juntamos con gente de producto con la idea de que no teníamos ni idea de lo que estábamos haciendo. Entonces dijimos, \"si nos juntamos con otros colegas de producto y empezamos a conversar sobre esto, todos vamos a aprender juntos.\" Y así fue, simplemente con esa mentalidad de compartir y colaborar y aprender unos de otros, manteniéndolo lo más orgánico posible mientras iba creciendo.",
-    "key_sentence": "We got together to share, collaborate, and learn from each other, grassroots as possible."
+    "key_sentence": "we got together with some product people with the idea that we didn't know what we were doing.",
+    "text_trimmed": true,
+    "original_text": "Honestly, it wasn't so much that we set out to build a community, it was that we got together with some product people with the idea that we didn't know what we were doing. And so we figured if we got together with some other product people and started chatting it through, we'd all learn together. And so it was just the sense of sharing and collaborating and learning from each other and just keeping it as grassroots as possible as it grew.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "build a community",
+        "definition": "To create and foster a group of individuals who share common interests or goals, often around a specific brand or product.",
+        "businessContext": "In business, building a community can enhance customer loyalty, facilitate feedback, and encourage user engagement, particularly in tech and startup environments.",
+        "nuance": "This phrase often implies a collaborative and inclusive approach, rather than a top-down directive.",
+        "synonyms": [
+          "cultivate a network",
+          "develop a following"
+        ],
+        "antonyms": [
+          "isolate",
+          "alienate"
+        ]
+      },
+      {
+        "word": "product people",
+        "definition": "Individuals who are involved in the development, management, and marketing of a product, typically including roles such as product managers, designers, and developers.",
+        "businessContext": "In startups and tech companies, product people play a crucial role in aligning product features with customer needs and business objectives.",
+        "nuance": "The term often conveys a sense of collaboration and cross-functional teamwork among various roles focused on product success.",
+        "synonyms": [
+          "product team",
+          "product professionals"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "maintaining quality",
+        "definition": "The ongoing process of ensuring that products or services meet established standards and satisfy customer expectations.",
+        "businessContext": "In business, maintaining quality is essential for customer satisfaction, brand reputation, and compliance with industry regulations, especially in manufacturing and service sectors.",
+        "nuance": "This phrase suggests a proactive approach to quality control rather than a reactive one, emphasizing continuous improvement.",
+        "synonyms": [
+          "ensuring standards",
+          "quality assurance"
+        ],
+        "antonyms": [
+          "compromising quality",
+          "deteriorating standards"
+        ]
+      },
+      {
+        "word": "set out to",
+        "definition": "To begin a journey or endeavor with a specific goal or intention in mind.",
+        "businessContext": "In a business context, this phrase often describes the initial phase of a project or initiative, highlighting the objectives that a team aims to achieve.",
+        "nuance": "It implies a sense of purpose and planning, but can also suggest that the outcome may evolve or change over time.",
+        "synonyms": [
+          "aim to",
+          "intend to"
+        ],
+        "antonyms": [
+          "abandon",
+          "neglect"
+        ]
+      }
+    ]
   },
   {
-    "text": "When running a conference, it's one of the most expensive and unleanest things you can possibly do. It's really difficult as a product person to pull that off, because it pulls at your heart. You want to do something that's lean iterative, but you can't. If something screws up with the lunch order, for example, you can't fix it.",
+    "text": "When running a conference, it's one of the most expensive and unleanest things you can possibly do. It's really difficult as a product person to pull that off, because it pulls at your heart. You want to do something that's lean iterative, but you can't.",
     "speaker": "Janna Bastow",
     "timestamp": "08:32",
     "context": "Lenny asks Janna about mistakes they made while building their community. Janna explains the challenges of running conferences, particularly how they conflict with typical product management principles. She describes conferences as 'unlean' because unlike product development where you can iterate quickly, conference problems must be solved in real-time without the ability to iterate until the following year.",
     "vocabulary_highlights": [
+      "expensive",
       "unleanest",
-      "pulls at your heart",
-      "screws up"
+      "iterative",
+      "product management"
     ],
     "topics": [
       "Leadership & Management",
@@ -47,16 +110,79 @@
     "text_ko": "컨퍼런스(conference)를 운영하는 건 할 수 있는 일 중에서 가장 비용이 많이 들고 린(lean)하지 않은 것 중 하나예요. 프로덕트 담당자(product person)로서는 그걸 해내기가 정말 어려워요. 마음이 끌리거든요. 린(lean)하고 반복적인(iterative) 방식으로 하고 싶어도 그럴 수가 없어요. 예를 들어 점심 주문이 꼬이면 그걸 바로 고칠 수가 없어요.",
     "text_zh": "办会议真的是最烧钱、最不精益(lean)的事情了。作为做产品的人，这种事特别难搞，因为心里很纠结。你明明想做精益迭代(lean iterative)的事情，但是没办法。比如说午餐订餐出了问题，你根本没法补救。",
     "text_es": "Cuando organizas una conferencia, es una de las cosas más caras y menos ágiles que puedes hacer. Es súper difícil como product manager porque va contra todo lo que crees. Quieres hacer algo lean (ágil) e iterativo, pero no puedes. Si se jode el pedido del almuerzo, por ejemplo, ya no lo puedes arreglar.",
-    "key_sentence": "Running a conference is one of the most unleanest things you can do."
+    "key_sentence": "Running a conference is one of the most unleanest things you can do.",
+    "text_trimmed": true,
+    "original_text": "When running a conference, it's one of the most expensive and unleanest things you can possibly do. It's really difficult as a product person to pull that off, because it pulls at your heart. You want to do something that's lean iterative, but you can't. If something screws up with the lunch order, for example, you can't fix it.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "expensive",
+        "definition": "Costing a lot of money; high in price.",
+        "businessContext": "In business, the term 'expensive' often refers to products, services, or operations that require significant financial investment, impacting budgeting and profitability.",
+        "nuance": "While 'expensive' typically has a negative connotation, it can also imply high quality or value in certain contexts.",
+        "synonyms": [
+          "costly",
+          "pricey"
+        ],
+        "antonyms": [
+          "affordable",
+          "cheap"
+        ]
+      },
+      {
+        "word": "unleanest",
+        "definition": "Characterized by inefficiency or excess; not streamlined.",
+        "businessContext": "In a business context, 'unleanest' describes processes or operations that are burdened with unnecessary steps, leading to wasted resources and time.",
+        "nuance": "This term is often used in contrast to 'lean,' which emphasizes efficiency and minimalism in operations.",
+        "synonyms": [
+          "inefficient",
+          "bulky"
+        ],
+        "antonyms": [
+          "lean",
+          "efficient"
+        ]
+      },
+      {
+        "word": "iterative",
+        "definition": "Involving repetition; a process that is refined through successive cycles.",
+        "businessContext": "In product development and project management, 'iterative' refers to a methodology where products are developed in incremental stages, allowing for continuous improvement based on feedback.",
+        "nuance": "The term suggests a flexible approach to development, contrasting with linear or rigid methodologies.",
+        "synonyms": [
+          "repetitive",
+          "cyclical"
+        ],
+        "antonyms": [
+          "one-time",
+          "static"
+        ]
+      },
+      {
+        "word": "product management",
+        "definition": "The process of guiding the development, marketing, and lifecycle of a product from conception to market.",
+        "businessContext": "In tech and startups, product management involves coordinating between engineering, design, and marketing teams to ensure that a product meets customer needs and business goals.",
+        "nuance": "This term encompasses a broad range of responsibilities, including strategy, roadmap planning, and stakeholder communication, making it a critical role in any product-driven organization.",
+        "synonyms": [
+          "product development",
+          "product strategy"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "One of the things that I have been super lucky in my career is that by being part of Mind the Product I've gotten to watch every last Mind the Product speaker, top end speakers. I've been able to see every ProductTank London speaker, and a lot of the other ProductTank speakers around the world. Been able to see what people react to, what works, what doesn't work.",
+    "text": "One of the things that I have been super lucky in my career is that by being part of Mind the Product I've gotten to watch every last Mind the Product speaker, top end speakers.",
     "speaker": "Janna Bastow",
     "timestamp": "13:37",
     "context": "Lenny asks Janna about what has helped her become a better speaker and storyteller, noting that communication skills are crucial for product leaders. Janna explains that her unique position with Mind the Product gave her extensive exposure to high-quality speakers. This allowed her to develop pattern recognition for effective presentations by observing audience reactions and understanding what techniques work versus what fails.",
     "vocabulary_highlights": [
-      "top end speakers",
-      "react to"
+      "communication skills",
+      "crucial",
+      "unique position",
+      "top end speakers"
     ],
     "topics": [
       "Communication Skills",
@@ -71,16 +197,79 @@
     "text_ko": "제 경력에서 진짜 운이 좋았던 것 중 하나는 Mind the Product(마인드 더 프로덕트)에 함께하면서 모든 연사들—특히 톱급 연사들까지—직접 볼 수 있었던 거예요. ProductTank London(프로덕트탱크 런던)의 연사들도 전부 봤고, 전 세계 다른 ProductTank(프로덕트탱크)들의 발표도 많이 지켜봤어요. 덕분에 사람들이 무엇에 반응하는지, 무엇이 효과가 있고 무엇이 잘 안 먹히는지를 직접 알 수 있었죠.",
     "text_zh": "我职业生涯中特别幸运的一点就是，通过参与Mind the Product这个组织，我有机会观摩了每一位Mind the Product的演讲嘉宾，都是顶级的那种。我还能看到每一位ProductTank伦敦站的演讲者，以及全世界其他ProductTank活动的很多演讲者。能够亲眼看到观众对什么有反应，什么管用，什么不管用。",
     "text_es": "Una de las cosas en las que he tenido muchísima suerte en mi carrera es que al ser parte de Mind the Product he podido ver a todos, pero todos los speakers de Mind the Product, speakers de primer nivel. He podido ver a todos los speakers de ProductTank London, y a muchos de los speakers de ProductTank de todo el mundo. He podido ver a qué reacciona la gente, qué funciona, qué no funciona.",
-    "key_sentence": "I've been lucky to watch top end speakers and see how people react to them."
+    "key_sentence": "by being part of Mind the Product I've gotten to watch every last Mind the Product speaker",
+    "text_trimmed": true,
+    "original_text": "One of the things that I have been super lucky in my career is that by being part of Mind the Product I've gotten to watch every last Mind the Product speaker, top end speakers. I've been able to see every ProductTank London speaker, and a lot of the other ProductTank speakers around the world. Been able to see what people react to, what works, what doesn't work.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "communication skills",
+        "definition": "The ability to convey information effectively and efficiently through verbal, non-verbal, and written means.",
+        "businessContext": "In business and tech environments, strong communication skills are essential for collaboration, negotiation, and stakeholder engagement, ensuring that ideas and feedback are clearly understood.",
+        "nuance": "While often used in a general sense, 'communication skills' can imply a level of proficiency that is critical for leadership roles and team dynamics.",
+        "synonyms": [
+          "interpersonal skills",
+          "conversational abilities"
+        ],
+        "antonyms": [
+          "miscommunication",
+          "inarticulateness"
+        ]
+      },
+      {
+        "word": "crucial",
+        "definition": "Extremely important or essential, particularly in determining the outcome of a situation.",
+        "businessContext": "In the context of business strategy, identifying crucial factors can lead to successful decision-making and resource allocation.",
+        "nuance": "The term 'crucial' often conveys a sense of urgency and importance, suggesting that failure to address the issue could lead to significant negative consequences.",
+        "synonyms": [
+          "critical",
+          "vital"
+        ],
+        "antonyms": [
+          "insignificant",
+          "trivial"
+        ]
+      },
+      {
+        "word": "unique position",
+        "definition": "A distinctive status or advantage that an individual or organization holds in a particular market or context.",
+        "businessContext": "In competitive markets, having a unique position can differentiate a company from its competitors, allowing it to attract specific customer segments or leverage niche opportunities.",
+        "nuance": "The phrase 'unique position' implies not just difference, but also a strategic advantage that can be leveraged for growth or influence.",
+        "synonyms": [
+          "distinct advantage",
+          "specialized role"
+        ],
+        "antonyms": [
+          "common position",
+          "standard role"
+        ]
+      },
+      {
+        "word": "top end speakers",
+        "definition": "Highly regarded or exceptional speakers, often recognized for their expertise and ability to engage an audience effectively.",
+        "businessContext": "In conferences and industry events, top end speakers are sought after for their insights and ability to inspire, making them valuable assets for attracting attendees and enhancing the event's reputation.",
+        "nuance": "The term 'top end' suggests a level of exclusivity and high quality, often associated with industry leaders or renowned experts.",
+        "synonyms": [
+          "elite speakers",
+          "premier presenters"
+        ],
+        "antonyms": [
+          "average speakers",
+          "mediocre presenters"
+        ]
+      }
+    ]
   },
   {
-    "text": "One of the things that I've stopped doing is I used to sit down with a PowerPoint and start writing my deck in PowerPoint or Slides, now. What I now do is I start with my story points. I start with my narratives. I try to figure out what I'm actually trying to say, and then I fit it into the deck.",
+    "text": "One of the things that I've stopped doing is I used to sit down with a PowerPoint and start writing my deck in PowerPoint or Slides, now. What I now do is I start with my story points. I start with my narratives.",
     "speaker": "Janna Bastow",
     "timestamp": "16:06",
     "context": "Lenny asks Janna about lessons from her speaking coach that she continues to apply to new presentations. Janna shares a key insight about presentation preparation methodology. She explains that she used to get trapped in 'presentation mode' by starting with slides, but now focuses on crafting the narrative first and then building slides to support that story, which creates more compelling and coherent presentations.",
     "vocabulary_highlights": [
+      "presentation preparation",
+      "narratives",
       "story points",
-      "fit it into the deck"
+      "methodology"
     ],
     "topics": [
       "Communication Skills"
@@ -94,17 +283,79 @@
     "text_ko": "예전에는 파워포인트(PowerPoint)나 슬라이드(Slides)를 켜고 바로 덱(deck)을 만들곤 했어요. 이제는 먼저 스토리 포인트(story points)와 내러티브(narratives)를 정리해서, 제가 실제로 뭘 말하려는지 먼저 정한 다음에 그 내용을 덱에 맞춰 넣어요.",
     "text_zh": "我现在改变了一个做法，以前我会直接打开PPT开始做幻灯片，现在不这样了。我现在是先把故事线想清楚，先把要讲的内容梳理好，先搞明白我到底想表达什么，然后再去做PPT。",
     "text_es": "Una de las cosas que ya no hago es sentarme directamente con PowerPoint y empezar a armar mi presentación ahí mismo, o en Slides ahora. Lo que hago ahora es empezar con mis puntos clave de la historia. Empiezo con mis narrativas. Trato de entender qué es lo que realmente quiero comunicar, y después lo adapto a la presentación.",
-    "key_sentence": "I start with my story points and fit it into the deck."
+    "key_sentence": "I start with my story points and fit it into the deck.",
+    "text_trimmed": true,
+    "original_text": "One of the things that I've stopped doing is I used to sit down with a PowerPoint and start writing my deck in PowerPoint or Slides, now. What I now do is I start with my story points. I start with my narratives. I try to figure out what I'm actually trying to say, and then I fit it into the deck.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "presentation preparation",
+        "definition": "The process of organizing and developing content, visuals, and delivery methods for a presentation.",
+        "businessContext": "In business settings, effective presentation preparation is crucial for conveying ideas, proposals, or project updates to stakeholders and clients.",
+        "nuance": "While often seen as a straightforward task, effective presentation preparation requires strategic thinking and audience awareness to ensure engagement.",
+        "synonyms": [
+          "deck creation",
+          "presentation design"
+        ],
+        "antonyms": [
+          "impromptu speaking",
+          "spontaneous presentation"
+        ]
+      },
+      {
+        "word": "narratives",
+        "definition": "Structured accounts or stories that convey information, ideas, or experiences in a compelling manner.",
+        "businessContext": "In business, narratives are used to frame company missions, product stories, or customer experiences, making complex information more relatable and memorable.",
+        "nuance": "Narratives often carry emotional weight and are used strategically to influence perceptions and drive engagement.",
+        "synonyms": [
+          "stories",
+          "accounts"
+        ],
+        "antonyms": [
+          "facts",
+          "data"
+        ]
+      },
+      {
+        "word": "story points",
+        "definition": "A unit of measure used in agile project management to estimate the complexity or effort required to complete a task or feature.",
+        "businessContext": "In tech and startup environments, story points help teams prioritize work and manage project timelines by translating user stories into quantifiable metrics.",
+        "nuance": "Story points emphasize relative estimation rather than absolute time, encouraging teams to focus on complexity and effort rather than duration.",
+        "synonyms": [
+          "effort estimation",
+          "complexity points"
+        ],
+        "antonyms": [
+          "time estimates",
+          "duration metrics"
+        ]
+      },
+      {
+        "word": "methodology",
+        "definition": "A systematic approach or set of principles that guide the processes and practices used to conduct research or complete projects.",
+        "businessContext": "In business and tech, methodologies such as Agile, Scrum, or Waterfall provide frameworks for project management and product development, ensuring consistency and efficiency.",
+        "nuance": "Choosing the right methodology can significantly impact project outcomes, and it is important to align the methodology with project goals and team dynamics.",
+        "synonyms": [
+          "approach",
+          "framework"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      }
+    ]
   },
   {
-    "text": "So the whole beef with the timeline roadmap is just taking apart the concept of the timeline. It doesn't mean we live in la la land. It doesn't mean that we don't believe in having dates on the roadmap, if there is a date that we have to work towards. It just means not penalizing ourselves by having a date on everything on the roadmap.",
+    "text": "So the whole beef with the timeline roadmap is just taking apart the concept of the timeline. It doesn't mean we live in la la land.",
     "speaker": "Janna Bastow",
     "timestamp": "26:18",
     "context": "Lenny asks Janna to explain her strong feelings against Gantt-based roadmapping. Janna clarifies her position on timeline-based roadmaps, explaining that she's not against all dates but rather against forcing artificial deadlines on every item. Her 'now, next, later' framework allows for dates when genuinely necessary (like regulatory deadlines) while avoiding the problems that arise when everything must have a timeline commitment.",
     "vocabulary_highlights": [
-      "whole beef with",
-      "live in la la land",
-      "penalizing ourselves"
+      "roadmap",
+      "timeline",
+      "concept",
+      "strong feelings"
     ],
     "topics": [
       "Product Management",
@@ -119,15 +370,79 @@
     "text_ko": "타임라인 로드맵(timeline roadmap)에 대한 논점은 결국 타임라인이라는 개념 자체를 다시 뜯어보자는 거예요. 그렇다고 우리가 현실을 모르는 환상 속에 산다는 뜻은 아니고요. 또 로드맵에 날짜를 넣는 것을 반대한다는 의미도 아니에요 — 만약 우리가 맞춰야 할 날짜가 있다면 그 날짜를 두고 일하는 건 당연히 해요. 다만 로드맵의 모든 항목마다 굳이 날짜를 달아 스스로를 불필요하게 압박하지 말자는 뜻이에요.",
     "text_zh": "所以时间线路线图(timeline roadmap)的问题其实就是要重新审视一下时间线这个概念。这不是说我们要活在理想世界里，也不是说如果真的有必须完成的日期，我们就不在路线图上标日期。只是说不要给路线图上的每件事都硬性规定日期，这样搞得自己很被动。",
     "text_es": "Mira, el problema que tenemos con los cronogramas de la hoja de ruta (timeline roadmap) es simplemente desmontar el concepto del cronograma. No significa que vivamos en las nubes. No significa que no creamos en poner fechas en la hoja de ruta, si hay una fecha hacia la cual tenemos que trabajar. Solo significa no castigarnos poniendo fecha a cada cosa en la hoja de ruta.",
-    "key_sentence": "The whole beef with the timeline roadmap is not penalizing ourselves with dates."
+    "key_sentence": "The whole beef with the timeline roadmap is not penalizing ourselves with dates.",
+    "text_trimmed": true,
+    "original_text": "So the whole beef with the timeline roadmap is just taking apart the concept of the timeline. It doesn't mean we live in la la land. It doesn't mean that we don't believe in having dates on the roadmap, if there is a date that we have to work towards. It just means not penalizing ourselves by having a date on everything on the roadmap.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "roadmap",
+        "definition": "A roadmap is a strategic plan that outlines the goals, milestones, and steps necessary to achieve a particular objective or vision.",
+        "businessContext": "In business and technology, a roadmap serves as a guiding document that helps teams align their efforts and track progress towards product development, project timelines, or strategic initiatives.",
+        "nuance": "While a roadmap provides a high-level overview, it is often subject to change based on market conditions or organizational priorities, making it important to communicate its flexible nature.",
+        "synonyms": [
+          "strategy",
+          "plan"
+        ],
+        "antonyms": [
+          "disorganization",
+          "chaos"
+        ]
+      },
+      {
+        "word": "timeline",
+        "definition": "A timeline is a graphical representation that displays a sequence of events or milestones in chronological order, often used to illustrate project schedules or historical developments.",
+        "businessContext": "In project management and business planning, timelines help stakeholders visualize deadlines, dependencies, and the overall duration of tasks or phases within a project.",
+        "nuance": "Timelines can vary in detail and format, and while they are useful for planning, they may not capture the complexity of interrelated tasks or unforeseen delays.",
+        "synonyms": [
+          "schedule",
+          "chronology"
+        ],
+        "antonyms": [
+          "disorder",
+          "N/A"
+        ]
+      },
+      {
+        "word": "concept",
+        "definition": "A concept is an abstract idea or a general notion that serves as a foundation for understanding or developing a theory, product, or strategy.",
+        "businessContext": "In business and innovation, concepts are critical for brainstorming new ideas, developing marketing strategies, or creating product prototypes that address specific market needs.",
+        "nuance": "The term 'concept' often implies a preliminary stage of development, and it is important to differentiate between a concept and a fully realized product or plan.",
+        "synonyms": [
+          "idea",
+          "notion"
+        ],
+        "antonyms": [
+          "reality",
+          "fact"
+        ]
+      },
+      {
+        "word": "strong feelings",
+        "definition": "Strong feelings refer to intense emotions or sentiments that can significantly influence an individual's thoughts, decisions, or actions.",
+        "businessContext": "In a business context, strong feelings can impact team dynamics, customer relationships, and stakeholder engagement, making it essential to address emotional responses in negotiations or conflict resolution.",
+        "nuance": "While strong feelings can drive passion and commitment, they can also lead to biases or irrational decisions, so it is important to balance emotion with rational analysis.",
+        "synonyms": [
+          "intense emotions",
+          "deep sentiments"
+        ],
+        "antonyms": [
+          "indifference",
+          "apathy"
+        ]
+      }
+    ]
   },
   {
-    "text": "So the value isn't the prototype, the value is in the prototyping process. The value isn't in your roadmap, the value is in the roadmapping process. What you're actually doing is laying out your assumptions of the problems that you're solving. So you're saying, 'I think we have this problem, then this problem. What do you think?'",
+    "text": "So the value isn't the prototype, the value is in the prototyping process. The value isn't in your roadmap, the value is in the roadmapping process. What you're actually doing is laying out your assumptions of the problems that you're solving.",
     "speaker": "Janna Bastow",
     "timestamp": "00:47",
     "context": "Janna is explaining her concept of roadmaps as 'prototypes for your strategy' rather than fixed plans. She draws an analogy to how product teams prototype features - you create mockups to test assumptions with stakeholders, then iterate based on feedback. Similarly, roadmaps should be used to test strategic assumptions about what problems to solve and in what order, allowing for feedback and iteration rather than serving as unchangeable commitments.",
     "vocabulary_highlights": [
-      "laying out your assumptions"
+      "prototyping",
+      "roadmapping",
+      "assumptions",
+      "strategy"
     ],
     "topics": [
       "Product Management",
@@ -142,17 +457,79 @@
     "text_ko": "그러니까 가치가 프로토타입(prototype) 자체에 있는 게 아니라 프로토타이핑 과정(prototyping process)에 있는 거예요. 로드맵(roadmap) 자체에 가치가 있는 게 아니라 로드맵 작성 과정(roadmapping process)에 가치가 있어요. 실제로는 해결하려는 문제들에 대한 가정(assumptions)을 정리하는 거고, 그래서 ‘이런 문제가 있는 것 같고, 다음에는 이런 문제가 있을 것 같은데, 어떻게 생각하세요?’라고 묻는 거예요.",
     "text_zh": "所以真正有价值的不是原型本身，而是做原型的这个过程。有价值的也不是你的路线图，而是制定路线图的过程。你其实在做的事情就是把你对要解决的问题的假设都摊开来说。就是告诉别人，\"我觉得我们有这个问题，还有那个问题，你怎么看？\"",
     "text_es": "Entonces el valor no está en el prototipo, sino en el proceso de hacer prototipos. El valor no está en tu hoja de ruta (roadmap), sino en el proceso de planificarla. Lo que realmente estás haciendo es poner sobre la mesa tus suposiciones sobre los problemas que estás resolviendo. Es decir, estás diciendo: \"Yo creo que tenemos este problema, y después este otro. ¿Tú qué opinas?\"",
-    "key_sentence": "The value is in laying out your assumptions during the prototyping process."
+    "key_sentence": "The value is in laying out your assumptions during the prototyping process.",
+    "text_trimmed": true,
+    "original_text": "So the value isn't the prototype, the value is in the prototyping process. The value isn't in your roadmap, the value is in the roadmapping process. What you're actually doing is laying out your assumptions of the problems that you're solving. So you're saying, 'I think we have this problem, then this problem. What do you think?'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "prototyping",
+        "definition": "Prototyping is the process of creating a preliminary model or version of a product to test concepts and gather feedback.",
+        "businessContext": "In business and tech, prototyping is crucial for validating ideas, refining designs, and ensuring that products meet user needs before full-scale production.",
+        "nuance": "Prototyping emphasizes the iterative nature of development, focusing on learning and adaptation rather than just the final product.",
+        "synonyms": [
+          "modeling",
+          "mock-up"
+        ],
+        "antonyms": [
+          "finalization",
+          "completion"
+        ]
+      },
+      {
+        "word": "roadmapping",
+        "definition": "Roadmapping is the strategic planning process that outlines the vision, direction, and milestones for a project or product over time.",
+        "businessContext": "In startups and tech companies, roadmapping helps teams align on goals, prioritize tasks, and communicate the timeline and resources needed for development.",
+        "nuance": "Roadmapping conveys a sense of foresight and adaptability, highlighting the importance of adjusting plans as new information arises.",
+        "synonyms": [
+          "planning",
+          "strategic mapping"
+        ],
+        "antonyms": [
+          "disorganization",
+          "chaos"
+        ]
+      },
+      {
+        "word": "assumptions",
+        "definition": "Assumptions are beliefs or statements taken for granted without proof, often serving as the foundation for further reasoning or decision-making.",
+        "businessContext": "In business contexts, identifying and testing assumptions is critical for validating business models, strategies, and product-market fit.",
+        "nuance": "Assumptions carry a risk of being incorrect, so they should be regularly reviewed and challenged to ensure informed decision-making.",
+        "synonyms": [
+          "presumptions",
+          "hypotheses"
+        ],
+        "antonyms": [
+          "certainties",
+          "facts"
+        ]
+      },
+      {
+        "word": "strategy",
+        "definition": "Strategy refers to a comprehensive plan designed to achieve specific long-term goals and objectives, often involving the allocation of resources.",
+        "businessContext": "In business, strategy guides decision-making and resource allocation, helping organizations navigate competitive landscapes and achieve sustainable growth.",
+        "nuance": "Strategy implies a deliberate and thoughtful approach, distinguishing it from tactics, which are more about the execution of specific actions.",
+        "synonyms": [
+          "plan",
+          "approach"
+        ],
+        "antonyms": [
+          "improvisation",
+          "disorder"
+        ]
+      }
+    ]
   },
   {
-    "text": "You're not asking for any more leeway than your sales team. You're saying that you want a quarter million dollars worth of investment, and you're going to spend it on your team who's going to run experiments, right? It's going to be trying this change on the interface or that tweak to the pricing or that change to the positioning or whatever you're going to do.",
+    "text": "You're not asking for any more leeway than your sales team. You're saying that you want a quarter million dollars worth of investment, and you're going to spend it on your team who's going to run experiments, right?",
     "speaker": "Janna Bastow",
     "timestamp": "45:59",
     "context": "Lenny asks Janna for the most powerful arguments to convince skeptics that less rigid deadline-driven roadmapping could work at their company. Janna uses an analogy comparing product development to sales processes. She argues that sales teams aren't expected to predict exactly which deals will close when, but rather are given budgets to run experiments (sales calls) knowing some will succeed and some will fail. Product teams should be given similar leeway to run experiments rather than being held to artificial deadline commitments.",
     "vocabulary_highlights": [
       "leeway",
-      "run experiments",
-      "tweak to the pricing"
+      "investment",
+      "experiments",
+      "rigid"
     ],
     "topics": [
       "Product Management",
@@ -167,6 +544,67 @@
     "text_ko": "영업팀(sales team)한테 주는 것만큼 재량을 더 달라는 건 아니에요. 당신은 25만 달러(quarter million dollars)짜리 투자를 요청하는 거고, 그걸 실험을 돌릴 팀에 쓸 거라고 말하는 거죠. 인터페이스(interface)를 이렇게 바꿔보거나, 가격 책정(pricing)을 약간 조정해보거나, 포지셔닝(positioning)을 바꿔보는 등 하려는 실험들을 해보는 거예요.",
     "text_zh": "你要的灵活度其实跟你们销售团队要的没什么区别。你是想要25万美金的投资，然后把这笔钱花在团队身上让他们去做各种试验，对吧？就是在界面上试试这个改动，或者调调定价策略，或者换换产品定位(positioning)什么的。",
     "text_es": "No estás pidiendo más flexibilidad que tu equipo de ventas. Lo que dices es que quieres una inversión de un cuarto de millón de dólares, y la vas a invertir en tu equipo que va a hacer experimentos, ¿verdad? Van a probar este cambio en la interfaz o ese ajuste en los precios o ese cambio en el posicionamiento o lo que sea que vayan a hacer.",
-    "key_sentence": "You're not asking for more leeway than your sales team to run experiments."
+    "key_sentence": "You're not asking for more leeway than your sales team to run experiments.",
+    "text_trimmed": true,
+    "original_text": "You're not asking for any more leeway than your sales team. You're saying that you want a quarter million dollars worth of investment, and you're going to spend it on your team who's going to run experiments, right? It's going to be trying this change on the interface or that tweak to the pricing or that change to the positioning or whatever you're going to do.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "leeway",
+        "definition": "Leeway refers to the amount of freedom or flexibility available to make decisions or take actions.",
+        "businessContext": "In business, leeway often pertains to the latitude given to teams or individuals in managing budgets, timelines, or project scopes.",
+        "nuance": "While leeway suggests a degree of freedom, it can also imply a lack of strict oversight, which may not always be desirable in high-stakes environments.",
+        "synonyms": [
+          "flexibility",
+          "latitude"
+        ],
+        "antonyms": [
+          "restriction",
+          "constraint"
+        ]
+      },
+      {
+        "word": "investment",
+        "definition": "Investment is the allocation of resources, typically money, with the expectation of generating an income or profit.",
+        "businessContext": "In the context of startups and business growth, investment is crucial for funding operations, research, and development to drive future profitability.",
+        "nuance": "Investment carries a connotation of risk, as the return is not guaranteed and depends on various market factors.",
+        "synonyms": [
+          "capital allocation",
+          "funding"
+        ],
+        "antonyms": [
+          "disinvestment",
+          "withdrawal"
+        ]
+      },
+      {
+        "word": "experiments",
+        "definition": "Experiments are systematic tests or trials conducted to discover or validate new information or outcomes.",
+        "businessContext": "In business and tech, experiments are often used in product development and marketing strategies to assess user responses and optimize offerings.",
+        "nuance": "The term suggests a methodical approach to innovation, but may also imply uncertainty and the potential for failure.",
+        "synonyms": [
+          "trials",
+          "tests"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "rigid",
+        "definition": "Rigid describes something that is inflexible or unable to adapt to changes or new conditions.",
+        "businessContext": "In a business setting, a rigid structure can hinder creativity and responsiveness, making it difficult for organizations to pivot in dynamic markets.",
+        "nuance": "While rigidity can imply stability, it often has a negative connotation, suggesting an inability to evolve or innovate.",
+        "synonyms": [
+          "inflexible",
+          "stiff"
+        ],
+        "antonyms": [
+          "flexible",
+          "adaptable"
+        ]
+      }
+    ]
   }
 ]

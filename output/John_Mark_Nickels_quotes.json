@@ -5,8 +5,10 @@
     "timestamp": "00:02:42",
     "context": "Lenny asks J.M. to define conscious leadership, a phrase that came up repeatedly when asking colleagues about him. J.M. explains that leadership is having influence in the world, which applies to everyone regardless of whether they're managers. The conscious part involves becoming more aware of your internal world, biases, and inherited belief systems, then taking responsibility for how you use that influence.",
     "vocabulary_highlights": [
-      "taking responsibility for",
-      "influence in the world"
+      "responsibility",
+      "influence",
+      "conscious leadership",
+      "awareness"
     ],
     "topics": [
       "Leadership & Management",
@@ -22,17 +24,77 @@
     "text_ko": "결국엔 제 영향력을 더 인식하고 그 영향에 책임을 지는 거예요. 그러니까 제가 세상에 미치는 영향에 책임을 지는 거예요.",
     "text_zh": "其实就是要更有自知之明，然后对自己的影响力负起责任来。对，就是要为自己在这个世界上产生的影响负责任。",
     "text_es": "Y entonces realmente se trata de ser más consciente y luego asumir la responsabilidad de la influencia que tengo. Sí, hacerme responsable de mi influencia en el mundo.",
-    "key_sentence": "Taking responsibility for my influence in the world is essential."
+    "key_sentence": "Taking responsibility for my influence in the world is essential.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "responsibility",
+        "definition": "The state or fact of having a duty to deal with something or having control over someone; accountability for actions and decisions.",
+        "businessContext": "In business, responsibility often refers to the obligations of employees and leaders to fulfill their roles and make decisions that align with the company's goals and ethical standards.",
+        "nuance": "While responsibility implies accountability, it can also suggest a proactive approach to addressing challenges rather than merely reacting to them.",
+        "synonyms": [
+          "accountability",
+          "obligation"
+        ],
+        "antonyms": [
+          "irresponsibility",
+          "neglect"
+        ]
+      },
+      {
+        "word": "influence",
+        "definition": "The capacity to have an effect on the character, development, or behavior of someone or something.",
+        "businessContext": "In a business setting, influence can refer to the ability of individuals or organizations to sway decisions, shape company culture, or drive market trends through persuasion or authority.",
+        "nuance": "Influence can be both positive and negative; it is often more effective when exercised ethically and transparently.",
+        "synonyms": [
+          "impact",
+          "sway"
+        ],
+        "antonyms": [
+          "powerlessness",
+          "ineffectiveness"
+        ]
+      },
+      {
+        "word": "conscious leadership",
+        "definition": "A leadership approach that emphasizes self-awareness, ethical decision-making, and a commitment to the well-being of all stakeholders.",
+        "businessContext": "In startups and innovative companies, conscious leadership is increasingly valued as it fosters a culture of trust, collaboration, and sustainable growth.",
+        "nuance": "This term often connotes a holistic approach to leadership that integrates personal values with professional responsibilities, making it distinct from traditional leadership models.",
+        "synonyms": [
+          "mindful leadership",
+          "ethical leadership"
+        ],
+        "antonyms": [
+          "unconscious leadership",
+          "autocratic leadership"
+        ]
+      },
+      {
+        "word": "awareness",
+        "definition": "The state of being conscious of something; having knowledge or perception of a situation or fact.",
+        "businessContext": "In business, awareness is crucial for understanding market dynamics, customer needs, and internal team dynamics, enabling informed decision-making.",
+        "nuance": "Awareness can imply a deeper understanding that goes beyond surface-level knowledge, often requiring ongoing reflection and engagement.",
+        "synonyms": [
+          "consciousness",
+          "perception"
+        ],
+        "antonyms": [
+          "ignorance",
+          "unawareness"
+        ]
+      }
+    ]
   },
   {
-    "text": "What I kind of woke up to at one point was that as long as I was going out there looking for all that stuff to try to complete something inside of me that was missing, it's like I was a hungry ghost. It's like, it doesn't matter how many Michelin star meals and promotions and money and title and whatever. It's like it's never enough.",
+    "text": "What I kind of woke up to at one point was that as long as I was going out there looking for all that stuff to try to complete something inside of me that was missing, it's like I was a hungry ghost.",
     "speaker": "John Mark Nickels",
     "timestamp": "00:15:00",
     "context": "J.M. discusses how to handle stress and emotions in high-stakes meetings. He explains his realization about seeking external validation for self-worth. Instead of trying to force approval from leaders like Dara, he learned that looking for security, control, and approval from external sources creates an endless cycle of need - comparing it to being a \"hungry ghost\" that can never be satisfied.",
     "vocabulary_highlights": [
-      "woke up to",
-      "hungry ghost",
-      "never enough"
+      "validation",
+      "self-worth",
+      "realization",
+      "external"
     ],
     "topics": [
       "Leadership & Management",
@@ -49,16 +111,79 @@
     "text_ko": "어느 순간 제가 깨달은 건, 내 안의 뭔가를 채우려고 바깥에서 이 모든 걸 찾아다니는 한 나는 배고픈 유령(hungry ghost) 같았다는 거예요. 아무리 미쉐린 스타 식사(Michelin-star meals)를 하고, 승진하고, 돈을 많이 벌고, 직함을 얻어도 결국엔 결코 충분하지 않더라고요.",
     "text_zh": "我突然意识到，只要我还在外面拼命找各种东西来填补内心的空虚，就像个饿鬼一样。不管是米其林餐厅、升职加薪、头衔什么的，永远都填不满，永远觉得不够。",
     "text_es": "Lo que me di cuenta en un momento fue que mientras anduviera por ahí buscando todas esas cosas para tratar de llenar algo que me faltaba por dentro, era como ser un fantasma hambriento. O sea, no importa cuántas comidas de restaurantes con estrellas Michelin, ascensos, dinero, títulos o lo que sea. Es como que nunca es suficiente.",
-    "key_sentence": "I woke up to being a hungry ghost; it's never enough."
+    "key_sentence": "I woke up to being a hungry ghost; it's never enough.",
+    "text_trimmed": true,
+    "original_text": "What I kind of woke up to at one point was that as long as I was going out there looking for all that stuff to try to complete something inside of me that was missing, it's like I was a hungry ghost. It's like, it doesn't matter how many Michelin star meals and promotions and money and title and whatever. It's like it's never enough.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "validation",
+        "definition": "The process of confirming the accuracy or legitimacy of something, often through testing or verification.",
+        "businessContext": "In business and technology, validation is crucial for ensuring that products meet user needs and comply with standards before launch.",
+        "nuance": "Validation often implies a formal process, and using it in casual contexts may suggest a lack of seriousness.",
+        "synonyms": [
+          "confirmation",
+          "verification"
+        ],
+        "antonyms": [
+          "invalidity",
+          "disproof"
+        ]
+      },
+      {
+        "word": "self-worth",
+        "definition": "The intrinsic value that an individual places on themselves, often influenced by personal beliefs and experiences.",
+        "businessContext": "In the workplace, self-worth can impact employee motivation, performance, and overall job satisfaction, influencing team dynamics and productivity.",
+        "nuance": "Self-worth is often tied to personal identity and can be sensitive; discussing it in professional settings requires tact.",
+        "synonyms": [
+          "self-esteem",
+          "self-regard"
+        ],
+        "antonyms": [
+          "self-doubt",
+          "self-deprecation"
+        ]
+      },
+      {
+        "word": "realization",
+        "definition": "The act of becoming fully aware of something as a fact; an understanding that leads to a new perspective.",
+        "businessContext": "In a business context, realization can refer to the moment when a team identifies a critical insight that can drive strategic decisions.",
+        "nuance": "Realization often carries a sense of sudden clarity, making it more impactful than mere understanding.",
+        "synonyms": [
+          "recognition",
+          "awareness"
+        ],
+        "antonyms": [
+          "ignorance",
+          "misconception"
+        ]
+      },
+      {
+        "word": "external",
+        "definition": "Relating to or located on the outside; not part of the internal structure or system.",
+        "businessContext": "In business, external factors such as market trends, competition, and economic conditions can significantly influence strategic planning and decision-making.",
+        "nuance": "External often contrasts with internal, and its use can imply a focus on outside influences rather than internal capabilities.",
+        "synonyms": [
+          "outer",
+          "outside"
+        ],
+        "antonyms": [
+          "internal",
+          "intrinsic"
+        ]
+      }
+    ]
   },
   {
-    "text": "The more I focused on how I show up and optics and having a good deck and all this, the less I got promoted and then the more I dropped focusing all that. Because for my first few years of Uber, I was a senior PM and then I finally got my groove and started kind of moving through the product ladder.",
+    "text": "The more I focused on how I show up and optics and having a good deck and all this, the less I got promoted and then the more I dropped focusing all that.",
     "speaker": "John Mark Nickels",
     "timestamp": "00:17:46",
     "context": "Lenny asks about managing high-stakes situations where career consequences feel real. J.M. shares a counterintuitive insight from his career progression at Uber - the more he focused on presentations, optics, and appearing successful, the less he actually got promoted. Only when he shifted focus away from how he was perceived and toward doing great work did he start advancing through the product management levels.",
     "vocabulary_highlights": [
-      "got my groove",
-      "moving through the product ladder"
+      "optics",
+      "promoted",
+      "counterintuitive",
+      "high-stakes"
     ],
     "topics": [
       "Career Development",
@@ -74,16 +199,79 @@
     "text_ko": "제가 어떻게 보이는지, 겉보기 이미지(optics)나 좋은 데크(deck) 같은 것들에 더 신경 쓸수록 오히려 승진을 덜 받았어요. 그래서 그런 것들에 신경 쓰는 걸 점점 덜 하게 됐죠. 우버에서 처음 몇 년간은 시니어 PM(senior PM)이었는데, 드디어 감을 잡고 프로덕트 직급(product ladder)을 차근차근 올라가기 시작했어요.",
     "text_zh": "我越是纠结怎么表现自己、怎么看起来专业、做个漂亮的PPT这些事儿，反而越升不了职。后来我就不太在意这些了，因为在Uber的头几年我就是个高级PM(senior PM)，直到后来找到感觉了，才开始在产品这条线上往上爬。",
     "text_es": "Mientras más me enfocaba en cómo me veía, en la imagen que proyectaba, en tener una presentación perfecta y todo eso, menos me ascendían. Pero cuando dejé de obsesionarme con esas cosas... Porque en mis primeros años en Uber, era senior PM y luego finalmente agarré el hilo y empecé a subir en la escalera de producto.",
-    "key_sentence": "I got my groove and started moving through the product ladder."
+    "key_sentence": "the less I got promoted and then the more I dropped focusing all that.",
+    "text_trimmed": true,
+    "original_text": "The more I focused on how I show up and optics and having a good deck and all this, the less I got promoted and then the more I dropped focusing all that. Because for my first few years of Uber, I was a senior PM and then I finally got my groove and started kind of moving through the product ladder.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "optics",
+        "definition": "The way in which a situation or action is perceived by others, particularly in terms of public image and reputation.",
+        "businessContext": "In business, 'optics' often refers to how decisions, actions, or presentations are viewed by stakeholders, influencing their perceptions and reactions.",
+        "nuance": "While 'optics' can imply a focus on superficial appearances, it is crucial in maintaining credibility and trust in professional environments.",
+        "synonyms": [
+          "perception",
+          "image"
+        ],
+        "antonyms": [
+          "reality",
+          "substance"
+        ]
+      },
+      {
+        "word": "promoted",
+        "definition": "To be elevated to a higher position or rank within an organization, often accompanied by increased responsibilities and compensation.",
+        "businessContext": "In corporate settings, being 'promoted' typically reflects recognition of an employee's performance and potential, impacting their career trajectory.",
+        "nuance": "Promotion can also imply favoritism or political maneuvering in some contexts, so it is important to consider the underlying factors leading to such advancements.",
+        "synonyms": [
+          "elevated",
+          "advanced"
+        ],
+        "antonyms": [
+          "demoted",
+          "relegated"
+        ]
+      },
+      {
+        "word": "counterintuitive",
+        "definition": "Contrary to what one would intuitively expect or believe; often surprising or not immediately obvious.",
+        "businessContext": "In business strategies, a 'counterintuitive' approach may yield better results than conventional wisdom, challenging established norms and practices.",
+        "nuance": "While 'counterintuitive' can indicate innovative thinking, it may also lead to skepticism or resistance from stakeholders accustomed to traditional methods.",
+        "synonyms": [
+          "unexpected",
+          "paradoxical"
+        ],
+        "antonyms": [
+          "intuitive",
+          "expected"
+        ]
+      },
+      {
+        "word": "high-stakes",
+        "definition": "Involving a significant level of risk or potential loss, often associated with critical decisions or situations.",
+        "businessContext": "High-stakes environments in business can include major negotiations, mergers, or product launches where the outcomes can greatly impact the organization's future.",
+        "nuance": "The term 'high-stakes' can evoke a sense of urgency and pressure, which may motivate teams but can also lead to stress and anxiety if not managed properly.",
+        "synonyms": [
+          "critical",
+          "high-pressure"
+        ],
+        "antonyms": [
+          "low-stakes",
+          "safe"
+        ]
+      }
+    ]
   },
   {
-    "text": "And it's really about, I want to make a fucking awesome product, right? And it's like, whether people like me or think I'm a good PM or presenter, as long as I manifest a great product into the world that makes riders better off, drivers better off, cities better off, less congestion, all these things, that to me is the reward.",
+    "text": "And it's really about, I want to make a fucking awesome product, right?",
     "speaker": "John Mark Nickels",
     "timestamp": "00:17:46",
     "context": "J.M. continues explaining his philosophy on focusing on work over optics. He describes how shifting from ego-driven concerns about personal perception to mission-driven focus on creating great products became more fulfilling and paradoxically more successful. By tapping into a larger purpose around transportation and mobility, he dropped the self-centered focus on presentation performance.",
     "vocabulary_highlights": [
-      "manifest a great product",
-      "better off"
+      "focus on",
+      "mission-driven",
+      "product",
+      "awesome"
     ],
     "topics": [
       "Product Management",
@@ -99,16 +287,79 @@
     "text_ko": "정말 중요한 건, 저는 진짜 끝내주는 제품을 만들고 싶어요. 사람들이 저를 좋아하든, 제가 좋은 프로덕트 매니저(PM)나 프레젠터(presenter)라고 생각하든 상관없이, 그 제품이 라이더(rider)와 드라이버(driver) 모두에게 도움이 되고 도시도 좋아지고 교통 혼잡(congestion)이 줄어드는 그런 멋진 제품을 세상에 내놓기만 하면, 그게 제게는 보람이에요.",
     "text_zh": "说白了就是，我就想做出一个特别牛逼的产品，对吧？至于别人喜不喜欢我，觉得我是不是个好的产品经理(PM)或者演讲者，这些都无所谓，只要我能把一个真正棒的产品带到这个世界上，让乘客受益，让司机受益，让城市变得更好，减少拥堵，实现这些东西，对我来说就是最大的回报了。",
     "text_es": "Y realmente se trata de esto: quiero crear un producto que sea la hostia, ¿vale? Y es como, da igual si la gente me cae bien o piensa que soy buen PM o buen presentador, mientras logre materializar un gran producto que mejore la vida de los usuarios, que mejore la vida de los conductores, que mejore las ciudades, menos tráfico, todas estas cosas, para mí esa es la recompensa.",
-    "key_sentence": "Manifesting a great product makes everyone better off."
+    "key_sentence": "I want to make a fucking awesome product, right?",
+    "text_trimmed": true,
+    "original_text": "And it's really about, I want to make a fucking awesome product, right? And it's like, whether people like me or think I'm a good PM or presenter, as long as I manifest a great product into the world that makes riders better off, drivers better off, cities better off, less congestion, all these things, that to me is the reward.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "focus on",
+        "definition": "To direct attention or effort towards a specific task, goal, or subject.",
+        "businessContext": "In business, 'focus on' is often used to emphasize prioritizing certain projects or strategies that align with the company's objectives.",
+        "nuance": "This phrase suggests a deliberate choice to concentrate resources and energy, and is often used in strategic discussions.",
+        "synonyms": [
+          "concentrate on",
+          "prioritize"
+        ],
+        "antonyms": [
+          "disregard",
+          "neglect"
+        ]
+      },
+      {
+        "word": "mission-driven",
+        "definition": "Guided by a specific purpose or set of values that define an organization's goals and actions.",
+        "businessContext": "In the context of startups and social enterprises, being mission-driven indicates that the company prioritizes its core mission over profit maximization.",
+        "nuance": "This term often carries a positive connotation, suggesting commitment and integrity, but can also imply potential trade-offs in financial performance.",
+        "synonyms": [
+          "purpose-driven",
+          "values-based"
+        ],
+        "antonyms": [
+          "profit-driven",
+          "self-serving"
+        ]
+      },
+      {
+        "word": "product",
+        "definition": "An item or service created to meet consumer needs or demands, typically offered for sale.",
+        "businessContext": "In business, 'product' refers to the tangible or intangible goods that a company develops and markets to generate revenue.",
+        "nuance": "The term can imply varying levels of complexity, from simple physical goods to sophisticated software solutions, and is often central to a company's identity.",
+        "synonyms": [
+          "offering",
+          "merchandise"
+        ],
+        "antonyms": [
+          "service",
+          "N/A"
+        ]
+      },
+      {
+        "word": "awesome",
+        "definition": "Inspiring a feeling of admiration or wonder; exceptionally good or impressive.",
+        "businessContext": "In a business setting, 'awesome' is often used informally to describe a product, service, or achievement that exceeds expectations and generates excitement.",
+        "nuance": "While it conveys enthusiasm, its informal nature may not be suitable for all professional contexts, particularly in formal reports or communications.",
+        "synonyms": [
+          "impressive",
+          "remarkable"
+        ],
+        "antonyms": [
+          "mediocre",
+          "unimpressive"
+        ]
+      }
+    ]
   },
   {
-    "text": "And so step one is, am I working at a place and in a product area in which I have a tremendous amount of passion? Because for me, that is the fuel and the motivation that helps me break through to getting the strategy. That's the first step.",
+    "text": "And so step one is, am I working at a place and in a product area in which I have a tremendous amount of passion? Because for me, that is the fuel and the motivation that helps me break through to getting the strategy.",
     "speaker": "John Mark Nickels",
     "timestamp": "00:22:35",
     "context": "Lenny asks for advice on how to improve at strategy and vision, which colleagues identified as J.M.'s strengths. J.M. explains that there's no magic toolkit for strategy - the first essential step is finding genuine passion for your work area. He emphasizes that without deep passion for the mission, it would be difficult to develop breakthrough strategic thinking, using healthcare as an example of an important area he personally lacks passion for.",
     "vocabulary_highlights": [
-      "tremendous amount of passion",
-      "break through to getting the strategy"
+      "tremendous",
+      "passion",
+      "motivation",
+      "strategy"
     ],
     "topics": [
       "Strategy & Planning",
@@ -124,17 +375,79 @@
     "text_ko": "그래서 첫 번째로 확인할 건, 제가 일하는 회사와 맡고 있는 제품 분야에 정말 큰 열정이 있는지예요. 저한텐 그 열정이 바로 전략을 세우게 해주는 연료이자 동기예요. 그게 첫걸음이에요.",
     "text_zh": "所以第一步就是，我现在工作的地方，还有我做的这个产品领域，是不是我真的特别有热情？因为对我来说，这个热情就是我的动力，能推动我突破瓶颈，找到正确的战略方向。这是最关键的第一步。",
     "text_es": "Y entonces el primer paso es: ¿estoy trabajando en un lugar y en un área de producto que realmente me apasiona? Porque para mí, esa es la gasolina y la motivación que me ayuda a romper barreras para llegar a la estrategia. Ese es el primer paso.",
-    "key_sentence": "A tremendous amount of passion fuels my strategy breakthrough."
+    "key_sentence": "A tremendous amount of passion fuels my strategy breakthrough.",
+    "text_trimmed": true,
+    "original_text": "And so step one is, am I working at a place and in a product area in which I have a tremendous amount of passion? Because for me, that is the fuel and the motivation that helps me break through to getting the strategy. That's the first step.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "tremendous",
+        "definition": "Of great size, amount, or intensity; extraordinary.",
+        "businessContext": "In business, 'tremendous' is often used to describe significant achievements, opportunities, or challenges that can have a major impact on an organization.",
+        "nuance": "While it conveys a sense of magnitude, it can sometimes imply an overwhelming quality, so it should be used carefully to avoid exaggeration.",
+        "synonyms": [
+          "enormous",
+          "immense"
+        ],
+        "antonyms": [
+          "insignificant",
+          "minimal"
+        ]
+      },
+      {
+        "word": "passion",
+        "definition": "A strong feeling of enthusiasm or excitement for something or about doing something.",
+        "businessContext": "In the business world, passion often drives innovation and commitment, influencing employee engagement and customer loyalty.",
+        "nuance": "While passion is generally viewed positively, it can lead to bias if not tempered with rational decision-making.",
+        "synonyms": [
+          "enthusiasm",
+          "zeal"
+        ],
+        "antonyms": [
+          "indifference",
+          "apathy"
+        ]
+      },
+      {
+        "word": "motivation",
+        "definition": "The reason or reasons one has for acting or behaving in a particular way; the drive to achieve goals.",
+        "businessContext": "Understanding motivation is crucial in business as it affects employee performance, productivity, and overall organizational success.",
+        "nuance": "Motivation can be intrinsic or extrinsic, and recognizing the difference is important for effective management and leadership.",
+        "synonyms": [
+          "incentive",
+          "drive"
+        ],
+        "antonyms": [
+          "demotivation",
+          "disinterest"
+        ]
+      },
+      {
+        "word": "strategy",
+        "definition": "A plan of action designed to achieve a long-term or overall aim; a method for reaching goals.",
+        "businessContext": "In business, strategy is essential for guiding decision-making, resource allocation, and competitive positioning in the market.",
+        "nuance": "The term implies a thoughtful, structured approach, and should not be confused with tactics, which are more about the execution of specific actions.",
+        "synonyms": [
+          "plan",
+          "approach"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      }
+    ]
   },
   {
-    "text": "Get clear on your objective function, and one way that I've gotten clear on it is trying to think about it from future me because five years from now, I'm not going to give a shit if I made the presentation slightly better, but I'm going to care a lot about what kind of relationship I have with my daughters.",
+    "text": "Get clear on your objective function... five years from now, I'm not going to give a shit if I made the presentation slightly better, but I'm going to care a lot about what kind of relationship I have with my daughters.",
     "speaker": "John Mark Nickels",
     "timestamp": "00:00:00",
     "context": "Lenny asks about keys to a successful and meaningful life. J.M. emphasizes the importance of being conscious about your life's objective function, referencing Clayton Christensen's insight about successful executives with failed personal lives. He suggests thinking from the perspective of your future self to clarify what truly matters - relationships with family will matter much more than marginal improvements to work presentations.",
     "vocabulary_highlights": [
       "objective function",
-      "not going to give a shit",
-      "future me"
+      "conscious",
+      "relationship",
+      "meaningful"
     ],
     "topics": [
       "Work-Life Balance",
@@ -150,16 +463,79 @@
     "text_ko": "목표 함수(objective function)를 명확히 하세요. 제가 그걸 명확히 한 방법 중 하나는 미래의 나 입장에서 생각해 보는 건데요, 5년 뒤에는 프레젠테이션을 조금 더 잘했는지 같은 건 별로 신경 안 쓸 테지만 딸들과 어떤 관계를 맺고 있을지는 훨씬 더 중요하게 생각할 거예요.",
     "text_zh": "你得搞清楚自己真正的目标是什么，我自己想明白这个问题的方法就是站在未来的角度去思考——五年以后的我，根本不会在乎当时的演示做得好一点还是差一点，但我肯定会非常在意跟女儿们的关系怎么样。",
     "text_es": "Ten claro cuál es tu función objetivo, y una forma en que yo lo he logrado es tratando de pensarlo desde mi yo del futuro, porque dentro de cinco años me va a valer madre si hice la presentación un poquito mejor, pero sí me va a importar muchísimo qué tipo de relación tengo con mis hijas.",
-    "key_sentence": "Clarify your objective function; future me matters more than presentations."
+    "key_sentence": "but I'm going to care a lot about what kind of relationship I have with my daughters.",
+    "text_trimmed": true,
+    "original_text": "Get clear on your objective function, and one way that I've gotten clear on it is trying to think about it from future me because five years from now, I'm not going to give a shit if I made the presentation slightly better, but I'm going to care a lot about what kind of relationship I have with my daughters.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "objective function",
+        "definition": "An objective function is a mathematical expression that defines a goal to be optimized, typically in the context of decision-making or resource allocation. It serves as a criterion for evaluating the best possible outcome in operations research and optimization problems.",
+        "businessContext": "In business and tech, the objective function is often used in algorithms for optimization problems, such as maximizing profits or minimizing costs in resource allocation models.",
+        "nuance": "While the term is technical, it can imply a broader focus on achieving specific goals rather than getting bogged down in minor details.",
+        "synonyms": [
+          "goal function",
+          "optimization function"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "conscious",
+        "definition": "Conscious refers to being aware of and able to think about one's own existence, thoughts, and surroundings. It implies a deliberate and intentional state of awareness.",
+        "businessContext": "In business, being conscious can relate to corporate social responsibility, where companies are aware of their impact on society and the environment, and make intentional decisions to act ethically.",
+        "nuance": "The term often carries a positive connotation, suggesting mindfulness and intentionality, and is used in contexts where awareness is crucial for decision-making.",
+        "synonyms": [
+          "aware",
+          "mindful"
+        ],
+        "antonyms": [
+          "unaware",
+          "oblivious"
+        ]
+      },
+      {
+        "word": "relationship",
+        "definition": "A relationship refers to the way in which two or more parties are connected, often involving emotional, social, or professional ties. It encompasses the interactions and dynamics between individuals or organizations.",
+        "businessContext": "In a business context, relationships are critical for networking, partnerships, and customer engagement, as they can significantly influence collaboration and success.",
+        "nuance": "The term can imply varying degrees of intimacy and trust, and is often used to emphasize the importance of interpersonal connections in achieving business objectives.",
+        "synonyms": [
+          "connection",
+          "association"
+        ],
+        "antonyms": [
+          "disconnection",
+          "estrangement"
+        ]
+      },
+      {
+        "word": "meaningful",
+        "definition": "Meaningful describes something that has significance or purpose, often resonating on a deeper emotional or intellectual level. It implies that an action or concept contributes to a greater understanding or value.",
+        "businessContext": "In business, creating meaningful experiences for customers or employees can enhance loyalty and engagement, as it fosters a sense of purpose and connection to the brand or organization.",
+        "nuance": "The term is often used to highlight the importance of depth over superficiality, and is particularly relevant in discussions about corporate culture and customer relations.",
+        "synonyms": [
+          "significant",
+          "purposeful"
+        ],
+        "antonyms": [
+          "insignificant",
+          "trivial"
+        ]
+      }
+    ]
   },
   {
-    "text": "The one thing I'd encourage folks to do out of all of these we talked about is to see if you'd be willing to commit to breaking out of victim consciousness and mentality. And it's not to say there aren't victims in the world, there are real injustices and things happening, but most of us, I've experienced, I often can fall into the trap of living my life at the effect of, right?",
+    "text": "The one thing I'd encourage folks to do out of all of these we talked about is to see if you'd be willing to commit to breaking out of victim consciousness and mentality.",
     "speaker": "John Mark Nickels",
     "timestamp": "01:04:34",
     "context": "As the conversation winds down, J.M. shares what he considers the most important takeaway from their discussion. He encourages listeners to shift from victim consciousness - feeling like life is happening to them and they're at the effect of circumstances, other people, and external conditions - to taking responsibility for how they see and respond to the world, even while acknowledging that real injustices exist.",
     "vocabulary_highlights": [
+      "commit to",
       "victim consciousness",
-      "living my life at the effect of"
+      "mentality",
+      "shift from"
     ],
     "topics": [
       "Leadership & Management",
@@ -175,6 +551,67 @@
     "text_ko": "제가 우리가 얘기한 것들 중에 한 가지만 권하고 싶은 건, 피해자 의식(victim consciousness)이나 피해자 마인드(victim mentality)에서 벗어나겠다고 스스로 약속해 보실 수 있는지 살펴보자는 거예요. 세상에 진짜 피해자가 있고 실제로 부당한 일들도 있는 건 맞아요. 다만 제 경험으로는 우리 대부분—저도 자주 그렇듯이—외부 영향에 끌려다니며 반응적으로 사는 함정에 빠지기 쉬워요.",
     "text_zh": "在我们聊的这些当中，我最想鼓励大家做的一件事就是，看看你们愿不愿意下决心摆脱受害者心态(victim mentality)。我不是说这世界上没有受害者，确实存在不公和各种问题，但我们大多数人，包括我自己的经历，经常会掉进这样的陷阱——总觉得自己的生活被外界因素左右，对吧？",
     "text_es": "De todo lo que hemos charlado, lo único que realmente les recomendaría es que se animen a comprometerse a salir de esa mentalidad de víctima. Y no es que no haya víctimas reales en el mundo, claro que hay injusticias y cosas que pasan de verdad, pero la mayoría de nosotros, por mi experiencia, yo mismo muchas veces caigo en la trampa de vivir mi vida como si todo me pasara a mí, ¿no?",
-    "key_sentence": "Commit to breaking out of victim consciousness and not living my life at the effect of."
+    "key_sentence": "Commit to breaking out of victim consciousness and not living my life at the effect of.",
+    "text_trimmed": true,
+    "original_text": "The one thing I'd encourage folks to do out of all of these we talked about is to see if you'd be willing to commit to breaking out of victim consciousness and mentality. And it's not to say there aren't victims in the world, there are real injustices and things happening, but most of us, I've experienced, I often can fall into the trap of living my life at the effect of, right?",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "commit to",
+        "definition": "To pledge or dedicate oneself to a particular course of action or decision.",
+        "businessContext": "In business, 'commit to' often refers to a company's dedication to a project, goal, or strategy, indicating a serious investment of resources and effort.",
+        "nuance": "This phrase carries a sense of obligation and seriousness, and should be used when discussing long-term goals rather than short-term tasks.",
+        "synonyms": [
+          "dedicate to",
+          "devote to"
+        ],
+        "antonyms": [
+          "abandon",
+          "neglect"
+        ]
+      },
+      {
+        "word": "victim consciousness",
+        "definition": "A mindset characterized by a focus on perceived victimhood, often leading to feelings of helplessness and blame towards external circumstances.",
+        "businessContext": "In a business context, victim consciousness can hinder personal and team performance, as it may prevent individuals from taking responsibility for their actions and outcomes.",
+        "nuance": "This term can carry a negative connotation, suggesting a lack of agency; it is best used in discussions about personal development or organizational culture.",
+        "synonyms": [
+          "victim mentality",
+          "defeatist attitude"
+        ],
+        "antonyms": [
+          "empowerment",
+          "proactive mindset"
+        ]
+      },
+      {
+        "word": "mentality",
+        "definition": "A particular way of thinking or a set of attitudes held by an individual or group.",
+        "businessContext": "In business, mentality can influence team dynamics, decision-making processes, and overall organizational culture, impacting productivity and innovation.",
+        "nuance": "The term is often used to describe collective attitudes that can either positively or negatively affect performance; it is important to specify the type of mentality being referenced.",
+        "synonyms": [
+          "mindset",
+          "attitude"
+        ],
+        "antonyms": [
+          "indifference",
+          "apathy"
+        ]
+      },
+      {
+        "word": "shift from",
+        "definition": "To change or transition from one state, condition, or position to another.",
+        "businessContext": "In business, 'shift from' is commonly used to describe changes in strategy, market focus, or operational practices that are essential for adapting to new challenges or opportunities.",
+        "nuance": "This phrase suggests a deliberate and often strategic change, and is best used when discussing significant transformations rather than minor adjustments.",
+        "synonyms": [
+          "transition from",
+          "move away from"
+        ],
+        "antonyms": [
+          "remain in",
+          "stay with"
+        ]
+      }
+    ]
   }
 ]

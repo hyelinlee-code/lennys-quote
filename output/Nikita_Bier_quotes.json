@@ -1,12 +1,14 @@
 [
   {
-    "text": "I looked on the App Store and the number one app in the United States was an app called Sarahah, but the entire app was in Arabic. The number one app in the United States was in Arabic. And that was one of the most strongest signal that you could ever have that people want something.",
+    "text": "I looked on the App Store and the number one app in the United States was an app called Sarahah, but the entire app was in Arabic. The number one app in the United States was in Arabic.",
     "speaker": "Nikita Bier",
     "timestamp": "00:00:15",
     "context": "Lenny asks Nikita what insight helped him come up with tbh as a big idea worth pursuing. Nikita explains how he discovered that teens were playing a trend called TBH on Snapchat for anonymous feedback, and when researching the market, he found that Sarahah (an anonymous messaging app entirely in Arabic) was the number one app in the US App Store. This was a powerful signal of latent demand - people desperately wanted this type of anonymous communication tool even though the existing option wasn't in their language.",
     "vocabulary_highlights": [
-      "strongest signal",
-      "latent demand"
+      "insight",
+      "pursuing",
+      "anonymous feedback",
+      "trend"
     ],
     "topics": [
       "Product Management",
@@ -21,18 +23,79 @@
     "text_ko": "앱스토어를 보니까 미국에서 1위인 앱이 'Sarahah'였는데, 앱 전체가 아랍어로 되어 있었어요. 미국 1위 앱이 아랍어였다는 건 사람들이 뭔가를 원한다는 가장 강력한 신호 중 하나였어요.",
     "text_zh": "我当时看了一下应用商店(App Store)，美国排名第一的应用竟然是一个叫Sarahah的软件，但整个应用界面全是阿拉伯语。你想想，美国市场排第一的应用居然是阿拉伯语的！这简直是最强烈的市场信号了，说明用户对这类产品的需求有多迫切。",
     "text_es": "Revisé la App Store y la aplicación número uno en Estados Unidos era una app que se llamaba Sarahah, pero toda la aplicación estaba en árabe. La app número uno en Estados Unidos estaba en árabe. Y esa fue una de las señales más claras que puedes tener de que la gente realmente quiere algo.",
-    "key_sentence": "The app's popularity was the strongest signal of latent demand."
+    "key_sentence": "The number one app in the United States was in Arabic.",
+    "text_trimmed": true,
+    "original_text": "I looked on the App Store and the number one app in the United States was an app called Sarahah, but the entire app was in Arabic. The number one app in the United States was in Arabic. And that was one of the most strongest signal that you could ever have that people want something.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "insight",
+        "definition": "A deep understanding of a person or thing, often gained through analysis or experience.",
+        "businessContext": "In business, insights are crucial for making informed decisions, identifying market opportunities, and understanding customer behavior.",
+        "nuance": "While 'insight' suggests a profound understanding, it often implies that the knowledge gained is actionable and can lead to strategic advantages.",
+        "synonyms": [
+          "understanding",
+          "perception"
+        ],
+        "antonyms": [
+          "ignorance",
+          "misunderstanding"
+        ]
+      },
+      {
+        "word": "pursuing",
+        "definition": "The act of striving to achieve or obtain something, often over a period of time.",
+        "businessContext": "In a business context, pursuing can refer to the efforts made to reach specific goals, such as market expansion, product development, or customer acquisition.",
+        "nuance": "The term often carries a connotation of determination and ongoing effort, suggesting that the objective may require persistence and commitment.",
+        "synonyms": [
+          "chasing",
+          "seeking"
+        ],
+        "antonyms": [
+          "abandoning",
+          "neglecting"
+        ]
+      },
+      {
+        "word": "anonymous feedback",
+        "definition": "Input or evaluations provided by individuals without revealing their identities, allowing for honest and candid responses.",
+        "businessContext": "Anonymous feedback is commonly used in employee surveys and customer reviews to gather unfiltered opinions that can lead to improvements in products, services, or workplace culture.",
+        "nuance": "While it encourages honesty, the anonymity can sometimes lead to less constructive criticism, as individuals may feel less accountable for their comments.",
+        "synonyms": [
+          "unattributed input",
+          "confidential feedback"
+        ],
+        "antonyms": [
+          "identified feedback",
+          "named responses"
+        ]
+      },
+      {
+        "word": "trend",
+        "definition": "A general direction in which something is developing or changing, often observed over time.",
+        "businessContext": "In business and tech, identifying trends is essential for strategic planning, as they can indicate shifts in consumer behavior, technology advancements, or market dynamics.",
+        "nuance": "The term 'trend' often implies a sustained change rather than a temporary fluctuation, making it important for long-term forecasting.",
+        "synonyms": [
+          "tendency",
+          "movement"
+        ],
+        "antonyms": [
+          "stagnation",
+          "decline"
+        ]
+      }
+    ]
   },
   {
-    "text": "The way you should be searching for product ideas is this concept of latent demand where people are trying to obtain a particular value and going through a very distortive process to obtain that value. If you can actually crystallize what their motivation is and build a product around and clear up what they're trying to actually do, you can have this kind of intense adoption.",
+    "text": "The way you should be searching for product ideas is this concept of latent demand where people are trying to obtain a particular value and going through a very distortive process to obtain that value.",
     "speaker": "Nikita Bier",
     "timestamp": "00:26:17",
     "context": "Nikita continues explaining his framework for identifying successful product opportunities. He defines latent demand as situations where people want something badly enough that they'll use suboptimal solutions to get it. When he saw people using an Arabic app for anonymous messaging in the US, it showed there was strong unmet demand for this type of product that entrepreneurs could capitalize on by building a better solution.",
     "vocabulary_highlights": [
       "latent demand",
       "distortive process",
-      "crystallize",
-      "intense adoption"
+      "obtain",
+      "value"
     ],
     "topics": [
       "Product Management",
@@ -47,16 +110,79 @@
     "text_ko": "제품 아이디어를 찾을 때는 사람들이 어떤 가치를 얻으려고 하면서 그걸 얻기 위해 비효율적이고 우회적인 과정을 밟고 있는, 즉 잠재 수요(latent demand)를 찾아야 해요. 그들의 동기를 정확히 파악해서 그걸 중심으로 제품을 만들고, 그들이 실제로 하려는 일을 명확히 해주면 폭발적인 채택(adoption)이 일어나요.",
     "text_zh": "找产品点子的正确思路应该是这样的：挖掘潜在需求(latent demand)，就是用户想要获得某种价值，但现在的获取过程特别繁琐扭曲。如果你能准确把握他们的真实动机，围绕这个动机来做产品，把他们真正想做的事情理顺了，那用户接受度会非常高。",
     "text_es": "La forma en que deberías buscar ideas de producto es este concepto de demanda latente donde la gente está tratando de obtener un valor específico pero está pasando por un proceso súper complicado para conseguirlo. Si logras entender realmente cuál es su motivación y crear un producto alrededor de eso, y simplificar lo que están tratando de hacer en realidad, puedes tener una adopción brutal.",
-    "key_sentence": "Crystallize latent demand to achieve intense adoption."
+    "key_sentence": "The way you should be searching for product ideas is this concept of latent demand where people are trying to obtain a particular value and going through a very distortive process to obtain that value.",
+    "text_trimmed": true,
+    "original_text": "The way you should be searching for product ideas is this concept of latent demand where people are trying to obtain a particular value and going through a very distortive process to obtain that value. If you can actually crystallize what their motivation is and build a product around and clear up what they're trying to actually do, you can have this kind of intense adoption.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "latent demand",
+        "definition": "Latent demand refers to a potential market need that is not currently being met or recognized, often due to a lack of awareness or availability of products that fulfill that need.",
+        "businessContext": "In business and startup environments, identifying latent demand can lead to innovative product development and market opportunities, as companies can create solutions for unmet consumer needs.",
+        "nuance": "The term suggests a hidden or unexpressed desire that may not be immediately visible, making it crucial for businesses to conduct thorough market research.",
+        "synonyms": [
+          "unmet demand",
+          "hidden demand"
+        ],
+        "antonyms": [
+          "satisfied demand",
+          "explicit demand"
+        ]
+      },
+      {
+        "word": "distortive process",
+        "definition": "A distortive process refers to a series of actions or events that alter the original intention or outcome, often leading to inefficiencies or misalignments in achieving goals.",
+        "businessContext": "In business, a distortive process can hinder decision-making, complicate operations, or mislead stakeholders, making it essential to streamline processes for clarity and effectiveness.",
+        "nuance": "This phrase often carries a negative connotation, implying that the process is unnecessarily complicated or flawed.",
+        "synonyms": [
+          "disruptive process",
+          "inefficient process"
+        ],
+        "antonyms": [
+          "streamlined process",
+          "efficient process"
+        ]
+      },
+      {
+        "word": "obtain",
+        "definition": "To obtain means to acquire or secure something, typically through effort or a specific process.",
+        "businessContext": "In a business context, obtaining resources, information, or customer feedback is crucial for strategic planning and operational success.",
+        "nuance": "While 'obtain' is a straightforward term, it can imply varying degrees of effort or difficulty depending on the context.",
+        "synonyms": [
+          "acquire",
+          "secure"
+        ],
+        "antonyms": [
+          "lose",
+          "forfeit"
+        ]
+      },
+      {
+        "word": "value",
+        "definition": "Value refers to the importance, worth, or usefulness of something, often assessed in terms of benefits received relative to costs incurred.",
+        "businessContext": "In business, understanding customer value is essential for product development, pricing strategies, and marketing, as it directly influences consumer purchasing decisions.",
+        "nuance": "The concept of value can be subjective, varying significantly among different stakeholders and contexts, which makes it important to tailor value propositions accordingly.",
+        "synonyms": [
+          "worth",
+          "benefit"
+        ],
+        "antonyms": [
+          "worthlessness",
+          "insignificance"
+        ]
+      }
+    ]
   },
   {
-    "text": "The thing I didn't realize as a product manager in a large tech company is there is very little product management that you do. They're mainly just writing documents and then being the team secretary and running around getting approvals, but products live and die in the pixels. You should be designing the hierarchy, the pixels, the flows, everything. That's on you.",
+    "text": "The thing I didn't realize as a product manager in a large tech company is there is very little product management that you do.",
     "speaker": "Nikita Bier",
     "timestamp": "00:00:57",
     "context": "Lenny asks about Nikita's experience working at Facebook after selling tbh to them. Nikita explains his disillusionment with the product manager role at large tech companies, where PMs are separated from actual product design work. He argues that for consumer products especially, success depends on the detailed design decisions - the actual pixels and user flows - which PMs at big companies often don't control directly.",
     "vocabulary_highlights": [
-      "live and die in the pixels",
-      "team secretary"
+      "product management",
+      "disillusionment",
+      "separated",
+      "experience"
     ],
     "topics": [
       "Product Management",
@@ -71,7 +197,68 @@
     "text_ko": "제가 대형 테크 회사에서 프로덕트 매니저(product manager)로 일할 때 몰랐던 건, 실제로는 프로덕트 매니지먼트(product management)를 거의 하지 않는다는 거예요. 대부분 문서만 쓰고 팀 비서처럼 결재 받으러 다니는 일이 많지만, 제품의 성패는 픽셀(pixels)에 달려 있어요. 계층 구조(hierarchy), 픽셀(pixels), 플로우(flows) — 그 모든 걸 디자인해야 해요. 그건 결국 프로덕트 매니저의 몫이에요.",
     "text_zh": "我在大厂做产品经理的时候才发现，其实你根本做不了什么真正的产品管理。基本上就是写写文档，当个团队秘书，到处跑流程要批准。但是产品的成败其实就在那些细节里。页面层级、像素细节、用户流程，这些东西都得你来把控，这是你的责任。",
     "text_es": "Lo que no me daba cuenta cuando era product manager en una empresa grande de tecnología es que en realidad haces muy poco manejo de producto. Básicamente te la pasas escribiendo documentos y siendo como el secretario del equipo, corriendo de un lado a otro buscando aprobaciones, pero los productos viven y mueren en los píxeles. Tú deberías estar diseñando la jerarquía, los píxeles, los flujos (flows), todo. Eso te toca a ti.",
-    "key_sentence": "Products live and die in the pixels; design everything yourself."
+    "key_sentence": "there is very little product management that you do.",
+    "text_trimmed": true,
+    "original_text": "The thing I didn't realize as a product manager in a large tech company is there is very little product management that you do. They're mainly just writing documents and then being the team secretary and running around getting approvals, but products live and die in the pixels. You should be designing the hierarchy, the pixels, the flows, everything. That's on you.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "product management",
+        "definition": "The process of overseeing the development, marketing, and lifecycle of a product, ensuring it meets customer needs and business goals.",
+        "businessContext": "In tech companies, product management involves coordinating cross-functional teams to deliver software products that align with market demands and strategic objectives.",
+        "nuance": "While often associated with leadership roles, product management can also imply a hands-on approach to problem-solving and decision-making throughout the product lifecycle.",
+        "synonyms": [
+          "product oversight",
+          "product strategy"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "disillusionment",
+        "definition": "A feeling of disappointment resulting from the discovery that something is not as good as one believed it to be.",
+        "businessContext": "In a corporate environment, disillusionment can occur when employees realize that their expectations for career advancement or company culture do not align with reality.",
+        "nuance": "Disillusionment often carries a sense of betrayal or loss of faith, making it a sensitive topic in discussions about employee satisfaction and retention.",
+        "synonyms": [
+          "disappointment",
+          "disenchantment"
+        ],
+        "antonyms": [
+          "satisfaction",
+          "contentment"
+        ]
+      },
+      {
+        "word": "separated",
+        "definition": "To be set or kept apart from others; to divide or isolate.",
+        "businessContext": "In organizational contexts, teams may be separated by departments, leading to silos that can hinder communication and collaboration.",
+        "nuance": "The term can imply both physical and emotional distance, and is often used in discussions about team dynamics and organizational structure.",
+        "synonyms": [
+          "isolated",
+          "divided"
+        ],
+        "antonyms": [
+          "united",
+          "connected"
+        ]
+      },
+      {
+        "word": "experience",
+        "definition": "The knowledge or skill acquired through practical involvement in a particular activity over time.",
+        "businessContext": "In the business world, experience is highly valued, as it often correlates with an individual's ability to navigate complex situations and make informed decisions.",
+        "nuance": "While 'experience' generally refers to practical knowledge, it can also encompass emotional and social learning gained through interactions in the workplace.",
+        "synonyms": [
+          "expertise",
+          "proficiency"
+        ],
+        "antonyms": [
+          "inexperience",
+          "novice"
+        ]
+      }
+    ]
   },
   {
     "text": "With certainty, if you're good at your job, you can make an app grow and go viral. Over the years of building all these apps, I've accrued all these growth hacks that still nobody knows about.",
@@ -79,9 +266,10 @@
     "timestamp": "00:01:44",
     "context": "Lenny asks whether there's anything else that will help with building successful apps. Nikita explains his strong belief that viral growth can be engineered rather than being purely luck-based. He emphasizes that through building 15+ apps over several years, he's developed systematic approaches and techniques for making apps grow virally that go beyond what most people understand about growth.",
     "vocabulary_highlights": [
-      "with certainty",
+      "viral growth",
       "accrued",
-      "growth hacks"
+      "growth hacks",
+      "engineered"
     ],
     "topics": [
       "Growth & Marketing",
@@ -96,7 +284,66 @@
     "text_ko": "확실히, 일을 잘하면 앱을 키워서 바이럴(viral)까지 만들 수 있어요. 수년간 여러 앱을 만들어오면서 아직 아무도 모르는 그로스 해킹 기법들(growth hacks)을 꽤 많이 모아뒀어요.",
     "text_zh": "我敢肯定，如果你真的有两把刷子，绝对能让一个App火起来，甚至爆红。这么多年做下来，我积累了不少增长黑客(growth hack)的套路，到现在还没人知道呢。",
     "text_es": "Con toda seguridad, si eres bueno en lo tuyo, puedes hacer que una app despegue y se vuelva viral. A lo largo de los años desarrollando todas estas apps, he ido acumulando un montón de trucos de crecimiento (growth hacks) que todavía nadie conoce.",
-    "key_sentence": "With certainty, you can accrue growth hacks to make an app go viral."
+    "key_sentence": "With certainty, you can accrue growth hacks to make an app go viral.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "viral growth",
+        "definition": "A rapid increase in the user base of a product or service, often achieved through word-of-mouth or social sharing.",
+        "businessContext": "In the tech and startup sectors, viral growth is a highly sought-after phenomenon, as it can lead to exponential user acquisition without significant marketing costs.",
+        "nuance": "While 'viral growth' suggests a positive and organic spread, it can also imply unpredictability and reliance on external factors.",
+        "synonyms": [
+          "exponential growth",
+          "word-of-mouth growth"
+        ],
+        "antonyms": [
+          "stagnation",
+          "decline"
+        ]
+      },
+      {
+        "word": "accrued",
+        "definition": "To accumulate or gather over time, particularly in relation to financial assets or benefits.",
+        "businessContext": "In finance and accounting, accrued expenses or revenues refer to those that have been recognized but not yet paid or received, impacting cash flow analysis.",
+        "nuance": "The term 'accrued' often carries a formal tone and is typically used in legal or financial discussions.",
+        "synonyms": [
+          "accumulated",
+          "gathered"
+        ],
+        "antonyms": [
+          "diminished",
+          "reduced"
+        ]
+      },
+      {
+        "word": "growth hacks",
+        "definition": "Creative, unconventional strategies or techniques aimed at achieving rapid business growth, often with minimal resources.",
+        "businessContext": "Startups frequently employ growth hacks to quickly scale their operations and user base, leveraging innovative marketing tactics and product features.",
+        "nuance": "The term 'growth hacks' implies a sense of experimentation and agility, often appealing to entrepreneurial spirits but may also suggest a lack of traditional methods.",
+        "synonyms": [
+          "growth strategies",
+          "scaling techniques"
+        ],
+        "antonyms": [
+          "traditional marketing",
+          "static growth"
+        ]
+      },
+      {
+        "word": "engineered",
+        "definition": "Designed or constructed with a specific purpose or outcome in mind, often involving careful planning and technical expertise.",
+        "businessContext": "In tech and product development, 'engineered' often refers to products or systems that are meticulously crafted to meet specific user needs or market demands.",
+        "nuance": "While 'engineered' conveys precision and intentionality, it may also imply a lack of naturalness or spontaneity in the creation process.",
+        "synonyms": [
+          "designed",
+          "crafted"
+        ],
+        "antonyms": [
+          "spontaneous",
+          "unplanned"
+        ]
+      }
+    ]
   },
   {
     "text": "The thing that is hard to really understand for first-time founders that hit breakout success with a consumer product is how draining and how spread thin you get, because everything breaks. Everything that you built needs to be substituted almost every three days.",
@@ -104,9 +351,10 @@
     "timestamp": "00:01:21",
     "context": "Lenny asks what other lasting lessons Nikita learned from building tbh that he brings to new apps today. Nikita explains the intense operational challenges that come with viral success - when your app suddenly scales massively, all your systems break and need to be replaced constantly. This creates absolute chaos that founders need to be prepared for, requiring ruthless prioritization to keep the app running as it grows exponentially.",
     "vocabulary_highlights": [
+      "breakout success",
+      "draining",
       "spread thin",
-      "substituted",
-      "breakout success"
+      "operational challenges"
     ],
     "topics": [
       "Starting a Company",
@@ -121,7 +369,66 @@
     "text_ko": "소비자용 제품(consumer product)으로 대박 성공(breakout success)을 거둔 첫 창업자들이 진짜로 이해하기 어려운 건, 얼마나 지치고 일이 여기저기 분산돼 감당하기 힘들어지는지예요. 모든 게 계속 망가져서 만든 것들을 거의 사흘마다 다시 대체해야 할 정도예요.",
     "text_zh": "第一次创业就做出爆款消费产品的创始人很难理解的一点是，你会被榨干，精力被分散到各个地方，因为什么都会出问题。你搭建的每个系统基本上每三天就得重新来一遍。",
     "text_es": "Lo que es difícil de entender para los fundadores primerizos que pegan el golpe con un producto de consumo es lo agotador que se vuelve todo y cómo te quedas sin recursos, porque todo se rompe. Todo lo que construiste hay que cambiarlo prácticamente cada tres días.",
-    "key_sentence": "Breakout success leaves founders spread thin as everything breaks."
+    "key_sentence": "Breakout success leaves founders spread thin as everything breaks.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "breakout success",
+        "definition": "A significant and rapid achievement in popularity or sales, often surpassing initial expectations.",
+        "businessContext": "In business and startup environments, a breakout success typically refers to a product or service that quickly gains traction in the market, leading to substantial revenue growth and brand recognition.",
+        "nuance": "This term conveys a sense of unexpected achievement and can imply both excitement and pressure to maintain momentum.",
+        "synonyms": [
+          "phenomenal success",
+          "overnight success"
+        ],
+        "antonyms": [
+          "failure",
+          "mediocre performance"
+        ]
+      },
+      {
+        "word": "draining",
+        "definition": "Causing fatigue or exhaustion, often due to excessive demands or stress.",
+        "businessContext": "In the context of startups, the term draining can describe the emotional and physical toll that rapid growth and constant problem-solving take on founders and their teams.",
+        "nuance": "While it often refers to physical exhaustion, it can also imply mental fatigue and the challenges of sustaining high levels of performance.",
+        "synonyms": [
+          "exhausting",
+          "fatiguing"
+        ],
+        "antonyms": [
+          "invigorating",
+          "refreshing"
+        ]
+      },
+      {
+        "word": "spread thin",
+        "definition": "To be stretched too far in terms of resources, time, or attention, leading to diminished effectiveness.",
+        "businessContext": "In business, being spread thin can occur when a team takes on too many projects or responsibilities, resulting in reduced quality of work and increased stress among team members.",
+        "nuance": "This phrase often carries a negative connotation, suggesting that the individual or team may not be able to perform optimally due to overcommitment.",
+        "synonyms": [
+          "overextended",
+          "overburdened"
+        ],
+        "antonyms": [
+          "well-resourced",
+          "focused"
+        ]
+      },
+      {
+        "word": "operational challenges",
+        "definition": "Difficulties or obstacles that arise in the day-to-day functioning of a business or organization.",
+        "businessContext": "Operational challenges in startups can include issues related to supply chain management, staffing, technology integration, and customer service, which can hinder growth and efficiency.",
+        "nuance": "This term emphasizes the practical aspects of running a business and is often used to highlight areas needing improvement or strategic intervention.",
+        "synonyms": [
+          "operational hurdles",
+          "logistical issues"
+        ],
+        "antonyms": [
+          "operational efficiency",
+          "smooth operations"
+        ]
+      }
+    ]
   },
   {
     "text": "I was sleeping three hours a day for three months. It was extraordinarily difficult to do it all. Our team was also relentless though. They would come over to my house, 9:00 AM, stay until midnight and just do that seven days a week.",
@@ -129,7 +436,10 @@
     "timestamp": "01:08:01",
     "context": "Lenny asks what it was like managing viral growth while simultaneously fighting false rumors that Gas was used for human trafficking. Nikita describes the intense physical and mental demands of scaling a viral app while dealing with crisis management. The human trafficking hoax threatened to kill the company, requiring around-the-clock effort from the entire team to combat false information spreading faster than their app itself.",
     "vocabulary_highlights": [
-      "relentless"
+      "relentless",
+      "extraordinarily",
+      "intense",
+      "scaling"
     ],
     "topics": [
       "Starting a Company",
@@ -144,6 +454,65 @@
     "text_ko": "세 달 동안 하루에 세 시간밖에 못 잤어요. 모든 걸 다 해내기가 정말 힘들었어요. 그래도 우리 팀은 끝까지 포기하지 않았어요. 매일 오전 9시에 제 집에 와서 자정까지 머물면서 주 7일 내내 그렇게 일했어요.",
     "text_zh": "那三个月我每天只睡三个小时，真的是太难熬了。不过我们团队也是拼了命的，他们早上九点就到我家，一直干到半夜，就这样一周七天不停歇。",
     "text_es": "Dormía tres horas al día durante tres meses. Era increíblemente difícil hacer todo eso. Pero nuestro equipo también era imparable. Se aparecían en mi casa a las 9 de la mañana, se quedaban hasta medianoche y así siete días a la semana, sin parar.",
-    "key_sentence": "Our team was relentless, working from morning until midnight every day."
+    "key_sentence": "Our team was relentless, working from morning until midnight every day.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "relentless",
+        "definition": "Characterized by an unyielding or persistent attitude, often in pursuit of a goal or objective.",
+        "businessContext": "In business, a relentless approach can be crucial for overcoming challenges and achieving success, particularly in competitive environments or during product development.",
+        "nuance": "While 'relentless' conveys determination, it can also imply a lack of consideration for balance or well-being, so it should be used carefully.",
+        "synonyms": [
+          "persistent",
+          "unwavering"
+        ],
+        "antonyms": [
+          "yielding",
+          "flexible"
+        ]
+      },
+      {
+        "word": "extraordinarily",
+        "definition": "To a very great degree; exceptionally or unusually.",
+        "businessContext": "In a business context, describing a challenge or achievement as extraordinarily difficult or successful emphasizes its significance and the effort required.",
+        "nuance": "This term often carries a positive connotation, suggesting that the subject is noteworthy or remarkable, making it suitable for highlighting exceptional cases.",
+        "synonyms": [
+          "exceptionally",
+          "remarkably"
+        ],
+        "antonyms": [
+          "ordinarily",
+          "commonly"
+        ]
+      },
+      {
+        "word": "intense",
+        "definition": "Having a strong or extreme degree of something, such as effort, emotion, or focus.",
+        "businessContext": "In the tech and startup world, intense competition or intense focus on a project can drive innovation and rapid progress, but it may also lead to burnout if not managed properly.",
+        "nuance": "While 'intense' often has a positive connotation of passion and dedication, it can also imply stress or pressure, so context is important.",
+        "synonyms": [
+          "extreme",
+          "fervent"
+        ],
+        "antonyms": [
+          "mild",
+          "moderate"
+        ]
+      },
+      {
+        "word": "scaling",
+        "definition": "The process of increasing in size, capacity, or scope, often in a business context to accommodate growth.",
+        "businessContext": "In startups, scaling refers to the ability to grow operations and revenue efficiently without compromising performance or quality, which is crucial for long-term success.",
+        "nuance": "The term 'scaling' is often associated with positive growth and expansion, but it can also imply challenges related to resource management and operational complexity.",
+        "synonyms": [
+          "expanding",
+          "growing"
+        ],
+        "antonyms": [
+          "shrinking",
+          "contracting"
+        ]
+      }
+    ]
   }
 ]

@@ -1,13 +1,14 @@
 [
   {
-    "text": "I would say every single time the voice in your head is wrong. That critical voice in your head. To be specific, I'm talking about the voice in your head that is critical and repeats. There's the voice that says the same thing over and over again. You got to work out more, you got to work out more, you got to work out more. Whatever that is, it's always wrong, and that doesn't mean there isn't truth to what it says, but it's incorrect.",
+    "text": "I would say every single time the voice in your head is wrong. That critical voice in your head. To be specific, I'm talking about the voice in your head that is critical and repeats.",
     "speaker": "Joe Hudson",
     "timestamp": "00:06:05",
     "context": "Lenny asks Joe about his insight that the voice in your head is often wrong and contradictory. Joe explains that the critical, repetitive voice in your head - the one that constantly tells you things like \"you should work out more\" - is always wrong, even when there might be some truth to what it's saying. He argues that this voice isn't actually helping you be productive, despite what most people believe.",
     "vocabulary_highlights": [
-      "critical voice",
-      "repeats",
-      "subtext"
+      "critical",
+      "repetitive",
+      "insight",
+      "contradictory"
     ],
     "topics": [
       "Decision Making",
@@ -23,16 +24,79 @@
     "text_ko": "제 생각엔 머릿속 그 목소리는 매번 틀려요. 그 비판적인 목소리요. 구체적으로 말하면 비판적이고 같은 말을 계속 반복하는 바로 그 목소리를 말하는 거예요. '더 운동해야 해, 더 운동해야 해…'처럼요. 그게 무엇이든 항상 틀려요. 물론 그 말에 진실이 섞여 있을 수는 있지만, 결국엔 옳지 않아요.",
     "text_zh": "我跟你说，脑子里那个声音，十有八九都是错的。就是那个老爱挑毛病的声音。具体来说，我说的是你脑子里那个既爱批评又老是重复的声音。就是那种翻来覆去说同一件事的声音——你得多锻炼，你得多锻炼，你得多锻炼。不管它说什么，基本都是错的。这不是说它说的完全没道理，但它的方式肯定是不对的。",
     "text_es": "Yo diría que esa voz en tu cabeza siempre está equivocada. Esa voz crítica que tienes ahí arriba. Para ser específico, me refiero a esa voz en tu cabeza que es crítica y que se repite como disco rayado. Es esa voz que te dice lo mismo una y otra y otra vez. \"Tienes que hacer más ejercicio, tienes que hacer más ejercicio, tienes que hacer más ejercicio.\" Sea lo que sea, siempre está mal, y eso no significa que no haya algo de verdad en lo que dice, pero su enfoque está equivocado.",
-    "key_sentence": "The critical voice in your head is always wrong and repeats itself."
+    "key_sentence": "The critical voice in your head is always wrong and repeats itself.",
+    "text_trimmed": true,
+    "original_text": "I would say every single time the voice in your head is wrong. That critical voice in your head. To be specific, I'm talking about the voice in your head that is critical and repeats. There's the voice that says the same thing over and over again. You got to work out more, you got to work out more, you got to work out more. Whatever that is, it's always wrong, and that doesn't mean there isn't truth to what it says, but it's incorrect.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "critical",
+        "definition": "Expressing adverse or disapproving comments or judgments; essential for the success or functioning of something.",
+        "businessContext": "In business, a 'critical' analysis can reveal weaknesses in a strategy, while critical feedback is vital for employee development and performance improvement.",
+        "nuance": "While 'critical' can imply negativity, in a business context, it often refers to necessary evaluations that drive improvement.",
+        "synonyms": [
+          "crucial",
+          "essential"
+        ],
+        "antonyms": [
+          "unimportant",
+          "insignificant"
+        ]
+      },
+      {
+        "word": "repetitive",
+        "definition": "Characterized by the repeated occurrence of the same actions or events, often leading to monotony.",
+        "businessContext": "Repetitive tasks in a workplace can lead to inefficiencies, prompting businesses to seek automation solutions to enhance productivity.",
+        "nuance": "While 'repetitive' often has a negative connotation, it can also describe necessary processes that ensure consistency in operations.",
+        "synonyms": [
+          "monotonous",
+          "redundant"
+        ],
+        "antonyms": [
+          "varied",
+          "dynamic"
+        ]
+      },
+      {
+        "word": "insight",
+        "definition": "The capacity to gain an accurate and deep understanding of someone or something; often involves intuitive understanding.",
+        "businessContext": "In business, insights derived from data analysis can inform strategic decisions and drive innovation.",
+        "nuance": "The term 'insight' conveys a sense of depth and clarity, often implying that the understanding goes beyond surface-level observations.",
+        "synonyms": [
+          "understanding",
+          "perception"
+        ],
+        "antonyms": [
+          "ignorance",
+          "misunderstanding"
+        ]
+      },
+      {
+        "word": "contradictory",
+        "definition": "Involving or having elements that are in conflict or opposition to each other; mutually exclusive.",
+        "businessContext": "Contradictory statements in a business report can undermine credibility and lead to confusion among stakeholders.",
+        "nuance": "While 'contradictory' often indicates a problem, it can also highlight the complexity of situations where multiple perspectives exist.",
+        "synonyms": [
+          "inconsistent",
+          "opposing"
+        ],
+        "antonyms": [
+          "consistent",
+          "harmonious"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think the best way to work with the voice in the head is to pick an experiment every day and respond to the voice in the head in a new way every day. One of my favorite responses is, \"Oh, I see that you're really scared. Don't worry. I'm right here with you. I got you.\"",
+    "text": "I think the best way to work with the voice in the head is to pick an experiment every day and respond to the voice in the head in a new way every day.",
     "speaker": "Joe Hudson",
     "timestamp": "00:00:27",
     "context": "Lenny asks Joe how to practically work with the critical voice in your head. Joe explains that instead of trying to stop or control this voice, you should change how you relate to it. He recommends taking an experimental approach where you respond to the critical voice differently each day, treating it like a scared child rather than an authority figure.",
     "vocabulary_highlights": [
-      "pick an experiment",
-      "I got you"
+      "experiment",
+      "respond",
+      "relate",
+      "control"
     ],
     "topics": [
       "Decision Making",
@@ -48,7 +112,68 @@
     "text_ko": "제 생각에는 머릿속의 목소리와 가장 잘 일하는 방법은 매일 하나씩 실험을 골라 그 목소리에 매일 새로운 방식으로 반응해 보는 거예요. 제가 좋아하는 반응 중 하나는 \"아, 네가 정말 무서워하구나. 괜찮아요. 내가 여기 같이 있어요. 내가 지켜줄게요.\"예요.",
     "text_zh": "我觉得对付脑子里那个声音最好的办法，就是每天都试试新招，每天都用不同的方式去回应它。我最喜欢的回应方式是：\"哦，我看出来你挺害怕的。别担心，我就在这儿陪着你呢，有我在。\"",
     "text_es": "Creo que la mejor manera de manejar esa voz en la cabeza es elegir un experimento cada día y responderle de una forma nueva cada día. Una de mis respuestas favoritas es: \"Ah, veo que tienes mucho miedo. Tranquila. Estoy aquí contigo. Te tengo cubierta.\"",
-    "key_sentence": "Pick an experiment daily to respond to the voice in your head."
+    "key_sentence": "Pick an experiment daily to respond to the voice in your head.",
+    "text_trimmed": true,
+    "original_text": "I think the best way to work with the voice in the head is to pick an experiment every day and respond to the voice in the head in a new way every day. One of my favorite responses is, \"Oh, I see that you're really scared. Don't worry. I'm right here with you. I got you.\"",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "experiment",
+        "definition": "A systematic procedure undertaken to make a discovery or test a hypothesis.",
+        "businessContext": "In business and tech, experiments are often used in product development and marketing to test new ideas and measure their effectiveness before full-scale implementation.",
+        "nuance": "While 'experiment' implies a methodical approach to testing, it can also suggest a degree of uncertainty or risk, making it less suitable in contexts where certainty is expected.",
+        "synonyms": [
+          "trial",
+          "test"
+        ],
+        "antonyms": [
+          "certainty",
+          "N/A"
+        ]
+      },
+      {
+        "word": "respond",
+        "definition": "To react or reply to a stimulus, question, or situation.",
+        "businessContext": "In a business setting, responding effectively to customer feedback or market changes is crucial for maintaining competitive advantage and customer satisfaction.",
+        "nuance": "The term 'respond' carries a connotation of active engagement, suggesting that the response is thoughtful rather than merely reactive.",
+        "synonyms": [
+          "reply",
+          "react"
+        ],
+        "antonyms": [
+          "ignore",
+          "neglect"
+        ]
+      },
+      {
+        "word": "relate",
+        "definition": "To establish or demonstrate a connection or relationship between two or more entities.",
+        "businessContext": "In business, relating concepts, data, or strategies can help in understanding market trends and fostering collaboration among teams.",
+        "nuance": "While 'relate' can imply a simple connection, it often suggests a deeper understanding or empathy, particularly in interpersonal communications.",
+        "synonyms": [
+          "connect",
+          "associate"
+        ],
+        "antonyms": [
+          "disconnect",
+          "N/A"
+        ]
+      },
+      {
+        "word": "control",
+        "definition": "The power to influence or direct behavior or the course of events.",
+        "businessContext": "In management and operations, control mechanisms are essential for ensuring that organizational processes align with strategic goals and objectives.",
+        "nuance": "The term 'control' can imply authority and oversight, but it may also carry negative connotations of micromanagement if not applied judiciously.",
+        "synonyms": [
+          "regulate",
+          "manage"
+        ],
+        "antonyms": [
+          "chaos",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "It's such an important tool for productivity. If you say, I'm going to figure out how to enjoy what I do 10% more and you succeed, you are 10% more efficient. Not only that, usually, the quality is going to get a lot better too.",
@@ -56,8 +181,10 @@
     "timestamp": "00:00:43",
     "context": "Lenny asks Joe about his focus on helping people feel joy. Joe explains that enjoyment isn't just about feeling good - it's actually a powerful productivity tool. He argues that if you can learn to enjoy what you're doing even 10% more, you become 10% more efficient and the quality of your work improves significantly.",
     "vocabulary_highlights": [
-      "tool for productivity",
-      "figure out how to"
+      "productivity",
+      "efficient",
+      "quality",
+      "powerful"
     ],
     "topics": [
       "Work-Life Balance",
@@ -73,7 +200,66 @@
     "text_ko": "정말 생산성(productivity)을 높이는 중요한 도구예요. ‘내가 하는 일을 10% 더 즐기게 만드는 방법을 찾아볼 거야’라고 생각해서 실제로 그렇게 된다면 10% 더 효율적으로 일하게 돼요. 게다가 보통 일의 품질도 훨씬 좋아져요.",
     "text_zh": "这真的是提高工作效率的重要手段。你要是能想办法让自己对工作多享受个10%，那你的效率就能提升10%。不仅如此，通常工作质量也会大幅提升。",
     "text_es": "Es una herramienta clave para la productividad. Si te dices, voy a buscar la manera de disfrutar 10% más lo que hago y lo logras, vas a ser 10% más eficiente. Y no solo eso, por lo general la calidad también va a mejorar muchísimo.",
-    "key_sentence": "Enjoying what you do 10% more is a tool for productivity."
+    "key_sentence": "Enjoying what you do 10% more is a tool for productivity.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "productivity",
+        "definition": "Productivity refers to the efficiency with which goods and services are produced, often measured as the output per unit of input over a specific period.",
+        "businessContext": "In business and tech environments, productivity is a key performance indicator that helps organizations assess their operational efficiency and workforce effectiveness.",
+        "nuance": "While often associated with quantitative measures, productivity can also encompass qualitative aspects, such as employee satisfaction and innovation.",
+        "synonyms": [
+          "efficiency",
+          "output"
+        ],
+        "antonyms": [
+          "inefficiency",
+          "waste"
+        ]
+      },
+      {
+        "word": "efficient",
+        "definition": "Efficient describes the ability to achieve maximum productivity with minimum wasted effort or expense.",
+        "businessContext": "In startup settings, being efficient is crucial for resource allocation, ensuring that time and capital are utilized effectively to drive growth.",
+        "nuance": "The term often implies a balance between speed and quality, suggesting that efficiency should not compromise the overall outcome.",
+        "synonyms": [
+          "effective",
+          "productive"
+        ],
+        "antonyms": [
+          "inefficient",
+          "wasteful"
+        ]
+      },
+      {
+        "word": "quality",
+        "definition": "Quality refers to the standard of something as measured against other things of a similar kind; it encompasses the degree of excellence or superiority.",
+        "businessContext": "In business, maintaining high quality is essential for customer satisfaction and brand reputation, often influencing competitive advantage.",
+        "nuance": "Quality can be subjective and varies across industries; thus, it is important to define specific quality metrics relevant to the context.",
+        "synonyms": [
+          "caliber",
+          "standard"
+        ],
+        "antonyms": [
+          "inferiority",
+          "substandard"
+        ]
+      },
+      {
+        "word": "powerful",
+        "definition": "Powerful describes something that has great strength or influence, often leading to significant impact or effectiveness.",
+        "businessContext": "In a business context, powerful tools or strategies can drive major changes, enhance productivity, and influence market dynamics.",
+        "nuance": "The term can imply both positive and negative connotations, depending on the context in which it is used, such as 'powerful leader' versus 'powerful weapon.'",
+        "synonyms": [
+          "strong",
+          "influential"
+        ],
+        "antonyms": [
+          "weak",
+          "ineffectual"
+        ]
+      }
+    ]
   },
   {
     "text": "Whatever emotion that you're trying to avoid, you are inviting into your life in exactly the way that you're trying to avoid it.",
@@ -81,8 +267,10 @@
     "timestamp": "00:00:09",
     "context": "Lenny asks Joe what is holding people back from success and living the life they want. Joe identifies emotions that people are not sitting with, feeling, or expressing as a major factor. He explains a counterintuitive principle: when you try to avoid feeling a particular emotion, you actually end up experiencing more of that exact emotion in your life.",
     "vocabulary_highlights": [
-      "inviting into your life",
-      "in exactly the way"
+      "inviting",
+      "emotion",
+      "expressing",
+      "success"
     ],
     "topics": [
       "Decision Making",
@@ -98,7 +286,66 @@
     "text_ko": "피하려고 애쓰는 감정일수록, 오히려 그걸 피하려는 바로 그 방식대로 삶에 초대하고 있어요.",
     "text_zh": "你越想逃避什么情绪，它就越会以你最不想要的方式出现在你生活里。",
     "text_es": "Cualquier emoción que trates de evitar, la estás invitando a tu vida justo de la manera en que intentas evitarla.",
-    "key_sentence": "Avoided emotions are inviting into your life in exactly the way you resist."
+    "key_sentence": "Avoided emotions are inviting into your life in exactly the way you resist.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "inviting",
+        "definition": "Welcoming or appealing, often in a way that encourages participation or engagement.",
+        "businessContext": "In business, 'inviting' can refer to creating an environment or atmosphere that encourages collaboration, innovation, or customer engagement.",
+        "nuance": "While 'inviting' generally has positive connotations, it can imply a degree of vulnerability when discussing emotional or personal matters.",
+        "synonyms": [
+          "welcoming",
+          "appealing"
+        ],
+        "antonyms": [
+          "repelling",
+          "off-putting"
+        ]
+      },
+      {
+        "word": "emotion",
+        "definition": "A complex psychological state that involves a subjective experience, physiological response, and behavioral or expressive response.",
+        "businessContext": "In business, understanding emotion is crucial for effective marketing, customer service, and team dynamics, as it influences decision-making and consumer behavior.",
+        "nuance": "While often associated with personal feelings, in a business context, emotions can also drive motivation and engagement; however, they should be managed carefully to maintain professionalism.",
+        "synonyms": [
+          "feeling",
+          "sentiment"
+        ],
+        "antonyms": [
+          "indifference",
+          "apathy"
+        ]
+      },
+      {
+        "word": "expressing",
+        "definition": "The act of conveying thoughts, feelings, or ideas through verbal or non-verbal means.",
+        "businessContext": "In a business setting, expressing ideas clearly is essential for effective communication, teamwork, and leadership, as it helps to align objectives and foster collaboration.",
+        "nuance": "While expressing can be seen as a straightforward communication act, it can also imply a deeper level of sharing personal or emotional insights, which may not always be appropriate in formal business contexts.",
+        "synonyms": [
+          "communicating",
+          "articulating"
+        ],
+        "antonyms": [
+          "concealing",
+          "suppressing"
+        ]
+      },
+      {
+        "word": "success",
+        "definition": "The achievement of a desired goal or outcome, often measured by the attainment of objectives or the realization of aspirations.",
+        "businessContext": "In business, success is typically evaluated through metrics such as profitability, market share, or customer satisfaction, and is often a key focus for strategic planning and performance assessment.",
+        "nuance": "Success can be subjective, varying from one individual or organization to another, and it may encompass not just financial achievements but also personal fulfillment and social impact.",
+        "synonyms": [
+          "achievement",
+          "accomplishment"
+        ],
+        "antonyms": [
+          "failure",
+          "setback"
+        ]
+      }
+    ]
   },
   {
     "text": "A lot of the people in my circles may have spent hundreds of millions of dollars to try to arrange a life that they enjoy, and it doesn't fucking work.",
@@ -106,8 +353,10 @@
     "timestamp": "00:00:00",
     "context": "Joe is explaining why learning to enjoy what you're currently doing is more powerful than trying to arrange your external circumstances for enjoyment. He notes that many wealthy people he coaches have spent enormous amounts of money trying to create an enjoyable life through external means - buying jets, islands, and luxury items - but this approach fundamentally fails to create lasting satisfaction.",
     "vocabulary_highlights": [
-      "arrange a life",
-      "doesn't fucking work"
+      "arrange",
+      "enjoy",
+      "circumstances",
+      "powerful"
     ],
     "topics": [
       "Work-Life Balance",
@@ -123,17 +372,77 @@
     "text_ko": "제 주변 사람들 중 많은 분들이 자기들이 즐길 수 있는 삶을 만들기 위해 수억 달러를 썼을 수도 있는데, 그게 진짜 아무 소용이 없더라고요.",
     "text_zh": "我身边很多人砸了几个亿想要打造自己理想的生活，结果根本不管用。",
     "text_es": "Muchos de la gente en mi entorno han gastado cientos de millones de dólares tratando de armar una vida que les guste, y no funciona para nada.",
-    "key_sentence": "Arranging a life often doesn't fucking work, despite spending millions."
+    "key_sentence": "Arranging a life often doesn't fucking work, despite spending millions.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "arrange",
+        "definition": "To organize or make plans for something in a systematic way.",
+        "businessContext": "In business, 'arrange' often refers to the coordination of meetings, events, or resources to achieve specific objectives.",
+        "nuance": "While 'arrange' implies a level of planning and order, it may also suggest flexibility in adapting to changing circumstances.",
+        "synonyms": [
+          "organize",
+          "coordinate"
+        ],
+        "antonyms": [
+          "disorganize",
+          "scatter"
+        ]
+      },
+      {
+        "word": "enjoy",
+        "definition": "To take pleasure in or derive satisfaction from an experience or activity.",
+        "businessContext": "In the context of employee engagement, 'enjoy' can refer to the satisfaction derived from workplace culture, benefits, or job roles that enhance productivity.",
+        "nuance": "While 'enjoy' conveys a positive experience, it may not always imply fulfillment or long-term happiness, especially in a professional context.",
+        "synonyms": [
+          "appreciate",
+          "savor"
+        ],
+        "antonyms": [
+          "dislike",
+          "dread"
+        ]
+      },
+      {
+        "word": "circumstances",
+        "definition": "The conditions or factors that surround a particular situation or event.",
+        "businessContext": "In business, understanding the 'circumstances' can be crucial for decision-making, as they influence market conditions, operational challenges, and strategic planning.",
+        "nuance": "The term often carries a connotation of external factors that may be beyond one's control, making it important to consider in risk assessments.",
+        "synonyms": [
+          "conditions",
+          "situations"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "powerful",
+        "definition": "Having great strength or influence; capable of producing significant effects.",
+        "businessContext": "In a corporate setting, 'powerful' can describe a brand, leader, or strategy that has a strong impact on market dynamics or organizational culture.",
+        "nuance": "While 'powerful' suggests effectiveness and authority, it can also imply a potential for overreach or negative consequences if not managed responsibly.",
+        "synonyms": [
+          "influential",
+          "potent"
+        ],
+        "antonyms": [
+          "weak",
+          "ineffective"
+        ]
+      }
+    ]
   },
   {
-    "text": "I would do seven minutes, no less than seven minutes. You can do more than seven minutes. Seven minutes of gratitude with another person every day. It has to be feeling the gratitude and then seeing what comes out of your mouth when you're coming from the felt sense of gratitude and doing it back and forth.",
+    "text": "I would do seven minutes, no less than seven minutes. You can do more than seven minutes. Seven minutes of gratitude with another person every day.",
     "speaker": "Joe Hudson",
     "timestamp": "01:10:40",
     "context": "Lenny asks Joe for one practical thing everyone can try to become better and more successful. Joe recommends a specific daily gratitude practice: spending exactly seven minutes sharing gratitude back and forth with another person, but emphasizing that it must come from actually feeling the emotion of gratitude in your body, not just intellectual thoughts about what you're grateful for.",
     "vocabulary_highlights": [
-      "felt sense",
-      "back and forth",
-      "comes out of your mouth"
+      "practice",
+      "gratitude",
+      "successful",
+      "specific"
     ],
     "topics": [
       "Learning & Growth",
@@ -149,7 +458,68 @@
     "text_ko": "저라면 7분은 꼭 하겠어요. 7분보다 짧으면 안 되고, 더 해도 좋아요. 매일 다른 사람과 함께하는 7분간의 감사 시간이요. 중요한 건 감사하는 마음을 진짜로 느끼고, 그 체감되는 감사(felt sense)에서 우러나오는 말을 서로 주고받아 보는 거예요.",
     "text_zh": "我建议每天至少七分钟，不能少于七分钟。你可以做得更久一点。每天和另一个人做七分钟的感恩练习。关键是要真正感受到那种感激之情，然后看看当你发自内心感恩的时候会说出什么话，你们俩就这样互相分享。",
     "text_es": "Yo haría siete minutos, no menos de siete minutos. Puedes hacer más de siete minutos si quieres. Siete minutos de gratitud con otra persona todos los días. Tiene que ser sintiendo realmente la gratitud y luego viendo qué sale de tu boca cuando vienes desde esa sensación genuina de agradecimiento, haciéndolo de ida y vuelta entre los dos.",
-    "key_sentence": "Practice seven minutes of gratitude back and forth with another person."
+    "key_sentence": "Practice seven minutes of gratitude back and forth with another person.",
+    "text_trimmed": true,
+    "original_text": "I would do seven minutes, no less than seven minutes. You can do more than seven minutes. Seven minutes of gratitude with another person every day. It has to be feeling the gratitude and then seeing what comes out of your mouth when you're coming from the felt sense of gratitude and doing it back and forth.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "practice",
+        "definition": "The repeated exercise or performance of an activity or skill to acquire or maintain proficiency.",
+        "businessContext": "In business, practice often refers to the habitual actions or strategies that individuals or teams engage in to improve efficiency and effectiveness in their roles.",
+        "nuance": "While 'practice' can imply routine, it may also suggest a commitment to continuous improvement and learning.",
+        "synonyms": [
+          "rehearsal",
+          "exercise"
+        ],
+        "antonyms": [
+          "neglect",
+          "inactivity"
+        ]
+      },
+      {
+        "word": "gratitude",
+        "definition": "A feeling of thankfulness and appreciation, often expressed towards others for their support or contributions.",
+        "businessContext": "In a business setting, expressing gratitude can enhance workplace relationships, boost morale, and foster a positive organizational culture.",
+        "nuance": "Gratitude carries a positive connotation and is often associated with emotional intelligence and leadership effectiveness.",
+        "synonyms": [
+          "appreciation",
+          "thankfulness"
+        ],
+        "antonyms": [
+          "ingratitude",
+          "discontent"
+        ]
+      },
+      {
+        "word": "successful",
+        "definition": "Achieving desired aims or attaining prosperity, often measured by specific goals or outcomes.",
+        "businessContext": "In business, success is typically evaluated through metrics such as profitability, market share, or customer satisfaction, and is often a key focus for strategic planning.",
+        "nuance": "The term 'successful' can vary in meaning depending on context; what is considered successful in one industry may not be in another.",
+        "synonyms": [
+          "prosperous",
+          "triumphant"
+        ],
+        "antonyms": [
+          "unsuccessful",
+          "failing"
+        ]
+      },
+      {
+        "word": "specific",
+        "definition": "Clearly defined or identified; precise in detail or meaning.",
+        "businessContext": "In business communication, being specific is crucial for clarity, ensuring that objectives, expectations, and instructions are understood without ambiguity.",
+        "nuance": "The term 'specific' is often used to emphasize the importance of detail, particularly in planning and execution, and can imply a need for focus over generalization.",
+        "synonyms": [
+          "particular",
+          "definite"
+        ],
+        "antonyms": [
+          "vague",
+          "general"
+        ]
+      }
+    ]
   },
   {
     "text": "Joy is the matriarch of a family of emotions and she won't come into a house where her children aren't welcome. A very joyful life is a life where all the other emotions are deeply welcomed, not accepted, not non-judgmentally aware of.",
@@ -157,9 +527,10 @@
     "timestamp": "00:20:03",
     "context": "Lenny asks Joe about the difference between non-judgmental awareness of emotions (from meditation practices) and Joe's approach to working with emotions. Joe shares his famous metaphor about joy being like the matriarch of a family - she won't visit a home where her children (other emotions) aren't truly welcome. He emphasizes that emotions need to be welcomed and loved, not just tolerated or observed neutrally.",
     "vocabulary_highlights": [
-      "matriarch of a family",
-      "deeply welcomed",
-      "non-judgmentally aware of"
+      "non-judgmental",
+      "awareness",
+      "metaphor",
+      "accepted"
     ],
     "topics": [
       "Learning & Growth",
@@ -175,6 +546,65 @@
     "text_ko": "기쁨은 감정들의 어머니 같은 존재예요. 그 감정들이 환영받지 못하는 집에는 기쁨이 들어오지 않아요. 진정으로 기쁨이 넘치는 삶은 다른 모든 감정들을 단순히 받아들이거나 판단하지 않는 정도로 알아주는 게 아니라, 깊이 마음으로 환영하는 삶이에요.",
     "text_zh": "快乐就像是情绪大家庭里的老大，如果她的孩子们在这个家里不受欢迎，她是不会进门的。真正快乐的人生，就是要发自内心地拥抱所有其他的情绪，不是简单地接受，也不是那种无所谓的态度。",
     "text_es": "La alegría es como la matriarca de toda la familia de emociones, y no va a entrar a una casa donde sus hijos no sean bienvenidos. Una vida realmente plena es aquella donde todas las demás emociones son profundamente bienvenidas, no solo aceptadas o reconocidas sin más.",
-    "key_sentence": "Joy is the matriarch of a family of emotions, welcomed deeply in life."
+    "key_sentence": "Joy is the matriarch of a family of emotions, welcomed deeply in life.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "non-judgmental",
+        "definition": "Characterized by an absence of critical or evaluative attitudes towards others' thoughts, feelings, or behaviors.",
+        "businessContext": "In business settings, a non-judgmental approach fosters open communication and encourages team members to share ideas without fear of criticism, which can enhance collaboration and innovation.",
+        "nuance": "This term is often used in contexts that emphasize empathy and understanding, particularly in leadership and team dynamics, but may be less effective in situations requiring decisive action or accountability.",
+        "synonyms": [
+          "open-minded",
+          "accepting"
+        ],
+        "antonyms": [
+          "critical",
+          "judgmental"
+        ]
+      },
+      {
+        "word": "awareness",
+        "definition": "The state or ability to perceive, feel, or be conscious of events, objects, or sensory patterns.",
+        "businessContext": "In business, awareness is crucial for market analysis, as it allows leaders to understand consumer behavior, industry trends, and internal dynamics that affect decision-making.",
+        "nuance": "While awareness can imply a passive recognition, it is often used in a proactive context to suggest the importance of being informed and responsive to changes in the business environment.",
+        "synonyms": [
+          "consciousness",
+          "perception"
+        ],
+        "antonyms": [
+          "ignorance",
+          "unawareness"
+        ]
+      },
+      {
+        "word": "metaphor",
+        "definition": "A figure of speech that implies a comparison between two unrelated things by stating one is the other, thereby highlighting similarities.",
+        "businessContext": "Metaphors are frequently used in marketing and branding to create relatable narratives that resonate with consumers, making complex ideas more accessible and memorable.",
+        "nuance": "While effective in communication, metaphors should be used judiciously to avoid confusion or misinterpretation, especially in formal business documents.",
+        "synonyms": [
+          "analogy",
+          "symbol"
+        ],
+        "antonyms": [
+          "literal expression",
+          "fact"
+        ]
+      },
+      {
+        "word": "accepted",
+        "definition": "Regarded as valid, recognized, or approved by a group or community.",
+        "businessContext": "In a business context, accepted practices or standards are those that are widely endorsed and followed within an industry, influencing operational procedures and strategic decisions.",
+        "nuance": "The term suggests a level of consensus or agreement, but it may also imply a lack of critical evaluation, which can be problematic in rapidly changing environments.",
+        "synonyms": [
+          "acknowledged",
+          "recognized"
+        ],
+        "antonyms": [
+          "rejected",
+          "disregarded"
+        ]
+      }
+    ]
   }
 ]

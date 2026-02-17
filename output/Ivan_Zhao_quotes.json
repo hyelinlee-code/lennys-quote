@@ -1,12 +1,14 @@
 [
   {
-    "text": "We try many different versions. The first version, okay, everybody can make and create their software, so let's just build a developer tool that's so easy that more people can do that. We tried that a couple of years and learned that actually most people just don't care. Our realization is actually let's hide our vision, which is everybody can create their software in the form factor that people do care.",
+    "text": "We try many different versions. The first version, okay, everybody can make and create their software, so let's just build a developer tool that's so easy that more people can do that.",
     "speaker": "Ivan Zhao",
     "timestamp": "00:00:05",
     "context": "Lenny asks Ivan about the early years of Notion, which Ivan describes as 'the lost years' - the first three to four years when they struggled to find product-market fit. Ivan explains how they initially tried to build a developer tool that would let everyone create software, but discovered most people simply weren't interested in that approach. The key insight was realizing they needed to hide their ambitious vision behind something people already understood and used daily.",
     "vocabulary_highlights": [
-      "form factor",
-      "hide our vision"
+      "versions",
+      "developer tool",
+      "product-market fit",
+      "struggled"
     ],
     "topics": [
       "Product Management",
@@ -22,7 +24,68 @@
     "text_ko": "저희는 여러 가지 버전을 시도해봤어요. 첫 버전에는 ‘모두가 자신만의 소프트웨어를 만들 수 있으니까, 더 많은 사람이 할 수 있게 아주 쉬운 개발자 도구(developer tool)를 만들자’고 했죠. 그걸 몇 년 해봤는데 사실 대부분의 사람들은 별로 관심이 없더라고요. 그래서 깨달은 건, ‘누구나 자신만의 소프트웨어를 만들 수 있다’는 우리 비전을 겉으로 내세우기보다는 사람들이 진짜로 신경 쓰는 폼팩터(form factor) 속에 숨겨 담아내자는 거였어요.",
     "text_zh": "我们试了很多不同的版本。第一个版本，就是说，好吧，每个人都应该能做软件，那我们就做一个超简单的开发工具(developer tool)，让更多人都能上手。我们试了好几年，后来发现其实大部分人根本不在乎这个。我们的感悟就是，其实应该把我们的愿景包装一下，就是\"人人都能做软件\"这个理念，要用大家真正关心的方式来呈现。",
     "text_es": "Probamos muchas versiones diferentes. La primera versión, bueno, todo el mundo puede crear su propio software, entonces dijimos \"vamos a crear una herramienta para desarrolladores que sea tan fácil que más gente pueda hacerlo.\" Lo intentamos un par de años y nos dimos cuenta de que en realidad a la mayoría de la gente le da igual. Lo que descubrimos es que en vez de mostrar nuestra visión directamente - que todo el mundo pueda crear su software - mejor la presentamos de una forma que sí le importe a la gente.",
-    "key_sentence": "Let's hide our vision to create software in a form factor people care about."
+    "key_sentence": "let's just build a developer tool that's so easy that more people can do that.",
+    "text_trimmed": true,
+    "original_text": "We try many different versions. The first version, okay, everybody can make and create their software, so let's just build a developer tool that's so easy that more people can do that. We tried that a couple of years and learned that actually most people just don't care. Our realization is actually let's hide our vision, which is everybody can create their software in the form factor that people do care.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "versions",
+        "definition": "Different iterations or forms of a product or software that may include updates, improvements, or changes.",
+        "businessContext": "In the tech industry, multiple versions of software are often released to enhance functionality, address user feedback, or fix bugs.",
+        "nuance": "The term 'versions' implies a progression or evolution of a product, suggesting that each iteration builds upon the previous one.",
+        "synonyms": [
+          "iterations",
+          "editions"
+        ],
+        "antonyms": [
+          "original",
+          "static"
+        ]
+      },
+      {
+        "word": "developer tool",
+        "definition": "Software or applications designed to assist programmers in creating, debugging, and maintaining software applications.",
+        "businessContext": "In startups and tech companies, developer tools are crucial for enhancing productivity and streamlining the software development process.",
+        "nuance": "The phrase 'developer tool' often connotes a specialized utility that caters to the needs of software engineers, rather than general users.",
+        "synonyms": [
+          "programming tool",
+          "software development tool"
+        ],
+        "antonyms": [
+          "end-user application",
+          "consumer software"
+        ]
+      },
+      {
+        "word": "product-market fit",
+        "definition": "The degree to which a product satisfies a strong market demand, indicating that the product is well-received by its target audience.",
+        "businessContext": "Achieving product-market fit is a critical milestone for startups, as it often determines the potential for growth and scalability in a competitive landscape.",
+        "nuance": "The term suggests not just compatibility but a strong alignment between product offerings and customer needs, often requiring iterative testing and feedback.",
+        "synonyms": [
+          "market alignment",
+          "customer fit"
+        ],
+        "antonyms": [
+          "product-market mismatch",
+          "market rejection"
+        ]
+      },
+      {
+        "word": "struggled",
+        "definition": "To experience difficulty or challenges in achieving a goal or completing a task.",
+        "businessContext": "In business contexts, teams may struggle with various aspects such as meeting deadlines, adapting to market changes, or achieving sales targets.",
+        "nuance": "The word 'struggled' often conveys a sense of effort and persistence despite facing obstacles, implying a journey rather than a simple failure.",
+        "synonyms": [
+          "strived",
+          "contended"
+        ],
+        "antonyms": [
+          "succeeded",
+          "thrived"
+        ]
+      }
+    ]
   },
   {
     "text": "We called it sugar-coated broccoli. People don't want to eat the broccoli but people like sugar, so it gave them the sugar then hide your broccoli inside of it.",
@@ -30,7 +93,10 @@
     "timestamp": "00:00:05",
     "context": "Ivan continues explaining Notion's strategy for making their developer-focused vision more accessible to regular users. After realizing people didn't care about creating software tools, they decided to package their powerful capabilities inside familiar productivity software that people already knew they needed. This metaphor captures how they made their complex, technical vision palatable by wrapping it in something people already wanted.",
     "vocabulary_highlights": [
-      "sugar-coated broccoli"
+      "strategy",
+      "accessible",
+      "vision",
+      "tools"
     ],
     "topics": [
       "Product Management",
@@ -46,15 +112,77 @@
     "text_ko": "우리는 그걸 '설탕 입힌 브로콜리(sugar-coated broccoli)'라고 불렀어요. 사람들은 브로콜리를 먹고 싶어 하지 않지만 달콤한 건 좋아하니까, 설탕으로 코팅해서 달콤함을 먼저 주고 그 안에 브로콜리를 숨겨 넣었어요.",
     "text_zh": "我们叫它\"糖衣西兰花\"。大家都不爱吃西兰花，但都喜欢糖，所以就先给他们糖，然后把西兰花藏在里面。",
     "text_es": "Le decíamos brócoli con azúcar. A la gente no le gusta comerse el brócoli, pero el azúcar sí les gusta, entonces les das el azúcar y escondes el brócoli adentro.",
-    "key_sentence": "Sugar-coated broccoli hides the broccoli inside something people like."
+    "key_sentence": "Sugar-coated broccoli hides the broccoli inside something people like.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "strategy",
+        "definition": "A plan of action designed to achieve a long-term or overall aim.",
+        "businessContext": "In business, strategy refers to the comprehensive approach that organizations take to achieve their goals, often involving market analysis and resource allocation.",
+        "nuance": "While 'strategy' implies a well-thought-out plan, it can also suggest flexibility and adaptability in response to changing circumstances.",
+        "synonyms": [
+          "plan",
+          "tactic"
+        ],
+        "antonyms": [
+          "disorganization",
+          "chaos"
+        ]
+      },
+      {
+        "word": "accessible",
+        "definition": "Easily reached or obtained; capable of being understood or appreciated.",
+        "businessContext": "In a business context, 'accessible' often refers to products, services, or information that are user-friendly and available to a wide audience, including those with disabilities.",
+        "nuance": "While 'accessible' generally has a positive connotation, it can imply a lack of exclusivity or sophistication in certain contexts.",
+        "synonyms": [
+          "reachable",
+          "available"
+        ],
+        "antonyms": [
+          "inaccessible",
+          "unattainable"
+        ]
+      },
+      {
+        "word": "vision",
+        "definition": "The ability to think about or plan the future with imagination or wisdom; a mental image of what the future could be.",
+        "businessContext": "In business, a 'vision' is a guiding principle that outlines what an organization aspires to achieve in the long term, often inspiring employees and stakeholders.",
+        "nuance": "While 'vision' conveys a sense of aspiration, it can also imply a disconnect from practical realities if not grounded in achievable goals.",
+        "synonyms": [
+          "foresight",
+          "dream"
+        ],
+        "antonyms": [
+          "myopia",
+          "narrow-mindedness"
+        ]
+      },
+      {
+        "word": "tools",
+        "definition": "Instruments or implements used to carry out a particular function or task.",
+        "businessContext": "In a business environment, 'tools' often refer to software, applications, or methodologies that facilitate processes, enhance productivity, or support decision-making.",
+        "nuance": "The term 'tools' can imply both physical items and abstract concepts, and it is often used in a metaphorical sense to describe resources that empower individuals or teams.",
+        "synonyms": [
+          "instruments",
+          "resources"
+        ],
+        "antonyms": [
+          "obstacles",
+          "hindrances"
+        ]
+      }
+    ]
   },
   {
-    "text": "What is the building a product or business. You want user. You want revenue. That's the product business. And building for something you want the world to have is building for your value. You have some taste. You have some aesthetic. There are different energy. You need to create a balance. Too much of yourself. Then there's no users. Then you're just doing our project. And too much for business, you're building a commodity.",
+    "text": "What is the building a product or business. You want user. You want revenue. That's the product business. And building for something you want the world to have is building for your value. You have some taste. You have some aesthetic. There are different energy.",
     "speaker": "Ivan Zhao",
     "timestamp": "00:00:40",
     "context": "Lenny asks Ivan about key elements for finding something that works after years of struggle. Ivan explains the fundamental tension in building products - balancing what the market wants (users and revenue) versus what you personally believe the world needs (your values and vision). He describes this as managing different types of energy and warns against going too far in either direction.",
     "vocabulary_highlights": [
-      "building a commodity"
+      "fundamental",
+      "aesthetic",
+      "balancing",
+      "energy"
     ],
     "topics": [
       "Strategy & Planning",
@@ -70,16 +198,79 @@
     "text_ko": "제품(product)이나 비즈니스(business)를 만든다는 건 결국 사용자(users)를 원하고 수익(revenue)을 원한다는 뜻이에요. 그게 바로 프로덕트 비즈니스(product business)이죠. 반면에 세상 사람들이 꼭 갖길 바라는 무언가를 만들 때는 당신의 가치(value)를 담아 만드는 거예요 — 취향(taste)이나 미적 감각(aesthetic), 그리고 다른 에너지가 들어가죠. 그래서 둘 사이의 균형을 만들어야 해요. 너무 자신만의 색을 내면 사용자가 없어서 그냥 개인 프로젝트일 뿐이고, 반대로 비즈니스 쪽으로만 치우치면 커머디티(commodity)가 돼 버려요.",
     "text_zh": "做产品做生意吧，你肯定想要用户，想要收入，这就是产品生意。但如果你做的是你希望这个世界拥有的东西，那就是在做你的价值观。你有自己的品味，有自己的审美，这是完全不同的能量。你得找到平衡点。太注重自己的想法，就没用户了，那就变成自己玩了。太偏向商业，你做出来的就是个大路货。",
     "text_es": "Mira, cuando estás construyendo un producto o negocio, quieres usuarios. Quieres ingresos. Eso es el negocio del producto. Pero construir algo que quieres que el mundo tenga, eso es construir según tus valores. Tienes cierto gusto. Tienes cierta estética. Son energías diferentes. Necesitas crear un equilibrio. Si te enfocas demasiado en ti mismo, entonces no hay usuarios. Entonces solo estás haciendo tu proyecto personal. Y si te enfocas demasiado en el negocio, estás construyendo una commodity (producto básico).",
-    "key_sentence": "Building a product means balancing user needs and avoiding building a commodity."
+    "key_sentence": "building for something you want the world to have is building for your value.",
+    "text_trimmed": true,
+    "original_text": "What is the building a product or business. You want user. You want revenue. That's the product business. And building for something you want the world to have is building for your value. You have some taste. You have some aesthetic. There are different energy. You need to create a balance. Too much of yourself. Then there's no users. Then you're just doing our project. And too much for business, you're building a commodity.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "fundamental",
+        "definition": "Serving as a foundation or basis; essential and primary.",
+        "businessContext": "In business, 'fundamental' often refers to core principles or elements that are critical for the success and sustainability of a product or organization.",
+        "nuance": "While 'fundamental' implies something essential, it can also suggest a level of simplicity or basic nature that may not encompass more complex aspects.",
+        "synonyms": [
+          "essential",
+          "basic"
+        ],
+        "antonyms": [
+          "superficial",
+          "secondary"
+        ]
+      },
+      {
+        "word": "aesthetic",
+        "definition": "Concerned with beauty or the appreciation of beauty; a set of principles underlying the work of a particular artist or artistic movement.",
+        "businessContext": "In business, 'aesthetic' often relates to the design and visual appeal of products, branding, and user interfaces, influencing customer perception and engagement.",
+        "nuance": "While 'aesthetic' primarily refers to visual aspects, it can also encompass the overall experience and emotional response elicited by a product or service.",
+        "synonyms": [
+          "artistic",
+          "visual"
+        ],
+        "antonyms": [
+          "unattractive",
+          "ugly"
+        ]
+      },
+      {
+        "word": "balancing",
+        "definition": "Maintaining equilibrium or stability among different elements or forces.",
+        "businessContext": "In a business context, 'balancing' often refers to managing competing priorities, such as cost versus quality, or short-term gains versus long-term sustainability.",
+        "nuance": "The term suggests an active process of adjustment and compromise, rather than a static state of being.",
+        "synonyms": [
+          "equilibrating",
+          "harmonizing"
+        ],
+        "antonyms": [
+          "disrupting",
+          "imbalance"
+        ]
+      },
+      {
+        "word": "energy",
+        "definition": "The capacity to do work or produce change; often associated with vitality and dynamism.",
+        "businessContext": "In business, 'energy' can refer to the enthusiasm and drive of a team, as well as the resources and momentum behind projects and initiatives.",
+        "nuance": "While 'energy' can denote physical or operational capacity, it often carries a connotation of passion and motivation in a team or organizational context.",
+        "synonyms": [
+          "vitality",
+          "dynamism"
+        ],
+        "antonyms": [
+          "lethargy",
+          "apathy"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think going back to the abstraction system way of problem solving, I think we're lucky that me and Simon and Akshay, we have the skillset you probably can run a whole company, which is a couple of us, I can design, I can do marketing, storytelling, close sales deals. So you realize you don't need a lot. But when you can do a lot at the same time or hire people who can do that, naturally keep the company small.",
+    "text": "you realize you don't need a lot. But when you can do a lot at the same time or hire people who can do that, naturally keep the company small.",
     "speaker": "Ivan Zhao",
     "timestamp": "00:30:20",
     "context": "Lenny asks Ivan why Notion has stayed remarkably lean and efficient compared to other companies of their scale - they're profitable, didn't hire a salesperson until 10M ARR, and kept their team very small. Ivan explains their approach centers on hiring versatile people who can handle multiple functions rather than specialists, and using better systems and tools (including Notion itself) to solve problems instead of throwing more people at them.",
     "vocabulary_highlights": [
-      "abstraction system way of problem solving",
-      "run a whole company"
+      "efficient",
+      "profitable",
+      "scale",
+      "remarkably"
     ],
     "topics": [
       "Leadership & Management",
@@ -95,16 +286,79 @@
     "text_ko": "다시 문제를 추상화해서 푸는 방식(abstraction system way of problem solving)으로 돌아가 보면, 저랑 사이먼, 악샤이 셋이서 회사 하나를 운영할 수 있는 스킬셋(skillset)을 가진 건 운이 좋은 일이에요. 저는 디자인도 하고, 마케팅(marketing)과 스토리텔링(storytelling)을 하고, 영업 딜을 성사시키는 역할까지 할 수 있으니까요. 그래서 많은 사람이 필요 없다는 걸 금방 깨닫게 돼요. 한 사람이 여러 역할을 동시에 소화할 수 있거나 그런 사람들을 채용할 수 있다면 자연스럽게 회사를 작게 유지하게 돼요.",
     "text_zh": "我觉得回到抽象化系统(abstraction system)解决问题的方式，我们挺幸运的，我、Simon还有Akshay，我们几个人的技能组合基本上就能撑起整个公司。我能搞设计、做营销、讲故事、谈成销售。你会发现其实不需要太多人。但是当你自己能身兼数职，或者招到这样的多面手时，公司自然就能保持精简。",
     "text_es": "Mira, volviendo al tema de resolver problemas con sistemas de abstracción, creo que tenemos mucha suerte Simon, Akshay y yo, porque tenemos las habilidades para prácticamente manejar toda una empresa entre unos pocos. Yo puedo hacer diseño, marketing, contar historias, cerrar ventas. Entonces te das cuenta de que no necesitas tanto. Pero cuando puedes hacer muchas cosas a la vez o contratar gente que también sea versátil, naturalmente mantienes la empresa chiquita.",
-    "key_sentence": "We can run a whole company with a small team using an abstraction system way."
+    "key_sentence": "naturally keep the company small.",
+    "text_trimmed": true,
+    "original_text": "I think going back to the abstraction system way of problem solving, I think we're lucky that me and Simon and Akshay, we have the skillset you probably can run a whole company, which is a couple of us, I can design, I can do marketing, storytelling, close sales deals. So you realize you don't need a lot. But when you can do a lot at the same time or hire people who can do that, naturally keep the company small.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "efficient",
+        "definition": "Achieving maximum productivity with minimum wasted effort or expense.",
+        "businessContext": "In business, efficiency is crucial for optimizing operations, reducing costs, and enhancing overall performance, particularly in resource management and workflow processes.",
+        "nuance": "While 'efficient' often has a positive connotation, it can imply a lack of flexibility or creativity if overemphasized.",
+        "synonyms": [
+          "effective",
+          "productive"
+        ],
+        "antonyms": [
+          "inefficient",
+          "wasteful"
+        ]
+      },
+      {
+        "word": "profitable",
+        "definition": "Yielding financial gain or benefit; generating more revenue than expenses.",
+        "businessContext": "In the context of startups and businesses, profitability is a key indicator of success and sustainability, often driving investment decisions and strategic planning.",
+        "nuance": "The term 'profitable' can sometimes suggest a focus on short-term gains rather than long-term growth or value creation.",
+        "synonyms": [
+          "lucrative",
+          "gainful"
+        ],
+        "antonyms": [
+          "unprofitable",
+          "loss-making"
+        ]
+      },
+      {
+        "word": "scale",
+        "definition": "To increase in size, capacity, or scope, particularly in a way that maintains or improves efficiency.",
+        "businessContext": "In startups, scaling refers to the ability to grow the business rapidly while managing resources effectively, often through technology or streamlined processes.",
+        "nuance": "The concept of scaling can imply both growth and the ability to maintain quality or service levels, making it crucial for sustainable development.",
+        "synonyms": [
+          "expand",
+          "grow"
+        ],
+        "antonyms": [
+          "contract",
+          "shrink"
+        ]
+      },
+      {
+        "word": "remarkably",
+        "definition": "In a way that is worthy of attention; extraordinarily.",
+        "businessContext": "In business discussions, 'remarkably' is often used to highlight significant achievements or unexpected results that stand out in a competitive landscape.",
+        "nuance": "While it conveys a positive emphasis, overuse can diminish its impact, so it should be reserved for truly noteworthy instances.",
+        "synonyms": [
+          "extraordinarily",
+          "notably"
+        ],
+        "antonyms": [
+          "unremarkably",
+          "ordinarily"
+        ]
+      }
+    ]
   },
   {
-    "text": "We internally help other people and understand this. Internally we use the metaphor that Notion's a small bus. The bus, the smaller the bus, it's easier to turn corners, easier to accelerate, easier to maneuver. The bigger the bus it is, bigger the boat or bigger the bus, slow down. And as a leader in the company, you decide who sit around you on the bus seats.",
+    "text": "We internally help other people and understand this. Internally we use the metaphor that Notion's a small bus. The bus, the smaller the bus, it's easier to turn corners, easier to accelerate, easier to maneuver.",
     "speaker": "Ivan Zhao",
     "timestamp": "00:33:29",
     "context": "Lenny asks Ivan for advice on how to actually stay lean when it's tempting to hire more engineers and designers. Ivan shares an internal metaphor they use at Notion to help employees understand why staying small is advantageous. He explains that like vehicles, smaller organizations can change direction and move faster, while larger ones become harder to steer and slower to respond to market changes.",
     "vocabulary_highlights": [
-      "turn corners",
-      "maneuver"
+      "metaphor",
+      "maneuver",
+      "accelerate",
+      "lean"
     ],
     "topics": [
       "Leadership & Management",
@@ -120,17 +374,79 @@
     "text_ko": "우리는 내부적으로 서로 도와주고 그걸 잘 이해하고 있어요. 사내에서는 Notion을 작은 버스에 비유해요. 버스는 작을수록 코너 돌기도 쉽고 가속도 잘 되고 조작하기도 쉬워요. 반대로 버스나 배가 커지면 속도가 느려지고 움직이기 어렵죠. 회사에서 리더로서 버스 좌석에 누가 앉을지는 리더가 결정해요.",
     "text_zh": "我们内部会互相帮助，大家都明白这个道理。在内部我们有个比喻，说Notion就像一辆小巴士。巴士越小，转弯越灵活，加速越快，操控起来也越容易。巴士越大，不管是大船还是大巴，都会变慢。作为公司的领导者，你要决定谁能坐在你身边的座位上。",
     "text_es": "Internamente ayudamos a otros y entendemos esto. Dentro de la empresa usamos la metáfora de que Notion es como un autobús pequeño. Entre más pequeño sea el autobús, más fácil es tomar las curvas, acelerar más rápido, maniobrar mejor. Entre más grande sea el autobús, o el barco, o lo que sea, más lento va todo. Y como líder de la empresa, tú decides quién se sienta a tu lado en los asientos del autobús.",
-    "key_sentence": "A smaller bus can turn corners and maneuver more easily as a company."
+    "key_sentence": "the smaller the bus, it's easier to turn corners, easier to accelerate, easier to maneuver.",
+    "text_trimmed": true,
+    "original_text": "We internally help other people and understand this. Internally we use the metaphor that Notion's a small bus. The bus, the smaller the bus, it's easier to turn corners, easier to accelerate, easier to maneuver. The bigger the bus it is, bigger the boat or bigger the bus, slow down. And as a leader in the company, you decide who sit around you on the bus seats.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "metaphor",
+        "definition": "A figure of speech that involves an implicit comparison between two unlike things, suggesting that one thing is another to highlight similarities.",
+        "businessContext": "In business, metaphors are often used to simplify complex concepts or to create relatable imagery that can enhance communication and understanding among team members.",
+        "nuance": "While metaphors can be powerful tools for persuasion and clarity, they should be used judiciously to avoid confusion or misinterpretation.",
+        "synonyms": [
+          "analogy",
+          "symbol"
+        ],
+        "antonyms": [
+          "literal",
+          "fact"
+        ]
+      },
+      {
+        "word": "maneuver",
+        "definition": "To move or manipulate something skillfully or carefully, often in a strategic manner.",
+        "businessContext": "In a business context, maneuvering can refer to navigating through challenges, adjusting strategies, or optimizing processes to achieve desired outcomes.",
+        "nuance": "The term often implies a level of skill and planning, and can sometimes carry a connotation of cunning or tactical thinking.",
+        "synonyms": [
+          "navigate",
+          "manipulate"
+        ],
+        "antonyms": [
+          "stagnate",
+          "remain"
+        ]
+      },
+      {
+        "word": "accelerate",
+        "definition": "To increase the speed or rate of something, often referring to processes or growth.",
+        "businessContext": "In startups and tech, accelerating growth or development is crucial for gaining market advantage and achieving scalability within a competitive landscape.",
+        "nuance": "While acceleration is generally positive, it can imply pressure or urgency that may lead to oversight if not managed carefully.",
+        "synonyms": [
+          "hasten",
+          "expedite"
+        ],
+        "antonyms": [
+          "decelerate",
+          "slow"
+        ]
+      },
+      {
+        "word": "lean",
+        "definition": "To adopt a methodology that emphasizes efficiency, minimizing waste, and maximizing value in processes and operations.",
+        "businessContext": "The lean approach is often applied in startups and tech companies to streamline operations, enhance productivity, and foster innovation by focusing on customer value.",
+        "nuance": "While 'lean' suggests efficiency, it can also imply a lack of resources, so it is important to balance lean practices with adequate support for growth.",
+        "synonyms": [
+          "streamlined",
+          "efficient"
+        ],
+        "antonyms": [
+          "wasteful",
+          "excessive"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think just understand abstraction or system is a better curve than pecan curve, right? Linear. We internally help other people and understand this... I think the more interesting point here, it's like you can create progress through better abstractions. And that thing compounds faster, can catch up to all the things you build much quicker than you ever thought.",
+    "text": "I think just understand abstraction or system is a better curve than pecan curve, right? Linear. We internally help other people and understand this... I think the more interesting point here, it's like you can create progress through better abstractions.",
     "speaker": "Ivan Zhao",
     "timestamp": "00:33:05",
     "context": "Ivan is explaining why he advocates for not being afraid to reset and start over when building products. He argues that humans think linearly, but finding better abstractions or fundamental approaches can create exponential progress. This means that even if you throw away previous work to build on better foundations, you can recover that lost progress much faster than expected because the new approach compounds more effectively.",
     "vocabulary_highlights": [
-      "better curve than pecan curve",
-      "compounds faster",
-      "catch up to all the things you build"
+      "abstraction",
+      "fundamental",
+      "progress",
+      "linear"
     ],
     "topics": [
       "Strategy & Planning",
@@ -146,6 +462,67 @@
     "text_ko": "제 생각에는 추상화(abstraction)나 시스템(system)을 이해하는 게 피칸 커브(pecan curve)보다 더 나은 곡선이라고 생각해요 — 선형(linear)이죠. 저희는 내부적으로 다른 사람들을 도와가며 이걸 이해하고요. 더 흥미로운 점은, 더 나은 추상화(abstraction)를 통해 진전을 만들어낼 수 있다는 거예요. 그 효과가 복리(compounding)처럼 더 빠르게 불어나서, 여러분이 만든 모든 것들을 생각보다 훨씬 빨리 따라잡을 수 있어요.",
     "text_zh": "我觉得理解抽象概念或者系统架构，这个学习曲线比那种复杂曲线要好走得多，对吧？比较直线型的。我们内部也会帮助其他人理解这些东西...我觉得更有意思的是，你可以通过更好的抽象思维来推动进步。这种东西的复利效应特别快，能够追上你之前搭建的所有东西，速度比你想象的要快得多。",
     "text_es": "Mira, creo que entender la abstracción o el sistema te da una curva de aprendizaje mucho mejor que la curva exponencial, ¿no? Es más lineal. Internamente ayudamos a otros a entender esto... Creo que lo más interesante aquí es que puedes generar progreso a través de mejores abstracciones. Y eso se potencia mucho más rápido, puede alcanzar todo lo que construyes mucho más rápido de lo que jamás pensaste.",
-    "key_sentence": "Better abstractions create progress that compounds faster and catches up to your builds."
+    "key_sentence": "you can create progress through better abstractions.",
+    "text_trimmed": true,
+    "original_text": "I think just understand abstraction or system is a better curve than pecan curve, right? Linear. We internally help other people and understand this... I think the more interesting point here, it's like you can create progress through better abstractions. And that thing compounds faster, can catch up to all the things you build much quicker than you ever thought.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "abstraction",
+        "definition": "The process of simplifying complex systems by focusing on the essential features while ignoring irrelevant details.",
+        "businessContext": "In business and technology, abstraction is often used in software development to create models that help teams understand and manage complex systems more effectively.",
+        "nuance": "While abstraction can enhance clarity and efficiency, over-abstraction may lead to a loss of important details, making it crucial to find the right balance.",
+        "synonyms": [
+          "simplification",
+          "generalization"
+        ],
+        "antonyms": [
+          "concretion",
+          "specificity"
+        ]
+      },
+      {
+        "word": "fundamental",
+        "definition": "Serving as a foundation or basis; essential to the nature or function of something.",
+        "businessContext": "In a business context, understanding fundamental principles is vital for making informed decisions and developing effective strategies.",
+        "nuance": "The term 'fundamental' often implies a deeper level of importance, suggesting that without these elements, the overall structure or strategy may fail.",
+        "synonyms": [
+          "essential",
+          "basic"
+        ],
+        "antonyms": [
+          "superficial",
+          "secondary"
+        ]
+      },
+      {
+        "word": "progress",
+        "definition": "Forward or onward movement towards a destination or goal; improvement or development in a particular area.",
+        "businessContext": "In the business world, progress is often measured through key performance indicators (KPIs) that track growth, efficiency, and innovation.",
+        "nuance": "While progress is generally viewed positively, it can sometimes imply a sense of urgency or pressure to achieve results quickly.",
+        "synonyms": [
+          "advancement",
+          "development"
+        ],
+        "antonyms": [
+          "regression",
+          "setback"
+        ]
+      },
+      {
+        "word": "linear",
+        "definition": "Characterized by a straight line or a sequential progression; involving a direct relationship between cause and effect.",
+        "businessContext": "In project management and product development, a linear approach often refers to a step-by-step process that follows a predetermined path, which can be effective for straightforward tasks.",
+        "nuance": "While linear processes can be efficient, they may not accommodate the complexities of more dynamic environments, where nonlinear approaches may be more appropriate.",
+        "synonyms": [
+          "sequential",
+          "straightforward"
+        ],
+        "antonyms": [
+          "nonlinear",
+          "complex"
+        ]
+      }
+    ]
   }
 ]

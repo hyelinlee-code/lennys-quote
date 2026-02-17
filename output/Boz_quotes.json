@@ -1,13 +1,14 @@
 [
   {
-    "text": "I don't want to take away from the romanticism of it, it's just that it's most often we hear those romantic stories from the successes. It's a healthy thing for people to want to throw themselves into something and take that risk, but it is not glamorous at the time.",
+    "text": "I don't want to take away from the romanticism of it, it's just that it's most often we hear those romantic stories from the successes.",
     "speaker": "Andrew 'Boz' Bosworth",
     "timestamp": "00:09:10",
     "context": "Lenny asks Boz about the early days at Facebook, noting that movies like The Social Network make starting a company look fun and glamorous. Boz explains that while those early startup days created great memories and camaraderie, they were forged through intense hardship - working 120 hours per week, gaining weight, having no social life, and constantly dealing with technical crises. He emphasizes that people only hear these romantic startup stories from the companies that succeeded, not from those who made similar sacrifices but didn't achieve success.",
     "vocabulary_highlights": [
       "romanticism",
-      "throw themselves into",
-      "glamorous at the time"
+      "successes",
+      "glamorous",
+      "startup"
     ],
     "topics": [
       "Starting a Company",
@@ -23,16 +24,79 @@
     "text_ko": "그 낭만성을 없애고 싶은 건 아니에요. 다만 그런 낭만적인 이야기들은 대개 성공한 사람들 얘기에서만 들리곤 해요. 어떤 일에 몸을 던지고 위험을 감수하려는 건 건강한 마음이에요. 다만 그 순간에는 사실 그렇게 멋져 보이진 않아요.",
     "text_zh": "我不是想破坏创业的浪漫色彩，只是我们听到的那些浪漫故事大多都来自成功的案例。人们愿意全身心投入、承担风险是好事，但真正经历的时候一点都不光鲜。",
     "text_es": "No quiero quitarle lo romántico al asunto, es solo que casi siempre escuchamos esas historias románticas de los que la pegaron. Está muy bien que la gente se quiera aventar de lleno a algo y arriesgarse, pero en el momento no es nada glamoroso.",
-    "key_sentence": "Romantic stories often highlight success, but it's not glamorous at the time."
+    "key_sentence": "it's just that it's most often we hear those romantic stories from the successes.",
+    "text_trimmed": true,
+    "original_text": "I don't want to take away from the romanticism of it, it's just that it's most often we hear those romantic stories from the successes. It's a healthy thing for people to want to throw themselves into something and take that risk, but it is not glamorous at the time.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "romanticism",
+        "definition": "Romanticism refers to a movement or perspective that emphasizes emotion, individualism, and the glorification of the past, particularly in art and literature.",
+        "businessContext": "In business, romanticism can manifest in the idealized narratives surrounding entrepreneurship, where the challenges and realities of starting a business are often overshadowed by success stories.",
+        "nuance": "While romanticism can inspire and motivate, it may also lead to unrealistic expectations about the entrepreneurial journey.",
+        "synonyms": [
+          "idealism",
+          "sentimentality"
+        ],
+        "antonyms": [
+          "realism",
+          "pragmatism"
+        ]
+      },
+      {
+        "word": "successes",
+        "definition": "Successes are achievements or favorable outcomes that result from efforts, often measured against specific goals or benchmarks.",
+        "businessContext": "In the context of business and startups, successes are often highlighted to attract investors, motivate teams, and build brand reputation.",
+        "nuance": "While celebrating successes is important, it is equally crucial to acknowledge failures to provide a balanced view of the business landscape.",
+        "synonyms": [
+          "achievements",
+          "victories"
+        ],
+        "antonyms": [
+          "failures",
+          "setbacks"
+        ]
+      },
+      {
+        "word": "glamorous",
+        "definition": "Glamorous describes something that is alluring, attractive, and often associated with wealth, luxury, or sophistication.",
+        "businessContext": "In the startup ecosystem, the term glamorous is frequently used to describe the appealing aspects of entrepreneurship, such as high-profile events, innovative products, and successful entrepreneurs.",
+        "nuance": "While glamorous can evoke positive feelings, it may also imply superficiality or a lack of substance in certain contexts.",
+        "synonyms": [
+          "luxurious",
+          "elegant"
+        ],
+        "antonyms": [
+          "mundane",
+          "ordinary"
+        ]
+      },
+      {
+        "word": "startup",
+        "definition": "A startup is a newly established business, typically in the early stages of development, focused on bringing a unique product or service to market, often with high growth potential.",
+        "businessContext": "In the tech industry, startups are often characterized by their innovative approaches, agility, and reliance on venture capital for funding and growth.",
+        "nuance": "The term startup can carry connotations of risk and uncertainty, as many startups fail to achieve long-term sustainability.",
+        "synonyms": [
+          "new venture",
+          "entrepreneurial venture"
+        ],
+        "antonyms": [
+          "established business",
+          "corporation"
+        ]
+      }
+    ]
   },
   {
-    "text": "Your job is not to do it yourself. Your job is to get it done, is to have the thing done, done well, done right, done competently. And a lot of times, the tools that you need to do that live with your manager, with your partner, with your advisor, with your mentor.",
+    "text": "Your job is not to do it yourself. Your job is to get it done, is to have the thing done, done well, done right, done competently.",
     "speaker": "Andrew 'Boz' Bosworth",
     "timestamp": "00:13:52",
     "context": "Lenny discusses Boz's popular advice about leveraging leaders more effectively. Boz explains that people often want to prove they can solve problems independently, but this misses the point of their actual job responsibilities. He argues that the goal isn't to demonstrate personal capability by working alone, but to achieve the best possible outcomes using all available resources - including the expertise, connections, and authority that managers and mentors possess.",
     "vocabulary_highlights": [
-      "done competently",
-      "live with your manager"
+      "leverage",
+      "competently",
+      "effectively",
+      "independently"
     ],
     "topics": [
       "Career Development",
@@ -48,16 +112,79 @@
     "text_ko": "당신의 일은 직접 다 해내는 게 아니에요. 당신의 역할은 일이 끝나게 하는 거예요. 일이 잘, 제대로, 능숙하게 마무리되도록 만드는 것이요. 그리고 그런 걸 위해 필요한 도구들은 매니저나 파트너, 어드바이저, 멘토 같은 사람들에게 있는 경우가 많아요.",
     "text_zh": "你的工作不是什么事都亲力亲为。你的工作是把事情搞定，而且要做好、做对、做得专业。很多时候，你需要的资源和支持都在你的老板、合作伙伴、顾问或者导师那里。",
     "text_es": "Tu trabajo no es hacerlo tú mismo. Tu trabajo es lograr que se haga, que la cosa quede bien hecha, hecha como debe ser, hecha de manera competente. Y muchas veces, las herramientas que necesitas para conseguirlo las tiene tu jefe, tu socio, tu asesor, tu mentor.",
-    "key_sentence": "Your job is to have the thing done competently, not to do it yourself."
+    "key_sentence": "Your job is to have the thing done competently, not to do it yourself.",
+    "text_trimmed": true,
+    "original_text": "Your job is not to do it yourself. Your job is to get it done, is to have the thing done, done well, done right, done competently. And a lot of times, the tools that you need to do that live with your manager, with your partner, with your advisor, with your mentor.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "leverage",
+        "definition": "To use something to maximum advantage or to exert influence over a situation or resource.",
+        "businessContext": "In business, leveraging often refers to utilizing resources, relationships, or technology to achieve greater outcomes or efficiencies.",
+        "nuance": "While 'leverage' can imply a strategic advantage, it may also carry a connotation of manipulation if not used ethically.",
+        "synonyms": [
+          "utilize",
+          "capitalize"
+        ],
+        "antonyms": [
+          "squander",
+          "waste"
+        ]
+      },
+      {
+        "word": "competently",
+        "definition": "In a manner that demonstrates the necessary skills and knowledge to perform a task effectively.",
+        "businessContext": "Competence is crucial in the workplace, as it reflects an employee's ability to meet job expectations and contribute to team goals.",
+        "nuance": "The term suggests a baseline level of proficiency; however, it may not imply excellence or exceptional performance.",
+        "synonyms": [
+          "capably",
+          "proficiently"
+        ],
+        "antonyms": [
+          "incompetently",
+          "ineffectively"
+        ]
+      },
+      {
+        "word": "effectively",
+        "definition": "In a way that produces a desired outcome or achieves a specific goal.",
+        "businessContext": "Effectiveness is a key performance indicator in business, often measured by the results achieved through strategies and actions.",
+        "nuance": "While 'effectively' implies success in achieving objectives, it does not necessarily account for the efficiency or resources used in the process.",
+        "synonyms": [
+          "efficiently",
+          "successfully"
+        ],
+        "antonyms": [
+          "ineffectively",
+          "unsuccessfully"
+        ]
+      },
+      {
+        "word": "independently",
+        "definition": "In a manner that does not rely on others; autonomously.",
+        "businessContext": "Independence in the workplace is valued, as it often leads to innovation and self-driven initiatives that can enhance productivity.",
+        "nuance": "While independence is often seen as a positive trait, it can sometimes imply a lack of collaboration or teamwork if taken to an extreme.",
+        "synonyms": [
+          "autonomously",
+          "self-sufficiently"
+        ],
+        "antonyms": [
+          "dependently",
+          "collaboratively"
+        ]
+      }
+    ]
   },
   {
-    "text": "Nobody wants you to be more awesome than your manager does, because when you're amazing, your manager, his life gets easier, her life gets easier. So, I just think that's the mentality we get into is like, 'No, no, no. They're testing me.' They're not. They are rooting for you.",
+    "text": "Nobody wants you to be more awesome than your manager does, because when you're amazing, your manager, his life gets easier, her life gets easier. So, I just think that's the mentality we get into is like, 'No, no, no. They're testing me.' They're not.",
     "speaker": "Andrew 'Boz' Bosworth",
     "timestamp": "00:15:56",
     "context": "Boz continues explaining why people should ask their managers for help more often. He uses an analogy from actor Patrick Stewart about auditions - casting directors want actors to succeed because it makes their job easier once they find the right person. Similarly, Boz argues that managers genuinely want their employees to excel because employee success directly makes the manager's work easier and more effective.",
     "vocabulary_highlights": [
-      "rooting for you",
-      "the mentality we get into"
+      "mentality",
+      "testing",
+      "succeed",
+      "analogy"
     ],
     "topics": [
       "Career Development",
@@ -73,17 +200,79 @@
     "text_ko": "사실 상사는 당신이 더 능력 있어지길 바라요. 당신이 잘하면 상사의 삶도 훨씬 편해지거든요. 그래서 우리는 ‘아니야, 아니야, 상사가 나를 시험하고 있어’라고 생각하게 되는데, 그건 오해예요. 그분들은 당신을 응원하고 있어요.",
     "text_zh": "没有人比你的老板更希望你牛逼了，因为你要是干得特别棒，你老板的日子就好过多了。所以我觉得咱们不要总想着\"不对不对，他们在考验我\"，其实不是的，他们是在为你加油打气呢。",
     "text_es": "Nadie quiere que seas más exitoso que tu jefe, porque cuando tú la rompes, a tu jefe se le hace la vida más fácil. Entonces, creo que la mentalidad que tenemos es como \"No, no, no. Me están poniendo a prueba.\" Pero no es así. Ellos están de tu lado.",
-    "key_sentence": "Managers are rooting for you; they want you to be more awesome."
+    "key_sentence": "Nobody wants you to be more awesome than your manager does, because when you're amazing, your manager, his life gets easier, her life gets easier.",
+    "text_trimmed": true,
+    "original_text": "Nobody wants you to be more awesome than your manager does, because when you're amazing, your manager, his life gets easier, her life gets easier. So, I just think that's the mentality we get into is like, 'No, no, no. They're testing me.' They're not. They are rooting for you.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "mentality",
+        "definition": "A mindset or way of thinking that influences behavior and attitudes.",
+        "businessContext": "In business, mentality often refers to the collective attitudes of a team or organization, which can significantly impact productivity and innovation.",
+        "nuance": "While 'mentality' can imply a fixed way of thinking, it can also suggest the potential for change and growth in perspective.",
+        "synonyms": [
+          "mindset",
+          "attitude"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "testing",
+        "definition": "The process of evaluating or assessing something to determine its quality, performance, or reliability.",
+        "businessContext": "In a business or tech environment, testing is crucial for product development, ensuring that software or services meet required standards before launch.",
+        "nuance": "Testing can carry a negative connotation when perceived as a challenge or obstacle, but it is fundamentally a necessary step for improvement and quality assurance.",
+        "synonyms": [
+          "evaluation",
+          "assessment"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "succeed",
+        "definition": "To achieve a desired aim or result, often through effort and perseverance.",
+        "businessContext": "Success in business is typically measured by meeting goals, increasing profits, or achieving market share, and is often celebrated as a key indicator of performance.",
+        "nuance": "While 'succeed' generally has a positive connotation, it can imply pressure to perform, which may lead to stress or burnout if expectations are unrealistic.",
+        "synonyms": [
+          "achieve",
+          "prosper"
+        ],
+        "antonyms": [
+          "fail",
+          "struggle"
+        ]
+      },
+      {
+        "word": "analogy",
+        "definition": "A comparison between two things that are alike in some way, often used to explain or clarify concepts.",
+        "businessContext": "In business communication, analogies can help simplify complex ideas, making them more relatable and understandable for stakeholders or team members.",
+        "nuance": "While analogies can enhance understanding, they should be used carefully to avoid oversimplification or misinterpretation of the original concepts.",
+        "synonyms": [
+          "comparison",
+          "metaphor"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "We've turned that on its head, and it sounds great, but it's not free. Even somebody senior coming from outside of the company to the company, one of the things I have to coach them on is, how do you find signal amongst all the noise?",
+    "text": "We've turned that on its head, and it sounds great, but it's not free.",
     "speaker": "Andrew 'Boz' Bosworth",
     "timestamp": "00:25:15",
     "context": "Lenny asks about Meta's culture of extreme transparency, where employees can ask executives questions directly and all data is shared openly. Boz explains that while most companies carefully curate what information employees receive, Meta gives access to almost everything and expects employees to filter it themselves. This creates tremendous empowerment but requires people to develop sophisticated systems for managing information overload and distinguishing important updates from irrelevant noise.",
     "vocabulary_highlights": [
-      "turned that on its head",
-      "not free",
-      "find signal amongst all the noise"
+      "transparency",
+      "curate",
+      "extreme",
+      "executives"
     ],
     "topics": [
       "Leadership & Management",
@@ -99,7 +288,68 @@
     "text_ko": "우리는 그걸 완전히 뒤집어 놨고, 듣기엔 멋지지만 공짜는 아니에요. 외부에서 영입된 시니어 분들도 제가 꼭 코치하는 것 중 하나는, 수많은 잡음(noise) 속에서 의미 있는 신호(signal)를 찾아내는 방법이에요.",
     "text_zh": "我们把这个完全颠倒过来了，听起来很棒，但这不是没有代价的。就算是从外面招进来的高管，我也得教他们一个事儿：怎么在这么多杂音里找到真正有用的信息？",
     "text_es": "Nosotros le dimos la vuelta a eso completamente, y suena genial, pero no sale gratis. Incluso cuando llega alguien con experiencia de fuera de la empresa, una de las cosas en las que tengo que orientarlos es: ¿cómo encuentras la señal entre tanto ruido (signal vs. noise)?",
-    "key_sentence": "We've turned that on its head; finding signal amongst all the noise is not free."
+    "key_sentence": "it sounds great, but it's not free.",
+    "text_trimmed": true,
+    "original_text": "We've turned that on its head, and it sounds great, but it's not free. Even somebody senior coming from outside of the company to the company, one of the things I have to coach them on is, how do you find signal amongst all the noise?",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "transparency",
+        "definition": "The quality of being open and honest, allowing stakeholders to see the inner workings of an organization or process.",
+        "businessContext": "In business, transparency is crucial for building trust with customers, investors, and employees, often involving clear communication of policies, practices, and financial performance.",
+        "nuance": "While transparency is generally viewed positively, excessive transparency can lead to information overload or expose sensitive data.",
+        "synonyms": [
+          "openness",
+          "clarity"
+        ],
+        "antonyms": [
+          "opacity",
+          "secrecy"
+        ]
+      },
+      {
+        "word": "curate",
+        "definition": "To select, organize, and present content or items in a thoughtful manner, often for a specific audience or purpose.",
+        "businessContext": "In the context of marketing or content management, curating involves choosing relevant materials to enhance user experience and engagement.",
+        "nuance": "Curate implies a level of expertise and intentionality, distinguishing it from mere collection or aggregation of information.",
+        "synonyms": [
+          "organize",
+          "assemble"
+        ],
+        "antonyms": [
+          "disperse",
+          "scatter"
+        ]
+      },
+      {
+        "word": "extreme",
+        "definition": "Reaching a high or intense degree; often used to describe situations, conditions, or behaviors that are far beyond the norm.",
+        "businessContext": "In business, 'extreme' can refer to high-risk strategies, aggressive marketing tactics, or innovative approaches that push conventional boundaries.",
+        "nuance": "While 'extreme' can have a negative connotation, it can also imply boldness and a willingness to take significant risks for potential rewards.",
+        "synonyms": [
+          "intense",
+          "radical"
+        ],
+        "antonyms": [
+          "moderate",
+          "mild"
+        ]
+      },
+      {
+        "word": "executives",
+        "definition": "Individuals in senior management positions who are responsible for making strategic decisions and overseeing the operations of an organization.",
+        "businessContext": "Executives play a critical role in shaping company direction, culture, and performance, often engaging in high-level planning and stakeholder communication.",
+        "nuance": "The term 'executives' often connotes authority and leadership, but can also imply a disconnect from lower-level employees if not balanced with effective communication.",
+        "synonyms": [
+          "leaders",
+          "managers"
+        ],
+        "antonyms": [
+          "subordinates",
+          "employees"
+        ]
+      }
+    ]
   },
   {
     "text": "Now News Feed was an easier case than people suspect, because everyone was outraged at the same time as they immediately doubled their usage of the product.",
@@ -107,8 +357,10 @@
     "timestamp": "00:34:08",
     "context": "Lenny asks about building the Facebook News Feed, which was highly controversial when it launched but became essential to what people think of as Facebook today. Boz explains that while users were vocally angry about the new feature, their behavior told a different story - they were refreshing and using the product much more frequently. This created a clear signal that there was cognitive dissonance between what users said they wanted versus their revealed preferences through actual usage patterns.",
     "vocabulary_highlights": [
-      "easier case than people suspect",
-      "doubled their usage"
+      "outraged",
+      "doubled",
+      "usage",
+      "essential"
     ],
     "topics": [
       "Product Management",
@@ -124,7 +376,66 @@
     "text_ko": "뉴스 피드(News Feed)는 사람들이 생각하는 것보다 더 쉬운 사례였어요. 모두가 분노했지만 동시에 그 서비스를 즉시 두 배로 사용했거든요.",
     "text_zh": "其实动态消息(News Feed)比大家想的要好处理，因为所有人一边骂得要死，一边使用频率直接翻了一倍。",
     "text_es": "Mira, el News Feed fue un caso más fácil de lo que la gente piensa, porque aunque todos estaban súper molestos, al mismo tiempo duplicaron el uso del producto de un día para otro.",
-    "key_sentence": "News Feed was an easier case than people suspect; usage doubled during outrage."
+    "key_sentence": "News Feed was an easier case than people suspect; usage doubled during outrage.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "outraged",
+        "definition": "Feeling or showing strong displeasure or anger due to a perceived injustice or wrongdoing.",
+        "businessContext": "In business settings, being outraged can refer to customer reactions to policies, product changes, or corporate decisions that are viewed as unfair or unethical.",
+        "nuance": "While 'outraged' conveys a strong emotional response, it may be seen as overly dramatic in formal business communications; consider using 'concerned' in less intense situations.",
+        "synonyms": [
+          "indignant",
+          "infuriated"
+        ],
+        "antonyms": [
+          "calm",
+          "pleased"
+        ]
+      },
+      {
+        "word": "doubled",
+        "definition": "Increased twofold; to make or become twice as much or as many.",
+        "businessContext": "In a business context, 'doubled' often refers to metrics such as revenue, user engagement, or production output that have significantly increased, indicating growth or success.",
+        "nuance": "The term 'doubled' implies a substantial increase and should be used when the growth is noteworthy; avoid it for minor increases.",
+        "synonyms": [
+          "multiplied",
+          "increased"
+        ],
+        "antonyms": [
+          "halved",
+          "decreased"
+        ]
+      },
+      {
+        "word": "usage",
+        "definition": "The manner in which something is used; the frequency or extent of use of a particular product or service.",
+        "businessContext": "In tech and startup environments, 'usage' metrics are critical for understanding customer engagement, product performance, and areas for improvement.",
+        "nuance": "While 'usage' is a neutral term, it can imply a need for analysis or optimization when discussing product performance; be cautious of its implications in competitive contexts.",
+        "synonyms": [
+          "utilization",
+          "application"
+        ],
+        "antonyms": [
+          "abandonment",
+          "disuse"
+        ]
+      },
+      {
+        "word": "essential",
+        "definition": "Absolutely necessary; extremely important and fundamental to the existence or functioning of something.",
+        "businessContext": "In business, identifying 'essential' features or services is crucial for prioritizing resources and ensuring that core needs are met for customers or operations.",
+        "nuance": "The term 'essential' carries a strong implication of necessity and should be reserved for features or elements that are truly critical; avoid using it for non-critical items.",
+        "synonyms": [
+          "vital",
+          "crucial"
+        ],
+        "antonyms": [
+          "unnecessary",
+          "optional"
+        ]
+      }
+    ]
   },
   {
     "text": "When I reflect back on what really worked across my career, it really comes down to this: I just was willing to learn aggressively. I would move because I wasn't learning enough. I was bored, and so I wasn't learning enough new stuff.",
@@ -132,8 +443,10 @@
     "timestamp": "00:40:50",
     "context": "Lenny asks about career advice, particularly regarding how much time to spend on different types of projects. Boz reflects on his unusual career path at Meta, where he changed roles every six months early on while his peers stayed in single tracks and got promoted faster initially. He explains that his willingness to keep moving to learn new things eventually paid off dramatically when he finally found roles deep enough to sustain his learning for years, leading to rapid vertical career growth.",
     "vocabulary_highlights": [
-      "learn aggressively",
-      "wasn't learning enough new stuff"
+      "reflect",
+      "aggressively",
+      "willing",
+      "career path"
     ],
     "topics": [
       "Career Development",
@@ -149,7 +462,66 @@
     "text_ko": "돌아보면 제 커리어에서 진짜로 통했던 건 결국 이거였어요: 배우는 데 매우 적극적이었어요. 배울 게 충분하지 않다고 느끼면 자리를 옮겼고, 지루해지면 그건 곧 새로운 걸 충분히 배우지 못하고 있다는 신호였어요.",
     "text_zh": "回头想想我职业生涯中真正有效的东西，其实就是这么回事：我特别愿意去学新东西，学得很猛。如果我觉得学不到什么了，我就会换地方。因为我会觉得无聊，学不到新玩意儿。",
     "text_es": "Cuando miro hacia atrás en lo que realmente funcionó en mi carrera, todo se reduce a esto: simplemente tenía las ganas de aprender a full. Me cambiaba de trabajo porque no estaba aprendiendo lo suficiente. Me aburría, y por eso no estaba aprendiendo cosas nuevas.",
-    "key_sentence": "I was willing to learn aggressively because I wasn't learning enough new stuff."
+    "key_sentence": "I was willing to learn aggressively because I wasn't learning enough new stuff.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "reflect",
+        "definition": "To think deeply or carefully about something, often in order to gain insight or understanding.",
+        "businessContext": "In business, reflecting on past experiences can help individuals and teams identify successful strategies and areas for improvement.",
+        "nuance": "While 'reflect' suggests a thoughtful consideration, it can imply a more passive process compared to 'analyze' or 'evaluate'.",
+        "synonyms": [
+          "contemplate",
+          "ponder"
+        ],
+        "antonyms": [
+          "ignore",
+          "disregard"
+        ]
+      },
+      {
+        "word": "aggressively",
+        "definition": "In a manner that is assertive and forceful, often with a sense of urgency or intensity.",
+        "businessContext": "Aggressively pursuing opportunities or strategies can indicate a proactive approach to market competition and growth.",
+        "nuance": "The term can carry a positive connotation of determination but may also suggest a risk of being overly confrontational or pushy.",
+        "synonyms": [
+          "assertively",
+          "intensely"
+        ],
+        "antonyms": [
+          "passively",
+          "cautiously"
+        ]
+      },
+      {
+        "word": "willing",
+        "definition": "Ready, eager, or prepared to do something, often implying a positive attitude towards taking action.",
+        "businessContext": "A willing employee is often seen as an asset, as they are more likely to embrace new challenges and adapt to change.",
+        "nuance": "While 'willing' suggests openness, it may lack the urgency or commitment implied by terms like 'eager' or 'enthusiastic'.",
+        "synonyms": [
+          "prepared",
+          "inclined"
+        ],
+        "antonyms": [
+          "reluctant",
+          "unwilling"
+        ]
+      },
+      {
+        "word": "career path",
+        "definition": "A sequence of jobs or positions that an individual holds over the course of their working life, often reflecting their professional development and aspirations.",
+        "businessContext": "Understanding one’s career path is crucial for strategic planning in professional growth and aligning personal goals with organizational needs.",
+        "nuance": "The term can imply a structured progression, but it may also suggest flexibility and adaptability in navigating various opportunities.",
+        "synonyms": [
+          "professional trajectory",
+          "career trajectory"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "Communication is the job is, I really believe... whenever something goes wrong, I ask myself, 'What could I have done differently in terms of how I communicated things for this to have gone better?'",
@@ -157,7 +529,10 @@
     "timestamp": "00:53:25",
     "context": "Lenny asks Boz to explain his famous post 'Communication is the Job.' Boz argues that if you want to have any impact on the world around you, it happens exclusively through communication - creating artifacts or verbalizations that affect other humans. He practices extreme ownership by always examining his own communication when things go wrong, rather than blaming others for misunderstanding or poor execution.",
     "vocabulary_highlights": [
-      "extreme ownership"
+      "impact",
+      "communicated",
+      "differently",
+      "exclusively"
     ],
     "topics": [
       "Communication Skills",
@@ -173,6 +548,65 @@
     "text_ko": "저는 소통 자체가 업무의 핵심이라고 정말 믿어요. 무언가 잘못될 때마다 스스로에게 \"이 상황이 더 잘 풀리려면 내가 소통을 어떻게 달리했어야 했을까?\"라고 물어봐요.",
     "text_zh": "沟通就是工作本身，我是真的这么认为的...每当出什么问题的时候，我都会问自己，'在沟通方面，我要是换个方式说，事情会不会处理得更好？'",
     "text_es": "La comunicación es realmente el trabajo, yo creo firmemente que... cada vez que algo sale mal, me pregunto: '¿Qué pude haber hecho diferente en cuanto a cómo comuniqué las cosas para que esto hubiera salido mejor?'",
-    "key_sentence": "Extreme ownership means reflecting on communication when things go wrong."
+    "key_sentence": "what could I have done differently in terms of how I communicated things for this to have gone better?",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "impact",
+        "definition": "The strong effect or influence that one thing has on another.",
+        "businessContext": "In business, 'impact' often refers to the measurable effects of decisions, strategies, or changes on performance metrics or stakeholder perceptions.",
+        "nuance": "While 'impact' can imply a positive influence, it can also refer to negative consequences, so context is crucial.",
+        "synonyms": [
+          "effect",
+          "influence"
+        ],
+        "antonyms": [
+          "insignificance",
+          "negligence"
+        ]
+      },
+      {
+        "word": "communicated",
+        "definition": "The act of conveying information, thoughts, or feelings to others through spoken, written, or non-verbal means.",
+        "businessContext": "Effective communication is vital in business for ensuring clarity, alignment, and collaboration among teams and stakeholders.",
+        "nuance": "The term can imply varying levels of effectiveness; thus, it is important to assess whether the communication was clear and understood.",
+        "synonyms": [
+          "conveyed",
+          "articulated"
+        ],
+        "antonyms": [
+          "concealed",
+          "withheld"
+        ]
+      },
+      {
+        "word": "differently",
+        "definition": "In a manner that is not the same as another; in an alternative way.",
+        "businessContext": "In a business context, considering how to approach a situation differently can lead to innovative solutions and improved outcomes.",
+        "nuance": "The term suggests a need for reflection and adaptability, often implying that previous methods were inadequate.",
+        "synonyms": [
+          "alternatively",
+          "distinctly"
+        ],
+        "antonyms": [
+          "similarly",
+          "identically"
+        ]
+      },
+      {
+        "word": "exclusively",
+        "definition": "In a manner that restricts or limits access to a particular group or category; solely.",
+        "businessContext": "In business, 'exclusively' can refer to products, services, or partnerships that are available only to a specific audience or market segment.",
+        "nuance": "While it can imply a premium or specialized offering, it may also suggest a lack of inclusivity, which can be a concern in diverse markets.",
+        "synonyms": [
+          "solely",
+          "only"
+        ],
+        "antonyms": [
+          "inclusively",
+          "generally"
+        ]
+      }
+    ]
   }
 ]

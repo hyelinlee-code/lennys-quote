@@ -7,7 +7,8 @@
     "vocabulary_highlights": [
       "hypergrowth",
       "organic growth",
-      "viral word of mouth"
+      "viable",
+      "inbound"
     ],
     "topics": [
       "Growth & Marketing",
@@ -22,7 +23,66 @@
     "text_ko": "하이퍼그로스(hypergrowth)를 이루려면 유기적인(organic), 인바운드(inbound), 그리고 바이럴(viral) 입소문이 필요해요. 그런 속도로 성장하려면 돈으로 해결할 수 없고, 지속 가능한 회사가 될 수 없어요.",
     "text_zh": "要实现超高速增长，必须依靠有机增长、内生增长和病毒式口碑传播。单靠支付费用无法达到这样的增长率，也无法维持一个可持续的公司。",
     "text_es": "Para lograr un hipercrecimiento, es necesario contar con un boca a boca orgánico, entrante y viral. No puedes pagar lo suficiente para crecer a esos ritmos y tener una empresa viable.",
-    "key_sentence": "Hypergrowth requires organic, inbound, and viral word of mouth for viability."
+    "key_sentence": "Hypergrowth requires organic, inbound, and viral word of mouth for viability.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "hypergrowth",
+        "definition": "Hypergrowth refers to a period of rapid and exponential growth, typically characterized by a company doubling its revenue or user base within a short timeframe, often exceeding 40% annually.",
+        "businessContext": "In startup environments, hypergrowth is often sought after as it indicates a strong product-market fit and can attract significant investment and talent.",
+        "nuance": "While hypergrowth is desirable, it can also imply challenges related to scalability and operational sustainability, making it crucial to manage growth effectively.",
+        "synonyms": [
+          "exponential growth",
+          "rapid expansion"
+        ],
+        "antonyms": [
+          "stagnation",
+          "decline"
+        ]
+      },
+      {
+        "word": "organic growth",
+        "definition": "Organic growth refers to the expansion of a company's operations and revenue through internal efforts, such as increasing sales, improving customer retention, or enhancing product offerings, rather than through mergers or acquisitions.",
+        "businessContext": "In business strategy, organic growth is often viewed as a sustainable and stable approach, reflecting a company's ability to innovate and meet market demands without external influence.",
+        "nuance": "Organic growth is generally associated with long-term stability, but it may take longer to achieve compared to growth through acquisitions.",
+        "synonyms": [
+          "internal growth",
+          "natural growth"
+        ],
+        "antonyms": [
+          "inorganic growth",
+          "merger-driven growth"
+        ]
+      },
+      {
+        "word": "viable",
+        "definition": "Viable refers to the ability of a business or project to survive and succeed in the market, often determined by factors such as profitability, sustainability, and market demand.",
+        "businessContext": "In business planning, a viable company is one that has a clear path to profitability and can adapt to changing market conditions, making it attractive to investors and stakeholders.",
+        "nuance": "The term 'viable' suggests not just survival but also the potential for growth and success, and is often used in discussions about business models and strategies.",
+        "synonyms": [
+          "feasible",
+          "sustainable"
+        ],
+        "antonyms": [
+          "unviable",
+          "impractical"
+        ]
+      },
+      {
+        "word": "inbound",
+        "definition": "Inbound refers to a marketing strategy that focuses on attracting customers through content creation, social media engagement, and other non-intrusive methods, rather than through traditional outbound marketing techniques.",
+        "businessContext": "In the context of digital marketing and sales, inbound strategies aim to create valuable content that draws potential customers to a brand, fostering relationships and encouraging conversions.",
+        "nuance": "The term 'inbound' carries a positive connotation of customer-centricity and engagement, contrasting with more aggressive outbound tactics.",
+        "synonyms": [
+          "attraction-based",
+          "content-driven"
+        ],
+        "antonyms": [
+          "outbound",
+          "interruptive"
+        ]
+      }
+    ]
   },
   {
     "text": "Hypergrowth companies go through the stages of growth that would take other companies five years or 10 years, right? They're going from 10 to 50, they're going from 50 to 100, they're going from 100 to 200.",
@@ -32,6 +92,7 @@
     "vocabulary_highlights": [
       "hypergrowth",
       "stages of growth",
+      "rapid growth",
       "compressed time frame"
     ],
     "topics": [
@@ -47,7 +108,66 @@
     "text_ko": "하이퍼그로스(hypergrowth) 기업들은 다른 기업들이 5년이나 10년 걸릴 성장 단계를 짧은 시간 안에 지나가요. 10에서 50으로, 50에서 100으로, 그리고 100에서 200으로 성장하는 거죠.",
     "text_zh": "超高速增长的公司经历的成长阶段，其他公司可能需要五年或十年才能完成，对吧？它们从10增长到50，从50增长到100，从100增长到200。",
     "text_es": "Las empresas en hipercrecimiento atraviesan etapas de crecimiento que a otras empresas les llevarían cinco o diez años, ¿verdad? Están pasando de 10 a 50, de 50 a 100, de 100 a 200.",
-    "key_sentence": "Hypergrowth companies experience compressed time frames for growth stages."
+    "key_sentence": "Hypergrowth companies go through the stages of growth that would take other companies five years or 10 years.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "hypergrowth",
+        "definition": "Hypergrowth refers to an exceptionally rapid rate of growth, often characterized by a company's ability to scale its operations and revenue at an unprecedented pace, typically exceeding 40% annual growth over several years.",
+        "businessContext": "In business and startup environments, hypergrowth is often associated with technology companies that leverage innovative products or services to capture market share quickly, attracting significant investment and talent.",
+        "nuance": "While hypergrowth is generally viewed positively, it can also imply challenges such as operational strain and the need for rapid adaptation to maintain quality and customer satisfaction.",
+        "synonyms": [
+          "explosive growth",
+          "accelerated growth"
+        ],
+        "antonyms": [
+          "stagnation",
+          "decline"
+        ]
+      },
+      {
+        "word": "stages of growth",
+        "definition": "Stages of growth refer to the distinct phases that a company undergoes as it develops, typically including startup, growth, maturity, and decline, each with unique challenges and opportunities.",
+        "businessContext": "Understanding the stages of growth is crucial for businesses as it informs strategic planning, resource allocation, and management practices tailored to the specific needs of the company at each phase.",
+        "nuance": "The term emphasizes that growth is not linear and that companies may experience setbacks or shifts between stages, necessitating flexibility in strategy.",
+        "synonyms": [
+          "growth phases",
+          "development stages"
+        ],
+        "antonyms": [
+          "stagnation",
+          "N/A"
+        ]
+      },
+      {
+        "word": "rapid growth",
+        "definition": "Rapid growth refers to a swift increase in a company's size, revenue, or market presence, often resulting from successful product launches, market demand, or strategic investments.",
+        "businessContext": "In the context of startups and emerging businesses, rapid growth can attract investors and create competitive advantages, but it also requires effective management to sustain momentum and ensure scalability.",
+        "nuance": "While rapid growth is often celebrated, it can lead to operational challenges if not managed properly, making it essential to balance speed with strategic planning.",
+        "synonyms": [
+          "swift expansion",
+          "quick growth"
+        ],
+        "antonyms": [
+          "slow growth",
+          "decline"
+        ]
+      },
+      {
+        "word": "compressed time frame",
+        "definition": "A compressed time frame refers to a shortened period in which certain activities or milestones are expected to be achieved, often resulting in increased pressure to perform quickly.",
+        "businessContext": "In business settings, particularly in startups, a compressed time frame can be a result of market opportunities or competitive pressures, necessitating rapid decision-making and execution to capitalize on fleeting chances.",
+        "nuance": "While a compressed time frame can drive innovation and urgency, it may also lead to rushed decisions and oversight if not managed carefully.",
+        "synonyms": [
+          "tight schedule",
+          "accelerated timeline"
+        ],
+        "antonyms": [
+          "extended timeline",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "If you're unemployed, it's tough. It's a tough time. There's a lot of supply. And so I think you just really need endurance and grit.",
@@ -57,7 +177,8 @@
     "vocabulary_highlights": [
       "endurance",
       "grit",
-      "challenging market"
+      "resilience",
+      "challenging"
     ],
     "topics": [
       "Career Development",
@@ -72,7 +193,66 @@
     "text_ko": "실직 상태면 힘든 시기예요. 공급이 많아서 더 어려운 것 같아요. 그래서 정말 인내심과 끈기가 필요하다고 생각해요.",
     "text_zh": "如果你失业了，这段时间确实很困难。市场上竞争激烈，供给过剩。因此，我认为你需要具备耐力和韧性。",
     "text_es": "Si estás desempleado, es difícil. Es un momento complicado. Hay mucha oferta. Por eso creo que realmente necesitas resistencia y determinación.",
-    "key_sentence": "Endurance and grit are essential in a challenging market for the unemployed."
+    "key_sentence": "You just really need endurance and grit.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "endurance",
+        "definition": "The ability to withstand hardship or adversity over a prolonged period.",
+        "businessContext": "In business, endurance is crucial for navigating long-term projects, market fluctuations, and economic downturns, requiring sustained effort and commitment.",
+        "nuance": "Endurance often implies a sense of patience and perseverance, making it suitable for contexts where persistence is valued over immediate results.",
+        "synonyms": [
+          "stamina",
+          "perseverance"
+        ],
+        "antonyms": [
+          "weakness",
+          "fragility"
+        ]
+      },
+      {
+        "word": "grit",
+        "definition": "A combination of passion and perseverance for long-term goals, often in the face of challenges.",
+        "businessContext": "In the startup ecosystem, grit is essential for entrepreneurs who must overcome obstacles and remain focused on their vision despite setbacks.",
+        "nuance": "Grit conveys a sense of determination and toughness, making it appropriate for discussions about personal qualities in high-pressure environments.",
+        "synonyms": [
+          "determination",
+          "tenacity"
+        ],
+        "antonyms": [
+          "indifference",
+          "apathy"
+        ]
+      },
+      {
+        "word": "resilience",
+        "definition": "The capacity to recover quickly from difficulties or setbacks; the ability to bounce back.",
+        "businessContext": "Resilience is vital in business, particularly during crises, as it enables organizations and individuals to adapt, recover, and thrive despite challenges.",
+        "nuance": "Resilience often implies a proactive approach to overcoming adversity, making it suitable for contexts that emphasize adaptability and recovery.",
+        "synonyms": [
+          "adaptability",
+          "flexibility"
+        ],
+        "antonyms": [
+          "inflexibility",
+          "vulnerability"
+        ]
+      },
+      {
+        "word": "challenging",
+        "definition": "Something that presents difficulties or obstacles that require effort and skill to overcome.",
+        "businessContext": "In a business context, a challenging project or task often necessitates innovative thinking and collaboration to achieve successful outcomes.",
+        "nuance": "While 'challenging' can have a negative connotation, it is often used positively to describe opportunities for growth and development.",
+        "synonyms": [
+          "demanding",
+          "arduous"
+        ],
+        "antonyms": [
+          "easy",
+          "simple"
+        ]
+      }
+    ]
   },
   {
     "text": "Picking your industry will propel your career, and picking the right company will propel your career, and then doing a good job will propel your career.",
@@ -81,8 +261,9 @@
     "context": "Lenny and Carilu discuss strategies for accelerating career growth. Carilu explains that choosing the right industry and company can significantly influence one’s career trajectory. She emphasizes that consistent performance and quality work are equally important for advancing one's professional journey.",
     "vocabulary_highlights": [
       "propel",
-      "career trajectory",
-      "consistent performance"
+      "trajectory",
+      "influence",
+      "strategies"
     ],
     "topics": [
       "Career Development",
@@ -97,7 +278,66 @@
     "text_ko": "산업을 잘 선택하면 경력이 쭉 뻗어나가고, 그 다음에 좋은 회사를 선택하면 더 잘 나가고, 마지막으로 일을 잘 하면 경력이 더 발전해요.",
     "text_zh": "选择行业能推动你的职业发展，选择合适的公司也能推动你的职业发展，而做好本职工作更能推动你的职业发展。",
     "text_es": "Elegir tu industria impulsará tu carrera, seleccionar la empresa adecuada también la impulsará, y hacer un buen trabajo la llevará aún más lejos.",
-    "key_sentence": "Choosing the right industry and company will propel your career trajectory."
+    "key_sentence": "Choosing the right industry and company will propel your career trajectory.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "propel",
+        "definition": "To drive or push something forward or onward, often with force or momentum.",
+        "businessContext": "In business, 'propel' is often used to describe actions or decisions that significantly advance a career, project, or company growth.",
+        "nuance": "While 'propel' suggests a strong, positive forward movement, it can imply urgency or necessity in achieving goals.",
+        "synonyms": [
+          "drive",
+          "advance"
+        ],
+        "antonyms": [
+          "hinder",
+          "slow"
+        ]
+      },
+      {
+        "word": "trajectory",
+        "definition": "The path or course that something follows as it moves through space, often used metaphorically to describe progress or development.",
+        "businessContext": "In a business context, 'trajectory' can refer to the expected growth path of a company, product, or individual career.",
+        "nuance": "This term often carries connotations of direction and momentum, making it suitable for discussions about future potential and strategic planning.",
+        "synonyms": [
+          "path",
+          "course"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "influence",
+        "definition": "The capacity to have an effect on the character, development, or behavior of someone or something.",
+        "businessContext": "In business, 'influence' often relates to leadership, marketing, and negotiation, where individuals or organizations shape decisions and outcomes.",
+        "nuance": "While 'influence' can have a positive connotation of persuasion, it can also imply manipulation, so context is crucial.",
+        "synonyms": [
+          "impact",
+          "effect"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "strategies",
+        "definition": "Plans of action designed to achieve a long-term or overall aim, often involving the allocation of resources.",
+        "businessContext": "In business, 'strategies' are critical for guiding decision-making, resource management, and competitive positioning in the market.",
+        "nuance": "The term suggests a thoughtful, systematic approach to achieving goals, and is typically used in formal discussions about planning and execution.",
+        "synonyms": [
+          "tactics",
+          "plans"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "There's no shortcuts to knowing a lot. One of the people I admire most is Tomasz Tunguz... he was like, 'I'd just wake up 5:00 or 6:00 AM every morning and write three to four blogs a week for 10 years.'",
@@ -105,9 +345,10 @@
     "timestamp": "00:07:27",
     "context": "Lenny asks Carilu about the value of hard work in achieving success. Carilu shares her admiration for Tomasz Tunguz, who dedicated significant time and effort to writing consistently over many years. She underscores that there are no shortcuts to acquiring knowledge, and that discipline is essential for success.",
     "vocabulary_highlights": [
-      "shortcuts",
-      "admiration",
-      "discipline"
+      "dedicated",
+      "consistently",
+      "admire",
+      "significant"
     ],
     "topics": [
       "Career Development",
@@ -122,7 +363,66 @@
     "text_ko": "많은 것을 아는 데는 지름길이 없어요. 제가 가장 존경하는 사람 중 한 명인 Tomasz Tunguz가 이렇게 말했어요. '나는 매일 아침 5시나 6시에 일어나서 10년 동안 매주 블로그를 3개에서 4개씩 썼어.'",
     "text_zh": "没有捷径可以获得丰富的知识。我最钦佩的人之一是Tomasz Tunguz，他曾说过：“我每天早上5点或6点起床，每周写三到四篇博客，持续了十年。”",
     "text_es": "No hay atajos para adquirir conocimiento. Una de las personas que más admiro es Tomasz Tunguz... él decía: 'Me despertaba a las 5:00 o 6:00 AM cada mañana y escribía de tres a cuatro blogs a la semana durante 10 años.'",
-    "key_sentence": "There are no shortcuts; discipline is key to gaining knowledge over time."
+    "key_sentence": "I'd just wake up 5:00 or 6:00 AM every morning and write three to four blogs a week for 10 years.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "dedicated",
+        "definition": "Devoted to a task or purpose; showing a strong commitment to something.",
+        "businessContext": "In business, being dedicated often refers to employees or leaders who are fully committed to their roles, projects, or the company's mission, which can lead to increased productivity and morale.",
+        "nuance": "While 'dedicated' generally has a positive connotation, it can imply a level of sacrifice or exclusion of other interests, so it should be used thoughtfully.",
+        "synonyms": [
+          "committed",
+          "devoted"
+        ],
+        "antonyms": [
+          "disinterested",
+          "uncommitted"
+        ]
+      },
+      {
+        "word": "consistently",
+        "definition": "In a manner that is reliable, uniform, and steady over time.",
+        "businessContext": "In a business context, consistently delivering quality products or services is crucial for maintaining customer trust and loyalty.",
+        "nuance": "The term suggests reliability and dependability, but overuse can imply a lack of innovation or adaptability, so it should be used in contexts where stability is valued.",
+        "synonyms": [
+          "reliably",
+          "uniformly"
+        ],
+        "antonyms": [
+          "inconsistently",
+          "erratically"
+        ]
+      },
+      {
+        "word": "admire",
+        "definition": "To regard with respect or warm approval; to hold in high esteem.",
+        "businessContext": "In professional settings, admiration can be directed towards leaders, innovators, or colleagues who demonstrate exceptional skills, ethics, or achievements, fostering a culture of respect and inspiration.",
+        "nuance": "While 'admire' conveys positive feelings, it can also imply a distance or hierarchy, so it is best used when expressing genuine respect without personal familiarity.",
+        "synonyms": [
+          "respect",
+          "esteem"
+        ],
+        "antonyms": [
+          "despise",
+          "disdain"
+        ]
+      },
+      {
+        "word": "significant",
+        "definition": "Of considerable importance, size, or worth; having a major impact or effect.",
+        "businessContext": "In business and tech, significant changes or developments can influence market trends, consumer behavior, or organizational strategies, making it a key term in decision-making processes.",
+        "nuance": "While 'significant' often denotes importance, it can also imply a threshold of impact that should be clearly defined in discussions to avoid ambiguity.",
+        "synonyms": [
+          "notable",
+          "substantial"
+        ],
+        "antonyms": [
+          "insignificant",
+          "trivial"
+        ]
+      }
+    ]
   },
   {
     "text": "The CMO isn't focused enough on the revenue. So some CMOs get focused more on the pipeline or the awareness, and the CEO doesn't feel like they really have a partner in driving the revenue.",
@@ -130,9 +430,10 @@
     "timestamp": "00:47:13",
     "context": "Carilu discusses the challenges faced by Chief Marketing Officers (CMOs) in building trust with CEOs. She points out that many CMOs fail to prioritize revenue generation, which can lead to a lack of partnership with the CEO. This disconnect often results in CMOs being perceived as less effective.",
     "vocabulary_highlights": [
+      "prioritize",
+      "revenue",
       "pipeline",
-      "revenue generation",
-      "disconnect"
+      "awareness"
     ],
     "topics": [
       "Leadership & Management",
@@ -147,6 +448,65 @@
     "text_ko": "CMO가 수익에 충분히 집중하지 않는 경우가 있어요. 그래서 어떤 CMO들은 파이프라인(pipeline)이나 인지도(awareness)에 더 신경 쓰고, 그러다 보니 CEO는 수익을 올리는 데 진정한 파트너가 없다고 느끼는 것 같아요.",
     "text_zh": "首席营销官（CMO）对收入的关注不够。有些首席营销官更关注销售渠道（pipeline）或品牌认知（awareness），而首席执行官（CEO）则感觉他们在推动收入方面并没有真正的合作伙伴。",
     "text_es": "El CMO no está lo suficientemente enfocado en los ingresos. Algunos CMOs se centran más en el pipeline o en la visibilidad, y el CEO siente que no tiene un verdadero socio en la generación de ingresos.",
-    "key_sentence": "CMOs often disconnect from revenue generation by focusing too much on the pipeline."
+    "key_sentence": "the CEO doesn't feel like they really have a partner in driving the revenue.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "prioritize",
+        "definition": "To designate or treat something as more important than other things.",
+        "businessContext": "In business settings, prioritizing often involves deciding which projects, tasks, or goals should receive the most resources and attention to maximize effectiveness and achieve strategic objectives.",
+        "nuance": "While prioritizing is essential for effective management, over-prioritizing can lead to neglect of other important areas.",
+        "synonyms": [
+          "emphasize",
+          "rank"
+        ],
+        "antonyms": [
+          "neglect",
+          "deprioritize"
+        ]
+      },
+      {
+        "word": "revenue",
+        "definition": "The total income generated by a business from its operations, typically measured over a specific period.",
+        "businessContext": "Revenue is a critical metric for assessing a company's financial health and performance, often influencing investment decisions and strategic planning.",
+        "nuance": "Revenue can be derived from various sources, including sales, services, and investments, and is distinct from profit, which accounts for expenses.",
+        "synonyms": [
+          "income",
+          "earnings"
+        ],
+        "antonyms": [
+          "loss",
+          "debt"
+        ]
+      },
+      {
+        "word": "pipeline",
+        "definition": "A systematic sequence of stages through which potential customers move from initial awareness to final purchase.",
+        "businessContext": "In sales and marketing, a pipeline is used to track the progress of leads and opportunities, helping teams forecast revenue and allocate resources effectively.",
+        "nuance": "The term 'pipeline' can also imply a continuous flow of opportunities, suggesting that effective management is crucial to maintain momentum.",
+        "synonyms": [
+          "funnel",
+          "workflow"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "awareness",
+        "definition": "The state of being conscious of something, particularly in terms of brand recognition or market presence.",
+        "businessContext": "In marketing, awareness is crucial for attracting potential customers and is often measured through metrics such as brand recall and reach.",
+        "nuance": "While awareness is important for initiating customer engagement, it does not guarantee conversion, making it one of several key performance indicators.",
+        "synonyms": [
+          "recognition",
+          "familiarity"
+        ],
+        "antonyms": [
+          "ignorance",
+          "unawareness"
+        ]
+      }
+    ]
   }
 ]

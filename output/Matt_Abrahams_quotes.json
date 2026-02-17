@@ -5,7 +5,10 @@
     "timestamp": "00:00:20",
     "context": "Lenny points out that most public speaking we do is on the spot rather than prepared talks. Matt responds by explaining one of the fundamental principles for getting better at spontaneous speaking. He argues that while it seems contradictory, you must actually prepare in order to be effective when speaking spontaneously, just like athletes and jazz musicians practice extensively to perform well in unpredictable situations.",
     "vocabulary_highlights": [
-      "counterintuitive"
+      "counterintuitive",
+      "fundamental",
+      "prepare",
+      "spontaneous"
     ],
     "topics": [
       "Communication Skills",
@@ -20,17 +23,77 @@
     "text_ko": "사실 즉흥적(spontaneous)이 되려면 미리 준비해야 해요. 직관에 어긋나는(counterintuitive) 말이긴 하지만, 운동이나 재즈 음악을 생각해 보면 당연히 준비하고 연습하잖아요.",
     "text_zh": "其实你得为即兴发挥做准备，这听起来挺矛盾的，但你想想体育或者爵士乐，当然要提前准备和练习啊。",
     "text_es": "En realidad tienes que prepararte para ser espontáneo. Y sí, suena contradictorio, pero si lo piensas en el deporte o en el jazz, pues claro que te vas a preparar y practicar.",
-    "key_sentence": "Prepare to be spontaneous is counterintuitive but essential for success."
+    "key_sentence": "Prepare to be spontaneous is counterintuitive but essential for success.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "counterintuitive",
+        "definition": "Contrary to what one would intuitively expect; something that goes against common sense.",
+        "businessContext": "In business, a counterintuitive strategy may involve taking risks that seem illogical but can lead to innovative solutions or competitive advantages.",
+        "nuance": "This term is often used to describe ideas or strategies that challenge conventional wisdom, making it important to provide justification for their effectiveness.",
+        "synonyms": [
+          "paradoxical",
+          "unexpected"
+        ],
+        "antonyms": [
+          "intuitive",
+          "logical"
+        ]
+      },
+      {
+        "word": "fundamental",
+        "definition": "Essential or foundational; forming a necessary base or core of something.",
+        "businessContext": "Understanding fundamental principles is crucial in business, as they guide decision-making and strategy development.",
+        "nuance": "While 'fundamental' often refers to basic concepts, it can also imply a deeper significance in the context of business strategies or values.",
+        "synonyms": [
+          "essential",
+          "basic"
+        ],
+        "antonyms": [
+          "superficial",
+          "secondary"
+        ]
+      },
+      {
+        "word": "prepare",
+        "definition": "To make ready or equip oneself for a specific purpose or event.",
+        "businessContext": "In a business setting, preparation is vital for successful project management, ensuring that teams are equipped with the necessary resources and knowledge.",
+        "nuance": "While 'prepare' generally implies a proactive approach, it can also suggest a level of anticipation for unforeseen challenges.",
+        "synonyms": [
+          "organize",
+          "ready"
+        ],
+        "antonyms": [
+          "neglect",
+          "disorganize"
+        ]
+      },
+      {
+        "word": "spontaneous",
+        "definition": "Occurring as a result of a sudden inner impulse or inclination; not planned or premeditated.",
+        "businessContext": "Spontaneous decision-making can sometimes lead to creative breakthroughs in brainstorming sessions, but it may also risk inconsistency in business operations.",
+        "nuance": "The term often carries a positive connotation of creativity and innovation, but in a business context, it should be balanced with strategic planning.",
+        "synonyms": [
+          "impulsive",
+          "unplanned"
+        ],
+        "antonyms": [
+          "deliberate",
+          "planned"
+        ]
+      }
+    ]
   },
   {
-    "text": "Strive for connection over perfection by daring to be dull. Just answer the question. Just give the feedback. Just be engaged in the small talk. By doing that, you dial down the volume of self-evaluation, freeing up resources that can be used to really help you succeed.",
+    "text": "Strive for connection over perfection by daring to be dull. Just answer the question. Just give the feedback. Just be engaged in the small talk.",
     "speaker": "Matt Abrahams",
     "timestamp": "00:00:28",
     "context": "Lenny asks about techniques for calming anxiety when speaking. Matt explains his \"dare to be dull\" concept, which comes from improvisation. He argues that when we try to be perfect in communication, we waste mental bandwidth on self-evaluation rather than focusing on connecting with our audience and delivering our message effectively.",
     "vocabulary_highlights": [
-      "strive for connection over perfection",
-      "daring to be dull",
-      "dial down the volume"
+      "strive for",
+      "engaged",
+      "feedback",
+      "connection"
     ],
     "topics": [
       "Communication Skills",
@@ -45,15 +108,79 @@
     "text_ko": "완벽함보다 연결을 목표로 하세요. 지루해지는 걸 감수할 용기를 내보세요. 그냥 질문에 답하세요. 그냥 피드백을 주세요. 그냥 가벼운 잡담에 참여하세요. 그러면 자기평가의 소음을 낮추고, 그 여유를 진짜 성공에 도움이 되는 일에 쓸 수 있어요.",
     "text_zh": "与其追求完美，不如专注建立联系，敢于做个\"普通人\"。问什么答什么，该给反馈就给反馈，闲聊的时候就好好参与进去。这样做能让你不那么纠结自己的表现，把精力真正用在能让你成功的事情上。",
     "text_es": "Busca conectar en lugar de ser perfecto, y atrévete a ser aburrido. Simplemente responde la pregunta. Simplemente da el feedback. Simplemente participa en la plática casual. Al hacer eso, reduces la autocrítica mental, liberando energía que puedes usar para realmente tener éxito.",
-    "key_sentence": "Strive for connection over perfection by daring to be dull and engaging."
+    "key_sentence": "Strive for connection over perfection by daring to be dull and engaging.",
+    "text_trimmed": true,
+    "original_text": "Strive for connection over perfection by daring to be dull. Just answer the question. Just give the feedback. Just be engaged in the small talk. By doing that, you dial down the volume of self-evaluation, freeing up resources that can be used to really help you succeed.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "strive for",
+        "definition": "To make a great effort to achieve or attain something.",
+        "businessContext": "In business settings, 'strive for' often refers to the pursuit of goals such as excellence, innovation, or customer satisfaction.",
+        "nuance": "This phrase conveys a sense of determination and ambition, and is typically used in motivational contexts.",
+        "synonyms": [
+          "aim for",
+          "endeavor to"
+        ],
+        "antonyms": [
+          "give up",
+          "settle for"
+        ]
+      },
+      {
+        "word": "engaged",
+        "definition": "Involved or participating actively in an activity or conversation.",
+        "businessContext": "In the workplace, being 'engaged' often refers to employees who are emotionally invested in their work and contribute positively to team dynamics.",
+        "nuance": "While 'engaged' generally has a positive connotation, it can also imply a superficial level of involvement if not paired with genuine interest.",
+        "synonyms": [
+          "involved",
+          "participative"
+        ],
+        "antonyms": [
+          "disengaged",
+          "aloof"
+        ]
+      },
+      {
+        "word": "feedback",
+        "definition": "Information or criticism about a person's performance or work, intended to guide future improvement.",
+        "businessContext": "In a corporate environment, feedback is crucial for employee development, performance reviews, and enhancing team collaboration.",
+        "nuance": "Feedback can be constructive or critical; it's important to deliver it thoughtfully to foster a positive response.",
+        "synonyms": [
+          "input",
+          "critique"
+        ],
+        "antonyms": [
+          "silence",
+          "neglect"
+        ]
+      },
+      {
+        "word": "connection",
+        "definition": "A relationship or link between people or concepts, often characterized by mutual understanding or shared interests.",
+        "businessContext": "In networking and business development, establishing a strong connection can lead to collaborations, partnerships, and increased opportunities.",
+        "nuance": "While 'connection' can imply a personal bond, in a professional context, it often emphasizes the importance of networking and relationship-building.",
+        "synonyms": [
+          "relationship",
+          "link"
+        ],
+        "antonyms": [
+          "disconnection",
+          "isolation"
+        ]
+      }
+    ]
   },
   {
-    "text": "Visualization is a really useful technique and you see yourself not just in the moment of speaking, but getting up to the stage, seeing it being well received, thinking about how you step off the stage. We see athletes do this kind of thing all the time, and there's good research to say that this desensitizes people.",
+    "text": "Visualization is a really useful technique and you see yourself not just in the moment of speaking, but getting up to the stage, seeing it being well received, thinking about how you step off the stage.",
     "speaker": "Matt Abrahams",
     "timestamp": "00:00:00",
     "context": "Lenny asks Matt to explain visualization as a technique for managing speaking anxiety, moving away from the old \"picture the audience naked\" advice. Matt describes proper visualization as a mental rehearsal where you imagine the entire speaking experience from start to finish, including positive audience reception. This technique, commonly used by athletes, helps desensitize speakers to anxiety-provoking situations.",
     "vocabulary_highlights": [
-      "desensitizes"
+      "technique",
+      "visualization",
+      "received",
+      "manage"
     ],
     "topics": [
       "Communication Skills",
@@ -68,15 +195,79 @@
     "text_ko": "시각화(visualization)는 정말 유용한 기법이에요. 말하는 순간만 떠올리는 게 아니라 무대에 오르는 모습, 청중이 잘 받아주는 모습, 무대에서 내려오는 장면까지 미리 상상해 보는 거예요. 운동선수들이 늘 이렇게 하는 걸 보잖아요. 연구도 있어서 이런 연습이 두려움이나 긴장에 덜 민감해지게 만든다고 해요.",
     "text_zh": "想象练习真的特别管用，你要想象的不只是站在台上讲话的那一刻，还要想象自己走上台、看到观众反应很好、然后怎么走下台，整个过程都要过一遍。你看那些运动员经常这么做，研究也证明了这样能让人没那么紧张。",
     "text_es": "La visualización es una técnica súper útil donde te imaginas no solo el momento de hablar, sino también cómo subes al escenario, cómo tu presentación es bien recibida, cómo bajas del escenario después. Vemos que los deportistas hacen esto todo el tiempo, y hay buena investigación que demuestra que esto ayuda a desensibilizar a la gente.",
-    "key_sentence": "Visualization desensitizes people to anxiety in performance situations."
+    "key_sentence": "Visualization is a really useful technique and you see yourself not just in the moment of speaking.",
+    "text_trimmed": true,
+    "original_text": "Visualization is a really useful technique and you see yourself not just in the moment of speaking, but getting up to the stage, seeing it being well received, thinking about how you step off the stage. We see athletes do this kind of thing all the time, and there's good research to say that this desensitizes people.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "technique",
+        "definition": "A method or way of doing something, often involving a specific skill or procedure.",
+        "businessContext": "In business, 'technique' often refers to specialized methods used to improve processes, enhance productivity, or achieve specific goals.",
+        "nuance": "While 'technique' implies a level of skill, it can also suggest a systematic approach, making it suitable for both formal and informal contexts.",
+        "synonyms": [
+          "method",
+          "approach"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "visualization",
+        "definition": "The process of creating a mental image or representation of information or concepts to enhance understanding or performance.",
+        "businessContext": "In business settings, visualization is often used in presentations and strategic planning to help stakeholders grasp complex data or ideas more effectively.",
+        "nuance": "Visualization can carry a positive connotation, suggesting clarity and insight, but may be less effective if the images created are not relevant or clear.",
+        "synonyms": [
+          "imagery",
+          "representation"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "received",
+        "definition": "To have been given or accepted something, often in the context of feedback or communication.",
+        "businessContext": "In a business context, 'received' often pertains to how messages, proposals, or products are accepted by clients, customers, or stakeholders.",
+        "nuance": "The term can imply a level of approval or acknowledgment, making it more positive when discussing feedback or outcomes.",
+        "synonyms": [
+          "accepted",
+          "acknowledged"
+        ],
+        "antonyms": [
+          "rejected",
+          "dismissed"
+        ]
+      },
+      {
+        "word": "manage",
+        "definition": "To be in charge of or to oversee the operation or administration of something, often involving planning and decision-making.",
+        "businessContext": "In business, 'manage' refers to the coordination of resources, teams, or projects to achieve organizational objectives efficiently.",
+        "nuance": "While 'manage' suggests control and oversight, it can also imply a collaborative approach, especially in modern business environments.",
+        "synonyms": [
+          "oversee",
+          "administer"
+        ],
+        "antonyms": [
+          "neglect",
+          "mismanage"
+        ]
+      }
+    ]
   },
   {
-    "text": "When we communicate, especially spontaneously, we want to do it really well. We want to answer the question with the best answer, we want to give the right feedback, we want to be the most interesting in small talk and that puts a lot of pressure on ourselves. And you can think of it this way, it's really taxing our cognitive bandwidth.",
+    "text": "When we communicate, especially spontaneously, we want to do it really well.",
     "speaker": "Matt Abrahams",
     "timestamp": "00:11:09",
     "context": "Matt is explaining his \"dare to be dull\" philosophy in more detail. He describes how our desire to excel in communication creates mental pressure that actually hinders our performance. By comparing the brain to a computer's CPU, he illustrates how perfectionism consumes mental resources that could be better used for actual communication and connection.",
     "vocabulary_highlights": [
-      "taxing our cognitive bandwidth"
+      "communicate",
+      "excel",
+      "performance",
+      "hinders"
     ],
     "topics": [
       "Communication Skills",
@@ -91,16 +282,79 @@
     "text_ko": "우리가 소통할 때, 특히 즉흥적으로 대화할 때는 정말 잘하려고 해요. 질문에는 가장 좋은 답을 하려고 하고, 적절한 피드백을 주려고 하며, 스몰 토크(small talk)에서는 가장 흥미로운 사람이 되려고 하죠. 그래서 스스로에게 많은 압박을 주게 되고, 말하자면 우리의 인지적 대역폭(cognitive bandwidth)을 정말 많이 소모하고 있어요.",
     "text_zh": "我们沟通的时候，特别是临场发挥的时候，总想表现得特别好。想给出最完美的答案，想提最到位的反馈，闲聊的时候也想成为最有意思的那个人，这样一来就给自己施加了很大压力。你可以这样想，这其实是在大量消耗我们的认知带宽(cognitive bandwidth)。",
     "text_es": "Cuando nos comunicamos, sobre todo de forma espontánea, queremos hacerlo súper bien. Queremos dar la mejor respuesta posible, queremos dar el feedback correcto, queremos ser los más interesantes en la plática casual y eso nos pone mucha presión encima. Y puedes verlo así: realmente está agotando nuestra capacidad cognitiva (cognitive bandwidth).",
-    "key_sentence": "Pressure to communicate well is taxing our cognitive bandwidth."
+    "key_sentence": "we want to do it really well.",
+    "text_trimmed": true,
+    "original_text": "When we communicate, especially spontaneously, we want to do it really well. We want to answer the question with the best answer, we want to give the right feedback, we want to be the most interesting in small talk and that puts a lot of pressure on ourselves. And you can think of it this way, it's really taxing our cognitive bandwidth.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "communicate",
+        "definition": "To convey information or express thoughts and feelings through spoken, written, or non-verbal means.",
+        "businessContext": "In business settings, effective communication is crucial for collaboration, negotiation, and relationship building among team members and stakeholders.",
+        "nuance": "While 'communicate' is a general term, it often implies clarity and effectiveness, especially in professional contexts where misunderstandings can lead to significant issues.",
+        "synonyms": [
+          "convey",
+          "articulate"
+        ],
+        "antonyms": [
+          "conceal",
+          "withhold"
+        ]
+      },
+      {
+        "word": "excel",
+        "definition": "To perform exceptionally well or to surpass others in a particular area or skill.",
+        "businessContext": "In the competitive business environment, individuals and organizations strive to excel in their respective fields to gain a competitive advantage and achieve success.",
+        "nuance": "The term 'excel' carries a positive connotation, suggesting not just competence but outstanding performance, and is often used in contexts of achievement and recognition.",
+        "synonyms": [
+          "outperform",
+          "thrive"
+        ],
+        "antonyms": [
+          "fail",
+          "languish"
+        ]
+      },
+      {
+        "word": "performance",
+        "definition": "The execution or accomplishment of a task or function, often measured against established standards or benchmarks.",
+        "businessContext": "In business, performance metrics are used to evaluate the efficiency and effectiveness of employees, teams, and overall organizational operations.",
+        "nuance": "The term 'performance' can refer to both qualitative and quantitative assessments, and is often associated with accountability and results-oriented evaluations.",
+        "synonyms": [
+          "execution",
+          "achievement"
+        ],
+        "antonyms": [
+          "inactivity",
+          "failure"
+        ]
+      },
+      {
+        "word": "hinders",
+        "definition": "To create obstacles or difficulties that impede progress or development.",
+        "businessContext": "In a business context, factors that hinder productivity or innovation can significantly affect a company's growth and competitiveness.",
+        "nuance": "The word 'hinders' suggests a more active role in creating barriers, and is often used in discussions about challenges that need to be addressed to facilitate improvement.",
+        "synonyms": [
+          "impedes",
+          "obstructs"
+        ],
+        "antonyms": [
+          "facilitates",
+          "promotes"
+        ]
+      }
+    ]
   },
   {
-    "text": "So how we label the arousal matters and what Alison's research and others have followed up with suggests is that when we feel those symptoms of anxiety, rather than seeing it as negative, say, 'This is exciting. I get to share my point of view. I get to demonstrate my value.' And in so doing by seeing it as more positive, it causes us by definition to relax.",
+    "text": "So how we label the arousal matters and what Alison's research and others have followed up with suggests is that when we feel those symptoms of anxiety, rather than seeing it as negative, say, 'This is exciting. I get to share my point of view.",
     "speaker": "Matt Abrahams",
     "timestamp": "00:14:18",
     "context": "Lenny asks about the technique of reframing nervousness as excitement. Matt explains research by Alison Wood Brooks showing that anxiety and excitement produce the same physiological response in our bodies - increased heart rate, shallow breathing, shakiness. The key difference is how we interpret these sensations. By consciously labeling the arousal as excitement rather than anxiety, we can actually improve our communication performance.",
     "vocabulary_highlights": [
-      "label the arousal",
-      "by definition"
+      "reframe",
+      "physiological response",
+      "label",
+      "point of view"
     ],
     "topics": [
       "Communication Skills",
@@ -115,15 +369,79 @@
     "text_ko": "그래서 우리가 각성(arousal)을 어떻게 해석하느냐가 중요해요. 앨리슨의 연구와 그 후속 연구들이 보여주는 건, 불안한 증상이 느껴질 때 그걸 부정적으로 보지 말고 \"이거 신나네. 내 관점을 공유할 기회다. 내 가치를 보여줄 수 있겠네.\"라고 생각하라는 거예요. 그렇게 더 긍정적으로 보면 자연히 긴장이 풀려요.",
     "text_zh": "所以我们怎么理解这种紧张感很关键。艾莉森的研究还有后续的一些研究都表明，当我们感到焦虑的时候，与其把它看成负面情绪，不如告诉自己\"这挺让人兴奋的，我可以分享我的观点，我可以展示我的价值\"。这样一来，把它往积极的方向想，自然就放松了。",
     "text_es": "Entonces, cómo etiquetamos esa activación importa mucho, y lo que sugiere la investigación de Alison y otros estudios que han seguido es que cuando sentimos esos síntomas de ansiedad, en lugar de verlo como algo negativo, digamos: \"Esto es emocionante. Tengo la oportunidad de compartir mi punto de vista. Puedo demostrar mi valor.\" Y al hacerlo, al verlo de manera más positiva, automáticamente nos hace relajarnos.",
-    "key_sentence": "Label the arousal positively to relax by definition."
+    "key_sentence": "rather than seeing it as negative, say, 'This is exciting.",
+    "text_trimmed": true,
+    "original_text": "So how we label the arousal matters and what Alison's research and others have followed up with suggests is that when we feel those symptoms of anxiety, rather than seeing it as negative, say, 'This is exciting. I get to share my point of view. I get to demonstrate my value.' And in so doing by seeing it as more positive, it causes us by definition to relax.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "reframe",
+        "definition": "To change the way something is viewed or considered, often by presenting it in a different context or perspective.",
+        "businessContext": "In business, reframing can be used to shift team members' perspectives on challenges, encouraging innovative solutions and fostering a more positive work environment.",
+        "nuance": "Reframing is often used in motivational contexts, but it should be applied carefully to avoid trivializing genuine concerns.",
+        "synonyms": [
+          "recontextualize",
+          "redefine"
+        ],
+        "antonyms": [
+          "maintain",
+          "perpetuate"
+        ]
+      },
+      {
+        "word": "physiological response",
+        "definition": "The body's automatic reaction to external stimuli, which can include changes in heart rate, breathing, and hormonal levels.",
+        "businessContext": "Understanding physiological responses is crucial in high-stress business environments, such as negotiations or presentations, where managing stress can impact performance.",
+        "nuance": "While often associated with stress or anxiety, physiological responses can also occur in positive situations, such as excitement or anticipation.",
+        "synonyms": [
+          "bodily reaction",
+          "physical response"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "label",
+        "definition": "A term or phrase used to categorize or define something, often influencing perceptions and attitudes.",
+        "businessContext": "In marketing, labels can significantly affect consumer behavior by shaping how products are perceived and valued in the market.",
+        "nuance": "Labels can carry both positive and negative connotations, so careful consideration is needed to avoid misinterpretation or bias.",
+        "synonyms": [
+          "tag",
+          "designation"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "point of view",
+        "definition": "A particular attitude or way of considering a matter, often shaped by personal experiences and beliefs.",
+        "businessContext": "In collaborative settings, understanding diverse points of view is essential for fostering innovation and effective decision-making.",
+        "nuance": "While sharing a point of view can enrich discussions, it is important to remain open to other perspectives to avoid bias and promote inclusivity.",
+        "synonyms": [
+          "perspective",
+          "viewpoint"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "We are very susceptible to catastrophizing when we're very nervous about things, especially when we're exposed in front of people. Not in the Brady Bunch exposure we talked about earlier, but when we're out there speaking or communicating and simply reminding ourselves that often they go very well is helpful.",
+    "text": "We are very susceptible to catastrophizing when we're very nervous about things, especially when we're exposed in front of people.",
     "speaker": "Matt Abrahams",
     "timestamp": "00:18:03",
     "context": "Matt is discussing mantras as anxiety management tools, sharing examples like \"I have value to add\" and \"Last time this went well.\" He explains how negative self-talk undermines our confidence, and how positive mantras can counter our tendency to imagine worst-case scenarios. The reference to \"Brady Bunch exposure\" playfully recalls their earlier discussion about the flawed advice of imagining audiences naked.",
     "vocabulary_highlights": [
-      "susceptible to catastrophizing"
+      "susceptible",
+      "catastrophizing",
+      "negative self-talk",
+      "undermine"
     ],
     "topics": [
       "Communication Skills",
@@ -138,7 +456,68 @@
     "text_ko": "사람들 앞에서 드러나야 하는 상황처럼 뭔가에 대해 몹시 긴장하면 우리는 파국화(catastrophizing)에 쉽게 빠져요. 앞서 얘기한 브래디 번치(Brady Bunch)식 노출을 말하는 건 아니고, 실제로 나가서 말하거나 소통할 때를 말하는 거예요. 그런 상황들이 의외로 잘 풀리는 경우가 많다는 걸 스스로 떠올리는 것만으로도 도움이 돼요.",
     "text_zh": "我们特别容易往最坏处想，尤其是紧张的时候，特别是要在大家面前露面的时候。这里说的不是我们之前提到的那种家庭式的暴露，而是当我们要在台上讲话或者跟人沟通的时候。这时候提醒自己其实大部分情况下都会进行得很顺利，这样想会很有帮助。",
     "text_es": "Tendemos mucho a ponernos en lo peor cuando estamos muy nerviosos por algo, sobre todo cuando estamos expuestos delante de la gente. No me refiero a esa exposición tipo familia perfecta de la que hablamos antes, sino cuando estamos ahí hablando o comunicándonos, y simplemente recordarnos que normalmente las cosas salen bien nos ayuda bastante.",
-    "key_sentence": "We are susceptible to catastrophizing when nervous in front of others."
+    "key_sentence": "We are susceptible to catastrophizing when nervous in front of others.",
+    "text_trimmed": true,
+    "original_text": "We are very susceptible to catastrophizing when we're very nervous about things, especially when we're exposed in front of people. Not in the Brady Bunch exposure we talked about earlier, but when we're out there speaking or communicating and simply reminding ourselves that often they go very well is helpful.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "susceptible",
+        "definition": "Easily influenced or affected by something; vulnerable to harm or change.",
+        "businessContext": "In business settings, being susceptible can refer to a company's vulnerability to market fluctuations or external pressures that may impact performance.",
+        "nuance": "While 'susceptible' often carries a negative connotation, it can also imply a readiness to adapt or change in response to new information.",
+        "synonyms": [
+          "vulnerable",
+          "prone"
+        ],
+        "antonyms": [
+          "resistant",
+          "immune"
+        ]
+      },
+      {
+        "word": "catastrophizing",
+        "definition": "The act of imagining or expecting the worst possible outcome in a situation, often leading to increased anxiety.",
+        "businessContext": "In a corporate environment, catastrophizing can hinder decision-making and lead to unnecessary panic during crises or challenging projects.",
+        "nuance": "This term is often used in psychological contexts but can also describe a mindset that may negatively affect team morale and productivity.",
+        "synonyms": [
+          "exaggerating",
+          "overreacting"
+        ],
+        "antonyms": [
+          "realistic",
+          "calm"
+        ]
+      },
+      {
+        "word": "negative self-talk",
+        "definition": "The internal dialogue that reflects pessimistic thoughts about oneself, often leading to decreased self-esteem and motivation.",
+        "businessContext": "In the workplace, negative self-talk can impact an employee's performance and overall job satisfaction, potentially leading to burnout or disengagement.",
+        "nuance": "While it is important to acknowledge self-criticism, excessive negative self-talk can be detrimental and should be addressed to foster a positive work environment.",
+        "synonyms": [
+          "self-criticism",
+          "pessimism"
+        ],
+        "antonyms": [
+          "positive self-talk",
+          "self-affirmation"
+        ]
+      },
+      {
+        "word": "undermine",
+        "definition": "To weaken or damage something gradually or covertly, often diminishing its effectiveness or authority.",
+        "businessContext": "In a business context, actions that undermine a colleague's credibility or a project's success can create a toxic work environment and hinder collaboration.",
+        "nuance": "While 'undermine' typically has negative implications, it can also refer to constructive criticism that aims to improve a process or outcome when done transparently.",
+        "synonyms": [
+          "subvert",
+          "erode"
+        ],
+        "antonyms": [
+          "support",
+          "strengthen"
+        ]
+      }
+    ]
   },
   {
     "text": "Those of us who study this believe it is innate to being human to feel nervous communicating in front of others. So sometimes just reminding yourself that you're not alone and that others have it can actually help reduce the pressure that we feel.",
@@ -146,7 +525,10 @@
     "timestamp": "00:20:44",
     "context": "Matt tells a story about meeting someone at an airport who found his book on speaking anxiety helpful without even reading it - just knowing such a book existed made the person feel better. This leads to Matt's broader point about normalizing communication anxiety. He explains that researchers believe nervousness about public speaking is a natural human trait, not a personal failing.",
     "vocabulary_highlights": [
-      "innate to being human"
+      "communicating",
+      "reduce",
+      "pressure",
+      "reminding"
     ],
     "topics": [
       "Communication Skills",
@@ -161,6 +543,65 @@
     "text_ko": "이걸 연구하는 사람들은 사람은 남 앞에서 말할 때 긴장하는 게 인간의 본성에 가깝다고 봐요. 그래서 가끔 '나만 그런 게 아니야, 다른 사람들도 그래'라고 스스로 상기시키는 것만으로도 우리가 느끼는 부담을 줄이는 데 도움이 돼요.",
     "text_zh": "我们研究这个领域的人都认为，在别人面前说话感到紧张，这是人的天性。所以有时候提醒自己\"不是只有我一个人这样，大家都会紧张\"，其实就能帮你减轻不少压力。",
     "text_es": "Los que estudiamos esto creemos que es algo natural del ser humano sentirse nervioso al comunicarse delante de otros. Así que a veces simplemente recordarte que no estás solo y que otros también lo sienten puede ayudarte a reducir esa presión que sentimos.",
-    "key_sentence": "Feeling nervous communicating is innate to being human; you're not alone."
+    "key_sentence": "Feeling nervous communicating is innate to being human; you're not alone.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "communicating",
+        "definition": "The act of conveying information or expressing thoughts and feelings through verbal, non-verbal, or written means.",
+        "businessContext": "In business settings, effective communicating is essential for collaboration, negotiation, and relationship building among team members and stakeholders.",
+        "nuance": "While 'communicating' is a broad term, it often implies a two-way exchange, emphasizing clarity and understanding rather than mere transmission of information.",
+        "synonyms": [
+          "conveying",
+          "articulating"
+        ],
+        "antonyms": [
+          "concealing",
+          "withholding"
+        ]
+      },
+      {
+        "word": "reduce",
+        "definition": "To make something smaller or less in amount, degree, or size.",
+        "businessContext": "In a business context, reducing costs or risks is a common goal, often pursued through strategic planning and operational efficiencies.",
+        "nuance": "The term 'reduce' can imply a positive action towards improvement, but it may also carry a negative connotation if it involves cutting essential resources or quality.",
+        "synonyms": [
+          "diminish",
+          "lessen"
+        ],
+        "antonyms": [
+          "increase",
+          "amplify"
+        ]
+      },
+      {
+        "word": "pressure",
+        "definition": "The exertion of force upon an object or the stress and demands placed on an individual or group.",
+        "businessContext": "In the workplace, pressure can arise from deadlines, performance expectations, and competitive environments, often influencing employee morale and productivity.",
+        "nuance": "While 'pressure' can refer to a motivating force, it often carries a negative connotation, suggesting stress or discomfort that may lead to burnout if not managed properly.",
+        "synonyms": [
+          "stress",
+          "tension"
+        ],
+        "antonyms": [
+          "relaxation",
+          "ease"
+        ]
+      },
+      {
+        "word": "reminding",
+        "definition": "The act of causing someone to remember something or bringing attention back to a particular thought or fact.",
+        "businessContext": "In business, reminding can be crucial for maintaining focus on goals, deadlines, and important tasks, often facilitated through reminders in project management tools or team communications.",
+        "nuance": "The term 'reminding' suggests a supportive action, but it should be used carefully to avoid coming across as patronizing or overly repetitive.",
+        "synonyms": [
+          "prompting",
+          "alerting"
+        ],
+        "antonyms": [
+          "forgetting",
+          "neglecting"
+        ]
+      }
+    ]
   }
 ]

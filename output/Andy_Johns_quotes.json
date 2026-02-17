@@ -1,13 +1,14 @@
 [
   {
-    "text": "I think one of the things that has been a change for me over the last several years is that I prefer to move forward in my life being completely honest with who I am, not hiding any aspects of myself, including the stuff that in the past I'd be afraid to share.",
+    "text": "I prefer to move forward in my life being completely honest with who I am, not hiding any aspects of myself.",
     "speaker": "Andy Johns",
     "timestamp": "00:05:09",
     "context": "Lenny mentions that their conversation might get heavy, and Andy responds by explaining his current approach to life and sharing personal information. Andy discusses how he has shifted toward complete honesty and authenticity, no longer concealing parts of himself that he previously would have been reluctant to reveal publicly.",
     "vocabulary_highlights": [
       "move forward",
-      "aspects of myself",
-      "be afraid to share"
+      "aspects",
+      "completely honest",
+      "shifted"
     ],
     "topics": [
       "Personal Development",
@@ -22,17 +23,79 @@
     "text_ko": "최근 몇 년 동안 제 삶에서 변화된 점 중 하나는 제 자신을 숨기지 않고 솔직하게 살아가고 싶다는 거예요. 예전에는 공유하기 두려웠던 부분들도 이제는 다 드러내고 싶어요.",
     "text_zh": "在过去的几年里，我认为我最大的变化之一就是我更倾向于在生活中完全诚实地做自己，不再隐藏任何方面，包括过去我曾害怕分享的事情。",
     "text_es": "Creo que una de las cosas que ha cambiado para mí en los últimos años es que prefiero avanzar en mi vida siendo completamente honesto con quien soy, sin ocultar ningún aspecto de mí mismo, incluyendo aquellas cosas que en el pasado temía compartir.",
-    "key_sentence": "I prefer to move forward being completely honest with aspects of myself."
+    "key_sentence": "I prefer to move forward being completely honest with aspects of myself.",
+    "text_trimmed": true,
+    "original_text": "I think one of the things that has been a change for me over the last several years is that I prefer to move forward in my life being completely honest with who I am, not hiding any aspects of myself, including the stuff that in the past I'd be afraid to share.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "move forward",
+        "definition": "To progress or advance in a particular direction or toward a goal.",
+        "businessContext": "In business, 'moving forward' often refers to taking actionable steps to achieve objectives, such as launching a project or implementing a strategy.",
+        "nuance": "This phrase conveys a sense of optimism and proactivity, and is often used in discussions about overcoming challenges or making decisions.",
+        "synonyms": [
+          "advance",
+          "proceed"
+        ],
+        "antonyms": [
+          "recede",
+          "halt"
+        ]
+      },
+      {
+        "word": "aspects",
+        "definition": "Different parts or features of a situation, problem, or concept.",
+        "businessContext": "In a business context, understanding various 'aspects' of a project or market is crucial for comprehensive analysis and decision-making.",
+        "nuance": "The term suggests a multifaceted view, emphasizing that a complete understanding requires consideration of all relevant components.",
+        "synonyms": [
+          "facets",
+          "dimensions"
+        ],
+        "antonyms": [
+          "wholeness",
+          "simplicity"
+        ]
+      },
+      {
+        "word": "completely honest",
+        "definition": "Being entirely truthful and transparent, without any deception or concealment.",
+        "businessContext": "In business, 'completely honest' communication fosters trust among team members and stakeholders, which is essential for effective collaboration and ethical practices.",
+        "nuance": "This phrase underscores the importance of integrity and transparency, particularly in environments where trust is paramount.",
+        "synonyms": [
+          "fully transparent",
+          "utterly truthful"
+        ],
+        "antonyms": [
+          "deceptive",
+          "dishonest"
+        ]
+      },
+      {
+        "word": "shifted",
+        "definition": "To change position, direction, or focus; to move from one state to another.",
+        "businessContext": "In the business realm, 'shifted' often describes changes in strategy, market focus, or organizational structure in response to new information or conditions.",
+        "nuance": "This term can imply a significant change that may require adaptation, and is often used in contexts of transformation or evolution.",
+        "synonyms": [
+          "changed",
+          "transformed"
+        ],
+        "antonyms": [
+          "stayed",
+          "remained"
+        ]
+      }
+    ]
   },
   {
-    "text": "So even though I had those successes, there was a lot that I needed to work through that was under the hood, which I eventually came to understand very, very deeply as a result of turning inward and doing a lot of work on my own path towards self-understanding and healing some deep emotional wounds.",
+    "text": "there was a lot that I needed to work through... as a result of turning inward and doing a lot of work on my own path towards self-understanding and healing some deep emotional wounds.",
     "speaker": "Andy Johns",
     "timestamp": "00:05:48",
     "context": "Andy explains how despite his professional success in tech companies, he was struggling internally with emotional and psychological issues. He describes the contrast between his outward career achievements and his inner turmoil, explaining how he eventually began a process of deep self-examination to address underlying emotional trauma from his past.",
     "vocabulary_highlights": [
-      "under the hood",
+      "self-understanding",
+      "emotional wounds",
       "turning inward",
-      "emotional wounds"
+      "work through"
     ],
     "topics": [
       "Career Development",
@@ -47,17 +110,79 @@
     "text_ko": "그래서 그런 성공이 있었음에도 불구하고, 내면에서 해결해야 할 것들이 많았어요. 결국, 자기 이해와 깊은 감정적 상처를 치유하기 위한 나만의 여정을 통해 그 부분을 정말 깊이 이해하게 되었어요.",
     "text_zh": "尽管我取得了一些成功，但我仍然需要解决许多潜在的问题。通过内省和在自我理解及疗愈深层情感创伤的过程中付出大量努力，我最终对此有了非常深刻的理解。",
     "text_es": "A pesar de mis éxitos, había mucho en lo que necesitaba trabajar internamente, lo cual llegué a comprender profundamente gracias a la introspección y al esfuerzo que hice en mi camino hacia la autocomprensión y la sanación de heridas emocionales profundas.",
-    "key_sentence": "Turning inward helped me understand emotional wounds under the hood."
+    "key_sentence": "doing a lot of work on my own path towards self-understanding and healing some deep emotional wounds.",
+    "text_trimmed": true,
+    "original_text": "So even though I had those successes, there was a lot that I needed to work through that was under the hood, which I eventually came to understand very, very deeply as a result of turning inward and doing a lot of work on my own path towards self-understanding and healing some deep emotional wounds.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "self-understanding",
+        "definition": "The awareness and comprehension of one's own thoughts, feelings, motivations, and behaviors. It involves introspection and reflection to gain insight into one's identity and personal values.",
+        "businessContext": "In business settings, self-understanding is crucial for effective leadership and team dynamics, as it enables individuals to recognize their strengths and weaknesses, leading to better decision-making and interpersonal relationships.",
+        "nuance": "While self-understanding is often viewed positively, excessive focus on oneself can lead to introspection that may hinder action or collaboration.",
+        "synonyms": [
+          "self-awareness",
+          "introspection"
+        ],
+        "antonyms": [
+          "ignorance",
+          "self-deception"
+        ]
+      },
+      {
+        "word": "emotional wounds",
+        "definition": "Psychological injuries resulting from traumatic experiences or unresolved emotional conflicts that affect an individual's mental health and behavior. These wounds can manifest as anxiety, depression, or interpersonal difficulties.",
+        "businessContext": "In the workplace, emotional wounds can impact employee performance, morale, and team cohesion; understanding these issues is essential for fostering a supportive work environment.",
+        "nuance": "The term carries a weight of sensitivity, and should be used with care to avoid trivializing someone's experiences or emotions.",
+        "synonyms": [
+          "psychological scars",
+          "emotional trauma"
+        ],
+        "antonyms": [
+          "emotional resilience",
+          "psychological strength"
+        ]
+      },
+      {
+        "word": "turning inward",
+        "definition": "The process of focusing one's attention on one's own thoughts, feelings, and inner experiences, often for the purpose of self-reflection or personal growth. It involves introspection and self-examination.",
+        "businessContext": "In a business context, turning inward can refer to leaders or teams taking time for reflection to assess their strategies, values, and goals, which can lead to more informed decision-making.",
+        "nuance": "This phrase can imply a retreat from external engagement, which may be viewed negatively in fast-paced environments that prioritize outward focus and action.",
+        "synonyms": [
+          "introspection",
+          "self-reflection"
+        ],
+        "antonyms": [
+          "outward focus",
+          "external engagement"
+        ]
+      },
+      {
+        "word": "work through",
+        "definition": "To engage in a process of addressing and resolving complex issues, emotions, or challenges, often requiring time, effort, and reflection. It implies a systematic approach to overcoming obstacles.",
+        "businessContext": "In business, working through challenges is essential for problem-solving and conflict resolution; it emphasizes the importance of addressing issues rather than avoiding them to achieve long-term success.",
+        "nuance": "This phrase suggests a proactive and constructive approach, and is often used in contexts where persistence and effort are necessary to achieve resolution.",
+        "synonyms": [
+          "navigate",
+          "resolve"
+        ],
+        "antonyms": [
+          "avoid",
+          "neglect"
+        ]
+      }
+    ]
   },
   {
-    "text": "It got to the point to where there were several occasions while I was at work where I could tell that I was about ready to have a breakdown of sorts, and I would just grab my laptop, throw it in my bag, and pretty quietly just walk out of the office even if it was 10:00 AM and I'd only been there for an hour or two.",
+    "text": "I could tell that I was about ready to have a breakdown of sorts, and I would just grab my laptop... and pretty quietly just walk out of the office.",
     "speaker": "Andy Johns",
     "timestamp": "00:07:14",
     "context": "Andy shares specific examples of how his mental health struggles manifested while working at Twitter in 2010. He describes experiencing panic attacks and depression so severe that he would have to suddenly leave work to avoid having a complete breakdown in front of colleagues, illustrating how his professional success was masking serious psychological distress.",
     "vocabulary_highlights": [
-      "breakdown of sorts",
-      "throw it in my bag",
-      "pretty quietly"
+      "mental health",
+      "breakdown",
+      "manifested",
+      "panic attacks"
     ],
     "topics": [
       "Work-Life Balance",
@@ -72,17 +197,79 @@
     "text_ko": "일하다 보면 여러 번 힘들어서 무너질 것 같은 순간이 있었어요. 그럴 때면 그냥 노트북을 챙겨서 가방에 넣고, 조용히 사무실을 나가곤 했죠. 오전 10시인데도 불구하고 한두 시간밖에 안 있었던 경우도 많았어요.",
     "text_zh": "在工作中，我曾多次感到快要崩溃，于是我会迅速把笔记本电脑放进包里，悄悄地走出办公室，即使那时才早上10点，我只工作了一个或两个小时。",
     "text_es": "Llegó un momento en el que, mientras estaba en el trabajo, me di cuenta de que estaba a punto de tener un colapso, así que simplemente agarraba mi laptop, la metía en mi mochila y salía de la oficina de manera discreta, incluso si eran las 10:00 AM y solo había estado allí una o dos horas.",
-    "key_sentence": "I would quietly throw it in my bag and leave during a breakdown of sorts."
+    "key_sentence": "I would quietly throw it in my bag and leave during a breakdown of sorts.",
+    "text_trimmed": true,
+    "original_text": "It got to the point to where there were several occasions while I was at work where I could tell that I was about ready to have a breakdown of sorts, and I would just grab my laptop, throw it in my bag, and pretty quietly just walk out of the office even if it was 10:00 AM and I'd only been there for an hour or two.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "mental health",
+        "definition": "Mental health refers to a person's emotional, psychological, and social well-being, affecting how they think, feel, and act. It also influences how individuals handle stress, relate to others, and make choices.",
+        "businessContext": "In business settings, mental health is increasingly recognized as crucial for employee productivity and workplace culture, leading to initiatives aimed at promoting well-being and reducing stigma around mental health issues.",
+        "nuance": "While often discussed in a clinical context, the term can also encompass broader aspects of well-being and resilience in high-pressure environments.",
+        "synonyms": [
+          "psychological well-being",
+          "emotional health"
+        ],
+        "antonyms": [
+          "mental illness",
+          "psychological distress"
+        ]
+      },
+      {
+        "word": "breakdown",
+        "definition": "A breakdown refers to a sudden failure or collapse of a system, process, or individual’s mental state, often resulting in an inability to function effectively. It can manifest as emotional distress or a physical inability to perform tasks.",
+        "businessContext": "In the workplace, a breakdown may signify an employee's inability to cope with stress or workload, which can impact team dynamics and overall productivity.",
+        "nuance": "The term can imply a serious or critical situation, so it is often used with caution in professional discussions to avoid alarmism.",
+        "synonyms": [
+          "collapse",
+          "failure"
+        ],
+        "antonyms": [
+          "stability",
+          "success"
+        ]
+      },
+      {
+        "word": "manifested",
+        "definition": "Manifested means to display or show something clearly, often referring to emotions, behaviors, or conditions that become evident through actions or expressions. It indicates the process of making something visible or apparent.",
+        "businessContext": "In a business context, behaviors or trends may be manifested in employee performance, customer feedback, or market trends, providing insights into underlying issues or successes.",
+        "nuance": "The term often carries a connotation of something becoming tangible or observable, which can be positive or negative depending on the context.",
+        "synonyms": [
+          "exhibited",
+          "demonstrated"
+        ],
+        "antonyms": [
+          "concealed",
+          "hidden"
+        ]
+      },
+      {
+        "word": "panic attacks",
+        "definition": "Panic attacks are sudden episodes of intense fear or anxiety that trigger severe physical reactions when there is no real danger or apparent cause. Symptoms can include rapid heartbeat, sweating, and feelings of impending doom.",
+        "businessContext": "In the workplace, panic attacks can affect employee performance and well-being, prompting organizations to implement mental health support systems and create a more understanding environment.",
+        "nuance": "While often discussed in clinical terms, the phrase can evoke empathy and concern, making it important to approach discussions about panic attacks with sensitivity.",
+        "synonyms": [
+          "anxiety attacks",
+          "panic episodes"
+        ],
+        "antonyms": [
+          "calmness",
+          "composure"
+        ]
+      }
+    ]
   },
   {
-    "text": "So I learned very early on that if I wanted to feel good, I needed to achieve, and that if I wanted to love myself and be considered lovable by others, I needed to achieve. That pulled me out of a darkness that I was in for several years as a kid, and I'm glad that it did, and it led to an excellent experience in high school, in college, and then well into my 20s, but eventually, those emotional wounds are going to come to the surface.",
+    "text": "So I learned very early on that if I wanted to feel good, I needed to achieve, and that if I wanted to love myself and be considered lovable by others, I needed to achieve.",
     "speaker": "Andy Johns",
     "timestamp": "00:11:11",
     "context": "Andy explains how childhood trauma from losing his mentally ill mother at age 10 led him to develop an addiction to achievement as a coping mechanism. He describes how society's positive reinforcement for his academic and athletic success became his primary source of self-worth, which worked well initially but eventually became problematic as the underlying emotional issues needed to be addressed.",
     "vocabulary_highlights": [
-      "pulled me out of",
-      "well into my 20s",
-      "come to the surface"
+      "achieve",
+      "positive reinforcement",
+      "coping mechanism",
+      "considered"
     ],
     "topics": [
       "Career Development",
@@ -97,18 +284,79 @@
     "text_ko": "저는 어릴 때부터 기분이 좋으려면 성취를 해야 한다는 걸 배웠어요. 그리고 스스로를 사랑하고 다른 사람들에게 사랑받고 싶다면 성취가 필요하다는 것도요. 그 덕분에 몇 년 동안 힘들었던 어둠에서 벗어날 수 있었고, 그게 고등학교, 대학, 그리고 20대 초반까지 좋은 경험으로 이어졌어요. 하지만 결국 그런 감정적인 상처는 언젠가 드러나게 마련이에요.",
     "text_zh": "我很早就意识到，如果我想要感到快乐，就必须有所成就；如果我想要爱自己并被他人视为可爱，就更需要取得成就。这让我摆脱了童年时几年的黑暗，我很庆幸自己能够做到，这也让我在高中、大学以及进入20多岁时都获得了很好的经历，但最终，这些情感创伤终究会浮出水面。",
     "text_es": "Desde muy temprano aprendí que si quería sentirme bien, necesitaba lograr cosas, y que si quería amarme a mí mismo y ser considerado digno de amor por los demás, también necesitaba lograr cosas. Eso me sacó de una oscuridad en la que estuve durante varios años de mi infancia, y me alegra que así fuera, ya que me llevó a tener una excelente experiencia en la secundaria, en la universidad y luego en mis 20, pero eventualmente, esas heridas emocionales van a salir a la superficie.",
-    "key_sentence": "Achieving pulled me out of darkness, but emotional wounds will come to the surface."
+    "key_sentence": "if I wanted to love myself and be considered lovable by others, I needed to achieve.",
+    "text_trimmed": true,
+    "original_text": "So I learned very early on that if I wanted to feel good, I needed to achieve, and that if I wanted to love myself and be considered lovable by others, I needed to achieve. That pulled me out of a darkness that I was in for several years as a kid, and I'm glad that it did, and it led to an excellent experience in high school, in college, and then well into my 20s, but eventually, those emotional wounds are going to come to the surface.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "achieve",
+        "definition": "To successfully reach a desired objective or result through effort and skill.",
+        "businessContext": "In business, achieving goals is crucial for measuring success and driving performance, often reflected in key performance indicators (KPIs).",
+        "nuance": "While 'achieve' implies reaching a goal, it can also carry the connotation of overcoming challenges or obstacles.",
+        "synonyms": [
+          "accomplish",
+          "attain"
+        ],
+        "antonyms": [
+          "fail",
+          "abandon"
+        ]
+      },
+      {
+        "word": "positive reinforcement",
+        "definition": "A behavioral concept where rewarding a desired behavior increases the likelihood of its recurrence.",
+        "businessContext": "In organizational settings, positive reinforcement is used to motivate employees, enhance productivity, and foster a positive workplace culture.",
+        "nuance": "This term emphasizes the importance of rewards in shaping behavior, contrasting with negative reinforcement, which focuses on removing undesirable outcomes.",
+        "synonyms": [
+          "reward system",
+          "incentive"
+        ],
+        "antonyms": [
+          "punishment",
+          "negative reinforcement"
+        ]
+      },
+      {
+        "word": "coping mechanism",
+        "definition": "Strategies or techniques that individuals use to manage stress, emotions, or difficult situations.",
+        "businessContext": "In the workplace, understanding employees' coping mechanisms can help management support mental health and improve overall team dynamics.",
+        "nuance": "While coping mechanisms can be healthy, some may be maladaptive, so it's important to discern between effective and ineffective strategies.",
+        "synonyms": [
+          "stress management technique",
+          "adaptive strategy"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "considered",
+        "definition": "Regarded or thought about in a particular way, often implying careful thought or deliberation.",
+        "businessContext": "In business decision-making, considered opinions or analyses are valued for their depth and thoroughness, contributing to informed strategies.",
+        "nuance": "The term often suggests a level of respect or seriousness, indicating that the subject has been thoughtfully evaluated rather than dismissed.",
+        "synonyms": [
+          "regarded",
+          "deemed"
+        ],
+        "antonyms": [
+          "dismissed",
+          "overlooked"
+        ]
+      }
+    ]
   },
   {
-    "text": "So from some of the surveys I've put out from my own anecdotal experience and from some proper research that's been conducted by experts who focus on entrepreneur and high performer wellbeing, I'd say that it's a fair estimate to say that at least 50% to 60% of tech employees who have, just to give it a bit more nuance, who have been in the saddle, so to speak, for a minimum of five to seven years, they're experiencing some form of psychological and emotional distress.",
+    "text": "at least 50% to 60% of tech employees... who have been in the saddle... for a minimum of five to seven years, they're experiencing some form of psychological and emotional distress.",
     "speaker": "Andy Johns",
     "timestamp": "00:13:16",
     "context": "Lenny asks about the prevalence of mental health struggles in the tech industry. Andy shares data from surveys and research showing that a significant portion of tech workers experience psychological distress. He specifically focuses on employees who have been working in the industry for several years, suggesting that the pressures accumulate over time and affect more than half of experienced tech workers.",
     "vocabulary_highlights": [
-      "anecdotal experience",
-      "proper research",
-      "in the saddle",
-      "a fair estimate"
+      "psychological",
+      "emotional distress",
+      "prevalence",
+      "significant portion"
     ],
     "topics": [
       "Work-Life Balance",
@@ -123,18 +371,79 @@
     "text_ko": "제가 진행한 설문조사와 전문가들이 연구한 결과를 바탕으로 볼 때, 최소 50%에서 60%의 기술 분야 직원들이, 좀 더 구체적으로 말하자면, 최소 5년에서 7년 정도 경력이 있는 분들이 심리적이고 감정적인 스트레스를 겪고 있다고 봐도 무방해요.",
     "text_zh": "根据我自己的一些调查、个人经验以及专家对企业家和高绩效者福祉的研究，我认为可以合理地估计，至少50%到60%的科技行业员工，特别是那些在行业内工作了五到七年的人，正经历某种形式的心理和情感困扰。",
     "text_es": "Según algunas encuestas que he realizado, así como investigaciones adecuadas llevadas a cabo por expertos en el bienestar de emprendedores y de alto rendimiento, diría que es una estimación justa afirmar que al menos el 50% al 60% de los empleados en tecnología que, para dar un poco más de contexto, han estado en el sector durante un mínimo de cinco a siete años, están experimentando alguna forma de malestar psicológico y emocional.",
-    "key_sentence": "A fair estimate suggests 50% to 60% of tech employees experience emotional distress."
+    "key_sentence": "A fair estimate suggests 50% to 60% of tech employees experience emotional distress.",
+    "text_trimmed": true,
+    "original_text": "So from some of the surveys I've put out from my own anecdotal experience and from some proper research that's been conducted by experts who focus on entrepreneur and high performer wellbeing, I'd say that it's a fair estimate to say that at least 50% to 60% of tech employees who have, just to give it a bit more nuance, who have been in the saddle, so to speak, for a minimum of five to seven years, they're experiencing some form of psychological and emotional distress.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "psychological",
+        "definition": "Relating to the mental and emotional state of an individual, often concerning their thoughts, feelings, and behaviors.",
+        "businessContext": "In business and tech environments, understanding psychological factors is crucial for employee well-being, productivity, and overall workplace culture.",
+        "nuance": "While often used in clinical contexts, in business it can imply a focus on mental health and employee support systems.",
+        "synonyms": [
+          "mental",
+          "cognitive"
+        ],
+        "antonyms": [
+          "physical",
+          "N/A"
+        ]
+      },
+      {
+        "word": "emotional distress",
+        "definition": "A state of mental suffering or anguish, often resulting from stress, anxiety, or trauma.",
+        "businessContext": "Emotional distress can significantly impact employee performance and retention, making it essential for companies to address mental health proactively.",
+        "nuance": "This term carries a serious connotation and is often used in discussions about workplace wellness and support initiatives.",
+        "synonyms": [
+          "mental anguish",
+          "psychological suffering"
+        ],
+        "antonyms": [
+          "emotional stability",
+          "N/A"
+        ]
+      },
+      {
+        "word": "prevalence",
+        "definition": "The state of being widespread or commonly occurring within a particular population or context.",
+        "businessContext": "In the tech industry, understanding the prevalence of issues such as burnout or mental health challenges helps organizations develop targeted interventions.",
+        "nuance": "This term is often used in statistical discussions to indicate how common a phenomenon is, and can imply urgency when addressing widespread issues.",
+        "synonyms": [
+          "frequency",
+          "incidence"
+        ],
+        "antonyms": [
+          "rarity",
+          "N/A"
+        ]
+      },
+      {
+        "word": "significant portion",
+        "definition": "A considerable or noteworthy part of a whole, often used to indicate a substantial percentage or amount.",
+        "businessContext": "In market research or employee surveys, identifying a significant portion of respondents can highlight critical trends or issues that require attention.",
+        "nuance": "This phrase suggests importance and can be used to emphasize the impact of a particular group or finding within a larger context.",
+        "synonyms": [
+          "substantial segment",
+          "considerable fraction"
+        ],
+        "antonyms": [
+          "insignificant amount",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "These adaptations, if you're unaware of them and if you're unaware of the subconscious drivers that are responsible for them, they run the risk that they go too far, and that these adaptations, which were initially beneficial to you and to your life, they reverse course in a sense, and they become detrimental to your present state and your future development.",
+    "text": "These adaptations...run the risk that they go too far...and they become detrimental to your present state and your future development.",
     "speaker": "Andy Johns",
     "timestamp": "00:19:14",
     "context": "Andy explains how coping mechanisms that help people survive difficult childhood experiences can become harmful later in life. He describes how his achievement-focused mindset, which helped him after his mother's death, eventually became destructive when taken to extremes. The insight is that survival adaptations can outlive their usefulness and become obstacles to wellbeing if people aren't conscious of them.",
     "vocabulary_highlights": [
-      "subconscious drivers",
-      "run the risk",
-      "reverse course",
-      "detrimental to"
+      "detrimental",
+      "adaptations",
+      "development",
+      "coping mechanisms"
     ],
     "topics": [
       "Learning & Growth",
@@ -149,17 +458,79 @@
     "text_ko": "이런 적응이 어떤 건지 잘 모르고, 그 뒤에 있는 무의식적인 원인도 모르면, 너무 지나치게 될 위험이 있어요. 처음에는 당신과 당신의 삶에 도움이 됐던 이 적응들이 오히려 현재 상태나 미래 발전에 해가 될 수 있어요.",
     "text_zh": "这些适应，如果你对此毫不知情，也不了解背后的潜在驱动因素，可能会走得太远。这些最初对你和你的生活有益的适应，反而可能会在某种程度上逆转，变得对你当前的状态和未来的发展产生负面影响。",
     "text_es": "Estas adaptaciones, si no eres consciente de ellas y de los impulsores subconscientes que las generan, corren el riesgo de ir demasiado lejos, y esas adaptaciones, que inicialmente fueron beneficiosas para ti y para tu vida, pueden revertir su curso, volviéndose perjudiciales para tu estado actual y tu desarrollo futuro.",
-    "key_sentence": "Subconscious drivers run the risk of becoming detrimental to your present state."
+    "key_sentence": "they become detrimental to your present state and your future development.",
+    "text_trimmed": true,
+    "original_text": "These adaptations, if you're unaware of them and if you're unaware of the subconscious drivers that are responsible for them, they run the risk that they go too far, and that these adaptations, which were initially beneficial to you and to your life, they reverse course in a sense, and they become detrimental to your present state and your future development.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "detrimental",
+        "definition": "Causing harm or damage; having a negative effect on something.",
+        "businessContext": "In business, the term 'detrimental' is often used to describe decisions, strategies, or changes that adversely affect a company's performance or stakeholder relationships.",
+        "nuance": "While 'detrimental' conveys a strong negative impact, it is often used in a formal context to emphasize the seriousness of the consequences.",
+        "synonyms": [
+          "harmful",
+          "adverse"
+        ],
+        "antonyms": [
+          "beneficial",
+          "advantageous"
+        ]
+      },
+      {
+        "word": "adaptations",
+        "definition": "Changes or adjustments made in response to new conditions or environments.",
+        "businessContext": "In the context of business, 'adaptations' refer to modifications in strategies, processes, or products to meet evolving market demands or competitive pressures.",
+        "nuance": "The term often implies a proactive approach to change, suggesting flexibility and resilience in the face of challenges.",
+        "synonyms": [
+          "modifications",
+          "adjustments"
+        ],
+        "antonyms": [
+          "stagnation",
+          "inflexibility"
+        ]
+      },
+      {
+        "word": "development",
+        "definition": "The process of growth, progress, or improvement in a particular area, often involving the creation or enhancement of products, services, or skills.",
+        "businessContext": "In business, 'development' can refer to product development, organizational growth, or employee skill enhancement, all aimed at increasing efficiency and competitiveness.",
+        "nuance": "The term carries a positive connotation, suggesting forward movement and innovation, and is often used in strategic planning discussions.",
+        "synonyms": [
+          "advancement",
+          "progression"
+        ],
+        "antonyms": [
+          "decline",
+          "regression"
+        ]
+      },
+      {
+        "word": "coping mechanisms",
+        "definition": "Strategies or techniques that individuals or organizations use to manage stress, challenges, or difficult situations.",
+        "businessContext": "In a business setting, 'coping mechanisms' may refer to practices that help employees deal with workplace stress or organizational changes, thereby maintaining productivity and morale.",
+        "nuance": "The phrase often implies a psychological or emotional aspect, and while it can be used positively, it may also suggest a need for improvement in handling challenges.",
+        "synonyms": [
+          "strategies",
+          "tactics"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "Step two is seeking the truth behind why we suffer. Once the suffering gets so bad in somebody through some spiritual intervention, a legal intervention, the intervention of friends and family, whatever it may be, they decide to change, and in order to change, you have to understand the truth as to who you are and why you are the way you are and why you're suffering.",
+    "text": "Step two is seeking the truth behind why we suffer.",
     "speaker": "Andy Johns",
     "timestamp": "00:24:52",
     "context": "Andy outlines his four-step framework for deep personal transformation, focusing on the second step after suffering. He explains that meaningful change requires understanding the root causes of one's pain, which involves deep self-examination to uncover subconscious patterns and historical experiences that drive current behavior and emotional states.",
     "vocabulary_highlights": [
-      "seeking the truth",
-      "spiritual intervention",
-      "decide to change"
+      "transformation",
+      "meaningful",
+      "understanding",
+      "root causes"
     ],
     "topics": [
       "Learning & Growth",
@@ -174,6 +545,67 @@
     "text_ko": "두 번째 단계는 우리가 왜 고통받는지 그 진실을 찾는 거예요. 누군가의 고통이 너무 심해지면, 영적인 개입이나 법적인 개입, 친구와 가족의 개입 등 어떤 방식으로든 그들은 변화를 결심하게 돼요. 변화를 위해서는 자신이 누구인지, 왜 그런 모습인지, 그리고 왜 고통받고 있는지를 이해해야 해요.",
     "text_zh": "第二步是探寻我们痛苦背后的真相。当一个人的痛苦通过某种精神干预、法律干预或朋友和家人的介入等方式达到极限时，他们会决定改变。要实现改变，就必须理解自己是谁、为什么会这样以及为何会痛苦的真相。",
     "text_es": "El segundo paso es buscar la verdad detrás de por qué sufrimos. Una vez que el sufrimiento se vuelve tan intenso en una persona, ya sea a través de una intervención espiritual, una intervención legal, la intervención de amigos y familiares, o cualquier otra cosa, decide cambiar. Y para poder cambiar, es necesario entender la verdad sobre quién eres, por qué eres como eres y por qué estás sufriendo.",
-    "key_sentence": "Seeking the truth is essential to understand why you suffer and decide to change."
+    "key_sentence": "seeking the truth behind why we suffer.",
+    "text_trimmed": true,
+    "original_text": "Step two is seeking the truth behind why we suffer. Once the suffering gets so bad in somebody through some spiritual intervention, a legal intervention, the intervention of friends and family, whatever it may be, they decide to change, and in order to change, you have to understand the truth as to who you are and why you are the way you are and why you're suffering.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "transformation",
+        "definition": "The process of significantly changing or altering something, often in a way that improves its function or effectiveness.",
+        "businessContext": "In business, transformation often refers to organizational change initiatives aimed at improving efficiency, adapting to market demands, or integrating new technologies.",
+        "nuance": "While 'transformation' implies a profound change, it can sometimes carry a connotation of disruption, so it should be used carefully in contexts where stability is valued.",
+        "synonyms": [
+          "metamorphosis",
+          "revolution"
+        ],
+        "antonyms": [
+          "stagnation",
+          "maintenance"
+        ]
+      },
+      {
+        "word": "meaningful",
+        "definition": "Having significance or purpose; conveying a sense of importance or value.",
+        "businessContext": "In a business setting, 'meaningful' often describes metrics, relationships, or experiences that have a substantial impact on decision-making or stakeholder engagement.",
+        "nuance": "The term 'meaningful' can suggest depth and relevance, making it preferable in contexts that require emotional or ethical considerations, rather than superficial assessments.",
+        "synonyms": [
+          "significant",
+          "valuable"
+        ],
+        "antonyms": [
+          "trivial",
+          "insignificant"
+        ]
+      },
+      {
+        "word": "understanding",
+        "definition": "The ability to comprehend or grasp the nature, significance, or explanation of something.",
+        "businessContext": "In business, 'understanding' is crucial for effective communication, negotiation, and strategy development, as it enables stakeholders to align their goals and expectations.",
+        "nuance": "While 'understanding' implies a clear grasp of concepts, it can also suggest empathy and awareness in interpersonal relations, making it a versatile term in both analytical and relational contexts.",
+        "synonyms": [
+          "comprehension",
+          "insight"
+        ],
+        "antonyms": [
+          "misunderstanding",
+          "ignorance"
+        ]
+      },
+      {
+        "word": "root causes",
+        "definition": "The fundamental reasons or underlying factors that lead to a problem or issue, often identified through analysis.",
+        "businessContext": "In business, identifying root causes is essential for effective problem-solving and continuous improvement processes, such as Six Sigma or Lean methodologies.",
+        "nuance": "The phrase 'root causes' emphasizes a deep analysis beyond surface-level symptoms, making it particularly useful in discussions about systemic issues or long-term solutions.",
+        "synonyms": [
+          "underlying factors",
+          "fundamental reasons"
+        ],
+        "antonyms": [
+          "symptoms",
+          "superficial issues"
+        ]
+      }
+    ]
   }
 ]

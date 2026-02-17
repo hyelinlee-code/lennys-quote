@@ -1,12 +1,14 @@
 [
   {
-    "text": "You can't do homework. You can't do exercises. You can't do fake stuff. You have to work on real products at real companies with real customers, with real data to get better at product management. So any kind of training, mentorship, reading, et cetera that you do is just a layer on top of that.",
+    "text": "You can't do homework. You can't do exercises. You can't do fake stuff. You have to work on real products at real companies with real customers, with real data to get better at product management.",
     "speaker": "Fareed Mosavat",
     "timestamp": "00:00:00",
     "context": "Lenny asks Fareed why it's so hard to become better as a product manager and why it's innately tricky to develop PM skills. Fareed explains that product management requires what Naval Ravikant calls 'specific knowledge' - knowledge that can only be gained through actual experience doing the work. Unlike engineering where you can get foundational knowledge through bootcamps or computer science education, PM skills can't be learned through theoretical training alone.",
     "vocabulary_highlights": [
-      "fake stuff",
-      "a layer on top of that"
+      "real products",
+      "real companies",
+      "real customers",
+      "real data"
     ],
     "topics": [
       "Career Development",
@@ -22,16 +24,79 @@
     "text_ko": "숙제나 연습, 모의 작업으론 안 돼요. 프로덕트 매니지먼트(product management)를 잘하려면 실제 제품을, 실제 회사에서, 실제 고객을 대상으로, 실제 데이터를 가지고 직접 일해봐야 해요. 그러니까 어떤 교육이나 멘토링, 독서 등은 그 위에 얹어지는 보조적인 것일 뿐이에요.",
     "text_zh": "你没法通过做作业、做练习题或者搞一些虚的东西来提升产品管理能力。你必须在真实的公司里，面对真实的客户，用真实的数据来做真实的产品，这样才能真正提高。所以什么培训啊、导师指导啊、看书学习啊这些，都只是锦上添花而已。",
     "text_es": "No puedes hacer tareas teóricas. No puedes hacer ejercicios de práctica. No puedes trabajar con cosas inventadas. Tienes que trabajar en productos reales, en empresas reales, con clientes reales, con datos reales para mejorar en gestión de productos. Entonces cualquier tipo de capacitación, mentoría, lectura, etcétera que hagas es solo una capa adicional encima de eso.",
-    "key_sentence": "Work on real products, not fake stuff, to improve product management."
+    "key_sentence": "Work on real products, not fake stuff, to improve product management.",
+    "text_trimmed": true,
+    "original_text": "You can't do homework. You can't do exercises. You can't do fake stuff. You have to work on real products at real companies with real customers, with real data to get better at product management. So any kind of training, mentorship, reading, et cetera that you do is just a layer on top of that.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "real products",
+        "definition": "Tangible goods or services that are available in the market and have been developed for consumer use.",
+        "businessContext": "In business and tech settings, working with real products means engaging in practical applications of theories, allowing professionals to understand market needs and customer feedback.",
+        "nuance": "The term emphasizes authenticity and applicability, contrasting with theoretical or simulated products that may lack real-world relevance.",
+        "synonyms": [
+          "genuine products",
+          "actual products"
+        ],
+        "antonyms": [
+          "fake products",
+          "simulated products"
+        ]
+      },
+      {
+        "word": "real companies",
+        "definition": "Established organizations that operate in the market, providing goods or services to customers.",
+        "businessContext": "Engaging with real companies allows individuals to gain insights into operational practices, corporate culture, and market dynamics, which are essential for effective business management.",
+        "nuance": "This phrase underscores the importance of practical experience over academic or hypothetical scenarios in professional development.",
+        "synonyms": [
+          "actual companies",
+          "genuine businesses"
+        ],
+        "antonyms": [
+          "fake companies",
+          "theoretical companies"
+        ]
+      },
+      {
+        "word": "real customers",
+        "definition": "Individuals or organizations that purchase or use products or services in the marketplace.",
+        "businessContext": "Understanding real customers is crucial for businesses to tailor their offerings, improve customer satisfaction, and drive sales through genuine feedback and engagement.",
+        "nuance": "The term highlights the importance of direct interaction with the target audience, as opposed to relying on hypothetical personas or market research alone.",
+        "synonyms": [
+          "actual customers",
+          "genuine clients"
+        ],
+        "antonyms": [
+          "fake customers",
+          "theoretical clients"
+        ]
+      },
+      {
+        "word": "real data",
+        "definition": "Factual information collected from actual events, transactions, or interactions, used for analysis and decision-making.",
+        "businessContext": "In business and technology, real data is essential for making informed decisions, conducting market analysis, and developing strategies based on empirical evidence.",
+        "nuance": "This term emphasizes the reliability and validity of information, contrasting with speculative or anecdotal data that may not accurately represent the situation.",
+        "synonyms": [
+          "actual data",
+          "genuine information"
+        ],
+        "antonyms": [
+          "fake data",
+          "theoretical data"
+        ]
+      }
+    ]
   },
   {
-    "text": "At the foundation of it is when I first got there, I thought what was important was modeling how things work in the real world. They're making things look right, so to speak. What I learned there is that actually, you're trying to deliver an end experience, and product, and story to your viewers, to your audience.",
+    "text": "At the foundation of it is when I first got there, I thought what was important was modeling how things work in the real world. They're making things look right, so to speak.",
     "speaker": "Fareed Mosavat",
     "timestamp": "00:07:17",
     "context": "Lenny asks Fareed what he learned from his time at Pixar Animation Studios that has informed how he builds products or thinks about his career. Fareed worked at Pixar for almost seven years on visual effects, software tools, and creative technology for films like Finding Nemo, Cars, Wall-E, and Up. He explains how this experience taught him to focus on the end user experience rather than technical perfection.",
     "vocabulary_highlights": [
-      "so to speak",
-      "end experience"
+      "modeling",
+      "foundation",
+      "informed",
+      "visual"
     ],
     "topics": [
       "Product Management",
@@ -47,16 +112,79 @@
     "text_ko": "처음 거기에 갔을 때는 현실에서 사물이 어떻게 작동하는지를 모델링(modeling)하는 게 중요하다고 생각했어요. 다시 말하면 보기만 그럴듯하게 만드는 거였죠. 그런데 거기서 배운 건 사실 우리가 하려는 건 시청자나 관객에게 최종 경험(end experience), 제품(product), 그리고 이야기를 전달하는 거라는 점이었어요.",
     "text_zh": "最根本的是，我刚到那里的时候，觉得重要的是要模拟现实世界的运作方式，就是让东西看起来对，你懂的。但我在那里学到的是，其实你要做的是给观众、给你的受众交付一个完整的体验、产品和故事。",
     "text_es": "Al final del día, cuando llegué ahí pensaba que lo importante era modelar cómo funcionan las cosas en el mundo real. O sea, hacer que las cosas se vean bien, por decirlo así. Lo que aprendí ahí es que en realidad, lo que buscas es entregar una experiencia completa, un producto y una historia a tus usuarios, a tu audiencia.",
-    "key_sentence": "You're delivering an end experience, not just modeling things, so to speak."
+    "key_sentence": "what was important was modeling how things work in the real world.",
+    "text_trimmed": true,
+    "original_text": "At the foundation of it is when I first got there, I thought what was important was modeling how things work in the real world. They're making things look right, so to speak. What I learned there is that actually, you're trying to deliver an end experience, and product, and story to your viewers, to your audience.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "modeling",
+        "definition": "Modeling refers to the process of creating a representation or simulation of a system, concept, or process to understand its behavior and characteristics.",
+        "businessContext": "In business and tech, modeling is often used in data analysis, financial forecasting, and product design to visualize scenarios and make informed decisions.",
+        "nuance": "While 'modeling' can imply a theoretical approach, it is often associated with practical applications that bridge theory and real-world implementation.",
+        "synonyms": [
+          "simulation",
+          "representation"
+        ],
+        "antonyms": [
+          "abstraction",
+          "disregard"
+        ]
+      },
+      {
+        "word": "foundation",
+        "definition": "Foundation refers to the underlying basis or groundwork upon which something is built or established.",
+        "businessContext": "In a business context, a strong foundation can refer to the core values, principles, or infrastructure that support a company's operations and strategic direction.",
+        "nuance": "The term often implies stability and reliability, suggesting that a solid foundation is crucial for long-term success.",
+        "synonyms": [
+          "basis",
+          "cornerstone"
+        ],
+        "antonyms": [
+          "superstructure",
+          "periphery"
+        ]
+      },
+      {
+        "word": "informed",
+        "definition": "Informed describes a state of having or showing knowledge, awareness, or understanding about a particular subject or situation.",
+        "businessContext": "Informed decision-making is critical in business, as it relies on accurate data and insights to guide strategic choices and actions.",
+        "nuance": "The term suggests a level of expertise or comprehension that goes beyond surface-level knowledge, emphasizing the importance of thorough research.",
+        "synonyms": [
+          "knowledgeable",
+          "aware"
+        ],
+        "antonyms": [
+          "uninformed",
+          "ignorant"
+        ]
+      },
+      {
+        "word": "visual",
+        "definition": "Visual pertains to anything that can be seen or is related to sight, often involving images, graphics, or representations.",
+        "businessContext": "In business and tech, visual tools such as charts, graphs, and infographics are essential for data presentation and effective communication of complex information.",
+        "nuance": "The term often carries a connotation of clarity and engagement, suggesting that visual elements can enhance understanding and retention of information.",
+        "synonyms": [
+          "graphic",
+          "pictorial"
+        ],
+        "antonyms": [
+          "auditory",
+          "verbal"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think the hard part of this is I have not figured out how to do this well in a remote environment without throwing a lot of one-on-ones on people's calendars because sometimes you figured this out just by hearing conversations, hang out at lunch, and asking questions, and those kinds of things, but it's certainly not impossible.",
+    "text": "I have not figured out how to do this well in a remote environment without throwing a lot of one-on-ones on people's calendars... but it's certainly not impossible.",
     "speaker": "Fareed Mosavat",
     "timestamp": "00:31:44",
     "context": "Fareed is discussing his framework for building curiosity and understanding across different levels of an organization - going 'two stack levels up, two stack levels down' to understand your manager's and their manager's priorities, as well as technical details below you. Lenny notes this advice doesn't necessarily require a lot more work, just research and thinking. Fareed acknowledges the challenge of doing this type of organizational learning in remote work environments.",
     "vocabulary_highlights": [
-      "throwing a lot of one-on-ones",
-      "hang out at lunch"
+      "framework",
+      "curiosity",
+      "understanding",
+      "environment"
     ],
     "topics": [
       "Communication Skills",
@@ -72,16 +200,79 @@
     "text_ko": "어려운 건, 원격 근무 환경(remote environment)에서는 사람들 캘린더에 일대일 미팅(one-on-ones)을 잔뜩 잡아 넣지 않고는 이걸 잘 해내기가 쉽지 않다는 거예요. 가끔은 옆에서 대화 듣거나 점심 같이 어울리면서 질문하다가 해결되기도 하는데, 그런 기회가 원격에선 잘 안 생기거든요. 그래도 전혀 불가능한 건 아니에요.",
     "text_zh": "我觉得难点在于，在远程办公的环境下，我还没想出怎么能做好这件事，又不用在大家日程里塞一堆一对一会议，因为有时候你就是通过听别人聊天、一起吃午饭、随便问问问题这些方式就能搞明白，但这肯定不是不可能的事。",
     "text_es": "Creo que lo complicado de esto es que no he logrado hacerlo bien en un entorno remoto sin llenar el calendario de la gente con reuniones uno a uno, porque a veces te enterabas de estas cosas simplemente escuchando conversaciones, charlando en el almuerzo, haciendo preguntas y ese tipo de cosas, pero desde luego no es imposible.",
-    "key_sentence": "Remote work complicates collaboration without throwing a lot of one-on-ones on calendars."
+    "key_sentence": "Remote work complicates collaboration without throwing a lot of one-on-ones on calendars.",
+    "text_trimmed": true,
+    "original_text": "I think the hard part of this is I have not figured out how to do this well in a remote environment without throwing a lot of one-on-ones on people's calendars because sometimes you figured this out just by hearing conversations, hang out at lunch, and asking questions, and those kinds of things, but it's certainly not impossible.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "framework",
+        "definition": "A framework is a structured system or set of guidelines that provides a foundation for understanding or developing something. It often includes principles, practices, and tools that help organize thoughts and actions.",
+        "businessContext": "In business and technology, frameworks are used to guide project development, establish best practices, and ensure consistency across teams and processes. For example, a software development framework can streamline coding practices and improve collaboration among developers.",
+        "nuance": "While 'framework' suggests a supportive structure, it can also imply rigidity; it is best used when referring to established systems that require adherence to specific guidelines.",
+        "synonyms": [
+          "structure",
+          "system"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "curiosity",
+        "definition": "Curiosity is a strong desire to learn or know more about something, often driving exploration and inquiry. It is a fundamental trait that fosters innovation and problem-solving.",
+        "businessContext": "In the business world, curiosity is essential for fostering creativity and adaptability, encouraging employees to ask questions, seek new solutions, and stay ahead of market trends. Companies that promote a culture of curiosity often see higher levels of engagement and innovation.",
+        "nuance": "Curiosity is generally viewed positively, but it can be perceived as intrusive if it leads to excessive questioning or prying into others' affairs; it is best used in contexts that encourage open-mindedness and exploration.",
+        "synonyms": [
+          "inquisitiveness",
+          "interest"
+        ],
+        "antonyms": [
+          "indifference",
+          "apathy"
+        ]
+      },
+      {
+        "word": "understanding",
+        "definition": "Understanding refers to the ability to comprehend or grasp the meaning of something, often involving insight into complex concepts or situations. It implies a deep awareness that goes beyond surface-level knowledge.",
+        "businessContext": "In business, understanding is crucial for effective communication, collaboration, and decision-making. Leaders and teams must cultivate an understanding of market dynamics, customer needs, and internal processes to drive success.",
+        "nuance": "While 'understanding' denotes a positive grasp of information, it can also imply a lack of complete knowledge; it is best used when emphasizing comprehension that leads to informed actions.",
+        "synonyms": [
+          "comprehension",
+          "insight"
+        ],
+        "antonyms": [
+          "misunderstanding",
+          "ignorance"
+        ]
+      },
+      {
+        "word": "environment",
+        "definition": "An environment refers to the surrounding conditions or context in which an entity operates, including physical, social, and cultural factors. It shapes interactions and influences behavior.",
+        "businessContext": "In a business context, the work environment can significantly impact employee productivity, morale, and collaboration. Companies often strive to create a positive environment that fosters innovation and supports remote or hybrid work models.",
+        "nuance": "The term 'environment' can carry both positive and negative connotations; it is important to specify the type of environment being discussed to avoid ambiguity, especially in terms of workplace culture.",
+        "synonyms": [
+          "setting",
+          "surroundings"
+        ],
+        "antonyms": [
+          "isolation",
+          "vacuum"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think there's a framework thing, and then there's like, 'What practical advice?' So from a framework perspective, I think it's important to ask the question, 'For each of the things that I am responsible for, what category does this fall into? What's important about it? What are the right ways to think about building that, given that it is different than what I've built before?'",
+    "text": "I think there's a framework thing, and then there's like, 'What practical advice?' So from a framework perspective, I think it's important to ask the question, 'For each of the things that I am responsible for, what category does this fall into?",
     "speaker": "Fareed Mosavat",
     "timestamp": "00:44:14",
     "context": "Lenny asks for practical advice about learning new types of product work as you move from IC to manager roles. Fareed has just explained his framework of four types of product work: feature work, growth work, product-market fit expansion, and scaling work. He's explaining how moving up in product leadership requires understanding all these categories, not just being expert in one area like growth or features.",
     "vocabulary_highlights": [
-      "framework thing",
-      "what category does this fall into"
+      "framework",
+      "perspective",
+      "responsible",
+      "category"
     ],
     "topics": [
       "Product Management",
@@ -97,16 +288,79 @@
     "text_ko": "제 생각에는 프레임워크(framework)적인 얘기가 있고, 또 '실무적으로 어떤 조언을 해주냐'는 얘기가 따로 있는 것 같아요. 프레임워크 관점에서는 제가 맡은 각각의 일이 어떤 카테고리(category)에 속하는지, 그 일에서 무엇이 중요한지, 그리고 이전에 만들던 것들과 다르다면 그걸 어떻게 접근해서 만들어야 하는지를 묻는 게 중요하다고 생각해요.",
     "text_zh": "我觉得这里面有个框架性的东西，然后就是\"有什么实用的建议？\"从框架的角度来说，我觉得很重要的一点是要问自己：\"我负责的每一件事，它属于哪个类别？它的重点是什么？考虑到这跟我之前做过的不一样，应该用什么样的思路去搭建？\"",
     "text_es": "Mira, creo que hay dos niveles: el tema del marco conceptual y luego el \"¿qué hago en la práctica?\" Desde el punto de vista del framework, me parece clave preguntarse: \"De todas las cosas de las que soy responsable, ¿en qué categoría entra cada una? ¿Qué es lo importante aquí? ¿Cuáles son las mejores formas de enfocar la construcción de esto, considerando que es distinto a lo que he construido antes?\"",
-    "key_sentence": "Ask what category does this fall into for each responsibility, a framework thing."
+    "key_sentence": "Ask what category does this fall into for each responsibility, a framework thing.",
+    "text_trimmed": true,
+    "original_text": "I think there's a framework thing, and then there's like, 'What practical advice?' So from a framework perspective, I think it's important to ask the question, 'For each of the things that I am responsible for, what category does this fall into? What's important about it? What are the right ways to think about building that, given that it is different than what I've built before?'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "framework",
+        "definition": "A structured approach or system that provides guidance for understanding or addressing a particular issue or set of issues.",
+        "businessContext": "In business and technology, frameworks are often used to establish best practices, methodologies, or standards that guide project development and decision-making.",
+        "nuance": "While 'framework' implies a supportive structure, it can also suggest rigidity; thus, it is important to balance adherence to a framework with flexibility in application.",
+        "synonyms": [
+          "structure",
+          "system"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "perspective",
+        "definition": "A particular attitude or way of considering something, often shaped by individual experiences or contexts.",
+        "businessContext": "In a business setting, different perspectives can influence strategic decisions, team dynamics, and customer relations, making it essential to consider multiple viewpoints.",
+        "nuance": "The term often implies a subjective viewpoint, so it is important to recognize that perspectives can vary widely among stakeholders.",
+        "synonyms": [
+          "viewpoint",
+          "angle"
+        ],
+        "antonyms": [
+          "narrow-mindedness",
+          "bias"
+        ]
+      },
+      {
+        "word": "responsible",
+        "definition": "Having an obligation to ensure that something is done or managed properly; accountable for actions or decisions.",
+        "businessContext": "In corporate environments, being responsible often relates to roles and duties assigned to individuals or teams, emphasizing accountability and ethical conduct.",
+        "nuance": "While 'responsible' conveys a sense of duty, it can also imply a burden; thus, it is important to communicate expectations clearly to avoid misunderstandings.",
+        "synonyms": [
+          "accountable",
+          "liable"
+        ],
+        "antonyms": [
+          "irresponsible",
+          "negligent"
+        ]
+      },
+      {
+        "word": "category",
+        "definition": "A class or division of people or things regarded as having particular shared characteristics.",
+        "businessContext": "In business, categorization is vital for market segmentation, product classification, and data organization, aiding in strategic planning and analysis.",
+        "nuance": "The use of 'category' can suggest a simplification of complex ideas, so it is important to ensure that categories are well-defined and relevant.",
+        "synonyms": [
+          "class",
+          "type"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "When you're a leader, it's now your job to propose, 'What are the resources we need to have the most impact on this problem?' I think I personally have messed this up a bunch of times where at the end of the core, I'll be like, 'Yeah, but we only had four engineers, and this is what we could do.'",
+    "text": "What are the resources we need to have the most impact on this problem?",
     "speaker": "Fareed Mosavat",
     "timestamp": "00:38:24",
     "context": "Fareed is explaining the second major mistake new product managers make when transitioning from IC to manager roles, which is part of what he calls the 'Product Leader Canyon.' He's describing how ICs typically focus on maximizing value with given resources, but leaders need to identify what resources are actually needed to solve problems effectively and make the case for those resources.",
     "vocabulary_highlights": [
-      "messed this up a bunch of times",
-      "at the end of the core"
+      "resources",
+      "impact",
+      "transitioning",
+      "product managers"
     ],
     "topics": [
       "Leadership & Management",
@@ -122,16 +376,79 @@
     "text_ko": "리더(leader)라면 이제 \"'이 문제에 가장 큰 임팩트를 내려면 어떤 리소스(resources)가 필요할까?'라고 제안해야 해요.\" 저도 개인적으로 이걸 몇 번 망친 적이 있어요 — 핵심 단계(core)가 끝날 무렵이면 \"우린 엔지니어(engineers)가 넷밖에 없었으니까 이게 우리가 할 수 있는 전부였어\"라고 말하곤 했어요.",
     "text_zh": "当你成为领导者的时候，你的职责就是要主动提出：\"我们需要什么资源才能最大程度地解决这个问题？\" 我觉得我个人在这方面搞砸过很多次，经常到最后总结的时候会说：\"是啊，但我们只有四个工程师，能做的就这些了。\"",
     "text_es": "Cuando eres líder, ahora tu trabajo es plantear: '¿Qué recursos necesitamos para tener el mayor impacto en este problema?' Creo que yo personalmente la he regado un montón de veces donde al final del día termino diciendo: 'Sí, pero solo teníamos cuatro ingenieros, y esto es lo que pudimos hacer.'",
-    "key_sentence": "Propose resources needed for impact; I've messed this up a bunch of times."
+    "key_sentence": "What are the resources we need to have the most impact on this problem?",
+    "text_trimmed": true,
+    "original_text": "When you're a leader, it's now your job to propose, 'What are the resources we need to have the most impact on this problem?' I think I personally have messed this up a bunch of times where at the end of the core, I'll be like, 'Yeah, but we only had four engineers, and this is what we could do.'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "resources",
+        "definition": "Resources refer to the assets, materials, or personnel that are available for use in achieving a goal.",
+        "businessContext": "In business and tech environments, resources can include financial capital, human talent, technology, and information necessary for project execution and operational efficiency.",
+        "nuance": "While 'resources' generally implies availability, it can also suggest the need for strategic allocation to maximize effectiveness.",
+        "synonyms": [
+          "assets",
+          "capabilities"
+        ],
+        "antonyms": [
+          "liabilities",
+          "shortages"
+        ]
+      },
+      {
+        "word": "impact",
+        "definition": "Impact refers to the strong effect or influence that one entity has on another, often measured in terms of outcomes or changes.",
+        "businessContext": "In a business context, impact is frequently assessed to evaluate the effectiveness of strategies, initiatives, or products on target markets or stakeholders.",
+        "nuance": "The term 'impact' often carries a positive connotation, suggesting beneficial outcomes, but it can also refer to negative consequences depending on context.",
+        "synonyms": [
+          "effect",
+          "influence"
+        ],
+        "antonyms": [
+          "insignificance",
+          "irrelevance"
+        ]
+      },
+      {
+        "word": "transitioning",
+        "definition": "Transitioning refers to the process of changing from one state, condition, or phase to another.",
+        "businessContext": "In business, transitioning is commonly associated with organizational changes, such as adopting new technologies, restructuring teams, or shifting market strategies.",
+        "nuance": "The term implies a process that may involve challenges and adjustments, and is often used in contexts where change is ongoing rather than instantaneous.",
+        "synonyms": [
+          "shifting",
+          "transforming"
+        ],
+        "antonyms": [
+          "stagnating",
+          "remaining"
+        ]
+      },
+      {
+        "word": "product managers",
+        "definition": "Product managers are professionals responsible for the strategy, roadmap, and feature definition of a product or product line.",
+        "businessContext": "In tech and startup environments, product managers play a crucial role in bridging the gap between engineering, marketing, and customer needs to ensure successful product development and launch.",
+        "nuance": "The role of product managers can vary significantly between organizations, often encompassing a blend of technical, business, and interpersonal skills.",
+        "synonyms": [
+          "product owners",
+          "product leads"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "You need to have some breadth, right, but it's like same problem, different industry. It's one way to think about depth that's focused. Different problem, same industry is another way to think about it, but you have to come up with a unique intersection that is clearly you are in the top tier of the people who know how to do that.",
+    "text": "You need to have some breadth, right, but it's like same problem, different industry. It's one way to think about depth that's focused.",
     "speaker": "Fareed Mosavat",
     "timestamp": "01:01:04",
     "context": "Lenny asks Fareed for advice on how product managers can set up their careers to potentially become full-time advisors or consultants in the future. Fareed is explaining the importance of building the right balance of depth and breadth in your expertise - you need to be specialized enough to be truly valuable, but not so narrow that you can only help one type of company or solve one specific problem.",
     "vocabulary_highlights": [
-      "top tier",
-      "unique intersection"
+      "breadth",
+      "depth",
+      "focused",
+      "potentially"
     ],
     "topics": [
       "Career Development",
@@ -147,6 +464,67 @@
     "text_ko": "어느 정도 폭넓이(breadth)는 필요하지만, 결국 본질은 같아요 — 같은 문제인데 업계만 다른 경우(same problem, different industry)는 초점을 둔 깊이(depth)를 생각하는 한 방식이에요. 반대로 문제는 다른데 같은 업계인 경우(different problem, same industry)는 또 다른 방식이고요. 하지만 결국에는 당신만의 고유한 교차점(unique intersection)을 만들어서, 그걸 해낼 줄 아는 사람들 중에서 분명히 최상위권(top tier)에 있다는 걸 보여줄 수 있어야 해요.",
     "text_zh": "你得有一定的广度，对吧，但其实是同样的问题，只是换了个行业。这是一种专注深度的思路。换个问题，但还是同一个行业，这又是另一种思路，但关键是你得找到一个独特的交集点，让你明显处在那个领域最顶尖的那批人当中。",
     "text_es": "Necesitas tener cierta amplitud, ¿no?, pero es como el mismo problema en distinta industria. Es una forma de pensar en profundidad pero enfocada. Problema diferente, misma industria es otra manera de verlo, pero tienes que encontrar esa intersección única donde claramente estés entre los mejores que saben hacer eso.",
-    "key_sentence": "Identify a unique intersection to be in the top tier of your field."
+    "key_sentence": "it's like same problem, different industry.",
+    "text_trimmed": true,
+    "original_text": "You need to have some breadth, right, but it's like same problem, different industry. It's one way to think about depth that's focused. Different problem, same industry is another way to think about it, but you have to come up with a unique intersection that is clearly you are in the top tier of the people who know how to do that.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "breadth",
+        "definition": "The extent or range of something, particularly in terms of variety or diversity.",
+        "businessContext": "In business, breadth often refers to the range of products, services, or expertise a company offers, which can enhance market appeal and customer reach.",
+        "nuance": "While breadth suggests a wide scope, it may imply a lack of specialization, which can be a disadvantage in highly competitive markets.",
+        "synonyms": [
+          "scope",
+          "extent"
+        ],
+        "antonyms": [
+          "narrowness",
+          "specialization"
+        ]
+      },
+      {
+        "word": "depth",
+        "definition": "The quality of being deep, often referring to the thoroughness or intensity of knowledge or expertise in a specific area.",
+        "businessContext": "In a business context, depth is crucial for establishing authority and trust in a particular field, often leading to competitive advantages.",
+        "nuance": "Depth conveys a sense of mastery and specialization, which can be more valuable than breadth in certain industries or roles.",
+        "synonyms": [
+          "profundity",
+          "intensity"
+        ],
+        "antonyms": [
+          "superficiality",
+          "shallowness"
+        ]
+      },
+      {
+        "word": "focused",
+        "definition": "Concentrated on a specific area or objective, often implying clarity and intent in direction or purpose.",
+        "businessContext": "In business strategy, being focused means prioritizing specific goals or markets to optimize resources and achieve better outcomes.",
+        "nuance": "While focus is generally positive, excessive focus can lead to missed opportunities in other areas that may also be beneficial.",
+        "synonyms": [
+          "concentrated",
+          "targeted"
+        ],
+        "antonyms": [
+          "dispersed",
+          "scattered"
+        ]
+      },
+      {
+        "word": "potentially",
+        "definition": "Having the capacity to develop into something in the future; indicating possibility rather than certainty.",
+        "businessContext": "In business discussions, 'potentially' is often used to assess risks, opportunities, or outcomes that may arise from strategic decisions or market changes.",
+        "nuance": "The term suggests optimism and opportunity but should be used cautiously to avoid overpromising results.",
+        "synonyms": [
+          "possibly",
+          "likely"
+        ],
+        "antonyms": [
+          "definitely",
+          "certainly"
+        ]
+      }
+    ]
   }
 ]

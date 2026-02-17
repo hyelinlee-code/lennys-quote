@@ -1,13 +1,14 @@
 [
   {
-    "text": "I think a lot of people think about markets almost like these bodies of water, it's like it's this big body of water that we're going after. I actually think that the most interesting markets, you have to think of them like currents where you're there's something happening in the market that's creating this current where you can have a plank of wood that you've put on the river and it's going to pull you forward.",
+    "text": "I think a lot of people think about markets almost like these bodies of water, it's like it's this big body of water that we're going after.",
     "speaker": "Sarah Tavel",
     "timestamp": "00:00:00",
     "context": "Lenny asks Sarah about what gets her excited about marketplace investments. Sarah explains her philosophy about market timing and opportunity. Rather than just looking at total addressable market size, she believes the most valuable markets have momentum or change dynamics that create a \"current\" - market forces that naturally propel a startup forward rather than requiring the company to fight against static conditions.",
     "vocabulary_highlights": [
-      "plank of wood",
-      "current and momentum",
-      "pull you forward"
+      "market timing",
+      "total addressable market",
+      "opportunity",
+      "investments"
     ],
     "topics": [
       "Strategy & Planning",
@@ -23,16 +24,79 @@
     "text_ko": "많은 분들이 시장(market)을 마치 거대한 물덩어리처럼 생각하는 경향이 있어요. 우리가 그냥 그걸 향해 가면 된다는 식으로요. 하지만 저는 가장 흥미로운 시장은 흐름(currents)으로 봐야 한다고 생각해요. 시장에서 어떤 일이 일어나 그 흐름을 만들고, 우리가 강에 띄운 나무판자 하나가 그 흐름에 이끌려 앞으로 끌려가게 되는 거예요.",
     "text_zh": "我觉得很多人想市场的时候，就像把它想成一大片水域，觉得我们要去征服这一大片水。但我觉得最有意思的市场，你得把它们想象成水流，市场里正在发生一些事情，形成了一股水流，你只要放块木板到河里，这股水流就会推着你往前走。",
     "text_es": "Creo que mucha gente ve los mercados como si fueran grandes masas de agua, como si fuera este océano gigante al que nos estamos dirigiendo. Pero yo pienso que los mercados más interesantes hay que verlos como corrientes, donde está pasando algo en el mercado que está creando esta corriente donde puedes poner un simple tablón de madera en el río y te va a arrastrar hacia adelante.",
-    "key_sentence": "Think of markets as currents that pull you forward, not just bodies of water."
+    "key_sentence": "it's like it's this big body of water that we're going after.",
+    "text_trimmed": true,
+    "original_text": "I think a lot of people think about markets almost like these bodies of water, it's like it's this big body of water that we're going after. I actually think that the most interesting markets, you have to think of them like currents where you're there's something happening in the market that's creating this current where you can have a plank of wood that you've put on the river and it's going to pull you forward.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "market timing",
+        "definition": "Market timing refers to the strategy of making buy or sell decisions of financial assets by attempting to predict future market price movements.",
+        "businessContext": "In business and investment contexts, market timing is crucial for maximizing returns and minimizing losses, often influencing trading strategies and investment decisions.",
+        "nuance": "While market timing can yield significant profits, it is often viewed skeptically due to the inherent unpredictability of markets.",
+        "synonyms": [
+          "timing the market",
+          "market prediction"
+        ],
+        "antonyms": [
+          "buy-and-hold strategy",
+          "N/A"
+        ]
+      },
+      {
+        "word": "total addressable market",
+        "definition": "Total addressable market (TAM) is the overall revenue opportunity available for a product or service if it achieved 100% market share.",
+        "businessContext": "TAM is a critical metric for startups and investors to assess the potential scale of a business and to prioritize market entry strategies.",
+        "nuance": "While TAM provides a broad view of market potential, it may not account for competitive dynamics or market saturation.",
+        "synonyms": [
+          "market size",
+          "available market"
+        ],
+        "antonyms": [
+          "niche market",
+          "limited market"
+        ]
+      },
+      {
+        "word": "opportunity",
+        "definition": "In a business context, an opportunity refers to a favorable set of circumstances that can be leveraged for profit or growth.",
+        "businessContext": "Identifying opportunities is essential for entrepreneurs and businesses to innovate, expand, and improve their competitive edge.",
+        "nuance": "The term often implies a proactive approach to seizing potential benefits, rather than merely waiting for them to arise.",
+        "synonyms": [
+          "prospect",
+          "chance"
+        ],
+        "antonyms": [
+          "threat",
+          "obstacle"
+        ]
+      },
+      {
+        "word": "investments",
+        "definition": "Investments are assets or items acquired with the goal of generating income or appreciation over time.",
+        "businessContext": "In business, investments can take various forms, including capital expenditures, stocks, bonds, or venture capital, and are crucial for funding growth and innovation.",
+        "nuance": "The term encompasses both financial investments and strategic investments in resources, technology, or talent.",
+        "synonyms": [
+          "capital allocation",
+          "financial commitment"
+        ],
+        "antonyms": [
+          "divestment",
+          "liquidation"
+        ]
+      }
+    ]
   },
   {
-    "text": "When I made the transition from Pinterest, where I was leading product for the discovery team, so I was responsible for all the discovery surfaces on Pinterest. The home feed, the search, the recommendations, a couple other teams. Ultimately, what those teams were about was about engagement, increasing engagement of Pinterest.",
+    "text": "When I made the transition from Pinterest, where I was leading product for the discovery team, so I was responsible for all the discovery surfaces on Pinterest. The home feed, the search, the recommendations, a couple other teams.",
     "speaker": "Sarah Tavel",
     "timestamp": "00:04:02",
     "context": "Lenny asks Sarah about the origin of her Hierarchy of Engagement framework. Sarah explains her background at Pinterest where she led the product team responsible for user discovery and engagement. This experience dealing with engagement metrics at scale led her to develop insights about what truly matters for building sustainable consumer products, which became the foundation for her framework.",
     "vocabulary_highlights": [
-      "discovery surfaces",
-      "home feed"
+      "transition",
+      "responsible",
+      "framework",
+      "engagement"
     ],
     "topics": [
       "Product Management",
@@ -48,17 +112,79 @@
     "text_ko": "핀터레스트에서 옮겨왔을 때, 저는 그곳에서 디스커버리 팀(discovery team)의 프로덕트 리드를 맡고 있었어요. 그래서 핀터레스트의 모든 디스커버리 서피스(discovery surfaces)—홈 피드(home feed), 검색(search), 추천(recommendations) 등 여러 팀을 책임지고 있었어요. 궁극적으로 그 팀들이 하려던 건 핀터레스트의 참여도(engagement)를 높이는 것이었어요.",
     "text_zh": "我从Pinterest跳槽的时候，在那边是负责discovery团队的产品，就是Pinterest上所有发现功能都归我管。首页信息流、搜索、推荐，还有其他几个团队。说白了，这些团队做的就是提升用户粘性，让大家在Pinterest上更活跃。",
     "text_es": "Cuando hice la transición desde Pinterest, donde estaba liderando producto para el equipo de discovery, o sea, era responsable de todas las superficies de descubrimiento en Pinterest. El feed principal, la búsqueda, las recomendaciones, un par de equipos más. Al final, de lo que se trataban estos equipos era del engagement, de aumentar el engagement de Pinterest.",
-    "key_sentence": "Engagement is key for discovery surfaces like the home feed on Pinterest."
+    "key_sentence": "Engagement is key for discovery surfaces like the home feed on Pinterest.",
+    "text_trimmed": true,
+    "original_text": "When I made the transition from Pinterest, where I was leading product for the discovery team, so I was responsible for all the discovery surfaces on Pinterest. The home feed, the search, the recommendations, a couple other teams. Ultimately, what those teams were about was about engagement, increasing engagement of Pinterest.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "transition",
+        "definition": "The process of changing from one state or condition to another.",
+        "businessContext": "In business, transition often refers to shifts in leadership, strategy, or operational processes that can impact organizational effectiveness.",
+        "nuance": "While 'transition' implies a change, it often carries a connotation of improvement or evolution rather than mere alteration.",
+        "synonyms": [
+          "change",
+          "shift"
+        ],
+        "antonyms": [
+          "stagnation",
+          "continuity"
+        ]
+      },
+      {
+        "word": "responsible",
+        "definition": "Having an obligation to ensure the success or integrity of a task or duty.",
+        "businessContext": "In a corporate environment, being responsible often entails accountability for specific outcomes, projects, or team performance.",
+        "nuance": "The term 'responsible' can imply a level of authority and trust, suggesting that the individual is expected to manage their duties effectively.",
+        "synonyms": [
+          "accountable",
+          "liable"
+        ],
+        "antonyms": [
+          "irresponsible",
+          "negligent"
+        ]
+      },
+      {
+        "word": "framework",
+        "definition": "A structured approach or system that provides guidance for understanding or addressing a specific issue.",
+        "businessContext": "In business and technology, frameworks are often used to standardize processes, methodologies, or strategies to enhance efficiency and clarity.",
+        "nuance": "The term suggests a foundational structure that can be adapted or expanded upon, rather than a rigid set of rules.",
+        "synonyms": [
+          "structure",
+          "system"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorder"
+        ]
+      },
+      {
+        "word": "engagement",
+        "definition": "The act of participating or being involved in a particular activity or interaction.",
+        "businessContext": "In a business context, engagement often refers to the level of involvement and enthusiasm that employees or customers have towards a company or its products.",
+        "nuance": "The term carries a positive connotation, suggesting not just participation but also emotional investment and commitment.",
+        "synonyms": [
+          "involvement",
+          "participation"
+        ],
+        "antonyms": [
+          "disengagement",
+          "apathy"
+        ]
+      }
+    ]
   },
   {
-    "text": "When I started to meet with all these really talented consumer founders building consumer social products, this was during a time when everybody was getting excited about growth hacking. What you would see is that you would see all these founders coming in, and they all had these up and to the right graphs, whether it was sign-ups, or downloads, or MAUs. It felt to me like it wasn't obvious that those metrics that they were all getting very attached, and focused on, and showing in these presentations was the wrong thing to focus on.",
+    "text": "When I started to meet with all these really talented consumer founders building consumer social products, this was during a time when everybody was getting excited about growth hacking.",
     "speaker": "Sarah Tavel",
     "timestamp": "00:04:02",
     "context": "Sarah continues explaining how she developed the Hierarchy of Engagement framework. She describes meeting consumer social product founders during the peak of the \"growth hacking\" trend, where founders were obsessing over vanity metrics like monthly active users (MAUs) and downloads. Sarah realized these metrics didn't actually indicate whether companies were building sustainable, engaging products that users would return to long-term.",
     "vocabulary_highlights": [
       "growth hacking",
-      "up and to the right graphs",
-      "getting very attached"
+      "consumer social products",
+      "talented",
+      "framework"
     ],
     "topics": [
       "Growth & Marketing",
@@ -74,16 +200,79 @@
     "text_ko": "제가 소비자용 소셜 제품(consumer social products)을 만드는 정말 재능 있는 창업자들을 만나기 시작했을 때였어요. 그때가 모두가 그로스 해킹(growth hacking)에 들떠 있던 시기였죠. 창업자들이 들어오면 가입자 수(sign-ups)이든 다운로드(downloads)이든 월간 활성 사용자(MAUs)이든, 전부 항상 우상향하는 그래프만 들고 왔어요. 근데 제겐 그들이 그렇게 집착하고 프레젠테이션에서 보여주던 그 지표들이 사실 집중할 대상이 아닌 것처럼 느껴졌어요.",
     "text_zh": "当时我开始接触那些做消费级社交产品的优秀创始人，正好赶上大家都在热衷于增长黑客(growth hacking)那一套。你会发现这些创始人过来的时候，个个都拿着漂亮的增长曲线图，不管是注册量、下载量，还是月活用户(MAU)什么的。但我总觉得，他们在汇报时特别看重、特别专注的那些指标，其实可能压根就没抓到点上。",
     "text_es": "Cuando empecé a reunirme con todos estos fundadores súper talentosos que estaban desarrollando productos sociales para consumidores, esto fue durante la época en que todo el mundo se estaba emocionando con el growth hacking. Lo que veías era que llegaban todos estos fundadores, y todos tenían sus gráficas que iban para arriba y hacia la derecha, ya fueran registros, descargas, o usuarios activos mensuales. A mí me daba la sensación de que no era obvio que esas métricas a las que se estaban aferrando tanto, en las que se estaban enfocando y que mostraban en sus presentaciones, era lo incorrecto en lo que enfocarse.",
-    "key_sentence": "Founders focused on growth hacking often get very attached to misleading metrics."
+    "key_sentence": "this was during a time when everybody was getting excited about growth hacking.",
+    "text_trimmed": true,
+    "original_text": "When I started to meet with all these really talented consumer founders building consumer social products, this was during a time when everybody was getting excited about growth hacking. What you would see is that you would see all these founders coming in, and they all had these up and to the right graphs, whether it was sign-ups, or downloads, or MAUs. It felt to me like it wasn't obvious that those metrics that they were all getting very attached, and focused on, and showing in these presentations was the wrong thing to focus on.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "growth hacking",
+        "definition": "A marketing strategy focused on rapid growth through innovative and low-cost techniques, often leveraging technology and data analytics.",
+        "businessContext": "In startup environments, growth hacking is employed to achieve significant user acquisition and engagement with minimal budget, often through viral marketing and social media.",
+        "nuance": "While growth hacking suggests a creative and agile approach, it can sometimes imply a lack of traditional marketing rigor.",
+        "synonyms": [
+          "growth marketing",
+          "agile marketing"
+        ],
+        "antonyms": [
+          "traditional marketing",
+          "N/A"
+        ]
+      },
+      {
+        "word": "consumer social products",
+        "definition": "Products designed primarily for individual users that facilitate social interaction and engagement, often through digital platforms.",
+        "businessContext": "In the tech industry, consumer social products are central to companies aiming to build communities and enhance user connectivity, such as social media apps and collaborative tools.",
+        "nuance": "This term emphasizes the user-centric nature of the products, distinguishing them from enterprise solutions or B2B offerings.",
+        "synonyms": [
+          "social applications",
+          "user-oriented products"
+        ],
+        "antonyms": [
+          "enterprise products",
+          "N/A"
+        ]
+      },
+      {
+        "word": "talented",
+        "definition": "Possessing a natural aptitude or skill in a particular area, often recognized for exceptional ability or potential.",
+        "businessContext": "In business, identifying talented individuals is crucial for building effective teams and driving innovation, particularly in competitive industries.",
+        "nuance": "While 'talented' conveys a positive attribute, it can sometimes imply a lack of experience or maturity in a professional context.",
+        "synonyms": [
+          "skilled",
+          "gifted"
+        ],
+        "antonyms": [
+          "untalented",
+          "incompetent"
+        ]
+      },
+      {
+        "word": "framework",
+        "definition": "A structured approach or system that provides guidance and support for developing or analyzing a particular concept or process.",
+        "businessContext": "Frameworks are often used in business to standardize processes, facilitate decision-making, and ensure consistency in project management and strategic planning.",
+        "nuance": "The term suggests a flexible structure that can be adapted to various contexts, but it may also imply limitations if too rigidly applied.",
+        "synonyms": [
+          "structure",
+          "model"
+        ],
+        "antonyms": [
+          "chaos",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "There's something that's really, really important about having that clarity of this is the action that is most important for our product. All things, our NUX has to lead to this. If a user isn't doing this, then there's something missing from their experience of the product. It's super important to get real clarity and know exactly the one that you're going to be picking to go forward.",
+    "text": "There's something that's really, really important about having that clarity of this is the action that is most important for our product. All things, our NUX has to lead to this.",
     "speaker": "Sarah Tavel",
     "timestamp": "00:07:56",
     "context": "Lenny asks Sarah about defining the core action in her Hierarchy of Engagement framework. Sarah emphasizes the critical importance of identifying the single most important user action for a product. She explains that this core action should guide everything from new user experience (NUX) design to product optimization - if users aren't completing this action, there's a fundamental gap in their product experience.",
     "vocabulary_highlights": [
-      "real clarity",
-      "picking to go forward"
+      "clarity",
+      "critical",
+      "importance",
+      "core action"
     ],
     "topics": [
       "Product Management",
@@ -99,17 +288,79 @@
     "text_ko": "우리 제품에서 가장 중요한 행동이 뭔지 명확히 아는 건 정말, 정말 중요해요. 모든 게 신규 사용자 경험(NUX)을 통해 그 행동으로 이어지게 해야 해요. 사용자가 그 행동을 하지 않는다면 제품 경험 어딘가에 뭔가 빠져 있는 거예요. 그래서 진짜로 분명하게 하나를 정확히 정하고 그걸로 밀고 나갈지 확실히 알아야 해요.",
     "text_zh": "有一点特别特别重要，就是你得非常清楚什么是对你产品最关键的那个动作。所有的东西，我们的新用户体验(NUX)都得引导到这个动作上。如果用户没有做这个动作，那说明他们的产品体验肯定有什么地方不到位。搞清楚这一点超级重要，你必须准确知道要选哪一个作为重点去推进。",
     "text_es": "Hay algo súper importante y es tener clarísimo cuál es la acción más importante para nuestro producto. Todo, absolutamente todo en nuestra experiencia de usuario nuevo (NUX) tiene que llevar a esto. Si un usuario no está haciendo esta acción, entonces le falta algo en su experiencia con el producto. Es clave tener esto súper claro y saber exactamente cuál vas a elegir para seguir adelante.",
-    "key_sentence": "Real clarity is crucial for identifying the most important action for our product."
+    "key_sentence": "Real clarity is crucial for identifying the most important action for our product.",
+    "text_trimmed": true,
+    "original_text": "There's something that's really, really important about having that clarity of this is the action that is most important for our product. All things, our NUX has to lead to this. If a user isn't doing this, then there's something missing from their experience of the product. It's super important to get real clarity and know exactly the one that you're going to be picking to go forward.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "clarity",
+        "definition": "The quality of being clear and easy to understand; the state of being free from ambiguity.",
+        "businessContext": "In business and tech, clarity is crucial for effective communication, ensuring that all team members understand goals, strategies, and processes.",
+        "nuance": "Clarity often implies precision and transparency, and is particularly valued in presentations and documentation to avoid misunderstandings.",
+        "synonyms": [
+          "lucidity",
+          "transparency"
+        ],
+        "antonyms": [
+          "confusion",
+          "ambiguity"
+        ]
+      },
+      {
+        "word": "critical",
+        "definition": "Of great importance; essential to the success or functioning of something.",
+        "businessContext": "In a business context, identifying critical tasks or decisions can determine the trajectory of projects and overall company success.",
+        "nuance": "While 'critical' can imply urgency, it also suggests a fundamental necessity, making it important to use in contexts where stakes are high.",
+        "synonyms": [
+          "crucial",
+          "vital"
+        ],
+        "antonyms": [
+          "insignificant",
+          "trivial"
+        ]
+      },
+      {
+        "word": "importance",
+        "definition": "The state or quality of being significant or valuable; the degree to which something matters.",
+        "businessContext": "Understanding the importance of various factors, such as customer feedback or market trends, is essential for strategic decision-making in business.",
+        "nuance": "Importance can vary based on context and perspective, so it is important to clarify what is being prioritized in discussions.",
+        "synonyms": [
+          "significance",
+          "value"
+        ],
+        "antonyms": [
+          "unimportance",
+          "insignificance"
+        ]
+      },
+      {
+        "word": "core action",
+        "definition": "The fundamental activity or task that is central to achieving a specific goal or objective.",
+        "businessContext": "In startups, identifying the core action helps teams focus their efforts on what drives the most value and aligns with their mission.",
+        "nuance": "The term suggests a focus on essential activities, and should be used to emphasize prioritization over peripheral tasks.",
+        "synonyms": [
+          "key action",
+          "primary task"
+        ],
+        "antonyms": [
+          "peripheral action",
+          "secondary task"
+        ]
+      }
+    ]
   },
   {
-    "text": "The test for me, of whether you're building a product that has the ingredients to create a retentive product on a micro level, just at the user level, is that the product should get better the more you use it, and you'll have more to lose by leaving it. I'll give you a couple examples there, a couple of my favorite products.",
+    "text": "the product should get better the more you use it, and you'll have more to lose by leaving it.",
     "speaker": "Sarah Tavel",
     "timestamp": "00:10:32",
     "context": "Sarah explains level two of her Hierarchy of Engagement framework, which focuses on retention. She describes her test for whether a consumer product has strong retention potential: the product must improve with usage and create increasing switching costs for users. This creates what she calls \"accruing benefits and mounting loss\" - the longer someone uses the product, the more valuable it becomes and the harder it is to leave.",
     "vocabulary_highlights": [
-      "retentive product",
-      "on a micro level",
-      "more to lose by leaving it"
+      "retention",
+      "potential",
+      "framework",
+      "consumer"
     ],
     "topics": [
       "Product Management",
@@ -125,16 +376,79 @@
     "text_ko": "제가 보는 판단 기준은 개별 사용자 수준(미시적 관점)에서 리텐션(retentive) 제품을 만들어낼 요소를 갖추고 있는지예요. 그 기준은 제품을 사용할수록 더 좋아지고, 떠나면 잃을 게 더 많아야 한다는 거예요. 제가 좋아하는 제품 몇 가지 예를 들어볼게요.",
     "text_zh": "对我来说，判断一个产品是否具备用户粘性(retention)的标准就是，这个产品你用得越多，它就变得越好用，而且你离开的话损失会很大。我给你举几个例子，都是我特别喜欢的产品。",
     "text_es": "Para mí, la prueba de si estás construyendo un producto que tiene lo necesario para crear retención a nivel micro, o sea a nivel usuario, es que el producto debería mejorar mientras más lo uses, y tendrías más que perder si lo dejas. Te voy a dar un par de ejemplos, algunos de mis productos favoritos.",
-    "key_sentence": "A retentive product improves with use, making users have more to lose by leaving."
+    "key_sentence": "the product should get better the more you use it, and you'll have more to lose by leaving it.",
+    "text_trimmed": true,
+    "original_text": "The test for me, of whether you're building a product that has the ingredients to create a retentive product on a micro level, just at the user level, is that the product should get better the more you use it, and you'll have more to lose by leaving it. I'll give you a couple examples there, a couple of my favorite products.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "retention",
+        "definition": "The ability to keep or hold onto something, particularly in the context of customers or employees over a period of time.",
+        "businessContext": "In business, retention often refers to customer retention strategies aimed at reducing churn and maintaining a loyal customer base, which is crucial for long-term profitability.",
+        "nuance": "While retention implies a positive relationship, it can also suggest a struggle to keep customers engaged, so it should be used in contexts that emphasize loyalty and ongoing engagement.",
+        "synonyms": [
+          "loyalty",
+          "continuity"
+        ],
+        "antonyms": [
+          "churn",
+          "attrition"
+        ]
+      },
+      {
+        "word": "potential",
+        "definition": "The inherent ability or capacity for growth, development, or future success.",
+        "businessContext": "In business, potential often refers to the expected future performance of a product, market, or employee, guiding investment and strategic decisions.",
+        "nuance": "Potential carries a positive connotation, suggesting untapped resources or capabilities, but it can also imply uncertainty regarding whether that potential will be realized.",
+        "synonyms": [
+          "capability",
+          "promise"
+        ],
+        "antonyms": [
+          "limitation",
+          "inability"
+        ]
+      },
+      {
+        "word": "framework",
+        "definition": "A structured approach or system that provides a basis for understanding or organizing complex concepts or processes.",
+        "businessContext": "In business and technology, frameworks are often used to guide project management, software development, or strategic planning, helping teams align their efforts and achieve goals.",
+        "nuance": "Frameworks suggest a level of flexibility and adaptability, but they can also imply a rigid structure if not applied thoughtfully, so it's important to choose the right framework for the situation.",
+        "synonyms": [
+          "structure",
+          "system"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "consumer",
+        "definition": "An individual or entity that purchases goods or services for personal use rather than for resale.",
+        "businessContext": "In marketing and business strategy, understanding consumer behavior is essential for developing products and services that meet the needs and preferences of the target market.",
+        "nuance": "While 'consumer' is a neutral term, it can sometimes imply a passive role in the market, so it is often more effective to refer to 'customers' when emphasizing engagement and loyalty.",
+        "synonyms": [
+          "buyer",
+          "customer"
+        ],
+        "antonyms": [
+          "producer",
+          "supplier"
+        ]
+      }
+    ]
   },
   {
-    "text": "I love to think of every time a user users your product, let's say they're clicking on the mouse or they're tapping on their phone, I love to think of it as this kinetic energy that they're putting into your product. You're taking that energy, and your job with a great product, is to take that energy and, as much as possible, convert it back to the experience that they're having with your product.",
+    "text": "I love to think of every time a user users your product, let's say they're clicking on the mouse or they're tapping on their phone, I love to think of it as this kinetic energy that they're putting into your product.",
     "speaker": "Sarah Tavel",
     "timestamp": "00:13:57",
     "context": "Sarah explains level three of her Hierarchy of Engagement framework about making products self-perpetuating. She uses a physics metaphor to describe how great consumer products capture user actions and convert that activity back into improved experiences. This creates virtuous cycles where user engagement automatically improves the product for all users, making it self-sustaining rather than requiring constant external growth efforts.",
     "vocabulary_highlights": [
       "kinetic energy",
-      "convert it back"
+      "engagement",
+      "self-perpetuating",
+      "capture"
     ],
     "topics": [
       "Product Management",
@@ -150,17 +464,79 @@
     "text_ko": "저는 사용자가 당신의 제품을 사용할 때마다—마우스를 클릭하든 휴대폰을 탭하든—그걸 제품에 쏟아붓는 일종의 운동 에너지(kinetic energy)라고 생각하는 걸 좋아해요. 그 에너지를 받아서, 좋은 제품이라면 가능한 한 많이 사용자가 체감하는 경험으로 되돌려주는 것이 당신의 일이에요.",
     "text_zh": "我特别喜欢这样想，每次用户使用你的产品时，比如点击鼠标或者在手机上滑动，我把这些都看作是他们投入到你产品中的动能。你在获取这种能量，而一个好产品的使命，就是要尽可能地把这种能量转化回去，让用户获得更好的体验。",
     "text_es": "Me encanta pensar que cada vez que un usuario usa tu producto, digamos que hace clic con el ratón o toca la pantalla del teléfono, me encanta pensar que es como energía cinética que está metiendo en tu producto. Estás tomando esa energía, y tu trabajo con un gran producto es agarrar esa energía y, en la medida de lo posible, convertirla de vuelta en la experiencia que están teniendo con tu producto.",
-    "key_sentence": "Kinetic energy from users should be converted back to enhance their product experience."
+    "key_sentence": "I love to think of it as this kinetic energy that they're putting into your product.",
+    "text_trimmed": true,
+    "original_text": "I love to think of every time a user users your product, let's say they're clicking on the mouse or they're tapping on their phone, I love to think of it as this kinetic energy that they're putting into your product. You're taking that energy, and your job with a great product, is to take that energy and, as much as possible, convert it back to the experience that they're having with your product.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "kinetic energy",
+        "definition": "Kinetic energy is the energy that an object possesses due to its motion. In a broader context, it can refer to the dynamic energy generated through user interactions with a product.",
+        "businessContext": "In business and tech, kinetic energy can metaphorically describe the active engagement and contributions of users, which can drive innovation and product development.",
+        "nuance": "While often used in a physical context, in business it conveys the idea of active participation and momentum rather than passive consumption.",
+        "synonyms": [
+          "dynamic energy",
+          "active engagement"
+        ],
+        "antonyms": [
+          "potential energy",
+          "inactivity"
+        ]
+      },
+      {
+        "word": "engagement",
+        "definition": "Engagement refers to the level of interaction, involvement, or commitment that users have with a product, service, or brand. It is often measured through user activities and feedback.",
+        "businessContext": "In the startup and tech sectors, high user engagement is crucial for success, as it often correlates with customer loyalty, retention, and overall business growth.",
+        "nuance": "Engagement can imply a deeper emotional connection beyond mere usage, and it is often a key performance indicator in marketing strategies.",
+        "synonyms": [
+          "involvement",
+          "participation"
+        ],
+        "antonyms": [
+          "disengagement",
+          "apathy"
+        ]
+      },
+      {
+        "word": "self-perpetuating",
+        "definition": "Self-perpetuating describes a system or process that continues to exist or operate independently without external intervention. It often implies sustainability and resilience.",
+        "businessContext": "In business, a self-perpetuating model can refer to a successful product or service that generates its own growth through user engagement and network effects, reducing the need for constant marketing efforts.",
+        "nuance": "This term often carries a positive connotation, suggesting stability and sustainability, but can also imply stagnation if not managed properly.",
+        "synonyms": [
+          "self-sustaining",
+          "self-reinforcing"
+        ],
+        "antonyms": [
+          "dependent",
+          "unsustainable"
+        ]
+      },
+      {
+        "word": "capture",
+        "definition": "To capture means to seize or take possession of something, often referring to data, market share, or user attention in a business context. It implies acquiring valuable resources or insights.",
+        "businessContext": "In the tech industry, capturing user data or market share is essential for understanding consumer behavior and making informed strategic decisions.",
+        "nuance": "While 'capture' can imply a proactive approach, it may also suggest a sense of ownership that could be viewed negatively if it involves invasive practices.",
+        "synonyms": [
+          "acquire",
+          "seize"
+        ],
+        "antonyms": [
+          "release",
+          "lose"
+        ]
+      }
+    ]
   },
   {
-    "text": "The importance of it is I can't emphasize enough how important focus is when you're building these companies. It's so hard. There really isn't a playbook. Every company, the ones that succeed have to be fundamentally different from anything that was before it. But there are these first principles of the ingredients that they all share, and you can use those ingredients to really focus you when you're going through the inevitable growth curve.",
+    "text": "The importance of it is I can't emphasize enough how important focus is when you're building these companies. It's so hard. There really isn't a playbook. Every company, the ones that succeed have to be fundamentally different from anything that was before it.",
     "speaker": "Sarah Tavel",
     "timestamp": "00:18:52",
     "context": "Lenny asks Sarah about applying her Hierarchy of Engagement framework practically. Sarah emphasizes that while successful companies must be fundamentally different and innovative, there are common underlying principles they share. She stresses the critical importance of focus when building consumer companies, as the framework helps founders prioritize what matters most during the challenging phases of company building.",
     "vocabulary_highlights": [
-      "can't emphasize enough",
-      "first principles",
-      "inevitable growth curve"
+      "emphasize",
+      "fundamentally",
+      "innovative",
+      "playbook"
     ],
     "topics": [
       "Starting a Company",
@@ -176,6 +552,67 @@
     "text_ko": "중요한 건요, 이런 회사를 만들 때 집중이 얼마나 중요한지 아무리 강조해도 지나치지 않아요. 정말 쉽지 않거든요. 사실 정해진 플레이북(playbook)은 없어요. 성공한 회사들은 모두 이전에 있던 것들과 근본적으로 달라야 해요. 하지만 모든 성공 회사가 공통으로 갖고 있는 구성 요소들, 즉 근본 원칙들(first principles)이 있어서, 그런 요소들을 이용하면 불가피한 성장 곡선(growth curve)을 겪을 때 진짜로 집중하는 데 도움이 돼요.",
     "text_zh": "这个真的太重要了，我怎么强调都不为过——创业的时候专注力有多关键。这事儿真的超级难，也没有什么现成的套路可以照搬。每家成功的公司，都必须和之前存在的任何公司有本质上的不同。但是呢，确实有一些基本原则，有些共同的要素，所有成功公司都具备。当你经历那些不可避免的成长曲线时，你可以用这些要素来帮你真正聚焦。",
     "text_es": "La importancia de esto... no puedo enfatizar lo suficiente qué tan importante es el enfoque cuando estás construyendo estas empresas. Es súper difícil. Realmente no hay un manual de instrucciones (playbook). Cada empresa, las que tienen éxito tienen que ser fundamentalmente diferentes de cualquier cosa que haya existido antes. Pero existen estos principios básicos de los ingredientes que todas comparten, y puedes usar esos ingredientes para realmente enfocarte cuando estás pasando por la inevitable curva de crecimiento.",
-    "key_sentence": "Can't emphasize enough the importance of focus and first principles during the growth curve."
+    "key_sentence": "focus is when you're building these companies.",
+    "text_trimmed": true,
+    "original_text": "The importance of it is I can't emphasize enough how important focus is when you're building these companies. It's so hard. There really isn't a playbook. Every company, the ones that succeed have to be fundamentally different from anything that was before it. But there are these first principles of the ingredients that they all share, and you can use those ingredients to really focus you when you're going through the inevitable growth curve.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "emphasize",
+        "definition": "To give special importance or prominence to something in speaking or writing.",
+        "businessContext": "In business discussions, leaders often emphasize key strategies or values to ensure team alignment and focus on priorities.",
+        "nuance": "While 'emphasize' is generally positive, overuse can make communication seem redundant or overly forceful.",
+        "synonyms": [
+          "highlight",
+          "underscore"
+        ],
+        "antonyms": [
+          "downplay",
+          "minimize"
+        ]
+      },
+      {
+        "word": "fundamentally",
+        "definition": "In a basic and foundational manner; at the core or essence of something.",
+        "businessContext": "In the context of startups, a company must be fundamentally different to stand out in a crowded market and attract investment.",
+        "nuance": "This term often conveys a sense of depth and seriousness, suggesting that the differences are not superficial but rather intrinsic.",
+        "synonyms": [
+          "essentially",
+          "intrinsically"
+        ],
+        "antonyms": [
+          "superficially",
+          "peripherally"
+        ]
+      },
+      {
+        "word": "innovative",
+        "definition": "Introducing or using new ideas, methods, or products; characterized by originality and creativity.",
+        "businessContext": "In the tech industry, being innovative is crucial for companies to differentiate themselves and capture market share.",
+        "nuance": "While 'innovative' is generally viewed positively, it can imply a risk of failure if the new ideas are not well-received or executed.",
+        "synonyms": [
+          "creative",
+          "pioneering"
+        ],
+        "antonyms": [
+          "conventional",
+          "traditional"
+        ]
+      },
+      {
+        "word": "playbook",
+        "definition": "A set of strategies, guidelines, or best practices for achieving specific goals or handling particular situations.",
+        "businessContext": "In startups, the absence of a playbook means that entrepreneurs must create their own strategies based on unique circumstances and challenges.",
+        "nuance": "The term often implies a structured approach, but in dynamic environments, flexibility and adaptation are equally important.",
+        "synonyms": [
+          "strategy guide",
+          "manual"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   }
 ]

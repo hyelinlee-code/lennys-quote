@@ -1,13 +1,14 @@
 [
   {
-    "text": "I always tell them to optimize for the problems they want to have. You want the problem of customers getting through your funnel, feeling successful, using your product and getting value and then saying to you, \"Oh, but I need it on this platform, or I need this capability, or I want to be able to share this.\" I mean you want those problems. So don't do those features now.",
+    "text": "I always tell them to optimize for the problems they want to have.",
     "speaker": "Scott Belsky",
     "timestamp": "00:21:29",
     "context": "Lenny asks Scott about his advice to only build half the features you want to build and how to decide which features to include in an MVP. Scott explains his philosophy of prioritizing the core user journey over additional features. He believes teams should focus on eliminating fundamental barriers that prevent users from experiencing value, rather than building nice-to-have features that users will only request once they're already engaged.",
     "vocabulary_highlights": [
-      "optimize for the problems you want to have",
-      "getting through your funnel",
-      "feeling successful"
+      "optimize",
+      "prioritizing",
+      "core",
+      "features"
     ],
     "topics": [
       "Product Management",
@@ -23,16 +24,79 @@
     "text_ko": "저는 항상 이렇게 말해요. 당신이 '겪고 싶어 하는' 문제들에 맞춰 최적화하라고요. 예를 들어 고객들이 퍼널(funnel)을 잘 통과해서 성공감을 느끼고, 제품을 써서 가치를 얻은 다음에 \"아, 그런데 이 플랫폼(platform)에도 필요해요\", \"이런 기능(capability)이 필요해요\", \"이걸 공유하고 싶어요\"라고 말하게 되는 그런 문제들을 원한다는 거예요. 그런 문제들이 생기길 바라니까 지금 당장 그런 기능(features)을 만들지 마세요.",
     "text_zh": "我总是跟他们说，要为你想要的问题做优化。你希望遇到的问题应该是客户顺利通过你的漏斗(funnel)，感到成功，使用你的产品并获得价值，然后对你说：\"哎，但是我需要在这个平台上用，或者我需要这个功能，或者我想能够分享这个。\" 我的意思是你就想要这些问题。所以现在别急着做那些功能。",
     "text_es": "Siempre les digo que se enfoquen en los problemas que sí quieren tener. Quieren el problema de que los clientes pasen por su embudo (funnel), se sientan exitosos, usen su producto y obtengan valor, y después les digan: \"Oye, pero lo necesito en esta plataforma, o necesito esta funcionalidad, o quiero poder compartir esto.\" O sea, esos son los problemas que quieren tener. Así que no desarrollen esas características ahorita.",
-    "key_sentence": "Optimize for the problems you want to have, not features you don't need."
+    "key_sentence": "optimize for the problems they want to have.",
+    "text_trimmed": true,
+    "original_text": "I always tell them to optimize for the problems they want to have. You want the problem of customers getting through your funnel, feeling successful, using your product and getting value and then saying to you, \"Oh, but I need it on this platform, or I need this capability, or I want to be able to share this.\" I mean you want those problems. So don't do those features now.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "optimize",
+        "definition": "To make the best or most effective use of a resource or situation.",
+        "businessContext": "In business and technology, optimizing often refers to improving processes, systems, or products to enhance performance and efficiency.",
+        "nuance": "While 'optimize' suggests a focus on improvement, it can imply a trade-off where certain aspects may be sacrificed for greater overall effectiveness.",
+        "synonyms": [
+          "enhance",
+          "refine"
+        ],
+        "antonyms": [
+          "deteriorate",
+          "neglect"
+        ]
+      },
+      {
+        "word": "prioritizing",
+        "definition": "The act of arranging or dealing with tasks or issues in order of importance.",
+        "businessContext": "In a business setting, prioritizing is crucial for resource allocation, project management, and strategic planning to ensure that the most critical tasks are addressed first.",
+        "nuance": "Prioritizing can sometimes imply a difficult choice, as it may require setting aside less urgent tasks in favor of those deemed more critical.",
+        "synonyms": [
+          "ranking",
+          "ordering"
+        ],
+        "antonyms": [
+          "disregarding",
+          "neglecting"
+        ]
+      },
+      {
+        "word": "core",
+        "definition": "The central or most important part of something.",
+        "businessContext": "In business, 'core' often refers to the essential functions, values, or competencies that define a company's identity and strategic focus.",
+        "nuance": "Using 'core' can convey a sense of fundamental importance, suggesting that the element in question is indispensable to the overall structure or mission.",
+        "synonyms": [
+          "central",
+          "fundamental"
+        ],
+        "antonyms": [
+          "peripheral",
+          "secondary"
+        ]
+      },
+      {
+        "word": "features",
+        "definition": "Distinctive attributes or aspects of a product or service that provide value to users.",
+        "businessContext": "In technology and product development, features are critical for differentiating products in the market and enhancing user experience.",
+        "nuance": "While 'features' can refer to positive attributes, it is important to ensure they align with customer needs to avoid overcomplicating offerings.",
+        "synonyms": [
+          "attributes",
+          "characteristics"
+        ],
+        "antonyms": [
+          "flaws",
+          "deficiencies"
+        ]
+      }
+    ]
   },
   {
-    "text": "In the first 30 seconds of using a new product, you are lazy, vain, and selfish. You want to get it done super quickly. You want to look good to your colleagues or to your friends. You want to feel successful very quickly by engaging in this product. You don't want to have to watch a tour or read anything, really endure any learning curve whatsoever.",
+    "text": "In the first 30 seconds of using a new product, you are lazy, vain, and selfish. You want to get it done super quickly. You want to look good to your colleagues or to your friends.",
     "speaker": "Scott Belsky",
     "timestamp": "00:09:20",
     "context": "Lenny asks Scott how he built his product sense and what advice he has for younger PMs. Scott explains his framework about the psychology of first-time users, describing what he calls the 'first mile' experience. He argues that understanding human psychology is crucial for product development, particularly recognizing that new users have very specific mental states and low tolerance for friction when they first encounter a product.",
     "vocabulary_highlights": [
-      "lazy, vain, and selfish",
-      "endure any learning curve whatsoever"
+      "product sense",
+      "first-time users",
+      "framework",
+      "psychology"
     ],
     "topics": [
       "Product Management",
@@ -48,18 +112,79 @@
     "text_ko": "새 제품을 처음 써보는 첫 30초 동안은 사람들은 게으르고, 허영심 많고, 이기적이에요. 일은 정말 빨리 끝내고 싶어하고, 동료나 친구들에게 잘 보이고 싶어해요. 이 제품을 쓰면서 금방 성공한 느낌을 받고 싶어해요. 제품 투어를 보거나 뭔가를 읽고 싶지 않고, 어떤 학습 곡선(learning curve)도 겪고 싶어하지 않아요.",
     "text_zh": "用户在使用新产品的前30秒，基本上都是懒、爱面子、还很自私的。他们就想快速搞定，想在同事或朋友面前显得很厉害，想马上就有成就感。他们可不想看什么产品介绍，也不想读说明，更不想经历任何学习过程。",
     "text_es": "En los primeros 30 segundos usando un producto nuevo, eres flojo, vanidoso y egoísta. Quieres que todo salga súper rápido. Quieres quedar bien con tus colegas o amigos. Quieres sentirte exitoso de inmediato al usar este producto. No quieres tener que ver un tutorial ni leer nada, en realidad no quieres lidiar con ninguna curva de aprendizaje (learning curve).",
-    "key_sentence": "You are lazy, vain, and selfish when using a new product; avoid learning curves."
+    "key_sentence": "You are lazy, vain, and selfish when using a new product; avoid learning curves.",
+    "text_trimmed": true,
+    "original_text": "In the first 30 seconds of using a new product, you are lazy, vain, and selfish. You want to get it done super quickly. You want to look good to your colleagues or to your friends. You want to feel successful very quickly by engaging in this product. You don't want to have to watch a tour or read anything, really endure any learning curve whatsoever.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "product sense",
+        "definition": "Product sense refers to an individual's ability to understand and evaluate the needs of users and the market to create effective products.",
+        "businessContext": "In business and tech environments, product sense is crucial for product managers and designers to ensure that products resonate with users and meet market demands.",
+        "nuance": "Having strong product sense implies a deep intuition about user behavior and market trends, often developed through experience and observation.",
+        "synonyms": [
+          "product intuition",
+          "user insight"
+        ],
+        "antonyms": [
+          "product ignorance",
+          "market blindness"
+        ]
+      },
+      {
+        "word": "first-time users",
+        "definition": "First-time users are individuals who are experiencing a product or service for the very first time.",
+        "businessContext": "Understanding the behavior and expectations of first-time users is vital for businesses, as it helps in designing onboarding experiences that can lead to higher retention rates.",
+        "nuance": "The term emphasizes the initial experience, which can significantly influence a user's perception and future engagement with the product.",
+        "synonyms": [
+          "new users",
+          "initial users"
+        ],
+        "antonyms": [
+          "returning users",
+          "experienced users"
+        ]
+      },
+      {
+        "word": "framework",
+        "definition": "A framework is a structured approach or system that provides guidance for solving problems or developing projects.",
+        "businessContext": "In business and tech, frameworks are often used to standardize processes, facilitate collaboration, and ensure consistency across teams and projects.",
+        "nuance": "The term can imply a level of flexibility within a structured approach, allowing for adaptation while still adhering to core principles.",
+        "synonyms": [
+          "structure",
+          "model"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "psychology",
+        "definition": "Psychology is the scientific study of the mind and behavior, exploring how individuals think, feel, and act.",
+        "businessContext": "In business, understanding psychology is essential for marketing, user experience design, and organizational behavior, as it helps in predicting consumer behavior and improving employee engagement.",
+        "nuance": "The term often carries connotations of understanding deeper motivations and behaviors, which can be critical in tailoring strategies to meet user needs.",
+        "synonyms": [
+          "behavioral science",
+          "cognitive science"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "If you've lost conviction, you should not be doing what you're doing in the world of entrepreneurship. And I'll tell you, I get different answers. Some people are like, \"Oh, Scott, I mean, I have more conviction. All that I've learned, all the validation I've received from customers, we just haven't figured it out yet. It's driving me crazy.\"",
+    "text": "If you've lost conviction, you should not be doing what you're doing in the world of entrepreneurship. And I'll tell you, I get different answers. Some people are like, \"Oh, Scott, I mean, I have more conviction.",
     "speaker": "Scott Belsky",
     "timestamp": "00:01:01",
     "context": "Lenny asks about Scott's advice on when founders should quit versus persevere through difficult times. Scott shares his framework for helping founders make this decision by asking them to evaluate their current conviction level compared to when they started. He explains that founders who maintain or increase conviction despite setbacks should continue, while those who have lost belief in their solution should consider pivoting or quitting entirely.",
     "vocabulary_highlights": [
-      "lost conviction",
-      "all the validation I've received",
-      "driving me crazy",
-      "just haven't figured it out yet"
+      "conviction",
+      "entrepreneurship",
+      "framework",
+      "evaluate"
     ],
     "topics": [
       "Starting a Company",
@@ -75,7 +200,68 @@
     "text_ko": "확신을 잃었다면, 기업가 정신의 세계에서 지금 하고 있는 일을 계속하면 안 돼요. 제가 여러 사람에게 물어보면, 반응이 다 달라요. 어떤 사람들은 \"아, 스콧, 나는 더 확신이 있어요. 내가 배운 것들, 고객들한테 받은 검증들, 아직 해결하지 못한 것들 뿐이에요. 이게 나를 미치게 해요.\"라고 하더라고요.",
     "text_zh": "如果你对自己做的事情没信心了，那你就不应该搞创业这一套。我跟你说，我得到的回答各种各样。有些人会说：\"哦，Scott，我的信心其实更足了。我学到的这些东西，客户给我的这些验证，我们只是还没找到门道而已。这事儿快把我逼疯了。\"",
     "text_es": "Si has perdido la convicción, no deberías estar haciendo lo que estás haciendo en el mundo del emprendimiento. Y te digo, recibo respuestas muy diferentes. Algunas personas me dicen: \"Ay, Scott, o sea, tengo más convicción que nunca. Todo lo que he aprendido, toda la validación que he recibido de los clientes, simplemente no hemos dado en el clavo todavía. Me tiene loco.\"",
-    "key_sentence": "Lost conviction means you shouldn't be in entrepreneurship; it's driving me crazy."
+    "key_sentence": "If you've lost conviction, you should not be doing what you're doing in the world of entrepreneurship.",
+    "text_trimmed": true,
+    "original_text": "If you've lost conviction, you should not be doing what you're doing in the world of entrepreneurship. And I'll tell you, I get different answers. Some people are like, \"Oh, Scott, I mean, I have more conviction. All that I've learned, all the validation I've received from customers, we just haven't figured it out yet. It's driving me crazy.\"",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "conviction",
+        "definition": "A firmly held belief or opinion that is often accompanied by a strong sense of certainty.",
+        "businessContext": "In business, conviction refers to the strong belief in one's ideas, products, or strategies, which can inspire confidence among investors, employees, and customers.",
+        "nuance": "While conviction can be a positive driving force, excessive conviction without evidence can lead to stubbornness or poor decision-making.",
+        "synonyms": [
+          "belief",
+          "certainty"
+        ],
+        "antonyms": [
+          "doubt",
+          "uncertainty"
+        ]
+      },
+      {
+        "word": "entrepreneurship",
+        "definition": "The process of starting and operating a new business, typically characterized by innovation and risk-taking.",
+        "businessContext": "Entrepreneurship is crucial in the business landscape as it drives economic growth, creates jobs, and fosters innovation through the establishment of startups and new ventures.",
+        "nuance": "Entrepreneurship often implies a willingness to take risks and face challenges, and it is not limited to starting new businesses but also includes scaling and sustaining them.",
+        "synonyms": [
+          "business creation",
+          "venture initiation"
+        ],
+        "antonyms": [
+          "employment",
+          "stagnation"
+        ]
+      },
+      {
+        "word": "framework",
+        "definition": "A structured approach or system that provides guidance and support for understanding or addressing a particular issue or process.",
+        "businessContext": "In business, frameworks are used to develop strategies, analyze problems, and guide decision-making, such as the SWOT analysis or business model canvas.",
+        "nuance": "While frameworks provide valuable structure, they should be adapted to fit specific contexts rather than applied rigidly.",
+        "synonyms": [
+          "structure",
+          "system"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorder"
+        ]
+      },
+      {
+        "word": "evaluate",
+        "definition": "To assess or appraise the value, quality, or significance of something based on specific criteria.",
+        "businessContext": "In a business setting, evaluating performance, projects, or strategies is essential for making informed decisions and optimizing resources.",
+        "nuance": "Evaluation should be objective and based on data, but it can also involve subjective judgment depending on the context and criteria used.",
+        "synonyms": [
+          "assess",
+          "appraise"
+        ],
+        "antonyms": [
+          "ignore",
+          "neglect"
+        ]
+      }
+    ]
   },
   {
     "text": "I love bringing design upstream. In fact, that's probably been the cheat code of my career as a product leader, has just been disproportionately empowering design throughout the process.",
@@ -83,9 +269,10 @@
     "timestamp": "00:35:18",
     "context": "Lenny asks Scott about how he's helping PMs at Adobe leverage AI tools and new ways of working. Scott explains his approach to product development, emphasizing the importance of involving designers earlier in the product development process rather than just at the end for visual execution. He describes this as collapsing traditional organizational boundaries between product management and design functions.",
     "vocabulary_highlights": [
-      "bringing design upstream",
-      "cheat code",
-      "disproportionately empowering"
+      "empowering",
+      "disproportionately",
+      "upstream",
+      "leverage"
     ],
     "topics": [
       "Product Management",
@@ -101,16 +288,77 @@
     "text_ko": "저는 디자인을 초기 단계부터 참여시키는 걸 정말 좋아해요(bringing design upstream). 사실 제품 리더로서 제 커리어에서 그게 거의 치트 코드(cheat code)였어요 — 프로세스 전반에 걸쳐 디자인에 훨씬 더 많은 권한을 실어준 것이죠.",
     "text_zh": "我特别喜欢把设计往前提，提到整个流程的上游去。说实话，这可能就是我作为产品负责人的一个秘诀吧，就是在整个过程中给设计更大的话语权，让它发挥更重要的作用。",
     "text_es": "Me encanta meter el diseño desde el principio del proceso. De hecho, esa ha sido probablemente la clave secreta de mi carrera como líder de producto: darle un peso desproporcionadamente grande al diseño en todo el proceso.",
-    "key_sentence": "Bringing design upstream has been the cheat code of my career as a product leader."
+    "key_sentence": "Bringing design upstream has been the cheat code of my career as a product leader.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "empowering",
+        "definition": "Providing someone with the authority or power to do something, often leading to increased confidence and autonomy.",
+        "businessContext": "In business, empowering employees can enhance decision-making capabilities and foster innovation by encouraging initiative and ownership.",
+        "nuance": "While empowering is generally positive, it should be used carefully to ensure that it does not lead to a lack of accountability.",
+        "synonyms": [
+          "enabling",
+          "authorizing"
+        ],
+        "antonyms": [
+          "disempowering",
+          "restricting"
+        ]
+      },
+      {
+        "word": "disproportionately",
+        "definition": "In a manner that is out of proportion or not in balance, often referring to an unequal distribution of effects or resources.",
+        "businessContext": "In business analysis, one might find that certain groups or sectors are disproportionately affected by market changes or policy decisions.",
+        "nuance": "This term often carries a critical connotation, suggesting unfairness or imbalance that warrants attention.",
+        "synonyms": [
+          "unequally",
+          "disparately"
+        ],
+        "antonyms": [
+          "proportionately",
+          "equally"
+        ]
+      },
+      {
+        "word": "upstream",
+        "definition": "Referring to processes or activities that occur earlier in a supply chain or development cycle, often influencing subsequent stages.",
+        "businessContext": "In product development, bringing design upstream means integrating design considerations at the initial stages to enhance overall product quality.",
+        "nuance": "While commonly used in supply chain contexts, it can also apply metaphorically to any early-stage influence in a process.",
+        "synonyms": [
+          "preliminary",
+          "initial"
+        ],
+        "antonyms": [
+          "downstream",
+          "final"
+        ]
+      },
+      {
+        "word": "leverage",
+        "definition": "To use something to maximum advantage, often referring to resources, skills, or relationships to achieve a desired outcome.",
+        "businessContext": "In a business context, companies leverage their assets, such as technology or partnerships, to gain competitive advantages and drive growth.",
+        "nuance": "Leverage can imply a strategic use of resources, but overuse may suggest manipulation or exploitation, which can have negative connotations.",
+        "synonyms": [
+          "utilize",
+          "capitalize"
+        ],
+        "antonyms": [
+          "squander",
+          "waste"
+        ]
+      }
+    ]
   },
   {
-    "text": "If resources are carbs, resourcefulness is like muscle. It stays with you. It makes you stronger, and it helps you have a better intuition and better performance over time. I've always found that resourcefulness brings you further than resources despite the fact that over the last seven to 10 years, we've basically thrown resources at every problem.",
+    "text": "If resources are carbs, resourcefulness is like muscle. It stays with you. It makes you stronger, and it helps you have a better intuition and better performance over time.",
     "speaker": "Scott Belsky",
     "timestamp": "00:51:11",
     "context": "Scott shares his final words of wisdom for product builders, focusing on the current economic environment where companies have fewer resources. He contrasts the recent trend of solving problems by throwing money and headcount at them versus being forced to find more creative, efficient solutions. Scott argues this resource-constrained environment actually creates opportunities for teams to develop stronger problem-solving capabilities.",
     "vocabulary_highlights": [
-      "resourcefulness brings you further than resources",
-      "thrown resources at every problem"
+      "resourcefulness",
+      "intuition",
+      "performance",
+      "economic environment"
     ],
     "topics": [
       "Leadership & Management",
@@ -126,17 +374,79 @@
     "text_ko": "자원(resources)이 탄수화물이라면, 자원 활용력(resourcefulness)은 근육 같아요. 몸에 남아서 점점 더 강하게 해주고, 시간이 지날수록 직관력과 성과도 더 좋아지게 해줘요. 지난 7~10년 동안 사실상 모든 문제에 자원을 쏟아부었지만, 저는 항상 자원 활용력(resourcefulness)이 자원(resources)보다 더 멀리 데려다준다는 걸 느껴왔어요.",
     "text_zh": "如果说资源就像碳水化合物的话，那么机智应变(resourcefulness)就像肌肉一样。它会一直跟着你，让你变得更强，时间长了你的直觉会更准，表现也会更好。我一直觉得机智应变比光有资源更能让你走得远，虽然这七八年来，我们基本上遇到什么问题都是拿资源砸。",
     "text_es": "Si los recursos son como los carbohidratos, el ingenio es como el músculo. Se queda contigo. Te hace más fuerte y te ayuda a desarrollar mejor intuición y mejor rendimiento con el tiempo. Siempre he visto que el ingenio te lleva más lejos que los recursos, a pesar de que en los últimos siete a diez años básicamente hemos estado tirando recursos a cada problema que surge.",
-    "key_sentence": "Resourcefulness brings you further than resources, making you stronger over time."
+    "key_sentence": "Resourcefulness brings you further than resources, making you stronger over time.",
+    "text_trimmed": true,
+    "original_text": "If resources are carbs, resourcefulness is like muscle. It stays with you. It makes you stronger, and it helps you have a better intuition and better performance over time. I've always found that resourcefulness brings you further than resources despite the fact that over the last seven to 10 years, we've basically thrown resources at every problem.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "resourcefulness",
+        "definition": "The ability to find quick and clever ways to overcome difficulties or solve problems.",
+        "businessContext": "In business settings, resourcefulness is crucial for entrepreneurs and teams to navigate challenges, optimize limited resources, and innovate under pressure.",
+        "nuance": "While often associated with creativity, resourcefulness implies a practical approach to problem-solving rather than just theoretical ideas.",
+        "synonyms": [
+          "inventiveness",
+          "adaptability"
+        ],
+        "antonyms": [
+          "inability",
+          "helplessness"
+        ]
+      },
+      {
+        "word": "intuition",
+        "definition": "The ability to understand something instinctively, without the need for conscious reasoning.",
+        "businessContext": "In the corporate world, intuition can guide decision-making processes, especially in uncertain or rapidly changing environments where data may be incomplete.",
+        "nuance": "Intuition is often seen as a valuable complement to analytical thinking, but relying solely on it can lead to biased decisions.",
+        "synonyms": [
+          "insight",
+          "gut feeling"
+        ],
+        "antonyms": [
+          "reasoning",
+          "analysis"
+        ]
+      },
+      {
+        "word": "performance",
+        "definition": "The act of carrying out or accomplishing a task or function, often measured against established standards or expectations.",
+        "businessContext": "Performance metrics are critical in evaluating employee effectiveness, project outcomes, and overall organizational success in business environments.",
+        "nuance": "While performance typically refers to measurable outcomes, it can also encompass qualitative aspects such as teamwork and leadership.",
+        "synonyms": [
+          "execution",
+          "achievement"
+        ],
+        "antonyms": [
+          "failure",
+          "underperformance"
+        ]
+      },
+      {
+        "word": "economic environment",
+        "definition": "The overall state of the economy in which businesses operate, including factors like inflation, employment rates, and consumer behavior.",
+        "businessContext": "Understanding the economic environment is essential for strategic planning and risk management, as it influences market opportunities and operational costs.",
+        "nuance": "The term often implies a broader context that includes both macroeconomic indicators and microeconomic factors affecting specific industries.",
+        "synonyms": [
+          "market conditions",
+          "economic landscape"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "Creative professionals can now explore 10X the surface area of possibility. These tools are making them so much more efficient. And some people are like, \"Oh my gosh, creative pros are going to be replaced.\" No. No, no, no. They're not. They're just going to find 10X better solutions.",
+    "text": "Creative professionals can now explore 10X the surface area of possibility. These tools are making them so much more efficient. And some people are like, \"Oh my gosh, creative pros are going to be replaced.\" No. No, no, no. They're not.",
     "speaker": "Scott Belsky",
     "timestamp": "00:53:22",
     "context": "Lenny asks Scott to talk about what Adobe is working on and Scott explains three waves of transformation driving Adobe's strategy. One key wave is how AI tools are empowering creative professionals rather than replacing them. Scott argues that generative AI allows designers and creatives to explore far more possibilities in the same amount of time, leading to better creative solutions rather than job displacement.",
     "vocabulary_highlights": [
-      "10X the surface area of possibility",
-      "creative pros",
-      "10X better solutions"
+      "efficient",
+      "possibility",
+      "transformation",
+      "empowering"
     ],
     "topics": [
       "Product Management",
@@ -152,6 +462,67 @@
     "text_ko": "크리에이티브 전문가들은 이제 탐색할 수 있는 가능성의 폭을 10배(10X)로 넓혀볼 수 있어요. 이런 도구들 덕분에 훨씬 더 효율적으로 일하게 됐고요. 그러면 어떤 사람들은 \"오 마이 갓, 창의 전문가들이 대체되는 거 아니야?\"라고 말해요. 아니에요. 전혀 아니에요. 그들은 사라지는 게 아니라, 단지 10배 더 나은 해결책을 찾아내게 될 거예요.",
     "text_zh": "现在创意工作者能探索的可能性比以前多了十倍。这些工具让他们的效率大大提升。有些人就说\"哎呀，创意专业人士要被取代了\"。不对，完全不是这么回事。他们不会被取代，只是能找到比现在好十倍的解决方案。",
     "text_es": "Los profesionales creativos ahora pueden explorar diez veces más posibilidades. Estas herramientas los están haciendo muchísimo más eficientes. Y hay gente que dice: \"Ay, Dios mío, van a reemplazar a los creativos\". No. No, no, no. Para nada. Lo que van a hacer es encontrar soluciones diez veces mejores.",
-    "key_sentence": "Creative pros explore 10X the surface area of possibility, finding 10X better solutions."
+    "key_sentence": "Creative pros explore 10X the surface area of possibility, finding 10X better solutions.",
+    "text_trimmed": true,
+    "original_text": "Creative professionals can now explore 10X the surface area of possibility. These tools are making them so much more efficient. And some people are like, \"Oh my gosh, creative pros are going to be replaced.\" No. No, no, no. They're not. They're just going to find 10X better solutions.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "efficient",
+        "definition": "Achieving maximum productivity with minimum wasted effort or expense.",
+        "businessContext": "In business and technology, being efficient often refers to optimizing processes, reducing costs, and improving output to enhance overall performance.",
+        "nuance": "While 'efficient' implies a positive connotation of effectiveness, it can sometimes suggest a lack of flexibility or creativity in problem-solving.",
+        "synonyms": [
+          "effective",
+          "productive"
+        ],
+        "antonyms": [
+          "inefficient",
+          "wasteful"
+        ]
+      },
+      {
+        "word": "possibility",
+        "definition": "A potential or likelihood of something happening or being true.",
+        "businessContext": "In the context of startups and innovation, 'possibility' often refers to the exploration of new ideas, markets, or technologies that could lead to growth and success.",
+        "nuance": "The term carries an optimistic connotation, suggesting hope and opportunity, but can also imply uncertainty or risk.",
+        "synonyms": [
+          "potential",
+          "opportunity"
+        ],
+        "antonyms": [
+          "impossibility",
+          "certainty"
+        ]
+      },
+      {
+        "word": "transformation",
+        "definition": "A thorough or dramatic change in form or appearance, often leading to significant improvement.",
+        "businessContext": "In business, transformation can refer to changes in organizational structure, processes, or technology that enhance efficiency and competitiveness.",
+        "nuance": "While 'transformation' suggests a positive evolution, it can also imply disruption and resistance from stakeholders who are accustomed to the status quo.",
+        "synonyms": [
+          "change",
+          "metamorphosis"
+        ],
+        "antonyms": [
+          "stagnation",
+          "maintenance"
+        ]
+      },
+      {
+        "word": "empowering",
+        "definition": "Giving someone the authority or power to do something, often leading to increased confidence and self-efficacy.",
+        "businessContext": "In corporate settings, empowering employees can lead to greater innovation, engagement, and productivity, as individuals feel more invested in their work.",
+        "nuance": "The term carries a positive connotation, emphasizing support and encouragement, but can be misused if it leads to unrealistic expectations without adequate resources.",
+        "synonyms": [
+          "enabling",
+          "authorizing"
+        ],
+        "antonyms": [
+          "disempowering",
+          "restricting"
+        ]
+      }
+    ]
   }
 ]

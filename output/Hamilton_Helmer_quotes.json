@@ -1,12 +1,14 @@
 [
   {
-    "text": "One of the things that has really surprised me in the last five years has been that my understanding of the answer to that question has changed. And before I thought it was you do product market fit and then you do strategy, and if you try and put strategy before product market fit, it is not much you can do with it. That's wrong.",
+    "text": "One of the things that has really surprised me in the last five years has been that my understanding of the answer to that question has changed.",
     "speaker": "Hamilton Helmer",
     "timestamp": "00:04:14",
     "context": "Lenny asks Hamilton when founders should start thinking about power - before or after achieving product-market fit. Hamilton explains that his thinking has evolved over the past five years based on conversations with company founders. He used to believe you should focus on product-market fit first, then strategy second, but now realizes this approach is incorrect.",
     "vocabulary_highlights": [
-      "put strategy before",
-      "not much you can do with it"
+      "understanding",
+      "evolved",
+      "product-market fit",
+      "changed"
     ],
     "topics": [
       "Strategy & Planning",
@@ -22,17 +24,79 @@
     "text_ko": "지난 5년 동안 저를 정말 놀라게 한 것 중 하나는 그 질문에 대한 제 생각이 달라졌다는 거예요. 예전에는 먼저 제품-시장 적합성(product market fit)을 맞추고 그다음에 전략(strategy)을 세우는 거라고 생각했어요. 전략을 제품-시장 적합성보다 먼저 놓으면 그 전략으로 할 수 있는 게 별로 없을 거라고 생각했죠. 그런데 그건 틀렸어요.",
     "text_zh": "这五年来最让我意外的一点就是，我对这个问题的理解完全变了。以前我觉得应该是先做产品市场匹配(product market fit)，然后再做战略，如果你想在产品市场匹配之前就搞战略的话，基本上没什么用。这种想法是错的。",
     "text_es": "Una de las cosas que realmente me ha sorprendido en estos últimos cinco años es que mi forma de entender la respuesta a esa pregunta ha cambiado completamente. Antes pensaba que primero tenías que lograr el product market fit y después hacer estrategia, y que si intentabas poner la estrategia antes del product market fit, pues no podías hacer mucho con eso. Estaba equivocado.",
-    "key_sentence": "Putting strategy before product market fit is wrong."
+    "key_sentence": "my understanding of the answer to that question has changed.",
+    "text_trimmed": true,
+    "original_text": "One of the things that has really surprised me in the last five years has been that my understanding of the answer to that question has changed. And before I thought it was you do product market fit and then you do strategy, and if you try and put strategy before product market fit, it is not much you can do with it. That's wrong.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "understanding",
+        "definition": "The ability to comprehend or grasp the meaning of something, often involving insight or knowledge about a subject.",
+        "businessContext": "In business, understanding is crucial for making informed decisions, analyzing market trends, and developing strategies that align with customer needs.",
+        "nuance": "While 'understanding' implies a deep comprehension, it can also suggest a level of empathy or awareness, particularly in negotiations or team dynamics.",
+        "synonyms": [
+          "comprehension",
+          "insight"
+        ],
+        "antonyms": [
+          "misunderstanding",
+          "ignorance"
+        ]
+      },
+      {
+        "word": "evolved",
+        "definition": "To develop gradually, especially from a simple to a more complex form or state.",
+        "businessContext": "In the context of startups, a product or business model may have evolved to better meet customer demands or adapt to market changes.",
+        "nuance": "The term 'evolved' often carries a positive connotation, suggesting improvement or advancement over time, rather than mere change.",
+        "synonyms": [
+          "developed",
+          "progressed"
+        ],
+        "antonyms": [
+          "stagnated",
+          "regressed"
+        ]
+      },
+      {
+        "word": "product-market fit",
+        "definition": "The degree to which a product satisfies a strong market demand, indicating that the product is well-suited to its target audience.",
+        "businessContext": "Achieving product-market fit is a critical milestone for startups, as it validates the business model and indicates potential for growth and scalability.",
+        "nuance": "While product-market fit is essential for success, it is often a moving target that requires continuous adjustment based on customer feedback and market dynamics.",
+        "synonyms": [
+          "market alignment",
+          "customer fit"
+        ],
+        "antonyms": [
+          "product-market mismatch",
+          "market misalignment"
+        ]
+      },
+      {
+        "word": "changed",
+        "definition": "To make or become different; to alter or modify in some way.",
+        "businessContext": "In a business context, 'changed' often refers to shifts in strategy, operations, or market conditions that necessitate adaptation for continued success.",
+        "nuance": "The word 'changed' can imply both positive and negative transformations, so it is important to provide context to clarify the nature of the change.",
+        "synonyms": [
+          "altered",
+          "modified"
+        ],
+        "antonyms": [
+          "remained",
+          "stayed the same"
+        ]
+      }
+    ]
   },
   {
-    "text": "At the earlier stage, you can imagine wildly more degrees of freedom and the questions are of the business propositions that you're thinking of in trying to get to product-market fit, what are the underlying characteristics that might tilt them towards the availability of power or not?",
+    "text": "what are the underlying characteristics that might tilt them towards the availability of power or not?",
     "speaker": "Hamilton Helmer",
     "timestamp": "00:05:41",
     "context": "Hamilton continues explaining why early-stage founders should think about strategy even before achieving product-market fit. He clarifies that early-stage strategy isn't about detailed competitive planning, but rather evaluating which business propositions have characteristics that could lead to power (sustainable competitive advantage) later on.",
     "vocabulary_highlights": [
-      "wildly more degrees of freedom",
-      "tilt them towards",
-      "availability of power"
+      "underlying",
+      "characteristics",
+      "availability",
+      "strategy"
     ],
     "topics": [
       "Strategy & Planning",
@@ -48,17 +112,79 @@
     "text_ko": "초기 단계에서는 자유도(degrees of freedom)가 훨씬 더 많다고 상상할 수 있어요. 제품-시장 적합성(product-market fit)을 맞추려고 고민할 때, 핵심 질문은 여러분이 생각하는 비즈니스 제안들이 전력 가용성(availability of power)이 있느냐 없느냐에 따라 유리해지거나 불리해지게 만드는 근본적 특성들이 무엇인지예요.",
     "text_zh": "在早期阶段，你可以天马行空地想象更多的可能性，关键问题是你在考虑的商业模式能不能找到产品市场契合度(product-market fit)，这些模式的底层特征会不会让你更容易获得话语权？",
     "text_es": "En las etapas tempranas, puedes imaginar muchísimos más grados de libertad y las preguntas van sobre las propuestas de negocio en las que estás pensando para lograr el product-market fit: ¿cuáles son las características de fondo que podrían inclinarlas hacia tener poder de mercado o no?",
-    "key_sentence": "You can imagine wildly more degrees of freedom at earlier stages."
+    "key_sentence": "the underlying characteristics that might tilt them towards the availability of power or not?",
+    "text_trimmed": true,
+    "original_text": "At the earlier stage, you can imagine wildly more degrees of freedom and the questions are of the business propositions that you're thinking of in trying to get to product-market fit, what are the underlying characteristics that might tilt them towards the availability of power or not?",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "underlying",
+        "definition": "Referring to something that is fundamental or foundational, often not immediately visible but essential to understanding a situation.",
+        "businessContext": "In business analysis, 'underlying' factors are crucial for identifying root causes of issues or opportunities, such as market trends or consumer behavior.",
+        "nuance": "While 'underlying' suggests a deeper significance, it should be used carefully to avoid implying hidden motives without evidence.",
+        "synonyms": [
+          "fundamental",
+          "basic"
+        ],
+        "antonyms": [
+          "superficial",
+          "apparent"
+        ]
+      },
+      {
+        "word": "characteristics",
+        "definition": "Distinctive attributes or qualities that define an entity or phenomenon.",
+        "businessContext": "In market research, understanding the characteristics of a target demographic is essential for tailoring products and marketing strategies effectively.",
+        "nuance": "The term is often used in a neutral context; however, it can imply a focus on both positive and negative traits depending on the discussion.",
+        "synonyms": [
+          "traits",
+          "features"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "availability",
+        "definition": "The state of being accessible or obtainable, often referring to resources, products, or services.",
+        "businessContext": "In supply chain management, the availability of materials can significantly impact production schedules and overall operational efficiency.",
+        "nuance": "While 'availability' generally has a positive connotation, it can also imply scarcity or limitations when discussing resources.",
+        "synonyms": [
+          "accessibility",
+          "supply"
+        ],
+        "antonyms": [
+          "scarcity",
+          "unavailability"
+        ]
+      },
+      {
+        "word": "strategy",
+        "definition": "A plan of action designed to achieve a long-term or overall aim, often involving the allocation of resources.",
+        "businessContext": "In corporate settings, a well-defined strategy is crucial for guiding decision-making and aligning organizational efforts towards common goals.",
+        "nuance": "The term 'strategy' conveys a sense of foresight and planning, and should be used in contexts that emphasize thoughtful, deliberate actions rather than reactive measures.",
+        "synonyms": [
+          "plan",
+          "approach"
+        ],
+        "antonyms": [
+          "tactic",
+          "improvisation"
+        ]
+      }
+    ]
   },
   {
-    "text": "As I said, I'm a concept person and so when you develop concepts, you have to be very highly constrained by their usefulness. I'm a great fan of the great mathematician, John von Neumann, and he had a view which really irritated a lot of mathematicians, which is that if mathematics wasn't guided by what was useful, it would become, I think the word he used was aesthetic to aesthetic.",
+    "text": "As I said, I'm a concept person and so when you develop concepts, you have to be very highly constrained by their usefulness.",
     "speaker": "Hamilton Helmer",
     "timestamp": "00:08:24",
     "context": "Lenny asks Hamilton to define strategy and explain how it relates to power. Hamilton begins by explaining his philosophy on developing business concepts - they must be constrained by their practical usefulness. He references mathematician John von Neumann's controversial view that mathematics should be guided by utility rather than pure aesthetics.",
     "vocabulary_highlights": [
-      "concept person",
-      "highly constrained by their usefulness",
-      "aesthetic to aesthetic"
+      "constrained",
+      "usefulness",
+      "develop",
+      "concept"
     ],
     "topics": [
       "Strategy & Planning",
@@ -74,17 +200,79 @@
     "text_ko": "말했듯이 저는 개념 중심 사람이에요. 그래서 개념을 개발할 때는 그 유용성에 의해 아주 엄격하게 제약돼야 해요. 저는 위대한 수학자 존 폰 노이만(John von Neumann)을 매우 존경하는데, 그가 가진 생각 중 하나는 많은 수학자들을 불편하게 만들었어요. 그는 수학이 쓸모 있는 것에 의해 이끌리지 않으면, 결국 ‘미학을 위한 미학’(aesthetic to aesthetic)으로 흘러간다고 봤어요.",
     "text_zh": "就像我说的，我是个搞概念的人，所以当你在开发概念的时候，必须要严格考虑它们的实用性。我特别推崇伟大的数学家冯·诺伊曼，他有个观点让很多数学家都不爽，就是说如果数学不以实用为导向的话，就会变成纯粹为了美感而美感的东西。",
     "text_es": "Como te dije, soy una persona de conceptos, y cuando desarrollas conceptos, tienes que estar muy limitado por su utilidad práctica. Soy gran admirador del matemático John von Neumann, y él tenía una perspectiva que realmente molestaba a muchos matemáticos: que si las matemáticas no se guiaban por lo que era útil, se volverían, creo que la palabra que usaba era \"estética por estética\" (aesthetic to aesthetic).",
-    "key_sentence": "Concept development must be highly constrained by their usefulness."
+    "key_sentence": "Concept development must be highly constrained by their usefulness.",
+    "text_trimmed": true,
+    "original_text": "As I said, I'm a concept person and so when you develop concepts, you have to be very highly constrained by their usefulness. I'm a great fan of the great mathematician, John von Neumann, and he had a view which really irritated a lot of mathematicians, which is that if mathematics wasn't guided by what was useful, it would become, I think the word he used was aesthetic to aesthetic.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "constrained",
+        "definition": "Limited in extent, scope, or action; restricted by certain conditions or factors.",
+        "businessContext": "In business settings, being constrained often refers to limitations imposed by budget, resources, or regulatory requirements that affect decision-making and strategy.",
+        "nuance": "While 'constrained' typically has a negative connotation of restriction, it can also imply a focused approach that encourages creativity within set boundaries.",
+        "synonyms": [
+          "restricted",
+          "limited"
+        ],
+        "antonyms": [
+          "unrestricted",
+          "free"
+        ]
+      },
+      {
+        "word": "usefulness",
+        "definition": "The quality of being able to provide a practical benefit or utility; the degree to which something serves a purpose.",
+        "businessContext": "In the context of product development or service design, usefulness is a critical factor that determines customer satisfaction and market success.",
+        "nuance": "Usefulness can vary based on user needs and contexts, making it essential to assess from multiple perspectives before finalizing a product or service.",
+        "synonyms": [
+          "utility",
+          "practicality"
+        ],
+        "antonyms": [
+          "uselessness",
+          "ineffectiveness"
+        ]
+      },
+      {
+        "word": "develop",
+        "definition": "To create, grow, or improve something over time through a process of planning, design, and execution.",
+        "businessContext": "In business and technology, developing often refers to the stages of product development, including ideation, prototyping, and market launch.",
+        "nuance": "While 'develop' suggests a positive progression, it can also imply challenges or setbacks in the process that require adaptation and resilience.",
+        "synonyms": [
+          "create",
+          "enhance"
+        ],
+        "antonyms": [
+          "deteriorate",
+          "stagnate"
+        ]
+      },
+      {
+        "word": "concept",
+        "definition": "An abstract idea or a general notion that serves as a foundation for understanding or creating something.",
+        "businessContext": "In startups and innovation, a concept often represents the initial idea that drives product development and strategic planning.",
+        "nuance": "The term 'concept' can imply a theoretical framework that may not yet be fully realized, making it important to differentiate between concept and execution.",
+        "synonyms": [
+          "idea",
+          "notion"
+        ],
+        "antonyms": [
+          "reality",
+          "fact"
+        ]
+      }
+    ]
   },
   {
-    "text": "So think of Pearl Harbor, Pearl Harbor for the Japanese was this enormous tactical success. They just destroyed the US ability, naval ability in the Pacific Ocean and the worst possible strategic move because it completely solved Franklin Delano Roosevelt's problem of how he could get the US citizens on board to attacking Hitler.",
+    "text": "So think of Pearl Harbor, Pearl Harbor for the Japanese was this enormous tactical success.",
     "speaker": "Hamilton Helmer",
     "timestamp": "00:09:58",
     "context": "Hamilton is explaining why strategy should focus on long-term business value creation, which requires thinking far into the future. He uses Pearl Harbor as a historical example to illustrate the critical difference between tactical success (short-term wins) and strategic thinking (long-term consequences). The attack was tactically successful but strategically disastrous for Japan.",
     "vocabulary_highlights": [
-      "enormous tactical success",
-      "worst possible strategic move",
-      "get the US citizens on board"
+      "tactical",
+      "success",
+      "strategy",
+      "value creation"
     ],
     "topics": [
       "Strategy & Planning",
@@ -100,17 +288,79 @@
     "text_ko": "그러니까 진주만을 떠올려 보세요. 일본 입장에선 진주만 공격이 전술적으로는 엄청난 성공이었어요. 태평양에서 미국의 해군력을 완전히 무력화시켰죠. 그런데 전략적으로는 최악의 실수였어요. 그 공격이 프랭클린 D. 루스벨트가 미국 국민들을 히틀러 공격에 찬성하도록 만들 방법을 완전히 해결해 줬거든요.",
     "text_zh": "你想想珍珠港事件，对日本人来说，这在战术上是个巨大的成功。他们直接把美国在太平洋的海军力量给摧毁了，但从战略角度来看，这是最愚蠢的一步棋，因为这完全帮罗斯福总统解决了一个大难题——怎么让美国老百姓支持去打希特勒。",
     "text_es": "Piensen en Pearl Harbor, Pearl Harbor para los japoneses fue un éxito táctico tremendo. Acabaron con la capacidad naval de Estados Unidos en el Pacífico, pero fue la peor jugada estratégica posible porque le resolvió completamente el problema a Franklin Delano Roosevelt de cómo convencer a los ciudadanos estadounidenses de ir a la guerra contra Hitler.",
-    "key_sentence": "Pearl Harbor was an enormous tactical success but a worst possible strategic move."
+    "key_sentence": "Pearl Harbor for the Japanese was this enormous tactical success.",
+    "text_trimmed": true,
+    "original_text": "So think of Pearl Harbor, Pearl Harbor for the Japanese was this enormous tactical success. They just destroyed the US ability, naval ability in the Pacific Ocean and the worst possible strategic move because it completely solved Franklin Delano Roosevelt's problem of how he could get the US citizens on board to attacking Hitler.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "tactical",
+        "definition": "Relating to actions or strategies carefully planned to achieve a specific end. It often involves short-term decisions that contribute to a larger goal.",
+        "businessContext": "In business, tactical decisions are often made to respond quickly to market changes or to capitalize on immediate opportunities, such as promotional campaigns or operational adjustments.",
+        "nuance": "While 'tactical' implies a focus on immediate actions, it should not be confused with 'strategic,' which encompasses long-term planning.",
+        "synonyms": [
+          "operational",
+          "pragmatic"
+        ],
+        "antonyms": [
+          "strategic",
+          "theoretical"
+        ]
+      },
+      {
+        "word": "success",
+        "definition": "The accomplishment of a goal or purpose, often measured by the achievement of desired outcomes or performance indicators. It can be subjective and vary based on individual or organizational objectives.",
+        "businessContext": "In business, success is typically defined by metrics such as profitability, market share, customer satisfaction, or achievement of strategic goals.",
+        "nuance": "Success can be perceived differently across cultures and industries, and it is important to define what success means in a specific context.",
+        "synonyms": [
+          "achievement",
+          "victory"
+        ],
+        "antonyms": [
+          "failure",
+          "setback"
+        ]
+      },
+      {
+        "word": "strategy",
+        "definition": "A comprehensive plan designed to achieve long-term objectives, often involving the allocation of resources and the consideration of competitive dynamics. It provides a framework for decision-making and prioritization.",
+        "businessContext": "In business, a well-defined strategy guides the organization in achieving its goals, navigating market challenges, and positioning itself against competitors.",
+        "nuance": "Strategy is broader and more long-term than tactics; it is essential to ensure that tactical actions align with the overarching strategic vision.",
+        "synonyms": [
+          "plan",
+          "approach"
+        ],
+        "antonyms": [
+          "tactics",
+          "improvisation"
+        ]
+      },
+      {
+        "word": "value creation",
+        "definition": "The process of generating worth or utility through products, services, or innovations that meet customer needs and enhance stakeholder satisfaction. It is a key driver of business success.",
+        "businessContext": "In business, value creation is central to competitive advantage and profitability, as companies strive to deliver superior value to customers while maximizing returns for shareholders.",
+        "nuance": "Value creation can be tangible or intangible and should be measured not just in financial terms but also in customer loyalty and brand reputation.",
+        "synonyms": [
+          "value generation",
+          "value enhancement"
+        ],
+        "antonyms": [
+          "value destruction",
+          "value loss"
+        ]
+      }
+    ]
   },
   {
-    "text": "So take branding and process power and process power is really operational excellence on steroids and usually is imitable, so it's usually not. So take those off the table and then a resource type of power, which is you have something that is of value that if you transferred it to somebody else it would be of value to them, but you own the rights.",
+    "text": "So take branding and process power and process power is really operational excellence on steroids and usually is imitable, so it's usually not.",
     "speaker": "Hamilton Helmer",
     "timestamp": "00:16:25",
     "context": "Lenny asks Hamilton which of the seven powers are most relevant for early-stage startups. Hamilton explains that startups should focus on only four of the seven powers because three are typically unavailable to them. He's defining which powers to 'take off the table' - branding, process power, and resource power are generally not accessible to early-stage companies.",
     "vocabulary_highlights": [
-      "operational excellence on steroids",
-      "take those off the table",
-      "own the rights"
+      "branding",
+      "operational excellence",
+      "imitable",
+      "relevant"
     ],
     "topics": [
       "Strategy & Planning",
@@ -126,16 +376,79 @@
     "text_ko": "그러니까 브랜딩(branding)과 프로세스 파워(process power)를 빼보면, 프로세스 파워는 사실 운영 우수성(operational excellence)을 극단적으로 강화한 거고 보통은 모방당하기 쉬워서 지속적인 우위가 되기 어렵요. 그런 것들을 제외하면 자원형 파워(resource-type power)가 남는데, 그건 다른 사람에게 이전해줘도 그 사람에게 가치가 되는 무언가를 당신이 가지고 있고 그에 대한 권리를 소유하고 있다는 뜻이에요.",
     "text_zh": "所以说品牌和流程优势就先不谈了，流程优势其实就是运营卓越(operational excellence)的加强版，通常都是可以被复制的，所以基本上不算什么护城河。把这些都排除掉之后，还有一种叫资源型优势，就是你手里有些值钱的东西，这些东西如果给别人用也很有价值，但是使用权在你手上。",
     "text_es": "Entonces quítale el branding y el poder de procesos, y el poder de procesos en realidad es excelencia operacional pero potenciada al máximo, y normalmente se puede imitar, o sea, por lo general no es exclusivo. Entonces descarta esos y luego tienes el poder de recursos (resource power), que es cuando tienes algo valioso que si se lo pasaras a otra persona también le sería valioso, pero tú tienes los derechos.",
-    "key_sentence": "Operational excellence on steroids is usually not imitable; take those off the table."
+    "key_sentence": "Operational excellence on steroids is usually not imitable; take those off the table.",
+    "text_trimmed": true,
+    "original_text": "So take branding and process power and process power is really operational excellence on steroids and usually is imitable, so it's usually not. So take those off the table and then a resource type of power, which is you have something that is of value that if you transferred it to somebody else it would be of value to them, but you own the rights.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "branding",
+        "definition": "Branding refers to the process of creating a unique identity for a product or service through the use of names, symbols, designs, and messaging.",
+        "businessContext": "In business, effective branding helps differentiate a company from its competitors and fosters customer loyalty by establishing a recognizable image and reputation.",
+        "nuance": "While branding is often associated with visual elements, it also encompasses the overall perception and emotional connection consumers have with a brand.",
+        "synonyms": [
+          "brand identity",
+          "brand image"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "operational excellence",
+        "definition": "Operational excellence is a philosophy that emphasizes continuous improvement, efficiency, and effectiveness in an organization's operations to deliver maximum value to customers.",
+        "businessContext": "In a business setting, operational excellence is often pursued through methodologies like Lean, Six Sigma, or Total Quality Management to enhance productivity and reduce waste.",
+        "nuance": "This term implies not just meeting standards but consistently exceeding them, making it a key competitive advantage for organizations.",
+        "synonyms": [
+          "process optimization",
+          "efficiency mastery"
+        ],
+        "antonyms": [
+          "operational inefficiency",
+          "process failure"
+        ]
+      },
+      {
+        "word": "imitable",
+        "definition": "Imitable describes something that can be easily replicated or copied by others, often referring to business practices, strategies, or products.",
+        "businessContext": "In the context of business, a strategy or product that is imitable may face challenges in maintaining a competitive edge, as competitors can quickly adopt similar approaches.",
+        "nuance": "While imitable can suggest a lack of uniqueness, it can also imply that certain practices are best practices worth emulating.",
+        "synonyms": [
+          "replicable",
+          "copyable"
+        ],
+        "antonyms": [
+          "unique",
+          "inimitable"
+        ]
+      },
+      {
+        "word": "relevant",
+        "definition": "Relevant refers to something that is closely connected or appropriate to the matter at hand, particularly in terms of its significance or applicability.",
+        "businessContext": "In business discussions, ensuring that information, strategies, or products are relevant is crucial for decision-making and aligning with market needs.",
+        "nuance": "The term often implies a dynamic quality, as what is considered relevant can change based on trends, consumer preferences, or technological advancements.",
+        "synonyms": [
+          "pertinent",
+          "applicable"
+        ],
+        "antonyms": [
+          "irrelevant",
+          "inapplicable"
+        ]
+      }
+    ]
   },
   {
-    "text": "We laugh whenever we hear somebody say they have a flywheel, which gives you the idea of network economies. There are often flywheels, the ones that really are material, are rare. The key thing here is materiality, not whether the flywheel exists, but whether the effect is strong enough to really tilt returns.",
+    "text": "We laugh whenever we hear somebody say they have a flywheel, which gives you the idea of network economies. There are often flywheels, the ones that really are material, are rare.",
     "speaker": "Hamilton Helmer",
     "timestamp": "00:23:50",
     "context": "Lenny asks Hamilton about common misconceptions founders have about their competitive advantages. Hamilton is discussing how founders often incorrectly claim they have powerful 'flywheels' (self-reinforcing business cycles that create network effects). He explains that while many businesses have some flywheel effects, very few have effects strong enough to materially impact their financial performance.",
     "vocabulary_highlights": [
-      "really are material",
-      "strong enough to really tilt returns"
+      "network economies",
+      "competitive advantages",
+      "material",
+      "misconceptions"
     ],
     "topics": [
       "Strategy & Planning",
@@ -151,16 +464,79 @@
     "text_ko": "누군가 '플라이휠(flywheel)이 있어요'라고 하면 늘 웃게 돼요. 그 말이 네트워크 경제(network economies)를 떠올리게 하거든요. 플라이휠이라고 주장하는 경우는 많지만, 실제로 실질성(materiality)이 있는 플라이휠은 드물어요. 여기서 중요한 건 플라이휠의 존재 여부가 아니라 그 실질성(materiality), 즉 효과가 실제로 수익률을 확실히 기울일 만큼 충분히 강한지 여부예요.",
     "text_zh": "每次听到有人说他们有飞轮效应(flywheel)、有网络经济效应什么的，我们就想笑。飞轮这东西到处都有，但真正管用的很少见。关键不在于你有没有飞轮，而在于这个效应够不够强，能不能真正带来实质性的回报提升。",
     "text_es": "Nos reímos cada vez que escuchamos a alguien decir que tiene un flywheel, que te da la idea de economías de red. A menudo hay flywheels, pero los que realmente son importantes son escasos. Lo clave aquí es qué tan significativo es, no si el flywheel existe, sino si el efecto es lo suficientemente fuerte como para realmente inclinar los rendimientos.",
-    "key_sentence": "Materiality, not existence, determines if flywheels can really tilt returns."
+    "key_sentence": "There are often flywheels, the ones that really are material, are rare.",
+    "text_trimmed": true,
+    "original_text": "We laugh whenever we hear somebody say they have a flywheel, which gives you the idea of network economies. There are often flywheels, the ones that really are material, are rare. The key thing here is materiality, not whether the flywheel exists, but whether the effect is strong enough to really tilt returns.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "network economies",
+        "definition": "Network economies refer to the economic advantages gained as the size of a network increases, where the value of a product or service grows as more users join the network.",
+        "businessContext": "In business and technology, network economies are crucial for platforms and services that rely on user participation, such as social media and online marketplaces, where the user base enhances the overall value proposition.",
+        "nuance": "This term often implies a positive feedback loop where increased usage leads to greater value, making it a key concept in discussions about scalability and market dominance.",
+        "synonyms": [
+          "network effects",
+          "scale economies"
+        ],
+        "antonyms": [
+          "decreasing returns",
+          "N/A"
+        ]
+      },
+      {
+        "word": "competitive advantages",
+        "definition": "Competitive advantages are unique attributes or conditions that allow a company to outperform its rivals, leading to greater market share or profitability.",
+        "businessContext": "In the context of startups and businesses, identifying and leveraging competitive advantages is essential for strategic planning and positioning within the market.",
+        "nuance": "This term often suggests a sustainable edge over competitors, which can be derived from factors such as innovation, cost structure, or brand loyalty.",
+        "synonyms": [
+          "strategic advantages",
+          "market advantages"
+        ],
+        "antonyms": [
+          "competitive disadvantages",
+          "N/A"
+        ]
+      },
+      {
+        "word": "material",
+        "definition": "In a business context, 'material' refers to information or factors that are significant enough to influence decisions or outcomes.",
+        "businessContext": "Material information is critical in financial reporting and compliance, as it can affect investor decisions and regulatory assessments.",
+        "nuance": "The term often conveys a sense of importance or relevance, and is typically used in discussions about transparency and accountability.",
+        "synonyms": [
+          "significant",
+          "substantial"
+        ],
+        "antonyms": [
+          "insignificant",
+          "trivial"
+        ]
+      },
+      {
+        "word": "misconceptions",
+        "definition": "Misconceptions are incorrect beliefs or ideas that arise from misunderstanding or lack of information.",
+        "businessContext": "In business and marketing, addressing misconceptions is vital for effective communication and can influence consumer behavior and brand perception.",
+        "nuance": "This term often carries a connotation of confusion or misinformation, suggesting the need for clarification or education.",
+        "synonyms": [
+          "fallacies",
+          "misunderstandings"
+        ],
+        "antonyms": [
+          "understandings",
+          "accuracies"
+        ]
+      }
+    ]
   },
   {
-    "text": "And so all that thoughtfulness about which things you put first and how you structure it and all that to make this suitable was mimicable. So that's an understanding of looking at the properties you have and trying to figure out if they're a castle or a shack.",
+    "text": "And so all that thoughtfulness about which things you put first and how you structure it and all that to make this suitable was mimicable.",
     "speaker": "Hamilton Helmer",
     "timestamp": "00:32:31",
     "context": "Hamilton is explaining Warren Buffett's famous quote about looking for 'economic castles protected by unbreachable moats.' Using Netflix as an example, Hamilton describes how many important business capabilities (like UI development and recommendation engines) can be copied by competitors, making them 'shacks' rather than 'castles' in terms of sustainable competitive advantage.",
     "vocabulary_highlights": [
-      "was mimicable",
-      "if they're a castle or a shack"
+      "thoughtfulness",
+      "structure",
+      "suitable",
+      "mimicable"
     ],
     "topics": [
       "Strategy & Planning",
@@ -176,6 +552,67 @@
     "text_ko": "그래서 무엇을 우선으로 두고 어떻게 구조화할지, 즉 적절하게 만들기 위해 신경 쓴 부분들은 모방할 수 있었어요(mimicable). 결국 그건 자신이 가진 특성(properties)을 보고 그게 성(castle)인지 오두막(shack)인지 가늠해 보려는 이해예요.",
     "text_zh": "所以说，你在考虑什么东西放在前面、怎么去架构整个结构，怎么让它变得合适——这些用心的地方其实都是可以学习和模仿的。换句话说，就是要看清楚你手里的资产到底是什么性质的，搞明白它们到底是城堡还是破房子。",
     "text_es": "Y entonces toda esa reflexión sobre qué cosas pones primero y cómo lo estructuras y todo eso para que fuera replicable, eso se podía imitar. O sea, es entender qué propiedades tienes y tratar de determinar si son un castillo o una choza.",
-    "key_sentence": "Thoughtfulness in structuring was mimicable; assess if properties are a castle or a shack."
+    "key_sentence": "all that thoughtfulness about which things you put first and how you structure it",
+    "text_trimmed": true,
+    "original_text": "And so all that thoughtfulness about which things you put first and how you structure it and all that to make this suitable was mimicable. So that's an understanding of looking at the properties you have and trying to figure out if they're a castle or a shack.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "thoughtfulness",
+        "definition": "The quality of being considerate and reflective about the needs and feelings of others, often leading to careful decision-making.",
+        "businessContext": "In business, thoughtfulness is crucial for effective leadership and team dynamics, as it fosters a collaborative environment where diverse perspectives are valued.",
+        "nuance": "While thoughtfulness generally has a positive connotation, excessive thoughtfulness can sometimes lead to indecision or over-analysis.",
+        "synonyms": [
+          "consideration",
+          "deliberation"
+        ],
+        "antonyms": [
+          "carelessness",
+          "impulsiveness"
+        ]
+      },
+      {
+        "word": "structure",
+        "definition": "The arrangement or organization of components within a system, often designed to enhance functionality and efficiency.",
+        "businessContext": "In a business context, structure refers to the organizational framework that defines roles, responsibilities, and workflows, which is essential for achieving strategic objectives.",
+        "nuance": "While structure implies order and organization, it can also suggest rigidity if not balanced with flexibility to adapt to changing circumstances.",
+        "synonyms": [
+          "framework",
+          "organization"
+        ],
+        "antonyms": [
+          "disorganization",
+          "chaos"
+        ]
+      },
+      {
+        "word": "suitable",
+        "definition": "Appropriate or fitting for a particular purpose, situation, or person.",
+        "businessContext": "In business, determining whether a product, service, or strategy is suitable involves assessing its alignment with market needs and organizational goals.",
+        "nuance": "The term suitable often carries a sense of adequacy, but it can imply a lack of excellence or ideality in certain contexts.",
+        "synonyms": [
+          "appropriate",
+          "fitting"
+        ],
+        "antonyms": [
+          "unsuitable",
+          "inappropriate"
+        ]
+      },
+      {
+        "word": "mimicable",
+        "definition": "Capable of being imitated or replicated, often referring to processes or behaviors that can be copied for efficiency or effectiveness.",
+        "businessContext": "In startups and tech, creating mimicable processes is essential for scalability, allowing successful practices to be easily adopted across teams or projects.",
+        "nuance": "While mimicable suggests ease of replication, it may also imply a lack of originality or innovation if overemphasized.",
+        "synonyms": [
+          "imitable",
+          "replicable"
+        ],
+        "antonyms": [
+          "unique",
+          "original"
+        ]
+      }
+    ]
   }
 ]

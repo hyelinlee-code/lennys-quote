@@ -1,13 +1,14 @@
 [
   {
-    "text": "The problem with funnels and pirate metrics and the favorites that I love to pick on are MQLs and SQLs is that nobody knows what those mean. It puts every customer in the same sort of buckets. It assumes that all customers and all products are the same. It puts businesses, or they, I should say, puts businesses at the center of the business versus putting customers at the center.",
+    "text": "The problem with funnels and pirate metrics and the favorites that I love to pick on are MQLs and SQLs is that nobody knows what those mean. It puts every customer in the same sort of buckets.",
     "speaker": "Georgiana Laudi",
     "timestamp": "00:00:00",
     "context": "Lenny asks Georgiana why she calls her consultancy 'Forget The Funnel.' Georgiana explains her fundamental criticism of traditional marketing funnels and metrics like MQLs (Marketing Qualified Leads) and SQLs (Sales Qualified Leads). She argues these frameworks are outdated because they treat all customers the same way and focus on what's valuable to the business rather than what's valuable to customers.",
     "vocabulary_highlights": [
-      "love to pick on",
-      "sort of buckets",
-      "puts businesses at the center"
+      "fundamental",
+      "metrics",
+      "qualified",
+      "buckets"
     ],
     "topics": [
       "Growth & Marketing",
@@ -23,17 +24,79 @@
     "text_ko": "퍼널(funnels)이나 파이럿 메트릭스(pirate metrics), 제가 자주 지적하는 MQLs(마케팅 적격 리드)와 SQLs(영업 적격 리드)의 문제는 아무도 그게 정확히 무엇을 뜻하는지 모른다는 거예요. 그런 접근법은 모든 고객을 똑같은 몇 개의 '버킷'에 넣어버리고, 모든 고객과 모든 제품이 같다고 가정하게 만들어요. 결과적으로 기업(비즈니스)을 중심에 놓고 고객을 중심에 두지 않게 되죠.",
     "text_zh": "漏斗模型和海盗指标(pirate metrics)这些东西的问题，还有我最爱吐槽的MQL和SQL，就是根本没人搞得清楚这些到底是什么意思。这套方法把所有客户都往同一个框里装，默认所有客户、所有产品都一个样。结果呢，企业就以自己为中心在做生意，而不是以客户为中心。",
     "text_es": "El problema con los embudos y las métricas pirata y mis favoritos que me encanta criticar, que son los MQLs y SQLs, es que nadie sabe realmente qué significan. Meten a todos los clientes en las mismas cajitas. Asumen que todos los clientes y todos los productos son iguales. Ponen a las empresas, o mejor dicho, hacen que las empresas se pongan en el centro del negocio en lugar de poner a los clientes en el centro.",
-    "key_sentence": "MQLs and SQLs put customers in the same sort of buckets."
+    "key_sentence": "MQLs and SQLs put customers in the same sort of buckets.",
+    "text_trimmed": true,
+    "original_text": "The problem with funnels and pirate metrics and the favorites that I love to pick on are MQLs and SQLs is that nobody knows what those mean. It puts every customer in the same sort of buckets. It assumes that all customers and all products are the same. It puts businesses, or they, I should say, puts businesses at the center of the business versus putting customers at the center.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "fundamental",
+        "definition": "Serving as a foundation or basis; essential and primary in nature.",
+        "businessContext": "In business, 'fundamental' often refers to core principles or elements that are crucial for the success of a strategy or operation, such as fundamental market trends or fundamental financial metrics.",
+        "nuance": "While 'fundamental' implies importance, it can also suggest a basic level of understanding, so it should be used when emphasizing essential concepts rather than superficial ones.",
+        "synonyms": [
+          "essential",
+          "basic"
+        ],
+        "antonyms": [
+          "superficial",
+          "secondary"
+        ]
+      },
+      {
+        "word": "metrics",
+        "definition": "Quantitative measures used to assess, compare, and track performance or progress.",
+        "businessContext": "In the business and tech sectors, metrics are critical for evaluating the effectiveness of strategies, products, or campaigns, such as conversion rates or customer acquisition costs.",
+        "nuance": "The term 'metrics' often carries a connotation of data-driven decision-making, so it is best used in contexts that emphasize analytical approaches rather than qualitative assessments.",
+        "synonyms": [
+          "measurements",
+          "indicators"
+        ],
+        "antonyms": [
+          "qualitative assessments",
+          "subjective evaluations"
+        ]
+      },
+      {
+        "word": "qualified",
+        "definition": "Having the necessary skills, knowledge, or experience to perform a specific task or role.",
+        "businessContext": "In a business context, 'qualified' often describes candidates for a position or leads in a sales funnel, indicating that they meet certain criteria for further consideration.",
+        "nuance": "While 'qualified' suggests suitability, it can also imply a level of exclusivity, so it should be used carefully to avoid appearing elitist or dismissive of other candidates.",
+        "synonyms": [
+          "competent",
+          "suitable"
+        ],
+        "antonyms": [
+          "unqualified",
+          "incompetent"
+        ]
+      },
+      {
+        "word": "buckets",
+        "definition": "Categories or groups used to organize or classify items, data, or individuals based on shared characteristics.",
+        "businessContext": "In business, 'buckets' are often used to segment customers, leads, or data points for analysis or targeted strategies, such as customer demographics or sales stages.",
+        "nuance": "The term 'buckets' can imply a simplistic or overly broad categorization, so it is best used when discussing clear groupings rather than nuanced distinctions.",
+        "synonyms": [
+          "categories",
+          "groups"
+        ],
+        "antonyms": [
+          "individuals",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "Generally, the lowest hanging fruit outcome is realigning around better positioning and messaging. And identifying more resonant positioning and messaging that speaks to that context that I was talking about before, before people discover that you even exist, have that moment where they're like, \"Oh my god, this has to change. This sucks,\" ties that in, ties in what they care about and what is valuable about your product and then also that desired outcome.",
+    "text": "Generally, the lowest hanging fruit outcome is realigning around better positioning and messaging.",
     "speaker": "Georgiana Laudi",
     "timestamp": "00:09:07",
     "context": "Lenny asks about the impact Georgiana has seen working with companies through her process. Georgiana explains that the most immediate and common win from her customer research work is improving a company's positioning and messaging. She emphasizes the importance of connecting with customers' pre-discovery context - understanding their frustrations and problems before they even know your product exists.",
     "vocabulary_highlights": [
       "lowest hanging fruit",
-      "more resonant",
-      "ties that in"
+      "realigning",
+      "positioning",
+      "messaging"
     ],
     "topics": [
       "Growth & Marketing",
@@ -49,7 +112,68 @@
     "text_ko": "일반적으로 가장 쉬운 성과는 포지셔닝(positioning)과 메시징(messaging)을 더 잘 맞추는 거예요. 그리고 사람들이 당신을 알기도 전에—제가 아까 말한 그 맥락에서—'세상에, 이건 바뀌어야 해. 진짜 불편해'라고 느끼게 하는 더 공감되는 포지셔닝과 메시징을 찾아내는 거예요. 그걸 그 순간에 연결해서, 그들이 신경 쓰는 것과 제품의 가치, 그리고 그들이 원하는 결과(desired outcome)까지 엮어주는 거죠.",
     "text_zh": "一般来说，最容易拿到的成果就是重新调整定位和信息传达。找到更有共鸣的定位和信息，能够切中我之前说的那个场景——就是在用户发现你之前，让他们产生那种\"天哪，这个必须得改，太糟糕了\"的想法，然后把这个跟他们真正关心的东西、你产品的价值点，还有他们想要达到的结果都串联起来。",
     "text_es": "Por lo general, lo más fácil de conseguir es reajustar el posicionamiento y la comunicación para que funcionen mejor. Se trata de encontrar un posicionamiento y mensajes que realmente conecten con ese contexto del que hablaba antes - antes de que la gente siquiera sepa que existes, captar ese momento cuando piensan \"Dios mío, esto tiene que cambiar, esto es un desastre\", y conectar eso con lo que realmente les importa, lo que tiene valor de tu producto, y también con el resultado que buscan.",
-    "key_sentence": "Lowest hanging fruit is better positioning and messaging."
+    "key_sentence": "Lowest hanging fruit is better positioning and messaging.",
+    "text_trimmed": true,
+    "original_text": "Generally, the lowest hanging fruit outcome is realigning around better positioning and messaging. And identifying more resonant positioning and messaging that speaks to that context that I was talking about before, before people discover that you even exist, have that moment where they're like, \"Oh my god, this has to change. This sucks,\" ties that in, ties in what they care about and what is valuable about your product and then also that desired outcome.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "lowest hanging fruit",
+        "definition": "The easiest or most accessible tasks or opportunities that can yield quick results or benefits.",
+        "businessContext": "In business, identifying the lowest hanging fruit allows teams to prioritize initiatives that require minimal effort for maximum impact, often in sales or project management.",
+        "nuance": "This phrase carries a connotation of seeking quick wins and may imply a lack of ambition if overused in strategic discussions.",
+        "synonyms": [
+          "quick wins",
+          "easy targets"
+        ],
+        "antonyms": [
+          "highest hanging fruit",
+          "challenging tasks"
+        ]
+      },
+      {
+        "word": "realigning",
+        "definition": "The process of adjusting or changing the direction, focus, or strategy of an organization or project to better meet objectives.",
+        "businessContext": "Realigning is often necessary in response to market changes or internal assessments, ensuring that resources and efforts are optimally directed towards achieving business goals.",
+        "nuance": "While realigning suggests a proactive approach to improvement, it can also imply that previous strategies were ineffective or misaligned.",
+        "synonyms": [
+          "restructuring",
+          "reorienting"
+        ],
+        "antonyms": [
+          "stagnating",
+          "maintaining"
+        ]
+      },
+      {
+        "word": "positioning",
+        "definition": "The strategic process of establishing a brand or product in the minds of consumers relative to competitors.",
+        "businessContext": "Effective positioning helps businesses differentiate themselves in the marketplace, influencing marketing strategies and customer perceptions.",
+        "nuance": "Positioning often involves nuanced understanding of target audiences and competitive landscapes, making it a critical aspect of marketing strategy.",
+        "synonyms": [
+          "branding",
+          "market placement"
+        ],
+        "antonyms": [
+          "misalignment",
+          "confusion"
+        ]
+      },
+      {
+        "word": "messaging",
+        "definition": "The way in which a company communicates its value proposition, brand identity, and key messages to its target audience.",
+        "businessContext": "Clear and effective messaging is crucial for marketing and public relations, as it shapes customer understanding and engagement with the brand.",
+        "nuance": "Messaging should be tailored to resonate with specific audiences, and inconsistency can lead to brand dilution or misunderstanding.",
+        "synonyms": [
+          "communication strategy",
+          "brand messaging"
+        ],
+        "antonyms": [
+          "silence",
+          "ambiguity"
+        ]
+      }
+    ]
   },
   {
     "text": "So we end up seeing a messy middle there because there's no natural handoff. So pretty well, every company that we've worked with has had an opportunity to improve, especially product onboarding and product activation.",
@@ -57,9 +181,10 @@
     "timestamp": "00:13:06",
     "context": "Georgiana discusses why product onboarding is often neglected at companies. She explains that it falls into a gray area where it's unclear whether marketing or product teams should own it, especially for freemium products. This lack of clear ownership creates what she calls a 'messy middle' where the customer experience suffers, but also represents a major opportunity for improvement.",
     "vocabulary_highlights": [
-      "messy middle",
-      "natural handoff",
-      "pretty well"
+      "opportunity",
+      "onboarding",
+      "activation",
+      "neglected"
     ],
     "topics": [
       "Product Management",
@@ -75,16 +200,77 @@
     "text_ko": "그래서 자연스러운 핸드오프(handoff)가 없으면 중간 부분이 뒤엉켜 보이게 돼요. 우리가 함께 일해 본 거의 모든 회사는 개선할 여지가 있었고, 특히 제품 온보딩(product onboarding)과 제품 활성화(product activation) 쪽에서요.",
     "text_zh": "所以我们看到中间这一段就比较乱，因为没有一个自然的交接过程。基本上我们合作过的每家公司都有提升空间，特别是在产品引导(product onboarding)和产品激活(product activation)这块。",
     "text_es": "Entonces terminamos viendo un lío en el medio porque no hay una transición natural. Así que prácticamente todas las empresas con las que hemos trabajado han tenido oportunidad de mejorar, especialmente en la incorporación de usuarios (product onboarding) y la activación del producto (product activation).",
-    "key_sentence": "Companies see a messy middle due to no natural handoff."
+    "key_sentence": "Companies see a messy middle due to no natural handoff.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "opportunity",
+        "definition": "A favorable set of circumstances that allows for the possibility of achieving a desired outcome or benefit.",
+        "businessContext": "In business, an opportunity often refers to a chance for growth, market expansion, or the introduction of a new product that can lead to increased revenue.",
+        "nuance": "While 'opportunity' generally has a positive connotation, it can imply risk if not approached carefully.",
+        "synonyms": [
+          "chance",
+          "prospect"
+        ],
+        "antonyms": [
+          "obstacle",
+          "hindrance"
+        ]
+      },
+      {
+        "word": "onboarding",
+        "definition": "The process of integrating a new employee or customer into an organization or system, ensuring they understand the necessary tools and culture.",
+        "businessContext": "In tech and startups, effective onboarding is crucial for user retention and employee productivity, as it helps familiarize them with products or company policies.",
+        "nuance": "Onboarding can sometimes be viewed as a mere formality, but a well-executed onboarding process can significantly enhance engagement and satisfaction.",
+        "synonyms": [
+          "orientation",
+          "induction"
+        ],
+        "antonyms": [
+          "dismissal",
+          "separation"
+        ]
+      },
+      {
+        "word": "activation",
+        "definition": "The process of enabling a user to start utilizing a product or service, often involving initial setup or configuration.",
+        "businessContext": "In the tech industry, activation is a key metric that reflects how effectively users are engaged with a product after initial sign-up, impacting overall user retention.",
+        "nuance": "Activation implies a transition from mere registration to active use, and its success can indicate the product's value to the user.",
+        "synonyms": [
+          "engagement",
+          "initiation"
+        ],
+        "antonyms": [
+          "deactivation",
+          "inactivity"
+        ]
+      },
+      {
+        "word": "neglected",
+        "definition": "Failing to give proper attention or care to something, resulting in deterioration or lack of development.",
+        "businessContext": "In a business context, neglected areas may refer to underperforming products, customer segments, or processes that have not received adequate focus or resources.",
+        "nuance": "The term 'neglected' often carries a negative connotation, suggesting a lack of responsibility or foresight.",
+        "synonyms": [
+          "overlooked",
+          "abandoned"
+        ],
+        "antonyms": [
+          "nurtured",
+          "attended"
+        ]
+      }
+    ]
   },
   {
-    "text": "So what we did was, we identified SparkToro's best customers. Now, what I mean by best customers is those that get a ton of value from your product as of exist today, pay obviously. They're happy. They're low maintenance. And very importantly, they signed up for your product recently enough that they remember what life was like before.",
+    "text": "So what we did was, we identified SparkToro's best customers. Now, what I mean by best customers is those that get a ton of value from your product as of exist today, pay obviously. They're happy. They're low maintenance.",
     "speaker": "Georgiana Laudi",
     "timestamp": "00:21:54",
     "context": "Georgiana explains her methodology for customer research using SparkToro as an example. She defines 'best customers' not just as high-paying customers, but as those who get significant value, are satisfied, require minimal support, and crucially - signed up recently enough (3-6 months) to accurately remember their pre-product experience. This recency is key to getting reliable data about customer motivations.",
     "vocabulary_highlights": [
-      "get a ton of value",
-      "low maintenance"
+      "identify",
+      "value",
+      "maintenance",
+      "methodology"
     ],
     "topics": [
       "Growth & Marketing",
@@ -100,7 +286,68 @@
     "text_ko": "그래서 저희가 한 건 SparkToro의 이상적인 고객을 찾아낸 거예요. 여기서 말하는 이상적인 고객이란, 지금 있는 제품에서 큰 가치를 얻고 있고(당연히 비용을 내요), 만족도가 높아서 손이 많이 가지 않으며, 무엇보다도 비교적 최근에 가입해서 제품 사용 전의 불편함을 아직 기억하는 고객들이에요.",
     "text_zh": "所以我们当时做的就是，找出了SparkToro最优质的那些客户。我说的最优质客户是什么意思呢，就是那些从你现有产品中获得巨大价值的，当然了，付费也很爽快的。他们很满意，也不怎么折腾你。还有很重要的一点，他们注册使用你产品的时间还不算太久，所以还记得用你产品之前是什么样子的。",
     "text_es": "Entonces lo que hicimos fue identificar a los mejores clientes de SparkToro. Y cuando digo mejores clientes me refiero a aquellos que realmente sacan muchísimo provecho de tu producto tal como está ahora, que obviamente pagan. Están contentos. No dan lata. Y muy importante, se registraron hace poco tiempo, lo suficientemente reciente como para que todavía se acuerden de cómo era su vida antes.",
-    "key_sentence": "Best customers get a ton of value and are low maintenance."
+    "key_sentence": "Best customers get a ton of value and are low maintenance.",
+    "text_trimmed": true,
+    "original_text": "So what we did was, we identified SparkToro's best customers. Now, what I mean by best customers is those that get a ton of value from your product as of exist today, pay obviously. They're happy. They're low maintenance. And very importantly, they signed up for your product recently enough that they remember what life was like before.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "identify",
+        "definition": "To recognize or establish the identity of something or someone.",
+        "businessContext": "In business, identifying key customers or market trends is crucial for strategic planning and resource allocation.",
+        "nuance": "While 'identify' is often used in a straightforward sense, it can imply a deeper analysis or understanding in a business context.",
+        "synonyms": [
+          "recognize",
+          "determine"
+        ],
+        "antonyms": [
+          "ignore",
+          "overlook"
+        ]
+      },
+      {
+        "word": "value",
+        "definition": "The importance, worth, or usefulness of something, often measured in terms of financial return or customer satisfaction.",
+        "businessContext": "In a business setting, understanding the value that a product or service provides to customers is essential for driving sales and enhancing customer loyalty.",
+        "nuance": "The term 'value' can encompass both tangible and intangible benefits, and it is often discussed in terms of perceived versus actual value.",
+        "synonyms": [
+          "worth",
+          "benefit"
+        ],
+        "antonyms": [
+          "cost",
+          "detriment"
+        ]
+      },
+      {
+        "word": "maintenance",
+        "definition": "The process of preserving or keeping something in good condition, often involving regular checks and repairs.",
+        "businessContext": "In technology and startups, maintenance refers to the ongoing support and updates required to ensure software or systems function effectively over time.",
+        "nuance": "While 'maintenance' typically suggests routine care, it can also imply a need for proactive measures to prevent issues before they arise.",
+        "synonyms": [
+          "upkeep",
+          "sustenance"
+        ],
+        "antonyms": [
+          "neglect",
+          "abandonment"
+        ]
+      },
+      {
+        "word": "methodology",
+        "definition": "A systematic, theoretical analysis of the methods applied to a field of study or practice.",
+        "businessContext": "In business and tech, a clear methodology is essential for project management, ensuring that processes are followed to achieve consistent results.",
+        "nuance": "The term 'methodology' often carries an implication of rigor and structure, making it suitable for formal discussions about processes and strategies.",
+        "synonyms": [
+          "approach",
+          "framework"
+        ],
+        "antonyms": [
+          "disorganization",
+          "chaos"
+        ]
+      }
+    ]
   },
   {
     "text": "The whole pain killer versus vitamin thing, you always want to be selling a pain killer. So who has an urgent problem that needs solving, not something that they might have a problem with six months down the line?",
@@ -108,8 +355,10 @@
     "timestamp": "00:25:10",
     "context": "Georgiana describes the criteria for prioritizing which customer segment to focus on when multiple options exist. She references the classic business concept of 'painkiller vs vitamin' - meaning you want to target customers who have an urgent, pressing problem that needs immediate solving, rather than a nice-to-have improvement they might consider in the future.",
     "vocabulary_highlights": [
-      "pain killer versus vitamin thing",
-      "six months down the line"
+      "prioritizing",
+      "urgent problem",
+      "customer segment",
+      "pain killer"
     ],
     "topics": [
       "Product Management",
@@ -125,18 +374,77 @@
     "text_ko": "‘페인킬러(pain killer)이냐 비타민(vitamin)이냐’ 하는 얘기에서는 항상 페인킬러를 팔아야 해요. 즉, 6개월 뒤에나 문제가 될 수도 있는 게 아니라 지금 당장 해결이 필요한 긴급한 문제가 있는 사람을 찾아야 해요.",
     "text_zh": "止痛药和维生素的区别，你肯定要卖止痛药啊。就是说，谁现在就有急需解决的痛点，而不是那种可能六个月后才会遇到的问题，对吧？",
     "text_es": "Esa cosa del analgésico versus la vitamina, siempre hay que vender el analgésico. O sea, ¿quién tiene un problema urgente que necesita resolver ya mismo, y no algo con lo que tal vez tenga problemas dentro de seis meses?",
-    "key_sentence": "Sell a pain killer, not a problem six months down the line."
+    "key_sentence": "Sell a pain killer, not a problem six months down the line.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "prioritizing",
+        "definition": "The act of arranging or dealing with tasks or issues in order of importance or urgency.",
+        "businessContext": "In business settings, prioritizing is crucial for effective project management and resource allocation, ensuring that the most critical tasks are addressed first.",
+        "nuance": "This term often implies a strategic approach to decision-making, where not all tasks are treated equally.",
+        "synonyms": [
+          "ranking",
+          "ordering"
+        ],
+        "antonyms": [
+          "neglecting",
+          "disregarding"
+        ]
+      },
+      {
+        "word": "urgent problem",
+        "definition": "A pressing issue that requires immediate attention and resolution to prevent negative consequences.",
+        "businessContext": "Identifying urgent problems is essential for businesses to maintain operational efficiency and customer satisfaction, often driving quick decision-making processes.",
+        "nuance": "The term suggests a sense of immediacy and importance, distinguishing it from less critical issues.",
+        "synonyms": [
+          "critical issue",
+          "immediate concern"
+        ],
+        "antonyms": [
+          "minor issue",
+          "long-term concern"
+        ]
+      },
+      {
+        "word": "customer segment",
+        "definition": "A distinct group of consumers within a broader market, characterized by shared needs, preferences, or behaviors.",
+        "businessContext": "Understanding customer segments allows businesses to tailor their marketing strategies and product offerings to meet the specific demands of different groups.",
+        "nuance": "This term emphasizes the importance of targeted marketing and personalization in business strategies.",
+        "synonyms": [
+          "market segment",
+          "target audience"
+        ],
+        "antonyms": [
+          "mass market",
+          "general audience"
+        ]
+      },
+      {
+        "word": "pain killer",
+        "definition": "A product or service that addresses a significant problem or need, providing immediate relief or solution to customers.",
+        "businessContext": "In the context of startups and innovation, a 'pain killer' is often preferred over a 'vitamin' product, as it directly solves urgent customer problems and drives sales.",
+        "nuance": "This phrase conveys a sense of urgency and necessity, implying that the solution is essential rather than optional.",
+        "synonyms": [
+          "solution",
+          "remedy"
+        ],
+        "antonyms": [
+          "vitamin",
+          "luxury"
+        ]
+      }
+    ]
   },
   {
-    "text": "We often talk about it and describe it as the story of how I met and fell in love with your product. It's like this documentary of being out in the world, finding it, realizing that like, \"Hell yeah, this might actually solve a problem for us. This might be it.\" Getting that enough value to convince them to keep going to full value realization, to continue value-to-value growth.",
+    "text": "We often talk about it and describe it as the story of how I met and fell in love with your product.",
     "speaker": "Georgiana Laudi",
     "timestamp": "00:34:54",
     "context": "Georgiana explains how she conceptualizes customer journey mapping. Instead of traditional business funnels, she frames it as a love story or documentary that follows the customer's emotional journey from discovering a problem exists, through finding and evaluating the product, to getting value and growing their usage over time.",
     "vocabulary_highlights": [
-      "fell in love with",
-      "Hell yeah",
-      "This might be it",
-      "value-to-value growth"
+      "conceptualizes",
+      "customer journey mapping",
+      "emotional journey",
+      "traditional business funnels"
     ],
     "topics": [
       "Product Management",
@@ -152,7 +460,68 @@
     "text_ko": "우리는 이걸 종종 '여러분의 제품을 만나서 사랑에 빠진 이야기'라고 얘기해요. 세상 밖을 돌아다니다 우연히 그 제품을 발견하고, '와, 이거 진짜 우리 문제를 해결해줄 수도 있겠네. 이거다!' 하고 깨닫게 되는 다큐 같은 이야기예요. 사람들이 거기서 충분한 가치를 느껴서 계속 완전한 가치 실현(full value realization)까지 나아가고, 가치-대-가치 성장(value-to-value growth)을 이어가도록 설득하게 만드는 거예요.",
     "text_zh": "我们经常说这就像是一个故事——我怎么遇到并且爱上了你们的产品。就好比拍纪录片一样，在外面转悠，突然发现了这个东西，然后意识到\"哇塞，这玩意儿真的能帮我们解决问题啊，就是它了！\"先让他们尝到甜头，觉得有价值，愿意继续用下去，最后实现产品的全部价值，形成价值增长的良性循环。",
     "text_es": "Siempre hablamos de esto y lo describimos como la historia de cómo conocí y me enamoré de tu producto. Es como un documental de estar ahí afuera en el mundo real, encontrarlo, y darte cuenta de que \"¡Órale, esto sí podría resolver un problema para nosotros. Esto podría ser lo que buscamos.\" Conseguir el valor suficiente para convencerlos de seguir adelante hasta llegar a la realización completa del valor (full value realization), y continuar con ese crecimiento valor tras valor.",
-    "key_sentence": "Fell in love with your product, realizing it might solve a problem."
+    "key_sentence": "the story of how I met and fell in love with your product.",
+    "text_trimmed": true,
+    "original_text": "We often talk about it and describe it as the story of how I met and fell in love with your product. It's like this documentary of being out in the world, finding it, realizing that like, \"Hell yeah, this might actually solve a problem for us. This might be it.\" Getting that enough value to convince them to keep going to full value realization, to continue value-to-value growth.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "conceptualizes",
+        "definition": "To form a concept or idea of something in the mind.",
+        "businessContext": "In business, 'conceptualizes' often refers to the process of developing innovative ideas or strategies that can be translated into actionable plans or products.",
+        "nuance": "This term implies a level of creativity and abstraction, making it suitable for discussions around brainstorming and ideation but less so for concrete execution.",
+        "synonyms": [
+          "envisions",
+          "imagines"
+        ],
+        "antonyms": [
+          "misunderstands",
+          "disregards"
+        ]
+      },
+      {
+        "word": "customer journey mapping",
+        "definition": "A visual representation of the process a customer goes through to achieve a goal with a company, from initial awareness to post-purchase evaluation.",
+        "businessContext": "In business and marketing, customer journey mapping is used to identify pain points and opportunities for improving customer experience and engagement throughout the buying process.",
+        "nuance": "This term carries a strategic connotation, suggesting a comprehensive analysis of customer interactions, and is best used in contexts focused on user experience and service design.",
+        "synonyms": [
+          "customer experience mapping",
+          "user journey mapping"
+        ],
+        "antonyms": [
+          "customer neglect",
+          "N/A"
+        ]
+      },
+      {
+        "word": "emotional journey",
+        "definition": "The series of emotional experiences a customer undergoes while interacting with a product or brand.",
+        "businessContext": "In marketing and branding, understanding the emotional journey helps businesses create more resonant messages and foster deeper connections with their audience.",
+        "nuance": "This phrase emphasizes the psychological aspects of customer experience, making it particularly relevant in discussions about brand loyalty and customer satisfaction.",
+        "synonyms": [
+          "emotional experience",
+          "psychological journey"
+        ],
+        "antonyms": [
+          "rational analysis",
+          "N/A"
+        ]
+      },
+      {
+        "word": "traditional business funnels",
+        "definition": "A model that outlines the stages a customer goes through from awareness to purchase, typically represented as a funnel shape to illustrate the decreasing number of prospects at each stage.",
+        "businessContext": "In sales and marketing, traditional business funnels are used to strategize customer acquisition and retention efforts, helping businesses understand where to focus their resources.",
+        "nuance": "While this term is widely recognized, it may imply a linear approach to customer engagement, which can be limiting in today's more dynamic and multi-channel environments.",
+        "synonyms": [
+          "sales funnel",
+          "marketing funnel"
+        ],
+        "antonyms": [
+          "customer engagement loop",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "You want to reflect them back to them. That is what is going to show them that you understand the problem that they have and that your product has exactly what it is that they need.",
@@ -160,7 +529,10 @@
     "timestamp": "00:51:21",
     "context": "Lenny asks for messaging tips once you understand your customer journey. Georgiana emphasizes the importance of using customer research and voice-of-customer data to inform messaging. Her key insight is that effective messaging should mirror customers' own language back to them, demonstrating deep understanding of their problems and showing that your product provides the exact solution they need.",
     "vocabulary_highlights": [
-      "reflect them back to them"
+      "reflect",
+      "understand",
+      "insight",
+      "inform"
     ],
     "topics": [
       "Growth & Marketing",
@@ -176,6 +548,65 @@
     "text_ko": "그들이 말한 걸 그대로 되돌려줘야 해요. 그래야 그들이 가진 문제를 이해하고 있다는 걸 보여주고, 제품이 바로 그들이 필요로 하는 걸 정확히 갖추고 있다는 것도 알릴 수 있어요.",
     "text_zh": "你要把他们的话反映回去给他们听。这样才能让他们知道你真的理解他们遇到的问题，而且你的产品正好能解决他们的需求。",
     "text_es": "Tienes que reflejarles sus propias palabras. Así es como les vas a demostrar que realmente entiendes su problema y que tu producto tiene exactamente lo que necesitan.",
-    "key_sentence": "Reflect them back to them to show understanding of their problem."
+    "key_sentence": "Reflect them back to them to show understanding of their problem.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "reflect",
+        "definition": "To show or demonstrate something, often by mirroring or echoing back information or feelings.",
+        "businessContext": "In business settings, reflecting can involve restating a client's concerns or needs to show understanding and build rapport.",
+        "nuance": "While reflecting can indicate empathy and active listening, overuse may come across as insincere or mechanical.",
+        "synonyms": [
+          "mirror",
+          "echo"
+        ],
+        "antonyms": [
+          "ignore",
+          "dismiss"
+        ]
+      },
+      {
+        "word": "understand",
+        "definition": "To grasp the meaning, significance, or nature of something, often through analysis or empathy.",
+        "businessContext": "In a business context, understanding is crucial for identifying client needs and tailoring solutions effectively.",
+        "nuance": "Understanding implies a deeper level of comprehension than simply knowing; it often involves emotional intelligence.",
+        "synonyms": [
+          "comprehend",
+          "grasp"
+        ],
+        "antonyms": [
+          "misunderstand",
+          "confuse"
+        ]
+      },
+      {
+        "word": "insight",
+        "definition": "The capacity to gain an accurate and deep understanding of someone or something.",
+        "businessContext": "Insights are valuable in business as they inform strategic decisions and help identify market trends or customer behaviors.",
+        "nuance": "Insights often imply a level of analysis that leads to actionable conclusions, distinguishing them from mere observations.",
+        "synonyms": [
+          "perception",
+          "awareness"
+        ],
+        "antonyms": [
+          "ignorance",
+          "confusion"
+        ]
+      },
+      {
+        "word": "inform",
+        "definition": "To provide someone with knowledge or information about a particular subject.",
+        "businessContext": "In business, informing stakeholders or team members is essential for effective communication and decision-making processes.",
+        "nuance": "Informing is typically straightforward, but it can also imply a responsibility to ensure the information is accurate and relevant.",
+        "synonyms": [
+          "notify",
+          "advise"
+        ],
+        "antonyms": [
+          "mislead",
+          "withhold"
+        ]
+      }
+    ]
   }
 ]

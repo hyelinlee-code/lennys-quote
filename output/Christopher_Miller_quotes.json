@@ -1,13 +1,14 @@
 [
   {
-    "text": "That attitude of saying that every problem is our problem and radical accountability and ownership mentality helped us find opportunities that maybe the business wasn't explicitly asking us to solve, but we were able to triangulate why it might be important for the business for us to solve it.",
+    "text": "Every problem is our problem and radical accountability and ownership mentality helped us find opportunities that maybe the business wasn't explicitly asking us to solve.",
     "speaker": "Chris Miller",
     "timestamp": "00:00:00",
     "context": "Lenny asks Chris about the early success factors that helped HubSpot grow. Chris explains how their growth team's mentality of radical accountability—taking ownership of problems regardless of whether they were assigned to them—allowed them to identify and address opportunities that were not initially prioritized by the business. This proactive approach helped them contribute significantly to the company's growth.",
     "vocabulary_highlights": [
       "radical accountability",
-      "triangulate",
-      "explicitly asking"
+      "ownership mentality",
+      "opportunities",
+      "explicitly"
     ],
     "topics": [
       "Growth & Marketing",
@@ -23,17 +24,79 @@
     "text_ko": "모든 문제는 우리 문제라고 생각하고, 철저한 책임감과 주인의식을 가지는 태도가 우리에게 비즈니스가 명시적으로 요구하지 않았던 기회를 찾는 데 큰 도움이 됐어요. 우리가 왜 그 문제를 해결하는 게 비즈니스에 중요할 수 있는지를 잘 파악할 수 있었거든요.",
     "text_zh": "这种将每个问题视为我们自己问题的态度，以及激进的责任感和主人翁意识，帮助我们发现了一些业务可能并没有明确要求我们解决的机会，但我们能够推测出这些问题对业务的重要性。",
     "text_es": "Esa actitud de considerar que cada problema es nuestro problema, junto con una mentalidad de responsabilidad radical y de propiedad, nos ayudó a identificar oportunidades que tal vez el negocio no nos estaba pidiendo explícitamente que resolviéramos, pero pudimos triangular por qué podría ser importante para la empresa que nosotros lo solucionáramos.",
-    "key_sentence": "Radical accountability helped us find opportunities not explicitly asking to be solved."
+    "key_sentence": "Radical accountability helped us find opportunities not explicitly asking to be solved.",
+    "text_trimmed": true,
+    "original_text": "That attitude of saying that every problem is our problem and radical accountability and ownership mentality helped us find opportunities that maybe the business wasn't explicitly asking us to solve, but we were able to triangulate why it might be important for the business for us to solve it.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "radical accountability",
+        "definition": "A commitment to take full responsibility for one's actions and their outcomes, often involving a transformative approach to accountability.",
+        "businessContext": "In business settings, radical accountability encourages employees to own their decisions and results, fostering a culture of transparency and trust.",
+        "nuance": "This term implies a deeper level of responsibility than traditional accountability, suggesting a proactive rather than reactive stance.",
+        "synonyms": [
+          "extreme responsibility",
+          "total ownership"
+        ],
+        "antonyms": [
+          "blame-shifting",
+          "irresponsibility"
+        ]
+      },
+      {
+        "word": "ownership mentality",
+        "definition": "A mindset where individuals act as if they own the company, taking initiative and responsibility for their work and its impact.",
+        "businessContext": "In startups and tech companies, an ownership mentality drives innovation and engagement, as employees feel personally invested in the success of the organization.",
+        "nuance": "This phrase connotes a sense of empowerment and proactive behavior, contrasting with a passive or detached approach to work.",
+        "synonyms": [
+          "entrepreneurial mindset",
+          "proactive engagement"
+        ],
+        "antonyms": [
+          "passive attitude",
+          "disengagement"
+        ]
+      },
+      {
+        "word": "opportunities",
+        "definition": "Favorable circumstances or situations that can be leveraged for growth, improvement, or success.",
+        "businessContext": "In a business context, identifying opportunities is crucial for strategic planning and competitive advantage, often driving innovation and market expansion.",
+        "nuance": "The term suggests potential for positive outcomes, and is often used in contexts that emphasize proactive exploration rather than mere chance.",
+        "synonyms": [
+          "prospects",
+          "possibilities"
+        ],
+        "antonyms": [
+          "challenges",
+          "obstacles"
+        ]
+      },
+      {
+        "word": "explicitly",
+        "definition": "In a clear and detailed manner, leaving no room for confusion or ambiguity.",
+        "businessContext": "In business communications, being explicit is essential for ensuring that instructions, expectations, and objectives are understood without misinterpretation.",
+        "nuance": "While explicit communication is generally preferred, it may come across as overly direct or blunt in some contexts, so sensitivity to tone is important.",
+        "synonyms": [
+          "clearly",
+          "definitively"
+        ],
+        "antonyms": [
+          "implicitly",
+          "vaguely"
+        ]
+      }
+    ]
   },
   {
-    "text": "We intentionally put out a lot of free software, and the idea is that this software is not sort of gimmicky. It's not designed to run out of value on day one. It's actually designed so that our smallest customers can get some value out of it in a sustainable way.",
+    "text": "We intentionally put out a lot of free software, and the idea is that this software is not sort of gimmicky. It's not designed to run out of value on day one.",
     "speaker": "Chris Miller",
     "timestamp": "01:09:00",
     "context": "Lenny inquires about HubSpot's approach to product-led growth. Chris discusses their strategy of offering free software that provides genuine value to users, rather than being a gimmick that quickly loses its appeal. This approach aims to engage users meaningfully, prompting them to upgrade as they see the product's benefits.",
     "vocabulary_highlights": [
+      "intentionally",
+      "value",
       "gimmicky",
-      "sustainable way",
-      "genuine value"
+      "product-led growth"
     ],
     "topics": [
       "Product Management",
@@ -49,7 +112,68 @@
     "text_ko": "우리는 의도적으로 많은 무료 소프트웨어를 제공해요. 이 소프트웨어는 단순한 gimmick이 아니고, 첫날부터 가치가 떨어지도록 설계된 게 아니에요. 오히려 가장 작은 고객들도 지속 가능한 방식으로 가치를 얻을 수 있도록 만들어졌어요.",
     "text_zh": "我们故意推出了大量免费的软件，这些软件并不是花哨的 gimmicky 产品。它们并不是在第一天就失去价值，而是旨在让我们最小的客户以可持续的方式获得一些实际的价值。",
     "text_es": "Nosotros lanzamos intencionadamente una gran cantidad de software gratuito, y la idea es que este software no sea simplemente un truco (gimmick). No está diseñado para perder su valor desde el primer día. En realidad, está concebido para que nuestros clientes más pequeños puedan obtener un valor sostenible de él.",
-    "key_sentence": "This software is designed to provide genuine value in a sustainable way."
+    "key_sentence": "this software is not sort of gimmicky.",
+    "text_trimmed": true,
+    "original_text": "We intentionally put out a lot of free software, and the idea is that this software is not sort of gimmicky. It's not designed to run out of value on day one. It's actually designed so that our smallest customers can get some value out of it in a sustainable way.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "intentionally",
+        "definition": "In a deliberate manner, with a specific purpose or intention in mind.",
+        "businessContext": "In business, 'intentionally' often describes actions taken with strategic foresight, such as marketing decisions or product launches aimed at achieving particular outcomes.",
+        "nuance": "While it implies careful planning, it can also suggest a contrast to accidental or haphazard actions.",
+        "synonyms": [
+          "deliberately",
+          "purposely"
+        ],
+        "antonyms": [
+          "accidentally",
+          "unintentionally"
+        ]
+      },
+      {
+        "word": "value",
+        "definition": "The importance, worth, or usefulness of something, often measured in terms of benefits it provides to customers or stakeholders.",
+        "businessContext": "In a business context, 'value' refers to the perceived benefits that a product or service delivers, influencing customer satisfaction and loyalty.",
+        "nuance": "It can refer to both tangible and intangible benefits, and is often discussed in terms of 'value proposition' in marketing.",
+        "synonyms": [
+          "worth",
+          "benefit"
+        ],
+        "antonyms": [
+          "cost",
+          "burden"
+        ]
+      },
+      {
+        "word": "gimmicky",
+        "definition": "Characterized by superficial or deceptive features designed to attract attention or promote sales without substantial value.",
+        "businessContext": "In business, 'gimmicky' often describes marketing strategies or product features that may be flashy but lack genuine utility or long-term appeal.",
+        "nuance": "It carries a negative connotation, suggesting that something is more about style than substance, and is best avoided in serious business discussions.",
+        "synonyms": [
+          "tacky",
+          "superficial"
+        ],
+        "antonyms": [
+          "substantive",
+          "meaningful"
+        ]
+      },
+      {
+        "word": "product-led growth",
+        "definition": "A business strategy that relies on the product itself as the primary driver of customer acquisition, retention, and expansion.",
+        "businessContext": "In tech startups, 'product-led growth' emphasizes creating a product that delivers immediate value to users, encouraging them to share and promote it organically.",
+        "nuance": "This approach contrasts with sales-led or marketing-led strategies, and is often associated with SaaS companies that prioritize user experience and product quality.",
+        "synonyms": [
+          "product-centric growth",
+          "user-driven growth"
+        ],
+        "antonyms": [
+          "sales-led growth",
+          "marketing-led growth"
+        ]
+      }
+    ]
   },
   {
     "text": "One of the traits that I look for in PMs that I hire onto my teams... is relentless curiosity, this insatiable desire to understand things and a lack of fear in admitting when they don't understand things.",
@@ -57,9 +181,10 @@
     "timestamp": "00:12:09",
     "context": "Lenny asks Chris about the key traits he values in product managers. Chris emphasizes that relentless curiosity is crucial, as it enables PMs to seek understanding and admit gaps in their knowledge. This trait fosters a culture of learning and innovation within teams, allowing them to address complex challenges effectively.",
     "vocabulary_highlights": [
-      "relentless curiosity",
-      "insatiable desire",
-      "admitting"
+      "relentless",
+      "curiosity",
+      "crucial",
+      "admit"
     ],
     "topics": [
       "Coaching & Development",
@@ -75,7 +200,66 @@
     "text_ko": "제가 팀에 채용하는 PM들에게서 찾는 특성 중 하나는 바로 끈질긴 호기심이에요. 이해하고자 하는 끝없는 욕구와 모르는 걸 인정하는 데 두려움이 없는 태도죠.",
     "text_zh": "我在招聘项目经理（PM）时，最看重的特质之一就是他们对事物的无尽好奇心，以及在不理解时毫不畏惧地承认自己的不足。",
     "text_es": "Una de las características que busco en los PMs (Project Managers) que contrato para mis equipos es una curiosidad incesante, ese deseo insaciable de comprender las cosas y la falta de miedo para admitir cuando no entienden algo.",
-    "key_sentence": "I look for relentless curiosity and admitting when they don't understand."
+    "key_sentence": "I look for relentless curiosity and admitting when they don't understand.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "relentless",
+        "definition": "Unyielding in intensity or severity; persistent and determined in pursuit of a goal.",
+        "businessContext": "In business, being relentless often refers to a team's or individual's unwavering commitment to achieving objectives, driving innovation, and overcoming challenges.",
+        "nuance": "While 'relentless' has a positive connotation of determination, it can also imply a lack of consideration for balance or well-being if taken to an extreme.",
+        "synonyms": [
+          "unwavering",
+          "persistent"
+        ],
+        "antonyms": [
+          "yielding",
+          "indifferent"
+        ]
+      },
+      {
+        "word": "curiosity",
+        "definition": "A strong desire to learn or know something; an eagerness to explore and understand new information.",
+        "businessContext": "In a business setting, curiosity is essential for fostering innovation, encouraging problem-solving, and adapting to changing market conditions.",
+        "nuance": "Curiosity is generally viewed positively, but excessive curiosity without focus can lead to distractions or inefficiencies.",
+        "synonyms": [
+          "inquisitiveness",
+          "interest"
+        ],
+        "antonyms": [
+          "indifference",
+          "apathy"
+        ]
+      },
+      {
+        "word": "crucial",
+        "definition": "Of great importance; critical to the success or failure of a situation or outcome.",
+        "businessContext": "In the context of business, identifying crucial factors can determine strategic decisions, resource allocation, and overall project success.",
+        "nuance": "While 'crucial' implies high importance, it is often used in contexts where urgency or immediate action is required.",
+        "synonyms": [
+          "essential",
+          "vital"
+        ],
+        "antonyms": [
+          "insignificant",
+          "trivial"
+        ]
+      },
+      {
+        "word": "admit",
+        "definition": "To acknowledge the truth or existence of something, often reluctantly or with difficulty.",
+        "businessContext": "In the workplace, admitting to a lack of understanding or a mistake is vital for fostering a culture of transparency, learning, and accountability.",
+        "nuance": "While admitting can be seen as a sign of weakness, it is often valued in professional environments as a step towards growth and improvement.",
+        "synonyms": [
+          "acknowledge",
+          "confess"
+        ],
+        "antonyms": [
+          "deny",
+          "refuse"
+        ]
+      }
+    ]
   },
   {
     "text": "If you're doing product-led growth the right way, then you're trying to balance the science and sort of taking a somewhat hygienic approach to validating assumptions and hypotheses with being really ambitious.",
@@ -83,9 +267,10 @@
     "timestamp": "00:13:37",
     "context": "Lenny asks Chris about the balance required in product-led growth strategies. Chris explains that successful product-led growth involves a careful balance of scientific rigor and ambition—validating ideas through data while still pushing for impactful innovations. This approach helps teams avoid stagnation while ensuring decisions are data-informed.",
     "vocabulary_highlights": [
-      "hygienic approach",
-      "validating assumptions",
-      "impactful innovations"
+      "validating",
+      "assumptions",
+      "hypotheses",
+      "ambitious"
     ],
     "topics": [
       "Product Management",
@@ -101,7 +286,66 @@
     "text_ko": "제품 주도 성장(product-led growth)을 제대로 하고 있다면, 과학적인 접근을 통해 가설과 가정을 검증하는 것과 동시에 야망을 가지고 균형을 맞추려고 노력하고 있는 거예요.",
     "text_zh": "如果你在正确地进行产品驱动增长（product-led growth），那么你应该在科学性和以一种相对规范的方式验证假设之间找到平衡，同时保持雄心壮志。",
     "text_es": "Si estás implementando el crecimiento impulsado por el producto (product-led growth) de la manera correcta, estás tratando de equilibrar la parte científica y adoptando un enfoque bastante metódico para validar supuestos e hipótesis, al mismo tiempo que mantienes una gran ambición.",
-    "key_sentence": "A hygienic approach balances validating assumptions with being ambitious."
+    "key_sentence": "A hygienic approach balances validating assumptions with being ambitious.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "validating",
+        "definition": "The process of confirming the accuracy or legitimacy of something, often through testing or evidence.",
+        "businessContext": "In business and tech, validating often refers to the process of ensuring that a product or idea meets market needs and is based on sound data before full-scale implementation.",
+        "nuance": "Validating carries a connotation of thoroughness and rigor, suggesting that assumptions should be tested rather than taken at face value.",
+        "synonyms": [
+          "confirming",
+          "substantiating"
+        ],
+        "antonyms": [
+          "invalidating",
+          "disproving"
+        ]
+      },
+      {
+        "word": "assumptions",
+        "definition": "Beliefs or statements taken for granted without proof, often serving as the foundation for further reasoning or action.",
+        "businessContext": "In a business context, assumptions are critical in strategic planning and decision-making, as they influence projections and outcomes.",
+        "nuance": "Assumptions can imply a level of uncertainty and should be approached with caution; they are often tested during the validation process.",
+        "synonyms": [
+          "premises",
+          "presumptions"
+        ],
+        "antonyms": [
+          "facts",
+          "certainties"
+        ]
+      },
+      {
+        "word": "hypotheses",
+        "definition": "Proposed explanations or predictions that can be tested through research or experimentation.",
+        "businessContext": "In startups and product development, hypotheses are formulated to guide experiments that validate or invalidate product features or market strategies.",
+        "nuance": "Hypotheses suggest a scientific approach to problem-solving, emphasizing the importance of evidence over intuition.",
+        "synonyms": [
+          "theories",
+          "propositions"
+        ],
+        "antonyms": [
+          "conclusions",
+          "certainties"
+        ]
+      },
+      {
+        "word": "ambitious",
+        "definition": "Having a strong desire for success or achievement, often requiring significant effort and determination.",
+        "businessContext": "In the business world, being ambitious is often viewed positively, as it drives innovation and growth, but it can also imply risks if goals are set unrealistically high.",
+        "nuance": "Ambitious can carry both positive connotations of drive and aspiration, as well as negative implications of overreach or impracticality.",
+        "synonyms": [
+          "aspirational",
+          "driven"
+        ],
+        "antonyms": [
+          "unambitious",
+          "complacent"
+        ]
+      }
+    ]
   },
   {
     "text": "It wasn't until I got my second product management job where it really was an inflection point, where I was like, 'Oh, got it. This is what this is supposed to look and feel like.'",
@@ -110,8 +354,9 @@
     "context": "Lenny inquires about Chris's career journey in product management. Chris reflects on how his second role marked a pivotal moment in his career, where he finally grasped the essence of product management by working closely with users and utilizing data to drive decisions. This experience transformed his understanding and approach to the field.",
     "vocabulary_highlights": [
       "inflection point",
-      "grasped the essence",
-      "utilizing data"
+      "pivotal",
+      "grasped",
+      "essence"
     ],
     "topics": [
       "Career Development",
@@ -127,7 +372,66 @@
     "text_ko": "두 번째 제품 관리 직업을 얻었을 때 진짜 전환점이 왔어요. 그때서야 '아, 이게 진짜 이런 느낌이구나' 하고 깨달았어요.",
     "text_zh": "直到我获得第二份产品管理（product management）工作时，我才真正意识到这是一个转折点，那时我心里想：“哦，明白了。这就是它应该呈现和感受的样子。”",
     "text_es": "No fue hasta que conseguí mi segundo trabajo en gestión de productos (product management) que realmente fue un punto de inflexión, donde pensé: 'Ah, ya lo entendí. Así es como se supone que debe lucir y sentirse esto.'",
-    "key_sentence": "My second job was an inflection point; I grasped the essence of product management."
+    "key_sentence": "My second job was an inflection point; I grasped the essence of product management.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "inflection point",
+        "definition": "An inflection point is a significant moment or change in a situation that leads to a new direction or outcome. It often marks a turning point in progress or development.",
+        "businessContext": "In business, an inflection point can refer to a critical moment when a company must adapt its strategy or operations to achieve growth or overcome challenges.",
+        "nuance": "This term is often used to convey a sense of urgency and importance, indicating that the change will have lasting effects on the trajectory of a project or organization.",
+        "synonyms": [
+          "turning point",
+          "crucial moment"
+        ],
+        "antonyms": [
+          "stagnation",
+          "continuity"
+        ]
+      },
+      {
+        "word": "pivotal",
+        "definition": "Pivotal describes something of crucial importance that is central to the success or outcome of a situation. It often implies that the element in question is a key factor in determining results.",
+        "businessContext": "In a business context, a pivotal decision or role can significantly influence the direction of a project, team, or company, often determining its overall success.",
+        "nuance": "While 'pivotal' suggests importance, it also implies that the subject is indispensable, making it a strong term to use when emphasizing critical elements.",
+        "synonyms": [
+          "critical",
+          "essential"
+        ],
+        "antonyms": [
+          "insignificant",
+          "minor"
+        ]
+      },
+      {
+        "word": "grasped",
+        "definition": "Grasped refers to the act of understanding or comprehending something fully. It implies a deep or thorough understanding of a concept or situation.",
+        "businessContext": "In business, when someone has grasped a concept or strategy, it indicates that they have not only understood it but can also apply it effectively in practice.",
+        "nuance": "This term conveys a sense of mastery or clarity, often used in contexts where deep understanding is necessary for effective decision-making.",
+        "synonyms": [
+          "understood",
+          "comprehended"
+        ],
+        "antonyms": [
+          "misunderstood",
+          "confused"
+        ]
+      },
+      {
+        "word": "essence",
+        "definition": "Essence refers to the intrinsic nature or indispensable quality of something that determines its character. It captures the fundamental nature of a concept or entity.",
+        "businessContext": "In business discussions, identifying the essence of a brand or product can help clarify its core values and market positioning, guiding strategic decisions.",
+        "nuance": "The term suggests a focus on the most important attributes, making it suitable for discussions that require distillation of complex ideas into their fundamental components.",
+        "synonyms": [
+          "core",
+          "substance"
+        ],
+        "antonyms": [
+          "superficiality",
+          "periphery"
+        ]
+      }
+    ]
   },
   {
     "text": "If you're a smaller team, you kind of have an acute understanding of the pain points that are like today's buyers that you need to put out.",
@@ -137,7 +441,8 @@
     "vocabulary_highlights": [
       "acute understanding",
       "pain points",
-      "contemporary buyers"
+      "contemporary buyers",
+      "product-led growth"
     ],
     "topics": [
       "Product Management",
@@ -153,6 +458,65 @@
     "text_ko": "작은 팀이라면 요즘 구매자들이 겪는 문제점들에 대해 더 잘 이해하고 있을 거예요. 그걸 해결해줘야 하니까요.",
     "text_zh": "如果你是一个小团队，你对当今买家的痛点有着深刻的理解，这些痛点是你需要解决的。",
     "text_es": "Si eres un equipo más pequeño, tienes una comprensión aguda de los puntos de dolor que enfrentan los compradores actuales que necesitas abordar.",
-    "key_sentence": "Smaller teams have an acute understanding of contemporary buyers' pain points."
+    "key_sentence": "Smaller teams have an acute understanding of contemporary buyers' pain points.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "acute understanding",
+        "definition": "A deep and intense comprehension of a subject or situation.",
+        "businessContext": "In business, having an acute understanding of market dynamics or customer needs can lead to more effective strategies and solutions.",
+        "nuance": "This phrase often implies a level of insight that goes beyond surface knowledge, making it suitable for discussions about expertise or specialized knowledge.",
+        "synonyms": [
+          "keen insight",
+          "profound comprehension"
+        ],
+        "antonyms": [
+          "superficial understanding",
+          "vague awareness"
+        ]
+      },
+      {
+        "word": "pain points",
+        "definition": "Specific problems or challenges that customers face, which can hinder their experience or satisfaction.",
+        "businessContext": "Identifying pain points is crucial for businesses as it allows them to tailor products or services that effectively address these issues, enhancing customer satisfaction.",
+        "nuance": "The term is often used in customer feedback and product development discussions, and it suggests a need for solutions rather than merely acknowledging problems.",
+        "synonyms": [
+          "challenges",
+          "frustrations"
+        ],
+        "antonyms": [
+          "benefits",
+          "advantages"
+        ]
+      },
+      {
+        "word": "contemporary buyers",
+        "definition": "Consumers who are currently active in the market and whose preferences and behaviors are shaped by modern trends and technologies.",
+        "businessContext": "Understanding contemporary buyers is essential for businesses to align their marketing strategies and product offerings with current consumer expectations and behaviors.",
+        "nuance": "This term emphasizes the evolving nature of consumer behavior and is best used when discussing trends in marketing or product development.",
+        "synonyms": [
+          "modern consumers",
+          "current market participants"
+        ],
+        "antonyms": [
+          "traditional buyers",
+          "historical consumers"
+        ]
+      },
+      {
+        "word": "product-led growth",
+        "definition": "A business strategy that relies on the product itself as the primary driver of customer acquisition, retention, and expansion.",
+        "businessContext": "In tech startups, product-led growth focuses on creating a product that delivers value and encourages users to share it, often leading to organic growth without heavy reliance on traditional sales tactics.",
+        "nuance": "This approach is particularly relevant in software and SaaS industries, where user experience and product functionality can significantly influence market success.",
+        "synonyms": [
+          "product-driven growth",
+          "user-centric growth"
+        ],
+        "antonyms": [
+          "sales-led growth",
+          "marketing-led growth"
+        ]
+      }
+    ]
   }
 ]

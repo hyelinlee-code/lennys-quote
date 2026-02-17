@@ -7,7 +7,8 @@
     "vocabulary_highlights": [
       "net positive",
       "double-edged sword",
-      "screw this up"
+      "impact",
+      "optimist"
     ],
     "topics": [
       "Strategy & Planning",
@@ -22,17 +23,77 @@
     "text_ko": "저는 기술이 전반적으로 인류에 긍정적(net positive)이라고 믿어요. 그렇지만 모든 기술은 양날의 검(double-edged sword)이에요. 사회로서나 개인으로서 우리가 올바르게 행동하지 않으면, 이걸 망칠 수도 있어요.",
     "text_zh": "我确实觉得科技对人类总体来说是好事，但我认为每项技术都是双刃剑。如果我们作为社会、作为个人没有做对的事情，我们也完全可能把这事儿搞砸。",
     "text_es": "Sí creo que la tecnología es algo positivo para la humanidad en general, pero pienso que toda tecnología es un arma de doble filo. Si no hacemos lo correcto como sociedad, como individuos, también podemos cagarla bien feo.",
-    "key_sentence": "Technology is a net positive but a double-edged sword if misused."
+    "key_sentence": "Technology is a net positive but a double-edged sword if misused.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "net positive",
+        "definition": "A net positive refers to a situation where the overall benefits outweigh the drawbacks, resulting in a favorable outcome. It indicates a beneficial impact on a larger scale.",
+        "businessContext": "In business and technology discussions, a net positive is often used to evaluate the overall effectiveness of a product, service, or innovation, emphasizing its contributions to society or the environment.",
+        "nuance": "While 'net positive' suggests an overall benefit, it is important to consider the specific contexts and potential negative consequences that may arise.",
+        "synonyms": [
+          "overall benefit",
+          "positive outcome"
+        ],
+        "antonyms": [
+          "net negative",
+          "overall detriment"
+        ]
+      },
+      {
+        "word": "double-edged sword",
+        "definition": "A double-edged sword is a situation or decision that has both positive and negative consequences, making it complex and potentially risky. It highlights the dual nature of certain actions or technologies.",
+        "businessContext": "In the context of startups and technology, a double-edged sword often refers to innovations that can lead to significant advancements but may also introduce unforeseen challenges or ethical dilemmas.",
+        "nuance": "This phrase is best used when discussing scenarios where the benefits and risks are closely intertwined, emphasizing the need for careful consideration.",
+        "synonyms": [
+          "mixed blessing",
+          "two-sided issue"
+        ],
+        "antonyms": [
+          "clear advantage",
+          "unambiguous benefit"
+        ]
+      },
+      {
+        "word": "impact",
+        "definition": "Impact refers to the strong effect or influence that one thing has on another, often measured in terms of change, significance, or outcome. It can be both positive and negative.",
+        "businessContext": "In business, impact is frequently assessed to evaluate the effectiveness of strategies, initiatives, or technologies, often focusing on metrics such as revenue growth, market share, or social change.",
+        "nuance": "While 'impact' is a neutral term, it is often used in a positive context to highlight successful outcomes, so care should be taken to specify whether the impact is favorable or adverse.",
+        "synonyms": [
+          "effect",
+          "influence"
+        ],
+        "antonyms": [
+          "ineffectiveness",
+          "insignificance"
+        ]
+      },
+      {
+        "word": "optimist",
+        "definition": "An optimist is a person who tends to see the positive side of situations and expects favorable outcomes, often demonstrating hopefulness and confidence in the future. This mindset can influence decision-making and leadership.",
+        "businessContext": "In business environments, optimists are often seen as valuable leaders who inspire teams, drive innovation, and foster a positive company culture, particularly during challenging times.",
+        "nuance": "While being an optimist can lead to positive outcomes, it is important to balance optimism with realism to avoid overlooking potential risks or challenges.",
+        "synonyms": [
+          "hopeful person",
+          "positive thinker"
+        ],
+        "antonyms": [
+          "pessimist",
+          "cynic"
+        ]
+      }
+    ]
   },
   {
-    "text": "We need to train machines with as much information as possible on images of objects, but objects are very, very difficult to learn. A single object can have infinite possibilities that is shown on an image. In order to train computers with tens and thousands of object concepts, you really need to show it millions of examples.",
+    "text": "We need to train machines with as much information as possible on images of objects, but objects are very, very difficult to learn. A single object can have infinite possibilities that is shown on an image.",
     "speaker": "Dr. Fei Fei Li",
     "timestamp": "00:01:03",
     "context": "Lenny mentions Fei-Fei's breakthrough insight that machines could think like humans but were missing the vast amount of data that humans naturally acquire as children. Fei-Fei explains her decision to focus AI research on visual intelligence, since humans are deeply visual creatures. She describes the core challenge of object recognition - teaching computers to recognize objects requires enormous amounts of training data because any single object can appear in countless different ways in images.",
     "vocabulary_highlights": [
-      "infinite possibilities",
-      "tens and thousands",
-      "object concepts"
+      "breakthrough",
+      "insight",
+      "possibilities",
+      "acquire"
     ],
     "topics": [
       "Learning & Growth",
@@ -47,16 +108,79 @@
     "text_ko": "우리는 사물 이미지(images of objects)에서 가능한 한 많은 정보를 이용해 기계(machines)를 학습시켜야 해요. 그런데 사물(objects)은 배우기가 정말, 정말 어렵습니다. 같은 사물도 이미지상에서는 무한한 가능성을 가질 수 있어요. 컴퓨터에 수십, 수천 개의 사물 개념(object concepts)을 학습시키려면 실제로 수백만 개의 예시를 보여줘야 해요.",
     "text_zh": "我们得用尽可能多的物体图像信息来训练机器，但物体这东西真的特别难学。就一个物体，在图像上能呈现出无数种可能性。要想让电脑掌握成千上万种物体概念，你真得给它看几百万个样本才行。",
     "text_es": "Necesitamos entrenar las máquinas con toda la información posible sobre imágenes de objetos, pero los objetos son súper difíciles de aprender. Un solo objeto puede tener infinitas posibilidades de cómo se ve en una imagen. Para entrenar computadoras con miles y miles de conceptos de objetos, realmente necesitas mostrarles millones de ejemplos.",
-    "key_sentence": "Objects have infinite possibilities, requiring millions of examples for object concepts."
+    "key_sentence": "objects are very, very difficult to learn.",
+    "text_trimmed": true,
+    "original_text": "We need to train machines with as much information as possible on images of objects, but objects are very, very difficult to learn. A single object can have infinite possibilities that is shown on an image. In order to train computers with tens and thousands of object concepts, you really need to show it millions of examples.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "breakthrough",
+        "definition": "A significant and sudden advance or development that leads to a major change or improvement in a particular field.",
+        "businessContext": "In business and technology, a breakthrough often refers to a new product, process, or innovation that can disrupt markets or create new opportunities.",
+        "nuance": "While 'breakthrough' implies a positive advancement, it can also suggest that previous efforts were insufficient or flawed.",
+        "synonyms": [
+          "advancement",
+          "innovation"
+        ],
+        "antonyms": [
+          "setback",
+          "failure"
+        ]
+      },
+      {
+        "word": "insight",
+        "definition": "The capacity to gain an accurate and deep understanding of someone or something, often leading to new ideas or solutions.",
+        "businessContext": "In a business context, insights are crucial for decision-making, strategy development, and understanding market trends or consumer behavior.",
+        "nuance": "The term 'insight' often suggests a level of depth and clarity that goes beyond mere observation or data analysis.",
+        "synonyms": [
+          "understanding",
+          "perception"
+        ],
+        "antonyms": [
+          "ignorance",
+          "misunderstanding"
+        ]
+      },
+      {
+        "word": "possibilities",
+        "definition": "Potential opportunities or outcomes that may arise from a given situation or set of circumstances.",
+        "businessContext": "In business and technology, exploring possibilities is essential for innovation, strategic planning, and risk assessment.",
+        "nuance": "The term can imply optimism and creativity, but it may also suggest uncertainty or a lack of concrete direction.",
+        "synonyms": [
+          "opportunities",
+          "options"
+        ],
+        "antonyms": [
+          "limitations",
+          "constraints"
+        ]
+      },
+      {
+        "word": "acquire",
+        "definition": "To gain possession of something, typically through effort or purchase.",
+        "businessContext": "In the business world, acquiring can refer to obtaining assets, companies, or skills that enhance a firm's capabilities or market position.",
+        "nuance": "While 'acquire' is often used in a neutral sense, it can carry connotations of competition or aggressive strategy in the context of mergers and acquisitions.",
+        "synonyms": [
+          "obtain",
+          "procure"
+        ],
+        "antonyms": [
+          "lose",
+          "relinquish"
+        ]
+      }
+    ]
   },
   {
-    "text": "I am recognized for being part of the history, but there are so many heroes and so many researchers. We're talking about generations of researchers. In my own world, there are so many people who have inspired me, which I talked about in my book, but I do feel our culture, especially Silicon Valley, tends to assign achievements to a single person.",
+    "text": "I am recognized for being part of the history, but there are so many heroes and so many researchers. We're talking about generations of researchers.",
     "speaker": "Dr. Fei Fei Li",
     "timestamp": "00:22:49",
     "context": "Lenny asks if there's anything else about AI's early history that people should know. Fei-Fei reflects on how she's recognized as being central to AI breakthroughs like ImageNet, but emphasizes the collaborative nature of scientific progress. She points out that AI has 70 years of history involving many generations of researchers, and critiques Silicon Valley's tendency to credit individual 'heroes' rather than acknowledging the collective effort behind major technological advances.",
     "vocabulary_highlights": [
-      "assign achievements",
-      "generations of researchers"
+      "recognized",
+      "generations",
+      "breakthroughs",
+      "emphasizes"
     ],
     "topics": [
       "Leadership & Management",
@@ -71,17 +195,79 @@
     "text_ko": "저는 역사의 한 부분으로 인정받고는 해요. 그런데 정말 많은 영웅들과 수많은 연구자들이 있어요. 연구자들이 세대를 이어 이어온 거죠. 제 분야에도 저에게 영감을 준 분들이 정말 많아서 그 이야기를 제 책에서도 했어요. 다만 우리 문화, 특히 실리콘밸리(Silicon Valley)는 성과를 한 사람에게 귀속시키는 경향이 있는 것 같아요.",
     "text_zh": "大家都说我是历史的一部分，但其实英雄太多了，做研究的人也太多了。我们说的可是好几代研究人员啊。在我自己的圈子里，有太多人给了我启发，我在书里也提到过，但我确实觉得我们这个文化，特别是硅谷(Silicon Valley)，总是喜欢把成就都归到一个人头上。",
     "text_es": "Me reconocen por haber sido parte de la historia, pero hay muchísimos héroes y muchísimos investigadores. Estamos hablando de generaciones enteras de investigadores. En mi propio mundo, hay tanta gente que me ha inspirado, de la que hablé en mi libro, pero sí siento que nuestra cultura, especialmente Silicon Valley, tiende a atribuirle los logros a una sola persona.",
-    "key_sentence": "Silicon Valley tends to assign achievements to a single person, ignoring generations of researchers."
+    "key_sentence": "there are so many heroes and so many researchers.",
+    "text_trimmed": true,
+    "original_text": "I am recognized for being part of the history, but there are so many heroes and so many researchers. We're talking about generations of researchers. In my own world, there are so many people who have inspired me, which I talked about in my book, but I do feel our culture, especially Silicon Valley, tends to assign achievements to a single person.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "recognized",
+        "definition": "Acknowledged or identified as being notable or worthy of attention.",
+        "businessContext": "In business, being recognized can refer to receiving awards, accolades, or public acknowledgment for contributions to a field or industry.",
+        "nuance": "While 'recognized' implies a positive acknowledgment, it can also suggest that the individual or entity has achieved a certain level of visibility or reputation.",
+        "synonyms": [
+          "acknowledged",
+          "celebrated"
+        ],
+        "antonyms": [
+          "ignored",
+          "overlooked"
+        ]
+      },
+      {
+        "word": "generations",
+        "definition": "Groups of individuals born and living around the same time, often sharing similar experiences and cultural influences.",
+        "businessContext": "In business, understanding different generations can inform marketing strategies, product development, and workplace dynamics, as each generation may have distinct preferences and values.",
+        "nuance": "The term can imply a sense of continuity and evolution over time, often used to highlight the impact of historical changes on current practices.",
+        "synonyms": [
+          "cohorts",
+          "eras"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "breakthroughs",
+        "definition": "Significant and sudden advances or discoveries that lead to major improvements or changes in a field.",
+        "businessContext": "In technology and research sectors, breakthroughs can drive innovation, create competitive advantages, and lead to new market opportunities.",
+        "nuance": "The term often carries a sense of excitement and optimism, suggesting that the breakthrough has the potential to change the status quo significantly.",
+        "synonyms": [
+          "advancements",
+          "discoveries"
+        ],
+        "antonyms": [
+          "setbacks",
+          "failures"
+        ]
+      },
+      {
+        "word": "emphasizes",
+        "definition": "To give special importance or prominence to something in speaking or writing.",
+        "businessContext": "In business communication, emphasizing key points can enhance clarity and persuade stakeholders, making it essential for effective presentations and reports.",
+        "nuance": "While 'emphasizes' suggests a focus on certain aspects, it should be used judiciously to avoid overwhelming the audience with too much information.",
+        "synonyms": [
+          "stresses",
+          "highlights"
+        ],
+        "antonyms": [
+          "downplays",
+          "minimizes"
+        ]
+      }
+    ]
   },
   {
-    "text": "Some tech companies avoid using the word AI because they were not sure if AI was a dirty word. I was actually encouraging everybody to use the word AI because to me that is one of the most audacious question humanity has ever asked in our quest for science and technology, and I feel very proud of this term.",
+    "text": "Some tech companies avoid using the word AI because they were not sure if AI was a dirty word.",
     "speaker": "Dr. Fei Fei Li",
     "timestamp": "00:00:07",
     "context": "Lenny asks about when exactly AI became a widely-used term versus other terms like machine learning. Fei-Fei recalls that as recently as 2015-2016, some technology companies actively avoided calling their work 'AI' because they weren't sure if it was viewed negatively by the public. She explains how she actively encouraged people to embrace the term 'AI' because she saw it as representing one of humanity's most ambitious scientific endeavors.",
     "vocabulary_highlights": [
-      "dirty word",
-      "most audacious question",
-      "quest for science and technology"
+      "actively",
+      "widely-used",
+      "context",
+      "term"
     ],
     "topics": [
       "Communication Skills",
@@ -96,16 +282,79 @@
     "text_ko": "몇몇 테크 기업들은 인공지능(AI)이라는 말을 피했어요. 인공지능이 부정적인 의미로 받아들여질지 확신이 없었기 때문이에요. 저는 오히려 모두가 인공지능(AI)이라는 말을 쓰라고 권했어요. 제게 그 말은 인류가 과학과 기술을 추구해오면서 던져온 가장 대담한 질문들 중 하나로 느껴져요. 그리고 저는 이 용어가 정말 자랑스러워요.",
     "text_zh": "有些科技公司不敢用AI这个词，怕这词儿听起来不太好。但我其实一直鼓励大家大胆用AI这个词，因为在我看来，这是人类在科技探索路上提出的最有野心的问题之一，我为这个词感到特别骄傲。",
     "text_es": "Algunas empresas de tecnología evitaban usar la palabra IA porque no estaban seguras si era un término que daba mala imagen. Yo en realidad animaba a todo el mundo a usar la palabra IA porque para mí es una de las preguntas más ambiciosas que la humanidad se ha planteado jamás en nuestra búsqueda del conocimiento científico y tecnológico, y me siento muy orgulloso de este término.",
-    "key_sentence": "AI is one of humanity's most audacious questions in our quest for science and technology."
+    "key_sentence": "Some tech companies avoid using the word AI because they were not sure if AI was a dirty word.",
+    "text_trimmed": true,
+    "original_text": "Some tech companies avoid using the word AI because they were not sure if AI was a dirty word. I was actually encouraging everybody to use the word AI because to me that is one of the most audacious question humanity has ever asked in our quest for science and technology, and I feel very proud of this term.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "actively",
+        "definition": "In a manner that involves direct participation or engagement.",
+        "businessContext": "In business settings, 'actively' often refers to the engagement of employees or stakeholders in processes such as decision-making or project management.",
+        "nuance": "The term suggests a proactive approach rather than a passive one, emphasizing involvement and initiative.",
+        "synonyms": [
+          "diligently",
+          "energetically"
+        ],
+        "antonyms": [
+          "passively",
+          "inactively"
+        ]
+      },
+      {
+        "word": "widely-used",
+        "definition": "Commonly employed or adopted by a large number of people or organizations.",
+        "businessContext": "In technology and business, a 'widely-used' tool or software indicates its popularity and reliability among users, often influencing purchasing decisions.",
+        "nuance": "This phrase conveys a sense of acceptance and validation within the industry, suggesting that the item has proven its effectiveness.",
+        "synonyms": [
+          "commonly adopted",
+          "prevalent"
+        ],
+        "antonyms": [
+          "rarely used",
+          "obscure"
+        ]
+      },
+      {
+        "word": "context",
+        "definition": "The circumstances or setting in which an event occurs or a statement is made, providing meaning to that event or statement.",
+        "businessContext": "Understanding the context in which a product is marketed or a decision is made is crucial for effective strategy development and communication.",
+        "nuance": "The term implies that meaning can change significantly based on surrounding factors, making it essential to consider all relevant information.",
+        "synonyms": [
+          "situation",
+          "framework"
+        ],
+        "antonyms": [
+          "vacuum",
+          "isolation"
+        ]
+      },
+      {
+        "word": "term",
+        "definition": "A word or phrase used to describe a particular concept or idea, often within a specific field.",
+        "businessContext": "In business and technology, precise terminology is vital for clear communication, particularly in legal documents, contracts, and technical specifications.",
+        "nuance": "The choice of term can convey authority or expertise, and using jargon may either enhance credibility or alienate audiences unfamiliar with the language.",
+        "synonyms": [
+          "expression",
+          "designation"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "I'm an intellectually very fearless person, and I have to say when I hire young people, I look for that because I think that's a very important quality if one wants to make a difference. When you want to make a difference, you have to accept that you're creating something new or you're diving into something new.",
+    "text": "I'm an intellectually very fearless person, and I have to say when I hire young people, I look for that because I think that's a very important quality if one wants to make a difference.",
     "speaker": "Dr. Fei Fei Li",
     "timestamp": "01:05:25",
     "context": "Lenny asks what common thread brought Fei-Fei to all the major institutions where AI breakthroughs occurred - SAIL at Stanford, Google Cloud, and now World Labs. Fei-Fei reflects on her career choices and identifies intellectual fearlessness as a key trait that guided her decisions. She explains that making meaningful impact requires courage to venture into uncharted territory, and she actively seeks this quality when hiring at her company.",
     "vocabulary_highlights": [
-      "intellectually very fearless",
-      "diving into something new"
+      "intellectually",
+      "fearless",
+      "important",
+      "make a difference"
     ],
     "topics": [
       "Career Development",
@@ -120,16 +369,79 @@
     "text_ko": "저는 지적으로 굉장히 두려움이 없는 편이에요. 젊은 인재를 뽑을 때 그런 태도를 중요하게 보는데, 무언가 변화를 만들고 싶다면 그게 정말 중요한 자질이라고 생각해요. 변화를 원한다면 새로운 걸 창조하거나 미지의 영역에 뛰어드는 걸 받아들여야 해요.",
     "text_zh": "我这个人在思维上特别不怕事儿，说实话我招年轻人的时候也专门看这一点，因为我觉得你要是想干出点名堂来，这个品质太重要了。你想要有所作为的话，就得接受这个现实——要么你在创造全新的东西，要么你在往一个全新的领域里扎猛子。",
     "text_es": "Soy una persona sin miedo intelectual, y tengo que decir que cuando contrato gente joven, busco exactamente eso porque creo que es una cualidad súper importante si uno quiere marcar la diferencia. Cuando quieres marcar la diferencia, tienes que aceptar que estás creando algo nuevo o te estás metiendo en algo completamente nuevo.",
-    "key_sentence": "I seek intellectually very fearless individuals diving into something new to make a difference."
+    "key_sentence": "I look for that because I think that's a very important quality if one wants to make a difference.",
+    "text_trimmed": true,
+    "original_text": "I'm an intellectually very fearless person, and I have to say when I hire young people, I look for that because I think that's a very important quality if one wants to make a difference. When you want to make a difference, you have to accept that you're creating something new or you're diving into something new.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "intellectually",
+        "definition": "In a manner that relates to the intellect or mental capacity; involving the use of reasoning and critical thinking.",
+        "businessContext": "In business environments, being intellectually engaged means applying analytical skills to solve complex problems and innovate effectively.",
+        "nuance": "While often associated with academic or theoretical pursuits, in business, it implies a proactive approach to learning and adapting.",
+        "synonyms": [
+          "mentally",
+          "cognitively"
+        ],
+        "antonyms": [
+          "emotionally",
+          "irrationally"
+        ]
+      },
+      {
+        "word": "fearless",
+        "definition": "Having no fear; showing courage and confidence in the face of challenges or risks.",
+        "businessContext": "Fearlessness in a business context often refers to the willingness to take calculated risks, innovate, and challenge the status quo.",
+        "nuance": "While being fearless is generally positive, it can imply recklessness if not balanced with prudence.",
+        "synonyms": [
+          "bold",
+          "audacious"
+        ],
+        "antonyms": [
+          "timid",
+          "cowardly"
+        ]
+      },
+      {
+        "word": "important",
+        "definition": "Of great significance or value; having a major effect on a situation or outcome.",
+        "businessContext": "In business, identifying important qualities or factors is crucial for decision-making, strategic planning, and prioritizing resources.",
+        "nuance": "The term can be subjective, as what is considered important may vary between individuals and contexts.",
+        "synonyms": [
+          "significant",
+          "crucial"
+        ],
+        "antonyms": [
+          "insignificant",
+          "trivial"
+        ]
+      },
+      {
+        "word": "make a difference",
+        "definition": "To have a significant impact or effect on a situation, person, or community; to contribute positively.",
+        "businessContext": "In the corporate world, making a difference often relates to initiatives that enhance social responsibility, sustainability, or innovation that benefits stakeholders.",
+        "nuance": "This phrase carries a motivational connotation, often used to inspire action or commitment to a cause.",
+        "synonyms": [
+          "create an impact",
+          "effect change"
+        ],
+        "antonyms": [
+          "remain stagnant",
+          "have no effect"
+        ]
+      }
+    ]
   },
   {
-    "text": "It's so important that even a technologist like me are sincere about that everybody has a role in AI. No technology should take away human dignity and the human dignity and agency should be at the heart of the development, the deployment, as well as the governance of every technology.",
+    "text": "It's so important that even a technologist like me are sincere about that everybody has a role in AI.",
     "speaker": "Dr. Fei Fei Li",
     "timestamp": "01:17:14",
     "context": "Fei-Fei addresses a common concern she encounters when traveling - people from various professions asking if they have any role in AI or if AI will simply take over their work. She emphasizes that everyone, from artists to farmers to nurses, has an important role to play in the AI revolution. She stresses that human dignity and agency must remain central to how AI technology is developed, deployed, and governed.",
     "vocabulary_highlights": [
-      "human dignity and agency",
-      "at the heart of"
+      "sincere",
+      "role",
+      "emphasize",
+      "profession"
     ],
     "topics": [
       "Leadership & Management",
@@ -144,6 +456,67 @@
     "text_ko": "저 같은 기술자(technologist)도 누구나 AI에서 역할이 있다는 것에 대해 진심이어야 해요. 어떤 기술도 인간의 존엄성을 빼앗아서는 안 되고, 인간의 존엄성과 자율성(agency)이 모든 기술의 개발과 도입(deployment), 그리고 거버넌스(governance)의 중심에 있어야 해요.",
     "text_zh": "这点真的太重要了，就连我这样搞技术的人都特别认真地认为，每个人在AI这件事上都有自己的角色。任何技术都不应该剥夺人的尊严，人的尊严和主体性应该是每一项技术在开发、部署和治理过程中的核心。",
     "text_es": "Es súper importante que incluso alguien de tecnología como yo sea honesto sobre esto: todos tenemos un papel que jugar en la IA. Ninguna tecnología debería quitarle dignidad a las personas, y la dignidad humana y la capacidad de decidir tienen que estar en el centro del desarrollo, la implementación y también de cómo manejamos cualquier tecnología.",
-    "key_sentence": "Human dignity and agency should be at the heart of every technology's development."
+    "key_sentence": "everybody has a role in AI.",
+    "text_trimmed": true,
+    "original_text": "It's so important that even a technologist like me are sincere about that everybody has a role in AI. No technology should take away human dignity and the human dignity and agency should be at the heart of the development, the deployment, as well as the governance of every technology.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "sincere",
+        "definition": "Genuine and honest in feelings, intentions, or expressions without pretense or deceit.",
+        "businessContext": "In business, sincerity is crucial for building trust and credibility with clients, stakeholders, and team members, particularly in communications and negotiations.",
+        "nuance": "While sincerity is generally positive, it can be perceived as naive in highly competitive environments where strategic communication is valued.",
+        "synonyms": [
+          "genuine",
+          "honest"
+        ],
+        "antonyms": [
+          "insincere",
+          "deceitful"
+        ]
+      },
+      {
+        "word": "role",
+        "definition": "The function or position that someone or something has in a particular situation or organization.",
+        "businessContext": "Understanding individual roles within a team or organization is essential for effective collaboration and achieving business objectives.",
+        "nuance": "The term 'role' can imply a level of responsibility or authority, and should be used carefully to reflect the expectations associated with that position.",
+        "synonyms": [
+          "function",
+          "position"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "emphasize",
+        "definition": "To give special importance or prominence to something in speaking or writing.",
+        "businessContext": "In business presentations and reports, emphasizing key points helps to ensure that critical information is understood and retained by the audience.",
+        "nuance": "While emphasizing can enhance clarity, overemphasis may lead to perceptions of exaggeration or bias, so it should be used judiciously.",
+        "synonyms": [
+          "highlight",
+          "stress"
+        ],
+        "antonyms": [
+          "downplay",
+          "minimize"
+        ]
+      },
+      {
+        "word": "profession",
+        "definition": "A paid occupation, especially one that involves prolonged training and a formal qualification.",
+        "businessContext": "In the context of business and technology, the term 'profession' often refers to specialized fields such as engineering, law, or medicine, which require specific skills and credentials.",
+        "nuance": "The term carries a connotation of respect and expertise, and is typically used to denote careers that require significant education and training.",
+        "synonyms": [
+          "occupation",
+          "career"
+        ],
+        "antonyms": [
+          "hobby",
+          "N/A"
+        ]
+      }
+    ]
   }
 ]

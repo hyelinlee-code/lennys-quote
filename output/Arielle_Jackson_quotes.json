@@ -1,14 +1,14 @@
 [
   {
-    "text": "So over time, a word can come to mean something that is beyond what that actual word means. Like Disney means magic today. Volvo means safety. Those names are not good. If I just put it in a spreadsheet or one of those lists, no one would pick it. So that's kind of what I mean, that the name is just part of the overall marketing or the overall brand and a bad name with a really great company with great company strategy, great marketing is going to be great over time. And a good name is just going to help you, but I don't think a bad name is going to kill a good company.",
+    "text": "So over time, a word can come to mean something that is beyond what that actual word means. Like Disney means magic today. Volvo means safety. Those names are not good.",
     "speaker": "Arielle Jackson",
     "timestamp": "00:00:00",
     "context": "Lenny is asking Arielle about the importance of company names and whether a bad name can hurt a startup. Arielle explains that while a great name can help with word-of-mouth and memorability, a bad name won't necessarily doom a good company with strong strategy and marketing. She uses Disney and Volvo as examples - names that weren't inherently good but became powerful through consistent branding over time, with Disney now meaning 'magic' and Volvo representing 'safety.'",
     "vocabulary_highlights": [
-      "come to mean",
-      "in a spreadsheet",
-      "marketing work for you",
-      "kill a good company"
+      "memorability",
+      "importance",
+      "beyond",
+      "hurt"
     ],
     "topics": [
       "Strategy & Planning",
@@ -23,17 +23,79 @@
     "text_ko": "시간이 지나면서 어떤 단어는 본래 뜻을 넘어서는 의미를 갖게 돼요. 예를 들어 디즈니(Disney)는 지금은 ‘마법’을, 볼보(Volvo)는 ‘안전’을 의미하죠. 그런 이름들은 처음 보면 별로인 경우가 많아요. 스프레드시트나 이름 목록에 그냥 넣어두면 아무도 고르지 않을 거예요. 제가 말하려는 건 이름은 전체 마케팅이나 브랜드의 일부일 뿐이라는 거예요. 이름이 별로여도 회사 전략이 훌륭하고 마케팅을 잘하면 시간이 지나면서 성공해요. 물론 좋은 이름은 도움이 되지만, 나쁜 이름 때문에 좋은 회사가 망하진 않을 거예요.",
     "text_zh": "所以时间长了，一个词就会有超出它本身含义的意思。比如迪士尼现在就代表魔力，沃尔沃就代表安全。这些名字其实都不算好。如果我把它们放在表格里或者列个单子，没人会选它们。所以我的意思就是，名字只是整体营销或者整体品牌的一部分，一个烂名字配上真正厉害的公司、厉害的公司战略、厉害的营销，时间长了也会很棒。好名字只是会帮到你，但我觉得烂名字不会搞垮一个好公司。",
     "text_es": "Con el tiempo, una palabra puede llegar a significar algo que va más allá de lo que realmente significa esa palabra. Como Disney hoy significa magia. Volvo significa seguridad. Esos nombres no son buenos en sí mismos. Si los pusiera en una hoja de cálculo o en una de esas listas, nadie los elegiría. Entonces a eso me refiero, que el nombre es solo parte del marketing general o de la marca en general, y un mal nombre con una empresa realmente genial, con una gran estrategia empresarial y gran marketing, va a triunfar con el tiempo. Y un buen nombre simplemente te va a ayudar, pero no creo que un mal nombre vaya a hundir a una buena empresa.",
-    "key_sentence": "A bad name won't kill a good company with great marketing work."
+    "key_sentence": "over time, a word can come to mean something that is beyond what that actual word means.",
+    "text_trimmed": true,
+    "original_text": "So over time, a word can come to mean something that is beyond what that actual word means. Like Disney means magic today. Volvo means safety. Those names are not good. If I just put it in a spreadsheet or one of those lists, no one would pick it. So that's kind of what I mean, that the name is just part of the overall marketing or the overall brand and a bad name with a really great company with great company strategy, great marketing is going to be great over time. And a good name is just going to help you, but I don't think a bad name is going to kill a good company.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "memorability",
+        "definition": "The quality of being easy to remember or recall. It is often associated with branding and marketing effectiveness.",
+        "businessContext": "In business, memorability is crucial for brand recognition and customer retention, as memorable brands tend to have a stronger impact on consumers' purchasing decisions.",
+        "nuance": "While memorability is generally positive, it can imply that a brand's message may overshadow its actual product quality if not balanced properly.",
+        "synonyms": [
+          "recallability",
+          "noteworthiness"
+        ],
+        "antonyms": [
+          "forgetfulness",
+          "obscurity"
+        ]
+      },
+      {
+        "word": "importance",
+        "definition": "The state or quality of being significant or valuable in a particular context. It often denotes the degree to which something is essential or influential.",
+        "businessContext": "In business discussions, importance is often assessed when prioritizing projects, strategies, or resources to ensure alignment with organizational goals.",
+        "nuance": "The term can vary in weight depending on the context; something may be important in one scenario but trivial in another.",
+        "synonyms": [
+          "significance",
+          "value"
+        ],
+        "antonyms": [
+          "insignificance",
+          "triviality"
+        ]
+      },
+      {
+        "word": "beyond",
+        "definition": "At or to the further side of; outside the limits of something. It can also imply surpassing a particular threshold or expectation.",
+        "businessContext": "In a business context, 'beyond' is often used to describe goals or achievements that exceed standard expectations, such as 'beyond profit' to indicate a focus on sustainability.",
+        "nuance": "The term can convey a sense of aspiration or ambition, but may also imply that something is unattainable or overly idealistic.",
+        "synonyms": [
+          "outside",
+          "surpassing"
+        ],
+        "antonyms": [
+          "within",
+          "inside"
+        ]
+      },
+      {
+        "word": "hurt",
+        "definition": "To cause physical pain or emotional distress. In a broader sense, it can refer to negative impacts on performance or reputation.",
+        "businessContext": "In business, 'hurt' is often used to describe the adverse effects of decisions, market conditions, or competition on a company's performance or brand image.",
+        "nuance": "While 'hurt' typically has a negative connotation, it can also be used in a constructive context, such as discussing necessary sacrifices for long-term gains.",
+        "synonyms": [
+          "damage",
+          "injure"
+        ],
+        "antonyms": [
+          "heal",
+          "benefit"
+        ]
+      }
+    ]
   },
   {
-    "text": "And I personally tend to like those kinds of names that are suggestive or evocative, where when I tell you what the company does, you're like, oh, that makes sense. But it's not that what the name is tells you exactly what the company does. Another company that has a good name that you and I have both worked with is Maven. Maven is a Yiddish word that means one who understands and it means specifically one who understands because they've done something, they've acquired the skills or knowledge over time. And I just think that's such a cool name for a platform that allows X operators or current operators to teach their skills to other people through cohort based classes.",
+    "text": "And I personally tend to like those kinds of names that are suggestive or evocative, where when I tell you what the company does, you're like, oh, that makes sense. But it's not that what the name is tells you exactly what the company does.",
     "speaker": "Arielle Jackson",
     "timestamp": "00:13:10",
     "context": "Lenny asks Arielle what makes a good name for a startup or product. Arielle explains her preference for suggestive or evocative names - names that make sense once you understand what the company does, but don't literally describe the service. She uses Maven as an example, explaining how the Yiddish word meaning 'one who understands through experience' perfectly fits a platform where experienced operators teach cohort-based classes to others.",
     "vocabulary_highlights": [
-      "suggestive or evocative",
-      "acquired the skills",
-      "cohort based classes"
+      "suggestive",
+      "evocative",
+      "makes sense",
+      "exactly"
     ],
     "topics": [
       "Starting a Company",
@@ -48,18 +110,79 @@
     "text_ko": "저는 개인적으로 회사 이름이 암시적이거나 감성을 자극하는 그런 이름을 좋아해요. 회사가 어떤 일을 하는지 말해주면, \"아, 그럴듯하네!\"라고 느끼게 되는 그런 이름이요. 하지만 이름이 회사의 모든 걸 정확히 설명해주지는 않아요. 우리가 함께 일해본 좋은 이름의 또 다른 회사는 Maven이에요. Maven은 이디시어로 '이해하는 사람'이라는 뜻인데, 특히 어떤 일을 해본 경험이 있어서 그 지식이나 기술을 쌓은 사람을 의미해요. 그래서 X 운영자들이나 현재 운영자들이 코호트 기반 수업을 통해 다른 사람들에게 자신의 기술을 가르칠 수 있는 플랫폼에 정말 잘 어울리는 멋진 이름이라고 생각해요.",
     "text_zh": "我个人比较喜欢那种有暗示性或者能引发联想的名字，就是当我告诉你这家公司是做什么的时候，你会恍然大悟：\"哦，原来如此！\" 但这个名字本身并不会直接告诉你公司的具体业务。我们俩都合作过的Maven就是个很好的例子，名字起得特别棒。Maven是个意第绪语词汇，意思是\"内行人\"，特指那种通过实践获得技能和知识的专家。我觉得这个名字对他们的平台来说简直太贴切了——让各个行业的从业者或者现任运营人员通过小班课程(cohort based classes)把自己的技能传授给别人。",
     "text_es": "Y a mí personalmente me encantan ese tipo de nombres que son sugestivos o evocativos, donde cuando te digo a qué se dedica la empresa, tú dices \"ah, claro, tiene sentido\". Pero no es que el nombre te diga exactamente qué hace la empresa. Otra empresa que tiene un nombre genial y con la que hemos trabajado los dos es Maven. Maven es una palabra en yiddish que significa \"alguien que entiende\" y específicamente se refiere a alguien que entiende porque ya lo ha hecho, porque ha adquirido las habilidades o el conocimiento con el tiempo. Y me parece un nombre súper cool para una plataforma que permite que ex operadores o operadores actuales enseñen sus habilidades a otras personas a través de clases en cohortes (cohort-based classes).",
-    "key_sentence": "Maven is suggestive or evocative, meaning one who understands through acquired skills."
+    "key_sentence": "those kinds of names that are suggestive or evocative, where when I tell you what the company does, you're like, oh, that makes sense.",
+    "text_trimmed": true,
+    "original_text": "And I personally tend to like those kinds of names that are suggestive or evocative, where when I tell you what the company does, you're like, oh, that makes sense. But it's not that what the name is tells you exactly what the company does. Another company that has a good name that you and I have both worked with is Maven. Maven is a Yiddish word that means one who understands and it means specifically one who understands because they've done something, they've acquired the skills or knowledge over time. And I just think that's such a cool name for a platform that allows X operators or current operators to teach their skills to other people through cohort based classes.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "suggestive",
+        "definition": "Implying or indicating something indirectly; often used to describe names or terms that hint at a deeper meaning or association.",
+        "businessContext": "In business, suggestive names can enhance brand identity by evoking certain feelings or associations that resonate with consumers.",
+        "nuance": "While suggestive terms can be powerful in branding, they may also risk ambiguity if the implication is not clear to the target audience.",
+        "synonyms": [
+          "indicative",
+          "implying"
+        ],
+        "antonyms": [
+          "explicit",
+          "clear"
+        ]
+      },
+      {
+        "word": "evocative",
+        "definition": "Bringing strong images, memories, or feelings to mind; often used to describe language or branding that stirs emotional responses.",
+        "businessContext": "Evocative branding can create a strong emotional connection with consumers, enhancing brand loyalty and recognition.",
+        "nuance": "Evocative terms are effective in marketing but should be used carefully to ensure they align with the brand's message and values.",
+        "synonyms": [
+          "suggestive",
+          "reminiscent"
+        ],
+        "antonyms": [
+          "uninspiring",
+          "bland"
+        ]
+      },
+      {
+        "word": "makes sense",
+        "definition": "To be logical or reasonable; often used to indicate that something is understandable or coherent.",
+        "businessContext": "In business discussions, saying something 'makes sense' can validate a proposal or idea, indicating that it aligns with common understanding or expectations.",
+        "nuance": "This phrase can imply agreement or approval, but may also suggest that the alternative lacks clarity or rationale.",
+        "synonyms": [
+          "is logical",
+          "is reasonable"
+        ],
+        "antonyms": [
+          "is illogical",
+          "is unreasonable"
+        ]
+      },
+      {
+        "word": "exactly",
+        "definition": "In a precise manner; used to indicate that something is accurate or corresponds precisely to a description or expectation.",
+        "businessContext": "In business communication, 'exactly' is often used to affirm understanding or agreement on specific details or requirements.",
+        "nuance": "While 'exactly' conveys precision, overuse can come across as pedantic or overly critical in collaborative discussions.",
+        "synonyms": [
+          "precisely",
+          "accurately"
+        ],
+        "antonyms": [
+          "approximately",
+          "vaguely"
+        ]
+      }
+    ]
   },
   {
-    "text": "My take on empty vessel names is they can be really memorable and they can be evocative of the emotion, but you have to do a lot more marketing work over time to make it mean something. So if I say Yahoo today, we know it's that search engine we use before we all switch to Google and we have the purple color in our head, and we think about what it meant at the time that we might have used it, but it took a lot of marketing dollars and a lot of time for that word to be in that.",
+    "text": "My take on empty vessel names is they can be really memorable and they can be evocative of the emotion, but you have to do a lot more marketing work over time to make it mean something.",
     "speaker": "Arielle Jackson",
     "timestamp": "00:15:51",
     "context": "Lenny asks about nonsense words as company names like Yahoo and Google. Arielle explains the concept of 'empty vessel names' - names that don't have inherent meaning but can become powerful brand assets. However, she warns that these names require significantly more marketing investment and time to build meaning, using Yahoo as an example of how much effort was needed to make that meaningless word represent a search engine in people's minds.",
     "vocabulary_highlights": [
-      "empty vessel names",
-      "evocative of the emotion",
+      "memorable",
+      "evocative",
       "marketing work",
-      "marketing dollars"
+      "inherent meaning"
     ],
     "topics": [
       "Growth & Marketing",
@@ -74,19 +197,79 @@
     "text_ko": "제 생각에는 빈 그릇 같은 이름(empty vessel names)은 정말 기억에 남고 감정을 불러일으킬 수 있어요. 하지만 시간이 지나면서 그 이름이 실제로 의미를 갖게 만들려면 훨씬 더 많은 마케팅 노력이 필요해요. 예를 들어 지금 제가 'Yahoo'라고 하면, 우리한테는 다들 구글로 갈아타기 전쯤에 쓰던 그 검색 엔진이 떠오르고 보라색이 머릿속에 남고, 그때 그 이름이 어떤 의미였는지도 떠오르죠. 그런데 그 단어가 그런 의미를 갖게 되기까지는 많은 마케팅 비용과 시간이 들었어요.",
     "text_zh": "我觉得这种空白容器型的品牌名(empty vessel names)吧，确实容易让人记住，也能勾起情感共鸣，但是你得花大量的营销功夫和时间才能让它有意义。比如说我现在提到雅虎，我们都知道这是我们在转用谷歌之前用的那个搜索引擎，脑子里会想起那个紫色，会想起我们当时用它时的感觉，但这个词能有这些联想，背后可是砸了不少营销费用和时间的。",
     "text_es": "Mi opinión sobre los nombres vacíos es que pueden ser súper memorables y pueden evocar emociones, pero tienes que hacer muchísimo más trabajo de marketing a lo largo del tiempo para que signifiquen algo. O sea, si hoy digo Yahoo, sabemos que es ese buscador que usábamos antes de que todos nos pasáramos a Google, se nos viene a la cabeza el color morado, y pensamos en lo que significaba en esa época cuando lo usábamos, pero costó un montón de dinero en marketing y muchísimo tiempo para que esa palabra llegara a representar todo eso.",
-    "key_sentence": "Empty vessel names require more marketing work to become evocative of the emotion."
+    "key_sentence": "Empty vessel names require more marketing work to become evocative of the emotion.",
+    "text_trimmed": true,
+    "original_text": "My take on empty vessel names is they can be really memorable and they can be evocative of the emotion, but you have to do a lot more marketing work over time to make it mean something. So if I say Yahoo today, we know it's that search engine we use before we all switch to Google and we have the purple color in our head, and we think about what it meant at the time that we might have used it, but it took a lot of marketing dollars and a lot of time for that word to be in that.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "memorable",
+        "definition": "Easily remembered or recalled; having qualities that make it stand out in one's memory.",
+        "businessContext": "In business, creating memorable branding or marketing campaigns can significantly enhance customer recognition and loyalty.",
+        "nuance": "While 'memorable' often has a positive connotation, it can also imply that something is overly simplistic or gimmicky if not executed well.",
+        "synonyms": [
+          "unforgettable",
+          "striking"
+        ],
+        "antonyms": [
+          "forgettable",
+          "insignificant"
+        ]
+      },
+      {
+        "word": "evocative",
+        "definition": "Bringing strong images, memories, or feelings to mind; capable of eliciting emotional responses.",
+        "businessContext": "Evocative advertising aims to create an emotional connection with consumers, often leading to stronger brand loyalty and engagement.",
+        "nuance": "The term 'evocative' is typically used in a positive sense, but it can also suggest that the emotional appeal may overshadow the product's actual qualities.",
+        "synonyms": [
+          "suggestive",
+          "expressive"
+        ],
+        "antonyms": [
+          "uninspiring",
+          "dull"
+        ]
+      },
+      {
+        "word": "marketing work",
+        "definition": "The activities and strategies employed to promote and sell products or services to consumers.",
+        "businessContext": "In a business setting, effective marketing work is essential for building brand awareness, attracting customers, and driving sales.",
+        "nuance": "The phrase 'marketing work' can imply a significant investment of time and resources, often requiring ongoing efforts to maintain market presence.",
+        "synonyms": [
+          "promotional efforts",
+          "advertising activities"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "inherent meaning",
+        "definition": "The fundamental significance or value that is naturally associated with something, often independent of external factors.",
+        "businessContext": "Understanding the inherent meaning of a brand or product can guide marketing strategies and help in positioning it effectively in the market.",
+        "nuance": "While 'inherent meaning' suggests a deep-rooted significance, it can sometimes be subjective and vary based on individual perceptions.",
+        "synonyms": [
+          "intrinsic value",
+          "essential significance"
+        ],
+        "antonyms": [
+          "superficial meaning",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "Almost always when someone comes to me and says, I'm ready to announce, we go back to positioning first. Also make sure that your website is ready for the traffic you're going to drive to it, that you're not driving traffic to a name that you're going to later scrap. Are you really ready for this? So go back to all the other things we discussed first and then having realistic expectations about the outlets that will cover you and the time it will take to get them.",
+    "text": "Almost always when someone comes to me and says, I'm ready to announce, we go back to positioning first.",
     "speaker": "Arielle Jackson",
     "timestamp": "01:09:49",
     "context": "Lenny asks Arielle for tactical advice on getting PR for startups before launch. Arielle emphasizes that founders often rush to announce without proper preparation. She stresses the importance of having clear positioning first, ensuring your website can handle traffic, and having realistic expectations about which media outlets will actually cover an early-stage startup and how long the PR process takes.",
     "vocabulary_highlights": [
-      "ready to announce",
-      "go back to positioning",
-      "drive traffic to",
-      "scrap",
-      "realistic expectations"
+      "positioning",
+      "tactical",
+      "announce",
+      "preparation"
     ],
     "topics": [
       "Growth & Marketing",
@@ -101,17 +284,79 @@
     "text_ko": "거의 항상 누군가가 \"이제 발표할 준비됐어요\"라고 하면, 우리는 먼저 포지셔닝(positioning)으로 다시 돌아가요. 또 웹사이트(website)가 유입될 트래픽(traffic)을 감당할 준비가 되어 있는지, 나중에 버릴 이름에 트래픽을 몰아주는 건 아닌지도 확인하세요. 진짜로 준비됐나요? 그러니까 먼저 앞서 얘기했던 다른 것들을 다 점검하고, 당신을 다뤄줄 매체(outlets)에 대해 현실적인 기대를 갖고 그들이 보도해주기까지 걸리는 시간도 고려하세요.",
     "text_zh": "几乎每次有人跟我说\"我准备好发布了\"，我都会让他们先回头看看定位(positioning)做得怎么样。还有，你得确保你的网站能承受得住即将涌入的流量，别把流量导到一个你后来要废掉的名字上。你真的准备好了吗？所以先把我们之前聊的那些事情都搞定，然后对媒体报道和时间周期要有个现实的预期。",
     "text_es": "Casi siempre cuando alguien viene y me dice \"ya estoy listo para hacer el anuncio\", volvemos primero al tema del posicionamiento. También asegúrate de que tu sitio web esté preparado para todo el tráfico que vas a generar, que no estés enviando gente a un nombre que después vas a cambiar. ¿De verdad estás listo para esto? Así que regresa primero a todas esas otras cosas que hablamos y luego ten expectativas realistas sobre qué medios te van a cubrir y cuánto tiempo te va a tomar conseguirlos.",
-    "key_sentence": "Go back to positioning before announcing and ensure your website can drive traffic to it."
+    "key_sentence": "we go back to positioning first.",
+    "text_trimmed": true,
+    "original_text": "Almost always when someone comes to me and says, I'm ready to announce, we go back to positioning first. Also make sure that your website is ready for the traffic you're going to drive to it, that you're not driving traffic to a name that you're going to later scrap. Are you really ready for this? So go back to all the other things we discussed first and then having realistic expectations about the outlets that will cover you and the time it will take to get them.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "positioning",
+        "definition": "The strategic process of establishing a brand or product in the minds of consumers relative to competitors.",
+        "businessContext": "In business, effective positioning helps to differentiate a product or service in the market, guiding marketing strategies and customer perceptions.",
+        "nuance": "Positioning often implies a long-term strategy and can involve complex market analysis; it is not merely about immediate sales tactics.",
+        "synonyms": [
+          "branding",
+          "market placement"
+        ],
+        "antonyms": [
+          "confusion",
+          "displacement"
+        ]
+      },
+      {
+        "word": "tactical",
+        "definition": "Relating to actions or strategies that are designed to achieve a specific short-term goal or objective.",
+        "businessContext": "In a business setting, tactical decisions are often made to respond to immediate challenges or opportunities, complementing broader strategic plans.",
+        "nuance": "Tactical approaches are typically more flexible and reactive, whereas strategic approaches are more planned and long-term.",
+        "synonyms": [
+          "operational",
+          "practical"
+        ],
+        "antonyms": [
+          "strategic",
+          "theoretical"
+        ]
+      },
+      {
+        "word": "announce",
+        "definition": "To make a public declaration about something, typically to inform stakeholders or the general public.",
+        "businessContext": "In the business world, announcements can pertain to product launches, company news, or changes in leadership, and are crucial for maintaining transparency and engagement.",
+        "nuance": "The term carries a formal tone and is often used in contexts where clarity and authority are required; it is less appropriate for informal communications.",
+        "synonyms": [
+          "declare",
+          "proclaim"
+        ],
+        "antonyms": [
+          "withhold",
+          "conceal"
+        ]
+      },
+      {
+        "word": "preparation",
+        "definition": "The act of making ready or being made ready for use or consideration, often involving planning and organization.",
+        "businessContext": "Preparation is essential in business for successful project execution, meetings, and presentations, ensuring that all necessary resources and information are in place.",
+        "nuance": "Preparation suggests a proactive approach and is often associated with thoroughness; it is important to distinguish it from mere readiness, which may imply a lack of depth.",
+        "synonyms": [
+          "readiness",
+          "planning"
+        ],
+        "antonyms": [
+          "neglect",
+          "disorganization"
+        ]
+      }
+    ]
   },
   {
-    "text": "These days for early stage startups, we're almost always running the launch announcement as an exclusive, which means you give the news to a single outlet. And they're the only ones who get to write about it. You can obviously still do all your owned and operated stuff, your blog, your social, your investors, your friends and family, but they're the only like news outlet who gets to write about it.",
+    "text": "These days for early stage startups, we're almost always running the launch announcement as an exclusive, which means you give the news to a single outlet. And they're the only ones who get to write about it.",
     "speaker": "Arielle Jackson",
     "timestamp": "01:10:32",
     "context": "Arielle is explaining how PR strategy has evolved for early-stage startups. She describes how the traditional approach of briefing multiple outlets under embargo no longer works effectively. Instead, modern startup PR typically involves giving exclusive coverage rights to a single media outlet, while still allowing the company to use their own channels (blog, social media, investor updates) to share the news.",
     "vocabulary_highlights": [
-      "running the launch announcement",
-      "as an exclusive",
-      "owned and operated stuff"
+      "exclusive",
+      "launch announcement",
+      "PR strategy",
+      "traditional approach"
     ],
     "topics": [
       "Growth & Marketing",
@@ -126,18 +371,79 @@
     "text_ko": "요즘 초기 단계 스타트업(early-stage startups)들은 출시 발표(launch announcement)를 거의 항상 단독 공개(exclusive)로 해요. 한 매체(outlet)에만 먼저 뉴스를 줘서 그 매체만 보도하게 하는 방식이죠. 물론 자체 채널(owned and operated)인 블로그나 소셜, 투자자들, 가족·지인에게는 여전히 알릴 수 있어요. 다만 뉴스 매체 중에서는 그 한 곳만 기사를 쓸 수 있게 하는 거예요.",
     "text_zh": "现在对于早期创业公司来说，我们发布产品的时候基本上都是搞独家报道，就是说你把消息只给一家媒体。只有他们能写这个新闻。当然了，你自己的渠道还是可以用的，比如你们的博客啊、社交媒体啊、投资人那边啊、亲朋好友啊，但是在新闻媒体里面，就只有这一家能报道。",
     "text_es": "Hoy en día para las startups en etapa temprana, casi siempre manejamos el anuncio de lanzamiento como una exclusiva, o sea que le das la noticia a un solo medio. Y son los únicos que pueden escribir sobre eso. Obviamente todavía puedes hacer todo lo tuyo - tu blog, tus redes, tus inversionistas, familia y amigos - pero son el único medio de comunicación que tiene derecho a escribir la nota.",
-    "key_sentence": "We're running the launch announcement as an exclusive for a single outlet."
+    "key_sentence": "We're running the launch announcement as an exclusive for a single outlet.",
+    "text_trimmed": true,
+    "original_text": "These days for early stage startups, we're almost always running the launch announcement as an exclusive, which means you give the news to a single outlet. And they're the only ones who get to write about it. You can obviously still do all your owned and operated stuff, your blog, your social, your investors, your friends and family, but they're the only like news outlet who gets to write about it.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "exclusive",
+        "definition": "Limited to a single entity or group; not shared with others.",
+        "businessContext": "In business, particularly in media and marketing, an exclusive often refers to a situation where a company provides information or a product to only one media outlet or partner, enhancing its value and appeal.",
+        "nuance": "The term carries a connotation of prestige and selectivity, often used to create a sense of urgency or importance around a product or announcement.",
+        "synonyms": [
+          "limited",
+          "select"
+        ],
+        "antonyms": [
+          "inclusive",
+          "shared"
+        ]
+      },
+      {
+        "word": "launch announcement",
+        "definition": "A formal communication that introduces a new product, service, or initiative to the public or specific stakeholders.",
+        "businessContext": "In the startup ecosystem, a launch announcement is critical for generating buzz and attracting attention from potential customers, investors, and the media.",
+        "nuance": "This term implies a strategic moment in a company's timeline, often accompanied by marketing efforts to maximize visibility and impact.",
+        "synonyms": [
+          "product launch",
+          "introduction"
+        ],
+        "antonyms": [
+          "discontinuation",
+          "withdrawal"
+        ]
+      },
+      {
+        "word": "PR strategy",
+        "definition": "A plan designed to manage the public perception of an organization or brand through communication and media relations.",
+        "businessContext": "In startups, a well-crafted PR strategy is essential for building brand awareness, attracting investors, and managing crises effectively.",
+        "nuance": "This term suggests a proactive and structured approach to communication, emphasizing the importance of maintaining a positive public image.",
+        "synonyms": [
+          "public relations plan",
+          "communication strategy"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "traditional approach",
+        "definition": "A method or strategy that follows established norms and practices, often contrasted with innovative or modern techniques.",
+        "businessContext": "In the context of startups, a traditional approach may refer to conventional marketing or business practices that may not leverage new technologies or trends.",
+        "nuance": "While it can imply reliability, a traditional approach may also suggest resistance to change or a lack of innovation, which can be a disadvantage in fast-paced industries.",
+        "synonyms": [
+          "conventional method",
+          "standard practice"
+        ],
+        "antonyms": [
+          "innovative approach",
+          "modern technique"
+        ]
+      }
+    ]
   },
   {
-    "text": "The last thing is really about making what you do interesting and relevant so that it's not just interesting and relevant to you and the three other people who worked there at the time, but interesting to all the readers of whatever outlet you're trying to target. We turned all of our customers into heroes and went after local press. Most PR firms that service the tech community aren't experts in local press, but if you have a way to make some connections with some local press, they are the ones hungry for these stories more than the New York Times and the Wall Street Journal.",
+    "text": "Make what you do interesting and relevant... to all the readers... We turned all of our customers into heroes and went after local press... they are the ones hungry for these stories more than the New York Times and the Wall Street Journal.",
     "speaker": "Arielle Jackson",
     "timestamp": "01:12:08",
     "context": "Arielle is providing PR advice about making startup stories newsworthy to journalists and their audiences. She explains that founders need to think beyond their own perspective and create stories that appeal to broader readerships. She shares a strategy from her Square days of making customers the heroes of stories and targeting local press, which is often more accessible and eager for startup stories than major national publications.",
     "vocabulary_highlights": [
-      "turned all of our customers into heroes",
-      "went after local press",
-      "service the tech community",
-      "hungry for these stories"
+      "relevant",
+      "perspective",
+      "newsworthy",
+      "audiences"
     ],
     "topics": [
       "Growth & Marketing",
@@ -152,6 +458,67 @@
     "text_ko": "마지막으로 중요한 건, 당신이 하는 일을 흥미롭고 관련성 있게 만드는 거예요. 그래야 당시 함께 일하던 당신과 다른 세 명만 흥미로워하는 게 아니라, 당신이 공략하려는 매체(outlet)의 모든 독자들에게도 흥미롭고 의미 있게 다가가죠. 저희는 모든 고객을 영웅으로 만들고 지역 언론(local press)을 적극적으로 공략했어요. 기술 업계(tech community)를 상대하는 대부분의 PR 회사(PR firms)는 지역 언론에 대해서는 전문가가 아닌 경우가 많은데, 만약 지역 언론과 연결될 방법이 있다면 그런 매체들이 뉴욕타임스나 월스트리트저널보다 이런 이야기들을 더 갈망하더라고요.",
     "text_zh": "最后一点就是要让你做的事情变得有意思、有价值，不能只是你们几个当事人觉得有意思，而是要让你想打入的那些媒体的所有读者都觉得有意思。我们把所有客户都包装成了英雄人物，然后专门找本地媒体。大部分服务科技圈的公关公司其实都不太懂本地媒体这一套，但如果你能想办法跟本地媒体搭上线，他们其实比《纽约时报》和《华尔街日报》更渴望这种故事。",
     "text_es": "Lo último que te quiero decir es que tienes que hacer que lo que haces sea interesante y relevante, no solo para ti y los tres que trabajaban ahí en ese momento, sino para todos los lectores del medio al que le quieres apuntar. Nosotros convertimos a todos nuestros clientes en héroes y nos fuimos por la prensa local. La mayoría de las agencias de relaciones públicas que atienden al sector tech no son expertas en medios locales, pero si logras hacer algunas conexiones con prensa local, ellos son los que están hambrientos de estas historias, mucho más que el New York Times o el Wall Street Journal.",
-    "key_sentence": "We turned all of our customers into heroes to attract local press hungry for stories."
+    "key_sentence": "We turned all of our customers into heroes to attract local press hungry for stories.",
+    "text_trimmed": true,
+    "original_text": "The last thing is really about making what you do interesting and relevant so that it's not just interesting and relevant to you and the three other people who worked there at the time, but interesting to all the readers of whatever outlet you're trying to target. We turned all of our customers into heroes and went after local press. Most PR firms that service the tech community aren't experts in local press, but if you have a way to make some connections with some local press, they are the ones hungry for these stories more than the New York Times and the Wall Street Journal.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "relevant",
+        "definition": "Closely connected or appropriate to the matter at hand.",
+        "businessContext": "In business, ensuring that content, products, or services are relevant to target audiences is crucial for engagement and success.",
+        "nuance": "While 'relevant' implies a direct connection, it is important to ensure that it aligns with the interests and needs of the audience to avoid being perceived as superficial.",
+        "synonyms": [
+          "pertinent",
+          "applicable"
+        ],
+        "antonyms": [
+          "irrelevant",
+          "inapplicable"
+        ]
+      },
+      {
+        "word": "perspective",
+        "definition": "A particular attitude or way of considering something; a viewpoint.",
+        "businessContext": "In business strategy and decision-making, understanding different perspectives can lead to more comprehensive solutions and foster collaboration among diverse teams.",
+        "nuance": "The term often implies a subjective viewpoint, so it is essential to consider multiple perspectives to avoid bias in analysis.",
+        "synonyms": [
+          "viewpoint",
+          "standpoint"
+        ],
+        "antonyms": [
+          "narrow-mindedness",
+          "myopia"
+        ]
+      },
+      {
+        "word": "newsworthy",
+        "definition": "Deserving to be reported in the news; significant or interesting enough to attract media attention.",
+        "businessContext": "In marketing and public relations, identifying newsworthy stories can enhance brand visibility and attract media coverage, which is vital for reputation management.",
+        "nuance": "The term often carries the implication that the subject matter must be timely and impactful, making it essential to assess the current media landscape.",
+        "synonyms": [
+          "noteworthy",
+          "significant"
+        ],
+        "antonyms": [
+          "insignificant",
+          "trivial"
+        ]
+      },
+      {
+        "word": "audiences",
+        "definition": "Groups of people who engage with or consume content, products, or services.",
+        "businessContext": "Understanding different audiences is critical for tailoring marketing strategies and ensuring effective communication in business operations.",
+        "nuance": "The term can imply various segments, such as demographics or psychographics, and should be used to highlight the diversity of consumer needs and preferences.",
+        "synonyms": [
+          "viewers",
+          "consumers"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   }
 ]

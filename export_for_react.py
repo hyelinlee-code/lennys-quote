@@ -49,11 +49,16 @@ def load_speaker_profiles() -> dict:
     # Convert base format to enriched format
     enriched = {}
     for speaker, data in base.items():
+        # Use job_title if available, otherwise fall back to function or role
+        job_title = data.get("job_title", "")
+        role = job_title if job_title else data.get("role", data.get("function", "Guest"))
+
         enriched[speaker] = {
             "function": data.get("function", "Unknown"),
             "expertise": data.get("expertise", []),
-            "role": data.get("function", "Guest"),
-            "company": ""
+            "job_title": job_title,
+            "role": role,
+            "company": data.get("company", "")
         }
     return enriched
 
@@ -62,8 +67,9 @@ def normalize_vocabulary(vocab_highlights, vocab_enriched=None):
     """
     Normalize vocabulary into structured format.
     Handles: string arrays, already-structured objects, or enriched objects.
+    Supports new enrichment format with nuance, synonyms, antonyms at top level.
     """
-    # If enriched vocabulary exists (from Phase 1B), use it
+    # If enriched vocabulary exists (from Phase 1B/enrich_vocabulary_insights.py), use it
     if vocab_enriched and isinstance(vocab_enriched, list) and len(vocab_enriched) > 0:
         if isinstance(vocab_enriched[0], dict):
             result = []
@@ -74,8 +80,15 @@ def normalize_vocabulary(vocab_highlights, vocab_enriched=None):
                     "businessContext": v.get("businessContext", ""),
                     "exampleUsage": v.get("exampleUsage", ""),
                 }
-                # Include insight if present (from Phase 1C)
-                if "insight" in v:
+                # Include nuance/synonyms/antonyms if present at top level (new format)
+                if "nuance" in v or "synonyms" in v or "antonyms" in v:
+                    item["insight"] = {
+                        "nuance": v.get("nuance", ""),
+                        "synonyms": v.get("synonyms", []),
+                        "antonyms": v.get("antonyms", [])
+                    }
+                # Or include insight if present as nested object (old format from Phase 1C)
+                elif "insight" in v:
                     item["insight"] = {
                         "nuance": v["insight"].get("nuance", ""),
                         "synonyms": v["insight"].get("synonyms", []),
@@ -96,12 +109,20 @@ def normalize_vocabulary(vocab_highlights, vocab_enriched=None):
                     "exampleUsage": ""
                 })
             elif isinstance(v, dict):
-                result.append({
+                item = {
                     "word": v.get("word", ""),
                     "definition": v.get("definition", ""),
                     "businessContext": v.get("businessContext", ""),
                     "exampleUsage": v.get("exampleUsage", ""),
-                })
+                }
+                # Handle nuance/synonyms/antonyms if present
+                if "nuance" in v or "synonyms" in v or "antonyms" in v:
+                    item["insight"] = {
+                        "nuance": v.get("nuance", ""),
+                        "synonyms": v.get("synonyms", []),
+                        "antonyms": v.get("antonyms", [])
+                    }
+                result.append(item)
         return result
 
     return []
@@ -172,10 +193,14 @@ def main():
             )
 
             # Build the React-ready quote object
+            # Use job_title if available, otherwise fall back to role or function
+            job_title = profile.get("job_title", "")
+            role = job_title if job_title else profile.get("role", quote.get("speaker_function", "Guest"))
+
             react_quote = {
                 "id": quote_id,
                 "speaker": speaker_name,
-                "role": profile.get("role", quote.get("speaker_function", "Guest")),
+                "role": role,
                 "company": profile.get("company", ""),
                 "speaker_function": quote.get("speaker_function", profile.get("function", "Unknown")),
                 "speaker_expertise": quote.get("speaker_expertise", profile.get("expertise", [])),

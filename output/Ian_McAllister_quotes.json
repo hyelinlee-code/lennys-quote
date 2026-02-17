@@ -1,13 +1,14 @@
 [
   {
-    "text": "The closest thing to a checklist, the post I mentioned, the Operator's Manual, that was the closest thing to, if you do these things, these specific actions, I think it'll go a long way. Because a lot of them are guided around not doing the easy pitfalls and communication mistakes like rambling. If you're asked a question and you explain and then maybe you get to the answer, if you just think, answer and then explain or sometimes answer and then shut up, that actually is a tactical thing you can do to get better at communicating.",
+    "text": "The closest thing to a checklist, the post I mentioned, the Operator's Manual, that was the closest thing to, if you do these things, these specific actions, I think it'll go a long way.",
     "speaker": "Ian McAllister",
     "timestamp": "00:21:14",
     "context": "Lenny asks Ian if he has any tactical advice for new PMs to improve at the core skills of communication, prioritization, and execution. Ian references his 'Operator's Manual' post, which is a collection of specific communication best practices he learned from working with senior Amazon executives. He explains that many communication failures come from simple mistakes like rambling or not directly answering questions.",
     "vocabulary_highlights": [
-      "easy pitfalls",
-      "rambling",
-      "answer and then shut up"
+      "tactical",
+      "prioritization",
+      "execution",
+      "specific actions"
     ],
     "topics": [
       "Communication Skills",
@@ -22,17 +23,79 @@
     "text_ko": "체크리스트에 가장 가까운 게 제가 말한 글, 즉 운영자 매뉴얼(Operator's Manual)이었어요. 그게 만약 이런 구체적인 행동들을 따르면 꽤 도움이 될 거라고 생각해요. 많은 내용이 말이 산으로 가는 것 같거나 횡설수설하는 등 쉬운 함정과 커뮤니케이션 실수를 피하도록 짜여 있어요. 예를 들어 질문을 받으면 설명을 늘어놓다가 겨우 답에 도달하는 경우가 많은데, '먼저 답하고 그다음에 설명하기' 혹은 때로는 '답하고 그냥 그만 말하기'라고 생각하는 것만으로도 커뮤니케이션을 더 잘할 수 있는 전술이에요.",
     "text_zh": "最接近清单的东西，就是我刚才提到的那篇文章，《操作手册》，这是最接近那种\"你照着做这些具体的事情，我觉得就能有很大帮助\"的东西。因为里面很多内容都是教你怎么避开那些容易犯的沟通错误，比如说话啰嗦。如果别人问你问题，你先解释一大堆，然后才给答案，其实你可以换个思路，先回答问题再解释，或者有时候回答完就闭嘴，这些都是让你沟通更有效的实用技巧。",
     "text_es": "Lo que más se parece a una lista de verificación, ese post que mencioné, el Manual del Operador, eso era lo más parecido a decir: si haces estas cosas, estas acciones específicas, creo que te va a servir un montón. Porque muchas de ellas están enfocadas en evitar las metidas de pata típicas y los errores de comunicación como irse por las ramas. Si te hacen una pregunta y tú explicas y explicas y tal vez al final llegas a la respuesta, si mejor piensas: responde primero y después explica, o a veces responde y ya, punto, eso es algo táctico que puedes hacer para comunicarte mejor.",
-    "key_sentence": "Avoid easy pitfalls by answering first, then explaining or shutting up."
+    "key_sentence": "the closest thing to, if you do these things, these specific actions, I think it'll go a long way.",
+    "text_trimmed": true,
+    "original_text": "The closest thing to a checklist, the post I mentioned, the Operator's Manual, that was the closest thing to, if you do these things, these specific actions, I think it'll go a long way. Because a lot of them are guided around not doing the easy pitfalls and communication mistakes like rambling. If you're asked a question and you explain and then maybe you get to the answer, if you just think, answer and then explain or sometimes answer and then shut up, that actually is a tactical thing you can do to get better at communicating.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "tactical",
+        "definition": "Relating to actions or strategies designed to achieve a specific end or goal, often in a short-term context.",
+        "businessContext": "In business, 'tactical' refers to the implementation of specific strategies or actions that support broader organizational objectives, often in response to immediate challenges or opportunities.",
+        "nuance": "While 'tactical' implies a focus on short-term actions, it is often used in contrast to 'strategic,' which encompasses long-term planning.",
+        "synonyms": [
+          "operational",
+          "pragmatic"
+        ],
+        "antonyms": [
+          "strategic",
+          "long-term"
+        ]
+      },
+      {
+        "word": "prioritization",
+        "definition": "The process of determining the relative importance or urgency of tasks or goals to allocate resources effectively.",
+        "businessContext": "In a business environment, prioritization is crucial for project management, resource allocation, and ensuring that the most critical tasks are addressed first to maximize efficiency and impact.",
+        "nuance": "Prioritization often involves trade-offs and can reflect an organization's values or strategic focus, making it a key decision-making process.",
+        "synonyms": [
+          "ranking",
+          "ordering"
+        ],
+        "antonyms": [
+          "neglect",
+          "disregard"
+        ]
+      },
+      {
+        "word": "execution",
+        "definition": "The act of carrying out or putting into effect a plan, order, or course of action.",
+        "businessContext": "In business, execution refers to the implementation of strategies and plans, ensuring that objectives are met within the established timelines and budgets.",
+        "nuance": "Execution emphasizes the importance of not just planning but also the ability to effectively deliver results, often highlighting a company's operational capabilities.",
+        "synonyms": [
+          "implementation",
+          "performance"
+        ],
+        "antonyms": [
+          "abandonment",
+          "failure"
+        ]
+      },
+      {
+        "word": "specific actions",
+        "definition": "Clearly defined steps or measures taken to achieve a particular objective or outcome.",
+        "businessContext": "In a business context, specific actions are often outlined in project plans or operational guidelines to ensure clarity and accountability among team members.",
+        "nuance": "The term 'specific actions' conveys precision and clarity, indicating that vague or general approaches are insufficient for achieving desired results.",
+        "synonyms": [
+          "concrete steps",
+          "defined measures"
+        ],
+        "antonyms": [
+          "general actions",
+          "ambiguous measures"
+        ]
+      }
+    ]
   },
   {
-    "text": "Given the same amount of skill intelligence and resources, a product manager with a great innate ability to prioritize is going to generate 5X the impact of someone without that skill. My early, if you could call it success at Amazon, I think was completely dependent. It wasn't because I worked smarter or I was smarter, I worked longer hours or I was more technical than other people. I think it was just because I was one, super hungry for impact.",
+    "text": "Given the same amount of skill intelligence and resources, a product manager with a great innate ability to prioritize is going to generate 5X the impact of someone without that skill.",
     "speaker": "Ian McAllister",
     "timestamp": "00:17:24",
     "context": "Lenny asks Ian to elaborate on the three core skills new PMs should focus on: communication, prioritization, and execution. Ian explains why prioritization is such a critical skill for product managers, sharing how his own early success at Amazon wasn't due to being smarter or more technical than others, but rather his ability to prioritize effectively and his hunger for creating business impact.",
     "vocabulary_highlights": [
-      "innate ability",
-      "generate 5X the impact",
-      "super hungry for impact"
+      "prioritize",
+      "impact",
+      "critical",
+      "core skills"
     ],
     "topics": [
       "Product Management",
@@ -48,16 +111,79 @@
     "text_ko": "같은 기술, 지능, 자원을 가지고 있다면, 우선순위를 잘 정하는 능력이 있는 제품 관리자(product manager)가 그 능력이 없는 사람보다 5배 더 큰 영향을 미칠 거예요. 제가 아마존에서 초기에 성공했다고 할 수 있는 이유는 전적으로 그 덕분이었어요. 제가 더 똑똑해서나 더 스마트하게 일해서가 아니라, 단순히 영향력을 얻고 싶어서 정말 간절했기 때문이에요.",
     "text_zh": "同样的技能、智商和资源条件下，一个天生就很会排优先级的产品经理，能产生的影响力是那些不具备这项技能的人的5倍。我在亚马逊早期的成功，可以说完全靠的就是这个。不是因为我比别人更聪明、工作方法更巧妙，也不是因为我加班更多或者技术更牛，我觉得就是因为我特别渴望做出影响力。",
     "text_es": "Teniendo las mismas habilidades, inteligencia y recursos, un product manager que tenga esa capacidad innata para priorizar va a generar 5 veces más impacto que alguien que no la tenga. Mi éxito inicial en Amazon, si es que se puede llamar éxito, creo que dependió completamente de eso. No fue porque trabajara más inteligentemente o fuera más inteligente, ni porque trabajara más horas o fuera más técnico que otros. Creo que fue simplemente porque tenía una hambre brutal de generar impacto.",
-    "key_sentence": "A product manager's innate ability can generate 5X the impact."
+    "key_sentence": "A product manager's innate ability can generate 5X the impact.",
+    "text_trimmed": true,
+    "original_text": "Given the same amount of skill intelligence and resources, a product manager with a great innate ability to prioritize is going to generate 5X the impact of someone without that skill. My early, if you could call it success at Amazon, I think was completely dependent. It wasn't because I worked smarter or I was smarter, I worked longer hours or I was more technical than other people. I think it was just because I was one, super hungry for impact.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "prioritize",
+        "definition": "To arrange or deal with tasks or items in order of importance or urgency.",
+        "businessContext": "In business, prioritizing is essential for effective project management, ensuring that resources are allocated to the most critical tasks that drive value.",
+        "nuance": "While 'prioritize' implies a systematic approach to decision-making, it can also suggest a need to make tough choices, which may not always be well-received.",
+        "synonyms": [
+          "rank",
+          "order"
+        ],
+        "antonyms": [
+          "ignore",
+          "deprioritize"
+        ]
+      },
+      {
+        "word": "impact",
+        "definition": "The strong effect or influence that one thing has on another.",
+        "businessContext": "In a business context, measuring impact is crucial for evaluating the success of initiatives, products, or strategies in achieving desired outcomes.",
+        "nuance": "The term 'impact' often carries a positive connotation, suggesting a beneficial effect, but it can also refer to negative consequences depending on the context.",
+        "synonyms": [
+          "effect",
+          "influence"
+        ],
+        "antonyms": [
+          "insignificance",
+          "irrelevance"
+        ]
+      },
+      {
+        "word": "critical",
+        "definition": "Of great importance; essential to the success or failure of something.",
+        "businessContext": "In the business world, identifying critical factors or decisions can determine the trajectory of projects and overall organizational success.",
+        "nuance": "While 'critical' often denotes urgency, it can also imply a level of scrutiny or judgment, particularly in performance evaluations.",
+        "synonyms": [
+          "crucial",
+          "vital"
+        ],
+        "antonyms": [
+          "unimportant",
+          "trivial"
+        ]
+      },
+      {
+        "word": "core skills",
+        "definition": "Fundamental abilities or competencies that are essential for performing a specific role or task effectively.",
+        "businessContext": "In the workplace, core skills are often highlighted in job descriptions and training programs, as they are necessary for achieving organizational goals and fostering employee development.",
+        "nuance": "The term 'core skills' suggests a foundational level of expertise, which may need to be complemented by additional skills for advanced roles.",
+        "synonyms": [
+          "essential skills",
+          "fundamental skills"
+        ],
+        "antonyms": [
+          "peripheral skills",
+          "non-essential skills"
+        ]
+      }
+    ]
   },
   {
-    "text": "Trust is just built by repeatedly setting and meeting expectations. And I think that's a good mantra to think about as a FM. Am I meeting the expectations that I set? And not just doing good things, but calling your shots, forecasting, setting a goal, and then hitting it. And if you do that repeatedly, you're going to be in pretty good shape.",
+    "text": "Trust is just built by repeatedly setting and meeting expectations. And I think that's a good mantra to think about as a FM. Am I meeting the expectations that I set?",
     "speaker": "Ian McAllister",
     "timestamp": "00:24:04",
     "context": "Lenny asks about the key skills senior PMs should focus on to advance their careers. Ian discusses 'earning trust' as one of the most important skills, explaining that trust is the currency of product leadership. He defines trust-building as a process of consistently setting clear expectations and then delivering on them, rather than just doing good work without clear commitments.",
     "vocabulary_highlights": [
-      "calling your shots",
-      "in pretty good shape"
+      "meeting expectations",
+      "earning trust",
+      "currency of product",
+      "mantra"
     ],
     "topics": [
       "Leadership & Management",
@@ -72,16 +198,79 @@
     "text_ko": "신뢰는 기대를 반복해서 세우고 지키는 과정에서 쌓여요. 시설 관리자(Facility Manager)로서 생각해볼 만한 좋은 모토인 것 같아요. 내가 스스로 정한 기대를 잘 충족시키고 있나요? 단순히 잘하는 것만이 아니라, 내가 하겠다고 분명히 말하고, 예측하고 목표를 세워 그걸 달성하는 거예요. 이걸 반복하면 훨씬 좋은 상태가 될 거예요.",
     "text_zh": "信任就是通过不断地设定目标然后达成目标来建立的。我觉得这对财务经理(FM)来说是个很好的座右铭。我有没有达到自己设定的预期？不光是把事情做好，而是要说到做到，做预测，定目标，然后实现它。如果你能反复做到这一点，那你的处境就会相当不错。",
     "text_es": "La confianza se construye simplemente cumpliendo una y otra vez con lo que prometemos. Y creo que esa es una buena filosofía para tener en mente como gerente financiero. ¿Estoy cumpliendo con las expectativas que yo mismo establecí? Y no se trata solo de hacer las cosas bien, sino de ser claro con tus predicciones, hacer pronósticos, fijar una meta y luego lograrla. Si haces eso de forma constante, vas a estar en muy buena posición.",
-    "key_sentence": "Trust is built by calling your shots and meeting expectations."
+    "key_sentence": "Trust is built by calling your shots and meeting expectations.",
+    "text_trimmed": true,
+    "original_text": "Trust is just built by repeatedly setting and meeting expectations. And I think that's a good mantra to think about as a FM. Am I meeting the expectations that I set? And not just doing good things, but calling your shots, forecasting, setting a goal, and then hitting it. And if you do that repeatedly, you're going to be in pretty good shape.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "meeting expectations",
+        "definition": "The act of fulfilling or surpassing the standards or requirements that have been established.",
+        "businessContext": "In business, meeting expectations is crucial for maintaining client satisfaction and ensuring that team goals are achieved effectively.",
+        "nuance": "This phrase often implies a proactive approach to performance, suggesting that one should not only meet but aim to exceed expectations.",
+        "synonyms": [
+          "fulfilling requirements",
+          "satisfying standards"
+        ],
+        "antonyms": [
+          "disappointing",
+          "falling short"
+        ]
+      },
+      {
+        "word": "earning trust",
+        "definition": "The process of gaining confidence and reliance from others through consistent actions and integrity.",
+        "businessContext": "In a business environment, earning trust is essential for building strong relationships with clients, stakeholders, and team members, which can lead to increased collaboration and loyalty.",
+        "nuance": "Earning trust is often a gradual process that requires transparency and accountability over time.",
+        "synonyms": [
+          "building credibility",
+          "gaining confidence"
+        ],
+        "antonyms": [
+          "betraying trust",
+          "losing credibility"
+        ]
+      },
+      {
+        "word": "currency of product",
+        "definition": "The perceived value or relevance of a product in the market, often influenced by demand, quality, and brand reputation.",
+        "businessContext": "In tech and startup settings, understanding the currency of a product helps businesses gauge its market position and informs pricing strategies and marketing efforts.",
+        "nuance": "This phrase can imply that the value of a product is dynamic and can change based on market trends and consumer preferences.",
+        "synonyms": [
+          "market value",
+          "product relevance"
+        ],
+        "antonyms": [
+          "obsolescence",
+          "devaluation"
+        ]
+      },
+      {
+        "word": "mantra",
+        "definition": "A guiding principle or statement that is frequently repeated to reinforce beliefs or motivate behavior.",
+        "businessContext": "In a corporate setting, a mantra can serve as a motivational tool for employees, encapsulating the company's mission or values in a memorable way.",
+        "nuance": "While often positive, the term can sometimes carry a connotation of being overly simplistic or repetitive if not backed by action.",
+        "synonyms": [
+          "slogan",
+          "creed"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "If you forget about everything else, forget about politics, forget about promotion, or having a bigger org or whatever, if you simply wake up every day trying to have the biggest impact you can, or if you're a leader trying to use your team to have the biggest impact you can in the company, how you do every part of your day, that's a really good guiding light.",
+    "text": "if you simply wake up every day trying to have the biggest impact you can... that's a really good guiding light.",
     "speaker": "Ian McAllister",
     "timestamp": "00:00:00",
     "context": "Ian is sharing his philosophy on what should drive product managers and leaders in their daily work. This quote appears to be from his discussion about being 'driven by impact, not promotion' - one of the key attributes he believes separates top-tier product managers from others. He emphasizes that focusing on impact rather than career advancement paradoxically leads to better career outcomes.",
     "vocabulary_highlights": [
-      "bigger org",
-      "guiding light"
+      "impact",
+      "guiding light",
+      "drive",
+      "philosophy"
     ],
     "topics": [
       "Career Development",
@@ -97,16 +286,79 @@
     "text_ko": "다른 건 다 제쳐두고, 사내 정치(politics)나 승진, 조직(org)을 더 키우는 것 같은 건 잊어버리고, 매일 자신이 낼 수 있는 가장 큰 영향(impact)을 주기 위해 일어나 노력한다면—혹은 리더로서 팀을 통해 회사에 가장 큰 영향(impact)을 주려고 한다면—하루의 모든 일을 대하는 방식이 정말 좋은 길잡이가 돼요.",
     "text_zh": "如果你把其他那些乱七八糟的都放一边，什么办公室政治啊、升职啊、扩大团队规模啊这些，你就想着每天起来怎么能创造最大的价值，或者说你是领导的话，怎么带着团队在公司里发挥最大的作用，用这个想法来指导你一天的工作，这就是个特别好的方向标。",
     "text_es": "Si te olvidas de todo lo demás, te olvidas de la política de oficina, de los ascensos, de tener un equipo más grande o lo que sea, si simplemente cada día te levantas tratando de generar el mayor impacto posible, o si eres líder y tratas de usar tu equipo para lograr el mayor impacto en la empresa, cómo manejas cada parte de tu día, esa es una excelente brújula para guiarte.",
-    "key_sentence": "Focus on having the biggest impact as a guiding light."
+    "key_sentence": "Focus on having the biggest impact as a guiding light.",
+    "text_trimmed": true,
+    "original_text": "If you forget about everything else, forget about politics, forget about promotion, or having a bigger org or whatever, if you simply wake up every day trying to have the biggest impact you can, or if you're a leader trying to use your team to have the biggest impact you can in the company, how you do every part of your day, that's a really good guiding light.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "impact",
+        "definition": "The strong effect or influence that something has on a situation or person.",
+        "businessContext": "In business, 'impact' often refers to the measurable outcomes of a project, initiative, or strategy, particularly in terms of profitability, market reach, or social change.",
+        "nuance": "While 'impact' can imply a positive effect, it can also refer to negative consequences, so context is important.",
+        "synonyms": [
+          "effect",
+          "influence"
+        ],
+        "antonyms": [
+          "insignificance",
+          "irrelevance"
+        ]
+      },
+      {
+        "word": "guiding light",
+        "definition": "A source of inspiration or direction that helps to navigate decisions and actions.",
+        "businessContext": "In a corporate environment, a 'guiding light' may refer to a company's mission statement or core values that steer strategic decisions and employee behavior.",
+        "nuance": "This phrase often carries a positive connotation, suggesting clarity and purpose, and is best used in contexts emphasizing leadership and vision.",
+        "synonyms": [
+          "beacon",
+          "north star"
+        ],
+        "antonyms": [
+          "confusion",
+          "misdirection"
+        ]
+      },
+      {
+        "word": "drive",
+        "definition": "The motivation or determination to achieve goals or objectives.",
+        "businessContext": "In the business realm, 'drive' is often associated with an individual's or team's ambition and energy to pursue success and overcome challenges.",
+        "nuance": "While 'drive' generally has a positive connotation, it can imply an aggressive pursuit of goals, which may not always be viewed favorably in collaborative environments.",
+        "synonyms": [
+          "motivation",
+          "ambition"
+        ],
+        "antonyms": [
+          "apathy",
+          "indifference"
+        ]
+      },
+      {
+        "word": "philosophy",
+        "definition": "A set of beliefs or principles that guide behavior and decision-making.",
+        "businessContext": "In business, a 'philosophy' often refers to the foundational principles that shape a company's culture, strategy, and approach to stakeholder engagement.",
+        "nuance": "This term can encompass both formal and informal beliefs, and is best used in discussions about corporate culture or ethical frameworks.",
+        "synonyms": [
+          "principle",
+          "doctrine"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "Most people operate within a box. There's a box of there's product management and these are the things that product managers do. And you basically build a roadmap and you prioritize features and you work with eng. And so that might be the typical kind of product scope and tech. Most of my roles were ones where I was kind of a GM but a really product focused GM and so I naturally found myself taking a much wider view of what product is across disciplines.",
+    "text": "Most people operate within a box. There's a box of there's product management and these are the things that product managers do. And you basically build a roadmap and you prioritize features and you work with eng.",
     "speaker": "Ian McAllister",
     "timestamp": "00:29:58",
     "context": "Lenny asks Ian to elaborate on how senior PMs can get better at 'thinking big' - one of the three key skills he recommends for more experienced product managers. Ian explains that most PMs limit themselves to traditional product management tasks, but thinking bigger means expanding your view of ownership beyond just engineering and features to include any function that affects product success, even if those functions don't report to you.",
     "vocabulary_highlights": [
-      "operate within a box",
-      "across disciplines"
+      "prioritize",
+      "roadmap",
+      "product management",
+      "thinking big"
     ],
     "topics": [
       "Product Management",
@@ -122,16 +374,79 @@
     "text_ko": "대부분 사람들은 한정된 틀 안에서 일해요. ‘프로덕트 매니지먼트(product management)가 이렇고, 프로덕트 매니저(product manager)들이 이런 일을 한다’는 식의 상자가 있죠. 보통 로드맵(roadmap)을 만들고, 기능 우선순위(prioritize features)를 정하고, 엔지니어링(eng) 팀과 협업해요. 그래서 일반적으로는 그런 프로덕트 스코프(product scope)나 기술 중심의 범위가 전형적이에요. 제가 맡았던 역할 대부분은 일종의 GM(General Manager)이었는데, 제품에 훨씬 더 집중한 GM이라서 자연스럽게 여러 분야를 아우르는 관점으로 제품을 보게 됐어요.",
     "text_zh": "大部分人都是在一个框框里工作的。比如说产品管理就有个框框，产品经理就是做这些事儿的。你就是做个路线图(roadmap)，排排功能优先级，跟工程师们合作。这可能就是典型的产品和技术范围吧。但我做的大部分角色其实更像是GM，不过是非常专注产品的GM，所以我自然而然地就把产品看得更宽泛，会跨各个部门去思考。",
     "text_es": "La mayoría de la gente trabaja dentro de una caja. Hay una caja que dice \"esto es gestión de producto y estas son las cosas que hacen los product managers\". Básicamente armas un roadmap, priorizas funcionalidades y trabajas con el equipo de ingeniería. Esa podría ser la típica área de producto y tech. En la mayoría de mis roles yo era como un GM pero un GM súper enfocado en producto, entonces naturalmente me encontré tomando una perspectiva mucho más amplia de lo que es producto a través de diferentes disciplinas.",
-    "key_sentence": "Many operate within a box, missing a wider view across disciplines."
+    "key_sentence": "Most people operate within a box.",
+    "text_trimmed": true,
+    "original_text": "Most people operate within a box. There's a box of there's product management and these are the things that product managers do. And you basically build a roadmap and you prioritize features and you work with eng. And so that might be the typical kind of product scope and tech. Most of my roles were ones where I was kind of a GM but a really product focused GM and so I naturally found myself taking a much wider view of what product is across disciplines.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "prioritize",
+        "definition": "To arrange or deal with tasks or items in order of importance or urgency.",
+        "businessContext": "In business and tech, prioritizing is essential for effective project management, allowing teams to focus on high-impact tasks that align with strategic goals.",
+        "nuance": "While prioritizing is generally seen as a positive practice, over-prioritizing can lead to neglecting other important tasks.",
+        "synonyms": [
+          "rank",
+          "order"
+        ],
+        "antonyms": [
+          "deprioritize",
+          "neglect"
+        ]
+      },
+      {
+        "word": "roadmap",
+        "definition": "A strategic plan that outlines the vision, direction, and milestones for a project or product over a specified period.",
+        "businessContext": "In product management, a roadmap serves as a guiding document that communicates the planned features and timelines to stakeholders and aligns team efforts.",
+        "nuance": "Roadmaps can vary in detail and scope; a high-level roadmap may provide a broad overview, while a detailed roadmap includes specific tasks and deadlines.",
+        "synonyms": [
+          "plan",
+          "strategy"
+        ],
+        "antonyms": [
+          "disorganization",
+          "chaos"
+        ]
+      },
+      {
+        "word": "product management",
+        "definition": "The process of overseeing the development, marketing, and lifecycle of a product to ensure it meets customer needs and business goals.",
+        "businessContext": "In tech startups, product management is crucial for coordinating cross-functional teams, defining product vision, and making data-driven decisions to enhance product offerings.",
+        "nuance": "Product management often requires balancing competing priorities and stakeholder interests, making it a complex and dynamic role.",
+        "synonyms": [
+          "product development",
+          "product oversight"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "thinking big",
+        "definition": "The practice of envisioning ambitious goals and innovative solutions that can lead to significant impact or transformation.",
+        "businessContext": "In startup culture, thinking big encourages teams to push boundaries and explore disruptive ideas that can differentiate their products in the market.",
+        "nuance": "While thinking big can inspire creativity, it is important to balance it with practical execution and feasibility to avoid unrealistic expectations.",
+        "synonyms": [
+          "visionary thinking",
+          "ambitious planning"
+        ],
+        "antonyms": [
+          "narrow-mindedness",
+          "small thinking"
+        ]
+      }
+    ]
   },
   {
-    "text": "When teams that do it wrong is they don't do that. They don't work backwards. They have something they want to build. These things look similar. These two technologies or whatever. We could combine them and then do this. And if you say we could and it's not grounded in a customer or customer's problem, you're not working backwards. And then you may use 'the working backwards process', but you already have the solution.",
+    "text": "When teams that do it wrong is they don't do that. They don't work backwards. They have something they want to build. These things look similar. These two technologies or whatever. We could combine them and then do this.",
     "speaker": "Ian McAllister",
     "timestamp": "00:47:11",
     "context": "Lenny asks Ian about the most common mistakes teams make when trying to implement Amazon's working backwards process. Ian explains that the biggest error is starting with a solution or technology rather than a customer problem. He describes how teams often identify existing capabilities or technologies they could combine, then retrofit a customer problem afterward, which is the opposite of true working backwards methodology.",
     "vocabulary_highlights": [
-      "grounded in",
-      "retrofit"
+      "implement",
+      "combine",
+      "solution",
+      "technology"
     ],
     "topics": [
       "Product Management",
@@ -146,6 +461,67 @@
     "text_ko": "팀들이 잘하는 게 아니라 실수하는 건 바로 그걸 하지 않는다는 거예요. 워킹 백워즈(working backwards) 방식으로 일하지 않아요. 뭘 만들고 싶다는 것부터 시작하죠. 이게 비슷해 보이고, 이 두 기술을 합치면 이렇게 해볼 수 있겠다고 해요. 그런데 그 “해볼 수 있다”는 얘기가 고객이나 고객의 문제에 근거하지 않으면, 워킹 백워즈로 일하는 게 아니에요. 그래서 ‘워킹 백워즈 프로세스(working backwards process)’라는 말을 쓸 수는 있지만, 이미 해결책을 정해놓은 상태인 거예요.",
     "text_zh": "做错的团队就是不这么干。他们不会反向推导(work backwards)。他们是先有了想做的东西，觉得这些东西看起来挺像的，这两个技术什么的，咱们可以把它们结合起来，然后这样搞。如果你说\"咱们可以这样\"，但这个想法不是基于客户或者客户的问题，那你就不是在反向推导。然后你可能会用\"反向推导流程(working backwards process)\"，但其实你已经有解决方案了。",
     "text_es": "Cuando los equipos lo hacen mal es porque no hacen eso. No trabajan hacia atrás (working backwards). Tienen algo que quieren construir. Estas cosas se ven parecidas. Estas dos tecnologías o lo que sea. Las podemos combinar y después hacer esto. Y si dices \"podríamos\" y no está basado en un cliente o en el problema de un cliente, no estás trabajando hacia atrás (working backwards). Y entonces puedes usar 'el proceso de trabajar hacia atrás (working backwards process)', pero ya tienes la solución.",
-    "key_sentence": "Not grounded in customer needs means you're not working backwards."
+    "key_sentence": "They don't work backwards.",
+    "text_trimmed": true,
+    "original_text": "When teams that do it wrong is they don't do that. They don't work backwards. They have something they want to build. These things look similar. These two technologies or whatever. We could combine them and then do this. And if you say we could and it's not grounded in a customer or customer's problem, you're not working backwards. And then you may use 'the working backwards process', but you already have the solution.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "implement",
+        "definition": "To put a plan or decision into effect; to execute or carry out a strategy or procedure.",
+        "businessContext": "In business and technology, 'implement' often refers to the execution of new systems, processes, or technologies to improve efficiency or achieve specific goals.",
+        "nuance": "While 'implement' suggests a systematic approach, it can imply a level of complexity and requires careful planning and resources.",
+        "synonyms": [
+          "execute",
+          "enact"
+        ],
+        "antonyms": [
+          "abandon",
+          "neglect"
+        ]
+      },
+      {
+        "word": "combine",
+        "definition": "To merge or unite two or more elements into a single entity or system.",
+        "businessContext": "In a business or tech context, 'combine' often refers to the integration of different technologies, ideas, or resources to create innovative solutions or enhance functionality.",
+        "nuance": "The term implies a collaborative effort and can suggest synergy, where the outcome is greater than the sum of its parts.",
+        "synonyms": [
+          "integrate",
+          "merge"
+        ],
+        "antonyms": [
+          "separate",
+          "divide"
+        ]
+      },
+      {
+        "word": "solution",
+        "definition": "A means of solving a problem or dealing with a difficult situation; a method or answer that addresses a specific need.",
+        "businessContext": "In business and technology, 'solution' often refers to products or services designed to resolve particular challenges faced by clients or organizations.",
+        "nuance": "The term carries a positive connotation, often suggesting innovation and effectiveness, but can also imply a temporary fix rather than a permanent answer.",
+        "synonyms": [
+          "answer",
+          "remedy"
+        ],
+        "antonyms": [
+          "problem",
+          "issue"
+        ]
+      },
+      {
+        "word": "technology",
+        "definition": "The application of scientific knowledge for practical purposes, especially in industry; tools and systems that enhance productivity and efficiency.",
+        "businessContext": "In the business world, 'technology' encompasses a wide range of tools, platforms, and innovations that drive operations, improve services, and create competitive advantages.",
+        "nuance": "While 'technology' generally has a positive connotation, it can also evoke concerns about obsolescence and the need for continuous adaptation.",
+        "synonyms": [
+          "innovation",
+          "tool"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   }
 ]

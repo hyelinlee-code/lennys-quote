@@ -5,9 +5,10 @@
     "timestamp": "00:00:12",
     "context": "Lenny asks Cameron about the culture at Canva. Cameron describes a specific cultural principle called 'giving away your Lego', which emphasizes the importance of sharing knowledge and responsibilities within the team. This concept encourages employees to find fulfillment in mentoring others and contributing to collective success rather than clinging to individual tasks.",
     "vocabulary_highlights": [
-      "giving away your Lego",
-      "building a team",
-      "passing on your experience"
+      "sharing knowledge",
+      "responsibilities",
+      "cultural principle",
+      "experience"
     ],
     "topics": [
       "Leadership & Management",
@@ -23,7 +24,66 @@
     "text_ko": "그 섹션 중 하나는 레고를 나누는 것에 대한 거예요. 팀을 만드는 다른 즐거움을 찾고, 자신의 경험을 나누고, 다른 사람들이 훌륭한 글쓰기나 제품 개발, 엔지니어링을 할 수 있도록 도와주는 거죠.",
     "text_zh": "其中一个部分是关于分享你的乐趣，发掘团队建设中的其他乐趣，传承你的经验，帮助他人进行优秀的写作、卓越的产品开发或出色的工程。",
     "text_es": "Una de esas secciones trata sobre compartir tus conocimientos, encontrar satisfacción en otros aspectos de construir un equipo, transmitir tu experiencia y ayudar a otras personas a lograr una excelente escritura, desarrollo de productos o ingeniería.",
-    "key_sentence": "Find joy in giving away your Lego and building a team."
+    "key_sentence": "Find joy in giving away your Lego and building a team.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "sharing knowledge",
+        "definition": "The act of disseminating information, skills, or expertise to others, often to enhance understanding or performance.",
+        "businessContext": "In business and tech environments, sharing knowledge is crucial for fostering collaboration, innovation, and continuous improvement among team members.",
+        "nuance": "This phrase often implies a collaborative spirit and a willingness to mentor, rather than simply transferring information.",
+        "synonyms": [
+          "knowledge transfer",
+          "information sharing"
+        ],
+        "antonyms": [
+          "withholding information",
+          "N/A"
+        ]
+      },
+      {
+        "word": "responsibilities",
+        "definition": "Duties or obligations that an individual is expected to fulfill in a professional or organizational context.",
+        "businessContext": "In a business setting, clearly defined responsibilities are essential for accountability, role clarity, and effective team dynamics.",
+        "nuance": "While responsibilities can imply mandatory tasks, they can also encompass voluntary commitments that contribute to a team's success.",
+        "synonyms": [
+          "duties",
+          "obligations"
+        ],
+        "antonyms": [
+          "freedom",
+          "N/A"
+        ]
+      },
+      {
+        "word": "cultural principle",
+        "definition": "A foundational belief or value that shapes the behaviors, practices, and norms within an organization or community.",
+        "businessContext": "In startups and tech companies, cultural principles guide decision-making, influence team interactions, and help establish a cohesive work environment.",
+        "nuance": "Cultural principles often reflect the organization's identity and can be a source of competitive advantage when aligned with business goals.",
+        "synonyms": [
+          "core value",
+          "organizational belief"
+        ],
+        "antonyms": [
+          "cultural indifference",
+          "N/A"
+        ]
+      },
+      {
+        "word": "experience",
+        "definition": "The knowledge or skill acquired through practical involvement in a particular activity or field over time.",
+        "businessContext": "In professional settings, experience is highly valued as it often correlates with expertise, decision-making ability, and leadership potential.",
+        "nuance": "While experience typically refers to past involvement, it can also imply a depth of understanding that informs current practices and strategies.",
+        "synonyms": [
+          "expertise",
+          "background"
+        ],
+        "antonyms": [
+          "inexperience",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "We don't really have managers, but everyone at Canva has a coach. They're constantly working with you to look at your skills, but also when it might be time to move on to the next level.",
@@ -32,7 +92,9 @@
     "context": "Lenny inquires about the coaching structure at Canva. Cameron explains that instead of traditional managers, Canva employs a coaching model where each employee has a coach to help them assess their skills and identify opportunities for advancement. This approach fosters personal and professional growth, ensuring that employees have support as they navigate their careers.",
     "vocabulary_highlights": [
       "coaching model",
-      "move on to the next level"
+      "assess",
+      "move on",
+      "next level"
     ],
     "topics": [
       "Coaching & Development",
@@ -48,7 +110,66 @@
     "text_ko": "우리는 사실 매니저가 없고, 대신 모든 사람이 코치를 가지고 있어요. 코치들은 여러분의 스킬을 살펴보면서, 다음 단계로 나아갈 때가 언제인지도 함께 고민해줘요.",
     "text_zh": "我们在Canva并没有传统意义上的经理，但每个人都有一个教练。他们会不断与你合作，关注你的技能发展，同时也帮助你判断何时该迈向下一个阶段。",
     "text_es": "En Canva no tenemos gerentes, pero todos cuentan con un coach. Ellos están constantemente trabajando contigo para evaluar tus habilidades y también para determinar cuándo es el momento de avanzar al siguiente nivel.",
-    "key_sentence": "Canva's coaching model helps you move on to the next level."
+    "key_sentence": "Canva's coaching model helps you move on to the next level.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "coaching model",
+        "definition": "A structured approach to developing individuals' skills and competencies through guidance and feedback from a coach.",
+        "businessContext": "In business settings, a coaching model is often implemented to enhance employee performance, foster leadership skills, and promote personal growth within teams.",
+        "nuance": "The term implies a collaborative and supportive relationship, distinguishing it from traditional management styles that may be more directive.",
+        "synonyms": [
+          "mentorship framework",
+          "developmental model"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "assess",
+        "definition": "To evaluate or estimate the nature, ability, or quality of something.",
+        "businessContext": "In a business context, assessing can refer to analyzing employee performance, project outcomes, or market conditions to inform strategic decisions.",
+        "nuance": "The term often carries a formal connotation, suggesting a systematic approach to evaluation rather than casual observation.",
+        "synonyms": [
+          "evaluate",
+          "appraise"
+        ],
+        "antonyms": [
+          "ignore",
+          "neglect"
+        ]
+      },
+      {
+        "word": "move on",
+        "definition": "To progress from one stage or situation to another, often implying a transition to something better or more advanced.",
+        "businessContext": "In the workplace, moving on can refer to advancing in one's career, transitioning to new roles, or shifting focus to new projects or initiatives.",
+        "nuance": "The phrase can suggest a positive change, but it may also imply leaving behind something that is no longer beneficial or fulfilling.",
+        "synonyms": [
+          "advance",
+          "transition"
+        ],
+        "antonyms": [
+          "stay put",
+          "remain"
+        ]
+      },
+      {
+        "word": "next level",
+        "definition": "A higher or more advanced stage in a process, development, or career path.",
+        "businessContext": "In business, reaching the next level often refers to achieving greater success, expanding capabilities, or enhancing skills to meet increased demands or challenges.",
+        "nuance": "The phrase conveys a sense of aspiration and growth, often associated with personal and professional development.",
+        "synonyms": [
+          "higher tier",
+          "advanced stage"
+        ],
+        "antonyms": [
+          "lower level",
+          "initial stage"
+        ]
+      }
+    ]
   },
   {
     "text": "I think there's probably a few different stories that would resonate with your audience because there's like business kind of stories of how the actual company's tracking. There's product stories of stuff we launched that didn't go anywhere.",
@@ -56,8 +177,10 @@
     "timestamp": "00:04:50",
     "context": "Lenny asks Cameron about moments of struggle within Canva's success narrative. Cameron highlights the importance of sharing both business and product stories, acknowledging that while the company has seen significant achievements, there have also been instances of failure and lessons learned. This nuanced view demonstrates that success is often accompanied by challenges.",
     "vocabulary_highlights": [
-      "resonate with",
-      "product stories"
+      "resonate",
+      "tracking",
+      "launched",
+      "narrative"
     ],
     "topics": [
       "Growth & Marketing",
@@ -73,7 +196,66 @@
     "text_ko": "아마 여러분의 청중과 공감할 수 있는 여러 가지 이야기가 있을 것 같아요. 실제 회사의 진행 상황에 대한 비즈니스 이야기들도 있고, 우리가 출시했지만 별로 반응이 없었던 제품 이야기들도 있거든요.",
     "text_zh": "我认为有几种不同的故事可以引起你们受众的共鸣，因为有关于公司运营的商业故事，还有关于我们推出但没有取得成功的产品故事。",
     "text_es": "Creo que probablemente hay varias historias diferentes que resonarían con tu audiencia, ya que hay historias relacionadas con el negocio sobre cómo está avanzando la empresa. También hay historias de productos sobre lanzamientos que no tuvieron éxito.",
-    "key_sentence": "Different stories resonate with your audience, including product stories."
+    "key_sentence": "Different stories resonate with your audience, including product stories.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "resonate",
+        "definition": "To evoke a feeling of shared emotion or belief; to have a lasting impact or significance.",
+        "businessContext": "In business, 'resonate' often refers to ideas, messages, or stories that connect deeply with an audience, enhancing engagement and relatability.",
+        "nuance": "While 'resonate' suggests a positive connection, it can imply that the message is particularly effective or memorable, making it more impactful than simply being understood.",
+        "synonyms": [
+          "strike a chord",
+          "connect"
+        ],
+        "antonyms": [
+          "alienate",
+          "disconnect"
+        ]
+      },
+      {
+        "word": "tracking",
+        "definition": "The process of monitoring and recording the progress or performance of a particular metric or activity.",
+        "businessContext": "In a business setting, 'tracking' is crucial for assessing project developments, sales performance, or customer engagement, often using various analytics tools.",
+        "nuance": "While 'tracking' generally has a neutral connotation, it can imply a systematic and continuous observation, which may raise concerns about privacy in certain contexts.",
+        "synonyms": [
+          "monitoring",
+          "logging"
+        ],
+        "antonyms": [
+          "neglecting",
+          "ignoring"
+        ]
+      },
+      {
+        "word": "launched",
+        "definition": "To introduce or start a new product, service, or initiative into the market.",
+        "businessContext": "In the business world, 'launched' refers to the formal release of a product or service, often accompanied by marketing efforts to promote its availability.",
+        "nuance": "The term 'launched' conveys a sense of excitement and anticipation, but it can also imply risk, as not all launches lead to success.",
+        "synonyms": [
+          "introduced",
+          "debuted"
+        ],
+        "antonyms": [
+          "withdrawn",
+          "shelved"
+        ]
+      },
+      {
+        "word": "narrative",
+        "definition": "A structured account or story that conveys information or a message, often used to engage an audience.",
+        "businessContext": "In business, 'narrative' is important for storytelling in marketing, branding, and presentations, helping to frame a company's mission and values effectively.",
+        "nuance": "While 'narrative' suggests a coherent and compelling story, it can also imply a crafted or selective presentation of facts, which may lead to skepticism if perceived as manipulative.",
+        "synonyms": [
+          "story",
+          "account"
+        ],
+        "antonyms": [
+          "disorder",
+          "confusion"
+        ]
+      }
+    ]
   },
   {
     "text": "Part of being in a startup is scaling, when you're scaling from zero users to a million to a hundred million, and when you're scaling from three founders to 10 employees to 100 employees to 4,000 employees.",
@@ -82,7 +264,9 @@
     "context": "Lenny asks Cameron about the cultural concept of 'giving away your Lego'. Cameron explains that as startups grow, the need for flexibility and collaboration increases. He emphasizes that scaling involves not only expanding user numbers but also adapting internal processes and team dynamics to support this growth.",
     "vocabulary_highlights": [
       "scaling",
-      "internal processes"
+      "collaboration",
+      "flexibility",
+      "employees"
     ],
     "topics": [
       "Starting a Company",
@@ -98,7 +282,66 @@
     "text_ko": "스타트업에서 일하는 건 사용자 수를 제로에서 백만, 백만에서 천만으로 늘리는 과정이기도 해요. 그리고 창립자가 세 명에서 열 명, 열 명에서 백 명, 백 명에서 사천 명으로 늘어나는 것도 마찬가지고요.",
     "text_zh": "创业的一部分就是扩展，从零用户到一百万，再到一亿；从三位创始人到十名员工，再到一百名员工，最后到四千名员工。",
     "text_es": "Parte de estar en una startup es escalar; cuando pasas de cero usuarios a un millón, luego a cien millones, y cuando escalas de tres fundadores a 10 empleados, luego a 100 empleados y finalmente a 4,000 empleados.",
-    "key_sentence": "Scaling involves internal processes from zero to millions of users."
+    "key_sentence": "Scaling involves internal processes from zero to millions of users.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "scaling",
+        "definition": "The process of increasing the capacity or size of a business or system to accommodate growth.",
+        "businessContext": "In startup environments, scaling often refers to expanding user bases and operational capabilities rapidly to meet increasing demand.",
+        "nuance": "While scaling implies growth, it also carries the risk of overextension if not managed properly.",
+        "synonyms": [
+          "expansion",
+          "growth"
+        ],
+        "antonyms": [
+          "contraction",
+          "reduction"
+        ]
+      },
+      {
+        "word": "collaboration",
+        "definition": "The act of working together with one or more individuals or organizations to achieve a common goal.",
+        "businessContext": "In business, collaboration is essential for fostering innovation, improving productivity, and leveraging diverse skill sets among team members.",
+        "nuance": "Collaboration emphasizes teamwork and shared responsibility, contrasting with competition or individualism.",
+        "synonyms": [
+          "cooperation",
+          "partnership"
+        ],
+        "antonyms": [
+          "isolation",
+          "competition"
+        ]
+      },
+      {
+        "word": "flexibility",
+        "definition": "The ability to adapt to new, different, or changing requirements or conditions.",
+        "businessContext": "In the context of startups, flexibility is crucial for responding to market changes, customer feedback, and evolving business strategies.",
+        "nuance": "Flexibility can imply a willingness to pivot or change direction, which is often necessary in dynamic business environments.",
+        "synonyms": [
+          "adaptability",
+          "versatility"
+        ],
+        "antonyms": [
+          "rigidity",
+          "inflexibility"
+        ]
+      },
+      {
+        "word": "employees",
+        "definition": "Individuals who are hired to perform specific tasks or roles within an organization in exchange for compensation.",
+        "businessContext": "Employees are vital to a company's operations, culture, and overall success, particularly in startups where each team member's contribution can significantly impact growth.",
+        "nuance": "The term 'employees' carries a formal connotation, often used in contrast to freelancers or contractors who may not have the same level of commitment to the organization.",
+        "synonyms": [
+          "staff",
+          "workforce"
+        ],
+        "antonyms": [
+          "employers",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "We've always been an incredibly product-led company. We always think first and foremost about the product.",
@@ -106,8 +349,10 @@
     "timestamp": "00:10:32",
     "context": "Lenny discusses the focus of Canva's board meetings, which prioritize product updates over financials. Cameron asserts that Canva's identity as a product-led company drives their decision-making process and strategic planning. This commitment to product excellence is integral to their success and aligns with their mission to create valuable experiences for users.",
     "vocabulary_highlights": [
-      "product-led company",
-      "first and foremost"
+      "product-led",
+      "prioritize",
+      "decision-making",
+      "identity"
     ],
     "topics": [
       "Product Management",
@@ -123,7 +368,66 @@
     "text_ko": "우리는 항상 제품 중심의 회사였어요. 항상 제품에 대해 가장 먼저 생각해요.",
     "text_zh": "我们一直是一家以产品为导向的公司。我们始终将产品放在首位。",
     "text_es": "Siempre hemos sido una empresa increíblemente enfocada en el producto. Siempre pensamos, ante todo, en el producto.",
-    "key_sentence": "We are a product-led company, thinking first and foremost about the product."
+    "key_sentence": "We are a product-led company, thinking first and foremost about the product.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "product-led",
+        "definition": "Referring to a business strategy that prioritizes the development and quality of a product as the primary driver of customer acquisition and growth.",
+        "businessContext": "In tech and startup environments, a product-led approach often emphasizes user experience and product features to attract and retain customers, sometimes foregoing traditional sales or marketing tactics.",
+        "nuance": "This term carries a positive connotation, suggesting innovation and customer-centricity, and is often used in contrast to sales-led or marketing-led strategies.",
+        "synonyms": [
+          "product-focused",
+          "product-centric"
+        ],
+        "antonyms": [
+          "sales-led",
+          "marketing-led"
+        ]
+      },
+      {
+        "word": "prioritize",
+        "definition": "To arrange or deal with tasks or items in order of importance or urgency.",
+        "businessContext": "In business settings, prioritizing is crucial for effective project management, resource allocation, and strategic planning, ensuring that the most critical tasks are addressed first.",
+        "nuance": "The term implies a systematic approach to decision-making and can suggest a need to balance competing demands; it is often used in contexts where time and resources are limited.",
+        "synonyms": [
+          "rank",
+          "emphasize"
+        ],
+        "antonyms": [
+          "neglect",
+          "deprioritize"
+        ]
+      },
+      {
+        "word": "decision-making",
+        "definition": "The process of making choices or reaching conclusions, particularly in a business context where various options and outcomes must be evaluated.",
+        "businessContext": "Effective decision-making is essential for leaders and managers in organizations, as it impacts strategy, operations, and overall business success.",
+        "nuance": "This term often implies a structured approach, incorporating analysis and evaluation, and is used in discussions about leadership and management practices.",
+        "synonyms": [
+          "choice-making",
+          "judgment"
+        ],
+        "antonyms": [
+          "indecision",
+          "confusion"
+        ]
+      },
+      {
+        "word": "identity",
+        "definition": "The characteristics, qualities, or beliefs that make a person or organization distinct from others.",
+        "businessContext": "In business, identity can refer to brand identity, which encompasses the visual, emotional, and cultural aspects that define how a company is perceived by its customers and stakeholders.",
+        "nuance": "The term carries significant weight in discussions about branding and corporate culture, and it is often used in contexts where differentiation from competitors is critical.",
+        "synonyms": [
+          "self-concept",
+          "brand persona"
+        ],
+        "antonyms": [
+          "anonymity",
+          "uniformity"
+        ]
+      }
+    ]
   },
   {
     "text": "Freemium for us wasn't so much a growth strategy or a monetization strategy as much as it spoke to our core mission of empowering the world to design.",
@@ -131,8 +435,10 @@
     "timestamp": "00:50:36",
     "context": "Lenny asks about Canva's freemium strategy. Cameron clarifies that their freemium model aligns with their mission to democratize design rather than solely serving as a growth tactic. By making their tools accessible to a broader audience, Canva enhances its brand value and encourages widespread use of its platform.",
     "vocabulary_highlights": [
-      "freemium model",
-      "democratize design"
+      "growth strategy",
+      "monetization strategy",
+      "core mission",
+      "empowering"
     ],
     "topics": [
       "Growth & Marketing",
@@ -148,7 +454,66 @@
     "text_ko": "프리미엄 모델(freemium)은 우리에게 성장 전략이나 수익화 전략이라기보다는, 세상을 디자인할 수 있도록 돕는 우리의 핵심 미션을 잘 보여주는 거였어요.",
     "text_zh": "对我们来说，Freemium 并不是一种增长策略或盈利策略，而是体现了我们赋能全球设计的核心使命。",
     "text_es": "Para nosotros, el modelo freemium no fue tanto una estrategia de crecimiento o de monetización, sino que reflejó nuestra misión fundamental de empoderar al mundo para diseñar.",
-    "key_sentence": "The freemium model helps us democratize design, aligning with our core mission."
+    "key_sentence": "it spoke to our core mission of empowering the world to design.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "growth strategy",
+        "definition": "A growth strategy is a plan implemented by a company to increase its market share, revenue, or overall business size. It often involves expanding into new markets, developing new products, or enhancing existing services.",
+        "businessContext": "In business and startup environments, a growth strategy is crucial for scaling operations and achieving long-term sustainability, often guiding investment decisions and resource allocation.",
+        "nuance": "While 'growth strategy' implies a focus on expansion, it can sometimes overlook the importance of profitability and operational efficiency.",
+        "synonyms": [
+          "expansion plan",
+          "scaling strategy"
+        ],
+        "antonyms": [
+          "retrenchment strategy",
+          "contraction plan"
+        ]
+      },
+      {
+        "word": "monetization strategy",
+        "definition": "A monetization strategy refers to the method or approach a business uses to generate revenue from its products or services. This can include various models such as subscriptions, advertising, or direct sales.",
+        "businessContext": "In the tech and startup sectors, a well-defined monetization strategy is essential for ensuring that a business can sustain its operations and grow financially, often influencing pricing and marketing tactics.",
+        "nuance": "The term can carry a negative connotation if it suggests prioritizing profit over user experience or value, particularly in consumer-facing industries.",
+        "synonyms": [
+          "revenue model",
+          "profit strategy"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "core mission",
+        "definition": "A core mission is the fundamental purpose or guiding principle of an organization, reflecting its values and objectives. It serves as a foundation for decision-making and strategic planning.",
+        "businessContext": "In business, a clear core mission helps align employees and stakeholders with the company's goals, fostering a cohesive culture and driving efforts towards common objectives.",
+        "nuance": "While often used interchangeably with 'vision' or 'values,' a core mission specifically emphasizes the organization's primary reason for existence.",
+        "synonyms": [
+          "mission statement",
+          "organizational purpose"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "empowering",
+        "definition": "Empowering refers to the process of enabling individuals or groups to gain confidence, authority, and control over their own lives or decisions. It often involves providing resources, support, and opportunities.",
+        "businessContext": "In a business context, empowering employees can lead to increased innovation, productivity, and job satisfaction, as it encourages a culture of autonomy and responsibility.",
+        "nuance": "The term often carries positive connotations of support and growth, but it can be misused if it implies a superficial approach without genuine commitment to change.",
+        "synonyms": [
+          "enabling",
+          "authorizing"
+        ],
+        "antonyms": [
+          "disempowering",
+          "restricting"
+        ]
+      }
+    ]
   },
   {
     "text": "We don't need to create an LLM because it's a commodity thing now. And there's a bunch of providers who can do it way better and have way more resources to do it with than you do.",
@@ -156,7 +521,9 @@
     "timestamp": "00:56:04",
     "context": "Lenny raises the topic of AI integration at Canva. Cameron explains that rather than developing their own large language models (LLMs), they focus on leveraging partnerships with established AI providers. This strategic decision allows Canva to utilize advanced technology without the significant resource investment, emphasizing the importance of collaboration in tech development.",
     "vocabulary_highlights": [
+      "leverage",
       "commodity",
+      "resources",
       "providers"
     ],
     "topics": [
@@ -173,6 +540,65 @@
     "text_ko": "이제 LLM을 만들 필요 없어요. 그건 이미 일반화된 거라서, 훨씬 더 잘하고 자원도 많은 공급자들이 많거든요.",
     "text_zh": "我们不需要再开发大型语言模型（LLM），因为这已经成为一种商品化的产品。现在有很多供应商能够做得更好，并且拥有比我们更多的资源。",
     "text_es": "No necesitamos crear un LLM (modelo de lenguaje grande) porque ahora es algo común. Hay muchos proveedores que pueden hacerlo mucho mejor y cuentan con muchos más recursos para lograrlo que nosotros.",
-    "key_sentence": "LLMs are a commodity; better providers have more resources than you."
+    "key_sentence": "LLMs are a commodity; better providers have more resources than you.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "leverage",
+        "definition": "To use something to maximum advantage or to exert influence over a situation.",
+        "businessContext": "In business, leveraging often refers to utilizing assets, relationships, or resources to achieve greater outcomes or competitive advantages.",
+        "nuance": "While 'leverage' can imply a strategic advantage, it may also suggest a reliance on external factors, so it should be used carefully to avoid negative connotations.",
+        "synonyms": [
+          "utilize",
+          "capitalize"
+        ],
+        "antonyms": [
+          "squander",
+          "waste"
+        ]
+      },
+      {
+        "word": "commodity",
+        "definition": "A basic good or service that is interchangeable with other goods of the same type, often used in trade.",
+        "businessContext": "In the context of business and technology, a commodity refers to products or services that are widely available and not differentiated, making competition primarily based on price.",
+        "nuance": "The term can imply a lack of uniqueness or innovation, so it is often used in discussions about market saturation or when emphasizing the need for differentiation.",
+        "synonyms": [
+          "product",
+          "goods"
+        ],
+        "antonyms": [
+          "unique product",
+          "specialty item"
+        ]
+      },
+      {
+        "word": "resources",
+        "definition": "Assets or materials that can be utilized to achieve objectives, including financial, human, and technological assets.",
+        "businessContext": "In business settings, resources are critical for operational efficiency and strategic planning, encompassing everything from capital and personnel to technology and information.",
+        "nuance": "The term can imply both tangible and intangible assets, and it is often used in discussions about resource allocation and optimization.",
+        "synonyms": [
+          "assets",
+          "capabilities"
+        ],
+        "antonyms": [
+          "liabilities",
+          "deficits"
+        ]
+      },
+      {
+        "word": "providers",
+        "definition": "Entities or individuals that supply goods or services to others, often in a contractual or business relationship.",
+        "businessContext": "In the tech industry, providers refer to companies that offer specific services, such as cloud computing or software solutions, to other businesses or consumers.",
+        "nuance": "The term can carry a neutral connotation, but in competitive discussions, it may imply a focus on service quality or reliability compared to other options.",
+        "synonyms": [
+          "suppliers",
+          "vendors"
+        ],
+        "antonyms": [
+          "customers",
+          "consumers"
+        ]
+      }
+    ]
   }
 ]

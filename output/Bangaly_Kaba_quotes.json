@@ -1,12 +1,14 @@
 [
   {
-    "text": "I found this framework travels with me. It's got these five components to it, vision, skills, incentives, resources, action plan, and you need all of those to have change. And then within those buckets you've got to figure out what are the right levers that you need to pull? What are the things that are missing?",
+    "text": "I found this framework travels with me. It's got these five components to it, vision, skills, incentives, resources, action plan, and you need all of those to have change.",
     "speaker": "Bangaly Kaba",
     "timestamp": "00:00:10",
     "context": "Lenny introduces Bangaly as someone who has had a lot of impact on different cultures at various tech companies. Bangaly explains his framework for managing complex change, which he uses when joining new teams or trying to transform organizational culture. The framework consists of five essential components that must all be present for successful change: vision, skills, incentives, resources, and action plan. When any component is missing, it leads to different problems like confusion, anxiety, or false starts.",
     "vocabulary_highlights": [
-      "travels with me",
-      "levers that you need to pull"
+      "framework",
+      "components",
+      "incentives",
+      "action plan"
     ],
     "topics": [
       "Leadership & Management",
@@ -22,16 +24,79 @@
     "text_ko": "저와 늘 함께하는 프레임워크(framework)이에요. 다섯 가지 요소로 구성돼 있는데, 비전(vision), 역량(skills), 인센티브(incentives), 자원(resources), 실행 계획(action plan)이에요. 변화를 만들려면 이 모든 요소가 필요해요. 그리고 각 요소 안에서 어떤 지렛대(levers)를 당겨야 할지, 어떤 부분이 빠져 있는지 찾아내야 해요.",
     "text_zh": "我发现这个框架(framework)特别实用，走到哪都能用。它有五个要素：愿景、技能、激励机制、资源，还有行动计划。想要推动变革，这五样缺一不可。然后在每个板块里，你得琢磨哪些是关键抓手，哪些地方还有缺口。",
     "text_es": "He descubierto que este marco de trabajo me acompaña a donde vaya. Tiene cinco componentes: visión, habilidades, incentivos, recursos, y plan de acción, y necesitas todos esos elementos para lograr el cambio. Y luego, dentro de cada una de esas áreas, tienes que identificar cuáles son las palancas correctas que debes activar. ¿Qué es lo que te está faltando?",
-    "key_sentence": "This framework travels with me; you need the right levers to achieve change."
+    "key_sentence": "This framework travels with me; you need the right levers to achieve change.",
+    "text_trimmed": true,
+    "original_text": "I found this framework travels with me. It's got these five components to it, vision, skills, incentives, resources, action plan, and you need all of those to have change. And then within those buckets you've got to figure out what are the right levers that you need to pull? What are the things that are missing?",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "framework",
+        "definition": "A structured system or set of guidelines that provides a foundation for understanding or addressing a complex issue.",
+        "businessContext": "In business and technology, a framework often refers to a conceptual structure that guides the development of projects, strategies, or policies.",
+        "nuance": "While 'framework' suggests a supportive structure, it can imply rigidity; thus, it may not be suitable in contexts requiring flexibility or creativity.",
+        "synonyms": [
+          "structure",
+          "system"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "components",
+        "definition": "Individual parts or elements that make up a larger system or framework.",
+        "businessContext": "In a business context, components can refer to various elements of a project, such as resources, tools, or team roles that contribute to achieving objectives.",
+        "nuance": "The term 'components' emphasizes the importance of each part in contributing to the overall effectiveness, making it less suitable when discussing singular, isolated elements.",
+        "synonyms": [
+          "elements",
+          "parts"
+        ],
+        "antonyms": [
+          "whole",
+          "entirety"
+        ]
+      },
+      {
+        "word": "incentives",
+        "definition": "Motivational factors or rewards designed to encourage specific behaviors or actions.",
+        "businessContext": "Incentives are commonly used in business to drive employee performance, customer loyalty, or stakeholder engagement through bonuses, discounts, or recognition programs.",
+        "nuance": "While 'incentives' typically carry a positive connotation of motivation, they can also imply manipulation if perceived as coercive or overly aggressive.",
+        "synonyms": [
+          "motivators",
+          "rewards"
+        ],
+        "antonyms": [
+          "disincentives",
+          "deterrents"
+        ]
+      },
+      {
+        "word": "action plan",
+        "definition": "A detailed strategy outlining specific steps, resources, and timelines required to achieve a particular goal or objective.",
+        "businessContext": "In business, an action plan serves as a roadmap for teams to follow, ensuring accountability and clarity in executing projects or initiatives.",
+        "nuance": "The term 'action plan' suggests a proactive approach; however, it may not be suitable in discussions where flexibility or adaptability is paramount.",
+        "synonyms": [
+          "strategy",
+          "roadmap"
+        ],
+        "antonyms": [
+          "inaction",
+          "disorganization"
+        ]
+      }
+    ]
   },
   {
-    "text": "What I call the anti-pattern of what we want to do. Someone says, \"Hey, you know what? This would be great to build.\" And you go pull data to go justify why that would be great to build. Call that identify, justify, execute. First you have to really understand from first principles what is actually going on. So understand, identify, execute.",
+    "text": "What I call the anti-pattern of what we want to do. Someone says, \"Hey, you know what? This would be great to build.\" And you go pull data to go justify why that would be great to build. Call that identify, justify, execute.",
     "speaker": "Bangaly Kaba",
     "timestamp": "00:26:49",
     "context": "Lenny asks about Bangaly's concept of 'understand work' - spending intentional time understanding problems before building solutions. Bangaly explains that most teams fall into a dangerous pattern he calls 'identify, justify, execute' where they identify something to build, then find data to justify it, then spend enormous time building it only to see flat metrics. He advocates for 'understand, identify, execute' instead, where teams must first deeply understand the problem space from first principles before identifying solutions.",
     "vocabulary_highlights": [
       "anti-pattern",
-      "from first principles"
+      "justifying",
+      "intentional",
+      "execute"
     ],
     "topics": [
       "Product Management",
@@ -47,7 +112,68 @@
     "text_ko": "제가 말하는 '우리가 하려는 일의 안티패턴(anti-pattern)'이 있어요. 누군가 '야, 이거 만들면 좋겠다' 그러면 곧바로 그걸 만들면 좋다는 걸 증명하려고 데이터를 끌어와 정당화(justify)해요. 그걸 identify, justify, execute(identify, justify, execute)라고 부르죠. 그런데 먼저 근본 원리(first principles)부터 출발해서 진짜 무슨 일이 일어나고 있는지 제대로 이해(understand)해야 해요. 그래서 순서는 이해(understand), 식별(identify), 실행(execute)이에요.",
     "text_zh": "我把这叫做我们要做的事情的反面典型。有人说：\"嘿，你知道吗？做这个东西肯定很棒。\" 然后你就去找数据来证明为什么做这个东西很棒。我把这叫做识别、论证、执行。但实际上你得先从根本原理真正搞明白到底是怎么回事。所以应该是理解、识别、执行。",
     "text_es": "A esto le llamo el anti-patrón de lo que queremos hacer. Alguien dice, \"Oye, ¿sabes qué? Esto estaría genial construirlo.\" Y vas y buscas datos para justificar por qué sería genial construirlo. A eso le llamo identificar, justificar, ejecutar. Pero primero tienes que entender realmente desde los principios básicos qué está pasando en realidad. O sea, entender, identificar, ejecutar.",
-    "key_sentence": "Understand from first principles to avoid the anti-pattern of justifying ideas."
+    "key_sentence": "identify, justify, execute.",
+    "text_trimmed": true,
+    "original_text": "What I call the anti-pattern of what we want to do. Someone says, \"Hey, you know what? This would be great to build.\" And you go pull data to go justify why that would be great to build. Call that identify, justify, execute. First you have to really understand from first principles what is actually going on. So understand, identify, execute.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "anti-pattern",
+        "definition": "An anti-pattern is a common response to a recurring problem that is usually ineffective and counterproductive. It represents a flawed solution that may seem appealing but ultimately leads to negative consequences.",
+        "businessContext": "In business and technology, identifying anti-patterns helps teams avoid common pitfalls in project management, software development, and organizational behavior, ensuring more effective strategies are employed.",
+        "nuance": "While the term is often used in a critical context, it can also serve as a learning tool to highlight what not to do in various scenarios.",
+        "synonyms": [
+          "bad practice",
+          "flawed approach"
+        ],
+        "antonyms": [
+          "best practice",
+          "effective strategy"
+        ]
+      },
+      {
+        "word": "justifying",
+        "definition": "Justifying refers to the process of providing reasons or evidence to support a decision, action, or belief. It involves rationalizing choices to make them acceptable or understandable.",
+        "businessContext": "In business settings, justifying decisions is crucial for gaining stakeholder buy-in, securing funding, or validating project proposals, often requiring data analysis and persuasive communication.",
+        "nuance": "While justifying can be seen as a necessary part of decision-making, it may also imply a defensive stance if the rationale is perceived as weak or overly contrived.",
+        "synonyms": [
+          "rationalizing",
+          "defending"
+        ],
+        "antonyms": [
+          "condemning",
+          "disavowing"
+        ]
+      },
+      {
+        "word": "intentional",
+        "definition": "Intentional describes actions that are deliberate and purposeful, as opposed to accidental or unplanned. It implies a conscious decision-making process.",
+        "businessContext": "In a business context, being intentional is vital for strategic planning, where leaders must make thoughtful decisions that align with the organization's goals and values.",
+        "nuance": "The term often carries a positive connotation, suggesting that actions are taken with careful consideration, but it can also imply a lack of flexibility if overemphasized.",
+        "synonyms": [
+          "deliberate",
+          "purposeful"
+        ],
+        "antonyms": [
+          "accidental",
+          "unintentional"
+        ]
+      },
+      {
+        "word": "execute",
+        "definition": "To execute means to carry out or put into effect a plan, order, or course of action. It involves the actual implementation of strategies or tasks.",
+        "businessContext": "In business, execution is critical to success, as it translates strategic plans into actionable steps, requiring effective management and resource allocation.",
+        "nuance": "While 'execute' often conveys a sense of efficiency and decisiveness, it can also imply a lack of creativity if used in contexts that require innovation.",
+        "synonyms": [
+          "implement",
+          "perform"
+        ],
+        "antonyms": [
+          "abort",
+          "neglect"
+        ]
+      }
+    ]
   },
   {
     "text": "There's impact that you're really trying to drop and the impact is only achievable by looking at set of variables related to the environment, the set of variables related to your skills.",
@@ -55,7 +181,10 @@
     "timestamp": "00:00:45",
     "context": "Lenny asks about Bangaly's legendary blog post 'How to Choose Where to Work and What to Work On' and his framework for career decisions. Bangaly explains that career success should be optimized around impact rather than compensation or other factors. His framework states that impact is the product of two main variable sets: environmental factors (like your manager, resources, scope) and your personal skills. Impact is the key metric because other benefits like compensation and scope naturally follow from having high impact.",
     "vocabulary_highlights": [
-      "trying to drop"
+      "impact",
+      "variables",
+      "optimized",
+      "framework"
     ],
     "topics": [
       "Career Development"
@@ -70,15 +199,77 @@
     "text_ko": "진짜로 만들고 싶은 임팩트는 환경(environment)과 역량(skills) 쪽의 여러 변수(variables)를 모두 살펴봐야만 만들어낼 수 있어요.",
     "text_zh": "你想要产生的影响力，只有通过分析两套变量才能实现——一套是环境相关的变量，另一套是你自身能力相关的变量。",
     "text_es": "Hay un impacto que realmente estás tratando de lograr, y ese impacto solo se puede alcanzar si analizas las variables del entorno y las variables relacionadas con tus habilidades.",
-    "key_sentence": "You're trying to drop impact by examining environmental and skill variables."
+    "key_sentence": "You're trying to drop impact by examining environmental and skill variables.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "impact",
+        "definition": "The strong effect or influence that one thing has on another.",
+        "businessContext": "In business, 'impact' often refers to the measurable outcomes or changes resulting from a particular strategy, decision, or initiative.",
+        "nuance": "While 'impact' can imply a positive effect, it can also refer to negative consequences, so context is important.",
+        "synonyms": [
+          "effect",
+          "influence"
+        ],
+        "antonyms": [
+          "insignificance",
+          "irrelevance"
+        ]
+      },
+      {
+        "word": "variables",
+        "definition": "Factors or elements that can change and influence outcomes in a given situation.",
+        "businessContext": "In business analysis, 'variables' are crucial for understanding different scenarios and making informed decisions based on data.",
+        "nuance": "The term often implies a level of uncertainty, as variables can affect results in unpredictable ways.",
+        "synonyms": [
+          "factors",
+          "parameters"
+        ],
+        "antonyms": [
+          "constants",
+          "fixed elements"
+        ]
+      },
+      {
+        "word": "optimized",
+        "definition": "The process of making something as effective or functional as possible.",
+        "businessContext": "In a business context, 'optimized' refers to improving processes, systems, or strategies to enhance performance and efficiency.",
+        "nuance": "While 'optimized' suggests improvement, it can also imply a trade-off, where certain aspects may be sacrificed for greater efficiency.",
+        "synonyms": [
+          "enhanced",
+          "refined"
+        ],
+        "antonyms": [
+          "deteriorated",
+          "compromised"
+        ]
+      },
+      {
+        "word": "framework",
+        "definition": "A structured approach or system that provides a foundation for understanding or addressing a particular issue.",
+        "businessContext": "In business, a 'framework' is often used to guide strategic planning, project management, or policy development, ensuring consistency and clarity.",
+        "nuance": "The term suggests a broad outline that can be adapted to specific situations, rather than a rigid set of rules.",
+        "synonyms": [
+          "structure",
+          "system"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      }
+    ]
   },
   {
-    "text": "The environment was the one to me, that I think is most people overlook and I overlooked when I was first thinking about this. Environment in this case, I think I kind of discreetly named a few things. One is your manager, then there's the resources. So what kind of team do you have? Is your team staffed appropriately?",
+    "text": "The environment was the one to me, that I think is most people overlook and I overlooked when I was first thinking about this. Environment in this case, I think I kind of discreetly named a few things.",
     "speaker": "Bangaly Kaba",
     "timestamp": "00:10:53",
     "context": "Lenny asks Bangaly to elaborate on the two elements of his impact equation: environment and skills. Bangaly explains that environment is the factor most people overlook when evaluating their career situation. He breaks down environment into six specific components: your manager, resources (team and budget), scope of responsibility, team skills, compensation, and company culture. He emphasizes that people often focus only on developing their skills while ignoring environmental factors that could be limiting their impact.",
     "vocabulary_highlights": [
-      "discreetly named"
+      "overlook",
+      "evaluate",
+      "impact",
+      "discreetly"
     ],
     "topics": [
       "Career Development"
@@ -93,15 +284,79 @@
     "text_ko": "저한테 환경(environment)은 사람들이 가장 놓치기 쉬운 부분 같아요. 저도 처음엔 놓쳤고요. 여기서 말하는 환경은 제가 몇 가지를 꼽은 건데, 하나는 매니저(manager)고, 또 하나는 리소스(resources)예요. 결국 어떤 팀을 갖고 있느냐, 팀에 필요한 인력이 적절히 배치돼 있느냐가 핵심이죠.",
     "text_zh": "环境这个因素对我来说，我觉得大多数人都会忽视，我最开始考虑这个问题的时候也忽视了。说到环境，我觉得其实包含几个方面。一个是你的上级领导，还有就是资源配置。比如说你的团队怎么样？人员配备到位了吗？",
     "text_es": "El entorno era lo que para mí, creo que la mayoría de la gente pasa por alto y yo también lo pasé por alto cuando empecé a pensar en esto. El entorno en este caso, creo que mencioné discretamente algunas cosas. Una es tu jefe, luego están los recursos. Entonces, ¿qué tipo de equipo tienes? ¿Tu equipo tiene el personal adecuado?",
-    "key_sentence": "The environment, including your manager and resources, is often discreetly named."
+    "key_sentence": "the one to me, that I think is most people overlook",
+    "text_trimmed": true,
+    "original_text": "The environment was the one to me, that I think is most people overlook and I overlooked when I was first thinking about this. Environment in this case, I think I kind of discreetly named a few things. One is your manager, then there's the resources. So what kind of team do you have? Is your team staffed appropriately?",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "overlook",
+        "definition": "To fail to notice or consider something, often due to a lack of attention or awareness.",
+        "businessContext": "In business, overlooking certain factors such as market trends or customer feedback can lead to missed opportunities or poor decision-making.",
+        "nuance": "While 'overlook' can imply a simple oversight, it may also suggest negligence in recognizing important details.",
+        "synonyms": [
+          "neglect",
+          "disregard"
+        ],
+        "antonyms": [
+          "notice",
+          "acknowledge"
+        ]
+      },
+      {
+        "word": "evaluate",
+        "definition": "To assess or appraise the value, quality, or significance of something based on certain criteria.",
+        "businessContext": "In a business context, evaluating projects, performance metrics, or market conditions is crucial for strategic planning and resource allocation.",
+        "nuance": "The term 'evaluate' often implies a systematic and objective approach, contrasting with more subjective assessments.",
+        "synonyms": [
+          "assess",
+          "appraise"
+        ],
+        "antonyms": [
+          "ignore",
+          "dismiss"
+        ]
+      },
+      {
+        "word": "impact",
+        "definition": "The strong effect or influence that one thing has on another, often measured in terms of outcomes or changes.",
+        "businessContext": "In business, understanding the impact of decisions, marketing strategies, or economic shifts is essential for forecasting and risk management.",
+        "nuance": "While 'impact' can denote positive or negative effects, it is frequently used in a context that emphasizes significant change.",
+        "synonyms": [
+          "influence",
+          "effect"
+        ],
+        "antonyms": [
+          "insignificance",
+          "irrelevance"
+        ]
+      },
+      {
+        "word": "discreetly",
+        "definition": "In a careful and prudent manner, especially to avoid drawing attention or causing embarrassment.",
+        "businessContext": "Discreetly handling sensitive information or negotiations is vital in maintaining confidentiality and professionalism in business dealings.",
+        "nuance": "The term 'discreetly' carries a connotation of tact and subtlety, suggesting a thoughtful approach to potentially sensitive situations.",
+        "synonyms": [
+          "cautiously",
+          "tactfully"
+        ],
+        "antonyms": [
+          "blatantly",
+          "indiscreetly"
+        ]
+      }
+    ]
   },
   {
-    "text": "I tell them, it's actually better to have a stable of mentors. You want to have three or four. And ideally, what you do is you meet with each one of them once a month on a different Friday of the month. And so you might have three or four people on every Friday you're meeting with someone different.",
+    "text": "I tell them, it's actually better to have a stable of mentors. You want to have three or four. And ideally, what you do is you meet with each one of them once a month on a different Friday of the month.",
     "speaker": "Bangaly Kaba",
     "timestamp": "00:20:09",
     "context": "Lenny asks about Bangaly's advice for skill development, particularly around finding mentors. Bangaly challenges the traditional approach of having one mentor, instead recommending what he calls a 'stable of mentors' - three to four different mentors that you meet with on rotating Fridays each month. This approach ensures consistent mentorship availability and diverse perspectives, as opposed to relying on a single mentor who might be unavailable for extended periods.",
     "vocabulary_highlights": [
-      "stable of mentors"
+      "stable of mentors",
+      "skill development",
+      "recommend",
+      "ideally"
     ],
     "topics": [
       "Career Development",
@@ -117,16 +372,79 @@
     "text_ko": "저는 보통 이렇게 말해요: 멘토를 여러 명 두는 게 사실 더 좋아요. 세 명에서 네 명 정도면 좋아요. 이상적으로는 각 멘토를 매달 한 번씩, 달의 서로 다른 금요일에 만나는 거예요. 그러면 세네 명이면 매주 금요일마다 다른 멘토와 만나게 되는 셈이죠.",
     "text_zh": "我跟他们说，其实最好是有一批导师，不要只找一个。你最好找三四个人。理想的做法是，每个月的不同周五分别跟他们见面。这样你可能有三四个人，每个周五都能跟不同的人聊聊。",
     "text_es": "Les digo que en realidad es mejor tener un grupo de mentores. Lo ideal es tener tres o cuatro. Y lo que haces es reunirte con cada uno una vez al mes, un viernes diferente cada vez. Entonces puedes tener tres o cuatro personas y cada viernes te reúnes con alguien distinto.",
-    "key_sentence": "A stable of mentors is better; meet with each monthly on different Fridays."
+    "key_sentence": "A stable of mentors is better; meet with each monthly on different Fridays.",
+    "text_trimmed": true,
+    "original_text": "I tell them, it's actually better to have a stable of mentors. You want to have three or four. And ideally, what you do is you meet with each one of them once a month on a different Friday of the month. And so you might have three or four people on every Friday you're meeting with someone different.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "stable of mentors",
+        "definition": "A group of experienced individuals who provide guidance and advice to someone seeking personal or professional development.",
+        "businessContext": "In business settings, having a stable of mentors allows individuals to gain diverse perspectives and insights, which can enhance decision-making and career growth.",
+        "nuance": "This phrase implies a well-rounded support system rather than relying on a single mentor, suggesting a strategic approach to personal development.",
+        "synonyms": [
+          "mentor network",
+          "advisory group"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "skill development",
+        "definition": "The process of acquiring new competencies or improving existing abilities through training, education, or practice.",
+        "businessContext": "In the corporate world, skill development is essential for employee growth, productivity, and adapting to changing market demands.",
+        "nuance": "This term often emphasizes continuous improvement and lifelong learning, indicating a proactive approach to career advancement.",
+        "synonyms": [
+          "professional development",
+          "competency enhancement"
+        ],
+        "antonyms": [
+          "skill stagnation",
+          "N/A"
+        ]
+      },
+      {
+        "word": "recommend",
+        "definition": "To endorse or suggest a course of action, product, or individual based on one's judgment or experience.",
+        "businessContext": "In business, recommendations can influence hiring decisions, product choices, and strategic partnerships, often carrying significant weight in decision-making processes.",
+        "nuance": "The term conveys a sense of authority or expertise, implying that the recommender has sufficient knowledge to make a sound suggestion.",
+        "synonyms": [
+          "advise",
+          "suggest"
+        ],
+        "antonyms": [
+          "discourage",
+          "dissuade"
+        ]
+      },
+      {
+        "word": "ideally",
+        "definition": "In a perfect world or under the best possible circumstances; often used to express a preferred outcome.",
+        "businessContext": "In business discussions, 'ideally' is used to articulate optimal scenarios or goals, helping teams align on aspirations and expectations.",
+        "nuance": "This word suggests that while the stated outcome is desirable, it may not always be achievable, indicating a level of realism in planning.",
+        "synonyms": [
+          "preferably",
+          "optimally"
+        ],
+        "antonyms": [
+          "realistically",
+          "practically"
+        ]
+      }
+    ]
   },
   {
-    "text": "What I found is a couple things. One is when your team does not fully understand a problem space, the balance of work tends to be higher. I think when I started at YouTube we were doing 60% execution, 40% understand work. Right. And over time, as we understand more and more, the mix shifts.",
+    "text": "What I found is a couple things. One is when your team does not fully understand a problem space, the balance of work tends to be higher. I think when I started at YouTube we were doing 60% execution, 40% understand work. Right.",
     "speaker": "Bangaly Kaba",
     "timestamp": "00:31:18",
     "context": "Lenny asks how to operationalize 'understand work' - the intentional time spent understanding problems before building solutions. Bangaly explains that the ratio of understand work to execution depends on how well the team understands their problem space. When he started at YouTube, his team spent 40% of their time on understand work because they lacked deep knowledge of their domain. As understanding increased, they shifted to 80-85% execution and only 15-20% understand work, demonstrating how this investment pays off with higher velocity over time.",
     "vocabulary_highlights": [
-      "balance of work tends to be higher",
-      "the mix shifts"
+      "operationalize",
+      "execution",
+      "intentional",
+      "understand"
     ],
     "topics": [
       "Product Management",
@@ -142,6 +460,67 @@
     "text_ko": "제가 발견한 건 몇 가지예요. 하나는, 팀이 문제 영역(problem space)을 완전히 이해하지 못하면 일의 비중이 실행(execution) 쪽으로 더 높아지는 경향이 있다는 거예요. 제가 유튜브에 처음 들어갔을 때는 실행(execution)이 60%, 이해 작업(understand work)이 40%였던 것 같아요. 시간이 지나면서 더 많이 이해하게 되면 그 비율이 바뀌어요.",
     "text_zh": "我发现了几个情况。一个是当你的团队对问题领域理解不够深的时候，工作量往往会更大。我觉得我刚到YouTube的时候，我们大概是60%在执行，40%在做理解性的工作。对吧。然后随着时间推移，我们理解得越来越多，这个比例就开始变化了。",
     "text_es": "Lo que me di cuenta es de un par de cosas. Una es que cuando tu equipo no entiende completamente un área problemática, la carga de trabajo tiende a ser mayor. Creo que cuando empecé en YouTube estábamos haciendo 60% ejecución, 40% trabajo de entendimiento. ¿No? Y con el tiempo, conforme vamos entendiendo más y más, la mezcla va cambiando.",
-    "key_sentence": "When the team doesn't understand, the balance of work tends to be higher."
+    "key_sentence": "When the team doesn't understand, the balance of work tends to be higher.",
+    "text_trimmed": true,
+    "original_text": "What I found is a couple things. One is when your team does not fully understand a problem space, the balance of work tends to be higher. I think when I started at YouTube we were doing 60% execution, 40% understand work. Right. And over time, as we understand more and more, the mix shifts.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "operationalize",
+        "definition": "To put a plan or strategy into action by defining how it will be implemented and measured.",
+        "businessContext": "In business and tech environments, operationalizing a strategy involves translating theoretical concepts into actionable steps that can be executed by teams.",
+        "nuance": "This term often implies a systematic approach to implementation, and is best used in contexts where clarity and measurable outcomes are essential.",
+        "synonyms": [
+          "implement",
+          "execute"
+        ],
+        "antonyms": [
+          "abandon",
+          "neglect"
+        ]
+      },
+      {
+        "word": "execution",
+        "definition": "The act of carrying out or putting into effect a plan, order, or course of action.",
+        "businessContext": "In business settings, execution refers to the actual performance of tasks and projects that drive the organization's objectives forward.",
+        "nuance": "While execution is critical for success, it often requires careful planning and alignment with strategic goals to be effective.",
+        "synonyms": [
+          "implementation",
+          "performance"
+        ],
+        "antonyms": [
+          "planning",
+          "theorizing"
+        ]
+      },
+      {
+        "word": "intentional",
+        "definition": "Done with purpose and intention; not accidental or random.",
+        "businessContext": "In the context of business, being intentional means making deliberate choices that align with the company's vision and goals, often in decision-making and strategy formulation.",
+        "nuance": "This term carries a positive connotation, suggesting thoughtfulness and clarity, and is particularly relevant in discussions about leadership and culture.",
+        "synonyms": [
+          "deliberate",
+          "purposeful"
+        ],
+        "antonyms": [
+          "accidental",
+          "unplanned"
+        ]
+      },
+      {
+        "word": "understand",
+        "definition": "To grasp the meaning, significance, or nature of something; to comprehend.",
+        "businessContext": "In a business context, understanding is crucial for problem-solving, decision-making, and effective communication among team members.",
+        "nuance": "This term can imply a deeper level of insight beyond surface knowledge, often requiring analysis and critical thinking.",
+        "synonyms": [
+          "comprehend",
+          "grasp"
+        ],
+        "antonyms": [
+          "misunderstand",
+          "ignore"
+        ]
+      }
+    ]
   }
 ]

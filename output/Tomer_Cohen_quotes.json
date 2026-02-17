@@ -1,12 +1,14 @@
 [
   {
-    "text": "So it wasn't like, \"Oh, we have this cool technology, what can we do with it?\" It was like, \"Let go of what you've built. Go back to the objectives you were trying to solve and now with this technology, how can you do that objective better?\"",
+    "text": "So it wasn't like, \"Oh, we have this cool technology, what can we do with it?\" It was like, \"Let go of what you've built.",
     "speaker": "Tomer Cohen",
     "timestamp": "00:00:39",
     "context": "Lenny asks Tomer how he helps people shift to an AI-first mindset on the ground. Tomer explains that when LinkedIn started adopting AI more broadly, they didn't begin with the technology and then look for applications. Instead, he had teams abandon their existing roadmaps and return to their core objectives, then reimagine how AI could help them achieve those goals more effectively.",
     "vocabulary_highlights": [
-      "let go of",
-      "go back to the objectives"
+      "shift",
+      "mindset",
+      "adopting",
+      "technology"
     ],
     "topics": [
       "Strategy & Planning",
@@ -22,7 +24,68 @@
     "text_ko": "그게 단순히 “우리에겐 멋진 기술이 있으니까 이걸로 뭐 해볼까?” 하는 식은 아니었어요. “지금까지 만든 것에 집착하지 말고, 원래 해결하려던 목표로 돌아가세요. 그리고 이 기술로 그 목표를 어떻게 더 잘 달성할 수 있을지부터 생각해보세요.”",
     "text_zh": "所以不是说\"哎，我们有这个酷炫的技术，能用它干点什么呢？\"而是说\"放下你已经做出来的东西，回到你最初想解决的问题上，现在有了这个技术，你怎么能把这个目标做得更好？\"",
     "text_es": "No era como \"Ay, tenemos esta tecnología súper cool, ¿qué podemos hacer con ella?\" Era más bien \"Suelta lo que ya construiste. Regresa a los objetivos que estabas tratando de resolver y ahora con esta tecnología, ¿cómo puedes lograr ese objetivo de manera más efectiva?\"",
-    "key_sentence": "Let go of what you've built and focus on objectives with new technology."
+    "key_sentence": "Let go of what you've built and focus on objectives with new technology.",
+    "text_trimmed": true,
+    "original_text": "So it wasn't like, \"Oh, we have this cool technology, what can we do with it?\" It was like, \"Let go of what you've built. Go back to the objectives you were trying to solve and now with this technology, how can you do that objective better?\"",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "shift",
+        "definition": "A shift refers to a change or movement from one position, state, or condition to another.",
+        "businessContext": "In business, a shift often describes changes in strategy, market trends, or organizational structure that can impact operations and decision-making.",
+        "nuance": "While 'shift' can imply a positive or negative change, it is often used in contexts where adaptation is necessary for growth or survival.",
+        "synonyms": [
+          "change",
+          "transition"
+        ],
+        "antonyms": [
+          "stability",
+          "continuity"
+        ]
+      },
+      {
+        "word": "mindset",
+        "definition": "A mindset is a set of beliefs or attitudes that shape how an individual thinks, feels, and behaves.",
+        "businessContext": "In the business world, a growth mindset is often encouraged to foster innovation, resilience, and adaptability among employees and leaders.",
+        "nuance": "Mindset can carry a connotation of rigidity or flexibility, depending on whether it is open to change or resistant to new ideas.",
+        "synonyms": [
+          "attitude",
+          "perspective"
+        ],
+        "antonyms": [
+          "narrow-mindedness",
+          "fixed mindset"
+        ]
+      },
+      {
+        "word": "adopting",
+        "definition": "Adopting refers to the act of taking up, accepting, or starting to use something new, such as a practice, idea, or technology.",
+        "businessContext": "In a business context, adopting new technologies or practices can be crucial for maintaining competitiveness and improving efficiency.",
+        "nuance": "The term often implies a proactive choice to embrace change rather than a passive acceptance of circumstances.",
+        "synonyms": [
+          "embracing",
+          "implementing"
+        ],
+        "antonyms": [
+          "rejecting",
+          "abandoning"
+        ]
+      },
+      {
+        "word": "technology",
+        "definition": "Technology encompasses the application of scientific knowledge for practical purposes, especially in industry, encompassing tools, systems, and methods.",
+        "businessContext": "In business and startups, technology is a critical driver of innovation, efficiency, and competitive advantage, influencing everything from product development to customer engagement.",
+        "nuance": "While 'technology' can refer to both high-tech innovations and basic tools, it is often associated with modern advancements that transform industries.",
+        "synonyms": [
+          "innovation",
+          "tech"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "To really set the new purpose for it, which was this is not a springboard for other products. This is not a traffic jumpstart, it's not an upsell feed. It's really about people that matter, talking about things that I care about professionally.",
@@ -30,9 +93,10 @@
     "timestamp": "00:00:20",
     "context": "Lenny asks about specific tactics that made LinkedIn's feed more engaging and social. Tomer explains how they transformed LinkedIn's feed from what was essentially an activity tracker into something more valuable. Previously, the feed served as a way to drive traffic to other LinkedIn products, but they redefined its purpose to focus purely on professional knowledge sharing between relevant people.",
     "vocabulary_highlights": [
-      "springboard",
-      "traffic jumpstart",
-      "upsell feed"
+      "purpose",
+      "engaging",
+      "transform",
+      "professionally"
     ],
     "topics": [
       "Product Management",
@@ -48,7 +112,66 @@
     "text_ko": "정말로 그 서비스의 새 목적을 분명히 하자면, 다른 제품으로 이어지는 발판(springboard)이 아니에요. 트래픽을 급증시키기 위한 수단(traffic jumpstart)도 아니고, 업셀용 피드(upsell feed)도 아니에요. 핵심은 정말 중요한 사람들하고 제가 직업적으로 관심 있는 주제에 대해 이야기하는 거예요.",
     "text_zh": "重新给它定位的话，就是说这不是为了推其他产品做跳板，也不是为了快速拉流量，更不是什么向上销售(upsell)的渠道。真正的目的就是让那些重要的人，来聊聊我在职业上真正关心的事情。",
     "text_es": "Para realmente definir el nuevo propósito, que era: esto no va a ser una plataforma de lanzamiento para otros productos. No es para generar tráfico rápido (traffic jumpstart), ni un canal para ventas adicionales (upsell feed). Realmente se trata de que gente que importa hable sobre temas que me interesan a nivel profesional.",
-    "key_sentence": "This is not a springboard for other products; it's about people that matter."
+    "key_sentence": "This is not a springboard for other products; it's about people that matter.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "purpose",
+        "definition": "The reason for which something is done or created; an intended or desired result.",
+        "businessContext": "In business, defining a clear purpose is essential for guiding strategy, aligning team efforts, and communicating value to stakeholders.",
+        "nuance": "While 'purpose' can refer to a general aim, in a business context, it often implies a deeper mission that resonates with both employees and customers.",
+        "synonyms": [
+          "objective",
+          "goal"
+        ],
+        "antonyms": [
+          "aimlessness",
+          "disinterest"
+        ]
+      },
+      {
+        "word": "engaging",
+        "definition": "Attracting or holding interest or attention; captivating.",
+        "businessContext": "Engaging content or presentations are crucial in marketing and communication strategies to foster customer loyalty and enhance brand perception.",
+        "nuance": "The term 'engaging' often carries a positive connotation, suggesting that something is not only interesting but also interactive and participatory.",
+        "synonyms": [
+          "captivating",
+          "compelling"
+        ],
+        "antonyms": [
+          "boring",
+          "uninspiring"
+        ]
+      },
+      {
+        "word": "transform",
+        "definition": "To make a thorough or dramatic change in form, appearance, or character.",
+        "businessContext": "In the context of startups and technology, 'transform' often refers to the process of innovating or pivoting business models to adapt to market demands.",
+        "nuance": "While 'transform' implies significant change, it can also suggest improvement or evolution rather than just alteration.",
+        "synonyms": [
+          "convert",
+          "revolutionize"
+        ],
+        "antonyms": [
+          "preserve",
+          "maintain"
+        ]
+      },
+      {
+        "word": "professionally",
+        "definition": "In a manner that is appropriate for a professional setting; with competence and skill.",
+        "businessContext": "Conducting oneself professionally is vital in business environments, as it fosters respect, trust, and effective communication among colleagues and clients.",
+        "nuance": "The term 'professionally' often implies adherence to industry standards and ethical practices, distinguishing it from casual or informal behavior.",
+        "synonyms": [
+          "competently",
+          "expertly"
+        ],
+        "antonyms": [
+          "unprofessionally",
+          "amateurishly"
+        ]
+      }
+    ]
   },
   {
     "text": "I start backwards. It's like what is the potential here? If you start from the premise that LinkedIn ultimately is a platform for economic opportunity that sits on top of a very strong social graph. Almost every aspect of economic transaction is possible.",
@@ -56,9 +179,10 @@
     "timestamp": "00:00:06",
     "context": "Lenny asks about the strategy behind LinkedIn's transformation into a platform people check frequently. Tomer describes his approach to product strategy, which involves starting with the end vision rather than current constraints. He explains LinkedIn's fundamental value proposition as connecting economic opportunities through professional relationships, which opens up massive possibilities for different types of value exchanges.",
     "vocabulary_highlights": [
-      "start backwards",
-      "sits on top of",
-      "social graph"
+      "potential",
+      "premise",
+      "economic opportunity",
+      "platform"
     ],
     "topics": [
       "Strategy & Planning",
@@ -74,17 +198,77 @@
     "text_ko": "저는 뒤에서부터 시작해요. 여기서 잠재력이 뭔지부터 보는 식이에요. 만약 LinkedIn이 궁극적으로 아주 강한 소셜 그래프(social graph) 위에 자리한, 경제적 기회(economic opportunity)를 제공하는 플랫폼이라고 전제하면, 거의 모든 형태의 경제적 거래(economic transaction)가 가능해요.",
     "text_zh": "我是倒着思考的。就是说这里的潜力到底有多大？如果你从这个角度出发——领英本质上就是一个经济机会的平台，而且建立在非常强大的社交图谱(social graph)基础上。这样的话，几乎所有的经济交易都是可能的。",
     "text_es": "Yo empiezo al revés. Es como ¿cuál es el potencial real aquí? Si partes de la base de que LinkedIn al final es una plataforma de oportunidades económicas que se monta sobre una red social súper sólida. Prácticamente cualquier tipo de transacción económica es posible.",
-    "key_sentence": "Start backwards to realize LinkedIn's potential as a platform for economic opportunity."
+    "key_sentence": "Start backwards to realize LinkedIn's potential as a platform for economic opportunity.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "potential",
+        "definition": "The inherent ability or capacity for growth, development, or future success.",
+        "businessContext": "In business, 'potential' often refers to the ability of a market, product, or individual to achieve significant success or profitability.",
+        "nuance": "While 'potential' is generally positive, it can imply that actual success has not yet been realized.",
+        "synonyms": [
+          "capability",
+          "possibility"
+        ],
+        "antonyms": [
+          "limitation",
+          "inability"
+        ]
+      },
+      {
+        "word": "premise",
+        "definition": "A foundational idea or assumption upon which a theory, argument, or business model is based.",
+        "businessContext": "In business strategy, a strong premise is essential for developing effective plans and justifying decisions.",
+        "nuance": "The term suggests that the validity of conclusions depends on the strength of the premise; a weak premise can lead to flawed outcomes.",
+        "synonyms": [
+          "assumption",
+          "foundation"
+        ],
+        "antonyms": [
+          "conclusion",
+          "result"
+        ]
+      },
+      {
+        "word": "economic opportunity",
+        "definition": "A situation or condition that allows for the potential to generate income or create wealth.",
+        "businessContext": "Identifying economic opportunities is crucial for entrepreneurs and investors seeking to capitalize on market trends or gaps.",
+        "nuance": "This phrase often carries a positive connotation, suggesting growth and advancement, but can also imply competition and risk.",
+        "synonyms": [
+          "market potential",
+          "business prospect"
+        ],
+        "antonyms": [
+          "economic stagnation",
+          "financial disadvantage"
+        ]
+      },
+      {
+        "word": "platform",
+        "definition": "A foundational technology or service that enables the development and delivery of applications, products, or services.",
+        "businessContext": "In the tech industry, a platform often refers to software or infrastructure that supports various applications and user interactions, such as social media or e-commerce sites.",
+        "nuance": "The term can imply scalability and versatility, but may also suggest dependency on the platform for success.",
+        "synonyms": [
+          "framework",
+          "infrastructure"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "It's rooted in clarity and principles that ultimately lead to leadership. And the first time I got the inspiration from it was from a startup founder I met many, many years ago. Their company was on the brink of failure. They had their last attempt and they decided on a path forward and after they decided on a path forward, he was still seeing people hedging in different directions and it led into this confusion in the system where we decided people are still hedging.",
+    "text": "It's rooted in clarity and principles that ultimately lead to leadership. And the first time I got the inspiration from it was from a startup founder I met many, many years ago. Their company was on the brink of failure.",
     "speaker": "Tomer Cohen",
     "timestamp": "00:03:17",
     "context": "Lenny asks Tomer to explain his famous phrase \"We might be wrong but we're not confused.\" Tomer shares the origin story of this philosophy, describing how a startup founder realized that even after making a decision, team members were still pursuing different approaches. This hedging behavior created organizational confusion that prevented them from having any chance of success, even though alignment wouldn't guarantee success.",
     "vocabulary_highlights": [
-      "rooted in",
-      "on the brink of failure",
-      "hedging in different directions"
+      "clarity",
+      "principles",
+      "leadership",
+      "startup"
     ],
     "topics": [
       "Leadership & Management",
@@ -100,18 +284,79 @@
     "text_ko": "그건 결국 리더십(leadership)으로 이어지는 명확함과 원칙에 뿌리를 두고 있어요. 그걸로부터 영감을 처음 받은 건 아주 오래전에 만난 한 스타트업 창업자였어요. 그 회사는 거의 망하기 직전이었고, 마지막 기회로 앞으로 나아갈 한 길을 정했어요. 그런데 방향을 정한 뒤에도 사람들이 여전히 여러 쪽으로 눈치 보며 주저하는, 즉 헤지(hedging)를 하는 모습이 보였고 그 때문에 조직적으로 혼란이 생겼어요.",
     "text_zh": "这个理念源于清晰的思路和原则，最终会带来领导力。我第一次受到启发是很多很多年前遇到的一个创业者。当时他们公司快要倒闭了，就剩最后一次机会，他们确定了前进方向。但是确定方向之后，他还是看到团队里的人在观望，往不同方向摇摆，这就造成了系统性的混乱——明明已经定了方向，大家还在那里犹豫不决。",
     "text_es": "Se basa en la claridad y en principios que al final te llevan al liderazgo. Y la primera vez que me inspiré en esto fue con un fundador de startup que conocí hace muchísimos años. Su empresa estaba al borde del fracaso. Era su último intento y decidieron el rumbo a seguir, pero después de decidir el rumbo, él seguía viendo que la gente se cubría las espaldas en diferentes direcciones y esto creó una confusión en el sistema donde ya habíamos decidido, pero la gente seguía protegiéndose por si acaso.",
-    "key_sentence": "It's rooted in clarity and principles that lead to effective leadership."
+    "key_sentence": "It's rooted in clarity and principles that lead to effective leadership.",
+    "text_trimmed": true,
+    "original_text": "It's rooted in clarity and principles that ultimately lead to leadership. And the first time I got the inspiration from it was from a startup founder I met many, many years ago. Their company was on the brink of failure. They had their last attempt and they decided on a path forward and after they decided on a path forward, he was still seeing people hedging in different directions and it led into this confusion in the system where we decided people are still hedging.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "clarity",
+        "definition": "Clarity refers to the quality of being clear and easy to understand, particularly in communication or thought processes.",
+        "businessContext": "In business, clarity is crucial for effective communication, ensuring that team members understand goals, strategies, and expectations.",
+        "nuance": "While clarity is generally positive, excessive simplification can sometimes overlook important complexities.",
+        "synonyms": [
+          "lucidity",
+          "transparency"
+        ],
+        "antonyms": [
+          "confusion",
+          "ambiguity"
+        ]
+      },
+      {
+        "word": "principles",
+        "definition": "Principles are fundamental truths or propositions that serve as the foundation for a system of belief or behavior.",
+        "businessContext": "In a business context, principles guide decision-making processes and corporate culture, influencing how a company operates and interacts with stakeholders.",
+        "nuance": "Principles are often seen as immutable, but they can evolve as organizations grow and adapt to new challenges.",
+        "synonyms": [
+          "values",
+          "standards"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "leadership",
+        "definition": "Leadership is the act of guiding and influencing individuals or groups towards achieving common goals.",
+        "businessContext": "Effective leadership is vital in business environments, as it fosters motivation, drives performance, and shapes organizational culture.",
+        "nuance": "Leadership can be formal or informal; sometimes, individuals can lead without holding a designated leadership position.",
+        "synonyms": [
+          "guidance",
+          "management"
+        ],
+        "antonyms": [
+          "followership",
+          "subordination"
+        ]
+      },
+      {
+        "word": "startup",
+        "definition": "A startup is a newly established business, typically in the early stages of development, often focused on innovative products or services.",
+        "businessContext": "In the tech industry, startups are frequently characterized by their pursuit of rapid growth and scalability, often seeking venture capital to fund their operations.",
+        "nuance": "While all startups are new businesses, not all new businesses are startups; the term usually implies a focus on innovation and high growth potential.",
+        "synonyms": [
+          "new venture",
+          "entrepreneurial enterprise"
+        ],
+        "antonyms": [
+          "established company",
+          "corporation"
+        ]
+      }
+    ]
   },
   {
-    "text": "What I find people to be attached to, especially when you build an environment with a lot of alpha types is that they get attached to being right or wrong and that really creates a lot of lingering in the system, a lot of confusion and they're still stuck to their ideas. And for me, I get attached to clarity and focus.",
+    "text": "I get attached to clarity and focus.",
     "speaker": "Tomer Cohen",
     "timestamp": "00:06:46",
     "context": "Tomer explains the first part of his \"not confused\" philosophy, which focuses on clarity of thought. He describes how in organizations with many driven, competitive people (alpha types), there's often too much emphasis on being right versus being clear about direction. This attachment to being correct causes people to linger on debates and remain stuck on their original ideas rather than moving forward with a clear, unified approach.",
     "vocabulary_highlights": [
-      "alpha types",
-      "get attached to",
-      "lingering in the system",
-      "stuck to their ideas"
+      "clarity",
+      "focus",
+      "competitive",
+      "philosophy"
     ],
     "topics": [
       "Leadership & Management",
@@ -127,18 +372,79 @@
     "text_ko": "제가 보기엔, 특히 알파 성향(alpha types)이 많은 환경을 만들면 사람들은 옳고 그름에 집착하게 돼요. 그게 시스템에 오래 남아 많은 혼란을 만들고 사람들이 자기 아이디어에 붙들려 있게 해요. 저는 대신 명확성(clarity)과 집중(focus)에 집착해요.",
     "text_zh": "我发现很多人，特别是在那种聚集了很多强势型人才(alpha types)的环境里，他们就是放不下对错这个执念，这样一来整个团队就会拖泥带水的，大家都糊里糊涂的，还死抱着自己那套想法不放。但我不一样，我在乎的是把事情想明白，把注意力集中起来。",
     "text_es": "Lo que veo es que la gente se aferra mucho, especialmente cuando tienes un ambiente lleno de personalidades alfa, se aferran a tener razón o estar equivocados y eso realmente crea mucho estancamiento en el sistema, mucha confusión, y siguen pegados a sus ideas. En mi caso, yo me enfoco en la claridad y en mantener el rumbo.",
-    "key_sentence": "Alpha types get attached to being right, creating confusion and lingering in the system."
+    "key_sentence": "I get attached to clarity and focus.",
+    "text_trimmed": true,
+    "original_text": "What I find people to be attached to, especially when you build an environment with a lot of alpha types is that they get attached to being right or wrong and that really creates a lot of lingering in the system, a lot of confusion and they're still stuck to their ideas. And for me, I get attached to clarity and focus.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "clarity",
+        "definition": "The quality of being clear and easy to understand, often relating to communication or thought processes.",
+        "businessContext": "In business settings, clarity is crucial for effective communication, ensuring that team members understand objectives, strategies, and tasks without ambiguity.",
+        "nuance": "While clarity is generally positive, excessive simplification can sometimes lead to oversights or a lack of depth in discussions.",
+        "synonyms": [
+          "lucidity",
+          "transparency"
+        ],
+        "antonyms": [
+          "confusion",
+          "ambiguity"
+        ]
+      },
+      {
+        "word": "focus",
+        "definition": "The concentration of attention or effort on a particular task or goal, often leading to improved productivity and outcomes.",
+        "businessContext": "In a business environment, maintaining focus is essential for teams to achieve their objectives efficiently, especially in fast-paced or competitive markets.",
+        "nuance": "Focus can imply a narrowing of attention, which is beneficial but may also lead to neglecting other important areas if not balanced properly.",
+        "synonyms": [
+          "concentration",
+          "attention"
+        ],
+        "antonyms": [
+          "distraction",
+          "diversion"
+        ]
+      },
+      {
+        "word": "competitive",
+        "definition": "Characterized by a strong desire to be more successful than others, often resulting in rivalry and the pursuit of excellence.",
+        "businessContext": "In the business world, being competitive is vital for survival and growth, as companies strive to outperform their rivals in market share, innovation, and customer satisfaction.",
+        "nuance": "While competitiveness can drive innovation and improvement, it can also foster unhealthy rivalries or unethical practices if not managed properly.",
+        "synonyms": [
+          "rivalrous",
+          "cutthroat"
+        ],
+        "antonyms": [
+          "cooperative",
+          "collaborative"
+        ]
+      },
+      {
+        "word": "philosophy",
+        "definition": "A set of beliefs or principles that guide behavior and decision-making, often reflecting an organization's core values and mission.",
+        "businessContext": "In business, a company's philosophy shapes its culture, influences strategic decisions, and can differentiate it from competitors in the marketplace.",
+        "nuance": "While philosophy can provide a strong foundation for decision-making, it may also need to adapt over time to remain relevant in a changing business environment.",
+        "synonyms": [
+          "principle",
+          "doctrine"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "I love solutions that are based on first principles. That they have, there's a principle thinking about it, there's opinions about it. If you talk to folks who work with me, they'll tell you, I push a lot for what is actually your opinion, what is your potentially controversial opinion and the best principles have teeth.",
+    "text": "I love solutions that are based on first principles. That they have, there's a principle thinking about it, there's opinions about it.",
     "speaker": "Tomer Cohen",
     "timestamp": "00:07:35",
     "context": "Tomer continues explaining his approach to clarity of thought in product development. After spending time clearly defining problems, he focuses on developing solutions based on first principles - fundamental truths that guide decision-making. He emphasizes the importance of having strong, potentially controversial opinions rather than generic statements, because meaningful principles require making trade-offs that not everyone will agree with.",
     "vocabulary_highlights": [
-      "first principles",
-      "push a lot for",
-      "controversial opinion",
-      "principles have teeth"
+      "principle",
+      "clarity",
+      "approach",
+      "solutions"
     ],
     "topics": [
       "Product Management",
@@ -154,18 +460,79 @@
     "text_ko": "저는 기본 원칙(first principles)을 바탕으로 한 해결책을 정말 좋아해요. 그 해결책에는 원칙이 있고, 그에 대한 의견도 있어요. 저와 함께 일하는 사람들에게 물어보면, 저는 항상 여러분의 의견, 특히 논란이 될 수 있는 의견을 많이 강조한다고 말할 거예요. 가장 좋은 원칙은 확실한 힘이 있어야 해요.",
     "text_zh": "我特别喜欢那种基于第一性原理(first principles)的解决方案。就是说，你得有原则性的思考，得有自己的观点。跟我共事过的人都知道，我经常会追问：你真正的观点是什么？你有什么可能比较有争议的看法？最好的原则都是有锋芒的。",
     "text_es": "Me encantan las soluciones que parten de principios fundamentales (first principles). Que tengan, que haya un pensamiento de principios detrás, que haya opiniones al respecto. Si hablas con la gente que trabaja conmigo, te van a decir que siempre presiono mucho para saber cuál es realmente tu opinión, cuál es tu opinión potencialmente polémica, porque los mejores principios tienen fuerza, tienen sustancia.",
-    "key_sentence": "I push a lot for first principles and controversial opinions with real impact."
+    "key_sentence": "I love solutions that are based on first principles.",
+    "text_trimmed": true,
+    "original_text": "I love solutions that are based on first principles. That they have, there's a principle thinking about it, there's opinions about it. If you talk to folks who work with me, they'll tell you, I push a lot for what is actually your opinion, what is your potentially controversial opinion and the best principles have teeth.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "principle",
+        "definition": "A fundamental truth or proposition that serves as the foundation for a system of belief or behavior.",
+        "businessContext": "In business, principles guide decision-making processes and strategic planning, ensuring that actions align with core values and objectives.",
+        "nuance": "While 'principle' often denotes a strong foundational belief, it can also imply rigidity; thus, it is important to balance principles with flexibility in dynamic environments.",
+        "synonyms": [
+          "tenet",
+          "doctrine"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "clarity",
+        "definition": "The quality of being clear and easy to understand, free from ambiguity.",
+        "businessContext": "In a business context, clarity is essential for effective communication, ensuring that all stakeholders comprehend objectives, strategies, and expectations.",
+        "nuance": "Clarity is often sought in presentations and reports, but excessive simplification can lead to oversights; thus, it is important to maintain a balance between clarity and depth.",
+        "synonyms": [
+          "lucidity",
+          "transparency"
+        ],
+        "antonyms": [
+          "confusion",
+          "ambiguity"
+        ]
+      },
+      {
+        "word": "approach",
+        "definition": "A way of dealing with a situation or problem; a method or strategy.",
+        "businessContext": "In business and technology, an approach refers to the specific methodology employed to tackle challenges, innovate, or achieve goals, such as agile or lean methodologies.",
+        "nuance": "The term 'approach' can imply a particular style or perspective, and it is often used to describe both formal strategies and informal tactics; context is key to its interpretation.",
+        "synonyms": [
+          "method",
+          "strategy"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "solutions",
+        "definition": "Answers or methods for effectively addressing a problem or challenge.",
+        "businessContext": "In the business world, solutions are often developed to meet customer needs, resolve operational issues, or enhance product offerings, emphasizing innovation and efficiency.",
+        "nuance": "While 'solutions' suggests a definitive answer, it can also imply ongoing processes or adaptations; thus, it is important to recognize that solutions may evolve over time.",
+        "synonyms": [
+          "resolutions",
+          "answers"
+        ],
+        "antonyms": [
+          "problems",
+          "challenges"
+        ]
+      }
+    ]
   },
   {
-    "text": "When I reflect back on what works across my early career, it really comes down in a nutshell to this career concept of explore and exploit. You're either in a mode of explorer where you have a bunch of unknowns and you're testing to see whether or not you like it, or you're exploiting, where you actually have found something that's really rich and really deep.",
+    "text": "When I reflect back on what works across my early career, it really comes down in a nutshell to this career concept of explore and exploit.",
     "speaker": "Tomer Cohen",
     "timestamp": "00:51:42",
     "context": "Lenny asks Tomer for specific career advancement advice based on his rapid rise at LinkedIn. Tomer shares what he learned about his own career journey, describing a framework he calls \"explore and exploit.\" In the exploration phase, you test different opportunities to discover what you enjoy and excel at. In the exploitation phase, you go deep into areas where you've found something valuable and meaningful to build expertise.",
     "vocabulary_highlights": [
-      "in a nutshell",
-      "mode of explorer",
-      "bunch of unknowns",
-      "really rich and really deep"
+      "reflect",
+      "explore",
+      "exploit",
+      "framework"
     ],
     "topics": [
       "Career Development",
@@ -181,6 +548,67 @@
     "text_ko": "제 초기 커리어를 되돌아보면, 결국 한마디로 요약하면 커리어 개념인 ‘탐색과 활용(explore and exploit)’이에요. 사람은 보통 두 가지 모드 중 하나에 있어요. 하나는 탐색자 모드로, 모르는 게 많아서 이게 맞는지, 좋아하는지 시험해 보는 단계고요. 다른 하나는 활용 모드로, 이미 정말 풍부하고 깊은 무언가를 찾아서 그걸 집중적으로 파고드는 단계예요.",
     "text_zh": "回想我职业生涯早期那些成功的经验，说白了就是两个词：探索和深挖。你要么处在探索模式，面对一堆未知的东西，去试试看自己到底喜不喜欢；要么就是在深挖模式，已经找到了真正有价值、很有潜力的方向，然后全力去做。",
     "text_es": "Cuando miro hacia atrás y pienso en qué funcionó durante mis primeros años profesionales, todo se resume básicamente en este concepto de carrera: explorar y explotar. O estás en modo explorador, donde tienes un montón de incógnitas y estás probando a ver si te gusta o no, o estás explotando, donde ya encontraste algo que realmente vale la pena y tiene mucha sustancia.",
-    "key_sentence": "In a nutshell, career success involves exploring unknowns or exploiting rich opportunities."
+    "key_sentence": "it really comes down in a nutshell to this career concept of explore and exploit.",
+    "text_trimmed": true,
+    "original_text": "When I reflect back on what works across my early career, it really comes down in a nutshell to this career concept of explore and exploit. You're either in a mode of explorer where you have a bunch of unknowns and you're testing to see whether or not you like it, or you're exploiting, where you actually have found something that's really rich and really deep.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "reflect",
+        "definition": "To think deeply or carefully about something, often to gain insight or understanding.",
+        "businessContext": "In business, reflecting on past experiences can help leaders identify successful strategies and areas for improvement.",
+        "nuance": "While 'reflect' suggests a thoughtful consideration, it may imply a more passive approach compared to active analysis or critique.",
+        "synonyms": [
+          "contemplate",
+          "ponder"
+        ],
+        "antonyms": [
+          "ignore",
+          "overlook"
+        ]
+      },
+      {
+        "word": "explore",
+        "definition": "To investigate or examine a subject or area in depth, often to discover new information or opportunities.",
+        "businessContext": "In a startup context, teams often explore new markets or technologies to identify potential growth areas and innovations.",
+        "nuance": "The term 'explore' conveys a sense of curiosity and openness to new ideas, which is essential in dynamic business environments.",
+        "synonyms": [
+          "investigate",
+          "research"
+        ],
+        "antonyms": [
+          "settle",
+          "conclude"
+        ]
+      },
+      {
+        "word": "exploit",
+        "definition": "To make full use of and benefit from a resource or opportunity, often with a connotation of taking advantage of something.",
+        "businessContext": "In business, exploiting market opportunities or technological advancements can lead to competitive advantages and increased profitability.",
+        "nuance": "While 'exploit' can have a negative connotation of unfair advantage, in a business context, it often refers to strategic utilization of resources.",
+        "synonyms": [
+          "utilize",
+          "leverage"
+        ],
+        "antonyms": [
+          "waste",
+          "neglect"
+        ]
+      },
+      {
+        "word": "framework",
+        "definition": "A structured approach or system that provides a basis for understanding or organizing complex concepts or processes.",
+        "businessContext": "In business strategy, frameworks are used to analyze situations, guide decision-making, and develop strategic plans.",
+        "nuance": "The term 'framework' suggests a foundational structure that supports further development, making it essential in strategic planning and analysis.",
+        "synonyms": [
+          "structure",
+          "model"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      }
+    ]
   }
 ]

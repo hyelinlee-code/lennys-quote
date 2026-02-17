@@ -1,13 +1,14 @@
 [
   {
-    "text": "The biggest marker that I've seen between a botched layoff and a successful layoff is at the moment someone hears that they no longer have a job, did they hear it from their manager in a one-on-one? If that's when they heard it, it'll be okay. But if they heard it in an email, in a group chat, in any kind of thing where they were sitting next to or they're hearing it along with other people, it wasn't personalized, it wasn't one-on-one, that is terrible.",
+    "text": "The biggest marker that I've seen between a botched layoff and a successful layoff is at the moment someone hears that they no longer have a job, did they hear it from their manager in a one-on-one?",
     "speaker": "Matt Mochary",
     "timestamp": "00:00:00",
     "context": "Lenny asks Matt about handling layoffs effectively, particularly in the context of recent tech industry layoffs. Matt explains the critical difference between successful and unsuccessful layoffs based on his experience coaching numerous CEOs through this process. He emphasizes that the method of delivery - whether personal and private versus impersonal and public - determines whether employees become angry and publicly criticize the company or accept the news more gracefully.",
     "vocabulary_highlights": [
-      "botched layoff",
-      "dehumanizing",
-      "didn't give a shit about me"
+      "marker",
+      "botched",
+      "successful",
+      "one-on-one"
     ],
     "topics": [
       "Leadership & Management"
@@ -21,16 +22,79 @@
     "text_ko": "제가 본 가장 큰 차이는, 엉망으로 진행된 감원(botched layoff)과 잘된 감원(successful layoff)을 가르는 게 사람들이 '자신이 더 이상 직장이 없다는 소식'을 어떻게 들었느냐예요. 그 순간을 매니저가 일대일(one-on-one)로 직접 알려줬다면 괜찮아요. 그런데 이메일(email)이나 단체 채팅(group chat)으로, 다른 사람 옆에 앉아 있거나 다른 사람들과 동시에 같은 소식을 들었다면 — 개인화되지도 않았고 일대일도 아니었다면 — 정말 끔찍해요.",
     "text_zh": "我发现裁员搞砸和裁员做得好之间最大的区别就是，员工听到自己被裁的那一刻是怎么听到的。如果是他们的直属领导单独一对一告诉他们的，那基本上就没什么大问题。但如果他们是通过邮件、群聊，或者和其他人一起听到消息的，没有个人化的沟通，不是一对一的，那就搞得很难看了。",
     "text_es": "La principal diferencia que he visto entre un despido mal manejado y uno exitoso es el momento en que alguien se entera de que ya no tiene trabajo: ¿se lo dijo su jefe cara a cara, en privado? Si fue así, todo estará bien. Pero si se enteró por email, en un chat grupal, o cualquier situación donde estaba junto a otras personas o lo escuchó al mismo tiempo que otros, sin que fuera personalizado, sin que fuera uno a uno, eso es terrible.",
-    "key_sentence": "A botched layoff occurs when it's not personalized and dehumanizing."
+    "key_sentence": "did they hear it from their manager in a one-on-one?",
+    "text_trimmed": true,
+    "original_text": "The biggest marker that I've seen between a botched layoff and a successful layoff is at the moment someone hears that they no longer have a job, did they hear it from their manager in a one-on-one? If that's when they heard it, it'll be okay. But if they heard it in an email, in a group chat, in any kind of thing where they were sitting next to or they're hearing it along with other people, it wasn't personalized, it wasn't one-on-one, that is terrible.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "marker",
+        "definition": "A marker is a sign or indication that signifies a particular condition or status. In business, it often refers to a measurable factor that can be used to assess performance or outcomes.",
+        "businessContext": "In the context of layoffs, a marker can indicate the difference between a poorly executed and a well-executed process, often relating to employee experience and retention.",
+        "nuance": "While 'marker' can imply a positive or negative sign, its usage in business often leans towards identifying critical success factors.",
+        "synonyms": [
+          "indicator",
+          "sign"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "botched",
+        "definition": "Botched refers to something that has been carried out poorly or ineffectively, often resulting in failure or complications. It implies a lack of skill or care in execution.",
+        "businessContext": "In business, a botched layoff can lead to negative repercussions such as low morale, legal issues, and damage to the company's reputation.",
+        "nuance": "The term carries a strong negative connotation and should be used cautiously, as it implies a significant level of incompetence.",
+        "synonyms": [
+          "failed",
+          "bungled"
+        ],
+        "antonyms": [
+          "successful",
+          "effective"
+        ]
+      },
+      {
+        "word": "successful",
+        "definition": "Successful describes an outcome that has achieved its intended goals or objectives, often resulting in positive recognition or results. It denotes effectiveness and accomplishment.",
+        "businessContext": "In a business context, a successful layoff is one that is managed with transparency and compassion, minimizing disruption and maintaining employee trust.",
+        "nuance": "While 'successful' generally has a positive connotation, it can also be subjective depending on the perspectives of those involved.",
+        "synonyms": [
+          "effective",
+          "prosperous"
+        ],
+        "antonyms": [
+          "unsuccessful",
+          "failed"
+        ]
+      },
+      {
+        "word": "one-on-one",
+        "definition": "One-on-one refers to a direct interaction between two individuals, typically in a private setting. It emphasizes personal engagement and individualized communication.",
+        "businessContext": "In business, one-on-one meetings are often used for performance reviews, feedback sessions, or sensitive discussions such as layoffs, allowing for a more personal and respectful approach.",
+        "nuance": "The term suggests a level of intimacy and confidentiality, making it preferable for discussions that require sensitivity or detailed attention.",
+        "synonyms": [
+          "individual meeting",
+          "private discussion"
+        ],
+        "antonyms": [
+          "group meeting",
+          "public forum"
+        ]
+      }
+    ]
   },
   {
-    "text": "I believe that fear is actually giving you bad advice and I think you're predicting that if you do this A will happen. Well, I'm predicting that if you do that, the exact opposite will happen. So, I'll tell you what, why don't we make a bet? This is very high stakes, why don't we pick something that's lower stakes?",
+    "text": "I believe that fear is actually giving you bad advice and I think you're predicting that if you do this A will happen. Well, I'm predicting that if you do that, the exact opposite will happen.",
     "speaker": "Matt Mochary",
     "timestamp": "00:08:55",
     "context": "Lenny asks about the most common areas where successful founders struggle. Matt explains that fear is the primary obstacle, causing founders to avoid necessary but difficult actions. He describes his coaching method of challenging fear-based predictions by making bets with clients on lower-stakes situations to prove that fear often leads to incorrect assumptions about outcomes. This builds trust in the principle that fear gives bad advice.",
     "vocabulary_highlights": [
-      "high stakes",
-      "lower stakes"
+      "predicting",
+      "obstacle",
+      "necessary",
+      "struggle"
     ],
     "topics": [
       "Leadership & Management",
@@ -45,16 +109,79 @@
     "text_ko": "사실 두려움이 잘못된 조언을 해주고 있다고 생각해요. 당신은 이걸 하면 A가 일어날 거라고 예측하는 거고, 저는 그 반대가 일어날 거라고 예측해요. 그럼 내기해볼까요? 이건 판이 너무 크니까 부담 덜한 걸로 하나 하죠.",
     "text_zh": "我觉得恐惧其实在给你出坏主意，你现在预测如果这么做会发生A情况，但我预测的结果恰恰相反。这样吧，咱们打个赌怎么样？不过这事儿风险太大了，要不咱们先找个风险小点的事情试试？",
     "text_es": "Yo creo que el miedo te está dando muy malos consejos y me parece que tú estás pensando que si haces esto va a pasar A. Bueno, pues yo te digo que si haces eso, va a pasar exactamente lo contrario. Mira, ¿sabes qué? ¿Por qué no hacemos una apuesta? Esto tiene mucho riesgo, ¿por qué no mejor escogemos algo que tenga menos riesgo?",
-    "key_sentence": "Fear gives you bad advice in high stakes situations."
+    "key_sentence": "fear is actually giving you bad advice",
+    "text_trimmed": true,
+    "original_text": "I believe that fear is actually giving you bad advice and I think you're predicting that if you do this A will happen. Well, I'm predicting that if you do that, the exact opposite will happen. So, I'll tell you what, why don't we make a bet? This is very high stakes, why don't we pick something that's lower stakes?",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "predicting",
+        "definition": "The act of forecasting or estimating a future event or outcome based on current data or trends.",
+        "businessContext": "In business, predicting is essential for strategic planning, market analysis, and risk management, as it helps organizations anticipate changes and make informed decisions.",
+        "nuance": "While predicting often implies a level of certainty, it can also carry the connotation of speculation, especially when based on incomplete information.",
+        "synonyms": [
+          "forecasting",
+          "projecting"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "obstacle",
+        "definition": "A barrier or hindrance that prevents progress or achievement in a particular endeavor.",
+        "businessContext": "In a business context, obstacles can refer to challenges such as market competition, regulatory issues, or internal inefficiencies that impede growth or success.",
+        "nuance": "The term can imply a significant challenge that requires strategic thinking and problem-solving to overcome, rather than minor inconveniences.",
+        "synonyms": [
+          "barrier",
+          "hindrance"
+        ],
+        "antonyms": [
+          "facilitator",
+          "advantage"
+        ]
+      },
+      {
+        "word": "necessary",
+        "definition": "Essential or required; something that is needed for a particular purpose or outcome.",
+        "businessContext": "In business, identifying necessary resources, actions, or strategies is crucial for achieving objectives and ensuring operational efficiency.",
+        "nuance": "While 'necessary' often denotes something that must be done, it can also suggest a degree of urgency or importance in decision-making processes.",
+        "synonyms": [
+          "essential",
+          "indispensable"
+        ],
+        "antonyms": [
+          "unnecessary",
+          "optional"
+        ]
+      },
+      {
+        "word": "struggle",
+        "definition": "A prolonged effort or challenge faced when trying to achieve a goal or overcome difficulties.",
+        "businessContext": "In the business world, struggle can refer to the challenges organizations face in adapting to market changes, managing resources, or achieving profitability.",
+        "nuance": "The term often conveys a sense of hardship or adversity, suggesting that the path to success is fraught with difficulties that require resilience and perseverance.",
+        "synonyms": [
+          "strife",
+          "battle"
+        ],
+        "antonyms": [
+          "ease",
+          "comfort"
+        ]
+      }
+    ]
   },
   {
-    "text": "Then finally she said, 'I perceive you to be in anger.' So it's an I statement and it's simply what she's perceiving. There's no judgment. That was able to punch through my anger and then I woke up and went, oh, and then I stopped and just didn't act until I was able to shift out of anger.",
+    "text": "Then finally she said, 'I perceive you to be in anger.' So it's an I statement and it's simply what she's perceiving. There's no judgment.",
     "speaker": "Matt Mochary",
     "timestamp": "00:12:40",
     "context": "Lenny asks about giving feedback to someone who is experiencing anger or fear. Matt shares how he and his wife iterated on the language for pointing out when he was in an angry state. They discovered that using 'I perceive you to be in anger' works better than accusatory statements because it's non-judgmental and allows the person to recognize their emotional state without becoming more defensive.",
     "vocabulary_highlights": [
-      "punch through my anger",
-      "shift out of anger"
+      "perceive",
+      "feedback",
+      "iterated",
+      "judgment"
     ],
     "topics": [
       "Communication Skills",
@@ -69,17 +196,79 @@
     "text_ko": "마지막에 그녀가 \"당신이 화가 나 있는 것 같아요\"라고 말했어요. 그건 I 스테이트먼트(I statement)였고, 단순히 그녀가 그렇게 인지하고 있다는 표현이었어요. 판단이 전혀 들어 있지 않았어요. 그 말이 제 분노를 뚫고 들어왔고, 그제서야 정신이 들어 '아' 하고 멈췄어요. 그리고 제가 화에서 벗어날 수 있을 때까지 아무 행동도 하지 않았어요.",
     "text_zh": "最后她说：\"我感觉你好像在生气。\" 你看，这是一个\"我\"的表述，就是单纯说出她的感受，没有任何评判。这句话一下子就击中了我的愤怒情绪，让我突然清醒过来，意识到\"哎呀，确实是这样\"，然后我就停下来，什么都不做，直到自己从愤怒中走出来为止。",
     "text_es": "Entonces finalmente me dijo: \"Percibo que estás enojado.\" O sea, usó una declaración en primera persona y simplemente describió lo que ella estaba viendo. Sin juzgar para nada. Eso logró atravesar mi enojo y entonces reaccioné como \"ah, tienes razón,\" y me detuve y no hice nada hasta que pude salir de ese estado de enojo.",
-    "key_sentence": "An I statement can punch through my anger and shift out of it."
+    "key_sentence": "I perceive you to be in anger.",
+    "text_trimmed": true,
+    "original_text": "Then finally she said, 'I perceive you to be in anger.' So it's an I statement and it's simply what she's perceiving. There's no judgment. That was able to punch through my anger and then I woke up and went, oh, and then I stopped and just didn't act until I was able to shift out of anger.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "perceive",
+        "definition": "To become aware of or interpret something through the senses or the mind.",
+        "businessContext": "In business settings, 'perceive' often refers to how stakeholders interpret market trends, customer feedback, or employee sentiments, which can influence decision-making.",
+        "nuance": "While 'perceive' suggests a subjective interpretation, it is important to differentiate it from objective facts, especially in analytical discussions.",
+        "synonyms": [
+          "discern",
+          "recognize"
+        ],
+        "antonyms": [
+          "ignore",
+          "overlook"
+        ]
+      },
+      {
+        "word": "feedback",
+        "definition": "Information or criticism about a person's performance or a product's effectiveness, intended to guide future improvements.",
+        "businessContext": "In a corporate environment, feedback is crucial for employee development, product enhancement, and customer satisfaction, often gathered through surveys or performance reviews.",
+        "nuance": "Feedback can be positive or negative, but it is most effective when constructive, aiming to foster growth rather than simply criticize.",
+        "synonyms": [
+          "input",
+          "response"
+        ],
+        "antonyms": [
+          "silence",
+          "neglect"
+        ]
+      },
+      {
+        "word": "iterated",
+        "definition": "Repeated or performed multiple times, often to refine or improve a process or product.",
+        "businessContext": "In tech and startup environments, 'iterated' is commonly used to describe the process of developing software or products through successive versions based on user testing and feedback.",
+        "nuance": "The term implies a cycle of continuous improvement, which is essential in agile methodologies, but may not apply to all types of projects.",
+        "synonyms": [
+          "repeated",
+          "reiterated"
+        ],
+        "antonyms": [
+          "single",
+          "unique"
+        ]
+      },
+      {
+        "word": "judgment",
+        "definition": "The ability to make considered decisions or come to sensible conclusions, often involving evaluation of situations or people.",
+        "businessContext": "In business, judgment is critical for leaders when assessing risks, making strategic decisions, and evaluating employee performance.",
+        "nuance": "While 'judgment' can imply a thoughtful decision-making process, it can also carry a negative connotation if perceived as bias or unfairness.",
+        "synonyms": [
+          "assessment",
+          "evaluation"
+        ],
+        "antonyms": [
+          "indecision",
+          "confusion"
+        ]
+      }
+    ]
   },
   {
-    "text": "What I do is I become their agent and I say, 'I want to help you discover what it is that your ideal role is, and I want to help you create it or land it.' I did that with him. I'm talking about active, and it doesn't take long. Maybe one to two hours of my time reaching out to people I know saying, 'Hey, I've got this great person.'",
+    "text": "What I do is I become their agent and I say, 'I want to help you discover what it is that your ideal role is, and I want to help you create it or land it.' I did that with him.",
     "speaker": "Matt Mochary",
     "timestamp": "00:26:50",
     "context": "Lenny asks about developing the skill of firing people effectively. Matt explains his approach of becoming an 'agent' for people he lets go - actively helping them find their next opportunity rather than just offering passive references. He emphasizes the difference between passive support (offering references if asked) versus active advocacy (proactively reaching out to contacts on their behalf), comparing it to how talent agents like Michael Ovitz work for their clients.",
     "vocabulary_highlights": [
-      "become their agent",
-      "land it",
-      "that's bullshit, that's passive"
+      "discover",
+      "create",
+      "land",
+      "opportunity"
     ],
     "topics": [
       "Leadership & Management",
@@ -94,7 +283,68 @@
     "text_ko": "제가 하는 일은 그분들의 에이전트(agent)가 돼서 \"당신의 이상적인 역할(ideal role)이 무엇인지 찾아드리고, 그 역할을 만들어 내거나 그 자리를 얻을 수 있게 도와드리고 싶어요\"라고 말하는 거예요. 그분에게도 그렇게 도와드렸고요. 제가 말하는 건 적극적인 접근(active approach)인데, 오래 걸리지 않아요. 제가 아는 사람들한테 연락해서 \"이 사람 정말 괜찮아요\"라고 소개하는 데 제 시간 한두 시간 정도면 충분해요.",
     "text_zh": "我就是当他们的代理人，我会跟他们说：\"我想帮你找到你理想的工作是什么样的，然后帮你争取到或者创造出这个机会。\" 我就是这么帮他的。我说的是主动出击，其实也花不了多长时间，可能就花我一两个小时，联系我认识的人，跟他们说：\"嘿，我这儿有个特别棒的人。\"",
     "text_es": "Lo que hago es convertirme en su agente y les digo: \"Quiero ayudarte a descubrir cuál es tu puesto ideal, y quiero ayudarte a crearlo o conseguirlo.\" Eso fue lo que hice con él. Hablo de ser proactivo, y no lleva mucho tiempo. Quizás una o dos horas de mi tiempo contactando gente que conozco y diciéndoles: \"Oye, tengo a esta persona buenísima.\"",
-    "key_sentence": "I become their agent to help them land it actively."
+    "key_sentence": "I become their agent to help them land it actively.",
+    "text_trimmed": true,
+    "original_text": "What I do is I become their agent and I say, 'I want to help you discover what it is that your ideal role is, and I want to help you create it or land it.' I did that with him. I'm talking about active, and it doesn't take long. Maybe one to two hours of my time reaching out to people I know saying, 'Hey, I've got this great person.'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "discover",
+        "definition": "To find out something new or to uncover information that was previously unknown.",
+        "businessContext": "In business, discovering insights about market trends, customer preferences, or innovative solutions is crucial for strategic planning and competitive advantage.",
+        "nuance": "While 'discover' implies a sense of exploration, it is often used in contexts where the information is not readily available or is hidden.",
+        "synonyms": [
+          "uncover",
+          "identify"
+        ],
+        "antonyms": [
+          "overlook",
+          "ignore"
+        ]
+      },
+      {
+        "word": "create",
+        "definition": "To bring something into existence or to produce something new through imaginative skill or effort.",
+        "businessContext": "In the business world, creating new products, services, or strategies is essential for growth and innovation.",
+        "nuance": "The term 'create' often carries a positive connotation, suggesting originality and value addition, and is typically used in contexts involving innovation.",
+        "synonyms": [
+          "develop",
+          "generate"
+        ],
+        "antonyms": [
+          "destroy",
+          "eliminate"
+        ]
+      },
+      {
+        "word": "land",
+        "definition": "To successfully secure or obtain something, particularly in a competitive context.",
+        "businessContext": "In business, to 'land' a deal or a client means to successfully close a negotiation or agreement, often after a competitive bidding process.",
+        "nuance": "The term 'land' is often used informally and can imply a sense of achievement or victory in securing a desired outcome.",
+        "synonyms": [
+          "secure",
+          "acquire"
+        ],
+        "antonyms": [
+          "lose",
+          "miss"
+        ]
+      },
+      {
+        "word": "opportunity",
+        "definition": "A favorable circumstance or situation that presents a chance for advancement or progress.",
+        "businessContext": "Identifying and capitalizing on opportunities is a key aspect of strategic business planning and entrepreneurship.",
+        "nuance": "The word 'opportunity' often conveys a sense of potential and possibility, and is typically used in contexts where proactive action can lead to positive outcomes.",
+        "synonyms": [
+          "chance",
+          "prospect"
+        ],
+        "antonyms": [
+          "obstacle",
+          "hindrance"
+        ]
+      }
+    ]
   },
   {
     "text": "She separates the decision from the implementation, meaning she thinks about who is the stakeholder here that I'm solving for? And almost always in a company, you're solving for the customer. So, what would the customer want to see happen? That's the decision.",
@@ -102,7 +352,10 @@
     "timestamp": "00:24:03",
     "context": "Lenny asks about why managers struggle with firing people. Matt shares a framework from Wei Deng, CEO of Clipboard Health, about separating decisions from implementation. The decision should be based on what's best for the primary stakeholder (usually the customer), while implementation focuses on how to minimize harm to all affected parties. This helps managers overcome emotional barriers to necessary but difficult personnel decisions.",
     "vocabulary_highlights": [
-      "separates the decision from the implementation"
+      "stakeholder",
+      "implementation",
+      "framework",
+      "decision"
     ],
     "topics": [
       "Decision Making",
@@ -117,17 +370,76 @@
     "text_ko": "그녀는 결정(decision)과 실행(implementation)을 분리해요. 즉, \"내가 해결하려는 이해관계자(stakeholder)가 누구지?\"를 먼저 생각해요. 그리고 회사에서는 거의 항상 고객(customer)을 기준으로 해요. 그래서 고객이 어떤 결과를 보고 싶어할지를 생각하는 게 바로 결정이에요.",
     "text_zh": "她把决策和执行分开来看，就是说她会想，这里的利益相关方(stakeholder)到底是谁？我到底在为谁解决问题？在公司里，十有八九你都是在为客户解决问题。所以客户希望看到什么结果？这就是决策的关键。",
     "text_es": "Ella separa la decisión de la ejecución, o sea, se pregunta ¿quién es realmente el stakeholder aquí para el que estoy resolviendo esto? Y casi siempre en una empresa, estás resolviendo para el cliente. Entonces, ¿qué querría ver el cliente que pase? Esa es la decisión.",
-    "key_sentence": "She separates the decision from the implementation for the customer."
+    "key_sentence": "She separates the decision from the implementation for the customer.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "stakeholder",
+        "definition": "A stakeholder is an individual or group that has an interest in or is affected by the outcome of a project or decision.",
+        "businessContext": "In business settings, stakeholders can include employees, customers, investors, suppliers, and the community, all of whom may influence or be influenced by a company's actions.",
+        "nuance": "The term often implies a level of involvement or investment in the project's success, and it is important to identify stakeholders early in the decision-making process.",
+        "synonyms": [
+          "interested party",
+          "shareholder"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "implementation",
+        "definition": "Implementation refers to the process of putting a plan or decision into effect, involving the execution of specific tasks and activities.",
+        "businessContext": "In a business context, effective implementation is crucial for achieving strategic goals and often requires coordination across various departments and resources.",
+        "nuance": "The term can carry a connotation of practicality and execution, as opposed to merely planning or strategizing.",
+        "synonyms": [
+          "execution",
+          "enactment"
+        ],
+        "antonyms": [
+          "abandonment",
+          "neglect"
+        ]
+      },
+      {
+        "word": "framework",
+        "definition": "A framework is a structured approach or system that provides a foundation for understanding, analyzing, or addressing a particular issue or project.",
+        "businessContext": "In business and technology, frameworks are often used to guide decision-making, project management, or software development, ensuring consistency and efficiency.",
+        "nuance": "The term suggests a level of flexibility within a defined structure, allowing for adaptation while maintaining core principles.",
+        "synonyms": [
+          "structure",
+          "system"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "decision",
+        "definition": "A decision is a conclusion or resolution reached after consideration, often involving a choice between alternatives.",
+        "businessContext": "In business, decisions can range from strategic choices made by executives to operational decisions made by managers, impacting the direction and success of the organization.",
+        "nuance": "The term implies a level of deliberation and thoughtfulness, as opposed to impulsive or arbitrary choices.",
+        "synonyms": [
+          "resolution",
+          "conclusion"
+        ],
+        "antonyms": [
+          "indecision",
+          "hesitation"
+        ]
+      }
+    ]
   },
   {
-    "text": "It has to have a founder mentality person as the head of the team, someone who's willing to just break glass and just won't stop until they run through the brick wall. It's actually pretty easy to find founder mentality folks. You just literally go to the YC alumni list and the ones whose startups failed, perfect, they're available.",
+    "text": "It has to have a founder mentality person as the head of the team, someone who's willing to just break glass and just won't stop until they run through the brick wall. It's actually pretty easy to find founder mentality folks.",
     "speaker": "Matt Mochary",
     "timestamp": "00:54:30",
     "context": "Lenny asks about Matt's advice for innovating within larger companies. Matt explains his method of creating internal startup teams that operate like YC companies. He describes the type of leader needed - someone with 'founder mentality' who will persist through obstacles. He suggests recruiting from failed YC startups since these people have the right mindset but now want the stability of working within an established company.",
     "vocabulary_highlights": [
       "founder mentality",
       "break glass",
-      "run through the brick wall"
+      "innovating"
     ],
     "topics": [
       "Leadership & Management",
@@ -143,16 +455,65 @@
     "text_ko": "팀장은 창업가 마인드(founder mentality)를 가진 사람이어야 해요. 유리창을 깨서라도 밀어붙이고, 벽을 뚫을 때까지 절대 멈추지 않는 사람이어야 해요. 사실 그런 사람 찾는 건 의외로 쉬워요. 그냥 YC 동문 목록(Y Combinator alumni list)만 보면 돼요 — 스타트업이 실패한 사람들, 완벽해요. 구할 수 있어요.",
     "text_zh": "团队负责人必须得有创始人心态(founder mentality)，就是那种敢拼敢闯、撞了南墙也不回头的人。其实找这种有创始人心态的人挺容易的，你直接去看YC孵化器的校友名单，那些创业失败的，完美，他们现在正好有空。",
     "text_es": "Tiene que haber una persona con mentalidad de fundador al frente del equipo, alguien que esté dispuesto a romper todo lo que haga falta y que no pare hasta tirar la pared de un cabezazo. En realidad es bastante fácil encontrar gente con mentalidad de fundador. Literalmente vas a la lista de ex-alumnos de YC y los que tuvieron startups que no funcionaron, perfecto, están disponibles.",
-    "key_sentence": "A founder mentality person will break glass and run through the brick wall."
+    "key_sentence": "A founder mentality person will break glass and run through the brick wall.",
+    "text_trimmed": true,
+    "original_text": "It has to have a founder mentality person as the head of the team, someone who's willing to just break glass and just won't stop until they run through the brick wall. It's actually pretty easy to find founder mentality folks. You just literally go to the YC alumni list and the ones whose startups failed, perfect, they're available.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "founder mentality",
+        "definition": "A mindset characterized by a strong sense of ownership, innovation, and a relentless drive to achieve goals, often associated with entrepreneurs who start their own companies.",
+        "businessContext": "In business, particularly in startups, a founder mentality is crucial for leaders to inspire teams, drive innovation, and navigate challenges with resilience.",
+        "nuance": "This term often implies a proactive and risk-taking approach, which may not always align with more conservative management styles.",
+        "synonyms": [
+          "entrepreneurial spirit",
+          "ownership mindset"
+        ],
+        "antonyms": [
+          "follower mentality",
+          "complacency"
+        ]
+      },
+      {
+        "word": "break glass",
+        "definition": "To take drastic or unconventional action in response to an urgent situation, often implying a willingness to disrupt the status quo.",
+        "businessContext": "In a business context, breaking glass may refer to making bold decisions or implementing emergency measures to overcome significant obstacles or crises.",
+        "nuance": "This phrase can carry a sense of urgency and desperation, so it should be used carefully to avoid implying recklessness.",
+        "synonyms": [
+          "take drastic measures",
+          "act decisively"
+        ],
+        "antonyms": [
+          "play it safe",
+          "hesitate"
+        ]
+      },
+      {
+        "word": "innovating",
+        "definition": "The process of introducing new ideas, products, or methods to improve efficiency, effectiveness, or value in a given context.",
+        "businessContext": "In the business and tech sectors, innovating is essential for maintaining competitive advantage and meeting evolving customer needs.",
+        "nuance": "While innovating often has positive connotations, it can also imply a departure from traditional practices, which may not always be welcomed by all stakeholders.",
+        "synonyms": [
+          "creating",
+          "developing"
+        ],
+        "antonyms": [
+          "stagnating",
+          "imitation"
+        ]
+      }
+    ]
   },
   {
-    "text": "The key is to go and look at your day. How do you move into the zone of genius? It's not that you figure out what it is and do more of that, it's that you figure out what it isn't and eliminate that and then naturally, you'll be drawn toward what it is that you love.",
+    "text": "The key is to go and look at your day. How do you move into the zone of genius?",
     "speaker": "Matt Mochary",
     "timestamp": "01:03:45",
     "context": "Lenny asks about the energy audit concept that Matt teaches. Matt explains the four zones of work (incompetence, competence, excellence, and genius) and how to identify your zone of genius - work that you're uniquely good at and love doing. He emphasizes that the key to finding your zone of genius isn't adding more activities, but systematically eliminating energy-draining work that falls outside this zone.",
     "vocabulary_highlights": [
       "zone of genius",
-      "naturally, you'll be drawn toward"
+      "energy audit",
+      "identify",
+      "competence"
     ],
     "topics": [
       "Career Development",
@@ -167,6 +528,67 @@
     "text_ko": "핵심은 하루를 직접 들여다보는 거예요. 어떻게 지니어스 존(zone of genius)에 들어가냐고요? 그게 뭔지 찾아서 더 하려고 애쓰기보다, 무엇이 아닌지를 찾아서 제거하는 거예요. 그러면 자연스럽게 좋아하고 잘하는 쪽으로 끌리게 돼요.",
     "text_zh": "关键是要回头看看你的日常工作。怎么才能进入你的天才区域(zone of genius)呢？不是说你要先搞清楚什么是你的强项然后多做这些，而是要先找出什么不是你的强项，把这些都砍掉，这样你自然就会被吸引到你真正热爱的事情上去。",
     "text_es": "Lo clave es que te pongas a analizar tu día a día. ¿Cómo llegas a esa zona de genialidad? No se trata de que descubras qué es lo tuyo y hagas más de eso, sino de que identifiques qué NO es lo tuyo y lo elimines, y entonces de forma natural te vas a ir inclinando hacia lo que realmente te apasiona.",
-    "key_sentence": "Eliminate what isn't in your zone of genius to be naturally drawn toward it."
+    "key_sentence": "How do you move into the zone of genius?",
+    "text_trimmed": true,
+    "original_text": "The key is to go and look at your day. How do you move into the zone of genius? It's not that you figure out what it is and do more of that, it's that you figure out what it isn't and eliminate that and then naturally, you'll be drawn toward what it is that you love.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "zone of genius",
+        "definition": "The zone of genius refers to the area in which an individual excels naturally, utilizing their unique talents and skills to achieve optimal performance and satisfaction.",
+        "businessContext": "In business and startup environments, identifying one's zone of genius can lead to enhanced productivity and innovation, as individuals focus on tasks that align with their strengths.",
+        "nuance": "This term is often used in coaching and personal development contexts to encourage individuals to pursue work that is both fulfilling and impactful.",
+        "synonyms": [
+          "area of expertise",
+          "strength zone"
+        ],
+        "antonyms": [
+          "zone of incompetence",
+          "N/A"
+        ]
+      },
+      {
+        "word": "energy audit",
+        "definition": "An energy audit is a systematic assessment of energy use in a facility or organization, aimed at identifying opportunities for efficiency improvements and cost savings.",
+        "businessContext": "In corporate settings, conducting an energy audit can help businesses reduce operational costs and enhance sustainability efforts by pinpointing areas where energy consumption can be minimized.",
+        "nuance": "While primarily associated with physical energy consumption, the term can also metaphorically apply to evaluating personal or team productivity levels.",
+        "synonyms": [
+          "energy assessment",
+          "energy evaluation"
+        ],
+        "antonyms": [
+          "energy waste",
+          "N/A"
+        ]
+      },
+      {
+        "word": "identify",
+        "definition": "To identify means to recognize or establish the identity of something or someone, often through analysis or observation.",
+        "businessContext": "In business, identifying key market trends, customer needs, or operational inefficiencies is crucial for strategic planning and decision-making.",
+        "nuance": "This term is frequently used in contexts where clarity and precision are required, such as in research or analysis.",
+        "synonyms": [
+          "recognize",
+          "determine"
+        ],
+        "antonyms": [
+          "ignore",
+          "overlook"
+        ]
+      },
+      {
+        "word": "competence",
+        "definition": "Competence refers to the ability to perform a task effectively and efficiently, often measured by skills, knowledge, and experience.",
+        "businessContext": "In the workplace, assessing employee competence is vital for ensuring that team members are well-suited for their roles and can contribute to organizational goals.",
+        "nuance": "While competence implies a certain level of proficiency, it may not always encompass creativity or innovation, which are also valuable in many business contexts.",
+        "synonyms": [
+          "capability",
+          "proficiency"
+        ],
+        "antonyms": [
+          "incompetence",
+          "ineptitude"
+        ]
+      }
+    ]
   }
 ]

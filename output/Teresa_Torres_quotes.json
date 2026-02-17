@@ -5,8 +5,10 @@
     "timestamp": "05:51",
     "context": "Lenny asks Teresa to explain the opportunity solution tree framework and what problem it solves for product teams. Teresa begins by describing the framework as a visual tree structure that starts with an outcome and branches into opportunities and solutions. She emphasizes that while the framework appears deceptively simple, implementing it effectively requires significant skill and deep thinking.",
     "vocabulary_highlights": [
-      "new appreciation for",
-      "over and over again"
+      "appreciation",
+      "complex",
+      "framework",
+      "visual"
     ],
     "topics": [
       "Product Management",
@@ -21,16 +23,77 @@
     "text_ko": "먼저, 보기에는 정말 단순한 비주얼이에요. 이렇게 단순해 보이는 게 신기한데, 실제로 현장에서 써보면 훨씬 복잡해요. 계속 반복해서 가르치다 보니 사람들이 어디서 어려워하는지 보이더라고요, 그래서 그 복잡함을 새삼 더 인정하게 됐어요.",
     "text_zh": "首先吧，这个图表看起来特别简单。挺有意思的是，看着简单，但真正用起来其实挺复杂的。我现在是真的体会到了这一点，因为我反复教了好多次，也看到大家都在哪些地方容易卡住。",
     "text_es": "Bueno, antes que nada, es una imagen súper sencilla. Es curioso lo simple que se ve, porque cuando lo pones en práctica es realmente complejo. Definitivamente ahora lo valoro más, después de intentar enseñarlo una y otra vez y ver dónde se traba la gente.",
-    "key_sentence": "I have a new appreciation for its complexity, teaching it over and over again."
+    "key_sentence": "I have a new appreciation for its complexity, teaching it over and over again.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "appreciation",
+        "definition": "The recognition and enjoyment of the good qualities of someone or something; a feeling of gratitude or thankfulness.",
+        "businessContext": "In business, appreciation can refer to recognizing the value of employees' contributions or the importance of customer feedback in improving products and services.",
+        "nuance": "While appreciation often implies a positive acknowledgment, it can also suggest a deeper understanding of complexities involved in a situation or process.",
+        "synonyms": [
+          "gratitude",
+          "recognition"
+        ],
+        "antonyms": [
+          "disregard",
+          "indifference"
+        ]
+      },
+      {
+        "word": "complex",
+        "definition": "Consisting of many different and connected parts; not simple or straightforward.",
+        "businessContext": "In a business or tech environment, complex systems or processes may require advanced understanding and problem-solving skills to navigate effectively.",
+        "nuance": "The term 'complex' often carries a connotation of difficulty and may imply that a solution requires significant effort or expertise.",
+        "synonyms": [
+          "complicated",
+          "intricate"
+        ],
+        "antonyms": [
+          "simple",
+          "straightforward"
+        ]
+      },
+      {
+        "word": "framework",
+        "definition": "A basic structure underlying a system, concept, or text; a set of guidelines or principles that shape the development of something.",
+        "businessContext": "Frameworks in business can refer to strategic models that guide decision-making, project management, or product development, providing a structured approach to achieving goals.",
+        "nuance": "While frameworks offer structure, they can also imply flexibility, allowing for adaptation and customization based on specific needs or contexts.",
+        "synonyms": [
+          "structure",
+          "system"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "visual",
+        "definition": "Relating to seeing or sight; designed to be seen, often involving images or graphics.",
+        "businessContext": "In business presentations and marketing, visual elements are crucial for effectively communicating ideas and engaging audiences, often enhancing understanding and retention.",
+        "nuance": "The term 'visual' can imply creativity and innovation, but it may also suggest a reliance on imagery that could oversimplify complex information.",
+        "synonyms": [
+          "graphic",
+          "pictorial"
+        ],
+        "antonyms": [
+          "verbal",
+          "auditory"
+        ]
+      }
+    ]
   },
   {
-    "text": "But it's the opposite of how our brains are wired. And so, teaching people to be comfortable with that discomfort of staying there is hard. I mean I see blog posts written about how they're using the opportunity solution tree, and I cry a little bit because their opportunity space is all solutions.",
+    "text": "But it's the opposite of how our brains are wired. And so, teaching people to be comfortable with that discomfort of staying there is hard.",
     "speaker": "Teresa Torres",
     "timestamp": "07:26",
     "context": "Teresa explains why the opportunity solution tree framework is challenging to implement correctly. She discusses how product teams struggle to distinguish between problems (opportunities) and solutions, with 98% of people incorrectly writing opportunities as solutions. The core difficulty is that humans naturally want to jump to solutions rather than spend time properly understanding and framing problems.",
     "vocabulary_highlights": [
-      "opposite of how our brains are wired",
-      "cry a little bit"
+      "framework",
+      "distinguish",
+      "opportunity",
+      "discomfort"
     ],
     "topics": [
       "Product Management",
@@ -45,18 +108,79 @@
     "text_ko": "근데 그건 우리 뇌가 작동하는 방식과 정반대예요. 그래서 사람들에게 그 불편함을 안고 거기에 머무르는 데 익숙해지라고 가르치는 건 어렵습니다. 제 말은, 기회-솔루션 트리(opportunity solution tree)를 사용한다고 올린 블로그 포스트들을 보면 좀 울컥해요. 그들이 정의한 기회 영역(opportunity space)은 전부 솔루션뿐이거든요.",
     "text_zh": "但这跟我们大脑的天然反应是反着来的。所以要教会大家适应这种不舒服、让他们能待在这个状态里，真的挺难的。我经常看到一些博客文章写他们怎么用机会解决方案树(opportunity solution tree)，看完我都想哭，因为他们的机会空间(opportunity space)里全是解决方案。",
     "text_es": "Pero es justo lo contrario a como funciona nuestro cerebro. Y entonces, enseñarle a la gente a sentirse cómoda con esa incomodidad de quedarse ahí es súper difícil. O sea, veo posts de blog sobre cómo están usando el árbol de oportunidades y soluciones (opportunity solution tree), y me da como una pena tremenda porque su espacio de oportunidades está lleno puras soluciones.",
-    "key_sentence": "Teaching comfort with discomfort is the opposite of how our brains are wired."
+    "key_sentence": "Teaching comfort with discomfort is the opposite of how our brains are wired.",
+    "text_trimmed": true,
+    "original_text": "But it's the opposite of how our brains are wired. And so, teaching people to be comfortable with that discomfort of staying there is hard. I mean I see blog posts written about how they're using the opportunity solution tree, and I cry a little bit because their opportunity space is all solutions.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "framework",
+        "definition": "A framework is a structured approach or system that provides a foundation for understanding or addressing a particular issue or concept.",
+        "businessContext": "In business and technology, frameworks are often used to guide project development, decision-making processes, or strategic planning, ensuring consistency and efficiency.",
+        "nuance": "While 'framework' implies a supportive structure, it can also suggest rigidity; therefore, it is important to use it in contexts where a balance between structure and flexibility is needed.",
+        "synonyms": [
+          "structure",
+          "system"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "distinguish",
+        "definition": "To distinguish means to recognize or point out the differences between two or more items or concepts.",
+        "businessContext": "In a business setting, distinguishing between competitors, products, or market segments is crucial for effective strategy formulation and targeted marketing.",
+        "nuance": "The term carries a connotation of clarity and precision; it is best used when emphasizing the importance of differentiation in analysis or communication.",
+        "synonyms": [
+          "differentiate",
+          "discern"
+        ],
+        "antonyms": [
+          "confuse",
+          "mix up"
+        ]
+      },
+      {
+        "word": "opportunity",
+        "definition": "An opportunity is a favorable circumstance or situation that presents a chance for advancement or improvement.",
+        "businessContext": "In business, identifying opportunities is essential for growth, innovation, and competitive advantage, often leading to new ventures or market expansions.",
+        "nuance": "While 'opportunity' generally has a positive connotation, it can also imply risk; thus, it is important to assess the potential outcomes before pursuing an opportunity.",
+        "synonyms": [
+          "chance",
+          "prospect"
+        ],
+        "antonyms": [
+          "obstacle",
+          "hindrance"
+        ]
+      },
+      {
+        "word": "discomfort",
+        "definition": "Discomfort refers to a state of unease or lack of comfort, often associated with physical or emotional distress.",
+        "businessContext": "In the context of business, discomfort can arise during change management processes, requiring leaders to help employees navigate through uncertainty and resistance.",
+        "nuance": "The term often implies a necessary but unpleasant experience; it is useful in discussions about growth, resilience, and adaptation in challenging situations.",
+        "synonyms": [
+          "unease",
+          "discontent"
+        ],
+        "antonyms": [
+          "comfort",
+          "ease"
+        ]
+      }
+    ]
   },
   {
-    "text": "The challenge with that is we know from human psychology and cognitive psychology that we're not very good at answering those questions out of context. Actually, that sounds weird. We're very good at answering them. Your brain will come up with a fast answer, but that answer doesn't necessarily reflect your behavior, and it misses context and nuance.",
+    "text": "The challenge with that is we know from human psychology and cognitive psychology that we're not very good at answering those questions out of context. Actually, that sounds weird. We're very good at answering them.",
     "speaker": "Teresa Torres",
     "timestamp": "14:43",
     "context": "Teresa explains why traditional interviewing approaches fail when trying to understand customer opportunities. She contrasts asking direct questions like 'What do you like to watch on Netflix?' with collecting specific stories about recent experiences. The key insight is that while people readily provide answers to direct questions, these responses often don't accurately reflect their actual behavior because they lack the context and nuance of real situations.",
     "vocabulary_highlights": [
-      "out of context",
-      "fast answer",
-      "reflect your behavior",
-      "context and nuance"
+      "cognitive psychology",
+      "context",
+      "traditional",
+      "opportunities"
     ],
     "topics": [
       "Product Management",
@@ -71,7 +195,68 @@
     "text_ko": "문제는 인간심리학(human psychology)과 인지심리학(cognitive psychology)에서 알다시피 그런 질문을 맥락 없이는 잘 답하지 못한다는 거예요. 사실 이렇게 말하면 이상하게 들리죠. 우리는 그런 질문에는 오히려 아주 빠르게 답을 내놓아요. 그런데 그 빠른 답이 꼭 실제 행동을 반영하는 건 아니고, 맥락과 뉘앙스(nuance)를 놓쳐요.",
     "text_zh": "这里的问题是，从人类心理学和认知心理学的角度来看，我们其实不太擅长脱离具体情境来回答这类问题。其实这么说有点奇怪，我们确实很会回答——你的大脑会很快给出一个答案，但这个答案不一定能反映你真正的行为，而且会忽略掉具体的情境和细节。",
     "text_es": "El problema con eso es que sabemos por la psicología humana y cognitiva que no somos muy buenos respondiendo esas preguntas sin contexto. Bueno, en realidad suena raro decirlo así. Sí somos muy buenos respondiéndolas. Tu cerebro te da una respuesta rápida, pero esa respuesta no necesariamente refleja tu comportamiento real, y se pierde el contexto y los matices.",
-    "key_sentence": "Fast answers out of context don't reflect your behavior and miss context and nuance."
+    "key_sentence": "we're not very good at answering those questions out of context.",
+    "text_trimmed": true,
+    "original_text": "The challenge with that is we know from human psychology and cognitive psychology that we're not very good at answering those questions out of context. Actually, that sounds weird. We're very good at answering them. Your brain will come up with a fast answer, but that answer doesn't necessarily reflect your behavior, and it misses context and nuance.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "cognitive psychology",
+        "definition": "Cognitive psychology is the branch of psychology that studies mental processes such as perception, memory, reasoning, and decision-making. It focuses on how people understand, think, and remember information.",
+        "businessContext": "In business and technology, cognitive psychology informs user experience design, marketing strategies, and decision-making processes by understanding how consumers think and behave.",
+        "nuance": "This term is often used in discussions about user behavior and product design, but may not be familiar to those outside of psychological or academic fields.",
+        "synonyms": [
+          "cognitive science",
+          "behavioral psychology"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "context",
+        "definition": "Context refers to the circumstances or setting surrounding an event, statement, or idea that helps to clarify its meaning. It is essential for understanding the nuances of communication and behavior.",
+        "businessContext": "In business, context is crucial for interpreting data, making informed decisions, and understanding customer feedback, as it provides the background necessary for effective analysis.",
+        "nuance": "While context is often implied in discussions, explicitly stating it can enhance clarity and understanding, particularly in complex or ambiguous situations.",
+        "synonyms": [
+          "framework",
+          "background"
+        ],
+        "antonyms": [
+          "isolation",
+          "disregard"
+        ]
+      },
+      {
+        "word": "traditional",
+        "definition": "Traditional refers to customs, practices, or beliefs that have been passed down through generations and are often seen as established or conventional. It implies a resistance to change or innovation.",
+        "businessContext": "In a business setting, traditional methods may refer to established practices in management, marketing, or operations that contrast with modern or innovative approaches.",
+        "nuance": "While 'traditional' can carry a positive connotation of reliability, it may also suggest stagnation or a lack of adaptability in rapidly changing markets.",
+        "synonyms": [
+          "conventional",
+          "classical"
+        ],
+        "antonyms": [
+          "innovative",
+          "modern"
+        ]
+      },
+      {
+        "word": "opportunities",
+        "definition": "Opportunities are favorable circumstances or situations that present a chance for advancement, growth, or profit. They can arise from market trends, consumer needs, or technological advancements.",
+        "businessContext": "In business, identifying opportunities is critical for strategic planning, market expansion, and competitive advantage, as they can lead to new ventures or improvements in existing operations.",
+        "nuance": "The term 'opportunities' often carries a positive connotation, but it is important to assess the risks and challenges associated with pursuing them.",
+        "synonyms": [
+          "prospects",
+          "possibilities"
+        ],
+        "antonyms": [
+          "challenges",
+          "obstacles"
+        ]
+      }
+    ]
   },
   {
     "text": "So there's a lot of skill involved. I wish I could just say, 'Hey, Lenny. It's super easy. Everybody should do it. I think it's really powerful, and I've seen it be a game-changer for teams. It's hard.",
@@ -80,7 +265,9 @@
     "context": "Teresa responds to Lenny's question about how product managers can create their own opportunity solution trees. She explains that the process requires multiple complex skills: interviewing well to collect customer stories, being able to identify opportunities versus solutions, framing opportunities specifically, and structuring the opportunity space using experience maps. Despite the difficulty, she emphasizes that teams willing to invest in developing these skills see transformational results.",
     "vocabulary_highlights": [
       "game-changer",
-      "skill involved"
+      "powerful",
+      "complex",
+      "skill"
     ],
     "topics": [
       "Product Management",
@@ -95,16 +282,77 @@
     "text_ko": "그래서 많은 기술이 필요해요. 그냥 \"레니, 정말 쉬워요. 누구나 해야 해요. 저는 이게 정말 강력하다고 생각하고 팀들에게는 판도를 바꿔놓는(game-changer) 경우도 봤어요.\"라고 말할 수 있으면 좋겠어요. 그런데 어려워요.",
     "text_zh": "这里面有很多技巧。我真希望能直接跟你说，\"嘿，Lenny，这超简单的，人人都能做。\"但实际上这真的很有用，我见过它彻底改变团队的表现。只是确实不容易。",
     "text_es": "Entonces sí requiere mucha habilidad. Ojalá pudiera simplemente decir, 'Oye, Lenny. Es súper fácil. Todo el mundo debería hacerlo.' Creo que es realmente poderoso, y he visto que puede cambiar completamente la dinámica de los equipos (game-changer). Pero es difícil.",
-    "key_sentence": "It's a game-changer, but there's a lot of skill involved."
+    "key_sentence": "It's a game-changer, but there's a lot of skill involved.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "game-changer",
+        "definition": "A game-changer is a person, idea, or event that significantly alters the existing state of affairs or creates a new paradigm.",
+        "businessContext": "In business and technology, a game-changer often refers to an innovation or strategy that disrupts the market and provides a competitive advantage.",
+        "nuance": "This term carries a positive connotation and is often used to highlight breakthroughs that lead to substantial improvements or transformations.",
+        "synonyms": [
+          "revolutionary",
+          "disruptor"
+        ],
+        "antonyms": [
+          "status quo",
+          "N/A"
+        ]
+      },
+      {
+        "word": "powerful",
+        "definition": "Powerful describes something that has great strength, influence, or effectiveness.",
+        "businessContext": "In a business context, powerful can refer to a product, strategy, or leader that has a significant impact on performance or market dynamics.",
+        "nuance": "While often used positively, it can also imply overwhelming force or control, depending on the context.",
+        "synonyms": [
+          "influential",
+          "potent"
+        ],
+        "antonyms": [
+          "weak",
+          "ineffective"
+        ]
+      },
+      {
+        "word": "complex",
+        "definition": "Complex refers to something that consists of many interconnected parts, making it intricate and challenging to understand or analyze.",
+        "businessContext": "In business, complex systems or processes require careful management and often involve multiple stakeholders or variables.",
+        "nuance": "This term can imply difficulty and may suggest that simplicity is preferable in certain situations.",
+        "synonyms": [
+          "complicated",
+          "intricate"
+        ],
+        "antonyms": [
+          "simple",
+          "straightforward"
+        ]
+      },
+      {
+        "word": "skill",
+        "definition": "Skill is the ability to perform tasks and solve problems effectively, often acquired through training and experience.",
+        "businessContext": "In the workplace, skills are critical for employee performance and are often a focus in hiring, training, and development initiatives.",
+        "nuance": "While 'skill' generally has a positive connotation, it can also imply a need for continuous improvement and learning.",
+        "synonyms": [
+          "expertise",
+          "proficiency"
+        ],
+        "antonyms": [
+          "incompetence",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "I tell my teams when I teach it in class, I say, 'Look, we're going to focus on structuring an opportunity space, and I'm probably going to make you think harder than you've ever had to think in your job,' because we don't think that much at work. We go from meeting to meeting, we stay surface level a lot, and here I am coming in with this really hard critical thinking exercise.",
+    "text": "we're going to focus on structuring an opportunity space, and I'm probably going to make you think harder than you've ever had to think in your job.",
     "speaker": "Teresa Torres",
     "timestamp": "17:32",
     "context": "Teresa continues explaining the difficulty of implementing the opportunity solution tree framework effectively. She describes how the deep thinking required for structuring opportunity spaces is unlike typical work activities. Most professionals spend their days in meetings and surface-level discussions, but this framework demands intensive critical thinking and analysis to properly understand customer needs and frame problems correctly.",
     "vocabulary_highlights": [
-      "surface level",
-      "critical thinking exercise"
+      "structuring",
+      "opportunity space",
+      "implementing",
+      "deep thinking"
     ],
     "topics": [
       "Learning & Growth",
@@ -119,7 +367,68 @@
     "text_ko": "수업에서 이걸 가르칠 때 팀원들에게 이렇게 말해요. \"자, 우리는 기회 영역(opportunity space)을 구조화하는 데 집중할 거예요. 그리고 아마 여러분이 지금까지 직장에서 해본 것보다 훨씬 더 깊게 생각하게 만들 것 같아요.\" 왜냐하면 직장에서는 사실 그렇게 많이 생각하지 않거든요. 회의에서 회의로 옮겨 다니고 많은 경우 표면적인 수준에만 머무르죠. 그런데 제가 들어와서 정말 어려운 비판적 사고 연습(critical thinking exercise)을 시키는 거예요.",
     "text_zh": "我跟团队上课的时候就跟他们说：\"咱们要重点学习如何构建机会空间(opportunity space)，我可能会让你们动脑子动得比平时工作还累，\"因为咱们平时工作其实不怎么深度思考。天天开会开会的，很多时候都是浮在表面，结果我来了就给大家来了个特别烧脑的批判性思维训练。",
     "text_es": "Les digo a mis equipos cuando lo enseño en clase: \"Miren, nos vamos a enfocar en estructurar un espacio de oportunidades, y probablemente los voy a hacer pensar más fuerte de lo que han tenido que pensar en su trabajo\", porque la verdad es que no pensamos tanto en el trabajo. Vamos de junta en junta, nos quedamos muy en la superficie la mayoría del tiempo, y aquí llego yo con este ejercicio súper pesado de pensamiento crítico.",
-    "key_sentence": "We often stay surface level, avoiding critical thinking exercises at work."
+    "key_sentence": "I'm probably going to make you think harder than you've ever had to think in your job.",
+    "text_trimmed": true,
+    "original_text": "I tell my teams when I teach it in class, I say, 'Look, we're going to focus on structuring an opportunity space, and I'm probably going to make you think harder than you've ever had to think in your job,' because we don't think that much at work. We go from meeting to meeting, we stay surface level a lot, and here I am coming in with this really hard critical thinking exercise.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "structuring",
+        "definition": "The process of organizing or arranging elements in a systematic way to achieve a specific goal.",
+        "businessContext": "In business, structuring often refers to the design of processes, teams, or projects to optimize efficiency and effectiveness.",
+        "nuance": "While structuring implies a deliberate and thoughtful arrangement, it can also suggest rigidity if not balanced with flexibility.",
+        "synonyms": [
+          "organizing",
+          "arranging"
+        ],
+        "antonyms": [
+          "disorganizing",
+          "chaos"
+        ]
+      },
+      {
+        "word": "opportunity space",
+        "definition": "A conceptual area where potential business opportunities exist, often identified through market analysis and strategic planning.",
+        "businessContext": "In startups and innovation, defining an opportunity space helps teams focus their efforts on areas with the highest potential for growth and impact.",
+        "nuance": "The term suggests a proactive approach to identifying and capitalizing on market gaps, rather than merely reacting to existing conditions.",
+        "synonyms": [
+          "market opportunity",
+          "growth area"
+        ],
+        "antonyms": [
+          "market saturation",
+          "decline"
+        ]
+      },
+      {
+        "word": "implementing",
+        "definition": "The act of putting a plan, decision, or agreement into effect.",
+        "businessContext": "In business, implementing often involves executing strategies, processes, or technologies to achieve desired outcomes.",
+        "nuance": "Implementing carries a sense of action and follow-through, emphasizing the importance of execution in achieving success.",
+        "synonyms": [
+          "executing",
+          "enforcing"
+        ],
+        "antonyms": [
+          "abandoning",
+          "neglecting"
+        ]
+      },
+      {
+        "word": "deep thinking",
+        "definition": "A cognitive process that involves thorough analysis and reflection on complex issues or problems.",
+        "businessContext": "In a business context, deep thinking is essential for strategic planning, problem-solving, and innovation, requiring time and focus to explore ideas fully.",
+        "nuance": "Deep thinking implies a level of introspection and critical analysis that goes beyond surface-level considerations, often leading to more innovative solutions.",
+        "synonyms": [
+          "critical thinking",
+          "analytical thinking"
+        ],
+        "antonyms": [
+          "superficial thinking",
+          "impulsive thinking"
+        ]
+      }
+    ]
   },
   {
     "text": "So we overthink it. We think we have to go through these proper channels and we have to get permission from sales. A lot of us, especially if we work on a consumer product, just go find somebody that's like your user.",
@@ -127,8 +436,10 @@
     "timestamp": "19:14",
     "context": "Lenny asks how individual contributors can use discovery frameworks even in feature factory environments. Teresa advises focusing on changing individual work habits rather than trying to force organizational change. She addresses the common excuse that people aren't 'allowed' to talk to customers, suggesting they can start by talking to people in their personal networks who resemble their users, rather than getting caught up in formal approval processes.",
     "vocabulary_highlights": [
-      "overthink it",
-      "proper channels"
+      "proper channels",
+      "permission",
+      "consumer product",
+      "discovery frameworks"
     ],
     "topics": [
       "Product Management",
@@ -143,16 +454,77 @@
     "text_ko": "우리는 그걸 너무 복잡하게 생각해요. 정해진 절차를 밟아야 하고 영업(sales) 쪽의 허락을 받아야 한다고 생각하죠. 근데 많은 사람들, 특히 소비자용 제품(consumer product)을 다루는 사람들은 그냥 사용자(user)랑 비슷한 사람을 찾아가서 직접 얘기해봐요.",
     "text_zh": "所以我们就想多了。我们觉得必须走正规渠道，必须得到销售那边的批准。其实我们很多人，特别是做消费产品的，直接去找个跟你们用户差不多的人就行了。",
     "text_es": "Entonces le damos demasiadas vueltas. Pensamos que tenemos que seguir todos los canales oficiales y que necesitamos el visto bueno del equipo de ventas. Muchos de nosotros, sobre todo si trabajamos en un producto de consumo, simplemente vamos y buscamos a alguien que sea como nuestro usuario.",
-    "key_sentence": "We overthink it, believing we need proper channels for permission."
+    "key_sentence": "We overthink it, believing we need proper channels for permission.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "proper channels",
+        "definition": "The established procedures or protocols that are followed to ensure compliance and communication within an organization.",
+        "businessContext": "In business settings, 'proper channels' often refer to the hierarchical pathways through which information, requests, or approvals must flow to maintain order and accountability.",
+        "nuance": "Using 'proper channels' can imply a sense of formality and adherence to rules, which may be seen as bureaucratic in fast-paced environments.",
+        "synonyms": [
+          "official routes",
+          "formal procedures"
+        ],
+        "antonyms": [
+          "informal methods",
+          "unofficial pathways"
+        ]
+      },
+      {
+        "word": "permission",
+        "definition": "The approval or consent granted by an authority or individual to take a specific action or make a decision.",
+        "businessContext": "In corporate environments, obtaining 'permission' is often necessary before proceeding with projects, initiatives, or changes that may impact the organization.",
+        "nuance": "The term can carry a connotation of hierarchy, suggesting that one must seek approval from superiors, which may be viewed as stifling in innovative cultures.",
+        "synonyms": [
+          "authorization",
+          "consent"
+        ],
+        "antonyms": [
+          "prohibition",
+          "denial"
+        ]
+      },
+      {
+        "word": "consumer product",
+        "definition": "A tangible item that is produced for sale to individuals for personal use, as opposed to business or industrial use.",
+        "businessContext": "In the context of startups and businesses, 'consumer products' are often the focus of marketing and sales strategies aimed at meeting the needs and preferences of end-users.",
+        "nuance": "The term emphasizes the end-user aspect, distinguishing these products from industrial goods, and suggests a focus on usability and customer satisfaction.",
+        "synonyms": [
+          "retail product",
+          "end-user product"
+        ],
+        "antonyms": [
+          "industrial product",
+          "B2B product"
+        ]
+      },
+      {
+        "word": "discovery frameworks",
+        "definition": "Structured methodologies or processes used to identify, explore, and validate new ideas, products, or market opportunities.",
+        "businessContext": "In tech and startup environments, 'discovery frameworks' are essential for guiding teams through the ideation and validation phases of product development to ensure alignment with user needs.",
+        "nuance": "This term suggests a systematic approach to innovation, often implying that creativity is balanced with analytical rigor, which can be crucial in fast-evolving markets.",
+        "synonyms": [
+          "innovation frameworks",
+          "exploratory methodologies"
+        ],
+        "antonyms": [
+          "fixed processes",
+          "rigid structures"
+        ]
+      }
+    ]
   },
   {
-    "text": "That's not our business environment. Our businesses are expecting us to deliver continuous value, so we need to look at how do we match that cadence. What I think is really nice about continuous discovery, you can do it in as little as an interview a week, on the interviewing side, on the discovering opportunity side.",
+    "text": "That's not our business environment. Our businesses are expecting us to deliver continuous value, so we need to look at how do we match that cadence.",
     "speaker": "Teresa Torres",
     "timestamp": "23:40",
     "context": "Teresa responds to a common objection from leaders who say there's no time for discovery work. She explains that continuous discovery is designed to match the fast-paced business environment, unlike traditional project-based research methods that require stopping work to conduct lengthy studies. The key insight is that discovery can be done sustainably with just one customer interview per week, making it feasible even in time-constrained environments.",
     "vocabulary_highlights": [
-      "match that cadence",
-      "as little as"
+      "continuous value",
+      "business environment",
+      "match",
+      "cadence"
     ],
     "topics": [
       "Product Management",
@@ -167,6 +539,67 @@
     "text_ko": "그건 우리 사업 환경이 아니에요. 우리 비즈니스는 지속적인 가치(continuous value)를 제공하길 기대하니까, 그 페이스(cadence)에 어떻게 맞출지 봐야 해요. 제가 보기엔 지속적 탐색(continuous discovery)의 좋은 점은, 인터뷰 측면에서는 일주일에 인터뷰 한 건만 해도 되고, 기회 발굴(discovering opportunity) 측면에서도 그렇게 적은 노력으로도 할 수 있다는 거예요.",
     "text_zh": "我们的商业环境不是这样的。我们的业务方期望我们能持续创造价值，所以我们得看看怎么跟上这个节奏。我觉得持续发现(continuous discovery)特别好的一点就是，你可以做得很轻量，比如在访谈这块，在发现机会这块，一周做一次访谈就够了。",
     "text_es": "Ese no es nuestro entorno de negocio. Nuestras empresas esperan que les entreguemos valor continuo, así que tenemos que ver cómo nos adaptamos a ese ritmo. Lo que me parece realmente bueno del descubrimiento continuo (continuous discovery) es que puedes hacerlo con tan solo una entrevista a la semana, por el lado de las entrevistas, por el lado de descubrir oportunidades.",
-    "key_sentence": "We need to match that cadence, doing continuous discovery in as little as one interview a week."
+    "key_sentence": "our businesses are expecting us to deliver continuous value, so we need to look at how do we match that cadence.",
+    "text_trimmed": true,
+    "original_text": "That's not our business environment. Our businesses are expecting us to deliver continuous value, so we need to look at how do we match that cadence. What I think is really nice about continuous discovery, you can do it in as little as an interview a week, on the interviewing side, on the discovering opportunity side.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "continuous value",
+        "definition": "Continuous value refers to the ongoing delivery of benefits or improvements that meet customer needs over time. It emphasizes the importance of sustained performance and innovation in products or services.",
+        "businessContext": "In business, particularly in tech and startups, delivering continuous value is crucial for maintaining customer satisfaction and loyalty, as it reflects a commitment to evolving offerings based on user feedback and market demands.",
+        "nuance": "This term often implies a proactive approach to customer engagement and product development, contrasting with a one-time transactional mindset.",
+        "synonyms": [
+          "ongoing value",
+          "sustained value"
+        ],
+        "antonyms": [
+          "one-time value",
+          "static value"
+        ]
+      },
+      {
+        "word": "business environment",
+        "definition": "The business environment encompasses all external and internal factors that affect a company's operations, including economic, social, technological, and competitive elements. It shapes the strategic decisions and performance of an organization.",
+        "businessContext": "Understanding the business environment is essential for organizations to adapt their strategies, identify opportunities, and mitigate risks in a dynamic market landscape.",
+        "nuance": "This term can imply both challenges and opportunities, and it is often used in discussions about strategic planning and market analysis.",
+        "synonyms": [
+          "market environment",
+          "corporate landscape"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "match",
+        "definition": "To match means to correspond or align with something in a way that meets expectations or requirements. It often involves finding compatibility or equivalence between two elements.",
+        "businessContext": "In a business context, matching can refer to aligning products with customer needs, ensuring that services meet market demands, or synchronizing team efforts to achieve common goals.",
+        "nuance": "While 'match' suggests a positive alignment, it can also imply a lack of differentiation if used inappropriately, such as in competitive analyses.",
+        "synonyms": [
+          "align",
+          "correspond"
+        ],
+        "antonyms": [
+          "differ",
+          "discrepancy"
+        ]
+      },
+      {
+        "word": "cadence",
+        "definition": "Cadence refers to the rhythm or pace at which activities occur, particularly in a business context. It can denote the frequency of meetings, project updates, or product releases.",
+        "businessContext": "In startups and tech companies, establishing a consistent cadence is vital for maintaining momentum in project execution and ensuring timely communication among teams.",
+        "nuance": "The term often carries a connotation of regularity and predictability, which can be crucial for effective team dynamics and project management.",
+        "synonyms": [
+          "rhythm",
+          "tempo"
+        ],
+        "antonyms": [
+          "disruption",
+          "inconsistency"
+        ]
+      }
+    ]
   }
 ]

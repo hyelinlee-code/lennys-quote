@@ -1,13 +1,14 @@
 [
   {
-    "text": "So the easiest way to be in that top 5% ish. I don't know what the math there is. About 3%, 4% is to just stick to it. Like if you just do an episode a week for 10 weeks, you're now in the top 4% of all podcasts that anyone has created.",
+    "text": "So the easiest way to be in that top 5% ish. I don't know what the math there is. About 3%, 4% is to just stick to it.",
     "speaker": "Chris Hutchins",
     "timestamp": "00:00:00",
     "context": "Lenny discusses the vast number of podcasts available and asks Chris about the potential for success in podcasting. Chris explains that a significant portion of podcasts remain inactive, and by consistently releasing episodes, a new podcast can quickly rise to the top percentage of all podcasts, showcasing the power of persistence in content creation.",
     "vocabulary_highlights": [
-      "top 5% ish",
-      "stick to it",
-      "top 4% of all podcasts"
+      "potential",
+      "significant",
+      "inactive",
+      "consistent"
     ],
     "topics": [
       "Starting a Company",
@@ -23,7 +24,68 @@
     "text_ko": "상위 5%에 들어가는 가장 쉬운 방법은 꾸준히 하는 거예요. 정확한 수치는 잘 모르겠지만, 대충 3%나 4% 정도 될 거예요. 예를 들어, 10주 동안 매주 한 편씩 에피소드를 올리면, 그럼 모든 팟캐스트 중에서 상위 4%에 들어가게 되는 거죠.",
     "text_zh": "要进入前5%的最简单方法就是坚持下去。我不太清楚具体的数学计算，大约是3%到4%。如果你每周发布一集节目，持续10周，你就能进入所有播客中的前4%。",
     "text_es": "La forma más sencilla de estar en ese 5% superior es, simplemente, mantener la constancia. Si publicas un episodio a la semana durante 10 semanas, ya estarás en el 4% superior de todos los podcasts que se han creado.",
-    "key_sentence": "Stick to it, and you'll be in the top 4% of all podcasts."
+    "key_sentence": "Stick to it, and you'll be in the top 4% of all podcasts.",
+    "text_trimmed": true,
+    "original_text": "So the easiest way to be in that top 5% ish. I don't know what the math there is. About 3%, 4% is to just stick to it. Like if you just do an episode a week for 10 weeks, you're now in the top 4% of all podcasts that anyone has created.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "potential",
+        "definition": "The inherent ability or capacity for growth, development, or future success.",
+        "businessContext": "In business, 'potential' often refers to the expected future performance of a company, product, or market, indicating opportunities for expansion or profit.",
+        "nuance": "While 'potential' suggests a positive outlook, it can also imply uncertainty regarding whether that potential will be realized.",
+        "synonyms": [
+          "capability",
+          "possibility"
+        ],
+        "antonyms": [
+          "limitation",
+          "inability"
+        ]
+      },
+      {
+        "word": "significant",
+        "definition": "Having meaning or importance; noteworthy or consequential.",
+        "businessContext": "In a business context, 'significant' is used to describe data, trends, or changes that have a considerable impact on decision-making or strategy.",
+        "nuance": "The term often implies a level of importance that warrants attention, but it can also be subjective based on the context in which it is used.",
+        "synonyms": [
+          "substantial",
+          "meaningful"
+        ],
+        "antonyms": [
+          "insignificant",
+          "trivial"
+        ]
+      },
+      {
+        "word": "inactive",
+        "definition": "Not engaging in activity; dormant or not currently in operation.",
+        "businessContext": "In business, 'inactive' can refer to accounts, employees, or projects that are not currently contributing to operations or revenue generation.",
+        "nuance": "While 'inactive' suggests a lack of activity, it does not necessarily imply a permanent state; it may indicate a temporary pause or a need for reactivation.",
+        "synonyms": [
+          "dormant",
+          "idle"
+        ],
+        "antonyms": [
+          "active",
+          "engaged"
+        ]
+      },
+      {
+        "word": "consistent",
+        "definition": "Acting or done in the same way over time; reliable and uniform.",
+        "businessContext": "In business, 'consistent' is crucial for maintaining quality, ensuring customer satisfaction, and building brand trust through reliable performance.",
+        "nuance": "The term conveys reliability, but it can also imply a lack of innovation or adaptability if overemphasized.",
+        "synonyms": [
+          "steady",
+          "uniform"
+        ],
+        "antonyms": [
+          "inconsistent",
+          "variable"
+        ]
+      }
+    ]
   },
   {
     "text": "If you just do an episode a week, for 10 weeks, you're now in the top 4% of all podcasts that anyone has created.",
@@ -31,8 +93,10 @@
     "timestamp": "00:24:34",
     "context": "In response to Lenny's inquiry about the podcast landscape, Chris highlights the importance of consistency in podcasting. He emphasizes that simply maintaining a weekly episode schedule for a short period can place a podcast in the top percentile of existing shows, underscoring the relatively low barrier to entry for achieving visibility.",
     "vocabulary_highlights": [
-      "top 4% of all podcasts",
-      "anyone has created"
+      "consistency",
+      "landscape",
+      "created",
+      "importance"
     ],
     "topics": [
       "Starting a Company",
@@ -48,7 +112,66 @@
     "text_ko": "주 1회씩 10주 동안 에피소드를 올리기만 해도, 모든 팟캐스트 중에서 상위 4%에 들어가게 돼요.",
     "text_zh": "如果你每周发布一集，持续10周，你就能进入所有播客的前4%。",
     "text_es": "Si solo produces un episodio a la semana durante 10 semanas, estarás en el top 4% de todos los podcasts que se han creado.",
-    "key_sentence": "Doing an episode weekly places you in the top 4% of all podcasts."
+    "key_sentence": "Doing an episode weekly places you in the top 4% of all podcasts.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "consistency",
+        "definition": "The quality of always behaving or performing in a similar way, ensuring reliability and predictability in outcomes.",
+        "businessContext": "In business, consistency is crucial for building brand trust and ensuring that products or services meet customer expectations over time.",
+        "nuance": "While consistency is generally viewed positively, excessive rigidity can stifle innovation and adaptability.",
+        "synonyms": [
+          "uniformity",
+          "reliability"
+        ],
+        "antonyms": [
+          "inconsistency",
+          "variability"
+        ]
+      },
+      {
+        "word": "landscape",
+        "definition": "The overall environment or context in which a particular industry or market operates, including trends, competitors, and consumer behavior.",
+        "businessContext": "Understanding the competitive landscape is essential for businesses to identify opportunities and threats, allowing for strategic planning and positioning.",
+        "nuance": "The term can imply a broad view that encompasses various factors, making it important to specify which aspects of the landscape are being analyzed.",
+        "synonyms": [
+          "environment",
+          "market"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "created",
+        "definition": "To bring something into existence or to produce something through a process of development or innovation.",
+        "businessContext": "In the context of startups, the term often refers to the development of new products, services, or business models that address market needs.",
+        "nuance": "While 'created' implies originality, it can also suggest that the outcome is a result of collaboration or iteration rather than solely individual effort.",
+        "synonyms": [
+          "developed",
+          "produced"
+        ],
+        "antonyms": [
+          "destroyed",
+          "abolished"
+        ]
+      },
+      {
+        "word": "importance",
+        "definition": "The state or quality of being significant or valuable in a particular context or situation.",
+        "businessContext": "Recognizing the importance of certain factors, such as customer feedback or market trends, is vital for making informed business decisions.",
+        "nuance": "The term often carries a subjective weight, as what is deemed important can vary greatly among stakeholders and contexts.",
+        "synonyms": [
+          "significance",
+          "value"
+        ],
+        "antonyms": [
+          "triviality",
+          "insignificance"
+        ]
+      }
+    ]
   },
   {
     "text": "But figuring out how to create excitement internally and get buy-in from other teams because they're the ones that are going to build it. They're the ones that are going to help market.",
@@ -56,8 +179,10 @@
     "timestamp": "00:12:37",
     "context": "Lenny prompts Chris to share insights on successful innovation within larger companies. Chris explains that while understanding customer needs is vital, generating enthusiasm and securing support from various teams is equally important. This internal buy-in is crucial, as these teams will execute, market, and ultimately determine the success of a product.",
     "vocabulary_highlights": [
-      "create excitement internally",
-      "get buy-in"
+      "get buy-in",
+      "create excitement",
+      "secure support",
+      "internal teams"
     ],
     "topics": [
       "Leadership & Management",
@@ -73,7 +198,66 @@
     "text_ko": "내부에서 흥미를 유도하고 다른 팀들의 동의를 얻는 방법을 찾는 게 중요해요. 그 팀들이 실제로 만들고, 마케팅도 도와줄 사람들이니까요.",
     "text_zh": "但关键在于如何在内部激发热情，并获得其他团队的支持，因为他们将是实施这一方案的人，他们也将帮助进行市场推广。",
     "text_es": "Pero hay que encontrar la manera de generar entusiasmo internamente y conseguir el apoyo de otros equipos, ya que son ellos quienes lo van a construir. Son ellos quienes ayudarán a comercializarlo.",
-    "key_sentence": "Create excitement internally to get buy-in from other teams."
+    "key_sentence": "Create excitement internally to get buy-in from other teams.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "get buy-in",
+        "definition": "To obtain agreement or approval from stakeholders or team members for a proposed idea or project.",
+        "businessContext": "In business settings, getting buy-in is crucial for ensuring that all parties are aligned and committed to a project, particularly in collaborative environments like startups or tech companies.",
+        "nuance": "This phrase often implies a need for persuasion and may carry a sense of urgency or importance in decision-making processes.",
+        "synonyms": [
+          "gain approval",
+          "secure agreement"
+        ],
+        "antonyms": [
+          "lose support",
+          "face opposition"
+        ]
+      },
+      {
+        "word": "create excitement",
+        "definition": "To generate enthusiasm or positive anticipation about a project, product, or initiative.",
+        "businessContext": "In marketing and product development, creating excitement is essential for engaging customers and motivating teams to actively participate in a launch or campaign.",
+        "nuance": "This phrase suggests a proactive approach to energizing stakeholders and may involve innovative strategies to capture attention.",
+        "synonyms": [
+          "generate enthusiasm",
+          "spark interest"
+        ],
+        "antonyms": [
+          "dull interest",
+          "suppress enthusiasm"
+        ]
+      },
+      {
+        "word": "secure support",
+        "definition": "To obtain backing or assistance from individuals or groups for a specific initiative or project.",
+        "businessContext": "Securing support is vital in business as it ensures that necessary resources, both human and financial, are available to successfully execute a plan.",
+        "nuance": "This phrase often implies a strategic effort to build alliances and may involve negotiation or relationship-building.",
+        "synonyms": [
+          "obtain backing",
+          "garner assistance"
+        ],
+        "antonyms": [
+          "withdraw support",
+          "face isolation"
+        ]
+      },
+      {
+        "word": "internal teams",
+        "definition": "Groups of employees within an organization who collaborate on projects or initiatives.",
+        "businessContext": "In tech and startup environments, internal teams are often cross-functional, bringing together diverse skills to drive innovation and efficiency.",
+        "nuance": "The term emphasizes collaboration within the organization, distinguishing these teams from external partners or clients.",
+        "synonyms": [
+          "in-house teams",
+          "staff groups"
+        ],
+        "antonyms": [
+          "external partners",
+          "outsourced teams"
+        ]
+      }
+    ]
   },
   {
     "text": "The harsh reality of this whole game is like there's probably going to be a number of months or years you have to do it for free before it takes off. So if you don't love it, that's going to be a painful few years.",
@@ -81,8 +265,10 @@
     "timestamp": "01:08:07",
     "context": "In discussing the challenges of starting a podcast, Chris emphasizes the potential long-term commitment and effort required before achieving success. He stresses the importance of passion for the topic, as those who do not genuinely enjoy the process may find it challenging over time. This insight serves as a reminder to choose subjects that ignite enthusiasm.",
     "vocabulary_highlights": [
-      "harsh reality",
-      "painful few years"
+      "commitment",
+      "potential",
+      "challenges",
+      "passion"
     ],
     "topics": [
       "Career Development",
@@ -98,7 +284,66 @@
     "text_ko": "이 게임의 현실은 아마도 몇 개월 또는 몇 년 동안은 무료로 해야 할 수도 있다는 거예요. 그래서 만약 이 일을 사랑하지 않으면, 힘든 몇 년이 될 거예요.",
     "text_zh": "这个行业的残酷现实是，你可能需要无偿付出几个月甚至几年，才能看到成果。因此，如果你不热爱这份工作，这将是几年的痛苦经历。",
     "text_es": "La dura realidad de este negocio es que probablemente habrá varios meses o incluso años en los que tendrás que trabajar sin remuneración antes de que despegue. Así que, si no lo amas, esos años pueden ser muy difíciles.",
-    "key_sentence": "The harsh reality is you may face painful few years before success."
+    "key_sentence": "The harsh reality is you may face painful few years before success.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "commitment",
+        "definition": "A pledge or dedication to a cause, activity, or relationship, often requiring time and effort.",
+        "businessContext": "In business, commitment refers to the dedication of resources and personnel towards achieving specific goals, often seen in long-term projects or initiatives.",
+        "nuance": "While commitment implies a strong sense of obligation, it can sometimes suggest a lack of flexibility or willingness to adapt.",
+        "synonyms": [
+          "dedication",
+          "devotion"
+        ],
+        "antonyms": [
+          "indifference",
+          "disengagement"
+        ]
+      },
+      {
+        "word": "potential",
+        "definition": "The inherent ability or capacity for growth, development, or future success.",
+        "businessContext": "In a business context, potential often refers to the untapped capabilities of individuals, teams, or markets that could lead to significant advancements or profits.",
+        "nuance": "Potential carries a positive connotation, suggesting optimism about future possibilities, but can also imply that current performance is lacking.",
+        "synonyms": [
+          "capability",
+          "promise"
+        ],
+        "antonyms": [
+          "limitation",
+          "inability"
+        ]
+      },
+      {
+        "word": "challenges",
+        "definition": "Difficulties or obstacles that require effort and determination to overcome.",
+        "businessContext": "In the business world, challenges are often encountered in project management, market competition, or operational efficiency, necessitating strategic solutions.",
+        "nuance": "While challenges can be daunting, they are often viewed as opportunities for growth and innovation when approached positively.",
+        "synonyms": [
+          "obstacles",
+          "hurdles"
+        ],
+        "antonyms": [
+          "ease",
+          "simplicity"
+        ]
+      },
+      {
+        "word": "passion",
+        "definition": "A strong enthusiasm or interest in a particular subject or activity, often driving motivation and engagement.",
+        "businessContext": "In startups and entrepreneurial ventures, passion is crucial as it fuels perseverance through difficulties and inspires teams to innovate and excel.",
+        "nuance": "Passion suggests a deep emotional investment, which can be beneficial, but excessive passion without pragmatism may lead to unrealistic expectations.",
+        "synonyms": [
+          "enthusiasm",
+          "zeal"
+        ],
+        "antonyms": [
+          "apathy",
+          "disinterest"
+        ]
+      }
+    ]
   },
   {
     "text": "So I just think it's a simple way to build a podcasting website. The only other thing, we didn't talk at all about analytics at all, but I use Chartable for analytics.",
@@ -106,8 +351,10 @@
     "timestamp": "00:57:58",
     "context": "Lenny and Chris are discussing the podcasting tools and software they use. Chris shares his experience with using Podpage for creating a podcast website and mentions Chartable for analytics. He highlights the importance of having a user-friendly website and effective analytics to track podcast performance.",
     "vocabulary_highlights": [
-      "build a podcasting website",
-      "analytics"
+      "analytics",
+      "podcasting",
+      "tools",
+      "software"
     ],
     "topics": [
       "Strategy & Planning",
@@ -123,7 +370,66 @@
     "text_ko": "그래서 저는 팟캐스트 웹사이트를 만드는 게 정말 간단하다고 생각해요. 그리고 하나 더, 우리는 분석에 대해서는 전혀 얘기하지 않았는데, 저는 분석을 위해 Chartable을 사용해요.",
     "text_zh": "我认为建立一个播客网站的方法很简单。我们没有讨论分析（analytics），但我使用Chartable进行数据分析。",
     "text_es": "Así que creo que es una forma sencilla de crear un sitio web de podcasting. Lo único que no mencionamos en absoluto son las analíticas, pero yo utilizo Chartable para eso.",
-    "key_sentence": "It's a simple way to build a podcasting website using analytics."
+    "key_sentence": "It's a simple way to build a podcasting website using analytics.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "analytics",
+        "definition": "Analytics refers to the systematic computational analysis of data or statistics, often used to gain insights and inform decision-making.",
+        "businessContext": "In business and tech, analytics is crucial for understanding customer behavior, optimizing operations, and measuring the effectiveness of marketing strategies.",
+        "nuance": "While 'analytics' often implies a data-driven approach, it can sometimes be perceived as overly technical or complex for audiences unfamiliar with data science.",
+        "synonyms": [
+          "data analysis",
+          "statistical analysis"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "podcasting",
+        "definition": "Podcasting is the process of creating and distributing audio or video episodes for online listening, typically in a series format.",
+        "businessContext": "In the business world, podcasting serves as a powerful content marketing tool that helps companies engage with their audience, build brand authority, and share expertise.",
+        "nuance": "Podcasting is often seen as a more informal and personal medium compared to traditional broadcasting, making it suitable for storytelling and authentic communication.",
+        "synonyms": [
+          "audio broadcasting",
+          "digital audio program"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "tools",
+        "definition": "Tools are instruments or software applications designed to perform specific tasks or functions, enhancing productivity and efficiency.",
+        "businessContext": "In a business or tech environment, tools can refer to software solutions that aid in project management, data analysis, or communication, streamlining workflows.",
+        "nuance": "The term 'tools' can imply a hands-on, practical approach, and is often used in contrast to more abstract concepts like strategies or theories.",
+        "synonyms": [
+          "instruments",
+          "resources"
+        ],
+        "antonyms": [
+          "obstacles",
+          "hindrances"
+        ]
+      },
+      {
+        "word": "software",
+        "definition": "Software is a collection of programs and related data that instruct a computer on how to perform specific tasks, encompassing applications, operating systems, and more.",
+        "businessContext": "In the tech industry, software is essential for automating processes, managing data, and enabling communication, often forming the backbone of digital business operations.",
+        "nuance": "The term 'software' can encompass both commercial products and open-source solutions, and its use often implies a focus on functionality and user experience.",
+        "synonyms": [
+          "applications",
+          "programs"
+        ],
+        "antonyms": [
+          "hardware",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "One thing that I always say is, if you're going to dinner party, you now know someone's address. You probably know their name instead of bringing a bottle of wine or in addition, just check if they have unclaimed money.",
@@ -131,8 +437,10 @@
     "timestamp": "01:13:07",
     "context": "Chris shares a creative money hack about checking for unclaimed funds that a person might be owed. He suggests that knowing someone's name and address can lead to a fun conversation at social gatherings by revealing whether they have unclaimed money. This approach not only serves as a clever icebreaker but can also benefit the individual receiving the information.",
     "vocabulary_highlights": [
-      "unclaimed money",
-      "icebreaker"
+      "creative",
+      "unclaimed",
+      "conversation",
+      "social gathering"
     ],
     "topics": [
       "Career Development",
@@ -148,6 +456,65 @@
     "text_ko": "제가 항상 하는 말이 있어요. 만약 저녁 파티에 간다면, 그 사람의 주소는 알게 되잖아요. 그 사람의 이름도 알겠죠. 그러니까 와인 한 병을 가져가는 대신에, 혹은 추가로, 그 사람이 받을 수 있는 돈이 있는지 확인해보는 것도 좋을 것 같아요.",
     "text_zh": "我常说的一句话是，如果你要去参加晚宴，你现在知道了某人的地址。你可能知道他们的名字，不妨在带一瓶酒之前，先查一下他们是否有未领取的款项。",
     "text_es": "Una cosa que siempre digo es que, si vas a una cena, ahora conoces la dirección de alguien. Probablemente sepas su nombre, así que en lugar de llevar una botella de vino o además de eso, solo verifica si tienen dinero no reclamado.",
-    "key_sentence": "Check for unclaimed money as an icebreaker at dinner parties."
+    "key_sentence": "just check if they have unclaimed money.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "creative",
+        "definition": "Relating to the use of imagination or original ideas to create something; inventive.",
+        "businessContext": "In business, creativity is often essential for innovation, problem-solving, and developing unique marketing strategies that differentiate a company from its competitors.",
+        "nuance": "While 'creative' generally has a positive connotation, it can imply a lack of practicality if not balanced with analytical thinking.",
+        "synonyms": [
+          "innovative",
+          "imaginative"
+        ],
+        "antonyms": [
+          "unimaginative",
+          "conventional"
+        ]
+      },
+      {
+        "word": "unclaimed",
+        "definition": "Not claimed or taken; not asserted as belonging to anyone.",
+        "businessContext": "In finance and accounting, unclaimed assets or funds refer to money that has not been claimed by its rightful owner, which can present opportunities for businesses to manage or recover these assets.",
+        "nuance": "The term 'unclaimed' can suggest a sense of abandonment or oversight, often used in contexts where ownership is unclear.",
+        "synonyms": [
+          "unasserted",
+          "unallocated"
+        ],
+        "antonyms": [
+          "claimed",
+          "designated"
+        ]
+      },
+      {
+        "word": "conversation",
+        "definition": "A spoken exchange of thoughts, ideas, or feelings between two or more people.",
+        "businessContext": "Effective conversation is crucial in business for networking, negotiations, and team collaboration, as it fosters understanding and builds relationships.",
+        "nuance": "While 'conversation' implies a two-way exchange, it can sometimes suggest informality, which may not be suitable in all professional contexts.",
+        "synonyms": [
+          "dialogue",
+          "discussion"
+        ],
+        "antonyms": [
+          "silence",
+          "monologue"
+        ]
+      },
+      {
+        "word": "social gathering",
+        "definition": "An assembly of people for the purpose of socializing and interacting in a relaxed environment.",
+        "businessContext": "Social gatherings are often used in business for networking events, team-building activities, and client relationship management, facilitating informal interactions that can lead to professional opportunities.",
+        "nuance": "The term 'social gathering' can imply a casual atmosphere, which may not always align with formal business events or meetings.",
+        "synonyms": [
+          "networking event",
+          "social event"
+        ],
+        "antonyms": [
+          "isolation",
+          "solitude"
+        ]
+      }
+    ]
   }
 ]

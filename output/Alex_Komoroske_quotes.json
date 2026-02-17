@@ -1,13 +1,14 @@
 [
   {
-    "text": "I find that when you're busy, you're constantly just go, go, go, go. There's no time to do any deep thinking. Deep thinking takes time and space, and you got to create that space. The mundane, pointless bullshit will take every square inch you give it. So you got to make that space to sit back and reflect and luxuriate in these ideas.",
+    "text": "I find that when you're busy, you're constantly just go, go, go, go. There's no time to do any deep thinking. Deep thinking takes time and space, and you got to create that space.",
     "speaker": "Alex Komoroske",
     "timestamp": "00:07:39",
     "context": "Lenny asks Alex about the power of forcing yourself to write and reflect versus not doing so. Alex explains why he dedicates time for deep reflection despite his busy schedule. He describes how he used to work from home on Fridays to avoid meetings and focus on strategic thinking - reading documents carefully and identifying what could have saved time during the week if he had done it beforehand.",
     "vocabulary_highlights": [
-      "luxuriate in",
-      "take every square inch",
-      "mundane, pointless bullshit"
+      "deep thinking",
+      "create space",
+      "reflect",
+      "dedicate time"
     ],
     "topics": [
       "Productivity",
@@ -24,18 +25,79 @@
     "text_ko": "바쁠 때는 계속해서 움직이기만 하게 되잖아요. 깊이 있는 생각을 할 시간이 없어요. 깊은 생각은 시간과 공간이 필요한데, 그 공간을 만들어야 해요. 쓸데없는 것들이 주어진 모든 공간을 다 차지할 거예요. 그래서 한 발짝 물러나서 생각하고, 이런 아이디어들을 만끽할 수 있는 공간을 만들어야 해요.",
     "text_zh": "我发现当你忙碌时，总是处于不断前进的状态，根本没有时间进行深入思考。深入思考需要时间和空间，而你必须创造这样的空间。那些琐碎无意义的事情会占据你所有的时间。因此，你需要腾出时间来放松、反思，并享受这些想法。",
     "text_es": "Encuentro que cuando estás ocupado, estás constantemente en movimiento, sin parar. No hay tiempo para pensar en profundidad. El pensamiento profundo requiere tiempo y espacio, y debes crear ese espacio. Lo trivial y sin sentido ocupará cada centímetro cuadrado que le des. Por lo tanto, es necesario hacer ese espacio para sentarse, reflexionar y disfrutar de estas ideas.",
-    "key_sentence": "Create space to reflect and luxuriate in deep thinking."
+    "key_sentence": "Create space to reflect and luxuriate in deep thinking.",
+    "text_trimmed": true,
+    "original_text": "I find that when you're busy, you're constantly just go, go, go, go. There's no time to do any deep thinking. Deep thinking takes time and space, and you got to create that space. The mundane, pointless bullshit will take every square inch you give it. So you got to make that space to sit back and reflect and luxuriate in these ideas.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "deep thinking",
+        "definition": "A cognitive process that involves thorough analysis and contemplation of complex ideas or problems, often leading to innovative solutions.",
+        "businessContext": "In business settings, deep thinking is crucial for strategic planning, problem-solving, and fostering creativity, allowing leaders to develop comprehensive insights and long-term visions.",
+        "nuance": "This term implies a level of thoughtfulness that goes beyond surface-level analysis, often requiring uninterrupted time and mental space to explore ideas fully.",
+        "synonyms": [
+          "critical thinking",
+          "reflective thinking"
+        ],
+        "antonyms": [
+          "superficial thinking",
+          "impulsive decision-making"
+        ]
+      },
+      {
+        "word": "create space",
+        "definition": "To intentionally establish an environment or allocate time that allows for reflection, creativity, or focused work.",
+        "businessContext": "In a business context, creating space can refer to setting aside time for brainstorming sessions, strategic retreats, or simply ensuring a distraction-free workspace to enhance productivity and innovation.",
+        "nuance": "This phrase often carries a connotation of prioritizing mental well-being and productivity, suggesting that without such space, effective thinking may be hindered.",
+        "synonyms": [
+          "make room",
+          "allocate time"
+        ],
+        "antonyms": [
+          "crowd out",
+          "restrict"
+        ]
+      },
+      {
+        "word": "reflect",
+        "definition": "To think carefully and deeply about something, often to gain insights or learn from experiences.",
+        "businessContext": "Reflection in business is vital for evaluating past performances, understanding customer feedback, and improving processes, thereby fostering a culture of continuous improvement.",
+        "nuance": "While reflection is generally positive, it can imply a need for introspection that may not always be welcomed in fast-paced environments where immediate action is prioritized.",
+        "synonyms": [
+          "contemplate",
+          "ponder"
+        ],
+        "antonyms": [
+          "ignore",
+          "overlook"
+        ]
+      },
+      {
+        "word": "dedicate time",
+        "definition": "To commit a specific amount of time to a particular task or activity, emphasizing its importance.",
+        "businessContext": "In business, dedicating time is essential for project management, ensuring that teams allocate sufficient resources to critical tasks like training, strategy development, or innovation.",
+        "nuance": "This phrase suggests a deliberate choice to prioritize certain activities over others, which can reflect values and strategic goals within an organization.",
+        "synonyms": [
+          "commit time",
+          "allocate time"
+        ],
+        "antonyms": [
+          "waste time",
+          "neglect"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think LLMs are truly a disruptive technology. In fact, I would argue that what we're seeing in the industry is us trying to use mature playbooks from the end stage of the last tech era in one that doesn't really fit yet. To me, LLMs are magical duct tape. They're formed principally by the distilled intuition of all of society into a thing that operates between, a cost structure between human and plain old computing.",
+    "text": "I think LLMs are truly a disruptive technology. In fact, I would argue that what we're seeing in the industry is us trying to use mature playbooks from the end stage of the last tech era in one that doesn't really fit yet.",
     "speaker": "Alex Komoroske",
     "timestamp": "00:10:56",
     "context": "Lenny asks Alex how LLMs and generative AI will change how products are built in the next 3-5 years. Alex argues that LLMs fundamentally disrupt existing assumptions about software development costs and capabilities. He explains that the industry is mistakenly applying old strategies to this new paradigm, comparing LLMs to 'magical duct tape' that bridges human intelligence and traditional computing.",
     "vocabulary_highlights": [
+      "disruptive",
       "mature playbooks",
-      "magical duct tape",
-      "distilled intuition",
-      "plain old computing"
+      "fundamentally",
+      "assumptions"
     ],
     "topics": [
       "Product Management",
@@ -51,18 +113,79 @@
     "text_ko": "저는 LLMs가 정말로 혁신적인 기술이라고 생각해요. 사실, 지금 업계에서 일어나고 있는 일은 우리가 지난 기술 시대의 성숙한 플레이북(playbook)을 사용하려고 하지만, 그게 아직 잘 맞지 않는 상황이라고 주장할 수 있어요. 제게 LLMs는 마법 같은 접착제 같은 존재예요. 이건 사회의 모든 직관이 응축돼서 만들어진 것으로, 인간과 일반 컴퓨팅 사이에서 작동하는 비용 구조를 가지고 있어요.",
     "text_zh": "我认为大型语言模型（LLMs）确实是一项颠覆性技术。事实上，我认为我们在行业中所看到的，正是我们试图在一个尚未完全适应的时代中，使用上一个技术时代末期的成熟策略。对我来说，LLMs就像是神奇的胶带，它们主要是将整个社会的精华直觉凝聚成一种在人工智能与传统计算之间运作的事物。",
     "text_es": "Creo que los LLMs (modelos de lenguaje grande) son realmente una tecnología disruptiva. De hecho, argumentaría que lo que estamos viendo en la industria es un intento de aplicar manuales (playbooks) maduros de la etapa final de la última era tecnológica en un contexto que aún no se adapta del todo. Para mí, los LLMs son una especie de cinta adhesiva mágica. Se forman principalmente a partir de la intuición destilada de toda la sociedad en algo que opera en un estructura de costos entre lo humano y la computación tradicional.",
-    "key_sentence": "LLMs are magical duct tape for society's distilled intuition."
+    "key_sentence": "LLMs are truly a disruptive technology.",
+    "text_trimmed": true,
+    "original_text": "I think LLMs are truly a disruptive technology. In fact, I would argue that what we're seeing in the industry is us trying to use mature playbooks from the end stage of the last tech era in one that doesn't really fit yet. To me, LLMs are magical duct tape. They're formed principally by the distilled intuition of all of society into a thing that operates between, a cost structure between human and plain old computing.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "disruptive",
+        "definition": "Causing significant change or upheaval in an industry or market, often through innovation or new technologies.",
+        "businessContext": "In business and technology, 'disruptive' refers to innovations that create new markets or value networks, ultimately displacing established market leaders and products.",
+        "nuance": "While often viewed positively in terms of innovation, 'disruptive' can also carry a negative connotation when it implies chaos or instability.",
+        "synonyms": [
+          "transformative",
+          "revolutionary"
+        ],
+        "antonyms": [
+          "stabilizing",
+          "conventional"
+        ]
+      },
+      {
+        "word": "mature playbooks",
+        "definition": "Established strategies or frameworks that have been tested and refined over time, typically used for guiding decision-making and operations.",
+        "businessContext": "In the context of startups and technology, 'mature playbooks' refer to proven methodologies that organizations rely on to navigate complex challenges and ensure successful outcomes.",
+        "nuance": "While 'mature playbooks' suggest reliability, they may also imply rigidity, potentially hindering adaptability in rapidly changing environments.",
+        "synonyms": [
+          "proven strategies",
+          "established frameworks"
+        ],
+        "antonyms": [
+          "experimental approaches",
+          "novel strategies"
+        ]
+      },
+      {
+        "word": "fundamentally",
+        "definition": "In a basic or essential manner; at the core or root level of something.",
+        "businessContext": "In business discussions, 'fundamentally' is often used to emphasize the core principles or underlying truths that drive decisions and strategies.",
+        "nuance": "This term conveys a sense of depth and importance, often used to highlight critical issues that require attention or reevaluation.",
+        "synonyms": [
+          "essentially",
+          "intrinsically"
+        ],
+        "antonyms": [
+          "superficially",
+          "marginally"
+        ]
+      },
+      {
+        "word": "assumptions",
+        "definition": "Beliefs or statements taken for granted without proof, often serving as the foundation for reasoning or decision-making.",
+        "businessContext": "In business and strategic planning, 'assumptions' are critical as they shape forecasts, strategies, and risk assessments, and must be regularly evaluated for validity.",
+        "nuance": "While assumptions are necessary for decision-making, they can lead to significant errors if not critically examined and validated.",
+        "synonyms": [
+          "premises",
+          "hypotheses"
+        ],
+        "antonyms": [
+          "facts",
+          "certainties"
+        ]
+      }
+    ]
   },
   {
-    "text": "In this cacophony, how do you stand out? You stand out by having good taste. I think taste is the most important thing. You have a perspective that is different from the background noise, different from the average and that people find compelling. How do you find your own taste and how do you lean into that taste is, I think, much more important than just generically executing in the way that everybody else could do.",
+    "text": "In this cacophony, how do you stand out? You stand out by having good taste. I think taste is the most important thing. You have a perspective that is different from the background noise, different from the average and that people find compelling.",
     "speaker": "Alex Komoroske",
     "timestamp": "00:16:28",
     "context": "Lenny asks about skills product managers should develop as AI changes the landscape. Alex discusses how AI has reduced the cost of information production, creating overwhelming amounts of content. He argues that in this environment of information overload, developing distinctive taste and perspective becomes the key differentiator rather than just executing standard playbooks.",
     "vocabulary_highlights": [
-      "in this cacophony",
-      "background noise",
-      "lean into that taste",
-      "generically executing"
+      "compelling",
+      "perspective",
+      "overwhelming",
+      "cacophony"
     ],
     "topics": [
       "Product Management",
@@ -79,18 +202,79 @@
     "text_ko": "이 혼잡한 세상에서 어떻게 눈에 띌 수 있을까요? 좋은 취향을 갖는 게 중요해요. 저는 취향이 가장 중요한 요소라고 생각해요. 배경 소음과는 다른, 평균과는 다른 시각을 가지고 있어야 사람들이 매력을 느끼죠. 자신의 취향을 어떻게 찾고, 그 취향을 어떻게 살려나가는지가 다른 사람들과 똑같이 행동하는 것보다 훨씬 더 중요하다고 생각해요.",
     "text_zh": "在这喧嚣中，如何让自己脱颖而出？你需要通过良好的品味来实现。我认为品味是最重要的。你要有与背景噪音不同的视角，与普通人不同，并且让人感到吸引。如何找到自己的品味，以及如何充分发挥这种品味，我认为远比简单地以大家都能做到的方式执行要重要得多。",
     "text_es": "En esta cacofonía, ¿cómo te destacas? Te destacas teniendo buen gusto. Creo que el gusto es lo más importante. Tienes una perspectiva que es diferente del ruido de fondo, diferente de lo promedio y que la gente encuentra atractiva. Cómo encuentras tu propio gusto y cómo te apoyas en ese gusto es, en mi opinión, mucho más importante que simplemente ejecutar de manera genérica como lo haría cualquier otra persona.",
-    "key_sentence": "Stand out in this cacophony by leaning into your taste."
+    "key_sentence": "Stand out in this cacophony by leaning into your taste.",
+    "text_trimmed": true,
+    "original_text": "In this cacophony, how do you stand out? You stand out by having good taste. I think taste is the most important thing. You have a perspective that is different from the background noise, different from the average and that people find compelling. How do you find your own taste and how do you lean into that taste is, I think, much more important than just generically executing in the way that everybody else could do.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "compelling",
+        "definition": "Evoking interest, attention, or admiration in a powerful way.",
+        "businessContext": "In business, a compelling product or idea is one that captures the interest of consumers or investors, often leading to increased sales or funding.",
+        "nuance": "While 'compelling' suggests strong attraction, it can imply a sense of urgency or necessity that may not always be present.",
+        "synonyms": [
+          "engaging",
+          "persuasive"
+        ],
+        "antonyms": [
+          "uninteresting",
+          "dull"
+        ]
+      },
+      {
+        "word": "perspective",
+        "definition": "A particular attitude or way of considering something, often shaped by personal experiences or context.",
+        "businessContext": "In business, having a unique perspective can differentiate a company’s strategy and innovation, allowing it to stand out in a competitive market.",
+        "nuance": "The term often implies a depth of understanding that goes beyond surface-level observations, making it valuable in strategic discussions.",
+        "synonyms": [
+          "viewpoint",
+          "outlook"
+        ],
+        "antonyms": [
+          "narrow-mindedness",
+          "bias"
+        ]
+      },
+      {
+        "word": "overwhelming",
+        "definition": "Having a strong effect on someone, often to the point of being difficult to handle or manage.",
+        "businessContext": "In a business context, overwhelming competition or data can lead to decision paralysis, making it essential for leaders to prioritize and focus.",
+        "nuance": "While 'overwhelming' can indicate a positive intensity, it often carries a negative connotation of being too much to cope with.",
+        "synonyms": [
+          "intense",
+          "overpowering"
+        ],
+        "antonyms": [
+          "manageable",
+          "underwhelming"
+        ]
+      },
+      {
+        "word": "cacophony",
+        "definition": "A harsh, discordant mixture of sounds, often used metaphorically to describe a chaotic environment.",
+        "businessContext": "In business, a cacophony can refer to the overwhelming noise of competing ideas or messages in the marketplace, making it challenging for brands to communicate effectively.",
+        "nuance": "While 'cacophony' typically has a negative connotation, it can also be used to describe a vibrant, dynamic environment when contextually appropriate.",
+        "synonyms": [
+          "din",
+          "discord"
+        ],
+        "antonyms": [
+          "harmony",
+          "silence"
+        ]
+      }
+    ]
   },
   {
-    "text": "So much of the way that we tackle problems and build products is this builder mindset. It's like I have a plan. I then manipulate things to match my plan and make it happen. And this is a way you can create tons of value. Part of the problem though is it can't possibly create more value than the effort that you put into it. What I look for instead are things that can be gardened, things that can grow on their own and that you can direct or maybe give a little bit of extra energy to or curate over, and is a totally different mindset for it.",
+    "text": "So much of the way that we tackle problems and build products is this builder mindset. It's like I have a plan. I then manipulate things to match my plan and make it happen. And this is a way you can create tons of value.",
     "speaker": "Alex Komoroske",
     "timestamp": "00:00:00",
     "context": "Alex introduces his core philosophy of 'gardening versus building' as an alternative approach to product development and problem-solving. The builder mindset involves creating detailed plans and forcing execution, while the gardening mindset focuses on nurturing things that can grow organically with minimal intervention. Alex argues this gardening approach can create exponentially more value than the linear effort-to-value relationship of traditional building.",
     "vocabulary_highlights": [
       "builder mindset",
-      "manipulate things to match",
-      "can be gardened",
-      "curate over"
+      "manipulate",
+      "create value",
+      "problem-solving"
     ],
     "topics": [
       "Product Management",
@@ -107,17 +291,79 @@
     "text_ko": "우리가 문제를 해결하고 제품을 만드는 방식은 '빌더 마인드셋(builder mindset)'이라고 할 수 있어요. 계획을 세우고, 그 계획에 맞게 모든 것을 조정해서 실행하는 거죠. 이렇게 하면 많은 가치를 창출할 수 있어요. 하지만 문제는, 그렇게 해서 만들어낸 가치가 내가 투자한 노력보다 더 클 수는 없다는 거예요. 그래서 제가 찾는 것은 스스로 자랄 수 있는 것들, 즉 '가드닝(gardening)'할 수 있는 것들이에요. 그런 것들은 내가 방향을 잡아주거나 조금 에너지를 더해줄 수 있는 것들이고, 이건 완전히 다른 마인드셋이에요.",
     "text_zh": "我们解决问题和构建产品的方式很大程度上是基于一种建设者心态。就像我有一个计划，然后我调整事物以符合我的计划并使其实现。这是一种可以创造大量价值的方法。然而，问题在于，这种方法所创造的价值不可能超过你投入的努力。我更关注的是那些可以“耕耘”的事物，那些能够自我成长的事物，你可以引导它们，或者给予一点额外的能量去培育，这是一种完全不同的心态。",
     "text_es": "Gran parte de la forma en que abordamos problemas y construimos productos se basa en esta mentalidad de constructor. Es como tener un plan, y luego manipular las cosas para que se ajusten a ese plan y hacerlo realidad. Y esta es una manera de crear un gran valor. Sin embargo, parte del problema es que no puede generar más valor del esfuerzo que le dediques. Lo que busco en cambio son cosas que se puedan cultivar, cosas que puedan crecer por sí solas y a las que puedas dirigir o quizás dar un poco de energía extra o curar, lo cual implica una mentalidad totalmente diferente.",
-    "key_sentence": "The builder mindset can't create more value than your effort."
+    "key_sentence": "So much of the way that we tackle problems and build products is this builder mindset.",
+    "text_trimmed": true,
+    "original_text": "So much of the way that we tackle problems and build products is this builder mindset. It's like I have a plan. I then manipulate things to match my plan and make it happen. And this is a way you can create tons of value. Part of the problem though is it can't possibly create more value than the effort that you put into it. What I look for instead are things that can be gardened, things that can grow on their own and that you can direct or maybe give a little bit of extra energy to or curate over, and is a totally different mindset for it.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "builder mindset",
+        "definition": "A builder mindset refers to a proactive and innovative approach to problem-solving and product development, characterized by a willingness to experiment and iterate.",
+        "businessContext": "In business and tech environments, a builder mindset is essential for entrepreneurs and teams to create effective solutions and adapt to changing market demands.",
+        "nuance": "This term often implies a positive attitude towards challenges, emphasizing creativity and resilience rather than a fixed or rigid approach.",
+        "synonyms": [
+          "entrepreneurial mindset",
+          "innovative mindset"
+        ],
+        "antonyms": [
+          "fixed mindset",
+          "passive mindset"
+        ]
+      },
+      {
+        "word": "manipulate",
+        "definition": "To manipulate means to skillfully handle, control, or influence something or someone, often with a specific goal in mind.",
+        "businessContext": "In a business context, manipulation can refer to adjusting variables, processes, or resources to achieve desired outcomes, such as optimizing workflows or influencing market perceptions.",
+        "nuance": "While 'manipulate' can have negative connotations of deceit or coercion, in a business setting it can also imply strategic and skillful management.",
+        "synonyms": [
+          "adjust",
+          "influence"
+        ],
+        "antonyms": [
+          "neglect",
+          "ignore"
+        ]
+      },
+      {
+        "word": "create value",
+        "definition": "To create value means to enhance the worth or utility of a product, service, or experience, thereby benefiting customers and stakeholders.",
+        "businessContext": "In business, creating value is a fundamental objective, as it drives customer satisfaction, competitive advantage, and overall profitability.",
+        "nuance": "This phrase often emphasizes the importance of innovation and customer-centric approaches, rather than merely increasing revenue.",
+        "synonyms": [
+          "add value",
+          "enhance value"
+        ],
+        "antonyms": [
+          "destroy value",
+          "devalue"
+        ]
+      },
+      {
+        "word": "problem-solving",
+        "definition": "Problem-solving is the process of identifying, analyzing, and resolving issues or challenges through systematic thinking and action.",
+        "businessContext": "In business and tech, effective problem-solving is crucial for overcoming obstacles, improving processes, and driving innovation within teams and organizations.",
+        "nuance": "The term suggests a methodical approach and is often associated with analytical skills, creativity, and collaboration.",
+        "synonyms": [
+          "troubleshooting",
+          "solution-finding"
+        ],
+        "antonyms": [
+          "problem avoidance",
+          "inactivity"
+        ]
+      }
+    ]
   },
   {
-    "text": "If you do this properly, it looks like magic. I've been told that this is completely against all the advice that people get, including products nowadays, but I think it's a very powerful approach that works in a lot of different contexts. You're farming for miracles. And so on a systemic basis, I can't tell you which of these things will work, but I can tell you there's a very high likelihood that one of these will work in a way that is interesting and transformative.",
+    "text": "If you do this properly, it looks like magic. I've been told that this is completely against all the advice that people get, including products nowadays, but I think it's a very powerful approach that works in a lot of different contexts.",
     "speaker": "Alex Komoroske",
     "timestamp": "00:00:00",
     "context": "Lenny asks Alex to elaborate on the gardening versus building concept and provide examples. Alex explains that when you focus on nurturing things with compounding potential rather than forcing predetermined outcomes, the results can appear magical. He describes this as 'farming for miracles' - planting many seeds knowing that while you can't predict which will succeed, the probability is high that at least one will grow into something transformative.",
     "vocabulary_highlights": [
-      "farming for miracles",
-      "on a systemic basis",
-      "in a way that is interesting and transformative"
+      "powerful",
+      "approach",
+      "nurturing",
+      "compounding"
     ],
     "topics": [
       "Product Management",
@@ -134,17 +380,79 @@
     "text_ko": "이걸 제대로 하면 마법처럼 보인대요. 요즘 사람들이 받는 조언이나 제품과는 완전히 반대라고 하더라고요. 하지만 이건 다양한 상황에서 효과가 있는 아주 강력한 접근법이라고 생각해요. 기적을 키우는 거죠. 그래서 어떤 게 효과가 있을지는 확실히 말할 수는 없지만, 이 중 하나는 흥미롭고 변화를 가져올 가능성이 아주 높다는 건 말씀드릴 수 있어요.",
     "text_zh": "如果你正确地做到这一点，它看起来就像魔法。我听说这完全违背了人们得到的所有建议，包括现在的产品，但我认为这是一种在许多不同场景中都非常有效的强大方法。你是在寻找奇迹。因此，从系统的角度来看，我无法告诉你这些方法中哪一个会有效，但我可以告诉你，其中一个很有可能以一种有趣且具有变革性的方式奏效。",
     "text_es": "Si lo haces correctamente, parece magia. Me han dicho que esto va en contra de todos los consejos que la gente recibe, incluidos los productos actuales, pero creo que es un enfoque muy poderoso que funciona en muchos contextos diferentes. Estás cultivando milagros. Así que, de manera sistémica, no puedo decirte cuál de estas cosas funcionará, pero puedo asegurarte que hay una alta probabilidad de que alguna de ellas funcione de una manera interesante y transformadora.",
-    "key_sentence": "Farming for miracles can lead to interesting and transformative outcomes."
+    "key_sentence": "I think it's a very powerful approach that works in a lot of different contexts.",
+    "text_trimmed": true,
+    "original_text": "If you do this properly, it looks like magic. I've been told that this is completely against all the advice that people get, including products nowadays, but I think it's a very powerful approach that works in a lot of different contexts. You're farming for miracles. And so on a systemic basis, I can't tell you which of these things will work, but I can tell you there's a very high likelihood that one of these will work in a way that is interesting and transformative.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "powerful",
+        "definition": "Having great power or strength; capable of producing significant effects or results.",
+        "businessContext": "In business, 'powerful' often describes strategies, tools, or leaders that have a strong impact on performance and outcomes.",
+        "nuance": "While 'powerful' conveys strength, it can also imply a sense of influence or authority that may not always be positive.",
+        "synonyms": [
+          "potent",
+          "impactful"
+        ],
+        "antonyms": [
+          "weak",
+          "ineffective"
+        ]
+      },
+      {
+        "word": "approach",
+        "definition": "A way of dealing with a situation or problem; a method or strategy.",
+        "businessContext": "In a business setting, an 'approach' refers to the specific tactics or methodologies employed to achieve goals or solve issues.",
+        "nuance": "The term can imply a systematic or thoughtful method, and is often used in discussions about innovation or problem-solving.",
+        "synonyms": [
+          "method",
+          "strategy"
+        ],
+        "antonyms": [
+          "disregard",
+          "neglect"
+        ]
+      },
+      {
+        "word": "nurturing",
+        "definition": "Providing care, support, and encouragement to foster growth or development.",
+        "businessContext": "In the workplace, 'nurturing' can describe leadership styles that focus on employee development and creating a supportive environment.",
+        "nuance": "While generally positive, 'nurturing' can be perceived as overly protective if it stifles independence or initiative.",
+        "synonyms": [
+          "supportive",
+          "cultivating"
+        ],
+        "antonyms": [
+          "neglectful",
+          "detrimental"
+        ]
+      },
+      {
+        "word": "compounding",
+        "definition": "The process of increasing in quantity or effect by successive additions; often refers to growth that builds upon itself.",
+        "businessContext": "In finance and investment, 'compounding' describes how returns can grow exponentially over time due to reinvestment of earnings.",
+        "nuance": "The term carries a positive connotation in contexts of investment and growth, but can imply complexity or risk in other scenarios.",
+        "synonyms": [
+          "accumulating",
+          "multiplying"
+        ],
+        "antonyms": [
+          "diminishing",
+          "reducing"
+        ]
+      }
+    ]
   },
   {
-    "text": "The kayfabe, the thing that everyone pretends to believe is true, is obviously incorrect. And the dangerous part about this is it can lead you to make very bad decisions. And if you as someone who sees this can see that wait a second, the official strategy is definitely not going to work, you're like, 'I got to tell somebody. We're doing work that's going in a bad direction. It's not going to work.'",
+    "text": "The kayfabe, the thing that everyone pretends to believe is true, is obviously incorrect. And the dangerous part about this is it can lead you to make very bad decisions.",
     "speaker": "Alex Komoroske",
     "timestamp": "00:25:46",
     "context": "Lenny asks Alex to explain organizational kayfabe - a concept borrowed from professional wrestling meaning something everyone knows is fake but acts like it's real. Alex describes how small optimistic lies compound up through organizational layers, creating strategies that are obviously flawed but become dangerous to challenge. He explains the dilemma faced by employees who see the truth but risk career damage by speaking up.",
     "vocabulary_highlights": [
-      "kayfabe",
-      "going in a bad direction",
-      "hit the ground truth button"
+      "decisions",
+      "organizational",
+      "concept",
+      "optimistic"
     ],
     "topics": [
       "Leadership & Management",
@@ -160,6 +468,67 @@
     "text_ko": "사람들이 모두 진짜라고 믿는 것처럼 행동하는 그 가짜 현실(kayfabe)은 분명히 잘못된 거예요. 문제는 이게 나쁜 결정을 내리게 할 수 있다는 거죠. 만약 당신이 이걸 보고 '잠깐, 공식 전략은 분명히 효과가 없겠구나'라고 생각한다면, '누군가에게 말해야 해. 우리가 잘못된 방향으로 가고 있어. 이건 안 될 거야.'라고 느낄 거예요.",
     "text_zh": "这种表象（kayfabe），大家都假装相信的事情，显然是错误的。而这其中的危险在于，它可能导致你做出非常糟糕的决策。如果你作为一个能够看清这一点的人意识到，官方策略显然行不通，你就会想：“我得告诉某个人。我们正在做的工作走上了错误的方向，这样下去是行不通的。”",
     "text_es": "El kayfabe, esa idea que todos pretenden creer que es cierta, es claramente incorrecta. Y lo peligroso de esto es que puede llevarte a tomar decisiones muy malas. Si tú, como alguien que se da cuenta de esto, ves que, un momento, la estrategia oficial definitivamente no va a funcionar, piensas: 'Tengo que decírselo a alguien. Estamos trabajando en una dirección equivocada. No va a funcionar.'",
-    "key_sentence": "Kayfabe leads to bad decisions; recognize when you're going in a bad direction."
+    "key_sentence": "the dangerous part about this is it can lead you to make very bad decisions.",
+    "text_trimmed": true,
+    "original_text": "The kayfabe, the thing that everyone pretends to believe is true, is obviously incorrect. And the dangerous part about this is it can lead you to make very bad decisions. And if you as someone who sees this can see that wait a second, the official strategy is definitely not going to work, you're like, 'I got to tell somebody. We're doing work that's going in a bad direction. It's not going to work.'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "decisions",
+        "definition": "Decisions are choices made after considering various options and their potential outcomes. They often involve weighing risks and benefits to arrive at a conclusion.",
+        "businessContext": "In business, decisions are critical as they can affect strategy, operations, and overall success; they are often made based on data analysis and market research.",
+        "nuance": "The term 'decisions' carries a weight of responsibility, implying that the outcomes can significantly impact stakeholders and the organization as a whole.",
+        "synonyms": [
+          "choices",
+          "resolutions"
+        ],
+        "antonyms": [
+          "indecision",
+          "confusion"
+        ]
+      },
+      {
+        "word": "organizational",
+        "definition": "Organizational refers to anything related to the structure, arrangement, or management of a group or entity. It encompasses the systems and processes that facilitate coordination and efficiency.",
+        "businessContext": "In a business context, organizational structures define roles, responsibilities, and communication channels, which are essential for effective management and operational success.",
+        "nuance": "The term often implies a formal structure, but can also refer to informal networks within a company that influence culture and collaboration.",
+        "synonyms": [
+          "structural",
+          "administrative"
+        ],
+        "antonyms": [
+          "disorganized",
+          "chaotic"
+        ]
+      },
+      {
+        "word": "concept",
+        "definition": "A concept is an abstract idea or a general notion that represents a category or a principle. It serves as a foundational element for understanding and developing theories or practices.",
+        "businessContext": "In business, concepts are crucial for innovation and strategy development, as they guide the creation of products, services, and marketing approaches.",
+        "nuance": "While 'concept' can imply a theoretical framework, it is often used in practical applications, such as business models or marketing strategies.",
+        "synonyms": [
+          "idea",
+          "notion"
+        ],
+        "antonyms": [
+          "reality",
+          "fact"
+        ]
+      },
+      {
+        "word": "optimistic",
+        "definition": "Optimistic describes a hopeful and positive outlook on future events or outcomes, often characterized by a belief in favorable results despite challenges.",
+        "businessContext": "In business, an optimistic attitude can drive innovation and resilience, encouraging teams to pursue ambitious goals and navigate uncertainties with confidence.",
+        "nuance": "While optimism is generally positive, it can be viewed negatively if it leads to unrealistic expectations or a lack of preparedness for potential setbacks.",
+        "synonyms": [
+          "hopeful",
+          "positive"
+        ],
+        "antonyms": [
+          "pessimistic",
+          "cynical"
+        ]
+      }
+    ]
   }
 ]

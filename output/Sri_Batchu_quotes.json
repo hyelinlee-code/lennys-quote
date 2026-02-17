@@ -1,13 +1,14 @@
 [
   {
-    "text": "Rather than going into the specifics, one thing I'll say about the growth system today is if you were to look at what percentage of our business comes from outbound sales, paid marketing, field, and then a bunch of other channels and then you compare it against industry benchmarks, I think the secret sauce of Ramp is not that we've found a channel that's unique and that we've over-invested or under-invested. I think what we've done differently is we've really focused on making all of those investments very much driven by technology and data.",
+    "text": "I think what we've done differently is we've really focused on making all of those investments very much driven by technology and data.",
     "speaker": "Sri Batchu",
     "timestamp": "00:10:21",
     "context": "Lenny asks Sri to break down Ramp's growth channels into a pie chart format. Sri explains that while Ramp's channel distribution isn't dramatically different from industry benchmarks, their competitive advantage lies in how they execute these channels using technology and data. He describes how Ramp has built systems to make traditional growth channels like sales and paid marketing more efficient through engineering support and automation.",
     "vocabulary_highlights": [
-      "over-invested or under-invested",
-      "secret sauce",
-      "driven by technology and data"
+      "investments",
+      "driven",
+      "technology",
+      "data"
     ],
     "topics": [
       "Growth & Marketing",
@@ -22,18 +23,79 @@
     "text_ko": "세부로 들어가기보다는 성장 시스템에 대해 한 가지만 말씀드리면요: 우리 비즈니스에서 아웃바운드 세일즈(outbound sales), 유료 마케팅(paid marketing), 필드(field), 그 밖의 여러 채널(channel)에서 각각 차지하는 비중을 보고 업계 벤치마크(industry benchmarks)와 비교해 보면, Ramp의 비결(secret sauce)은 어떤 독특한 채널을 찾아서 거기에 과도하게 혹은 부족하게 투자했다는 게 아니에요. 저희가 다르게 해온 건 그런 모든 투자를 기술과 데이터(technology and data)로 주도되게 만드는 데 정말 집중했다는 점이에요.",
     "text_zh": "我就不细说具体的了，关于我们现在的增长体系，我可以这么说：如果你看看我们从主动销售(outbound sales)、付费营销(paid marketing)、地推(field)还有其他各种渠道来的业务占比，然后跟行业基准(industry benchmarks)对比一下，我觉得Ramp的秘诀(secret sauce)不是说我们找到了什么独特的渠道，或者在某个渠道上投入过多或过少。我们做得不一样的地方是，我们特别专注于用技术和数据来驱动所有这些投入。",
     "text_es": "Más que entrar en detalles específicos, algo que te puedo decir sobre nuestro sistema de crecimiento es que si te fijas en qué porcentaje de nuestro negocio viene de ventas directas (outbound sales), marketing pagado, trabajo de campo, y otros canales, y lo comparas con los estándares de la industria, creo que la fórmula secreta de Ramp no es que hayamos encontrado un canal único donde invertimos de más o de menos. Lo que hemos hecho diferente es enfocarnos en hacer que todas esas inversiones estén muy impulsadas por tecnología y datos.",
-    "key_sentence": "Ramp's secret sauce is investments driven by technology and data."
+    "key_sentence": "Ramp's secret sauce is investments driven by technology and data.",
+    "text_trimmed": true,
+    "original_text": "Rather than going into the specifics, one thing I'll say about the growth system today is if you were to look at what percentage of our business comes from outbound sales, paid marketing, field, and then a bunch of other channels and then you compare it against industry benchmarks, I think the secret sauce of Ramp is not that we've found a channel that's unique and that we've over-invested or under-invested. I think what we've done differently is we've really focused on making all of those investments very much driven by technology and data.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "investments",
+        "definition": "Investments refer to the allocation of resources, usually money, into assets or projects with the expectation of generating a return or profit over time.",
+        "businessContext": "In business and startup environments, investments are critical for funding operations, expanding market reach, or developing new products and technologies.",
+        "nuance": "The term often implies a long-term commitment and can carry connotations of risk, as not all investments yield positive returns.",
+        "synonyms": [
+          "capital allocation",
+          "financial commitment"
+        ],
+        "antonyms": [
+          "divestment",
+          "withdrawal"
+        ]
+      },
+      {
+        "word": "driven",
+        "definition": "Driven describes a strong motivation or determination to achieve a particular goal or outcome, often characterized by proactive efforts and focus.",
+        "businessContext": "In business settings, being driven is essential for leaders and teams to pursue innovation, overcome challenges, and achieve strategic objectives.",
+        "nuance": "While it generally has a positive connotation, it can also imply a relentless pursuit that may overlook work-life balance or collaboration.",
+        "synonyms": [
+          "motivated",
+          "determined"
+        ],
+        "antonyms": [
+          "apathetic",
+          "unmotivated"
+        ]
+      },
+      {
+        "word": "technology",
+        "definition": "Technology encompasses the tools, systems, and methods used to create, develop, and manage products and services, often involving advanced scientific knowledge.",
+        "businessContext": "In the business world, technology is a key driver of efficiency, innovation, and competitive advantage, influencing everything from operations to customer engagement.",
+        "nuance": "The term can imply both cutting-edge advancements and established systems, so context is important to convey the intended meaning.",
+        "synonyms": [
+          "innovation",
+          "tech"
+        ],
+        "antonyms": [
+          "obsolescence",
+          "inefficiency"
+        ]
+      },
+      {
+        "word": "data",
+        "definition": "Data refers to quantitative or qualitative information collected for analysis, which can be used to inform decisions, track performance, and identify trends.",
+        "businessContext": "In business and technology, data is invaluable for making informed decisions, optimizing processes, and developing targeted marketing strategies.",
+        "nuance": "While data is often seen as objective, the interpretation and context can significantly affect its perceived value and implications.",
+        "synonyms": [
+          "information",
+          "statistics"
+        ],
+        "antonyms": [
+          "ignorance",
+          "anecdote"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think what works really well with Ramp is that we have the same shared goal, which is the pipeline driven and the payback period of the channel. It's unique to Ramp where the engineers feel ownership of the quota. They're not owning product metrics or what have you, they're obviously of course interim and input metrics that are important, but they really do feel accountable for the pipeline driven and the efficiency driven by that team.",
+    "text": "I think what works really well with Ramp is that we have the same shared goal, which is the pipeline driven and the payback period of the channel. It's unique to Ramp where the engineers feel ownership of the quota.",
     "speaker": "Sri Batchu",
     "timestamp": "00:12:24",
     "context": "Lenny asks about Ramp's growth engineering team structure and how their goals are measured. Sri explains that their growth engineering team has a unique accountability system where engineers don't just focus on typical product metrics, but actually feel ownership for sales quotas and pipeline generation. This alignment ensures engineers work on projects that directly impact business outcomes rather than just technical metrics.",
     "vocabulary_highlights": [
-      "payback period",
-      "feel ownership of the quota",
-      "what have you",
-      "interim and input metrics"
+      "shared goal",
+      "pipeline driven",
+      "ownership",
+      "accountability"
     ],
     "topics": [
       "Growth & Marketing",
@@ -48,18 +110,79 @@
     "text_ko": "Ramp에서 정말 잘 맞는 건 우리 모두 같은 목표를 공유한다는 거예요 — 채널의 파이프라인 중심(pipeline-driven) 운영과 채널의 투자 회수 기간(payback period)이에요. 엔지니어들이 쿼터(quota)에 대해 주인의식을 느낀다는 건 Ramp만의 독특한 점이에요. 제품 지표(product metrics)를 직접 관리하진 않지만, 중간 지표(interim metrics)나 투입 지표(input metrics) 같은 것들이 중요하다는 건 당연해요. 그럼에도 불구하고 이들은 파이프라인 중심(pipeline-driven)의 성과와 팀이 만들어내는 효율성(efficiency)에 대해 진짜 책임감을 느껴요.",
     "text_zh": "我觉得和Ramp合作特别顺的地方就是，我们目标很一致，都是奔着渠道的pipeline(销售漏斗)和回本周期去的。Ramp比较特别的是，他们的工程师对quota(销售指标)特别有主人翁意识。他们不是只盯着产品数据啊什么的，当然那些过程指标和输入指标肯定也重要，但他们确实会为pipeline的效果和团队的效率负责任。",
     "text_es": "Creo que lo que funciona muy bien con Ramp es que tenemos el mismo objetivo en común, que es el pipeline generado y el período de retorno de la inversión del canal. Es algo único de Ramp donde los ingenieros sienten que son dueños de la cuota. No están enfocados en métricas de producto ni nada por el estilo - obviamente hay métricas intermedias y de entrada que son importantes - pero realmente se sienten responsables del pipeline generado y de la eficiencia que logra ese equipo.",
-    "key_sentence": "Engineers feel ownership of the quota and are accountable for pipeline efficiency."
+    "key_sentence": "Engineers feel ownership of the quota and are accountable for pipeline efficiency.",
+    "text_trimmed": true,
+    "original_text": "I think what works really well with Ramp is that we have the same shared goal, which is the pipeline driven and the payback period of the channel. It's unique to Ramp where the engineers feel ownership of the quota. They're not owning product metrics or what have you, they're obviously of course interim and input metrics that are important, but they really do feel accountable for the pipeline driven and the efficiency driven by that team.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "shared goal",
+        "definition": "A shared goal is a common objective or target that a group of individuals or teams collectively strive to achieve.",
+        "businessContext": "In business settings, shared goals foster collaboration and alignment among team members, ensuring that everyone is working towards the same outcomes.",
+        "nuance": "This term emphasizes teamwork and collective effort, and is often used in contexts where collaboration is essential for success.",
+        "synonyms": [
+          "common objective",
+          "collective aim"
+        ],
+        "antonyms": [
+          "individual goal",
+          "personal objective"
+        ]
+      },
+      {
+        "word": "pipeline driven",
+        "definition": "Pipeline driven refers to a business approach that prioritizes the management and optimization of the sales or project pipeline to ensure consistent revenue flow and efficiency.",
+        "businessContext": "In tech and startup environments, being pipeline driven often involves using data analytics to track leads and conversions, thereby enhancing sales strategies and forecasting.",
+        "nuance": "This phrase suggests a focus on systematic processes and metrics, and may imply a rigorous, data-oriented mindset in decision-making.",
+        "synonyms": [
+          "process-oriented",
+          "data-driven"
+        ],
+        "antonyms": [
+          "ad hoc",
+          "improvisational"
+        ]
+      },
+      {
+        "word": "ownership",
+        "definition": "Ownership in a business context refers to the sense of responsibility and accountability that individuals or teams feel towards their work and outcomes.",
+        "businessContext": "Encouraging ownership among employees can lead to increased motivation and engagement, as they take pride in their contributions and strive for success.",
+        "nuance": "This term conveys a deeper emotional investment in one's work, and is often used to highlight the importance of empowerment and autonomy in the workplace.",
+        "synonyms": [
+          "responsibility",
+          "accountability"
+        ],
+        "antonyms": [
+          "disinterest",
+          "neglect"
+        ]
+      },
+      {
+        "word": "accountability",
+        "definition": "Accountability is the obligation of individuals or organizations to explain, justify, and take responsibility for their actions and decisions.",
+        "businessContext": "In business, accountability is crucial for maintaining trust and transparency, as it ensures that team members are held responsible for their performance and outcomes.",
+        "nuance": "This term often carries a connotation of ethical responsibility and can be used in contexts where transparency and integrity are emphasized.",
+        "synonyms": [
+          "responsibility",
+          "answerability"
+        ],
+        "antonyms": [
+          "impunity",
+          "unaccountability"
+        ]
+      }
+    ]
   },
   {
-    "text": "What you see internally is what I'll say is razor-sharp focus on reducing cycle time and bias to action and how do we reduce cycle time. I think it's basically the core of it culturally to me is getting people to think about smaller units of time for decision making. It seems obvious but I think you really have to reinforce it culturally.",
+    "text": "What you see internally is what I'll say is razor-sharp focus on reducing cycle time and bias to action and how do we reduce cycle time.",
     "speaker": "Sri Batchu",
     "timestamp": "00:16:30",
     "context": "Lenny asks Sri to explain what Ramp's legendary velocity culture actually looks and feels like from the inside. Sri describes how Ramp maintains unprecedented product velocity by focusing intensely on reducing cycle time and creating a bias toward action. He emphasizes that the key is getting people to think in smaller time units for decision-making, though this cultural approach requires constant reinforcement.",
     "vocabulary_highlights": [
       "razor-sharp focus",
-      "bias to action",
       "cycle time",
-      "reinforce it culturally"
+      "bias to action",
+      "unprecedented"
     ],
     "topics": [
       "Leadership & Management",
@@ -74,16 +197,79 @@
     "text_ko": "사내에서 보이는 건, 제 말로 하자면 사이클 타임(cycle time)을 줄이는 데 대한 정말 날카로운 집중과 행동 편향(bias to action), 그리고 '사이클 타임을 어떻게 줄일지'에 대한 고민이에요. 제게 문화적으로 가장 핵심은 사람들이 의사결정을 더 짧은 시간 단위로 생각하게 만드는 거예요. 겉으로는 당연해 보이지만, 실제로는 그걸 조직 문화로 계속해서 강화해야 해요.",
     "text_zh": "从内部来看，我觉得就是要超级专注地缩短决策周期(cycle time)，偏向于赶紧行动起来，怎么把这个周期时间给压缩下来。我觉得从文化上来说，核心就是要让大家习惯用更短的时间单位去做决策。听起来挺简单的，但你真得在文化层面不断强化这一点。",
     "text_es": "Lo que vemos internamente es lo que yo llamaría un enfoque súper preciso en reducir los tiempos de ciclo y esa tendencia hacia la acción - ¿cómo acortamos los plazos? Creo que básicamente el núcleo cultural para mí es lograr que la gente piense en períodos más cortos para tomar decisiones. Parece obvio, pero realmente tienes que reforzarlo como parte de la cultura.",
-    "key_sentence": "Razor-sharp focus on reducing cycle time reinforces a bias to action culturally."
+    "key_sentence": "Razor-sharp focus on reducing cycle time reinforces a bias to action culturally.",
+    "text_trimmed": true,
+    "original_text": "What you see internally is what I'll say is razor-sharp focus on reducing cycle time and bias to action and how do we reduce cycle time. I think it's basically the core of it culturally to me is getting people to think about smaller units of time for decision making. It seems obvious but I think you really have to reinforce it culturally.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "razor-sharp focus",
+        "definition": "An intense and precise concentration on a specific goal or task.",
+        "businessContext": "In business, having a razor-sharp focus often refers to prioritizing critical objectives and ensuring that resources are aligned to achieve them efficiently.",
+        "nuance": "This phrase conveys a sense of urgency and clarity, suggesting that distractions are minimized; it is best used in contexts where clarity of purpose is essential.",
+        "synonyms": [
+          "laser focus",
+          "pinpoint attention"
+        ],
+        "antonyms": [
+          "distraction",
+          "scattered attention"
+        ]
+      },
+      {
+        "word": "cycle time",
+        "definition": "The total time taken to complete a process from start to finish.",
+        "businessContext": "In operational management, cycle time is a key metric used to assess efficiency and productivity, often aimed at reducing to improve overall performance.",
+        "nuance": "While it typically refers to manufacturing or production, it can also apply to project management and service delivery; it is important to specify the context when discussing cycle time.",
+        "synonyms": [
+          "turnaround time",
+          "process duration"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "bias to action",
+        "definition": "A tendency or inclination to take initiative and act quickly rather than overanalyze or delay decisions.",
+        "businessContext": "In startup culture, a bias to action is often encouraged to foster innovation and responsiveness, allowing teams to experiment and iterate rapidly.",
+        "nuance": "This phrase implies a proactive mindset; however, it should be balanced with thoughtful consideration to avoid hasty decisions that could lead to negative outcomes.",
+        "synonyms": [
+          "proactive mindset",
+          "action-oriented approach"
+        ],
+        "antonyms": [
+          "analysis paralysis",
+          "inaction"
+        ]
+      },
+      {
+        "word": "unprecedented",
+        "definition": "Never done or known before; without previous example.",
+        "businessContext": "In business, the term is often used to describe unique market conditions, innovations, or challenges that require novel strategies and responses.",
+        "nuance": "While it conveys a sense of uniqueness and significance, it should be used judiciously to avoid overstating the novelty of a situation.",
+        "synonyms": [
+          "extraordinary",
+          "unmatched"
+        ],
+        "antonyms": [
+          "commonplace",
+          "ordinary"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think design of the team, people often... I think it's a red herring about team structure and team design and what's the right one, et cetera. I think most of that is irrelevant. What actually matters is culture and rituals and cadences rather than the team itself.",
+    "text": "I think design of the team, people often... I think it's a red herring about team structure and team design and what's the right one, et cetera. I think most of that is irrelevant.",
     "speaker": "Sri Batchu",
     "timestamp": "00:31:03",
     "context": "Lenny asks Sri about his learnings on building repeatable growth engines and growth teams. Sri argues that most discussions about growth team structure and design are distractions from what really matters. He believes that culture, rituals, and cadences are far more important than the specific team composition or organizational structure when building effective growth engines.",
     "vocabulary_highlights": [
       "red herring",
-      "rituals and cadences"
+      "team structure",
+      "team design",
+      "irrelevant"
     ],
     "topics": [
       "Leadership & Management",
@@ -98,17 +284,79 @@
     "text_ko": "저는 팀 구조(team structure)나 팀 디자인(team design), 어떤 게 옳은지 따지는 건 오히려 본질을 흐리는 얘기라고 생각해요. 실제로 중요한 건 팀 자체가 아니라 문화와 의식(rituals), 그리고 운영 리듬(cadences)이에요.",
     "text_zh": "我觉得团队设计这个事儿，大家经常... 我觉得纠结团队架构啊、团队设计啊、什么样的结构最好啊这些，其实都是在转移注意力。我觉得这些大部分都不重要。真正重要的是文化、仪式感和节奏，而不是团队本身。",
     "text_es": "Mira, creo que el diseño de equipos, la gente muchas veces... pienso que es una distracción todo eso de la estructura del equipo y el diseño y cuál es el correcto, etcétera. Creo que la mayoría de eso no importa realmente. Lo que de verdad cuenta es la cultura y los rituales y las dinámicas (cadences) más que el equipo en sí.",
-    "key_sentence": "Team structure is a red herring; culture and rituals matter more."
+    "key_sentence": "Team structure is a red herring; culture and rituals matter more.",
+    "text_trimmed": true,
+    "original_text": "I think design of the team, people often... I think it's a red herring about team structure and team design and what's the right one, et cetera. I think most of that is irrelevant. What actually matters is culture and rituals and cadences rather than the team itself.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "red herring",
+        "definition": "A misleading or distracting piece of information that diverts attention from the main issue.",
+        "businessContext": "In business discussions, a red herring may refer to a topic or argument that distracts from the core problem or decision at hand, often leading to confusion or misallocation of resources.",
+        "nuance": "While it can be used to describe any distraction, it often carries a negative connotation, suggesting intentional misdirection.",
+        "synonyms": [
+          "distraction",
+          "misdirection"
+        ],
+        "antonyms": [
+          "focus",
+          "relevance"
+        ]
+      },
+      {
+        "word": "team structure",
+        "definition": "The arrangement of roles, responsibilities, and relationships within a team, defining how tasks are organized and coordinated.",
+        "businessContext": "In organizational settings, team structure is crucial for establishing clear lines of communication and accountability, impacting overall team performance and efficiency.",
+        "nuance": "The term can imply a rigid hierarchy or a more flexible arrangement, depending on the organization's culture and goals.",
+        "synonyms": [
+          "organizational structure",
+          "team hierarchy"
+        ],
+        "antonyms": [
+          "team fluidity",
+          "N/A"
+        ]
+      },
+      {
+        "word": "team design",
+        "definition": "The process of planning and creating the composition and dynamics of a team to achieve specific objectives.",
+        "businessContext": "Effective team design involves selecting team members with complementary skills and defining their interactions to enhance collaboration and productivity in projects.",
+        "nuance": "This term emphasizes the intentionality behind team composition, suggesting a strategic approach rather than a random assembly of individuals.",
+        "synonyms": [
+          "team configuration",
+          "team composition"
+        ],
+        "antonyms": [
+          "team disarray",
+          "N/A"
+        ]
+      },
+      {
+        "word": "irrelevant",
+        "definition": "Not connected or applicable to the matter at hand; lacking significance or importance in a particular context.",
+        "businessContext": "In business meetings or discussions, identifying irrelevant information helps streamline decision-making processes and maintain focus on critical issues.",
+        "nuance": "While often used to dismiss points, it can also imply a need for clarity in discussions to avoid confusion.",
+        "synonyms": [
+          "unrelated",
+          "insignificant"
+        ],
+        "antonyms": [
+          "relevant",
+          "pertinent"
+        ]
+      }
+    ]
   },
   {
-    "text": "I do think there's actually a general path that most B2B companies take and should take. My view is you start off with founder-led sales, the early team needs to know how to actually sell. Then you hire your first couple of salespeople, then you start some very low cost targeted marketing efforts. So whether it's content, community, small scale events, and then PR, after all of that is when you start paid and brand effort and then SEO probably start around the same time that you start paid marketing efforts.",
+    "text": "I do think there's actually a general path that most B2B companies take and should take. My view is you start off with founder-led sales, the early team needs to know how to actually sell.",
     "speaker": "Sri Batchu",
     "timestamp": "00:00:00",
     "context": "Lenny asks Sri about his opinion on how to sequence different growth channels for B2B companies. Sri outlines a specific progression that he believes most B2B companies should follow, starting with founder-led sales and gradually adding more expensive and scalable channels. His reasoning is that channels become more expensive as you progress but also more effective as you learn about your customers.",
     "vocabulary_highlights": [
       "founder-led sales",
-      "low cost targeted marketing efforts",
-      "small scale events"
+      "growth channels",
+      "sequence",
+      "progression"
     ],
     "topics": [
       "Growth & Marketing",
@@ -124,17 +372,79 @@
     "text_ko": "저는 대부분의 B2B 회사들이 따라야 할 일반적인 경로가 있다고 생각해요. 제 생각에는 처음에는 창립자가 직접 판매를 하고, 초기 팀이 실제로 판매하는 방법을 알아야 해요. 그 다음에 첫 몇 명의 영업직원을 채용하고, 아주 저렴한 타겟 마케팅을 시작해야 해요. 콘텐츠, 커뮤니티, 소규모 이벤트 같은 것들이요. 그리고 PR을 진행한 후에야 유료 마케팅과 브랜드 노력을 시작하고, SEO도 아마 유료 마케팅을 시작할 때쯤에 함께 시작할 거예요.",
     "text_zh": "我觉得大部分B2B公司其实都有一个通用的发展路径，也应该这样走。我的看法是，一开始肯定是创始人自己做销售，早期团队得知道怎么卖东西。然后你招几个销售，接着开始搞一些低成本的精准营销，比如做内容、建社群、办点小活动，再做做PR。等这些都搞定了，再开始投付费广告和品牌推广，SEO的话差不多和付费推广同时开始就行。",
     "text_es": "Creo que sí hay un camino general que la mayoría de las empresas B2B siguen y deberían seguir. Mi punto de vista es que empiezas con ventas lideradas por el fundador, el equipo inicial necesita saber cómo vender de verdad. Después contratas a tus primeros vendedores, luego arrancas con esfuerzos de marketing muy económicos y bien dirigidos. O sea, ya sea contenido, comunidad, eventos pequeños, y después relaciones públicas. Después de todo eso es cuando empiezas con los esfuerzos pagados y de marca, y luego el SEO probablemente lo inicias más o menos al mismo tiempo que arrancas con el marketing pagado.",
-    "key_sentence": "B2B companies should start with founder-led sales and low cost targeted marketing efforts."
+    "key_sentence": "B2B companies should start with founder-led sales and low cost targeted marketing efforts.",
+    "text_trimmed": true,
+    "original_text": "I do think there's actually a general path that most B2B companies take and should take. My view is you start off with founder-led sales, the early team needs to know how to actually sell. Then you hire your first couple of salespeople, then you start some very low cost targeted marketing efforts. So whether it's content, community, small scale events, and then PR, after all of that is when you start paid and brand effort and then SEO probably start around the same time that you start paid marketing efforts.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "founder-led sales",
+        "definition": "A sales approach where the company's founders are directly involved in selling the product or service, leveraging their vision and passion to drive early revenue.",
+        "businessContext": "In startup environments, founder-led sales are crucial during the initial stages to establish product-market fit and build relationships with early customers.",
+        "nuance": "This term often implies a hands-on, personal selling style that may not scale as the company grows, making it essential for founders to transition to a more structured sales strategy later.",
+        "synonyms": [
+          "founder-driven sales",
+          "entrepreneurial sales"
+        ],
+        "antonyms": [
+          "sales team-led approach",
+          "automated sales"
+        ]
+      },
+      {
+        "word": "growth channels",
+        "definition": "Various pathways or methods through which a business can acquire new customers and increase revenue.",
+        "businessContext": "Identifying and optimizing growth channels is vital for startups to scale effectively, as it helps them focus their marketing and sales efforts on the most effective strategies.",
+        "nuance": "The term suggests a strategic approach to customer acquisition, emphasizing the need to analyze and select channels based on performance rather than using a one-size-fits-all method.",
+        "synonyms": [
+          "customer acquisition channels",
+          "revenue streams"
+        ],
+        "antonyms": [
+          "declining channels",
+          "stagnant markets"
+        ]
+      },
+      {
+        "word": "sequence",
+        "definition": "A specific order in which a series of actions or events occur, often designed to achieve a particular outcome.",
+        "businessContext": "In sales and marketing, a sequence may refer to the planned steps taken to engage potential customers, such as outreach emails followed by follow-up calls.",
+        "nuance": "The term implies a strategic and deliberate arrangement of actions, highlighting the importance of timing and structure in achieving desired results.",
+        "synonyms": [
+          "order",
+          "series"
+        ],
+        "antonyms": [
+          "disorder",
+          "randomness"
+        ]
+      },
+      {
+        "word": "progression",
+        "definition": "The process of developing or moving gradually towards a more advanced state or level.",
+        "businessContext": "In the context of B2B companies, progression often refers to the stages of growth a company experiences as it scales from startup to established business.",
+        "nuance": "This term conveys a sense of continuous improvement and evolution, suggesting that businesses must adapt and innovate to succeed over time.",
+        "synonyms": [
+          "advancement",
+          "development"
+        ],
+        "antonyms": [
+          "regression",
+          "decline"
+        ]
+      }
+    ]
   },
   {
-    "text": "Growth experiments in my history are typically 30%-ish success rate. So the vast majority of things that you try don't work. And so you want to create a culture where people aren't afraid to take risks and aren't afraid to fail. And for me, failure is not that you didn't drive revenue, failure is not learning.",
+    "text": "Growth experiments in my history are typically 30%-ish success rate. So the vast majority of things that you try don't work. And so you want to create a culture where people aren't afraid to take risks and aren't afraid to fail.",
     "speaker": "Sri Batchu",
     "timestamp": "00:51:43",
     "context": "Lenny asks Sri to explain his concept of failing conclusively rather than just failing fast in experiments. Sri explains that most growth experiments fail (around 70% failure rate), so it's crucial to create a culture where people aren't afraid to take risks. He redefines failure - it's not about missing revenue targets, but about failing to learn from the experiment, which is why designing tests properly is essential.",
     "vocabulary_highlights": [
-      "30%-ish success rate",
-      "vast majority",
-      "aren't afraid to take risks"
+      "culture",
+      "take risks",
+      "failure rate",
+      "growth experiments"
     ],
     "topics": [
       "Growth & Marketing",
@@ -149,6 +459,67 @@
     "text_ko": "제가 해온 성장 실험(growth experiments)은 보통 성공률(success rate)이 한 30% 정도였어요. 그래서 시도하는 것들 대부분은 잘 안 돼요. 사람들이 위험을 감수하고 실패하는 걸 두려워하지 않는 문화를 만들어야 해요. 제게 실패란 수익을 못 냈다는 게 아니라, 그로부터 배우지 못한 거예요.",
     "text_zh": "我做过的增长实验(growth experiments)成功率一般也就30%左右。也就是说，你尝试的大部分东西都不会成功。所以你得营造一种文化，让大家不怕冒险，不怕失败。在我看来，失败不是说你没带来收入，失败是你什么都没学到。",
     "text_es": "En mi experiencia, los experimentos de crecimiento suelen tener una tasa de éxito de alrededor del 30%. O sea, la gran mayoría de las cosas que pruebas no funcionan. Por eso necesitas crear una cultura donde la gente no tenga miedo de arriesgarse ni de fallar. Para mí, fallar no es que no generes ingresos, fallar es no aprender nada.",
-    "key_sentence": "Growth experiments have a 30%-ish success rate; create a culture that embraces risks."
+    "key_sentence": "Growth experiments have a 30%-ish success rate; create a culture that embraces risks.",
+    "text_trimmed": true,
+    "original_text": "Growth experiments in my history are typically 30%-ish success rate. So the vast majority of things that you try don't work. And so you want to create a culture where people aren't afraid to take risks and aren't afraid to fail. And for me, failure is not that you didn't drive revenue, failure is not learning.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "culture",
+        "definition": "The shared values, beliefs, and practices that characterize a group or organization.",
+        "businessContext": "In business, culture influences employee behavior, decision-making, and overall organizational effectiveness, often impacting recruitment and retention.",
+        "nuance": "While often used to describe the workplace environment, 'culture' can also refer to broader societal norms, so context is important.",
+        "synonyms": [
+          "environment",
+          "ethos"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "take risks",
+        "definition": "To engage in actions that involve uncertainty and the potential for loss or failure in pursuit of a goal.",
+        "businessContext": "In a business context, taking risks is essential for innovation and growth, as it allows companies to explore new opportunities and markets.",
+        "nuance": "The phrase often carries a positive connotation in entrepreneurial settings, but can be viewed negatively in more conservative industries.",
+        "synonyms": [
+          "embrace uncertainty",
+          "venture"
+        ],
+        "antonyms": [
+          "play it safe",
+          "avoid risks"
+        ]
+      },
+      {
+        "word": "failure rate",
+        "definition": "The percentage of attempts or projects that do not achieve their intended outcome or success.",
+        "businessContext": "Understanding the failure rate is crucial for businesses to assess the effectiveness of their strategies and to make informed decisions about resource allocation.",
+        "nuance": "A high failure rate can indicate a need for improvement or innovation, but it can also reflect a culture that encourages experimentation.",
+        "synonyms": [
+          "success ratio",
+          "defeat percentage"
+        ],
+        "antonyms": [
+          "success rate",
+          "achievement ratio"
+        ]
+      },
+      {
+        "word": "growth experiments",
+        "definition": "Strategic initiatives designed to test new ideas or approaches aimed at increasing a company's market presence or revenue.",
+        "businessContext": "In startups and tech companies, growth experiments are often used to validate hypotheses about customer behavior and to optimize marketing strategies.",
+        "nuance": "These experiments are typically iterative and data-driven, emphasizing learning from both successes and failures.",
+        "synonyms": [
+          "innovation trials",
+          "expansion tests"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   }
 ]

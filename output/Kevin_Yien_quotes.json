@@ -5,9 +5,10 @@
     "timestamp": "00:00:00",
     "context": "Lenny is discussing the importance of writing skills for product managers. Kevin explains that while internal alignment is important, PMs must also be able to create compelling external messaging. He believes that if a PM cannot effectively sell or support their own product to customers, they shouldn't be trusted to build that product in the first place.",
     "vocabulary_highlights": [
-      "a little too internal",
-      "getting alignment",
-      "I don't trust you to"
+      "stakeholders",
+      "alignment",
+      "compelling",
+      "internal"
     ],
     "topics": [
       "Product Management",
@@ -22,18 +23,77 @@
     "text_ko": "프로덕트 매니저(PM) 일은 이해관계자(stakeholders)를 설득하고 얼라인먼트(alignment)을 맞추는 등 너무 내부적인 일에만 빠질 수 있어요. 그런데 자기 제품을 직접 팔거나 지원(support)을 할 줄 모르면 그 사람을 제품을 만드는 사람으로는 믿을 수 없어요.",
     "text_zh": "产品经理这个工作有时候太偏内部了，就是影响各方利益相关者(stakeholders)啊，搞定大家的一致性(alignment)啊，这些事情。但是如果你连自己的产品都卖不出去或者支持不了，我真的不相信你能把产品做好。",
     "text_es": "El trabajo de PM puede volverse demasiado interno, influyendo en los stakeholders y buscando alineación y todas esas cosas. Pero si no puedes vender o dar soporte a tu propio producto, no confío en que puedas construir el producto.",
-    "key_sentence": "If you can't sell your product, I don't trust you to build it."
+    "key_sentence": "If you can't sell your product, I don't trust you to build it.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "stakeholders",
+        "definition": "Individuals or groups that have an interest or investment in a particular project or organization.",
+        "businessContext": "In business and tech settings, stakeholders can include employees, customers, investors, and suppliers, all of whom can influence or be affected by the outcomes of a project.",
+        "nuance": "The term often implies a level of responsibility or involvement, suggesting that stakeholders should be engaged in decision-making processes.",
+        "synonyms": [
+          "interested parties",
+          "shareholders"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "alignment",
+        "definition": "The process of ensuring that all parties involved in a project or organization are on the same page regarding goals and objectives.",
+        "businessContext": "In tech and startup environments, alignment is crucial for effective collaboration and can involve synchronizing strategies among teams, departments, or stakeholders.",
+        "nuance": "While alignment suggests harmony, it can also imply the need for negotiation and compromise among differing perspectives.",
+        "synonyms": [
+          "congruence",
+          "coordination"
+        ],
+        "antonyms": [
+          "disalignment",
+          "discord"
+        ]
+      },
+      {
+        "word": "compelling",
+        "definition": "Evoking interest, attention, or admiration in a powerful way; persuasive.",
+        "businessContext": "In marketing and product development, a compelling value proposition or narrative can significantly influence customer engagement and decision-making.",
+        "nuance": "The term often carries a positive connotation, suggesting that something is not only interesting but also worthy of consideration or action.",
+        "synonyms": [
+          "engaging",
+          "persuasive"
+        ],
+        "antonyms": [
+          "uninteresting",
+          "dull"
+        ]
+      },
+      {
+        "word": "internal",
+        "definition": "Relating to or occurring within an organization or entity, rather than with external factors or stakeholders.",
+        "businessContext": "In a business context, internal processes, communications, and dynamics are crucial for operational efficiency and team cohesion.",
+        "nuance": "While 'internal' can imply a focus on organizational matters, it may also suggest a lack of external engagement or market awareness.",
+        "synonyms": [
+          "in-house",
+          "domestic"
+        ],
+        "antonyms": [
+          "external",
+          "outward"
+        ]
+      }
+    ]
   },
   {
-    "text": "We all talk about product sense. To me, it's just a fancy way of saying you can make good decisions with insufficient data. PMs need as many reps as possible in making decisions, documenting the rationale behind those decisions, and then crucially seeing the outcome of them.",
+    "text": "We all talk about product sense. To me, it's just a fancy way of saying you can make good decisions with insufficient data.",
     "speaker": "Kevin Yien",
     "timestamp": "00:00:13",
     "context": "Lenny asks Kevin whether every PM should keep a decision log. Kevin explains that product sense, which is often viewed as a mystical quality, is actually just the ability to make good decisions without complete information. He advocates for PMs to practice decision-making by documenting their reasoning and tracking outcomes to improve their judgment over time.",
     "vocabulary_highlights": [
-      "fancy way of saying",
+      "product sense",
+      "make good decisions",
       "insufficient data",
-      "as many reps as possible",
-      "crucially"
+      "mystical quality"
     ],
     "topics": [
       "Product Management",
@@ -49,17 +109,79 @@
     "text_ko": "모두들 프로덕트 센스(product sense)에 대해 얘기하죠. 제겐 그게 불충분한 데이터로도 좋은 결정을 내릴 수 있다는 말을 멋있게 포장한 표현일 뿐이에요. PM들(PMs)은 결정을 내리는 연습을 가능한 한 많이 하고, 그 결정의 근거를 문서로 남기며, 무엇보다 그 결정이 실제로 어떤 결과를 냈는지를 직접 확인해 봐야 해요.",
     "text_zh": "大家都在谈产品感觉(product sense)，在我看来，这不过是个花哨的说法，说白了就是你能在信息不够的情况下做出正确决策。产品经理需要尽可能多地练习做决策，把决策的理由记录下来，然后最关键的是要看到这些决策的结果。",
     "text_es": "Todos hablamos del sentido de producto (product sense). Para mí, es solo una forma elegante de decir que puedes tomar buenas decisiones cuando no tienes suficiente información. Los PMs necesitan practicar lo más posible tomando decisiones, documentando el por qué detrás de esas decisiones, y luego - y esto es clave - ver qué resultados dan.",
-    "key_sentence": "Product sense is a fancy way of saying you can make decisions with insufficient data."
+    "key_sentence": "Product sense is a fancy way of saying you can make decisions with insufficient data.",
+    "text_trimmed": true,
+    "original_text": "We all talk about product sense. To me, it's just a fancy way of saying you can make good decisions with insufficient data. PMs need as many reps as possible in making decisions, documenting the rationale behind those decisions, and then crucially seeing the outcome of them.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "product sense",
+        "definition": "The intuitive ability to understand what makes a product valuable and appealing to users, often based on market trends and user feedback.",
+        "businessContext": "In business and tech, 'product sense' is crucial for product managers and developers to create offerings that resonate with target audiences and drive sales.",
+        "nuance": "While 'product sense' implies a level of instinct and experience, it can sometimes be viewed as subjective, making it essential to balance intuition with data-driven insights.",
+        "synonyms": [
+          "product intuition",
+          "market insight"
+        ],
+        "antonyms": [
+          "product ignorance",
+          "market blindness"
+        ]
+      },
+      {
+        "word": "make good decisions",
+        "definition": "The process of selecting the best course of action from available options, often involving analysis and judgment.",
+        "businessContext": "In a business environment, the ability to make good decisions is vital for leadership roles, as it can significantly impact the direction and success of a company.",
+        "nuance": "This phrase emphasizes the importance of sound judgment and critical thinking, suggesting that decisions should be well-informed rather than impulsive.",
+        "synonyms": [
+          "exercise sound judgment",
+          "make informed choices"
+        ],
+        "antonyms": [
+          "make poor decisions",
+          "act impulsively"
+        ]
+      },
+      {
+        "word": "insufficient data",
+        "definition": "A situation where the available information is inadequate to draw reliable conclusions or make informed decisions.",
+        "businessContext": "In business and tech, insufficient data can hinder strategic planning, product development, and market analysis, leading to potential risks and missed opportunities.",
+        "nuance": "This term often carries a negative connotation, suggesting a lack of thorough research or analysis, which can undermine confidence in decision-making.",
+        "synonyms": [
+          "incomplete information",
+          "limited data"
+        ],
+        "antonyms": [
+          "sufficient data",
+          "comprehensive information"
+        ]
+      },
+      {
+        "word": "mystical quality",
+        "definition": "An elusive or enchanting characteristic that evokes a sense of wonder or intrigue, often difficult to define or quantify.",
+        "businessContext": "In branding and marketing, a product or service with a 'mystical quality' can create a strong emotional connection with consumers, enhancing its desirability and market appeal.",
+        "nuance": "While this phrase can be used positively to describe unique attributes, it may also imply a lack of clarity or transparency, which can be risky in business communications.",
+        "synonyms": [
+          "enigmatic charm",
+          "captivating allure"
+        ],
+        "antonyms": [
+          "mundane quality",
+          "ordinary characteristic"
+        ]
+      }
+    ]
   },
   {
-    "text": "When you get to offer stage, I send an email and I say all the terrible things that are probably going to reinforce their fears. If you can tell them that upfront and they can read that whole email and still be equally excited to join you, find yourself a A+ hire.",
+    "text": "When you get to offer stage, I send an email and I say all the terrible things that are probably going to reinforce their fears.",
     "speaker": "Kevin Yien",
     "timestamp": "00:00:28",
     "context": "Lenny introduces Kevin's unique hiring approach called the 'unsell email.' Kevin describes how he sends candidates an honest email at the offer stage outlining all the potential downsides and challenges of the role. His philosophy is that if someone remains equally enthusiastic after learning about these negatives upfront, they're likely to be an excellent long-term hire who won't be surprised or disappointed later.",
     "vocabulary_highlights": [
-      "reinforce their fears",
-      "upfront",
-      "find yourself a A+ hire"
+      "reinforce",
+      "potential downsides",
+      "honest",
+      "approach"
     ],
     "topics": [
       "Leadership & Management",
@@ -74,7 +196,68 @@
     "text_ko": "오퍼 단계(offer stage)에 이르면, 저는 이메일로 아마도 그들의 걱정을 더 부추길 만한 안 좋은 점들을 전부 솔직하게 적어요. 그런 걸 처음부터 얘기해주고 그 이메일을 끝까지 읽고도 여전히 똑같이 기쁘게 합류하려 한다면, 그런 사람은 A+ 인재(A+ hire)를 찾은 거예요.",
     "text_zh": "到了发offer这个阶段，我会发封邮件，把所有可能让他们更担心的坏消息都说一遍。如果你能提前把这些都告诉他们，他们看完整封邮件后还是一样兴奋地想加入你们，那恭喜你找到了一个A+级别的人才。",
     "text_es": "Cuando llegamos a la etapa de oferta, mando un email donde les digo todas las cosas terribles que probablemente van a confirmar sus miedos. Si puedes decirles eso de frente y pueden leer todo el email y aún así siguen igual de emocionados por unirse a ti, ahí tienes una contratación de primera.",
-    "key_sentence": "If candidates read my email and remain excited, find yourself a A+ hire."
+    "key_sentence": "I send an email and I say all the terrible things that are probably going to reinforce their fears.",
+    "text_trimmed": true,
+    "original_text": "When you get to offer stage, I send an email and I say all the terrible things that are probably going to reinforce their fears. If you can tell them that upfront and they can read that whole email and still be equally excited to join you, find yourself a A+ hire.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "reinforce",
+        "definition": "To strengthen or support an idea, behavior, or structure, often by providing additional evidence or encouragement.",
+        "businessContext": "In business, reinforcing a strategy or decision can help solidify team commitment and enhance the likelihood of successful implementation.",
+        "nuance": "While 'reinforce' generally has a positive connotation, it can imply a lack of flexibility if used excessively in discussions about change.",
+        "synonyms": [
+          "strengthen",
+          "support"
+        ],
+        "antonyms": [
+          "weaken",
+          "undermine"
+        ]
+      },
+      {
+        "word": "potential downsides",
+        "definition": "Possible negative consequences or risks that may arise from a decision, action, or situation.",
+        "businessContext": "Identifying potential downsides is crucial in risk management, as it allows businesses to prepare for and mitigate adverse effects on operations or strategy.",
+        "nuance": "The phrase suggests a cautious approach, emphasizing the need for thorough analysis before proceeding with a plan.",
+        "synonyms": [
+          "risks",
+          "disadvantages"
+        ],
+        "antonyms": [
+          "benefits",
+          "advantages"
+        ]
+      },
+      {
+        "word": "honest",
+        "definition": "Truthful and sincere in expression, without deceit or fraud.",
+        "businessContext": "Honesty is vital in business communications, fostering trust and transparency between stakeholders, employees, and customers.",
+        "nuance": "While honesty is generally valued, it should be balanced with tact to avoid unnecessary conflict or discomfort in professional settings.",
+        "synonyms": [
+          "truthful",
+          "sincere"
+        ],
+        "antonyms": [
+          "dishonest",
+          "deceitful"
+        ]
+      },
+      {
+        "word": "approach",
+        "definition": "A method or way of dealing with a situation or problem, often involving a specific strategy or perspective.",
+        "businessContext": "In business, the choice of approach can significantly influence project outcomes, team dynamics, and stakeholder engagement.",
+        "nuance": "The term can imply a level of flexibility and adaptability, suggesting that different situations may require different methods.",
+        "synonyms": [
+          "method",
+          "strategy"
+        ],
+        "antonyms": [
+          "disregard",
+          "neglect"
+        ]
+      }
+    ]
   },
   {
     "text": "We are not even beneath the dust on the surface when it comes to what's going to change.",
@@ -82,7 +265,10 @@
     "timestamp": "00:00:45",
     "context": "Lenny asks Kevin about interesting uses of AI in his work. Kevin shares a story about his 7-year-old daughter using Midjourney and asking 'Did I draw that?' after generating an image. He realizes that for her generation, AI image generation is just another tool like a crayon. Kevin uses this powerful metaphor to express how little we understand about the transformative potential of AI technology.",
     "vocabulary_highlights": [
-      "beneath the dust on the surface"
+      "change",
+      "surface",
+      "interesting",
+      "realize"
     ],
     "topics": [
       "Learning & Growth",
@@ -97,7 +283,66 @@
     "text_ko": "앞으로 어떤 변화가 올지는 아직 본질에조차 닿지 못했어요.",
     "text_zh": "说到未来的变化，我们现在掌握的那点东西连皮毛都算不上。",
     "text_es": "Ni siquiera hemos arañado la superficie de todo lo que va a cambiar.",
-    "key_sentence": "We are not even beneath the dust on the surface of change."
+    "key_sentence": "We are not even beneath the dust on the surface of change.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "change",
+        "definition": "The act or process of making something different from what it is or from what it would be if left alone.",
+        "businessContext": "In business, change often refers to organizational transformations, shifts in strategy, or adaptations in response to market dynamics.",
+        "nuance": "While 'change' can imply improvement or progress, it can also suggest disruption or instability, so context is important when discussing it.",
+        "synonyms": [
+          "transformation",
+          "modification"
+        ],
+        "antonyms": [
+          "stability",
+          "continuity"
+        ]
+      },
+      {
+        "word": "surface",
+        "definition": "The outermost layer or boundary of an object; in a metaphorical sense, it refers to the visible aspects of a situation.",
+        "businessContext": "In business discussions, 'surface' often describes the initial, observable factors of a problem or opportunity, suggesting that deeper analysis is required.",
+        "nuance": "Using 'surface' can imply that there is more complexity beneath the apparent simplicity, which is crucial in strategic evaluations.",
+        "synonyms": [
+          "exterior",
+          "facade"
+        ],
+        "antonyms": [
+          "depth",
+          "substance"
+        ]
+      },
+      {
+        "word": "interesting",
+        "definition": "Arousing curiosity or attention; engaging in a way that captures interest.",
+        "businessContext": "In the context of business, 'interesting' is often used to describe innovative ideas, market trends, or unique value propositions that warrant further exploration.",
+        "nuance": "While 'interesting' is generally positive, it can also imply a lack of depth or seriousness, so it should be used carefully in formal evaluations.",
+        "synonyms": [
+          "engaging",
+          "intriguing"
+        ],
+        "antonyms": [
+          "boring",
+          "uninspiring"
+        ]
+      },
+      {
+        "word": "realize",
+        "definition": "To become fully aware of something as a fact; to understand clearly.",
+        "businessContext": "In business, 'realize' often refers to the moment when stakeholders comprehend the implications of data or strategic decisions, leading to action.",
+        "nuance": "The term can suggest a sudden insight or recognition, which may carry a sense of urgency or importance in decision-making contexts.",
+        "synonyms": [
+          "recognize",
+          "understand"
+        ],
+        "antonyms": [
+          "ignore",
+          "overlook"
+        ]
+      }
+    ]
   },
   {
     "text": "When you are building a product, you have this team, engineers, designers, so much potential. The purpose of product management, not the person, but the practice, is to convert that potential into as much realized value for someone as possible, right? Minimum loss.",
@@ -105,9 +350,10 @@
     "timestamp": "00:03:45",
     "context": "Lenny asks Kevin why he discourages people from going straight into product management roles. Kevin uses a physics analogy of potential and kinetic energy to explain his philosophy. He defines product management as the practice of converting a team's potential energy (the collective capabilities of engineers, designers, etc.) into kinetic energy (actual value delivered to customers) with minimal waste or loss.",
     "vocabulary_highlights": [
-      "so much potential",
+      "convert",
       "realized value",
-      "minimum loss"
+      "potential",
+      "product management"
     ],
     "topics": [
       "Product Management",
@@ -122,18 +368,77 @@
     "text_ko": "제품을 만들 때 팀, 엔지니어, 디자이너 등 잠재력이 정말 많아요. 여기서 말하는 제품 관리(product management)는 사람을 가리키는 게 아니라 그 실천을 뜻하는 건데요, 목적은 그 잠재력을 가능한 한 많이 누군가에게 돌아가는 실현된 가치로 전환하는 거예요. 손실은 최소화하면서요.",
     "text_zh": "当你在做产品的时候，你有这个团队，工程师、设计师，潜力巨大。产品管理(product management)这个实践的目的，不是说某个人，而是这套做法，就是要把这些潜力最大化地转换成对用户的实际价值，对吧？损失要最小。",
     "text_es": "Cuando estás desarrollando un producto, tienes este equipo, ingenieros, diseñadores, un potencial increíble. El objetivo de la gestión de producto, no me refiero a la persona sino a la práctica en sí, es convertir todo ese potencial en el máximo valor real posible para alguien, ¿verdad? Con la mínima pérdida.",
-    "key_sentence": "Product management converts so much potential into realized value with minimum loss."
+    "key_sentence": "Product management converts so much potential into realized value with minimum loss.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "convert",
+        "definition": "To change something into a different form or use; to transform.",
+        "businessContext": "In business, 'convert' often refers to the process of turning leads into customers or transforming potential into actual revenue.",
+        "nuance": "While 'convert' can imply a positive transformation, it can also suggest a degree of manipulation, so context is important when using it.",
+        "synonyms": [
+          "transform",
+          "change"
+        ],
+        "antonyms": [
+          "maintain",
+          "preserve"
+        ]
+      },
+      {
+        "word": "realized value",
+        "definition": "The actual worth or benefit derived from an asset, investment, or effort after it has been fully realized or utilized.",
+        "businessContext": "In product development, 'realized value' refers to the tangible benefits that customers experience from a product, as opposed to its potential or theoretical value.",
+        "nuance": "This term emphasizes the importance of delivering measurable outcomes, making it crucial in performance evaluations and financial assessments.",
+        "synonyms": [
+          "actual value",
+          "tangible benefit"
+        ],
+        "antonyms": [
+          "theoretical value",
+          "potential value"
+        ]
+      },
+      {
+        "word": "potential",
+        "definition": "The inherent ability or capacity for growth, development, or future success.",
+        "businessContext": "In a business context, 'potential' often describes untapped opportunities within a market, team, or product that could lead to significant gains if properly leveraged.",
+        "nuance": "While 'potential' is generally positive, it can also imply a lack of current effectiveness, so it should be used carefully to avoid suggesting underperformance.",
+        "synonyms": [
+          "capability",
+          "possibility"
+        ],
+        "antonyms": [
+          "limitation",
+          "inability"
+        ]
+      },
+      {
+        "word": "product management",
+        "definition": "The practice of overseeing the development, marketing, and lifecycle of a product to ensure it meets customer needs and business goals.",
+        "businessContext": "In tech and startups, product management is crucial for aligning cross-functional teams and guiding a product from conception to market launch and beyond.",
+        "nuance": "This term encompasses both strategic and tactical elements, and while it can refer to a specific role, it is often used to describe a broader organizational practice.",
+        "synonyms": [
+          "product development",
+          "product strategy"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think some of this is changing with the advent of large language models and the ability to actually just mimic someone else's tone. But I take inspiration from the camp of Anthony Bourdain, and he has, I'm going to butcher the exact quote but it's something like, 'If you want to know how to make good food, you have to eat a lot of food, and you have to be willing to have a bad meal every now and again.'",
+    "text": "I think some of this is changing with the advent of large language models and the ability to actually just mimic someone else's tone.",
     "speaker": "Kevin Yien",
     "timestamp": "00:15:14",
     "context": "Lenny asks Kevin how to become a great writer, since Kevin believes writing skills are crucial for PMs. Kevin acknowledges that AI tools are changing the landscape but still emphasizes the importance of consuming quality content. He quotes celebrity chef Anthony Bourdain's philosophy about food - that to create good work, you must consume a lot of work, including some that isn't great, to develop your taste and judgment.",
     "vocabulary_highlights": [
-      "with the advent of",
-      "I take inspiration from",
-      "I'm going to butcher the exact quote",
-      "every now and again"
+      "crucial",
+      "advent",
+      "mimic",
+      "landscape"
     ],
     "topics": [
       "Communication Skills",
@@ -148,17 +453,79 @@
     "text_ko": "이런 부분은 대형 언어 모델(large language models)의 등장과 남의 말투를 실제로 그대로 흉내 낼 수 있는 능력 때문에 좀 달라지고 있는 것 같아요. 저는 앤서니 부르댕의 관점에서 영감을 받아요. 제가 정확한 말을 그대로 옮기진 못하겠지만, 요지는 “좋은 음식을 만드는 법을 알려면 음식을 많이 먹어봐야 하고, 가끔은 맛없는 식사도 감수할 줄 알아야 한다”였어요.",
     "text_zh": "我觉得随着大语言模型(large language models)的出现，这种情况正在发生变化，现在确实可以直接模仿别人的语调了。但我还是很认同安东尼·波登那一派的观点，他有句话我可能说得不够准确，大概意思是：\"想要做出好吃的菜，你就得多吃，而且要做好偶尔踩雷的准备。\"",
     "text_es": "Creo que esto está cambiando un poco con la llegada de los modelos de lenguaje grandes y la capacidad de imitar el tono de otra persona. Pero me inspiro en la filosofía de Anthony Bourdain, y él tiene una frase - no la voy a citar exactamente pero es algo así como: \"Si quieres saber cocinar bien, tienes que comer mucho, y tienes que estar dispuesto a comerte una mala comida de vez en cuando.\"",
-    "key_sentence": "I take inspiration from Anthony Bourdain's idea of learning through experience every now and again."
+    "key_sentence": "the ability to actually just mimic someone else's tone.",
+    "text_trimmed": true,
+    "original_text": "I think some of this is changing with the advent of large language models and the ability to actually just mimic someone else's tone. But I take inspiration from the camp of Anthony Bourdain, and he has, I'm going to butcher the exact quote but it's something like, 'If you want to know how to make good food, you have to eat a lot of food, and you have to be willing to have a bad meal every now and again.'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "crucial",
+        "definition": "Of great importance; critical to the success or failure of something.",
+        "businessContext": "In business settings, 'crucial' often describes decisions, strategies, or factors that significantly impact outcomes, such as market entry or product development.",
+        "nuance": "While 'crucial' implies a high level of importance, it can also suggest urgency, so it should be used when emphasizing the necessity of timely action.",
+        "synonyms": [
+          "essential",
+          "vital"
+        ],
+        "antonyms": [
+          "insignificant",
+          "trivial"
+        ]
+      },
+      {
+        "word": "advent",
+        "definition": "The arrival or introduction of a notable person, event, or phenomenon.",
+        "businessContext": "In the tech industry, the 'advent' of new technologies or methodologies often signifies a shift in market dynamics or operational practices.",
+        "nuance": "The term 'advent' carries a sense of anticipation and significance, making it suitable for discussing innovations that are expected to have a transformative impact.",
+        "synonyms": [
+          "arrival",
+          "emergence"
+        ],
+        "antonyms": [
+          "departure",
+          "disappearance"
+        ]
+      },
+      {
+        "word": "mimic",
+        "definition": "To imitate or replicate someone or something, often in a way that closely resembles the original.",
+        "businessContext": "In marketing and branding, companies may 'mimic' successful strategies or tones to resonate with target audiences or to establish a competitive edge.",
+        "nuance": "While 'mimic' can imply imitation, it may also suggest a lack of originality, so it should be used carefully to avoid negative connotations.",
+        "synonyms": [
+          "imitate",
+          "replicate"
+        ],
+        "antonyms": [
+          "create",
+          "originate"
+        ]
+      },
+      {
+        "word": "landscape",
+        "definition": "The overall environment or context in which events occur, particularly in reference to a specific field or industry.",
+        "businessContext": "In business discussions, 'landscape' often refers to the competitive environment, market conditions, or technological advancements that shape strategic planning.",
+        "nuance": "The term 'landscape' conveys a broad view of the situation, making it useful for discussions that require an understanding of multiple factors influencing a given context.",
+        "synonyms": [
+          "environment",
+          "framework"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "I explicitly do not mean read a bunch of other PM artifacts. You're not going to become a better writer by reading PRDs or whatever it is or support articles. It needs to be writing that compels. That's the theme I would go back to because that's what you're trying to do at the end of the day.",
+    "text": "I explicitly do not mean read a bunch of other PM artifacts. You're not going to become a better writer by reading PRDs or whatever it is or support articles. It needs to be writing that compels.",
     "speaker": "Kevin Yien",
     "timestamp": "00:16:13",
     "context": "Lenny continues asking about Kevin's advice for becoming a better writer. Kevin clarifies that PMs shouldn't just read typical product management documents like PRDs (Product Requirements Documents) or support articles. Instead, they need to read writing that compels action - writing that moves people to do something different. This is because the ultimate goal of PM writing is to motivate and guide others toward specific actions.",
     "vocabulary_highlights": [
-      "PM artifacts",
-      "writing that compels",
-      "at the end of the day"
+      "artifacts",
+      "compels",
+      "explicitly",
+      "product management"
     ],
     "topics": [
       "Communication Skills",
@@ -173,6 +540,67 @@
     "text_ko": "다른 PM 산출물(PM artifacts)을 잔뜩 읽어보라는 뜻은 분명히 아니에요. PRD들(PRDs)이나 그런 지원 문서(support articles)를 읽는다고 글쓰기 실력이 좋아지진 않아요. 사람을 사로잡는 글, 즉 읽는 이를 설득하고 행동하게 만드는 글이어야 해요. 그게 제가 계속 강조하는 핵심이에요. 결국 그게 당신이 궁극적으로 하려는 일이니까요.",
     "text_zh": "我明确说的不是让你去读一堆产品经理的文档资料。你不可能通过读PRD（产品需求文档）或者支持文章什么的就变成更好的写手。你需要读的是那些真正打动人的文字。这就是我想强调的核心点，因为归根到底，这就是你要做的事情。",
     "text_es": "No me refiero para nada a leer un montón de documentos de gestión de producto. No vas a mejorar como escritor leyendo PRDs o lo que sea, o artículos de soporte. Tiene que ser escritura que enganche, que atrape. A eso es a lo que volvería siempre porque al fin y al cabo, eso es lo que estás tratando de lograr.",
-    "key_sentence": "You won't become a better writer by reading PM artifacts; it needs to be writing that compels."
+    "key_sentence": "You won't become a better writer by reading PM artifacts; it needs to be writing that compels.",
+    "text_trimmed": true,
+    "original_text": "I explicitly do not mean read a bunch of other PM artifacts. You're not going to become a better writer by reading PRDs or whatever it is or support articles. It needs to be writing that compels. That's the theme I would go back to because that's what you're trying to do at the end of the day.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "artifacts",
+        "definition": "Artifacts are tangible items or documents created during a process that provide evidence of that process or its outcomes.",
+        "businessContext": "In business and tech, artifacts often refer to project documentation, such as product requirement documents (PRDs), design specifications, and user stories, which are essential for communication and project management.",
+        "nuance": "The term can imply not just physical items, but also digital documents or outputs that hold significance in a project lifecycle.",
+        "synonyms": [
+          "documents",
+          "deliverables"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "compels",
+        "definition": "To compel means to drive or force someone to take a specific action or adopt a particular viewpoint.",
+        "businessContext": "In a business context, compelling content or arguments are crucial for persuading stakeholders, customers, or team members to engage with a product or idea.",
+        "nuance": "The term often carries a sense of urgency or necessity, suggesting that the action taken is not merely encouraged but required.",
+        "synonyms": [
+          "forces",
+          "drives"
+        ],
+        "antonyms": [
+          "dissuades",
+          "discourages"
+        ]
+      },
+      {
+        "word": "explicitly",
+        "definition": "Explicitly means clearly and without ambiguity; it indicates that something is stated directly and in detail.",
+        "businessContext": "In business communication, being explicit is vital to ensure that all parties understand the expectations, requirements, or instructions without room for misinterpretation.",
+        "nuance": "While being explicit is generally positive, it can sometimes imply a lack of subtlety or sensitivity in communication.",
+        "synonyms": [
+          "clearly",
+          "directly"
+        ],
+        "antonyms": [
+          "implicitly",
+          "vaguely"
+        ]
+      },
+      {
+        "word": "product management",
+        "definition": "Product management is the process of guiding a product's development, from conception through launch and beyond, ensuring it meets customer needs and business goals.",
+        "businessContext": "In tech and startups, product management involves cross-functional collaboration among engineering, marketing, and sales teams to deliver successful products that align with market demands.",
+        "nuance": "The role of product management can vary significantly between organizations, sometimes encompassing strategic planning, user experience design, and market analysis.",
+        "synonyms": [
+          "product oversight",
+          "product strategy"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   }
 ]

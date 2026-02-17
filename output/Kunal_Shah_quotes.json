@@ -1,13 +1,14 @@
 [
   {
-    "text": "I think CRED's insight was actually quite simple. We realized that unfortunately the value of time and per capita income is concentrated with 25 million families and therefore focusing on them is important. And they are a lot more global in their approach versus the rest of India.",
+    "text": "I think CRED's insight was actually quite simple. We realized that unfortunately the value of time and per capita income is concentrated with 25 million families and therefore focusing on them is important.",
     "speaker": "Kunal Shah",
     "timestamp": "00:33:27",
     "context": "Lenny asks Kunal what he's learned during his journey building CRED over the past six years compared to his previous startups. Kunal explains that CRED's core strategy was to focus on India's wealthiest 25 million families rather than trying to serve the entire Indian market. He recognized that this demographic has higher per capita income and values time differently than the broader Indian population, making them more similar to global consumers in their behavior and spending patterns.",
     "vocabulary_highlights": [
+      "concentrated",
       "per capita income",
-      "concentrated with",
-      "global in their approach"
+      "core strategy",
+      "focus on"
     ],
     "topics": [
       "Product Management",
@@ -23,7 +24,68 @@
     "text_ko": "사실 CRED의 인사이트는 꽤 단순했어요. 시간의 가치와 1인당 소득(per capita income)이 2,500만 가구에 집중돼 있어서 그들을 공략하는 게 중요하다고 본 거예요. 그리고 그들은 인도 다른 지역 사람들보다 훨씬 더 글로벌한 접근을 해요.",
     "text_zh": "我觉得CRED的洞察其实挺简单的。我们发现一个现实就是，时间价值和人均收入其实就集中在2500万个家庭身上，所以必须得重点关注这部分人群。而且这些人的思维方式比印度其他人群要国际化得多。",
     "text_es": "Creo que la perspectiva de CRED era bastante sencilla en realidad. Nos dimos cuenta de que desafortunadamente el valor del tiempo y el ingreso per cápita se concentra en 25 millones de familias, así que enfocarnos en ellas es clave. Y tienen un enfoque mucho más global comparado con el resto de India.",
-    "key_sentence": "Focusing on 25 million families is important due to concentrated per capita income."
+    "key_sentence": "Focusing on 25 million families is important due to concentrated per capita income.",
+    "text_trimmed": true,
+    "original_text": "I think CRED's insight was actually quite simple. We realized that unfortunately the value of time and per capita income is concentrated with 25 million families and therefore focusing on them is important. And they are a lot more global in their approach versus the rest of India.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "concentrated",
+        "definition": "Having a high density or intensity in a specific area or among a particular group.",
+        "businessContext": "In business, 'concentrated' often refers to market segments where a significant share of resources, wealth, or consumer demand is focused, impacting strategic decisions.",
+        "nuance": "While 'concentrated' can imply strength in a specific area, it may also suggest vulnerability if over-reliance on a small segment is present.",
+        "synonyms": [
+          "focused",
+          "intensified"
+        ],
+        "antonyms": [
+          "dispersed",
+          "scattered"
+        ]
+      },
+      {
+        "word": "per capita income",
+        "definition": "The average income earned per person in a given area, typically used to gauge economic health and living standards.",
+        "businessContext": "Per capita income is a crucial metric for businesses when assessing market potential, consumer purchasing power, and economic disparities in different regions.",
+        "nuance": "This term is often used in economic analyses and reports; however, it may not fully capture income distribution disparities within a population.",
+        "synonyms": [
+          "average income",
+          "income per person"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "core strategy",
+        "definition": "The fundamental approach or plan that guides a company's actions and decisions to achieve its long-term objectives.",
+        "businessContext": "In strategic planning, a core strategy outlines the primary focus areas for growth, competitive advantage, and resource allocation in a business.",
+        "nuance": "While 'core strategy' emphasizes essential elements, it should be flexible enough to adapt to changing market conditions and consumer needs.",
+        "synonyms": [
+          "fundamental strategy",
+          "primary strategy"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "focus on",
+        "definition": "To concentrate attention or resources on a specific task, objective, or area.",
+        "businessContext": "In business, 'focus on' is often used to prioritize initiatives, ensuring that teams direct their efforts towards the most impactful activities for success.",
+        "nuance": "This phrase implies a deliberate choice to allocate resources, which can sometimes lead to neglecting other important areas if not balanced properly.",
+        "synonyms": [
+          "concentrate on",
+          "emphasize"
+        ],
+        "antonyms": [
+          "neglect",
+          "disregard"
+        ]
+      }
+    ]
   },
   {
     "text": "I often tell people that entrepreneurs are uncertainty absorbers for everybody- for employees, for investors, for customers- and therefore they get rewarded for being those people who remove uncertainty from people's lives. But the kind of expectations keep changing at companies of scale.",
@@ -31,8 +93,10 @@
     "timestamp": "00:35:03",
     "context": "Kunal is discussing the lessons he's learned while scaling CRED from a startup to a larger company. He's explaining how the founder's role evolves as the company grows, and how different stakeholders (seed investors vs growth investors) have different tolerance levels for uncertainty. This insight comes from his experience managing expectations across different stages of company growth and different types of investors on CRED's cap table.",
     "vocabulary_highlights": [
+      "entrepreneurs",
       "uncertainty absorbers",
-      "companies of scale"
+      "expectations",
+      "stakeholders"
     ],
     "topics": [
       "Leadership & Management",
@@ -48,16 +112,77 @@
     "text_ko": "저는 종종 사람들에게 기업가(entrepreneurs)는 직원들이나 투자자들, 고객들처럼 모두의 불확실성을 흡수해 주는 존재, 즉 불확실성 흡수자(uncertainty absorbers)라고 말해요. 그래서 사람들 삶의 불확실성을 제거해 주는 사람들이 그에 대한 보상을 받는다고요. 다만 규모가 큰 회사들(companies of scale)에서는 그런 기대치가 계속 바뀌어요.",
     "text_zh": "我经常跟人说，创业者其实就是帮所有人消化不确定性的——帮员工、帮投资人、帮客户消化，所以他们能拿到回报，就是因为他们把别人生活中的不确定性给解决了。但是公司做大了以后，大家对你的期待就一直在变。",
     "text_es": "Siempre les digo a las personas que los emprendedores son como esponjas de incertidumbre para todos - para los empleados, para los inversionistas, para los clientes - y por eso se les recompensa por ser esas personas que le quitan la incertidumbre a la vida de la gente. Pero el tipo de expectativas sigue cambiando en las empresas grandes.",
-    "key_sentence": "Entrepreneurs are uncertainty absorbers, rewarded for removing uncertainty in companies of scale."
+    "key_sentence": "Entrepreneurs are uncertainty absorbers, rewarded for removing uncertainty in companies of scale.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "entrepreneurs",
+        "definition": "Individuals who start and manage businesses, often taking on financial risks in the hope of profit.",
+        "businessContext": "In the business world, entrepreneurs are seen as innovators who drive economic growth by creating new products and services, often in startup environments.",
+        "nuance": "The term carries a connotation of creativity and risk-taking, and is often used positively to highlight individuals who challenge the status quo.",
+        "synonyms": [
+          "business founders",
+          "startup creators"
+        ],
+        "antonyms": [
+          "employees",
+          "followers"
+        ]
+      },
+      {
+        "word": "uncertainty absorbers",
+        "definition": "Individuals or entities that mitigate or manage unpredictability in business environments, providing stability to stakeholders.",
+        "businessContext": "In startups and corporate settings, uncertainty absorbers are crucial as they help navigate market fluctuations and instill confidence among employees and investors.",
+        "nuance": "This phrase emphasizes a proactive role in managing risk, and is often used in discussions about leadership and strategic decision-making.",
+        "synonyms": [
+          "risk mitigators",
+          "stability providers"
+        ],
+        "antonyms": [
+          "risk creators",
+          "uncertainty generators"
+        ]
+      },
+      {
+        "word": "expectations",
+        "definition": "Beliefs or assumptions about what will happen in the future, often related to performance or outcomes.",
+        "businessContext": "In a corporate context, managing stakeholder expectations is vital for maintaining relationships and ensuring alignment on goals and deliverables.",
+        "nuance": "Expectations can shift based on market conditions or company performance, making it important to communicate clearly to avoid misunderstandings.",
+        "synonyms": [
+          "anticipations",
+          "forecasts"
+        ],
+        "antonyms": [
+          "disappointments",
+          "surprises"
+        ]
+      },
+      {
+        "word": "stakeholders",
+        "definition": "Individuals or groups that have an interest or investment in a company, including employees, customers, investors, and suppliers.",
+        "businessContext": "In business strategy, understanding stakeholder needs and concerns is essential for decision-making and ensuring long-term success.",
+        "nuance": "The term encompasses a broad range of parties, and its use highlights the importance of considering diverse perspectives in business operations.",
+        "synonyms": [
+          "interested parties",
+          "shareholders"
+        ],
+        "antonyms": [
+          "outsiders",
+          "non-participants"
+        ]
+      }
+    ]
   },
   {
-    "text": "One of the things I've learned is that profit pools of a country tell you a lot about what the country values. And trying to copy somebody else's profit pool to your country will not be a wise idea because the country's values are demonstrated in what profit pools exist.",
+    "text": "One of the things I've learned is that profit pools of a country tell you a lot about what the country values.",
     "speaker": "Kunal Shah",
     "timestamp": "00:36:19",
     "context": "Kunal is sharing insights from building CRED about understanding different markets. A 'profit pool' refers to where the most profitable companies and business models exist in an economy. He's explaining that entrepreneurs shouldn't simply copy successful business models from other countries because what's profitable reflects cultural values - for example, India has fewer profitable retail companies compared to Western markets due to different consumption patterns and cultural factors like low divorce rates.",
     "vocabulary_highlights": [
       "profit pools",
-      "will not be a wise idea"
+      "values",
+      "insights",
+      "economy"
     ],
     "topics": [
       "Strategy & Planning",
@@ -73,16 +198,79 @@
     "text_ko": "제가 배운 것 중 하나는 한 나라의 수익 풀(profit pools)이 그 나라가 무엇을 중요하게 여기는지를 많이 알려준다는 거예요. 그래서 다른 나라의 수익 풀을 그대로 따라 하려는 건 현명한 생각이 아니에요. 어떤 수익 풀들이 존재하는지가 그 나라의 가치관을 드러내거든요.",
     "text_zh": "我发现一个道理，就是看一个国家哪些行业最赚钱，基本上就能看出这个国家重视什么。你要是想把别人国家的赚钱模式照搬到自己国家来，那肯定是不明智的，因为每个国家的价值观不一样，这直接决定了哪些生意能做得起来。",
     "text_es": "Una de las cosas que he aprendido es que los sectores rentables de un país te dicen mucho sobre lo que ese país valora de verdad. Y tratar de copiar los sectores rentables de otro país no va a ser buena idea, porque los valores de cada país se reflejan en qué sectores generan ganancias ahí.",
-    "key_sentence": "Profit pools reveal a country's values; copying them will not be a wise idea."
+    "key_sentence": "profit pools of a country tell you a lot about what the country values.",
+    "text_trimmed": true,
+    "original_text": "One of the things I've learned is that profit pools of a country tell you a lot about what the country values. And trying to copy somebody else's profit pool to your country will not be a wise idea because the country's values are demonstrated in what profit pools exist.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "profit pools",
+        "definition": "Profit pools refer to the total profits earned in a particular industry or market segment, often highlighting the most lucrative areas within that space.",
+        "businessContext": "In business strategy, understanding profit pools helps companies identify where to focus their resources and efforts to maximize profitability.",
+        "nuance": "The term implies a strategic approach to analyzing market dynamics, often used in competitive analysis and market entry strategies.",
+        "synonyms": [
+          "profit centers",
+          "revenue streams"
+        ],
+        "antonyms": [
+          "loss zones",
+          "cost centers"
+        ]
+      },
+      {
+        "word": "values",
+        "definition": "Values are the principles or standards of behavior that are considered important by an individual or organization, guiding decision-making and actions.",
+        "businessContext": "In a business setting, company values shape corporate culture and influence employee behavior, customer relations, and brand identity.",
+        "nuance": "The term often carries emotional weight and reflects deeper beliefs, making it essential for leaders to align organizational practices with stated values.",
+        "synonyms": [
+          "principles",
+          "ethics"
+        ],
+        "antonyms": [
+          "disvalues",
+          "immorality"
+        ]
+      },
+      {
+        "word": "insights",
+        "definition": "Insights are deep understandings or revelations gained from analyzing data, experiences, or observations, often leading to informed decision-making.",
+        "businessContext": "In business, insights drive strategic initiatives, product development, and marketing strategies by revealing customer preferences and market trends.",
+        "nuance": "The term suggests a level of depth and clarity that goes beyond mere information, often implying actionable intelligence.",
+        "synonyms": [
+          "understandings",
+          "revelations"
+        ],
+        "antonyms": [
+          "ignorance",
+          "confusion"
+        ]
+      },
+      {
+        "word": "economy",
+        "definition": "The economy refers to the system of production, distribution, and consumption of goods and services within a specific area, typically a country or region.",
+        "businessContext": "Understanding the economy is crucial for businesses as it influences market conditions, consumer behavior, and overall business strategy.",
+        "nuance": "The term can imply varying scales, from local economies to global economic systems, and is often discussed in terms of growth, stability, and trends.",
+        "synonyms": [
+          "market system",
+          "economic structure"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "So when you're not paid an hourly salary, the concept of time is not the same. And when the concept of time is not the same, paying for time is hard to do. And therefore you'll see a lot of Indians who make, let's say, I don't know, maybe $100 an hour, but still spend an hour to spend $10 on a flight ticket because that's what it is.",
+    "text": "So when you're not paid an hourly salary, the concept of time is not the same. And when the concept of time is not the same, paying for time is hard to do.",
     "speaker": "Kunal Shah",
     "timestamp": "00:26:34",
     "context": "Lenny asks about the difference between DAUs (daily active users) and ARPUs (average revenue per user) in India - why it's easy to get users but hard to make money per user. Kunal explains that Indians have never been paid hourly wages, unlike Americans who typically start with hourly jobs. This cultural difference means Indians don't mentally calculate the value of their time in the same way, making them less willing to pay for time-saving services or convenience.",
     "vocabulary_highlights": [
-      "concept of time",
-      "paying for time is hard to do"
+      "concept",
+      "revenue",
+      "active users",
+      "make money"
     ],
     "topics": [
       "Product Management",
@@ -98,7 +286,71 @@
     "text_ko": "그래서 시급으로 받지 않으면 시간에 대한 개념이 달라져요. 시간이 다르면 시간을 돈으로 계산해서 지불하기도 어렵고요. 그래서 예를 들어 어떤 인도인들은 시간당 100달러 정도 버는데도 비행기 표 10달러를 아끼려고 한 시간을 쓰는 걸 보게 돼요. 그런 거예요.",
     "text_zh": "所以当你不是按小时拿工资的时候，你对时间的概念就不一样了。时间概念不一样了，要为时间付费就很难做到。所以你会看到很多印度人，比如说一小时能赚100美金吧，但还是会花一个小时去省10美金的机票钱，就是这么个情况。",
     "text_es": "Entonces cuando no te pagan por horas, el concepto del tiempo no es el mismo. Y cuando el concepto del tiempo no es el mismo, es difícil ponerle precio al tiempo. Por eso vas a ver muchos indios que ganan, no sé, digamos unos $100 la hora, pero que igual se pasan una hora buscando para ahorrarse $10 en un boleto de avión porque así es la cosa.",
-    "key_sentence": "The concept of time differs when not paid hourly; paying for time is hard to do."
+    "key_sentence": "The concept of time differs when not paid hourly; paying for time is hard to do.",
+    "text_trimmed": true,
+    "original_text": "So when you're not paid an hourly salary, the concept of time is not the same. And when the concept of time is not the same, paying for time is hard to do. And therefore you'll see a lot of Indians who make, let's say, I don't know, maybe $100 an hour, but still spend an hour to spend $10 on a flight ticket because that's what it is.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "concept",
+        "definition": "A concept is an abstract idea or a general notion that represents something in the mind. It serves as a foundational element for understanding complex theories or systems.",
+        "businessContext": "In business and technology, concepts are often used to develop new products, services, or strategies, guiding innovation and decision-making processes.",
+        "nuance": "While 'concept' is often used in formal discussions, it can also imply a theoretical or untested idea, so it should be used with care in practical applications.",
+        "synonyms": [
+          "idea",
+          "notion"
+        ],
+        "antonyms": [
+          "reality",
+          "fact"
+        ]
+      },
+      {
+        "word": "revenue",
+        "definition": "Revenue is the total income generated from the sale of goods or services before any expenses are deducted. It is a critical measure of a company's financial performance.",
+        "businessContext": "In business, revenue is a key indicator of growth and profitability, often analyzed through various metrics such as recurring revenue or revenue per user.",
+        "nuance": "The term 'revenue' can sometimes be confused with profit; it is important to clarify that revenue refers to gross income, not net income after expenses.",
+        "synonyms": [
+          "income",
+          "earnings"
+        ],
+        "antonyms": [
+          "loss",
+          "expense"
+        ]
+      },
+      {
+        "word": "active users",
+        "definition": "Active users refer to individuals who engage with a product or service within a specified timeframe, often used to measure user engagement and retention. This metric is crucial for assessing the health of digital platforms.",
+        "businessContext": "In tech and startup environments, tracking active users helps businesses understand user behavior, optimize features, and drive growth strategies.",
+        "nuance": "The term 'active users' can vary in definition based on the context, such as daily active users (DAU) versus monthly active users (MAU), so clarity is essential when discussing metrics.",
+        "synonyms": [
+          "engaged users",
+          "participating users"
+        ],
+        "antonyms": [
+          "inactive users",
+          [
+            "N/A",
+            "N/A"
+          ]
+        ]
+      },
+      {
+        "word": "make money",
+        "definition": "To make money means to generate profit or income from business activities, investments, or other financial ventures. It is a fundamental goal for most businesses and entrepreneurs.",
+        "businessContext": "In the business world, strategies to make money include optimizing pricing models, reducing costs, and increasing sales, all aimed at enhancing overall profitability.",
+        "nuance": "While 'make money' is a straightforward phrase, it can sometimes imply a focus on short-term gains rather than sustainable growth, so context matters.",
+        "synonyms": [
+          "generate profit",
+          "earn income"
+        ],
+        "antonyms": [
+          "lose money",
+          "incur losses"
+        ]
+      }
+    ]
   },
   {
     "text": "What happens is there is concentration of trust. So you will see that super apps, superstars, super companies all exist in low trust markets because the lack of trust creates concentration of trust, and therefore you will see one app can do 400 things.",
@@ -106,7 +358,9 @@
     "timestamp": "00:28:53",
     "context": "Lenny asks why focus is considered a curse in Asian markets, contrary to the common US advice of building one thing well. Kunal explains the concept of 'low trust markets' - developing countries where institutions aren't strong enough to protect consumers from bad business practices. In these markets, consumers concentrate their trust in a few proven brands rather than trying new ones, which is why super apps (like WeChat) and conglomerate companies (like Tata in India) are successful there.",
     "vocabulary_highlights": [
-      "concentration of trust",
+      "concentration",
+      "trust",
+      "super apps",
       "low trust markets"
     ],
     "topics": [
@@ -123,17 +377,77 @@
     "text_ko": "결국 일어나는 건 신뢰의 집중(concentration of trust)이에요. 신뢰가 낮은 시장일수록 슈퍼앱(super apps)이나 슈퍼스타(superstars), 슈퍼 기업(super companies)이 등장하죠. 신뢰가 부족하니까 신뢰가 한곳으로 쏠리고, 그 결과 한 앱이 400가지 일을 하게 되는 걸 보게 돼요.",
     "text_zh": "其实就是这样，信任会集中到少数几个地方。所以你会发现，超级应用(super apps)、超级明星、超级公司，这些都出现在信任度比较低的市场里，因为大家普遍不信任，反而会把信任都集中给少数几个，所以你看一个应用能做四百件事情。",
     "text_es": "Lo que pasa es que se concentra la confianza. Entonces vas a ver que las súper apps, las empresas estrella, las súper compañías, todas existen en mercados donde hay poca confianza, porque justamente esa falta de confianza hace que la confianza se concentre, y por eso ves que una sola app puede hacer 400 cosas diferentes.",
-    "key_sentence": "Concentration of trust leads to super apps in low trust markets."
+    "key_sentence": "Concentration of trust leads to super apps in low trust markets.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "concentration",
+        "definition": "The action or power of focusing one's attention or mental effort on a particular object or activity.",
+        "businessContext": "In business, concentration often refers to the aggregation of resources, market share, or decision-making power within a limited number of entities, which can influence market dynamics.",
+        "nuance": "While concentration can imply efficiency and strength, it may also suggest monopolistic tendencies or reduced competition.",
+        "synonyms": [
+          "focus",
+          "centralization"
+        ],
+        "antonyms": [
+          "dispersal",
+          "diversification"
+        ]
+      },
+      {
+        "word": "trust",
+        "definition": "A firm belief in the reliability, truth, or ability of someone or something.",
+        "businessContext": "In the business world, trust is crucial for building relationships with customers, partners, and employees, influencing brand loyalty and collaboration.",
+        "nuance": "Trust can be fragile and is often built over time; its absence can lead to skepticism and reduced engagement.",
+        "synonyms": [
+          "confidence",
+          "faith"
+        ],
+        "antonyms": [
+          "distrust",
+          "suspicion"
+        ]
+      },
+      {
+        "word": "super apps",
+        "definition": "Applications that provide multiple services and functionalities within a single platform, often integrating various aspects of users' digital lives.",
+        "businessContext": "Super apps are particularly prevalent in markets with low trust, where users prefer a single, trusted platform for diverse needs rather than multiple, potentially unreliable services.",
+        "nuance": "While super apps can enhance user convenience, they may also raise concerns regarding data privacy and monopolistic practices.",
+        "synonyms": [
+          "all-in-one apps",
+          "multi-functional apps"
+        ],
+        "antonyms": [
+          "single-purpose apps",
+          "N/A"
+        ]
+      },
+      {
+        "word": "low trust markets",
+        "definition": "Economic environments characterized by a general lack of trust among consumers and businesses, often leading to skepticism about products and services.",
+        "businessContext": "In low trust markets, companies may need to invest heavily in building credibility and reputation, often resulting in the emergence of super apps that consolidate trust in one platform.",
+        "nuance": "The term highlights the challenges businesses face in gaining consumer confidence and the strategies they may adopt to navigate these environments.",
+        "synonyms": [
+          "distrustful markets",
+          "skeptical markets"
+        ],
+        "antonyms": [
+          "high trust markets",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think a curious person is somebody who is constantly demonstrating that they are not proud of their expertise, and they will demonstrate extraordinary amounts of excitement when they face a problem which they have no clue how to solve. And therefore a lot of people stop growing because they want to constantly demonstrate their expertise versus demonstrating their curiosity.",
+    "text": "I think a curious person is somebody who is constantly demonstrating that they are not proud of their expertise, and they will demonstrate extraordinary amounts of excitement when they face a problem which they have no clue how to solve.",
     "speaker": "Kunal Shah",
     "timestamp": "00:47:33",
     "context": "Lenny asks Kunal why curiosity is so important to him, noting that he has a show called CRED Curious and often talks about the power of curiosity. Kunal explains that curious people aren't focused on showing off what they already know, but instead get excited about problems they can't solve. He contrasts this with people who prioritize demonstrating their existing expertise, which he believes limits their growth and ability to adapt to new challenges.",
     "vocabulary_highlights": [
-      "not proud of their expertise",
-      "extraordinary amounts of excitement",
-      "stop growing"
+      "demonstrate",
+      "extraordinary",
+      "face a problem",
+      "curiosity"
     ],
     "topics": [
       "Learning & Growth",
@@ -149,16 +463,79 @@
     "text_ko": "저는 호기심 많은 사람은 자신이 전문가라는 걸 내세우지 않는 사람이라고 생각해요. 그리고 어떻게 풀어야 할지 전혀 감이 안 오는 문제를 만나면 엄청 신나하고 흥분해요. 그래서 많은 사람이 더 이상 성장하지 못해요—계속 전문성만 보여주려고 해서 호기심을 드러내지 않기 때문이에요.",
     "text_zh": "我觉得有好奇心的人就是那种从来不会炫耀自己专业能力的人，遇到完全不知道怎么解决的问题时，他们反而会特别兴奋。所以很多人之所以停止成长，就是因为他们总想着展示自己的专业性，而不是保持好奇心。",
     "text_es": "Creo que una persona curiosa es alguien que constantemente demuestra que no se cree el experto de todo, y se emociona muchísimo cuando se encuentra con un problema que no tiene ni idea de cómo resolver. Por eso mucha gente deja de crecer, porque siempre quiere demostrar lo que sabe en lugar de demostrar su curiosidad.",
-    "key_sentence": "Curious people are not proud of their expertise and demonstrate extraordinary amounts of excitement."
+    "key_sentence": "Curious people are not proud of their expertise and demonstrate extraordinary amounts of excitement.",
+    "text_trimmed": true,
+    "original_text": "I think a curious person is somebody who is constantly demonstrating that they are not proud of their expertise, and they will demonstrate extraordinary amounts of excitement when they face a problem which they have no clue how to solve. And therefore a lot of people stop growing because they want to constantly demonstrate their expertise versus demonstrating their curiosity.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "demonstrate",
+        "definition": "To show or prove something clearly through evidence or action.",
+        "businessContext": "In business, demonstrating can refer to showcasing a product's features during a presentation or providing evidence of a strategy's effectiveness through data.",
+        "nuance": "While 'demonstrate' implies a clear and observable action, it can also suggest a level of teaching or guiding others in understanding a concept.",
+        "synonyms": [
+          "exhibit",
+          "illustrate"
+        ],
+        "antonyms": [
+          "conceal",
+          "suppress"
+        ]
+      },
+      {
+        "word": "extraordinary",
+        "definition": "Remarkably unusual or exceptional; going beyond what is ordinary.",
+        "businessContext": "In the context of startups, extraordinary performance may refer to achieving results that significantly exceed industry standards or expectations.",
+        "nuance": "The term often carries a positive connotation, suggesting not just uniqueness but also a level of admiration or respect for the achievement.",
+        "synonyms": [
+          "remarkable",
+          "exceptional"
+        ],
+        "antonyms": [
+          "ordinary",
+          "commonplace"
+        ]
+      },
+      {
+        "word": "face a problem",
+        "definition": "To confront or deal with a challenge or difficulty directly.",
+        "businessContext": "In a business environment, facing a problem often involves analyzing the issue, brainstorming solutions, and implementing a plan to overcome obstacles.",
+        "nuance": "This phrase implies a proactive approach, suggesting that one is willing to engage with the issue rather than avoiding it.",
+        "synonyms": [
+          "confront a challenge",
+          "address an issue"
+        ],
+        "antonyms": [
+          "ignore a problem",
+          "evade a challenge"
+        ]
+      },
+      {
+        "word": "curiosity",
+        "definition": "A strong desire to learn or know more about something; inquisitiveness.",
+        "businessContext": "Curiosity in the workplace can drive innovation, as employees who are curious are more likely to explore new ideas and seek out creative solutions.",
+        "nuance": "While curiosity is generally viewed positively, excessive curiosity in some contexts may be seen as intrusive or inappropriate.",
+        "synonyms": [
+          "inquisitiveness",
+          "interest"
+        ],
+        "antonyms": [
+          "indifference",
+          "apathy"
+        ]
+      }
+    ]
   },
   {
-    "text": "I recently asked the question: which species or animals have survived for more than 100 million years without changing too much and what is common in all of them? So GPT came up with an interesting answer which says that sharks, horseshoe crabs, crocodiles, and all of these animals have survived to do this thing.",
+    "text": "I recently asked the question: which species or animals have survived for more than 100 million years without changing too much and what is common in all of them?",
     "speaker": "Kunal Shah",
     "timestamp": "00:48:41",
     "context": "Kunal is explaining how he uses ChatGPT to explore random questions that satisfy his curiosity. He shares an example where he asked about long-surviving animal species and discovered they share three traits: ability to reduce metabolism at will, high conversion rates when hunting for food, and strong adaptation skills. He draws parallels between these survival traits and successful business principles, showing how curiosity-driven questions can lead to useful insights.",
     "vocabulary_highlights": [
-      "without changing too much",
-      "survived to do this thing"
+      "survived",
+      "common",
+      "species",
+      "changing"
     ],
     "topics": [
       "Learning & Growth",
@@ -174,6 +551,67 @@
     "text_ko": "얼마 전에 \"어떤 종(species)이나 동물들이 1억 년(100 million years) 넘게 크게 변하지 않고 살아남았고, 그런 종들에겐 공통점이 뭘까?\"라고 물어봤어요. 그래서 GPT가 흥미로운 답을 줬는데요, 상어(sharks), 투구게(horseshoe crabs), 악어(crocodiles) 같은 동물들이 바로 그런 식으로 오래 살아남았다고 했어요.",
     "text_zh": "我最近问了一个问题：哪些动物物种能在一亿多年里基本不变地存活下来，它们有什么共同点？GPT给了个挺有意思的答案，说鲨鱼、鲎、鳄鱼这些动物都做到了这一点。",
     "text_es": "Hace poco me hice esta pregunta: ¿qué especies o animales han sobrevivido más de 100 millones de años sin cambiar demasiado y qué tienen en común todos ellos? Entonces le pregunté al GPT y me dio una respuesta muy interesante que dice que los tiburones, los cangrejos herradura, los cocodrilos, y todos estos animales han logrado sobrevivir haciendo esto.",
-    "key_sentence": "Species like sharks and crocodiles have survived to do this thing without changing too much."
+    "key_sentence": "which species or animals have survived for more than 100 million years without changing too much",
+    "text_trimmed": true,
+    "original_text": "I recently asked the question: which species or animals have survived for more than 100 million years without changing too much and what is common in all of them? So GPT came up with an interesting answer which says that sharks, horseshoe crabs, crocodiles, and all of these animals have survived to do this thing.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "survived",
+        "definition": "To continue to live or exist, especially in spite of danger or hardship.",
+        "businessContext": "In business, 'survived' often refers to a company or product that has managed to remain viable despite market challenges or competition.",
+        "nuance": "While 'survived' implies endurance, it can also suggest a lack of growth or improvement, so it’s important to consider the context in which it is used.",
+        "synonyms": [
+          "endured",
+          "persisted"
+        ],
+        "antonyms": [
+          "perished",
+          "failed"
+        ]
+      },
+      {
+        "word": "common",
+        "definition": "Occurring frequently or widely; shared by many.",
+        "businessContext": "In a business context, 'common' can refer to practices, trends, or challenges that are prevalent across an industry or among competitors.",
+        "nuance": "While 'common' suggests familiarity, it can also imply a lack of uniqueness, so it is often used to highlight areas where differentiation is needed.",
+        "synonyms": [
+          "frequent",
+          "usual"
+        ],
+        "antonyms": [
+          "rare",
+          "uncommon"
+        ]
+      },
+      {
+        "word": "species",
+        "definition": "A group of living organisms consisting of similar individuals capable of exchanging genes or interbreeding.",
+        "businessContext": "In tech and startup environments, 'species' can metaphorically refer to different categories of products or services that share common characteristics.",
+        "nuance": "The term 'species' is generally used in biological contexts, but its metaphorical use in business should be clear to avoid confusion.",
+        "synonyms": [
+          "type",
+          "kind"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "changing",
+        "definition": "Undergoing alteration or transformation; becoming different.",
+        "businessContext": "In business, 'changing' often describes market dynamics, consumer preferences, or technological advancements that require companies to adapt.",
+        "nuance": "While 'changing' indicates progress or evolution, it can also imply instability, so it’s important to clarify whether the change is viewed positively or negatively.",
+        "synonyms": [
+          "evolving",
+          "transforming"
+        ],
+        "antonyms": [
+          "static",
+          "unchanging"
+        ]
+      }
+    ]
   }
 ]

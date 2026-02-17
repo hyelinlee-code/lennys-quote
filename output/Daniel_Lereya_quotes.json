@@ -1,13 +1,14 @@
 [
   {
-    "text": "Some of our competitors did something that we can only imagine. We said, 'Okay. We need to treat it differently.' We received a gift from our competitors. They showed us that it's possible. Use your competition, know it, and take it, and set ambitious goals, and believe in yourself, and you can do amazing things.",
+    "text": "Some of our competitors did something that we can only imagine. We said, 'Okay. We need to treat it differently.' We received a gift from our competitors. They showed us that it's possible.",
     "speaker": "Daniel Lereya",
     "timestamp": "00:00:48",
     "context": "Lenny asks Daniel about a moment when he realized their competitors were shipping much faster than Monday.com. Daniel explains how they discovered a competitor had launched 30 new column types while Monday had only 5 (with each taking 4 months to develop). Instead of being discouraged, Daniel describes how they viewed this competitive challenge as validation that rapid development was possible, which motivated them to completely rethink their approach and set the ambitious goal of building 25 columns in one month.",
     "vocabulary_highlights": [
-      "we can only imagine",
-      "received a gift",
-      "set ambitious goals"
+      "treat it differently",
+      "competitors",
+      "realized",
+      "possible"
     ],
     "topics": [
       "Product Management",
@@ -24,17 +25,79 @@
     "text_ko": "우리 경쟁자들 중 몇몇은 우리가 상상만 하던 일을 실제로 해냈어요. 그래서 우리는 '이건 다르게 해야 해요'라고 했어요. 사실 그들은 우리에게 선물을 준 셈이에요 — 가능하다는 걸 보여줬거든요. 경쟁을 잘 활용하고, 그걸 받아들이며 야심 찬 목표를 세우고 자신을 믿으면 놀라운 일들을 해낼 수 있어요.",
     "text_zh": "我们的竞争对手做了一些我们之前想都不敢想的事情。我们当时就想，\"行，我们得换个思路了。\" 竞争对手其实给了我们一个礼物，他们让我们看到了什么叫可能。你要利用你的竞争对手，了解他们，学习他们，然后给自己定个高目标，相信自己，你就能做出很牛的事情来。",
     "text_es": "Algunos de nuestros competidores hicieron algo que nosotros ni nos imaginábamos. Dijimos, 'Bueno. Tenemos que enfocar esto de otra manera.' Nuestros competidores nos dieron un regalo. Nos demostraron que sí se puede. Aprovecha tu competencia, conócela bien, tómala como referencia, ponte metas ambiciosas, cree en ti mismo, y puedes lograr cosas increíbles.",
-    "key_sentence": "Use competition to set ambitious goals and believe in yourself."
+    "key_sentence": "They showed us that it's possible.",
+    "text_trimmed": true,
+    "original_text": "Some of our competitors did something that we can only imagine. We said, 'Okay. We need to treat it differently.' We received a gift from our competitors. They showed us that it's possible. Use your competition, know it, and take it, and set ambitious goals, and believe in yourself, and you can do amazing things.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "treat it differently",
+        "definition": "To approach a situation or issue in an alternative manner than usual, often with the intention of achieving a better outcome.",
+        "businessContext": "In business, this phrase can refer to adopting innovative strategies or perspectives when addressing challenges or opportunities, particularly in competitive environments.",
+        "nuance": "This phrase suggests a willingness to adapt and rethink traditional methods, which can be seen as a positive trait in dynamic industries.",
+        "synonyms": [
+          "approach differently",
+          "handle uniquely"
+        ],
+        "antonyms": [
+          "treat the same",
+          "follow standard procedures"
+        ]
+      },
+      {
+        "word": "competitors",
+        "definition": "Other businesses or entities that offer similar products or services and vie for the same target market.",
+        "businessContext": "Understanding competitors is crucial for strategic planning, market analysis, and positioning within an industry, as it helps businesses identify strengths and weaknesses.",
+        "nuance": "The term can imply rivalry, but it can also suggest opportunities for collaboration or learning from others in the market.",
+        "synonyms": [
+          "rivals",
+          "market players"
+        ],
+        "antonyms": [
+          "partners",
+          "allies"
+        ]
+      },
+      {
+        "word": "realized",
+        "definition": "To become fully aware of something as a fact; to understand or grasp a concept or situation.",
+        "businessContext": "In a business context, realizing a concept often refers to the moment when a team or leader acknowledges a critical insight that can influence decision-making or strategy.",
+        "nuance": "This term often carries a sense of enlightenment or sudden clarity, which can be pivotal in discussions about innovation or problem-solving.",
+        "synonyms": [
+          "understood",
+          "recognized"
+        ],
+        "antonyms": [
+          "ignored",
+          "overlooked"
+        ]
+      },
+      {
+        "word": "possible",
+        "definition": "Capable of being done or achieved; feasible within the given circumstances.",
+        "businessContext": "In business discussions, identifying what is possible can guide strategic planning and innovation, helping teams to set realistic goals and expectations.",
+        "nuance": "While 'possible' denotes feasibility, it can also imply a sense of optimism about future outcomes, especially in creative or entrepreneurial contexts.",
+        "synonyms": [
+          "feasible",
+          "achievable"
+        ],
+        "antonyms": [
+          "impossible",
+          "unfeasible"
+        ]
+      }
+    ]
   },
   {
-    "text": "We really have an approach of very radical transparency about everything. Before we went public, we actually shared every bit of information with our employees. Instead of demoralizing people, I think that this is something that gives them a sense of deep partnership. We really want everyone's brains in the challenge, and not just one centralized brain and a lot of working hands.",
+    "text": "We really have an approach of very radical transparency about everything. Before we went public, we actually shared every bit of information with our employees. Instead of demoralizing people, I think that this is something that gives them a sense of deep partnership.",
     "speaker": "Daniel Lereya",
     "timestamp": "00:00:25",
     "context": "Lenny asks Daniel about the most counterintuitive thing he's learned building Monday.com. Daniel explains their philosophy of radical transparency, where they share all company metrics and financial data with employees, even displaying dashboards publicly in their office. He describes how this approach creates partnership rather than demoralization, engaging everyone's intellectual capacity rather than treating them as just executors of centralized decisions.",
     "vocabulary_highlights": [
       "radical transparency",
-      "sense of deep partnership",
-      "centralized brain"
+      "demoralizing",
+      "partnership",
+      "counterintuitive"
     ],
     "topics": [
       "Leadership & Management",
@@ -50,7 +113,68 @@
     "text_ko": "저희는 사실 모든 것에 대해 굉장히 급진적 투명성(radical transparency)을 지향해요. 상장(going public)하기 전에 직원들에게 모든 정보를 다 공유했어요. 그게 사람들 사기를 꺾는 대신 오히려 깊은 동반자 의식을 주는 것 같아요. 우리는 정말 모든 사람이 이 과제에 머리를 맞대길 바라요. 한 사람의 중앙화된 두뇌(centralized brain)와 일만 하는 많은 손들만 있는 구조가 아니라요.",
     "text_zh": "我们的做法就是对所有事情都超级透明。在上市之前，我们其实把所有信息都跟员工分享了。这不但没有打击大家的积极性，我觉得反而让他们有一种深度合作的感觉。我们真的希望每个人都能动脑子参与到挑战中来，而不是只有一个大脑在中央指挥，其他人就是干活的。",
     "text_es": "Tenemos un enfoque de transparencia radical en todo, de verdad. Antes de salir a bolsa, compartíamos absolutamente toda la información con nuestros empleados. En lugar de desmoralizar a la gente, creo que esto les da una sensación de ser socios de verdad. Queremos que todos pongan el cerebro en los desafíos, no solo un cerebro centralizado y un montón de manos trabajando.",
-    "key_sentence": "Radical transparency fosters a sense of deep partnership among employees."
+    "key_sentence": "Radical transparency fosters a sense of deep partnership among employees.",
+    "text_trimmed": true,
+    "original_text": "We really have an approach of very radical transparency about everything. Before we went public, we actually shared every bit of information with our employees. Instead of demoralizing people, I think that this is something that gives them a sense of deep partnership. We really want everyone's brains in the challenge, and not just one centralized brain and a lot of working hands.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "radical transparency",
+        "definition": "A practice of openly sharing information and decision-making processes within an organization, often to foster trust and accountability.",
+        "businessContext": "In business, radical transparency is used to create a culture of openness, where employees are informed about company strategies, challenges, and performance metrics, enhancing engagement and collaboration.",
+        "nuance": "While radical transparency can empower employees, it may also lead to discomfort if sensitive information is shared indiscriminately.",
+        "synonyms": [
+          "complete openness",
+          "full disclosure"
+        ],
+        "antonyms": [
+          "secrecy",
+          "opacity"
+        ]
+      },
+      {
+        "word": "demoralizing",
+        "definition": "Causing a loss of confidence or morale, often leading to feelings of discouragement or disillusionment.",
+        "businessContext": "In a business setting, demoralizing actions or policies can negatively impact employee motivation and productivity, potentially leading to high turnover rates.",
+        "nuance": "The term often carries a strong negative connotation, implying a significant impact on team dynamics and individual performance.",
+        "synonyms": [
+          "disheartening",
+          "discouraging"
+        ],
+        "antonyms": [
+          "motivating",
+          "inspiring"
+        ]
+      },
+      {
+        "word": "partnership",
+        "definition": "A collaborative relationship between two or more parties, often formalized through agreements, aimed at achieving mutual goals.",
+        "businessContext": "In business, partnerships can take various forms, such as joint ventures, strategic alliances, or collaborations, allowing companies to leverage each other's strengths and resources.",
+        "nuance": "Partnerships imply a level of trust and shared responsibility, and the term can be used in both formal and informal contexts.",
+        "synonyms": [
+          "collaboration",
+          "alliance"
+        ],
+        "antonyms": [
+          "rivalry",
+          "competition"
+        ]
+      },
+      {
+        "word": "counterintuitive",
+        "definition": "Contrary to what one would intuitively expect; often surprising or unexpected in nature.",
+        "businessContext": "In business and technology, counterintuitive strategies or findings can challenge conventional wisdom, leading to innovative solutions or approaches that may initially seem illogical.",
+        "nuance": "The term suggests a deeper understanding of a situation, where the unexpected outcome may reveal important insights or opportunities.",
+        "synonyms": [
+          "unexpected",
+          "paradoxical"
+        ],
+        "antonyms": [
+          "intuitive",
+          "predictable"
+        ]
+      }
+    ]
   },
   {
     "text": "A great PM basically for me is someone that is relentless until he gets this impact, until he validates that this impact is in place. In some cases, doing the biggest impact is not developing another feature, it's about making the current value more accessible.",
@@ -58,8 +182,10 @@
     "timestamp": "00:18:00",
     "context": "Lenny asks Daniel about focusing on impact rather than just building features. Daniel explains how Monday.com shifted from measuring teams by output to measuring by customer impact. He defines what makes a great product manager - someone who persistently pursues measurable impact rather than just shipping features. Daniel emphasizes that sometimes the highest impact comes from improving accessibility of existing features rather than building new ones.",
     "vocabulary_highlights": [
-      "relentless until",
-      "making the current value more accessible"
+      "relentless",
+      "validate",
+      "impact",
+      "accessible"
     ],
     "topics": [
       "Product Management",
@@ -75,17 +201,77 @@
     "text_ko": "제가 생각하는 훌륭한 프로덕트 매니저(PM)는 임팩트(impact)가 나올 때까지, 그 임팩트가 실제로 자리 잡았는지 검증될 때까지 끝까지 포기하지 않고 밀어붙이는 사람이에요. 어떤 경우에는 가장 큰 임팩트를 내는 게 새 기능을 만드는 게 아니라 현재의 가치(value)를 더 쉽게 이용할 수 있게 만드는 일이에요.",
     "text_zh": "在我看来，优秀的产品经理(PM)就是那种不达目的不罢休的人，一定要看到实际效果，确认影响力真的落地了才算完。很多时候，要想产生最大影响力，不是去开发新功能，而是让现有的价值更容易被用户感知和使用。",
     "text_es": "Un gran PM para mí es básicamente alguien que no para hasta conseguir ese impacto, hasta validar que ese impacto realmente está ahí. En algunos casos, lograr el mayor impacto no es desarrollar otra funcionalidad más, sino hacer que el valor actual sea más accesible.",
-    "key_sentence": "A great PM is relentless until making the current value more accessible."
+    "key_sentence": "A great PM is relentless until making the current value more accessible.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "relentless",
+        "definition": "Unyielding in intensity or severity; persistent in pursuit of a goal.",
+        "businessContext": "In business, being relentless often refers to a leader's unwavering commitment to achieving objectives, driving teams to overcome obstacles and maintain focus on results.",
+        "nuance": "While 'relentless' conveys determination, it can also imply a lack of consideration for others' well-being if taken to an extreme.",
+        "synonyms": [
+          "unwavering",
+          "persistent"
+        ],
+        "antonyms": [
+          "yielding",
+          "flexible"
+        ]
+      },
+      {
+        "word": "validate",
+        "definition": "To confirm the accuracy or legitimacy of something through evidence or testing.",
+        "businessContext": "In a business context, validating a product or idea is crucial for ensuring it meets market needs and is viable before full-scale launch.",
+        "nuance": "Validation often carries a connotation of thoroughness and is used in contexts where empirical evidence is required to support claims.",
+        "synonyms": [
+          "authenticate",
+          "verify"
+        ],
+        "antonyms": [
+          "invalidate",
+          "disprove"
+        ]
+      },
+      {
+        "word": "impact",
+        "definition": "The strong effect or influence that something has on a situation or person.",
+        "businessContext": "In business, measuring impact is essential for assessing the effectiveness of strategies, initiatives, or products on stakeholders and the market.",
+        "nuance": "The term 'impact' can imply both positive and negative effects, so it's important to clarify the nature of the impact being discussed.",
+        "synonyms": [
+          "effect",
+          "influence"
+        ],
+        "antonyms": [
+          "insignificance",
+          "irrelevance"
+        ]
+      },
+      {
+        "word": "accessible",
+        "definition": "Easy to approach, reach, or use; available to a wide audience.",
+        "businessContext": "In technology and product development, making services or information accessible is vital for user engagement and satisfaction, ensuring that all potential users can benefit.",
+        "nuance": "While 'accessible' generally has a positive connotation, it can also imply a lack of sophistication or exclusivity in certain contexts.",
+        "synonyms": [
+          "available",
+          "attainable"
+        ],
+        "antonyms": [
+          "inaccessible",
+          "unreachable"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think there are fake speed, which means, trying to do the same work by skipping stages or not doing the high quality that you want, but there's the real speed, and speed of organizations, and speed of execution. Many times, it's about doing things right. It's about understanding, A, what is going to move the needle? And work only on that.",
+    "text": "I think there are fake speed, which means, trying to do the same work by skipping stages or not doing the high quality that you want, but there's the real speed, and speed of organizations, and speed of execution.",
     "speaker": "Daniel Lereya",
     "timestamp": "00:16:05",
     "context": "Lenny discusses the power of setting ambitious goals and how people might interpret this as working harder or longer hours. Daniel clarifies the difference between false speed (cutting corners or working more hours) versus real organizational speed. He explains that true speed comes from working smarter by focusing only on what will actually move key metrics and thinking differently about problem-solving approaches rather than just increasing effort.",
     "vocabulary_highlights": [
-      "fake speed",
-      "move the needle",
-      "speed of organizations"
+      "execution",
+      "ambitious goals",
+      "high quality",
+      "false speed"
     ],
     "topics": [
       "Product Management",
@@ -102,17 +288,79 @@
     "text_ko": "사실 '가짜 속도(fake speed)'가 있어요. 단계들을 건너뛰거나 원하는 수준의 품질을 포기하면서 같은 일을 빨리 끝내려는 거예요. 반면에 '진짜 속도(real speed)'가 있고, 조직의 속도(speed of organizations), 실행 속도(speed of execution)가 있어요. 많은 경우에는 일을 빨리 하는 것보다 일을 제대로 하는 게 중요해요. 무엇이 진짜 성과를 움직일지(move the needle)를 이해하고 그 일에만 집중해야 해요.",
     "text_zh": "我觉得有一种假的速度，就是想要跳过某些阶段或者不按你想要的高质量标准去做，但真正的速度是组织的速度和执行的速度。很多时候，关键是要把事情做对。首先要搞清楚什么事情真正能起到关键作用，然后就专门做那些事。",
     "text_es": "Creo que existe la velocidad falsa, o sea, tratar de hacer el mismo trabajo saltándote etapas o sin hacer el trabajo de calidad que realmente quieres, pero también está la velocidad real, la velocidad de las organizaciones y la velocidad de ejecución. Muchas veces se trata de hacer las cosas bien. Se trata de entender, primero, ¿qué es lo que realmente va a mover la aguja (move the needle)? Y trabajar solamente en eso.",
-    "key_sentence": "Fake speed skips quality; focus on what will move the needle."
+    "key_sentence": "there are fake speed, which means, trying to do the same work by skipping stages or not doing the high quality",
+    "text_trimmed": true,
+    "original_text": "I think there are fake speed, which means, trying to do the same work by skipping stages or not doing the high quality that you want, but there's the real speed, and speed of organizations, and speed of execution. Many times, it's about doing things right. It's about understanding, A, what is going to move the needle? And work only on that.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "execution",
+        "definition": "The act of carrying out or putting into effect a plan, order, or course of action.",
+        "businessContext": "In business, execution refers to the implementation of strategies and plans to achieve organizational goals, often evaluated based on efficiency and effectiveness.",
+        "nuance": "While 'execution' implies action, it also carries the weight of accountability and results, making it critical in discussions about performance.",
+        "synonyms": [
+          "implementation",
+          "performance"
+        ],
+        "antonyms": [
+          "inaction",
+          "neglect"
+        ]
+      },
+      {
+        "word": "ambitious goals",
+        "definition": "Targets or objectives that are challenging and require significant effort and resources to achieve.",
+        "businessContext": "In a business setting, ambitious goals are often set to drive innovation and growth, pushing teams to exceed standard expectations.",
+        "nuance": "While ambitious goals can inspire and motivate, they may also lead to stress or burnout if perceived as unattainable.",
+        "synonyms": [
+          "aspirational objectives",
+          "challenging targets"
+        ],
+        "antonyms": [
+          "modest goals",
+          "easy objectives"
+        ]
+      },
+      {
+        "word": "high quality",
+        "definition": "A standard of excellence that meets or exceeds expectations in terms of performance, durability, and reliability.",
+        "businessContext": "In business, high quality is essential for customer satisfaction and brand reputation, influencing purchasing decisions and loyalty.",
+        "nuance": "The term 'high quality' often implies a commitment to superior materials and craftsmanship, and may be contrasted with cost-cutting measures.",
+        "synonyms": [
+          "superior quality",
+          "premium standard"
+        ],
+        "antonyms": [
+          "low quality",
+          "inferior standard"
+        ]
+      },
+      {
+        "word": "false speed",
+        "definition": "A perception of rapid progress that is achieved by bypassing necessary steps or compromising on quality.",
+        "businessContext": "In the context of business and startups, false speed can lead to short-term gains but may ultimately harm long-term success and sustainability.",
+        "nuance": "The phrase carries a negative connotation, suggesting that what appears to be efficiency is actually a façade that could undermine credibility.",
+        "synonyms": [
+          "illusory speed",
+          "superficial progress"
+        ],
+        "antonyms": [
+          "deliberate pace",
+          "thoughtful progression"
+        ]
+      }
+    ]
   },
   {
-    "text": "Don't be afraid again to let go of things that you think are superpowers. Many times your superpowers that brought you to this point and made you successful, many times you think that if you let it go you won't be successful and it's frightening. But, I really feel that you need to constantly evaluate what your current role is actually, is actually what is the role?",
+    "text": "Don't be afraid again to let go of things that you think are superpowers. Many times your superpowers that brought you to this point and made you successful, many times you think that if you let it go you won't be successful and it's frightening.",
     "speaker": "Daniel Lereya",
     "timestamp": "01:01:22",
     "context": "Lenny asks Daniel what he wishes he'd known before stepping into his current leadership role. Daniel reflects on how his role has changed dozens of times as Monday.com scaled from 4 million to 1 billion in ARR and from 40 to 2,500 employees. He explains that skills that made him successful at earlier stages (like knowing every detail) sometimes became counterproductive as the company grew, and leaders must be willing to abandon their former strengths when the role demands different capabilities.",
     "vocabulary_highlights": [
-      "let go of things",
+      "let go",
       "superpowers",
-      "constantly evaluate"
+      "frightening",
+      "successful"
     ],
     "topics": [
       "Leadership & Management",
@@ -128,17 +376,79 @@
     "text_ko": "자신을 슈퍼파워(superpowers)라고 생각하는 것들을 더 이상 놓는 걸 두려워하지 마세요. 지금까지 당신을 여기까지 데려오고 성공하게 만든 그런 능력들이 있어서, 그것을 버리면 앞으로 성공하지 못할까 봐 겁나는 경우가 많아요. 하지만 저는 지금 자신의 역할이 실제로 무엇인지 계속해서 점검하고 재평가해야 한다고 정말 느껴요.",
     "text_zh": "别再害怕放掉那些你觉得是你超能力的东西。很多时候，那些让你走到今天、让你成功的超能力，你总觉得一旦放手就不会成功了，这挺吓人的。但是我真的觉得，你得不断地问问自己，你现在的角色到底是什么，真正的角色是什么？",
     "text_es": "No tengas miedo de soltar esas cosas que crees que son tus superpoderes. Muchas veces esos superpoderes que te trajeron hasta aquí y te hicieron exitoso, muchas veces piensas que si los sueltas ya no vas a ser exitoso y da miedo. Pero, realmente siento que tienes que estar constantemente evaluando cuál es tu rol actual en realidad, o sea, ¿cuál es realmente el rol?",
-    "key_sentence": "Let go of things you think are superpowers and constantly evaluate your role."
+    "key_sentence": "Let go of things you think are superpowers and constantly evaluate your role.",
+    "text_trimmed": true,
+    "original_text": "Don't be afraid again to let go of things that you think are superpowers. Many times your superpowers that brought you to this point and made you successful, many times you think that if you let it go you won't be successful and it's frightening. But, I really feel that you need to constantly evaluate what your current role is actually, is actually what is the role?",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "let go",
+        "definition": "To release or relinquish control over something, often referring to emotions, responsibilities, or possessions.",
+        "businessContext": "In business, 'let go' can refer to the process of terminating employees or discontinuing projects that no longer align with strategic goals.",
+        "nuance": "This phrase often carries a sense of emotional difficulty, as it implies a need to move on from attachments that may be hindering progress.",
+        "synonyms": [
+          "release",
+          "relinquish"
+        ],
+        "antonyms": [
+          "hold on",
+          "retain"
+        ]
+      },
+      {
+        "word": "superpowers",
+        "definition": "Exceptional abilities or strengths that enable an individual to perform tasks or overcome challenges more effectively than others.",
+        "businessContext": "In a corporate environment, 'superpowers' can refer to unique skills or talents that employees possess, which contribute significantly to team success and innovation.",
+        "nuance": "While often used positively, the term can imply an over-reliance on certain skills that may not be sustainable in the long term.",
+        "synonyms": [
+          "strengths",
+          "talents"
+        ],
+        "antonyms": [
+          "weaknesses",
+          "limitations"
+        ]
+      },
+      {
+        "word": "frightening",
+        "definition": "Causing fear or apprehension; alarming in nature.",
+        "businessContext": "In business, 'frightening' may describe market conditions, competitive pressures, or changes in consumer behavior that evoke concern among stakeholders.",
+        "nuance": "This term can convey a sense of urgency or seriousness, often used to highlight risks that require immediate attention.",
+        "synonyms": [
+          "alarming",
+          "intimidating"
+        ],
+        "antonyms": [
+          "reassuring",
+          "comforting"
+        ]
+      },
+      {
+        "word": "successful",
+        "definition": "Achieving desired outcomes or goals, often characterized by prosperity, effectiveness, or favorable results.",
+        "businessContext": "In a business context, 'successful' refers to companies or individuals who meet or exceed their performance targets, leading to growth and profitability.",
+        "nuance": "The term can vary in meaning depending on the criteria for success, which may include financial metrics, customer satisfaction, or innovation.",
+        "synonyms": [
+          "prosperous",
+          "effective"
+        ],
+        "antonyms": [
+          "unsuccessful",
+          "failing"
+        ]
+      }
+    ]
   },
   {
-    "text": "I really love using the deadline trap and it makes you focused, it makes you sharper in thinking. And, we just had a recent example with the offering I was telling you about of enterprise work management, managing project at scale. And this is an enterprise product. So you have all the reasons in the world to say, 'No, I can't release it, yet. I need more time.'",
+    "text": "I really love using the deadline trap and it makes you focused, it makes you sharper in thinking. And, we just had a recent example with the offering I was telling you about of enterprise work management, managing project at scale.",
     "speaker": "Daniel Lereya",
     "timestamp": "00:53:11",
     "context": "Lenny asks about Daniel's philosophy of time-boxing projects versus working until they're 'perfect.' Daniel explains their approach of setting artificial deadlines (which he calls 'traps') to force teams to focus on core value rather than invented requirements. He shares an example of releasing an alpha version of their enterprise product that customers said was 'premature,' but this gave them precise feedback about what was actually needed rather than theoretical concerns.",
     "vocabulary_highlights": [
-      "deadline trap",
-      "makes you sharper",
-      "all the reasons in the world"
+      "focused",
+      "sharper",
+      "enterprise",
+      "manage at scale"
     ],
     "topics": [
       "Product Management",
@@ -155,6 +465,67 @@
     "text_ko": "저는 데드라인 트랩(deadline trap)을 정말 좋아해요. 그게 집중하게 만들고 사고를 더 날카롭게 해줘요. 그리고 전에 말씀드렸던 엔터프라이즈 업무 관리(enterprise work management), 대규모 프로젝트 관리(managing projects at scale) 관련 오퍼링(offering)에서 최근 그런 사례가 있었어요. 이건 기업용 제품(enterprise product)이니까 \"아직 출시할 수 없어요. 시간이 더 필요해요.\"라고 말할 만한 이유가 충분히 있죠.",
     "text_zh": "我特别喜欢用截止日期来逼自己，这样能让你更专注，思路也更敏锐。我们最近就有个例子，就是我刚跟你说的那个企业工作管理的产品，做大规模项目管理的。这是个企业级产品，所以你有一万个理由说\"不行，还不能发布，我还需要更多时间。\"",
     "text_es": "Me encanta usar la trampa del deadline y te hace enfocar, te agudiza el pensamiento. Y justo tuvimos un ejemplo reciente con la oferta de la que te hablaba de gestión empresarial de trabajo, manejar proyectos a gran escala. Y este es un producto enterprise. Entonces tienes todas las razones del mundo para decir: \"No, no lo puedo lanzar todavía. Necesito más tiempo.\"",
-    "key_sentence": "The deadline trap makes you sharper and focused despite all the reasons to delay."
+    "key_sentence": "The deadline trap makes you sharper and focused despite all the reasons to delay.",
+    "text_trimmed": true,
+    "original_text": "I really love using the deadline trap and it makes you focused, it makes you sharper in thinking. And, we just had a recent example with the offering I was telling you about of enterprise work management, managing project at scale. And this is an enterprise product. So you have all the reasons in the world to say, 'No, I can't release it, yet. I need more time.'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "focused",
+        "definition": "Concentrated attention or effort directed towards a specific task or objective.",
+        "businessContext": "In business settings, being focused is crucial for productivity and achieving strategic goals, especially in high-pressure environments where deadlines are tight.",
+        "nuance": "While 'focused' generally has a positive connotation, it can imply a narrow perspective if not balanced with broader considerations.",
+        "synonyms": [
+          "concentrated",
+          "dedicated"
+        ],
+        "antonyms": [
+          "distracted",
+          "scattered"
+        ]
+      },
+      {
+        "word": "sharper",
+        "definition": "Having a more acute or clear understanding; enhanced in mental agility or perception.",
+        "businessContext": "In the context of business, being sharper can refer to improved decision-making skills and the ability to analyze complex situations effectively.",
+        "nuance": "The term often conveys a sense of improvement or enhancement, suggesting that one has become more adept or insightful over time.",
+        "synonyms": [
+          "keen",
+          "astute"
+        ],
+        "antonyms": [
+          "dull",
+          "blunt"
+        ]
+      },
+      {
+        "word": "enterprise",
+        "definition": "A large organization or business, often characterized by its complexity and scale of operations.",
+        "businessContext": "In the tech industry, 'enterprise' often refers to solutions or services designed for large organizations, focusing on scalability, integration, and comprehensive management.",
+        "nuance": "While 'enterprise' typically denotes size and complexity, it can also imply a level of professionalism and structured processes that smaller businesses may lack.",
+        "synonyms": [
+          "corporation",
+          "business"
+        ],
+        "antonyms": [
+          "startup",
+          "small business"
+        ]
+      },
+      {
+        "word": "manage at scale",
+        "definition": "To oversee and coordinate operations or projects effectively across a large organization or multiple teams.",
+        "businessContext": "In a business context, managing at scale involves implementing systems and processes that can handle increased volume and complexity without sacrificing quality or efficiency.",
+        "nuance": "This phrase suggests not just handling larger quantities but also maintaining control and oversight across diverse operations, which can be challenging.",
+        "synonyms": [
+          "scale management",
+          "large-scale coordination"
+        ],
+        "antonyms": [
+          "manage at a small scale",
+          "local management"
+        ]
+      }
+    ]
   }
 ]

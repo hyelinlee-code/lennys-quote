@@ -5,9 +5,10 @@
     "timestamp": "00:05:08",
     "context": "Lenny inquires about Camille's role at Spotify as head of fan monetization. Camille explains that her team focuses on developing new ways to facilitate connections between artists and their fans. She emphasizes that even lesser-known artists have dedicated supporters and that Spotify aims to transform this enthusiasm into monetization opportunities for the artists.",
     "vocabulary_highlights": [
-      "rabid",
-      "engaged fan bases",
-      "monetization opportunities"
+      "engaged",
+      "passionate",
+      "facilitate",
+      "connections"
     ],
     "topics": [
       "Growth & Marketing",
@@ -23,7 +24,66 @@
     "text_ko": "우리가 아는 것 중 하나는, 정말 유명한 슈퍼스타들만 열정적인 팬층을 가지고 있는 게 아니라는 거예요. 사람들은 자신이 좋아하는 아티스트를 지원하는 데 정말 열정적이에요.",
     "text_zh": "我们知道，不仅仅是那些大牌明星拥有狂热且高度参与的粉丝群体。人们对支持他们喜爱的艺术家普遍充满热情。",
     "text_es": "Una de las cosas que también sabemos es que no son solo las grandes superestrellas las que cuentan con bases de fans tan apasionadas y comprometidas. La gente realmente siente una gran pasión por apoyar a los artistas que aman en general.",
-    "key_sentence": "People are passionate about supporting artists, not just superstars with engaged fan bases."
+    "key_sentence": "People are passionate about supporting artists, not just superstars with engaged fan bases.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "engaged",
+        "definition": "Involved or committed to a particular activity or cause, often demonstrating active interest or participation.",
+        "businessContext": "In business, being engaged often refers to employees or customers who are actively involved and invested in the company's goals or products, leading to higher productivity and loyalty.",
+        "nuance": "While 'engaged' typically has a positive connotation, it can imply a level of obligation or expectation in certain contexts.",
+        "synonyms": [
+          "involved",
+          "committed"
+        ],
+        "antonyms": [
+          "disengaged",
+          "apathetic"
+        ]
+      },
+      {
+        "word": "passionate",
+        "definition": "Having or showing strong feelings or beliefs about something, often resulting in enthusiasm and dedication.",
+        "businessContext": "In a business setting, passionate employees or customers are likely to advocate for the brand and contribute positively to its culture and reputation.",
+        "nuance": "The term 'passionate' conveys a sense of deep emotional investment, which can be seen as both a strength and a potential source of bias.",
+        "synonyms": [
+          "enthusiastic",
+          "zealous"
+        ],
+        "antonyms": [
+          "indifferent",
+          "dispassionate"
+        ]
+      },
+      {
+        "word": "facilitate",
+        "definition": "To make a process easier or more efficient by providing assistance or guidance.",
+        "businessContext": "In the context of business and technology, facilitating often involves enabling collaboration, communication, or the smooth execution of projects and initiatives.",
+        "nuance": "While 'facilitate' implies support, it does not suggest taking control; it emphasizes enabling others to achieve their objectives.",
+        "synonyms": [
+          "assist",
+          "enable"
+        ],
+        "antonyms": [
+          "hinder",
+          "obstruct"
+        ]
+      },
+      {
+        "word": "connections",
+        "definition": "Relationships or links between people, organizations, or ideas that can facilitate communication and collaboration.",
+        "businessContext": "In business, connections are crucial for networking, partnerships, and building customer relationships, often leading to new opportunities and growth.",
+        "nuance": "The term 'connections' can imply both personal and professional relationships, and its effectiveness often depends on the quality rather than the quantity of these links.",
+        "synonyms": [
+          "relationships",
+          "networks"
+        ],
+        "antonyms": [
+          "disconnections",
+          "isolation"
+        ]
+      }
+    ]
   },
   {
     "text": "To some degree, there has to be a value exchange that happens in order for a creative person to live from their art.",
@@ -32,7 +92,9 @@
     "context": "Lenny asks Camille about the best and worst parts of working with artists. Camille reflects on the difficulty artists face in wanting to share their work for free due to their passion for their craft. She highlights the necessity of a value exchange, meaning that artists need to receive compensation for their work to sustain their livelihoods.",
     "vocabulary_highlights": [
       "value exchange",
-      "sustain livelihoods"
+      "creative",
+      "passion",
+      "craft"
     ],
     "topics": [
       "Career Development",
@@ -48,7 +110,66 @@
     "text_ko": "어느 정도는 창작자가 자신의 예술로 살아가기 위해서 가치 교환이 필요해요.",
     "text_zh": "在某种程度上，创意人士必须进行价值交换，才能通过他们的艺术谋生。",
     "text_es": "En cierta medida, debe existir un intercambio de valor para que una persona creativa pueda vivir de su arte.",
-    "key_sentence": "A value exchange is necessary for creative people to sustain livelihoods from their art."
+    "key_sentence": "A value exchange is necessary for creative people to sustain livelihoods from their art.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "value exchange",
+        "definition": "Value exchange refers to the mutual transfer of worth between parties, typically involving goods, services, or information in return for compensation or benefits.",
+        "businessContext": "In business and startup environments, value exchange is crucial for establishing customer relationships, where companies provide products or services in return for monetary compensation or customer loyalty.",
+        "nuance": "The term often implies a balanced relationship, where both parties perceive they are gaining something of equal or greater value.",
+        "synonyms": [
+          "reciprocal trade",
+          "mutual benefit"
+        ],
+        "antonyms": [
+          "exploitation",
+          "one-sided transaction"
+        ]
+      },
+      {
+        "word": "creative",
+        "definition": "Creative refers to the ability to generate original ideas, concepts, or artistic expressions that are imaginative and innovative.",
+        "businessContext": "In the business world, creativity is essential for problem-solving, product development, and marketing strategies, enabling companies to differentiate themselves in competitive markets.",
+        "nuance": "While often associated with artistic endeavors, the term can also apply to unconventional thinking in various professional fields, making it a versatile descriptor.",
+        "synonyms": [
+          "innovative",
+          "imaginative"
+        ],
+        "antonyms": [
+          "unimaginative",
+          "conventional"
+        ]
+      },
+      {
+        "word": "passion",
+        "definition": "Passion is a strong feeling of enthusiasm or dedication towards a particular activity, cause, or field of interest.",
+        "businessContext": "In a business context, passion can drive entrepreneurs and employees to pursue their goals with vigor, often leading to greater innovation and commitment to their work.",
+        "nuance": "While passion is generally viewed positively, it can sometimes lead to burnout if not balanced with practical considerations.",
+        "synonyms": [
+          "enthusiasm",
+          "zeal"
+        ],
+        "antonyms": [
+          "indifference",
+          "apathy"
+        ]
+      },
+      {
+        "word": "craft",
+        "definition": "Craft refers to the skill and artistry involved in creating something, often emphasizing the manual or technical aspects of production.",
+        "businessContext": "In business, particularly in industries like manufacturing and design, craft signifies the quality and attention to detail that can differentiate products and enhance brand reputation.",
+        "nuance": "The term can imply a level of expertise and dedication, often associated with handmade or artisanal products, and may not apply to mass-produced items.",
+        "synonyms": [
+          "skill",
+          "artistry"
+        ],
+        "antonyms": [
+          "clumsiness",
+          "ineptitude"
+        ]
+      }
+    ]
   },
   {
     "text": "But I do think that this area continues to be untapped. I just don't see a world where... I think of Michelle Phan, right? She's basically a mini Disney and when you think of it like that, she's created IP.",
@@ -57,8 +178,8 @@
     "context": "Lenny prompts Camille to discuss the future of the creator economy. Camille argues that the potential for creators to thrive is far from exhausted, using the example of Michelle Phan, a successful content creator who has built a personal brand akin to a mini Disney. She emphasizes that creating intellectual property (IP) opens doors for various revenue streams and opportunities for creators.",
     "vocabulary_highlights": [
       "untapped",
-      "intellectual property",
-      "revenue streams"
+      "created",
+      "potential"
     ],
     "topics": [
       "Starting a Company",
@@ -74,7 +195,52 @@
     "text_ko": "하지만 이 분야는 여전히 개발되지 않은 것 같아요. 저는 그런 세상이 있다고 생각하지 않아요... 미셸 판(Michelle Phan)을 생각해보면, 그녀는 사실상 미니 디즈니(mini Disney 같은 존재잖아요. 그렇게 생각하면, 그녀는 IP(지식재산권)를 만들어낸 거죠.",
     "text_zh": "但我确实认为这个领域仍然有待开发。我无法想象一个世界……我想到米歇尔·潘（Michelle Phan），对吧？她基本上就是一个迷你迪士尼，当你这样想的时候，她实际上创造了知识产权（IP）。",
     "text_es": "Pero creo que esta área sigue sin explotar. Simplemente no veo un mundo en el que... Pienso en Michelle Phan, ¿verdad? Ella es básicamente un mini Disney y, al pensarlo así, ha creado propiedad intelectual (IP).",
-    "key_sentence": "This area remains untapped; Michelle Phan created intellectual property like a mini Disney."
+    "key_sentence": "This area remains untapped; Michelle Phan created intellectual property like a mini Disney.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "untapped",
+        "definition": "Not yet exploited or utilized; available for use or development.",
+        "businessContext": "In business, 'untapped' often refers to markets, resources, or opportunities that have not been fully explored or leveraged for profit.",
+        "nuance": "The term carries a connotation of potential and opportunity, suggesting that there is value waiting to be discovered.",
+        "synonyms": [
+          "unexploited",
+          "unused"
+        ],
+        "antonyms": [
+          "exploited",
+          "utilized"
+        ]
+      },
+      {
+        "word": "created",
+        "definition": "To bring something into existence; to produce or design something new.",
+        "businessContext": "In the context of business, 'created' often refers to the development of products, services, or intellectual property that can generate revenue or enhance brand value.",
+        "nuance": "This term implies a sense of innovation and originality, often associated with entrepreneurial endeavors.",
+        "synonyms": [
+          "developed",
+          "established"
+        ],
+        "antonyms": [
+          "destroyed",
+          "abolished"
+        ]
+      },
+      {
+        "word": "potential",
+        "definition": "The inherent ability or capacity for growth, development, or future success.",
+        "businessContext": "In business, 'potential' is frequently used to assess market opportunities, employee capabilities, or the future performance of products and services.",
+        "nuance": "While 'potential' suggests promise and opportunity, it can also imply uncertainty regarding whether that promise will be realized.",
+        "synonyms": [
+          "capability",
+          "possibility"
+        ],
+        "antonyms": [
+          "limitation",
+          "inability"
+        ]
+      }
+    ]
   },
   {
     "text": "I think it was probably predictable to some degree that platforms would win because just of the nature of aggregation.",
@@ -83,7 +249,8 @@
     "context": "Lenny asks Camille about the trajectory of the creator economy and platforms. Camille reflects on the strong network effect that comes from aggregation, meaning that once a platform consolidates enough creators or consumers, it becomes difficult for new entrants to compete. She notes that established platforms are strategically enhancing features to retain creators and prevent them from leaving.",
     "vocabulary_highlights": [
       "predictable",
-      "nature of aggregation",
+      "trajectory",
+      "aggregation",
       "network effect"
     ],
     "topics": [
@@ -100,7 +267,66 @@
     "text_ko": "플랫폼이 이길 거라는 건 어느 정도 예측 가능했을 것 같아요. 결국 집합의 특성 때문이죠.",
     "text_zh": "我认为，平台的胜出在某种程度上是可以预见的，因为这与聚合的本质有关。",
     "text_es": "Creo que era predecible hasta cierto punto que las plataformas ganarían debido a la naturaleza de la agregación.",
-    "key_sentence": "Platforms winning was predictable due to the nature of aggregation and network effect."
+    "key_sentence": "Platforms winning was predictable due to the nature of aggregation and network effect.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "predictable",
+        "definition": "Able to be foreseen or anticipated based on existing patterns or trends.",
+        "businessContext": "In business, a predictable outcome can help companies make informed decisions and strategize effectively, particularly in market forecasting and risk assessment.",
+        "nuance": "While 'predictable' often has a neutral connotation, it can imply a lack of innovation or excitement in certain contexts.",
+        "synonyms": [
+          "foreseeable",
+          "expected"
+        ],
+        "antonyms": [
+          "unpredictable",
+          "surprising"
+        ]
+      },
+      {
+        "word": "trajectory",
+        "definition": "The path or progression of an object or concept over time, often represented in a graphical format.",
+        "businessContext": "In a business context, trajectory is frequently used to describe the growth or decline of a company, product, or market segment, aiding in strategic planning.",
+        "nuance": "The term often implies a directional movement, suggesting that the subject is on a specific course towards an outcome, which can be positive or negative.",
+        "synonyms": [
+          "path",
+          "course"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "aggregation",
+        "definition": "The process of collecting and combining data or resources from various sources into a single, cohesive unit.",
+        "businessContext": "In tech and business, aggregation is crucial for data analysis, market research, and creating platforms that consolidate information for user convenience.",
+        "nuance": "Aggregation can imply a simplification of complex data, but it may also raise concerns about data privacy and the accuracy of combined information.",
+        "synonyms": [
+          "collection",
+          "amalgamation"
+        ],
+        "antonyms": [
+          "dispersal",
+          "segregation"
+        ]
+      },
+      {
+        "word": "network effect",
+        "definition": "A phenomenon where a product or service becomes more valuable as more people use it, leading to increased demand and user growth.",
+        "businessContext": "In the tech industry, network effects are a key driver for platforms like social media and marketplaces, where user participation enhances the overall value of the service.",
+        "nuance": "While network effects can lead to rapid growth and market dominance, they can also create challenges in maintaining quality and user satisfaction as the user base expands.",
+        "synonyms": [
+          "user effect",
+          "value increase"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "So one of the things that I've seen that I don't know if people realize is consistency and predictability of content creation.",
@@ -110,7 +336,8 @@
     "vocabulary_highlights": [
       "consistency",
       "predictability",
-      "master a skill"
+      "crucial",
+      "content creation"
     ],
     "topics": [
       "Learning & Growth",
@@ -126,7 +353,66 @@
     "text_ko": "제가 본 것 중 하나는 사람들이 잘 인식하지 못하는 부분인데, 콘텐츠 제작에서 일관성과 예측 가능성이 정말 중요하다는 거예요.",
     "text_zh": "我观察到的一个方面是，内容创作的一致性和可预测性，很多人可能并没有意识到这一点。",
     "text_es": "Una de las cosas que he observado y que no sé si la gente se da cuenta es la importancia de la consistencia y la predictibilidad en la creación de contenido.",
-    "key_sentence": "Consistency and predictability are crucial for mastering a skill in content creation."
+    "key_sentence": "consistency and predictability of content creation.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "consistency",
+        "definition": "The quality of always behaving or performing in a similar way, ensuring reliability and uniformity over time.",
+        "businessContext": "In business, consistency is vital for building brand trust and ensuring that products or services meet customer expectations consistently.",
+        "nuance": "While consistency is generally positive, excessive rigidity can stifle innovation; thus, it should be balanced with adaptability.",
+        "synonyms": [
+          "uniformity",
+          "reliability"
+        ],
+        "antonyms": [
+          "inconsistency",
+          "variability"
+        ]
+      },
+      {
+        "word": "predictability",
+        "definition": "The quality of being able to be foreseen or anticipated based on established patterns or trends.",
+        "businessContext": "In a business context, predictability allows companies to make informed decisions, manage risks, and allocate resources effectively.",
+        "nuance": "While predictability can enhance strategic planning, it may also lead to complacency if not paired with flexibility to adapt to unforeseen changes.",
+        "synonyms": [
+          "foreseeability",
+          "stability"
+        ],
+        "antonyms": [
+          "unpredictability",
+          "instability"
+        ]
+      },
+      {
+        "word": "crucial",
+        "definition": "Of great importance; critical to the success or failure of a situation or decision.",
+        "businessContext": "In the corporate world, identifying crucial factors can determine the direction of projects, influence strategic decisions, and impact overall performance.",
+        "nuance": "The term 'crucial' conveys a sense of urgency and necessity, often implying that failure to address the issue could lead to significant consequences.",
+        "synonyms": [
+          "essential",
+          "vital"
+        ],
+        "antonyms": [
+          "insignificant",
+          "trivial"
+        ]
+      },
+      {
+        "word": "content creation",
+        "definition": "The process of generating relevant and valuable information or media to attract and engage a target audience.",
+        "businessContext": "In the digital marketing landscape, content creation is essential for brand visibility, audience engagement, and driving conversions through various platforms.",
+        "nuance": "While content creation is often seen as a marketing tool, it also encompasses storytelling and brand identity, making it a multifaceted strategy.",
+        "synonyms": [
+          "media production",
+          "content development"
+        ],
+        "antonyms": [
+          "content destruction",
+          "content deletion"
+        ]
+      }
+    ]
   },
   {
     "text": "What I learned and that we really emphasized during that time is this idea of having dual track agile going where you're doing discovery and delivery simultaneously.",
@@ -134,9 +420,10 @@
     "timestamp": "00:53:03",
     "context": "Lenny asks Camille about her favorite frameworks for building products. Camille discusses the 'dual track agile' methodology, which involves conducting discovery (research and validation of ideas) and delivery (actual product development) at the same time. This approach helps teams de-risk assumptions and innovate effectively while responding to user needs.",
     "vocabulary_highlights": [
-      "dual track agile",
-      "discovery and delivery",
-      "de-risk assumptions"
+      "emphasized",
+      "discovery",
+      "delivery",
+      "simultaneously"
     ],
     "topics": [
       "Product Management",
@@ -152,6 +439,65 @@
     "text_ko": "그때 제가 배운 것 중 하나는 동시에 탐색(discovery)과 전달(delivery)을 진행하는 이중 트랙(dual track) 애자일의 중요성이에요.",
     "text_zh": "我在那段时间学到的，并且我们非常强调的，就是同时进行探索（discovery）和交付（delivery）的双轨敏捷（dual track agile）理念。",
     "text_es": "Lo que aprendí y que realmente enfatizamos durante ese tiempo es esta idea de tener un enfoque ágil de doble vía, donde se realiza la exploración (discovery) y la entrega (delivery) de manera simultánea.",
-    "key_sentence": "We emphasized dual track agile, doing discovery and delivery simultaneously to de-risk assumptions."
+    "key_sentence": "We emphasized dual track agile, doing discovery and delivery simultaneously to de-risk assumptions.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "emphasized",
+        "definition": "To give special importance or prominence to something in speaking or writing.",
+        "businessContext": "In business settings, emphasizing certain aspects of a project or strategy can help align team focus and prioritize resources effectively.",
+        "nuance": "While 'emphasized' suggests a strong focus, it can also imply that other aspects may be considered less important.",
+        "synonyms": [
+          "highlighted",
+          "stressed"
+        ],
+        "antonyms": [
+          "downplayed",
+          "ignored"
+        ]
+      },
+      {
+        "word": "discovery",
+        "definition": "The process of identifying and understanding new information, insights, or opportunities.",
+        "businessContext": "In tech and startup environments, discovery often refers to the phase where teams explore user needs and market gaps to inform product development.",
+        "nuance": "Discovery carries a sense of exploration and innovation, often associated with creativity and experimentation.",
+        "synonyms": [
+          "exploration",
+          "inquiry"
+        ],
+        "antonyms": [
+          "certainty",
+          "conclusion"
+        ]
+      },
+      {
+        "word": "delivery",
+        "definition": "The act of providing or distributing a product, service, or information to the intended recipient.",
+        "businessContext": "In agile methodologies, delivery refers to the process of releasing functional software or products to users in a timely manner.",
+        "nuance": "Delivery implies not just the act of sending something but also the quality and timeliness of that provision.",
+        "synonyms": [
+          "distribution",
+          "execution"
+        ],
+        "antonyms": [
+          "reception",
+          "withdrawal"
+        ]
+      },
+      {
+        "word": "simultaneously",
+        "definition": "Occurring at the same time; concurrently.",
+        "businessContext": "In project management, working simultaneously on multiple tasks or tracks can enhance efficiency and speed up the development process.",
+        "nuance": "Simultaneously suggests coordination and balance, and can imply a need for effective communication among teams.",
+        "synonyms": [
+          "concurrently",
+          "at the same time"
+        ],
+        "antonyms": [
+          "sequentially",
+          "independently"
+        ]
+      }
+    ]
   }
 ]

@@ -1,10 +1,15 @@
 [
   {
-    "text": "People don't buy the problem, they buy your solution. Obviously they don't buy it if it's not solving something they care about, but there are many products that are solving what they care about. The real question is, do you solve it better than everybody else so that they buy you? And that's where you need to take time.",
+    "text": "People don't buy the problem, they buy your solution. Obviously they don't buy it if it's not solving something they care about, but there are many products that are solving what they care about.",
     "speaker": "Marty Cagan",
     "timestamp": "00:00:00",
     "context": "Lenny is asking about product discovery and how teams should spend their time between understanding problems versus creating solutions. Marty is explaining why product teams should focus most of their discovery time on solution development rather than problem validation. He argues that while problems are important, customers ultimately purchase solutions, and the key differentiator is building a better solution than competitors.",
-    "vocabulary_highlights": [],
+    "vocabulary_highlights": [
+      "solution",
+      "solve",
+      "understanding",
+      "focus"
+    ],
     "topics": [
       "Product Management",
       "Strategy & Planning"
@@ -18,17 +23,79 @@
     "text_ko": "사람들은 문제 자체를 사는 게 아니라, 그 문제를 해결해 주는 여러분의 솔루션(solution)을 사요. 물론 그들이 중요하게 여기는 문제를 해결하지 못하면 사지 않아요. 그런데 그들이 신경 쓰는 문제를 해결해 주는 제품(product)은 많아요. 진짜 질문은, 다른 경쟁자보다 더 잘 해결해서 사람들이 여러분의 솔루션(solution)을 선택하게 만들 수 있느냐는 거예요. 그걸 위해 시간을 투자해야 해요.",
     "text_zh": "客户买的不是问题本身，而是你的解决方案。当然了，如果你解决的不是他们关心的事情，那肯定不会买单。但是市面上解决同样问题的产品一大堆。真正的关键是，你能不能比其他人做得更好，让客户选择你？这就需要你花时间好好琢磨了。",
     "text_es": "La gente no compra el problema, compra tu solución. Obvio que no la van a comprar si no está resolviendo algo que les importa, pero hay muchos productos que sí resuelven lo que les importa. La pregunta de verdad es: ¿lo resuelves mejor que todos los demás para que te elijan a ti? Y ahí es donde tienes que invertir tiempo.",
-    "key_sentence": "People buy your solution if it solves their problem better than others."
+    "key_sentence": "People don't buy the problem, they buy your solution.",
+    "text_trimmed": true,
+    "original_text": "People don't buy the problem, they buy your solution. Obviously they don't buy it if it's not solving something they care about, but there are many products that are solving what they care about. The real question is, do you solve it better than everybody else so that they buy you? And that's where you need to take time.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "solution",
+        "definition": "A means of solving a problem or dealing with a difficult situation. In business, it often refers to a product or service that addresses a specific need or challenge.",
+        "businessContext": "In business and technology, a solution is typically presented as a product or service that resolves a customer's pain point, thereby creating value and driving sales.",
+        "nuance": "While 'solution' implies a positive outcome, it can sometimes carry the connotation of overselling or simplifying complex issues.",
+        "synonyms": [
+          "remedy",
+          "answer"
+        ],
+        "antonyms": [
+          "problem",
+          "issue"
+        ]
+      },
+      {
+        "word": "solve",
+        "definition": "To find an answer to a problem or to deal effectively with a challenge. It involves the application of critical thinking and analysis.",
+        "businessContext": "In a business context, 'solve' often refers to the process of addressing customer needs or operational challenges through innovative strategies or products.",
+        "nuance": "The term suggests an active, dynamic process and is often used in contexts where creativity and resourcefulness are required.",
+        "synonyms": [
+          "resolve",
+          "address"
+        ],
+        "antonyms": [
+          "complicate",
+          "exacerbate"
+        ]
+      },
+      {
+        "word": "understanding",
+        "definition": "The ability to comprehend or grasp the meaning of something, often involving insight into complex issues or relationships. It is essential for effective communication and decision-making.",
+        "businessContext": "In business, understanding is crucial for identifying customer needs, market trends, and internal dynamics, which informs strategy and operations.",
+        "nuance": "While 'understanding' implies a depth of knowledge, it can also suggest empathy and awareness, particularly in interpersonal or customer relations.",
+        "synonyms": [
+          "comprehension",
+          "insight"
+        ],
+        "antonyms": [
+          "misunderstanding",
+          "ignorance"
+        ]
+      },
+      {
+        "word": "focus",
+        "definition": "The center of interest or activity; the act of concentrating attention on a particular task or objective. It is essential for achieving goals efficiently.",
+        "businessContext": "In business environments, maintaining focus is critical for prioritizing tasks, aligning team efforts, and driving projects to successful completion.",
+        "nuance": "While 'focus' suggests clarity and direction, it can also imply the risk of neglecting other important areas if overemphasized.",
+        "synonyms": [
+          "concentration",
+          "emphasis"
+        ],
+        "antonyms": [
+          "distraction",
+          "diversion"
+        ]
+      }
+    ]
   },
   {
-    "text": "It's frustrating because I really thought by the year 2022, we would not have such a chasm between how good companies work and the rest. There's such strong incentives, just the profit motive alone. Why don't more companies want to work like the best? So I find that just perplexing.",
+    "text": "It's frustrating because I really thought by the year 2022, we would not have such a chasm between how good companies work and the rest. There's such strong incentives, just the profit motive alone. Why don't more companies want to work like the best?",
     "speaker": "Marty Cagan",
     "timestamp": "04:16",
     "context": "Lenny asks Marty about his recent philosophical approach to writing about product management and the misconceptions he's been observing. Marty explains his frustration with the persistent gap between high-performing product companies and the majority of companies. Despite clear financial incentives and proven success models, most companies continue using outdated product development approaches rather than adopting the practices of leading tech companies.",
     "vocabulary_highlights": [
-      "chasm",
-      "profit motive alone",
-      "perplexing"
+      "frustrating",
+      "incentives",
+      "profit motive",
+      "persistent gap"
     ],
     "topics": [
       "Product Management",
@@ -43,15 +110,79 @@
     "text_ko": "정말 2022년쯤이면 잘하는 회사들이 일하는 방식과 다른 회사들 사이에 이런 큰 격차가 없을 줄 알았어요. 유인이 충분히 강한데, 이윤 동기(profit motive)만 봐도 그렇고요. 그래서 왜 더 많은 회사들이 최고 수준처럼 일하려고 하지 않는지 정말 이해가 안 돼요.",
     "text_zh": "这真的很让人郁闷，我原本以为到了2022年，优秀公司和普通公司之间不会有这么大的差距。动力其实很强啊，光是利润驱动就够了。为什么更多公司不愿意学习那些最好的公司呢？我觉得这事儿真的很费解。",
     "text_es": "Es frustrante porque realmente pensé que para el año 2022, no tendríamos semejante abismo entre cómo funcionan las empresas que lo hacen bien y el resto. Hay incentivos muy fuertes, solo el motivo de ganancia ya es suficiente. ¿Por qué no quieren más empresas trabajar como las mejores? Eso me resulta desconcertante.",
-    "key_sentence": "The chasm between good companies and the rest is perplexing."
+    "key_sentence": "The chasm between good companies and the rest is perplexing.",
+    "text_trimmed": true,
+    "original_text": "It's frustrating because I really thought by the year 2022, we would not have such a chasm between how good companies work and the rest. There's such strong incentives, just the profit motive alone. Why don't more companies want to work like the best? So I find that just perplexing.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "frustrating",
+        "definition": "Causing feelings of annoyance or disappointment due to inability to achieve something.",
+        "businessContext": "In business settings, frustration often arises when expectations are not met, such as delays in project timelines or unmet performance targets.",
+        "nuance": "While it conveys a sense of dissatisfaction, it can also imply a need for improvement or change.",
+        "synonyms": [
+          "exasperating",
+          "irritating"
+        ],
+        "antonyms": [
+          "satisfying",
+          "pleasing"
+        ]
+      },
+      {
+        "word": "incentives",
+        "definition": "Factors or rewards that motivate individuals or organizations to act in a certain way.",
+        "businessContext": "Incentives are commonly used in business to drive employee performance, customer loyalty, or sales growth, often taking the form of bonuses, commissions, or discounts.",
+        "nuance": "Incentives can be both monetary and non-monetary, and their effectiveness can vary based on individual motivations.",
+        "synonyms": [
+          "motivators",
+          "enticements"
+        ],
+        "antonyms": [
+          "deterrents",
+          "disincentives"
+        ]
+      },
+      {
+        "word": "profit motive",
+        "definition": "The desire to achieve financial gain as a primary objective of business activities.",
+        "businessContext": "The profit motive drives companies to innovate, reduce costs, and improve efficiency, often influencing strategic decisions and market competition.",
+        "nuance": "While the profit motive is a fundamental aspect of capitalism, it can sometimes lead to ethical dilemmas or short-term thinking.",
+        "synonyms": [
+          "financial incentive",
+          "economic motivation"
+        ],
+        "antonyms": [
+          "altruism",
+          "nonprofit motive"
+        ]
+      },
+      {
+        "word": "persistent gap",
+        "definition": "A continuous and significant difference or disparity between two entities or groups over time.",
+        "businessContext": "In business, a persistent gap may refer to ongoing disparities in performance, technology adoption, or market access between leading companies and their competitors.",
+        "nuance": "This term often implies a need for urgent action to address the underlying issues causing the disparity.",
+        "synonyms": [
+          "ongoing disparity",
+          "enduring divide"
+        ],
+        "antonyms": [
+          "equity",
+          "similarity"
+        ]
+      }
+    ]
   },
   {
-    "text": "In a feature team, basically you are handed a typical roadmap. Almost everybody, even though I wish this wasn't the case, almost everybody to have the same thing, that it's a prioritized list of features and projects. So some stakeholders got together, usually quarterly, and they say, 'Look, to run our part of the business, we need these features.'",
+    "text": "In a feature team, basically you are handed a typical roadmap. Almost everybody, even though I wish this wasn't the case, almost everybody to have the same thing, that it's a prioritized list of features and projects.",
     "speaker": "Marty Cagan",
     "timestamp": "08:00",
     "context": "Lenny asks Marty to help listeners identify whether they work on a feature team (feature factory) or a real product team. Marty explains the characteristics of feature teams, where teams are given predetermined solutions in the form of roadmaps rather than problems to solve. He describes how stakeholders typically create quarterly lists of required features, essentially asking teams to build pre-defined solutions rather than empowering them to discover the best approaches.",
     "vocabulary_highlights": [
-      "prioritized list"
+      "prioritized",
+      "roadmap",
+      "features",
+      "projects"
     ],
     "topics": [
       "Product Management",
@@ -66,15 +197,79 @@
     "text_ko": "기능 팀(feature team)에서는 보통 전형적인 로드맵을 넘겨받아요. 솔직히 이게 아니었으면 좋겠지만, 거의 다들 똑같아요 — 우선순위가 매겨진 기능과 프로젝트 목록(features and projects)을요. 그래서 이해관계자들이 보통 분기마다 모여서, \"우리 쪽 비즈니스를 운영하려면 이 기능들이 필요하다\"고 말해요.",
     "text_zh": "在功能团队(feature team)里，基本上就是给你一个典型的路线图(roadmap)。几乎所有人，虽然我希望情况不是这样，但几乎所有人拿到的都是同一个东西——就是一个按优先级排列的功能和项目清单。一般是一些利益相关方(stakeholders)聚在一起，通常是每个季度一次，然后他们会说：\"你看，要想把我们这块业务搞好，我们需要这些功能。\"",
     "text_es": "En un equipo de funcionalidades (feature team), básicamente te entregan una hoja de ruta típica. Casi todo el mundo, aunque ojalá no fuera así, casi todo el mundo tiene lo mismo: una lista priorizada de funcionalidades y proyectos. Entonces se juntan algunos stakeholders, normalmente cada trimestre, y dicen: \"Mira, para manejar nuestra parte del negocio, necesitamos estas funcionalidades.\"",
-    "key_sentence": "A prioritized list of features guides typical roadmap decisions."
+    "key_sentence": "A prioritized list of features guides typical roadmap decisions.",
+    "text_trimmed": true,
+    "original_text": "In a feature team, basically you are handed a typical roadmap. Almost everybody, even though I wish this wasn't the case, almost everybody to have the same thing, that it's a prioritized list of features and projects. So some stakeholders got together, usually quarterly, and they say, 'Look, to run our part of the business, we need these features.'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "prioritized",
+        "definition": "Ranked or arranged in order of importance or urgency.",
+        "businessContext": "In business and tech, prioritization is crucial for resource allocation and project management, ensuring that the most critical tasks are addressed first.",
+        "nuance": "The term often implies a strategic decision-making process, and it is important to use it when discussing the importance of tasks rather than just listing them.",
+        "synonyms": [
+          "ranked",
+          "ordered"
+        ],
+        "antonyms": [
+          "deprioritized",
+          "neglected"
+        ]
+      },
+      {
+        "word": "roadmap",
+        "definition": "A strategic plan that outlines goals, milestones, and the steps necessary to achieve them over a specific timeframe.",
+        "businessContext": "In tech and startups, a roadmap serves as a guiding document for product development, aligning teams on objectives and timelines.",
+        "nuance": "While it suggests a clear path forward, it can also imply flexibility, as roadmaps may need to adapt to changing circumstances.",
+        "synonyms": [
+          "strategy plan",
+          "guideline"
+        ],
+        "antonyms": [
+          "disorganization",
+          "chaos"
+        ]
+      },
+      {
+        "word": "features",
+        "definition": "Distinctive attributes or functionalities of a product or service that provide value to users.",
+        "businessContext": "In product development, features are critical for differentiating offerings in the market and meeting customer needs.",
+        "nuance": "The term can sometimes be used interchangeably with 'benefits,' but it specifically refers to the characteristics rather than the advantages they provide.",
+        "synonyms": [
+          "attributes",
+          "functionalities"
+        ],
+        "antonyms": [
+          "flaws",
+          "deficiencies"
+        ]
+      },
+      {
+        "word": "projects",
+        "definition": "Temporary endeavors undertaken to create a unique product, service, or result, characterized by specific objectives and constraints.",
+        "businessContext": "In business, projects are essential for driving innovation and achieving strategic goals, often requiring careful planning and execution.",
+        "nuance": "The term emphasizes the temporary nature and specific goals of the work, distinguishing it from ongoing operations or processes.",
+        "synonyms": [
+          "initiatives",
+          "tasks"
+        ],
+        "antonyms": [
+          "routine",
+          "operations"
+        ]
+      }
+    ]
   },
   {
-    "text": "But on an empowered product team, where you're trying to come up with a solution that solves the problem you've been assigned, that's much harder because that means we have to discover a solution that's valuable, usable, feasible, viable. Now while the engineers definitely own feasible, and the designer definitely owns usable, valuable and viable, which are two of the hardest things to do, that's the product manager.",
+    "text": "But on an empowered product team, where you're trying to come up with a solution that solves the problem you've been assigned, that's much harder because that means we have to discover a solution that's valuable, usable, feasible, viable.",
     "speaker": "Marty Cagan",
     "timestamp": "10:49",
     "context": "Continuing his explanation of the differences between feature teams and empowered product teams, Marty describes how empowered product teams work. Instead of building predetermined features, these teams are given problems to solve and must discover solutions that meet four key criteria. He explains how responsibilities are divided: engineers handle feasibility, designers handle usability, while product managers tackle the challenging areas of value and viability.",
     "vocabulary_highlights": [
-      "empowered product team"
+      "empowered",
+      "solution",
+      "valuable",
+      "viable"
     ],
     "topics": [
       "Product Management",
@@ -89,15 +284,79 @@
     "text_ko": "하지만 권한이 주어진 프로덕트 팀(empowered product team)에서는 배정된 문제를 실제로 해결할 수 있는 해법을 찾아내야 해서 훨씬 더 어려워요. 우리가 찾아야 하는 해법은 가치(valuable)가 있고, 사용성(usable)이 뛰어나고, 실현 가능성(feasible)이 있으며, 사업성(viable)도 갖춰야 하거든요. 엔지니어들은 확실히 실현 가능성(feasible)을 책임지고, 디자이너는 사용성(usable)을 책임지지만, 가치(valuable)와 사업성(viable) — 이 두 가지가 가장 어려운 과제들 중 하나예요 — 을 책임지는 건 프로덕트 매니저(product manager)예요.",
     "text_zh": "但是在一个有自主权的产品团队里，你要想出解决方案来搞定分配给你的问题，这就难多了，因为这意味着我们得找到一个既有价值、又好用、还能实现、也能盈利的解决方案。虽然工程师肯定负责\"能不能实现\"这块，设计师肯定负责\"好不好用\"这块，但是\"有没有价值\"和\"能不能盈利\"——这两个最难搞的事情，就是产品经理的活儿了。",
     "text_es": "Pero en un equipo de producto empoderado (empowered), donde estás tratando de encontrar una solución que resuelva el problema que te asignaron, eso es mucho más difícil porque significa que tenemos que descubrir una solución que sea valiosa, usable, factible y viable. Ahora, mientras que los ingenieros definitivamente se encargan de lo factible, y el diseñador se encarga de lo usable, lo valioso y lo viable, que son dos de las cosas más difíciles de lograr, eso le toca al product manager.",
-    "key_sentence": "An empowered product team discovers valuable, usable, feasible, and viable solutions."
+    "key_sentence": "An empowered product team discovers valuable, usable, feasible, and viable solutions.",
+    "text_trimmed": true,
+    "original_text": "But on an empowered product team, where you're trying to come up with a solution that solves the problem you've been assigned, that's much harder because that means we have to discover a solution that's valuable, usable, feasible, viable. Now while the engineers definitely own feasible, and the designer definitely owns usable, valuable and viable, which are two of the hardest things to do, that's the product manager.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "empowered",
+        "definition": "Having the authority or power to make decisions and take actions independently.",
+        "businessContext": "In business and tech environments, an empowered team is one that is trusted to innovate and solve problems without excessive oversight, fostering creativity and accountability.",
+        "nuance": "While 'empowered' conveys a sense of autonomy, it also implies a responsibility to deliver results, making it important to use in contexts where both authority and accountability are present.",
+        "synonyms": [
+          "authorized",
+          "enabled"
+        ],
+        "antonyms": [
+          "disempowered",
+          "restricted"
+        ]
+      },
+      {
+        "word": "solution",
+        "definition": "A means of solving a problem or dealing with a difficult situation.",
+        "businessContext": "In the context of startups and tech, a solution often refers to a product or service designed to address specific customer pain points or operational challenges.",
+        "nuance": "The term 'solution' can imply a comprehensive approach to a problem, so it is best used when discussing strategies or offerings that provide clear benefits.",
+        "synonyms": [
+          "answer",
+          "resolution"
+        ],
+        "antonyms": [
+          "problem",
+          "issue"
+        ]
+      },
+      {
+        "word": "valuable",
+        "definition": "Having worth, significance, or usefulness; providing benefits that justify its cost or investment.",
+        "businessContext": "In business, a valuable product or service is one that meets customer needs effectively, leading to customer satisfaction and loyalty, as well as potential profitability.",
+        "nuance": "While 'valuable' is often used to describe tangible assets, it can also refer to intangible qualities such as insights or relationships, making it versatile in usage.",
+        "synonyms": [
+          "beneficial",
+          "worthwhile"
+        ],
+        "antonyms": [
+          "worthless",
+          "insignificant"
+        ]
+      },
+      {
+        "word": "viable",
+        "definition": "Capable of working successfully; feasible or practical in a given context.",
+        "businessContext": "In business and startup discussions, a viable solution is one that can be realistically implemented and sustained, considering factors like market demand, resources, and scalability.",
+        "nuance": "The term 'viable' often carries a connotation of long-term sustainability, so it is best used when assessing the practicality of a proposal or idea over time.",
+        "synonyms": [
+          "feasible",
+          "practical"
+        ],
+        "antonyms": [
+          "impractical",
+          "unworkable"
+        ]
+      }
+    ]
   },
   {
-    "text": "Nothing I talk about, and honestly being very clear, nothing I've written about in Inspired, nothing I've written about in Empowered was invented by us. All we do is share the practices we see being used in the best teams. So the heuristic is pretty easy. If it's used by several of the best teams, we're like, 'Okay, let's start recommending it.'",
+    "text": "Nothing I talk about, and honestly being very clear, nothing I've written about in Inspired, nothing I've written about in Empowered was invented by us. All we do is share the practices we see being used in the best teams.",
     "speaker": "Marty Cagan",
     "timestamp": "12:16",
     "context": "Lenny asks whether the high-performing product practices Marty describes actually exist at real companies, as some people doubt these methods are used anywhere. Marty explains his methodology for developing recommendations - he doesn't invent practices but rather observes and shares what the best product teams are already doing. He describes his approach of only recommending practices that are proven effective at multiple top-performing companies.",
     "vocabulary_highlights": [
-      "heuristic"
+      "high-performing",
+      "methodology",
+      "practices",
+      "teams"
     ],
     "topics": [
       "Product Management",
@@ -112,15 +371,79 @@
     "text_ko": "솔직히 말하면요, 제가 이야기하는 것들—그리고 분명히 해두자면 제가 Inspired나 Empowered에 쓴 내용들 중 어느 것도 우리가 발명한 게 아니에요. 우리가 하는 건 최고의 팀들이 실제로 쓰는 관행들만 공유하는 거예요. 그래서 판단 기준(heuristic)은 꽤 간단해요. 여러 우수한 팀들이 쓰고 있으면, '좋아요, 그럼 추천을 시작해보죠' 하는 식이에요.",
     "text_zh": "说实话，我讲的这些东西，还有我在《启示录》和《赋能》里写的那些，都不是我们发明的。我们就是把那些顶尖团队在用的方法分享出来而已。判断标准其实很简单——如果好几个顶级团队都在用某个做法，我们就会想\"行，那咱们就开始推荐这个方法吧。\"",
     "text_es": "Nada de lo que hablo, y siendo muy honesto, nada de lo que he escrito en Inspired, nada de lo que he escrito en Empowered lo inventamos nosotros. Lo único que hacemos es compartir las prácticas que vemos que usan los mejores equipos. Así que la regla es bastante sencilla. Si varios de los mejores equipos lo están usando, decimos: \"Bueno, empecemos a recomendarlo.\"",
-    "key_sentence": "The heuristic is to recommend practices used by the best teams."
+    "key_sentence": "The heuristic is to recommend practices used by the best teams.",
+    "text_trimmed": true,
+    "original_text": "Nothing I talk about, and honestly being very clear, nothing I've written about in Inspired, nothing I've written about in Empowered was invented by us. All we do is share the practices we see being used in the best teams. So the heuristic is pretty easy. If it's used by several of the best teams, we're like, 'Okay, let's start recommending it.'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "high-performing",
+        "definition": "Characterized by exceptional efficiency and effectiveness in achieving goals or objectives.",
+        "businessContext": "In business and tech environments, 'high-performing' often describes teams or individuals who consistently exceed performance benchmarks and contribute significantly to organizational success.",
+        "nuance": "This term conveys a positive connotation and is typically used to highlight excellence, but should be applied carefully to avoid unrealistic expectations.",
+        "synonyms": [
+          "top-performing",
+          "elite"
+        ],
+        "antonyms": [
+          "low-performing",
+          "underachieving"
+        ]
+      },
+      {
+        "word": "methodology",
+        "definition": "A systematic, theoretical analysis of the methods applied to a field of study or practice.",
+        "businessContext": "In business and tech, 'methodology' refers to structured approaches used to manage projects, conduct research, or implement processes, such as Agile or Lean methodologies.",
+        "nuance": "While often used interchangeably with 'methods,' 'methodology' implies a broader framework and should be used when discussing the rationale behind chosen methods.",
+        "synonyms": [
+          "approach",
+          "system"
+        ],
+        "antonyms": [
+          "randomness",
+          "chaos"
+        ]
+      },
+      {
+        "word": "practices",
+        "definition": "Established methods or techniques that are regularly employed in a specific field or activity.",
+        "businessContext": "In the context of business and startups, 'practices' often refer to best practices that enhance efficiency, productivity, and quality of work.",
+        "nuance": "The term suggests a level of standardization and is often used in discussions about continuous improvement; however, it may imply rigidity if not contextualized with innovation.",
+        "synonyms": [
+          "procedures",
+          "techniques"
+        ],
+        "antonyms": [
+          "theories",
+          "concepts"
+        ]
+      },
+      {
+        "word": "teams",
+        "definition": "Groups of individuals organized to work collaboratively towards a common goal or objective.",
+        "businessContext": "In business and tech environments, 'teams' are fundamental units that drive projects and initiatives, often characterized by diverse skills and roles.",
+        "nuance": "The term emphasizes collaboration and shared responsibility, but should be used carefully to distinguish between formal teams and informal groups.",
+        "synonyms": [
+          "groups",
+          "units"
+        ],
+        "antonyms": [
+          "individuals",
+          "solos"
+        ]
+      }
+    ]
   },
   {
-    "text": "And his argument was because as a company gets bigger, product historically became less important. The people in a company that would be celebrated were marketing people, sales people, finance people. If a company stops innovating, these are the engines for growth. Sales, marketing, or not growth with finance, but cutting cost.",
+    "text": "And his argument was because as a company gets bigger, product historically became less important. The people in a company that would be celebrated were marketing people, sales people, finance people. If a company stops innovating, these are the engines for growth.",
     "speaker": "Marty Cagan",
     "timestamp": "18:59",
     "context": "Lenny asks about insights from Steve Jobs's lost interview documentary. Marty explains Jobs's theory about why companies lose their product innovation edge as they grow. According to Jobs, as companies get larger and stop innovating, the focus shifts from product development to other functions like sales, marketing, and finance, which become the primary drivers of business results. These non-product functions then gain more influence and recognition within the company.",
     "vocabulary_highlights": [
-      "engines for growth"
+      "innovation",
+      "engines for growth",
+      "celebrated",
+      "historically"
     ],
     "topics": [
       "Product Management",
@@ -136,16 +459,79 @@
     "text_ko": "그의 주장은, 회사가 커질수록 역사적으로 프로덕트(product)의 중요성이 낮아졌다는 거였어요. 회사에서 칭찬받는 사람들은 마케팅(marketing), 영업(sales), 재무(finance) 같은 사람들이죠. 그리고 회사가 혁신을 멈추면 이 사람들이 성장(growth)의 엔진이라고 여겨지는데, 사실은 성장을 만들어낸다기보다 비용 절감(cost-cutting)으로 조직을 굴리는 쪽이에요.",
     "text_zh": "他的观点是，公司规模越大，产品就越不重要了。公司里受到重视的都是做市场的、跑销售的、搞财务的人。如果一个公司不再创新了，那增长就只能靠这些了——销售、市场营销，财务虽然不能带来增长，但至少能控制成本。",
     "text_es": "Y su argumento era que mientras más grande se vuelve una empresa, históricamente el producto va perdiendo importancia. La gente que celebraban en la compañía eran los de marketing, los de ventas, los de finanzas. Si una empresa deja de innovar, estos son los motores de crecimiento. Ventas, marketing, o bueno, con finanzas no es crecimiento, sino recortar costos.",
-    "key_sentence": "Sales and marketing are engines for growth when companies stop innovating."
+    "key_sentence": "Sales and marketing are engines for growth when companies stop innovating.",
+    "text_trimmed": true,
+    "original_text": "And his argument was because as a company gets bigger, product historically became less important. The people in a company that would be celebrated were marketing people, sales people, finance people. If a company stops innovating, these are the engines for growth. Sales, marketing, or not growth with finance, but cutting cost.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "innovation",
+        "definition": "The process of creating new ideas, products, or methods that improve efficiency or effectiveness. It often involves the application of creative thinking to solve problems or meet market demands.",
+        "businessContext": "In business and technology, innovation is crucial for maintaining competitive advantage and driving growth, often leading to the development of new products or services that meet evolving consumer needs.",
+        "nuance": "While 'innovation' generally has a positive connotation, it can imply risk and uncertainty, especially when it involves significant changes to existing processes or products.",
+        "synonyms": [
+          "creativity",
+          "novelty"
+        ],
+        "antonyms": [
+          "stagnation",
+          "conformity"
+        ]
+      },
+      {
+        "word": "engines for growth",
+        "definition": "Key drivers or mechanisms that propel a business or economy forward, often through increased productivity, sales, or market expansion. These engines can include innovation, effective marketing, and strong sales strategies.",
+        "businessContext": "In startup and corporate environments, identifying and leveraging engines for growth is essential for scaling operations and achieving long-term success.",
+        "nuance": "The phrase suggests a proactive approach to growth, emphasizing the need for dynamic strategies rather than passive reliance on existing success.",
+        "synonyms": [
+          "growth drivers",
+          "growth catalysts"
+        ],
+        "antonyms": [
+          "growth inhibitors",
+          "barriers to growth"
+        ]
+      },
+      {
+        "word": "celebrated",
+        "definition": "Widely recognized and praised for achievements or contributions, often in a public or formal context. It implies a level of admiration and respect from peers or the industry.",
+        "businessContext": "In business, celebrated individuals or teams are often highlighted in company communications and marketing materials, serving as examples of excellence and success that can inspire others.",
+        "nuance": "While 'celebrated' carries a positive connotation, it can also imply that the focus is on recognition rather than substantive contributions, particularly in hierarchical organizations.",
+        "synonyms": [
+          "renowned",
+          "esteemed"
+        ],
+        "antonyms": [
+          "ignored",
+          "disregarded"
+        ]
+      },
+      {
+        "word": "historically",
+        "definition": "Referring to events or trends that have occurred in the past and have shaped the current state of affairs. It often implies a consideration of how past actions influence present circumstances.",
+        "businessContext": "In business analysis, understanding historical trends is vital for making informed decisions, forecasting future performance, and recognizing patterns that can impact strategy.",
+        "nuance": "The term can suggest a critical examination of past practices, which may be necessary for learning and improvement, but it should be used carefully to avoid implying that past failures dictate future outcomes.",
+        "synonyms": [
+          "traditionally",
+          "formerly"
+        ],
+        "antonyms": [
+          "contemporarily",
+          "currently"
+        ]
+      }
+    ]
   },
   {
-    "text": "And he called it the disease of the stakeholders, of the managers, where they think that an idea is 90% of the work. And that's how he called it out. And he's like, 'They don't understand. The idea is minor. The idea is just to start.' I think he said, 'The whole craftsmanship of going from an idea to a product.' This is what we call product discovery.",
+    "text": "And he called it the disease of the stakeholders, of the managers, where they think that an idea is 90% of the work. And that's how he called it out. And he's like, 'They don't understand. The idea is minor.",
     "speaker": "Marty Cagan",
     "timestamp": "23:16",
     "context": "Lenny asks about executives who believe they know exactly what to build without going through discovery processes. Marty references Steve Jobs's insights about management diseases, specifically the misconception that having an idea represents most of the work in product development. Jobs emphasized that ideas are just starting points, and the real work lies in the craftsmanship of transforming ideas into successful products through what is now called product discovery.",
     "vocabulary_highlights": [
-      "disease of the stakeholders",
-      "craftsmanship"
+      "stakeholders",
+      "discovery processes",
+      "management diseases",
+      "minor"
     ],
     "topics": [
       "Product Management",
@@ -160,6 +546,67 @@
     "text_ko": "그는 그걸 이해관계자들이나 관리자들이 가진 병이라고 불렀어요. 그 사람들이 아이디어가 일의 90%라고 생각한다고 꼬집었죠. '그들은 모르는 거야. 아이디어는 사소해. 아이디어는 그냥 시작일 뿐이야.'라고 말했고, '아이디어에서 제품으로 가는 전체적인 장인정신'이라고 했던 것 같아요. 이게 우리가 제품 발견(product discovery)이라고 부르는 거예요.",
     "text_zh": "他把这个叫做利益相关者和管理层的通病，就是他们觉得有了想法就等于完成了90%的工作。他就是这么说的。他说：\"他们根本不懂，想法其实很次要，想法只是个开始而已。\"我记得他说过：\"从想法到产品这整个打磨过程才是关键。\"这就是我们说的产品探索(product discovery)。",
     "text_es": "Y él le puso \"la enfermedad de los stakeholders, de los managers\", donde piensan que una idea es el 90% del trabajo. Así lo describió. Y decía: \"No entienden. La idea es lo de menos. La idea es solo para empezar.\" Creo que dijo algo como \"Todo el arte de llevar una idea hasta convertirla en producto.\" A eso le llamamos product discovery.",
-    "key_sentence": "The disease of the stakeholders underestimates the craftsmanship needed for product discovery."
+    "key_sentence": "The idea is minor.",
+    "text_trimmed": true,
+    "original_text": "And he called it the disease of the stakeholders, of the managers, where they think that an idea is 90% of the work. And that's how he called it out. And he's like, 'They don't understand. The idea is minor. The idea is just to start.' I think he said, 'The whole craftsmanship of going from an idea to a product.' This is what we call product discovery.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "stakeholders",
+        "definition": "Individuals or groups that have an interest in or are affected by a company's operations and decisions.",
+        "businessContext": "In business, stakeholders can include employees, customers, investors, suppliers, and the community, all of whom can influence or be influenced by the company's success.",
+        "nuance": "The term often implies a sense of responsibility and involvement, suggesting that their needs and perspectives should be considered in decision-making processes.",
+        "synonyms": [
+          "interested parties",
+          "shareholders"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "discovery processes",
+        "definition": "Systematic methods used to identify, explore, and validate new ideas, opportunities, or solutions within a business context.",
+        "businessContext": "In startups and innovation-driven companies, discovery processes are crucial for developing products or services that meet market needs and for minimizing risks associated with new ventures.",
+        "nuance": "This term often emphasizes the iterative nature of exploration and learning, distinguishing it from more linear project management approaches.",
+        "synonyms": [
+          "exploratory methods",
+          "innovation processes"
+        ],
+        "antonyms": [
+          "implementation processes",
+          "execution phases"
+        ]
+      },
+      {
+        "word": "management diseases",
+        "definition": "Metaphorical terms used to describe common pitfalls or ineffective practices in management that hinder organizational performance.",
+        "businessContext": "In a business setting, management diseases can manifest as poor communication, lack of vision, or overemphasis on ideas without execution, leading to stagnation or failure.",
+        "nuance": "The phrase carries a negative connotation, suggesting that these issues are pervasive and detrimental to the health of an organization.",
+        "synonyms": [
+          "organizational dysfunctions",
+          "managerial pitfalls"
+        ],
+        "antonyms": [
+          "effective management practices",
+          "organizational health"
+        ]
+      },
+      {
+        "word": "minor",
+        "definition": "Of lesser importance, significance, or impact compared to other elements or factors.",
+        "businessContext": "In business discussions, labeling an idea as minor suggests that it should not be the primary focus or that it lacks the weight necessary to drive significant outcomes.",
+        "nuance": "The term can sometimes downplay the potential value of an idea, so it should be used carefully to avoid dismissing contributions that may have merit.",
+        "synonyms": [
+          "insignificant",
+          "trivial"
+        ],
+        "antonyms": [
+          "major",
+          "significant"
+        ]
+      }
+    ]
   }
 ]

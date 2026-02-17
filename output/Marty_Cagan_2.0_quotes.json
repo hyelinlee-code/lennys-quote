@@ -5,8 +5,10 @@
     "timestamp": "00:00:00",
     "context": "Lenny asks about the spiciness in Marty's recent writing, leading to a discussion about factors causing chaos in the product community. Marty explains that companies not only overhired during the pandemic but also lowered hiring standards, creating numerous unnecessary roles. He argues that many companies have created positions that don't add meaningful value compared to how the best product companies operate with leaner, more focused teams.",
     "vocabulary_highlights": [
-      "ridiculous roles",
-      "overhired"
+      "overhired",
+      "agile",
+      "roles",
+      "chaos"
     ],
     "topics": [
       "Product Management",
@@ -21,7 +23,66 @@
     "text_ko": "팬데믹 때 많은 회사가 채용을 과하게 한 건 분명해요. 몇몇 회사에 가 보면 솔직히 애자일 코치(agile coach), 프로덕트 오너(product owner), 프로덕트 운영(product ops), 비즈니스 애널리스트(business analyst) 같은 어처구니없는 직책들이 있는 걸 보고는 믿을 수가 없어요.",
     "text_zh": "毫无疑问，疫情期间很多公司确实招人招得太猛了。我去一些公司看，说实话真是被他们那些莫名其妙的岗位给震惊了，什么敏捷教练(agile coach)啊、产品负责人(product owner)啊、产品运营(product ops)啊、业务分析师(business analyst)啊，一大堆。",
     "text_es": "No hay duda de que muchas empresas contrataron de más durante la pandemia. Entro a algunas empresas y la verdad no me puedo creer todos los puestos absurdos que tienen: coaches ágiles, product owners, product ops, analistas de negocio...",
-    "key_sentence": "Many companies overhired during the pandemic, creating ridiculous roles."
+    "key_sentence": "Many companies overhired during the pandemic, creating ridiculous roles.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "overhired",
+        "definition": "The term 'overhired' refers to the practice of employing more staff than necessary, often resulting in excess labor costs and inefficiencies.",
+        "businessContext": "In business settings, particularly during rapid growth phases like the pandemic, companies may overhire to meet increased demand, leading to a bloated workforce when demand stabilizes.",
+        "nuance": "While overhiring can indicate optimism about growth, it often carries a negative connotation related to poor workforce planning.",
+        "synonyms": [
+          "overstaffed",
+          "excessively hired"
+        ],
+        "antonyms": [
+          "understaffed",
+          "right-sized"
+        ]
+      },
+      {
+        "word": "agile",
+        "definition": "Agile refers to a flexible and iterative approach to project management and product development that emphasizes collaboration, customer feedback, and rapid delivery.",
+        "businessContext": "In tech and startup environments, agile methodologies are commonly adopted to enhance responsiveness to market changes and improve team collaboration.",
+        "nuance": "While agile is often viewed positively for its adaptability, it can also imply a lack of structure if not implemented properly.",
+        "synonyms": [
+          "flexible",
+          "adaptive"
+        ],
+        "antonyms": [
+          "rigid",
+          "inflexible"
+        ]
+      },
+      {
+        "word": "roles",
+        "definition": "Roles refer to the specific functions or positions that individuals hold within an organization, often defining their responsibilities and contributions.",
+        "businessContext": "In business, clearly defined roles are crucial for organizational structure, ensuring that tasks are allocated efficiently and that accountability is maintained.",
+        "nuance": "The term can imply a hierarchy or specialization, and may carry a connotation of rigidity in traditional corporate environments.",
+        "synonyms": [
+          "positions",
+          "functions"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "chaos",
+        "definition": "Chaos refers to a state of complete disorder and confusion, often resulting from a lack of organization or control.",
+        "businessContext": "In business contexts, chaos can arise during periods of rapid change or crisis, impacting decision-making and operational efficiency.",
+        "nuance": "While chaos can sometimes lead to innovation and creativity, it generally has a negative connotation associated with instability and unpredictability.",
+        "synonyms": [
+          "disorder",
+          "turmoil"
+        ],
+        "antonyms": [
+          "order",
+          "stability"
+        ]
+      }
+    ]
   },
   {
     "text": "They're dramatically overpaid for the value they provide. Because it's a project management role. It is a lot easier to deliver output than it is to deliver outcomes.",
@@ -29,9 +90,10 @@
     "timestamp": "00:00:18",
     "context": "Lenny describes Marty's concept of 'product management theater' - people who aren't real product managers but hold the title. Marty explains that many people calling themselves product managers are actually doing project management work, focusing on shipping features rather than solving problems. He emphasizes the critical difference between delivering output (shipping features) versus delivering outcomes (solving customer and business problems).",
     "vocabulary_highlights": [
-      "dramatically overpaid",
-      "deliver output",
-      "deliver outcomes"
+      "project management",
+      "deliver outcomes",
+      "value",
+      "output"
     ],
     "topics": [
       "Product Management",
@@ -46,7 +108,66 @@
     "text_ko": "그들은 제공하는 가치에 비해 보수를 지나치게 많이 받고 있어요. 그건 프로젝트 관리 역할(project management role)이기 때문이에요. 산출물(output)을 내는 건 결과(outcome)를 만들어내는 것보다 훨씬 쉬워요.",
     "text_zh": "他们拿的薪水跟他们创造的价值完全不成正比，拿得太多了。因为这就是个项目管理(project management)的活儿嘛。你要说交付成果(output)，那简单，但要真正实现效果(outcomes)，那就难多了。",
     "text_es": "Están súper sobrepagados para el valor que realmente aportan. Porque es un puesto de gestión de proyectos. Es mucho más fácil entregar productos que entregar resultados de verdad.",
-    "key_sentence": "They are dramatically overpaid for delivering output rather than outcomes."
+    "key_sentence": "They are dramatically overpaid for delivering output rather than outcomes.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "project management",
+        "definition": "The process of planning, executing, and overseeing a project to achieve specific goals within a defined timeline and budget.",
+        "businessContext": "In business and tech environments, project management is crucial for coordinating resources, managing risks, and ensuring that project deliverables meet stakeholder expectations.",
+        "nuance": "While often associated with administrative tasks, effective project management requires strategic thinking and leadership skills to navigate complex challenges.",
+        "synonyms": [
+          "project coordination",
+          "program management"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "deliver outcomes",
+        "definition": "To achieve and present the intended results or impacts of a project or initiative, often measured against predefined objectives.",
+        "businessContext": "In the context of business and startups, delivering outcomes is essential for demonstrating value to stakeholders and ensuring that projects align with strategic goals.",
+        "nuance": "This phrase emphasizes the importance of results over mere completion of tasks, highlighting a focus on effectiveness rather than just efficiency.",
+        "synonyms": [
+          "achieve results",
+          "produce impacts"
+        ],
+        "antonyms": [
+          "fail to deliver",
+          "N/A"
+        ]
+      },
+      {
+        "word": "value",
+        "definition": "The importance, worth, or usefulness of something, often assessed in terms of its benefits relative to its costs.",
+        "businessContext": "In business, value is a critical concept that influences decision-making, pricing strategies, and customer satisfaction, as organizations strive to maximize the benefits they provide to clients.",
+        "nuance": "Value can be subjective, varying between different stakeholders based on their perspectives and needs, making it essential to understand the audience when discussing it.",
+        "synonyms": [
+          "worth",
+          "benefit"
+        ],
+        "antonyms": [
+          "cost",
+          "burden"
+        ]
+      },
+      {
+        "word": "output",
+        "definition": "The tangible products, results, or services produced as a result of a process or activity, often quantifiable in nature.",
+        "businessContext": "In business and tech settings, output is frequently measured to assess productivity and efficiency, serving as a key performance indicator for teams and projects.",
+        "nuance": "While output is important, it is often seen as a less comprehensive measure of success compared to outcomes, which consider the broader impact of the work done.",
+        "synonyms": [
+          "production",
+          "deliverable"
+        ],
+        "antonyms": [
+          "input",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "Too many people in our industry view themselves as a victim of their company, like they're stuck in a feature team and there's nothing they can do about it other than quit. I think that's not true. There is so much they can do.",
@@ -54,8 +175,9 @@
     "timestamp": "00:00:27",
     "context": "Lenny asks what motivated Marty to write his third book, TRANSFORMED. Marty explains that many product professionals feel trapped in organizations that operate as 'feature teams' - teams given roadmaps of features to build rather than problems to solve. Instead of viewing themselves as powerless victims, Marty argues these individuals have much more agency than they realize to transform their companies and elevate their own roles.",
     "vocabulary_highlights": [
-      "view themselves as a victim",
-      "stuck in a feature team"
+      "feature team",
+      "trapped in organizations",
+      "roadmap"
     ],
     "topics": [
       "Career Development",
@@ -70,7 +192,52 @@
     "text_ko": "우리 업계에서는 스스로를 회사의 피해자라고 보는 분들이 너무 많아요. 마치 기능팀(feature team)에 갇혀서 그걸 벗어날 방법은 그만두는 것뿐이라고 생각하죠. 저는 그게 사실이 아니라고 봐요. 할 수 있는 일이 정말 많아요.",
     "text_zh": "我们这个行业里太多人都觉得自己是公司的受害者，好像被困在功能团队(feature team)里就没办法了，除了辞职别无选择。我觉得这想法不对，其实他们能做的事情多着呢。",
     "text_es": "Mucha gente en nuestra industria se ve como víctima de su empresa, como si estuviera atrapada en un equipo de desarrollo y no pudiera hacer nada más que renunciar. Yo creo que eso no es cierto. Hay muchísimo que pueden hacer.",
-    "key_sentence": "Many view themselves as a victim, feeling stuck in a feature team."
+    "key_sentence": "Many view themselves as a victim, feeling stuck in a feature team.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "feature team",
+        "definition": "A feature team is a cross-functional group of professionals who collaborate to deliver a specific feature or product increment within a larger project or system.",
+        "businessContext": "In tech and startup environments, feature teams are often employed in Agile methodologies to enhance productivity and ensure that all aspects of a feature, from design to testing, are addressed collaboratively.",
+        "nuance": "While feature teams can foster innovation and speed, they may also lead to silos if not managed properly, as team members may become overly focused on their specific feature rather than the overall product vision.",
+        "synonyms": [
+          "cross-functional team",
+          "product team"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "trapped in organizations",
+        "definition": "Being trapped in organizations refers to the feeling of being stuck in a company or role with limited opportunities for growth or change.",
+        "businessContext": "This phrase is often used in discussions about employee engagement and retention, highlighting the importance of fostering a culture that empowers employees to seek development and innovation.",
+        "nuance": "The term carries a negative connotation, suggesting a lack of agency or autonomy, and is typically used to describe dissatisfaction among employees who feel constrained by organizational structures.",
+        "synonyms": [
+          "stagnant in roles",
+          "confined in positions"
+        ],
+        "antonyms": [
+          "empowered in organizations",
+          "free to innovate"
+        ]
+      },
+      {
+        "word": "roadmap",
+        "definition": "A roadmap is a strategic plan that outlines the vision, direction, and milestones for a project or product over a specified period.",
+        "businessContext": "In business and tech, roadmaps are essential for aligning teams, setting priorities, and communicating the timeline and goals for product development or organizational initiatives.",
+        "nuance": "While roadmaps provide a clear direction, they should remain flexible to adapt to changing market conditions or feedback, and are often revised as projects evolve.",
+        "synonyms": [
+          "strategic plan",
+          "project timeline"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "We are looking for the commonality and mostly we're looking to help a company, whether it's a startup or a large company to have the best possible chance of success. That's the goal for us. It's a different goal.",
@@ -78,8 +245,10 @@
     "timestamp": "00:09:27",
     "context": "Marty contrasts his approach with Lenny's podcast style. While Lenny seeks to showcase diverse perspectives and unique practices across different companies, Marty explains that his Silicon Valley Product Group focuses on identifying common principles and practices consistently used by the best product companies. Their heuristic requires seeing techniques used successfully by multiple proven companies before they evangelize them.",
     "vocabulary_highlights": [
-      "looking for the commonality",
-      "best possible chance of success"
+      "commonality",
+      "startup",
+      "success",
+      "goal"
     ],
     "topics": [
       "Strategy & Planning",
@@ -94,7 +263,66 @@
     "text_ko": "우리는 공통점을 찾고, 무엇보다 스타트업이든 대기업이든 회사가 성공할 가능성을 최대한 높일 수 있도록 돕는 데 집중하고 있어요. 그게 우리의 목표예요. 좀 다른 목표예요.",
     "text_zh": "我们主要是在找共同点，更重要的是，我们想帮助公司——不管是初创公司(startup)还是大企业——让他们有最大的成功机会。这就是我们的目标，跟别人不太一样。",
     "text_es": "Buscamos los puntos en común y sobre todo queremos ayudar a una empresa, ya sea una startup o una compañía grande, a que tenga las mejores posibilidades de éxito. Ese es nuestro objetivo. Es un enfoque distinto.",
-    "key_sentence": "We are looking for the commonality to give companies the best possible chance of success."
+    "key_sentence": "We are looking for the commonality to give companies the best possible chance of success.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "commonality",
+        "definition": "Commonality refers to the shared characteristics or features among different entities or groups.",
+        "businessContext": "In business, identifying commonality can help organizations understand market trends, customer preferences, and potential collaboration opportunities.",
+        "nuance": "While commonality emphasizes similarities, it is important to recognize unique aspects that may differentiate entities in competitive contexts.",
+        "synonyms": [
+          "similarity",
+          "shared trait"
+        ],
+        "antonyms": [
+          "difference",
+          "diversity"
+        ]
+      },
+      {
+        "word": "startup",
+        "definition": "A startup is a newly established business, often in the early stages of development, focused on bringing a unique product or service to market.",
+        "businessContext": "Startups are typically characterized by innovation, scalability, and a high potential for growth, often seeking venture capital to fund their operations.",
+        "nuance": "The term 'startup' often connotes a sense of agility and disruption, distinguishing it from more traditional, established businesses.",
+        "synonyms": [
+          "new venture",
+          "entrepreneurial enterprise"
+        ],
+        "antonyms": [
+          "established company",
+          "corporation"
+        ]
+      },
+      {
+        "word": "success",
+        "definition": "Success is the achievement of desired goals or outcomes, often measured by specific metrics such as profitability, market share, or customer satisfaction.",
+        "businessContext": "In a business context, success can be defined differently depending on the organization's objectives, ranging from financial performance to social impact.",
+        "nuance": "Success can be subjective and may vary across different stakeholders, making it essential to clarify what success means in specific contexts.",
+        "synonyms": [
+          "achievement",
+          "accomplishment"
+        ],
+        "antonyms": [
+          "failure",
+          "setback"
+        ]
+      },
+      {
+        "word": "goal",
+        "definition": "A goal is a specific aim or desired result that an individual or organization strives to achieve within a defined timeframe.",
+        "businessContext": "In business, setting clear goals is crucial for strategic planning, performance measurement, and aligning team efforts towards common objectives.",
+        "nuance": "While goals can be short-term or long-term, it is important to ensure they are SMART (Specific, Measurable, Achievable, Relevant, Time-bound) for effective implementation.",
+        "synonyms": [
+          "objective",
+          "target"
+        ],
+        "antonyms": [
+          "aimlessness",
+          "distraction"
+        ]
+      }
+    ]
   },
   {
     "text": "I do. In fact, I've got some very uncomfortable things to talk about, which I know the more intelligent part of me is like, \"Don't bring that up.\" But also the other side of me is like, \"But people need to hear it.\"",
@@ -102,8 +330,10 @@
     "timestamp": "00:12:08",
     "context": "Lenny asks about Marty's recent 'spiciness' in writing, suggesting he's telling people things they don't want to hear but need to hear. Marty confirms this is conscious - he's deliberately dialing up his rhetoric around uncomfortable truths in the product management industry. He acknowledges internal conflict between staying diplomatic versus sharing harsh realities that could help people and companies improve.",
     "vocabulary_highlights": [
-      "uncomfortable things",
-      "the more intelligent part of me"
+      "uncomfortable",
+      "intelligent",
+      "deliberately",
+      "dialing up"
     ],
     "topics": [
       "Communication Skills",
@@ -118,7 +348,66 @@
     "text_ko": "네, 있어요. 사실 꽤 불편한 얘기들이 있어요. 머리로는 '그 얘기 꺼내지 마'라고 하는데, 다른 한쪽은 '그래도 사람들이 들어야 해'라고 해요.",
     "text_zh": "有啊。其实我有些挺敏感的话题想聊，我理智的那一面告诉我\"别提这事儿\"，但另一面又觉得\"大家确实需要听听这些\"。",
     "text_es": "Claro que sí. De hecho, tengo que hablar de algunas cosas bastante incómodas, y sé que la parte más inteligente de mí me dice \"No saques ese tema.\" Pero por otro lado también pienso \"La gente necesita escuchar esto.\"",
-    "key_sentence": "I have uncomfortable things to talk about that people need to hear."
+    "key_sentence": "I have uncomfortable things to talk about that people need to hear.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "uncomfortable",
+        "definition": "Experiencing physical or emotional discomfort; causing unease or awkwardness.",
+        "businessContext": "In business discussions, 'uncomfortable' often refers to topics that may provoke tension or disagreement, yet are necessary for growth and transparency.",
+        "nuance": "While it typically has a negative connotation, discussing uncomfortable topics can be crucial for progress and innovation.",
+        "synonyms": [
+          "uneasy",
+          "awkward"
+        ],
+        "antonyms": [
+          "comfortable",
+          "at ease"
+        ]
+      },
+      {
+        "word": "intelligent",
+        "definition": "Possessing a high level of understanding, knowledge, or mental capacity; able to think critically and solve problems effectively.",
+        "businessContext": "In the corporate world, 'intelligent' often describes employees or strategies that demonstrate analytical thinking and innovative solutions.",
+        "nuance": "While generally positive, labeling someone as 'intelligent' can imply a comparison to others, which may not always be appropriate.",
+        "synonyms": [
+          "smart",
+          "astute"
+        ],
+        "antonyms": [
+          "unintelligent",
+          "ignorant"
+        ]
+      },
+      {
+        "word": "deliberately",
+        "definition": "In a purposeful or intentional manner; done with careful consideration or planning.",
+        "businessContext": "In a business context, actions taken 'deliberately' indicate strategic decision-making, often reflecting a calculated approach to risk and opportunity.",
+        "nuance": "This term can imply a sense of control or forethought, but it may also suggest a lack of spontaneity or flexibility.",
+        "synonyms": [
+          "intentionally",
+          "purposely"
+        ],
+        "antonyms": [
+          "accidentally",
+          "unintentionally"
+        ]
+      },
+      {
+        "word": "dialing up",
+        "definition": "To increase or intensify something; to enhance or amplify a particular aspect or quality.",
+        "businessContext": "In technology and marketing, 'dialing up' often refers to boosting efforts in areas such as customer engagement, advertising, or product features to achieve better results.",
+        "nuance": "While it conveys a proactive approach, overusing this phrase can imply excessive or aggressive tactics that may not align with a company's values.",
+        "synonyms": [
+          "amplifying",
+          "intensifying"
+        ],
+        "antonyms": [
+          "dialing down",
+          "reducing"
+        ]
+      }
+    ]
   },
   {
     "text": "And then the one that I really probably shouldn't bring up just because it's become a religious topic almost. I know it's a super sensitive topic for people, but the reality is with remote employees, both velocity and innovation have taken a real hit.",
@@ -126,9 +415,10 @@
     "timestamp": "00:14:44",
     "context": "Marty discusses macro factors creating challenges in the product management field, including overhiring during the pandemic, rising cost of funds, and potential AI disruption. He addresses what he calls a 'religious topic' - the impact of remote work on product development. Despite knowing it's sensitive, he shares his observation that companies with remote teams struggle with both development speed and innovation compared to co-located teams.",
     "vocabulary_highlights": [
-      "religious topic",
-      "super sensitive topic",
-      "taken a real hit"
+      "velocity",
+      "innovation",
+      "sensitive",
+      "macro factors"
     ],
     "topics": [
       "Work-Life Balance",
@@ -143,6 +433,65 @@
     "text_ko": "솔직히 이 얘기는 거의 종교 논쟁 수준이라서 꺼내지 않는 게 나을 수도 있는데요. 사람들한테 정말 민감한 주제인 건 알고요. 그런데 현실은 원격 근무자의 경우 속도(velocity)와 혁신(innovation) 둘 다 실질적으로 큰 타격을 받았어요.",
     "text_zh": "还有一个我本来不太想提的话题，因为这几乎成了一个很敏感的宗教话题了。我知道大家对这个都很敏感，但现实就是远程办公的员工，无论是工作效率还是创新能力，确实都受到了不小的冲击。",
     "text_es": "Y luego está el tema que probablemente no debería ni mencionar porque se ha vuelto casi como una religión. Sé que es un tema súper delicado para la gente, pero la realidad es que con los empleados remotos, tanto la velocidad como la innovación han sufrido un golpe bastante duro.",
-    "key_sentence": "Remote employees have taken a real hit in both velocity and innovation."
+    "key_sentence": "Remote employees have taken a real hit in both velocity and innovation.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "velocity",
+        "definition": "Velocity refers to the speed at which something moves or operates, often in a business context relating to the rate of progress or output.",
+        "businessContext": "In business and tech, velocity is frequently used to measure the pace of project completion, product development, or sales cycles, indicating how quickly a team can deliver results.",
+        "nuance": "While velocity suggests speed, it can also imply efficiency; using it in discussions about performance may highlight the need for balance between speed and quality.",
+        "synonyms": [
+          "speed",
+          "pace"
+        ],
+        "antonyms": [
+          "slowness",
+          "delay"
+        ]
+      },
+      {
+        "word": "innovation",
+        "definition": "Innovation is the process of creating new ideas, products, or methods that improve existing solutions or address unmet needs.",
+        "businessContext": "In the business and tech sectors, innovation is crucial for maintaining competitive advantage, driving growth, and responding to changing market demands.",
+        "nuance": "Innovation can carry a positive connotation of progress and advancement, but it may also imply risk and uncertainty, particularly when discussing disruptive changes.",
+        "synonyms": [
+          "creativity",
+          "advancement"
+        ],
+        "antonyms": [
+          "stagnation",
+          "regression"
+        ]
+      },
+      {
+        "word": "sensitive",
+        "definition": "Sensitive describes a state of being easily affected or responsive to external factors, often relating to emotions or reactions.",
+        "businessContext": "In business discussions, a sensitive topic may refer to issues that require careful handling due to their potential impact on employee morale or public perception.",
+        "nuance": "Using 'sensitive' can imply a need for caution and empathy; it is advisable to approach sensitive topics with tact to avoid conflict or misunderstanding.",
+        "synonyms": [
+          "delicate",
+          "touchy"
+        ],
+        "antonyms": [
+          "insensitive",
+          "unresponsive"
+        ]
+      },
+      {
+        "word": "macro factors",
+        "definition": "Macro factors are large-scale influences that affect an organization or industry, including economic, political, social, and technological elements.",
+        "businessContext": "In strategic planning, understanding macro factors is essential for assessing risks and opportunities that can impact long-term business success.",
+        "nuance": "While macro factors provide a broad perspective, they can sometimes overshadow specific, actionable insights; it's important to balance macro analysis with micro-level considerations.",
+        "synonyms": [
+          "external factors",
+          "environmental factors"
+        ],
+        "antonyms": [
+          "micro factors",
+          "internal factors"
+        ]
+      }
+    ]
   }
 ]

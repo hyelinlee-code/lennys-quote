@@ -1,12 +1,14 @@
 [
   {
-    "text": "So I would say early days, it's very important to just go back to the basics, build the skeleton before you put on the makeup. So the first question I would ask is, do you have a website? Is it fast? Do the search engine knows that it exists? Okay, great. The next step would be, can people find it? If they can't find it, you need to write content to make sure that people can find it.",
+    "text": "So I would say early days, it's very important to just go back to the basics, build the skeleton before you put on the makeup. So the first question I would ask is, do you have a website? Is it fast?",
     "speaker": "Meltem Kuran Berkowitz",
     "timestamp": "00:26:39",
     "context": "Lenny asks Meltem about how she decided where to prioritize resources and what to focus on in the early days at Deel when there were many possible growth strategies to pursue. Meltem explains her philosophy of starting with the fundamentals before moving to more advanced tactics. She emphasizes building a strong foundation with basic website functionality and discoverability before investing in paid advertising or other expensive growth channels.",
     "vocabulary_highlights": [
-      "build the skeleton before you put on the makeup",
-      "go back to the basics"
+      "prioritize",
+      "resources",
+      "focus on",
+      "growth strategies"
     ],
     "topics": [
       "Growth & Marketing",
@@ -22,15 +24,79 @@
     "text_ko": "초기에는 기본으로 돌아가서 화장하기 전에 뼈대를 먼저 세우는 게 정말 중요해요. 그래서 제가 가장 먼저 묻는 건 웹사이트(website)가 있나요? 로딩 속도는 빠른가요? 검색 엔진(search engine)이 그 사이트의 존재를 알고 있나요? 좋아요. 다음 단계는 사람들이 그 사이트를 찾을 수 있느냐는 거예요. 못 찾는다면 사람들이 찾을 수 있도록 콘텐츠(content)를 만들어야 해요.",
     "text_zh": "所以我觉得刚开始的时候，最重要的就是回到基本功，先把骨架搭好再化妆。我第一个要问的问题就是，你有网站吗？网站快不快？搜索引擎知道你这个网站存在吗？好，这些都有了。下一步就是，别人能不能找到你的网站？如果找不到，你就得写内容，确保别人能搜到你。",
     "text_es": "Entonces yo diría que al principio, es súper importante volver a lo básico, construir la estructura antes de ponerle los adornos. La primera pregunta que yo haría es: ¿tienes un sitio web? ¿Carga rápido? ¿Los motores de búsqueda saben que existe? Perfecto. El siguiente paso sería: ¿la gente lo puede encontrar? Si no lo pueden encontrar, necesitas crear contenido para asegurarte de que sí lo encuentren.",
-    "key_sentence": "Go back to the basics; build the skeleton before you put on the makeup."
+    "key_sentence": "Go back to the basics; build the skeleton before you put on the makeup.",
+    "text_trimmed": true,
+    "original_text": "So I would say early days, it's very important to just go back to the basics, build the skeleton before you put on the makeup. So the first question I would ask is, do you have a website? Is it fast? Do the search engine knows that it exists? Okay, great. The next step would be, can people find it? If they can't find it, you need to write content to make sure that people can find it.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "prioritize",
+        "definition": "To arrange or deal with in order of importance or urgency.",
+        "businessContext": "In business settings, prioritizing tasks or projects ensures that resources are allocated effectively to achieve strategic goals.",
+        "nuance": "While prioritizing is essential for efficiency, it can imply that some tasks or projects are deemed less valuable, which may affect team morale.",
+        "synonyms": [
+          "rank",
+          "emphasize"
+        ],
+        "antonyms": [
+          "ignore",
+          "deprioritize"
+        ]
+      },
+      {
+        "word": "resources",
+        "definition": "Assets or materials that can be utilized to achieve objectives, including human, financial, and physical assets.",
+        "businessContext": "In a business context, managing resources effectively is crucial for maximizing productivity and ensuring sustainable growth.",
+        "nuance": "The term can also imply a sense of scarcity, highlighting the need for strategic allocation and management.",
+        "synonyms": [
+          "assets",
+          "capital"
+        ],
+        "antonyms": [
+          "liabilities",
+          "debt"
+        ]
+      },
+      {
+        "word": "focus on",
+        "definition": "To concentrate attention or effort on a specific task, goal, or area.",
+        "businessContext": "Focusing on key performance indicators or core competencies is vital for businesses to enhance performance and drive success.",
+        "nuance": "While focusing can lead to greater efficiency, it may also result in neglecting other important areas if not balanced properly.",
+        "synonyms": [
+          "concentrate on",
+          "dedicate to"
+        ],
+        "antonyms": [
+          "disperse",
+          "distract from"
+        ]
+      },
+      {
+        "word": "growth strategies",
+        "definition": "Plans or methods implemented by an organization to increase its market share, revenue, or overall size.",
+        "businessContext": "Growth strategies are essential for startups and established companies alike to navigate competitive markets and achieve long-term sustainability.",
+        "nuance": "The term often carries a positive connotation, suggesting proactive measures, but can also imply risk if aggressive strategies are pursued without careful analysis.",
+        "synonyms": [
+          "expansion plans",
+          "development strategies"
+        ],
+        "antonyms": [
+          "retrenchment strategies",
+          "contraction plans"
+        ]
+      }
+    ]
   },
   {
-    "text": "I'm not a huge fan of early awareness campaigns for B2B businesses specifically. So if you are a consumer goods founder, you can skip this part. But the reason I don't like awareness early on is because to do a proper awareness campaign, it takes time. You need to have teams that are doing the strategy, doing the creative work, and they don't always hit.",
+    "text": "I'm not a huge fan of early awareness campaigns for B2B businesses specifically. So if you are a consumer goods founder, you can skip this part.",
     "speaker": "Meltem Kuran Berkowitz",
     "timestamp": "00:32:12",
     "context": "Lenny asks about Meltem's perspective on awareness campaigns and brand building versus direct response marketing. Meltem explains why she advises against investing in awareness campaigns too early for B2B businesses. Her reasoning is that awareness campaigns require significant time and resources to execute properly, and they don't always succeed, which can waste valuable time that early-stage companies can't afford.",
     "vocabulary_highlights": [
-      "they don't always hit"
+      "awareness campaigns",
+      "brand building",
+      "direct response marketing",
+      "investing"
     ],
     "topics": [
       "Growth & Marketing",
@@ -46,16 +112,79 @@
     "text_ko": "개인적으로 기업 대상 비즈니스(B2B)의 초기 인지도 캠페인(early awareness campaigns)은 별로 좋아하지 않아요. 소비재 창업자(consumer goods founder)라면 이 부분은 건너뛰셔도 돼요. 제가 초기 인지도를 좋아하지 않는 이유는, 제대로 된 인지도 캠페인(proper awareness campaign)을 하려면 시간이 많이 걸리기 때문이에요. 전략(strategy)을 세우는 팀과 크리에이티브 작업(creative work)을 하는 팀이 있어야 하고, 그런데 그 팀들이 항상 성과를 내는 건 아니거든요.",
     "text_zh": "我不太赞成B2B企业早期就搞品牌认知活动。如果你是做消费品的创始人，这部分你可以跳过。我不看好早期做认知活动的原因是，要做好一个认知活动真的很费时间。你得有团队来做策略，做创意，而且还不一定能成功。",
     "text_es": "No soy muy partidario de las campañas de awareness temprano para empresas B2B específicamente. Así que si eres fundador de productos de consumo, te puedes saltar esta parte. Pero la razón por la que no me gusta el awareness al principio es porque hacer una campaña de awareness como Dios manda lleva tiempo. Necesitas equipos que estén haciendo la estrategia, haciendo el trabajo creativo, y no siempre dan en el clavo.",
-    "key_sentence": "They don't always hit in early awareness campaigns for B2B businesses."
+    "key_sentence": "I'm not a huge fan of early awareness campaigns for B2B businesses specifically.",
+    "text_trimmed": true,
+    "original_text": "I'm not a huge fan of early awareness campaigns for B2B businesses specifically. So if you are a consumer goods founder, you can skip this part. But the reason I don't like awareness early on is because to do a proper awareness campaign, it takes time. You need to have teams that are doing the strategy, doing the creative work, and they don't always hit.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "awareness campaigns",
+        "definition": "Awareness campaigns are strategic marketing efforts aimed at increasing public knowledge and recognition of a brand, product, or issue.",
+        "businessContext": "In business, particularly in B2B settings, awareness campaigns are often used to establish brand presence and inform potential clients about services or products, although their effectiveness can vary based on the target audience.",
+        "nuance": "While awareness campaigns can be beneficial for consumer-focused brands, they may be less effective for B2B companies that require more targeted marketing strategies.",
+        "synonyms": [
+          "publicity campaigns",
+          "promotional campaigns"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "brand building",
+        "definition": "Brand building refers to the process of creating and strengthening a brand's identity, reputation, and market presence over time.",
+        "businessContext": "In the context of startups and businesses, brand building is crucial for differentiating products in a competitive market and fostering customer loyalty.",
+        "nuance": "Effective brand building often requires a long-term commitment and can involve various marketing strategies, making it distinct from short-term promotional tactics.",
+        "synonyms": [
+          "brand development",
+          "brand enhancement"
+        ],
+        "antonyms": [
+          "brand erosion",
+          "brand dilution"
+        ]
+      },
+      {
+        "word": "direct response marketing",
+        "definition": "Direct response marketing is a form of advertising that prompts immediate feedback or action from the target audience, such as making a purchase or signing up for a service.",
+        "businessContext": "This approach is commonly used in digital marketing campaigns where measurable results are essential, allowing businesses to track the effectiveness of their marketing efforts in real-time.",
+        "nuance": "Direct response marketing is often contrasted with brand awareness strategies, as it focuses on generating immediate results rather than long-term brand recognition.",
+        "synonyms": [
+          "response marketing",
+          "call-to-action marketing"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "investing",
+        "definition": "Investing is the act of allocating resources, usually money, into assets or ventures with the expectation of generating a profit or income over time.",
+        "businessContext": "In the startup ecosystem, investing can involve venture capital, angel investing, or crowdfunding, and is critical for funding growth and innovation.",
+        "nuance": "Investing carries inherent risks and requires careful analysis and strategy, distinguishing it from mere spending or consumption.",
+        "synonyms": [
+          "capital allocation",
+          "financial investment"
+        ],
+        "antonyms": [
+          "divesting",
+          "liquidation"
+        ]
+      }
+    ]
   },
   {
-    "text": "The biggest mistake people make is SEO is one of those things that, you can try and automate it, you can do a lot of things that save you time, but it never stops being time-consuming. And to do it well, it is going to be time-consuming. So oftentimes people just get over it or they think it's below them to be going over and doing keyword research and doing all of those things one by one.",
+    "text": "The biggest mistake people make is SEO is one of those things that, you can try and automate it, you can do a lot of things that save you time, but it never stops being time-consuming.",
     "speaker": "Meltem Kuran Berkowitz",
     "timestamp": "00:23:18",
     "context": "Lenny asks Meltem if there's anything else important for making SEO work effectively. Meltem shares what she considers the biggest mistake people make with SEO - trying to cut corners or thinking the detailed work is beneath them. She emphasizes that successful SEO requires consistent, detailed effort including thorough keyword research, and that senior people often mistakenly think this granular work is below their level.",
     "vocabulary_highlights": [
-      "get over it",
-      "think it's below them"
+      "automate",
+      "time-consuming",
+      "effectively",
+      "cut corners"
     ],
     "topics": [
       "Growth & Marketing",
@@ -71,15 +200,79 @@
     "text_ko": "사람들이 가장 많이 하는 실수는 검색엔진최적화(SEO)를 완전히 자동화할 수 있다고 생각하는 거예요. 자동화로 시간을 절약할 수 있는 부분은 있지만, 본질적으로 계속 시간이 드는 일이에요. 잘하려면 시간이 많이 들어가요. 그래서 많은 사람이 그냥 대충 넘기거나 키워드 리서치(keyword research) 같은 걸 하나하나 직접 해보는 건 자신에게 어울리지 않는 일이라고 생각해요.",
     "text_zh": "大家在SEO这件事上最大的误区就是，你可以尝试自动化，可以用各种方法来节省时间，但它永远都是很费时间的。而且要想做好，就是得花时间。所以很多人要么就放弃了，要么就觉得去做关键词研究(keyword research)这些一个一个来的活儿有失身份。",
     "text_es": "El error más grande que comete la gente es pensar que el SEO es algo que puedes automatizar, que hay muchas formas de ahorrarte tiempo, pero nunca deja de ser algo que te consume tiempo. Y para hacerlo bien, te va a quitar tiempo sí o sí. Entonces muchas veces la gente se harta o piensan que es algo por debajo de ellos ponerse a hacer investigación de palabras clave (keyword research) y todas esas cosas una por una.",
-    "key_sentence": "SEO is time-consuming; people often get over it or think it's below them."
+    "key_sentence": "The biggest mistake people make is SEO is one of those things that, you can try and automate it, you can do a lot of things that save you time, but it never stops being time-consuming.",
+    "text_trimmed": true,
+    "original_text": "The biggest mistake people make is SEO is one of those things that, you can try and automate it, you can do a lot of things that save you time, but it never stops being time-consuming. And to do it well, it is going to be time-consuming. So oftentimes people just get over it or they think it's below them to be going over and doing keyword research and doing all of those things one by one.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "automate",
+        "definition": "To use technology or software to perform tasks without human intervention, thereby increasing efficiency and reducing manual effort.",
+        "businessContext": "In business and tech environments, automation is often employed to streamline processes, enhance productivity, and minimize errors in repetitive tasks.",
+        "nuance": "While automation can significantly improve efficiency, it may also lead to a lack of personal touch or oversight in certain tasks.",
+        "synonyms": [
+          "mechanize",
+          "streamline"
+        ],
+        "antonyms": [
+          "manual",
+          "N/A"
+        ]
+      },
+      {
+        "word": "time-consuming",
+        "definition": "Requiring a significant amount of time to complete, often implying inefficiency or difficulty in the process.",
+        "businessContext": "In the context of project management or operations, identifying time-consuming tasks is crucial for optimizing workflows and allocating resources effectively.",
+        "nuance": "The term often carries a negative connotation, suggesting that the time spent could be better utilized elsewhere.",
+        "synonyms": [
+          "labor-intensive",
+          "lengthy"
+        ],
+        "antonyms": [
+          "efficient",
+          "quick"
+        ]
+      },
+      {
+        "word": "effectively",
+        "definition": "In a manner that produces the desired result or outcome, often emphasizing the successful execution of a task or strategy.",
+        "businessContext": "In business discussions, communicating how a strategy or tool works effectively is essential for gaining buy-in from stakeholders and ensuring successful implementation.",
+        "nuance": "While 'effectively' denotes success, it does not necessarily imply efficiency; something can be effective but still take considerable time or resources.",
+        "synonyms": [
+          "efficiently",
+          "successfully"
+        ],
+        "antonyms": [
+          "ineffectively",
+          "unsuccessfully"
+        ]
+      },
+      {
+        "word": "cut corners",
+        "definition": "To take shortcuts or reduce the quality of work in order to save time or money, often at the expense of standards.",
+        "businessContext": "In business, cutting corners can lead to immediate cost savings but may result in long-term consequences such as poor quality, customer dissatisfaction, or reputational damage.",
+        "nuance": "This phrase typically carries a negative connotation, suggesting a lack of integrity or commitment to quality in one's work.",
+        "synonyms": [
+          "skimp",
+          "shortcut"
+        ],
+        "antonyms": [
+          "invest",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "Early on one of the first questions I would ask people is, what are the KPIs that you're willing to commit to? So if someone's only willing to commit to lead numbers, that's not good enough. They need to be able to commit to closed one revenue KPRs to really show that they care about the business's bottom line.",
+    "text": "Early on one of the first questions I would ask people is, what are the KPIs that you're willing to commit to? So if someone's only willing to commit to lead numbers, that's not good enough.",
     "speaker": "Meltem Kuran Berkowitz",
     "timestamp": "00:47:10",
     "context": "Lenny asks about what skills were most important when building the early growth team at Deel. Meltem explains her approach to hiring, focusing on finding people who are willing to be accountable for business outcomes rather than just surface-level metrics. She looks for candidates who will commit to revenue goals rather than just lead generation, as this demonstrates they understand and care about the company's ultimate success.",
     "vocabulary_highlights": [
-      "bottom line"
+      "KPIs",
+      "commit",
+      "accountable",
+      "growth team"
     ],
     "topics": [
       "Leadership & Management",
@@ -95,17 +288,79 @@
     "text_ko": "초반에 제가 사람들에게 제일 먼저 묻는 질문 중 하나는, 어떤 KPI(핵심성과지표)에 기꺼이 약속할 수 있느냐예요. 리드 수치(lead numbers)만 약속하려 한다면 그건 충분하지 않아요. 사업의 수익성(bottom line)에 진짜로 관심이 있다는 걸 보여주려면, 클로즈드-원 매출 KPI(closed-won revenue KPIs)까지 약속할 수 있어야 해요.",
     "text_zh": "早期的时候，我问人的第一个问题就是，你愿意对哪些KPI负责？如果有人只愿意对线索数量(lead numbers)负责，那肯定不够。他们必须能对成交收入的KPI负责，这样才能真正证明他们在乎公司的盈利。",
     "text_es": "Al principio, una de las primeras preguntas que les hacía a las personas era: ¿a qué KPIs estás dispuesto a comprometerte? Entonces, si alguien solo está dispuesto a comprometerse con números de leads (prospectos), eso no es suficiente. Tienen que poder comprometerse con KPIs de ingresos cerrados para realmente demostrar que les importa la rentabilidad del negocio.",
-    "key_sentence": "Commit to KPIs that reflect the business's bottom line."
+    "key_sentence": "what are the KPIs that you're willing to commit to?",
+    "text_trimmed": true,
+    "original_text": "Early on one of the first questions I would ask people is, what are the KPIs that you're willing to commit to? So if someone's only willing to commit to lead numbers, that's not good enough. They need to be able to commit to closed one revenue KPRs to really show that they care about the business's bottom line.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "KPIs",
+        "definition": "Key Performance Indicators (KPIs) are measurable values that demonstrate how effectively an organization is achieving its key business objectives.",
+        "businessContext": "In business and tech environments, KPIs are used to evaluate success at reaching targets and are crucial for performance management and strategic planning.",
+        "nuance": "While KPIs are essential for tracking progress, they should be chosen carefully to ensure they align with overall business goals and do not lead to a narrow focus.",
+        "synonyms": [
+          "performance metrics",
+          "success indicators"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "commit",
+        "definition": "To commit means to pledge or bind oneself to a certain course of action or decision.",
+        "businessContext": "In a business setting, commitment often refers to the dedication of resources, time, or effort towards achieving specific objectives or projects.",
+        "nuance": "The term implies a strong sense of obligation and can carry a weight of responsibility, making it important to use it in contexts where accountability is expected.",
+        "synonyms": [
+          "dedicate",
+          "pledge"
+        ],
+        "antonyms": [
+          "abandon",
+          "withdraw"
+        ]
+      },
+      {
+        "word": "accountable",
+        "definition": "Being accountable means being responsible for one's actions and decisions, and being answerable to others for the outcomes.",
+        "businessContext": "In corporate environments, accountability is crucial for effective governance and performance management, ensuring that individuals or teams are held responsible for their results.",
+        "nuance": "The term often conveys a sense of transparency and trust, and is best used in contexts where responsibility and follow-through are emphasized.",
+        "synonyms": [
+          "responsible",
+          "answerable"
+        ],
+        "antonyms": [
+          "irresponsible",
+          "unaccountable"
+        ]
+      },
+      {
+        "word": "growth team",
+        "definition": "A growth team is a cross-functional group within an organization focused on driving user acquisition, engagement, and retention through innovative strategies and experiments.",
+        "businessContext": "In startups and tech companies, growth teams are essential for scaling the business quickly and efficiently, often employing data-driven approaches to optimize performance.",
+        "nuance": "The term suggests a dynamic and agile approach to business development, and is typically used in contexts where rapid growth and experimentation are prioritized.",
+        "synonyms": [
+          "expansion team",
+          "scaling team"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "And at Deel we have this concept called 'little hands'. I think it's loosely translated from French, someone can correct me on that. But it basically means that no matter who you are, where you sit within the organization, you need to be willing to get into the little things and do the nitty-gritty work and not shy away from it.",
+    "text": "And at Deel we have this concept called 'little hands'. I think it's loosely translated from French, someone can correct me on that.",
     "speaker": "Meltem Kuran Berkowitz",
     "timestamp": "00:47:53",
     "context": "Lenny asks about team building and what skills to look for in early hires. Meltem explains Deel's culture concept of 'little hands,' which refers to everyone being willing to do detailed, hands-on work regardless of their seniority level. She emphasizes this is crucial for early-stage companies where resources are limited and everyone needs to be willing to handle both strategic and tactical work without considering any task beneath them.",
     "vocabulary_highlights": [
-      "little hands",
-      "nitty-gritty work",
-      "shy away from"
+      "concept",
+      "culture",
+      "detailed",
+      "hands-on"
     ],
     "topics": [
       "Leadership & Management",
@@ -121,17 +376,79 @@
     "text_ko": "Deel에서는 '리틀 핸즈(little hands)'라는 개념이 있어요. 아마 프랑스어에서 대충 번역된 표현인 것 같은데, 정확한 분 있으면 정정해 주세요. 간단히 말하면 누구든지 조직에서 어떤 위치에 있든지 사소한 것까지 직접 챙기고 자잘하고 궂은일도 기꺼이 해내며 회피하지 않아야 한다는 뜻이에요.",
     "text_zh": "在Deel我们有个概念叫\"little hands\"，我觉得这个应该是从法语翻译过来的，如果我理解错了大家可以纠正我。但基本意思就是说，不管你是谁，不管你在公司里处于什么位置，你都得愿意去处理那些琐碎的小事，愿意去干那些具体的活儿，不能嫌麻烦就躲着不做。",
     "text_es": "Y aquí en Deel tenemos este concepto que llamamos 'little hands' (manitas). Creo que viene del francés más o menos traducido, si alguien me quiere corregir, perfecto. Pero básicamente significa que no importa quién seas o en qué nivel estés dentro de la organización, tienes que estar dispuesto a meterte en los detalles pequeños y hacer el trabajo más básico, el día a día, sin hacerte el remilgoso.",
-    "key_sentence": "'Little hands' means doing the nitty-gritty work without shying away."
+    "key_sentence": "we have this concept called 'little hands",
+    "text_trimmed": true,
+    "original_text": "And at Deel we have this concept called 'little hands'. I think it's loosely translated from French, someone can correct me on that. But it basically means that no matter who you are, where you sit within the organization, you need to be willing to get into the little things and do the nitty-gritty work and not shy away from it.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "concept",
+        "definition": "A concept is an abstract idea or a general notion that represents something, often forming the basis for further thought or discussion.",
+        "businessContext": "In business and tech environments, a concept often refers to a foundational idea that drives product development, marketing strategies, or organizational initiatives.",
+        "nuance": "While 'concept' can imply a theoretical framework, it is often used in business to indicate a practical application or prototype that can be developed further.",
+        "synonyms": [
+          "idea",
+          "notion"
+        ],
+        "antonyms": [
+          "fact",
+          "reality"
+        ]
+      },
+      {
+        "word": "culture",
+        "definition": "Culture encompasses the shared beliefs, values, practices, and social behaviors of a particular group or organization.",
+        "businessContext": "In a business setting, organizational culture significantly influences employee engagement, productivity, and overall company performance.",
+        "nuance": "The term 'culture' can carry both positive and negative connotations, depending on whether it reflects a supportive environment or a toxic atmosphere.",
+        "synonyms": [
+          "ethos",
+          "environment"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "detailed",
+        "definition": "Detailed refers to something that is characterized by a high level of specificity and thoroughness in information or description.",
+        "businessContext": "In business documentation, a detailed report or plan is crucial for ensuring clarity and precision in communication among stakeholders.",
+        "nuance": "While being detailed is generally positive, excessive detail can lead to information overload, so it’s important to balance thoroughness with conciseness.",
+        "synonyms": [
+          "comprehensive",
+          "thorough"
+        ],
+        "antonyms": [
+          "vague",
+          "superficial"
+        ]
+      },
+      {
+        "word": "hands-on",
+        "definition": "Hands-on describes an approach that involves active participation and practical engagement rather than theoretical or passive involvement.",
+        "businessContext": "In startups and tech companies, a hands-on approach is often valued for fostering innovation and facilitating rapid problem-solving through direct involvement.",
+        "nuance": "The term 'hands-on' conveys a proactive attitude, but it may not be suitable in contexts where strategic oversight is required over direct involvement.",
+        "synonyms": [
+          "practical",
+          "interactive"
+        ],
+        "antonyms": [
+          "theoretical",
+          "passive"
+        ]
+      }
+    ]
   },
   {
-    "text": "So 'Deel speed' is very, very important for us. And that's something we expect from our team members who are committing to it. To say, what's the quickest way I can solve this problem properly? And to repeatedly push themselves to act with urgency. We also care that we remain positive. We have default optimism because we are in a new space, so if someone's going to come into Deel and they're going to be pessimistic and they're like, 'I don't think that's going to work for X, Y, Z reasons,' they're going to just slow things down.",
+    "text": "So 'Deel speed' is very, very important for us. And that's something we expect from our team members who are committing to it. To say, what's the quickest way I can solve this problem properly? And to repeatedly push themselves to act with urgency.",
     "speaker": "Meltem Kuran Berkowitz",
     "timestamp": "00:55:12",
     "context": "Lenny asks about Deel's culture and how it compares to other fast-growing startups. Meltem explains two key cultural values at Deel: 'Deel speed' (acting with urgency) and 'default optimism' (staying positive and solution-focused). She explains that because they're in a new market space, they need people who approach challenges with a can-do attitude rather than immediately focusing on why things won't work, as pessimism slows down progress.",
     "vocabulary_highlights": [
-      "act with urgency",
-      "default optimism",
-      "slow things down"
+      "urgency",
+      "commitment",
+      "culture",
+      "solve"
     ],
     "topics": [
       "Leadership & Management",
@@ -147,6 +464,67 @@
     "text_ko": "‘Deel 속도(Deel speed)’는 우리한테 정말, 정말 중요해요. 그리고 그건 그에 헌신하는 팀원들에게 기대하는 거예요. ‘이 문제를 제대로, 가장 빠르게 해결하려면 어떻게 해야 하지?’라고 스스로 묻고, 계속해서 긴박감을 가지고 행동하려고 스스로를 밀어붙이는 태도요. 또 긍정적인 태도를 유지하는 것도 중요하게 생각해요. 우리가 새로운 분야에 있기 때문에 기본적으로 낙관적이에요. 누군가가 Deel에 와서 비관적으로 ‘이건 X, Y, Z 때문에 안 될 것 같아요’라고 하면, 그 사람 때문에 일이 그냥 느려질 뿐이에요.",
     "text_zh": "所以'Deel速度'对我们来说特别特别重要。这也是我们对团队成员的期望，大家都要做到这一点。就是要想，我怎么能最快地把这个问题解决好？然后不断地推自己，做事要有紧迫感。我们还很看重保持积极的态度。我们有一种天然的乐观主义，因为我们做的是新领域，所以如果有人来到Deel，然后很悲观，总是说'我觉得这个不行，因为这样那样的原因'，这样的人只会拖慢我们的节奏。",
     "text_es": "Entonces la 'velocidad Deel' es súper importante para nosotros. Y eso es algo que esperamos de los miembros del equipo que se comprometen con esto. Que se pregunten: ¿cuál es la forma más rápida de resolver este problema bien? Y que constantemente se presionen a sí mismos para actuar con urgencia. También nos importa mantenernos positivos. Tenemos optimismo por defecto porque estamos en un espacio nuevo, entonces si alguien va a llegar a Deel y va a ser pesimista y dice 'no creo que eso vaya a funcionar por tal, tal y tal razón,' simplemente va a ralentizar las cosas.",
-    "key_sentence": "Act with urgency and maintain default optimism to avoid slowing things down."
+    "key_sentence": "what's the quickest way I can solve this problem properly?",
+    "text_trimmed": true,
+    "original_text": "So 'Deel speed' is very, very important for us. And that's something we expect from our team members who are committing to it. To say, what's the quickest way I can solve this problem properly? And to repeatedly push themselves to act with urgency. We also care that we remain positive. We have default optimism because we are in a new space, so if someone's going to come into Deel and they're going to be pessimistic and they're like, 'I don't think that's going to work for X, Y, Z reasons,' they're going to just slow things down.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "urgency",
+        "definition": "The quality of requiring immediate attention or action; a sense of importance that prompts quick decision-making.",
+        "businessContext": "In business settings, urgency is often emphasized to drive teams to prioritize tasks that have significant impact on project timelines or customer satisfaction.",
+        "nuance": "While urgency can motivate prompt action, overemphasizing it may lead to hasty decisions without thorough consideration.",
+        "synonyms": [
+          "immediacy",
+          "promptness"
+        ],
+        "antonyms": [
+          "delay",
+          "lethargy"
+        ]
+      },
+      {
+        "word": "commitment",
+        "definition": "A pledge or dedication to a cause, task, or organization, often implying a long-term engagement.",
+        "businessContext": "In the context of startups, commitment is crucial for team members to align with the company's vision and work diligently towards its goals.",
+        "nuance": "Commitment conveys a strong sense of responsibility and reliability, but it can also imply a sacrifice of personal time or resources.",
+        "synonyms": [
+          "dedication",
+          "devotion"
+        ],
+        "antonyms": [
+          "indifference",
+          "disengagement"
+        ]
+      },
+      {
+        "word": "culture",
+        "definition": "The shared values, beliefs, and practices that characterize an organization or group, influencing its work environment and behavior.",
+        "businessContext": "A positive company culture can enhance employee morale, foster collaboration, and drive innovation, making it a key focus for leadership in tech and startup environments.",
+        "nuance": "Culture can be both a strength and a challenge; a strong culture may attract talent but can also lead to resistance against change.",
+        "synonyms": [
+          "environment",
+          "ethos"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "solve",
+        "definition": "To find an answer or solution to a problem or challenge, often involving critical thinking and analysis.",
+        "businessContext": "In tech startups, the ability to solve problems efficiently is essential for product development and customer satisfaction, often driving innovation.",
+        "nuance": "While 'solve' implies a resolution, it may not always account for the complexity of issues that require ongoing management or adaptation.",
+        "synonyms": [
+          "resolve",
+          "address"
+        ],
+        "antonyms": [
+          "complicate",
+          "aggravate"
+        ]
+      }
+    ]
   }
 ]

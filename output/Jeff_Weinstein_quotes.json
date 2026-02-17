@@ -1,15 +1,14 @@
 [
   {
-    "text": "The moment the customer felt compelled enough to go out of their way to talk about some problem, that's a unbelievable gift. I will leave a meeting to just get one message back to them. If you're text message friendly with five or 10 of those, you are going to have so much direct signal that is infectious.",
+    "text": "The moment the customer felt compelled enough to go out of their way to talk about some problem, that's a unbelievable gift. I will leave a meeting to just get one message back to them.",
     "speaker": "Jeff Weinstein",
     "timestamp": "00:00:04",
     "context": "Lenny is discussing Jeff's unique approach to customer engagement on Twitter. Jeff explains his philosophy about responding to customer feedback with extreme urgency and building direct relationships with customers. He emphasizes that when customers take time from their busy lives to communicate about your product, it represents an incredible opportunity that should be treated with the highest priority.",
     "vocabulary_highlights": [
-      "compelled enough",
-      "go out of their way",
-      "unbelievable gift",
-      "direct signal",
-      "infectious"
+      "compelled",
+      "engagement",
+      "feedback",
+      "urgency"
     ],
     "topics": [
       "Customer Development",
@@ -26,16 +25,79 @@
     "text_ko": "고객이 굳이 시간을 내서 어떤 문제에 대해 얘기할 만큼 마음이 동했다는 순간은 정말 믿기 힘든 선물이에요. 저는 그 한 통의 메시지를 전하려고 회의를 나가기도 해요. 그런 고객 다섯, 열 명과 문자(text message)로 편하게 지내면 직접적인 신호(direct signal)가 엄청나게 쌓이고, 그 신호들이 전염성 있게 퍼져요.",
     "text_zh": "客户主动找上门来跟你聊他们遇到的问题，这简直是天大的礼物啊。碰到这种情况，我开会都能停下来，就为了马上回复他们一条消息。如果你能跟五到十个这样的客户保持微信联系，那你得到的第一手反馈(direct signal)就太有价值了，而且这种影响力会传染的。",
     "text_es": "En el momento en que el cliente se siente tan motivado que se toma la molestia de hablarte sobre algún problema, eso es un regalo increíble. Yo dejo una reunión solo para responderle un mensaje. Si tienes esa confianza por WhatsApp o mensaje con cinco o diez de esos clientes, vas a tener una información directa (direct signal) tan valiosa que es contagiosa.",
-    "key_sentence": "Customer feedback is an unbelievable gift that provides direct signal."
+    "key_sentence": "that's a unbelievable gift.",
+    "text_trimmed": true,
+    "original_text": "The moment the customer felt compelled enough to go out of their way to talk about some problem, that's a unbelievable gift. I will leave a meeting to just get one message back to them. If you're text message friendly with five or 10 of those, you are going to have so much direct signal that is infectious.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "compelled",
+        "definition": "To be driven or forced to take a particular action or make a decision.",
+        "businessContext": "In business, feeling compelled often refers to a customer's strong motivation to provide feedback or engage with a brand due to a significant issue or experience.",
+        "nuance": "While 'compelled' suggests a strong internal drive, it can also imply a sense of obligation or pressure, which may not always be positive.",
+        "synonyms": [
+          "driven",
+          "obliged"
+        ],
+        "antonyms": [
+          "unmotivated",
+          "indifferent"
+        ]
+      },
+      {
+        "word": "engagement",
+        "definition": "The level of interaction and involvement that a customer has with a brand or product.",
+        "businessContext": "In the context of business, engagement is crucial for building customer loyalty and can be measured through various metrics such as social media interactions, feedback, and participation in marketing campaigns.",
+        "nuance": "Engagement can imply a positive relationship between the customer and the brand, but it may also refer to superficial interactions that do not lead to deeper connections.",
+        "synonyms": [
+          "involvement",
+          "participation"
+        ],
+        "antonyms": [
+          "disengagement",
+          "apathy"
+        ]
+      },
+      {
+        "word": "feedback",
+        "definition": "Information or criticism about a product, service, or performance that is used for improvement.",
+        "businessContext": "In business and tech, feedback is essential for product development, customer service enhancement, and overall organizational growth, as it provides insights into customer satisfaction and areas for improvement.",
+        "nuance": "While feedback is generally constructive, it can also be negative or critical; thus, the manner in which it is delivered can significantly affect its reception.",
+        "synonyms": [
+          "input",
+          "response"
+        ],
+        "antonyms": [
+          "silence",
+          "N/A"
+        ]
+      },
+      {
+        "word": "urgency",
+        "definition": "The quality or state of requiring immediate action or attention.",
+        "businessContext": "In a business setting, urgency can drive decision-making processes, prioritize tasks, and influence customer behavior, especially in sales and marketing strategies.",
+        "nuance": "Urgency often conveys a sense of importance and immediacy, but overusing it can lead to customer fatigue or desensitization to calls to action.",
+        "synonyms": [
+          "immediacy",
+          "priority"
+        ],
+        "antonyms": [
+          "lethargy",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "We show up four to eight people total pretend to be some company with some outcome problem. Rule one is you do not work at Stripe and rule two is we're not here to solve any problems. This is just about practicing empathy for the customer.",
+    "text": "We show up four to eight people total pretend to be some company with some outcome problem. Rule one is you do not work at Stripe and rule two is we're not here to solve any problems.",
     "speaker": "Jeff Weinstein",
     "timestamp": "00:00:36",
     "context": "Lenny asks Jeff about study groups, a program he started at Stripe. Jeff explains how study groups work - they're sessions where Stripe employees roleplay as customers using their own products. Study groups are designed to help teams understand the customer experience by forcing employees to abandon their internal knowledge and approach products with fresh eyes, purely to build empathy rather than to critique or fix issues.",
     "vocabulary_highlights": [
-      "outcome problem",
-      "practicing empathy"
+      "roleplay",
+      "outcome",
+      "solve",
+      "session"
     ],
     "topics": [
       "Product Management",
@@ -52,18 +114,79 @@
     "text_ko": "총 4~8명이 모여 어떤 회사를 가장하고 그 회사가 성과 문제(outcome problem)를 겪는 상황을 연기해요. 규칙 하나는 Stripe 직원이 아니어야 해요. 규칙 둘은 여기서 실제 문제를 해결하려고 온 게 아니에요. 이건 단지 고객에 대한 공감을 연습하는 자리예요.",
     "text_zh": "我们会派四到八个人，假装是某个公司遇到了什么问题。第一条规则是你不能说自己在Stripe工作，第二条规则是我们不是来解决问题的。这个练习就是为了培养对客户的同理心。",
     "text_es": "Llegamos entre cuatro y ocho personas en total y fingimos ser una empresa con algún problema o resultado que necesitamos. La regla número uno es que no trabajas en Stripe y la regla número dos es que no estamos aquí para resolver ningún problema. Esto es solo para practicar la empatía con el cliente.",
-    "key_sentence": "This practice focuses on practicing empathy for the customer."
+    "key_sentence": "Rule one is you do not work at Stripe and rule two is we're not here to solve any problems.",
+    "text_trimmed": true,
+    "original_text": "We show up four to eight people total pretend to be some company with some outcome problem. Rule one is you do not work at Stripe and rule two is we're not here to solve any problems. This is just about practicing empathy for the customer.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "roleplay",
+        "definition": "Roleplay is a simulation of real-life scenarios where participants act out specific roles to explore behaviors, practices, or problem-solving techniques.",
+        "businessContext": "In business settings, roleplay is often used for training purposes, such as sales training or conflict resolution, allowing employees to practice skills in a controlled environment.",
+        "nuance": "While roleplay can enhance learning and team dynamics, it may be perceived as artificial or overly scripted if not executed thoughtfully.",
+        "synonyms": [
+          "simulation",
+          "improvisation"
+        ],
+        "antonyms": [
+          "reality",
+          "authenticity"
+        ]
+      },
+      {
+        "word": "outcome",
+        "definition": "An outcome refers to the result or effect of a particular action, event, or decision.",
+        "businessContext": "In business and project management, outcomes are critical for evaluating the success of strategies, initiatives, or interventions.",
+        "nuance": "The term often implies a focus on measurable results, and can carry a positive or negative connotation depending on the context.",
+        "synonyms": [
+          "result",
+          "consequence"
+        ],
+        "antonyms": [
+          "cause",
+          "initiation"
+        ]
+      },
+      {
+        "word": "solve",
+        "definition": "To solve means to find an answer or solution to a problem or challenge.",
+        "businessContext": "In the business world, solving problems is a key skill, often associated with innovation, critical thinking, and strategic planning.",
+        "nuance": "The term suggests a proactive approach to addressing issues, but may not be appropriate in contexts where exploration or understanding is prioritized over immediate solutions.",
+        "synonyms": [
+          "resolve",
+          "address"
+        ],
+        "antonyms": [
+          "complicate",
+          "exacerbate"
+        ]
+      },
+      {
+        "word": "session",
+        "definition": "A session is a designated period of time during which a specific activity or discussion takes place.",
+        "businessContext": "In corporate environments, sessions can refer to meetings, workshops, or training events aimed at fostering collaboration and knowledge sharing.",
+        "nuance": "The term can imply a structured format, but may also be used informally to describe any gathering focused on a particular topic.",
+        "synonyms": [
+          "meeting",
+          "workshop"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "Some of it was just the fact that I wasn't particularly good at the class and had to rationalize it for myself in some form. So in retrospect that sounds highfalutin, but at the time I just wasn't particularly good at the classes I was in.",
+    "text": "Some of it was just the fact that I wasn't particularly good at the class and had to rationalize it for myself in some form.",
     "speaker": "Jeff Weinstein",
     "timestamp": "00:02:59",
     "context": "Lenny asks Jeff about a quote where he chose to stay in classes he was potentially the worst at rather than dropping to easier levels. Jeff explains his unconventional academic approach and how his liberal arts education shaped his thinking. He's reflecting on how his willingness to stay in challenging situations, even when struggling, came from both necessity and a philosophical approach to learning that he developed in school.",
     "vocabulary_highlights": [
-      "rationalize it for myself",
-      "in retrospect",
-      "highfalutin",
-      "wasn't particularly good at"
+      "rationalize",
+      "unconventional",
+      "approach",
+      "potentially"
     ],
     "topics": [
       "Learning & Growth",
@@ -79,17 +202,79 @@
     "text_ko": "사실 일부는 제가 그 수업을 특별히 잘하지 못해서였고, 그래서 제 나름대로 어떻게든 합리화했어요. 지금 돌이켜 보면 거창하게 들릴 수 있지만, 당시에는 그냥 제가 들었던 수업들을 잘 못했던 것뿐이에요.",
     "text_zh": "有一部分原因说白了就是我在那门课上表现不怎么样，得给自己找个台阶下。现在回头看这话听起来挺装的，但当时我确实就是在上的那些课里表现平平。",
     "text_es": "Parte de eso era simplemente que no se me daba muy bien esa materia y tenía que justificármelo de alguna manera. Ahora en retrospectiva suena muy rebuscado, pero en ese momento simplemente no era muy bueno en las clases que estaba tomando.",
-    "key_sentence": "I had to rationalize it for myself; I wasn't particularly good at the class."
+    "key_sentence": "I had to rationalize it for myself; I wasn't particularly good at the class.",
+    "text_trimmed": true,
+    "original_text": "Some of it was just the fact that I wasn't particularly good at the class and had to rationalize it for myself in some form. So in retrospect that sounds highfalutin, but at the time I just wasn't particularly good at the classes I was in.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "rationalize",
+        "definition": "To attempt to explain or justify behavior or decisions with logical reasons, even if these are not appropriate or true.",
+        "businessContext": "In business, rationalizing decisions can help stakeholders justify actions taken, especially when outcomes are not as expected or when facing criticism.",
+        "nuance": "While rationalizing can provide comfort or justification, it may also indicate a lack of accountability or avoidance of deeper issues.",
+        "synonyms": [
+          "justify",
+          "explain"
+        ],
+        "antonyms": [
+          "condemn",
+          "criticize"
+        ]
+      },
+      {
+        "word": "unconventional",
+        "definition": "Not based on or conforming to what is generally done or believed; atypical or innovative.",
+        "businessContext": "In startup culture, unconventional approaches can lead to disruptive innovations that challenge established norms and create new market opportunities.",
+        "nuance": "While unconventional methods can yield creative solutions, they may also face skepticism or resistance from traditionalists.",
+        "synonyms": [
+          "nontraditional",
+          "original"
+        ],
+        "antonyms": [
+          "conventional",
+          "standard"
+        ]
+      },
+      {
+        "word": "approach",
+        "definition": "A way of dealing with something or a method for achieving a goal.",
+        "businessContext": "In business, the approach taken to a problem or project can significantly influence its success, often requiring strategic planning and execution.",
+        "nuance": "The term can imply a systematic method, but may also suggest flexibility in adapting to circumstances.",
+        "synonyms": [
+          "method",
+          "strategy"
+        ],
+        "antonyms": [
+          "disregard",
+          "neglect"
+        ]
+      },
+      {
+        "word": "potentially",
+        "definition": "Having the capacity to develop into something in the future; possibly but not yet actual.",
+        "businessContext": "In investment and market analysis, identifying potentially lucrative opportunities is crucial for strategic decision-making and risk assessment.",
+        "nuance": "While it indicates promise, 'potentially' also carries a sense of uncertainty and requires careful evaluation before commitment.",
+        "synonyms": [
+          "possibly",
+          "likely"
+        ],
+        "antonyms": [
+          "definitely",
+          "certainly"
+        ]
+      }
+    ]
   },
   {
-    "text": "So I see the world as immediately we have just such opportunity to take action in front of us. We can be optimistic and go, go, go as soon as possible. I think that a lot of life is you get as much furniture as you've room in the house. We will do the work the night before it's due, so let's just make it due tomorrow.",
+    "text": "So I see the world as immediately we have just such opportunity to take action in front of us. We can be optimistic and go, go, go as soon as possible.",
     "speaker": "Jeff Weinstein",
     "timestamp": "00:10:36",
     "context": "Lenny asks Jeff to explain his philosophy of 'go, go, go ASAP plus optimistic, long-term compounding approach.' Jeff describes his belief in taking immediate action while maintaining optimism. He uses metaphors to explain how artificial urgency can drive productivity - comparing it to how work expands to fill available time, and suggesting that creating tighter deadlines can accelerate progress and create momentum.",
     "vocabulary_highlights": [
-      "take action in front of us",
-      "as much furniture as you've room in the house",
-      "make it due tomorrow"
+      "opportunity",
+      "optimistic",
+      "immediate action",
+      "long-term compounding"
     ],
     "topics": [
       "Strategy & Planning",
@@ -106,7 +291,68 @@
     "text_ko": "저는 세상을 보면 바로 눈앞에 행동할 기회가 있다고 봐요. 낙관적으로 가능한 한 빨리 시작해서 계속 밀고 나가면 돼요. 인생의 많은 부분은 집에 들어갈 만큼 가구를 채워 넣는 것처럼, 가능한 만큼 이것저것 채워 넣는 거라고 생각해요. 우리는 다들 마감 전날 밤에 일을 하는 편이니까, 그러니 마감일을 그냥 내일로 정해버리자고요.",
     "text_zh": "所以我觉得现在机会就摆在我们面前，我们应该保持乐观，马上行动起来。我觉得人生就是这样，你有多大房子就放多少家具。反正活儿都是截止前一晚才做完，那不如把截止时间定在明天。",
     "text_es": "Mira, yo veo que el mundo ahora mismo nos está poniendo oportunidades increíbles justo enfrente. Podemos ser optimistas y echarle ganas, arrancar ya mismo. Creo que en la vida pasa mucho eso de que uno llena la casa con todos los muebles que le caben. Siempre terminamos haciendo el trabajo la noche anterior a la entrega, entonces mejor pongamos la fecha límite para mañana.",
-    "key_sentence": "We have the opportunity to take action in front of us and be optimistic."
+    "key_sentence": "We have the opportunity to take action in front of us and be optimistic.",
+    "text_trimmed": true,
+    "original_text": "So I see the world as immediately we have just such opportunity to take action in front of us. We can be optimistic and go, go, go as soon as possible. I think that a lot of life is you get as much furniture as you've room in the house. We will do the work the night before it's due, so let's just make it due tomorrow.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "opportunity",
+        "definition": "A favorable set of circumstances that makes it possible to do something or achieve a goal.",
+        "businessContext": "In business, opportunities often refer to potential markets, partnerships, or innovations that can lead to growth and profit.",
+        "nuance": "While 'opportunity' generally has a positive connotation, it can imply urgency or risk if not acted upon promptly.",
+        "synonyms": [
+          "chance",
+          "prospect"
+        ],
+        "antonyms": [
+          "obstacle",
+          "hindrance"
+        ]
+      },
+      {
+        "word": "optimistic",
+        "definition": "Having a hopeful and positive outlook on future outcomes or situations.",
+        "businessContext": "In a business environment, being optimistic can drive innovation and motivate teams to pursue ambitious goals despite challenges.",
+        "nuance": "While optimism is generally seen as a positive trait, excessive optimism may lead to underestimating risks or challenges.",
+        "synonyms": [
+          "hopeful",
+          "positive"
+        ],
+        "antonyms": [
+          "pessimistic",
+          "cynical"
+        ]
+      },
+      {
+        "word": "immediate action",
+        "definition": "The prompt execution of a task or decision without delay.",
+        "businessContext": "In fast-paced business environments, immediate action is often required to capitalize on fleeting opportunities or to address urgent issues.",
+        "nuance": "While immediate action can be beneficial, it may also lead to hasty decisions if not balanced with careful consideration.",
+        "synonyms": [
+          "prompt response",
+          "swift action"
+        ],
+        "antonyms": [
+          "delayed response",
+          "inaction"
+        ]
+      },
+      {
+        "word": "long-term compounding",
+        "definition": "The process of generating returns over time, where gains are reinvested to produce additional earnings.",
+        "businessContext": "In finance and investment, long-term compounding is crucial for wealth accumulation, as it emphasizes the importance of patience and strategic planning.",
+        "nuance": "This concept often implies a gradual and sustained approach, contrasting with short-term gains that may be more volatile.",
+        "synonyms": [
+          "compound growth",
+          "cumulative returns"
+        ],
+        "antonyms": [
+          "short-term loss",
+          "immediate decline"
+        ]
+      }
+    ]
   },
   {
     "text": "I think I'm really working backwards from failures in the past and avoiding them. And so maybe just a quick story. I started a company several years ago based on just a personal pet peeve of mine, which was I was a SQL analyst.",
@@ -114,8 +360,10 @@
     "timestamp": "00:15:39",
     "context": "Lenny asks Jeff why craft and quality are so important to him in product development. Jeff explains that his obsession with craft comes from learning from past mistakes. He's about to share a story about a company he started that taught him important lessons about the difference between building something people like versus building something people truly need and will pay for.",
     "vocabulary_highlights": [
-      "working backwards from failures",
-      "personal pet peeve"
+      "working backwards",
+      "avoid",
+      "craft",
+      "quality"
     ],
     "topics": [
       "Starting a Company",
@@ -132,7 +380,66 @@
     "text_ko": "저는 과거의 실패들을 되돌아보며 거기서부터 역으로 접근해서 같은 실수를 피하려고 하는 것 같아요. 간단한 얘기 하나만 할게요. 몇 년 전에 제가 SQL 분석가(SQL analyst)로 일하면서 느꼈던 개인적인 불편함 때문에 회사를 하나 시작했어요.",
     "text_zh": "我觉得我其实是在从过去的失败中吸取教训，然后尽量避免重蹈覆辙。简单讲个故事吧。几年前我创办了一家公司，完全是因为我个人的一个痛点，当时我是做SQL分析的。",
     "text_es": "Creo que realmente estoy trabajando al revés, partiendo de los fracasos del pasado para evitarlos. Te cuento rápido una historia. Hace varios años monté una empresa basándome en algo que me molestaba muchísimo a nivel personal, y es que yo era analista de SQL.",
-    "key_sentence": "I'm working backwards from failures to avoid them in the future."
+    "key_sentence": "I'm working backwards from failures to avoid them in the future.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "working backwards",
+        "definition": "A problem-solving approach that starts with the desired outcome and traces back to identify the steps necessary to achieve it.",
+        "businessContext": "In business and tech, 'working backwards' is often used in product development and project management to ensure that the end goals are clearly defined before initiating the process.",
+        "nuance": "This phrase suggests a strategic mindset that prioritizes outcomes over processes, making it particularly useful in innovation and design thinking.",
+        "synonyms": [
+          "reverse engineering",
+          "backward planning"
+        ],
+        "antonyms": [
+          "working forwards",
+          "forward planning"
+        ]
+      },
+      {
+        "word": "avoid",
+        "definition": "To keep away from or prevent something from happening or being encountered.",
+        "businessContext": "In a business context, avoiding risks or pitfalls is crucial for strategic planning and decision-making, often leading to more sustainable practices.",
+        "nuance": "While 'avoid' implies a proactive stance against negative outcomes, it can also suggest a lack of engagement or confrontation in certain situations.",
+        "synonyms": [
+          "prevent",
+          "eschew"
+        ],
+        "antonyms": [
+          "engage",
+          "confront"
+        ]
+      },
+      {
+        "word": "craft",
+        "definition": "To skillfully create or construct something with care and precision, often involving a high level of artistry or expertise.",
+        "businessContext": "In startups and product development, 'crafting' refers to the meticulous design and development of products or services that meet specific customer needs.",
+        "nuance": "This term carries a connotation of artistry and intentionality, suggesting that the process is as important as the final product.",
+        "synonyms": [
+          "create",
+          "design"
+        ],
+        "antonyms": [
+          "destroy",
+          "neglect"
+        ]
+      },
+      {
+        "word": "quality",
+        "definition": "The standard of something as measured against other things of a similar kind; the degree of excellence of something.",
+        "businessContext": "In business, quality is a critical factor that influences customer satisfaction, brand reputation, and competitive advantage, often driving continuous improvement initiatives.",
+        "nuance": "Quality can refer to both tangible and intangible attributes, and its perception can vary significantly among different stakeholders.",
+        "synonyms": [
+          "excellence",
+          "caliber"
+        ],
+        "antonyms": [
+          "inferiority",
+          "mediocrity"
+        ]
+      }
+    ]
   },
   {
     "text": "People don't really get out of bed for their second problem. They get out of bed for their first problem. And you have to carefully listen and not pitch your customer or your prospective customer as you're trying to figure this out.",
@@ -140,9 +447,10 @@
     "timestamp": "00:20:16",
     "context": "Jeff is explaining why product craft must come after solving a real customer problem. He emphasizes the importance of identifying customers' most urgent, burning problems rather than secondary issues. Jeff is teaching a methodology for customer discovery that focuses on listening rather than pitching, arguing that customers will only be truly motivated to act on their most pressing challenges.",
     "vocabulary_highlights": [
-      "get out of bed for",
       "carefully listen",
-      "not pitch"
+      "prospective customer",
+      "identify",
+      "urgent"
     ],
     "topics": [
       "Customer Development",
@@ -159,7 +467,66 @@
     "text_ko": "사람들은 두 번째 문제 때문에 굳이 일어나지 않아요. 첫 번째 문제 때문에 일어나요. 이걸 알아내려면 고객이나 잠재 고객(prospective customer)에게 조심스럽게 귀 기울이고, 알아내는 동안 바로 피치(pitch)하려 들지 말아야 해요.",
     "text_zh": "其实人们起床后首先想到的不是第二重要的问题，而是最迫切需要解决的那个问题。所以你得仔细听客户怎么说，在摸清楚这一点的时候千万别急着推销，不管是现有客户还是潜在客户都一样。",
     "text_es": "La gente no se levanta de la cama por su segundo problema. Se levanta por el primero. Y tienes que escuchar con mucha atención y no estar vendiendo a tu cliente o prospecto mientras tratas de entender esto.",
-    "key_sentence": "People get out of bed for their first problem; carefully listen to them."
+    "key_sentence": "People get out of bed for their first problem; carefully listen to them.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "carefully listen",
+        "definition": "To pay close attention to what someone is saying, ensuring full understanding and consideration of their perspective.",
+        "businessContext": "In business settings, carefully listening is crucial during negotiations or customer interactions to accurately assess needs and concerns.",
+        "nuance": "This phrase implies a level of attentiveness and respect that goes beyond mere hearing; it suggests an active engagement with the speaker.",
+        "synonyms": [
+          "attentively listen",
+          "actively listen"
+        ],
+        "antonyms": [
+          "ignore",
+          "disregard"
+        ]
+      },
+      {
+        "word": "prospective customer",
+        "definition": "An individual or organization that has the potential to purchase a product or service but has not yet made a commitment.",
+        "businessContext": "Identifying prospective customers is essential for sales and marketing strategies, as they represent potential revenue and growth opportunities for a business.",
+        "nuance": "The term carries a forward-looking connotation, suggesting that these individuals are in the consideration phase of the buying process.",
+        "synonyms": [
+          "potential client",
+          "future customer"
+        ],
+        "antonyms": [
+          "existing customer",
+          "loyal customer"
+        ]
+      },
+      {
+        "word": "identify",
+        "definition": "To recognize or establish the characteristics, qualities, or details of something or someone.",
+        "businessContext": "In business, identifying key issues, stakeholders, or market trends is vital for strategic planning and decision-making.",
+        "nuance": "The term often implies a process of analysis and discernment, suggesting a deeper understanding rather than superficial recognition.",
+        "synonyms": [
+          "recognize",
+          "determine"
+        ],
+        "antonyms": [
+          "overlook",
+          "misidentify"
+        ]
+      },
+      {
+        "word": "urgent",
+        "definition": "Requiring immediate attention or action; pressing and important.",
+        "businessContext": "In a business context, urgent matters often pertain to time-sensitive issues that could impact operations, customer satisfaction, or financial outcomes.",
+        "nuance": "While 'urgent' conveys a sense of importance, it can also imply a level of stress or pressure, which may not always be favorable in communication.",
+        "synonyms": [
+          "immediate",
+          "pressing"
+        ],
+        "antonyms": [
+          "non-urgent",
+          "trivial"
+        ]
+      }
+    ]
   },
   {
     "text": "If you've earned trust along the way, and certainly not pitching is a great way of earning trust. You're just listening. We've learned a lot at Stripe from that. And that's where you can start to find adjacencies, right?",
@@ -167,9 +534,10 @@
     "timestamp": "00:22:28",
     "context": "Jeff is continuing his explanation of how to discover customer problems through listening rather than pitching. He's describing how this approach builds trust with customers and can reveal new product opportunities. Jeff explains how at Stripe, they discovered adjacencies - related business opportunities - by listening to customers describe problems that weren't directly related to Stripe's core payment processing business.",
     "vocabulary_highlights": [
-      "earned trust along the way",
-      "not pitching",
-      "find adjacencies"
+      "earning trust",
+      "listening",
+      "adjacencies",
+      "discover customer problems"
     ],
     "topics": [
       "Customer Development",
@@ -186,6 +554,65 @@
     "text_ko": "그동안 신뢰를 쌓아왔다면, 확실히 피칭(pitching)을 하지 않는 게 신뢰를 얻는 좋은 방법이에요. 그저 상대 얘기를 들어주는 거죠. 스트라이프에서도 그걸 통해 많은 걸 배웠어요. 바로 그 지점에서 인접 영역(adjacencies)을 찾아보기 시작할 수 있어요, 그렇죠?",
     "text_zh": "如果你在这个过程中赢得了信任，不推销反而是建立信任的好方法。你就是在倾听。我们在Stripe学到了很多这样的经验。这样你就能开始找到相关的机会点，对吧？",
     "text_es": "Si has ganado confianza en el proceso, y desde luego no hacer pitch todo el tiempo es una excelente manera de ganar esa confianza. Simplemente escuchas. En Stripe hemos aprendido muchísimo de eso. Y ahí es donde puedes empezar a encontrar oportunidades adyacentes, ¿no?",
-    "key_sentence": "Not pitching is a great way of earning trust and finding adjacencies."
+    "key_sentence": "Not pitching is a great way of earning trust and finding adjacencies.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "earning trust",
+        "definition": "The process of establishing credibility and reliability in relationships, often through consistent actions and transparency.",
+        "businessContext": "In business, earning trust is crucial for building long-term relationships with clients, partners, and employees, as it fosters loyalty and collaboration.",
+        "nuance": "This phrase implies a proactive approach to relationship-building, emphasizing actions over mere promises or words.",
+        "synonyms": [
+          "building trust",
+          "establishing credibility"
+        ],
+        "antonyms": [
+          "betraying trust",
+          "losing credibility"
+        ]
+      },
+      {
+        "word": "listening",
+        "definition": "The active process of receiving and interpreting spoken or written messages to understand the speaker's perspective.",
+        "businessContext": "In a business setting, effective listening is essential for gathering feedback, understanding customer needs, and facilitating productive discussions.",
+        "nuance": "Listening goes beyond hearing; it involves engagement and empathy, making it a critical skill in negotiations and team dynamics.",
+        "synonyms": [
+          "hearing",
+          "attentive engagement"
+        ],
+        "antonyms": [
+          "ignoring",
+          "disregarding"
+        ]
+      },
+      {
+        "word": "adjacencies",
+        "definition": "Related areas or opportunities that are close to a primary focus, often indicating potential for expansion or collaboration.",
+        "businessContext": "In startups and tech, identifying adjacencies can lead to new market opportunities, product extensions, or strategic partnerships.",
+        "nuance": "The term suggests a strategic approach to growth, emphasizing the importance of recognizing connections rather than solely focusing on core competencies.",
+        "synonyms": [
+          "related opportunities",
+          "proximity markets"
+        ],
+        "antonyms": [
+          "disparities",
+          "isolated markets"
+        ]
+      },
+      {
+        "word": "discover customer problems",
+        "definition": "The process of identifying and understanding the challenges and pain points faced by customers in relation to a product or service.",
+        "businessContext": "In business, discovering customer problems is vital for developing solutions that meet market demands and enhance customer satisfaction.",
+        "nuance": "This phrase highlights a proactive approach to innovation, emphasizing the importance of empathy and research in product development.",
+        "synonyms": [
+          "identify customer needs",
+          "uncover client challenges"
+        ],
+        "antonyms": [
+          "ignore customer feedback",
+          "overlook client issues"
+        ]
+      }
+    ]
   }
 ]

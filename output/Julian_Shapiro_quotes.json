@@ -1,14 +1,14 @@
 [
   {
-    "text": "Why does Telegram, WhatsApp, iMessage, all these chat apps, Discord, grow so quickly? Pretty obviously because if you and your little clique of friends are having your conversation in that app, then the person who's also in your real life friend group, but who hasn't yet installed the app has to install the app in order to have the conversation with you.",
+    "text": "Why does Telegram, WhatsApp, iMessage, all these chat apps, Discord, grow so quickly?",
     "speaker": "Julian Shapiro",
     "timestamp": "17:58",
     "context": "Lenny asks Julian to explain his concept of product-led acquisition (PLA) - using the product itself to grow the product rather than relying on paid ads or SEO. Julian is explaining the second category of PLA, which involves inviting people to join conversations that can only be accessed within your app. He argues this creates nearly guaranteed user growth because people must install the app to participate in critical social or business conversations with their friends or colleagues.",
     "vocabulary_highlights": [
-      "little clique",
-      "pretty obviously",
-      "real life friend group",
-      "has to install the app"
+      "product-led acquisition",
+      "grow",
+      "relying",
+      "context"
     ],
     "topics": [
       "Growth & Marketing",
@@ -23,18 +23,79 @@
     "text_ko": "텔레그램, 왓츠앱, 아이메시지 같은 채팅 앱들, 디스코드는 왜 이렇게 빠르게 성장할까요? 아주 분명한 이유는, 만약 당신과 친한 소규모 친구 무리가 그 앱에서 대화를 하고 있다면, 현실의 같은 친구 그룹에 속해 있지만 아직 앱을 설치하지 않은 사람은 그 대화에 끼려면 결국 그 앱을 설치해야 하기 때문이에요.",
     "text_zh": "为什么Telegram、WhatsApp、iMessage这些聊天软件，还有Discord，都能发展得这么快？道理很简单啊，如果你和你那帮朋友都在用这个软件聊天，那么你现实生活中的其他朋友，要是还没装这个软件的话，为了能跟你们聊天，他们也得装上这个软件。",
     "text_es": "¿Por qué Telegram, WhatsApp, iMessage, todas estas apps de chat, Discord, crecen tan rápido? Pues está clarísimo: si tú y tu grupito de amigos están teniendo sus conversaciones en esa app, entonces la persona que también está en tu círculo de amigos de la vida real, pero que todavía no se ha bajado la app, tiene que instalársela sí o sí para poder conversar contigo.",
-    "key_sentence": "Chat apps grow quickly because friends must install them to converse."
+    "key_sentence": "Why does Telegram, WhatsApp, iMessage, all these chat apps, Discord, grow so quickly?",
+    "text_trimmed": true,
+    "original_text": "Why does Telegram, WhatsApp, iMessage, all these chat apps, Discord, grow so quickly? Pretty obviously because if you and your little clique of friends are having your conversation in that app, then the person who's also in your real life friend group, but who hasn't yet installed the app has to install the app in order to have the conversation with you.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "product-led acquisition",
+        "definition": "A strategy where the product itself drives user acquisition, often through features that encourage sharing and organic growth.",
+        "businessContext": "In tech startups, product-led acquisition is a key approach where the user experience and product value are leveraged to attract new users without heavy reliance on traditional marketing.",
+        "nuance": "This term is often used in discussions about growth strategies, particularly in SaaS and consumer tech, and implies a strong focus on product quality and user satisfaction.",
+        "synonyms": [
+          "product-driven growth",
+          "user-centric acquisition"
+        ],
+        "antonyms": [
+          "sales-led acquisition",
+          "marketing-led acquisition"
+        ]
+      },
+      {
+        "word": "grow",
+        "definition": "To increase in size, number, or importance over time.",
+        "businessContext": "In a business context, 'grow' often refers to expanding market share, revenue, or user base, and is a primary goal for startups and established companies alike.",
+        "nuance": "While 'grow' can refer to any increase, in business it typically implies sustainable and strategic development rather than just short-term gains.",
+        "synonyms": [
+          "expand",
+          "develop"
+        ],
+        "antonyms": [
+          "decline",
+          "diminish"
+        ]
+      },
+      {
+        "word": "relying",
+        "definition": "To depend on or trust in someone or something for support or assistance.",
+        "businessContext": "In business, 'relying' often refers to the dependence on specific resources, partnerships, or technologies to achieve objectives or maintain operations.",
+        "nuance": "This term can carry a negative connotation if it implies over-dependence, suggesting a lack of diversification or resilience.",
+        "synonyms": [
+          "depending",
+          "counting"
+        ],
+        "antonyms": [
+          "independent",
+          "self-sufficient"
+        ]
+      },
+      {
+        "word": "context",
+        "definition": "The circumstances or setting surrounding an event or situation that help to clarify its meaning.",
+        "businessContext": "In business discussions, understanding the context is crucial for making informed decisions, as it influences market dynamics, consumer behavior, and strategic planning.",
+        "nuance": "While 'context' is often used to provide background information, it can also imply the importance of situational awareness in decision-making processes.",
+        "synonyms": [
+          "background",
+          "framework"
+        ],
+        "antonyms": [
+          "isolation",
+          "detachment"
+        ]
+      }
+    ]
   },
   {
-    "text": "Most creators are resisting their bad ideas. If you sat down, scribbled a few thoughts in a blank document and just walked away because you weren't struck with gold, then you never actually finished the creative process. There's no way you would've come up with gold.",
+    "text": "Most creators are resisting their bad ideas. If you sat down, scribbled a few thoughts in a blank document and just walked away because you weren't struck with gold, then you never actually finished the creative process.",
     "speaker": "Julian Shapiro",
     "timestamp": "56:53",
     "context": "Lenny asks Julian about his 'Creativity Faucet' framework for generating creative ideas. Julian explains that he discovered this process by studying prolific creators like John Mayer, Ed Sheeran, and Neil Gaiman. The Creativity Faucet concept treats creativity like a backed-up pipe where bad ideas (wastewater) must be emptied out before good ideas (clear water) can flow. Julian argues that most people give up too early in the creative process instead of pushing through the bad ideas to reach the good ones.",
     "vocabulary_highlights": [
-      "resisting their bad ideas",
-      "scribbled a few thoughts",
-      "weren't struck with gold",
-      "finished the creative process"
+      "resisting",
+      "creative process",
+      "prolific",
+      "framework"
     ],
     "topics": [
       "Learning & Growth",
@@ -49,17 +110,79 @@
     "text_ko": "대부분의 크리에이터들은 별로인 아이디어를 밀어내요. 빈 문서 앞에 앉아 대충 몇 가지를 휘갈겨 적어놓고, ‘번뜩이는 아이디어’가 안 떠올랐다는 이유로 바로 자리를 뜨면 사실 창작 과정(creative process)을 끝까지 해본 게 아니에요. 그렇게는 대박 아이디어가 나올 리가 없어요.",
     "text_zh": "大部分创作者都在抗拒自己的烂点子。如果你坐下来，在空白文档里随便写了几个想法，然后因为没有灵光一现就直接走人了，那你根本就没有完成创作过程。这样你怎么可能想出好东西来呢？",
     "text_es": "La mayoría de los creativos se resisten a sus ideas malas. Si te sientas, apuntas algunas ideas en un documento en blanco y te largas porque no se te ocurrió nada genial, entonces nunca terminaste el proceso creativo de verdad. No hay manera de que hubieras llegado a algo bueno.",
-    "key_sentence": "Creators resist their bad ideas and must finish the creative process."
+    "key_sentence": "Creators resist their bad ideas and must finish the creative process.",
+    "text_trimmed": true,
+    "original_text": "Most creators are resisting their bad ideas. If you sat down, scribbled a few thoughts in a blank document and just walked away because you weren't struck with gold, then you never actually finished the creative process. There's no way you would've come up with gold.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "resisting",
+        "definition": "To withstand or oppose something actively; to refuse to accept or comply with a particular idea or action.",
+        "businessContext": "In business settings, resisting often refers to the reluctance to adopt new strategies or technologies that may disrupt established practices.",
+        "nuance": "While resisting can imply a negative connotation of stubbornness, it can also reflect a careful consideration of potential risks.",
+        "synonyms": [
+          "withholding",
+          "opposing"
+        ],
+        "antonyms": [
+          "embracing",
+          "accepting"
+        ]
+      },
+      {
+        "word": "creative process",
+        "definition": "The series of steps or stages that individuals or teams go through to generate new ideas, concepts, or products.",
+        "businessContext": "In the context of startups and innovation, the creative process is crucial for developing unique solutions and maintaining competitive advantage.",
+        "nuance": "The term emphasizes the iterative and often non-linear nature of idea generation, which can be misunderstood as chaotic or unstructured.",
+        "synonyms": [
+          "innovation cycle",
+          "ideation process"
+        ],
+        "antonyms": [
+          "routine",
+          "standardization"
+        ]
+      },
+      {
+        "word": "prolific",
+        "definition": "Producing a large number of works or results; highly productive in a particular field.",
+        "businessContext": "In business, a prolific creator or team can significantly contribute to innovation and market growth through a continuous stream of ideas and products.",
+        "nuance": "While prolific often has a positive connotation of creativity and productivity, it can also imply a lack of quality if not balanced with careful refinement.",
+        "synonyms": [
+          "productive",
+          "abundant"
+        ],
+        "antonyms": [
+          "unproductive",
+          "sparse"
+        ]
+      },
+      {
+        "word": "framework",
+        "definition": "A structured approach or system that provides a foundation for understanding or addressing a particular issue or process.",
+        "businessContext": "Frameworks are commonly used in business to guide project management, strategic planning, and decision-making processes.",
+        "nuance": "The term suggests a level of flexibility within a defined structure, allowing for adaptation while maintaining coherence.",
+        "synonyms": [
+          "structure",
+          "model"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorder"
+        ]
+      }
+    ]
   },
   {
-    "text": "You have people who follow you for the quality of your brain, and you have people who follow you for sort of you being a glorified curator. If they're following you for being a curator, they're sort of what I call labor followers. They're following you for the work that you're doing, where you're finding cool, funny memes.",
+    "text": "You have people who follow you for the quality of your brain, and you have people who follow you for sort of you being a glorified curator. If they're following you for being a curator, they're sort of what I call labor followers.",
     "speaker": "Julian Shapiro",
     "timestamp": "06:16",
     "context": "Lenny asks Julian why he rarely tweets anymore despite having a large following. Julian explains his philosophy about different types of social media followers. He distinguishes between 'mind followers' who follow you for original thoughts and insights, versus 'labor followers' who follow you for curated content like memes and threads. Julian argues that mind followers have higher loyalty and are more likely to take action when you ask them to do something, while labor followers see you as interchangeable with other content curators.",
     "vocabulary_highlights": [
-      "glorified curator",
-      "labor followers",
-      "finding cool, funny memes"
+      "curator",
+      "philosophy",
+      "distinguish",
+      "followers"
     ],
     "topics": [
       "Growth & Marketing",
@@ -74,17 +197,79 @@
     "text_ko": "어떤 사람들은 당신의 사고력이나 통찰력 때문에 팔로우하고, 또 어떤 사람들은 당신이 멋지게 큐레이션해 주는 걸 좋아해서 팔로우해요. 후자에 해당하는 사람들은 제가 '노동형 팔로워(labor followers)'라고 부르는 유형인데, 그들은 당신이 멋있고 웃긴 밈(memes)을 찾아 올려주는 그 '일' 때문에 팔로우하는 거예요.",
     "text_zh": "跟着你的人分两种：一种是冲着你的脑子来的，觉得你有想法；另一种就是把你当成一个高级筛选员。如果他们跟你是因为你的筛选能力，我觉得这些算是\"劳动粉丝\"吧——他们就是冲着你干的活儿来的，比如你能找到那些很酷很搞笑的梗。",
     "text_es": "Tienes gente que te sigue por la calidad de tu cerebro, y tienes gente que te sigue porque eres como un curador glorificado. Si te siguen por ser curador, son lo que yo llamo seguidores laborales. Te siguen por el trabajo que haces, por encontrar memes chéveres y divertidos.",
-    "key_sentence": "Followers may be labor followers seeking a glorified curator's work."
+    "key_sentence": "If they're following you for being a curator, they're sort of what I call labor followers.",
+    "text_trimmed": true,
+    "original_text": "You have people who follow you for the quality of your brain, and you have people who follow you for sort of you being a glorified curator. If they're following you for being a curator, they're sort of what I call labor followers. They're following you for the work that you're doing, where you're finding cool, funny memes.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "curator",
+        "definition": "A curator is a person responsible for selecting and organizing content, such as artworks or information, for a specific audience or purpose.",
+        "businessContext": "In business and tech, a curator often refers to someone who curates content for digital platforms, ensuring that the information presented aligns with the brand's values and audience interests.",
+        "nuance": "While 'curator' typically implies expertise and a thoughtful selection process, it can also suggest a passive role if the focus is solely on aggregation rather than original contribution.",
+        "synonyms": [
+          "organizer",
+          "administrator"
+        ],
+        "antonyms": [
+          "creator",
+          "innovator"
+        ]
+      },
+      {
+        "word": "philosophy",
+        "definition": "Philosophy is the study of fundamental questions regarding existence, knowledge, values, reason, and reality, often guiding principles and beliefs.",
+        "businessContext": "In a business context, a company's philosophy can shape its culture, decision-making processes, and overall strategy, influencing how it interacts with stakeholders.",
+        "nuance": "The term 'philosophy' can carry a weight of seriousness and depth, making it more suitable for discussions about core values rather than casual or superficial topics.",
+        "synonyms": [
+          "principle",
+          "doctrine"
+        ],
+        "antonyms": [
+          "chaos",
+          "anarchy"
+        ]
+      },
+      {
+        "word": "distinguish",
+        "definition": "To distinguish means to recognize or point out the differences between two or more items or concepts.",
+        "businessContext": "In business, distinguishing a product or service from competitors is crucial for branding and marketing strategies, helping to establish a unique value proposition.",
+        "nuance": "The term often implies a level of expertise or insight, suggesting that the speaker has a deep understanding of the subject matter being compared.",
+        "synonyms": [
+          "differentiate",
+          "identify"
+        ],
+        "antonyms": [
+          "confuse",
+          "misidentify"
+        ]
+      },
+      {
+        "word": "followers",
+        "definition": "Followers are individuals who subscribe to or support a person, organization, or idea, often through social media or other platforms.",
+        "businessContext": "In the context of social media marketing, followers are crucial for building brand awareness and engagement, as they can amplify a company's reach and influence.",
+        "nuance": "The term can carry a connotation of passive support, suggesting that followers may not actively engage with the content or brand, but rather consume it passively.",
+        "synonyms": [
+          "subscribers",
+          "supporters"
+        ],
+        "antonyms": [
+          "critics",
+          "detractors"
+        ]
+      }
+    ]
   },
   {
-    "text": "I consider everything I write to be evergreen. I avoid writing things that I feel like are a drop in the pan, just like talking about a trend or something, something very newsy. I avoid that altogether and I'm just interested in writing stuff that'll be relevant for a long time.",
+    "text": "I consider everything I write to be evergreen. I avoid writing things that I feel like are a drop in the pan, just like talking about a trend or something, something very newsy.",
     "speaker": "Julian Shapiro",
     "timestamp": "12:55",
     "context": "Lenny and Julian discuss the difference between Julian's web-based handbooks versus newsletter formats. Julian explains that he treats his handbooks as 'living assets' that he continuously updates over time, spending as many hours rewriting old content as creating new content. He emphasizes his focus on creating evergreen content that remains valuable long-term rather than writing about temporary trends or news cycles.",
     "vocabulary_highlights": [
-      "drop in the pan",
-      "something very newsy",
-      "evergreen"
+      "evergreen",
+      "trend",
+      "living assets",
+      "newsworthy"
     ],
     "topics": [
       "Communication Skills",
@@ -99,18 +284,79 @@
     "text_ko": "제가 쓰는 모든 글은 에버그린(evergreen)하다고 생각해요. 트렌드처럼 잠깐 반짝하고 끝나는, 뉴스성 얘기 같은 건 안 쓰는 편이에요. 그런 건 아예 피하고 오래도록 의미 있고 유용한 내용만 쓰고 싶어요.",
     "text_zh": "我写的所有东西都追求常青树(evergreen)的效果。我不会写那种昙花一现的内容，比如追热点啊、蹭流量什么的，那种很时效性的东西我完全不碰。我就专注写那些能长期有价值的内容。",
     "text_es": "Considero que todo lo que escribo es contenido perenne (evergreen). Evito escribir cosas que siento que son flor de un día, como hablar de una tendencia o algo así, algo muy de actualidad inmediata. Eso lo evito por completo y me interesa más escribir cosas que vayan a ser relevantes por mucho tiempo.",
-    "key_sentence": "I avoid writing a drop in the pan and focus on evergreen content."
+    "key_sentence": "I avoid writing a drop in the pan and focus on evergreen content.",
+    "text_trimmed": true,
+    "original_text": "I consider everything I write to be evergreen. I avoid writing things that I feel like are a drop in the pan, just like talking about a trend or something, something very newsy. I avoid that altogether and I'm just interested in writing stuff that'll be relevant for a long time.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "evergreen",
+        "definition": "Referring to content or ideas that remain relevant and valuable over time, rather than becoming outdated quickly.",
+        "businessContext": "In business and marketing, evergreen content is often created to attract ongoing traffic and engagement, as it addresses timeless topics that resonate with audiences.",
+        "nuance": "While 'evergreen' suggests lasting relevance, it is important to ensure that the content is periodically reviewed to maintain its accuracy and applicability.",
+        "synonyms": [
+          "timeless",
+          "perennial"
+        ],
+        "antonyms": [
+          "temporary",
+          "transient"
+        ]
+      },
+      {
+        "word": "trend",
+        "definition": "A general direction in which something is developing or changing, often identified through patterns in data or behavior.",
+        "businessContext": "In business, recognizing trends is crucial for strategic planning and market analysis, as it helps companies anticipate consumer needs and adapt their offerings accordingly.",
+        "nuance": "While trends can indicate potential opportunities, they may also represent fleeting interests that require careful consideration before investment.",
+        "synonyms": [
+          "tendency",
+          "movement"
+        ],
+        "antonyms": [
+          "stagnation",
+          "decline"
+        ]
+      },
+      {
+        "word": "living assets",
+        "definition": "Assets that have intrinsic value and can generate ongoing benefits, often referring to resources like human capital or intellectual property.",
+        "businessContext": "In a business context, living assets are critical for innovation and competitive advantage, as they encompass the skills, knowledge, and relationships that drive organizational success.",
+        "nuance": "The term emphasizes the dynamic nature of these assets, which require nurturing and development to maximize their potential.",
+        "synonyms": [
+          "intangible assets",
+          "human capital"
+        ],
+        "antonyms": [
+          "inanimate assets",
+          "fixed assets"
+        ]
+      },
+      {
+        "word": "newsworthy",
+        "definition": "Describing something that is considered significant or interesting enough to be reported in the news.",
+        "businessContext": "In public relations and marketing, identifying newsworthy events or stories is essential for crafting effective communication strategies that capture media attention.",
+        "nuance": "The term often implies a subjective judgment about what is deemed important, and it can vary greatly depending on the audience and context.",
+        "synonyms": [
+          "noteworthy",
+          "significant"
+        ],
+        "antonyms": [
+          "unremarkable",
+          "insignificant"
+        ]
+      }
+    ]
   },
   {
-    "text": "One form of state is... One I did not cover is when you're embedded infrastructure. If you're Twilio, Striper, AWS, it's really hard to move off or segment because it's so much work to redo your code and introduce all this risk to screwing up your code base.",
+    "text": "One form of state is... One I did not cover is when you're embedded infrastructure.",
     "speaker": "Julian Shapiro",
     "timestamp": "35:58",
     "context": "Lenny asks Julian about retention strategies, and Julian explains his concept of 'building state' - encouraging users to accumulate non-transferable value within your product that makes them reluctant to switch to competitors. Julian describes how infrastructure companies like Twilio, Stripe, and AWS create natural stickiness because switching requires significant technical work and risk. This embedded infrastructure approach automatically creates retention without needing to add artificial switching costs.",
     "vocabulary_highlights": [
-      "embedded infrastructure",
-      "move off or segment",
-      "redo your code",
-      "screwing up your code base"
+      "embedded",
+      "infrastructure",
+      "accumulate",
+      "reluctant"
     ],
     "topics": [
       "Product Management",
@@ -125,7 +371,68 @@
     "text_ko": "상태(state)의 한 형태로, 제가 언급하지 않았던 것 하나는 임베디드 인프라(embedded infrastructure)에 깊이 묶여 있을 때예요. 트윌리오(Twilio), 스트라이퍼(Striper), AWS 같은 곳에 의존하게 되면 그걸 떼어내거나 분리(segment)하기가 정말 어려워요 — 코드를 전부 다시 손봐야 하고 코드베이스(codebase)를 망칠 위험이 너무 크거든요.",
     "text_zh": "有一种状态是...我刚才没讲到的是当你成为基础设施的一部分时。如果你是Twilio、Stripe、AWS这样的公司，客户真的很难迁移或者做切分，因为重写代码工作量太大了，而且搞不好还会把代码库弄坏，风险太高。",
     "text_es": "Una forma de estado es... Una que no mencioné es cuando eres infraestructura integrada. Si eres Twilio, Stripe, AWS, es súper difícil migrar o segmentar porque es muchísimo trabajo rehacer tu código e introduces un montón de riesgo de joder tu base de código.",
-    "key_sentence": "Embedded infrastructure makes it hard to move off or segment without risk."
+    "key_sentence": "One I did not cover is when you're embedded infrastructure.",
+    "text_trimmed": true,
+    "original_text": "One form of state is... One I did not cover is when you're embedded infrastructure. If you're Twilio, Striper, AWS, it's really hard to move off or segment because it's so much work to redo your code and introduce all this risk to screwing up your code base.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "embedded",
+        "definition": "Fixed firmly and deeply in a surrounding mass; integrated into a larger system or context.",
+        "businessContext": "In business and technology, 'embedded' often refers to systems or software that are integrated into hardware or other applications, such as embedded systems in electronics.",
+        "nuance": "The term carries a connotation of being an essential part of a system, suggesting that the embedded component cannot function independently.",
+        "synonyms": [
+          "integrated",
+          "incorporated"
+        ],
+        "antonyms": [
+          "detached",
+          "separate"
+        ]
+      },
+      {
+        "word": "infrastructure",
+        "definition": "The fundamental facilities and systems serving a country, city, or area, including transportation, communication, and utilities.",
+        "businessContext": "In a business context, infrastructure refers to the underlying framework that supports operations, such as IT infrastructure, which includes hardware, software, and networks necessary for business functions.",
+        "nuance": "Infrastructure implies a foundational role, often associated with long-term investment and maintenance, and is critical for the smooth operation of any organization.",
+        "synonyms": [
+          "framework",
+          "foundation"
+        ],
+        "antonyms": [
+          "superstructure",
+          "N/A"
+        ]
+      },
+      {
+        "word": "accumulate",
+        "definition": "To gather or collect, often in gradual degrees; to increase in quantity over time.",
+        "businessContext": "In business, 'accumulate' is frequently used in financial contexts, such as accumulating assets, resources, or data over time to enhance decision-making or investment strategies.",
+        "nuance": "The term suggests a process that takes time and effort, often implying a positive growth or increase, but can also refer to unwanted buildup in certain contexts.",
+        "synonyms": [
+          "gather",
+          "amass"
+        ],
+        "antonyms": [
+          "disperse",
+          "diminish"
+        ]
+      },
+      {
+        "word": "reluctant",
+        "definition": "Unwilling and hesitant to do something; showing resistance or unwillingness.",
+        "businessContext": "In a business setting, 'reluctant' may describe stakeholders or employees who are hesitant to adopt new technologies, change processes, or engage in initiatives due to fear or uncertainty.",
+        "nuance": "While it indicates a lack of eagerness, 'reluctant' can also imply a sense of caution or prudence, making it important to address the underlying concerns before proceeding.",
+        "synonyms": [
+          "hesitant",
+          "unwilling"
+        ],
+        "antonyms": [
+          "eager",
+          "willing"
+        ]
+      }
+    ]
   },
   {
     "text": "Writing quality equals novelty times resonance. Novelty is like we discussed, here are all these things that are giving you dopamine hits where I'm opening your eyes about how the world really works and shocking you and elegantly synthesizing things, times resonance.",
@@ -133,9 +440,10 @@
     "timestamp": "49:36",
     "context": "Lenny asks Julian about his framework for creating novel writing that keeps people engaged. Julian presents his equation for determining writing quality, where novelty (new, significant ideas people wouldn't easily think of themselves) must be multiplied by resonance (the storytelling power to make ideas memorable through examples, analogies, and stories). He explains that even the most novel information becomes just bland trivia without resonance to help it stick in readers' minds.",
     "vocabulary_highlights": [
-      "dopamine hits",
-      "elegantly synthesizing",
-      "times resonance"
+      "novelty",
+      "resonance",
+      "synthesize",
+      "engaged"
     ],
     "topics": [
       "Communication Skills",
@@ -150,6 +458,65 @@
     "text_ko": "글의 질은 새로움(novelty) 곱하기 공감(resonance)이에요. 여기서 새로움은 우리가 얘기한 것처럼 세상이 실제로 어떻게 돌아가는지 눈을 뜨게 하고 충격을 주며 우아하게 여러 정보를 종합해 도파민 반응(dopamine hits)을 일으키는 그런 모든 요소들이에요. 그걸 공감과 곱해야 진짜로 효과를 발휘해요.",
     "text_zh": "写作质量等于新颖性乘以共鸣度。新颖性就是我们刚才说的，就是那些能让你多巴胺飙升的东西——让你大开眼界，了解世界真正的运作方式，给你震撼，还能优雅地把各种概念串联起来，这就是新颖性，然后再乘以共鸣度。",
     "text_es": "La calidad de la escritura es igual a la novedad multiplicada por la resonancia. La novedad es como platicamos, todas estas cosas que te dan esos picos de dopamina donde te abro los ojos sobre cómo funciona realmente el mundo y te sorprendo y sintetizo las cosas de manera elegante, multiplicado por la resonancia.",
-    "key_sentence": "Writing quality equals novelty times resonance, providing dopamine hits and synthesis."
+    "key_sentence": "Writing quality equals novelty times resonance, providing dopamine hits and synthesis.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "novelty",
+        "definition": "The quality of being new, original, or unusual. It often refers to something that captures attention due to its uniqueness.",
+        "businessContext": "In business, novelty can drive innovation and differentiate products in a competitive market, often leading to increased customer interest and engagement.",
+        "nuance": "While novelty is generally positive, overemphasizing it can lead to superficiality if the underlying value is lacking.",
+        "synonyms": [
+          "innovation",
+          "originality"
+        ],
+        "antonyms": [
+          "stagnation",
+          "mundanity"
+        ]
+      },
+      {
+        "word": "resonance",
+        "definition": "The quality of evoking a strong emotional response or connection. It often relates to how well an idea or message aligns with the audience's values or experiences.",
+        "businessContext": "In marketing and branding, resonance is crucial for creating campaigns that effectively connect with target audiences, enhancing brand loyalty and engagement.",
+        "nuance": "Resonance implies a deeper connection than mere agreement; it suggests that the message strikes a chord with the audience's beliefs or feelings.",
+        "synonyms": [
+          "relevance",
+          "impact"
+        ],
+        "antonyms": [
+          "disconnection",
+          "irrelevance"
+        ]
+      },
+      {
+        "word": "synthesize",
+        "definition": "To combine different elements or ideas to form a coherent whole. It often involves integrating diverse information to create new insights or solutions.",
+        "businessContext": "In a business context, synthesizing information is essential for strategic decision-making, enabling leaders to draw conclusions from various data points and trends.",
+        "nuance": "Synthesize suggests a thoughtful integration rather than a mere aggregation of information, indicating a higher level of analysis and creativity.",
+        "synonyms": [
+          "integrate",
+          "combine"
+        ],
+        "antonyms": [
+          "analyze",
+          "disaggregate"
+        ]
+      },
+      {
+        "word": "engaged",
+        "definition": "Being actively involved or committed to a task, project, or relationship. It often reflects a sense of participation and investment.",
+        "businessContext": "Employee engagement is a key metric in organizations, as it correlates with productivity, job satisfaction, and retention rates.",
+        "nuance": "While 'engaged' typically has a positive connotation, it can also imply a level of obligation or pressure in certain contexts, such as in high-stress work environments.",
+        "synonyms": [
+          "involved",
+          "committed"
+        ],
+        "antonyms": [
+          "disengaged",
+          "aloof"
+        ]
+      }
+    ]
   }
 ]

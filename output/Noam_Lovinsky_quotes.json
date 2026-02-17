@@ -1,14 +1,14 @@
 [
   {
-    "text": "When you see a team that is motivated, that is building something like they're really excited about, I mean just the inertia, the quality, it's like a whole different game where when you see a team that's sort of down and out and they've really been hitting their head against the wall for a long time, sometimes they just need a change of scene, a change of pace, and they get to a much better situation. So my honest answer is, yeah, it's the, when do you run out of steam is usually the question.",
+    "text": "it's like a whole different game where when you see a team that's sort of down and out... sometimes they just need a change of scene, a change of pace.",
     "speaker": "Noam Lovinsky",
     "timestamp": "00:20:42",
     "context": "Lenny asks how long you should stick with a project that isn't going well before deciding to move on. Noam explains that while most projects and early companies fail due to lack of stamina rather than running out of money, the key indicator for when to pivot or kill a project is when the team loses motivation and energy. He emphasizes that high-ambiguity projects require tremendous faith and stamina to succeed.",
     "vocabulary_highlights": [
-      "down and out",
-      "hitting their head against the wall",
       "change of scene",
-      "run out of steam"
+      "change of pace",
+      "lack of stamina",
+      "move on"
     ],
     "topics": [
       "Product Management",
@@ -24,16 +24,79 @@
     "text_ko": "정말 신나서 뭔가를 만들고 있는 팀을 보면 관성(inertia)도 그렇고 결과물의 퀄리티도 완전히 달라요. 반대로 오랫동안 벽에 부딪혀서 기운 빠진 팀은 분위기 자체가 처져 있어서, 그런 팀들은 때로는 단순히 환경이나 속도를 바꿔주는 것만으로도 훨씬 나아져요. 솔직히 말하면 보통은 결국 언제 기운이 다하느냐가 관건이에요.",
     "text_zh": "当你看到一个团队特别有干劲，在做一个他们真正兴奋的项目时，那种势头啊，那个质量啊，完全就是另一个层面的东西。但如果你看到一个团队垂头丧气的，已经撞南墙撞了很久了，有时候他们就是需要换个环境，换个节奏，这样就能进入一个更好的状态。所以我的真心话就是，关键问题通常是，你什么时候会没劲儿了。",
     "text_es": "Cuando ves un equipo que está motivado, que está construyendo algo que realmente les emociona, o sea, la inercia, la calidad... es como un juego completamente diferente. Pero cuando ves un equipo que está como decaído y que lleva mucho tiempo dándose contra la pared, a veces lo que necesitan es simplemente cambiar de aires, cambiar el ritmo, y llegan a una situación mucho mejor. Entonces mi respuesta honesta es, sí, se trata de... cuándo se te acaba la gasolina, esa suele ser la pregunta clave.",
-    "key_sentence": "A motivated team has inertia; a down and out team needs a change of scene."
+    "key_sentence": "A motivated team has inertia; a down and out team needs a change of scene.",
+    "text_trimmed": true,
+    "original_text": "When you see a team that is motivated, that is building something like they're really excited about, I mean just the inertia, the quality, it's like a whole different game where when you see a team that's sort of down and out and they've really been hitting their head against the wall for a long time, sometimes they just need a change of scene, a change of pace, and they get to a much better situation. So my honest answer is, yeah, it's the, when do you run out of steam is usually the question.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "change of scene",
+        "definition": "A shift in environment or surroundings that can lead to new perspectives or ideas.",
+        "businessContext": "In business, a change of scene can refer to relocating a team or department to foster creativity and innovation, especially when facing stagnation.",
+        "nuance": "This phrase often implies a refreshing break from routine, but it may not always guarantee improved outcomes.",
+        "synonyms": [
+          "new environment",
+          "shift in surroundings"
+        ],
+        "antonyms": [
+          "stagnation",
+          "status quo"
+        ]
+      },
+      {
+        "word": "change of pace",
+        "definition": "An alteration in the speed or rhythm of an activity, often to enhance engagement or productivity.",
+        "businessContext": "In a corporate setting, a change of pace might involve varying work schedules or introducing new project management techniques to reinvigorate team dynamics.",
+        "nuance": "While it suggests a positive shift, it can also imply that the previous pace was ineffective or unproductive.",
+        "synonyms": [
+          "variety",
+          "shift in rhythm"
+        ],
+        "antonyms": [
+          "monotony",
+          "consistency"
+        ]
+      },
+      {
+        "word": "lack of stamina",
+        "definition": "Insufficient endurance or energy to sustain prolonged physical or mental effort.",
+        "businessContext": "In the workplace, a lack of stamina can refer to employee burnout or decreased productivity, necessitating interventions to improve morale and efficiency.",
+        "nuance": "This phrase often carries a negative connotation, suggesting a need for improvement in personal or organizational resilience.",
+        "synonyms": [
+          "low endurance",
+          "insufficient energy"
+        ],
+        "antonyms": [
+          "endurance",
+          "vitality"
+        ]
+      },
+      {
+        "word": "move on",
+        "definition": "To progress from one situation or phase to another, often after a period of reflection or change.",
+        "businessContext": "In business, moving on can refer to transitioning to new projects, roles, or strategies after evaluating past performance or challenges.",
+        "nuance": "This phrase can imply a sense of closure or the necessity to leave behind unproductive situations, but it may also suggest a lack of attachment to previous endeavors.",
+        "synonyms": [
+          "advance",
+          "transition"
+        ],
+        "antonyms": [
+          "linger",
+          "remain"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think that one important lesson from that is, no one can be a bystander on product strategy. Just because you've got product in your title doesn't mean you're the only one that should be thinking about product strategy certainly at that level. Certainly not in engineering. The CFO, the head of people, everyone needs to have a seat at the table when it comes to product strategy, what the company's doing and what they're going to do to grow out of the situation that they're in.",
+    "text": "I think that one important lesson from that is, no one can be a bystander on product strategy. Just because you've got product in your title doesn't mean you're the only one that should be thinking about product strategy certainly at that level.",
     "speaker": "Noam Lovinsky",
     "timestamp": "00:35:37",
     "context": "Lenny asks about lessons from Noam's time at Thumbtack during their turnaround period. Noam explains that when companies face challenges like negative growth, the entire leadership team must unite around product strategy rather than leaving it solely to the product team. He emphasizes that at the leadership level, cross-functional collaboration becomes critical for navigating difficult periods.",
     "vocabulary_highlights": [
       "bystander",
-      "have a seat at the table"
+      "product strategy",
+      "leadership team",
+      "unite"
     ],
     "topics": [
       "Product Management",
@@ -49,16 +112,79 @@
     "text_ko": "제가 보기엔 그 일에서 얻은 중요한 교훈 중 하나가 제품 전략(product strategy)에 대해서는 누구도 방관자가 될 수 없다는 거예요. 직함에 '프로덕트'가 들어간다고 해서 그 수준의 제품 전략을 혼자서만 생각해야 한다는 건 절대 아니에요. 특히 엔지니어링 쪽은 더더욱 그렇지 않아요. 최고재무책임자(CFO), 인사 책임자(Head of People) 등 모든 사람이 제품 전략과 회사가 현재 처한 상황에서 벗어나 성장하기 위한 계획에 대해 의사결정 테이블에 함께 있어야 해요.",
     "text_zh": "我觉得这里有个很重要的教训，就是在产品战略(product strategy)这件事上，谁都不能当旁观者。不是说你的职位里带个\"产品\"两个字，你就是唯一需要考虑产品战略的人，尤其是在那个层面上。工程团队更不用说了。CFO、人事负责人，所有人在讨论产品战略的时候都得有发言权，都得参与进来，讨论公司要做什么，怎么从现在的困境中突围出去。",
     "text_es": "Creo que una lección importante de eso es que nadie puede quedarse al margen cuando se trata de estrategia de producto. Que tengas \"producto\" en tu puesto no significa que seas el único que debe pensar en la estrategia de producto, especialmente a ese nivel. Y menos aún en ingeniería. El CFO, el head de recursos humanos, todos necesitan tener voz y voto cuando hablamos de estrategia de producto, de lo que está haciendo la empresa y de cómo van a salir adelante de la situación en la que están.",
-    "key_sentence": "No one can be a bystander in product strategy; everyone needs a seat at the table."
+    "key_sentence": "No one can be a bystander in product strategy; everyone needs a seat at the table.",
+    "text_trimmed": true,
+    "original_text": "I think that one important lesson from that is, no one can be a bystander on product strategy. Just because you've got product in your title doesn't mean you're the only one that should be thinking about product strategy certainly at that level. Certainly not in engineering. The CFO, the head of people, everyone needs to have a seat at the table when it comes to product strategy, what the company's doing and what they're going to do to grow out of the situation that they're in.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "bystander",
+        "definition": "A person who is present at an event or incident but does not take part in it.",
+        "businessContext": "In business discussions, a bystander may refer to individuals who observe strategic decisions without contributing to the dialogue or decision-making process.",
+        "nuance": "The term often carries a negative connotation, implying passivity or a lack of engagement in important matters.",
+        "synonyms": [
+          "observer",
+          "onlooker"
+        ],
+        "antonyms": [
+          "participant",
+          "contributor"
+        ]
+      },
+      {
+        "word": "product strategy",
+        "definition": "A plan that outlines how a company will develop, market, and manage its products to achieve business objectives.",
+        "businessContext": "In tech and startup environments, product strategy is critical for aligning product development with market needs and competitive positioning.",
+        "nuance": "The term suggests a comprehensive approach that includes research, planning, and execution, rather than just a focus on individual products.",
+        "synonyms": [
+          "product roadmap",
+          "product plan"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "leadership team",
+        "definition": "A group of individuals at the highest level of an organization responsible for making strategic decisions and guiding the company.",
+        "businessContext": "In startups and corporations, the leadership team plays a crucial role in setting the vision, culture, and direction of the organization.",
+        "nuance": "The term implies a collaborative approach to leadership, where diverse perspectives are valued in decision-making.",
+        "synonyms": [
+          "executive team",
+          "management team"
+        ],
+        "antonyms": [
+          "staff",
+          "employees"
+        ]
+      },
+      {
+        "word": "unite",
+        "definition": "To come together for a common purpose or to bring different groups or individuals together.",
+        "businessContext": "In a business context, to unite often refers to efforts to align teams or departments towards shared goals, enhancing collaboration and synergy.",
+        "nuance": "The term conveys a sense of collective strength and purpose, often used in motivational contexts.",
+        "synonyms": [
+          "join",
+          "consolidate"
+        ],
+        "antonyms": [
+          "divide",
+          "separate"
+        ]
+      }
+    ]
   },
   {
-    "text": "If you're a large organization and you do some performance management process twice a year and you're 0 to 1 incubator, you've already killed it. It's the wrong incentive. Smart, good people, even if they're not trying to, they end up kind of gaming things towards the incentive system. And so think long and hard about that.",
+    "text": "If you're a large organization and you do some performance management process twice a year and you're 0 to 1 incubator, you've already killed it. It's the wrong incentive.",
     "speaker": "Noam Lovinsky",
     "timestamp": "00:00:29",
     "context": "Lenny asks for advice on creating effective startup-within-a-startup initiatives at large companies. Noam discusses the critical importance of designing proper incentive systems for innovation teams. He explains that traditional corporate performance management cycles are fundamentally incompatible with early-stage product development, which requires different timeframes and success metrics than established business operations.",
     "vocabulary_highlights": [
-      "0 to 1 incubator",
-      "gaming things towards"
+      "performance management",
+      "incentive systems",
+      "innovation teams",
+      "critical importance"
     ],
     "topics": [
       "Product Management",
@@ -74,18 +200,79 @@
     "text_ko": "대규모 조직이고 연 2회 하는 성과 관리 프로세스 (performance management process)를 운영하면서 0에서 1을 만드는 인큐베이터 (0 to 1 incubator) 역할을 하고 있다면 이미 그걸 망쳐버린 거예요. 잘못된 인센티브 구조예요. 똑똑하고 유능한 사람들도 일부러 그러는 게 아니라도 결국 인센티브에 맞춰 시스템을 조작하거나 이득을 보려고 게임하듯 행동하게 돼요 (gaming the system). 그러니까 그 점을 충분히, 진지하게 고민해 보세요.",
     "text_zh": "如果你是个大公司，每年搞两次绩效管理(performance management)，但你做的是从零到一的孵化项目(0 to 1 incubator)，那基本上就死定了。这个激励机制完全搞反了。那些聪明能干的人，哪怕他们不是故意的，最后也会想办法钻激励体系的空子。所以这事儿你得好好想想。",
     "text_es": "Si eres una organización grande y haces algún proceso de evaluación de desempeño dos veces al año, pero estás en modo incubadora de 0 a 1, ya la mataste. Es el incentivo equivocado. La gente inteligente y buena, aunque no sea su intención, termina jugando el sistema hacia donde están los incentivos. Así que piénsatelo muy bien.",
-    "key_sentence": "Performance management kills a 0 to 1 incubator; people game things towards incentives."
+    "key_sentence": "you've already killed it. It's the wrong incentive.",
+    "text_trimmed": true,
+    "original_text": "If you're a large organization and you do some performance management process twice a year and you're 0 to 1 incubator, you've already killed it. It's the wrong incentive. Smart, good people, even if they're not trying to, they end up kind of gaming things towards the incentive system. And so think long and hard about that.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "performance management",
+        "definition": "The process of ensuring that an organization's goals are consistently met in an effective and efficient manner through the assessment and improvement of employee performance.",
+        "businessContext": "In business settings, performance management is often implemented through regular reviews, feedback mechanisms, and goal-setting to align individual contributions with organizational objectives.",
+        "nuance": "While performance management can enhance productivity, it may also be perceived as bureaucratic if not executed thoughtfully, particularly in innovative environments.",
+        "synonyms": [
+          "performance evaluation",
+          "employee assessment"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "incentive systems",
+        "definition": "Structured frameworks designed to motivate and reward employees for achieving specific performance targets or behaviors.",
+        "businessContext": "In startups and large organizations alike, incentive systems can include bonuses, stock options, or recognition programs that align employee efforts with company goals.",
+        "nuance": "The effectiveness of incentive systems can vary based on organizational culture; poorly designed systems may lead to unintended consequences or demotivation.",
+        "synonyms": [
+          "reward systems",
+          "motivation schemes"
+        ],
+        "antonyms": [
+          "disincentives",
+          "penalty systems"
+        ]
+      },
+      {
+        "word": "innovation teams",
+        "definition": "Dedicated groups within an organization tasked with developing new ideas, products, or processes to drive growth and competitive advantage.",
+        "businessContext": "In tech and startup environments, innovation teams are often cross-functional, leveraging diverse skill sets to foster creativity and rapid prototyping.",
+        "nuance": "The term suggests a focus on creativity and agility, and is often used in contexts where traditional hierarchies are less effective in fostering new ideas.",
+        "synonyms": [
+          "creative teams",
+          "R&D teams"
+        ],
+        "antonyms": [
+          "traditional teams",
+          "N/A"
+        ]
+      },
+      {
+        "word": "critical importance",
+        "definition": "A designation indicating that something is essential or of utmost significance to the success or functioning of an organization or project.",
+        "businessContext": "In business discussions, identifying factors of critical importance helps prioritize resources and strategic initiatives that will have the most substantial impact on outcomes.",
+        "nuance": "This phrase conveys urgency and necessity, and is typically used in strategic planning or risk assessment contexts.",
+        "synonyms": [
+          "paramount importance",
+          "vital significance"
+        ],
+        "antonyms": [
+          "trivial importance",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "Growth masks all problems. You don't really have a, I think, true understanding of what is working well and what is not working well when you have incredible growth. And at Thumbtack, it had incredible growth for quite some time, but it was essentially burning through a lot of demand. It was just dropping a lot of demand on the floor because there wasn't sufficient liquidity on the supply side to really meet that demand.",
+    "text": "Growth masks all problems. You don't really have a, I think, true understanding of what is working well and what is not working well when you have incredible growth.",
     "speaker": "Noam Lovinsky",
     "timestamp": "00:24:24",
     "context": "Lenny asks about lessons from Noam's experience at Thumbtack during their challenging period when growth went negative. Noam explains how rapid growth can hide fundamental business problems that only become apparent when growth slows or reverses. At Thumbtack specifically, strong user acquisition was masking supply-side liquidity issues in their marketplace.",
     "vocabulary_highlights": [
-      "masks all problems",
-      "burning through",
-      "dropping demand on the floor",
-      "sufficient liquidity"
+      "masks",
+      "understanding",
+      "fundamental",
+      "incredible"
     ],
     "topics": [
       "Growth & Marketing",
@@ -101,16 +288,79 @@
     "text_ko": "성장은 모든 문제를 가려요. 엄청나게 성장하고 있으면 무엇이 잘되고 있고 무엇이 잘못되고 있는지 진짜로 제대로 알기 어렵거든요. Thumbtack도 한동안 엄청난 성장을 했는데, 사실 많은 수요(demand)를 소진하는 식이었어요. 공급 측면(supply)에 충분한 유동성(liquidity)이 없어서 그 수요를 제대로 충족시키지 못했고, 결국 많은 수요가 그냥 바닥에 떨어져 버렸어요.",
     "text_zh": "增长会掩盖所有问题。我觉得当你有惊人增长的时候，你根本搞不清楚到底哪些地方做得好，哪些地方有问题。Thumbtack有段时间增长确实很猛，但其实是在白白浪费很多需求。因为供给端流动性(supply side liquidity)不够，根本满足不了那么多需求，所以很多需求就这么白白流失了。",
     "text_es": "El crecimiento tapa todos los problemas. Cuando tienes un crecimiento increíble, la verdad es que no tienes una idea clara de qué está funcionando bien y qué no. Y en Thumbtack, tuvimos un crecimiento impresionante durante bastante tiempo, pero básicamente estábamos quemando mucha demanda. Se nos estaba cayendo muchísima demanda porque no teníamos suficiente liquidez del lado de la oferta para realmente satisfacer esa demanda.",
-    "key_sentence": "Growth masks all problems; demand was burning through without sufficient liquidity."
+    "key_sentence": "Growth masks all problems.",
+    "text_trimmed": true,
+    "original_text": "Growth masks all problems. You don't really have a, I think, true understanding of what is working well and what is not working well when you have incredible growth. And at Thumbtack, it had incredible growth for quite some time, but it was essentially burning through a lot of demand. It was just dropping a lot of demand on the floor because there wasn't sufficient liquidity on the supply side to really meet that demand.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "masks",
+        "definition": "To conceal or hide something, often referring to underlying issues or problems.",
+        "businessContext": "In business, 'masks' can refer to how rapid growth can obscure operational inefficiencies or challenges that need addressing.",
+        "nuance": "While 'masks' implies a temporary concealment, it suggests that the underlying issues will eventually resurface if not addressed.",
+        "synonyms": [
+          "conceals",
+          "obscures"
+        ],
+        "antonyms": [
+          "reveals",
+          "exposes"
+        ]
+      },
+      {
+        "word": "understanding",
+        "definition": "The ability to comprehend or grasp the significance of something, often involving insight and knowledge.",
+        "businessContext": "In a business setting, 'understanding' is crucial for evaluating performance metrics, market trends, and customer needs to make informed decisions.",
+        "nuance": "This term implies a depth of knowledge that goes beyond surface-level awareness, often requiring analysis and critical thinking.",
+        "synonyms": [
+          "comprehension",
+          "insight"
+        ],
+        "antonyms": [
+          "misunderstanding",
+          "ignorance"
+        ]
+      },
+      {
+        "word": "fundamental",
+        "definition": "Serving as a foundation or basis; essential and primary to the nature of something.",
+        "businessContext": "In business, understanding the 'fundamental' aspects of a market or a product is vital for strategic planning and long-term success.",
+        "nuance": "This term often conveys a sense of importance and necessity, indicating that without these fundamentals, success is unlikely.",
+        "synonyms": [
+          "essential",
+          "basic"
+        ],
+        "antonyms": [
+          "superficial",
+          "secondary"
+        ]
+      },
+      {
+        "word": "incredible",
+        "definition": "Difficult to believe; extraordinary or remarkable in nature.",
+        "businessContext": "In the context of business growth, 'incredible' often describes exceptional performance metrics or achievements that surpass expectations.",
+        "nuance": "While 'incredible' conveys a positive connotation, it can also imply skepticism if used in contexts where results seem too good to be true.",
+        "synonyms": [
+          "extraordinary",
+          "remarkable"
+        ],
+        "antonyms": [
+          "ordinary",
+          "unremarkable"
+        ]
+      }
+    ]
   },
   {
-    "text": "I always tell people I feel like I'm an IC trapped in a manager's body sometimes. Fundamentally, I like to build, that's why I do this. I like to make things. And so sometimes the more fun way to make things is to start something and sometimes the better way to make things in the situation that I'm in is to try to support teams and lead through teams.",
+    "text": "I always tell people I feel like I'm an IC trapped in a manager's body sometimes. Fundamentally, I like to build, that's why I do this. I like to make things.",
     "speaker": "Noam Lovinsky",
     "timestamp": "00:09:21",
     "context": "Lenny asks about Noam's diverse career experiences across different types of product challenges. Noam explains his motivation for changing roles and companies frequently, describing his core drive to build and create products. An IC refers to an individual contributor - someone who does hands-on work rather than managing others. Noam describes the tension between wanting to build directly versus leading teams to build.",
     "vocabulary_highlights": [
-      "IC trapped in a manager's body",
-      "lead through teams"
+      "fundamentally",
+      "build",
+      "core drive",
+      "diverse"
     ],
     "topics": [
       "Career Development",
@@ -125,16 +375,79 @@
     "text_ko": "사람들에게 항상 가끔은 매니저의 몸에 갇힌 개인 기여자(Individual Contributor, IC) 같다고 말해요. 본질적으로 저는 뭔가를 만드는 걸 좋아해서 이 일을 해요. 그래서 때로는 직접 뭔가를 시작해서 만드는 게 더 재밌고, 반대로 지금 제 위치에서는 팀을 지원하고 팀을 통해 이끄는 게 더 나은 방법일 때도 있어요.",
     "text_zh": "我经常跟别人说，有时候感觉自己就像是一个被困在管理者身体里的个人贡献者(IC)。说到底，我就是喜欢搭建东西，这就是我做这行的原因。我喜欢创造。所以有时候创造东西最有意思的方式就是从零开始做一个项目，但有时候在我现在的位置上，更好的创造方式是去支持团队，通过团队来实现目标。",
     "text_es": "Siempre le digo a la gente que a veces me siento como un colaborador individual (IC) atrapado en el cuerpo de un gerente. En el fondo, me gusta construir cosas, por eso hago esto. Me gusta crear. Y a veces la forma más divertida de crear es empezar algo desde cero, y otras veces la mejor manera de crear en la situación en la que estoy es tratar de apoyar a los equipos y liderar a través de ellos.",
-    "key_sentence": "I feel like an IC trapped in a manager's body; I prefer to lead through teams."
+    "key_sentence": "I feel like an IC trapped in a manager's body; I prefer to lead through teams.",
+    "text_trimmed": true,
+    "original_text": "I always tell people I feel like I'm an IC trapped in a manager's body sometimes. Fundamentally, I like to build, that's why I do this. I like to make things. And so sometimes the more fun way to make things is to start something and sometimes the better way to make things in the situation that I'm in is to try to support teams and lead through teams.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "fundamentally",
+        "definition": "In a basic or essential way; at the core or foundation of something.",
+        "businessContext": "In business discussions, 'fundamentally' is often used to emphasize the underlying principles or beliefs that drive decisions and strategies.",
+        "nuance": "This term conveys a sense of depth and importance, suggesting that the point being made is not just surface-level but integral to understanding the issue.",
+        "synonyms": [
+          "essentially",
+          "intrinsically"
+        ],
+        "antonyms": [
+          "superficially",
+          "peripherally"
+        ]
+      },
+      {
+        "word": "build",
+        "definition": "To create or develop something, often through a process of construction or assembly.",
+        "businessContext": "In the tech and startup sectors, 'build' frequently refers to the development of products, services, or systems, emphasizing the act of creation and innovation.",
+        "nuance": "While 'build' can refer to physical construction, in business, it often implies a more abstract process of developing ideas or strategies.",
+        "synonyms": [
+          "construct",
+          "develop"
+        ],
+        "antonyms": [
+          "destroy",
+          "dismantle"
+        ]
+      },
+      {
+        "word": "core drive",
+        "definition": "The fundamental motivation or primary reason that propels an individual or organization towards specific goals.",
+        "businessContext": "Understanding an employee's core drive can help managers align tasks with personal motivations, enhancing productivity and job satisfaction.",
+        "nuance": "This term suggests a deep-seated motivation that influences behavior, making it important in discussions about leadership and team dynamics.",
+        "synonyms": [
+          "primary motivation",
+          "fundamental incentive"
+        ],
+        "antonyms": [
+          "disinterest",
+          "apathy"
+        ]
+      },
+      {
+        "word": "diverse",
+        "definition": "Varied or different; characterized by a range of distinct elements or qualities.",
+        "businessContext": "In the context of business, 'diverse' often refers to a workforce or market that includes a variety of backgrounds, perspectives, and experiences, which can enhance creativity and innovation.",
+        "nuance": "While 'diverse' is generally positive, it can also imply challenges in integration and communication if not managed effectively.",
+        "synonyms": [
+          "varied",
+          "heterogeneous"
+        ],
+        "antonyms": [
+          "homogeneous",
+          "uniform"
+        ]
+      }
+    ]
   },
   {
-    "text": "When you're thinking about career opportunities and what job to take, it's really, really hard to sniff out really well in a high degree of certainty like success. I think that having a good nose for people and the sort of people that you can be successful with is something that you can develop. What I found is I always try to prioritize putting myself in positions that are going to cause a lot of growth and learning.",
+    "text": "When you're thinking about career opportunities and what job to take, it's really, really hard to sniff out really well in a high degree of certainty like success.",
     "speaker": "Noam Lovinsky",
     "timestamp": "00:59:08",
     "context": "Lenny asks for general career advice based on Noam's successful journey across multiple companies. Noam explains that while it's difficult to predict which companies or roles will be successful, you can develop skills for evaluating people and teams. He emphasizes choosing roles that will stretch you and create significant personal growth, even when that growth involves discomfort.",
     "vocabulary_highlights": [
-      "sniff out",
-      "good nose for people"
+      "career opportunities",
+      "high degree of certainty",
+      "predict",
+      "successful"
     ],
     "topics": [
       "Career Development",
@@ -149,6 +462,67 @@
     "text_ko": "커리어 기회나 어떤 직업을 선택할지 고민할 때, 그 일이 정말 성공할지 높은 확률로 잘 가려내는 건 정말 어렵다고 생각해요. 사람을 잘 알아보는 감각, 즉 함께 일했을 때 성공할 수 있는 사람을 판별하는 능력은 충분히 키울 수 있는 거라고 봐요. 저는 항상 성장과 배움을 많이 가져다줄 자리나 상황에 자신을 두는 걸 우선시하려고 해요.",
     "text_zh": "当你在考虑职业机会、选择工作的时候，想要很准确地嗅出成功的机会，真的是特别特别难的。我觉得培养对人的敏锐嗅觉，能看出哪些人可以和你一起成功，这个能力是可以慢慢培养的。我发现我总是会优先把自己放在那些能让我快速成长和学到东西的位置上。",
     "text_es": "Cuando estás pensando en oportunidades profesionales y qué trabajo agarrar, es súper difícil detectar con mucha certeza el éxito que vas a tener. Creo que desarrollar buen ojo para la gente y el tipo de personas con las que puedes triunfar es algo que se puede trabajar. Lo que he visto es que siempre trato de priorizarme en posiciones que me van a generar mucho crecimiento y aprendizaje.",
-    "key_sentence": "It's hard to sniff out success; develop a good nose for people for growth."
+    "key_sentence": "it's really, really hard to sniff out really well in a high degree of certainty like success.",
+    "text_trimmed": true,
+    "original_text": "When you're thinking about career opportunities and what job to take, it's really, really hard to sniff out really well in a high degree of certainty like success. I think that having a good nose for people and the sort of people that you can be successful with is something that you can develop. What I found is I always try to prioritize putting myself in positions that are going to cause a lot of growth and learning.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "career opportunities",
+        "definition": "Career opportunities refer to the various job openings and professional paths available to individuals in their field of expertise. They encompass positions that can lead to personal and professional growth.",
+        "businessContext": "In business and startup environments, career opportunities are often discussed in relation to talent acquisition, employee development, and succession planning, as organizations seek to attract and retain skilled professionals.",
+        "nuance": "The term carries a positive connotation, suggesting potential for advancement and fulfillment, and is often used in discussions about job markets and recruitment strategies.",
+        "synonyms": [
+          "job prospects",
+          "employment options"
+        ],
+        "antonyms": [
+          "job scarcity",
+          "unemployment"
+        ]
+      },
+      {
+        "word": "high degree of certainty",
+        "definition": "A high degree of certainty indicates a strong level of confidence in the accuracy or outcome of a prediction or decision. It reflects a situation where the likelihood of an event occurring is perceived to be very high.",
+        "businessContext": "In business decision-making, a high degree of certainty is crucial for risk assessment and strategic planning, as it influences investment choices and operational strategies.",
+        "nuance": "This phrase is often used in contexts where data and analysis support a conclusion, but it may imply an overconfidence if not backed by thorough research.",
+        "synonyms": [
+          "strong confidence",
+          "high assurance"
+        ],
+        "antonyms": [
+          "low certainty",
+          "doubt"
+        ]
+      },
+      {
+        "word": "predict",
+        "definition": "To predict means to declare or indicate in advance that a particular event or outcome will occur based on analysis or evidence. It involves forecasting future trends or behaviors.",
+        "businessContext": "In business and technology, predicting market trends, consumer behavior, and financial performance is essential for strategic planning and competitive advantage.",
+        "nuance": "While predicting can be based on data and analysis, it carries an inherent uncertainty, and over-reliance on predictions without flexibility can lead to poor decision-making.",
+        "synonyms": [
+          "forecast",
+          "anticipate"
+        ],
+        "antonyms": [
+          "ignore",
+          "overlook"
+        ]
+      },
+      {
+        "word": "successful",
+        "definition": "Successful describes the achievement of desired outcomes or goals, often resulting in positive recognition or financial gain. It indicates effectiveness in reaching objectives.",
+        "businessContext": "In the business realm, success is often measured through key performance indicators (KPIs), profitability, market share, and overall impact on stakeholders.",
+        "nuance": "The term can vary in meaning depending on context; what is deemed successful in one industry or company may differ significantly in another, making it subjective.",
+        "synonyms": [
+          "prosperous",
+          "effective"
+        ],
+        "antonyms": [
+          "unsuccessful",
+          "failing"
+        ]
+      }
+    ]
   }
 ]

@@ -1,13 +1,14 @@
 [
   {
-    "text": "We rarely scale a project, a product we've launched, until we know the Sean Ellis score and we know that it's hit a threshold that we find really compelling. The Sean Ellis score is a really simple methodology used by lots and lots of companies that a gentleman named Sean Ellis popularized well over a decade ago.",
+    "text": "We rarely scale a project, a product we've launched, until we know the Sean Ellis score and we know that it's hit a threshold that we find really compelling.",
     "speaker": "Jag Duggal",
     "timestamp": "00:14:26",
     "context": "Lenny asks about how Nubank measures whether customers truly love their products before scaling them. Jag explains that they use the Sean Ellis score methodology, which asks customers how disappointed they would be if the product went away. At Nubank, they require at least 50% of customers to say they would be 'very disappointed' before scaling a product, which is higher than the typical 40% threshold due to Brazilian customers being more polite and optimistic.",
     "vocabulary_highlights": [
-      "hit a threshold",
-      "really compelling",
-      "popularized well over a decade ago"
+      "scale",
+      "threshold",
+      "compelling",
+      "methodology"
     ],
     "topics": [
       "Product Management",
@@ -22,17 +23,79 @@
     "text_ko": "저희는 보통 프로젝트나 출시된 제품을 바로 확장(scale)하지 않아요. 먼저 션 엘리스 스코어(Sean Ellis score)를 확인해서 그 점수가 저희가 정말 매력적이라고 느끼는 기준(threshold)을 넘을 때까지 기다려요. 션 엘리스 스코어는 션 엘리스(Sean Ellis)라는 분이 10년이 훨씬 넘게 전에 널리 알린, 많은 회사들이 쓰는 아주 단순한 방법론이에요.",
     "text_zh": "我们很少会去扩大一个项目或者已经上线的产品规模，除非我们知道肖恩·埃利斯得分(Sean Ellis score)，而且确认它达到了我们认为很有说服力的那个门槛。肖恩·埃利斯得分(Sean Ellis score)其实是个很简单的方法论，现在很多很多公司都在用，是一个叫肖恩·埃利斯的人在十多年前推广开的。",
     "text_es": "Casi nunca escalamos un proyecto o un producto que hemos lanzado hasta que conocemos el puntaje de Sean Ellis y sabemos que ha alcanzado un umbral que nos parece realmente atractivo. El puntaje de Sean Ellis (Sean Ellis score) es una metodología súper sencilla que usan muchísimas empresas y que un señor llamado Sean Ellis popularizó hace más de una década.",
-    "key_sentence": "We know the Sean Ellis score has hit a threshold we find really compelling."
+    "key_sentence": "We know the Sean Ellis score has hit a threshold we find really compelling.",
+    "text_trimmed": true,
+    "original_text": "We rarely scale a project, a product we've launched, until we know the Sean Ellis score and we know that it's hit a threshold that we find really compelling. The Sean Ellis score is a really simple methodology used by lots and lots of companies that a gentleman named Sean Ellis popularized well over a decade ago.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "scale",
+        "definition": "To increase in size, capacity, or scope, often in a systematic manner.",
+        "businessContext": "In business, scaling refers to the ability of a company to grow its operations and revenue without being hampered by its structure or available resources when facing increased production demands.",
+        "nuance": "While 'scale' often implies growth, it can also suggest the need for careful planning to ensure that expansion does not compromise quality or efficiency.",
+        "synonyms": [
+          "expand",
+          "grow"
+        ],
+        "antonyms": [
+          "reduce",
+          "diminish"
+        ]
+      },
+      {
+        "word": "threshold",
+        "definition": "A point or level at which something begins or changes; a limit that must be reached.",
+        "businessContext": "In a business context, a threshold often refers to metrics or benchmarks that must be met before a project can proceed or be considered successful.",
+        "nuance": "The term can imply a critical juncture, suggesting that crossing the threshold is necessary for further action or investment.",
+        "synonyms": [
+          "limit",
+          "boundary"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "compelling",
+        "definition": "Evoking interest, attention, or admiration in a powerfully irresistible way.",
+        "businessContext": "In business, a compelling product or idea is one that strongly attracts customers or investors due to its unique value proposition or potential impact.",
+        "nuance": "While 'compelling' often conveys a sense of urgency or necessity, it can also suggest a deeper emotional or intellectual appeal that resonates with stakeholders.",
+        "synonyms": [
+          "convincing",
+          "persuasive"
+        ],
+        "antonyms": [
+          "unconvincing",
+          "dull"
+        ]
+      },
+      {
+        "word": "methodology",
+        "definition": "A system of methods and principles used in a particular discipline or field of study.",
+        "businessContext": "In business and tech, a methodology outlines the processes and frameworks used to guide project management, product development, or research initiatives.",
+        "nuance": "The choice of methodology can reflect a company's culture and approach to problem-solving, with some methodologies emphasizing flexibility and others focusing on strict adherence to processes.",
+        "synonyms": [
+          "approach",
+          "system"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "Good enough, isn't good enough. Is it great enough? Because that's the bar, particularly for some of our ten-pole products, but we try to apply it largely across the board. A lot of companies spend a ton of money on marketing. Their VC budgets, VC funding basically goes to Google and Facebook.",
+    "text": "Good enough, isn't good enough. Is it great enough? Because that's the bar, particularly for some of our ten-pole products, but we try to apply it largely across the board. A lot of companies spend a ton of money on marketing.",
     "speaker": "Jag Duggal",
     "timestamp": "00:20:44",
     "context": "Lenny is asking about Nubank's approach to building products people love fanatically. Jag shares a phrase from their lead designer about raising the bar beyond just 'good enough' to 'great enough.' He explains this philosophy helps them avoid spending heavily on marketing since truly great products generate word-of-mouth growth instead of requiring massive advertising budgets.",
     "vocabulary_highlights": [
+      "raise the bar",
       "ten-pole products",
-      "largely across the board",
-      "spend a ton of money"
+      "across the board",
+      "good enough"
     ],
     "topics": [
       "Product Management",
@@ -47,17 +110,79 @@
     "text_ko": "'그냥 괜찮다' 수준으론 안 돼요. 충분히 훌륭한가요? 그게 기준이에요. 특히 몇몇 주력 제품에는 더 그렇고, 가능한 한 전반에 걸쳐 적용하려고 해요. 많은 회사가 마케팅에 엄청난 돈을 써요. 그들의 벤처캐피털(VC) 자금은 사실상 구글과 페이스북으로 가요.",
     "text_zh": "差不多好，那可不够。得问问是不是真的够棒？这就是我们的标准，特别是对那些十柱产品(ten-pole products)，但我们基本上全线都这么要求。很多公司在营销上砸大钱，风投资金(VC funding)基本上都流到谷歌和脸书那儿去了。",
     "text_es": "\"Suficientemente bueno\" no es suficiente. ¿Es lo suficientemente genial? Porque ese es el estándar, especialmente para algunos de nuestros productos estrella (ten-pole products), pero tratamos de aplicarlo en general a todo. Muchas empresas se gastan una fortuna en marketing. Sus presupuestos de capital de riesgo, básicamente la financiación de VC se va directo a Google y Facebook.",
-    "key_sentence": "Good enough isn't good enough; we aim for great enough across the board."
+    "key_sentence": "Good enough isn't good enough; we aim for great enough across the board.",
+    "text_trimmed": true,
+    "original_text": "Good enough, isn't good enough. Is it great enough? Because that's the bar, particularly for some of our ten-pole products, but we try to apply it largely across the board. A lot of companies spend a ton of money on marketing. Their VC budgets, VC funding basically goes to Google and Facebook.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "raise the bar",
+        "definition": "To increase standards or expectations in a particular area.",
+        "businessContext": "In business, raising the bar often refers to setting higher performance metrics or quality standards for products, services, or employee performance.",
+        "nuance": "This phrase conveys a sense of ambition and the pursuit of excellence, and is often used in motivational contexts.",
+        "synonyms": [
+          "set higher standards",
+          "elevate expectations"
+        ],
+        "antonyms": [
+          "lower the standards",
+          "settle for less"
+        ]
+      },
+      {
+        "word": "ten-pole products",
+        "definition": "Core products or services that are essential to a company's success and generate significant revenue.",
+        "businessContext": "In a business setting, ten-pole products are often the flagship offerings that define a brand and drive customer loyalty.",
+        "nuance": "This term suggests a strong reliance on these key products, and it is typically used in discussions about product strategy and portfolio management.",
+        "synonyms": [
+          "flagship products",
+          "core offerings"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "across the board",
+        "definition": "Applicable to all cases or instances without exception.",
+        "businessContext": "In business discussions, 'across the board' is often used to indicate that a policy, change, or standard will affect all departments or areas of the organization equally.",
+        "nuance": "This phrase implies inclusivity and uniformity, and is often used in contexts where comprehensive application is emphasized.",
+        "synonyms": [
+          "universally",
+          "in all areas"
+        ],
+        "antonyms": [
+          "selectively",
+          "partially"
+        ]
+      },
+      {
+        "word": "good enough",
+        "definition": "Sufficient to meet a minimum standard but not exceptional or outstanding.",
+        "businessContext": "In a business context, 'good enough' can refer to products or services that meet basic requirements but may lack competitive edge or innovation.",
+        "nuance": "This phrase often carries a negative connotation, suggesting complacency rather than striving for excellence.",
+        "synonyms": [
+          "adequate",
+          "satisfactory"
+        ],
+        "antonyms": [
+          "excellent",
+          "superior"
+        ]
+      }
+    ]
   },
   {
-    "text": "Don't ask a researcher to come up with a plan to go do the research to then summarize it, to then bring it to you, which has so many degrees of distance built in. You pick up the phone, call 10 of them and nine times out of 10, by the time you've made your fifth call, you could predict what's customer six, seven, eight, nine and 10 are going to tell you.",
+    "text": "Don't ask a researcher to come up with a plan to go do the research to then summarize it, to then bring it to you, which has so many degrees of distance built in.",
     "speaker": "Jag Duggal",
     "timestamp": "00:26:27",
     "context": "Lenny asks about how product managers can get closer to customer feedback. Jag explains Nubank's approach of having product managers directly call customers rather than going through multiple layers of research intermediaries. He advocates for this direct approach because it eliminates the distance between the product builder and customer voice, and patterns emerge quickly after just a few conversations.",
     "vocabulary_highlights": [
-      "degrees of distance built in",
-      "nine times out of 10",
-      "could predict"
+      "summarize",
+      "degrees of distance",
+      "approach",
+      "multiple layers"
     ],
     "topics": [
       "Product Management",
@@ -72,16 +197,79 @@
     "text_ko": "연구자한테 '조사 계획 짜고, 연구해서 요약해 가져와라'고 시키지 마세요. 그건 중간 단계가 너무 많아서 거리감이 생겨요. 그냥 전화를 들어 열 명 정도에게 직접 물어보세요. 열 번 중 아홉 번은 다섯 번째 통화까지 해보면 나머지 사람들이 뭐라고 할지 다 예측할 수 있어요.",
     "text_zh": "别让研究员先做个研究计划，然后去调研，再总结汇报给你，这中间隔了好几层。你直接拿起电话打给10个客户，十有八九，打到第五个的时候，你就能猜到后面几个客户会跟你说什么了。",
     "text_es": "No le pidas a un investigador que te arme un plan para hacer la investigación, después resumirla y luego traértela—eso tiene demasiados filtros de por medio. Mejor agarra el teléfono, llama directamente a 10 clientes, y te aseguro que en 9 de cada 10 casos, para cuando hagas la quinta llamada, ya vas a poder predecir exactamente qué te van a decir los clientes seis, siete, ocho, nueve y diez.",
-    "key_sentence": "You could predict customer responses nine times out of 10 with direct calls."
+    "key_sentence": "which has so many degrees of distance built in.",
+    "text_trimmed": true,
+    "original_text": "Don't ask a researcher to come up with a plan to go do the research to then summarize it, to then bring it to you, which has so many degrees of distance built in. You pick up the phone, call 10 of them and nine times out of 10, by the time you've made your fifth call, you could predict what's customer six, seven, eight, nine and 10 are going to tell you.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "summarize",
+        "definition": "To present the main points or essential information of a larger body of work in a concise form.",
+        "businessContext": "In business settings, summarizing is crucial for communicating findings, reports, or proposals efficiently to stakeholders who may not have time to review the full details.",
+        "nuance": "While summarizing is often seen as a skillful way to distill information, it can sometimes oversimplify complex ideas, so care must be taken to retain key insights.",
+        "synonyms": [
+          "condense",
+          "abstract"
+        ],
+        "antonyms": [
+          "expand",
+          "elaborate"
+        ]
+      },
+      {
+        "word": "degrees of distance",
+        "definition": "A measure of separation or disconnection between two entities, often in terms of communication or understanding.",
+        "businessContext": "In project management or team dynamics, degrees of distance can refer to the levels of involvement or engagement among team members, affecting collaboration and decision-making.",
+        "nuance": "This phrase often implies a negative connotation, suggesting that too many layers of separation can hinder effective communication and lead to misunderstandings.",
+        "synonyms": [
+          "levels of separation",
+          "layers of detachment"
+        ],
+        "antonyms": [
+          "closeness",
+          "directness"
+        ]
+      },
+      {
+        "word": "approach",
+        "definition": "A method or strategy for dealing with a situation or problem.",
+        "businessContext": "In business, the term approach is frequently used to describe the strategic methods employed to achieve goals, such as marketing approaches or problem-solving approaches.",
+        "nuance": "The term can imply a thoughtful or systematic manner of tackling issues, but it may also suggest rigidity if not adaptable to changing circumstances.",
+        "synonyms": [
+          "method",
+          "strategy"
+        ],
+        "antonyms": [
+          "disregard",
+          "neglect"
+        ]
+      },
+      {
+        "word": "multiple layers",
+        "definition": "Several levels or tiers of complexity or organization within a system or process.",
+        "businessContext": "In organizational structures or project management, multiple layers can refer to the various levels of hierarchy or stages in a project, which can complicate communication and decision-making.",
+        "nuance": "While having multiple layers can provide depth and thoroughness, it can also lead to inefficiencies and confusion if not managed properly.",
+        "synonyms": [
+          "several tiers",
+          "various levels"
+        ],
+        "antonyms": [
+          "simplicity",
+          "flat structure"
+        ]
+      }
+    ]
   },
   {
-    "text": "We are not going to take a small problem and scale it because if we do that, we end up with a big mess. Something isn't working at small scale, no problem, especially if we have a strong hypothesis and a lot of ways of getting good customer feedback. We iterate, we iterate, we get it right and then once we get it right, scaling if you do it right in many cases takes care of itself.",
+    "text": "We are not going to take a small problem and scale it because if we do that, we end up with a big mess.",
     "speaker": "Jag Duggal",
     "timestamp": "00:29:35",
     "context": "Lenny is discussing the pressures product managers face to scale products quickly. Jag explains Nubank's disciplined approach of not scaling products until they have achieved product-market fit at a small scale. He emphasizes that it's better to solve problems when they're small rather than create bigger messes by scaling prematurely, and that proper scaling often happens naturally once the product is truly working.",
     "vocabulary_highlights": [
-      "end up with a big mess",
-      "takes care of itself"
+      "scale",
+      "disciplined",
+      "product-market fit",
+      "mess"
     ],
     "topics": [
       "Product Management",
@@ -96,17 +284,79 @@
     "text_ko": "작은 문제를 그대로 확장(scale)하진 않을 거예요. 그렇게 하면 결국 큰 난장판이 되거든요. 작은 규모에서 잘 안 되면 괜찮아요. 특히 명확한 가설(hypothesis)이 있고 고객 피드백(customer feedback)을 받을 방법이 많다면요. 계속 반복(iterate)해서 개선해요. 제대로 맞출 때까지요. 그리고 일단 제대로 맞추면, 확장(scale)은 많은 경우 저절로 해결돼요.",
     "text_zh": "我们不会拿一个小问题直接放大，因为那样做最后就是一团糟。如果在小规模时就有问题，其实没关系，特别是当我们有很强的假设和很多渠道能拿到好的客户反馈。我们就不断迭代(iterate)，不断迭代，直到做对为止。一旦做对了，扩张这件事如果方法得当，很多时候就是水到渠成的事。",
     "text_es": "No vamos a agarrar un problema chiquito y escalarlo porque si hacemos eso, terminamos con un desastre enorme. Si algo no está funcionando a pequeña escala, no hay bronca, sobre todo si tenemos una hipótesis sólida y muchas formas de conseguir buen feedback de los clientes. Iteramos, iteramos, lo hacemos bien y después, una vez que lo tenemos bien, el escalamiento, si lo haces correctamente, en muchos casos se cuida solo.",
-    "key_sentence": "We won't scale a small problem; it could end up with a big mess."
+    "key_sentence": "We won't scale a small problem; it could end up with a big mess.",
+    "text_trimmed": true,
+    "original_text": "We are not going to take a small problem and scale it because if we do that, we end up with a big mess. Something isn't working at small scale, no problem, especially if we have a strong hypothesis and a lot of ways of getting good customer feedback. We iterate, we iterate, we get it right and then once we get it right, scaling if you do it right in many cases takes care of itself.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "scale",
+        "definition": "To increase in size, capacity, or scope, often in a systematic manner.",
+        "businessContext": "In business and technology, scaling refers to the ability of a company or system to grow and manage increased demand without compromising performance.",
+        "nuance": "While 'scale' often implies growth, it can also suggest the need for careful planning to avoid operational challenges.",
+        "synonyms": [
+          "expand",
+          "grow"
+        ],
+        "antonyms": [
+          "shrink",
+          "reduce"
+        ]
+      },
+      {
+        "word": "disciplined",
+        "definition": "Exhibiting self-control and adherence to a set of rules or standards.",
+        "businessContext": "In a business context, being disciplined often refers to maintaining focus on strategic goals and following established processes to achieve desired outcomes.",
+        "nuance": "The term can imply a positive connotation of reliability and consistency, but may also suggest rigidity if overemphasized.",
+        "synonyms": [
+          "controlled",
+          "methodical"
+        ],
+        "antonyms": [
+          "undisciplined",
+          "chaotic"
+        ]
+      },
+      {
+        "word": "product-market fit",
+        "definition": "The degree to which a product satisfies a strong market demand.",
+        "businessContext": "Achieving product-market fit is crucial for startups as it indicates that the product is well-received by the target audience, leading to sustainable growth.",
+        "nuance": "This term is often used in discussions about startup viability and can imply a need for iterative development to align products with market needs.",
+        "synonyms": [
+          "market alignment",
+          "customer fit"
+        ],
+        "antonyms": [
+          "market misalignment",
+          "product-market mismatch"
+        ]
+      },
+      {
+        "word": "mess",
+        "definition": "A situation that is disorganized or chaotic, often resulting from poor planning or execution.",
+        "businessContext": "In business, a 'mess' can refer to operational failures or mismanagement that lead to complications and inefficiencies.",
+        "nuance": "While 'mess' can convey a sense of urgency to rectify a situation, it may also carry a negative connotation that suggests a lack of professionalism.",
+        "synonyms": [
+          "chaos",
+          "disarray"
+        ],
+        "antonyms": [
+          "order",
+          "organization"
+        ]
+      }
+    ]
   },
   {
-    "text": "We may not be right, but at least we are clear. Even if your strategy isn't right, and it will never be exactly right because no plan ever is, you will have a clearer read on if you are going off course because you have a very clear idea of what was supposed to be happening.",
+    "text": "We may not be right, but at least we are clear.",
     "speaker": "Jag Duggal",
     "timestamp": "00:00:36",
     "context": "Lenny asks Jag about his approach to strategy development. Jag quotes Kevin Systrom from Instagram's early days to illustrate the importance of strategic clarity. He argues that having a clear strategy, even if imperfect, allows teams to quickly identify when they're going off course because they have concrete expectations about what should be happening.",
     "vocabulary_highlights": [
-      "clearer read on",
-      "going off course",
-      "supposed to be happening"
+      "strategic",
+      "clarity",
+      "approach",
+      "importance"
     ],
     "topics": [
       "Strategy & Planning",
@@ -121,17 +371,79 @@
     "text_ko": "우리가 꼭 옳지 않을 수도 있지만, 적어도 상황은 분명해요. 전략이 완전히 맞을 수는 없어요—어떤 계획도 완벽하진 않으니까요. 하지만 무엇이 일어나야 하는지 분명히 알고 있으면, 우리가 방향을 벗어나고 있는지 훨씬 더 빨리, 더 정확하게 파악할 수 있어요.",
     "text_zh": "我们可能不一定对，但至少我们心里有数。就算你的策略不完全正确——其实也不可能完全正确，因为没有哪个计划是完美的——但你至少能清楚地知道自己是不是走偏了，因为你对原本应该怎么走心里很清楚。",
     "text_es": "Puede que no tengamos la razón, pero al menos tenemos las cosas claras. Aunque tu estrategia no sea la correcta, y nunca va a ser perfecta porque ningún plan lo es, vas a poder darte cuenta mucho mejor si te estás desviando del camino porque tienes muy claro qué se suponía que tenía que pasar.",
-    "key_sentence": "A clearer read on strategy helps identify if you're going off course."
+    "key_sentence": "We may not be right, but at least we are clear.",
+    "text_trimmed": true,
+    "original_text": "We may not be right, but at least we are clear. Even if your strategy isn't right, and it will never be exactly right because no plan ever is, you will have a clearer read on if you are going off course because you have a very clear idea of what was supposed to be happening.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "strategic",
+        "definition": "Relating to the identification of long-term or overall aims and interests and the means of achieving them.",
+        "businessContext": "In business, a strategic approach involves planning and decision-making that align with the company's long-term goals, often involving resource allocation and competitive positioning.",
+        "nuance": "While 'strategic' implies a thoughtful and planned approach, it can also suggest a level of complexity and foresight that may not be present in more tactical or operational decisions.",
+        "synonyms": [
+          "tactical",
+          "calculated"
+        ],
+        "antonyms": [
+          "haphazard",
+          "random"
+        ]
+      },
+      {
+        "word": "clarity",
+        "definition": "The quality of being clear and easy to understand, often referring to communication or thought processes.",
+        "businessContext": "In a business setting, clarity is crucial for effective communication, ensuring that all stakeholders understand objectives, strategies, and expectations without ambiguity.",
+        "nuance": "Clarity often connotes precision and transparency, and is particularly valued in leadership and decision-making contexts to avoid misunderstandings.",
+        "synonyms": [
+          "lucidity",
+          "transparency"
+        ],
+        "antonyms": [
+          "ambiguity",
+          "confusion"
+        ]
+      },
+      {
+        "word": "approach",
+        "definition": "A way of dealing with a situation or problem; a method or procedure.",
+        "businessContext": "In business, an approach can refer to the methodology adopted to tackle challenges, implement strategies, or engage with clients, influencing outcomes significantly.",
+        "nuance": "The term can imply a level of thoughtfulness and planning, but it may also suggest flexibility, as different situations may require different approaches.",
+        "synonyms": [
+          "method",
+          "strategy"
+        ],
+        "antonyms": [
+          "disregard",
+          "neglect"
+        ]
+      },
+      {
+        "word": "importance",
+        "definition": "The state or fact of being of great significance or value.",
+        "businessContext": "In the corporate world, understanding the importance of various factors—such as market trends, customer feedback, and employee engagement—is essential for making informed decisions and driving success.",
+        "nuance": "While 'importance' denotes significance, it can also imply a hierarchy of priorities, where some issues are deemed more critical than others.",
+        "synonyms": [
+          "significance",
+          "value"
+        ],
+        "antonyms": [
+          "insignificance",
+          "triviality"
+        ]
+      }
+    ]
   },
   {
-    "text": "We're not trying to be incrementally better. We are trying to be fundamentally different. We're in the business of being fundamentally different, not incrementally better. Only fundamentally different, gets customers to tell their friends. Incrementally better and there are certain features where you're in the incrementally better business, but we're searching for those anchors that are going to be fundamentally different all the time.",
+    "text": "We're not trying to be incrementally better. We are trying to be fundamentally different. We're in the business of being fundamentally different, not incrementally better. Only fundamentally different, gets customers to tell their friends.",
     "speaker": "Jag Duggal",
     "timestamp": "00:49:55",
     "context": "Lenny is asking about Nubank's philosophy and approach to product development. Jag explains their core principle that appears on company mugs - they focus on being fundamentally different rather than incrementally better. He clarifies that while some features may be incremental improvements, they constantly search for anchor products and experiences that are fundamentally different because only those drive word-of-mouth growth.",
     "vocabulary_highlights": [
-      "incrementally better",
-      "fundamentally different",
-      "searching for those anchors"
+      "fundamentally",
+      "incrementally",
+      "core principle",
+      "product development"
     ],
     "topics": [
       "Product Management",
@@ -146,6 +458,67 @@
     "text_ko": "우리는 단지 점진적 개선(incrementally better)을 하려는 게 아니에요. 우리는 근본적 차이(fundamentally different)를 만들려고 해요. 우리의 사업은 점진적 개선이 아니라 근본적 차이를 만드는 일이에요. 고객이 친구에게 소개하게 만드는 건 오직 근본적으로 다른 것뿐이에요. 물론 어떤 기능들은 점진적 개선의 영역에 있어서 그걸 하는 경우도 있지만, 우리는 항상 근본적으로 다를 핵심 요소(anchors)를 찾고 있어요.",
     "text_zh": "我们不是想做得稍微好一点点，我们是要做得完全不一样。我们要做的就是根本性的差异化，而不是小修小补的改进。只有做到根本性的不同，客户才会主动给朋友推荐。如果只是稍微改进一下，当然某些功能确实需要渐进式优化，但我们一直在寻找那些能让我们彻底与众不同的核心支撑点。",
     "text_es": "No estamos buscando ser un poquito mejores que la competencia. Estamos tratando de ser radicalmente diferentes. Nuestro negocio es ser radicalmente diferentes, no mejorar por pedacitos. Solo cuando eres radicalmente diferente es que los clientes les van a contar a sus amigos. Con mejoras incrementales, sí, hay ciertas funcionalidades donde puedes apostar a esas mejoras graduales, pero nosotros estamos buscando constantemente esos puntos clave que nos van a hacer radicalmente diferentes.",
-    "key_sentence": "We're searching for those anchors that are fundamentally different, not incrementally better."
+    "key_sentence": "We are trying to be fundamentally different.",
+    "text_trimmed": true,
+    "original_text": "We're not trying to be incrementally better. We are trying to be fundamentally different. We're in the business of being fundamentally different, not incrementally better. Only fundamentally different, gets customers to tell their friends. Incrementally better and there are certain features where you're in the incrementally better business, but we're searching for those anchors that are going to be fundamentally different all the time.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "fundamentally",
+        "definition": "In a basic and essential way; at the core or root of something.",
+        "businessContext": "In business, 'fundamentally' often refers to a significant change or innovation that alters the foundational aspects of a product, service, or strategy.",
+        "nuance": "This term implies a deep, intrinsic change rather than superficial adjustments, making it suitable for discussions about transformative ideas.",
+        "synonyms": [
+          "essentially",
+          "intrinsically"
+        ],
+        "antonyms": [
+          "superficially",
+          "marginally"
+        ]
+      },
+      {
+        "word": "incrementally",
+        "definition": "In small, gradual steps or amounts; progressively.",
+        "businessContext": "In the context of business and technology, 'incrementally' describes improvements or changes that are made in small, manageable phases rather than through radical shifts.",
+        "nuance": "This term is often used to suggest a cautious or conservative approach to change, which may not always capture the urgency for innovation.",
+        "synonyms": [
+          "gradually",
+          "stepwise"
+        ],
+        "antonyms": [
+          "radically",
+          "wholly"
+        ]
+      },
+      {
+        "word": "core principle",
+        "definition": "A fundamental belief or value that guides actions and decisions within an organization.",
+        "businessContext": "In business, core principles are essential for maintaining a company's mission and culture, influencing everything from strategic planning to employee behavior.",
+        "nuance": "This term conveys a sense of stability and foundational importance, making it ideal for discussions about organizational values.",
+        "synonyms": [
+          "fundamental value",
+          "guiding tenet"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "product development",
+        "definition": "The process of bringing a new product to market, including ideation, design, testing, and launch.",
+        "businessContext": "In the tech and startup sectors, product development is critical for innovation and competitiveness, often involving cross-functional teams to ensure market fit and user satisfaction.",
+        "nuance": "This term encompasses a broad range of activities, and its use can imply a focus on both the technical and market aspects of creating a product.",
+        "synonyms": [
+          "product design",
+          "product lifecycle management"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   }
 ]

@@ -1,14 +1,14 @@
 [
   {
-    "text": "So we decided to co-create the product with them. So we had shared Slack channels, we'd actually show them product on a very regular basis, get their feedback on it. And only when that original kind of Alpha group was super, super happy with the product did we then think it might be ready to go to a broader audience.",
+    "text": "So we decided to co-create the product with them. So we had shared Slack channels, we'd actually show them product on a very regular basis, get their feedback on it.",
     "speaker": "David Singleton",
     "timestamp": "00:00:32",
     "context": "Lenny asks David about how Stripe builds products without traditional product managers. David explains Stripe's approach using Stripe Billing as an example, where they identified existing users like Figma and Slack who had subscription business models but were pushing the boundaries of what was possible with existing payment solutions. David describes how Stripe involves select users directly in the product development process rather than building in isolation.",
     "vocabulary_highlights": [
       "co-create",
-      "Alpha group",
-      "super, super happy",
-      "broader audience"
+      "feedback",
+      "shared channels",
+      "product managers"
     ],
     "topics": [
       "Product Management",
@@ -24,7 +24,68 @@
     "text_ko": "그래서 저희는 그들과 함께 제품을 공동으로 개발하기로 했어요 (co-create). 슬랙(Slack) 공유 채널을 만들고, 아주 자주 제품을 보여드리며 피드백을 받았어요. 그리고 그 초기 알파 그룹(Alpha group)이 제품에 정말, 정말 만족할 때에야 비로소 더 많은 사람들에게 공개해도 되겠다고 판단했어요.",
     "text_zh": "所以我们决定跟他们一起共创产品。我们建了共享的Slack频道，定期给他们看产品demo，听取他们的反馈意见。只有当最初那批Alpha用户对产品特别满意了，我们才觉得可以推向更大的用户群体。",
     "text_es": "Entonces decidimos co-crear el producto junto con ellos. Teníamos canales compartidos de Slack, les enseñábamos el producto de manera muy regular, y recibíamos su feedback. Y solo cuando ese grupo Alpha original estaba súper contento con el producto, ahí sí pensamos que ya podría estar listo para un público más amplio.",
-    "key_sentence": "We decided to co-create the product with the Alpha group's feedback."
+    "key_sentence": "We decided to co-create the product with the Alpha group's feedback.",
+    "text_trimmed": true,
+    "original_text": "So we decided to co-create the product with them. So we had shared Slack channels, we'd actually show them product on a very regular basis, get their feedback on it. And only when that original kind of Alpha group was super, super happy with the product did we then think it might be ready to go to a broader audience.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "co-create",
+        "definition": "To collaboratively develop a product or service with stakeholders, often involving active participation from all parties.",
+        "businessContext": "In business and tech environments, co-creation is utilized to enhance innovation by integrating diverse perspectives and expertise from customers or partners during the development process.",
+        "nuance": "Co-creating implies a partnership and shared responsibility, which can foster stronger relationships, but it may not be suitable when quick decision-making is required.",
+        "synonyms": [
+          "collaborate",
+          "jointly develop"
+        ],
+        "antonyms": [
+          "create independently",
+          "isolate"
+        ]
+      },
+      {
+        "word": "feedback",
+        "definition": "Information or criticism regarding a product, service, or performance, aimed at improving future iterations or decisions.",
+        "businessContext": "In the business realm, feedback is crucial for refining products and services, as it provides insights into customer satisfaction and areas for improvement.",
+        "nuance": "While feedback is generally constructive, it can also be negative; thus, the manner in which it is delivered and received can significantly impact team dynamics.",
+        "synonyms": [
+          "input",
+          "response"
+        ],
+        "antonyms": [
+          "silence",
+          "disregard"
+        ]
+      },
+      {
+        "word": "shared channels",
+        "definition": "Communication pathways or platforms that are accessible to multiple users or teams, facilitating collaboration and information exchange.",
+        "businessContext": "In tech companies, shared channels, such as Slack or Microsoft Teams, are essential for promoting transparency and real-time communication among team members and stakeholders.",
+        "nuance": "While shared channels enhance collaboration, they can also lead to information overload if not managed properly.",
+        "synonyms": [
+          "collaborative platforms",
+          "joint communication channels"
+        ],
+        "antonyms": [
+          "private channels",
+          "isolated communication"
+        ]
+      },
+      {
+        "word": "product managers",
+        "definition": "Professionals responsible for guiding the development, marketing, and lifecycle of a product, ensuring it meets customer needs and business goals.",
+        "businessContext": "In startups and tech firms, product managers play a pivotal role in aligning cross-functional teams, defining product vision, and prioritizing features based on market demands.",
+        "nuance": "The role of product managers can vary significantly between organizations, with some focusing more on technical aspects while others emphasize customer engagement.",
+        "synonyms": [
+          "product owners",
+          "product leads"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "And that means that every engineer building product at Stripe really has many of the kind of attributes and will exercise many of the attributes that you'll often find in PMs in other companies.",
@@ -32,7 +93,10 @@
     "timestamp": "00:19:28",
     "context": "David continues explaining Stripe's unique product development approach where they co-create products with early users through shared channels and regular feedback loops. He's describing how this collaborative, user-centric process requires Stripe engineers to develop product management skills that are typically handled by dedicated PMs at other companies. This explains how Stripe was able to delay hiring their first product manager until around their 200th employee.",
     "vocabulary_highlights": [
-      "exercise many of the attributes"
+      "attributes",
+      "co-create",
+      "feedback loops",
+      "product development"
     ],
     "topics": [
       "Product Management",
@@ -48,7 +112,66 @@
     "text_ko": "그 말은 Stripe에서 제품을 만드는 모든 엔지니어들이 다른 회사의 프로덕트 매니저들(Product Managers)에게서 흔히 볼 수 있는 여러 특성들을 많이 갖고 있고, 실제로도 그런 특성들을 자주 발휘한다는 뜻이에요.",
     "text_zh": "这就意味着在Stripe做产品开发的每个工程师，其实都具备了很多其他公司产品经理(PM)才有的那些素质和能力，而且在实际工作中也会用到这些技能。",
     "text_es": "Y eso significa que cada ingeniero que desarrolla producto en Stripe realmente tiene muchas de las cualidades y va a ejercer muchas de las habilidades que normalmente encuentras en los PMs (product managers) de otras empresas.",
-    "key_sentence": "Engineers at Stripe exercise many of the attributes found in PMs at other companies."
+    "key_sentence": "Engineers at Stripe exercise many of the attributes found in PMs at other companies.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "attributes",
+        "definition": "Characteristics or qualities that define an individual or entity.",
+        "businessContext": "In business and technology, attributes often refer to the skills, traits, or features that contribute to an employee's performance or a product's functionality.",
+        "nuance": "While 'attributes' can refer to positive qualities, it can also encompass neutral or negative traits, depending on context.",
+        "synonyms": [
+          "traits",
+          "characteristics"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "co-create",
+        "definition": "To collaboratively develop or produce something with multiple stakeholders or participants.",
+        "businessContext": "In startups and innovation-driven environments, co-creation emphasizes collaboration between teams, customers, and partners to enhance product development and user experience.",
+        "nuance": "Co-creation implies a deeper level of collaboration than simple consultation, often leading to shared ownership of the outcome.",
+        "synonyms": [
+          "collaborate",
+          "jointly develop"
+        ],
+        "antonyms": [
+          "create independently",
+          "isolate"
+        ]
+      },
+      {
+        "word": "feedback loops",
+        "definition": "Processes in which outputs of a system are circled back and used as inputs for future operations.",
+        "businessContext": "In product development and management, feedback loops are essential for continuous improvement, allowing teams to adapt based on user responses and performance metrics.",
+        "nuance": "Feedback loops can be positive or negative; a positive loop reinforces beneficial behaviors, while a negative loop may indicate a need for change.",
+        "synonyms": [
+          "iterative process",
+          "cyclical feedback"
+        ],
+        "antonyms": [
+          "linear process",
+          "one-way communication"
+        ]
+      },
+      {
+        "word": "product development",
+        "definition": "The complete process of bringing a new product to market, from ideation through design, development, and launch.",
+        "businessContext": "In tech startups, product development is critical for creating competitive offerings and often involves agile methodologies to respond quickly to market needs.",
+        "nuance": "Product development encompasses not just the technical aspects but also market research, user testing, and strategic planning.",
+        "synonyms": [
+          "product design",
+          "product lifecycle management"
+        ],
+        "antonyms": [
+          "product stagnation",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "The way that we kind of figure out where to be meticulous, where to really sweat the details and go above and beyond is again, we try to be as user first as we possibly can.",
@@ -56,8 +179,10 @@
     "timestamp": "00:25:12",
     "context": "Lenny asks David about Stripe's operating principle of 'being meticulous in your craft' and how they balance perfectionism with shipping products. David explains that being meticulous everywhere would slow progress, so Stripe uses a user-first approach to determine where to invest extra effort. He's setting up to explain their 'friction logging' process, which helps them identify the most impactful areas to focus their meticulous attention on.",
     "vocabulary_highlights": [
+      "meticulous",
       "sweat the details",
-      "go above and beyond"
+      "user first",
+      "balance"
     ],
     "topics": [
       "Product Management",
@@ -73,7 +198,66 @@
     "text_ko": "어디에 꼼꼼히 신경 써야 하고 디테일까지 챙겨서 기대 이상으로 해내야 할지를 결정하는 기준은 결국 우리가 가능한 한 사용자 우선(user-first)을 지향하려고 노력하는 거예요.",
     "text_zh": "我们怎么判断哪些地方要特别较真儿，哪些细节要死磕到底、做到极致呢？还是那句话，我们尽可能地以用户为先。",
     "text_es": "La forma en que decidimos dónde ser súper detallistas, dónde realmente esforzarnos al máximo y dar ese extra, es tratando de poner al usuario primero en todo lo que hacemos.",
-    "key_sentence": "We sweat the details and go above and beyond by being user first."
+    "key_sentence": "We sweat the details and go above and beyond by being user first.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "meticulous",
+        "definition": "Showing great attention to detail; very careful and precise.",
+        "businessContext": "In business settings, being meticulous is crucial for ensuring high-quality outputs, particularly in project management, product development, and customer service.",
+        "nuance": "While meticulousness is generally positive, it can imply over-cautiousness or excessive perfectionism if taken to an extreme.",
+        "synonyms": [
+          "detailed",
+          "thorough"
+        ],
+        "antonyms": [
+          "careless",
+          "negligent"
+        ]
+      },
+      {
+        "word": "sweat the details",
+        "definition": "To pay close attention to the finer points of a task or project, often to ensure quality or accuracy.",
+        "businessContext": "In a business context, 'sweating the details' is essential for delivering products or services that meet high standards and satisfy customer expectations.",
+        "nuance": "This phrase often conveys a sense of diligence and commitment, but can also suggest that one might be overly focused on minor aspects at the expense of broader goals.",
+        "synonyms": [
+          "focus on details",
+          "attend to specifics"
+        ],
+        "antonyms": [
+          "overlook details",
+          "generalize"
+        ]
+      },
+      {
+        "word": "user first",
+        "definition": "A principle or approach that prioritizes the needs and experiences of the end user in product design and service delivery.",
+        "businessContext": "In tech and startup environments, adopting a 'user first' mentality is critical for creating products that resonate with customers and enhance user satisfaction.",
+        "nuance": "While 'user first' emphasizes customer-centricity, it can sometimes lead to conflicts with business objectives if not balanced properly.",
+        "synonyms": [
+          "customer-centric",
+          "user-oriented"
+        ],
+        "antonyms": [
+          "product-centric",
+          "business-first"
+        ]
+      },
+      {
+        "word": "balance",
+        "definition": "A state of equilibrium or equal distribution of weight, importance, or resources among various elements.",
+        "businessContext": "In business, achieving balance is vital for managing competing priorities, such as cost versus quality, innovation versus stability, and short-term versus long-term goals.",
+        "nuance": "The term often implies a need for compromise and careful consideration of trade-offs, making it a key concept in strategic decision-making.",
+        "synonyms": [
+          "equilibrium",
+          "harmony"
+        ],
+        "antonyms": [
+          "imbalance",
+          "disproportion"
+        ]
+      }
+    ]
   },
   {
     "text": "And by the way, the example I gave you on the error message is there's actually more code in the jobs that serve the Stripe API to handle those edge cases than in the actual main flow.",
@@ -81,8 +265,10 @@
     "timestamp": "00:26:35",
     "context": "David is explaining how Stripe implements their 'meticulous craft' principle through specific examples. He previously mentioned how Stripe's error messages link directly to relevant documentation to help developers solve problems quickly. Now he's revealing the technical effort behind this seemingly simple feature - they actually write more code to handle error scenarios and edge cases than for the primary user flow, which demonstrates their commitment to exceptional user experience.",
     "vocabulary_highlights": [
+      "meticulous",
+      "implement",
       "edge cases",
-      "main flow"
+      "documentation"
     ],
     "topics": [
       "Product Management",
@@ -98,16 +284,77 @@
     "text_ko": "참고로, 제가 오류 메시지 예로 든 경우에는 Stripe API를 다루는 작업(jobs)에 그런 엣지 케이스(edge cases)를 처리하는 코드가 메인 흐름(main flow)보다 더 많아요.",
     "text_zh": "顺便说一下，我刚才举的那个错误信息的例子，实际情况是这样的：在调用Stripe API的那些任务里，专门处理各种异常情况的代码，比主流程的代码还要多。",
     "text_es": "Y por cierto, el ejemplo que te di del mensaje de error... resulta que en realidad hay más código en los trabajos que sirven la API de Stripe para manejar esos casos extremos (edge cases) que en el flujo principal.",
-    "key_sentence": "More code handles edge cases than the actual main flow of the API."
+    "key_sentence": "More code handles edge cases than the actual main flow of the API.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "meticulous",
+        "definition": "Showing great attention to detail; very careful and precise.",
+        "businessContext": "In business and tech environments, being meticulous is crucial for ensuring quality control, especially in project management and software development.",
+        "nuance": "While 'meticulous' conveys a positive trait of thoroughness, it can also imply an excessive focus on details that may hinder progress.",
+        "synonyms": [
+          "diligent",
+          "scrupulous"
+        ],
+        "antonyms": [
+          "careless",
+          "negligent"
+        ]
+      },
+      {
+        "word": "implement",
+        "definition": "To put a decision, plan, or agreement into effect.",
+        "businessContext": "In a business setting, implementing a strategy or technology is essential for achieving operational goals and improving efficiency.",
+        "nuance": "The term 'implement' often suggests a systematic approach to execution, distinguishing it from merely 'doing' something.",
+        "synonyms": [
+          "execute",
+          "apply"
+        ],
+        "antonyms": [
+          "abandon",
+          "neglect"
+        ]
+      },
+      {
+        "word": "edge cases",
+        "definition": "Situations or conditions that occur at the extreme ends of a range of possible scenarios, often requiring special handling.",
+        "businessContext": "In software development, addressing edge cases is vital for ensuring robust applications that can handle unexpected user behavior or data inputs.",
+        "nuance": "While edge cases are often viewed as exceptions, they are critical to consider to prevent potential failures in a system.",
+        "synonyms": [
+          "anomalies",
+          "exceptions"
+        ],
+        "antonyms": [
+          "standard cases",
+          "norms"
+        ]
+      },
+      {
+        "word": "documentation",
+        "definition": "Written records or materials that explain how something works or provides instructions for use.",
+        "businessContext": "In tech and business, thorough documentation is essential for onboarding, knowledge transfer, and ensuring compliance with standards and regulations.",
+        "nuance": "Good documentation is not just about having records; it should be clear, accessible, and regularly updated to be truly effective.",
+        "synonyms": [
+          "records",
+          "manuals"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "It starts with our operating principles. So because we have operating principles of users first and being meticulous in our craft, we actually tend, all of our ways of building plans tend to be wired quite well around this idea that we're going to reserve enough time to really make the experience good.",
+    "text": "It starts with our operating principles.",
     "speaker": "David Singleton",
     "timestamp": "00:35:02",
     "context": "Lenny asks how Stripe gives teams space to work on improvements identified through friction logging without stressing out PMs who have existing goals and timelines. David explains that their operating principles aren't just abstract values but actually drive how they plan and allocate resources. Because 'users first' and 'being meticulous' are core principles, teams naturally build buffer time into their roadmaps for experience improvements and operational fixes.",
     "vocabulary_highlights": [
-      "wired quite well around",
-      "reserve enough time"
+      "operating principles",
+      "improvements",
+      "friction logging",
+      "timelines"
     ],
     "topics": [
       "Strategy & Planning",
@@ -123,7 +370,68 @@
     "text_ko": "이건 우리 운영 원칙(operating principles)에서 시작해요. 사용자 우선(users first)과 일에 대한 꼼꼼함(being meticulous in our craft)을 기준으로 삼다 보니, 저희가 계획을 세우는 방식은 모두 경험을 진짜 좋게 만들 수 있을 만큼 충분한 시간을 확보하는 쪽으로 자연스럽게 짜여 있어요.",
     "text_zh": "这要从我们的运营原则说起。因为我们的运营原则就是用户至上，还有就是在产品打磨上特别较真儿，所以我们在制定各种计划的时候，基本上都会围绕着一个理念，就是一定要留出足够的时间来真正把用户体验做好。",
     "text_es": "Todo empieza con nuestros principios operativos. Como tenemos esos principios de poner a los usuarios primero y ser muy meticulosos en lo que hacemos, la verdad es que todas nuestras formas de armar planes tienden a estar muy bien estructuradas alrededor de esta idea de que vamos a reservar el tiempo suficiente para realmente hacer que la experiencia sea buena.",
-    "key_sentence": "Our operating principles are wired quite well around reserving enough time for quality."
+    "key_sentence": "It starts with our operating principles.",
+    "text_trimmed": true,
+    "original_text": "It starts with our operating principles. So because we have operating principles of users first and being meticulous in our craft, we actually tend, all of our ways of building plans tend to be wired quite well around this idea that we're going to reserve enough time to really make the experience good.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "operating principles",
+        "definition": "Fundamental guidelines or values that govern the actions and decisions of an organization.",
+        "businessContext": "In business settings, operating principles serve as a framework for decision-making and help align team members with the company's mission and vision.",
+        "nuance": "This term conveys a sense of foundational beliefs that should be consistently applied across all levels of the organization.",
+        "synonyms": [
+          "core values",
+          "guiding principles"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "improvements",
+        "definition": "Enhancements or advancements made to processes, products, or services that increase efficiency or quality.",
+        "businessContext": "In a business context, improvements are often pursued through continuous improvement methodologies to boost performance and customer satisfaction.",
+        "nuance": "The term suggests a positive change and is often associated with proactive efforts to refine existing practices rather than merely fixing problems.",
+        "synonyms": [
+          "enhancements",
+          "advancements"
+        ],
+        "antonyms": [
+          "deterioration",
+          "decline"
+        ]
+      },
+      {
+        "word": "friction logging",
+        "definition": "The process of documenting and analyzing points of friction or resistance within a system or workflow.",
+        "businessContext": "In tech and startup environments, friction logging is used to identify bottlenecks in processes that hinder productivity and to develop strategies for improvement.",
+        "nuance": "This term implies a systematic approach to understanding challenges rather than merely addressing symptoms, making it suitable for analytical discussions.",
+        "synonyms": [
+          "bottleneck analysis",
+          "process mapping"
+        ],
+        "antonyms": [
+          "streamlining",
+          "optimization"
+        ]
+      },
+      {
+        "word": "timelines",
+        "definition": "A schedule that outlines the sequence and duration of tasks or events within a project or initiative.",
+        "businessContext": "Timelines are crucial in project management, as they help teams coordinate efforts, allocate resources effectively, and track progress against deadlines.",
+        "nuance": "While timelines are often seen as rigid structures, they can also be flexible tools that adapt to changing project needs and priorities.",
+        "synonyms": [
+          "schedules",
+          "deadlines"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "I personally try to be as friendly and unscary as possible, but I know that no matter how much I do that, these can't be high stakes meetings.",
@@ -131,8 +439,10 @@
     "timestamp": "00:41:17",
     "context": "Lenny asks for advice on how product managers and designers should prepare for UX reviews with executives, noting that presenting to a CTO can be very stressful. David acknowledges that despite his efforts to create a welcoming environment, these meetings inherently carry high stakes for the people presenting. He's about to give advice on how to handle such situations by focusing on user needs rather than trying to impress leadership.",
     "vocabulary_highlights": [
-      "unscary",
-      "high stakes meetings"
+      "high stakes",
+      "prepare",
+      "executives",
+      "stressful"
     ],
     "topics": [
       "Leadership & Management",
@@ -148,16 +458,77 @@
     "text_ko": "개인적으로는 최대한 친근하고 부담스럽지 않게 하려고 해요. 다만 아무리 그래도 이런 회의는 중대한(high-stakes) 자리가 될 수 없다는 걸 알고 있어요.",
     "text_zh": "我个人尽量表现得友好一些，不让人觉得有压迫感，但我知道不管我怎么努力，这种会议的压力还是很大的。",
     "text_es": "Personalmente trato de ser lo más amigable y accesible posible, pero sé que por más que haga eso, estas no pueden ser reuniones de mucha presión.",
-    "key_sentence": "I try to be friendly and unscary, but meetings can't be high stakes."
+    "key_sentence": "I try to be friendly and unscary, but meetings can't be high stakes.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "high stakes",
+        "definition": "Referring to situations where the potential outcomes are significant and can lead to substantial consequences, either positive or negative.",
+        "businessContext": "In business settings, high stakes often describe meetings or negotiations where decisions can greatly impact the company's future, such as mergers, acquisitions, or critical project approvals.",
+        "nuance": "The term carries a sense of urgency and pressure, implying that the outcomes are not trivial and require careful consideration.",
+        "synonyms": [
+          "critical",
+          "high-pressure"
+        ],
+        "antonyms": [
+          "low stakes",
+          "trivial"
+        ]
+      },
+      {
+        "word": "prepare",
+        "definition": "To make ready or equip oneself or others for a specific task or event by organizing resources, information, or strategies.",
+        "businessContext": "In the business world, preparation is essential for successful presentations, meetings, and project launches, ensuring that all necessary information and materials are available.",
+        "nuance": "While preparation implies thoroughness, it can also suggest a proactive approach to managing potential challenges or uncertainties.",
+        "synonyms": [
+          "organize",
+          "ready"
+        ],
+        "antonyms": [
+          "neglect",
+          "ignore"
+        ]
+      },
+      {
+        "word": "executives",
+        "definition": "Individuals with significant authority and responsibility within an organization, typically involved in strategic decision-making and management.",
+        "businessContext": "Executives, such as CEOs, CFOs, and COOs, play a crucial role in shaping company policies, driving growth, and overseeing operations in a business or startup environment.",
+        "nuance": "The term often connotes a level of experience and expertise, and is typically reserved for those at the highest levels of an organization.",
+        "synonyms": [
+          "leaders",
+          "managers"
+        ],
+        "antonyms": [
+          "employees",
+          "staff"
+        ]
+      },
+      {
+        "word": "stressful",
+        "definition": "Characterized by mental or emotional strain, often resulting from demanding situations or high-pressure environments.",
+        "businessContext": "In the context of business, stressful situations can arise during tight deadlines, high-stakes negotiations, or when managing significant changes within an organization.",
+        "nuance": "While 'stressful' generally has negative connotations, it can also imply a level of challenge that may lead to personal growth or improved performance if managed effectively.",
+        "synonyms": [
+          "tense",
+          "demanding"
+        ],
+        "antonyms": [
+          "relaxing",
+          "calm"
+        ]
+      }
+    ]
   },
   {
-    "text": "The way we get to the name of the tower, at least the way I think about it is what you do on engineer occasion is I'll clear several days in a road, three or four days actually join a team, pick up a small task, hopefully a small feature that we can get all the way from start to finish in production and do that going through the exact experience the team has.",
+    "text": "I'll clear several days in a road, three or four days actually join a team, pick up a small task... go through the exact experience the team has.",
     "speaker": "David Singleton",
     "timestamp": "00:46:00",
     "context": "David is explaining his concept of 'engineerications' - a portmanteau of 'engineer' and 'vacation.' Lenny asked about how David stays hands-on as a CTO. David describes how he periodically clears his executive calendar for 3-4 days to work as an individual contributor engineer, joining a team to build a small feature from start to finish. This gives him direct experience with the company's developer tools, processes, and day-to-day engineering challenges.",
     "vocabulary_highlights": [
-      "clear several days in a road",
-      "start to finish"
+      "clear several days",
+      "join a team",
+      "pick up a task",
+      "hands-on"
     ],
     "topics": [
       "Leadership & Management",
@@ -173,6 +544,67 @@
     "text_ko": "제가 그 타워 이름을 짓는 방식은, 적어도 제 생각에는, 엔지니어로서 일할 때 며칠 연속으로 시간을 비워두고(보통 3~4일) 실제로 팀에 합류해서 작은 작업—가능하면 시작부터 프로덕션(production)까지 완전히 끝낼 수 있는 작은 기능(feature)을 하나 맡아 팀이 겪는 정확한 경험을 그대로 해보는 거예요.",
     "text_zh": "我们给这个项目起名的思路是这样的，至少我是这么想的，就是我会时不时地空出几天时间，三四天吧，直接加入团队，挑一个小任务，最好是能从头到尾完整上线的小功能，然后亲自体验一下团队的整个工作流程。",
     "text_es": "La forma en que llegamos al nombre de la torre, al menos como yo lo veo, es que de vez en cuando como ingeniero me libero varios días en el calendario, tres o cuatro días, me uno a un equipo, agarro una tarea pequeña, ojalá una funcionalidad chica que podamos llevar desde el inicio hasta el final en producción, y hago eso pasando por exactamente la misma experiencia que tiene el equipo.",
-    "key_sentence": "I clear several days in a road to join a team and complete tasks from start to finish."
+    "key_sentence": "go through the exact experience the team has.",
+    "text_trimmed": true,
+    "original_text": "The way we get to the name of the tower, at least the way I think about it is what you do on engineer occasion is I'll clear several days in a road, three or four days actually join a team, pick up a small task, hopefully a small feature that we can get all the way from start to finish in production and do that going through the exact experience the team has.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "clear several days",
+        "definition": "To make time available by removing or rescheduling other commitments for a span of several days.",
+        "businessContext": "In business settings, this phrase is often used when an employee needs to allocate uninterrupted time for a project or task, ensuring focus and productivity.",
+        "nuance": "This phrase implies a proactive approach to time management and prioritization, often used when discussing significant work commitments.",
+        "synonyms": [
+          "free up several days",
+          "allocate several days"
+        ],
+        "antonyms": [
+          "fill several days",
+          "schedule several days"
+        ]
+      },
+      {
+        "word": "join a team",
+        "definition": "To become a member of a group of individuals working collaboratively towards a common goal.",
+        "businessContext": "This phrase is frequently used in corporate environments when discussing onboarding new employees or integrating individuals into project teams.",
+        "nuance": "It conveys a sense of collaboration and contribution, often used in contexts where teamwork is essential for success.",
+        "synonyms": [
+          "become part of a team",
+          "integrate into a team"
+        ],
+        "antonyms": [
+          "leave a team",
+          "withdraw from a team"
+        ]
+      },
+      {
+        "word": "pick up a task",
+        "definition": "To take on or assume responsibility for a specific job or assignment.",
+        "businessContext": "In professional settings, this phrase indicates an individual's willingness to accept additional responsibilities or to assist with ongoing projects.",
+        "nuance": "It suggests a proactive attitude and readiness to contribute, often used in fast-paced environments where tasks need to be delegated quickly.",
+        "synonyms": [
+          "take on a task",
+          "accept a task"
+        ],
+        "antonyms": [
+          "drop a task",
+          "refuse a task"
+        ]
+      },
+      {
+        "word": "hands-on",
+        "definition": "Involving active participation and practical experience rather than theoretical knowledge.",
+        "businessContext": "This term is commonly used to describe leadership styles, training methods, or project management approaches that emphasize direct involvement and experiential learning.",
+        "nuance": "It conveys a practical, engaged approach, often preferred in environments that value experiential learning and direct interaction.",
+        "synonyms": [
+          "practical",
+          "active"
+        ],
+        "antonyms": [
+          "theoretical",
+          "indirect"
+        ]
+      }
+    ]
   }
 ]

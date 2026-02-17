@@ -1,13 +1,14 @@
 [
   {
-    "text": "Amazon was actually, to some degree, equally focused on process innovation. In many cases, by the way, we stood on other people's shoulders, we cannot take credit for having... For most of these, there were other inspirations or we built on work that others had done, which by the way, was what I think all great companies should do. And again, that's also why we wrote the book was because we would like to allow people to stand on Amazon's shoulders to learn what we learned, and then take all or part of these things and build from there.",
+    "text": "Amazon was actually, to some degree, equally focused on process innovation. In many cases, by the way, we stood on other people's shoulders, we cannot take credit for having...",
     "speaker": "Bill Carr",
     "timestamp": "00:06:43",
     "context": "Lenny asks Bill what made Amazon unique in creating so many innovative ways of working that have proliferated throughout the tech industry. Bill explains that while Amazon is known for product innovation like Kindle and AWS, the company was equally focused on developing new processes and ways of working. He emphasizes that Amazon built upon existing ideas and methodologies from other companies, adapting and improving them rather than creating everything from scratch.",
     "vocabulary_highlights": [
-      "stood on other people's shoulders",
-      "built on work",
-      "take all or part of these things"
+      "process innovation",
+      "focused on",
+      "take credit for",
+      "proliferated"
     ],
     "topics": [
       "Leadership & Management",
@@ -23,16 +24,79 @@
     "text_ko": "아마존은 사실 어느 정도 프로세스 혁신(process innovation)에도 똑같이 집중했어요. 참고로 많은 경우 우리는 다른 사람들의 어깨 위에 있었고, 그걸 전적으로 우리가 해낸 것처럼 공을 다 가져갈 순 없어요. 대부분은 다른 사람들에게서 영감을 받았거나, 다른 사람들이 해놓은 일을 기반으로 우리가 더한 것이었고, 저는 모든 훌륭한 회사들이 그렇게 해야 한다고 생각해요. 그리고 그게 우리가 책을 쓴 이유이기도 해요 — 사람들이 아마존의 어깨 위에 올라 우리가 배운 것을 배우고, 그걸 전부나 일부 가져가서 거기서부터 더 발전시킬 수 있게 하려는 거예요.",
     "text_zh": "亚马逊其实在很大程度上也同样专注于流程创新。顺便说一下，很多情况下，我们都是站在别人的肩膀上，我们不能把功劳都揽到自己身上……这些东西大部分都有其他的灵感来源，或者说我们是在别人已有工作的基础上继续发展的。我觉得所有伟大的公司都应该这么做。这也是我们写这本书的原因——我们希望让大家能够站在亚马逊的肩膀上，学习我们学到的东西，然后把这些经验全部或部分拿去用，在此基础上继续往前走。",
     "text_es": "Amazon también estaba enfocado, en cierta medida, en la innovación de procesos. En muchos casos, la verdad es que nos apoyamos en el trabajo de otros, no podemos llevarnos el mérito de haber... Para la mayoría de estas cosas, tuvimos otras inspiraciones o construimos sobre el trabajo que otros ya habían hecho, y eso, por cierto, es lo que creo que todas las grandes empresas deberían hacer. Y también por eso escribimos el libro, porque nos gustaría permitir que la gente se apoye en los hombros de Amazon para aprender lo que nosotros aprendimos, y luego tomen todo o parte de estas cosas y construyan desde ahí.",
-    "key_sentence": "We stood on other people's shoulders to build on work that others had done."
+    "key_sentence": "Amazon was actually, to some degree, equally focused on process innovation.",
+    "text_trimmed": true,
+    "original_text": "Amazon was actually, to some degree, equally focused on process innovation. In many cases, by the way, we stood on other people's shoulders, we cannot take credit for having... For most of these, there were other inspirations or we built on work that others had done, which by the way, was what I think all great companies should do. And again, that's also why we wrote the book was because we would like to allow people to stand on Amazon's shoulders to learn what we learned, and then take all or part of these things and build from there.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "process innovation",
+        "definition": "Process innovation refers to the implementation of a new or significantly improved production or delivery method. This can include changes in techniques, equipment, and software used in the production process.",
+        "businessContext": "In business and technology, process innovation is crucial for improving efficiency, reducing costs, and enhancing product quality, often leading to a competitive advantage in the market.",
+        "nuance": "While often associated with technological advancements, process innovation can also involve organizational changes and should not be confused with product innovation.",
+        "synonyms": [
+          "operational innovation",
+          "method improvement"
+        ],
+        "antonyms": [
+          "process stagnation",
+          "N/A"
+        ]
+      },
+      {
+        "word": "focused on",
+        "definition": "Focused on means to direct attention or resources towards a specific goal or area of interest. It implies a concentrated effort to achieve desired outcomes.",
+        "businessContext": "In a business context, being focused on a particular strategy, project, or market segment is essential for effective resource allocation and achieving strategic objectives.",
+        "nuance": "This phrase suggests a deliberate choice to prioritize certain aspects over others, which can imply that other areas may receive less attention.",
+        "synonyms": [
+          "concentrated on",
+          "dedicated to"
+        ],
+        "antonyms": [
+          "distracted by",
+          "N/A"
+        ]
+      },
+      {
+        "word": "take credit for",
+        "definition": "To take credit for something means to claim recognition or acknowledgment for an achievement or contribution, often implying ownership of the success.",
+        "businessContext": "In professional settings, taking credit for a project or idea can impact one's reputation and career advancement, but it should be done ethically to maintain integrity.",
+        "nuance": "This phrase can carry a negative connotation if it implies dishonesty or if one takes credit for the work of others without proper acknowledgment.",
+        "synonyms": [
+          "claim recognition for",
+          "accept acknowledgment for"
+        ],
+        "antonyms": [
+          "disavow responsibility for",
+          "N/A"
+        ]
+      },
+      {
+        "word": "proliferated",
+        "definition": "Proliferated means to increase rapidly in number or spread widely. It often refers to the rapid growth or expansion of ideas, products, or technologies.",
+        "businessContext": "In the tech industry, new technologies and startups often proliferate, leading to increased competition and innovation within the market.",
+        "nuance": "The term can imply a positive growth trend, but it may also suggest an overwhelming or chaotic increase that could lead to market saturation.",
+        "synonyms": [
+          "expanded",
+          "multiplied"
+        ],
+        "antonyms": [
+          "diminished",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "So the concept of single-threaded leadership was first... When I was born from this time of complexity at Amazon, and where again, large... Once you get to a certain scale, you get to a point of where there are competing departments, competing interests, and they're competing for some centralized pool of resources. For all of you who are working for a tech company, this is this pool of engineering resources, or today, data science and AI resources.",
+    "text": "So the concept of single-threaded leadership was first... When I was born from this time of complexity at Amazon, and where again, large...",
     "speaker": "Bill Carr",
     "timestamp": "00:12:23",
     "context": "Lenny asks Bill to explain what single-threaded leadership means and why it's effective. Bill is describing the origin of Amazon's single-threaded leader concept, explaining that it emerged when Amazon reached a scale where different departments were competing for limited centralized resources like engineering talent. This competition was creating inefficiencies and slowing down product development across the organization.",
     "vocabulary_highlights": [
       "single-threaded leadership",
-      "competing for some centralized pool of resources"
+      "complexity",
+      "emerged",
+      "effective"
     ],
     "topics": [
       "Leadership & Management",
@@ -48,16 +112,79 @@
     "text_ko": "단일 스레드 리더십(single-threaded leadership)이라는 개념은 아마존에서 복잡성이 커지던 시절에 처음 생겨났어요. 회사가 일정 규모를 넘어서면 부서 간 이해관계가 충돌하고, 각 부서가 중앙화된 자원 풀(centralized pool of resources)을 두고 경쟁하게 되거든요. 기술 회사에서 일하시는 분들에게 그 자원은 바로 엔지니어링 자원(engineering resources)이고, 요즘엔 데이터 사이언스와 AI 자원(data science and AI resources)이에요.",
     "text_zh": "所以单线程领导(single-threaded leadership)这个概念最初是...当时我在亚马逊面临复杂局面时想出来的。就是说，公司一旦做大到一定规模，你就会发现各个部门开始打架，各有各的利益，大家都在抢那些集中的资源池。你们在科技公司工作的都知道，就是抢工程师资源，现在还要抢数据科学和AI资源。",
     "text_es": "Entonces el concepto de liderazgo de un solo hilo (single-threaded leadership) nació por primera vez... Cuando surgió de esta época de complejidad en Amazon, y donde otra vez, grandes... Una vez que llegas a cierta escala, llegas a un punto donde tienes departamentos que compiten entre sí, intereses que chocan, y todos están peleándose por el mismo pool centralizado de recursos. Para todos ustedes que trabajan en una empresa de tecnología, este es el pool de recursos de ingeniería, o hoy en día, recursos de ciencia de datos e IA.",
-    "key_sentence": "Single-threaded leadership emerged from complexity and competing for centralized resources."
+    "key_sentence": "the concept of single-threaded leadership was first",
+    "text_trimmed": true,
+    "original_text": "So the concept of single-threaded leadership was first... When I was born from this time of complexity at Amazon, and where again, large... Once you get to a certain scale, you get to a point of where there are competing departments, competing interests, and they're competing for some centralized pool of resources. For all of you who are working for a tech company, this is this pool of engineering resources, or today, data science and AI resources.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "single-threaded leadership",
+        "definition": "A leadership approach where a single individual is responsible for a specific project or initiative, ensuring focused attention and accountability.",
+        "businessContext": "In business and tech environments, single-threaded leadership is often employed to streamline decision-making processes and enhance project execution by minimizing distractions and competing priorities.",
+        "nuance": "This term carries a connotation of clarity and responsibility, but may imply a lack of collaborative input if overused or misapplied.",
+        "synonyms": [
+          "focused leadership",
+          "dedicated leadership"
+        ],
+        "antonyms": [
+          "multi-threaded leadership",
+          "distributed leadership"
+        ]
+      },
+      {
+        "word": "complexity",
+        "definition": "The state of having multiple interconnected parts or factors that make a system or situation difficult to understand or manage.",
+        "businessContext": "In business, complexity can arise from various sources such as market dynamics, organizational structures, or technological advancements, often requiring sophisticated strategies to navigate effectively.",
+        "nuance": "While complexity can indicate richness and depth, it may also suggest challenges and potential inefficiencies that need to be addressed.",
+        "synonyms": [
+          "intricacy",
+          "complication"
+        ],
+        "antonyms": [
+          "simplicity",
+          "clarity"
+        ]
+      },
+      {
+        "word": "emerged",
+        "definition": "To come into view or existence, often after a period of development or change.",
+        "businessContext": "In a business context, 'emerged' is frequently used to describe new trends, technologies, or market leaders that have developed from existing conditions or challenges.",
+        "nuance": "This term often implies a positive connotation of growth or success, but can also suggest a response to challenges or competition.",
+        "synonyms": [
+          "arose",
+          "surfaced"
+        ],
+        "antonyms": [
+          "disappeared",
+          "vanished"
+        ]
+      },
+      {
+        "word": "effective",
+        "definition": "Producing a desired or intended result; successful in achieving goals.",
+        "businessContext": "In business, effectiveness is a key measure of performance, indicating how well strategies, processes, or teams achieve their objectives and deliver value.",
+        "nuance": "While 'effective' suggests success, it does not necessarily imply efficiency; something can be effective but not efficient.",
+        "synonyms": [
+          "efficient",
+          "successful"
+        ],
+        "antonyms": [
+          "ineffective",
+          "unsuccessful"
+        ]
+      }
+    ]
   },
   {
-    "text": "We've moved from what we called a project orientation to a program orientation. So, a project orientation means, oh, we are going to do this project to change our search result page and algorithm, and the project is defined in this way and it's going to take six months. The resources will come and swarm on that, and then they'll move off to some other thing in some other part of the company.",
+    "text": "We've moved from what we called a project orientation to a program orientation.",
     "speaker": "Bill Carr",
     "timestamp": "00:13:35",
     "context": "Bill is continuing to explain the single-threaded leader model by contrasting two different organizational approaches. He's describing how Amazon shifted from temporary project-based work (where resources come together briefly for specific initiatives) to a program-based approach where dedicated teams work continuously on specific areas of the business like search functionality.",
     "vocabulary_highlights": [
-      "project orientation to a program orientation",
-      "resources will come and swarm on that"
+      "orientation",
+      "program",
+      "project",
+      "organizational"
     ],
     "topics": [
       "Leadership & Management",
@@ -73,16 +200,79 @@
     "text_ko": "우리가 '프로젝트 지향(project orientation)'이라고 부르던 방식에서 '프로그램 지향(program orientation)'으로 옮겼어요. 프로젝트 지향이라는 건, '이번에 검색 결과 페이지(search results page)와 알고리즘(algorithm)을 바꾸는 이 프로젝트를 하자' 하고 프로젝트를 그렇게 정의하고 기간을 6개월로 잡으면, 자원들이 그쪽에 우르르 몰려와서 집중 투입됐다가 끝나면 회사의 다른 부서에 있는 다른 일로 옮겨 가는 방식이에요.",
     "text_zh": "我们从项目导向(project orientation)转变为计划导向(program orientation)了。项目导向就是说，比如我们要做个项目来改变搜索结果页面和算法，项目就这么定义好了，要做六个月。资源就会集中过来搞这个，搞完了就跑去公司其他地方做别的事了。",
     "text_es": "Hemos pasado de lo que llamábamos una orientación por proyectos a una orientación por programas. O sea, la orientación por proyectos significa, bueno, vamos a hacer este proyecto para cambiar nuestra página de resultados de búsqueda y el algoritmo, y el proyecto está definido de tal manera y va a tomar seis meses. Los recursos van a llegar y se van a volcar en eso, y después se van a mover a otra cosa en alguna otra área de la empresa.",
-    "key_sentence": "We moved from project orientation to program orientation where resources swarm on tasks."
+    "key_sentence": "We've moved from what we called a project orientation to a program orientation.",
+    "text_trimmed": true,
+    "original_text": "We've moved from what we called a project orientation to a program orientation. So, a project orientation means, oh, we are going to do this project to change our search result page and algorithm, and the project is defined in this way and it's going to take six months. The resources will come and swarm on that, and then they'll move off to some other thing in some other part of the company.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "orientation",
+        "definition": "Orientation refers to the process of familiarizing individuals or teams with specific goals, values, or procedures within an organization.",
+        "businessContext": "In business settings, orientation often involves training sessions for new employees to align them with the company's mission and operational practices.",
+        "nuance": "While often associated with initial training, orientation can also refer to strategic shifts in focus or methodology within an organization.",
+        "synonyms": [
+          "introduction",
+          "guidance"
+        ],
+        "antonyms": [
+          "disorientation",
+          "confusion"
+        ]
+      },
+      {
+        "word": "program",
+        "definition": "A program is a coordinated series of related projects or initiatives designed to achieve a specific strategic objective or outcome.",
+        "businessContext": "In a business context, programs are often used to manage multiple projects that contribute to a larger goal, ensuring resources are allocated efficiently.",
+        "nuance": "The term 'program' implies a broader scope than a single project, often encompassing ongoing activities and long-term objectives.",
+        "synonyms": [
+          "initiative",
+          "scheme"
+        ],
+        "antonyms": [
+          "individual project",
+          "N/A"
+        ]
+      },
+      {
+        "word": "project",
+        "definition": "A project is a temporary endeavor undertaken to create a unique product, service, or result, characterized by a defined beginning and end.",
+        "businessContext": "In business, projects are often managed through specific methodologies, such as Agile or Waterfall, to ensure they meet objectives within time and budget constraints.",
+        "nuance": "Projects are typically more focused and limited in scope compared to programs, which may encompass multiple projects.",
+        "synonyms": [
+          "task",
+          "assignment"
+        ],
+        "antonyms": [
+          "routine",
+          "N/A"
+        ]
+      },
+      {
+        "word": "organizational",
+        "definition": "Organizational refers to anything related to the structure, management, and coordination of activities within a company or institution.",
+        "businessContext": "In business, organizational strategies are crucial for defining roles, responsibilities, and workflows to enhance efficiency and effectiveness.",
+        "nuance": "The term often implies a systematic approach to managing resources and processes, distinguishing it from more informal or ad-hoc methods.",
+        "synonyms": [
+          "structural",
+          "administrative"
+        ],
+        "antonyms": [
+          "disorganized",
+          "chaotic"
+        ]
+      }
+    ]
   },
   {
-    "text": "The beauty of that though is that once we'd had those discussions, those interchanges, then the teams were free to sprint hard after their plan. They didn't have to worry about whether was, 'Am I aligned with my CEO? Am I aligned with my senior vice president?' They could know that they were. But yes, this creates then clear... If they're going to deliver it or not. It's up to that owner and that team.",
+    "text": "The beauty of that though is that once we'd had those discussions, those interchanges, then the teams were free to sprint hard after their plan. They didn't have to worry about whether was, 'Am I aligned with my CEO?",
     "speaker": "Bill Carr",
     "timestamp": "00:18:24",
     "context": "Lenny asks whether single-threaded leadership is about having one person's vision drive decisions. Bill clarifies that while there is one leader and team responsible, there's still an intensive review process where senior leadership scrutinizes and aligns on plans before teams execute. He's explaining how this creates clear accountability while ensuring alignment with company leadership.",
     "vocabulary_highlights": [
-      "sprint hard after their plan",
-      "those interchanges"
+      "aligned",
+      "sprint",
+      "interchanges",
+      "intensive"
     ],
     "topics": [
       "Leadership & Management",
@@ -98,16 +288,79 @@
     "text_ko": "그런데 좋은 점은 우리가 그런 논의들과 교류들을 한 번 마치고 나니까 팀들이 자기 계획을 가지고 마음껏 전력 질주(스프린트)할 수 있게 됐다는 거예요. '내가 CEO와 방향이 맞나? 시니어 부사장과 조율돼 있나?' 같은 걸 걱정할 필요가 없었고, 팀들은 이미 그렇게 맞춰져 있다는 걸 알 수 있었어요. 그리고 이렇게 되면 '이걸 정말로 해낼지'가 분명해지고, 그걸 해낼지는 결국 그 오너(owner)와 그 팀에게 달려 있어요.",
     "text_zh": "不过这样做的好处就是，一旦我们把这些讨论都搞定了，把想法都交流透了，团队就可以放开手脚去冲刺他们的计划了。他们不用再纠结什么\"我跟CEO的想法一致吗？我跟高级副总裁站在一条线上吗？\"这些问题，因为他们心里有数。当然了，这样一来责任就很明确了……能不能交付出来，就看那个负责人和他的团队了。",
     "text_es": "Lo hermoso de eso es que una vez que tuvimos esas conversaciones, esos intercambios, entonces los equipos pudieron lanzarse de lleno con su plan. Ya no tenían que preocuparse por si estaban alineados con el CEO o con el vicepresidente senior, ya sabían que sí lo estaban. Pero claro, esto crea una responsabilidad muy clara... Si van a cumplir o no, eso ya depende del responsable y su equipo.",
-    "key_sentence": "Teams were free to sprint hard after their plan following those interchanges."
+    "key_sentence": "Teams were free to sprint hard after their plan following those interchanges.",
+    "text_trimmed": true,
+    "original_text": "The beauty of that though is that once we'd had those discussions, those interchanges, then the teams were free to sprint hard after their plan. They didn't have to worry about whether was, 'Am I aligned with my CEO? Am I aligned with my senior vice president?' They could know that they were. But yes, this creates then clear... If they're going to deliver it or not. It's up to that owner and that team.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "aligned",
+        "definition": "In agreement or harmony with a particular standard, goal, or strategy.",
+        "businessContext": "In business settings, being aligned often refers to ensuring that team objectives and actions are consistent with the overall vision and goals of the organization.",
+        "nuance": "While 'aligned' suggests a positive coordination, it can imply a lack of independence if overemphasized.",
+        "synonyms": [
+          "coordinated",
+          "harmonized"
+        ],
+        "antonyms": [
+          "disaligned",
+          "conflicted"
+        ]
+      },
+      {
+        "word": "sprint",
+        "definition": "A short, intensive period of focused work aimed at achieving a specific goal or deliverable.",
+        "businessContext": "In agile project management, a sprint is a time-boxed effort where teams work collaboratively to complete a set of tasks or features within a defined timeframe.",
+        "nuance": "The term 'sprint' conveys urgency and speed, often used in tech environments, but may not be suitable for all project types where a more measured approach is needed.",
+        "synonyms": [
+          "burst",
+          "drive"
+        ],
+        "antonyms": [
+          "slow down",
+          "halt"
+        ]
+      },
+      {
+        "word": "interchanges",
+        "definition": "Exchanges or interactions between individuals or groups, often involving ideas, information, or feedback.",
+        "businessContext": "Interchanges in a business context can refer to discussions or meetings where stakeholders share insights and collaborate to refine strategies or resolve issues.",
+        "nuance": "While 'interchanges' suggests a two-way communication, it can imply a more formal or structured interaction compared to casual conversations.",
+        "synonyms": [
+          "exchanges",
+          "dialogues"
+        ],
+        "antonyms": [
+          "monologues",
+          "silence"
+        ]
+      },
+      {
+        "word": "intensive",
+        "definition": "Involving a high degree of effort, concentration, or resources over a short period.",
+        "businessContext": "Intensive programs or initiatives in business often require significant commitment and focus, such as training sessions or project phases that demand rapid results.",
+        "nuance": "The term 'intensive' can imply both a positive drive for excellence and a potential risk of burnout if not managed properly.",
+        "synonyms": [
+          "concentrated",
+          "rigorous"
+        ],
+        "antonyms": [
+          "light",
+          "superficial"
+        ]
+      }
+    ]
   },
   {
-    "text": "What it means is that have backbone and disagree, meaning when we are making any kind of a decision, important decision, if you are part of that team, part of that unit, it is your obligation to voice your point of view if you disagree with your approach that's been taken. The point of that disagreement, by the way, is to provide usually additional information or a new point of view that people have not considered.",
+    "text": "have backbone and disagree... it is your obligation to voice your point of view if you disagree... The point of that disagreement... is to provide usually additional information or a new point of view that people have not considered.",
     "speaker": "Bill Carr",
     "timestamp": "00:25:49",
     "context": "Lenny asks Bill to explain Amazon's 'disagree and commit' principle, noting that people often misunderstand it. Bill clarifies that it starts with 'have backbone' and explains the first part - that team members have an obligation to voice disagreement when they have different perspectives. The purpose is to bring new information or viewpoints to improve decision-making, not just to be contrarian.",
     "vocabulary_highlights": [
-      "have backbone and disagree",
-      "it is your obligation to voice your point of view"
+      "obligation",
+      "disagreement",
+      "perspective",
+      "considered"
     ],
     "topics": [
       "Leadership & Management",
@@ -123,16 +376,79 @@
     "text_ko": "이 말은 ‘소신을 가지고 반대하라(have backbone and disagree)’는 뜻이에요. 다시 말해 어떤 결정을—특히 중요한 결정일수록—내릴 때 팀이나 조직의 일원이라면 현재 취해진 접근 방식에 동의하지 않을 경우 자신의 관점을 말할 의무가 있어요. 그리고 그런 반대의 요지는 보통 사람들이 생각하지 못한 추가 정보나 새로운 시각을 제공하기 위해서예요.",
     "text_zh": "这个意思就是说要有骨气，该反对的时候就要反对。也就是说，当我们要做什么重要决定的时候，如果你是团队的一份子，你就有责任把自己的想法说出来，特别是当你不同意现在这个做法的时候。其实disagreement的目的呢，通常是为了提供一些额外的信息，或者是大家之前没有考虑到的新角度。",
     "text_es": "Esto significa que hay que tener agallas y estar en desacuerdo cuando sea necesario. O sea, cuando estamos tomando cualquier tipo de decisión importante, si formas parte de ese equipo, de esa unidad, es tu obligación expresar tu punto de vista si no estás de acuerdo con el enfoque que se está tomando. El objetivo de ese desacuerdo, por cierto, es aportar información adicional o una perspectiva nueva que la gente no ha considerado.",
-    "key_sentence": "Have backbone and disagree; voice your point of view if you disagree."
+    "key_sentence": "Have backbone and disagree; voice your point of view if you disagree.",
+    "text_trimmed": true,
+    "original_text": "What it means is that have backbone and disagree, meaning when we are making any kind of a decision, important decision, if you are part of that team, part of that unit, it is your obligation to voice your point of view if you disagree with your approach that's been taken. The point of that disagreement, by the way, is to provide usually additional information or a new point of view that people have not considered.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "obligation",
+        "definition": "A duty or commitment to perform a task or fulfill a responsibility, often arising from legal, moral, or social expectations.",
+        "businessContext": "In business, an obligation can refer to contractual duties, ethical responsibilities, or commitments to stakeholders that must be honored to maintain trust and integrity.",
+        "nuance": "While obligations can be seen as burdensome, they are often viewed positively as essential components of professional accountability.",
+        "synonyms": [
+          "duty",
+          "responsibility"
+        ],
+        "antonyms": [
+          "freedom",
+          "option"
+        ]
+      },
+      {
+        "word": "disagreement",
+        "definition": "A difference of opinion or a conflict in views between individuals or groups regarding a particular issue or decision.",
+        "businessContext": "Disagreements in a business setting can lead to constructive debates that foster innovation, but they must be managed carefully to avoid conflict and maintain team cohesion.",
+        "nuance": "Disagreement can imply a healthy exchange of ideas, but it may also carry a negative connotation if it escalates into unproductive conflict.",
+        "synonyms": [
+          "dissent",
+          "conflict"
+        ],
+        "antonyms": [
+          "agreement",
+          "consensus"
+        ]
+      },
+      {
+        "word": "perspective",
+        "definition": "A particular attitude or way of considering something, shaped by individual experiences, beliefs, and values.",
+        "businessContext": "In business, understanding diverse perspectives is crucial for effective decision-making, as it allows teams to evaluate problems and opportunities from multiple angles.",
+        "nuance": "The term often suggests a broader understanding or insight, and is used to encourage open-mindedness and inclusivity in discussions.",
+        "synonyms": [
+          "viewpoint",
+          "standpoint"
+        ],
+        "antonyms": [
+          "narrow-mindedness",
+          "bias"
+        ]
+      },
+      {
+        "word": "considered",
+        "definition": "Thoughtfully contemplated or taken into account, often implying careful analysis before reaching a conclusion or decision.",
+        "businessContext": "In a business context, a 'considered' approach to decision-making reflects thorough research and evaluation of all relevant factors, leading to more informed outcomes.",
+        "nuance": "While 'considered' suggests a positive, deliberate process, it can imply that alternatives were overlooked if not all viewpoints are acknowledged.",
+        "synonyms": [
+          "deliberate",
+          "thoughtful"
+        ],
+        "antonyms": [
+          "hasty",
+          "impulsive"
+        ]
+      }
+    ]
   },
   {
-    "text": "I got great advice actually from one of my managers at one point, Steve Kessel who said, 'You have to look for what that is, and then your job is to then take that kernel and try to run with it and expand it and try to see how I can take that idea, that concept, and then make it into something viable.'",
+    "text": "You have to look for what that is, and then your job is to then take that kernel and try to run with it and expand it.",
     "speaker": "Bill Carr",
     "timestamp": "00:30:37",
     "context": "Lenny asks Bill for advice on what to do when you still disagree after going through the disagree and commit process. Bill shares personal experience working with Jeff Bezos on ideas he didn't initially agree with. He explains how his manager Steve Kessel advised him to focus on the core kernel of the leader's thinking and try to make that concept viable, rather than just going through the motions.",
     "vocabulary_highlights": [
-      "take that kernel and try to run with it",
-      "make it into something viable"
+      "expand",
+      "run with it",
+      "disagree and commit",
+      "kernel"
     ],
     "topics": [
       "Leadership & Management",
@@ -148,16 +464,79 @@
     "text_ko": "사실 예전에 매니저였던 스티브 케슬에게서 정말 좋은 조언을 들었어요. \"그게 뭔지 찾아내고, 그 핵심(kernel)을 잡아서 그걸 바탕으로 직접 밀고 나가서 확장해 보고, 그 아이디어나 개념을 어떻게 실현 가능한 형태로 만들 수 있을지 보는 게 네 일이에요.\"",
     "text_zh": "其实我有个经理Steve Kessel给过我一个特别好的建议，他说：\"你得去找到那个点在哪里，然后你的工作就是抓住这个核心，去推进它，去扩展它，看看怎么能把这个想法、这个概念变成真正可行的东西。\"",
     "text_es": "Recibí un consejo buenísimo de uno de mis jefes, Steve Kessel, que me dijo: 'Tienes que buscar cuál es esa cosa, y entonces tu trabajo es agarrar esa semillita e intentar desarrollarla y expandirla, y ver cómo puedes tomar esa idea, ese concepto, y convertirlo en algo que realmente funcione.'",
-    "key_sentence": "Take that kernel and try to run with it to make it into something viable."
+    "key_sentence": "Take that kernel and try to run with it to make it into something viable.",
+    "text_trimmed": true,
+    "original_text": "I got great advice actually from one of my managers at one point, Steve Kessel who said, 'You have to look for what that is, and then your job is to then take that kernel and try to run with it and expand it and try to see how I can take that idea, that concept, and then make it into something viable.'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "expand",
+        "definition": "To increase in size, volume, or scope; to develop or elaborate on an idea or business.",
+        "businessContext": "In business, 'expand' often refers to growing a company’s operations, market reach, or product offerings to enhance profitability and competitiveness.",
+        "nuance": "While 'expand' generally has a positive connotation of growth, it can imply risk if not managed properly.",
+        "synonyms": [
+          "enlarge",
+          "broaden"
+        ],
+        "antonyms": [
+          "reduce",
+          "contract"
+        ]
+      },
+      {
+        "word": "run with it",
+        "definition": "To take an idea or plan and pursue it with enthusiasm and initiative.",
+        "businessContext": "In a business context, 'run with it' encourages team members to take ownership of a project or idea and drive it forward without waiting for further instructions.",
+        "nuance": "This phrase suggests a level of trust in the individual's judgment and creativity, but may not be suitable in highly structured environments.",
+        "synonyms": [
+          "take the initiative",
+          "pursue"
+        ],
+        "antonyms": [
+          "hesitate",
+          "abandon"
+        ]
+      },
+      {
+        "word": "disagree and commit",
+        "definition": "To express differing opinions or perspectives while ultimately supporting a decision made by the group or leadership.",
+        "businessContext": "This phrase is often used in team settings to promote open dialogue and constructive dissent, while ensuring that once a decision is made, everyone aligns and supports it.",
+        "nuance": "It emphasizes the importance of collaboration and respect for diverse viewpoints, but requires a strong culture of trust to be effective.",
+        "synonyms": [
+          "support despite disagreement",
+          "commit after discussion"
+        ],
+        "antonyms": [
+          "oppose",
+          "withdraw support"
+        ]
+      },
+      {
+        "word": "kernel",
+        "definition": "The essential, central, or most important part of something; a core idea or concept.",
+        "businessContext": "In business discussions, 'kernel' often refers to the foundational idea that can be developed into a larger strategy or product offering.",
+        "nuance": "Using 'kernel' conveys a sense of distillation and focus, making it suitable for discussions about innovation or strategic planning.",
+        "synonyms": [
+          "core",
+          "nucleus"
+        ],
+        "antonyms": [
+          "periphery",
+          "superficiality"
+        ]
+      }
+    ]
   },
   {
-    "text": "We took it as an article of faith that if we served customers well, if we prioritized customers and delivered for them, we took it as an article of faith that then things like sales, things like revenue and active customers and things like the share price and free cash flow would follow. So therefore, when we're making a decision thinking about a problem, we're going to start with what's best for the customer and then come backward from there.",
+    "text": "if we served customers well, if we prioritized customers and delivered for them... then things like sales, things like revenue... would follow... we're going to start with what's best for the customer and then come backward from there.",
     "speaker": "Bill Carr",
     "timestamp": "00:37:57",
     "context": "Lenny asks Bill to explain the concept of 'working backwards' and how it differs from working forwards. Bill describes Amazon's core philosophy of customer obsession, explaining that they believed as an article of faith that prioritizing customer needs would ultimately drive business success. This belief informed their decision-making process of starting with customer problems rather than business constraints.",
     "vocabulary_highlights": [
-      "took it as an article of faith",
-      "come backward from there"
+      "prioritized",
+      "delivered",
+      "core philosophy",
+      "customer obsession"
     ],
     "topics": [
       "Strategy & Planning",
@@ -173,6 +552,67 @@
     "text_ko": "저희는 고객에게 잘해드리고 고객을 최우선으로 삼아 가치를 제공하면, 매출(sales)이나 수익(revenue), 활성 고객 수(active customers), 주가(share price), 잉여현금흐름(free cash flow) 같은 것들이 자연스럽게 따라온다고 믿었어요. 그래서 문제를 고민하고 결정을 내릴 때는 항상 고객에게 무엇이 가장 좋은지부터 시작해서 거기서부터 역으로 생각해요.",
     "text_zh": "我们坚信一个道理，就是只要我们好好服务客户，把客户放在第一位，真正为他们交付价值，那么销售额啊、营收啊、活跃客户数啊，还有股价、自由现金流(free cash flow)这些东西自然就会跟上来。所以我们在做决策、思考问题的时候，都是先考虑什么对客户最好，然后再往回推。",
     "text_es": "Nosotros teníamos la convicción absoluta de que si atendíamos bien a los clientes, si los poníamos como prioridad y les cumplíamos, teníamos la fe ciega de que entonces todo lo demás iba a venir solo: las ventas, los ingresos, los clientes activos, el precio de las acciones y el flujo de caja libre (free cash flow). Por eso, cuando estamos tomando una decisión o analizando un problema, siempre arrancamos preguntándonos qué es lo mejor para el cliente y de ahí trabajamos hacia atrás.",
-    "key_sentence": "We took it as an article of faith that serving customers well drives success."
+    "key_sentence": "we're going to start with what's best for the customer and then come backward from there.",
+    "text_trimmed": true,
+    "original_text": "We took it as an article of faith that if we served customers well, if we prioritized customers and delivered for them, we took it as an article of faith that then things like sales, things like revenue and active customers and things like the share price and free cash flow would follow. So therefore, when we're making a decision thinking about a problem, we're going to start with what's best for the customer and then come backward from there.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "prioritized",
+        "definition": "To arrange or deal with tasks or issues in order of importance or urgency.",
+        "businessContext": "In business settings, prioritizing often refers to the allocation of resources or attention to projects that align with strategic goals or customer needs.",
+        "nuance": "This term conveys a sense of urgency and importance, suggesting that some tasks are more critical than others; it should be used when discussing decision-making processes.",
+        "synonyms": [
+          "ranked",
+          "emphasized"
+        ],
+        "antonyms": [
+          "deprioritized",
+          "neglected"
+        ]
+      },
+      {
+        "word": "delivered",
+        "definition": "To provide or bring something to a specified destination or to fulfill a promise or commitment.",
+        "businessContext": "In a business context, delivering can refer to meeting deadlines, fulfilling customer orders, or achieving project milestones.",
+        "nuance": "This term often implies reliability and accountability; it should be used when discussing the successful completion of tasks or commitments.",
+        "synonyms": [
+          "provided",
+          "fulfilled"
+        ],
+        "antonyms": [
+          "failed",
+          "withheld"
+        ]
+      },
+      {
+        "word": "core philosophy",
+        "definition": "The fundamental beliefs or principles that guide an organization’s actions and decision-making processes.",
+        "businessContext": "In business, a core philosophy shapes company culture, influences strategic direction, and informs how employees interact with customers and each other.",
+        "nuance": "This phrase suggests a deep-rooted and enduring set of values; it should be used when discussing foundational beliefs that drive organizational behavior.",
+        "synonyms": [
+          "fundamental principles",
+          "guiding values"
+        ],
+        "antonyms": [
+          "superficial beliefs",
+          "N/A"
+        ]
+      },
+      {
+        "word": "customer obsession",
+        "definition": "A business approach that prioritizes understanding and meeting the needs and desires of customers above all else.",
+        "businessContext": "In tech and startup environments, customer obsession is often seen as a key driver of innovation and competitive advantage, leading to enhanced customer satisfaction and loyalty.",
+        "nuance": "This term carries a positive connotation of dedication to customer service; it should be used when emphasizing a strong commitment to customer-centric practices.",
+        "synonyms": [
+          "customer-centricity",
+          "client focus"
+        ],
+        "antonyms": [
+          "customer indifference",
+          "N/A"
+        ]
+      }
+    ]
   }
 ]

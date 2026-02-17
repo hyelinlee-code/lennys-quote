@@ -1,14 +1,14 @@
 [
   {
-    "text": "The core of product management is competency-based, meaning there is someone in an organization that represents the customer the best, that has a deep knowledge of the customers and your users, that has a deep knowledge of your data, your industry, your business and the product itself.",
+    "text": "The core of product management is competency-based, meaning there is someone in an organization that represents the customer the best, that has a deep knowledge of the customers and your users.",
     "speaker": "Christian Idiodi",
     "timestamp": "00:04:59",
     "context": "Lenny discusses the common dislike for product managers and asks Christian why this is often the case. Christian explains that many people dislike product managers because they have not experienced effective ones. He highlights that the role of a product manager should be competency-based, where they possess deep knowledge about customers, data, and the product, allowing them to make informed decisions that benefit the organization.",
     "vocabulary_highlights": [
       "competency-based",
-      "represent the customer",
-      "deep knowledge",
-      "mistrust"
+      "represents",
+      "knowledge",
+      "organization"
     ],
     "topics": [
       "Product Management",
@@ -23,7 +23,68 @@
     "text_ko": "제품 관리의 핵심은 역량 기반이에요. 즉, 고객을 가장 잘 대변하는 사람이 조직 내에 있어야 하고, 고객과 사용자에 대한 깊은 이해가 필요해요. 그리고 데이터, 산업, 비즈니스, 제품 자체에 대해서도 잘 알아야 해요.",
     "text_zh": "产品管理的核心是基于能力的，这意味着在一个组织中，有人能够最好地代表客户，具备对客户和用户的深刻理解，同时对数据、行业、业务和产品本身也有深入的了解。",
     "text_es": "El núcleo de la gestión de productos se basa en competencias, lo que significa que hay alguien en la organización que representa mejor al cliente, que tiene un profundo conocimiento de los clientes y los usuarios, así como un amplio entendimiento de tus datos, tu industria, tu negocio y el producto en sí.",
-    "key_sentence": "Product management is competency-based, representing the customer with deep knowledge."
+    "key_sentence": "Product management is competency-based, representing the customer with deep knowledge.",
+    "text_trimmed": true,
+    "original_text": "The core of product management is competency-based, meaning there is someone in an organization that represents the customer the best, that has a deep knowledge of the customers and your users, that has a deep knowledge of your data, your industry, your business and the product itself.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "competency-based",
+        "definition": "Referring to an approach that focuses on the specific skills and abilities required to perform a task or role effectively.",
+        "businessContext": "In business and tech environments, competency-based frameworks are often used for employee training, performance evaluation, and recruitment to ensure that individuals possess the necessary skills for their positions.",
+        "nuance": "This term emphasizes measurable skills rather than traditional qualifications, making it particularly relevant in dynamic industries where adaptability is crucial.",
+        "synonyms": [
+          "skill-based",
+          "performance-oriented"
+        ],
+        "antonyms": [
+          "knowledge-based",
+          "theory-driven"
+        ]
+      },
+      {
+        "word": "represents",
+        "definition": "To act or speak on behalf of someone or something, often embodying their interests or characteristics.",
+        "businessContext": "In a business context, a representative may advocate for customer needs, ensuring that their perspectives are considered in product development and decision-making processes.",
+        "nuance": "The term carries a connotation of authority and responsibility, suggesting that the individual has a deep understanding of the entity they represent.",
+        "synonyms": [
+          "embodies",
+          "advocates"
+        ],
+        "antonyms": [
+          "misrepresents",
+          "disregards"
+        ]
+      },
+      {
+        "word": "knowledge",
+        "definition": "Information, understanding, or skills acquired through experience or education; the theoretical or practical understanding of a subject.",
+        "businessContext": "In business, knowledge is a critical asset that drives innovation, informs strategy, and enhances decision-making, particularly in customer-focused roles.",
+        "nuance": "While often associated with formal education, knowledge can also be experiential, highlighting the importance of real-world application in professional settings.",
+        "synonyms": [
+          "expertise",
+          "insight"
+        ],
+        "antonyms": [
+          "ignorance",
+          "inexperience"
+        ]
+      },
+      {
+        "word": "organization",
+        "definition": "A structured group of people working together to achieve common goals, often characterized by defined roles and responsibilities.",
+        "businessContext": "In the business world, organizations can range from small startups to large corporations, and their structure influences efficiency, culture, and overall performance.",
+        "nuance": "The term can also imply a level of formality and systematic arrangement, distinguishing it from informal groups or networks.",
+        "synonyms": [
+          "company",
+          "enterprise"
+        ],
+        "antonyms": [
+          "disorganization",
+          "chaos"
+        ]
+      }
+    ]
   },
   {
     "text": "I often say to him, I say, 'Well, Bob said put up manager.' And it's often interesting to executives when I try to explain that way. I say that's the competent level that we're talking about here.",
@@ -31,9 +92,10 @@
     "timestamp": "00:06:10",
     "context": "In response to Lenny's question about the dislike for product managers, Christian illustrates how executives often trust long-serving employees over product managers due to their perceived competence. He uses the example of a hypothetical Bob, who has been with the company for a long time and is trusted to make decisions, to emphasize that product managers must demonstrate their competency to be respected and trusted in their decision-making.",
     "vocabulary_highlights": [
-      "competent level",
-      "displaced influence",
-      "mistrust"
+      "competent",
+      "executives",
+      "perceived",
+      "illustrate"
     ],
     "topics": [
       "Leadership & Management",
@@ -48,7 +110,66 @@
     "text_ko": "저는 그에게 자주 이렇게 말해요, '음, 밥이 매니저를 세우라고 했어.' 이렇게 설명하면 경영진들이 흥미롭게 생각하는 경우가 많아요. 제가 말하는 건 우리가 이야기하는 유능한 수준이라는 거예요.",
     "text_zh": "我常对他说：“好吧，鲍勃说要提升经理。”我发现这样解释对高管们来说通常很有趣。我说，这就是我们所谈论的能力水平。",
     "text_es": "A menudo le digo, 'Bueno, Bob dijo que se debe poner al gerente.' Y suele ser interesante para los ejecutivos cuando trato de explicarlo de esa manera. Digo que ese es el nivel de competencia (competent level) del que estamos hablando aquí.",
-    "key_sentence": "That's the competent level we're discussing here."
+    "key_sentence": "That's the competent level we're discussing here.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "competent",
+        "definition": "Having the necessary ability, knowledge, or skill to do something successfully.",
+        "businessContext": "In business, a competent employee is one who meets the required standards and can perform tasks effectively, contributing to overall organizational success.",
+        "nuance": "While 'competent' implies a satisfactory level of skill, it may lack the connotation of excellence or exceptional performance.",
+        "synonyms": [
+          "capable",
+          "proficient"
+        ],
+        "antonyms": [
+          "incompetent",
+          "inept"
+        ]
+      },
+      {
+        "word": "executives",
+        "definition": "Individuals with senior managerial responsibilities in an organization, typically involved in strategic decision-making.",
+        "businessContext": "Executives play a crucial role in shaping company policies, overseeing operations, and driving organizational growth and innovation.",
+        "nuance": "The term often implies authority and high-level responsibility, distinguishing these individuals from lower-level managers or staff.",
+        "synonyms": [
+          "leaders",
+          "administrators"
+        ],
+        "antonyms": [
+          "subordinates",
+          "employees"
+        ]
+      },
+      {
+        "word": "perceived",
+        "definition": "Regarded or interpreted in a particular way by individuals or groups.",
+        "businessContext": "In business, how a product, service, or brand is perceived by consumers can significantly influence market success and customer loyalty.",
+        "nuance": "The term suggests that perception may not always align with reality, highlighting the importance of branding and communication.",
+        "synonyms": [
+          "viewed",
+          "recognized"
+        ],
+        "antonyms": [
+          "ignored",
+          "overlooked"
+        ]
+      },
+      {
+        "word": "illustrate",
+        "definition": "To explain or make something clear by providing examples, diagrams, or visual representations.",
+        "businessContext": "In presentations and reports, professionals often illustrate concepts to enhance understanding and engage their audience effectively.",
+        "nuance": "While 'illustrate' can refer to visual aids, it can also encompass verbal explanations that clarify complex ideas.",
+        "synonyms": [
+          "demonstrate",
+          "exemplify"
+        ],
+        "antonyms": [
+          "confuse",
+          "obscure"
+        ]
+      }
+    ]
   },
   {
     "text": "There is this period of humility that I challenge all product managers to have, this period of learning, recognizing what you do not know.",
@@ -56,9 +177,10 @@
     "timestamp": "00:08:39",
     "context": "Lenny asks Christian how product managers can become more effective and less disliked. Christian stresses the importance of humility and a willingness to learn for product managers. He suggests that they should recognize their limitations and actively seek mentorship and knowledge from experienced colleagues to build their competence and trust within the organization.",
     "vocabulary_highlights": [
-      "period of humility",
+      "humility",
       "challenge",
-      "recognizing limitations"
+      "recognizing",
+      "effective"
     ],
     "topics": [
       "Coaching & Development",
@@ -73,7 +195,66 @@
     "text_ko": "모든 제품 관리자에게 도전하고 싶은 겸손의 시기가 있어요. 배우고, 내가 모르는 것을 인식하는 그런 시기요.",
     "text_zh": "我鼓励所有产品经理经历一个谦逊的阶段，这是一个学习的过程，认识到自己所不知道的事情。",
     "text_es": "Hay un período de humildad que desafío a todos los gerentes de producto a tener, un período de aprendizaje, reconociendo lo que no saben.",
-    "key_sentence": "Embrace a period of humility, recognizing what you do not know."
+    "key_sentence": "Embrace a period of humility, recognizing what you do not know.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "humility",
+        "definition": "The quality of having a modest view of one's own importance; a lack of arrogance or pride.",
+        "businessContext": "In business, humility is essential for leaders and team members to foster collaboration, accept feedback, and acknowledge their limitations, which can lead to personal and organizational growth.",
+        "nuance": "While humility is often seen as a virtue, it can be perceived as a weakness in highly competitive environments if not balanced with confidence.",
+        "synonyms": [
+          "modesty",
+          "humbleness"
+        ],
+        "antonyms": [
+          "pride",
+          "arrogance"
+        ]
+      },
+      {
+        "word": "challenge",
+        "definition": "A call to engage in a contest or a task that requires significant effort and skill to overcome obstacles.",
+        "businessContext": "In the context of business and startups, challenges often refer to problems or obstacles that teams must address to achieve their goals, driving innovation and improvement.",
+        "nuance": "The term can imply a positive opportunity for growth or a negative burden, depending on the context in which it is used.",
+        "synonyms": [
+          "obstacle",
+          "test"
+        ],
+        "antonyms": [
+          "ease",
+          "solution"
+        ]
+      },
+      {
+        "word": "recognizing",
+        "definition": "The act of identifying or acknowledging something or someone, often involving awareness or appreciation.",
+        "businessContext": "In business, recognizing team members' contributions or understanding market trends is crucial for fostering a positive work environment and making informed decisions.",
+        "nuance": "This term often carries a positive connotation, suggesting validation and appreciation, but can also imply a need for awareness of shortcomings.",
+        "synonyms": [
+          "acknowledging",
+          "identifying"
+        ],
+        "antonyms": [
+          "ignoring",
+          "overlooking"
+        ]
+      },
+      {
+        "word": "effective",
+        "definition": "Producing a desired or intended result; capable of achieving goals efficiently.",
+        "businessContext": "In business and technology, being effective means implementing strategies, processes, or tools that yield successful outcomes and drive performance.",
+        "nuance": "While 'effective' suggests success, it does not necessarily imply efficiency; thus, a solution can be effective but not efficient.",
+        "synonyms": [
+          "efficient",
+          "successful"
+        ],
+        "antonyms": [
+          "ineffective",
+          "unproductive"
+        ]
+      }
+    ]
   },
   {
     "text": "I always practically advise product managers in this kind of scenario, build relationships with people. You earn their trust by asking them to do two things. One, you're either going to teach me or I'm going to help you.",
@@ -83,7 +264,8 @@
     "vocabulary_highlights": [
       "build relationships",
       "earn trust",
-      "collaborative approach"
+      "practical advice",
+      "rapport"
     ],
     "topics": [
       "Networking",
@@ -98,7 +280,66 @@
     "text_ko": "이런 상황에서는 제품 관리자들에게 항상 이렇게 조언해요. 사람들과 관계를 잘 쌓아야 해요. 신뢰를 얻으려면 두 가지를 요청하면 돼요. 하나는, 당신이 나에게 가르쳐주거나, 아니면 내가 당신을 도와줄게요.",
     "text_zh": "在这种情况下，我总是建议产品经理建立人际关系。通过让他们做两件事来赢得他们的信任。第一，你要么教我，要么我来帮助你。",
     "text_es": "Siempre aconsejo a los gerentes de producto en este tipo de situaciones que construyan relaciones con las personas. Ganas su confianza pidiéndoles que hagan dos cosas. Primero, o me vas a enseñar o yo te voy a ayudar.",
-    "key_sentence": "Build relationships to earn trust through collaboration."
+    "key_sentence": "Build relationships to earn trust through collaboration.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "build relationships",
+        "definition": "To establish and develop connections or associations with others, often based on mutual respect and understanding.",
+        "businessContext": "In business, building relationships is crucial for networking, collaboration, and fostering a positive work environment, particularly in team dynamics and client interactions.",
+        "nuance": "This phrase emphasizes the importance of ongoing engagement and trust rather than superficial connections.",
+        "synonyms": [
+          "forge connections",
+          "cultivate partnerships"
+        ],
+        "antonyms": [
+          "alienate",
+          "estrange"
+        ]
+      },
+      {
+        "word": "earn trust",
+        "definition": "To gain the confidence and reliance of others through consistent actions, integrity, and transparency.",
+        "businessContext": "Earning trust is vital in business relationships, as it leads to stronger collaborations, better teamwork, and increased customer loyalty.",
+        "nuance": "This phrase suggests a gradual process that requires effort and authenticity, rather than an immediate or assumed status.",
+        "synonyms": [
+          "gain credibility",
+          "establish reliability"
+        ],
+        "antonyms": [
+          "lose trust",
+          "betray confidence"
+        ]
+      },
+      {
+        "word": "practical advice",
+        "definition": "Guidance that is realistic, actionable, and applicable to real-world situations, often based on experience or expertise.",
+        "businessContext": "In a business setting, practical advice is essential for decision-making, problem-solving, and strategic planning, as it provides clear steps to achieve desired outcomes.",
+        "nuance": "This phrase implies that the advice is not just theoretical but can be directly implemented in everyday scenarios.",
+        "synonyms": [
+          "actionable insights",
+          "realistic recommendations"
+        ],
+        "antonyms": [
+          "theoretical guidance",
+          "abstract suggestions"
+        ]
+      },
+      {
+        "word": "rapport",
+        "definition": "A harmonious relationship characterized by mutual understanding, trust, and respect between individuals.",
+        "businessContext": "Building rapport is essential in business for effective communication, negotiation, and teamwork, as it fosters a collaborative atmosphere.",
+        "nuance": "This term often implies a deeper emotional connection that enhances interpersonal interactions, beyond mere professional acquaintance.",
+        "synonyms": [
+          "connection",
+          "relationship"
+        ],
+        "antonyms": [
+          "disconnection",
+          "antagonism"
+        ]
+      }
+    ]
   },
   {
     "text": "The holy grail of product work is really a reference customer. This is somebody that has used your solution or your product, loves it enough to tell people about it.",
@@ -106,9 +347,10 @@
     "timestamp": "00:17:35",
     "context": "Lenny asks Christian about the most effective method for discovering what to build in product management. Christian highlights the importance of reference customers—those who not only use the product but also advocate for it to others. He underscores that reference customers are critical because their endorsement can significantly influence future customers and validate the product's value.",
     "vocabulary_highlights": [
-      "holy grail",
       "reference customer",
-      "advocate"
+      "solution",
+      "effective method",
+      "product management"
     ],
     "topics": [
       "Product Management",
@@ -123,7 +365,66 @@
     "text_ko": "제품 작업의 성배는 사실상 레퍼런스 고객이에요. 이 고객은 당신의 솔루션이나 제품을 사용해보고, 그걸 정말 좋아해서 다른 사람들에게 추천해주는 사람이죠.",
     "text_zh": "产品工作的圣杯实际上是一个参考客户。这是一个已经使用过你的解决方案或产品，并且非常喜欢，以至于愿意向他人推荐的人。",
     "text_es": "El santo grial del trabajo de producto es, en realidad, un cliente de referencia. Esta es una persona que ha utilizado tu solución o tu producto y lo ama lo suficiente como para recomendarlo a otros.",
-    "key_sentence": "The holy grail of product work is a reference customer advocate."
+    "key_sentence": "The holy grail of product work is a reference customer advocate.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "reference customer",
+        "definition": "A reference customer is a client who has successfully used a company's product or service and is willing to endorse it publicly.",
+        "businessContext": "In business, particularly in sales and marketing, reference customers are valuable as they provide credibility and social proof, helping to attract new clients.",
+        "nuance": "This term is often used in contexts where trust and validation are critical, such as in B2B sales, but may not be appropriate for casual or informal discussions.",
+        "synonyms": [
+          "testimonial client",
+          "advocate"
+        ],
+        "antonyms": [
+          "dissatisfied customer",
+          "critic"
+        ]
+      },
+      {
+        "word": "solution",
+        "definition": "A solution refers to a product or service designed to address a specific problem or need faced by customers.",
+        "businessContext": "In the business and tech sectors, the term is frequently used to describe offerings that provide value by resolving challenges for clients, often in the context of software or consulting services.",
+        "nuance": "While 'solution' implies a comprehensive answer to a problem, it can sometimes be overused in marketing, leading to vagueness; thus, clarity about the specific problem addressed is essential.",
+        "synonyms": [
+          "answer",
+          "resolution"
+        ],
+        "antonyms": [
+          "problem",
+          "issue"
+        ]
+      },
+      {
+        "word": "effective method",
+        "definition": "An effective method is a systematic approach or technique that successfully achieves desired outcomes or results.",
+        "businessContext": "In business, identifying and implementing effective methods is crucial for optimizing processes, improving productivity, and ensuring successful project outcomes.",
+        "nuance": "This phrase emphasizes not just any method, but one that has been proven to work well; it is often used in discussions about best practices and efficiency.",
+        "synonyms": [
+          "efficient technique",
+          "successful approach"
+        ],
+        "antonyms": [
+          "ineffective method",
+          "inefficient technique"
+        ]
+      },
+      {
+        "word": "product management",
+        "definition": "Product management is the organizational function responsible for guiding the development, marketing, and lifecycle of a product, ensuring it meets customer needs and business goals.",
+        "businessContext": "In tech and startup environments, product management plays a critical role in aligning cross-functional teams and making strategic decisions about product features and market positioning.",
+        "nuance": "The term encompasses a broad range of activities, from market research to product launch, and is often associated with a collaborative and iterative approach to product development.",
+        "synonyms": [
+          "product development",
+          "product strategy"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "You will get all the answers, the research, the failure, the mistakes, all the evidence. You know the difference between what people say, this is what they do.",
@@ -131,9 +432,10 @@
     "timestamp": "00:47:00",
     "context": "In discussing the discovery process in product management, Christian emphasizes the importance of hands-on problem-solving over traditional research methods. He argues that direct engagement with customers will yield real insights and evidence about their needs, contrasting this with the often unreliable nature of what customers verbally express they want.",
     "vocabulary_highlights": [
+      "evidence",
+      "discovery process",
       "hands-on problem-solving",
-      "unreliable",
-      "evidence"
+      "traditional research methods"
     ],
     "topics": [
       "Product Management",
@@ -148,6 +450,65 @@
     "text_ko": "모든 답변과 연구, 실패, 실수, 그리고 모든 증거를 얻게 될 거예요. 사람들이 하는 말과 실제 행동의 차이를 아는 게 중요해요.",
     "text_zh": "你将获得所有的答案、研究、失败、错误和所有证据。你知道人们所说的与他们实际所做的之间的区别。",
     "text_es": "Obtendrás todas las respuestas, la investigación, los fracasos, los errores, toda la evidencia. Sabes la diferencia entre lo que la gente dice y lo que realmente hace.",
-    "key_sentence": "Hands-on problem-solving reveals the difference between what people say and do."
+    "key_sentence": "Hands-on problem-solving reveals the difference between what people say and do.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "evidence",
+        "definition": "Information or data that supports a claim or argument, often used to validate findings or assertions.",
+        "businessContext": "In business and research, evidence is crucial for making informed decisions, justifying strategies, and demonstrating the effectiveness of products or services.",
+        "nuance": "While 'evidence' generally implies factual support, it can also carry a connotation of skepticism when questioning the validity of claims.",
+        "synonyms": [
+          "proof",
+          "testimony"
+        ],
+        "antonyms": [
+          "disproof",
+          "contradiction"
+        ]
+      },
+      {
+        "word": "discovery process",
+        "definition": "A systematic approach to identifying and understanding new information, insights, or innovations in a particular field.",
+        "businessContext": "In startups and tech, the discovery process is essential for product development, allowing teams to explore user needs and market gaps before launching solutions.",
+        "nuance": "This term often implies a methodical and iterative approach, contrasting with more linear or rigid methodologies.",
+        "synonyms": [
+          "exploration phase",
+          "innovation cycle"
+        ],
+        "antonyms": [
+          "conclusion phase",
+          "finalization process"
+        ]
+      },
+      {
+        "word": "hands-on problem-solving",
+        "definition": "An active approach to addressing challenges that involves direct engagement and practical application of skills and knowledge.",
+        "businessContext": "In tech and startups, hands-on problem-solving is valued for its ability to quickly iterate solutions and adapt to real-world challenges through experimentation.",
+        "nuance": "This phrase suggests a proactive and experiential learning style, which may be preferred over theoretical or abstract approaches in dynamic environments.",
+        "synonyms": [
+          "practical problem-solving",
+          "experiential learning"
+        ],
+        "antonyms": [
+          "theoretical problem-solving",
+          "passive analysis"
+        ]
+      },
+      {
+        "word": "traditional research methods",
+        "definition": "Established techniques for gathering and analyzing data, often characterized by structured approaches such as surveys, interviews, and statistical analysis.",
+        "businessContext": "In business contexts, traditional research methods are used to gather reliable data for market analysis, consumer behavior studies, and academic research.",
+        "nuance": "While these methods are reliable, they may be perceived as less innovative compared to modern, agile research techniques that leverage technology and real-time data.",
+        "synonyms": [
+          "conventional research techniques",
+          "standard research approaches"
+        ],
+        "antonyms": [
+          "innovative research methods",
+          "agile research techniques"
+        ]
+      }
+    ]
   }
 ]

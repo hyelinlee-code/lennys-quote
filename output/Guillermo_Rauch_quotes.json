@@ -1,13 +1,14 @@
 [
   {
-    "text": "Taste, sometimes I think we think of as this inaccessible thing that, \"Oh, that person was born with taste.\" I see it as a skill that it can develop. I think is extremely important to try lots of products. We have one of our internal operating principles as increasing exposure hours. Try to quantify how much time you expose yourself to watching how people use your products and you'll develop that muscle.",
+    "text": "Taste, sometimes I think we think of as this inaccessible thing that, \"Oh, that person was born with taste.\" I see it as a skill that it can develop. I think is extremely important to try lots of products.",
     "speaker": "Guillermo Rauch",
     "timestamp": "00:00:52",
     "context": "Lenny asks Guillermo about building taste, a quality people often struggle to develop when creating products. Guillermo explains that taste isn't an innate gift but rather a developable skill. He shares Vercel's internal principle of \"increasing exposure hours\" - deliberately spending time observing how people interact with products to build better product intuition.",
     "vocabulary_highlights": [
-      "inaccessible thing",
-      "exposure hours",
-      "develop that muscle"
+      "inaccessible",
+      "develop",
+      "extremely important",
+      "skill"
     ],
     "topics": [
       "Product Management",
@@ -23,17 +24,79 @@
     "text_ko": "미적 감각은 가끔 '그 사람은 타고났어' 하고 도달할 수 없는 것으로 여겨지는 것 같아요. 저는 미적 감각을 개발할 수 있는 기술이라고 봐요. 여러 제품을 많이 써보는 게 정말 중요하다고 생각해요. 우리 회사의 내부 운영 원칙(internal operating principles) 중 하나는 노출 시간(exposure hours)을 늘리는 거예요. 사람들이 우리 제품을 어떻게 쓰는지 지켜보는 데 자신을 얼마나 노출시키는지, 그 시간을 정량화해 보세요. 그러면 그 근육이 길러져요.",
     "text_zh": "品味这个东西，有时候我觉得大家都认为这是天生的，觉得\"哎呀，那个人就是天生有品味\"。但我把它看成是一种可以培养的技能。我觉得多体验各种产品特别重要。我们有一个内部运营原则叫做增加接触时长(increasing exposure hours)。你要量化一下自己花了多少时间去观察用户怎么使用你的产品，这样你就能锻炼出这种感觉来。",
     "text_es": "El buen gusto, a veces creo que lo vemos como algo inalcanzable, como \"ay, esa persona nació con buen gusto.\" Yo lo veo como una habilidad que se puede desarrollar. Creo que es súper importante probar muchos productos. Tenemos uno de nuestros principios operativos internos que es aumentar las horas de exposición (exposure hours). Trata de cuantificar cuánto tiempo te expones a observar cómo la gente usa tus productos y vas a desarrollar ese músculo.",
-    "key_sentence": "Taste is a skill that can develop through exposure hours."
+    "key_sentence": "Taste is a skill that can develop through exposure hours.",
+    "text_trimmed": true,
+    "original_text": "Taste, sometimes I think we think of as this inaccessible thing that, \"Oh, that person was born with taste.\" I see it as a skill that it can develop. I think is extremely important to try lots of products. We have one of our internal operating principles as increasing exposure hours. Try to quantify how much time you expose yourself to watching how people use your products and you'll develop that muscle.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "inaccessible",
+        "definition": "Not able to be reached, entered, or obtained; difficult to access or understand.",
+        "businessContext": "In business, 'inaccessible' can refer to markets, resources, or information that are difficult for a company to reach or utilize, potentially limiting growth opportunities.",
+        "nuance": "While often used to describe physical barriers, it can also imply a lack of understanding or availability in a metaphorical sense.",
+        "synonyms": [
+          "unreachable",
+          "unattainable"
+        ],
+        "antonyms": [
+          "accessible",
+          "available"
+        ]
+      },
+      {
+        "word": "develop",
+        "definition": "To grow or cause to grow and become more mature, advanced, or elaborate.",
+        "businessContext": "In a business context, 'develop' often refers to the process of creating new products, services, or strategies to enhance competitiveness and meet market demands.",
+        "nuance": "This term suggests a gradual process of improvement and innovation rather than immediate change.",
+        "synonyms": [
+          "cultivate",
+          "advance"
+        ],
+        "antonyms": [
+          "stagnate",
+          "regress"
+        ]
+      },
+      {
+        "word": "extremely important",
+        "definition": "Of the highest significance or value; crucial for success or effectiveness.",
+        "businessContext": "In business discussions, labeling something as 'extremely important' emphasizes its critical role in decision-making, strategy formulation, or operational success.",
+        "nuance": "This phrase conveys urgency and priority, suggesting that neglecting the matter could lead to significant consequences.",
+        "synonyms": [
+          "crucial",
+          "vital"
+        ],
+        "antonyms": [
+          "insignificant",
+          "trivial"
+        ]
+      },
+      {
+        "word": "skill",
+        "definition": "The ability to do something well, usually gained through training or experience.",
+        "businessContext": "In the business world, 'skill' refers to the competencies that employees possess, which are essential for performing tasks effectively and contributing to organizational success.",
+        "nuance": "While often associated with technical abilities, 'skill' can also encompass soft skills such as communication and teamwork.",
+        "synonyms": [
+          "expertise",
+          "proficiency"
+        ],
+        "antonyms": [
+          "incompetence",
+          "ineptitude"
+        ]
+      }
+    ]
   },
   {
-    "text": "A lot of the programming jobs to be done that used to be specializations, I think, are going away, in a way. They're translation tasks, but knowing how things work under the hood is going to be very important for you because you're going to be able to influence the model and make it follow your intention a lot better.",
+    "text": "A lot of the programming jobs to be done that used to be specializations, I think, are going away, in a way.",
     "speaker": "Guillermo Rauch",
     "timestamp": "00:00:34",
     "context": "Lenny asks about the future of engineering careers and whether people should still learn to code. Guillermo explains that many programming tasks are essentially translation jobs (like converting designs to code) that AI can now handle. However, he emphasizes that understanding the underlying systems and technologies remains crucial because this knowledge helps you communicate more effectively with AI models.",
     "vocabulary_highlights": [
-      "jobs to be done",
-      "under the hood",
-      "follow your intention"
+      "specializations",
+      "programming",
+      "translation",
+      "tasks"
     ],
     "topics": [
       "Career Development",
@@ -49,17 +112,79 @@
     "text_ko": "예전엔 전문화된 일이었던 많은 프로그래밍 업무들이, 어떤 면에선 사라지고 있는 것 같아요. 그런 일들이 번역 작업(translation tasks) 같은 성격이긴 한데, 내부 작동 방식(under the hood)을 아는 건 아주 중요해질 거예요. 그래야 모델(model)에 영향을 줘서 여러분의 의도(intention)를 훨씬 더 잘 따르게 만들 수 있으니까요.",
     "text_zh": "我觉得以前那些需要专门技能的编程工作，很多都在慢慢消失。它们更像是翻译任务了，但是你得真正懂底层原理，这对你来说会非常重要，因为只有这样你才能更好地引导模型，让它按照你的想法去执行。",
     "text_es": "Muchos de los trabajos de programación que antes eran especializaciones, creo que van a desaparecer, de cierta manera. Son tareas de traducción, pero saber cómo funcionan las cosas por dentro va a ser súper importante para ti porque vas a poder influir en el modelo y lograr que siga tu intención mucho mejor.",
-    "key_sentence": "Understanding how things work under the hood is crucial for influencing the model."
+    "key_sentence": "A lot of the programming jobs to be done that used to be specializations, I think, are going away, in a way.",
+    "text_trimmed": true,
+    "original_text": "A lot of the programming jobs to be done that used to be specializations, I think, are going away, in a way. They're translation tasks, but knowing how things work under the hood is going to be very important for you because you're going to be able to influence the model and make it follow your intention a lot better.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "specializations",
+        "definition": "Specializations refer to specific areas of expertise or focused skill sets within a broader field. They allow individuals or organizations to concentrate their efforts on particular tasks or industries.",
+        "businessContext": "In business and technology, specializations can determine the division of labor, with professionals focusing on niche areas to enhance efficiency and innovation.",
+        "nuance": "While 'specializations' implies a depth of knowledge, it can also suggest a limitation in versatility; it is often used when discussing roles that require deep expertise.",
+        "synonyms": [
+          "expertise",
+          "niche"
+        ],
+        "antonyms": [
+          "generalization",
+          "broadness"
+        ]
+      },
+      {
+        "word": "programming",
+        "definition": "Programming is the process of designing and building executable computer software to accomplish a specific task. It involves writing code in various programming languages.",
+        "businessContext": "In tech startups, programming is essential for developing software products, automating processes, and enhancing user experiences, making it a core competency for tech teams.",
+        "nuance": "The term 'programming' can imply both the technical aspects of coding and the strategic planning involved in software development; it is often used in discussions about software engineering and product development.",
+        "synonyms": [
+          "coding",
+          "software development"
+        ],
+        "antonyms": [
+          "deprogramming",
+          "N/A"
+        ]
+      },
+      {
+        "word": "translation",
+        "definition": "Translation is the process of converting text or speech from one language to another while maintaining the original meaning. It can also refer to the adaptation of content for different cultural contexts.",
+        "businessContext": "In a globalized business environment, translation services are crucial for effective communication, marketing, and legal compliance across different markets and cultures.",
+        "nuance": "While 'translation' primarily refers to language conversion, it can also imply a deeper cultural adaptation; it is important to use this term when discussing multilingual communication strategies.",
+        "synonyms": [
+          "interpretation",
+          "conversion"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "tasks",
+        "definition": "Tasks are specific pieces of work or activities that need to be completed as part of a larger project or goal. They can vary in complexity and duration.",
+        "businessContext": "In project management, tasks are often assigned to team members to ensure that projects are completed efficiently and on time, with clear accountability for deliverables.",
+        "nuance": "The term 'tasks' can imply a sense of routine or mundanity; it is best used in contexts where specific actions are required to achieve broader objectives.",
+        "synonyms": [
+          "assignments",
+          "duties"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "People could be more full stack. Imagine a designer that can ship a fully baked product, a product manager that can prototype and ship to production. We shouldn't put limits on ourselves and what we can build, and what we can ship, and what we can dream about making possible on these web surfaces.",
+    "text": "People could be more full stack. Imagine a designer that can ship a fully baked product, a product manager that can prototype and ship to production.",
     "speaker": "Guillermo Rauch",
     "timestamp": "00:00:14",
     "context": "Lenny asks how AI tools like v0 will change product development for product managers and teams. Guillermo envisions a future where traditional role boundaries blur, enabled by AI tools that make it easier to build and ship products. He believes people will become more versatile, with designers able to create complete products and product managers able to build working prototypes.",
     "vocabulary_highlights": [
-      "more full stack",
-      "fully baked product",
-      "put limits on ourselves"
+      "full stack",
+      "prototype",
+      "ship to production",
+      "role boundaries"
     ],
     "topics": [
       "Product Management",
@@ -75,17 +200,79 @@
     "text_ko": "사람들이 더 풀스택(full stack)이 될 수 있어요. 예를 들어 완성된 제품을 직접 배포(ship)할 수 있는 디자이너나, 프로토타입(prototype)을 만들고 그대로 프로덕션(production)에 배포(ship)할 수 있는 프로덕트 매니저(product manager)를 상상해 보세요. 우리 자신이나 우리가 만들고 배포할 수 있는 것, 그리고 이 웹 환경(web surfaces)에서 가능하다고 꿈꿀 수 있는 것에 제한을 두면 안 돼요.",
     "text_zh": "其实大家都可以变得更全能一些。你想想，如果一个设计师能够独立交付一个完整的产品，一个产品经理能够自己做原型还能直接上线，那该多牛。我们不应该给自己设限，不管是开发能力、交付能力，还是在web端实现各种可能性的想象力，都不应该有界限。",
     "text_es": "La gente podría ser más full stack. Imagínate un diseñador que pueda sacar un producto completamente terminado, un product manager que pueda hacer prototipos y llevarlos a producción. No deberíamos ponernos límites sobre lo que podemos construir, lo que podemos lanzar, y lo que podemos soñar con hacer posible en estas plataformas web.",
-    "key_sentence": "We shouldn't put limits on ourselves in building and shipping products."
+    "key_sentence": "Imagine a designer that can ship a fully baked product, a product manager that can prototype and ship to production.",
+    "text_trimmed": true,
+    "original_text": "People could be more full stack. Imagine a designer that can ship a fully baked product, a product manager that can prototype and ship to production. We shouldn't put limits on ourselves and what we can build, and what we can ship, and what we can dream about making possible on these web surfaces.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "full stack",
+        "definition": "A term used to describe a professional who is proficient in both front-end and back-end development, encompassing all layers of software development.",
+        "businessContext": "In tech startups, a full stack developer can handle the entire development process, making them highly valuable for small teams that require versatility and efficiency.",
+        "nuance": "While 'full stack' typically refers to software development, it can also imply a broader skill set in other fields, such as design or product management.",
+        "synonyms": [
+          "multidisciplinary",
+          "cross-functional"
+        ],
+        "antonyms": [
+          "specialized",
+          "narrow-focused"
+        ]
+      },
+      {
+        "word": "prototype",
+        "definition": "An early sample or model of a product used to test and validate concepts before full-scale production.",
+        "businessContext": "Prototyping is crucial in product development as it allows teams to gather feedback and make iterative improvements before launching a final product.",
+        "nuance": "The term can imply a rough draft or a more polished version, depending on the context of the development phase.",
+        "synonyms": [
+          "mockup",
+          "beta version"
+        ],
+        "antonyms": [
+          "final product",
+          "completed version"
+        ]
+      },
+      {
+        "word": "ship to production",
+        "definition": "The process of deploying a completed product or feature to a live environment where it is accessible to end users.",
+        "businessContext": "In software development, 'shipping to production' signifies the transition from development to operational status, marking a critical milestone in the product lifecycle.",
+        "nuance": "This phrase emphasizes the readiness and quality of the product, suggesting that it has passed all necessary testing and is suitable for public use.",
+        "synonyms": [
+          "deploy",
+          "release"
+        ],
+        "antonyms": [
+          "rollback",
+          "suspend"
+        ]
+      },
+      {
+        "word": "role boundaries",
+        "definition": "The defined limits and responsibilities associated with a specific job or position within an organization.",
+        "businessContext": "Understanding role boundaries is essential in team dynamics, as it helps clarify expectations and reduces overlap or conflict among team members.",
+        "nuance": "While role boundaries provide structure, they can also be flexible in innovative environments where collaboration across roles is encouraged.",
+        "synonyms": [
+          "job scope",
+          "responsibility limits"
+        ],
+        "antonyms": [
+          "role fluidity",
+          "overlap"
+        ]
+      }
+    ]
   },
   {
-    "text": "One of the bets that I made early on with Vercel that really paid off is Vercel, maybe as a metaphor is like AWS in easy mode for a lot of people. We have a very large user base of people that would have otherwise not have been able to configure all of the ins and outs of the cloud, but do want the scale, flexibility, speed, et cetera.",
+    "text": "One of the bets that I made early on with Vercel that really paid off is Vercel, maybe as a metaphor is like AWS in easy mode for a lot of people.",
     "speaker": "Guillermo Rauch",
     "timestamp": "00:29:32",
     "context": "Guillermo explains Vercel's positioning in the market and how they've made complex cloud infrastructure accessible to more developers. He describes how Vercel simplifies cloud deployment compared to AWS, allowing developers to reach massive scale without needing deep infrastructure knowledge, citing the example of a customer handling 43X traffic increases seamlessly.",
     "vocabulary_highlights": [
-      "really paid off",
-      "easy mode",
-      "ins and outs of the cloud"
+      "metaphor",
+      "positioning",
+      "accessible",
+      "simplifies"
     ],
     "topics": [
       "Product Management",
@@ -101,17 +288,79 @@
     "text_ko": "제가 Vercel과 함께 초기에 한 베팅 중 하나가 정말 성공적이었는데, Vercel은 많은 사람들에게 AWS의 쉬운 모드 같은 느낌이에요. 클라우드의 복잡한 설정을 할 수 없었던 많은 사용자들이 있지만, 그들은 여전히 규모, 유연성, 속도 같은 것들을 원하거든요.",
     "text_zh": "我早期在Vercel上押的一个宝，现在看来真的押对了。打个比方，Vercel就像是简化版的AWS，对很多人来说特别好用。我们有一大批用户，他们本来搞不定云服务那些复杂的配置，但又想要规模化、灵活性、速度这些好处，Vercel正好满足了他们的需求。",
     "text_es": "Una de las apuestas que hice desde el principio con Vercel y que realmente dio resultado es que Vercel, como metáfora, es como AWS pero en modo fácil para mucha gente. Tenemos una base de usuarios enorme de personas que de otra manera no habrían podido configurar todos los detalles técnicos de la nube, pero sí quieren la escalabilidad, flexibilidad, velocidad y todo eso.",
-    "key_sentence": "Vercel is like AWS in easy mode for those needing cloud flexibility."
+    "key_sentence": "Vercel is like AWS in easy mode for those needing cloud flexibility.",
+    "text_trimmed": true,
+    "original_text": "One of the bets that I made early on with Vercel that really paid off is Vercel, maybe as a metaphor is like AWS in easy mode for a lot of people. We have a very large user base of people that would have otherwise not have been able to configure all of the ins and outs of the cloud, but do want the scale, flexibility, speed, et cetera.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "metaphor",
+        "definition": "A figure of speech that describes an object or action in a way that isn't literally true but helps explain an idea or make a comparison.",
+        "businessContext": "In business, metaphors are often used in marketing and branding to create relatable imagery that resonates with customers, making complex concepts more understandable.",
+        "nuance": "While metaphors can enhance communication, they should be used carefully to avoid confusion or misinterpretation.",
+        "synonyms": [
+          "analogy",
+          "symbol"
+        ],
+        "antonyms": [
+          "literal",
+          "fact"
+        ]
+      },
+      {
+        "word": "positioning",
+        "definition": "The process of establishing a brand or product in the minds of consumers relative to competitors, often through marketing strategies.",
+        "businessContext": "Effective positioning helps companies differentiate their offerings and communicate their unique value propositions to target audiences.",
+        "nuance": "Positioning is not just about the product itself but also involves perceptions and emotional connections that consumers have with the brand.",
+        "synonyms": [
+          "branding",
+          "market placement"
+        ],
+        "antonyms": [
+          "displacement",
+          "confusion"
+        ]
+      },
+      {
+        "word": "accessible",
+        "definition": "Easily reached, approached, or understood; available to all users, including those with disabilities.",
+        "businessContext": "In tech and startup environments, creating accessible products ensures that a wider audience can use and benefit from them, often leading to increased customer satisfaction and loyalty.",
+        "nuance": "While 'accessible' often refers to physical or digital usability, it can also imply the ease of understanding complex information or services.",
+        "synonyms": [
+          "approachable",
+          "user-friendly"
+        ],
+        "antonyms": [
+          "inaccessible",
+          "exclusive"
+        ]
+      },
+      {
+        "word": "simplifies",
+        "definition": "To make something less complicated or easier to understand or do.",
+        "businessContext": "In business, simplifying processes or products can enhance efficiency, improve user experience, and reduce costs, making it a key goal for many organizations.",
+        "nuance": "While simplifying is generally positive, oversimplification can lead to loss of important details or nuances, so it should be approached with care.",
+        "synonyms": [
+          "streamlines",
+          "clarifies"
+        ],
+        "antonyms": [
+          "complicates",
+          "confuses"
+        ]
+      }
+    ]
   },
   {
-    "text": "The secrets of product quality is blood, sweat, and tears. The other thing is that a great product is made up of a thousand little details and so you're never really done. There's a humility that comes from the process also of why the best product builders will say nine nos for every yes. Because when you say yes, it's like adopting a puppy.",
+    "text": "The secrets of product quality is blood, sweat, and tears. The other thing is that a great product is made up of a thousand little details and so you're never really done.",
     "speaker": "Guillermo Rauch",
     "timestamp": "01:19:42",
     "context": "Lenny references Guillermo's tweet about product quality requiring \"blood, sweat, and tears\" and asks him to elaborate. Guillermo explains that building great products requires intense attention to countless small details and involves difficult trade-offs. He uses the metaphor of adopting a puppy to describe how each new feature requires ongoing care and maintenance, which is why successful product builders must be highly selective.",
     "vocabulary_highlights": [
-      "blood, sweat, and tears",
-      "nine nos for every yes",
-      "like adopting a puppy"
+      "attention to detail",
+      "intense",
+      "product quality",
+      "building great products"
     ],
     "topics": [
       "Product Management",
@@ -127,7 +376,68 @@
     "text_ko": "제품 품질의 비결은 피와 땀과 눈물이에요. 그리고 훌륭한 제품은 천 가지 작은 디테일로 이루어져 있어서 사실 끝난 적이 없어요. 그 과정에서 겸손이 생기기도 하는데, 그래서 최고의 프로덕트 빌더들(product builders)은 '예스' 하나에 '노' 아홉 개를 말한다고 해요. '예스'를 한다는 건 강아지를 입양하는 것과 같거든요.",
     "text_zh": "产品质量的秘诀就是要下血本，真的是汗水和泪水都要付出。还有就是一个好产品是由无数个小细节堆起来的，所以你永远都做不完。这个过程也会让人变得谦逊，这就是为什么最厉害的产品经理十个想法里要否掉九个，只留一个的原因。因为你一旦说\"行\"，就像是收养了一只小狗一样，要负责到底。",
     "text_es": "Los secretos de la calidad del producto son sangre, sudor y lágrimas. Lo otro es que un gran producto se compone de mil pequeños detalles, así que nunca realmente terminas. También hay una humildad que viene del proceso, por eso los mejores desarrolladores de productos dicen nueve \"no\" por cada \"sí\". Porque cuando dices que sí, es como adoptar un cachorro.",
-    "key_sentence": "Product quality requires blood, sweat, and tears, with humility in the process."
+    "key_sentence": "a great product is made up of a thousand little details and so you're never really done.",
+    "text_trimmed": true,
+    "original_text": "The secrets of product quality is blood, sweat, and tears. The other thing is that a great product is made up of a thousand little details and so you're never really done. There's a humility that comes from the process also of why the best product builders will say nine nos for every yes. Because when you say yes, it's like adopting a puppy.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "attention to detail",
+        "definition": "The meticulous consideration of every small aspect of a task or project to ensure accuracy and quality.",
+        "businessContext": "In business and tech environments, attention to detail is crucial for product development, where overlooking minor elements can lead to significant issues in functionality or user experience.",
+        "nuance": "This phrase often implies a level of thoroughness that is essential for high-quality outcomes, and it is best used in contexts where precision is valued.",
+        "synonyms": [
+          "meticulousness",
+          "precision"
+        ],
+        "antonyms": [
+          "carelessness",
+          "negligence"
+        ]
+      },
+      {
+        "word": "intense",
+        "definition": "Characterized by extreme force, degree, or strength; often used to describe a high level of focus or effort.",
+        "businessContext": "In the startup world, intense competition and pressure can drive teams to work harder and innovate faster, often leading to breakthroughs or burnout.",
+        "nuance": "While 'intense' can convey a positive connotation of passion and commitment, it may also suggest stress or overwhelming pressure when used in certain contexts.",
+        "synonyms": [
+          "extreme",
+          "fervent"
+        ],
+        "antonyms": [
+          "mild",
+          "calm"
+        ]
+      },
+      {
+        "word": "product quality",
+        "definition": "The measure of a product's ability to meet customer expectations and requirements, often assessed through durability, reliability, and performance.",
+        "businessContext": "In business, maintaining high product quality is essential for customer satisfaction and brand reputation, influencing repeat purchases and market competitiveness.",
+        "nuance": "The term 'product quality' encompasses both tangible and intangible aspects, and it is important to specify the criteria being evaluated to avoid ambiguity.",
+        "synonyms": [
+          "product excellence",
+          "product standard"
+        ],
+        "antonyms": [
+          "product inferiority",
+          "subpar quality"
+        ]
+      },
+      {
+        "word": "building great products",
+        "definition": "The process of creating and developing high-quality products that effectively meet user needs and solve specific problems.",
+        "businessContext": "In tech startups, building great products is often seen as the ultimate goal, driving innovation and customer loyalty, and is typically supported by agile methodologies and user feedback.",
+        "nuance": "This phrase emphasizes a holistic approach to product development, suggesting that success comes from a combination of creativity, functionality, and user-centric design.",
+        "synonyms": [
+          "developing exceptional products",
+          "creating outstanding products"
+        ],
+        "antonyms": [
+          "producing mediocre products",
+          "manufacturing substandard goods"
+        ]
+      }
+    ]
   },
   {
     "text": "I foresee a lot of people becoming incredibly impactful in building and shipping amazing products, and building gigantic companies, and everything you could imagine, where a single person can do the job of a hundred different people in a hundred different specializations.",
@@ -135,9 +445,10 @@
     "timestamp": "00:19:21",
     "context": "Lenny asks about the future of engineering careers and whether people should still learn to code. Guillermo envisions a future where AI tools will dramatically amplify individual productivity, allowing one person to accomplish work that previously required large teams with diverse specializations. He sees this as democratizing the ability to build successful products and companies.",
     "vocabulary_highlights": [
-      "incredibly impactful",
-      "gigantic companies",
-      "do the job of a hundred different people"
+      "impactful",
+      "specializations",
+      "amplify",
+      "productivity"
     ],
     "topics": [
       "Career Development",
@@ -153,6 +464,65 @@
     "text_ko": "앞으로 많은 사람들이 멋진 제품을 만들고 출시하면서 거대한 회사를 세우고 상상할 수 있는 거의 모든 일을 해내며 엄청난 영향력을 발휘할 것 같아요. 한 사람이 백 명의 서로 다른 전문 분야에서 하던 일을 해낼 수 있는 시대가 올 거예요.",
     "text_zh": "我觉得以后会有很多人变得超级厉害，能做出特别棒的产品，建立巨无霸公司，你能想到的各种事情他们都能做到，一个人就能顶一百个不同专业领域的人。",
     "text_es": "Veo que mucha gente va a lograr un impacto increíble creando y lanzando productos espectaculares, construyendo empresas enormes, y todo lo que te puedas imaginar, donde una sola persona va a poder hacer el trabajo de cien personas diferentes en cien especializaciones distintas.",
-    "key_sentence": "A single person can be incredibly impactful in building gigantic companies."
+    "key_sentence": "A single person can be incredibly impactful in building gigantic companies.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "impactful",
+        "definition": "Having a significant effect or influence on a situation or outcome.",
+        "businessContext": "In business, being impactful often refers to the ability of a product, strategy, or individual to create substantial change or drive results within an organization or market.",
+        "nuance": "While 'impactful' conveys a strong positive effect, it can sometimes imply a lack of subtlety or nuance in the approach taken.",
+        "synonyms": [
+          "influential",
+          "effective"
+        ],
+        "antonyms": [
+          "ineffective",
+          "insignificant"
+        ]
+      },
+      {
+        "word": "specializations",
+        "definition": "The process of focusing on a particular area of expertise or skill within a broader field.",
+        "businessContext": "In the context of business and technology, specializations allow individuals and teams to develop deep knowledge and skills that contribute to the overall success of projects or products.",
+        "nuance": "The term suggests a depth of knowledge in a specific area, which can be advantageous, but may also imply a lack of versatility.",
+        "synonyms": [
+          "expertise",
+          "niche"
+        ],
+        "antonyms": [
+          "generalization",
+          "broadness"
+        ]
+      },
+      {
+        "word": "amplify",
+        "definition": "To increase the strength, intensity, or impact of something.",
+        "businessContext": "In business, to amplify can refer to enhancing marketing efforts, boosting product visibility, or increasing the reach of a message through various channels.",
+        "nuance": "While 'amplify' often has a positive connotation, it can also imply exaggeration or overemphasis if not used carefully.",
+        "synonyms": [
+          "enhance",
+          "magnify"
+        ],
+        "antonyms": [
+          "diminish",
+          "reduce"
+        ]
+      },
+      {
+        "word": "productivity",
+        "definition": "The measure of the efficiency of production, often expressed as the ratio of outputs to inputs in a given timeframe.",
+        "businessContext": "In a business setting, productivity is crucial for assessing performance, optimizing processes, and maximizing profitability.",
+        "nuance": "While high productivity is generally viewed positively, it can sometimes lead to burnout if not balanced with employee well-being.",
+        "synonyms": [
+          "efficiency",
+          "output"
+        ],
+        "antonyms": [
+          "inefficiency",
+          "unproductiveness"
+        ]
+      }
+    ]
   }
 ]

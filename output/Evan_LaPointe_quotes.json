@@ -7,7 +7,8 @@
     "vocabulary_highlights": [
       "experimental",
       "open-minded",
-      "dramatically better answers"
+      "framework",
+      "dramatically"
     ],
     "topics": [
       "Learning & Growth",
@@ -23,17 +24,77 @@
     "text_ko": "뇌는 여러 학과가 모여 있는 대학 캠퍼스 같아요. 대부분 사람들은 역사학과(history department)에만 지나치게 의존해요. 대신 좀 더 실험적이고 열린 마음의 과학학과(science department), 더 창의적인 예술학과(art department)에 물어보면 훨씬 더 나은 답을 얻을 수 있어요.",
     "text_zh": "大脑就像个大学校园，里面有各个不同的院系。大多数人太依赖历史系了，老是翻旧账。如果你把问题交给更爱试验、更开放的理科院系，或者更有创意的艺术系去处理，你会得到好得多的答案。",
     "text_es": "El cerebro es como un campus universitario con diferentes facultades. La mayoría de la gente depende demasiado de su facultad de historia. Pero si en cambio mandas las cosas a la facultad de ciencias, que es más experimental y de mente abierta, o a la facultad de arte, que es más creativa, obtienes respuestas muchísimo mejores.",
-    "key_sentence": "Relying on the experimental, open-minded departments yields dramatically better answers."
+    "key_sentence": "Relying on the experimental, open-minded departments yields dramatically better answers.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "experimental",
+        "definition": "Relating to or based on new ideas, methods, or processes that are not yet fully established or proven.",
+        "businessContext": "In business and technology, 'experimental' often refers to innovative projects or pilot programs that test new concepts before full-scale implementation.",
+        "nuance": "While 'experimental' suggests a focus on innovation, it may also imply risk and uncertainty, so it should be used with caution in contexts where stability is valued.",
+        "synonyms": [
+          "innovative",
+          "trial"
+        ],
+        "antonyms": [
+          "conventional",
+          "established"
+        ]
+      },
+      {
+        "word": "open-minded",
+        "definition": "Willing to consider new ideas and perspectives; not prejudiced or biased.",
+        "businessContext": "In a business setting, being open-minded is crucial for fostering collaboration, encouraging diverse viewpoints, and adapting to change.",
+        "nuance": "While 'open-minded' is generally positive, it can be perceived as indecisive if overused in contexts requiring firm decisions.",
+        "synonyms": [
+          "receptive",
+          "unbiased"
+        ],
+        "antonyms": [
+          "narrow-minded",
+          "dogmatic"
+        ]
+      },
+      {
+        "word": "framework",
+        "definition": "A structured approach or system that provides guidance for understanding or addressing a particular issue or process.",
+        "businessContext": "Frameworks are essential in business for strategic planning, project management, and establishing best practices, as they offer a clear outline for execution.",
+        "nuance": "The term 'framework' implies a level of flexibility and adaptability, making it suitable for dynamic environments, but it may also suggest a lack of specificity.",
+        "synonyms": [
+          "structure",
+          "system"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "dramatically",
+        "definition": "In a significant or striking manner; to a marked degree.",
+        "businessContext": "In business communications, 'dramatically' is often used to emphasize substantial changes or improvements in performance metrics, market conditions, or project outcomes.",
+        "nuance": "While 'dramatically' conveys strong impact, it should be used judiciously to avoid exaggeration, especially in formal reports or analyses.",
+        "synonyms": [
+          "significantly",
+          "substantially"
+        ],
+        "antonyms": [
+          "slightly",
+          "marginally"
+        ]
+      }
+    ]
   },
   {
-    "text": "It's almost like you're playing Elden Ring or some video game. The starting point is to choose your character. Hey, I'm the devil's advocate approach, or I'm the break it and see if it still stands after I hit it really hard with a sledgehammer kind of guy, your personality kind of has a natural fit.",
+    "text": "It's almost like you're playing Elden Ring or some video game. The starting point is to choose your character.",
     "speaker": "Evan LaPointe",
     "timestamp": "00:00:16",
     "context": "Lenny asks about Evan's advice on becoming more influential. Evan explains that the first step in influence is choosing your character or approach style, similar to selecting a character in a video game. He suggests that people should be intentional about their influence style rather than defaulting to whatever feels natural, and gives examples like being the \"devil's advocate\" or the person who stress-tests ideas by challenging them hard.",
     "vocabulary_highlights": [
-      "devil's advocate approach",
-      "hit it really hard with a sledgehammer",
-      "natural fit"
+      "approach",
+      "influence",
+      "starting point",
+      "character"
     ],
     "topics": [
       "Leadership & Management",
@@ -49,17 +110,79 @@
     "text_ko": "거의 엘든 링(Elden Ring) 같은 비디오게임을 하는 느낌이에요. 시작점은 캐릭터를 고르는 거고요. '저는 악마의 옹호자(devil's advocate) 스타일이에요'라든가 '망치로 세게 내려쳐도 버티는지 부숴보고 확인하는 타입이에요' 같은 성격이 자연스럽게 맞아요.",
     "text_zh": "这就像你在玩《艾尔登法环》或者别的电子游戏一样。首先得选角色对吧。比如说，嘿，我就是那种专门唱反调的人，或者我就是那种喜欢把东西砸烂了看看还能不能用的人——你的性格总会找到适合的定位。",
     "text_es": "Es como si estuvieras jugando Elden Ring o algún videojuego. El punto de partida es elegir tu personaje. Oye, yo soy del tipo \"abogado del diablo\" o soy más bien del estilo \"lo rompo a ver si aguanta después de darle con todo\", tu personalidad como que tiene un encaje natural.",
-    "key_sentence": "Choosing your character fits your personality in the devil's advocate approach."
+    "key_sentence": "The starting point is to choose your character.",
+    "text_trimmed": true,
+    "original_text": "It's almost like you're playing Elden Ring or some video game. The starting point is to choose your character. Hey, I'm the devil's advocate approach, or I'm the break it and see if it still stands after I hit it really hard with a sledgehammer kind of guy, your personality kind of has a natural fit.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "approach",
+        "definition": "A method or way of dealing with a situation or problem.",
+        "businessContext": "In business, 'approach' often refers to the strategy or methodology employed to achieve objectives, such as market entry or product development.",
+        "nuance": "While 'approach' can imply a systematic method, it may also suggest a more flexible or adaptive style depending on the context.",
+        "synonyms": [
+          "method",
+          "strategy"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "influence",
+        "definition": "The capacity to have an effect on the character, development, or behavior of someone or something.",
+        "businessContext": "In a business context, 'influence' can refer to the power of individuals or organizations to sway decisions, shape policies, or affect market trends.",
+        "nuance": "The term often carries a connotation of subtlety, suggesting that influence can be exerted without direct authority or force.",
+        "synonyms": [
+          "impact",
+          "sway"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "starting point",
+        "definition": "The initial stage or basis from which a process or journey begins.",
+        "businessContext": "In business planning, a 'starting point' refers to the foundational ideas or assumptions that guide the development of strategies and initiatives.",
+        "nuance": "This phrase suggests a point of origin that is critical for establishing direction, but it may also imply that further exploration and development are necessary.",
+        "synonyms": [
+          "baseline",
+          "foundation"
+        ],
+        "antonyms": [
+          "endpoint",
+          "conclusion"
+        ]
+      },
+      {
+        "word": "character",
+        "definition": "The mental and moral qualities distinctive to an individual or entity.",
+        "businessContext": "In a business setting, 'character' can refer to the values and ethics that define a company's culture and influence its reputation in the market.",
+        "nuance": "While 'character' often denotes positive traits, it can also imply flaws or weaknesses, depending on the context in which it is used.",
+        "synonyms": [
+          "persona",
+          "identity"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "It's critical to ask what kind of experience am I? Not how good am I at my job, how much do I know, how critical am I to this process, but am I a miserable experience? If the answer is yes, don't worry too much about the other pieces yet. You got to fix that first.",
+    "text": "It's critical to ask what kind of experience am I? Not how good am I at my job, how much do I know, how critical am I to this process, but am I a miserable experience?",
     "speaker": "Evan LaPointe",
     "timestamp": "00:00:30",
     "context": "Lenny asks about creating better relationships within teams. Evan explains his framework for relationships which includes three components: ability, trust, and appeal (what kind of experience you are to others). He emphasizes that \"appeal\" - how people experience working with you - is actually the most important factor biologically, even more than your competence. If people find you miserable to work with, they'll avoid including you regardless of your skills.",
     "vocabulary_highlights": [
-      "miserable experience",
-      "critical to this process",
-      "fix that first"
+      "critical",
+      "experience",
+      "framework",
+      "relationships"
     ],
     "topics": [
       "Leadership & Management",
@@ -75,17 +198,79 @@
     "text_ko": "가장 중요한 건 '내가 어떤 경험(experience)을 주고 있나요?'라고 스스로 물어보는 거예요. 얼마나 일을 잘하느냐, 얼마나 아는 게 많느냐, 이 프로세스에서 내가 얼마나 중요한 사람이냐를 묻는 게 아니라, 내가 상대에게 끔찍한 경험을 주고 있는 건 아닌가를 먼저 보세요. 만약 그렇다면 다른 것들은 일단 너무 신경 쓰지 마세요. 그걸 먼저 고쳐야 해요.",
     "text_zh": "关键是要问自己：我给别人的体验怎么样？不是问我工作能力强不强，懂得多不多，在这个流程里有多重要，而是问我是不是让人感觉很糟糕？如果答案是肯定的，那别的先别管了，得先把这个问题解决了。",
     "text_es": "Es fundamental preguntarse ¿qué tipo de experiencia soy yo? No qué tan bueno soy en mi trabajo, cuánto sé, o qué tan indispensable soy para este proceso, sino ¿soy una experiencia horrible? Si la respuesta es sí, no te preocupes tanto por las otras cosas todavía. Eso es lo primero que tienes que arreglar.",
-    "key_sentence": "Fix the miserable experience first before worrying about other critical aspects."
+    "key_sentence": "am I a miserable experience?",
+    "text_trimmed": true,
+    "original_text": "It's critical to ask what kind of experience am I? Not how good am I at my job, how much do I know, how critical am I to this process, but am I a miserable experience? If the answer is yes, don't worry too much about the other pieces yet. You got to fix that first.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "critical",
+        "definition": "Of great importance or significance; essential for the success or functioning of something.",
+        "businessContext": "In business, being critical often refers to key factors or decisions that can determine the outcome of a project or strategy.",
+        "nuance": "While 'critical' can imply urgency, it can also carry a negative connotation when referring to judgment or evaluation.",
+        "synonyms": [
+          "crucial",
+          "vital"
+        ],
+        "antonyms": [
+          "insignificant",
+          "unimportant"
+        ]
+      },
+      {
+        "word": "experience",
+        "definition": "The knowledge or skill acquired through involvement in or exposure to a particular activity or field over time.",
+        "businessContext": "In the business world, experience is often valued as it can enhance decision-making, leadership, and operational efficiency.",
+        "nuance": "Experience can refer not only to professional qualifications but also to the quality of interactions and engagements one has had in a role.",
+        "synonyms": [
+          "expertise",
+          "background"
+        ],
+        "antonyms": [
+          "inexperience",
+          "novice"
+        ]
+      },
+      {
+        "word": "framework",
+        "definition": "A structured approach or system that provides guidance or support for understanding or solving a problem.",
+        "businessContext": "Frameworks are commonly used in business to establish processes, methodologies, or standards that facilitate decision-making and project management.",
+        "nuance": "The term can imply a level of rigidity or formality, so it is important to ensure that the framework is adaptable to specific contexts.",
+        "synonyms": [
+          "structure",
+          "model"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "relationships",
+        "definition": "The connections or associations between individuals or groups, often characterized by mutual respect, trust, and interaction.",
+        "businessContext": "In a business context, relationships are crucial for networking, collaboration, and building partnerships that can drive success.",
+        "nuance": "The term often emphasizes the importance of interpersonal dynamics and emotional intelligence in professional settings.",
+        "synonyms": [
+          "connections",
+          "associations"
+        ],
+        "antonyms": [
+          "estrangement",
+          "disconnection"
+        ]
+      }
+    ]
   },
   {
-    "text": "We spend gazillions of dollars on waste of time and meetings. For us, like in our programs, the average delta is between 10 and 20%. People save anywhere from a full half of a day to a full day per week of work as a result of just cleaning up the way they're using meetings.",
+    "text": "We spend gazillions of dollars on waste of time and meetings. For us, like in our programs, the average delta is between 10 and 20%.",
     "speaker": "Evan LaPointe",
     "timestamp": "00:23:32",
     "context": "Lenny asks for practical things people can do to work better with colleagues based on brain science. Evan discusses how poorly designed meetings waste enormous amounts of money and time in businesses. He shares that his programs typically help people save 10-20% of their time, or half a day to a full day per week, simply by improving how they structure and run meetings using neuroscience principles.",
     "vocabulary_highlights": [
-      "gazillions of dollars",
+      "waste of time",
       "average delta",
-      "cleaning up the way"
+      "poorly designed",
+      "enormous amounts"
     ],
     "topics": [
       "Leadership & Management",
@@ -101,17 +286,79 @@
     "text_ko": "우리는 시간 낭비와 불필요한 회의에 어마어마한 돈을 쓰고 있어요. 저희 프로그램의 경우 평균 변화폭(average delta)은 10~20% 정도예요. 사람들은 회의 활용 방식을 조금만 정리해도 주당 반나절에서 하루까지 업무 시간을 절약해요.",
     "text_zh": "我们在无效会议上烧钱烧得厉害。拿我们的项目来说，平均改善幅度(delta)能达到10%到20%。光是把开会的方式理顺了，大家每周就能省出半天到一整天的工作时间。",
     "text_es": "Gastamos cantidades enormes de dinero en reuniones que son pura pérdida de tiempo. En nuestros programas, el cambio promedio está entre el 10 y 20%. La gente ahorra desde medio día completo hasta un día entero por semana de trabajo, simplemente por limpiar la forma en que manejan las reuniones.",
-    "key_sentence": "Cleaning up the way we use meetings saves gazillions of dollars and time."
+    "key_sentence": "Cleaning up the way we use meetings saves gazillions of dollars and time.",
+    "text_trimmed": true,
+    "original_text": "We spend gazillions of dollars on waste of time and meetings. For us, like in our programs, the average delta is between 10 and 20%. People save anywhere from a full half of a day to a full day per week of work as a result of just cleaning up the way they're using meetings.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "waste of time",
+        "definition": "An activity or task that yields little or no productive outcome, often seen as inefficient or unnecessary.",
+        "businessContext": "In business settings, meetings or processes that do not contribute to project goals or decision-making are often labeled as a waste of time, leading to calls for more efficient practices.",
+        "nuance": "While it can be used to criticize unproductive activities, it may also come across as dismissive if not supported by constructive suggestions.",
+        "synonyms": [
+          "inefficient use of time",
+          "unproductive activity"
+        ],
+        "antonyms": [
+          "productive engagement",
+          "effective use of time"
+        ]
+      },
+      {
+        "word": "average delta",
+        "definition": "A statistical measure that represents the average change or difference between two values over a specified period.",
+        "businessContext": "In business analytics, the average delta is often used to assess performance metrics, such as sales growth or user engagement, indicating the typical variance from a baseline.",
+        "nuance": "The term is often used in quantitative analysis, and may not be understood by those unfamiliar with statistical terminology.",
+        "synonyms": [
+          "mean difference",
+          "average change"
+        ],
+        "antonyms": [
+          "constant value",
+          "fixed point"
+        ]
+      },
+      {
+        "word": "poorly designed",
+        "definition": "Referring to a product, service, or system that lacks effective planning or execution, resulting in suboptimal functionality or user experience.",
+        "businessContext": "In product development and UX design, a poorly designed interface can lead to customer dissatisfaction and decreased usability, impacting overall business success.",
+        "nuance": "This phrase can imply a lack of attention to detail or user needs, and may be perceived as harsh if not accompanied by constructive feedback.",
+        "synonyms": [
+          "ineffectively structured",
+          "suboptimally crafted"
+        ],
+        "antonyms": [
+          "well-designed",
+          "efficiently structured"
+        ]
+      },
+      {
+        "word": "enormous amounts",
+        "definition": "A phrase indicating a very large quantity or volume of something, often used to emphasize scale or impact.",
+        "businessContext": "In financial discussions, enormous amounts may refer to significant investments, expenditures, or revenues, highlighting the scale of business operations or market potential.",
+        "nuance": "While it conveys a sense of magnitude, it can also be seen as vague; specifying the context or units can enhance clarity.",
+        "synonyms": [
+          "vast quantities",
+          "substantial volumes"
+        ],
+        "antonyms": [
+          "minimal amounts",
+          "insignificant quantities"
+        ]
+      }
+    ]
   },
   {
-    "text": "Most meetings skip the priming step altogether. They launched directly into decision making. It would be safe to skip the priming step if we began the meeting under the assumption that everybody here is on the same page, has the same information, and generally speaking, intends for the same outcome.",
+    "text": "Most meetings skip the priming step altogether. They launched directly into decision making.",
     "speaker": "Evan LaPointe",
     "timestamp": "00:25:46",
     "context": "Lenny asks for tactical advice people can implement this week to be more successful at work. Evan explains that most meetings fail because they skip \"priming\" - the step where you align everyone on context, information, and intended outcomes before making decisions. He points out that assuming everyone is on the same page is usually a false assumption, especially for teams that have been working together for more than a day.",
     "vocabulary_highlights": [
-      "skip the priming step",
-      "launched directly into",
-      "on the same page"
+      "priming",
+      "decision making",
+      "align",
+      "tactical"
     ],
     "topics": [
       "Leadership & Management",
@@ -127,7 +374,68 @@
     "text_ko": "대부분의 회의는 프라이밍 단계(priming step)를 아예 건너뛰어요. 바로 의사결정(decision making)으로 들어가 버리죠. 회의를 시작할 때 여기 있는 모두가 같은 생각을 하고 같은 정보를 공유하며 대체로 같은 결과를 원한다고 가정한다면 그 단계를 생략해도 괜찮아요.",
     "text_zh": "大部分会议都直接跳过了铺垫环节，上来就开始做决策。如果我们开会时能确保大家想法一致，信息同步，目标也基本一样，那跳过铺垫倒也没什么问题。",
     "text_es": "La mayoría de las reuniones se saltan completamente el paso de preparación previa. Se lanzan directo a tomar decisiones. Sería seguro saltarse ese paso de preparación si empezáramos la reunión asumiendo que todos aquí estamos en la misma página, tenemos la misma información y, hablando en general, buscamos el mismo resultado.",
-    "key_sentence": "Skipping the priming step assumes everyone is on the same page for decisions."
+    "key_sentence": "Most meetings skip the priming step altogether.",
+    "text_trimmed": true,
+    "original_text": "Most meetings skip the priming step altogether. They launched directly into decision making. It would be safe to skip the priming step if we began the meeting under the assumption that everybody here is on the same page, has the same information, and generally speaking, intends for the same outcome.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "priming",
+        "definition": "Priming refers to the process of preparing individuals or teams for a specific task or discussion by providing relevant information or context beforehand.",
+        "businessContext": "In business meetings, priming is crucial as it ensures that all participants are on the same page and ready to engage in meaningful dialogue, thereby enhancing productivity.",
+        "nuance": "While priming is essential for effective communication, over-priming can lead to information overload, which may hinder decision-making.",
+        "synonyms": [
+          "preparation",
+          "conditioning"
+        ],
+        "antonyms": [
+          "neglect",
+          "disregard"
+        ]
+      },
+      {
+        "word": "decision making",
+        "definition": "Decision making is the cognitive process of selecting a course of action from multiple alternatives based on analysis and judgment.",
+        "businessContext": "In a business context, effective decision making is vital for strategic planning, resource allocation, and overall organizational success, often involving data analysis and stakeholder input.",
+        "nuance": "The term can imply varying degrees of urgency and complexity, with some decisions requiring quick responses while others necessitate thorough deliberation.",
+        "synonyms": [
+          "choice",
+          "resolution"
+        ],
+        "antonyms": [
+          "indecision",
+          "hesitation"
+        ]
+      },
+      {
+        "word": "align",
+        "definition": "To align means to bring into agreement or cooperation, ensuring that different parties or elements work towards a common goal or objective.",
+        "businessContext": "In the business world, aligning teams, strategies, and objectives is essential for achieving coherence and maximizing efficiency across departments.",
+        "nuance": "While alignment is generally positive, it can sometimes imply a loss of individuality or creativity in pursuit of a unified direction.",
+        "synonyms": [
+          "coordinate",
+          "harmonize"
+        ],
+        "antonyms": [
+          "diverge",
+          "disagree"
+        ]
+      },
+      {
+        "word": "tactical",
+        "definition": "Tactical refers to the specific actions or strategies employed to achieve short-term goals within a broader strategic framework.",
+        "businessContext": "In business, tactical decisions are often made to respond to immediate challenges or opportunities, focusing on practical implementation rather than long-term vision.",
+        "nuance": "The term can suggest a reactive approach, which may be necessary in fast-paced environments, but should be balanced with strategic foresight.",
+        "synonyms": [
+          "operational",
+          "pragmatic"
+        ],
+        "antonyms": [
+          "strategic",
+          "long-term"
+        ]
+      }
+    ]
   },
   {
     "text": "Your ability is actually not the most important part of a relationship, biologically speaking. There's two more that matter quite a bit more. And the surprise ending is that the third one matters the most, which is scary in some cases.",
@@ -135,9 +443,10 @@
     "timestamp": "01:25:20",
     "context": "Lenny asks about building better relationships within teams. Evan explains his three-component framework for understanding professional relationships: ability (your competence and skills), trust (perceived risk of working with you), and appeal (the experience of interacting with you). He reveals that while most people focus on demonstrating their ability, it's actually the least important factor biologically - trust and especially appeal matter much more for relationship quality.",
     "vocabulary_highlights": [
-      "biologically speaking",
-      "surprise ending",
-      "scary in some cases"
+      "framework",
+      "competence",
+      "trust",
+      "relationship"
     ],
     "topics": [
       "Leadership & Management",
@@ -153,6 +462,65 @@
     "text_ko": "사실 생물학적으로 보면, 관계에서 가장 중요한 건 당신의 능력이 아니에요. 능력 말고도 훨씬 더 중요한 요소가 두 가지 더 있는데요. 놀랍게도 그중 세 번째가 제일 중요해서, 경우에 따라선 오히려 무서울 수도 있어요.",
     "text_zh": "从生物学角度来说，你的能力其实在人际关系中不是最重要的。还有两个因素要重要得多。最让人意外的是，第三个因素才是最关键的，这在某些情况下还挺可怕的。",
     "text_es": "En realidad, tu habilidad no es lo más importante en una relación, hablando desde el punto de vista biológico. Hay otras dos cosas que importan muchísimo más. Y lo que te va a sorprender es que la tercera es la que más cuenta, lo cual puede dar un poco de miedo en algunos casos.",
-    "key_sentence": "Biologically speaking, ability isn't the most important part of a relationship; the surprise ending is scary."
+    "key_sentence": "Biologically speaking, ability isn't the most important part of a relationship; the surprise ending is scary.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "framework",
+        "definition": "A framework is a structured system or set of guidelines that provides a foundation for understanding or developing a particular concept or process.",
+        "businessContext": "In business and technology, frameworks are often used to streamline project management, software development, or organizational strategies, ensuring consistency and efficiency.",
+        "nuance": "While 'framework' implies a supportive structure, it can also suggest rigidity, so it is important to use it when referring to established systems rather than flexible or informal approaches.",
+        "synonyms": [
+          "structure",
+          "system"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "competence",
+        "definition": "Competence refers to the ability to perform a task effectively, demonstrating the necessary skills, knowledge, and experience.",
+        "businessContext": "In the workplace, competence is critical for employee performance evaluations, recruitment processes, and professional development programs.",
+        "nuance": "Competence often implies a baseline level of skill, so it is best used in contexts where proficiency is expected rather than in discussions of exceptional talent.",
+        "synonyms": [
+          "capability",
+          "proficiency"
+        ],
+        "antonyms": [
+          "incompetence",
+          "ineptitude"
+        ]
+      },
+      {
+        "word": "trust",
+        "definition": "Trust is the firm belief in the reliability, truth, or ability of someone or something, forming the basis of interpersonal and organizational relationships.",
+        "businessContext": "In business, trust is essential for fostering teamwork, enhancing collaboration, and building strong client relationships, ultimately impacting organizational success.",
+        "nuance": "Trust can be fragile and takes time to build, so it is crucial to use it in contexts that emphasize reliability and integrity rather than in situations of uncertainty.",
+        "synonyms": [
+          "confidence",
+          "faith"
+        ],
+        "antonyms": [
+          "distrust",
+          "suspicion"
+        ]
+      },
+      {
+        "word": "relationship",
+        "definition": "A relationship is a connection or association between individuals or entities, characterized by mutual interactions and influences.",
+        "businessContext": "In the business world, relationships are vital for networking, partnerships, and customer engagement, often determining the success of collaborations and negotiations.",
+        "nuance": "While 'relationship' generally implies a positive connection, it can also refer to complex or challenging dynamics, so it should be used with consideration of the context.",
+        "synonyms": [
+          "connection",
+          "association"
+        ],
+        "antonyms": [
+          "disconnection",
+          "estrangement"
+        ]
+      }
+    ]
   }
 ]

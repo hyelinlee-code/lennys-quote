@@ -1,13 +1,14 @@
 [
   {
-    "text": "If I drill down what makes companies fail, it's quite simple. It's just like they don't talk to users, which means they don't find product market fit. And if they don't find product market fit, nothing else really matters. What mistakes do people make is like it is all about that. It's all about talking to customers and learning that you're building something that's actually useful.",
+    "text": "If I drill down what makes companies fail, it's quite simple. It's just like they don't talk to users, which means they don't find product market fit. And if they don't find product market fit, nothing else really matters.",
     "speaker": "Gustaf Alströmer",
     "timestamp": "00:00:00",
     "context": "Lenny asks Gustaf about the most common mistakes that early stage startups make. Gustaf explains that after working with over 600 startups at Y Combinator, he's identified a clear pattern of failure. He emphasizes that finding product market fit is the fundamental requirement for startup success, and this can only be achieved through consistent customer conversations to understand what people actually want and need.",
     "vocabulary_highlights": [
       "drill down",
       "product market fit",
-      "nothing else really matters"
+      "common mistakes",
+      "early stage startups"
     ],
     "topics": [
       "Starting a Company",
@@ -24,16 +25,79 @@
     "text_ko": "제가 기업들이 실패하는 이유를 파고들어 보면, 사실 굉장히 단순해요. 사용자와 대화하지 않아서 제품-시장 적합성(product-market fit)을 찾지 못하는 거예요. 그걸 찾지 못하면 다른 건 별로 중요하지 않아요. 사람들이 저지르는 실수도 결국 거기에요. 고객과 계속 얘기하면서, 내가 만드는 게 실제로 쓸모 있는지 배우는 게 핵심이에요.",
     "text_zh": "如果我深挖一下公司失败的根本原因，其实很简单。就是他们不跟用户聊天，这就意味着找不到产品市场契合度(product market fit)。如果找不到产品市场契合度(product market fit)，其他什么都白搭。大家犯的错误说白了就是这个。关键就是要跟客户多交流，搞清楚你做的东西到底有没有用。",
     "text_es": "Si me pongo a analizar qué es lo que hace que las empresas fracasen, es bastante simple. Es que simplemente no hablan con los usuarios, lo que significa que no logran el ajuste producto-mercado (product market fit). Y si no logran ese ajuste producto-mercado, nada más importa realmente. Los errores que comete la gente van por ahí. Todo se trata de hablar con los clientes y aprender que estás construyendo algo que realmente sirve.",
-    "key_sentence": "Companies fail without talking to users; product market fit matters most."
+    "key_sentence": "Companies fail without talking to users; product market fit matters most.",
+    "text_trimmed": true,
+    "original_text": "If I drill down what makes companies fail, it's quite simple. It's just like they don't talk to users, which means they don't find product market fit. And if they don't find product market fit, nothing else really matters. What mistakes do people make is like it is all about that. It's all about talking to customers and learning that you're building something that's actually useful.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "drill down",
+        "definition": "To investigate or analyze a subject in greater detail.",
+        "businessContext": "In business and tech, 'drilling down' often refers to the process of examining data or feedback closely to uncover insights that can inform decision-making.",
+        "nuance": "This phrase implies a thorough and methodical approach to analysis, often used when initial findings are too broad or vague.",
+        "synonyms": [
+          "delve into",
+          "analyze deeply"
+        ],
+        "antonyms": [
+          "glance over",
+          "ignore"
+        ]
+      },
+      {
+        "word": "product market fit",
+        "definition": "The degree to which a product satisfies the needs of a specific market.",
+        "businessContext": "Achieving product market fit is crucial for startups, as it indicates that the product has found a viable customer base and meets their demands effectively.",
+        "nuance": "This term often carries the implication that without product market fit, a startup may struggle to achieve growth or sustainability.",
+        "synonyms": [
+          "market alignment",
+          "customer fit"
+        ],
+        "antonyms": [
+          "market misalignment",
+          "product-market mismatch"
+        ]
+      },
+      {
+        "word": "common mistakes",
+        "definition": "Frequent errors or misjudgments that occur in a particular context.",
+        "businessContext": "In the startup ecosystem, recognizing common mistakes can help entrepreneurs avoid pitfalls that could jeopardize their ventures.",
+        "nuance": "This phrase suggests a shared understanding of errors that many individuals or organizations make, emphasizing the importance of learning from others' experiences.",
+        "synonyms": [
+          "frequent errors",
+          "typical blunders"
+        ],
+        "antonyms": [
+          "best practices",
+          "successful strategies"
+        ]
+      },
+      {
+        "word": "early stage startups",
+        "definition": "Newly established companies that are in the initial phases of development and market entry.",
+        "businessContext": "Early stage startups often face unique challenges, such as securing funding, developing a viable product, and establishing a customer base.",
+        "nuance": "This term highlights the nascent nature of these companies, often implying a high level of risk and uncertainty in their operations.",
+        "synonyms": [
+          "new ventures",
+          "startup companies"
+        ],
+        "antonyms": [
+          "established businesses",
+          "mature companies"
+        ]
+      }
+    ]
   },
   {
-    "text": "The problem is, which anyone who hasn't done sales before that joined YC, they realize this, is that if you take the average customer group in the world, 90% are not early adopters. It doesn't matter if you have something new and cool, they're just not interested. They are not incentivized to take risks in their job to try something new. They're just incentivized to not take risks and just continue what they're doing.",
+    "text": "The problem is, which anyone who hasn't done sales before that joined YC, they realize this, is that if you take the average customer group in the world, 90% are not early adopters.",
     "speaker": "Gustaf Alströmer",
     "timestamp": "00:23:43",
     "context": "Gustaf explains why founders are often afraid to talk to customers and why they get discouraged by rejection. He's describing the reality of customer acquisition - that most potential customers are not early adopters who are willing to try new products. This insight helps founders understand that rejection is normal and expected, not a sign that their product is fundamentally flawed.",
     "vocabulary_highlights": [
+      "customer acquisition",
       "early adopters",
-      "incentivized to not take risks"
+      "average customer group",
+      "discouraged"
     ],
     "topics": [
       "Starting a Company",
@@ -50,17 +114,79 @@
     "text_ko": "문제는, YC(Y Combinator)에 합류하기 전까지 영업(sales)을 해본 적이 없는 사람들은 이걸 금방 깨닫게 된다는 거예요. 전 세계 평균 고객층을 보면 90%가 얼리어답터(early adopters)가 아니에요. 아무리 새롭고 멋진 걸 내놔도 그냥 관심이 없어요. 직장에서 새로운 걸 시도하느라 위험을 감수하도록 유리한 인센티브(incentives)가 주어지지 않고, 오히려 위험을 피하고 하던 대로 계속하려는 인센티브가 더 강하게 작용해요.",
     "text_zh": "问题在于，那些没做过销售就加入YC的人都会意识到这一点：全世界的客户群体里，90%都不是早期采用者(early adopters)。不管你的产品多新多酷，他们就是不感兴趣。他们在工作中没有动力去冒险尝试新东西，反而更有动力不去冒险，就按老路子继续做下去。",
     "text_es": "El tema es que, cualquiera que no haya hecho ventas antes y que se haya unido a YC se da cuenta de esto: si tomas al grupo promedio de clientes en el mundo, el 90% no son early adopters. No importa si tienes algo nuevo y genial, simplemente no les interesa. No tienen incentivos en su trabajo para tomar riesgos y probar algo nuevo. Al contrario, tienen incentivos para no tomar riesgos y simplemente seguir haciendo lo que ya hacen.",
-    "key_sentence": "90% of customers are not early adopters and incentivized to not take risks."
+    "key_sentence": "90% are not early adopters.",
+    "text_trimmed": true,
+    "original_text": "The problem is, which anyone who hasn't done sales before that joined YC, they realize this, is that if you take the average customer group in the world, 90% are not early adopters. It doesn't matter if you have something new and cool, they're just not interested. They are not incentivized to take risks in their job to try something new. They're just incentivized to not take risks and just continue what they're doing.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "customer acquisition",
+        "definition": "The process of attracting and converting new customers to purchase a company's products or services.",
+        "businessContext": "In business and startups, customer acquisition is critical for growth and is often measured through various marketing strategies and sales efforts.",
+        "nuance": "While customer acquisition focuses on gaining new clients, it should be balanced with customer retention strategies to ensure long-term success.",
+        "synonyms": [
+          "client onboarding",
+          "customer recruitment"
+        ],
+        "antonyms": [
+          "customer retention",
+          "customer attrition"
+        ]
+      },
+      {
+        "word": "early adopters",
+        "definition": "Individuals or groups who are among the first to use or try a new product, service, or technology before it becomes mainstream.",
+        "businessContext": "In tech and startup environments, early adopters are crucial for providing feedback and validating new ideas, often influencing broader market acceptance.",
+        "nuance": "The term carries a positive connotation, suggesting innovation and trendsetting, but can also imply a risk-taking attitude that may not appeal to all consumers.",
+        "synonyms": [
+          "pioneers",
+          "trendsetters"
+        ],
+        "antonyms": [
+          "laggards",
+          "mainstream consumers"
+        ]
+      },
+      {
+        "word": "average customer group",
+        "definition": "A demographic or segment of consumers that represents typical buying behavior and preferences within a market.",
+        "businessContext": "Understanding the average customer group helps businesses tailor their marketing strategies and product offerings to meet the needs of the majority of their potential customers.",
+        "nuance": "This term may imply a lack of distinctiveness, as it focuses on the common characteristics rather than the unique traits of niche markets.",
+        "synonyms": [
+          "typical consumer segment",
+          "mainstream audience"
+        ],
+        "antonyms": [
+          "niche market",
+          "target audience"
+        ]
+      },
+      {
+        "word": "discouraged",
+        "definition": "Feeling a loss of confidence or enthusiasm, often as a result of setbacks or challenges.",
+        "businessContext": "In a business context, a discouraged team or workforce can lead to decreased productivity and morale, impacting overall company performance.",
+        "nuance": "While 'discouraged' conveys a sense of disappointment, it can also suggest a temporary state that may be overcome with support or motivation.",
+        "synonyms": [
+          "disheartened",
+          "demoralized"
+        ],
+        "antonyms": [
+          "encouraged",
+          "motivated"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think the truth is that we're not very good at knowing what's going to succeed. Certainly we cannot figure out who's going to be the really successful company in the batch. That's not possible. What we're good at is knowing what failure looks like. What we sometimes like to tell founders at the beginning of the batch is like, 'If you fail, please do it in some new exciting way. Not one that we've seen 100 times.'",
+    "text": "I think the truth is that we're not very good at knowing what's going to succeed. Certainly we cannot figure out who's going to be the really successful company in the batch. That's not possible. What we're good at is knowing what failure looks like.",
     "speaker": "Gustaf Alströmer",
     "timestamp": "00:44:57",
     "context": "Lenny asks Gustaf how good Y Combinator is at predicting which startups will become monster hits like Airbnb or Dropbox. Gustaf gives an honest assessment that even with extensive experience working with over 600 companies, predicting massive success is nearly impossible. Instead, YC focuses on helping founders avoid common failure patterns that they've observed repeatedly across many startups.",
     "vocabulary_highlights": [
-      "monster hits",
-      "what failure looks like",
-      "in some new exciting way"
+      "predicting",
+      "successful",
+      "assessment",
+      "failure"
     ],
     "topics": [
       "Starting a Company",
@@ -77,17 +203,79 @@
     "text_ko": "사실 우리는 무엇이 성공할지 잘 알지 못해요. 확실히 이번 배치(batch)에서 누가 진짜 크게 성공할 회사가 될지 알아내는 건 불가능해요. 우리가 잘하는 건 실패가 어떤 모습인지 알아보는 거예요. 그래서 배치 초반에 창업자들에게 가끔 이렇게 말해요. \"실패한다면 제발 새롭고 흥미로운 방식으로 실패하세요. 우리가 백 번은 본 그런 실패 말고요.\"",
     "text_zh": "我觉得实话说，我们也不太会预测什么能成功。我们肯定没法看出这一批里哪家公司会真正做大，这根本不可能。但我们擅长的是，一眼就能看出失败是什么样子。所以我们有时候会跟创始人说，\"如果你们真要失败的话，至少失败得有点新意，别再用那些我们已经见过一百遍的老套路了。\"",
     "text_es": "Creo que la realidad es que no somos muy buenos prediciendo qué va a funcionar. Definitivamente no podemos adivinar cuál va a ser la empresa que realmente la va a romper en el grupo. Eso es imposible. En lo que sí somos buenos es en reconocer cómo se ve el fracaso. A veces lo que les decimos a los fundadores al principio es algo así como: \"Si van a fracasar, por favor háganlo de alguna manera nueva y emocionante. No de una forma que ya hemos visto cien veces.\"",
-    "key_sentence": "We know what failure looks like; please fail in some new exciting way."
+    "key_sentence": "What we're good at is knowing what failure looks like.",
+    "text_trimmed": true,
+    "original_text": "I think the truth is that we're not very good at knowing what's going to succeed. Certainly we cannot figure out who's going to be the really successful company in the batch. That's not possible. What we're good at is knowing what failure looks like. What we sometimes like to tell founders at the beginning of the batch is like, 'If you fail, please do it in some new exciting way. Not one that we've seen 100 times.'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "predicting",
+        "definition": "The act of forecasting or estimating a future event or outcome based on current data or trends.",
+        "businessContext": "In business and technology, predicting is often used to anticipate market trends, customer behavior, or the success of new products, enabling companies to make informed strategic decisions.",
+        "nuance": "While predicting can imply a level of certainty, it often carries an inherent uncertainty, as outcomes can be influenced by numerous unpredictable factors.",
+        "synonyms": [
+          "forecasting",
+          "projecting"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "successful",
+        "definition": "Achieving desired aims or attaining prosperity and positive outcomes in a particular context.",
+        "businessContext": "In the startup ecosystem, a successful company is one that not only meets its financial goals but also demonstrates growth, innovation, and market impact.",
+        "nuance": "The term 'successful' can vary in meaning depending on the specific goals of a business, making it essential to define success within the context of the organization's objectives.",
+        "synonyms": [
+          "prosperous",
+          "thriving"
+        ],
+        "antonyms": [
+          "unsuccessful",
+          "failing"
+        ]
+      },
+      {
+        "word": "assessment",
+        "definition": "The evaluation or estimation of the nature, quality, or ability of someone or something.",
+        "businessContext": "In business, assessments are critical for measuring performance, understanding market conditions, and evaluating employee capabilities, often guiding strategic planning and resource allocation.",
+        "nuance": "Assessment can imply a formal process, but it can also refer to informal evaluations; clarity on the method and criteria used is important for credibility.",
+        "synonyms": [
+          "evaluation",
+          "appraisal"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "failure",
+        "definition": "The lack of success in achieving a desired goal or outcome, often resulting in negative consequences.",
+        "businessContext": "In the context of startups, failure is frequently viewed as a learning opportunity, providing valuable insights that can inform future strategies and innovations.",
+        "nuance": "While failure carries a negative connotation, it can also be seen as a necessary step in the entrepreneurial journey, emphasizing the importance of resilience and adaptability.",
+        "synonyms": [
+          "setback",
+          "collapse"
+        ],
+        "antonyms": [
+          "success",
+          "achievement"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think when people think about quality, they often think about, 'What is my personal definition of quality?' I have a bar of quality, but quality to me of a good product idea, a good startup idea, has more to do with the customer think is valuable. And if you move fast by talking to customers and having customer learnings and know the problems, then you will actually come up with something that's high quality.",
+    "text": "Quality to me of a good product idea... has more to do with what the customer thinks is valuable.",
     "speaker": "Gustaf Alströmer",
     "timestamp": "00:50:35",
     "context": "Lenny presents Gustaf with a founder's dilemma about whether to focus on speed versus quality. Gustaf argues that this is a false dichotomy and explains that true quality in startups isn't about the founder's personal standards, but about creating something customers find valuable. He emphasizes that speed in customer discovery actually leads to higher quality products because you understand real problems better.",
     "vocabulary_highlights": [
-      "bar of quality",
-      "false dichotomy",
-      "customer learnings"
+      "valuable",
+      "quality",
+      "dichotomy",
+      "focus"
     ],
     "topics": [
       "Product Management",
@@ -104,7 +292,68 @@
     "text_ko": "제 생각엔 사람들이 품질을 생각할 때 보통 '내가 생각하는 품질의 정의는 뭘까?' 같은 개인적인 기준을 떠올려요. 하지만 저는 좋은 제품 아이디어(product idea)나 스타트업 아이디어(startup)는 제 기준보다 고객이 가치 있다고 느끼는지가 더 중요하다고 봐요. 고객과 빠르게 대화하고 고객 인사이트(customer learnings)를 얻어 문제를 정확히 알게 되면 오히려 높은 품질의 결과물이 나오거든요.",
     "text_zh": "我觉得大家一提到质量，往往想的是\"我个人对质量的定义是什么？\"我有自己的质量标准，但对我来说，一个好产品想法、好的创业点子的质量，更多取决于客户觉得有没有价值。如果你通过跟客户聊天、了解客户需求、摸清楚问题在哪儿来快速行动，那你其实就能做出高质量的东西。",
     "text_es": "Creo que cuando la gente piensa en calidad, muchas veces se pregunta: \"¿Cuál es mi definición personal de calidad?\" Yo tengo mi estándar de calidad, pero para mí, la calidad de una buena idea de producto, de una buena idea de startup, tiene más que ver con lo que el cliente considera valioso. Y si te mueves rápido hablando con clientes, aprendiendo de ellos y conociendo bien los problemas, entonces vas a crear algo que realmente tenga calidad.",
-    "key_sentence": "Quality is defined by customer learnings, not personal definitions of quality."
+    "key_sentence": "has more to do with what the customer thinks is valuable.",
+    "text_trimmed": true,
+    "original_text": "I think when people think about quality, they often think about, 'What is my personal definition of quality?' I have a bar of quality, but quality to me of a good product idea, a good startup idea, has more to do with the customer think is valuable. And if you move fast by talking to customers and having customer learnings and know the problems, then you will actually come up with something that's high quality.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "valuable",
+        "definition": "Having worth or significance; useful or important in a particular context.",
+        "businessContext": "In business, a product or service is considered valuable if it meets customer needs or solves a problem, thereby enhancing customer satisfaction and loyalty.",
+        "nuance": "The term often implies a subjective assessment, as what is valuable can vary greatly among different customers or markets.",
+        "synonyms": [
+          "precious",
+          "beneficial"
+        ],
+        "antonyms": [
+          "worthless",
+          "insignificant"
+        ]
+      },
+      {
+        "word": "quality",
+        "definition": "The standard of something as measured against other things of a similar kind; a degree of excellence.",
+        "businessContext": "Quality is a critical factor in product development and customer satisfaction, influencing brand reputation and market competitiveness.",
+        "nuance": "While often associated with high standards, quality can also refer to the adequacy of a product to meet specific customer expectations.",
+        "synonyms": [
+          "caliber",
+          "excellence"
+        ],
+        "antonyms": [
+          "inferiority",
+          "mediocrity"
+        ]
+      },
+      {
+        "word": "dichotomy",
+        "definition": "A division or contrast between two things that are represented as being opposed or entirely different.",
+        "businessContext": "In business strategy, a dichotomy may refer to opposing approaches, such as traditional vs. innovative methods, which can influence decision-making and market positioning.",
+        "nuance": "The term can imply an oversimplification of complex issues, so it is important to use it when discussing clear, distinct contrasts.",
+        "synonyms": [
+          "division",
+          "contrast"
+        ],
+        "antonyms": [
+          "unity",
+          "sameness"
+        ]
+      },
+      {
+        "word": "focus",
+        "definition": "The center of interest or activity; to concentrate attention or effort on a particular task or objective.",
+        "businessContext": "In a business context, focus is essential for strategic planning and execution, ensuring that resources are allocated effectively to achieve key goals.",
+        "nuance": "While focus suggests a narrowing of attention, it can also imply depth and thoroughness in addressing specific objectives.",
+        "synonyms": [
+          "concentration",
+          "emphasis"
+        ],
+        "antonyms": [
+          "distraction",
+          "diversification"
+        ]
+      }
+    ]
   },
   {
     "text": "I don't think that you can just decide... You can't also be fully collaborative, everyone gets decided about everything. So small startups agree on how they decide together. So after that, everyone just follow the process. That's usually how things work out.",
@@ -112,9 +361,10 @@
     "timestamp": "00:55:42",
     "context": "Gustaf responds to Lenny's question about whether successful founders tend to be more autocratic (like Steve Jobs) or more collaborative in their leadership style. He explains that for small startups, the key isn't being at either extreme, but rather establishing clear decision-making processes that the founding team agrees on and then consistently following those processes to avoid endless rehashing of decisions.",
     "vocabulary_highlights": [
-      "fully collaborative",
-      "everyone gets decided about everything",
-      "rehashing of decisions"
+      "collaborative",
+      "process",
+      "autocratic",
+      "leadership style"
     ],
     "topics": [
       "Leadership & Management",
@@ -131,17 +381,77 @@
     "text_ko": "그냥 한 사람이 “결정하면 된다”라고만 할 수는 없다고 생각해요. 반대로 모든 걸 다 같이, 완전 협업으로 모두가 합의해서 결정해야 한다고도 할 수 없고요. 그래서 소규모 스타트업(small startups)들은 누구랑 어떻게 결정을 내릴지 미리 합의해요. 그다음에는 다들 그 프로세스를 따라서 움직이는 경우가 대부분이에요.",
     "text_zh": "我觉得不是说你想怎么决定就怎么决定的...你也不能什么事都让所有人一起商量，每个人对每件事都要参与决策。所以小的创业公司要先商量好大家怎么做决定。定好了之后，大家就按这个流程走。通常都是这么搞的。",
     "text_es": "No creo que puedas simplemente decidir... Tampoco puedes ser totalmente colaborativo, que todo el mundo opine sobre cada cosa. Entonces las startups pequeñas se ponen de acuerdo sobre cómo van a tomar decisiones juntos. Y después de eso, todos siguen el proceso. Así es como suelen funcionar las cosas normalmente.",
-    "key_sentence": "Startups must agree on decisions; rehashing of decisions hinders progress."
+    "key_sentence": "small startups agree on how they decide together.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "collaborative",
+        "definition": "Involving two or more parties working together to achieve a common goal.",
+        "businessContext": "In business settings, a collaborative approach often fosters innovation and enhances team dynamics, particularly in startups where resources and ideas are shared.",
+        "nuance": "While 'collaborative' suggests teamwork, it can imply a slower decision-making process due to the need for consensus.",
+        "synonyms": [
+          "cooperative",
+          "joint"
+        ],
+        "antonyms": [
+          "individualistic",
+          "autonomous"
+        ]
+      },
+      {
+        "word": "process",
+        "definition": "A series of actions or steps taken to achieve a particular end.",
+        "businessContext": "In the context of startups, a well-defined process is crucial for operational efficiency and helps in scaling the business as it grows.",
+        "nuance": "The term 'process' can sometimes imply rigidity, which may not be suitable in highly dynamic environments where flexibility is key.",
+        "synonyms": [
+          "procedure",
+          "method"
+        ],
+        "antonyms": [
+          "disorganization",
+          "chaos"
+        ]
+      },
+      {
+        "word": "autocratic",
+        "definition": "A leadership style characterized by individual control over all decisions with little input from team members.",
+        "businessContext": "In some startups, especially during early stages, an autocratic leadership style may be adopted to make quick decisions, although it can stifle creativity in the long run.",
+        "nuance": "While effective in crisis situations, an autocratic approach can lead to employee dissatisfaction and high turnover if overused.",
+        "synonyms": [
+          "dictatorial",
+          "authoritarian"
+        ],
+        "antonyms": [
+          "democratic",
+          "participative"
+        ]
+      },
+      {
+        "word": "leadership style",
+        "definition": "The manner and approach of providing direction, implementing plans, and motivating people.",
+        "businessContext": "Different leadership styles, such as transformational or transactional, can significantly impact team performance and company culture in startups.",
+        "nuance": "Choosing the appropriate leadership style is crucial, as it can influence employee engagement and the overall success of the organization.",
+        "synonyms": [
+          "management style",
+          "leadership approach"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "In that transition, we're talking about trillions of dollars of money moving from things that cause climate change to things that don't. The scale of this transition is not something we've seen recently. Like software is not that big in comparison. It actually is much smaller than this transition.",
+    "text": "In that transition, we're talking about trillions of dollars of money moving from things that cause climate change to things that don't. The scale of this transition is not something we've seen recently. Like software is not that big in comparison.",
     "speaker": "Gustaf Alströmer",
     "timestamp": "00:59:54",
     "context": "Gustaf explains why climate tech has become such an attractive area for entrepreneurs and investors. He's describing the massive economic opportunity created by the global transition away from carbon-emitting technologies. This represents a fundamental shift where governments and corporations have committed to changing entire energy systems, creating unprecedented business opportunities that dwarf even the software industry in scale.",
     "vocabulary_highlights": [
-      "trillions of dollars",
-      "dwarf even the software industry",
-      "unprecedented business opportunities"
+      "transition",
+      "scale",
+      "economic opportunity",
+      "climate tech"
     ],
     "topics": [
       "Starting a Company",
@@ -158,6 +468,67 @@
     "text_ko": "그 전환(transition)에서는 기후변화(climate change)를 유발하는 쪽에서 그렇지 않은 쪽으로 수조 달러가 이동한다고 얘기하는 거예요. 이 전환의 규모는 최근에 우리가 본 것과는 비교가 안 되는 수준이에요. 소프트웨어(software) 같은 건 이거에 비하면 규모가 작아요. 사실 훨씬 작죠.",
     "text_zh": "在这个转型过程中，我们说的是万亿美元级别的资金要从那些造成气候变化的领域转向不造成气候变化的领域。这个转型的规模是我们最近都没见过的。就连软件行业跟这个比起来都不算什么，实际上比这个转型要小得多。",
     "text_es": "En esa transición, estamos hablando de billones de dólares que se van a mover de cosas que causan el cambio climático a cosas que no lo causan. La magnitud de esta transición es algo que no hemos visto en mucho tiempo. O sea, el software no es tan grande en comparación. En realidad es muchísimo más pequeño que esta transición.",
-    "key_sentence": "This transition involves trillions of dollars, dwarfing even the software industry."
+    "key_sentence": "This transition involves trillions of dollars, dwarfing even the software industry.",
+    "text_trimmed": true,
+    "original_text": "In that transition, we're talking about trillions of dollars of money moving from things that cause climate change to things that don't. The scale of this transition is not something we've seen recently. Like software is not that big in comparison. It actually is much smaller than this transition.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "transition",
+        "definition": "The process of changing from one state or condition to another.",
+        "businessContext": "In business, transition often refers to shifts in strategies, technologies, or market focus, particularly during periods of significant change such as digital transformation or sustainability efforts.",
+        "nuance": "While 'transition' implies a positive or necessary change, it can also suggest challenges or disruptions during the change process.",
+        "synonyms": [
+          "shift",
+          "change"
+        ],
+        "antonyms": [
+          "stagnation",
+          "continuity"
+        ]
+      },
+      {
+        "word": "scale",
+        "definition": "The size or level of something, often used to describe the extent to which a business can grow or expand its operations.",
+        "businessContext": "In the context of startups, 'scale' refers to the ability to increase production or service delivery without a corresponding increase in costs, often crucial for achieving profitability.",
+        "nuance": "The term can imply both the physical size of operations and the capacity for growth, and is often associated with efficiency and market reach.",
+        "synonyms": [
+          "extent",
+          "magnitude"
+        ],
+        "antonyms": [
+          "diminution",
+          "reduction"
+        ]
+      },
+      {
+        "word": "economic opportunity",
+        "definition": "A situation or condition that allows individuals or businesses to improve their financial status or create wealth.",
+        "businessContext": "In business, economic opportunity often refers to market gaps or emerging trends that can be leveraged for profit, particularly in sectors like technology and renewable energy.",
+        "nuance": "The phrase carries a positive connotation, suggesting potential for growth and advancement, but can also imply competition for limited resources.",
+        "synonyms": [
+          "financial prospect",
+          "market potential"
+        ],
+        "antonyms": [
+          "economic disadvantage",
+          "financial limitation"
+        ]
+      },
+      {
+        "word": "climate tech",
+        "definition": "Technological innovations aimed at addressing climate change and promoting environmental sustainability.",
+        "businessContext": "In the business world, climate tech encompasses a range of solutions, from renewable energy sources to carbon capture technologies, and is increasingly seen as a vital sector for investment and growth.",
+        "nuance": "The term is often associated with innovation and urgency, reflecting the pressing need to combat climate change, and can evoke a sense of responsibility among businesses.",
+        "synonyms": [
+          "sustainable technology",
+          "green tech"
+        ],
+        "antonyms": [
+          "polluting technology",
+          "environmentally harmful practices"
+        ]
+      }
+    ]
   }
 ]

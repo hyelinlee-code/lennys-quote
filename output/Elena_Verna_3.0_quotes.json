@@ -1,12 +1,14 @@
 [
   {
-    "text": "We live in tech. There's always lots of startups and startups obviously looking to grow. There is a huge misconception in the field that in order to get growth going, you need a growth team. To figure out your product market fit and how to distribute it, it's not something that you can outsource to somebody.",
+    "text": "We live in tech. There's always lots of startups and startups obviously looking to grow. There is a huge misconception in the field that in order to get growth going, you need a growth team.",
     "speaker": "Elena Verna",
     "timestamp": "00:00:26",
     "context": "Lenny asks Elena about growth tactics that never work, starting with the first item on her list. Elena explains one of the biggest hiring mistakes she sees in the growth field - companies hiring growth teams too early. She argues that achieving product-market fit and learning how to distribute your product requires founder-led effort rather than outsourcing to a specialized team.",
     "vocabulary_highlights": [
-      "huge misconception",
-      "outsource to somebody"
+      "misconception",
+      "growth team",
+      "tactics",
+      "startups"
     ],
     "topics": [
       "Career Development",
@@ -22,16 +24,79 @@
     "text_ko": "우리는 테크(tech) 업계에서 살고 있어요. 항상 스타트업(startups)이 많고, 스타트업들은 당연히 성장하려고 해요. 그런데 업계에는 성장을 위해 그로스 팀(growth team)이 꼭 필요하다는 큰 오해가 있어요. 제품-시장 적합성(product-market fit)을 찾아서 그걸 어떻게 배포(distribution)할지는 다른 사람에게 아웃소싱(outsource)할 수 있는 일이 아니에요.",
     "text_zh": "我们就在科技圈里混，到处都是初创公司，而且都想着要做大做强。但是这个行业有个特别大的误区，就是觉得想要实现增长，就得搞个增长团队(growth team)。但其实要搞清楚你的产品市场匹配度(product market fit)，还有怎么去推广分发，这些事儿你是没法外包给别人的。",
     "text_es": "Nosotros vivimos en el mundo tech. Siempre hay un montón de startups y obviamente todas buscan crecer. Hay un malentendido enorme en el sector de que para empezar a crecer necesitas un equipo de crecimiento (growth team). Para descifrar tu product market fit y cómo distribuirlo, eso no es algo que puedas tercerizar o delegar a alguien más.",
-    "key_sentence": "A huge misconception is that growth can be outsourced to somebody."
+    "key_sentence": "A huge misconception is that growth can be outsourced to somebody.",
+    "text_trimmed": true,
+    "original_text": "We live in tech. There's always lots of startups and startups obviously looking to grow. There is a huge misconception in the field that in order to get growth going, you need a growth team. To figure out your product market fit and how to distribute it, it's not something that you can outsource to somebody.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "misconception",
+        "definition": "A misconception is a view or opinion that is incorrect based on faulty thinking or understanding.",
+        "businessContext": "In business, especially in tech and startups, misconceptions can lead to misguided strategies or decisions that hinder growth and innovation.",
+        "nuance": "While often used to describe a common misunderstanding, it can imply a need for correction or clarification in a professional setting.",
+        "synonyms": [
+          "fallacy",
+          "misunderstanding"
+        ],
+        "antonyms": [
+          "understanding",
+          "clarity"
+        ]
+      },
+      {
+        "word": "growth team",
+        "definition": "A growth team is a specialized group within an organization focused on driving customer acquisition, retention, and overall business growth through data-driven strategies.",
+        "businessContext": "In startups, a growth team often employs innovative marketing tactics and product development to rapidly scale the business and enhance user engagement.",
+        "nuance": "The term suggests a proactive and analytical approach to growth, and while essential for some companies, it may not be necessary for all, depending on their stage and strategy.",
+        "synonyms": [
+          "expansion team",
+          "scaling team"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "tactics",
+        "definition": "Tactics are specific actions or strategies designed to achieve a particular goal or objective, often within a larger plan.",
+        "businessContext": "In the context of startups, tactics are crucial for executing marketing campaigns, product launches, and operational improvements to achieve growth targets.",
+        "nuance": "While tactics are often seen as short-term actions, they should align with broader strategic goals to be effective.",
+        "synonyms": [
+          "strategies",
+          "approaches"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "startups",
+        "definition": "Startups are newly established businesses, typically in the technology sector, that aim to develop a scalable business model and often seek investment to fuel rapid growth.",
+        "businessContext": "In the tech industry, startups are characterized by their innovative approaches and high-risk, high-reward potential, often disrupting existing markets.",
+        "nuance": "The term conveys a sense of innovation and entrepreneurship, but can also imply instability and uncertainty due to the high failure rate of new ventures.",
+        "synonyms": [
+          "new ventures",
+          "emerging companies"
+        ],
+        "antonyms": [
+          "established companies",
+          "conglomerates"
+        ]
+      }
+    ]
   },
   {
-    "text": "Never ever once have I seen a rebrand or redesign, especially of UK marketing site produce good performance results. New CMO comes in designing their website or designing the brand as if it was reflection of their personal taste, and oftentimes it's promised with our acquisition is going to go up and it never materializes into anything meaningful.",
+    "text": "Never ever once have I seen a rebrand or redesign, especially of UK marketing site produce good performance results.",
     "speaker": "Elena Verna",
     "timestamp": "00:00:45",
     "context": "Elena discusses her second growth tactic that never works - rebranding or redesigning marketing sites to drive growth. She describes a common pattern where new CMOs arrive and redesign websites based on personal preferences while promising improved acquisition metrics. Elena emphasizes that these redesigns consistently fail to deliver meaningful performance improvements despite significant investment.",
     "vocabulary_highlights": [
-      "never materializes into anything meaningful",
-      "reflection of their personal taste"
+      "rebrand",
+      "redesign",
+      "performance results",
+      "growth tactic"
     ],
     "topics": [
       "Growth & Marketing",
@@ -47,7 +112,68 @@
     "text_ko": "저는 리브랜딩(rebrand)이나 리디자인(redesign), 특히 영국 마케팅 사이트(marketing site) 쪽에서 좋은 성과를 낸 걸 한 번도 본 적이 없어요. 새로 오는 CMO(최고마케팅책임자)들은 자기 개인 취향을 반영하듯 웹사이트나 브랜드를 손대고, '고객 획득(acquisition)이 늘어날 거예요'라고 약속하곤 하는데 실제로는 의미 있는 결과로 이어지는 경우가 거의 없어요.",
     "text_zh": "我从来没见过重新做品牌或者redesign网站，特别是英国那些营销网站，能真正带来好效果的。新来的CMO总是按照自己的喜好来搞网站设计或者品牌形象，嘴上说什么客户获取会大幅提升，结果每次都是雷声大雨点小，根本没什么实际效果。",
     "text_es": "Nunca, pero nunca he visto que un cambio de marca o rediseño, especialmente de sitios web de marketing en Reino Unido, dé buenos resultados de rendimiento. Llega un CMO nuevo y se pone a diseñar su sitio web o la marca como si fuera reflejo de sus gustos personales, y muchas veces prometen que va a subir la captación de clientes (acquisition) y al final no se materializa en nada que valga la pena.",
-    "key_sentence": "Rebrands never materialize into anything meaningful when reflecting personal taste."
+    "key_sentence": "Never ever once have I seen a rebrand or redesign, especially of UK marketing site produce good performance results.",
+    "text_trimmed": true,
+    "original_text": "Never ever once have I seen a rebrand or redesign, especially of UK marketing site produce good performance results. New CMO comes in designing their website or designing the brand as if it was reflection of their personal taste, and oftentimes it's promised with our acquisition is going to go up and it never materializes into anything meaningful.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "rebrand",
+        "definition": "To change the corporate image of an organization or product, often involving a new name, logo, or design.",
+        "businessContext": "In business, rebranding is often undertaken to refresh a company's image, appeal to a new target market, or distance itself from negative associations.",
+        "nuance": "Rebranding can carry a sense of urgency or necessity, often implying that previous branding was ineffective or outdated.",
+        "synonyms": [
+          "reposition",
+          "revamp"
+        ],
+        "antonyms": [
+          "maintain",
+          "preserve"
+        ]
+      },
+      {
+        "word": "redesign",
+        "definition": "To alter the design of a product, service, or website to improve its functionality, aesthetics, or user experience.",
+        "businessContext": "In tech and startup environments, redesigning is crucial for enhancing user engagement and adapting to evolving market demands.",
+        "nuance": "Redesign often suggests a significant change rather than minor adjustments, indicating a thoughtful and strategic approach to improvement.",
+        "synonyms": [
+          "revise",
+          "restructure"
+        ],
+        "antonyms": [
+          "retain",
+          "standardize"
+        ]
+      },
+      {
+        "word": "performance results",
+        "definition": "Quantitative or qualitative data that reflects the effectiveness or success of a business operation, marketing campaign, or product.",
+        "businessContext": "Performance results are critical for assessing the impact of strategies and making informed decisions in business and tech environments.",
+        "nuance": "This term emphasizes measurable outcomes, often used in discussions about accountability and return on investment.",
+        "synonyms": [
+          "outcomes",
+          "results metrics"
+        ],
+        "antonyms": [
+          "failures",
+          "shortcomings"
+        ]
+      },
+      {
+        "word": "growth tactic",
+        "definition": "A strategic approach or method employed by a business to increase its market share, revenue, or customer base.",
+        "businessContext": "In startups and tech companies, growth tactics are essential for scaling operations and achieving sustainable development in competitive markets.",
+        "nuance": "The term implies a proactive and often innovative approach to expansion, distinguishing it from passive growth strategies.",
+        "synonyms": [
+          "expansion strategy",
+          "scaling method"
+        ],
+        "antonyms": [
+          "contraction strategy",
+          "reduction plan"
+        ]
+      }
+    ]
   },
   {
     "text": "If every single one of your initiatives that you're doing on growth is an experiment that's a problem. It's almost like a disease, like a paralyzing disease.",
@@ -55,7 +181,10 @@
     "timestamp": "01:05:59",
     "context": "Elena introduces her third point about growth tactics that don't work - over-experimenting on every growth initiative. She argues that when growth teams feel compelled to test everything scientifically before implementation, it becomes counterproductive. This creates a 'paralyzing disease' that slows down progress and prevents teams from taking action based on intuition and experience.",
     "vocabulary_highlights": [
-      "paralyzing disease"
+      "initiative",
+      "experiment",
+      "compelled",
+      "tactics"
     ],
     "topics": [
       "Growth & Marketing",
@@ -71,7 +200,66 @@
     "text_ko": "만약 그로스(growth) 관련해서 하는 모든 이니셔티브(initiatives)가 다 실험(experiment)이라면 그건 문제예요. 거의 조직을 마비시키는 병 같아요.",
     "text_zh": "如果你在增长方面做的每一件事都还在试验阶段，那就有问题了。这简直就像得了病一样，让人动弹不得的那种病。",
     "text_es": "Si cada una de las iniciativas de crecimiento que estás haciendo es un experimento, ahí tienes un problema. Es casi como una enfermedad, como una enfermedad que te paraliza.",
-    "key_sentence": "Growth initiatives as experiments create a paralyzing disease."
+    "key_sentence": "Growth initiatives as experiments create a paralyzing disease.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "initiative",
+        "definition": "An initiative is a strategic plan or action designed to achieve a specific goal or improve a situation.",
+        "businessContext": "In business, initiatives are often launched to drive growth, enhance efficiency, or foster innovation within an organization.",
+        "nuance": "While 'initiative' implies a proactive approach, it can also suggest a lack of thorough planning if overused or poorly executed.",
+        "synonyms": [
+          "program",
+          "project"
+        ],
+        "antonyms": [
+          "inactivity",
+          "apathy"
+        ]
+      },
+      {
+        "word": "experiment",
+        "definition": "An experiment is a systematic procedure undertaken to test a hypothesis or demonstrate a known fact.",
+        "businessContext": "In the context of startups and tech, experiments are frequently used to validate ideas, products, or marketing strategies through trial and error.",
+        "nuance": "The term 'experiment' can carry a connotation of uncertainty or risk, suggesting that outcomes are not guaranteed.",
+        "synonyms": [
+          "trial",
+          "test"
+        ],
+        "antonyms": [
+          "certainty",
+          "establishment"
+        ]
+      },
+      {
+        "word": "compelled",
+        "definition": "Compelled refers to being driven or forced to take a particular action due to external pressures or internal motivations.",
+        "businessContext": "In a business setting, employees may feel compelled to meet deadlines or adhere to company policies, often influenced by organizational culture or leadership.",
+        "nuance": "The word often implies a lack of choice, which can carry negative connotations if used to describe employee motivation.",
+        "synonyms": [
+          "obliged",
+          "forced"
+        ],
+        "antonyms": [
+          "free",
+          "unconstrained"
+        ]
+      },
+      {
+        "word": "tactics",
+        "definition": "Tactics are specific actions or strategies employed to achieve a particular objective, often as part of a larger plan.",
+        "businessContext": "In business, tactics are crucial for executing strategies effectively, whether in marketing, sales, or operational processes.",
+        "nuance": "The term 'tactics' suggests a focus on short-term actions, which may not always align with long-term strategic goals.",
+        "synonyms": [
+          "strategies",
+          "approaches"
+        ],
+        "antonyms": [
+          "strategies",
+          "plans"
+        ]
+      }
+    ]
   },
   {
     "text": "My north star metric is insights per minute. That's what I try to use whenever I have any live meetings with people so it squarely fits within what I'm optimizing for.",
@@ -80,7 +268,9 @@
     "context": "Lenny reads a listener comment praising Elena's ability to pack years of knowledge into every word, noting how her content is worth digesting slowly and repeatedly. Elena responds by revealing her personal performance metric - insights per minute. She explains this is what she optimizes for in all her live meetings and interactions with people.",
     "vocabulary_highlights": [
       "north star metric",
-      "squarely fits within"
+      "optimizing",
+      "insights",
+      "digesting"
     ],
     "topics": [
       "Communication Skills",
@@ -96,17 +286,77 @@
     "text_ko": "제 가장 중요한 지표인 노스스타 메트릭(north star metric)은 분당 얻는 인사이트(insights per minute)예요. 사람들과 라이브 미팅을 할 때면 항상 그걸 기준으로 삼아요. 그래서 제가 최적화하려는 방향에 딱 맞아떨어져요.",
     "text_zh": "我的北极星指标(north star metric)就是每分钟能获得多少洞察。所以我在跟人开会的时候都会用这个标准，这正好符合我想要优化的目标。",
     "text_es": "Mi métrica clave es la cantidad de insights por minuto. Eso es lo que trato de usar siempre que tengo reuniones en vivo con la gente, así que encaja perfectamente con lo que estoy tratando de optimizar.",
-    "key_sentence": "My north star metric is insights per minute, optimizing for live meetings."
+    "key_sentence": "My north star metric is insights per minute, optimizing for live meetings.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "north star metric",
+        "definition": "A north star metric is a key performance indicator that serves as a guiding focus for a company's growth and success. It encapsulates the primary goal that aligns the team's efforts and drives long-term value.",
+        "businessContext": "In business and tech environments, a north star metric helps teams prioritize their initiatives and measure progress towards overarching objectives, ensuring that all activities contribute to this central goal.",
+        "nuance": "While it is essential to have a north star metric, it should be chosen carefully to reflect the core mission of the organization and not just short-term gains.",
+        "synonyms": [
+          "key performance indicator",
+          "guiding metric"
+        ],
+        "antonyms": [
+          "distraction metric",
+          "N/A"
+        ]
+      },
+      {
+        "word": "optimizing",
+        "definition": "Optimizing refers to the process of making something as effective, perfect, or functional as possible. It involves analyzing and improving systems, processes, or products to achieve the best possible outcomes.",
+        "businessContext": "In business settings, optimizing is crucial for enhancing operational efficiency, increasing productivity, and maximizing resource utilization, often leading to better financial performance.",
+        "nuance": "The term is often associated with continuous improvement and data-driven decision-making, suggesting a proactive approach rather than a reactive one.",
+        "synonyms": [
+          "enhancing",
+          "refining"
+        ],
+        "antonyms": [
+          "deteriorating",
+          "neglecting"
+        ]
+      },
+      {
+        "word": "insights",
+        "definition": "Insights are deep understandings or realizations derived from data analysis, observations, or experiences. They provide clarity and inform decision-making processes.",
+        "businessContext": "In the business and tech landscape, insights are critical for strategic planning, product development, and marketing, as they help organizations understand customer behavior and market trends.",
+        "nuance": "Insights should be actionable and relevant, distinguishing them from mere data or information, which may not provide the same level of understanding.",
+        "synonyms": [
+          "understandings",
+          "revelations"
+        ],
+        "antonyms": [
+          "ignorance",
+          "confusion"
+        ]
+      },
+      {
+        "word": "digesting",
+        "definition": "Digesting refers to the process of breaking down and comprehending information or data. It involves analyzing and assimilating content to derive meaning or understanding.",
+        "businessContext": "In business contexts, digesting information is essential for effective communication, decision-making, and strategic planning, as it allows individuals and teams to process complex data and insights.",
+        "nuance": "The term often implies a thoughtful and thorough consideration of information, rather than a superficial or hasty review.",
+        "synonyms": [
+          "processing",
+          "comprehending"
+        ],
+        "antonyms": [
+          "misunderstanding",
+          "overlooking"
+        ]
+      }
+    ]
   },
   {
-    "text": "You have a lot of renowned interest in growth hacks, like what is the sure things to get growth. In the age of social media everybody and anybody tries to share their tips and tricks. Oftentimes things that are completely out of context or they are very specific to one example and actually do not apply as a pattern.",
+    "text": "You have a lot of renowned interest in growth hacks, like what is the sure things to get growth. In the age of social media everybody and anybody tries to share their tips and tricks.",
     "speaker": "Elena Verna",
     "timestamp": "00:00:00",
     "context": "Lenny asks Elena to frame her list of growth tactics that never work. Elena explains that growth is a relatively new field with many newcomers seeking shortcuts and 'sure things' to drive growth. She describes how social media has amplified the problem, with people sharing tips and tricks that are often taken out of context or are too specific to be applied as general patterns across different businesses.",
     "vocabulary_highlights": [
-      "renowned interest",
-      "out of context",
-      "apply as a pattern"
+      "growth hacks",
+      "tactics",
+      "shortcuts",
+      "drive growth"
     ],
     "topics": [
       "Growth & Marketing",
@@ -122,16 +372,79 @@
     "text_ko": "많은 사람들이 성장 해킹(growth hacks)에 큰 관심이 있어요. 무엇이 확실히 성장을 가져다주는지 알고 싶어하죠. 소셜미디어 시대엔 누구나 자기만의 팁과 요령을 공유하려 하고, 그런데 그중 상당수가 맥락에 전혀 맞지 않거나 특정 사례에만 해당해서 일반적인 패턴으로 적용되기 어려운 경우가 많아요.",
     "text_zh": "你对增长黑客(growth hacks)特别感兴趣，想知道到底什么招数能确保增长。现在这个社交媒体时代，什么人都在分享自己的小窍门和套路。但很多时候这些东西要么完全不着边际，要么就是针对某个特定案例的，根本没法当作通用模式来用。",
     "text_es": "Veo que tienes mucho interés en los growth hacks, como cuáles son las fórmulas seguras para crecer. En la era de las redes sociales, todo el mundo quiere compartir sus trucos y consejos. Muchas veces son cosas completamente fuera de contexto o muy específicas de un caso particular que en realidad no se pueden aplicar como un patrón general.",
-    "key_sentence": "Renowned interest in growth hacks often leads to out of context advice."
+    "key_sentence": "everybody and anybody tries to share their tips and tricks.",
+    "text_trimmed": true,
+    "original_text": "You have a lot of renowned interest in growth hacks, like what is the sure things to get growth. In the age of social media everybody and anybody tries to share their tips and tricks. Oftentimes things that are completely out of context or they are very specific to one example and actually do not apply as a pattern.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "growth hacks",
+        "definition": "Innovative strategies or techniques aimed at achieving rapid growth in a business or product with minimal resources.",
+        "businessContext": "In the startup ecosystem, growth hacks are often employed to quickly increase user acquisition or market share, leveraging unconventional methods that can yield significant results.",
+        "nuance": "While 'growth hacks' suggest clever and resourceful approaches, they may also imply a lack of sustainability or long-term planning.",
+        "synonyms": [
+          "growth strategies",
+          "scalable tactics"
+        ],
+        "antonyms": [
+          "stagnation techniques",
+          "N/A"
+        ]
+      },
+      {
+        "word": "tactics",
+        "definition": "Specific actions or strategies designed to achieve a particular goal or objective.",
+        "businessContext": "In business, tactics are often part of a larger strategic plan, focusing on the implementation of specific initiatives to drive performance and results.",
+        "nuance": "The term 'tactics' often conveys a sense of short-term focus, contrasting with broader strategic planning.",
+        "synonyms": [
+          "strategies",
+          "approaches"
+        ],
+        "antonyms": [
+          "strategic vision",
+          "N/A"
+        ]
+      },
+      {
+        "word": "shortcuts",
+        "definition": "Methods or techniques that allow for quicker or easier completion of tasks, often bypassing standard procedures.",
+        "businessContext": "In a business context, shortcuts can be used to enhance efficiency, but they may also risk quality or compliance if not applied judiciously.",
+        "nuance": "While 'shortcuts' can imply efficiency, they may also carry a negative connotation of cutting corners or neglecting important processes.",
+        "synonyms": [
+          "expedients",
+          "quick fixes"
+        ],
+        "antonyms": [
+          "thorough processes",
+          "N/A"
+        ]
+      },
+      {
+        "word": "drive growth",
+        "definition": "To actively promote or facilitate an increase in business metrics such as revenue, user base, or market presence.",
+        "businessContext": "In business, driving growth is a primary objective for leaders and marketers, often involving a combination of strategies, marketing efforts, and product development.",
+        "nuance": "The phrase 'drive growth' suggests a proactive and dynamic approach, emphasizing the importance of initiative and leadership in achieving business success.",
+        "synonyms": [
+          "stimulate growth",
+          "accelerate expansion"
+        ],
+        "antonyms": [
+          "impede growth",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "The longer you wait, the better it is because that way your entire company will be trained to be responsible for growth as opposed to putting this one island with a growth team and saying, 'They're going to be growing,' and what is the rest of the company doing? Honestly, the longer you wait, the better.",
+    "text": "The longer you wait, the better it is because...your entire company will be trained to be responsible for growth.",
     "speaker": "Elena Verna",
     "timestamp": "00:11:32",
     "context": "Lenny summarizes Elena's advice about waiting longer to hire growth teams, mentioning that many companies wait until they reach millions in ARR. Elena emphasizes that delaying growth team hiring actually benefits companies because it forces the entire organization to take responsibility for growth rather than creating an isolated 'growth island' while the rest of the company remains passive about driving business growth.",
     "vocabulary_highlights": [
-      "putting this one island",
-      "trained to be responsible for"
+      "responsible",
+      "growth",
+      "entire",
+      "delaying"
     ],
     "topics": [
       "Leadership & Management",
@@ -147,6 +460,67 @@
     "text_ko": "기다릴수록 오히려 좋아요. 그렇게 해야 회사 전체가 성장에 책임을 지는 방식으로 훈련돼요. 반대로 성장팀(growth team) 하나만 따로 떼어놓고 ‘저 팀이 성장시키겠지’ 이렇게 해버리면 나머지 회사는 뭘 하는 건가요? 솔직히, 기다릴수록 더 좋아요.",
     "text_zh": "等得越久其实越好，因为这样你整个公司的人都会被训练成对增长负责，而不是搞个增长团队(growth team)放在那里当孤岛，然后说\"增长就是他们的事儿\"，那公司其他人在干嘛呢？说真的，晚一点组建专门的增长团队反而更好。",
     "text_es": "Mientras más esperes, mejor, porque así toda tu empresa va a estar entrenada para hacerse cargo del crecimiento, en lugar de crear esta islita con un equipo de crecimiento (growth team) y decir \"ellos se van a encargar de crecer\", ¿y qué hace el resto de la empresa? En serio, mientras más esperes, mejor.",
-    "key_sentence": "The longer you wait, the better your company is trained to be responsible for growth."
+    "key_sentence": "The longer you wait, the better your company is trained to be responsible for growth.",
+    "text_trimmed": true,
+    "original_text": "The longer you wait, the better it is because that way your entire company will be trained to be responsible for growth as opposed to putting this one island with a growth team and saying, 'They're going to be growing,' and what is the rest of the company doing? Honestly, the longer you wait, the better.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "responsible",
+        "definition": "Having an obligation to do something or having control over someone or something.",
+        "businessContext": "In business, being responsible often refers to accountability for decisions, actions, and their outcomes within a team or organization.",
+        "nuance": "This term carries a connotation of reliability and trustworthiness, making it essential in leadership and management discussions.",
+        "synonyms": [
+          "accountable",
+          "answerable"
+        ],
+        "antonyms": [
+          "irresponsible",
+          "unaccountable"
+        ]
+      },
+      {
+        "word": "growth",
+        "definition": "The process of increasing in size, number, value, or strength.",
+        "businessContext": "In a business context, growth can refer to revenue increases, market expansion, or scaling operations, which are critical for long-term sustainability.",
+        "nuance": "While growth is generally viewed positively, it can also imply challenges such as resource strain or the need for strategic planning.",
+        "synonyms": [
+          "expansion",
+          "development"
+        ],
+        "antonyms": [
+          "decline",
+          "recession"
+        ]
+      },
+      {
+        "word": "entire",
+        "definition": "Whole or complete; not lacking any part.",
+        "businessContext": "In business discussions, 'entire' often emphasizes the inclusivity of all aspects of a company, such as the entire workforce or the entire product line.",
+        "nuance": "This term can imply a sense of unity and coherence, making it effective when discussing collective efforts or comprehensive strategies.",
+        "synonyms": [
+          "whole",
+          "complete"
+        ],
+        "antonyms": [
+          "partial",
+          "incomplete"
+        ]
+      },
+      {
+        "word": "delaying",
+        "definition": "Causing something to happen at a later time than originally planned.",
+        "businessContext": "Delaying decisions or actions in a business setting can impact project timelines, resource allocation, and overall productivity.",
+        "nuance": "While sometimes necessary for strategic reasons, excessive delaying can be viewed negatively, suggesting indecision or inefficiency.",
+        "synonyms": [
+          "postponing",
+          "deferring"
+        ],
+        "antonyms": [
+          "accelerating",
+          "expediting"
+        ]
+      }
+    ]
   }
 ]

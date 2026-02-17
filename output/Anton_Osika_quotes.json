@@ -1,12 +1,14 @@
 [
   {
-    "text": "I don't know about your mom, but my mom doesn't write code and almost all my friends throughout my life reached out for help. Like, 'Anton, I need to build something. How do I find a great software engineer?' And we are building for this 99% of the population who don't write code.",
+    "text": "I don't know about your mom, but my mom doesn't write code and almost all my friends throughout my life reached out for help. Like, 'Anton, I need to build something.",
     "speaker": "Anton Osika",
     "timestamp": "00:06:00",
     "context": "Lenny asks Anton to explain what Lovable is and why they're building it. Anton describes Lovable as a personal AI software engineer where you describe an idea and get a fully working product. He explains their motivation for creating this tool - to serve the vast majority of people who have ideas but can't code and struggle to find good software engineers to build their products.",
     "vocabulary_highlights": [
-      "reached out for help",
-      "99% of the population"
+      "build",
+      "personal",
+      "engineer",
+      "product"
     ],
     "topics": [
       "Product Management",
@@ -22,17 +24,79 @@
     "text_ko": "네 엄마는 어떨지 모르겠지만, 제 엄마는 코딩(coding)을 안 하시고, 지금까지 만난 거의 모든 친구들이 도움을 청하러 연락했어요. 친구들이 \"안톤, 뭔가 만들고 싶은데, 훌륭한 소프트웨어 엔지니어(software engineer)는 어떻게 찾지?\"라고 물어보곤 했어요. 우리는 코딩을 하지 않는 사람들 전체의 99%를 위해 이걸 만들고 있어요.",
     "text_zh": "我不知道你妈妈怎么样，但我妈肯定不会写代码，我身边的朋友基本上都来找过我帮忙。就是那种\"安东，我想做个什么东西，上哪儿找靠谱的程序员啊？\"我们做的产品就是为了这99%不会写代码的普通人。",
     "text_es": "No sé tu mamá, pero la mía no programa y casi todos mis amigos a lo largo de mi vida me han pedido ayuda. Como que \"Antón, necesito crear algo. ¿Cómo encuentro un buen desarrollador de software?\" Y estamos construyendo para ese 99% de la población que no programa.",
-    "key_sentence": "We build for the 99% of the population who don't write code."
+    "key_sentence": "almost all my friends throughout my life reached out for help.",
+    "text_trimmed": true,
+    "original_text": "I don't know about your mom, but my mom doesn't write code and almost all my friends throughout my life reached out for help. Like, 'Anton, I need to build something. How do I find a great software engineer?' And we are building for this 99% of the population who don't write code.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "build",
+        "definition": "To construct or develop something, often involving a systematic process or effort.",
+        "businessContext": "In business and technology, 'build' often refers to the creation of software, products, or systems, emphasizing the development phase of a project.",
+        "nuance": "While 'build' can imply physical construction, in tech it often connotes a collaborative and iterative process, making it less suitable for contexts that imply finality or completion.",
+        "synonyms": [
+          "develop",
+          "create"
+        ],
+        "antonyms": [
+          "destroy",
+          "demolish"
+        ]
+      },
+      {
+        "word": "personal",
+        "definition": "Relating to an individual or their private life, distinct from professional or public matters.",
+        "businessContext": "In a business context, 'personal' can refer to customer relationships, branding strategies, or employee engagement that prioritize individual preferences and experiences.",
+        "nuance": "The term 'personal' carries a connotation of intimacy and individual focus, making it less appropriate in contexts that require objectivity or professionalism.",
+        "synonyms": [
+          "individual",
+          "private"
+        ],
+        "antonyms": [
+          "impersonal",
+          "public"
+        ]
+      },
+      {
+        "word": "engineer",
+        "definition": "A professional who designs, builds, or maintains complex systems or structures, often using scientific principles.",
+        "businessContext": "In tech startups, 'engineer' typically refers to software engineers who develop applications, systems, or infrastructure, playing a crucial role in product development.",
+        "nuance": "The term 'engineer' implies a level of technical expertise and problem-solving ability, and should be used in contexts that highlight innovation and technical skill.",
+        "synonyms": [
+          "developer",
+          "designer"
+        ],
+        "antonyms": [
+          "layman",
+          "amateur"
+        ]
+      },
+      {
+        "word": "product",
+        "definition": "An item or service that is created and offered for sale to meet consumer needs or demands.",
+        "businessContext": "In business, 'product' encompasses both tangible goods and intangible services, serving as the core offering of a company that drives revenue and market presence.",
+        "nuance": "The term 'product' can imply a focus on marketability and consumer appeal, making it less suitable in contexts that emphasize process or internal operations.",
+        "synonyms": [
+          "offering",
+          "merchandise"
+        ],
+        "antonyms": [
+          "service",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "The best word for a great product is that it's lovable. A lot of jargon that I like to use to emphasize what we should be striving for is building a minimum lovable product and then building a lovable product and then building an absolutely lovable product. So I took that jargon with me in the company name.",
+    "text": "The best word for a great product is that it's lovable.",
     "speaker": "Anton Osika",
     "timestamp": "00:00:31",
     "context": "Lenny asks Anton how he decided on the name 'Lovable' for his company, commenting that it's so sweet. Anton explains his philosophy around product development, describing his belief that the best descriptor for a great product is that it's 'lovable.' He shares his framework of progressing from minimum lovable product to absolutely lovable product, which influenced his choice of company name.",
     "vocabulary_highlights": [
-      "a lot of jargon",
-      "striving for",
-      "took that jargon with me"
+      "philosophy",
+      "product development",
+      "lovable",
+      "sweet"
     ],
     "topics": [
       "Product Management",
@@ -48,7 +112,68 @@
     "text_ko": "훌륭한 제품을 한마디로 표현할 때 가장 좋은 단어는 '사랑받는(lovable)'이에요. 제가 우리가 지향해야 할 걸 강조하려고 자주 쓰는 전문 용어가 있는데, '최소로 사랑받을 수 있는 제품(minimum lovable product)'을 만들고, 그다음엔 '사랑받는 제품(lovable product)'을 만들고, 결국엔 '완전히 사랑받는 제품(absolutely lovable product)'을 만드는 거예요. 그래서 그 표현을 회사 이름에도 담았어요.",
     "text_zh": "要形容一个出色的产品，我觉得最好的词就是\"让人爱不释手\"。我特别喜欢用一个说法来强调我们应该追求的目标，就是先做出一个最小可爱产品(minimum lovable product)，然后做成可爱产品(lovable product)，最后做成绝对可爱产品(absolutely lovable product)。所以我把这个理念带到了公司名字里。",
     "text_es": "La mejor palabra para describir un gran producto es que sea adorable. Hay mucha jerga que me gusta usar para enfatizar hacia qué deberíamos apuntar: crear un producto mínimo adorable (minimum lovable product), luego un producto adorable (lovable product) y después un producto absolutamente adorable (absolutely lovable product). Así que me llevé esa jerga conmigo al nombre de la empresa.",
-    "key_sentence": "Striving for a lovable product is essential; I took that jargon with me."
+    "key_sentence": "the best word for a great product is that it's lovable.",
+    "text_trimmed": true,
+    "original_text": "The best word for a great product is that it's lovable. A lot of jargon that I like to use to emphasize what we should be striving for is building a minimum lovable product and then building a lovable product and then building an absolutely lovable product. So I took that jargon with me in the company name.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "philosophy",
+        "definition": "A set of beliefs or principles that guide an individual's or organization's behavior and decision-making.",
+        "businessContext": "In business, philosophy often refers to the core values and mission that shape a company's culture and strategic direction.",
+        "nuance": "While often used in a general sense, in a business context, it can imply a deeper commitment to ethical practices or innovative thinking.",
+        "synonyms": [
+          "principle",
+          "doctrine"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "product development",
+        "definition": "The process of creating, designing, and bringing a new product to market, encompassing ideation, design, testing, and launch.",
+        "businessContext": "In tech and startups, product development is critical for innovation and competitive advantage, often involving cross-functional teams to ensure market fit.",
+        "nuance": "This term emphasizes the iterative nature of creating products, which can include feedback loops and adjustments based on user input.",
+        "synonyms": [
+          "product design",
+          "product innovation"
+        ],
+        "antonyms": [
+          "product stagnation",
+          "N/A"
+        ]
+      },
+      {
+        "word": "lovable",
+        "definition": "Having qualities that inspire affection or endearment; appealing in a way that fosters a strong emotional connection.",
+        "businessContext": "In product marketing, a 'lovable' product is one that resonates deeply with consumers, enhancing brand loyalty and customer satisfaction.",
+        "nuance": "While typically positive, describing a product as 'lovable' can also imply a focus on emotional design rather than purely functional attributes.",
+        "synonyms": [
+          "adorable",
+          "endearing"
+        ],
+        "antonyms": [
+          "unappealing",
+          "detestable"
+        ]
+      },
+      {
+        "word": "sweet",
+        "definition": "Having a pleasant taste or smell; in a broader sense, it can refer to something that is delightful or pleasing.",
+        "businessContext": "In marketing, 'sweet' can describe a product or experience that is particularly enjoyable or satisfying, often used to evoke positive emotions.",
+        "nuance": "While 'sweet' is generally positive, it can also be perceived as overly sentimental or lacking in seriousness in certain contexts.",
+        "synonyms": [
+          "pleasant",
+          "charming"
+        ],
+        "antonyms": [
+          "bitter",
+          "harsh"
+        ]
+      }
+    ]
   },
   {
     "text": "Doing a bit of everything. Being a generalist, I think much more important than it used to be. If I'm putting together a product team today, I would really obsess about getting as many skill sets as possible for each person I hire.",
@@ -56,9 +181,10 @@
     "timestamp": "00:00:47",
     "context": "Lenny asks Anton about what jobs will be more important and what skills will be less important as AI tools like Lovable become more prevalent. Anton responds that being a generalist who can do multiple things is becoming much more valuable than specialization. He emphasizes that when building product teams now, he would focus intensely on hiring people with diverse skill sets rather than narrow specialists.",
     "vocabulary_highlights": [
-      "doing a bit of everything",
-      "really obsess about",
-      "as many skill sets as possible"
+      "generalist",
+      "skill sets",
+      "obsess",
+      "important"
     ],
     "topics": [
       "Leadership & Management",
@@ -74,7 +200,66 @@
     "text_ko": "이것저것 조금씩 해보는 거예요. 제너럴리스트(generalist)가 예전보다 훨씬 더 중요해진 것 같아요. 지금 프로덕트 팀(product team)을 꾸린다면, 뽑는 사람 한 명 한 명이 가능한 한 많은 스킬셋(skill sets)을 갖추도록 정말 집착할 거예요.",
     "text_zh": "什么都会一点儿。现在当个多面手，我觉得比以前重要多了。如果我现在要组建一个产品团队，我会特别在意每个招进来的人都尽可能掌握更多技能。",
     "text_es": "Hacer de todo un poco. Ser generalista, creo que es mucho más importante ahora que antes. Si estoy armando un equipo de producto hoy en día, me obsesionaría con conseguir la mayor cantidad de habilidades posibles en cada persona que contrate.",
-    "key_sentence": "Being a generalist is more important; I really obsess about skill sets."
+    "key_sentence": "Being a generalist is more important; I really obsess about skill sets.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "generalist",
+        "definition": "A generalist is an individual who possesses a broad range of skills and knowledge across multiple fields rather than specializing in one area.",
+        "businessContext": "In business and tech environments, generalists are valued for their versatility and ability to adapt to various roles, making them essential in dynamic startup teams.",
+        "nuance": "While generalists are often seen as adaptable, they may lack the depth of expertise that specialists provide, making their role context-dependent.",
+        "synonyms": [
+          "multidisciplinary",
+          "jack-of-all-trades"
+        ],
+        "antonyms": [
+          "specialist",
+          "expert"
+        ]
+      },
+      {
+        "word": "skill sets",
+        "definition": "Skill sets refer to a collection of abilities, knowledge, and competencies that an individual possesses, relevant to specific tasks or roles.",
+        "businessContext": "In hiring and team formation, understanding the diverse skill sets of candidates is crucial for assembling a well-rounded team capable of tackling various challenges.",
+        "nuance": "The term emphasizes the combination of both hard and soft skills, and it is often used to highlight the importance of diversity in team capabilities.",
+        "synonyms": [
+          "competencies",
+          "abilities"
+        ],
+        "antonyms": [
+          "incompetence",
+          "lack of skills"
+        ]
+      },
+      {
+        "word": "obsess",
+        "definition": "To obsess means to preoccupy or dominate one's thoughts or actions to an excessive degree.",
+        "businessContext": "In a business context, obsessing over details such as team composition or product quality can drive innovation but may also lead to burnout if not managed properly.",
+        "nuance": "While obsessing can indicate a strong commitment to quality, it can also imply an unhealthy fixation that may hinder broader perspectives.",
+        "synonyms": [
+          "preoccupy",
+          "fixate"
+        ],
+        "antonyms": [
+          "disregard",
+          "neglect"
+        ]
+      },
+      {
+        "word": "important",
+        "definition": "Important refers to something that holds significant value, influence, or relevance in a particular context.",
+        "businessContext": "In business discussions, identifying what is important helps prioritize tasks, allocate resources effectively, and align team efforts towards strategic goals.",
+        "nuance": "The term can be subjective, varying in significance depending on the context or stakeholders involved, and should be used with consideration of its impact.",
+        "synonyms": [
+          "crucial",
+          "significant"
+        ],
+        "antonyms": [
+          "trivial",
+          "insignificant"
+        ]
+      }
+    ]
   },
   {
     "text": "Explaining exactly what you expect and what you're not getting is even more important with AI than with the humans. So I'm going into hooking up more of the actual functionality, but first I'll actually show you something.",
@@ -82,9 +267,10 @@
     "timestamp": "00:14:05",
     "context": "During a live demo where Anton is showing how to build an Airbnb clone with Lovable, Lenny comments on how being a good product manager with clear communication skills is important when working with AI tools. Anton responds that being precise about expectations and clearly explaining what's working versus what's not working is actually more critical when working with AI than with human engineers.",
     "vocabulary_highlights": [
-      "exactly what you expect",
-      "hooking up",
-      "actual functionality"
+      "functionality",
+      "expectations",
+      "communication skills",
+      "product manager"
     ],
     "topics": [
       "Product Management",
@@ -100,17 +286,77 @@
     "text_ko": "사람보다 인공지능(AI)에게는 기대하는 바와 받지 못하고 있는 부분을 정확히 설명하는 게 훨씬 더 중요해요. 그래서 실제 기능들을 더 연동하려고 하는데, 먼저 뭔가 하나 보여드릴게요.",
     "text_zh": "跟AI说清楚你想要什么、现在缺什么，这比跟人沟通还要重要。所以接下来我要连接更多实际功能，不过先给你们演示点东西看看。",
     "text_es": "Explicar exactamente qué esperas y qué no estás obteniendo es aún más importante con la IA que con las personas. Así que me voy a meter de lleno en conectar más de la funcionalidad real, pero primero te voy a enseñar algo.",
-    "key_sentence": "Explaining exactly what you expect is crucial, especially with AI."
+    "key_sentence": "Explaining exactly what you expect is crucial, especially with AI.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "functionality",
+        "definition": "Functionality refers to the specific features and capabilities of a product or system that enable it to perform its intended tasks.",
+        "businessContext": "In business and technology, understanding functionality is crucial for product development, as it directly impacts user experience and satisfaction.",
+        "nuance": "While often used to describe technical features, functionality can also imply the effectiveness of these features in meeting user needs.",
+        "synonyms": [
+          "capability",
+          "feature"
+        ],
+        "antonyms": [
+          "inability",
+          "dysfunctionality"
+        ]
+      },
+      {
+        "word": "expectations",
+        "definition": "Expectations are beliefs or assumptions about what will happen in the future, often based on past experiences or established standards.",
+        "businessContext": "In a business setting, managing expectations is vital for maintaining client relationships and ensuring project success by aligning deliverables with stakeholder needs.",
+        "nuance": "Expectations can carry a sense of obligation or pressure, making it important to communicate them clearly to avoid misunderstandings.",
+        "synonyms": [
+          "anticipations",
+          "assumptions"
+        ],
+        "antonyms": [
+          "disappointments",
+          "surprises"
+        ]
+      },
+      {
+        "word": "communication skills",
+        "definition": "Communication skills encompass the ability to convey information effectively and efficiently, both verbally and in writing.",
+        "businessContext": "Strong communication skills are essential in business environments for collaboration, negotiation, and conflict resolution, influencing overall organizational effectiveness.",
+        "nuance": "While technical proficiency is important, the ability to listen and adapt communication styles to different audiences is equally critical.",
+        "synonyms": [
+          "interpersonal skills",
+          "conversational skills"
+        ],
+        "antonyms": [
+          "miscommunication",
+          "inarticulateness"
+        ]
+      },
+      {
+        "word": "product manager",
+        "definition": "A product manager is a professional responsible for guiding the development and lifecycle of a product, ensuring it meets market needs and business goals.",
+        "businessContext": "In tech and startup environments, product managers play a pivotal role in coordinating between engineering, marketing, and sales teams to deliver successful products.",
+        "nuance": "The role requires a blend of technical knowledge, business acumen, and strong leadership skills to navigate complex project dynamics.",
+        "synonyms": [
+          "product owner",
+          "product lead"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "These tools as we see here, they're already very good, it looks really good as well, but mainly I would say they're getting better very, very fast. And I'd say one of the bigger bottlenecks is now they're not integrated into the current way that you have your existing products and so on. But since they're getting better so fast, I think the best thing for people who are interested in this or interested in just being a part of the future economies, get your hands very dirty with these tools because being in the top 10% in using them is going to absolutely set you apart in the coming months and years.",
+    "text": "These tools as we see here, they're already very good, it looks really good as well, but mainly I would say they're getting better very, very fast.",
     "speaker": "Anton Osika",
     "timestamp": "00:17:33",
     "context": "After completing a demo where he built an Airbnb clone in minutes, Lenny marvels at what AI tools can now accomplish. Anton acknowledges that while these tools are already impressive, they're improving at an extremely rapid pace. He identifies integration with existing products as a current limitation, but strongly advises people to start using these tools extensively now, arguing that expertise with AI tools will be a major competitive advantage in the near future.",
     "vocabulary_highlights": [
-      "get your hands very dirty",
-      "absolutely set you apart",
-      "coming months and years"
+      "impressive",
+      "accomplish",
+      "improving",
+      "tools"
     ],
     "topics": [
       "Learning & Growth",
@@ -126,17 +372,79 @@
     "text_ko": "여기 보시다시피 이 도구들은 이미 꽤 좋고 시각적으로도 훌륭해요. 무엇보다도 지금 아주, 정말 빠르게 좋아지고 있어요. 다만 지금 큰 병목 중 하나는 이 도구들이 기존 제품이나 현재의 운영 방식에 잘 통합(integrated)되어 있지 않다는 점이에요. 그런데 개선 속도가 워낙 빠르니, 이 분야에 관심이 있거나 앞으로의 경제(future economies)에 참여하고 싶은 분들은 직접 깊이 다뤄보는 게 가장 좋아요. 이 도구들을 잘 다루는 상위 10%(top 10%)에 들면 앞으로 몇 달, 몇 년 사이에 확실히 차별화될 거예요.",
     "text_zh": "你看这些工具，现在已经很厉害了，效果也确实不错，但我觉得最主要的是它们进步得特别特别快。现在比较大的一个瓶颈就是，它们还没有很好地融入到你现有的产品体系里面。但是因为它们发展得这么快，我觉得对于那些对这个领域感兴趣的人，或者想要跟上未来经济趋势的人来说，最好的办法就是赶紧上手去用这些工具，因为如果你能做到使用水平排在前10%，那在接下来的几个月甚至几年里，你绝对会脱颖而出。",
     "text_es": "Estas herramientas, como vemos aquí, ya están muy buenas, se ven realmente bien, pero yo diría que lo más importante es que están mejorando súper rápido. Y creo que uno de los cuellos de botella más grandes es que todavía no están integradas con la forma actual en que tienes tus productos existentes y todo eso. Pero como están mejorando tan rápido, creo que lo mejor para la gente que esté interesada en esto o que quiera ser parte de las economías del futuro, es meterse de lleno con estas herramientas, porque estar en el top 10% usándolas te va a posicionar completamente diferente en los próximos meses y años.",
-    "key_sentence": "Get your hands very dirty with these tools to absolutely set you apart."
+    "key_sentence": "they're getting better very, very fast.",
+    "text_trimmed": true,
+    "original_text": "These tools as we see here, they're already very good, it looks really good as well, but mainly I would say they're getting better very, very fast. And I'd say one of the bigger bottlenecks is now they're not integrated into the current way that you have your existing products and so on. But since they're getting better so fast, I think the best thing for people who are interested in this or interested in just being a part of the future economies, get your hands very dirty with these tools because being in the top 10% in using them is going to absolutely set you apart in the coming months and years.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "impressive",
+        "definition": "Evoking admiration through size, quality, or skill; striking.",
+        "businessContext": "In business, the term 'impressive' is often used to describe a product, presentation, or performance that stands out positively among competitors or meets high standards.",
+        "nuance": "While 'impressive' conveys a strong positive reaction, it can sometimes imply that the subject is more style than substance, so it should be used carefully.",
+        "synonyms": [
+          "remarkable",
+          "striking"
+        ],
+        "antonyms": [
+          "unimpressive",
+          "ordinary"
+        ]
+      },
+      {
+        "word": "accomplish",
+        "definition": "To achieve or complete successfully; to bring to a successful conclusion.",
+        "businessContext": "In a business setting, 'accomplish' is often used to refer to meeting project goals, achieving sales targets, or completing tasks within deadlines.",
+        "nuance": "The term suggests a sense of effort and achievement, so it is best used in contexts where success is the result of hard work or strategic planning.",
+        "synonyms": [
+          "achieve",
+          "attain"
+        ],
+        "antonyms": [
+          "fail",
+          "abandon"
+        ]
+      },
+      {
+        "word": "improving",
+        "definition": "The process of becoming better or enhancing quality, performance, or efficiency.",
+        "businessContext": "In the context of business and technology, 'improving' often refers to the ongoing efforts to enhance products, services, or processes to meet customer needs and stay competitive.",
+        "nuance": "While 'improving' is generally positive, it can imply that the current state is not yet satisfactory, so it should be used with an understanding of the existing context.",
+        "synonyms": [
+          "enhancing",
+          "upgrading"
+        ],
+        "antonyms": [
+          "deteriorating",
+          "declining"
+        ]
+      },
+      {
+        "word": "tools",
+        "definition": "Instruments or software used to perform specific tasks or functions effectively.",
+        "businessContext": "In business and technology, 'tools' can refer to software applications, platforms, or methodologies that facilitate work processes, enhance productivity, or support decision-making.",
+        "nuance": "The term 'tools' can imply both physical and digital resources, and it is often used in contexts where efficiency and effectiveness are being discussed.",
+        "synonyms": [
+          "instruments",
+          "resources"
+        ],
+        "antonyms": [
+          "obstacles",
+          "hindrances"
+        ]
+      }
+    ]
   },
   {
-    "text": "It takes a lot to master using tools like Lovable and being very curious and patient and we have something called chat mode where you can just ask to understand like, 'How does this work? I'm not getting what I want here, am I missing something? What should I do?' Is the best way to be productive is also one of the best ways to just learn about how software engineering works, which is you don't have to write the code anymore, but it is useful to understand how software engin- or how building products works. So I think that's the patience and curiosity is super useful.",
+    "text": "It takes a lot to master using tools like Lovable and being very curious and patient and we have something called chat mode where you can just ask to understand like, 'How does this work?",
     "speaker": "Anton Osika",
     "timestamp": "00:19:05",
     "context": "Lenny asks Anton for the single most important tip he would give someone using Lovable for the first time. Anton emphasizes that mastering AI tools requires significant effort, curiosity, and patience. He recommends using Lovable's chat mode to ask questions when things aren't working as expected, explaining that this approach not only improves productivity but also helps users learn fundamental software engineering concepts without needing to write code themselves.",
     "vocabulary_highlights": [
-      "takes a lot to master",
-      "am I missing something",
-      "super useful"
+      "mastering",
+      "curiosity",
+      "patience",
+      "understand"
     ],
     "topics": [
       "Learning & Growth",
@@ -152,18 +460,79 @@
     "text_ko": "Lovable 같은 도구(Lovable)를 잘 다루려면 정말 많은 연습과 호기심, 인내가 필요해요. 그리고 '챗 모드(chat mode)'라는 기능이 있어서 \"이게 어떻게 작동하죠? 원하는 게 안 나오는데 제가 뭘 놓치고 있나요? 어떻게 해야 하나요?\"처럼 그냥 물어보면서 이해할 수 있어요. 생산적으로 일하는 가장 좋은 방법이자 소프트웨어 엔지니어링(software engineering)이 어떻게 돌아가는지 배우는 좋은 방법 중 하나는 더 이상 직접 코드를 써야 하는 건 아니지만, 그래도 소프트웨어 엔지니어링이나 제품 개발(product development)이 어떻게 이루어지는지 이해하는 게 유용하다는 점이에요. 그래서 인내심과 호기심이 정말 큰 도움이 된다고 생각해요.",
     "text_zh": "要掌握Lovable这样的工具确实需要下不少功夫，得特别有好奇心和耐心。我们有个聊天模式(chat mode)，你可以直接问比如\"这个怎么用啊？我怎么搞不出想要的效果，是不是漏了什么？我该怎么办？\"这样既能提高效率，也是了解软件工程原理的最好方法之一。虽然现在不用自己写代码了，但懂得软件工程或者说产品开发的原理还是很有用的。所以我觉得保持耐心和好奇心真的很重要。",
     "text_es": "Para dominar herramientas como Lovable se necesita mucha curiosidad y paciencia, y tenemos algo que se llama modo chat (chat mode) donde simplemente puedes preguntar para entender, tipo: \"¿Cómo funciona esto? No estoy consiguiendo lo que quiero, ¿se me está escapando algo? ¿Qué debería hacer?\" Es la mejor manera de ser productivo y también una de las mejores formas de aprender cómo funciona la ingeniería de software, o sea, ya no tienes que escribir el código, pero sí es útil entender cómo funciona la ingeniería de software o cómo se construyen productos. Entonces creo que esa paciencia y curiosidad es súper valiosa.",
-    "key_sentence": "It takes a lot to master tools; am I missing something is key to learning."
+    "key_sentence": "master using tools like Lovable and being very curious and patient",
+    "text_trimmed": true,
+    "original_text": "It takes a lot to master using tools like Lovable and being very curious and patient and we have something called chat mode where you can just ask to understand like, 'How does this work? I'm not getting what I want here, am I missing something? What should I do?' Is the best way to be productive is also one of the best ways to just learn about how software engineering works, which is you don't have to write the code anymore, but it is useful to understand how software engin- or how building products works. So I think that's the patience and curiosity is super useful.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "mastering",
+        "definition": "The process of acquiring comprehensive knowledge or skill in a particular area or subject.",
+        "businessContext": "In business and technology, mastering tools or processes is essential for effective performance and innovation, often requiring ongoing learning and adaptation.",
+        "nuance": "While 'mastering' implies a high level of proficiency, it can also suggest a continuous journey of improvement rather than a final destination.",
+        "synonyms": [
+          "proficient",
+          "expertise"
+        ],
+        "antonyms": [
+          "struggling",
+          "incompetence"
+        ]
+      },
+      {
+        "word": "curiosity",
+        "definition": "A strong desire to learn or know more about something, often driving inquiry and exploration.",
+        "businessContext": "In the startup environment, curiosity fosters innovation and problem-solving, encouraging teams to explore new ideas and challenge the status quo.",
+        "nuance": "Curiosity is often viewed positively in business, as it can lead to discovery and improvement, but excessive curiosity without focus may lead to inefficiency.",
+        "synonyms": [
+          "inquisitiveness",
+          "interest"
+        ],
+        "antonyms": [
+          "indifference",
+          "apathy"
+        ]
+      },
+      {
+        "word": "patience",
+        "definition": "The ability to accept or tolerate delays, problems, or suffering without becoming annoyed or anxious.",
+        "businessContext": "In business, patience is crucial for long-term success, as it allows individuals and teams to navigate challenges and wait for results from their efforts.",
+        "nuance": "While patience is generally seen as a virtue, in fast-paced environments, it can sometimes be perceived as a lack of urgency if not balanced appropriately.",
+        "synonyms": [
+          "tolerance",
+          "perseverance"
+        ],
+        "antonyms": [
+          "impatience",
+          "agitation"
+        ]
+      },
+      {
+        "word": "understand",
+        "definition": "To grasp the meaning, significance, or nature of something; to comprehend.",
+        "businessContext": "Understanding is vital in business communication and decision-making, as it ensures that all stakeholders are aligned and informed about processes and objectives.",
+        "nuance": "While 'understand' is a straightforward term, it can imply varying depths of comprehension, from basic awareness to deep insight, depending on the context.",
+        "synonyms": [
+          "comprehend",
+          "grasp"
+        ],
+        "antonyms": [
+          "misunderstand",
+          "confuse"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think raw cognitive capability is the strongest, the strongest correlate of being at Lovable. But there is this startup mindset that I think is also very strong. Being much more interested in moving very fast and iterating fast, then having a lot of structure, a lot of process and thinking about the business as a whole. More than thinking about my specific profession, my specific craft that I'm seeing myself wanting to dig into on me.",
+    "text": "I think raw cognitive capability is the strongest, the strongest correlate of being at Lovable. But there is this startup mindset that I think is also very strong.",
     "speaker": "Anton Osika",
     "timestamp": "00:55:59",
     "context": "Lenny asks Anton what attributes are common among the people he's hired for his rapidly growing startup. Anton identifies raw cognitive ability as the strongest predictor of success at Lovable, but also emphasizes the importance of having a startup mindset. He describes this as preferring rapid iteration over heavy structure and processes, and thinking holistically about the business rather than focusing narrowly on one's specific professional role or craft.",
     "vocabulary_highlights": [
-      "raw cognitive capability",
+      "cognitive capability",
       "strongest correlate",
       "startup mindset",
-      "dig into"
+      "predictor of success"
     ],
     "topics": [
       "Leadership & Management",
@@ -179,6 +548,67 @@
     "text_ko": "제 생각에는 순수한 인지 능력(raw cognitive capability)이 러버블 단계(Lovable)에 있는 것과 가장 강한 상관관계가 있는 것 같아요. 하지만 스타트업 마인드셋(startup mindset)도 아주 강하다고 봐요. 많은 구조나 프로세스를 갖추는 것보다는 훨씬 더 빠르게 움직이고 빠르게 반복(iterate fast)하는 것에 더 관심이 있어요. 제 구체적인 직업이나 특정 기술을 더 깊이 파고들고 싶어 하는 것보다는요.",
     "text_zh": "我觉得纯粹的认知能力是在Lovable最重要的素质。但还有一种创业心态(startup mindset)也特别关键。就是更愿意快速行动、快速迭代(iterating)，而不是搞一大堆架构啊、流程啊什么的，要从整个业务的角度去思考问题。不能只盯着自己那一亩三分地，只想着怎么在自己的专业领域里钻研。",
     "text_es": "Creo que la capacidad cognitiva pura es lo más importante, la correlación más fuerte para estar en Lovable. Pero también está esta mentalidad de startup que considero súper importante. Estar mucho más interesado en moverse muy rápido e iterar rápido, que en tener un montón de estructura, un montón de procesos y pensar en el negocio como un todo. Más que pensar en mi profesión específica, en mi área específica en la que me veo queriendo profundizar.",
-    "key_sentence": "Raw cognitive capability is the strongest correlate of a startup mindset."
+    "key_sentence": "Raw cognitive capability is the strongest correlate of a startup mindset.",
+    "text_trimmed": true,
+    "original_text": "I think raw cognitive capability is the strongest, the strongest correlate of being at Lovable. But there is this startup mindset that I think is also very strong. Being much more interested in moving very fast and iterating fast, then having a lot of structure, a lot of process and thinking about the business as a whole. More than thinking about my specific profession, my specific craft that I'm seeing myself wanting to dig into on me.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "cognitive capability",
+        "definition": "The mental ability to process information, reason, remember, and relate concepts effectively.",
+        "businessContext": "In business and tech environments, cognitive capability is often assessed to determine an individual's potential for problem-solving and innovation, particularly in roles that require critical thinking.",
+        "nuance": "While cognitive capability is generally viewed positively, overemphasis on it can overlook other important traits such as emotional intelligence and teamwork.",
+        "synonyms": [
+          "intellectual capacity",
+          "mental acuity"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "strongest correlate",
+        "definition": "The most significant relationship or connection between two variables, indicating that one may predict or influence the other.",
+        "businessContext": "In business analytics, identifying the strongest correlate helps organizations focus on key performance indicators that drive success and inform strategic decisions.",
+        "nuance": "This term is often used in statistical analysis; however, it should be noted that correlation does not imply causation.",
+        "synonyms": [
+          "primary association",
+          "key relationship"
+        ],
+        "antonyms": [
+          "weakest correlate",
+          "N/A"
+        ]
+      },
+      {
+        "word": "startup mindset",
+        "definition": "A way of thinking characterized by flexibility, innovation, risk-taking, and a focus on rapid growth and learning.",
+        "businessContext": "In startups, a startup mindset is crucial for adapting to changing market conditions, fostering creativity, and driving the company toward its goals in a competitive environment.",
+        "nuance": "While a startup mindset is essential for early-stage companies, it may not always be suitable for more established organizations that require stability and structured processes.",
+        "synonyms": [
+          "entrepreneurial mindset",
+          "agile mentality"
+        ],
+        "antonyms": [
+          "conventional mindset",
+          "N/A"
+        ]
+      },
+      {
+        "word": "predictor of success",
+        "definition": "A factor or variable that can indicate the likelihood of achieving desired outcomes or goals.",
+        "businessContext": "In performance management, identifying predictors of success allows businesses to focus on developing skills and attributes that lead to high performance and effective leadership.",
+        "nuance": "While predictors of success can provide valuable insights, they should be used in conjunction with other qualitative assessments to form a comprehensive view.",
+        "synonyms": [
+          "success indicator",
+          "performance predictor"
+        ],
+        "antonyms": [
+          "predictor of failure",
+          "N/A"
+        ]
+      }
+    ]
   }
 ]

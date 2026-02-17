@@ -1,14 +1,14 @@
 [
   {
-    "text": "Charlie Munger, Warren Buffett's longtime business partner, has this amazing quote. He says, \"Fish where the fish are.\" And he gives this example, he says, \"If you're a fisherman and you see a large pond and all around the pond, there's a whole bunch of fishermen and they're all elbowing each other out of the way. They're all using the best lures, the best fishing line, they all have amazing strategy. You actually want to walk off into the forest and find a small fishing hole with lots of fish and very little competition.\"",
+    "text": "Charlie Munger, Warren Buffett's longtime business partner, has this amazing quote.",
     "speaker": "Andrew Wilkinson",
     "timestamp": "00:05:28",
     "context": "Lenny asks Andrew for his best advice on coming up with a great startup idea. Andrew explains that the biggest mistake entrepreneurs make is choosing businesses that everyone is interested in, like restaurants or cafes, which leads to intense competition and lower margins. He references Charlie Munger's fishing analogy to illustrate why entrepreneurs should seek out profitable niches with less competition rather than fighting in overcrowded markets where margins get squeezed.",
     "vocabulary_highlights": [
-      "elbowing each other out of the way",
-      "best lures",
-      "fishing hole",
-      "very little competition"
+      "entrepreneurs",
+      "businesses",
+      "startup",
+      "interested"
     ],
     "topics": [
       "Starting a Company",
@@ -23,7 +23,68 @@
     "text_ko": "찰리 멍거가 \"물고기가 있는 곳에서 낚시해라\"라고 했어요. 예를 들어서, 만약 당신이 낚시꾼이고 큰 연못이 있는데 그 주위에 많은 낚시꾼들이 서로 밀치고 있다면, 그들은 모두 최고의 미끼와 낚시줄을 사용하고, 뛰어난 전략을 가지고 있어요. 그럴 때는 오히려 숲으로 가서 경쟁이 적고 물고기가 많은 작은 낚시터를 찾아야 해요.",
     "text_zh": "查理·芒格，沃伦·巴菲特的长期商业伙伴，有一句很精彩的话。他说：“在鱼聚集的地方钓鱼。”他举了一个例子，他说：“如果你是一个渔夫，看到一个大池塘，周围有很多渔夫，他们都在互相挤来挤去，使用最好的鱼饵、最好的钓线，拥有出色的策略。其实你应该走进森林，找到一个小钓点，那里有很多鱼，但竞争很少。”",
     "text_es": "Charlie Munger, el socio de negocios de Warren Buffett, tiene esta increíble cita. Él dice: \"Pesca donde están los peces\". Y pone este ejemplo: \"Si eres un pescador y ves un gran estanque rodeado de muchos pescadores que se están empujando unos a otros, todos usando los mejores señuelos, la mejor línea de pesca y con estrategias impresionantes, en realidad deberías alejarte hacia el bosque y encontrar un pequeño lugar de pesca con muchos peces y muy poca competencia\".",
-    "key_sentence": "Fish where the fish are; find a fishing hole with very little competition."
+    "key_sentence": "Charlie Munger, Warren Buffett's longtime business partner, has this amazing quote.",
+    "text_trimmed": true,
+    "original_text": "Charlie Munger, Warren Buffett's longtime business partner, has this amazing quote. He says, \"Fish where the fish are.\" And he gives this example, he says, \"If you're a fisherman and you see a large pond and all around the pond, there's a whole bunch of fishermen and they're all elbowing each other out of the way. They're all using the best lures, the best fishing line, they all have amazing strategy. You actually want to walk off into the forest and find a small fishing hole with lots of fish and very little competition.\"",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "entrepreneurs",
+        "definition": "Individuals who create and manage new business ventures, often taking on financial risks in the hope of profit.",
+        "businessContext": "In the startup ecosystem, entrepreneurs are pivotal as they drive innovation and economic growth by launching new products and services.",
+        "nuance": "The term often carries a connotation of creativity and risk-taking, distinguishing entrepreneurs from traditional business managers.",
+        "synonyms": [
+          "founders",
+          "business owners"
+        ],
+        "antonyms": [
+          "employees",
+          "N/A"
+        ]
+      },
+      {
+        "word": "businesses",
+        "definition": "Organizations engaged in commercial, industrial, or professional activities aimed at generating profit.",
+        "businessContext": "Businesses can range from small local shops to large multinational corporations, each playing a crucial role in the economy.",
+        "nuance": "The term is broad and can refer to both for-profit and non-profit entities, though it is most commonly associated with profit-driven organizations.",
+        "synonyms": [
+          "companies",
+          "firms"
+        ],
+        "antonyms": [
+          "individuals",
+          "N/A"
+        ]
+      },
+      {
+        "word": "startup",
+        "definition": "A newly established business, typically in the early stages of development and often focused on innovative products or services.",
+        "businessContext": "Startups are often characterized by their need for funding and their potential for rapid growth, frequently seeking venture capital to scale operations.",
+        "nuance": "The term implies a sense of innovation and disruption, distinguishing startups from more established businesses.",
+        "synonyms": [
+          "new venture",
+          "emerging company"
+        ],
+        "antonyms": [
+          "established business",
+          "N/A"
+        ]
+      },
+      {
+        "word": "interested",
+        "definition": "Having a desire to learn more about or engage with a particular subject or activity.",
+        "businessContext": "In a business context, being interested can indicate a potential for investment, collaboration, or market engagement.",
+        "nuance": "While 'interested' is generally positive, it can also imply a lack of commitment or deeper involvement.",
+        "synonyms": [
+          "curious",
+          "engaged"
+        ],
+        "antonyms": [
+          "disinterested",
+          "indifferent"
+        ]
+      }
+    ]
   },
   {
     "text": "The biggest mistakes I've made have been going into business models where other people have repeatedly failed and thinking, I can do this better. You can't take a brilliant management team and change a bad business model. Ultimately the business model wins.",
@@ -31,9 +92,10 @@
     "timestamp": "00:00:24",
     "context": "Lenny asks Andrew about business ideas that everyone thinks will be great but often fail. Andrew shares from his personal experience of starting a bar and buying a local newspaper, explaining that he made the classic mistake of entering industries with many failed attempts, believing he could succeed where others couldn't. He emphasizes that even exceptional management cannot overcome fundamentally flawed business models - the underlying economics of a business ultimately determine success or failure.",
     "vocabulary_highlights": [
-      "repeatedly failed",
-      "brilliant management team",
-      "bad business model"
+      "business model",
+      "management team",
+      "ultimately",
+      "failed"
     ],
     "topics": [
       "Starting a Company",
@@ -49,17 +111,77 @@
     "text_ko": "내가 저지른 가장 큰 실수는 다른 사람들이 반복적으로 실패한 비즈니스 모델에 뛰어들면서 '내가 이걸 더 잘할 수 있을 거야'라고 생각한 거예요. 훌륭한 경영진이 있어도 나쁜 비즈니스 모델은 바꿀 수 없어요. 결국 비즈니스 모델이 승리하거든요.",
     "text_zh": "我犯过的最大错误就是进入那些别人反复失败的商业模式，心想着我可以做得更好。你无法凭借一个优秀的管理团队来改变一个糟糕的商业模式。最终，商业模式才是决定胜负的关键。",
     "text_es": "Los mayores errores que he cometido han sido entrar en modelos de negocio donde otras personas han fracasado repetidamente y pensar que yo puedo hacerlo mejor. No puedes tomar un equipo de gestión brillante y cambiar un mal modelo de negocio. Al final, el modelo de negocio es el que prevalece.",
-    "key_sentence": "The business model wins; you can't change a bad business model with a brilliant management team."
+    "key_sentence": "The business model wins; you can't change a bad business model with a brilliant management team.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "business model",
+        "definition": "A business model outlines how a company creates, delivers, and captures value, detailing the revenue streams and cost structures involved.",
+        "businessContext": "In business and startup settings, a robust business model is crucial for attracting investors and guiding operational strategies.",
+        "nuance": "The term often implies a strategic approach to profitability and sustainability, and should be used when discussing the foundational aspects of a business's operations.",
+        "synonyms": [
+          "revenue model",
+          "operating model"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "management team",
+        "definition": "A management team consists of a group of individuals responsible for overseeing and directing the operations and strategic direction of an organization.",
+        "businessContext": "In startups, a strong management team is often viewed as a key asset that can drive the company's success and attract investment.",
+        "nuance": "The term suggests a collaborative effort among leaders, and is best used when emphasizing the collective capabilities and responsibilities of the team rather than individual roles.",
+        "synonyms": [
+          "leadership team",
+          "executive team"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "ultimately",
+        "definition": "Ultimately refers to the final outcome or conclusion of a situation, emphasizing the most important or decisive factor.",
+        "businessContext": "In business discussions, 'ultimately' is often used to highlight the key takeaway or the most significant determinant of success or failure.",
+        "nuance": "This term carries a sense of finality and should be used when summarizing or concluding discussions, rather than in ongoing analyses.",
+        "synonyms": [
+          "finally",
+          "in the end"
+        ],
+        "antonyms": [
+          "initially",
+          "prematurely"
+        ]
+      },
+      {
+        "word": "failed",
+        "definition": "Failed describes the lack of success in achieving a desired outcome or objective, often implying an inability to meet established goals.",
+        "businessContext": "In the context of startups, 'failed' is frequently used to describe ventures that did not achieve profitability or sustainability, serving as a cautionary tale for future entrepreneurs.",
+        "nuance": "While it denotes a negative outcome, the term can also imply valuable lessons learned, and should be used thoughtfully to avoid stigmatizing failure.",
+        "synonyms": [
+          "unsuccessful",
+          "flopped"
+        ],
+        "antonyms": [
+          "succeeded",
+          "prospered"
+        ]
+      }
+    ]
   },
   {
-    "text": "I'm looking for a business though where it is so good that it's hard to mess up, and most businesses are very easy to mess up. One person leaves and the whole business falls apart because it's held together with dental floss and duct tape. And so I'm really looking for what Warren Buffett would call a moat.",
+    "text": "I'm looking for a business though where it is so good that it's hard to mess up, and most businesses are very easy to mess up. One person leaves and the whole business falls apart because it's held together with dental floss and duct tape.",
     "speaker": "Andrew Wilkinson",
     "timestamp": "00:33:31",
     "context": "Lenny asks Andrew about the keys to an amazing business model and what he looks for when buying companies through Tiny. Andrew explains his investment philosophy, which mirrors Warren Buffett's approach of buying businesses that can run themselves. He's seeking companies with strong competitive advantages (moats) that are resilient and don't depend on any single person or fragile systems to operate successfully.",
     "vocabulary_highlights": [
-      "hard to mess up",
-      "held together with dental floss and duct tape",
-      "moat"
+      "business model",
+      "investment philosophy",
+      "falls apart",
+      "held together"
     ],
     "topics": [
       "Strategy & Planning",
@@ -74,7 +196,68 @@
     "text_ko": "저는 정말 잘 돌아가서 망치기 힘든 비즈스를 찾고 있어요. 대부분의 비즈니스는 쉽게 망가질 수 있거든요. 한 사람이 떠나면 전체 비즈니스가 무너지는 경우가 많아요. 마치 치실(dental floss)과 덕트 테이프(duct tape)로 붙여놓은 것처럼요. 그래서 저는 워렌 버핏이 말하는 '모트(moat)'를 찾고 있어요.",
     "text_zh": "我在寻找一种商业模式，它非常稳固，以至于很难出错，而大多数企业都很容易出错。一个人离开，整个业务就会崩溃，因为它是用牙线和胶带维系的。因此，我真正想要的是沃伦·巴菲特所说的护城河（moat）。",
     "text_es": "Estoy buscando un negocio que sea tan sólido que sea difícil de arruinar, ya que la mayoría de los negocios son muy fáciles de perjudicar. Una persona se va y todo el negocio se desmorona porque está sostenido con hilo dental y cinta adhesiva. Por eso, realmente estoy buscando lo que Warren Buffett llamaría una \"moat\" (foso).",
-    "key_sentence": "I'm looking for a business that's hard to mess up, like a moat."
+    "key_sentence": "I'm looking for a business that's hard to mess up, like a moat.",
+    "text_trimmed": true,
+    "original_text": "I'm looking for a business though where it is so good that it's hard to mess up, and most businesses are very easy to mess up. One person leaves and the whole business falls apart because it's held together with dental floss and duct tape. And so I'm really looking for what Warren Buffett would call a moat.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "business model",
+        "definition": "A business model outlines how a company creates, delivers, and captures value, detailing its revenue streams and cost structure.",
+        "businessContext": "In the context of startups, a well-defined business model is crucial for attracting investors and guiding operational strategies.",
+        "nuance": "The term often implies a systematic approach to generating profit, and can sometimes be used to critique a lack of innovation or adaptability.",
+        "synonyms": [
+          "revenue model",
+          "operating model"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "investment philosophy",
+        "definition": "An investment philosophy is a set of guiding principles that dictate an investor's approach to selecting and managing investments.",
+        "businessContext": "In finance and venture capital, a clear investment philosophy helps investors align their strategies with their risk tolerance and market outlook.",
+        "nuance": "This term often reflects personal beliefs about market behavior and can vary significantly between different investors or firms.",
+        "synonyms": [
+          "investment strategy",
+          "investment approach"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "falls apart",
+        "definition": "To fall apart means to break down or fail, often suddenly and completely, losing its structure or effectiveness.",
+        "businessContext": "In business discussions, this phrase is used to describe situations where a project, team, or organization collapses due to mismanagement or lack of cohesion.",
+        "nuance": "It carries a negative connotation, suggesting a lack of resilience or stability in a system or process.",
+        "synonyms": [
+          "break down",
+          "collapse"
+        ],
+        "antonyms": [
+          "hold together",
+          "remain intact"
+        ]
+      },
+      {
+        "word": "held together",
+        "definition": "Held together refers to the state of being maintained or supported in a cohesive manner, often despite challenges.",
+        "businessContext": "In a business context, this phrase can describe organizations or projects that are functioning adequately but may be at risk due to weak foundations or dependencies.",
+        "nuance": "It suggests a precarious stability, implying that the current state is not sustainable without significant support or improvement.",
+        "synonyms": [
+          "sustained",
+          "maintained"
+        ],
+        "antonyms": [
+          "falls apart",
+          "disintegrates"
+        ]
+      }
+    ]
   },
   {
     "text": "It's like having the world's most reliable employee who costs $200 a month and works 24/7. So many knowledge work jobs are going to change massively. I think the fundamental question is, do all jobs just become a single prompt?",
@@ -82,10 +265,10 @@
     "timestamp": "00:00:34",
     "context": "Lenny observes that Andrew has become AI obsessed based on his Twitter activity. Andrew describes his experience using AI automation tools, particularly Lindy, to replace tasks that previously required a full-time assistant. He's reflecting on the broader implications of AI for the workforce, questioning whether future jobs might be simplified to just giving AI systems single prompts to execute complex tasks.",
     "vocabulary_highlights": [
-      "most reliable employee",
-      "works 24/7",
-      "knowledge work jobs",
-      "single prompt"
+      "fundamental",
+      "reliable",
+      "massively",
+      "automation"
     ],
     "topics": [
       "Decision Making",
@@ -100,17 +283,77 @@
     "text_ko": "마치 세상에서 가장 믿음직한 직원이 한 달에 200달러로 24시간 내내 일하는 것 같아요. 많은 지식 기반 직업들이 엄청나게 변화할 거예요. 제가 생각하기에 근본적인 질문은, 모든 일이 그냥 하나의 프롬프트(prompt)로 바뀌는 걸까요?",
     "text_zh": "这就像拥有世界上最可靠的员工，每月只需200美元，且全天候工作。许多知识工作岗位将发生巨大的变化。我认为根本问题是，所有工作是否都将变成一个简单的提示？",
     "text_es": "Es como tener al empleado más confiable del mundo que cuesta $200 al mes y trabaja 24/7. Muchos trabajos de conocimiento (knowledge work) van a cambiar de manera masiva. Creo que la pregunta fundamental es: ¿todos los trabajos se convierten en un solo prompt?",
-    "key_sentence": "Knowledge work jobs may become like the most reliable employee, working 24/7."
+    "key_sentence": "Knowledge work jobs may become like the most reliable employee, working 24/7.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "fundamental",
+        "definition": "Relating to the basic principles or underlying concepts of a subject or system.",
+        "businessContext": "In business, identifying fundamental issues is crucial for strategic planning and decision-making, as it helps organizations address core challenges effectively.",
+        "nuance": "While 'fundamental' implies something essential, it can also suggest a need for foundational change rather than superficial adjustments.",
+        "synonyms": [
+          "essential",
+          "basic"
+        ],
+        "antonyms": [
+          "superficial",
+          "secondary"
+        ]
+      },
+      {
+        "word": "reliable",
+        "definition": "Consistently good in quality or performance; able to be trusted.",
+        "businessContext": "In the tech industry, a reliable system or employee is vital for maintaining productivity and ensuring customer satisfaction.",
+        "nuance": "The term 'reliable' carries a positive connotation, suggesting dependability, but it may also imply a lack of innovation or adaptability in some contexts.",
+        "synonyms": [
+          "dependable",
+          "trustworthy"
+        ],
+        "antonyms": [
+          "unreliable",
+          "inconsistent"
+        ]
+      },
+      {
+        "word": "massively",
+        "definition": "To a very large extent; in a significant or considerable manner.",
+        "businessContext": "In the context of market changes or technological advancements, describing a shift as 'massive' highlights its potential impact on industries and employment.",
+        "nuance": "The use of 'massively' often conveys urgency or importance, making it suitable for discussions about disruptive innovations or large-scale transformations.",
+        "synonyms": [
+          "enormously",
+          "substantially"
+        ],
+        "antonyms": [
+          "slightly",
+          "minimally"
+        ]
+      },
+      {
+        "word": "automation",
+        "definition": "The use of technology to perform tasks without human intervention, often to increase efficiency and reduce costs.",
+        "businessContext": "Automation is a key trend in modern businesses, particularly in manufacturing and service sectors, as it allows for streamlined operations and improved productivity.",
+        "nuance": "While 'automation' is generally viewed positively for its efficiency gains, it can also evoke concerns about job displacement and the need for workforce reskilling.",
+        "synonyms": [
+          "mechanization",
+          "robotization"
+        ],
+        "antonyms": [
+          "manual labor",
+          "human intervention"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think the fundamental question is do all jobs just become a single prompt? For example, does a CEO just grow the business while making the customers happy and turning a profit or something like that? And it is able to actually be an omniscient presence that can run a whole company.",
+    "text": "I think the fundamental question is do all jobs just become a single prompt? For example, does a CEO just grow the business while making the customers happy and turning a profit or something like that?",
     "speaker": "Andrew Wilkinson",
     "timestamp": "00:58:51",
     "context": "Lenny asks Andrew for advice on what new graduates and current workers should focus on given the rapid advancement of AI. Andrew is exploring the philosophical question of how AI might transform work entirely. He's wondering whether future AI systems will be so capable that complex jobs like being a CEO might be reduced to giving a single, high-level instruction, with AI handling all the detailed execution and decision-making.",
     "vocabulary_highlights": [
-      "single prompt",
-      "omniscient presence",
-      "run a whole company"
+      "fundamental",
+      "transform",
+      "advancement",
+      "profit"
     ],
     "topics": [
       "Leadership & Management",
@@ -125,18 +368,79 @@
     "text_ko": "기본적인 질문은 모든 직업이 결국 하나의 프롬프트로 수렴되는 건가 하는 거예요. 예를 들어, CEO는 고객을 행복하게 하고 이익을 내면서 비즈니스를 성장시키는 역할만 하는 걸까요? 그리고 그런 역할이 실제로 회사를 운영할 수 있는 전지전능한 존재가 될 수 있는 건지 궁금해요.",
     "text_zh": "我认为根本问题在于，所有工作是否最终都变成一个简单的指令？例如，首席执行官（CEO）是否只需在让客户满意和实现盈利的同时发展业务？而且它是否真的能够成为一个全知的存在，能够管理整个公司？",
     "text_es": "Creo que la pregunta fundamental es si todos los trabajos se reducen a un solo enunciado. Por ejemplo, ¿un CEO solo se encarga de hacer crecer el negocio, mantener a los clientes satisfechos y generar ganancias, o algo así? Y si realmente puede ser una presencia omnisciente que gestione toda una empresa.",
-    "key_sentence": "Do all jobs become a single prompt, with an omniscient presence to run a whole company?"
+    "key_sentence": "do all jobs just become a single prompt?",
+    "text_trimmed": true,
+    "original_text": "I think the fundamental question is do all jobs just become a single prompt? For example, does a CEO just grow the business while making the customers happy and turning a profit or something like that? And it is able to actually be an omniscient presence that can run a whole company.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "fundamental",
+        "definition": "Serving as a basic or essential component; foundational.",
+        "businessContext": "In business, 'fundamental' often refers to core principles or questions that underpin strategic decisions and operational frameworks.",
+        "nuance": "While 'fundamental' implies importance, it can also suggest simplicity, so it should be used when emphasizing essential aspects without overcomplicating the discussion.",
+        "synonyms": [
+          "basic",
+          "essential"
+        ],
+        "antonyms": [
+          "superficial",
+          "secondary"
+        ]
+      },
+      {
+        "word": "transform",
+        "definition": "To make a thorough or dramatic change in form, appearance, or character.",
+        "businessContext": "In the context of business and technology, 'transform' is frequently used to describe significant changes in processes, products, or organizational structures aimed at improving efficiency or competitiveness.",
+        "nuance": "The term carries a positive connotation, suggesting improvement and innovation, and is best used when discussing strategic initiatives that lead to substantial change.",
+        "synonyms": [
+          "convert",
+          "revolutionize"
+        ],
+        "antonyms": [
+          "preserve",
+          "maintain"
+        ]
+      },
+      {
+        "word": "advancement",
+        "definition": "The process of promoting or improving something, often in terms of progress or development.",
+        "businessContext": "In business, 'advancement' can refer to career progression, technological improvements, or the evolution of market strategies that enhance a company's position.",
+        "nuance": "While 'advancement' generally has a positive connotation, it can imply a competitive aspect, so it should be used in contexts where progress is being actively pursued or achieved.",
+        "synonyms": [
+          "progress",
+          "development"
+        ],
+        "antonyms": [
+          "setback",
+          "decline"
+        ]
+      },
+      {
+        "word": "profit",
+        "definition": "The financial gain obtained when the revenue generated from business activities exceeds the costs, expenses, and taxes.",
+        "businessContext": "In business, 'profit' is a key indicator of financial health and performance, often driving decisions related to pricing, investment, and operational efficiency.",
+        "nuance": "While 'profit' is a straightforward financial term, it can also carry ethical implications, especially in discussions about sustainability and corporate responsibility, so it should be used with consideration of broader impacts.",
+        "synonyms": [
+          "earnings",
+          "gain"
+        ],
+        "antonyms": [
+          "loss",
+          "deficit"
+        ]
+      }
+    ]
   },
   {
-    "text": "There's this great William Gibson quote, \"The future is already here, it's just not evenly distributed.\" And I think that we are in the Palm Treo phase. So right now people like me who have the time and skillset to nerd out and build the agents can do this. It's just not accessible to everybody.",
+    "text": "There's this great William Gibson quote, \"The future is already here, it's just not evenly distributed.\" And I think that we are in the Palm Treo phase.",
     "speaker": "Andrew Wilkinson",
     "timestamp": "00:54:37",
     "context": "Lenny asks Andrew about the impact AI will have on job displacement, noting that Andrew no longer needs certain contractors and assistants due to AI automation. Andrew uses a technology adoption analogy, comparing the current state of AI tools to the Palm Treo - a primitive smartphone predecessor that gave early adopters a preview of mobile capabilities but wasn't user-friendly enough for mass adoption. He suggests we're in an early phase where only tech-savvy users can fully leverage AI's potential.",
     "vocabulary_highlights": [
-      "not evenly distributed",
-      "Palm Treo phase",
-      "nerd out",
-      "not accessible to everybody"
+      "impact",
+      "automation",
+      "technology adoption",
+      "distributed"
     ],
     "topics": [
       "Strategy & Planning",
@@ -151,6 +455,67 @@
     "text_ko": "윌리엄 깁슨의 명언 중에 \"미래는 이미 와 있지만, 고르게 분배되지 않았다\"는 말이 있어요. 지금 우리는 팔름 트레오(Palm Treo) 시기에 있는 것 같아요. 그래서 지금 저처럼 시간과 기술이 있는 사람들이 에이전트(agent)를 만들 수 있지만, 이게 모든 사람에게는 접근 가능하지 않은 상황이에요.",
     "text_zh": "威廉·吉布森有句很棒的话：“未来已经到来，只是尚未均匀分布。”我认为我们正处于Palm Treo的阶段。现在，像我这样有时间和技能的人能够去深入研究并构建这些代理（agents），但这并不是每个人都能接触到的。",
     "text_es": "\"El futuro ya está aquí, solo que no está distribuido de manera equitativa.\" Creo que estamos en la fase del Palm Treo. En este momento, personas como yo, que tienen el tiempo y las habilidades para profundizar y construir los agentes, pueden hacerlo. Simplemente no es accesible para todos.",
-    "key_sentence": "The future is not evenly distributed; we're in the Palm Treo phase, not accessible to everybody."
+    "key_sentence": "The future is not evenly distributed; we're in the Palm Treo phase, not accessible to everybody.",
+    "text_trimmed": true,
+    "original_text": "There's this great William Gibson quote, \"The future is already here, it's just not evenly distributed.\" And I think that we are in the Palm Treo phase. So right now people like me who have the time and skillset to nerd out and build the agents can do this. It's just not accessible to everybody.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "impact",
+        "definition": "The strong effect or influence that one thing has on another.",
+        "businessContext": "In business, 'impact' often refers to the measurable effects of a decision, strategy, or market change on a company's performance or stakeholder outcomes.",
+        "nuance": "While 'impact' can denote positive or negative effects, it is often used in a context that emphasizes significant or transformative changes.",
+        "synonyms": [
+          "effect",
+          "influence"
+        ],
+        "antonyms": [
+          "insignificance",
+          "irrelevance"
+        ]
+      },
+      {
+        "word": "automation",
+        "definition": "The use of technology to perform tasks with minimal human intervention.",
+        "businessContext": "In the business realm, automation is employed to enhance efficiency, reduce costs, and improve accuracy in processes such as manufacturing, customer service, and data management.",
+        "nuance": "While automation is generally viewed positively for its efficiency gains, it can also carry connotations of job displacement and the need for workforce reskilling.",
+        "synonyms": [
+          "mechanization",
+          "robotization"
+        ],
+        "antonyms": [
+          "manual labor",
+          "human operation"
+        ]
+      },
+      {
+        "word": "technology adoption",
+        "definition": "The process by which individuals or organizations begin to use new technologies.",
+        "businessContext": "In startups and tech industries, technology adoption is critical for staying competitive and can involve strategies for encouraging users to embrace new tools or platforms.",
+        "nuance": "The term often implies a gradual process and can highlight challenges such as resistance to change or the need for training.",
+        "synonyms": [
+          "tech integration",
+          "technology implementation"
+        ],
+        "antonyms": [
+          "technology rejection",
+          "tech aversion"
+        ]
+      },
+      {
+        "word": "distributed",
+        "definition": "Spread out or dispersed over a wide area rather than concentrated in one location.",
+        "businessContext": "In business, 'distributed' often refers to systems or networks that operate across multiple locations, such as distributed teams or decentralized technologies like blockchain.",
+        "nuance": "The term can imply a level of resilience and flexibility, but may also suggest complexities in coordination and communication.",
+        "synonyms": [
+          "dispersed",
+          "scattered"
+        ],
+        "antonyms": [
+          "concentrated",
+          "centralized"
+        ]
+      }
+    ]
   }
 ]

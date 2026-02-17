@@ -5,8 +5,10 @@
     "timestamp": "00:00:18",
     "context": "Lenny asks Jay to explain how the Community Notes algorithm works. Community Notes is a system where users can add context to potentially misleading posts on X/Twitter. Jay explains that the key innovation isn't majority rule voting, but specifically looking for agreement between people who typically disagree with each other on topics, which they call a 'bridging-based algorithm.'",
     "vocabulary_highlights": [
-      "sort of surprising agreement",
-      "well-written, really, overall"
+      "agreement",
+      "surprising",
+      "neutral",
+      "accurate"
     ],
     "topics": [
       "Product Management",
@@ -21,7 +23,66 @@
     "text_ko": "저희는 사실 과거에 반대했던 분들에게서도 동의를 구하려고 해요. 그리고 그런 분들이 의외로 합의할 때, 바로 그게 기록을 전반적으로 더 중립적이고 정확하며 잘 정리되게 해줘요.",
     "text_zh": "我们其实专门找那些以前意见不合的人来达成共识。我们发现，当这些人能够出人意料地达成一致意见时，这样写出来的东西就会特别客观、准确，整体质量也特别高。",
     "text_es": "En realidad buscamos consenso entre personas que antes no estaban de acuerdo. Y lo que vemos es que cuando la gente llega a ese tipo de acuerdo inesperado, eso es lo que hace que las notas sean tan neutrales, precisas y bien redactadas en general.",
-    "key_sentence": "Surprising agreement makes notes neutral, accurate, and well-written overall."
+    "key_sentence": "Surprising agreement makes notes neutral, accurate, and well-written overall.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "agreement",
+        "definition": "A mutual understanding or arrangement between two or more parties regarding a specific issue or set of terms.",
+        "businessContext": "In business negotiations, reaching an agreement is crucial for finalizing contracts, partnerships, or collaborative projects.",
+        "nuance": "While 'agreement' implies consensus, it can also suggest compromise, where parties may not fully endorse all terms but accept them for the sake of progress.",
+        "synonyms": [
+          "consensus",
+          "accord"
+        ],
+        "antonyms": [
+          "disagreement",
+          "conflict"
+        ]
+      },
+      {
+        "word": "surprising",
+        "definition": "Causing astonishment or unexpectedness; not anticipated based on prior knowledge or experience.",
+        "businessContext": "In market analysis, surprising trends or consumer behaviors can lead to innovative strategies or pivoting business models.",
+        "nuance": "The term 'surprising' often carries a positive connotation in business, indicating opportunities for growth or improvement that were previously overlooked.",
+        "synonyms": [
+          "unexpected",
+          "astonishing"
+        ],
+        "antonyms": [
+          "predictable",
+          "expected"
+        ]
+      },
+      {
+        "word": "neutral",
+        "definition": "Not taking sides; impartial or unbiased in judgment or opinion.",
+        "businessContext": "In stakeholder communications, maintaining a neutral tone is essential to foster open dialogue and avoid alienating any party.",
+        "nuance": "While 'neutral' suggests fairness, it can also imply a lack of strong conviction, which may not always be desirable in persuasive business contexts.",
+        "synonyms": [
+          "impartial",
+          "unbiased"
+        ],
+        "antonyms": [
+          "biased",
+          "partisan"
+        ]
+      },
+      {
+        "word": "accurate",
+        "definition": "Free from errors or mistakes; precise and correct in detail or information.",
+        "businessContext": "In data analysis and reporting, providing accurate information is vital for informed decision-making and maintaining credibility.",
+        "nuance": "While 'accurate' denotes correctness, it is often used in contexts where precision is critical, such as financial reporting or scientific research.",
+        "synonyms": [
+          "correct",
+          "exact"
+        ],
+        "antonyms": [
+          "inaccurate",
+          "wrong"
+        ]
+      }
+    ]
   },
   {
     "text": "One philosophical thing that's important is that we want all of humanity to participate and sometimes people are surprised by that. We have all of humanity. We then have the data to understand what notes will be helpful to actual humanity.",
@@ -29,8 +90,10 @@
     "timestamp": "00:00:31",
     "context": "Lenny asks Keith how they deal with very polarized users like anti-vaccine advocates or January 6th supporters. Keith explains their philosophy that Community Notes should be open to everyone, regardless of their views. He argues that having diverse participants, even with extreme viewpoints, actually helps the system better understand what information will be genuinely helpful to the broader population.",
     "vocabulary_highlights": [
-      "philosophical thing",
-      "actual humanity"
+      "philosophical",
+      "participate",
+      "polarized",
+      "understand"
     ],
     "topics": [
       "Product Management",
@@ -46,16 +109,77 @@
     "text_ko": "중요한 철학적 관점 중 하나는 인류 전체가 참여하길 바란다는 거예요. 그 점에 깜짝 놀라는 분들도 가끔 있어요. 우리는 사실상 전 인류의 데이터를 가지고 있어서, 어떤 내용이 실제 사람들에게 도움이 될지 데이터로 이해할 수 있어요.",
     "text_zh": "从理念上来说，很重要的一点就是我们希望全人类都能参与进来，有时候这会让人感到意外。我们有了全人类的参与，就有了数据来理解什么样的内容对真正的人类是有帮助的。",
     "text_es": "Una cosa filosófica que es importante es que queremos que toda la humanidad participe, y a veces la gente se sorprende por eso. Tenemos a toda la humanidad. Entonces tenemos los datos para entender qué información va a ser útil para la humanidad real.",
-    "key_sentence": "We want all of humanity to participate for understanding actual humanity."
+    "key_sentence": "We want all of humanity to participate for understanding actual humanity.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "philosophical",
+        "definition": "Relating to the study of fundamental nature, knowledge, and existence; often involves deep thinking about abstract concepts.",
+        "businessContext": "In business, a philosophical approach may guide a company's mission, values, and ethical considerations, influencing decision-making and corporate culture.",
+        "nuance": "While often associated with theoretical discussions, in a business context, it can imply a more reflective and principled stance on operations and strategy.",
+        "synonyms": [
+          "theoretical",
+          "abstract"
+        ],
+        "antonyms": [
+          "practical",
+          "concrete"
+        ]
+      },
+      {
+        "word": "participate",
+        "definition": "To take part in an activity or event; to engage actively in a process or discussion.",
+        "businessContext": "Participation is crucial in collaborative environments, where stakeholders, employees, or customers are encouraged to contribute ideas and feedback to drive innovation and improvement.",
+        "nuance": "The term suggests active involvement rather than passive observation, emphasizing the importance of engagement in achieving collective goals.",
+        "synonyms": [
+          "engage",
+          "join"
+        ],
+        "antonyms": [
+          "withdraw",
+          "isolate"
+        ]
+      },
+      {
+        "word": "polarized",
+        "definition": "Divided into sharply contrasting groups or opinions; often refers to a situation where there is a clear and significant disagreement.",
+        "businessContext": "In a business setting, polarization can occur in team dynamics or market segments, affecting collaboration, decision-making, and customer relations.",
+        "nuance": "While it can indicate a strong stance on issues, polarization may also suggest a lack of compromise or dialogue, which can be detrimental in collaborative environments.",
+        "synonyms": [
+          "divided",
+          "split"
+        ],
+        "antonyms": [
+          "unified",
+          "harmonized"
+        ]
+      },
+      {
+        "word": "understand",
+        "definition": "To grasp the meaning, significance, or nature of something; to comprehend fully.",
+        "businessContext": "Understanding customer needs and market trends is vital for businesses to develop effective strategies and products that resonate with their target audience.",
+        "nuance": "This term implies a deeper level of insight beyond mere knowledge, often requiring analysis and interpretation of complex information.",
+        "synonyms": [
+          "comprehend",
+          "grasp"
+        ],
+        "antonyms": [
+          "misunderstand",
+          "ignore"
+        ]
+      }
+    ]
   },
   {
-    "text": "If I were to start a company in that company, it would be even leaner than I would've made it before. I've been amazed with just how much the team is able to accomplish with a small group and I think because of a small group-",
+    "text": "If I were to start a company in that company, it would be even leaner than I would've made it before.",
     "speaker": "Keith Coleman",
     "timestamp": "00:01:13",
     "context": "Lenny asks Keith what might surprise people about working for Elon Musk within X. Keith shares how his experience at X has changed his perspective on team structure and company operations. He explains that seeing what small teams can accomplish has made him realize he would build future companies with even leaner teams than he previously thought possible.",
     "vocabulary_highlights": [
-      "even leaner",
-      "small group"
+      "leaner",
+      "perspective",
+      "team structure",
+      "company operations"
     ],
     "topics": [
       "Leadership & Management",
@@ -71,17 +195,79 @@
     "text_ko": "사내에서 회사를 시작한다면, 예전에 제가 만들었을 때보다 훨씬 더 린(lean)하게 만들었을 거예요. 작은 인원으로도 팀이 이렇게 많은 걸 해내는 모습에 정말 놀랐고, 그게 소규모라서 가능한 것 같아요.",
     "text_zh": "如果让我在那个公司里重新创业的话，我会做得比以前更精简。我真的很惊讶，就这么小的团队居然能搞定这么多事情，我觉得正是因为团队小——",
     "text_es": "Si tuviera que arrancar una empresa en ese sector, la haría aún más ágil de lo que la hubiera hecho antes. Me ha sorprendido increíblemente todo lo que el equipo logra conseguir siendo tan pocos, y creo que precisamente por ser un grupo pequeño-",
-    "key_sentence": "A small group can accomplish even leaner results than before."
+    "key_sentence": "it would be even leaner than I would've made it before.",
+    "text_trimmed": true,
+    "original_text": "If I were to start a company in that company, it would be even leaner than I would've made it before. I've been amazed with just how much the team is able to accomplish with a small group and I think because of a small group-",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "leaner",
+        "definition": "Characterized by minimalism and efficiency, often with reduced resources or personnel.",
+        "businessContext": "In business, a 'leaner' organization typically aims to streamline processes, reduce waste, and enhance productivity, often associated with lean management principles.",
+        "nuance": "While 'leaner' suggests efficiency, it can also imply a reduction in workforce or resources, which may carry negative connotations in certain contexts.",
+        "synonyms": [
+          "more efficient",
+          "streamlined"
+        ],
+        "antonyms": [
+          "bulkier",
+          "overstaffed"
+        ]
+      },
+      {
+        "word": "perspective",
+        "definition": "A particular attitude or way of considering something; a viewpoint.",
+        "businessContext": "In business discussions, 'perspective' often refers to the different viewpoints stakeholders may have regarding strategies, operations, or market conditions.",
+        "nuance": "The term can imply a subjective viewpoint, so it's important to clarify that it may not represent an objective truth.",
+        "synonyms": [
+          "viewpoint",
+          "outlook"
+        ],
+        "antonyms": [
+          "narrow-mindedness",
+          "bias"
+        ]
+      },
+      {
+        "word": "team structure",
+        "definition": "The arrangement of roles, responsibilities, and relationships within a team.",
+        "businessContext": "In organizational settings, 'team structure' is crucial for defining how tasks are allocated, how communication flows, and how decisions are made within a team.",
+        "nuance": "The term can suggest a hierarchical or flat organization, and the choice of structure can significantly impact team dynamics and performance.",
+        "synonyms": [
+          "organizational structure",
+          "team hierarchy"
+        ],
+        "antonyms": [
+          "disorganization",
+          "chaos"
+        ]
+      },
+      {
+        "word": "company operations",
+        "definition": "The day-to-day activities and processes that a company undertakes to produce goods or services.",
+        "businessContext": "In a business context, 'company operations' encompass everything from supply chain management to customer service, and are critical for achieving strategic objectives.",
+        "nuance": "The term implies a focus on efficiency and effectiveness, and can sometimes be used to highlight areas needing improvement or optimization.",
+        "synonyms": [
+          "business processes",
+          "operational activities"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "There have been external studies run by people totally independent of us who have found that if you take a post with or without a Community Note, that actually people's agreement with the core claims in the post does change if they see it with a note versus without.",
+    "text": "people's agreement with the core claims in the post does change if they see it with a note versus without.",
     "speaker": "Jay Baxter",
     "timestamp": "00:00:36",
     "context": "Jay is explaining the effectiveness of Community Notes in response to Lenny's question about dealing with polarized users. He's addressing the concern that fact-checking might not actually change people's minds about controversial topics. Jay cites independent research showing that Community Notes do measurably impact how much people agree with claims in posts when they see additional context versus when they don't.",
     "vocabulary_highlights": [
-      "totally independent of us",
       "core claims",
-      "versus without"
+      "effectiveness",
+      "polarized",
+      "fact-checking"
     ],
     "topics": [
       "Product Management",
@@ -96,17 +282,79 @@
     "text_ko": "저희와 전혀 관련 없는 외부 연구에서, 커뮤니티 노트(Community Note)가 있는 게시물과 없는 게시물을 비교해 보니 사람들이 그 게시물의 핵심 주장에 동의하는 정도가 실제로 달라진다고 밝혀졌어요.",
     "text_zh": "有一些完全独立的第三方研究发现，如果你拿同一条帖子，一个版本带社区笔记(Community Note)，一个版本不带，用户看到带笔记的版本时，对帖子核心观点的认同度确实会发生变化。",
     "text_es": "Ha habido estudios externos realizados por gente completamente independiente a nosotros que han encontrado que si tomas una publicación con o sin una Nota Comunitaria (Community Note), efectivamente el nivel de acuerdo de las personas con las afirmaciones principales del post sí cambia cuando la ven con la nota versus sin ella.",
-    "key_sentence": "Independent studies show notes change agreement with core claims versus without."
+    "key_sentence": "Independent studies show notes change agreement with core claims versus without.",
+    "text_trimmed": true,
+    "original_text": "There have been external studies run by people totally independent of us who have found that if you take a post with or without a Community Note, that actually people's agreement with the core claims in the post does change if they see it with a note versus without.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "core claims",
+        "definition": "Core claims refer to the fundamental assertions or propositions that form the basis of an argument or statement.",
+        "businessContext": "In business and marketing, core claims are critical as they encapsulate the main value propositions that a company communicates to its customers and stakeholders.",
+        "nuance": "While core claims are essential for clarity, they should be supported by evidence to enhance credibility and persuasiveness.",
+        "synonyms": [
+          "main assertions",
+          "fundamental propositions"
+        ],
+        "antonyms": [
+          "peripheral details",
+          "secondary claims"
+        ]
+      },
+      {
+        "word": "effectiveness",
+        "definition": "Effectiveness is the degree to which something is successful in producing a desired result or outcome.",
+        "businessContext": "In a business context, effectiveness is often measured through key performance indicators (KPIs) to evaluate the success of strategies, campaigns, or processes.",
+        "nuance": "Effectiveness is distinct from efficiency, as it focuses on achieving goals rather than the resources used to achieve them.",
+        "synonyms": [
+          "efficacy",
+          "success"
+        ],
+        "antonyms": [
+          "ineffectiveness",
+          "failure"
+        ]
+      },
+      {
+        "word": "polarized",
+        "definition": "Polarized describes a situation where opinions or beliefs are sharply divided into opposing factions or extremes.",
+        "businessContext": "In the tech industry, polarized opinions can emerge around controversial topics such as data privacy, leading to divided customer bases and influencing product development.",
+        "nuance": "While polarization can indicate strong feelings about an issue, it may also hinder constructive dialogue and collaboration.",
+        "synonyms": [
+          "divided",
+          "split"
+        ],
+        "antonyms": [
+          "unified",
+          "harmonized"
+        ]
+      },
+      {
+        "word": "fact-checking",
+        "definition": "Fact-checking is the process of verifying the accuracy of information or claims to ensure they are truthful and reliable.",
+        "businessContext": "In business communications, especially in public relations and marketing, fact-checking is crucial to maintain credibility and avoid misinformation that could harm a brand's reputation.",
+        "nuance": "While fact-checking is essential for credibility, it should be conducted with care to avoid bias and ensure impartiality.",
+        "synonyms": [
+          "verification",
+          "validation"
+        ],
+        "antonyms": [
+          "misinformation",
+          "falsehood"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think the key thing, really, that we do is we actually look for agreement from people who have disagreed in the past. And what we see is when people actually have that sort of surprising agreement, that's what makes the notes so neutral and accurate and well-written, really, overall.",
+    "text": "I think the key thing, really, that we do is we actually look for agreement from people who have disagreed in the past.",
     "speaker": "Jay Baxter",
     "timestamp": "00:07:22",
     "context": "Lenny asks for a deeper understanding of how the Community Notes algorithm works, noting that it's absurd that it works at all. Jay explains that many people misunderstand the system, thinking it's either immediate posting or simple majority voting. He clarifies that the key innovation is their 'bridging-based agreement algorithm' that specifically seeks consensus between users who typically disagree with each other.",
     "vocabulary_highlights": [
-      "key thing, really",
-      "sort of surprising agreement",
-      "well-written, really, overall"
+      "agreement",
+      "disagreed",
+      "understanding",
+      "misunderstand"
     ],
     "topics": [
       "Product Management",
@@ -121,7 +369,68 @@
     "text_ko": "정말 핵심은 저희가 하는 일이 과거에 의견이 달랐던 사람들에게서 합의를 찾아보는 거예요. 사람들이 의외로 합의를 이루면 그게 메모를 전반적으로 훨씬 더 중립적이고 정확하며 잘 작성되게 해요.",
     "text_zh": "我觉得关键在于，我们其实专门去找那些以前意见不合的人，看他们能不能达成一致。我们发现，当这些人真的能出人意料地取得共识时，这样写出来的notes就特别中性、准确，整体质量也特别高。",
     "text_es": "Yo creo que lo clave de lo que hacemos es que realmente buscamos consenso entre personas que antes no estaban de acuerdo. Y lo que vemos es que cuando la gente llega a ese tipo de acuerdo inesperado, eso es lo que hace que las notas sean tan neutrales, precisas y bien redactadas en general.",
-    "key_sentence": "Key thing is seeking surprising agreement for well-written notes overall."
+    "key_sentence": "we actually look for agreement from people who have disagreed in the past.",
+    "text_trimmed": true,
+    "original_text": "I think the key thing, really, that we do is we actually look for agreement from people who have disagreed in the past. And what we see is when people actually have that sort of surprising agreement, that's what makes the notes so neutral and accurate and well-written, really, overall.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "agreement",
+        "definition": "A mutual understanding or arrangement between two or more parties regarding a specific issue or set of terms.",
+        "businessContext": "In business, agreements often take the form of contracts or memorandums of understanding that outline the responsibilities and expectations of each party involved.",
+        "nuance": "While 'agreement' suggests a consensus, it can also imply a compromise where parties may not fully endorse all aspects but accept them for the sake of collaboration.",
+        "synonyms": [
+          "consensus",
+          "accord"
+        ],
+        "antonyms": [
+          "disagreement",
+          "conflict"
+        ]
+      },
+      {
+        "word": "disagreed",
+        "definition": "To have a differing opinion or viewpoint from another party, often leading to a lack of consensus.",
+        "businessContext": "In a business setting, disagreement can arise during negotiations, meetings, or strategic discussions, highlighting differing priorities or perspectives among stakeholders.",
+        "nuance": "The term carries a connotation of conflict or opposition, and while it is a natural part of decision-making, it can also indicate deeper issues if frequent.",
+        "synonyms": [
+          "differed",
+          "contradicted"
+        ],
+        "antonyms": [
+          "agreed",
+          "concurred"
+        ]
+      },
+      {
+        "word": "understanding",
+        "definition": "A shared comprehension or insight regarding a particular subject, often resulting from discussions or negotiations.",
+        "businessContext": "In business, fostering mutual understanding is crucial for effective teamwork, collaboration, and conflict resolution among diverse groups.",
+        "nuance": "This term implies a deeper level of connection and empathy, suggesting that parties not only comprehend the facts but also appreciate each other's perspectives.",
+        "synonyms": [
+          "comprehension",
+          "insight"
+        ],
+        "antonyms": [
+          "misunderstanding",
+          "confusion"
+        ]
+      },
+      {
+        "word": "misunderstand",
+        "definition": "To interpret or perceive something incorrectly, leading to confusion or miscommunication.",
+        "businessContext": "In the workplace, misunderstandings can lead to errors, inefficiencies, and strained relationships, making clear communication essential for success.",
+        "nuance": "This term often suggests a failure in communication rather than a lack of knowledge, and it can be used to address situations where clarification is needed.",
+        "synonyms": [
+          "misinterpret",
+          "misconstrue"
+        ],
+        "antonyms": [
+          "understand",
+          "comprehend"
+        ]
+      }
+    ]
   },
   {
     "text": "Every post is eligible for notes. We shouldn't exempt Elon. We shouldn't exempt government figures. We should be like everyone... Even advertisers can get notes.",
@@ -129,8 +438,10 @@
     "timestamp": "00:00:36",
     "context": "Lenny asks when a post gets triggered for Community Notes consideration - whether there's a threshold or if anyone can write notes on anything. Keith explains one of their core principles: that Community Notes applies universally to all content on the platform without exceptions. This includes posts from world leaders, Elon Musk himself, government officials, and even advertisements, ensuring an 'even playing field' for information accuracy.",
     "vocabulary_highlights": [
+      "eligible",
       "exempt",
-      "even playing field"
+      "advertisers",
+      "principles"
     ],
     "topics": [
       "Product Management",
@@ -146,17 +457,77 @@
     "text_ko": "모든 게시물(post)은 노트(notes) 대상이에요. 일론 머스크(Elon Musk)라고 해서 예외로 해선 안 되고, 정부 인사(government figures)도 예외로 해선 안 돼요. 모두에게 똑같이 적용해야 해요. 광고주(advertisers)도 노트를 받을 수 있어야 해요.",
     "text_zh": "每条推文都可以被加注释，马斯克也不例外，政府官员也不例外。咱们应该一视同仁...连广告主的内容都能被加注释。",
     "text_es": "Cualquier publicación puede recibir notas. No deberíamos hacer excepciones con Elon. No deberíamos hacer excepciones con figuras del gobierno. Deberíamos tratarlos como a cualquier otro... Incluso los anunciantes pueden recibir notas.",
-    "key_sentence": "No one should be exempt; we need an even playing field."
+    "key_sentence": "We shouldn't exempt Elon. We shouldn't exempt government figures.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "eligible",
+        "definition": "Qualified or entitled to be chosen or to participate in something.",
+        "businessContext": "In business settings, 'eligible' often refers to individuals or entities that meet specific criteria for benefits, programs, or opportunities, such as grants or promotions.",
+        "nuance": "While 'eligible' indicates a positive qualification, it may imply that there are strict criteria that must be met, which can create a sense of exclusivity.",
+        "synonyms": [
+          "qualified",
+          "entitled"
+        ],
+        "antonyms": [
+          "ineligible",
+          "disqualified"
+        ]
+      },
+      {
+        "word": "exempt",
+        "definition": "Free from an obligation or liability imposed on others.",
+        "businessContext": "In the business world, 'exempt' is often used to describe individuals or organizations that are not subject to certain regulations, taxes, or rules, such as tax-exempt status for non-profits.",
+        "nuance": "The term can carry a connotation of privilege, suggesting that some are granted special treatment, which may lead to perceptions of unfairness.",
+        "synonyms": [
+          "excused",
+          "excluded"
+        ],
+        "antonyms": [
+          "liable",
+          "subject"
+        ]
+      },
+      {
+        "word": "advertisers",
+        "definition": "Individuals or companies that promote products or services through various media channels to reach potential customers.",
+        "businessContext": "In the context of business and marketing, 'advertisers' are crucial stakeholders who invest in advertising campaigns to drive brand awareness and sales.",
+        "nuance": "The term can imply a commercial intent, and may carry a negative connotation if associated with intrusive or overly aggressive marketing tactics.",
+        "synonyms": [
+          "marketers",
+          "promoters"
+        ],
+        "antonyms": [
+          "consumers",
+          "N/A"
+        ]
+      },
+      {
+        "word": "principles",
+        "definition": "Fundamental truths or propositions that serve as the foundation for a system of belief or behavior.",
+        "businessContext": "In business, 'principles' often refer to core values or ethical standards that guide decision-making and corporate culture.",
+        "nuance": "While 'principles' suggest a strong moral or ethical foundation, they can also be seen as rigid if not adaptable to changing circumstances.",
+        "synonyms": [
+          "values",
+          "standards"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "We try to make notes as fast as we can, so we want them to appear instantly if possible. But inevitably, there's going to be a time gap between when a post goes live and when people figure out what's going on and when they get the note out there.",
+    "text": "We try to make notes as fast as we can, so we want them to appear instantly if possible.",
     "speaker": "Keith Coleman",
     "timestamp": "00:16:11",
     "context": "Lenny mentions loving the feature where users get notified if they liked a post that later received a Community Note, so they don't remember false information. Keith explains their approach to timing - while they aim for instant notes, there's always a delay between when misleading content is posted and when the community can research, write, and approve corrective context through their consensus process.",
     "vocabulary_highlights": [
-      "inevitably",
-      "time gap",
-      "figure out what's going on"
+      "instantly",
+      "approach",
+      "feature",
+      "notify"
     ],
     "topics": [
       "Product Management",
@@ -172,6 +543,67 @@
     "text_ko": "우리는 가능한 한 빨리 노트를 만들려고 해서, 가능하면 즉시 보이길 원해요. 하지만 글이 공개되는 시점과 사람들이 상황을 파악해서 노트를 올리는 시점 사이에는 어쩔 수 없이 시간 차가 생겨요.",
     "text_zh": "我们尽量快速地做笔记，最好能做到即时显示。但不可避免的是，从帖子发布到大家搞清楚情况再到把笔记发出来，这中间肯定会有个时间差。",
     "text_es": "Tratamos de crear las notas lo más rápido posible, así que queremos que aparezcan al instante si se puede. Pero inevitablemente va a haber un desfase entre cuando se publica un post y cuando la gente se da cuenta de lo que está pasando y cuando logran sacar la nota.",
-    "key_sentence": "Inevitably, a time gap exists between posts going live and figuring out what's going on."
+    "key_sentence": "we want them to appear instantly if possible.",
+    "text_trimmed": true,
+    "original_text": "We try to make notes as fast as we can, so we want them to appear instantly if possible. But inevitably, there's going to be a time gap between when a post goes live and when people figure out what's going on and when they get the note out there.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "instantly",
+        "definition": "Without any delay; occurring immediately.",
+        "businessContext": "In business and technology, 'instantly' often describes the speed of service delivery or the response time of systems, emphasizing efficiency and user satisfaction.",
+        "nuance": "While 'instantly' conveys urgency and immediacy, it may not always be feasible in complex processes, so it should be used judiciously.",
+        "synonyms": [
+          "immediately",
+          "promptly"
+        ],
+        "antonyms": [
+          "gradually",
+          "delayed"
+        ]
+      },
+      {
+        "word": "approach",
+        "definition": "A way of dealing with a situation or problem; a method or strategy.",
+        "businessContext": "In a business setting, 'approach' can refer to the specific tactics employed to achieve goals, such as marketing approaches or problem-solving approaches.",
+        "nuance": "The term can imply a thoughtful or strategic method, but may also suggest a lack of flexibility if used in a rigid context.",
+        "synonyms": [
+          "method",
+          "strategy"
+        ],
+        "antonyms": [
+          "disregard",
+          "neglect"
+        ]
+      },
+      {
+        "word": "feature",
+        "definition": "A distinctive attribute or aspect of a product or service.",
+        "businessContext": "In the tech industry, 'feature' often refers to specific functionalities that enhance user experience and differentiate products in a competitive market.",
+        "nuance": "While 'feature' typically has a positive connotation, it can also imply complexity if a product has too many features that overwhelm users.",
+        "synonyms": [
+          "characteristic",
+          "attribute"
+        ],
+        "antonyms": [
+          "flaw",
+          "deficiency"
+        ]
+      },
+      {
+        "word": "notify",
+        "definition": "To inform someone about something; to give notice or alert.",
+        "businessContext": "In business operations, 'notify' is commonly used in communication protocols, such as alerting team members about updates or changes in project status.",
+        "nuance": "The term carries a formal tone and is often used in official communications, making it less suitable for casual conversations.",
+        "synonyms": [
+          "inform",
+          "alert"
+        ],
+        "antonyms": [
+          "conceal",
+          "ignore"
+        ]
+      }
+    ]
   }
 ]

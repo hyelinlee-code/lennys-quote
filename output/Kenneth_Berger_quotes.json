@@ -1,14 +1,14 @@
 [
   {
-    "text": "If you're more in the people pleasing camp, maybe you're used to not asking at all. You're hoping that people are reading your mind. And if you're sort of more in the control freak camp, maybe you're used to ordering people around and saying, \"Go do this now.\"",
+    "text": "If you're more in the people pleasing camp, maybe you're used to not asking at all. You're hoping that people are reading your mind.",
     "speaker": "Kenneth Berger",
     "timestamp": "00:00:32",
     "context": "Lenny asks Kenneth how people can know if they need to work on asking for what they want. Kenneth explains that there are two common problematic approaches people take when they struggle with this skill. He identifies that people typically fall into one of two camps when it comes to making requests - either they avoid asking entirely and expect others to intuitively understand their needs, or they become overly controlling and demanding in their communication style.",
     "vocabulary_highlights": [
-      "people pleasing camp",
-      "control freak camp",
-      "reading your mind",
-      "ordering people around"
+      "people pleasing",
+      "approach",
+      "struggle",
+      "asking"
     ],
     "topics": [
       "Communication Skills",
@@ -24,7 +24,68 @@
     "text_ko": "사람들 기쁘게 하려는 편이라면 아예 묻지 않는 데 익숙할 거예요. 사람들이 내 마음을 읽어주길 바라고 있죠. 반대로 통제하려는 편이라면 사람들에게 지시해서 “이거 지금 해”라고 말하는 게 더 익숙할 거예요.",
     "text_zh": "如果你比较喜欢讨好别人，可能你根本就不习惯开口要求什么。你总是希望别人能猜到你在想什么。要是你偏向控制狂那一类，可能你习惯了指挥别人，张口就是\"赶紧去做这个\"。",
     "text_es": "Si eres más del tipo que siempre quiere quedar bien con todos, probablemente estés acostumbrado a no pedir nada directamente. Andas esperando que la gente te lea la mente. Y si eres más del tipo controlador obsesivo, tal vez estés acostumbrado a darle órdenes a todo el mundo y decirles \"Ve y haz esto ahora mismo.\"",
-    "key_sentence": "People pleasing often leads to hoping others are reading your mind."
+    "key_sentence": "People pleasing often leads to hoping others are reading your mind.",
+    "text_trimmed": true,
+    "original_text": "If you're more in the people pleasing camp, maybe you're used to not asking at all. You're hoping that people are reading your mind. And if you're sort of more in the control freak camp, maybe you're used to ordering people around and saying, \"Go do this now.\"",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "people pleasing",
+        "definition": "The tendency to prioritize the approval and satisfaction of others over one's own needs or desires.",
+        "businessContext": "In business settings, people pleasing can lead to a reluctance to voice opinions or make decisions that may upset colleagues, potentially hindering effective teamwork and leadership.",
+        "nuance": "While people pleasing can foster harmony, it may also result in personal burnout and a lack of authenticity in professional relationships.",
+        "synonyms": [
+          "accommodating",
+          "compliant"
+        ],
+        "antonyms": [
+          "assertiveness",
+          "self-advocacy"
+        ]
+      },
+      {
+        "word": "approach",
+        "definition": "A method or way of dealing with a situation or problem, often characterized by a specific strategy or perspective.",
+        "businessContext": "In business, the term approach is frequently used to describe strategies for project management, marketing, or problem-solving, indicating how one plans to tackle challenges.",
+        "nuance": "The choice of approach can significantly influence outcomes, and it's important to consider the context and stakeholders involved when selecting a method.",
+        "synonyms": [
+          "method",
+          "strategy"
+        ],
+        "antonyms": [
+          "avoidance",
+          "neglect"
+        ]
+      },
+      {
+        "word": "struggle",
+        "definition": "To experience difficulty or hardship in achieving a goal or overcoming an obstacle.",
+        "businessContext": "Struggle in a business context may refer to challenges faced by teams or individuals in meeting targets, adapting to change, or navigating complex projects.",
+        "nuance": "While struggle can indicate a lack of progress, it can also be seen as a necessary part of growth and innovation when approached with resilience.",
+        "synonyms": [
+          "strive",
+          "battle"
+        ],
+        "antonyms": [
+          "succeed",
+          "thrive"
+        ]
+      },
+      {
+        "word": "asking",
+        "definition": "The act of requesting information, assistance, or clarification from others.",
+        "businessContext": "In a business environment, asking is crucial for effective communication, collaboration, and problem-solving, as it encourages transparency and shared understanding.",
+        "nuance": "While asking can demonstrate vulnerability, it can also be perceived as a strength when it leads to informed decision-making and team cohesion.",
+        "synonyms": [
+          "inquiry",
+          "request"
+        ],
+        "antonyms": [
+          "declining",
+          "refusing"
+        ]
+      }
+    ]
   },
   {
     "text": "Complaints are great inspiration. Every complaint implies a dream. Let me envision a better future. Let me think about what's an effective way to actually move towards that. See what it's like to not be sort of living in fear all the time.",
@@ -32,10 +93,10 @@
     "timestamp": "00:00:44",
     "context": "Lenny asks Kenneth how people can figure out what they want in their lives and careers, especially for those who struggle with knowing their own desires. Kenneth introduces a technique he calls \"dream behind the complaint\" - the idea that people are often better at complaining than dreaming, but every complaint contains valuable information about what they actually want. He suggests using complaints as starting points to envision better futures and develop effective strategies to achieve them.",
     "vocabulary_highlights": [
-      "great inspiration",
-      "implies a dream",
-      "envision a better future",
-      "living in fear"
+      "inspiration",
+      "effective",
+      "envision",
+      "desires"
     ],
     "topics": [
       "Career Development",
@@ -51,17 +112,77 @@
     "text_ko": "불만은 훌륭한 영감이에요. 모든 불만에는 더 나은 무언가를 바라는 꿈이 담겨 있어요. 제가 더 나은 미래를 상상하게 해줘요. 그리고 그걸 실제로 향해 나아가게 할 효과적인 방법이 무엇인지 생각하게 해줘요. 늘 두려움에 사로잡혀 살지 않는 삶이 어떤지 느껴보게 해줘요.",
     "text_zh": "客户抱怨其实是很好的灵感来源。每一个抱怨背后都藏着一个期待，让我去想象一个更好的未来。让我想想怎么才能真正有效地朝那个方向努力。看看不用总是提心吊胆过日子是什么感觉。",
     "text_es": "Las quejas son una inspiración increíble. Cada queja esconde un sueño. Déjame imaginar un futuro mejor. Déjame pensar en cuál sería una manera efectiva de realmente avanzar hacia eso. Ver cómo sería no estar viviendo con miedo todo el tiempo.",
-    "key_sentence": "Complaints are great inspiration, implying a dream for a better future."
+    "key_sentence": "Complaints are great inspiration, implying a dream for a better future.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "inspiration",
+        "definition": "The process of being mentally stimulated to do or feel something, especially to do something creative or innovative.",
+        "businessContext": "In business, inspiration often drives innovation and motivates teams to pursue new ideas or solutions to problems.",
+        "nuance": "While inspiration can be a powerful motivator, it is often fleeting and should be complemented by strategic planning and execution.",
+        "synonyms": [
+          "motivation",
+          "stimulus"
+        ],
+        "antonyms": [
+          "discouragement",
+          "apathy"
+        ]
+      },
+      {
+        "word": "effective",
+        "definition": "Successful in producing a desired or intended result; capable of achieving goals efficiently.",
+        "businessContext": "In a business context, effective strategies and practices are essential for maximizing productivity and achieving organizational objectives.",
+        "nuance": "The term 'effective' implies not only achieving results but doing so in a manner that is appropriate and sustainable over time.",
+        "synonyms": [
+          "efficient",
+          "successful"
+        ],
+        "antonyms": [
+          "ineffective",
+          "unproductive"
+        ]
+      },
+      {
+        "word": "envision",
+        "definition": "To imagine or visualize a future possibility or scenario, often in a detailed and vivid manner.",
+        "businessContext": "Leaders in business often need to envision future trends and opportunities to guide strategic planning and decision-making.",
+        "nuance": "Envisioning goes beyond mere dreaming; it involves a clear mental picture that can inspire actionable plans.",
+        "synonyms": [
+          "imagine",
+          "visualize"
+        ],
+        "antonyms": [
+          "ignore",
+          "overlook"
+        ]
+      },
+      {
+        "word": "desires",
+        "definition": "Strong feelings of wanting or wishing for something, which can drive behavior and decision-making.",
+        "businessContext": "Understanding customer desires is crucial for businesses to tailor products and services that meet market needs and enhance customer satisfaction.",
+        "nuance": "Desires can be both conscious and subconscious, influencing not only consumer behavior but also employee motivation and engagement.",
+        "synonyms": [
+          "wants",
+          "aspirations"
+        ],
+        "antonyms": [
+          "disinterest",
+          "aversion"
+        ]
+      }
+    ]
   },
   {
-    "text": "Often what I try to introduce people to, and I've learned all this stuff the hard way, believe me, is it's fundamentally disrespectful to go into a meeting already deciding that you're right and the other person is wrong because you can't know that for sure. There's always a new perspective, new data that could come in.",
+    "text": "it's fundamentally disrespectful to go into a meeting already deciding that you're right and the other person is wrong because you can't know that for sure.",
     "speaker": "Kenneth Berger",
     "timestamp": "00:08:19",
     "context": "Lenny asks Kenneth for an example from his own career where he failed to ask for what he wanted effectively. Kenneth reflects on his tendency to be overly attached to being right, particularly in his product management role. He explains how this mindset of entering conversations with predetermined conclusions about being correct is not only ineffective but also disrespectful to others, as it prevents genuine dialogue and learning from new information.",
     "vocabulary_highlights": [
-      "the hard way",
-      "fundamentally disrespectful",
-      "can't know that for sure"
+      "fundamentally",
+      "disrespectful",
+      "effectively",
+      "attached"
     ],
     "topics": [
       "Communication Skills",
@@ -77,17 +198,79 @@
     "text_ko": "제가 사람들에게 자주 전하려고 하는 말인데요, 이건 저도 뼈저리게 배운 거예요. 회의에 들어가서 이미 '내가 옳고 네가 틀렸다'고 단정해 버리는 건 근본적으로 상대에 대한 무례예요. 왜냐하면 그걸 확실히 알 수는 없으니까요. 언제든 새로운 관점이나 추가적인 데이터가 들어올 수 있어요.",
     "text_zh": "我经常跟别人说的，这些都是我吃了不少亏才悟出来的，就是你带着自己肯定对、对方肯定错的想法去开会，这本身就是不尊重人的表现，因为你根本不可能百分百确定嘛。总会有新的角度、新的信息冒出来的。",
     "text_es": "Mira, algo que siempre trato de enseñarle a la gente, y créeme que yo aprendí todo esto a golpes, es que es una falta de respeto total llegar a una reunión ya convencido de que tienes la razón y el otro está equivocado, porque la verdad es que no puedes estar seguro de eso. Siempre puede aparecer una perspectiva nueva, datos que no tenías.",
-    "key_sentence": "It's fundamentally disrespectful to assume you're right without knowing for sure."
+    "key_sentence": "It's fundamentally disrespectful to assume you're right without knowing for sure.",
+    "text_trimmed": true,
+    "original_text": "Often what I try to introduce people to, and I've learned all this stuff the hard way, believe me, is it's fundamentally disrespectful to go into a meeting already deciding that you're right and the other person is wrong because you can't know that for sure. There's always a new perspective, new data that could come in.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "fundamentally",
+        "definition": "In a basic and essential way; at the core or foundation of something.",
+        "businessContext": "In business discussions, 'fundamentally' is often used to highlight core principles or values that underpin strategic decisions or organizational culture.",
+        "nuance": "This term conveys a sense of importance and can imply that the issue at hand is not just superficial but deeply rooted.",
+        "synonyms": [
+          "essentially",
+          "intrinsically"
+        ],
+        "antonyms": [
+          "superficially",
+          "marginally"
+        ]
+      },
+      {
+        "word": "disrespectful",
+        "definition": "Showing a lack of respect or consideration for someone or something.",
+        "businessContext": "In a corporate environment, being 'disrespectful' can damage relationships, hinder collaboration, and create a toxic workplace culture, particularly during negotiations or meetings.",
+        "nuance": "This term carries a strong negative connotation and is often used to describe behavior that undermines professional decorum.",
+        "synonyms": [
+          "rude",
+          "insulting"
+        ],
+        "antonyms": [
+          "respectful",
+          "courteous"
+        ]
+      },
+      {
+        "word": "effectively",
+        "definition": "In a manner that produces a desired result or outcome; efficiently.",
+        "businessContext": "In business, 'effectively' is used to assess how well strategies, processes, or communications achieve their intended goals.",
+        "nuance": "While it implies success, it can also suggest the need for improvement if something is not deemed effective enough.",
+        "synonyms": [
+          "efficiently",
+          "successfully"
+        ],
+        "antonyms": [
+          "ineffectively",
+          "unsuccessfully"
+        ]
+      },
+      {
+        "word": "attached",
+        "definition": "Connected or joined to something; having a strong emotional or personal connection.",
+        "businessContext": "In a business context, being 'attached' can refer to emotional investment in projects, teams, or company values, which can influence motivation and performance.",
+        "nuance": "This term can imply both positive connections and negative dependencies, depending on the context in which it is used.",
+        "synonyms": [
+          "connected",
+          "affixed"
+        ],
+        "antonyms": [
+          "detached",
+          "disconnected"
+        ]
+      }
+    ]
   },
   {
-    "text": "So one of my favorite techniques here is this concept they call dream behind the complaint. Because you're right that we tend to not be that great always at really dreaming and envisioning and saying, \"This is my dream of what I want out of life.\" That can sound really scary for people, but we're very good at complaining.",
+    "text": "So one of my favorite techniques here is this concept they call dream behind the complaint.",
     "speaker": "Kenneth Berger",
     "timestamp": "00:11:27",
     "context": "Lenny asks Kenneth for specific techniques to help people identify what they want, particularly those who struggle with articulating their desires or tend to prioritize others' happiness over their own needs. Kenneth introduces his \"dream behind the complaint\" technique, explaining that while people often find it intimidating to articulate big dreams or visions, they're naturally skilled at identifying problems and frustrations. He suggests using complaints as a practical starting point for discovering underlying desires.",
     "vocabulary_highlights": [
-      "dream behind the complaint",
-      "dreaming and envisioning",
-      "sound really scary"
+      "articulating",
+      "prioritize",
+      "techniques",
+      "concept"
     ],
     "topics": [
       "Career Development",
@@ -103,17 +286,79 @@
     "text_ko": "제가 여기서 좋아하는 기법 중 하나는 '불만 뒤의 꿈 (dream behind the complaint)'이라는 개념이에요. 말하신 대로 우리는 삶에서 진짜로 원하는 걸 마음껏 꿈꾸고 구체적으로 상상해서 '내가 원하는 삶은 이거야'라고 말하는 데 늘 능숙하지는 않아요. 그런 건 사람들한테 꽤 두렵게 느껴질 수 있는데, 대신 불평하는 건 참 잘하죠.",
     "text_zh": "我特别喜欢用的一个方法叫做\"投诉背后的梦想\"(dream behind the complaint)。因为你说得对，我们往往不太擅长真正地去畅想和描绘，然后说\"这就是我想要的人生\"。这听起来可能让人觉得挺吓人的，但是抱怨这件事我们可在行了。",
     "text_es": "Una de mis técnicas favoritas es este concepto que llaman \"el sueño detrás de la queja\" (dream behind the complaint). Porque tienes razón en que no siempre somos muy buenos para realmente soñar y visualizar diciendo \"Este es mi sueño de lo que quiero en la vida.\" Eso puede sonar muy intimidante para la gente, pero para quejarnos sí que somos buenísimos.",
-    "key_sentence": "Dream behind the complaint helps us envision what we truly want."
+    "key_sentence": "this concept they call dream behind the complaint.",
+    "text_trimmed": true,
+    "original_text": "So one of my favorite techniques here is this concept they call dream behind the complaint. Because you're right that we tend to not be that great always at really dreaming and envisioning and saying, \"This is my dream of what I want out of life.\" That can sound really scary for people, but we're very good at complaining.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "articulating",
+        "definition": "The act of expressing an idea or feeling in a clear and effective manner.",
+        "businessContext": "In business, articulating a vision or strategy is crucial for aligning team members and stakeholders towards common goals.",
+        "nuance": "While articulating often implies clarity and precision, it can also suggest the need for persuasion or influence in communication.",
+        "synonyms": [
+          "expressing",
+          "communicating"
+        ],
+        "antonyms": [
+          "mumbling",
+          "obscuring"
+        ]
+      },
+      {
+        "word": "prioritize",
+        "definition": "To arrange or deal with tasks or issues in order of importance or urgency.",
+        "businessContext": "In a business environment, prioritizing tasks helps teams focus on high-impact activities that drive results and meet deadlines effectively.",
+        "nuance": "Prioritizing often involves making difficult decisions about resource allocation and can imply a strategic approach to time management.",
+        "synonyms": [
+          "rank",
+          "order"
+        ],
+        "antonyms": [
+          "ignore",
+          "deprioritize"
+        ]
+      },
+      {
+        "word": "techniques",
+        "definition": "Methods or ways of doing something, often based on practical skills or knowledge.",
+        "businessContext": "In the context of business and startups, techniques can refer to specific strategies or practices used to improve processes, enhance productivity, or solve problems.",
+        "nuance": "The term suggests a level of expertise and can imply that the methods are tried and tested, although they may vary in effectiveness depending on the context.",
+        "synonyms": [
+          "methods",
+          "approaches"
+        ],
+        "antonyms": [
+          "theories",
+          "concepts"
+        ]
+      },
+      {
+        "word": "concept",
+        "definition": "An abstract idea or a general notion that represents something, often used as a foundation for further development or discussion.",
+        "businessContext": "In business, a concept can refer to a new product idea, a marketing strategy, or a business model that is being developed or evaluated.",
+        "nuance": "While 'concept' suggests a foundational idea, it may also imply that the idea is still in the early stages of development and not yet fully realized.",
+        "synonyms": [
+          "idea",
+          "notion"
+        ],
+        "antonyms": [
+          "reality",
+          "fact"
+        ]
+      }
+    ]
   },
   {
-    "text": "So I have a more expansive definition of no than most people, I think, because for me it's not a yes unless it's a hell yes. Because you really want enthusiastic consent. Not just, \"Maybe, kinda. I'll try. We'll see. But yeah, absolutely, let's do this.\"",
+    "text": "So I have a more expansive definition of no than most people, I think, because for me it's not a yes unless it's a hell yes. Because you really want enthusiastic consent. Not just, \"Maybe, kinda. I'll try. We'll see.",
     "speaker": "Kenneth Berger",
     "timestamp": "00:15:28",
     "context": "Lenny asks Kenneth about overcoming the fear of hearing \"no\" when asking for what you want. Kenneth explains his philosophy around accepting responses, particularly his belief that anything short of enthusiastic agreement should be treated as a \"no.\" He emphasizes the importance of seeking genuine, wholehearted commitment rather than settling for lukewarm or hesitant responses, as these often lead to problems later when people don't fully follow through on their commitments.",
     "vocabulary_highlights": [
-      "more expansive definition",
-      "hell yes",
-      "enthusiastic consent"
+      "enthusiastic consent",
+      "expansive definition",
+      "overcoming the fear",
+      "accepting responses"
     ],
     "topics": [
       "Communication Skills",
@@ -129,7 +374,68 @@
     "text_ko": "저는 대부분 사람들보다 '아니오'를 좀 더 넓게 보는 편이에요. 제게는 '헬 예스(hell yes)'가 아니면 예로 안 쳐요. 결국엔 진짜 열렬한 동의(enthusiastic consent)가 필요해요. '음… 아마도, 좀, 해볼게, 지켜보자' 같은 애매한 반응으론 충분하지 않아요.",
     "text_zh": "我对\"不\"的定义可能比大多数人都要宽泛，因为在我看来，如果不是特别想做的事，那就是不做。你真的需要那种发自内心的认同，而不是那种\"也许吧，差不多，试试看，再说吧\"的态度。你要的是\"好，没问题，咱们就这么干！\"",
     "text_es": "Yo tengo una definición más amplia del \"no\" que la mayoría de la gente, creo, porque para mí no es un \"sí\" a menos que sea un \"¡sí rotundo!\" Porque realmente necesitas que la gente esté súper convencida. No solo un \"A ver... tal vez. Lo intentaré. Ya veremos.\" Sino más bien \"¡Sí, absolutamente, vamos a hacerlo!\"",
-    "key_sentence": "I have a more expansive definition of no; it's not a yes unless it's a hell yes."
+    "key_sentence": "I have a more expansive definition of no; it's not a yes unless it's a hell yes.",
+    "text_trimmed": true,
+    "original_text": "So I have a more expansive definition of no than most people, I think, because for me it's not a yes unless it's a hell yes. Because you really want enthusiastic consent. Not just, \"Maybe, kinda. I'll try. We'll see. But yeah, absolutely, let's do this.\"",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "enthusiastic consent",
+        "definition": "Enthusiastic consent refers to a clear and affirmative agreement to participate in an activity, characterized by eagerness and willingness rather than mere acceptance or compliance.",
+        "businessContext": "In business negotiations or partnerships, enthusiastic consent ensures that all parties are fully committed and engaged, fostering a more productive and collaborative environment.",
+        "nuance": "This term emphasizes the importance of genuine interest and agreement, distinguishing it from passive or reluctant consent.",
+        "synonyms": [
+          "affirmative consent",
+          "active agreement"
+        ],
+        "antonyms": [
+          "passive consent",
+          "reluctant agreement"
+        ]
+      },
+      {
+        "word": "expansive definition",
+        "definition": "An expansive definition is a broad interpretation of a term or concept that encompasses a wide range of meanings or applications.",
+        "businessContext": "In strategic planning or product development, an expansive definition can encourage innovative thinking by allowing for diverse perspectives and potential uses.",
+        "nuance": "While useful for fostering creativity, an overly expansive definition can lead to ambiguity and confusion if not clearly communicated.",
+        "synonyms": [
+          "broad definition",
+          "comprehensive definition"
+        ],
+        "antonyms": [
+          "narrow definition",
+          "restrictive definition"
+        ]
+      },
+      {
+        "word": "overcoming the fear",
+        "definition": "Overcoming the fear involves confronting and managing anxieties or apprehensions that hinder decision-making or action.",
+        "businessContext": "In a corporate setting, overcoming the fear is crucial for leaders and teams to embrace change, take calculated risks, and innovate effectively.",
+        "nuance": "This phrase suggests a proactive approach to dealing with fear, highlighting resilience and determination in the face of challenges.",
+        "synonyms": [
+          "conquering fear",
+          "facing fears"
+        ],
+        "antonyms": [
+          "succumbing to fear",
+          "avoiding challenges"
+        ]
+      },
+      {
+        "word": "accepting responses",
+        "definition": "Accepting responses refers to the act of acknowledging and valuing feedback, opinions, or answers provided by others.",
+        "businessContext": "In team dynamics and customer relations, accepting responses fosters open communication and builds trust, leading to improved collaboration and satisfaction.",
+        "nuance": "This phrase implies a willingness to listen and adapt based on input, which is essential for effective leadership and teamwork.",
+        "synonyms": [
+          "acknowledging feedback",
+          "valuing input"
+        ],
+        "antonyms": [
+          "dismissive attitude",
+          "ignoring feedback"
+        ]
+      }
+    ]
   },
   {
     "text": "Part of really respecting them is respecting that they can make the choices they want and they're grownups enough that they can deal with the consequences of those choices.",
@@ -137,9 +443,10 @@
     "timestamp": "00:22:40",
     "context": "Kenneth discusses a common challenge he sees with \"nice\" founders who struggle to deliver difficult feedback or create consequences when team members aren't meeting expectations. He's explaining how these leaders often avoid creating accountability because they want to be liked and seen as kind. Kenneth argues that truly respecting people means acknowledging their autonomy to make decisions while also maintaining appropriate professional consequences for those choices.",
     "vocabulary_highlights": [
-      "really respecting them",
-      "grownups enough",
-      "deal with the consequences"
+      "consequences",
+      "expectations",
+      "respecting",
+      "deliver"
     ],
     "topics": [
       "Leadership & Management",
@@ -155,6 +462,65 @@
     "text_ko": "진정으로 그들을 존중한다는 건, 그들이 자기 원하는 선택을 할 권리가 있고 그 선택의 결과를 스스로 감당할 수 있는 어른이라는 걸 인정해 주는 것도 포함돼요.",
     "text_zh": "真正尊重他们，就是要相信他们有能力做自己想做的决定，而且他们都是成年人了，完全可以为自己的选择负责。",
     "text_es": "Parte de respetarlos de verdad es entender que pueden tomar sus propias decisiones y que son lo suficientemente adultos como para asumir las consecuencias de esas decisiones.",
-    "key_sentence": "Respecting them means acknowledging they are grownups enough to deal with consequences."
+    "key_sentence": "Respecting them means acknowledging they are grownups enough to deal with consequences.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "consequences",
+        "definition": "Consequences are the outcomes or effects that result from a particular action or decision. They can be positive or negative and often influence future choices.",
+        "businessContext": "In business, understanding the consequences of decisions is crucial for risk management and strategic planning, as it helps organizations anticipate potential challenges and opportunities.",
+        "nuance": "The term often carries a weighty implication, suggesting that the outcomes are significant and should be carefully considered before taking action.",
+        "synonyms": [
+          "outcomes",
+          "results"
+        ],
+        "antonyms": [
+          "causes",
+          "N/A"
+        ]
+      },
+      {
+        "word": "expectations",
+        "definition": "Expectations are beliefs or assumptions about what will happen in the future, often based on previous experiences or standards. They set a benchmark for performance and outcomes.",
+        "businessContext": "In a business environment, managing expectations is vital for maintaining client relationships and ensuring team alignment, as unmet expectations can lead to dissatisfaction and conflict.",
+        "nuance": "Expectations can vary widely among stakeholders, and it is important to communicate them clearly to avoid misunderstandings.",
+        "synonyms": [
+          "anticipations",
+          "assumptions"
+        ],
+        "antonyms": [
+          "disappointments",
+          "N/A"
+        ]
+      },
+      {
+        "word": "respecting",
+        "definition": "Respecting involves acknowledging the rights, feelings, and opinions of others, often resulting in a considerate and professional interaction. It fosters trust and collaboration.",
+        "businessContext": "In the workplace, respecting colleagues' autonomy and decisions is essential for a positive culture, as it encourages open communication and empowers employees.",
+        "nuance": "While respecting is generally viewed positively, it must be balanced with accountability to ensure that decisions align with organizational goals.",
+        "synonyms": [
+          "valuing",
+          "honoring"
+        ],
+        "antonyms": [
+          "disregarding",
+          "N/A"
+        ]
+      },
+      {
+        "word": "deliver",
+        "definition": "To deliver means to provide or produce something, such as a product, service, or message, often within a specified timeframe or according to agreed standards.",
+        "businessContext": "In business, delivering on promises is critical for maintaining credibility and customer satisfaction, as it reflects an organization's reliability and commitment to quality.",
+        "nuance": "The term can imply not just the act of providing something, but also the expectation of meeting or exceeding quality standards and timelines.",
+        "synonyms": [
+          "provide",
+          "supply"
+        ],
+        "antonyms": [
+          "withhold",
+          "fail"
+        ]
+      }
+    ]
   }
 ]

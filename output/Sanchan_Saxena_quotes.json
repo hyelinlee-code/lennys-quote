@@ -6,9 +6,8 @@
     "context": "Lenny asks Sanchan for advice on how someone starting out could follow a similar trajectory to work at incredible companies like Instagram, Airbnb, and Coinbase. Sanchan reflects on his own career path, noting that he never had a detailed plan but instead stumbled upon opportunities. He emphasizes that over-planning can prevent people from seizing opportunities when they arise.",
     "vocabulary_highlights": [
       "analysis paralysis",
-      "dotting every eye, crossing every tee",
-      "chokes you out of opportunities",
-      "jump in with both feet"
+      "opportunities",
+      "trajectory"
     ],
     "topics": [
       "Career Development",
@@ -24,7 +23,52 @@
     "text_ko": "제일 드리고 싶은 조언은, 모든 걸 다 맞추려고 하다 보면 분석 마비(analysis paralysis)에 걸려 기회를 놓치는 경우가 많다는 거예요. 어떤 일이 나한테 에너지를 주고 해보고 싶다는 생각이 들면, 망설이지 말고 과감히 두 발로 뛰어들어요.",
     "text_zh": "我给大家最重要的建议就是，有时候你把每个细节都分析得过于透彻，反而会错失良机。当你发现某个事情能让你充满干劲的时候，就别犹豫了，直接全身心投入进去。",
     "text_es": "Mi mejor consejo es que muchas veces el quedarse paralizado analizando cada detalle hasta el cansancio te hace perder oportunidades increíbles. Cuando encuentres algo que te llene de energía, lánzate de cabeza sin pensarlo tanto.",
-    "key_sentence": "Analysis paralysis chokes you out of opportunities; jump in with both feet."
+    "key_sentence": "Analysis paralysis chokes you out of opportunities; jump in with both feet.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "analysis paralysis",
+        "definition": "A state of overthinking or excessive deliberation that prevents decision-making or action.",
+        "businessContext": "In business, analysis paralysis can hinder progress on projects or initiatives, as teams may become bogged down in details rather than moving forward with implementation.",
+        "nuance": "This phrase often carries a negative connotation, suggesting that excessive caution can lead to missed opportunities.",
+        "synonyms": [
+          "decision fatigue",
+          "overanalysis"
+        ],
+        "antonyms": [
+          "decisiveness",
+          "action"
+        ]
+      },
+      {
+        "word": "opportunities",
+        "definition": "Favorable circumstances or situations that present the potential for advancement or success.",
+        "businessContext": "In the business world, opportunities can refer to market openings, partnership possibilities, or new avenues for growth that organizations can capitalize on.",
+        "nuance": "The term often implies a sense of urgency or the need for proactive engagement to take advantage of the situation.",
+        "synonyms": [
+          "prospects",
+          "possibilities"
+        ],
+        "antonyms": [
+          "obstacles",
+          "challenges"
+        ]
+      },
+      {
+        "word": "trajectory",
+        "definition": "The path or course that something follows over time, often used to describe progress or development.",
+        "businessContext": "In a business context, trajectory can refer to the growth path of a company, product, or market trend, indicating how it is expected to evolve.",
+        "nuance": "The term suggests a forward-looking perspective, often used in strategic planning to assess future potential.",
+        "synonyms": [
+          "pathway",
+          "course"
+        ],
+        "antonyms": [
+          "stagnation",
+          "decline"
+        ]
+      }
+    ]
   },
   {
     "text": "You take little bets, you try them out. If they don't work out, you build rapid recovery and start to do something else. And that is the meta story connecting all the dots in my life, in all the career opportunities that I've had.",
@@ -32,10 +76,10 @@
     "timestamp": "00:07:29",
     "context": "Sanchan continues explaining his career philosophy, referencing a book called 'Little Bets' that validated his approach to life. He describes how taking small risks and quickly recovering from failures has been the underlying theme throughout his career moves from aerospace engineering to startups to major tech companies.",
     "vocabulary_highlights": [
-      "little bets",
       "rapid recovery",
-      "meta story",
-      "connecting all the dots"
+      "validate",
+      "career opportunities",
+      "small risks"
     ],
     "topics": [
       "Career Development",
@@ -51,15 +95,77 @@
     "text_ko": "작은 시도(little bets)를 해보고, 잘 안되면 빠른 회복(rapid recovery)을 마련해서 다른 걸 시도해요. 그게 제 인생과 모든 커리어 기회들을 잇는 메타 스토리(meta story)이에요.",
     "text_zh": "你就是要小试牛刀，试着做一些小的尝试。如果不行的话，就赶紧调整过来，换个方向继续干。这其实就是我人生的主线，把我所有的职业机会都串起来的那条线。",
     "text_es": "Haces pequeñas apuestas, las pruebas. Si no funcionan, te recuperas rápido y empiezas a hacer otra cosa. Y esa es la historia que conecta todos los puntos de mi vida, en todas las oportunidades profesionales que he tenido.",
-    "key_sentence": "Little bets and rapid recovery connect all the dots in my career."
+    "key_sentence": "Little bets and rapid recovery connect all the dots in my career.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "rapid recovery",
+        "definition": "The ability to quickly return to a previous state or condition after experiencing a setback or failure.",
+        "businessContext": "In business, rapid recovery is crucial for maintaining momentum after a project fails or a market changes, allowing companies to pivot and adapt swiftly.",
+        "nuance": "This term often implies not just bouncing back, but doing so in a way that minimizes disruption and maximizes learning from the experience.",
+        "synonyms": [
+          "quick rebound",
+          "swift restoration"
+        ],
+        "antonyms": [
+          "prolonged decline",
+          "extended setback"
+        ]
+      },
+      {
+        "word": "validate",
+        "definition": "To confirm the accuracy or legitimacy of something through evidence or testing.",
+        "businessContext": "In startups, validating a business idea or product involves gathering data to ensure that it meets market needs and has potential for success.",
+        "nuance": "While 'validate' can imply a formal process, it can also refer to informal checks or feedback that support a decision.",
+        "synonyms": [
+          "authenticate",
+          "verify"
+        ],
+        "antonyms": [
+          "invalidate",
+          "disprove"
+        ]
+      },
+      {
+        "word": "career opportunities",
+        "definition": "Possibilities for professional advancement or employment that align with an individual's skills and aspirations.",
+        "businessContext": "In the context of business, career opportunities often arise from networking, skill development, and organizational growth, providing pathways for employees to advance.",
+        "nuance": "The term can carry a positive connotation, suggesting potential for growth, but may also imply competition among candidates.",
+        "synonyms": [
+          "job prospects",
+          "employment options"
+        ],
+        "antonyms": [
+          "job scarcity",
+          "limited options"
+        ]
+      },
+      {
+        "word": "small risks",
+        "definition": "Minor uncertainties or potential downsides associated with a decision or action that are manageable and unlikely to lead to significant negative outcomes.",
+        "businessContext": "In entrepreneurial settings, taking small risks is often encouraged as a strategy for innovation, allowing businesses to experiment without jeopardizing their overall stability.",
+        "nuance": "While 'small risks' suggests a low level of danger, it is important to assess even minor risks carefully to avoid cumulative negative effects.",
+        "synonyms": [
+          "minor risks",
+          "low-stakes risks"
+        ],
+        "antonyms": [
+          "major risks",
+          "high-stakes risks"
+        ]
+      }
+    ]
   },
   {
-    "text": "My advice to people is go get a job which will make you the fastest learner in the field of product management. That is what will help you a lot. No course, no degree, none of those things will help. The most important thing will be how quickly can you jump in, learn the auto product management.",
+    "text": "My advice to people is go get a job which will make you the fastest learner in the field of product management. That is what will help you a lot. No course, no degree, none of those things will help.",
     "speaker": "Sanchan Saxena",
     "timestamp": "00:08:45",
     "context": "Lenny asks for advice on getting into product management. Sanchan explains that product management requires learning both the art (intuition, community insights) and science (data, methodology) aspects. He emphasizes that formal education can't replace hands-on experience in learning product management skills.",
     "vocabulary_highlights": [
-      "auto product management"
+      "fastest learner",
+      "field of product management",
+      "community insights",
+      "methodology"
     ],
     "topics": [
       "Career Development",
@@ -75,15 +181,79 @@
     "text_ko": "제 조언은 프로덕트 매니지먼트(product management) 분야에서 가장 빨리 배우게 해주는 일을 찾으라는 거예요. 그게 정말 큰 도움이 돼요. 어떤 코스나 학위 같은 건 별로 도움이 안 돼요. 가장 중요한 건 얼마나 빨리 뛰어들어 실제 프로덕트 매니지먼트(product management)를 배우느냐예요.",
     "text_zh": "我建议大家去找一份能让你在产品管理(product management)这个领域学得最快的工作。这个对你帮助最大。什么课程啊、学位啊，这些都没用。最关键的是你能多快上手，学会产品管理(product management)这套东西。",
     "text_es": "Mi consejo es que busquen un trabajo que los haga aprender súper rápido en el área de gestión de productos (product management). Eso es lo que realmente les va a servir un montón. Ningún curso, ningún título, nada de eso les va a ayudar tanto. Lo más importante va a ser qué tan rápido pueden meterse de lleno y aprender gestión de productos sobre la marcha.",
-    "key_sentence": "Jump in quickly to learn auto product management effectively."
+    "key_sentence": "No course, no degree, none of those things will help.",
+    "text_trimmed": true,
+    "original_text": "My advice to people is go get a job which will make you the fastest learner in the field of product management. That is what will help you a lot. No course, no degree, none of those things will help. The most important thing will be how quickly can you jump in, learn the auto product management.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "fastest learner",
+        "definition": "An individual who quickly grasps new concepts and skills, often adapting to new information or environments with ease.",
+        "businessContext": "In business and tech environments, being the fastest learner is crucial for adapting to rapidly changing markets and technologies, allowing professionals to stay competitive and innovative.",
+        "nuance": "This phrase often implies not just speed, but also efficiency in understanding and applying knowledge, making it a compliment in professional settings.",
+        "synonyms": [
+          "quick learner",
+          "rapid learner"
+        ],
+        "antonyms": [
+          "slow learner",
+          "N/A"
+        ]
+      },
+      {
+        "word": "field of product management",
+        "definition": "A specialized area within business that focuses on the development, marketing, and lifecycle management of products.",
+        "businessContext": "In startups and tech companies, the field of product management is essential for aligning product development with market needs and ensuring successful product launches.",
+        "nuance": "This phrase conveys a sense of expertise and specialization, often used to denote a career path that requires both technical and managerial skills.",
+        "synonyms": [
+          "product development sector",
+          "product management domain"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "community insights",
+        "definition": "Valuable information and perspectives gathered from a group of individuals who share common interests or experiences.",
+        "businessContext": "In business, community insights are leveraged to understand customer needs, improve products, and enhance marketing strategies, particularly in user-driven industries.",
+        "nuance": "This term often suggests a grassroots understanding of market trends, making it particularly relevant in discussions about customer engagement and feedback.",
+        "synonyms": [
+          "user insights",
+          "community feedback"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "methodology",
+        "definition": "A systematic, theoretical analysis of the methods applied to a field of study or practice, outlining the principles and rules that guide research or project execution.",
+        "businessContext": "In business and tech, methodologies are crucial for project management, ensuring that teams follow structured approaches to achieve objectives efficiently and effectively.",
+        "nuance": "While often associated with formal processes, the term can also imply flexibility in adapting methods to fit specific project needs, making it a versatile term in professional discourse.",
+        "synonyms": [
+          "approach",
+          "framework"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "The way to think about this is let's say you want to get to a destination, whichever destination it is, you probably want to get on the faster ship. You don't want to get on a slower ship. That's one metaphor to use in your mind.",
+    "text": "The way to think about this is let's say you want to get to a destination, whichever destination it is, you probably want to get on the faster ship. You don't want to get on a slower ship.",
     "speaker": "Sanchan Saxena",
     "timestamp": "00:09:41",
     "context": "Lenny asks what people should look for when choosing a company to join to accelerate their learning and career. Sanchan uses a ship metaphor to explain how to think about company selection - you want to join companies that are moving quickly toward success because your career growth is tied to the company's trajectory.",
     "vocabulary_highlights": [
-      "faster ship"
+      "accelerate",
+      "destination",
+      "selection",
+      "metaphor"
     ],
     "topics": [
       "Career Development",
@@ -99,15 +269,79 @@
     "text_ko": "이걸 생각하는 방식은, 목적지가 어디든 간에 빨리 가고 싶다면 당연히 더 빠른 배를 타고 싶을 거예요. 느린 배를 타고 싶진 않을 거고요. 머릿속에 이렇게 비유해 두면 돼요.",
     "text_zh": "这么说吧，假设你要去一个地方，不管是哪儿，你肯定想坐快船，不会想坐慢船对吧？这就是一个很好的比喻。",
     "text_es": "La forma de verlo es así: digamos que quieres llegar a un destino, cualquiera que sea, seguramente vas a querer subirte al barco más rápido. No te vas a subir al barco más lento. Esa es una metáfora que puedes usar para entenderlo.",
-    "key_sentence": "Choose the faster ship to reach your destination."
+    "key_sentence": "Choose the faster ship to reach your destination.",
+    "text_trimmed": true,
+    "original_text": "The way to think about this is let's say you want to get to a destination, whichever destination it is, you probably want to get on the faster ship. You don't want to get on a slower ship. That's one metaphor to use in your mind.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "accelerate",
+        "definition": "To increase the speed or rate of something, often in a progressive manner.",
+        "businessContext": "In business, 'accelerate' is frequently used to describe the process of speeding up product development, market entry, or growth strategies to gain a competitive advantage.",
+        "nuance": "While 'accelerate' implies a positive increase in pace, it can also suggest a need for urgency, which may not always be appropriate in every business context.",
+        "synonyms": [
+          "hasten",
+          "expedite"
+        ],
+        "antonyms": [
+          "decelerate",
+          "slow down"
+        ]
+      },
+      {
+        "word": "destination",
+        "definition": "A specific place or goal to which one is traveling or aiming to reach.",
+        "businessContext": "In a business context, 'destination' often refers to the ultimate objective of a project, strategy, or customer journey, emphasizing the importance of clear goals.",
+        "nuance": "The term can carry both literal and figurative meanings, making it suitable for discussions about both physical locations and abstract goals.",
+        "synonyms": [
+          "goal",
+          "endpoint"
+        ],
+        "antonyms": [
+          "origin",
+          "starting point"
+        ]
+      },
+      {
+        "word": "selection",
+        "definition": "The act of choosing or picking from a variety of options or alternatives.",
+        "businessContext": "In business, 'selection' is crucial in processes such as hiring, product offerings, and market strategies, where the right choices can significantly impact success.",
+        "nuance": "While 'selection' suggests a careful and considered choice, it can also imply a degree of exclusivity or limitation in options available.",
+        "synonyms": [
+          "choice",
+          "option"
+        ],
+        "antonyms": [
+          "rejection",
+          "exclusion"
+        ]
+      },
+      {
+        "word": "metaphor",
+        "definition": "A figure of speech that implies a comparison between two unlike things, suggesting they are alike in a significant way.",
+        "businessContext": "In business communication, 'metaphor' is often used to convey complex ideas more simply and memorably, enhancing understanding and engagement among stakeholders.",
+        "nuance": "While metaphors can enrich language and make concepts relatable, they should be used judiciously to avoid confusion or misinterpretation.",
+        "synonyms": [
+          "analogy",
+          "symbol"
+        ],
+        "antonyms": [
+          "literal",
+          "fact"
+        ]
+      }
+    ]
   },
   {
-    "text": "What I found is that at Airbnb, I learned a bunch of different things. One, I learned how to build products where software is just one part of the product. Let me explain that a little bit. The product of Airbnb isn't the app. It is a means to an end. The product of Airbnb is the memories you're going to create when you sit in that Airbnb beautiful house with your family, with your friends, and you're building those memories. That's the product. It's in real world.",
+    "text": "What I found is that at Airbnb, I learned a bunch of different things. One, I learned how to build products where software is just one part of the product. Let me explain that a little bit. The product of Airbnb isn't the app.",
     "speaker": "Sanchan Saxena",
     "timestamp": "00:12:41",
     "context": "Lenny asks where Sanchan learned the most in his career. Sanchan explains that Airbnb taught him the most, particularly how to build products that extend beyond software into real-world experiences. He distinguishes between pure software products and products where software enables a physical experience.",
     "vocabulary_highlights": [
-      "means to an end"
+      "build products",
+      "real-world experiences",
+      "extend beyond",
+      "software"
     ],
     "topics": [
       "Product Management",
@@ -123,16 +357,79 @@
     "text_ko": "Airbnb에서 일하면서 여러 가지를 배웠어요. 그중 하나는 소프트웨어가 프로덕트(product)의 일부에 불과한 제품을 만드는 법이에요. 좀 더 설명할게요. Airbnb의 프로덕트(product)는 앱(app)이 아니에요. 앱은 목적을 이루기 위한 수단일 뿐이에요. Airbnb의 진짜 프로덕트는 가족이나 친구들과 그 아름다운 집에 앉아 함께 만들어가는 추억이에요. 그게 바로 제품이고, 현실 세계에 있는 거예요.",
     "text_zh": "我发现在Airbnb的时候，我学到了好多东西。首先，我学会了怎么做产品，就是软件只是产品的一部分而已。我解释一下啊。Airbnb真正的产品不是那个app，app只是个工具。Airbnb真正的产品是什么呢？是你和家人朋友一起住在那个漂亮房子里创造的美好回忆，那才是真正的产品。它存在于现实世界中。",
     "text_es": "Lo que descubrí es que en Airbnb aprendí un montón de cosas diferentes. Primero, aprendí a crear productos donde el software es solo una parte del producto. Te explico un poco mejor. El producto de Airbnb no es la app. Es un medio para conseguir algo más grande. El producto de Airbnb son los recuerdos que vas a crear cuando estés sentado en esa casa hermosa de Airbnb con tu familia, con tus amigos, construyendo esos recuerdos. Ese es el producto. Está en el mundo real.",
-    "key_sentence": "The product is a means to an end: creating memories."
+    "key_sentence": "The product of Airbnb isn't the app.",
+    "text_trimmed": true,
+    "original_text": "What I found is that at Airbnb, I learned a bunch of different things. One, I learned how to build products where software is just one part of the product. Let me explain that a little bit. The product of Airbnb isn't the app. It is a means to an end. The product of Airbnb is the memories you're going to create when you sit in that Airbnb beautiful house with your family, with your friends, and you're building those memories. That's the product. It's in real world.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "build products",
+        "definition": "To create or develop items or services that fulfill specific customer needs or solve particular problems.",
+        "businessContext": "In business and tech environments, 'building products' often involves a collaborative process that includes design, engineering, and user feedback to ensure market fit and functionality.",
+        "nuance": "This phrase emphasizes the active role of teams in the product development lifecycle, distinguishing it from merely selling or marketing existing products.",
+        "synonyms": [
+          "develop products",
+          "create offerings"
+        ],
+        "antonyms": [
+          "discontinue products",
+          "abandon development"
+        ]
+      },
+      {
+        "word": "real-world experiences",
+        "definition": "Practical encounters or situations that occur outside of theoretical or academic settings, often involving direct interaction with actual users or environments.",
+        "businessContext": "In the context of startups and tech companies, real-world experiences are crucial for understanding customer behavior and refining products based on genuine feedback.",
+        "nuance": "This term suggests a contrast to hypothetical or simulated scenarios, highlighting the importance of tangible, hands-on learning.",
+        "synonyms": [
+          "practical experiences",
+          "hands-on experiences"
+        ],
+        "antonyms": [
+          "theoretical experiences",
+          "abstract concepts"
+        ]
+      },
+      {
+        "word": "extend beyond",
+        "definition": "To go further than a specified limit or scope, encompassing additional aspects or areas.",
+        "businessContext": "In business discussions, 'extend beyond' often refers to the idea that a product or service offers more value or functionality than initially perceived, appealing to a broader audience.",
+        "nuance": "This phrase implies a proactive approach to growth and innovation, suggesting that one should not confine themselves to conventional boundaries.",
+        "synonyms": [
+          "go beyond",
+          "surpass"
+        ],
+        "antonyms": [
+          "limit to",
+          "restrict"
+        ]
+      },
+      {
+        "word": "software",
+        "definition": "A collection of instructions, data, or programs that enable a computer or device to perform specific tasks or functions.",
+        "businessContext": "In the tech industry, software is a fundamental component of products, often serving as the backbone for applications and services that drive user engagement and business operations.",
+        "nuance": "While 'software' typically refers to digital applications, it can also imply a broader ecosystem of tools and platforms that enhance user experience.",
+        "synonyms": [
+          "applications",
+          "programs"
+        ],
+        "antonyms": [
+          "hardware",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "I felt like it all compressed into three years something that you will learn in 30. I definitely didn't think that is what happened, but that's what ended up happening. Luckily, everything worked out, and I'm happy to share what we did and how we navigated through that with the audience, but it was some crazy, crazy times, man.",
+    "text": "I felt like it all compressed into three years something that you will learn in 30. I definitely didn't think that is what happened, but that's what ended up happening.",
     "speaker": "Sanchan Saxena",
     "timestamp": "00:14:23",
     "context": "Sanchan describes his learning experience at Airbnb, which included hypergrowth, scaling the product organization from 30-40 people to 200 people, and crisis management during COVID-19 when travel essentially stopped. He reflects on how these compressed experiences provided decades worth of learning in just three years.",
     "vocabulary_highlights": [
-      "compressed into three years something that you will learn in 30",
-      "crazy, crazy times"
+      "hypergrowth",
+      "scaling",
+      "crisis management",
+      "compressed"
     ],
     "topics": [
       "Learning & Growth",
@@ -148,17 +445,79 @@
     "text_ko": "30년 걸려 배울 걸 3년 만에 다 배운 기분이었어요. 분명 그렇게 될 거라고는 생각하지 않았는데, 결국 그렇게 됐어요. 다행히 모든 게 잘 풀렸고, 우리가 어떤 일을 했고 그 시기를 어떻게 헤쳐 나왔는지 청중분들과 나눌 수 있어서 기뻐요. 진짜 정신없고 미친 시간들이었어요.",
     "text_zh": "感觉就像把30年才能学到的东西全压缩到3年里了。当时我肯定没想到会这样，但事情就是这么发生的。还好最后都挺过来了，我很愿意跟大家分享我们当时是怎么做的，怎么熬过那段时间的，但说真的，那段时间真的是太疯狂了。",
     "text_es": "Sentí como que en tres años se comprimió todo lo que normalmente aprenderías en 30. Definitivamente no pensé que eso era lo que iba a pasar, pero al final fue exactamente lo que pasó. Por suerte todo salió bien, y me da mucho gusto compartir con ustedes lo que hicimos y cómo logramos salir adelante, pero fueron tiempos súper locos, en serio.",
-    "key_sentence": "Compressed into three years what you learn in 30; crazy, crazy times."
+    "key_sentence": "Compressed into three years what you learn in 30; crazy, crazy times.",
+    "text_trimmed": true,
+    "original_text": "I felt like it all compressed into three years something that you will learn in 30. I definitely didn't think that is what happened, but that's what ended up happening. Luckily, everything worked out, and I'm happy to share what we did and how we navigated through that with the audience, but it was some crazy, crazy times, man.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "hypergrowth",
+        "definition": "Hypergrowth refers to an exceptionally rapid rate of growth, typically exceeding 40% annually over several years.",
+        "businessContext": "In business, particularly in startups and tech companies, hypergrowth indicates a phase where a company scales its revenue and user base at an extraordinary pace, often attracting significant investment.",
+        "nuance": "While hypergrowth suggests positive momentum, it can also imply challenges in management and sustainability if not handled properly.",
+        "synonyms": [
+          "explosive growth",
+          "accelerated growth"
+        ],
+        "antonyms": [
+          "stagnation",
+          "decline"
+        ]
+      },
+      {
+        "word": "scaling",
+        "definition": "Scaling refers to the process of increasing a company's capacity to grow and manage increased demand without compromising performance or losing revenue potential.",
+        "businessContext": "In the context of startups, scaling is crucial for transitioning from a small operation to a larger entity, often involving the optimization of resources and processes to handle growth effectively.",
+        "nuance": "Scaling can imply both growth in size and efficiency; however, it is important to distinguish it from mere growth, which may not always be sustainable.",
+        "synonyms": [
+          "expansion",
+          "growth management"
+        ],
+        "antonyms": [
+          "contraction",
+          "reduction"
+        ]
+      },
+      {
+        "word": "crisis management",
+        "definition": "Crisis management is the process by which an organization deals with a disruptive and unexpected event that threatens to harm the organization or its stakeholders.",
+        "businessContext": "In business, effective crisis management is essential for maintaining reputation, ensuring safety, and minimizing financial loss during unforeseen challenges, such as product recalls or public relations scandals.",
+        "nuance": "Crisis management often requires swift decision-making and communication; it is important to differentiate it from general risk management, which is more proactive.",
+        "synonyms": [
+          "emergency management",
+          "disaster management"
+        ],
+        "antonyms": [
+          "stability management",
+          "N/A"
+        ]
+      },
+      {
+        "word": "compressed",
+        "definition": "Compressed refers to something that has been reduced in size, volume, or duration, often resulting in a denser or more concentrated form.",
+        "businessContext": "In a business context, compressed timelines or processes can indicate a situation where tasks or learning experiences are significantly shortened, often leading to increased intensity and urgency.",
+        "nuance": "While 'compressed' can imply efficiency, it may also suggest a lack of thoroughness or depth, making it important to consider the context in which it is used.",
+        "synonyms": [
+          "condensed",
+          "abridged"
+        ],
+        "antonyms": [
+          "expanded",
+          "prolonged"
+        ]
+      }
+    ]
   },
   {
-    "text": "The real genius isn't to dot every eye, to cross every team before you get started. The real genius is, what do you do when shit goes wrong? And I believe rapid recovery is the key to success. What you do, how quickly you can recover from failure becomes really important.",
+    "text": "The real genius isn't to dot every eye, to cross every team before you get started. The real genius is, what do you do when shit goes wrong? And I believe rapid recovery is the key to success.",
     "speaker": "Sanchan Saxena",
     "timestamp": "00:19:22",
     "context": "Sanchan shares lessons from navigating Airbnb through the COVID-19 crisis, when the company had to lay off 1,900 employees and revenue dropped to single digits of the previous year. He explains that success isn't about perfect planning but about how quickly you can adapt and recover when unexpected challenges arise.",
     "vocabulary_highlights": [
-      "dot every eye, cross every team",
       "rapid recovery",
-      "recover from failure"
+      "key to success",
+      "navigate",
+      "revenue"
     ],
     "topics": [
       "Leadership & Management",
@@ -174,6 +533,67 @@
     "text_ko": "진짜 영리함은 시작하기 전에 모든 걸 완벽하게 갖춰 놓는 게 아니에요. 진짜 영리함은 일이 잘못됐을 때 어떻게 대응하느냐예요. 저는 빠른 회복(rapid recovery)이 성공의 핵심이라고 믿어요. 무엇을 하느냐, 실패에서 얼마나 빨리 회복할 수 있느냐가 정말 중요해요.",
     "text_zh": "真正的高手不是说一开始就把所有细节都搞得完美无缺。真正的高手是，当事情搞砸了的时候你怎么办？我觉得快速恢复(rapid recovery)才是成功的关键。你怎么做，你能多快从失败中缓过来，这个才真的重要。",
     "text_es": "La verdadera genialidad no está en tener todo perfecto desde el principio, en cuadrar cada detalle antes de empezar. La verdadera genialidad es: ¿qué haces cuando todo se va al carajo? Y yo creo que la recuperación rápida es la clave del éxito. Lo que hagas, qué tan rápido te puedas recuperar del fracaso, eso es lo que realmente importa.",
-    "key_sentence": "Real genius isn't dotting every eye, but achieving rapid recovery from failure."
+    "key_sentence": "The real genius is, what do you do when shit goes wrong?",
+    "text_trimmed": true,
+    "original_text": "The real genius isn't to dot every eye, to cross every team before you get started. The real genius is, what do you do when shit goes wrong? And I believe rapid recovery is the key to success. What you do, how quickly you can recover from failure becomes really important.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "rapid recovery",
+        "definition": "The ability to quickly return to a normal state after experiencing a setback or disruption.",
+        "businessContext": "In business, rapid recovery is crucial for minimizing downtime and maintaining operational efficiency after unexpected challenges, such as market fluctuations or technical failures.",
+        "nuance": "This phrase often conveys a sense of agility and preparedness, suggesting that an organization is resilient and capable of bouncing back swiftly.",
+        "synonyms": [
+          "swift rebound",
+          "quick restoration"
+        ],
+        "antonyms": [
+          "prolonged decline",
+          "extended disruption"
+        ]
+      },
+      {
+        "word": "key to success",
+        "definition": "A fundamental factor or element that is essential for achieving desired outcomes or goals.",
+        "businessContext": "In the context of business and startups, identifying the key to success often involves recognizing critical strategies, resources, or practices that drive growth and profitability.",
+        "nuance": "This phrase implies that while there may be multiple factors contributing to success, there is one or a few that are particularly pivotal.",
+        "synonyms": [
+          "crucial element",
+          "essential factor"
+        ],
+        "antonyms": [
+          "roadblock to failure",
+          "obstacle to achievement"
+        ]
+      },
+      {
+        "word": "navigate",
+        "definition": "To plan and direct the course of a journey or process, often involving complex decision-making.",
+        "businessContext": "In business, navigating refers to the strategic management of challenges, opportunities, and changes in the market or organizational landscape.",
+        "nuance": "This term suggests a proactive approach to overcoming obstacles, often implying skill and adaptability in dealing with uncertainty.",
+        "synonyms": [
+          "steer",
+          "maneuver"
+        ],
+        "antonyms": [
+          "mismanage",
+          "stray"
+        ]
+      },
+      {
+        "word": "revenue",
+        "definition": "The total income generated by a business from its operations, typically through the sale of goods or services.",
+        "businessContext": "Revenue is a critical metric for assessing a company's financial health and is often used to evaluate performance, inform investment decisions, and guide strategic planning.",
+        "nuance": "While revenue is a straightforward financial term, it can also carry implications about a company's growth potential and market position.",
+        "synonyms": [
+          "income",
+          "earnings"
+        ],
+        "antonyms": [
+          "loss",
+          "expense"
+        ]
+      }
+    ]
   }
 ]

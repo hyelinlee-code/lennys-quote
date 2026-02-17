@@ -1,13 +1,14 @@
 [
   {
-    "text": "Because these models are so effective at this point, you want to start to tune them to certain types of outcomes. All of a sudden, these are these living organisms that just get better with the more interactions that happen. I think this is the new IP of every single company products that think and live and learn.",
+    "text": "Because these models are so effective at this point, you want to start to tune them to certain types of outcomes. All of a sudden, these are these living organisms that just get better with the more interactions that happen.",
     "speaker": "Asha Sharma",
     "timestamp": "00:29",
     "context": "Lenny asks Asha about her concept of moving from \"product as artifact to product as organism.\" Asha explains how AI models have evolved beyond static software products that are shipped once and occasionally updated. Instead, modern AI products continuously improve through user interactions and feedback loops, creating what she calls \"living organisms\" that adapt and learn over time.",
     "vocabulary_highlights": [
-      "tune them to certain types of outcomes",
-      "living organisms",
-      "new IP"
+      "tune",
+      "outcomes",
+      "interactions",
+      "evolved"
     ],
     "topics": [
       "Product Management",
@@ -22,18 +23,79 @@
     "text_ko": "이 모델(models)들이 이제 워낙 효과적이어서, 특정한 결과에 맞게 튜닝(tuning)하기 시작해야 해요. 어느 순간부터 이건 상호작용이 늘어날수록 더 좋아지는 살아있는 유기체처럼 됐어요. 생각하고, 살아있고, 학습하는 모든 회사 제품들에겐 이게 새로운 지적재산(IP)이 될 거라고 생각해요.",
     "text_zh": "现在这些模型已经非常厉害了，你就想开始调教它们，让它们产生特定的结果。突然间，这些东西就像活的生物一样，互动得越多就越聪明。我觉得这就是每个公司的新知识产权(IP)——能思考、能存活、能学习的产品。",
     "text_es": "Como estos modelos son tan efectivos ya en este punto, quieres empezar a ajustarlos para ciertos tipos de resultados. De repente, se convierten en estos organismos vivos que mejoran mientras más interacciones tengan. Creo que esta es la nueva propiedad intelectual (IP) de todas las empresas: productos que piensan, viven y aprenden.",
-    "key_sentence": "Tune models to certain types of outcomes for better interactions."
+    "key_sentence": "Tune models to certain types of outcomes for better interactions.",
+    "text_trimmed": true,
+    "original_text": "Because these models are so effective at this point, you want to start to tune them to certain types of outcomes. All of a sudden, these are these living organisms that just get better with the more interactions that happen. I think this is the new IP of every single company products that think and live and learn.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "tune",
+        "definition": "To adjust or modify something to achieve a desired effect or performance.",
+        "businessContext": "In business and technology, 'tuning' often refers to optimizing algorithms, models, or processes to enhance their effectiveness or efficiency in achieving specific goals.",
+        "nuance": "While 'tune' suggests a careful and precise adjustment, it can imply a level of experimentation and iteration, which may not always be suitable for all contexts.",
+        "synonyms": [
+          "adjust",
+          "calibrate"
+        ],
+        "antonyms": [
+          "ignore",
+          "neglect"
+        ]
+      },
+      {
+        "word": "outcomes",
+        "definition": "The results or consequences of a particular action, process, or decision.",
+        "businessContext": "In business settings, 'outcomes' are often used to measure the success or impact of strategies, initiatives, or projects, guiding future decisions.",
+        "nuance": "The term 'outcomes' can carry a positive or negative connotation depending on the context, emphasizing the importance of measuring effectiveness.",
+        "synonyms": [
+          "results",
+          "consequences"
+        ],
+        "antonyms": [
+          "causes",
+          "initiatives"
+        ]
+      },
+      {
+        "word": "interactions",
+        "definition": "The act of communicating or engaging with others, often resulting in a reciprocal exchange.",
+        "businessContext": "In a business context, 'interactions' can refer to customer engagements, team collaborations, or stakeholder communications that influence relationships and outcomes.",
+        "nuance": "The term often implies a dynamic and ongoing process, highlighting the importance of relationship-building in business environments.",
+        "synonyms": [
+          "engagements",
+          "communications"
+        ],
+        "antonyms": [
+          "isolation",
+          "disconnection"
+        ]
+      },
+      {
+        "word": "evolved",
+        "definition": "To develop gradually, often in response to changing conditions or environments.",
+        "businessContext": "In the business and tech sectors, 'evolved' describes how products, services, or strategies adapt over time to meet market demands or technological advancements.",
+        "nuance": "The term suggests a positive progression and improvement, often associated with innovation and growth, making it suitable for discussions about development and change.",
+        "synonyms": [
+          "developed",
+          "progressed"
+        ],
+        "antonyms": [
+          "stagnated",
+          "regressed"
+        ]
+      }
+    ]
   },
   {
-    "text": "We're approaching this world in which the marginal cost of the good output is approaching zero. We're going to see exponential demand for productivity and outputs. The way that you scale to that is with agents. When all of that happens, the org chart starts to become the work chart. You just don't need as many layers.",
+    "text": "We're approaching this world in which the marginal cost of the good output is approaching zero. We're going to see exponential demand for productivity and outputs. The way that you scale to that is with agents.",
     "speaker": "Asha Sharma",
     "timestamp": "00:04",
     "context": "Lenny asks Asha about her prediction that we're just starting to scratch the surface of what an agentic society looks like. Asha explains her vision of the future where AI agents dramatically reduce the cost of producing quality work outputs, leading to exponential demand for productivity. She predicts this will fundamentally change organizational structures from traditional hierarchies to task-based work assignments.",
     "vocabulary_highlights": [
       "marginal cost",
-      "approaching zero",
-      "scale to that",
-      "org chart starts to become the work chart"
+      "exponential",
+      "scale",
+      "productivity"
     ],
     "topics": [
       "Leadership & Management",
@@ -48,7 +110,68 @@
     "text_ko": "우리는 산출물의 한계비용(marginal cost)이 거의 0에 가까워지는 세상으로 접어들고 있어요. 생산성(productivity)과 산출물(outputs)에 대한 수요가 기하급수적으로 늘어날 거예요. 그걸 확장(scale)하는 방법은 에이전트(agents)를 활용하는 거고요. 그런 변화가 일어나면 조직도(org chart)가 곧 실제 일(work chart)이 되기 시작해요. 그래서 계층 구조가 그렇게 많이 필요하지 않게 돼요.",
     "text_zh": "我们正在进入一个边际成本(marginal cost)接近零的时代。生产力和产出的需求会呈指数级增长。要应对这种规模，就得靠智能代理(agents)。当这一切发生时，组织架构图基本上就变成了工作流程图。你根本不需要那么多层级了。",
     "text_es": "Nos estamos acercando a un mundo donde el costo marginal de producir buenos resultados se está volviendo casi cero. Vamos a ver una demanda exponencial de productividad y resultados. La forma de escalar a ese nivel es con agentes. Cuando todo eso pase, el organigrama empieza a convertirse en el diagrama de trabajo. Simplemente ya no necesitas tantos niveles jerárquicos.",
-    "key_sentence": "Marginal cost of good output is approaching zero, changing the org chart."
+    "key_sentence": "Marginal cost of good output is approaching zero, changing the org chart.",
+    "text_trimmed": true,
+    "original_text": "We're approaching this world in which the marginal cost of the good output is approaching zero. We're going to see exponential demand for productivity and outputs. The way that you scale to that is with agents. When all of that happens, the org chart starts to become the work chart. You just don't need as many layers.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "marginal cost",
+        "definition": "Marginal cost refers to the additional cost incurred to produce one more unit of a good or service. It is a crucial concept in economics that helps businesses determine pricing and production levels.",
+        "businessContext": "In business and startup environments, understanding marginal cost is essential for making informed decisions about scaling production and pricing strategies to maximize profitability.",
+        "nuance": "While marginal cost is often considered in the context of production, it can also apply to service industries where incremental service delivery costs are analyzed.",
+        "synonyms": [
+          "incremental cost",
+          "additional cost"
+        ],
+        "antonyms": [
+          "fixed cost",
+          "total cost"
+        ]
+      },
+      {
+        "word": "exponential",
+        "definition": "Exponential describes a rapid increase or growth pattern where the rate of change becomes more significant as time progresses, often represented mathematically as a constant raised to a variable exponent.",
+        "businessContext": "In the tech industry, exponential growth is frequently observed in user adoption rates, revenue generation, and data accumulation, leading companies to strategize for scalability and resource allocation.",
+        "nuance": "The term 'exponential' can imply not just rapid growth but also the potential for unsustainable practices if not managed correctly.",
+        "synonyms": [
+          "accelerated",
+          "multiplicative"
+        ],
+        "antonyms": [
+          "linear",
+          "constant"
+        ]
+      },
+      {
+        "word": "scale",
+        "definition": "Scale refers to the ability of a business to grow and manage increased demand without compromising performance or losing revenue potential, often achieved through efficient processes and systems.",
+        "businessContext": "In startups, scaling is critical as it allows companies to expand their operations and reach larger markets while maintaining or reducing costs, often leveraging technology and automation.",
+        "nuance": "While scaling can indicate growth, it is important to differentiate between scaling sustainably and simply growing without a solid foundation, which can lead to operational challenges.",
+        "synonyms": [
+          "expand",
+          "grow"
+        ],
+        "antonyms": [
+          "contract",
+          "reduce"
+        ]
+      },
+      {
+        "word": "productivity",
+        "definition": "Productivity measures the efficiency of production, typically expressed as the ratio of outputs produced to inputs used, indicating how effectively resources are utilized.",
+        "businessContext": "In business settings, enhancing productivity is a key objective, as it directly impacts profitability and competitiveness, often driven by technological advancements and process improvements.",
+        "nuance": "While high productivity is generally positive, it should be balanced with employee well-being and sustainability to avoid burnout and ethical concerns.",
+        "synonyms": [
+          "efficiency",
+          "output"
+        ],
+        "antonyms": [
+          "inefficiency",
+          "waste"
+        ]
+      }
+    ]
   },
   {
     "text": "I think everybody is using some sort of co-pilot or sort of AI in their day-to-day workflows like job one, so everyone's not afraid of it, understands how we can raise the ceiling and lower the floor for all sorts of skills and tasks.",
@@ -56,8 +179,10 @@
     "timestamp": "09:35",
     "context": "Lenny asks what patterns distinguish companies that successfully build AI products from those that struggle. Asha outlines the first step successful companies take: ensuring all employees become AI fluent by using AI tools in their daily work. This removes fear and helps everyone understand AI's potential to enhance capabilities across different skill levels and tasks.",
     "vocabulary_highlights": [
-      "job one",
-      "raise the ceiling and lower the floor"
+      "raise the ceiling",
+      "lower the floor",
+      "workflows",
+      "skills"
     ],
     "topics": [
       "Learning & Growth",
@@ -72,17 +197,77 @@
     "text_ko": "제 생각에는 거의 모든 사람이 일상 업무에서 코파일럿(co-pilot)이나 인공지능(AI) 같은 걸 이미 쓰고 있어요. 그래서 다들 이제 두려워하지 않고, 이런 도구로 여러 기술과 업무의 최고 성과는 끌어올리고 최소 수행 수준(진입 장벽)은 낮출 수 있다는 걸 이해하고 있어요.",
     "text_zh": "我觉得现在大家在日常工作中都会用到一些副驾驶(co-pilot)或者AI工具，这已经是基本操作了，所以大家都不怕这些技术，也明白怎么用它们来提升上限、降低门槛，让各种技能和任务都变得更容易上手。",
     "text_es": "Creo que todo el mundo ya está usando algún tipo de copiloto o IA en su trabajo del día a día como prioridad número uno, entonces ya nadie le tiene miedo, entiende cómo podemos subir el techo y bajar el piso para todo tipo de habilidades y tareas.",
-    "key_sentence": "Job one is using AI to raise the ceiling and lower the floor."
+    "key_sentence": "Job one is using AI to raise the ceiling and lower the floor.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "raise the ceiling",
+        "definition": "To increase the upper limit or potential of something, often referring to capabilities or performance.",
+        "businessContext": "In business, raising the ceiling can refer to enhancing productivity, innovation, or the overall performance of a team or organization through improved tools or strategies.",
+        "nuance": "This phrase often implies a positive enhancement, suggesting growth and improvement rather than merely meeting existing standards.",
+        "synonyms": [
+          "enhance potential",
+          "increase capacity"
+        ],
+        "antonyms": [
+          "lower the ceiling",
+          "restrict potential"
+        ]
+      },
+      {
+        "word": "lower the floor",
+        "definition": "To decrease the minimum standard or baseline level of performance or capability.",
+        "businessContext": "In a business context, lowering the floor can mean making tasks more accessible or achievable for a wider range of employees, often through training or simplified processes.",
+        "nuance": "This phrase can carry a connotation of making things easier or more inclusive, but may also imply a reduction in quality or standards if not managed carefully.",
+        "synonyms": [
+          "reduce minimum",
+          "decrease baseline"
+        ],
+        "antonyms": [
+          "raise the floor",
+          "increase minimum"
+        ]
+      },
+      {
+        "word": "workflows",
+        "definition": "A sequence of processes or tasks that are carried out to achieve a specific outcome or complete a project.",
+        "businessContext": "Workflows are critical in business for streamlining operations, ensuring efficiency, and facilitating collaboration among team members.",
+        "nuance": "While workflows can be formalized and documented, they can also be informal and adaptable, depending on the team's needs and the nature of the tasks.",
+        "synonyms": [
+          "process flows",
+          "task sequences"
+        ],
+        "antonyms": [
+          "disorganization",
+          "chaos"
+        ]
+      },
+      {
+        "word": "skills",
+        "definition": "The abilities or expertise that individuals possess, enabling them to perform tasks effectively and efficiently.",
+        "businessContext": "In the business world, skills are essential for employee performance, and organizations often invest in training and development to enhance their workforce's capabilities.",
+        "nuance": "The term can refer to both hard skills (technical abilities) and soft skills (interpersonal abilities), and its usage may vary depending on the context of the discussion.",
+        "synonyms": [
+          "competencies",
+          "abilities"
+        ],
+        "antonyms": [
+          "incompetence",
+          "ineptitude"
+        ]
+      }
+    ]
   },
   {
-    "text": "I really believe in the concept of the full stack builder. You're seeing it with a bunch of the AI native companies that are coming up. I'm even seeing it in enterprises that have been around for 50 years starting to operate in that way. And I think that gives you velocity and throughput and then gives you the whole loop to start to actually metabolize and go through that much faster.",
+    "text": "I really believe in the concept of the full stack builder. You're seeing it with a bunch of the AI native companies that are coming up. I'm even seeing it in enterprises that have been around for 50 years starting to operate in that way.",
     "speaker": "Asha Sharma",
     "timestamp": "12:30",
     "context": "Lenny asks about patterns in successful AI companies, and Asha discusses how traditional organizational structures are changing. She explains that the traditional product development process involves too many layers and touchpoints to keep up with rapidly evolving AI technology. The solution is \"full stack builders\" - individuals who can work across multiple disciplines rather than being confined to narrow functional roles.",
     "vocabulary_highlights": [
-      "full stack builder",
-      "velocity and throughput",
-      "metabolize and go through"
+      "concept",
+      "enterprises",
+      "organizational structures",
+      "product development"
     ],
     "topics": [
       "Career Development",
@@ -97,7 +282,68 @@
     "text_ko": "저는 풀 스택 빌더(full stack builder)라는 개념을 정말 믿어요. 요즘 생겨나는 AI 네이티브(AI native) 기업들에서 그 모습이 보이고 있고, 50년 넘은 기업들조차 그렇게 운영하기 시작하는 걸 보고 있어요. 그런 접근이 속도와 처리량(velocity and throughput)을 높여주고, 전체 루프(loop)를 만들어 실제로 그걸 더 빠르게 내재화(metabolize)하고 과정을 훨씬 빨리 돌릴 수 있게 해줘요.",
     "text_zh": "我特别认同全栈建设者(full stack builder)这个理念。你看现在很多AI原生公司都是这么做的，连那些有五十年历史的老企业都开始这样运作了。我觉得这样能让你的执行速度更快，产出更高，而且能形成一个完整的闭环，让你消化吸收、迭代优化的速度大大提升。",
     "text_es": "Yo creo mucho en el concepto del desarrollador full stack (full stack builder). Lo estás viendo con un montón de estas empresas nativas de IA que están surgiendo. Incluso lo estoy viendo en empresas que llevan 50 años operando y están empezando a trabajar de esa manera. Y creo que eso te da velocidad y productividad, y luego te da todo el ciclo completo para realmente procesar y avanzar mucho más rápido.",
-    "key_sentence": "Full stack builder concept enhances velocity and throughput for faster operations."
+    "key_sentence": "I really believe in the concept of the full stack builder.",
+    "text_trimmed": true,
+    "original_text": "I really believe in the concept of the full stack builder. You're seeing it with a bunch of the AI native companies that are coming up. I'm even seeing it in enterprises that have been around for 50 years starting to operate in that way. And I think that gives you velocity and throughput and then gives you the whole loop to start to actually metabolize and go through that much faster.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "concept",
+        "definition": "A general idea or understanding of something, often serving as a foundation for further development or discussion.",
+        "businessContext": "In business and technology, a concept can refer to a new product idea, a business model, or an innovative approach that guides strategic planning and execution.",
+        "nuance": "While 'concept' is often used in brainstorming and early-stage discussions, it may imply a lack of concrete details or implementation plans.",
+        "synonyms": [
+          "idea",
+          "notion"
+        ],
+        "antonyms": [
+          "reality",
+          "fact"
+        ]
+      },
+      {
+        "word": "enterprises",
+        "definition": "Large organizations or businesses engaged in commercial activities, often characterized by complex structures and a focus on profit generation.",
+        "businessContext": "In the context of business, enterprises can refer to both established companies and startups that operate on a larger scale, often involving multiple departments and diverse product lines.",
+        "nuance": "The term 'enterprise' conveys a sense of ambition and scale, and is often associated with formal business structures rather than informal or small-scale operations.",
+        "synonyms": [
+          "corporations",
+          "companies"
+        ],
+        "antonyms": [
+          "startups",
+          "small businesses"
+        ]
+      },
+      {
+        "word": "organizational structures",
+        "definition": "The system that outlines how certain activities are directed in order to achieve an organization's goals, including roles, responsibilities, and communication pathways.",
+        "businessContext": "In business settings, understanding organizational structures is crucial for effective management, as they determine how resources are allocated and how teams collaborate.",
+        "nuance": "While 'organizational structures' can refer to traditional hierarchies, it may also encompass more modern, agile frameworks that promote flexibility and innovation.",
+        "synonyms": [
+          "hierarchies",
+          "frameworks"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "product development",
+        "definition": "The process of creating, designing, and bringing a new product to market, encompassing all stages from initial idea to final launch.",
+        "businessContext": "In the tech and startup sectors, product development is critical for innovation and competitiveness, often involving iterative testing and feedback loops to refine offerings.",
+        "nuance": "The term 'product development' implies a systematic approach, and is often associated with methodologies like Agile or Lean, which emphasize rapid iteration and customer feedback.",
+        "synonyms": [
+          "product design",
+          "product innovation"
+        ],
+        "antonyms": [
+          "product stagnation",
+          "product obsolescence"
+        ]
+      }
+    ]
   },
   {
     "text": "We think about it as what season are we in? Season one might've been prototyping of AI and then it was all around models and reasoning models, and now it's the advent of agents.",
@@ -105,7 +351,10 @@
     "timestamp": "00:50",
     "context": "Lenny asks how anyone can plan roadmaps when the AI landscape changes so rapidly with new model releases. Asha explains Microsoft's approach to strategic planning in the fast-moving AI space. Instead of traditional fixed timeframes, they think in \"seasons\" - periods defined by major technological or market shifts that can last anywhere from three months to a year.",
     "vocabulary_highlights": [
-      "advent of agents"
+      "prototyping",
+      "strategic planning",
+      "landscape",
+      "advent"
     ],
     "topics": [
       "Strategy & Planning",
@@ -120,17 +369,76 @@
     "text_ko": "우리는 지금 어떤 시즌에 있나 생각해요. 첫 시즌은 인공지능(AI) 프로토타이핑(prototyping) 단계였고, 그다음에는 모델(models)과 추론 모델(reasoning models)이 중심이었어요. 지금은 에이전트(agents)가 본격적으로 등장한 시기예요.",
     "text_zh": "我们是这么想的，现在我们处在哪个阶段？第一阶段可能是AI原型开发，然后就是各种模型和推理模型(reasoning models)的阶段，现在我们迎来了智能代理(agents)的时代。",
     "text_es": "Lo vemos como ¿en qué temporada estamos? La primera temporada pudo haber sido el prototipado de la IA, después todo giró en torno a los modelos y modelos de razonamiento, y ahora estamos en la llegada de los agentes.",
-    "key_sentence": "We are witnessing the advent of agents in AI development."
+    "key_sentence": "We are witnessing the advent of agents in AI development.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "prototyping",
+        "definition": "Prototyping is the process of creating an early model or sample of a product to test its functionality and design before full-scale production. It allows for iterative development and refinement based on user feedback.",
+        "businessContext": "In business and tech, prototyping is crucial for startups to validate ideas, minimize risks, and ensure that the final product meets market needs. It often involves creating wireframes, mockups, or functional models.",
+        "nuance": "While 'prototyping' suggests a preliminary phase, it carries a connotation of innovation and experimentation, making it ideal for discussions about product development.",
+        "synonyms": [
+          "mockup",
+          "pilot"
+        ],
+        "antonyms": [
+          "final product",
+          "completion"
+        ]
+      },
+      {
+        "word": "strategic planning",
+        "definition": "Strategic planning is the process of defining an organization's direction and making decisions on allocating resources to pursue this strategy. It involves setting long-term goals and determining the actions needed to achieve them.",
+        "businessContext": "In a business context, strategic planning is essential for aligning resources and efforts towards common objectives, often involving market analysis and competitive positioning.",
+        "nuance": "The term 'strategic planning' implies a comprehensive and forward-thinking approach, distinguishing it from more tactical or operational planning processes.",
+        "synonyms": [
+          "long-term planning",
+          "strategic management"
+        ],
+        "antonyms": [
+          "reactive planning",
+          "short-term planning"
+        ]
+      },
+      {
+        "word": "landscape",
+        "definition": "In a business context, 'landscape' refers to the overall environment or market conditions in which a company operates, including competitors, trends, and regulatory factors. It encompasses both the internal and external factors that impact business strategy.",
+        "businessContext": "Understanding the competitive landscape is vital for businesses to identify opportunities and threats, guiding strategic decisions and positioning.",
+        "nuance": "The term often conveys a sense of breadth and complexity, making it suitable for discussions about market dynamics and industry analysis.",
+        "synonyms": [
+          "environment",
+          "market scenario"
+        ],
+        "antonyms": [
+          "niche",
+          "isolation"
+        ]
+      },
+      {
+        "word": "advent",
+        "definition": "Advent refers to the arrival or beginning of an important event, innovation, or period, often signifying a transformative change. It is commonly used to denote the onset of new technologies or trends.",
+        "businessContext": "In business, the advent of new technologies or methodologies can signify shifts in market dynamics, prompting companies to adapt their strategies to remain competitive.",
+        "nuance": "The word 'advent' carries a positive connotation, often associated with progress and opportunity, making it ideal for discussions about innovation.",
+        "synonyms": [
+          "arrival",
+          "emergence"
+        ],
+        "antonyms": [
+          "departure",
+          "decline"
+        ]
+      }
+    ]
   },
   {
-    "text": "I've learned that optimism is a renewable resource. This company for 50 years has had every reason not to succeed and it has even as it's had early success in the AI era and challenges and other successes and the space is developing so quickly, I think that his ability to generate energy and to use his optimism to renew everybody's dedication to the mission is unbelievable.",
+    "text": "I've learned that optimism is a renewable resource.",
     "speaker": "Asha Sharma",
     "timestamp": "39:52",
     "context": "Lenny asks what Asha has learned from working closely with Satya Nadella, Microsoft's CEO. Asha shares her key observation about his leadership style, particularly how he maintains and spreads optimism throughout the organization. She emphasizes how Satya uses optimism as a tool to continuously re-energize teams and maintain commitment to the company's mission, even during challenging periods.",
     "vocabulary_highlights": [
-      "renewable resource",
-      "generate energy",
-      "renew everybody's dedication"
+      "optimism",
+      "renewable",
+      "resource"
     ],
     "topics": [
       "Leadership & Management",
@@ -145,17 +453,65 @@
     "text_ko": "저는 낙관주의가 재생 가능한 자원이라는 걸 배웠어요. 이 회사는 지난 50년 동안 성공하지 못할 이유가 수도 없이 많았는데도, AI 시대(AI era)에 초기에 성공을 거두기도 했고 여러 도전과 또 다른 성과를 겪으면서 분야가 너무 빠르게 변하는 상황에서도, 그가 에너지를 만들어내고 자신의 낙관주의로 모두의 사명(mission)에 대한 헌신을 다시 불러일으키는 능력은 정말 놀라워요.",
     "text_zh": "我发现乐观主义其实是可以不断更新的资源。这家公司50年来遇到过各种各样本来可能让它失败的理由，但它还是挺过来了。哪怕在AI时代早期取得成功，后来又遇到挑战，然后又有其他成功，整个行业发展得这么快，我觉得他那种能够激发团队活力，用自己的乐观精神重新点燃大家对使命投入的能力，真的是太厉害了。",
     "text_es": "He aprendido que el optimismo es un recurso renovable. Esta empresa durante 50 años ha tenido todas las razones del mundo para no triunfar y aun así lo ha logrado, incluso cuando tuvo éxito temprano en la era de la IA y desafíos y otros logros, y el sector está evolucionando tan rápido que creo que su capacidad para generar energía y usar su optimismo para renovar la dedicación de todos hacia la misión es increíble.",
-    "key_sentence": "Optimism is a renewable resource that generates energy and renews dedication."
+    "key_sentence": "optimism is a renewable resource.",
+    "text_trimmed": true,
+    "original_text": "I've learned that optimism is a renewable resource. This company for 50 years has had every reason not to succeed and it has even as it's had early success in the AI era and challenges and other successes and the space is developing so quickly, I think that his ability to generate energy and to use his optimism to renew everybody's dedication to the mission is unbelievable.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "optimism",
+        "definition": "A mental attitude characterized by hope and confidence in positive outcomes or the belief that good things will happen.",
+        "businessContext": "In business, optimism can drive innovation and motivate teams, fostering a culture that embraces challenges and seeks growth opportunities.",
+        "nuance": "While optimism is generally positive, excessive optimism can lead to unrealistic expectations and poor decision-making.",
+        "synonyms": [
+          "hopefulness",
+          "positivity"
+        ],
+        "antonyms": [
+          "pessimism",
+          "despair"
+        ]
+      },
+      {
+        "word": "renewable",
+        "definition": "Referring to resources that are naturally replenished over time, such as solar or wind energy, and are sustainable for long-term use.",
+        "businessContext": "In the context of business, particularly in tech and startups, renewable resources are increasingly prioritized for sustainable practices and corporate social responsibility initiatives.",
+        "nuance": "The term often carries a positive connotation associated with sustainability, but it can also imply limitations in scalability or availability depending on the context.",
+        "synonyms": [
+          "sustainable",
+          "regenerative"
+        ],
+        "antonyms": [
+          "non-renewable",
+          "exhaustible"
+        ]
+      },
+      {
+        "word": "resource",
+        "definition": "A source of supply or support that can be drawn upon when needed, including materials, finances, human capital, or information.",
+        "businessContext": "In a business setting, effective resource management is crucial for maximizing productivity and ensuring the efficient allocation of assets to achieve strategic goals.",
+        "nuance": "The term can imply both tangible and intangible assets, and its use can vary based on context, such as human resources versus financial resources.",
+        "synonyms": [
+          "asset",
+          "supply"
+        ],
+        "antonyms": [
+          "liability",
+          "burden"
+        ]
+      }
+    ]
   },
   {
-    "text": "I believe we will see just as much money spent on post-training as we will on pre-training and in the future, more on post-training. We talked a little bit about Nathan Lambert's study where his review was that when a model hits 30 billion parameters, it makes more sense to fine-tune and optimize that 50% of developers according to surveys are now fine-tuning.",
+    "text": "I believe we will see just as much money spent on post-training as we will on pre-training and in the future, more on post-training.",
     "speaker": "Asha Sharma",
     "timestamp": "45:02",
     "context": "Asha shares her prediction about a major shift in AI development investment priorities. Pre-training involves the initial creation of foundation models with massive compute requirements, while post-training involves customizing existing models through techniques like fine-tuning and reinforcement learning. She argues that economic and practical factors are driving companies to focus more resources on adapting existing powerful models rather than building new ones from scratch.",
     "vocabulary_highlights": [
+      "investment priorities",
       "post-training",
       "pre-training",
-      "fine-tune and optimize"
+      "shift"
     ],
     "topics": [
       "Strategy & Planning",
@@ -170,6 +526,67 @@
     "text_ko": "저는 사전 학습(pre-training)만큼 사후 학습(post-training)에 돈이 들어갈 거라고 봐요. 앞으로는 오히려 사후 학습에 더 많이 투자할 것 같아요. 네이선 램버트(Nathan Lambert)의 연구를 잠깐 얘기했는데, 그 연구는 모델이 파라미터(parameters) 300억 개쯤 되면 파인튜닝(fine-tuning)과 최적화(optimize)가 더 합리적이라고 결론 내렸어요. 설문조사에 따르면 개발자의 약 50%가 지금 파인튜닝을 하고 있다고 하더라고요.",
     "text_zh": "我觉得未来在后训练(post-training)上花的钱会跟预训练(pre-training)一样多，甚至后面可能后训练花得更多。我们之前聊过Nathan Lambert的那个研究，他的结论是模型一旦到了300亿参数，做微调(fine-tune)和优化就更划算了。调研显示现在有50%的开发者都在搞微调。",
     "text_es": "Creo que vamos a ver tanto dinero invertido en el post-entrenamiento como en el pre-entrenamiento, y en el futuro, incluso más en el post-entrenamiento. Hablamos un poco del estudio de Nathan Lambert donde concluyó que cuando un modelo llega a los 30 mil millones de parámetros, tiene más sentido hacer fine-tuning y optimizar. Y según las encuestas, el 50% de los desarrolladores ya están haciendo fine-tuning.",
-    "key_sentence": "Post-training will see as much investment as pre-training, focusing on fine-tune and optimize."
+    "key_sentence": "Post-training will see as much investment as pre-training, focusing on fine-tune and optimize.",
+    "text_trimmed": true,
+    "original_text": "I believe we will see just as much money spent on post-training as we will on pre-training and in the future, more on post-training. We talked a little bit about Nathan Lambert's study where his review was that when a model hits 30 billion parameters, it makes more sense to fine-tune and optimize that 50% of developers according to surveys are now fine-tuning.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "investment priorities",
+        "definition": "Investment priorities refer to the specific areas or projects that an organization chooses to focus its financial resources on, based on strategic goals and potential returns. These priorities guide decision-making regarding where to allocate capital for maximum impact.",
+        "businessContext": "In business and startup environments, investment priorities help determine which initiatives will receive funding, influencing growth strategies and operational effectiveness.",
+        "nuance": "The term often implies a strategic approach, suggesting that not all opportunities are equally valuable; it is important to communicate these priorities clearly to stakeholders.",
+        "synonyms": [
+          "capital allocation",
+          "funding focus"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "post-training",
+        "definition": "Post-training refers to the period and activities that occur after an individual has completed a training program, often involving the application of learned skills and ongoing support. This phase is critical for reinforcing knowledge and ensuring effective implementation in the workplace.",
+        "businessContext": "In corporate training and development, post-training initiatives such as follow-up sessions, assessments, and mentorship programs are essential for maximizing the return on investment in employee education.",
+        "nuance": "The term suggests a proactive approach to learning, emphasizing the importance of continuous improvement and support rather than viewing training as a one-time event.",
+        "synonyms": [
+          "after training",
+          "training follow-up"
+        ],
+        "antonyms": [
+          "pre-training",
+          "N/A"
+        ]
+      },
+      {
+        "word": "pre-training",
+        "definition": "Pre-training refers to the phase before an individual undergoes a training program, which may include preparatory activities, assessments of existing skills, and setting learning objectives. This stage is crucial for tailoring the training experience to meet specific needs.",
+        "businessContext": "In organizational contexts, pre-training assessments help identify skill gaps and align training content with the strategic goals of the company, ensuring that resources are effectively utilized.",
+        "nuance": "The term often implies a foundational approach, suggesting that adequate preparation can significantly enhance the effectiveness of the subsequent training.",
+        "synonyms": [
+          "before training",
+          "training preparation"
+        ],
+        "antonyms": [
+          "post-training",
+          "N/A"
+        ]
+      },
+      {
+        "word": "shift",
+        "definition": "Shift refers to a change or movement from one state, position, or condition to another, often indicating a significant transition in strategy, focus, or operations. In a business context, shifts can occur in market trends, consumer behavior, or organizational priorities.",
+        "businessContext": "In the tech and startup sectors, a shift may signify a pivot in business strategy or a response to emerging market demands, necessitating adaptability and innovation.",
+        "nuance": "The term can carry a sense of urgency or necessity, often implying that the change is important for survival or growth, and is typically used in discussions about strategic planning.",
+        "synonyms": [
+          "transition",
+          "change"
+        ],
+        "antonyms": [
+          "stability",
+          "continuity"
+        ]
+      }
+    ]
   }
 ]

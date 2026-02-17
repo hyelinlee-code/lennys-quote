@@ -1,13 +1,14 @@
 [
   {
-    "text": "So what we decided to do is build some custom bespoke features that were really going to direct them to more experienced folks on the other side of the market. Good. And then, yeah, lo and behold, pretty soon those metrics start to look better. But then we're looking at it, we're like, \"Wait a second. Now the existing folks on the other side are having a worse experience,\" so you kind of whiplash around.",
+    "text": "So what we decided to do is build some custom bespoke features that were really going to direct them to more experienced folks on the other side of the market. Good. And then, yeah, lo and behold, pretty soon those metrics start to look better.",
     "speaker": "Ramesh Johari",
     "timestamp": "00:00:12",
     "context": "Ramesh is explaining how marketplace management is like a game of whac-a-mole, using an example from a company he worked with. The team noticed their new supply side was having a poor experience, so they built custom features to connect them with more experienced users on the demand side. While this improved metrics for new users, it created problems for existing users who now had worse experiences. This illustrates how changes in marketplaces often create winners and losers rather than improving everything universally.",
     "vocabulary_highlights": [
-      "custom bespoke features",
-      "lo and behold",
-      "whiplash around"
+      "bespoke",
+      "metrics",
+      "experienced",
+      "market"
     ],
     "topics": [
       "Product Management",
@@ -22,7 +23,68 @@
     "text_ko": "그래서 저희는 시장 반대편에 있는 더 경험 많은 분들로 진짜로 연결해 줄 맞춤형 기능(custom bespoke features)을 몇 가지 만들기로 했어요. 그리고 얼마 지나지 않아 지표(metrics)가 좋아지기 시작했죠. 그런데 살펴보니, 잠깐만요, 반대편에 있던 기존 사용자들의 경험은 오히려 나빠지고 있더라고요. 그래서 저희가 이랬다저랬다 하게 된 거예요.",
     "text_zh": "所以我们就决定搞一些定制化的功能，专门把他们导向到市场另一边那些更有经验的人那里去。效果不错。然后你猜怎么着，很快那些指标数据就开始好看起来了。但是我们一看，就发现\"等等，现在市场另一边那些老用户的体验反而变差了\"，这样一来就像坐过山车一样，左摇右摆的。",
     "text_es": "Entonces lo que decidimos hacer fue crear algunas funciones personalizadas a medida que realmente iban a dirigirlos hacia gente más experimentada del otro lado del mercado. Perfecto. Y luego, sí, como era de esperarse, muy pronto esas métricas empezaron a verse mejor. Pero después estamos viendo todo esto y pensamos, \"Un momento. Ahora los usuarios que ya estaban del otro lado están teniendo una experiencia peor,\" entonces como que te das cuenta de que estás dando bandazos de un lado para otro.",
-    "key_sentence": "Custom bespoke features improved metrics but worsened existing users' experience, causing whiplash."
+    "key_sentence": "build some custom bespoke features that were really going to direct them to more experienced folks on the other side of the market.",
+    "text_trimmed": true,
+    "original_text": "So what we decided to do is build some custom bespoke features that were really going to direct them to more experienced folks on the other side of the market. Good. And then, yeah, lo and behold, pretty soon those metrics start to look better. But then we're looking at it, we're like, \"Wait a second. Now the existing folks on the other side are having a worse experience,\" so you kind of whiplash around.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "bespoke",
+        "definition": "Custom-made or tailored to meet specific requirements or preferences.",
+        "businessContext": "In business and tech, 'bespoke' often refers to products or services that are designed specifically for a particular client or user, enhancing personalization and customer satisfaction.",
+        "nuance": "While 'bespoke' conveys a high level of customization and quality, it is often associated with luxury and exclusivity, making it less suitable for mass-market products.",
+        "synonyms": [
+          "custom",
+          "tailored"
+        ],
+        "antonyms": [
+          "standard",
+          "off-the-shelf"
+        ]
+      },
+      {
+        "word": "metrics",
+        "definition": "Quantitative measures used to assess, compare, and track performance or progress.",
+        "businessContext": "In business and tech, metrics are critical for evaluating the success of strategies, products, or campaigns, often guiding decision-making processes.",
+        "nuance": "While metrics provide valuable data, over-reliance on them without context can lead to misinterpretations; thus, they should be used alongside qualitative insights.",
+        "synonyms": [
+          "measurements",
+          "indicators"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "experienced",
+        "definition": "Having practical knowledge or skill gained through involvement in a particular activity or field.",
+        "businessContext": "In a business context, 'experienced' often describes professionals who have accumulated significant expertise, making them valuable assets to organizations.",
+        "nuance": "While 'experienced' is generally positive, it can imply a lack of fresh perspectives if used to describe someone resistant to change.",
+        "synonyms": [
+          "seasoned",
+          "skilled"
+        ],
+        "antonyms": [
+          "inexperienced",
+          "novice"
+        ]
+      },
+      {
+        "word": "market",
+        "definition": "A group of potential customers or clients for a particular product or service, or the overall environment in which business transactions occur.",
+        "businessContext": "In business, understanding the market is crucial for developing strategies that effectively target and satisfy customer needs, as well as for identifying competition.",
+        "nuance": "The term 'market' can refer to both a physical space and a conceptual framework, so context is important to clarify its intended meaning.",
+        "synonyms": [
+          "industry",
+          "sector"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "The most important one is this. What I've found talking to people who want to start what they think is a marketplace is that they think too much about a marketplace before they're a marketplace. That in my view is the biggest failure mode.",
@@ -30,7 +92,10 @@
     "timestamp": "00:12:17",
     "context": "Lenny asks Ramesh about common flaws when founders try to start marketplace businesses, noting that certain types like cleaners or car wash marketplaces often fail. Ramesh explains that the biggest mistake founders make is focusing too early on marketplace dynamics before they have the scale and liquidity to actually function as a marketplace. He believes founders should first solve immediate problems and build one side of the market before worrying about marketplace mechanics.",
     "vocabulary_highlights": [
-      "failure mode"
+      "failure mode",
+      "founders",
+      "marketplace",
+      "context"
     ],
     "topics": [
       "Starting a Company",
@@ -45,15 +110,77 @@
     "text_ko": "가장 중요한 건 이거예요. 제가 마켓플레이스(marketplace)를 시작하려는 사람들과 얘기해보면, 정작 마켓플레이스가 되기도 전에 마켓플레이스에 대해 너무 많이 생각해요. 제 생각엔 그게 가장 큰 실패 유형(failure mode)이에요.",
     "text_zh": "最重要的一点是这个。我发现那些想做marketplace的人，他们还没成为marketplace之前，就想得太多了。在我看来，这是最容易栽跟头的地方。",
     "text_es": "Lo más importante es esto. Lo que he visto hablando con gente que quiere crear lo que creen que es un marketplace es que se obsesionan demasiado con ser un marketplace antes de serlo realmente. Esa para mí es la forma más común de fracasar.",
-    "key_sentence": "Marketplace founders often fail by overthinking before establishing a marketplace, a failure mode."
+    "key_sentence": "they think too much about a marketplace before they're a marketplace.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "failure mode",
+        "definition": "A specific way in which a process or system can fail to perform its intended function.",
+        "businessContext": "In business and technology, understanding failure modes is crucial for risk management and improving product design to prevent potential pitfalls.",
+        "nuance": "The term often carries a connotation of analysis and prevention, making it more suitable in discussions of risk assessment rather than casual conversation.",
+        "synonyms": [
+          "failure mechanism",
+          "fault mode"
+        ],
+        "antonyms": [
+          "success mode",
+          "N/A"
+        ]
+      },
+      {
+        "word": "founders",
+        "definition": "Individuals who establish a new business or organization, often taking on significant risk and responsibility for its success.",
+        "businessContext": "In startup culture, founders are typically seen as visionaries who drive innovation and are pivotal in shaping the company's direction and culture.",
+        "nuance": "The term implies a sense of ownership and commitment, and is often used in contexts that highlight entrepreneurial spirit and leadership.",
+        "synonyms": [
+          "entrepreneurs",
+          "creators"
+        ],
+        "antonyms": [
+          "employees",
+          "N/A"
+        ]
+      },
+      {
+        "word": "marketplace",
+        "definition": "A platform or environment where buyers and sellers can engage in the exchange of goods or services.",
+        "businessContext": "In the tech industry, a marketplace can refer to digital platforms that facilitate transactions, such as e-commerce websites or app stores.",
+        "nuance": "The term can imply a competitive environment and is often used to discuss market dynamics and consumer behavior.",
+        "synonyms": [
+          "market",
+          "trading platform"
+        ],
+        "antonyms": [
+          "monopoly",
+          "N/A"
+        ]
+      },
+      {
+        "word": "context",
+        "definition": "The circumstances or factors surrounding a particular event, situation, or concept that help to clarify its meaning.",
+        "businessContext": "In business discussions, context is essential for understanding market conditions, customer needs, and the implications of strategic decisions.",
+        "nuance": "The term suggests that meaning can change based on surrounding factors, making it important to consider in analytical discussions.",
+        "synonyms": [
+          "background",
+          "framework"
+        ],
+        "antonyms": [
+          "isolation",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "So in their example, as they evolved, they actually shifted their monetization model away from billing specifically for this friction of allowing you to pay with credit cards, instead to now billing for how you were interviewing and contacting sitters. They had a two-part plan for that. One with a pay as you go menu, one with a more of a subscription option.",
+    "text": "So in their example, as they evolved, they actually shifted their monetization model away from billing specifically for this friction of allowing you to pay with credit cards, instead to now billing for how you were interviewing and contacting sitters.",
     "speaker": "Ramesh Johari",
     "timestamp": "00:13:55",
     "context": "Ramesh is discussing UrbanSitter as an example of how successful marketplaces don't start as marketplaces. UrbanSitter initially solved a simple problem - allowing parents to pay babysitters with credit cards instead of cash. As they grew and built network effects through Facebook connections, they evolved their business model to charge for the core marketplace function of helping parents find and contact babysitters, rather than just payment processing.",
     "vocabulary_highlights": [
-      "pay as you go menu"
+      "monetization model",
+      "friction",
+      "evolved",
+      "contacting"
     ],
     "topics": [
       "Starting a Company",
@@ -68,7 +195,68 @@
     "text_ko": "그들의 사례에서는 서비스가 진화하면서 수익화 모델(monetization model)을 바꿨어요. 원래는 신용카드로 결제하게 해 주는 데서 생기는 마찰(friction)에 대해 따로 과금했는데, 나중에는 시터와 인터뷰하고 연락하는 방식 자체에 대해 과금하는 쪽으로 전환했어요. 그걸 위해 두 가지 계획을 세웠는데, 하나는 사용한 만큼 지불(pay-as-you-go)하는 메뉴이고, 다른 하나는 구독(subscription)형 옵션이었어요.",
     "text_zh": "拿他们的例子来说，随着业务发展，他们其实调整了变现模式(monetization model)，不再专门针对信用卡支付这个痛点收费，而是改为按你面试和联系保姆的次数来收费。他们搞了个两套方案：一个是按次付费的套餐，另一个是订阅制(subscription)的选择。",
     "text_es": "Entonces en su ejemplo, conforme fueron evolucionando, en realidad cambiaron su modelo de monetización y dejaron de cobrar específicamente por esa fricción de permitirte pagar con tarjetas de crédito, para ahora cobrar por cómo entrevistabas y contactabas a las niñeras. Tenían un plan de dos partes para eso: uno con un menú de pago por uso (pay as you go), y otro más tipo suscripción.",
-    "key_sentence": "They shifted to a pay as you go menu for monetization, enhancing user experience."
+    "key_sentence": "they actually shifted their monetization model away from billing specifically for this friction of allowing you to pay with credit cards",
+    "text_trimmed": true,
+    "original_text": "So in their example, as they evolved, they actually shifted their monetization model away from billing specifically for this friction of allowing you to pay with credit cards, instead to now billing for how you were interviewing and contacting sitters. They had a two-part plan for that. One with a pay as you go menu, one with a more of a subscription option.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "monetization model",
+        "definition": "A monetization model refers to the strategy or method a business uses to generate revenue from its products or services. It outlines how a company plans to convert its offerings into profit.",
+        "businessContext": "In business and tech, a monetization model is crucial for startups to determine how they will sustain operations and grow financially, often influencing pricing strategies and customer engagement.",
+        "nuance": "This term is often used in discussions about business strategy and innovation, particularly when evaluating the effectiveness of different revenue-generating approaches.",
+        "synonyms": [
+          "revenue model",
+          "business model"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "friction",
+        "definition": "Friction, in a business context, refers to any obstacle or difficulty that hinders a smooth transaction or interaction between parties. It can manifest as complications in processes or customer experiences.",
+        "businessContext": "In startups and tech, minimizing friction is essential for enhancing user experience, as it can directly impact customer satisfaction and retention rates.",
+        "nuance": "While 'friction' often has a negative connotation in business, it can also refer to necessary challenges that lead to better solutions or innovations.",
+        "synonyms": [
+          "obstacle",
+          "impediment"
+        ],
+        "antonyms": [
+          "smoothness",
+          "ease"
+        ]
+      },
+      {
+        "word": "evolved",
+        "definition": "Evolved refers to the process of gradual development or change over time, often implying improvement or adaptation to new circumstances. It suggests a transformation that enhances functionality or relevance.",
+        "businessContext": "In business, companies often evolve their strategies, products, or services to meet changing market demands and consumer preferences, ensuring long-term viability.",
+        "nuance": "The term carries a positive connotation, suggesting progress and adaptation, and is often used in contexts where growth and improvement are emphasized.",
+        "synonyms": [
+          "developed",
+          "progressed"
+        ],
+        "antonyms": [
+          "regressed",
+          "stagnated"
+        ]
+      },
+      {
+        "word": "contacting",
+        "definition": "Contacting refers to the act of reaching out or communicating with someone, typically for the purpose of establishing a connection or initiating a conversation.",
+        "businessContext": "In a business setting, contacting is crucial for networking, customer service, and sales efforts, as it facilitates engagement and relationship building.",
+        "nuance": "While 'contacting' is a straightforward term, it can imply varying degrees of formality depending on the context, such as casual outreach versus professional communication.",
+        "synonyms": [
+          "reaching out",
+          "communicating"
+        ],
+        "antonyms": [
+          "ignoring",
+          "neglecting"
+        ]
+      }
+    ]
   },
   {
     "text": "So when you start, you had better be thinking, \"What's my value proposition in a world in which I don't have that scaled liquidity on both sides?\" And that's bespoke. It means different things.",
@@ -76,8 +264,10 @@
     "timestamp": "00:15:05",
     "context": "Ramesh is explaining why marketplace businesses never start as marketplace businesses. He argues that when you're starting out, you don't have the scale and liquidity on both sides that makes a marketplace valuable. Therefore, founders need to identify what unique value they can provide before they have that marketplace scale. This value proposition will be customized and specific to each business situation.",
     "vocabulary_highlights": [
+      "value proposition",
       "scaled liquidity",
-      "that's bespoke"
+      "bespoke",
+      "marketplace"
     ],
     "topics": [
       "Starting a Company",
@@ -92,7 +282,66 @@
     "text_ko": "그래서 시작할 때는 “양측에서의 규모화된 유동성(scaled liquidity on both sides)이 없는 세상에서 내 가치 제안(value proposition)은 뭐지?”라고 생각해봐야 해요. 그건 맞춤형(bespoke)이어서 경우마다 의미가 달라요.",
     "text_zh": "所以刚开始的时候，你最好想清楚一个问题：\"在我还没有双边规模化流动性的情况下，我的价值主张(value proposition)到底是什么？\" 这个问题因人而异，每家公司的答案都不一样。",
     "text_es": "Entonces cuando empiezas, más te vale preguntarte: \"¿Cuál es mi propuesta de valor (value proposition) en un mundo donde no tengo esa liquidez escalada de ambos lados?\" Y eso es algo muy específico para cada caso. Significa cosas distintas.",
-    "key_sentence": "Consider your value proposition without scaled liquidity; that's bespoke to your marketplace."
+    "key_sentence": "What's my value proposition in a world in which I don't have that scaled liquidity on both sides?",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "value proposition",
+        "definition": "A value proposition is a statement that outlines the unique benefits and value a product or service offers to customers, distinguishing it from competitors.",
+        "businessContext": "In business and marketing, a strong value proposition is essential for attracting customers and driving sales, particularly in competitive markets.",
+        "nuance": "It often implies a promise of value that addresses specific customer needs, and should be clear and compelling to resonate with the target audience.",
+        "synonyms": [
+          "unique selling proposition",
+          "value statement"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "scaled liquidity",
+        "definition": "Scaled liquidity refers to the ability of a market to accommodate large volumes of transactions without significantly affecting the price of the asset being traded.",
+        "businessContext": "In finance and trading, scaled liquidity is crucial for ensuring that buyers and sellers can execute trades efficiently, especially in high-frequency trading environments.",
+        "nuance": "It suggests a level of market depth and efficiency, and is often discussed in the context of financial markets or platforms that facilitate trading.",
+        "synonyms": [
+          "market liquidity",
+          "transactional liquidity"
+        ],
+        "antonyms": [
+          "illiquidity",
+          "N/A"
+        ]
+      },
+      {
+        "word": "bespoke",
+        "definition": "Bespoke refers to products or services that are custom-made or tailored to meet the specific needs and preferences of an individual client.",
+        "businessContext": "In industries such as fashion, finance, and technology, bespoke offerings can create a competitive advantage by providing personalized solutions that enhance customer satisfaction.",
+        "nuance": "While often associated with luxury or high-end markets, bespoke can also imply a commitment to quality and attention to detail in any sector.",
+        "synonyms": [
+          "customized",
+          "tailored"
+        ],
+        "antonyms": [
+          "standardized",
+          "mass-produced"
+        ]
+      },
+      {
+        "word": "marketplace",
+        "definition": "A marketplace is a platform or environment where buyers and sellers can interact to exchange goods, services, or information.",
+        "businessContext": "In the context of e-commerce and technology, online marketplaces have revolutionized how businesses reach customers and how consumers access a variety of products and services.",
+        "nuance": "The term can refer to both physical and digital spaces, and is often used to emphasize the diversity of offerings and the competitive dynamics within that space.",
+        "synonyms": [
+          "platform",
+          "exchange"
+        ],
+        "antonyms": [
+          "monopoly",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "So one thing you said was, \"That's what you tell marketplace founders.\" I mean, something I've actually pressed hard on in my own way of thinking about this is that maybe we shouldn't talk about the concept of a marketplace founder. Really there's founders.",
@@ -100,7 +349,10 @@
     "timestamp": "00:16:43",
     "context": "Lenny mentions that he gives similar advice to marketplace founders about focusing on non-marketplace specific problems. Ramesh pushes back on the very concept of labeling someone as a \"marketplace founder.\" He believes that in today's digital economy, virtually any business could become a platform or marketplace as it scales, so founders shouldn't limit themselves by thinking of themselves specifically as marketplace builders from the start.",
     "vocabulary_highlights": [
-      "pressed hard on"
+      "concept",
+      "founder",
+      "press hard on",
+      "labeling"
     ],
     "topics": [
       "Starting a Company",
@@ -115,17 +367,77 @@
     "text_ko": "그래서 당신이 “그건 마켓플레이스 창업자들(marketplace founders)에게 하는 말이에요”라고 하신 게 하나 있었어요. 제가 이걸 제 방식대로 생각하면서 꽤 강하게 주장해온 건, 어쩌면 ‘마켓플레이스 창업자들(marketplace founders)’이라는 개념 자체를 굳이 얘기할 필요가 없다는 점이에요. 사실 결국엔 그냥 창업자들일 뿐이에요.",
     "text_zh": "你刚才说的\"这就是你告诉市场平台创始人的话\"，其实我一直在想一个问题，可能我们根本就不应该谈什么市场平台创始人这个概念。说白了，创始人就是创始人。",
     "text_es": "Entonces, una cosa que dijiste fue: \"Eso es lo que les dices a los fundadores de marketplace.\" O sea, algo en lo que he insistido mucho en mi forma de pensar esto es que tal vez no deberíamos hablar del concepto de \"fundador de marketplace.\" En realidad lo que hay son fundadores, punto.",
-    "key_sentence": "I've pressed hard on the idea that we shouldn't label founders as marketplace founders."
+    "key_sentence": "I've pressed hard on the idea that we shouldn't label founders as marketplace founders.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "concept",
+        "definition": "A general idea or notion that represents something abstract or theoretical.",
+        "businessContext": "In business and tech, a concept often refers to the foundational idea behind a product, service, or business model that guides its development and strategy.",
+        "nuance": "While 'concept' can imply a preliminary or untested idea, it is often used in strategic discussions to emphasize innovation and vision.",
+        "synonyms": [
+          "idea",
+          "notion"
+        ],
+        "antonyms": [
+          "reality",
+          "fact"
+        ]
+      },
+      {
+        "word": "founder",
+        "definition": "An individual who establishes or creates an organization, particularly a startup or business.",
+        "businessContext": "In the startup ecosystem, founders are crucial as they drive the vision, culture, and initial operations of the company, often taking on multiple roles in its early stages.",
+        "nuance": "The term 'founder' carries a sense of authority and responsibility, often implying a personal investment in the success of the venture.",
+        "synonyms": [
+          "creator",
+          "entrepreneur"
+        ],
+        "antonyms": [
+          "employee",
+          "follower"
+        ]
+      },
+      {
+        "word": "press hard on",
+        "definition": "To insist strongly or exert significant pressure on a particular issue or topic.",
+        "businessContext": "In business discussions, to 'press hard on' a point indicates a determination to explore, challenge, or emphasize a specific aspect of strategy or operations.",
+        "nuance": "This phrase suggests a proactive and assertive approach, often used in negotiations or when advocating for a particular idea.",
+        "synonyms": [
+          "emphasize",
+          "insist on"
+        ],
+        "antonyms": [
+          "ignore",
+          "downplay"
+        ]
+      },
+      {
+        "word": "labeling",
+        "definition": "The act of assigning a name or category to something, often to clarify its identity or purpose.",
+        "businessContext": "In marketing and product development, labeling is crucial for defining target audiences and positioning products in the marketplace.",
+        "nuance": "While labeling can provide clarity, it may also carry connotations of oversimplification or stereotyping, so it should be used thoughtfully.",
+        "synonyms": [
+          "categorization",
+          "classification"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "That meant that the longer that goes on, the less value the platform is adding into that relationship, but you're still pulling 10% of all the dollars. So what does that lead to? A word that most marketplace CEOs know well is disintermediation, which is where you were intermediating between the two parties, and now disintermediation means that essentially they're like, \"Hey, we don't need you anymore.\"",
+    "text": "That meant that the longer that goes on, the less value the platform is adding into that relationship, but you're still pulling 10% of all the dollars. So what does that lead to?",
     "speaker": "Ramesh Johari",
     "timestamp": "00:18:41",
     "context": "Ramesh is explaining how early business model decisions can create problems later for marketplace platforms. Using oDesk (now Upwork) as an example, he describes how their original model of taking a percentage of all transactions worked initially when they were providing monitoring tools. However, as relationships matured and trust developed between workers and employers, the platform was adding less value but still taking the same cut, leading to disintermediation where parties bypass the platform entirely.",
     "vocabulary_highlights": [
-      "pulling 10% of all the dollars",
-      "disintermediation",
-      "intermediating"
+      "value",
+      "relationship",
+      "platform",
+      "model"
     ],
     "topics": [
       "Strategy & Planning",
@@ -140,16 +452,79 @@
     "text_ko": "그 말은 시간이 갈수록 플랫폼이 그 관계에 더해주는 가치가 줄어드는데도 여전히 전체 거래액의 10%를 가져간다는 뜻이에요. 그럼 그게 뭐로 이어질까요? 대부분의 마켓플레이스 CEO들이 잘 아는 탈중개(disintermediation) 현상이 생기는데, 원래 두 당사자 사이에서 중개하던 플랫폼을 당사자들이 직접 만나서 거래하면서 “이제 너 필요 없어요”라고 하는 상황이에요.",
     "text_zh": "这就意味着，时间越长，平台在这种关系中创造的价值就越少，但你还是要抽取所有交易金额的10%。那这会导致什么呢？有一个词，大部分平台CEO都很熟悉，叫做去中介化(disintermediation)，就是说你本来是在两方之间做中介的，现在去中介化就是他们基本上会说：\"嘿，我们不再需要你了。\"",
     "text_es": "Eso significaba que mientras más tiempo pasara, menos valor agregaba la plataforma a esa relación, pero seguías cobrando el 10% de todo el dinero. Entonces, ¿a qué lleva esto? A una palabra que la mayoría de los CEOs de marketplaces conocen muy bien: desintermediación (disintermediation). O sea, antes tú hacías de intermediario entre las dos partes, pero con la desintermediación básicamente te dicen: \"Oye, ya no te necesitamos.\"",
-    "key_sentence": "Marketplace CEOs face disintermediation when they pull 10% of all the dollars without value."
+    "key_sentence": "the longer that goes on, the less value the platform is adding into that relationship",
+    "text_trimmed": true,
+    "original_text": "That meant that the longer that goes on, the less value the platform is adding into that relationship, but you're still pulling 10% of all the dollars. So what does that lead to? A word that most marketplace CEOs know well is disintermediation, which is where you were intermediating between the two parties, and now disintermediation means that essentially they're like, \"Hey, we don't need you anymore.\"",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "value",
+        "definition": "The importance, worth, or usefulness of something, often quantified in monetary terms.",
+        "businessContext": "In business, value refers to the benefits or returns generated from a product or service relative to its cost, influencing pricing strategies and investment decisions.",
+        "nuance": "While 'value' often implies a positive assessment, it can also refer to perceived worth, which may vary among different stakeholders.",
+        "synonyms": [
+          "worth",
+          "benefit"
+        ],
+        "antonyms": [
+          "cost",
+          "loss"
+        ]
+      },
+      {
+        "word": "relationship",
+        "definition": "The way in which two or more parties are connected, often involving mutual interactions and dependencies.",
+        "businessContext": "In a business context, relationships can refer to connections between companies, clients, or employees, which are crucial for collaboration, networking, and customer loyalty.",
+        "nuance": "The term can imply both formal and informal connections, and the strength of a relationship can significantly impact business outcomes.",
+        "synonyms": [
+          "connection",
+          "association"
+        ],
+        "antonyms": [
+          "disconnection",
+          "estrangement"
+        ]
+      },
+      {
+        "word": "platform",
+        "definition": "A foundational technology or service that enables the development and delivery of applications, products, or services.",
+        "businessContext": "In tech and startup environments, platforms often refer to software or hardware ecosystems that facilitate interactions between users and providers, such as social media platforms or e-commerce sites.",
+        "nuance": "The term can also imply scalability and versatility, as platforms often support various applications and services beyond their original purpose.",
+        "synonyms": [
+          "framework",
+          "infrastructure"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "model",
+        "definition": "A simplified representation or framework used to understand, analyze, or predict the behavior of a system or process.",
+        "businessContext": "In business, models can refer to business models that outline how a company creates, delivers, and captures value, or financial models used for forecasting and analysis.",
+        "nuance": "The term suggests a level of abstraction and can indicate theoretical versus practical applications, depending on the context.",
+        "synonyms": [
+          "framework",
+          "schema"
+        ],
+        "antonyms": [
+          "reality",
+          "actuality"
+        ]
+      }
+    ]
   },
   {
-    "text": "You have to recognize when you run marketplaces that many of the changes that are most consequential create winners and losers. And rolling with those changes is about recognizing whether the winners you've created are more important to your business than the losers you've created in the process.",
+    "text": "You have to recognize when you run marketplaces that many of the changes that are most consequential create winners and losers.",
     "speaker": "Ramesh Johari",
     "timestamp": "00:51:24",
     "context": "Ramesh is explaining the \"whac-a-mole\" nature of marketplace management, where fixing problems in one area often creates problems elsewhere. He's sharing a quote from Servaes Tholen, former CFO at Upwork and Thumbtack, about how marketplace changes inevitably create trade-offs. Rather than expecting every change to benefit everyone, successful marketplace operators need to understand and accept that impactful changes will help some users while potentially hurting others, and make strategic decisions about which trade-offs are worth making.",
     "vocabulary_highlights": [
-      "most consequential",
-      "rolling with those changes"
+      "consequential",
+      "marketplaces",
+      "winners and losers",
+      "management"
     ],
     "topics": [
       "Strategy & Planning",
@@ -164,6 +539,67 @@
     "text_ko": "마켓플레이스(marketplaces)를 운영할 때는, 가장 큰 영향을 미치는 변화들이 종종 승자(winners)와 패자(losers)를 만들어낸다는 걸 알아야 해요. 그리고 그런 변화에 유연하게 대응하는 건, 그 과정에서 생긴 승자들이 만든 패자들보다 당신의 비즈니스에 더 중요한지 판단하는 일이에요.",
     "text_zh": "做平台生意你得明白，很多重大变化都会造成有人得利有人受损。能不能适应这些变化，关键看你创造出来的受益方对你生意的重要性，是不是比那些在过程中利益受损的一方更重要。",
     "text_es": "Cuando manejas marketplaces tienes que darte cuenta de que muchos de los cambios más importantes van a crear ganadores y perdedores. Y adaptarte a esos cambios se trata de reconocer si los ganadores que has creado son más importantes para tu negocio que los perdedores que generaste en el proceso.",
-    "key_sentence": "Most consequential changes in marketplaces create winners and losers; rolling with those changes is crucial."
+    "key_sentence": "many of the changes that are most consequential create winners and losers.",
+    "text_trimmed": true,
+    "original_text": "You have to recognize when you run marketplaces that many of the changes that are most consequential create winners and losers. And rolling with those changes is about recognizing whether the winners you've created are more important to your business than the losers you've created in the process.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "consequential",
+        "definition": "Having significant consequences or effects; important or influential.",
+        "businessContext": "In business, 'consequential' often refers to decisions or changes that can substantially impact the success or failure of a project, strategy, or market.",
+        "nuance": "While it implies importance, 'consequential' can also suggest a sense of responsibility for the outcomes of those decisions.",
+        "synonyms": [
+          "significant",
+          "important"
+        ],
+        "antonyms": [
+          "insignificant",
+          "trivial"
+        ]
+      },
+      {
+        "word": "marketplaces",
+        "definition": "Platforms or environments where goods and services are bought and sold, either physically or digitally.",
+        "businessContext": "In the context of e-commerce and tech startups, 'marketplaces' refer to online platforms that connect buyers and sellers, facilitating transactions and often taking a commission.",
+        "nuance": "The term can imply a competitive landscape where various vendors vie for consumer attention and market share.",
+        "synonyms": [
+          "platforms",
+          "trading venues"
+        ],
+        "antonyms": [
+          "monopolies",
+          "N/A"
+        ]
+      },
+      {
+        "word": "winners and losers",
+        "definition": "A phrase used to describe the parties that benefit or suffer as a result of a particular event, decision, or market condition.",
+        "businessContext": "In business analysis, identifying 'winners and losers' helps stakeholders understand the impact of market changes, competitive actions, or economic shifts on different entities.",
+        "nuance": "This phrase can carry a competitive connotation, suggesting a zero-sum game where one party's gain is another's loss.",
+        "synonyms": [
+          "beneficiaries and victims",
+          "successes and failures"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "management",
+        "definition": "The process of planning, organizing, leading, and controlling resources to achieve specific goals.",
+        "businessContext": "In business settings, 'management' encompasses various functions, including strategic planning, resource allocation, and team leadership, crucial for organizational success.",
+        "nuance": "While it generally refers to overseeing operations, 'management' can also imply a hierarchical structure and the authority to make decisions.",
+        "synonyms": [
+          "administration",
+          "leadership"
+        ],
+        "antonyms": [
+          "mismanagement",
+          "N/A"
+        ]
+      }
+    ]
   }
 ]

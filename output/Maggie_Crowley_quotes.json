@@ -1,13 +1,14 @@
 [
   {
-    "text": "If you ever find yourself saying something like, that's not my job, that's probably a thing you should do. And you know what? It probably isn't your job and it probably is someone else's job and you can spend your life getting frustrated at that or you can just get over and get the work done. And people who are willing to just get the work done will move faster. Their products will be more successful and they probably aren't carrying around all that anger and crappy emotion.",
+    "text": "If you ever find yourself saying something like, that's not my job, that's probably a thing you should do. And you know what?",
     "speaker": "Maggie Crowley",
     "timestamp": "00:00:00",
     "context": "Lenny asks Maggie about the common threads she's seen across the best product managers she's worked with, hired, and managed. Maggie explains her third key trait, which she calls 'carrying the water' - being willing to do the unglamorous work that needs to get done regardless of whose official responsibility it is. She emphasizes that PMs who succeed are those who focus on getting work done rather than getting frustrated about job boundaries.",
     "vocabulary_highlights": [
-      "get over",
-      "carrying around",
-      "crappy emotion"
+      "initiative",
+      "take ownership",
+      "carry the water",
+      "common threads"
     ],
     "topics": [
       "Product Management",
@@ -23,18 +24,79 @@
     "text_ko": "혹시 '그건 내 일이 아니에요'라는 말을 하게 되는 자신을 발견하면, 오히려 그걸 해야 할 일이 생긴 경우가 많아요. 그리고 사실 그게 진짜 내 일이 아닐 수도 있고 다른 사람 책임일 수도 있어요. 근데 그걸 가지고 평생 답답해할 수도 있고, 그냥 털고 일을 해치울 수도 있어요. 일을 그냥 해내는 사람들은 더 빨리 움직여요. 그들의 제품은 더 성공하고, 쓸데없는 분노나 안 좋은 감정을 안고 다니지도 않아요.",
     "text_zh": "如果你发现自己在说\"这不是我的活儿\"，那这事儿你可能就应该去做。你知道吗？这确实可能不是你的分内事，确实可能是别人该干的活，你可以为这事儿郁闷一辈子，也可以想开点儿直接把事情搞定。那些愿意直接上手干活的人会走得更快，他们的产品会更成功，而且他们也不会背着那么多负面情绪和怨气。",
     "text_es": "Si alguna vez te encuentras diciendo algo como \"eso no es mi trabajo\", probablemente sea justo lo que deberías hacer. ¿Y sabes qué? Probablemente no sea tu trabajo y probablemente sí sea el trabajo de otra persona, y puedes pasarte la vida frustrándote por eso o simplemente superarlo y hacer el trabajo. Y la gente que está dispuesta a hacer el trabajo sin más va a avanzar más rápido. Sus productos van a ser más exitosos y probablemente no anden cargando toda esa rabia y emociones tóxicas.",
-    "key_sentence": "Just get over it and get the work done to avoid carrying around crappy emotion."
+    "key_sentence": "that's probably a thing you should do.",
+    "text_trimmed": true,
+    "original_text": "If you ever find yourself saying something like, that's not my job, that's probably a thing you should do. And you know what? It probably isn't your job and it probably is someone else's job and you can spend your life getting frustrated at that or you can just get over and get the work done. And people who are willing to just get the work done will move faster. Their products will be more successful and they probably aren't carrying around all that anger and crappy emotion.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "initiative",
+        "definition": "The ability to assess and initiate things independently; a proactive approach to taking action.",
+        "businessContext": "In business, initiative often refers to the willingness of employees to take charge of projects or tasks without being prompted, which is highly valued in dynamic environments like startups.",
+        "nuance": "While initiative is generally seen as a positive trait, it can be perceived negatively if it leads to overstepping boundaries or disregarding established protocols.",
+        "synonyms": [
+          "enterprise",
+          "proactivity"
+        ],
+        "antonyms": [
+          "inactivity",
+          "apathy"
+        ]
+      },
+      {
+        "word": "take ownership",
+        "definition": "To accept responsibility for a task or project, including its outcomes and any associated challenges.",
+        "businessContext": "In a business setting, taking ownership is crucial for accountability and fosters a culture where employees feel empowered to make decisions and drive results.",
+        "nuance": "This phrase conveys a sense of commitment and accountability, but it should be used carefully to avoid implying blame for failures.",
+        "synonyms": [
+          "accept responsibility",
+          "be accountable"
+        ],
+        "antonyms": [
+          "disown",
+          "abandon responsibility"
+        ]
+      },
+      {
+        "word": "carry the water",
+        "definition": "To perform the essential but often unrecognized tasks necessary for a project or team to succeed.",
+        "businessContext": "In corporate environments, carrying the water refers to individuals who handle foundational work that supports the team's objectives, often without seeking recognition.",
+        "nuance": "This phrase can imply a sense of humility and dedication, but it may also suggest that the person is undervalued or overlooked for their contributions.",
+        "synonyms": [
+          "do the heavy lifting",
+          "support the effort"
+        ],
+        "antonyms": [
+          "shirk responsibility",
+          "pass the buck"
+        ]
+      },
+      {
+        "word": "common threads",
+        "definition": "Recurring themes or elements that connect different ideas, projects, or individuals.",
+        "businessContext": "Identifying common threads in business can help teams align their goals, streamline communication, and foster collaboration across departments or projects.",
+        "nuance": "This phrase is often used in discussions of strategy or culture, and it suggests a holistic view of interconnectedness, but it may not apply in situations where diversity of thought is prioritized.",
+        "synonyms": [
+          "shared themes",
+          "interconnected elements"
+        ],
+        "antonyms": [
+          "disparate elements",
+          "isolated ideas"
+        ]
+      }
+    ]
   },
   {
-    "text": "Because as a PM, for better or for worse, and maybe this is not how we all want it to be, but you're oftentimes the emotional center of the team and it's your job to keep people motivated, keep people excited, keep them bought into the project, and you just have to keep that optimism going and it's hard work and part of it can be just like, you know what? Let me take that on. I'll do this thing. I'll hop on this sales call, I'll implement this with the customer. You just have to do whatever it takes.",
+    "text": "you're oftentimes the emotional center of the team and it's your job to keep people motivated, keep people excited, keep them bought into the project, and you just have to keep that optimism going.",
     "speaker": "Maggie Crowley",
     "timestamp": "00:00:00",
     "context": "Lenny asks Maggie about the common threads across successful product managers. Maggie is explaining the concept of 'carrying the water' as a PM - being willing to do work that technically isn't your job. She describes how PMs often serve as the emotional center of their teams, responsible for maintaining team morale and motivation while also being willing to jump into any role needed to ensure project success.",
     "vocabulary_highlights": [
-      "for better or for worse",
+      "motivated",
+      "optimism",
       "bought into",
-      "hop on",
-      "whatever it takes"
+      "emotional center"
     ],
     "topics": [
       "Product Management",
@@ -50,18 +112,79 @@
     "text_ko": "프로덕트 매니저(Product Manager, PM)로서, 좋든 나쁘든—그리고 꼭 우리가 모두 원하던 건 아닐 수도 있지만—대개 팀의 정서적 중심이 되는 경우가 많아요. 사람들의 동기를 유지하고, 열정을 계속 살리고, 프로젝트에 진심으로 몰입하게 만드는 게 당신의 역할이에요. 그 낙관적인 분위기를 계속 이어가는 건 정말 고된 일이에요. 그래서 때로는 ‘내가 할게’ 하고 나서는 수밖에 없어요. 이건 내가 맡아서 할게, 영업 콜(sales call)에 직접 나가고 고객과 함께 구현해볼게 같은 식으로요. 필요한 건 뭐든 해야 해요.",
     "text_zh": "因为作为PM(产品经理)，不管好坏，可能这也不是我们都希望的样子，但你经常就是团队的情感核心，你的工作就是让大家保持动力，让大家保持兴奋，让他们对项目有信心，你得一直保持这种乐观态度，这真的很累，有时候就得想，算了，这事我来扛吧。这个我来做，我来参加这个销售电话，我来跟客户对接实施。反正就是不管什么事都得上。",
     "text_es": "Porque como PM, para bien o para mal, y quizás no es como todos quisiéramos que fuera, pero muchas veces eres el centro emocional del equipo y tu trabajo es mantener a la gente motivada, mantenerlos emocionados, que sigan comprometidos con el proyecto, y tienes que mantener ese optimismo y es trabajo duro y parte de eso puede ser simplemente como, ¿sabes qué? Yo me encargo de esto. Yo hago esto. Me meto en esta llamada de ventas, yo lo implemento con el cliente. Tienes que hacer lo que sea necesario.",
-    "key_sentence": "As a PM, you must keep the team bought into the project, whatever it takes."
+    "key_sentence": "you're oftentimes the emotional center of the team and it's your job to keep people motivated, keep people excited, keep them bought into the project",
+    "text_trimmed": true,
+    "original_text": "Because as a PM, for better or for worse, and maybe this is not how we all want it to be, but you're oftentimes the emotional center of the team and it's your job to keep people motivated, keep people excited, keep them bought into the project, and you just have to keep that optimism going and it's hard work and part of it can be just like, you know what? Let me take that on. I'll do this thing. I'll hop on this sales call, I'll implement this with the customer. You just have to do whatever it takes.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "motivated",
+        "definition": "Driven to take action or achieve goals, often fueled by personal ambition or external incentives.",
+        "businessContext": "In business settings, being motivated is crucial for employees to meet targets, enhance productivity, and contribute positively to team dynamics.",
+        "nuance": "While 'motivated' generally has a positive connotation, it can imply pressure or stress if the motivation stems from external demands rather than personal desire.",
+        "synonyms": [
+          "driven",
+          "inspired"
+        ],
+        "antonyms": [
+          "unmotivated",
+          "apathetic"
+        ]
+      },
+      {
+        "word": "optimism",
+        "definition": "A hopeful and positive outlook on future outcomes, often leading to proactive behavior.",
+        "businessContext": "In the context of startups and business, optimism can foster innovation and resilience, encouraging teams to pursue ambitious projects despite uncertainties.",
+        "nuance": "While optimism is generally seen as beneficial, excessive optimism can lead to unrealistic expectations and poor decision-making.",
+        "synonyms": [
+          "positivity",
+          "hopefulness"
+        ],
+        "antonyms": [
+          "pessimism",
+          "despair"
+        ]
+      },
+      {
+        "word": "bought into",
+        "definition": "To accept or adopt an idea, plan, or project, often implying a commitment to its success.",
+        "businessContext": "In business, having team members 'bought into' a project is essential for collaboration and achieving collective goals, as it fosters a sense of ownership and accountability.",
+        "nuance": "This phrase often conveys a deeper level of commitment than simply agreeing with an idea; it suggests emotional and intellectual investment.",
+        "synonyms": [
+          "committed to",
+          "embraced"
+        ],
+        "antonyms": [
+          "disengaged",
+          "resistant"
+        ]
+      },
+      {
+        "word": "emotional center",
+        "definition": "The focal point of emotional support and motivation within a group, often responsible for influencing the morale and cohesion of the team.",
+        "businessContext": "In team dynamics, being the emotional center means facilitating communication, resolving conflicts, and ensuring a positive work environment, which is vital for maintaining productivity.",
+        "nuance": "While being the emotional center can be a strength, it may also lead to burnout if the individual feels solely responsible for the team's emotional well-being.",
+        "synonyms": [
+          "moral compass",
+          "team anchor"
+        ],
+        "antonyms": [
+          "disruptor",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "So many people in the spec or the one pager or something will say, okay, here's the metric that I care about. Here's what I want to move. Awesome. Maybe they'll even write a SQL query, get a dashboard going, figure out what the number is today, that gets you some extra points, but the really, really good PMs remember to follow up. Because especially when you're in management, couple layers up in management, I'm not going to remember to follow up on that feature, but if a PM comes back to me and says, 'Hey, remember we did that thing, here's what happened.' I can't tell you how rare that is and how many times as a leader you might have to ask for that and for the people you don't have to ask that of is one of the best things when I'm looking at PMs and it's easy.",
+    "text": "So many people in the spec or the one pager or something will say, okay, here's the metric that I care about. Here's what I want to move. Awesome.",
     "speaker": "Maggie Crowley",
     "timestamp": "00:07:55",
     "context": "Lenny asks Maggie about the three traits that make great product managers. Maggie is explaining her second trait: following up on results. She describes how many PMs set metrics and track them initially, but the exceptional ones remember to circle back and report on what actually happened with their launches and initiatives, which is surprisingly rare and highly valued by leadership.",
     "vocabulary_highlights": [
-      "gets you some extra points",
-      "couple layers up",
-      "I can't tell you how rare that is",
-      "circle back"
+      "metric",
+      "track",
+      "follow up",
+      "results"
     ],
     "topics": [
       "Product Management",
@@ -77,17 +200,79 @@
     "text_ko": "많은 사람들이 스펙이나 원 페이저 같은 데서 \"내가 신경 쓰는 지표는 이거고, 내가 바꾸고 싶은 건 이거야\"라고 말해요. 멋지죠. 아마 SQL 쿼리도 작성하고 대시보드도 만들어서 오늘의 숫자가 뭔지 알아내는 경우도 있을 거예요. 그건 추가 점수를 주는 거지만, 정말 뛰어난 PM들은 꼭 후속 조치를 잊지 않아요. 특히 관리직에 있으면, 위로 몇 단계 올라가면 그 기능에 대해 후속 조치를 기억하기가 쉽지 않거든요. 그런데 PM이 다시 와서 \"이거 했던 거 기억해요? 이렇게 됐어요\"라고 말해주면, 그게 얼마나 드문 일인지, 그리고 리더로서 그걸 물어봐야 하는 경우가 얼마나 많은지 알 수 있어요. 그런 걸 물어보지 않아도 되는 PM들은 제가 PM을 평가할 때 가장 좋은 점 중 하나예요. 정말 쉽거든요.",
     "text_zh": "很多人在写产品需求文档(spec)或者一页纸总结的时候会说，好，这就是我关心的指标，这就是我想要推动的东西。挺好的。可能他们还会写个SQL查询，搞个仪表板(dashboard)，看看今天的数字是多少，这能给你加点分，但真正优秀的产品经理(PM)会记得跟进。因为特别是当你在管理层，或者管理层的好几级上面时，我不会记得去跟进那个功能，但如果一个PM回来跟我说：\"嘿，还记得我们做的那个事吗，结果是这样的。\" 我没法告诉你这有多么少见，作为领导你可能要主动问多少次才能得到这种反馈，而那些你不用主动问的人，这是我看PM时最看重的品质之一，而且很容易识别。",
     "text_es": "Muchísima gente en las especificaciones o en el resumen ejecutivo te va a decir: \"Bueno, esta es la métrica que me importa, esto es lo que quiero mover.\" Perfecto. A lo mejor hasta escriben una consulta SQL, montan un dashboard, averiguan cuál es el número actual - eso ya te suma puntos extra - pero los PMs realmente buenos se acuerdan de hacer seguimiento. Porque sobre todo cuando estás en management, un par de niveles arriba en la jerarquía, yo no me voy a acordar de hacer seguimiento a esa funcionalidad, pero si un PM viene y me dice: \"Oye, ¿te acuerdas de esa cosa que hicimos? Mira lo que pasó.\" No te puedo explicar lo raro que es eso y cuántas veces como líder tienes que andar pidiendo esa información. Y con las personas a las que no les tienes que pedir eso... es una de las mejores cosas cuando evalúo PMs, y es súper fácil.",
-    "key_sentence": "Good PMs remember to circle back and follow up on features, which is rare."
+    "key_sentence": "Here's the metric that I care about. Here's what I want to move.",
+    "text_trimmed": true,
+    "original_text": "So many people in the spec or the one pager or something will say, okay, here's the metric that I care about. Here's what I want to move. Awesome. Maybe they'll even write a SQL query, get a dashboard going, figure out what the number is today, that gets you some extra points, but the really, really good PMs remember to follow up. Because especially when you're in management, couple layers up in management, I'm not going to remember to follow up on that feature, but if a PM comes back to me and says, 'Hey, remember we did that thing, here's what happened.' I can't tell you how rare that is and how many times as a leader you might have to ask for that and for the people you don't have to ask that of is one of the best things when I'm looking at PMs and it's easy.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "metric",
+        "definition": "A standard of measurement used to assess performance, progress, or quality in a specific area.",
+        "businessContext": "In business and tech, metrics are crucial for evaluating the success of strategies and initiatives, often guiding decision-making processes.",
+        "nuance": "While 'metric' often refers to quantitative measures, it can also imply a broader framework for assessing qualitative aspects, making it essential to clarify the context in which it is used.",
+        "synonyms": [
+          "measure",
+          "indicator"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "track",
+        "definition": "To monitor or follow the progress of an activity, project, or set of data over time.",
+        "businessContext": "In a business setting, tracking is vital for understanding performance trends, ensuring accountability, and making informed adjustments to strategies.",
+        "nuance": "The term 'track' suggests ongoing observation and may imply a proactive approach to management, contrasting with passive observation.",
+        "synonyms": [
+          "monitor",
+          "follow"
+        ],
+        "antonyms": [
+          "ignore",
+          "neglect"
+        ]
+      },
+      {
+        "word": "follow up",
+        "definition": "To pursue additional information or action after an initial contact or event.",
+        "businessContext": "In business, following up is essential for maintaining relationships, ensuring tasks are completed, and reinforcing communication.",
+        "nuance": "The phrase 'follow up' carries a connotation of diligence and professionalism, and it is often viewed positively when done appropriately.",
+        "synonyms": [
+          "pursue",
+          "check in"
+        ],
+        "antonyms": [
+          "abandon",
+          "disregard"
+        ]
+      },
+      {
+        "word": "results",
+        "definition": "The outcomes or consequences of actions, processes, or decisions, typically measured against predefined objectives.",
+        "businessContext": "Results are critical in business as they provide insights into the effectiveness of strategies and inform future planning and resource allocation.",
+        "nuance": "The term 'results' can imply both quantitative and qualitative outcomes, and it is often used in performance reviews and evaluations to signify success or areas needing improvement.",
+        "synonyms": [
+          "outcomes",
+          "consequences"
+        ],
+        "antonyms": [
+          "causes",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "Those things to me, communication, super important, analytical ability, really, really important. The ability to look at a, especially if you're doing something that has a user experience component, the ability to look at that and understand if it's going to work and build up intuition around that, also really important. Those are things that I would see as sort of basics of the role. These are the things that make you great at the role and strategy to me, and hopefully we'll talk about strategy in a bit. It's one tiny slice. You do a strategy, but it's 5% of the work that you do.",
+    "text": "Those things to me, communication, super important, analytical ability, really, really important.",
     "speaker": "Maggie Crowley",
     "timestamp": "00:09:33",
     "context": "Lenny points out that Maggie's three traits for great PMs are different from the typical answers people give (communication, collaboration, vision, strategy). Maggie responds by distinguishing between what she considers the basics of being a PM versus what makes someone truly great at the role. She argues that while skills like communication and analytical thinking are important fundamentals, her three traits are what separate good PMs from great ones.",
     "vocabulary_highlights": [
-      "build up intuition",
-      "sort of basics",
-      "one tiny slice"
+      "analytical ability",
+      "communication",
+      "collaboration",
+      "strategy"
     ],
     "topics": [
       "Product Management",
@@ -103,18 +288,79 @@
     "text_ko": "저한테는 그런 것들, 커뮤니케이션(communication)이 되게 중요하고 분석 능력(analytical ability)도 정말, 정말 중요해요. 특히 사용자 경험(user experience)이 관련된 일을 한다면 그걸 보고 잘 작동할지 판단하고 그에 대한 직관을 쌓는 능력도 정말 중요해요. 저는 이런 것들을 역할의 기본이라고 봐요. 이런 것들이 그 역할에서 훌륭하게 만들어주고요, 전략(strategy)은 제게 아주 작은 한 조각이에요 — 조금 있다가 전략에 대해서도 얘기하겠지만요. 전략을 한다고 해도 전체 일의 약 5% 정도에 불과해요.",
     "text_zh": "在我看来，沟通能力，超级重要，分析能力，真的真的很重要。还有就是判断能力，特别是如果你做的事情涉及用户体验的话，你得能看出来这个东西行不行得通，慢慢培养这方面的直觉，这个也特别关键。这些我觉得都是这个岗位的基本功。真正让你在这个岗位上做得出色的，还有战略思维，希望我们待会儿能聊聊战略这块儿。其实战略只是很小的一部分。你是要做战略规划，但这可能只占你工作的5%。",
     "text_es": "Para mí, la comunicación es súper importante, la capacidad analítica también es clave, de verdad. La habilidad de ver algo, sobre todo si estás trabajando en algo que tiene componente de experiencia del usuario (user experience), poder analizarlo y entender si va a funcionar y desarrollar intuición al respecto, eso también es fundamental. Esas son cosas que yo veo como los básicos del puesto. Estas son las cosas que te hacen destacar en el rol, y la estrategia para mí - y ojalá podamos hablar de estrategia en un rato - es solo una pequeña parte. Sí, haces estrategia, pero es el 5% del trabajo que realizas.",
-    "key_sentence": "Communication and analytical ability are sort of basics that make you great at the role."
+    "key_sentence": "communication, super important, analytical ability, really, really important.",
+    "text_trimmed": true,
+    "original_text": "Those things to me, communication, super important, analytical ability, really, really important. The ability to look at a, especially if you're doing something that has a user experience component, the ability to look at that and understand if it's going to work and build up intuition around that, also really important. Those are things that I would see as sort of basics of the role. These are the things that make you great at the role and strategy to me, and hopefully we'll talk about strategy in a bit. It's one tiny slice. You do a strategy, but it's 5% of the work that you do.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "analytical ability",
+        "definition": "The capacity to systematically evaluate information, identify patterns, and draw logical conclusions based on data analysis.",
+        "businessContext": "In business and technology, analytical ability is crucial for problem-solving, decision-making, and optimizing processes based on quantitative insights.",
+        "nuance": "This term often implies a strong logical reasoning skill and is typically used in contexts where data-driven decision-making is emphasized.",
+        "synonyms": [
+          "critical thinking",
+          "data analysis"
+        ],
+        "antonyms": [
+          "impulsive thinking",
+          "N/A"
+        ]
+      },
+      {
+        "word": "communication",
+        "definition": "The act of conveying information effectively through verbal, non-verbal, or written means to ensure understanding between parties.",
+        "businessContext": "Effective communication is vital in business environments for team collaboration, client relations, and stakeholder engagement, impacting overall organizational success.",
+        "nuance": "While it generally refers to the exchange of information, it can also imply the quality and clarity of that exchange, making it essential to distinguish between mere transmission and effective communication.",
+        "synonyms": [
+          "interaction",
+          "discourse"
+        ],
+        "antonyms": [
+          "miscommunication",
+          "silence"
+        ]
+      },
+      {
+        "word": "collaboration",
+        "definition": "The process of working jointly with others to achieve a common goal or complete a task, often leveraging diverse skills and perspectives.",
+        "businessContext": "In startups and tech companies, collaboration fosters innovation and accelerates project completion by combining the strengths of team members across various disciplines.",
+        "nuance": "Collaboration often implies a cooperative effort that values input from all participants, distinguishing it from mere coordination or teamwork.",
+        "synonyms": [
+          "cooperation",
+          "partnership"
+        ],
+        "antonyms": [
+          "isolation",
+          "N/A"
+        ]
+      },
+      {
+        "word": "strategy",
+        "definition": "A comprehensive plan designed to achieve specific long-term objectives by outlining the necessary actions and resources required.",
+        "businessContext": "In business, strategy is essential for guiding decision-making, resource allocation, and competitive positioning in the market.",
+        "nuance": "The term often conveys a sense of foresight and planning, and is typically used in contexts where long-term vision and adaptability are critical.",
+        "synonyms": [
+          "tactics",
+          "plan"
+        ],
+        "antonyms": [
+          "improvisation",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "The one I like to have in this area is that people who are really excited about being data-driven, to me that is oftentimes a red flag for their product thinking, especially if it's an executive who's saying things like, oh, so we make all our decisions with our dashboards. To me that says that the team is over-emphasizing quantitative data at the expense of qualitative data and they're not using good judgment. They probably don't do a lot of direct user research. They don't really understand the humans who are using the thing, what they need, what they care about, and they're managing via a dashboard.",
+    "text": "People who are really excited about being data-driven... that says that the team is over-emphasizing quantitative data at the expense of qualitative data... they probably don't do a lot of direct user research... they don't really understand the humans who are using the thing.",
     "speaker": "Maggie Crowley",
     "timestamp": "00:58:16",
     "context": "Lenny asks Maggie about contrarian opinions she holds about product management. Maggie shares her view that when people or executives emphasize being 'data-driven,' it often signals poor product thinking. She explains that this typically means teams are over-relying on quantitative metrics while neglecting qualitative insights from user research and losing touch with the actual humans using their products.",
     "vocabulary_highlights": [
-      "red flag",
+      "data-driven",
       "over-emphasizing",
-      "at the expense of",
-      "managing via a dashboard"
+      "qualitative data",
+      "user research"
     ],
     "topics": [
       "Product Management",
@@ -130,17 +376,79 @@
     "text_ko": "이 분야에서 제가 특히 신경 쓰이는 건, 스스로를 '데이터 기반(data-driven)'이라고 너무 열성적으로 얘기하는 사람들이에요. 개인적으로 그런 태도는 제품 사고(product thinking)에 대해 자주 레드 플래그라고 생각해요. 특히 임원(executive)들이 \"우리는 모든 결정을 대시보드(dashboard)로 내린다\"고 말하면 더더욱요. 제겐 그게 팀이 정성 데이터(qualitative data)를 희생하면서 정량 데이터(quantitative data)만 과도하게 신뢰하고 있고, 제대로 된 판단을 못 하고 있다는 신호로 들려요. 아마 직접 사용자 리서치(direct user research)를 많이 안 하고, 실제로 그걸 쓰는 사람들—그들이 무엇을 필요로 하고, 무엇을 중요하게 여기는지—을 잘 이해하지 못하는 경우가 많아요. 대신 대시보드(dashboard)로 관리하고 있는 거죠.",
     "text_zh": "我在这方面有个观点，就是那些特别热衷于说自己是\"数据驱动\"的人，在我看来这往往是他们产品思维有问题的一个危险信号，特别是当高管说\"哎呀，我们所有决策都是看仪表板(dashboard)做的\"这种话的时候。这种说法在我听来就是团队过分看重定量数据，忽略了定性数据，而且缺乏判断力。他们可能很少做直接的用户研究，根本不了解使用产品的真实用户——不知道用户需要什么，在意什么，完全就是对着仪表板在做管理。",
     "text_es": "Lo que me gusta mencionar en este tema es que cuando alguien está súper emocionado por ser \"data-driven\", para mí eso muchas veces es una bandera roja en cuanto a su forma de pensar el producto, especialmente si es un ejecutivo que dice cosas como \"ah, nosotros tomamos todas nuestras decisiones con nuestros dashboards\". Para mí eso significa que el equipo le está dando demasiada importancia a los datos cuantitativos y está dejando de lado los datos cualitativos, y no están usando buen criterio. Probablemente no hacen mucha investigación directa con usuarios. Realmente no entienden a las personas que están usando el producto, qué necesitan, qué les importa, y están gestionando todo desde un dashboard.",
-    "key_sentence": "A red flag arises when teams over-emphasize quantitative data at the expense of qualitative."
+    "key_sentence": "the team is over-emphasizing quantitative data at the expense of qualitative data",
+    "text_trimmed": true,
+    "original_text": "The one I like to have in this area is that people who are really excited about being data-driven, to me that is oftentimes a red flag for their product thinking, especially if it's an executive who's saying things like, oh, so we make all our decisions with our dashboards. To me that says that the team is over-emphasizing quantitative data at the expense of qualitative data and they're not using good judgment. They probably don't do a lot of direct user research. They don't really understand the humans who are using the thing, what they need, what they care about, and they're managing via a dashboard.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "data-driven",
+        "definition": "Based on the analysis and interpretation of data rather than intuition or personal experience.",
+        "businessContext": "In business and tech, being data-driven implies making decisions grounded in quantitative analysis to enhance performance and outcomes.",
+        "nuance": "While being data-driven is generally seen as a positive approach, it can imply a neglect of qualitative insights if not balanced properly.",
+        "synonyms": [
+          "data-informed",
+          "evidence-based"
+        ],
+        "antonyms": [
+          "intuitive",
+          "subjective"
+        ]
+      },
+      {
+        "word": "over-emphasizing",
+        "definition": "Placing excessive importance or focus on a particular aspect, often to the detriment of other elements.",
+        "businessContext": "In a business context, over-emphasizing certain data types can lead to skewed decision-making and a lack of holistic understanding.",
+        "nuance": "This term often carries a negative connotation, suggesting that balance is necessary for effective analysis.",
+        "synonyms": [
+          "overstating",
+          "exaggerating"
+        ],
+        "antonyms": [
+          "understating",
+          "downplaying"
+        ]
+      },
+      {
+        "word": "qualitative data",
+        "definition": "Information that is descriptive and conceptual, often collected through interviews, observations, and open-ended surveys.",
+        "businessContext": "Qualitative data is crucial in understanding user experiences and motivations, providing context that quantitative data alone cannot offer.",
+        "nuance": "While qualitative data is invaluable for insights, it can be seen as less rigorous than quantitative data, which may lead to its undervaluation in certain analyses.",
+        "synonyms": [
+          "descriptive data",
+          "narrative data"
+        ],
+        "antonyms": [
+          "quantitative data",
+          "numerical data"
+        ]
+      },
+      {
+        "word": "user research",
+        "definition": "The systematic study of target users to understand their needs, behaviors, and experiences with a product or service.",
+        "businessContext": "User research is essential in product development and marketing, as it informs design decisions and enhances user satisfaction.",
+        "nuance": "While user research is critical for user-centric design, it can sometimes be overlooked in favor of faster, data-driven approaches.",
+        "synonyms": [
+          "user testing",
+          "customer research"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "Really if you're going to make good content, you have to sanitize and frameworkize the thing that you're working on. And then slowly, I think for a lot of people who are reading it and looking at it, their thinking starts to become, well look how well I did this framework. Look how well I implemented this thing. And they lose touch with the point which is creating impact. And so all of this content makes it really noisy and then makes people think that, oh, if I just do these things that I'll get what I want.",
+    "text": "Really if you're going to make good content, you have to sanitize and frameworkize the thing that you're working on.",
     "speaker": "Maggie Crowley",
     "timestamp": "01:00:58",
     "context": "Lenny asks Maggie about her contrarian opinions on product content, which is relevant since they both create content about product management. Maggie explains how creating good content requires distilling complex work into clean frameworks, but this can mislead readers into thinking that following frameworks is the goal rather than creating actual business impact. She argues this creates noise in the product management field.",
     "vocabulary_highlights": [
-      "sanitize and frameworkize",
-      "lose touch with",
-      "makes it really noisy"
+      "sanitize",
+      "frameworkize",
+      "distill",
+      "content"
     ],
     "topics": [
       "Product Management",
@@ -156,6 +464,67 @@
     "text_ko": "정말 좋은 콘텐츠를 만들려면 작업 중인 내용을 정제(sanitize)하고 프레임화(frameworkize)해야 해요. 그러고 나면 그걸 읽고 보는 많은 사람들은 점점 “봐, 내가 이 프레임(framework)을 얼마나 잘 만들었는지”, “내가 이걸 얼마나 잘 구현했는지”라는 식으로 생각하기 시작해요. 그리고 정작 중요한, 즉 영향력(impact)을 만드는 것과는 점점 멀어져요. 결국 이런 콘텐츠들이 넘쳐나면서 잡음만 커지고, 사람들은 “아, 이걸 그냥 따라하면 내가 원하는 걸 얻을 수 있겠네”라고 생각하게 되는 거예요.",
     "text_zh": "说实话，要做出好内容的话，你得把你在做的事情先梳理清楚，搭个框架出来。然后慢慢地，我觉得很多人看了这些内容之后，思维就变成了\"你看我这个框架用得多好，你看我执行得多到位\"。结果就忘了最核心的点——创造影响力。所以这些内容就变得特别嘈杂，让人觉得\"哦，我只要照着这些步骤做就能得到我想要的结果了\"。",
     "text_es": "Mira, si de verdad quieres crear buen contenido, tienes que limpiar y estructurar lo que estás trabajando con algún marco de trabajo (framework). Y después, poco a poco, creo que mucha gente que lo lee y lo ve empieza a pensar: \"qué bien que apliqué este marco, qué bien que implementé esto.\" Y se les olvida el punto principal, que es generar impacto real. Entonces todo este contenido genera mucho ruido y hace que la gente piense que si simplemente hacen estas cosas van a conseguir lo que quieren.",
-    "key_sentence": "Sanitize and frameworkize content, but don't lose touch with creating impact."
+    "key_sentence": "you have to sanitize and frameworkize the thing that you're working on.",
+    "text_trimmed": true,
+    "original_text": "Really if you're going to make good content, you have to sanitize and frameworkize the thing that you're working on. And then slowly, I think for a lot of people who are reading it and looking at it, their thinking starts to become, well look how well I did this framework. Look how well I implemented this thing. And they lose touch with the point which is creating impact. And so all of this content makes it really noisy and then makes people think that, oh, if I just do these things that I'll get what I want.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "sanitize",
+        "definition": "To make something clean and free from harmful substances or elements, often by removing or altering undesirable aspects.",
+        "businessContext": "In business and tech, sanitizing often refers to refining data or content to ensure it is appropriate, secure, and compliant with regulations before sharing or publishing.",
+        "nuance": "While 'sanitize' generally has a positive connotation of improving safety or quality, it can imply that the original content was flawed or problematic.",
+        "synonyms": [
+          "cleanse",
+          "purify"
+        ],
+        "antonyms": [
+          "contaminate",
+          "pollute"
+        ]
+      },
+      {
+        "word": "frameworkize",
+        "definition": "To create or establish a structured framework or system around a concept, project, or process to enhance clarity and organization.",
+        "businessContext": "In startup environments, frameworkizing is crucial for developing methodologies that guide project execution and decision-making, ensuring consistency and efficiency.",
+        "nuance": "This term is often used informally and may be seen as jargon; it suggests a proactive approach to structuring ideas or processes.",
+        "synonyms": [
+          "structure",
+          "systematize"
+        ],
+        "antonyms": [
+          "disorganize",
+          "chaos"
+        ]
+      },
+      {
+        "word": "distill",
+        "definition": "To extract the essential elements or most important aspects of something, often simplifying complex information into a more understandable form.",
+        "businessContext": "In business, distilling information is vital for creating concise reports, presentations, or strategies that communicate key insights effectively to stakeholders.",
+        "nuance": "Distilling carries a connotation of refinement and clarity, suggesting that the original material was complex or dense and needed simplification.",
+        "synonyms": [
+          "extract",
+          "summarize"
+        ],
+        "antonyms": [
+          "complicate",
+          "confuse"
+        ]
+      },
+      {
+        "word": "content",
+        "definition": "The information, material, or subject matter presented in various forms, such as text, images, or videos, intended for consumption by an audience.",
+        "businessContext": "In the digital landscape, content is a critical asset for marketing, branding, and engagement strategies, driving customer interaction and loyalty.",
+        "nuance": "While 'content' is a neutral term, it can imply varying levels of quality and relevance, depending on the context in which it is used.",
+        "synonyms": [
+          "material",
+          "information"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   }
 ]

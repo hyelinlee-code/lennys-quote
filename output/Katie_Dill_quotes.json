@@ -1,14 +1,14 @@
 [
   {
-    "text": "The use of the word beauty in books that have been digitized by Google has decreased, like pretty dramatically. And it's aligned with this idea of, \"Well, functionality is king. Functionality is what matters.\" As if people think about functionality and beauty as like two opposite things. No, they're not two opposite things. Functionality is important. And actually beauty enhances functionality because it does make things easier to use, more approachable, more compelling to use.",
+    "text": "The use of the word beauty in books that have been digitized by Google has decreased, like pretty dramatically. And it's aligned with this idea of, \"Well, functionality is king.",
     "speaker": "Katie Dill",
     "timestamp": "00:00:00",
     "context": "Lenny asks Katie about the importance of beauty in product design and whether it's just subjective opinion or has objective value. Katie references research from Stefan Sagmeister and Jessica Walsh's book that shows the word \"beauty\" has declined in usage over the past 200 years as people have come to see functionality and beauty as opposing forces. Katie argues that this is a false dichotomy - functionality and beauty actually work together to create better user experiences.",
     "vocabulary_highlights": [
-      "pretty dramatically",
-      "as if",
-      "two opposite things",
-      "more compelling"
+      "aligned",
+      "functionality",
+      "subjective",
+      "objective"
     ],
     "topics": [
       "Product Management",
@@ -24,16 +24,79 @@
     "text_ko": "구글이 디지털화한 책들에서 'beauty'라는 단어 사용이 꽤 확 줄었어요. 그리고 이건 ‘기능성(functionality)이 최고다’라는 생각과 맞물려 있어요. 사람들은 기능성(functionality)과 아름다움(beauty)을 마치 서로 반대되는 것처럼 생각하는데, 전혀 그렇지 않아요. 기능성은 중요하지만, 사실 아름다움은 기능성을 더 잘 살려줘요 — 보기 좋으면 사용하기도 더 쉽고, 부담 없이 다가갈 수 있고, 더 쓰고 싶게 만들거든요.",
     "text_zh": "在谷歌数字化的那些书里，\"美\"这个词的使用频率下降得特别厉害。这跟现在大家的想法很吻合，就是\"功能为王，功能才是最重要的\"。好像大家都觉得功能和美观是两个对立的东西。其实不是的，它们根本不对立。功能确实重要，但美观其实是能提升功能的，因为它真的能让东西更好用、更容易上手、更有吸引力。",
     "text_es": "Fíjate que el uso de la palabra \"belleza\" en los libros digitalizados por Google ha bajado muchísimo, de manera súper drástica. Y esto va de la mano con esa mentalidad de \"bueno, la funcionalidad es lo que manda. La funcionalidad es lo único que importa.\" Como si la gente pensara que la funcionalidad y la belleza son dos cosas totalmente opuestas. No, para nada son opuestas. La funcionalidad es importante, claro. Pero la belleza en realidad potencia la funcionalidad porque hace que las cosas sean más fáciles de usar, más accesibles, más atractivas para el usuario.",
-    "key_sentence": "Beauty enhances functionality; they're not two opposite things."
+    "key_sentence": "functionality is king.",
+    "text_trimmed": true,
+    "original_text": "The use of the word beauty in books that have been digitized by Google has decreased, like pretty dramatically. And it's aligned with this idea of, \"Well, functionality is king. Functionality is what matters.\" As if people think about functionality and beauty as like two opposite things. No, they're not two opposite things. Functionality is important. And actually beauty enhances functionality because it does make things easier to use, more approachable, more compelling to use.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "aligned",
+        "definition": "In agreement or cooperation with a particular goal or standard.",
+        "businessContext": "In business settings, 'aligned' often refers to ensuring that team objectives, strategies, or values are in harmony with the overall mission of the organization.",
+        "nuance": "While 'aligned' suggests a positive coordination, it can imply a lack of independent thought or creativity if overused.",
+        "synonyms": [
+          "coordinated",
+          "harmonized"
+        ],
+        "antonyms": [
+          "disaligned",
+          "divergent"
+        ]
+      },
+      {
+        "word": "functionality",
+        "definition": "The range of operations that can be performed by a system or product; its practical utility.",
+        "businessContext": "In tech and startup environments, 'functionality' is crucial as it determines how effectively a product meets user needs and drives customer satisfaction.",
+        "nuance": "While 'functionality' emphasizes practical use, it can sometimes overshadow aesthetic or emotional aspects of a product.",
+        "synonyms": [
+          "capability",
+          "utility"
+        ],
+        "antonyms": [
+          "inutility",
+          "ineffectiveness"
+        ]
+      },
+      {
+        "word": "subjective",
+        "definition": "Based on personal opinions, interpretations, feelings, or beliefs rather than external facts.",
+        "businessContext": "In business, 'subjective' assessments can influence decision-making, particularly in areas like marketing, branding, and customer feedback, where personal perceptions play a significant role.",
+        "nuance": "While 'subjective' acknowledges individual perspectives, it can also imply a lack of objectivity, which may lead to biased conclusions.",
+        "synonyms": [
+          "personal",
+          "individual"
+        ],
+        "antonyms": [
+          "objective",
+          "impartial"
+        ]
+      },
+      {
+        "word": "objective",
+        "definition": "Not influenced by personal feelings or opinions; based on observable phenomena and facts.",
+        "businessContext": "In business analysis and decision-making, 'objective' criteria are essential for ensuring fair evaluations and assessments, particularly in performance reviews and market research.",
+        "nuance": "While 'objective' suggests impartiality, it can sometimes overlook the human element in decision-making processes.",
+        "synonyms": [
+          "unbiased",
+          "fact-based"
+        ],
+        "antonyms": [
+          "subjective",
+          "biased"
+        ]
+      }
+    ]
   },
   {
-    "text": "And the other piece of it that is not talked about in business as often is just the importance of how people feel. Things that are more beautiful, increase trust. You see that we've put painstaking detail into this, and we care about the details of how something works, and that gives you assurance that we care about other details that you can't see too.",
+    "text": "And the other piece of it that is not talked about in business as often is just the importance of how people feel. Things that are more beautiful, increase trust.",
     "speaker": "Katie Dill",
     "timestamp": "00:00:32",
     "context": "Katie continues explaining why beauty matters in business products, particularly in B2B contexts. She argues that beautiful design signals quality and trustworthiness to users. When customers see that a company has invested painstaking effort in the visible details of their product, it creates confidence that the same level of care has been applied to the technical details they cannot see.",
     "vocabulary_highlights": [
-      "painstaking detail",
-      "gives you assurance"
+      "importance",
+      "trust",
+      "quality",
+      "design"
     ],
     "topics": [
       "Product Management",
@@ -49,7 +112,68 @@
     "text_ko": "비즈니스에서는 잘 얘기되지 않는 또 하나가 사람들이 어떻게 느끼는지의 중요성이에요. 보기 좋은 것들은 신뢰를 높여줘요. 여기에 얼마나 공들여 세심한 디테일을 담았는지를 보면 우리가 작동 방식 같은 세부사항까지 신경 쓴다는 걸 느끼게 되고, 그게 눈에 보이지 않는 다른 부분들도 신경 쓰고 있을 거라는 안심이 돼요.",
     "text_zh": "还有一点在商界讨论得不够多的，就是人的感受有多重要。越美的东西，越能增加信任感。你看到我们在这上面下了很大功夫，我们很在意每个细节怎么呈现，这样你就能放心，那些你看不到的地方，我们同样也很用心。",
     "text_es": "Y la otra parte que no se menciona tanto en los negocios es simplemente lo importante que es cómo se siente la gente. Las cosas que son más hermosas generan más confianza. Cuando ves que le hemos puesto un cuidado extremo a los detalles, que nos importa cómo funciona cada cosa, eso te da la seguridad de que también nos preocupamos por otros detalles que no puedes ver.",
-    "key_sentence": "Painstaking detail gives you assurance of care."
+    "key_sentence": "the importance of how people feel.",
+    "text_trimmed": true,
+    "original_text": "And the other piece of it that is not talked about in business as often is just the importance of how people feel. Things that are more beautiful, increase trust. You see that we've put painstaking detail into this, and we care about the details of how something works, and that gives you assurance that we care about other details that you can't see too.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "importance",
+        "definition": "The state or fact of being of great significance or value.",
+        "businessContext": "In business, understanding the importance of various factors, such as employee satisfaction or customer feedback, can drive strategic decisions and enhance overall performance.",
+        "nuance": "While 'importance' conveys a general sense of value, it can imply varying degrees of urgency or priority depending on the context.",
+        "synonyms": [
+          "significance",
+          "value"
+        ],
+        "antonyms": [
+          "insignificance",
+          "triviality"
+        ]
+      },
+      {
+        "word": "trust",
+        "definition": "A firm belief in the reliability, truth, or ability of someone or something.",
+        "businessContext": "In the business world, trust is essential for building strong relationships with clients, partners, and employees, often influencing brand loyalty and collaboration.",
+        "nuance": "Trust can be fragile and is built over time; it is crucial to maintain transparency and consistency to foster it effectively.",
+        "synonyms": [
+          "confidence",
+          "faith"
+        ],
+        "antonyms": [
+          "distrust",
+          "suspicion"
+        ]
+      },
+      {
+        "word": "quality",
+        "definition": "The standard of something as measured against other things of a similar kind; the degree of excellence.",
+        "businessContext": "In a competitive market, the quality of products or services can be a key differentiator that influences consumer choice and brand reputation.",
+        "nuance": "Quality often implies a level of superiority and can be subjective; it is important to define clear metrics for assessment in a business context.",
+        "synonyms": [
+          "excellence",
+          "caliber"
+        ],
+        "antonyms": [
+          "inferiority",
+          "mediocrity"
+        ]
+      },
+      {
+        "word": "design",
+        "definition": "The process of creating a plan or convention for the construction of an object or a system.",
+        "businessContext": "In business, design encompasses not only the aesthetic aspects of products but also user experience and functionality, playing a critical role in product development and marketing.",
+        "nuance": "Design can refer to both the visual and functional aspects of a product; it is essential to consider user needs and preferences in the design process.",
+        "synonyms": [
+          "plan",
+          "blueprint"
+        ],
+        "antonyms": [
+          "disorganization",
+          "chaos"
+        ]
+      }
+    ]
   },
   {
     "text": "The gravitational pull is to mediocrity. It is very easy to fall into a path of a baseline, where what is required to go to that next level where something feels truly great is certainly a lot of effort, and it's a concerted effort.",
@@ -57,8 +181,10 @@
     "timestamp": "00:26:45",
     "context": "Lenny asks Katie about how teams can operationalize quality and maintain high design standards. Katie explains one of the core challenges in maintaining quality - that there's a natural tendency for teams and products to drift toward mediocre, baseline solutions because achieving true greatness requires sustained, coordinated effort from multiple people and teams working together intentionally.",
     "vocabulary_highlights": [
-      "gravitational pull",
-      "concerted effort"
+      "mediocrity",
+      "baseline",
+      "concerted effort",
+      "operationalize"
     ],
     "topics": [
       "Leadership & Management",
@@ -74,16 +200,77 @@
     "text_ko": "사람들은 평범함으로 끌리는 중력 같은 게 있어요. 기준선(baseline)에 머무는 길로 빠지는 건 정말 쉽고, 다음 단계로 올라가서 진짜 훌륭하다고 느껴질 수준에 닿으려면 확실히 많은 노력, 특히 의도적이고 집중적인 노력이 필요해요.",
     "text_zh": "人都容易向平庸靠拢，这就像地心引力一样。很容易就走上了一条得过且过的路，但要想上一个台阶，做出真正出色的东西，那就需要付出很大的努力，而且必须是持续的、有目标的努力。",
     "text_es": "La tendencia natural es hacia la mediocridad. Es muy fácil caer en una zona de confort donde haces lo mínimo, y para llegar a ese siguiente nivel donde realmente sientes que algo está increíble, pues requiere mucho esfuerzo, y tiene que ser un esfuerzo constante y enfocado.",
-    "key_sentence": "The gravitational pull leads to mediocrity; concerted effort is needed."
+    "key_sentence": "The gravitational pull leads to mediocrity; concerted effort is needed.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "mediocrity",
+        "definition": "Mediocrity refers to the state of being average or unremarkable, often implying a lack of excellence or quality. It suggests a complacency in performance or achievement.",
+        "businessContext": "In business, mediocrity can hinder innovation and growth, as organizations may settle for satisfactory results rather than striving for exceptional performance.",
+        "nuance": "While mediocrity can be seen as a safe or comfortable position, it often carries a negative connotation, suggesting a failure to reach one's full potential.",
+        "synonyms": [
+          "average",
+          "ordinariness"
+        ],
+        "antonyms": [
+          "excellence",
+          "superiority"
+        ]
+      },
+      {
+        "word": "baseline",
+        "definition": "A baseline is a standard or reference point used for comparison, often established to measure progress or performance over time. It serves as a foundation for evaluating changes or improvements.",
+        "businessContext": "In project management and performance analysis, establishing a baseline is crucial for tracking outcomes and determining the effectiveness of strategies or interventions.",
+        "nuance": "While a baseline is essential for measurement, it can also imply a minimum standard that may not inspire ambition or growth if adhered to rigidly.",
+        "synonyms": [
+          "benchmark",
+          "reference point"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "concerted effort",
+        "definition": "A concerted effort refers to a coordinated and collaborative approach to achieving a specific goal, involving multiple parties working together towards a common objective. It emphasizes teamwork and shared commitment.",
+        "businessContext": "In business, a concerted effort is often necessary for successful project execution, requiring alignment among various departments or stakeholders to drive results effectively.",
+        "nuance": "The term conveys a sense of urgency and importance, suggesting that individual efforts alone are insufficient to achieve the desired outcome.",
+        "synonyms": [
+          "coordinated effort",
+          "collaborative effort"
+        ],
+        "antonyms": [
+          "individual effort",
+          "disjointed effort"
+        ]
+      },
+      {
+        "word": "operationalize",
+        "definition": "To operationalize means to put a concept or plan into practical operation or to make it actionable, often by defining specific steps or processes. It involves translating theoretical ideas into real-world applications.",
+        "businessContext": "In business strategy, operationalizing goals is critical for ensuring that abstract objectives are effectively implemented through actionable plans and measurable outcomes.",
+        "nuance": "This term is often used in contexts where clarity and specificity are required, as it emphasizes the transition from theory to practice.",
+        "synonyms": [
+          "implement",
+          "execute"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "Performance equals potential minus interference. And I really like this, it's pretty simple, but it's a good reminder that, as a leader, one of the things that you are of course driving towards is trying to get better performance so that your team feels more purpose and motivation and is excited about their work and that you're building greater things for your customers and you're having more business effect, and, of course, performance.",
+    "text": "Performance equals potential minus interference.",
     "speaker": "Katie Dill",
     "timestamp": "00:55:10",
     "context": "Lenny asks Katie about lessons she's learned from scaling design teams at multiple hypergrowth companies. Katie shares a formula she learned at Airbnb that has guided her leadership approach: Performance = Potential - Interference. She explains that leaders can improve team performance in two ways: increasing potential through hiring great people and developing talent, and decreasing interference by removing obstacles that prevent great people from doing their best work.",
     "vocabulary_highlights": [
-      "driving towards",
-      "business effect"
+      "performance",
+      "potential",
+      "interference",
+      "scaling"
     ],
     "topics": [
       "Leadership & Management",
@@ -99,17 +286,79 @@
     "text_ko": "성과(Performance)는 잠재력(Potential)에서 방해(Interference)를 뺀 것이라고 해요. 저는 이 말이 정말 좋아요. 꽤 단순하지만, 리더로서 늘 떠올려야 할 좋은 리마인더예요. 리더로서 하는 일 중 하나는 성과를 끌어올려서 팀이 더 큰 목적의식과 동기부여를 느끼고 일에 열정을 갖게 하는 거예요. 그래야 고객을 위해 더 큰 가치를 만들고 비즈니스 효과(business effect)를 내고, 결국 성과(Performance)가 좋아지는 거죠.",
     "text_zh": "表现等于潜力减去干扰因素。我特别认同这个观点，道理很简单，但很值得我们领导者时刻提醒自己——我们当然都在努力提升团队表现，让团队成员更有使命感和动力，对工作更有激情，这样才能为客户创造更大价值，产生更大的商业影响力，最终提升整体表现。",
     "text_es": "El rendimiento es igual al potencial menos las interferencias. Y esto me gusta mucho, es bastante sencillo, pero es un buen recordatorio de que, como líder, una de las cosas hacia las que obviamente te enfocas es tratar de conseguir mejor rendimiento para que tu equipo sienta más propósito y motivación, y se emocione con su trabajo, y para que estés construyendo cosas más grandes para tus clientes y tengas mayor impacto en el negocio, y, por supuesto, mejor rendimiento.",
-    "key_sentence": "Leaders are driving towards better performance for greater business effect."
+    "key_sentence": "Performance equals potential minus interference.",
+    "text_trimmed": true,
+    "original_text": "Performance equals potential minus interference. And I really like this, it's pretty simple, but it's a good reminder that, as a leader, one of the things that you are of course driving towards is trying to get better performance so that your team feels more purpose and motivation and is excited about their work and that you're building greater things for your customers and you're having more business effect, and, of course, performance.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "performance",
+        "definition": "The execution of a task or the ability to achieve results effectively and efficiently.",
+        "businessContext": "In business, performance often refers to how well an organization, team, or individual meets established goals and objectives, frequently measured through key performance indicators (KPIs).",
+        "nuance": "While 'performance' can imply a high level of achievement, it may also suggest a need for improvement when used in contexts of evaluation.",
+        "synonyms": [
+          "efficacy",
+          "output"
+        ],
+        "antonyms": [
+          "failure",
+          "ineffectiveness"
+        ]
+      },
+      {
+        "word": "potential",
+        "definition": "The inherent ability or capacity for growth, development, or future success.",
+        "businessContext": "In a business context, potential often refers to the untapped capabilities of employees, markets, or products that could lead to significant advancements or profits if properly harnessed.",
+        "nuance": "The term 'potential' carries a positive connotation, suggesting optimism about future possibilities, but can also imply that current performance is lacking.",
+        "synonyms": [
+          "capability",
+          "possibility"
+        ],
+        "antonyms": [
+          "limitation",
+          "inability"
+        ]
+      },
+      {
+        "word": "interference",
+        "definition": "The act of hindering or obstructing progress or development.",
+        "businessContext": "In the business realm, interference can refer to factors that disrupt workflow, such as bureaucratic processes, external market conditions, or internal conflicts that impede productivity.",
+        "nuance": "Interference often has a negative connotation, suggesting unwanted or unnecessary obstacles that detract from efficiency and effectiveness.",
+        "synonyms": [
+          "obstruction",
+          "hindrance"
+        ],
+        "antonyms": [
+          "facilitation",
+          "support"
+        ]
+      },
+      {
+        "word": "scaling",
+        "definition": "The process of increasing the size, capacity, or scope of a business or system to accommodate growth.",
+        "businessContext": "In startups and technology, scaling refers to the ability to grow the business model efficiently without compromising performance, often involving the optimization of resources and processes.",
+        "nuance": "Scaling implies not just growth, but sustainable and strategic expansion, and is often discussed in the context of startups seeking to maximize their market presence.",
+        "synonyms": [
+          "expansion",
+          "growth"
+        ],
+        "antonyms": [
+          "contraction",
+          "reduction"
+        ]
+      }
+    ]
   },
   {
-    "text": "One of the biggest examples that I've seen of business impact through quality is actually in the checkout experience. We've done research on the checkout experience in some of the top e-commerce sites. We found that 99% of the top e-commerce sites have errors in their checkout flow that actually hinder more impactful, more seamless, quicker checkout, and therefore higher conversion with their customers.",
+    "text": "One of the biggest examples that I've seen of business impact through quality is actually in the checkout experience. We've done research on the checkout experience in some of the top e-commerce sites.",
     "speaker": "Katie Dill",
     "timestamp": "00:16:08",
     "context": "Lenny asks Katie about making the ROI case for design quality versus just shipping new features quickly. Katie provides a concrete example from Stripe's work on checkout experiences. She explains that Stripe researched major e-commerce sites and discovered that nearly all of them had quality issues in their checkout flows that were actually hurting their business metrics. By fixing these design quality issues, businesses saw measurable improvements in conversion rates.",
     "vocabulary_highlights": [
-      "hinder",
-      "more seamless",
-      "higher conversion"
+      "business impact",
+      "checkout experience",
+      "research",
+      "e-commerce"
     ],
     "topics": [
       "Growth & Marketing",
@@ -125,16 +374,79 @@
     "text_ko": "제가 본 품질로 인한 비즈니스 영향 사례 중 하나는 바로 결제 경험(checkout experience)이에요. 상위 이커머스 사이트들(top e-commerce sites)의 결제 경험을 조사해보니, 상위 사이트의 99%가 결제 흐름(checkout flow)에 오류가 있어서 더 효과적이고 원활하며 빠른 결제를 방해하고, 결과적으로 더 높은 전환율(conversion)을 얻지 못하고 있더라고요.",
     "text_zh": "我见过的质量对业务影响最大的例子，其实就是结账这个环节。我们研究了一些头部电商网站的结账体验，发现99%的顶级电商网站在结账流程(checkout flow)里都有问题，这些问题直接影响了用户体验，让结账变得不够顺畅、不够快，最终就是转化率(conversion)上不去。",
     "text_es": "Uno de los ejemplos más claros que he visto del impacto empresarial a través de la calidad es justamente en la experiencia de compra. Hemos hecho investigación sobre la experiencia de checkout en algunos de los sitios de e-commerce más importantes. Descubrimos que el 99% de los principales sitios de comercio electrónico tienen errores en su flujo de checkout que en realidad impiden una compra más fluida, más rápida y por lo tanto una mayor conversión con sus clientes.",
-    "key_sentence": "Errors hinder a more seamless checkout and lower higher conversion rates."
+    "key_sentence": "One of the biggest examples that I've seen of business impact through quality is actually in the checkout experience.",
+    "text_trimmed": true,
+    "original_text": "One of the biggest examples that I've seen of business impact through quality is actually in the checkout experience. We've done research on the checkout experience in some of the top e-commerce sites. We found that 99% of the top e-commerce sites have errors in their checkout flow that actually hinder more impactful, more seamless, quicker checkout, and therefore higher conversion with their customers.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "business impact",
+        "definition": "Business impact refers to the effect that a particular action, decision, or event has on a company's performance and operations. It encompasses both positive and negative outcomes that can influence revenue, reputation, and overall success.",
+        "businessContext": "In business settings, assessing business impact is crucial for decision-making, as it helps organizations prioritize initiatives that drive growth and mitigate risks.",
+        "nuance": "The term often implies a measurable outcome, making it more suitable in discussions involving data analysis or strategic planning.",
+        "synonyms": [
+          "business effect",
+          "organizational impact"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "checkout experience",
+        "definition": "Checkout experience refers to the process and user interface that a customer interacts with when finalizing a purchase in an online or physical store. It includes elements such as payment options, ease of navigation, and overall customer satisfaction.",
+        "businessContext": "In e-commerce, optimizing the checkout experience is vital for reducing cart abandonment rates and enhancing customer loyalty, as it directly influences sales conversions.",
+        "nuance": "This term emphasizes the customer's perspective and is often used in discussions about user experience (UX) design and customer journey mapping.",
+        "synonyms": [
+          "purchase process",
+          "payment experience"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "research",
+        "definition": "Research is the systematic investigation into a subject to establish facts, gather information, and develop new insights or solutions. It can be qualitative or quantitative in nature.",
+        "businessContext": "In business, research is essential for market analysis, product development, and strategic planning, as it provides the data needed to make informed decisions.",
+        "nuance": "The term often carries a connotation of rigor and thoroughness, making it more appropriate in formal contexts or when discussing academic or scientific inquiries.",
+        "synonyms": [
+          "investigation",
+          "study"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "e-commerce",
+        "definition": "E-commerce, or electronic commerce, refers to the buying and selling of goods and services over the internet. It encompasses various online transactions, including retail, wholesale, and services.",
+        "businessContext": "E-commerce has transformed traditional retail by enabling businesses to reach a global audience, streamline operations, and leverage digital marketing strategies for growth.",
+        "nuance": "While commonly associated with online retail, e-commerce also includes B2B and B2C transactions, making it a broad term that should be specified when discussing particular segments.",
+        "synonyms": [
+          "online commerce",
+          "digital commerce"
+        ],
+        "antonyms": [
+          "brick-and-mortar",
+          "traditional retail"
+        ]
+      }
+    ]
   },
   {
-    "text": "So I started to make pretty fast change and still moving in the direction that was necessary for the org to make the really large impact in how we were operating, but bringing folks along with me. You can inflict change on people, but if you want to do it with them trust is the key element there.",
+    "text": "So I started to make pretty fast change and still moving in the direction that was necessary for the org to make the really large impact in how we were operating, but bringing folks along with me.",
     "speaker": "Katie Dill",
     "timestamp": "00:08:24",
     "context": "Katie tells the story of when her design team at Airbnb staged an intervention because she hadn't earned their trust as a new leader. After receiving this difficult feedback, Katie learned that while she was making necessary changes to improve the organization, she was imposing changes on people rather than building trust first. She realized that effective change management requires bringing people along with you rather than forcing change upon them.",
     "vocabulary_highlights": [
-      "inflict change on people",
-      "bringing folks along with me"
+      "impact",
+      "operating",
+      "trust",
+      "intervention"
     ],
     "topics": [
       "Leadership & Management",
@@ -150,6 +462,67 @@
     "text_ko": "그래서 저는 꽤 빠르게 변화를 추진하기 시작했고, 조직(org)이 우리가 일하는 방식에 큰 임팩트를 주기 위해 필요한 방향으로 계속 움직였어요. 사람들을 동참시키면서요. 사람들에게 변화를 강제로 밀어붙일 수는 있지만, 그들과 함께 해내려면 신뢰(trust)가 핵심이에요.",
     "text_zh": "所以我开始快速推进变革，还是朝着组织需要的方向走，要在运营方式上产生真正大的影响，但同时也要带着大家一起。你可以强加变革给别人，但如果你想和他们一起做，信任就是关键因素。",
     "text_es": "Entonces empecé a hacer cambios bastante rápidos pero siguiendo en la dirección que necesitaba la organización para lograr un impacto realmente grande en cómo estábamos operando, pero llevándome a la gente conmigo. Puedes imponerle cambios a la gente, pero si quieres hacerlo junto con ellos, la confianza es el elemento clave ahí.",
-    "key_sentence": "Inflicting change on people lacks trust; bringing folks along builds it."
+    "key_sentence": "bringing folks along with me.",
+    "text_trimmed": true,
+    "original_text": "So I started to make pretty fast change and still moving in the direction that was necessary for the org to make the really large impact in how we were operating, but bringing folks along with me. You can inflict change on people, but if you want to do it with them trust is the key element there.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "impact",
+        "definition": "The strong effect or influence that one thing has on another.",
+        "businessContext": "In business, 'impact' often refers to the measurable effects of a strategy, decision, or initiative on an organization’s performance or market position.",
+        "nuance": "While 'impact' generally carries a positive connotation, it can also refer to negative effects, depending on the context.",
+        "synonyms": [
+          "effect",
+          "influence"
+        ],
+        "antonyms": [
+          "insignificance",
+          "irrelevance"
+        ]
+      },
+      {
+        "word": "operating",
+        "definition": "Relating to the functioning or management of a business or organization.",
+        "businessContext": "In a business context, 'operating' can refer to the day-to-day activities that keep the organization running smoothly, including processes, systems, and workflows.",
+        "nuance": "The term can imply both efficiency and effectiveness in the context of business operations, and is often used in discussions about operational improvements.",
+        "synonyms": [
+          "functioning",
+          "managing"
+        ],
+        "antonyms": [
+          "ceasing",
+          "stopping"
+        ]
+      },
+      {
+        "word": "trust",
+        "definition": "A firm belief in the reliability, truth, or ability of someone or something.",
+        "businessContext": "In business, 'trust' is crucial for building relationships with clients, partners, and employees, as it fosters collaboration and loyalty.",
+        "nuance": "While trust is generally viewed positively, it can be fragile and requires ongoing effort to maintain, especially in competitive environments.",
+        "synonyms": [
+          "confidence",
+          "faith"
+        ],
+        "antonyms": [
+          "distrust",
+          "mistrust"
+        ]
+      },
+      {
+        "word": "intervention",
+        "definition": "The act of intervening, especially to improve a situation or prevent a negative outcome.",
+        "businessContext": "In a business setting, 'intervention' can refer to strategic actions taken to address issues, improve performance, or facilitate change within an organization.",
+        "nuance": "Intervention often implies a proactive approach to problem-solving, but it can also suggest an intrusion into established processes or practices.",
+        "synonyms": [
+          "intercession",
+          "involvement"
+        ],
+        "antonyms": [
+          "neglect",
+          "abandonment"
+        ]
+      }
+    ]
   }
 ]

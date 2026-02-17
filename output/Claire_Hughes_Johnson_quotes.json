@@ -1,14 +1,14 @@
 [
   {
-    "text": "If you're not sure who the decision maker is, one, it's probably you. And I'd rather you act that way than not because you're going to slow the whole company down. Follow a process and get it done, and don't forget to actually make a decision.",
+    "text": "If you're not sure who the decision maker is, one, it's probably you. And I'd rather you act that way than not because you're going to slow the whole company down.",
     "speaker": "Claire Hughes Johnson",
     "timestamp": "00:00:00",
     "context": "Lenny asks Claire for her insights on decision-making within a company. Claire emphasizes the importance of taking initiative in decision-making, suggesting that many employees often overlook their own authority. She encourages individuals to actively engage in the decision-making process, as hesitance can hinder company progress and momentum.",
     "vocabulary_highlights": [
       "decision maker",
-      "slow the whole company down",
-      "follow a process",
-      "positive momentum"
+      "take initiative",
+      "slow down",
+      "overlook"
     ],
     "topics": [
       "Decision Making",
@@ -24,7 +24,68 @@
     "text_ko": "결정권자가 누구인지 잘 모르겠다면, 아마도 그게 당신일 거예요. 그런 역할을 하는 게 더 낫고, 그렇지 않으면 회사 전체가 느려질 거예요. 과정을 따라가고 일을 마무리 짓는 게 중요해요. 그리고 실제로 결정을 내리는 걸 잊지 마세요.",
     "text_zh": "如果你不确定谁是决策者，首先，很可能就是你。我宁愿你以决策者的身份行事，而不是不作为，因为这会拖慢整个公司的进程。遵循流程，完成任务，别忘了真正做出决策。",
     "text_es": "Si no estás seguro de quién es el tomador de decisiones, probablemente seas tú. Y prefiero que actúes como tal en lugar de no hacerlo, porque eso solo va a ralentizar a toda la empresa. Sigue un proceso, concluye y no olvides tomar una decisión.",
-    "key_sentence": "You're probably the decision maker; act to avoid slowing the whole company down."
+    "key_sentence": "You're probably the decision maker; act to avoid slowing the whole company down.",
+    "text_trimmed": true,
+    "original_text": "If you're not sure who the decision maker is, one, it's probably you. And I'd rather you act that way than not because you're going to slow the whole company down. Follow a process and get it done, and don't forget to actually make a decision.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "decision maker",
+        "definition": "A decision maker is an individual who has the authority to make choices or decisions within an organization, particularly regarding strategic directions and resource allocation.",
+        "businessContext": "In business settings, identifying the decision maker is crucial for effective communication and ensuring that proposals or solutions are presented to the right person who can approve them.",
+        "nuance": "The term often implies a level of responsibility and influence, and it is typically used in contexts where clarity about authority is needed.",
+        "synonyms": [
+          "authority figure",
+          "key stakeholder"
+        ],
+        "antonyms": [
+          "follower",
+          "N/A"
+        ]
+      },
+      {
+        "word": "take initiative",
+        "definition": "To take initiative means to act independently and proactively to address a situation or to start a project without being prompted by others.",
+        "businessContext": "In a business environment, taking initiative is highly valued as it demonstrates leadership qualities and a commitment to driving progress and innovation.",
+        "nuance": "While taking initiative is generally positive, it is important to ensure that actions align with organizational goals and do not overstep boundaries.",
+        "synonyms": [
+          "be proactive",
+          "act independently"
+        ],
+        "antonyms": [
+          "wait for instructions",
+          "N/A"
+        ]
+      },
+      {
+        "word": "slow down",
+        "definition": "To slow down means to reduce speed or pace, often in the context of work processes or decision-making.",
+        "businessContext": "In business, slowing down can refer to the need to take more time to evaluate decisions thoroughly, which can prevent hasty mistakes but may also hinder progress if overdone.",
+        "nuance": "While slowing down can be beneficial for careful consideration, it can also be perceived negatively if it leads to inefficiency or missed opportunities.",
+        "synonyms": [
+          "decelerate",
+          "pause"
+        ],
+        "antonyms": [
+          "accelerate",
+          "hasten"
+        ]
+      },
+      {
+        "word": "overlook",
+        "definition": "To overlook means to fail to notice or consider something, often resulting in a missed opportunity or error.",
+        "businessContext": "In a business context, overlooking critical details can lead to significant consequences, such as flawed strategies or unsatisfactory outcomes.",
+        "nuance": "Overlook is often used in a negative context, implying negligence or carelessness, and should be avoided when discussing thoroughness and attention to detail.",
+        "synonyms": [
+          "neglect",
+          "miss"
+        ],
+        "antonyms": [
+          "notice",
+          "acknowledge"
+        ]
+      }
+    ]
   },
   {
     "text": "If you believe that talent is everything, then your hiring process is everything. So yes, you do need to put that work in.",
@@ -32,10 +93,10 @@
     "timestamp": "00:06:20",
     "context": "Lenny inquires about the significance of the hiring process. Claire asserts that if a company's success hinges on talent, then the hiring process must be meticulously crafted and executed. She reinforces the idea that investing time and effort in refining hiring practices is essential for building a strong team and ultimately achieving company goals.",
     "vocabulary_highlights": [
-      "talent is everything",
       "hiring process",
-      "meticulously crafted",
-      "executed"
+      "significance",
+      "meticulously",
+      "crafted"
     ],
     "topics": [
       "Career Development",
@@ -51,18 +112,77 @@
     "text_ko": "재능이 전부라고 생각한다면, 채용 과정도 정말 중요해요. 그러니까 그 부분에 신경 써야 해요.",
     "text_zh": "如果你认为人才是最重要的，那么你的招聘流程就是一切。因此，确实需要在这方面下功夫。",
     "text_es": "Si crees que el talento lo es todo, entonces tu proceso de contratación es fundamental. Así que sí, necesitas dedicarle ese esfuerzo.",
-    "key_sentence": "Your hiring process must be meticulously crafted if talent is everything."
+    "key_sentence": "Your hiring process must be meticulously crafted if talent is everything.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "hiring process",
+        "definition": "The series of steps taken by an organization to attract, evaluate, and select candidates for employment.",
+        "businessContext": "In business and tech environments, a well-structured hiring process is crucial for identifying the right talent that aligns with company goals and culture.",
+        "nuance": "The term implies a systematic approach, often involving multiple stages such as screening, interviewing, and onboarding, and is typically used in discussions about improving recruitment strategies.",
+        "synonyms": [
+          "recruitment process",
+          "selection process"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "significance",
+        "definition": "The quality of being worthy of attention; importance.",
+        "businessContext": "In business discussions, understanding the significance of a decision or event can influence strategic planning and resource allocation.",
+        "nuance": "This term often carries a weight of consequence, suggesting that the matter at hand has a substantial impact on outcomes or future actions.",
+        "synonyms": [
+          "importance",
+          "relevance"
+        ],
+        "antonyms": [
+          "insignificance",
+          "triviality"
+        ]
+      },
+      {
+        "word": "meticulously",
+        "definition": "In a way that shows great attention to detail; very thoroughly.",
+        "businessContext": "Meticulously planning projects or processes in a business context can lead to higher quality outcomes and minimize errors.",
+        "nuance": "This adverb conveys a sense of care and precision, often used to highlight the importance of thoroughness in tasks that require accuracy.",
+        "synonyms": [
+          "carefully",
+          "diligently"
+        ],
+        "antonyms": [
+          "carelessly",
+          "negligently"
+        ]
+      },
+      {
+        "word": "crafted",
+        "definition": "Skillfully created or constructed with care and attention to detail.",
+        "businessContext": "In business, products, marketing materials, or strategies that are well-crafted can significantly enhance brand perception and customer engagement.",
+        "nuance": "This term often implies a level of artistry or skill, suggesting that the item or concept was not just produced, but thoughtfully designed.",
+        "synonyms": [
+          "designed",
+          "fashioned"
+        ],
+        "antonyms": [
+          "botched",
+          "clumsily made"
+        ]
+      }
+    ]
   },
   {
-    "text": "You have the supporting beam. Say it's a post and beam structure. You need the posts and the beams, and then you're going to have to do the mechanicals, right? There's going to have to be some amount of wiring in order for you... I think of putting in the posts and beams and the mechanicals and the foundation as actually essential to scale.",
+    "text": "You have the supporting beam. Say it's a post and beam structure. You need the posts and the beams, and then you're going to have to do the mechanicals, right? There's going to have to be some amount of wiring in order for you...",
     "speaker": "Claire Hughes Johnson",
     "timestamp": "00:21:55",
     "context": "Lenny prompts Claire to elaborate on her metaphor of a house structure in relation to company building. Claire explains that just like a house requires a sturdy foundation and support beams, a company also needs essential structures and processes in place to ensure scalability. This includes foundational documents and operational systems that facilitate growth and stability.",
     "vocabulary_highlights": [
       "supporting beam",
-      "post and beam structure",
       "mechanicals",
-      "essential to scale"
+      "foundation",
+      "structure"
     ],
     "topics": [
       "Strategy & Planning",
@@ -78,18 +198,79 @@
     "text_ko": "지지 기둥이 필요해요. 예를 들어, 포스트 앤 빔(post and beam) 구조라면 기둥과 보가 필요하고, 그 다음에 기계적인 부분도 신경 써야 해요. 전선 같은 것도 어느 정도 필요할 거고요. 저는 기둥과 보, 기계적 요소, 그리고 기초를 세우는 게 실제로 확장(scale)하는 데 필수적이라고 생각해요.",
     "text_zh": "您需要支撑梁。假设这是一个柱梁结构，您需要柱子和梁，然后还需要进行机械安装，对吧？为了实现这一点，必须进行一定程度的布线。我认为安装柱子、梁、机械设备和基础对于实现规模化是至关重要的。",
     "text_es": "Tienes la viga de soporte. Digamos que es una estructura de postes y vigas. Necesitas los postes y las vigas, y luego tendrás que hacer la parte mecánica, ¿verdad? Va a tener que haber cierta cantidad de cableado para que tú... Pienso que la instalación de los postes, las vigas, los sistemas mecánicos y la fundación es realmente esencial para escalar.",
-    "key_sentence": "Posts, beams, and mechanicals are essential to scale."
+    "key_sentence": "Posts, beams, and mechanicals are essential to scale.",
+    "text_trimmed": true,
+    "original_text": "You have the supporting beam. Say it's a post and beam structure. You need the posts and the beams, and then you're going to have to do the mechanicals, right? There's going to have to be some amount of wiring in order for you... I think of putting in the posts and beams and the mechanicals and the foundation as actually essential to scale.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "supporting beam",
+        "definition": "A supporting beam is a structural element that carries and transfers loads from the roof or upper floors to the foundation or lower elements of a building.",
+        "businessContext": "In construction and architecture, understanding the role of supporting beams is crucial for project planning, cost estimation, and ensuring structural integrity.",
+        "nuance": "The term is often used in discussions about architectural design and engineering, emphasizing the importance of load-bearing elements in a structure.",
+        "synonyms": [
+          "load-bearing beam",
+          "structural beam"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "mechanicals",
+        "definition": "Mechanicals refer to the systems and components within a building that provide essential services, such as heating, ventilation, air conditioning, plumbing, and electrical wiring.",
+        "businessContext": "In the context of real estate development and construction, mechanicals are a critical consideration for compliance with building codes and for ensuring the functionality of a space.",
+        "nuance": "The term is often used informally among professionals in the construction and design industries, and it can imply a focus on the behind-the-scenes aspects of building systems.",
+        "synonyms": [
+          "mechanical systems",
+          "building services"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "foundation",
+        "definition": "The foundation is the lowest load-bearing part of a building, typically below ground level, which supports the entire structure and distributes its weight to the ground.",
+        "businessContext": "In real estate and construction, the foundation is a key factor in project feasibility studies, as it affects both the cost and safety of the building.",
+        "nuance": "The term can also metaphorically refer to the underlying principles or basis of a business model or strategy, indicating its importance in overall stability.",
+        "synonyms": [
+          "base",
+          "substructure"
+        ],
+        "antonyms": [
+          "superstructure",
+          "N/A"
+        ]
+      },
+      {
+        "word": "structure",
+        "definition": "A structure is a constructed entity that provides support and stability, typically referring to buildings, bridges, and other physical forms.",
+        "businessContext": "In project management and architecture, the term structure is used to describe the organization of physical and operational elements, which is essential for effective planning and execution.",
+        "nuance": "While commonly associated with physical buildings, the term can also apply to organizational frameworks or systems, highlighting its versatility in various contexts.",
+        "synonyms": [
+          "edifice",
+          "framework"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      }
+    ]
   },
   {
-    "text": "The concept is the following, which is when you yank people out of their day-to-day routine, you create space, and also you imprint memory. And so if you say, 'We're going to do a very different thing with your time today or the next two days, we're not going to do our emails, we're not going to do our regular meetings, we are going to sit and work together, we're going to brainstorm,' you're basically activating new parts of their brain.",
+    "text": "The concept is the following, which is when you yank people out of their day-to-day routine, you create space, and also you imprint memory.",
     "speaker": "Claire Hughes Johnson",
     "timestamp": "01:12:53",
     "context": "Lenny asks about the importance of offsite meetings for team cohesion. Claire explains that offsites allow teams to step away from their regular tasks and routines, enabling them to engage creatively and collaboratively. This shift in environment can foster deeper connections and enhance team dynamics, leading to more effective problem-solving and planning.",
     "vocabulary_highlights": [
-      "yank people out",
+      "create space",
       "imprint memory",
-      "activate new parts of their brain",
-      "brainstorm"
+      "engage creatively",
+      "day-to-day routine"
     ],
     "topics": [
       "Team Development",
@@ -105,7 +286,68 @@
     "text_ko": "사람들을 일상에서 잠깐 떼어내면 새로운 공간이 생기고 기억이 남게 돼요. 그래서 '오늘이나 내일은 아주 다른 방식으로 시간을 보낼 거예요. 이메일도 안 하고, 정기 회의도 없고, 함께 앉아서 브레인스토밍을 할 거예요'라고 말하면, 사실 그들의 뇌의 새로운 부분을 활성화시키는 거예요.",
     "text_zh": "这个概念是，当你把人们从日常生活中抽离出来时，你就创造了空间，同时也留下了记忆。因此，如果你说：“今天或接下来的两天我们将以非常不同的方式利用时间，我们不做邮件，不开常规会议，而是一起坐下来合作，进行头脑风暴”，你实际上是在激活他们大脑中的新区域。",
     "text_es": "El concepto es el siguiente: cuando sacas a las personas de su rutina diaria, creas un espacio y también dejas una huella en la memoria. Así que si dices: 'Hoy o durante los próximos dos días vamos a hacer algo muy diferente con su tiempo, no vamos a revisar correos electrónicos, no vamos a tener nuestras reuniones habituales, vamos a sentarnos a trabajar juntos, vamos a hacer una lluvia de ideas', estás activando nuevas partes de su cerebro.",
-    "key_sentence": "Yanking people out of routine activates new parts of their brain."
+    "key_sentence": "when you yank people out of their day-to-day routine, you create space, and also you imprint memory.",
+    "text_trimmed": true,
+    "original_text": "The concept is the following, which is when you yank people out of their day-to-day routine, you create space, and also you imprint memory. And so if you say, 'We're going to do a very different thing with your time today or the next two days, we're not going to do our emails, we're not going to do our regular meetings, we are going to sit and work together, we're going to brainstorm,' you're basically activating new parts of their brain.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "create space",
+        "definition": "To make room for new ideas, experiences, or opportunities by removing distractions or constraints.",
+        "businessContext": "In business, creating space can refer to fostering an environment that encourages innovation and creative thinking, often by allowing employees to step away from their usual tasks.",
+        "nuance": "This phrase often implies a deliberate action to facilitate growth or change, rather than a passive occurrence.",
+        "synonyms": [
+          "make room",
+          "open up"
+        ],
+        "antonyms": [
+          "constrain",
+          "restrict"
+        ]
+      },
+      {
+        "word": "imprint memory",
+        "definition": "To leave a lasting impression or memory in someone's mind, typically through a significant experience or event.",
+        "businessContext": "In marketing and branding, imprinting memory is crucial for creating brand recognition and loyalty, as memorable experiences can influence consumer behavior.",
+        "nuance": "This phrase often carries a positive connotation, suggesting that the memory created is impactful and meaningful.",
+        "synonyms": [
+          "engrave memory",
+          "embed memory"
+        ],
+        "antonyms": [
+          "erase memory",
+          "forget"
+        ]
+      },
+      {
+        "word": "engage creatively",
+        "definition": "To involve oneself or others in a process that stimulates innovative thinking and artistic expression.",
+        "businessContext": "In a corporate setting, engaging creatively can lead to the development of unique solutions and products, enhancing team collaboration and problem-solving.",
+        "nuance": "This phrase suggests an active and dynamic involvement in creative processes, rather than a passive or routine participation.",
+        "synonyms": [
+          "inspire innovation",
+          "foster creativity"
+        ],
+        "antonyms": [
+          "suppress creativity",
+          "stifle innovation"
+        ]
+      },
+      {
+        "word": "day-to-day routine",
+        "definition": "The regular, habitual activities and tasks that one engages in on a daily basis.",
+        "businessContext": "Understanding day-to-day routines is essential for managers to identify areas for improvement and efficiency within teams and workflows.",
+        "nuance": "This phrase often implies a sense of monotony or predictability, which can be a barrier to creativity and innovation.",
+        "synonyms": [
+          "daily schedule",
+          "regular activities"
+        ],
+        "antonyms": [
+          "spontaneity",
+          "variety"
+        ]
+      }
+    ]
   },
   {
     "text": "I think the main thing is, and Fred Kaufman has this in his book, Conscious Business, this concept of a left-hand column, which is you're in a dialogue with me or you're watching a meeting happen, and you've got a running commentary in your head.",
@@ -113,10 +355,10 @@
     "timestamp": "00:34:51",
     "context": "Lenny asks Claire for advice on how to communicate uncomfortable feedback effectively. Claire refers to a concept from Fred Kaufman's book that involves recognizing the internal commentary we have during conversations. She suggests that transforming this inner dialogue into constructive feedback can facilitate better communication and understanding within teams.",
     "vocabulary_highlights": [
-      "left-hand column",
-      "running commentary",
-      "constructive feedback",
-      "facilitate better communication"
+      "dialogue",
+      "commentary",
+      "concept",
+      "internal"
     ],
     "topics": [
       "Communication Skills",
@@ -132,7 +374,66 @@
     "text_ko": "주요한 점은, 프레드 카우프만이 그의 책 'Conscious Business'에서 말한 왼쪽 열(left-hand column) 개념이에요. 이건 저와 대화 중이거나 회의가 진행되는 걸 지켜보면서 머릿속에서 계속 생각이 떠오르는 상황을 말해요.",
     "text_zh": "我认为最重要的是，弗雷德·考夫曼在他的书《意识商业》中提到的这个左侧栏（left-hand column）的概念。它指的是你与我进行对话，或者你在观察一个会议时，脑海中不断有评论在进行。",
     "text_es": "Creo que lo principal es, y Fred Kaufman lo menciona en su libro, \"Conscious Business\", este concepto de la columna izquierda, que se refiere a que estás en un diálogo conmigo o estás observando una reunión, y tienes un comentario interno en tu mente.",
-    "key_sentence": "The left-hand column represents a running commentary during dialogue or meetings."
+    "key_sentence": "The left-hand column represents a running commentary during dialogue or meetings.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "dialogue",
+        "definition": "A conversation between two or more people, often aimed at reaching an understanding or agreement.",
+        "businessContext": "In business settings, dialogue is crucial for effective communication, collaboration, and negotiation among team members or stakeholders.",
+        "nuance": "While 'dialogue' suggests a cooperative exchange of ideas, it is often more constructive than a simple discussion, emphasizing active listening and engagement.",
+        "synonyms": [
+          "discussion",
+          "conversation"
+        ],
+        "antonyms": [
+          "monologue",
+          "silence"
+        ]
+      },
+      {
+        "word": "commentary",
+        "definition": "An expression of opinions or explanations about an event, situation, or piece of work, often providing insight or analysis.",
+        "businessContext": "In a corporate environment, commentary can refer to feedback on performance reports, market trends, or strategic decisions, helping to inform future actions.",
+        "nuance": "Commentary can carry subjective opinions, so it is important to distinguish between objective analysis and personal viewpoints when presenting it.",
+        "synonyms": [
+          "analysis",
+          "critique"
+        ],
+        "antonyms": [
+          "silence",
+          "indifference"
+        ]
+      },
+      {
+        "word": "concept",
+        "definition": "An abstract idea or a general notion that represents a fundamental understanding of a subject.",
+        "businessContext": "In business, concepts are often foundational to strategies, product development, and innovation, serving as guiding principles for decision-making.",
+        "nuance": "The term 'concept' can imply a theoretical framework that may not yet be fully realized or implemented, distinguishing it from practical applications.",
+        "synonyms": [
+          "idea",
+          "notion"
+        ],
+        "antonyms": [
+          "reality",
+          "fact"
+        ]
+      },
+      {
+        "word": "internal",
+        "definition": "Relating to or located within an organization, system, or entity, as opposed to external factors or influences.",
+        "businessContext": "In a business context, 'internal' often refers to processes, communications, or resources that are managed within the organization, such as internal audits or employee relations.",
+        "nuance": "The term 'internal' can imply a focus on the organization's own dynamics and culture, which may differ significantly from external market conditions.",
+        "synonyms": [
+          "intrinsic",
+          "domestic"
+        ],
+        "antonyms": [
+          "external",
+          "outward"
+        ]
+      }
+    ]
   },
   {
     "text": "The other thing is, in the book, I talk about this framework that Bezos uses, type one, type two decisions. Is it high impact? Is it irreversible? Is it not? Really evaluate, what kind of decision is this? How hard is it?",
@@ -140,10 +441,10 @@
     "timestamp": "01:18:52",
     "context": "Lenny asks Claire for insights on decision-making, particularly for product managers who often lack direct authority. Claire mentions a decision-making framework popularized by Jeff Bezos, which categorizes decisions into two types based on their impact and reversibility. She emphasizes the importance of evaluating decisions carefully to streamline the decision-making process and maintain momentum.",
     "vocabulary_highlights": [
-      "type one, type two decisions",
-      "high impact",
-      "irreversible",
-      "evaluate"
+      "framework",
+      "evaluate",
+      "impact",
+      "irreversible"
     ],
     "topics": [
       "Decision Making",
@@ -159,6 +460,65 @@
     "text_ko": "또 한 가지는, 책에서 제가 베조스가 사용하는 프레임워크에 대해 이야기하는데, 타입 1, 타입 2 결정에 대한 거예요. 이 결정이 영향력이 큰지, 되돌릴 수 없는지, 아닌지 정말 잘 평가해봐야 해요. 이 결정이 어떤 종류인지, 얼마나 어려운 결정인지 생각해보는 게 중요해요.",
     "text_zh": "另一个要点是，在书中我提到贝索斯使用的这个框架，分为第一类和第二类决策。这些决策是否具有重大影响？是否不可逆转？是否不是？真正评估一下，这是什么类型的决策？难度有多大？",
     "text_es": "La otra cosa es que en el libro hablo sobre este marco que utiliza Bezos, decisiones de tipo uno y tipo dos. ¿Es de alto impacto? ¿Es irreversible? ¿O no? Realmente evalúa, ¿qué tipo de decisión es esta? ¿Qué tan difícil es?",
-    "key_sentence": "Evaluate type one and type two decisions based on impact and reversibility."
+    "key_sentence": "Evaluate type one and type two decisions based on impact and reversibility.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "framework",
+        "definition": "A structured approach or system that outlines the components and relationships within a particular context or process.",
+        "businessContext": "In business and technology, frameworks are often used to guide decision-making, project management, or strategic planning, providing a clear structure for analysis and implementation.",
+        "nuance": "While 'framework' implies a supportive structure, it can also suggest rigidity; thus, it's important to choose a framework that allows for flexibility when necessary.",
+        "synonyms": [
+          "structure",
+          "model"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorder"
+        ]
+      },
+      {
+        "word": "evaluate",
+        "definition": "To assess or appraise the value, quality, or significance of something based on specific criteria.",
+        "businessContext": "In business, evaluating options, performance, or strategies is crucial for informed decision-making and resource allocation.",
+        "nuance": "The term 'evaluate' often implies a systematic and objective process, making it suitable for formal assessments rather than casual opinions.",
+        "synonyms": [
+          "assess",
+          "appraise"
+        ],
+        "antonyms": [
+          "ignore",
+          "overlook"
+        ]
+      },
+      {
+        "word": "impact",
+        "definition": "The effect or influence that one thing has on another, often measured in terms of outcomes or changes.",
+        "businessContext": "In a business context, understanding the impact of decisions, policies, or market changes is essential for strategic planning and risk management.",
+        "nuance": "While 'impact' can refer to both positive and negative effects, it is often used in discussions about significant or transformative changes.",
+        "synonyms": [
+          "effect",
+          "influence"
+        ],
+        "antonyms": [
+          "insignificance",
+          "irrelevance"
+        ]
+      },
+      {
+        "word": "irreversible",
+        "definition": "Describing a situation or decision that cannot be undone or altered once it has occurred.",
+        "businessContext": "In business strategy, recognizing irreversible decisions is crucial, as they often involve significant investments or commitments that shape future directions.",
+        "nuance": "The term 'irreversible' carries a weight of caution, suggesting that such decisions should be approached with careful consideration and thorough analysis.",
+        "synonyms": [
+          "permanent",
+          "unrecoverable"
+        ],
+        "antonyms": [
+          "reversible",
+          "changeable"
+        ]
+      }
+    ]
   }
 ]

@@ -1,13 +1,14 @@
 [
   {
-    "text": "We collected two and a half million sales calls and studied them with a machine learning platform at scale. What we found is that anywhere between 40 and 60% of the average salesperson's qualified pipelines will be ultimately marked as closed loss, no decision. If you think about as a salesperson, that for 46% of your deals, you're going to spend a lot of time, energy, resources pursuing these opportunities where you eventually just get ghosted.",
+    "text": "We collected two and a half million sales calls and studied them with a machine learning platform at scale. What we found is that anywhere between 40 and 60% of the average salesperson's qualified pipelines will be ultimately marked as closed loss, no decision.",
     "speaker": "Matt Dixon",
     "timestamp": "00:00",
     "context": "Lenny asks Matt to explain the research methodology behind his books on sales. Matt describes their massive data collection effort during the pandemic when sales moved to virtual platforms, allowing them to analyze millions of sales conversations. He reveals a surprising finding about how many qualified sales opportunities - not just random leads, but real prospects that salespeople have invested time in - end up being lost not to competitors, but to customer indecision where prospects simply disappear without making any decision.",
     "vocabulary_highlights": [
+      "machine learning",
       "qualified pipelines",
-      "closed loss, no decision",
-      "get ghosted"
+      "closed loss",
+      "data collection"
     ],
     "topics": [
       "Growth & Marketing",
@@ -21,17 +22,79 @@
     "text_ko": "우리는 250만 건이 넘는 영업 통화를 모아 대규모 머신러닝 플랫폼(machine learning platform)으로 분석했어요. 그 결과 평균 영업사원의 적격 파이프라인(qualified pipelines) 중 약 40~60%가 결국 'closed loss, no decision'(closed loss, no decision)로 처리된다는 걸 발견했어요. 영업사원 관점에서 보면 거래의 약 46%는 많은 시간과 에너지, 자원을 들여 기회를 쫓다가 결국 상대가 연락을 끊어 아무 결정도 못 내리는 경우라는 뜻이에요.",
     "text_zh": "我们收集了两百五十万通销售电话，用机器学习平台(machine learning platform)大规模地分析了这些数据。我们发现，普通销售人员有资质的销售管道(qualified pipeline)中，大概有40%到60%最终都会被标记为败单，客户没做决定就没下文了。你想想看，作为销售，你46%的单子都是这样——你投入大把时间、精力和资源去跟进这些机会，到头来客户直接把你晾在那儿，音信全无。",
     "text_es": "Recopilamos dos millones y medio de llamadas de ventas y las analizamos usando una plataforma de machine learning a gran escala. Lo que descubrimos es que entre el 40 y 60% de las oportunidades calificadas del vendedor promedio terminan marcándose como pérdida cerrada, sin decisión. Si lo piensas como vendedor, en el 46% de tus deals vas a invertir muchísimo tiempo, energía y recursos persiguiendo estas oportunidades donde al final simplemente te van a hacer ghosting.",
-    "key_sentence": "46% of qualified pipelines will be marked as closed loss, no decision."
+    "key_sentence": "46% of qualified pipelines will be marked as closed loss, no decision.",
+    "text_trimmed": true,
+    "original_text": "We collected two and a half million sales calls and studied them with a machine learning platform at scale. What we found is that anywhere between 40 and 60% of the average salesperson's qualified pipelines will be ultimately marked as closed loss, no decision. If you think about as a salesperson, that for 46% of your deals, you're going to spend a lot of time, energy, resources pursuing these opportunities where you eventually just get ghosted.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "machine learning",
+        "definition": "A subset of artificial intelligence that enables systems to learn from data and improve their performance over time without being explicitly programmed.",
+        "businessContext": "In business, machine learning is often utilized to analyze large datasets, automate decision-making processes, and enhance customer experiences through predictive analytics.",
+        "nuance": "The term carries a connotation of advanced technology and innovation, often associated with cutting-edge applications in various industries.",
+        "synonyms": [
+          "automated learning",
+          "predictive analytics"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "qualified pipelines",
+        "definition": "A sales term referring to potential sales opportunities that have been vetted and deemed likely to convert into actual sales.",
+        "businessContext": "Qualified pipelines are crucial for sales teams as they help prioritize leads and allocate resources effectively to maximize revenue generation.",
+        "nuance": "The term implies a level of assurance regarding the likelihood of closing a sale, making it more favorable than simply referring to all leads.",
+        "synonyms": [
+          "sales funnel",
+          "prospect pipeline"
+        ],
+        "antonyms": [
+          "unqualified leads",
+          "lost opportunities"
+        ]
+      },
+      {
+        "word": "closed loss",
+        "definition": "A status assigned to a sales opportunity that has been pursued but ultimately did not result in a sale, often due to the customer deciding not to proceed.",
+        "businessContext": "Understanding closed loss metrics helps businesses analyze their sales processes and identify areas for improvement in their sales strategies.",
+        "nuance": "The term carries a negative connotation, indicating a missed opportunity, and is often used in discussions about sales performance and forecasting.",
+        "synonyms": [
+          "lost deal",
+          "failed opportunity"
+        ],
+        "antonyms": [
+          "closed won",
+          "successful sale"
+        ]
+      },
+      {
+        "word": "data collection",
+        "definition": "The systematic gathering of information for analysis and decision-making purposes, often involving various methodologies and tools.",
+        "businessContext": "In business, data collection is essential for market research, performance analysis, and strategic planning, enabling organizations to make informed decisions.",
+        "nuance": "The term suggests a structured approach to gathering information, which can vary in complexity and scope depending on the objectives.",
+        "synonyms": [
+          "information gathering",
+          "data acquisition"
+        ],
+        "antonyms": [
+          "data loss",
+          "information neglect"
+        ]
+      }
+    ]
   },
   {
-    "text": "Dialing up the FOMO backfires 87% of the time. They're not afraid of missing out, they're afraid of messing up. What salespeople have been armed to do is go out and dial up the FOMO and make the customer sweat a little bit. The FOMU actually matters more than the FOMO. The FOMU is the fear of messing up.",
+    "text": "Dialing up the FOMO backfires 87% of the time. They're not afraid of missing out, they're afraid of messing up. What salespeople have been armed to do is go out and dial up the FOMO and make the customer sweat a little bit.",
     "speaker": "Matt Dixon",
     "timestamp": "00:12",
     "context": "Matt explains a key insight from analyzing millions of sales calls about why traditional sales tactics fail. When customers hesitate before making a purchase decision, most salespeople try to create urgency by emphasizing what the customer will miss out on (FOMO - fear of missing out). However, Matt's research shows this approach actually makes things worse 87% of the time because customers aren't worried about missing opportunities - they're terrified of being personally blamed if the purchase decision goes wrong.",
     "vocabulary_highlights": [
-      "dialing up the FOMO",
-      "make the customer sweat",
-      "FOMU"
+      "backfires",
+      "salespeople",
+      "hesitate",
+      "tactics"
     ],
     "topics": [
       "Growth & Marketing",
@@ -45,18 +108,79 @@
     "text_ko": "놓칠까 봐 두려움(FOMO)을 부추기면 87%의 경우에 역효과가 나요. 사람들은 단순히 놓치는 게 무서운 게 아니라, 망칠까 봐 더 무서워해요. 영업사원들은 FOMO를 부풀려서 고객을 좀 초조하게 만들라고 훈련받아 왔어요. 그런데 사실 놓칠까 봐 두려움(FOMO)보다 망칠까 봐 두려움(FOMU)이 더 중요해요. FOMU는 일을 망치거나 실수할까 봐 느끼는 두려움이에요.",
     "text_zh": "一味地制造饥饿营销，十次有八九次都会适得其反。客户真正担心的不是错过机会，而是怕做错决定。销售们现在的套路就是拼命制造紧迫感，让客户心里着急。其实客户更在乎的是别搞砸了，而不是怕错过什么。真正起作用的是\"怕搞砸心理\"(FOMU)，而不是\"错失恐惧\"(FOMO)。",
     "text_es": "Intensificar el FOMO falla el 87% de las veces. No tienen miedo de perderse algo, tienen miedo de cagarla. A los vendedores los han entrenado para salir y crear más FOMO, para hacer que el cliente sude un poco. Pero en realidad el FOMU importa más que el FOMO. El FOMU es el miedo de cagarla (fear of messing up).",
-    "key_sentence": "FOMU, the fear of messing up, matters more than dialing up the FOMO."
+    "key_sentence": "They're not afraid of missing out, they're afraid of messing up.",
+    "text_trimmed": true,
+    "original_text": "Dialing up the FOMO backfires 87% of the time. They're not afraid of missing out, they're afraid of messing up. What salespeople have been armed to do is go out and dial up the FOMO and make the customer sweat a little bit. The FOMU actually matters more than the FOMO. The FOMU is the fear of messing up.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "backfires",
+        "definition": "To have an unexpected and undesirable outcome, especially after a planned action.",
+        "businessContext": "In business, a strategy or tactic that backfires can lead to negative consequences, such as loss of customer trust or decreased sales.",
+        "nuance": "This term often implies that the initial intention was positive, but the results were counterproductive.",
+        "synonyms": [
+          "misfire",
+          "fail"
+        ],
+        "antonyms": [
+          "succeed",
+          "thrive"
+        ]
+      },
+      {
+        "word": "salespeople",
+        "definition": "Individuals whose primary role is to sell products or services to customers, often through direct interaction.",
+        "businessContext": "Salespeople are crucial in driving revenue for a business, as they engage with potential clients and persuade them to make purchases.",
+        "nuance": "While the term is neutral, it can carry a connotation of being persuasive or aggressive, depending on the sales approach.",
+        "synonyms": [
+          "sales representatives",
+          "account executives"
+        ],
+        "antonyms": [
+          "customers",
+          "buyers"
+        ]
+      },
+      {
+        "word": "hesitate",
+        "definition": "To pause before taking action or making a decision, often due to uncertainty or indecision.",
+        "businessContext": "In a business context, hesitation can indicate a lack of confidence in a product or service, potentially leading to lost sales opportunities.",
+        "nuance": "Hesitation can be perceived negatively, suggesting indecisiveness, but it can also reflect careful consideration before making important decisions.",
+        "synonyms": [
+          "pause",
+          "waver"
+        ],
+        "antonyms": [
+          "decide",
+          "act"
+        ]
+      },
+      {
+        "word": "tactics",
+        "definition": "Specific methods or strategies employed to achieve a particular goal or objective.",
+        "businessContext": "In business, tactics are often used in marketing and sales strategies to influence consumer behavior and drive results.",
+        "nuance": "The term suggests a practical approach to achieving objectives, often in contrast to broader strategies or plans.",
+        "synonyms": [
+          "strategies",
+          "methods"
+        ],
+        "antonyms": [
+          "theory",
+          "principle"
+        ]
+      }
+    ]
   },
   {
-    "text": "The first thing is we've got to judge their level of indecision. The second thing is we've got to offer a recommendation. The third thing is we've got to get them to start trusting us and we call it limit the exploration, and the T is we've got to de-risk the deal. We've got to take some risk off the table.",
+    "text": "The first thing is we've got to judge their level of indecision. The second thing is we've got to offer a recommendation.",
     "speaker": "Matt Dixon",
     "timestamp": "00:25",
     "context": "Lenny asks Matt about his JOLT method for improving sales processes based on his research insights. Matt explains that JOLT is an acronym for a four-step approach to help customers overcome their fear of making bad decisions. The method addresses the core problem that customers want to buy but can't because they're paralyzed by fear of failure, so salespeople need to systematically reduce that fear and guide them toward a decision they feel confident about.",
     "vocabulary_highlights": [
-      "judge their level of indecision",
-      "limit the exploration",
-      "de-risk the deal",
-      "take some risk off the table"
+      "recommendation",
+      "indecision",
+      "approach",
+      "overcome"
     ],
     "topics": [
       "Growth & Marketing",
@@ -70,16 +194,79 @@
     "text_ko": "첫 번째로는 그들의 결정 장애 수준을 파악해야 해요. 두 번째로는 추천을 해줘야 하고요. 세 번째로는 그들이 우리를 신뢰하게 만들어야 해요. 이걸 '탐색 제한(limit the exploration)'이라고 부르고요. 마지막으로는 거래의 리스크를 줄여야 해요. 위험 요소를 덜어내는 게 중요해요.",
     "text_zh": "首先呢，我们得看看他们到底有多纠结。然后我们得给个建议，让他们知道该怎么办。第三点就是要让他们开始信任我们，我们叫这个\"限制探索\"(limit the exploration)。最后这个T就是要给这个deal降降风险，把一些风险因素先排除掉。",
     "text_es": "Lo primero que tenemos que hacer es evaluar qué tan indecisos están. Lo segundo es darles una recomendación clara. Lo tercero es lograr que empiecen a confiar en nosotros, y a esto le decimos limitar la exploración (limit the exploration), y la T es que tenemos que quitar el riesgo del negocio. Tenemos que eliminar parte del riesgo de la ecuación.",
-    "key_sentence": "Judge their level of indecision to de-risk the deal and limit the exploration."
+    "key_sentence": "we've got to judge their level of indecision.",
+    "text_trimmed": true,
+    "original_text": "The first thing is we've got to judge their level of indecision. The second thing is we've got to offer a recommendation. The third thing is we've got to get them to start trusting us and we call it limit the exploration, and the T is we've got to de-risk the deal. We've got to take some risk off the table.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "recommendation",
+        "definition": "A suggestion or proposal aimed at advising someone on a course of action.",
+        "businessContext": "In business settings, recommendations are often made to guide decision-making processes, particularly in areas such as marketing strategies, product development, or management practices.",
+        "nuance": "While a recommendation implies a level of authority or expertise, it is often more persuasive than mandatory, leaving room for the recipient's discretion.",
+        "synonyms": [
+          "advice",
+          "suggestion"
+        ],
+        "antonyms": [
+          "opposition",
+          "discouragement"
+        ]
+      },
+      {
+        "word": "indecision",
+        "definition": "The inability to make a decision quickly or confidently, often resulting in procrastination or inaction.",
+        "businessContext": "Indecision can hinder progress in business environments, particularly during negotiations or strategic planning, where timely decisions are crucial for success.",
+        "nuance": "Indecision may carry a negative connotation, suggesting a lack of confidence or clarity, and is typically viewed unfavorably in fast-paced business contexts.",
+        "synonyms": [
+          "uncertainty",
+          "hesitation"
+        ],
+        "antonyms": [
+          "certainty",
+          "decisiveness"
+        ]
+      },
+      {
+        "word": "approach",
+        "definition": "A method or way of dealing with a situation or problem; a strategy for addressing a particular issue.",
+        "businessContext": "In the business world, different approaches can be employed to tackle challenges, such as innovative marketing approaches or collaborative team approaches to project management.",
+        "nuance": "The term 'approach' can imply a thoughtful or systematic method, and is often used to convey flexibility in adapting strategies to different circumstances.",
+        "synonyms": [
+          "method",
+          "strategy"
+        ],
+        "antonyms": [
+          "neglect",
+          "avoidance"
+        ]
+      },
+      {
+        "word": "overcome",
+        "definition": "To successfully deal with or gain control over a challenge or obstacle.",
+        "businessContext": "In business, overcoming challenges such as market competition or internal resistance is essential for achieving goals and driving growth.",
+        "nuance": "The term 'overcome' suggests a proactive and resilient attitude, often associated with personal or organizational growth after facing difficulties.",
+        "synonyms": [
+          "conquer",
+          "surmount"
+        ],
+        "antonyms": [
+          "succumb",
+          "yield"
+        ]
+      }
+    ]
   },
   {
-    "text": "Most salespeople are trying to figure out what's keeping the customer up at night. The challenger approach is about showing the customer what should be keeping them up at night. What's a risk that they don't know about but you do. You are a window into the outside world for them, and that's what challengers really understand.",
+    "text": "Most salespeople are trying to figure out what's keeping the customer up at night. The challenger approach is about showing the customer what should be keeping them up at night. What's a risk that they don't know about but you do.",
     "speaker": "Matt Dixon",
     "timestamp": "00:41",
     "context": "Matt contrasts traditional sales approaches with his Challenger Sale methodology. Traditional salespeople focus on identifying existing customer problems and pain points. The Challenger approach flips this - instead of just responding to what customers already know they need, top salespeople proactively educate customers about risks and opportunities they haven't considered yet. This works because salespeople talk to many more customers and have broader market insight than any individual buyer.",
     "vocabulary_highlights": [
-      "keeping the customer up at night",
-      "window into the outside world"
+      "challenger approach",
+      "risk",
+      "pain points",
+      "identify"
     ],
     "topics": [
       "Growth & Marketing",
@@ -93,16 +280,79 @@
     "text_ko": "대부분의 영업 담당자들(salespeople)은 고객이 밤에 잠 못 이루게 하는 게 뭔지 알아내려고 해요. 챌린저 접근법(challenger approach)은 고객이 실제로 신경 써야 할 문제를 알려주는 거예요. 고객은 모르는데 당신은 알고 있는 리스크(risk)가 무엇인지 찾아내는 거죠. 당신은 그들에게 외부 세상을 보여주는 창이고, 바로 그걸 챌린저들(challengers)은 정말 잘 이해해요.",
     "text_zh": "大多数销售都在琢磨客户现在最头疼什么问题。但挑战者销售法(challenger approach)不一样，是要让客户意识到他们应该担心什么。就是那些他们还没发现、但你知道的风险点。你其实就是他们了解外面世界的一扇窗，这就是挑战者真正懂的道理。",
     "text_es": "La mayoría de los vendedores están tratando de descubrir qué es lo que no deja dormir al cliente. El enfoque retador (challenger approach) se trata de mostrarle al cliente qué debería quitarle el sueño. ¿Cuál es ese riesgo que ellos no conocen pero tú sí? Tú eres su ventana al mundo exterior, y eso es lo que los retadores realmente entienden.",
-    "key_sentence": "Challengers show customers what should keep them up at night, acting as a window."
+    "key_sentence": "The challenger approach is about showing the customer what should be keeping them up at night.",
+    "text_trimmed": true,
+    "original_text": "Most salespeople are trying to figure out what's keeping the customer up at night. The challenger approach is about showing the customer what should be keeping them up at night. What's a risk that they don't know about but you do. You are a window into the outside world for them, and that's what challengers really understand.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "challenger approach",
+        "definition": "A sales strategy that involves educating customers about potential risks and opportunities they may not be aware of, thereby challenging their current thinking.",
+        "businessContext": "In business and sales, the challenger approach is used to differentiate a salesperson by positioning them as a trusted advisor who provides insights that provoke thought and drive change in customer behavior.",
+        "nuance": "This approach is often used when traditional sales tactics fail to resonate, emphasizing the importance of understanding the customer's underlying issues rather than just their stated needs.",
+        "synonyms": [
+          "insight-driven selling",
+          "consultative selling"
+        ],
+        "antonyms": [
+          "relationship selling",
+          "transactional selling"
+        ]
+      },
+      {
+        "word": "risk",
+        "definition": "The possibility of loss, damage, or any negative outcome that may arise from a decision or action.",
+        "businessContext": "In business, understanding and managing risk is crucial for decision-making, as it affects everything from investment strategies to project management and operational efficiency.",
+        "nuance": "While risk often carries a negative connotation, it can also represent opportunities for growth and innovation when managed effectively.",
+        "synonyms": [
+          "hazard",
+          "uncertainty"
+        ],
+        "antonyms": [
+          "safety",
+          "certainty"
+        ]
+      },
+      {
+        "word": "pain points",
+        "definition": "Specific problems or challenges that customers face, which create discomfort or dissatisfaction and need to be addressed.",
+        "businessContext": "Identifying pain points is essential in sales and marketing, as it allows businesses to tailor their solutions to meet the specific needs of their target audience, thereby enhancing customer satisfaction.",
+        "nuance": "The term is often used in a customer-centric context, emphasizing the importance of empathy and understanding in developing effective products or services.",
+        "synonyms": [
+          "challenges",
+          "frustrations"
+        ],
+        "antonyms": [
+          "solutions",
+          "benefits"
+        ]
+      },
+      {
+        "word": "identify",
+        "definition": "To recognize or establish the characteristics, qualities, or significance of something.",
+        "businessContext": "In a business setting, identifying key factors such as market trends, customer needs, or operational inefficiencies is crucial for strategic planning and decision-making.",
+        "nuance": "While 'identify' is often used in a straightforward context, it can imply a deeper analysis or understanding of complex issues when used in strategic discussions.",
+        "synonyms": [
+          "recognize",
+          "determine"
+        ],
+        "antonyms": [
+          "ignore",
+          "overlook"
+        ]
+      }
+    ]
   },
   {
-    "text": "Indecision stems from their fear of failure. The omission bias is the fact that people don't want to be blamed for making decisions that lead to a loss. There are losses that happen when we do nothing, and then there are losses that happened because we did something. In the human mind, people are okay with missing out. They are not okay with messing up and being blamed.",
+    "text": "Indecision stems from their fear of failure. The omission bias is the fact that people don't want to be blamed for making decisions that lead to a loss.",
     "speaker": "Matt Dixon",
     "timestamp": "08:24",
     "context": "Matt explains the psychological research behind customer indecision, drawing from cognitive psychology studies. He describes 'omission bias' - a powerful human tendency where people prefer losses that happen from inaction over losses that result from their active decisions. This bias is even stronger than status quo bias (preferring to keep things the same). Understanding this helps explain why customers who want to buy a product still hesitate - they're not worried about missing benefits, they're terrified of being personally blamed if their purchase decision leads to problems.",
     "vocabulary_highlights": [
+      "indecision",
       "omission bias",
-      "messing up and being blamed"
+      "psychological",
+      "cognitive"
     ],
     "topics": [
       "Decision Making",
@@ -116,17 +366,79 @@
     "text_ko": "우유부단함은 실패에 대한 두려움에서 나와요. 생략 편향(omission bias)은 사람들이 손실로 이어지는 결정을 내렸다고 비난받는 걸 원하지 않는다는 뜻이에요. 아무것도 안 해서 생기는 손실도 있고, 뭔가 해서 생기는 손실도 있어요. 사람들은 놓치는 건 괜찮다고 생각하지만, 실수해서 비난받는 건 참기 어려워해요.",
     "text_zh": "犹豫不决其实就是怕搞砸。有个偏见叫\"不作为偏差\"(omission bias)，就是说人们不想因为自己的决定导致损失而被人指责。损失有两种，一种是我们什么都不做造成的，另一种是我们采取行动造的。在人的心理上，大家都能接受错过机会，但是接受不了自己搞砸了还要被人埋怨。",
     "text_es": "La indecisión viene del miedo al fracaso. El sesgo de omisión (omission bias) es que la gente no quiere que la culpen por tomar decisiones que llevan a pérdidas. Hay pérdidas que pasan cuando no hacemos nada, y hay pérdidas que pasan porque sí hicimos algo. En la mente humana, la gente acepta perderse oportunidades. Lo que no aceptan es meter la pata y que los señalen.",
-    "key_sentence": "Omission bias causes fear of messing up and being blamed for decisions."
+    "key_sentence": "The omission bias is the fact that people don't want to be blamed for making decisions that lead to a loss.",
+    "text_trimmed": true,
+    "original_text": "Indecision stems from their fear of failure. The omission bias is the fact that people don't want to be blamed for making decisions that lead to a loss. There are losses that happen when we do nothing, and then there are losses that happened because we did something. In the human mind, people are okay with missing out. They are not okay with messing up and being blamed.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "indecision",
+        "definition": "Indecision refers to the inability to make a choice or decision, often due to uncertainty or fear of the consequences. It can lead to procrastination and missed opportunities.",
+        "businessContext": "In business settings, indecision can hinder strategic planning and slow down project execution, as team members may hesitate to commit to a course of action.",
+        "nuance": "Indecision often carries a negative connotation, suggesting a lack of confidence or clarity, and is typically avoided in high-stakes environments.",
+        "synonyms": [
+          "uncertainty",
+          "vacillation"
+        ],
+        "antonyms": [
+          "decisiveness",
+          "certainty"
+        ]
+      },
+      {
+        "word": "omission bias",
+        "definition": "Omission bias is a cognitive bias where individuals prefer to avoid actions that could lead to negative outcomes, even if inaction may result in worse consequences. It reflects a tendency to favor inaction over action.",
+        "businessContext": "In the business realm, omission bias can affect decision-making processes, leading teams to avoid necessary risks or innovations due to fear of accountability for negative results.",
+        "nuance": "This bias can subtly influence group dynamics, as individuals may collectively lean towards inaction to evade blame, which can stifle progress.",
+        "synonyms": [
+          "inaction bias",
+          "status quo bias"
+        ],
+        "antonyms": [
+          "proactive decision-making",
+          "risk-taking"
+        ]
+      },
+      {
+        "word": "psychological",
+        "definition": "Psychological pertains to the mental processes and emotional factors that influence behavior and decision-making. It encompasses aspects of human cognition, emotion, and social interactions.",
+        "businessContext": "Understanding psychological factors is crucial in marketing and human resources, as they can significantly impact consumer behavior and employee motivation.",
+        "nuance": "The term often implies a deeper exploration of human behavior beyond surface-level observations, making it relevant in discussions of organizational culture and consumer psychology.",
+        "synonyms": [
+          "mental",
+          "emotional"
+        ],
+        "antonyms": [
+          "physical",
+          "tangible"
+        ]
+      },
+      {
+        "word": "cognitive",
+        "definition": "Cognitive refers to the mental processes involved in gaining knowledge and understanding, including perception, reasoning, and judgment. It is related to how individuals think and learn.",
+        "businessContext": "In business, cognitive science is applied to improve user experience, enhance learning and development programs, and optimize decision-making processes.",
+        "nuance": "Cognitive often emphasizes the analytical and rational aspects of thought, distinguishing it from emotional or instinctual responses in decision-making contexts.",
+        "synonyms": [
+          "intellectual",
+          "mental"
+        ],
+        "antonyms": [
+          "emotional",
+          "irrational"
+        ]
+      }
+    ]
   },
   {
-    "text": "We found a technique called pings and echoes that high performers use. The way this works is that a salesperson will try to articulate but in a non, not to out the customer, but to get confirmation or refutation that what they've articulated is actually a concern for their buyer. At this point, most customers like you, are thinking about this or they're worried about that.",
+    "text": "We found a technique called pings and echoes that high performers use.",
     "speaker": "Matt Dixon",
     "timestamp": "29:39",
     "context": "Matt describes a specific technique discovered in their research for the first step of the JOLT method - judging a customer's level of indecision. The 'pings and echoes' technique works like sonar - salespeople send out a 'ping' by suggesting what many customers worry about at this stage, then listen for the customer's response (the 'echo') to understand their specific concerns. This approach works because customers often won't directly admit they're indecisive or afraid, so salespeople need a subtle way to surface these concerns without embarrassing the customer.",
     "vocabulary_highlights": [
-      "pings and echoes",
-      "not to out the customer",
-      "confirmation or refutation"
+      "high performers",
+      "technique",
+      "judging",
+      "indecision"
     ],
     "topics": [
       "Growth & Marketing",
@@ -140,17 +452,79 @@
     "text_ko": "우리는 성과가 높은 사람들이 쓰는 '핑스 앤 에코스(pings and echoes)'라는 기법을 발견했어요. 이 방법은 영업 담당자가 고객을 곤란하게 하려는 게 아니라, 자신이 말로 정리한 게 실제로 구매자의 고민인지 확인(또는 부정)받으려는 식으로 표현해 보는 거예요. 이 시점에서 대부분의 고객들, 즉 당신 같은 분들은 이걸 생각하고 있거나 저걸 걱정하고 계신 경우가 많아요.",
     "text_zh": "我们发现高绩效销售员会用一个叫\"试探回应(pings and echoes)\"的技巧。具体是这样的：销售员会把客户可能的顾虑说出来，但不是为了让客户难堪，而是想确认一下自己说的是不是真的击中了客户的痛点。比如会说\"像您这样的客户，现在多半都在考虑这个问题\"或者\"都在担心那个事情\"。",
     "text_es": "Descubrimos una técnica que usan los vendedores top que se llama \"pings and echoes\" (señales y respuestas). Funciona así: el vendedor trata de expresar algo, pero no para poner en evidencia al cliente, sino para conseguir que le confirme o le diga que no - que lo que está planteando realmente le preocupa al comprador. En este punto, la mayoría de clientes como usted están pensando en esto o les preocupa aquello.",
-    "key_sentence": "Pings and echoes help confirm or refute customer concerns without outing them."
+    "key_sentence": "pings and echoes that high performers use.",
+    "text_trimmed": true,
+    "original_text": "We found a technique called pings and echoes that high performers use. The way this works is that a salesperson will try to articulate but in a non, not to out the customer, but to get confirmation or refutation that what they've articulated is actually a concern for their buyer. At this point, most customers like you, are thinking about this or they're worried about that.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "high performers",
+        "definition": "Individuals or teams that consistently achieve exceptional results or exceed established standards in their work.",
+        "businessContext": "In business settings, high performers are often recognized for their contributions to productivity, innovation, and overall success, making them valuable assets to organizations.",
+        "nuance": "The term carries a positive connotation, suggesting not only competence but also a strong work ethic and commitment to excellence.",
+        "synonyms": [
+          "top achievers",
+          "elite performers"
+        ],
+        "antonyms": [
+          "low performers",
+          "underachievers"
+        ]
+      },
+      {
+        "word": "technique",
+        "definition": "A specific method or way of doing something, often involving skill or expertise.",
+        "businessContext": "In the context of business and technology, techniques can refer to strategies or processes employed to enhance efficiency, productivity, or innovation.",
+        "nuance": "While 'technique' implies a level of skill, it can also suggest a systematic approach that may be replicated or taught.",
+        "synonyms": [
+          "method",
+          "approach"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "judging",
+        "definition": "The act of forming an opinion or evaluation about someone or something based on certain criteria or standards.",
+        "businessContext": "In business environments, judging can occur during performance reviews, project evaluations, or when making hiring decisions, often influencing organizational dynamics.",
+        "nuance": "Judging can carry a negative connotation if perceived as biased or unfair; thus, it is important to approach it with objectivity and fairness.",
+        "synonyms": [
+          "evaluating",
+          "assessing"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "indecision",
+        "definition": "The inability to make a choice or decision, often resulting from uncertainty or conflicting options.",
+        "businessContext": "Indecision can hinder progress in business settings, affecting project timelines, team dynamics, and overall strategic direction.",
+        "nuance": "While indecision can indicate careful consideration, it often has a negative connotation, suggesting a lack of confidence or decisiveness.",
+        "synonyms": [
+          "hesitation",
+          "uncertainty"
+        ],
+        "antonyms": [
+          "decisiveness",
+          "certainty"
+        ]
+      }
+    ]
   },
   {
-    "text": "What great salespeople do though is they know that while they'll stand by those claims, those case studies, those proof points, they try to kind of under-promise and over-deliver. What I'd rather we do is build your business case around a 5X improvement because we see that at least that, in 100% of our implementations. Then, let's set up to over-deliver against that.",
+    "text": "What great salespeople do though is they know that while they'll stand by those claims, those case studies, those proof points, they try to kind of under-promise and over-deliver.",
     "speaker": "Matt Dixon",
     "timestamp": "42:16",
     "context": "Matt explains a key technique for the final step of JOLT - taking risk off the table for nervous customers. When customers get excited about impressive case studies showing dramatic results, average salespeople let them build high expectations. However, top performers deliberately reset expectations to more conservative but guaranteed outcomes. This reduces the customer's fear that they won't achieve the promised results and get blamed for the purchase. By setting lower expectations, salespeople make it more likely the customer will feel confident about the decision and be pleasantly surprised by the actual results.",
     "vocabulary_highlights": [
-      "stand by those claims",
-      "under-promise and over-deliver",
-      "set up to over-deliver"
+      "under-promise",
+      "over-deliver",
+      "proof points",
+      "case studies"
     ],
     "topics": [
       "Growth & Marketing",
@@ -164,6 +538,67 @@
     "text_ko": "훌륭한 세일즈맨들은 자신이 한 주장이나 사례 연구, 증거를 지키는 동시에, 약속은 조금 낮게 하고 실제로는 더 많은 가치를 제공하려고 해요. 그래서 저는 우리가 비즈니스 케이스를 5배 향상에 맞춰서 만들면 좋겠어요. 왜냐하면 저희의 모든 프로젝트에서 최소한 그 정도는 보장하거든요. 그럼 그 목표를 초과 달성할 수 있도록 준비해보죠.",
     "text_zh": "不过优秀的销售都懂一个道理，虽然他们会坚持自己说的那些承诺、案例研究和证明材料，但他们会尽量少承诺、多兑现。我更愿意这样做：咱们围绕5倍的提升来构建你的商业论证，因为在我们100%的实施案例中，至少都能达到这个水平。然后，我们再在这个基础上超额交付。",
     "text_es": "Lo que hacen los vendedores realmente buenos es que saben que aunque van a respaldar esas afirmaciones, esos casos de estudio, esos puntos de prueba, tratan de prometer menos y entregar más. Lo que prefiero que hagamos es construir tu caso de negocio alrededor de una mejora de 5X porque vemos al menos eso en el 100% de nuestras implementaciones. Entonces, preparémonos para superar esas expectativas.",
-    "key_sentence": "Great salespeople under-promise and over-deliver while standing by those claims."
+    "key_sentence": "Great salespeople under-promise and over-deliver while standing by those claims.",
+    "text_trimmed": true,
+    "original_text": "What great salespeople do though is they know that while they'll stand by those claims, those case studies, those proof points, they try to kind of under-promise and over-deliver. What I'd rather we do is build your business case around a 5X improvement because we see that at least that, in 100% of our implementations. Then, let's set up to over-deliver against that.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "under-promise",
+        "definition": "To set expectations lower than what one believes can be achieved, often to avoid disappointing stakeholders.",
+        "businessContext": "In business, under-promising is a strategy used to manage client expectations, ensuring that the actual outcomes exceed what was initially communicated.",
+        "nuance": "This approach is often favored in competitive environments where over-promising can lead to reputational damage.",
+        "synonyms": [
+          "downplay",
+          "minimize"
+        ],
+        "antonyms": [
+          "over-promise",
+          "exaggerate"
+        ]
+      },
+      {
+        "word": "over-deliver",
+        "definition": "To provide results or outcomes that exceed the initial expectations set for a project or service.",
+        "businessContext": "In a business context, over-delivering is a tactic used to enhance customer satisfaction and build long-term relationships by surprising clients with better-than-expected results.",
+        "nuance": "While over-delivering can strengthen client trust, it should be done judiciously to avoid setting unsustainable future expectations.",
+        "synonyms": [
+          "exceed expectations",
+          "surpass"
+        ],
+        "antonyms": [
+          "under-deliver",
+          "fail to meet"
+        ]
+      },
+      {
+        "word": "proof points",
+        "definition": "Specific pieces of evidence or data that support a claim or assertion, demonstrating its validity or effectiveness.",
+        "businessContext": "In sales and marketing, proof points are crucial for convincing potential clients of the value of a product or service, often presented in the form of statistics or testimonials.",
+        "nuance": "The effectiveness of proof points relies on their relevance and credibility, making it essential to choose them carefully.",
+        "synonyms": [
+          "evidence",
+          "supporting data"
+        ],
+        "antonyms": [
+          "false claims",
+          "misrepresentations"
+        ]
+      },
+      {
+        "word": "case studies",
+        "definition": "In-depth analyses of specific instances or examples that illustrate how a product or service has been successfully implemented or utilized.",
+        "businessContext": "Case studies are frequently used in business to showcase successful applications of a product, helping to build trust and demonstrate real-world results to potential customers.",
+        "nuance": "While case studies are powerful marketing tools, they should be representative and not cherry-picked to maintain credibility.",
+        "synonyms": [
+          "success stories",
+          "examples"
+        ],
+        "antonyms": [
+          "theoretical models",
+          "hypothetical scenarios"
+        ]
+      }
+    ]
   }
 ]

@@ -1,13 +1,14 @@
 [
   {
-    "text": "There are probably, I call them techno utopians who would say, feed all data to the algorithm, give it an objective, and it will do the right thing. And I was like yeah, the reason that falls down is the algorithms don't understand long term effects often, nor do they understand how people might respond to it, nor do they understand your intent for the product, and I think it's really important for product managers to play that role.",
+    "text": "There are probably, I call them techno utopians who would say, feed all data to the algorithm, give it an objective, and it will do the right thing.",
     "speaker": "Adriel Frederick",
     "timestamp": "00:00:00",
     "context": "Lenny and Adriel are discussing the role of algorithms in product development and the balance between automated decision-making and human oversight. Adriel is explaining why he believes purely algorithmic approaches to product development are insufficient. He argues that while some people advocate for letting algorithms handle all decisions based on data and objectives, this approach has fundamental limitations that require human product managers to intervene and guide the process.",
     "vocabulary_highlights": [
-      "techno utopians",
-      "falls down",
-      "intent for the product"
+      "algorithm",
+      "objective",
+      "automated decision-making",
+      "oversight"
     ],
     "topics": [
       "Product Management",
@@ -24,18 +25,79 @@
     "text_ko": "아마도 저는 그런 사람들을 테크노 유토피아인이라고 부르는데, 데이터는 다 알고리즘에 주고 목표만 주면 잘 할 거라고 생각해요. 그런데 그게 잘 안 되는 이유는 알고리즘이 장기적인 효과를 잘 이해하지 못하고, 사람들이 어떻게 반응할지도 모르고, 제품에 대한 당신의 의도도 이해하지 못하기 때문이에요. 그래서 제품 매니저가 그런 역할을 하는 게 정말 중요하다고 생각해요.",
     "text_zh": "我称他们为技术乌托邦主义者，他们可能会说，把所有数据输入算法，设定一个目标，它就会做出正确的决策。但我认为，这种想法的缺陷在于，算法往往无法理解长期影响，也无法理解人们可能的反应，更无法理解你对产品的意图。因此，产品经理在这个过程中扮演着非常重要的角色。",
     "text_es": "Probablemente hay quienes yo llamo utopistas tecnológicos que dirían que hay que alimentar todos los datos al algoritmo, darle un objetivo y este hará lo correcto. Y yo pienso que el problema con eso es que los algoritmos a menudo no comprenden los efectos a largo plazo, ni cómo las personas podrían responder a ellos, ni entienden tu intención con el producto. Creo que es realmente importante que los gerentes de producto (product managers) asuman ese rol.",
-    "key_sentence": "Algorithms fall down because they don't understand long term effects or intent for the product."
+    "key_sentence": "feed all data to the algorithm, give it an objective, and it will do the right thing.",
+    "text_trimmed": true,
+    "original_text": "There are probably, I call them techno utopians who would say, feed all data to the algorithm, give it an objective, and it will do the right thing. And I was like yeah, the reason that falls down is the algorithms don't understand long term effects often, nor do they understand how people might respond to it, nor do they understand your intent for the product, and I think it's really important for product managers to play that role.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "algorithm",
+        "definition": "An algorithm is a set of rules or procedures for solving a problem or performing a task, often implemented in computer programming. It processes input data to produce output based on defined logical steps.",
+        "businessContext": "In business and technology, algorithms are crucial for data analysis, automation, and decision-making processes, particularly in areas like machine learning, finance, and marketing analytics.",
+        "nuance": "While 'algorithm' is often associated with complex computations, it can also refer to simple decision-making processes; however, overuse of the term can lead to misconceptions about its capabilities.",
+        "synonyms": [
+          "procedure",
+          "formula"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "objective",
+        "definition": "An objective is a specific goal or target that an individual or organization aims to achieve, often measurable and time-bound. It provides direction and a clear focus for decision-making and actions.",
+        "businessContext": "In business settings, objectives are essential for strategic planning, performance evaluation, and aligning team efforts towards common goals, often articulated in terms of key performance indicators (KPIs).",
+        "nuance": "The term 'objective' implies a level of neutrality and clarity, distinguishing it from 'subjective' goals, which may be influenced by personal feelings or opinions.",
+        "synonyms": [
+          "goal",
+          "aim"
+        ],
+        "antonyms": [
+          "subjective",
+          "N/A"
+        ]
+      },
+      {
+        "word": "automated decision-making",
+        "definition": "Automated decision-making refers to the process of using algorithms and data analytics to make decisions without human intervention. It leverages technology to streamline operations and enhance efficiency.",
+        "businessContext": "In the business world, automated decision-making is increasingly utilized in areas such as credit scoring, fraud detection, and customer service, allowing organizations to respond quickly and accurately to data-driven insights.",
+        "nuance": "While this process can improve efficiency and reduce human error, it raises ethical concerns regarding transparency and accountability, making it important to consider the implications of its use.",
+        "synonyms": [
+          "machine decision-making",
+          "algorithmic decision-making"
+        ],
+        "antonyms": [
+          "manual decision-making",
+          "human judgment"
+        ]
+      },
+      {
+        "word": "oversight",
+        "definition": "Oversight refers to the act of supervising or monitoring activities to ensure compliance with regulations, standards, or policies. It involves reviewing processes and outcomes to maintain accountability.",
+        "businessContext": "In corporate governance and project management, oversight is critical for risk management, ensuring that operations align with strategic objectives and regulatory requirements.",
+        "nuance": "The term can imply a level of authority and responsibility, suggesting that oversight is not just about monitoring but also about guiding and influencing decisions.",
+        "synonyms": [
+          "supervision",
+          "monitoring"
+        ],
+        "antonyms": [
+          "neglect",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "When you recognize that you get business value from it, then it all of a sudden becomes something that you look out for and you take care of. That's it. And there's definitely a lot more to it, but I think when it goes from frankly something people feel they need to do to be PC or for cultural reasons or because they're getting social pressure to do it to something that you really recognize concretely, no, I get value from this and you are willing to take the other steps to have a culture at your company that utilizes it, then it becomes easy because when you bring folks in from diverse backgrounds, they retain and that's always the number one step to growth as you will know.",
+    "text": "When you recognize that you get business value from it, then it all of a sudden becomes something that you look out for and you take care of. That's it.",
     "speaker": "Adriel Frederick",
     "timestamp": "00:16:51",
     "context": "Lenny asks Adriel about what he's learned regarding how to foster diversity at companies, given that Adriel was the first Black product manager at Facebook. Adriel is explaining his key insight about what makes diversity initiatives successful at companies. He argues that diversity efforts work best when companies recognize the concrete business value rather than pursuing diversity for social or political correctness reasons, and emphasizes that retention is crucial for any diversity program to succeed.",
     "vocabulary_highlights": [
-      "all of a sudden",
-      "to be PC",
-      "look out for",
-      "take the other steps"
+      "business value",
+      "foster",
+      "diversity",
+      "insight"
     ],
     "topics": [
       "Leadership & Management",
@@ -51,18 +113,79 @@
     "text_ko": "비즈니스에서 가치를 느끼게 되면, 갑자기 그걸 챙기고 신경 쓰게 돼요. 그게 전부예요. 물론 그 뒤에는 더 많은 것들이 있지만, 사람들이 단순히 정치적 올바름(PC)이나 문화적 이유, 아니면 사회적 압박 때문에 해야 한다고 느끼는 것에서, '아, 이건 정말 나에게 가치를 주는구나'라고 인식하게 되면, 그때부터는 회사에서 이를 활용할 수 있는 문화를 만들기 위해 다른 조치를 취할 의지가 생겨요. 그러면 쉽게 되죠. 다양한 배경을 가진 사람들을 영입하면 그들이 잘 정착하고, 그게 항상 성장의 첫걸음이니까요.",
     "text_zh": "当你意识到从中获得商业价值时，它突然间就变成了你关注和维护的对象。这就是关键。虽然其中还有很多内容，但我认为，当某件事情从人们出于政治正确（PC）或文化原因，或者因为社会压力而不得不做的事情，转变为你真正意识到从中获得了具体的价值，并愿意采取其他措施在公司内建立一种利用它的文化时，这一切就变得简单了。因为当你引入来自不同背景的人时，他们会留任，而这始终是你所知道的增长的第一步。",
     "text_es": "Cuando reconoces que obtienes valor comercial de ello, de repente se convierte en algo que buscas y cuidas. Eso es todo. Y definitivamente hay mucho más, pero creo que cuando pasa de ser algo que la gente siente que necesita hacer por razones de corrección política (PC) o culturales, o por presión social, a algo que realmente reconoces de manera concreta, es decir, que obtienes valor de esto y estás dispuesto a tomar los otros pasos para tener una cultura en tu empresa que lo utilice, entonces se vuelve fácil, porque cuando incorporas personas de diversos orígenes, se quedan, y eso siempre es el primer paso hacia el crecimiento, como bien sabes.",
-    "key_sentence": "Recognizing business value all of a sudden makes it easy to look out for diversity."
+    "key_sentence": "Recognizing business value all of a sudden makes it easy to look out for diversity.",
+    "text_trimmed": true,
+    "original_text": "When you recognize that you get business value from it, then it all of a sudden becomes something that you look out for and you take care of. That's it. And there's definitely a lot more to it, but I think when it goes from frankly something people feel they need to do to be PC or for cultural reasons or because they're getting social pressure to do it to something that you really recognize concretely, no, I get value from this and you are willing to take the other steps to have a culture at your company that utilizes it, then it becomes easy because when you bring folks in from diverse backgrounds, they retain and that's always the number one step to growth as you will know.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "business value",
+        "definition": "The quantifiable benefit that a business derives from a product, service, or initiative, often measured in terms of revenue, efficiency, or competitive advantage.",
+        "businessContext": "In business and tech environments, understanding business value is crucial for decision-making, as it helps prioritize investments and strategies that yield the highest returns.",
+        "nuance": "The term often implies a focus on measurable outcomes rather than intangible benefits, making it essential in performance evaluations.",
+        "synonyms": [
+          "economic value",
+          "financial benefit"
+        ],
+        "antonyms": [
+          "cost",
+          "loss"
+        ]
+      },
+      {
+        "word": "foster",
+        "definition": "To encourage the development or growth of something, often through support or nurturing actions.",
+        "businessContext": "In corporate settings, leaders often foster innovation and collaboration among teams to enhance productivity and creativity.",
+        "nuance": "While 'foster' implies a positive and supportive approach, it may not convey the urgency or direct action that terms like 'drive' or 'force' might suggest.",
+        "synonyms": [
+          "nurture",
+          "cultivate"
+        ],
+        "antonyms": [
+          "hinder",
+          "neglect"
+        ]
+      },
+      {
+        "word": "diversity",
+        "definition": "The inclusion of individuals from various backgrounds, including but not limited to race, gender, age, sexual orientation, and cultural background, within a group or organization.",
+        "businessContext": "In the business world, diversity is increasingly recognized as a driver of innovation and improved decision-making, leading many companies to implement diversity initiatives.",
+        "nuance": "While diversity emphasizes representation, it is often accompanied by discussions of equity and inclusion, which address the quality of participation and opportunity.",
+        "synonyms": [
+          "variety",
+          "heterogeneity"
+        ],
+        "antonyms": [
+          "uniformity",
+          "homogeneity"
+        ]
+      },
+      {
+        "word": "insight",
+        "definition": "The capacity to gain an accurate and deep understanding of someone or something, often leading to valuable conclusions or actions.",
+        "businessContext": "In business analytics and market research, insights derived from data can inform strategic decisions and enhance customer engagement.",
+        "nuance": "The term 'insight' suggests a level of depth and understanding that goes beyond mere information or data, often implying a transformative perspective.",
+        "synonyms": [
+          "understanding",
+          "perception"
+        ],
+        "antonyms": [
+          "ignorance",
+          "misunderstanding"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think some controversy is necessary and so I may be at a different point on that one. I don't think you're going to have any meaningful influence on the world without changing some pattern of behavior. And if you're changing a pattern of behavior, there's somebody who's invested in that pattern of behavior and that's going to create some conflict.",
+    "text": "I think some controversy is necessary and so I may be at a different point on that one. I don't think you're going to have any meaningful influence on the world without changing some pattern of behavior.",
     "speaker": "Adriel Frederick",
     "timestamp": "00:21:31",
     "context": "Lenny observes that Adriel has worked at several controversial companies like Facebook, Lyft, and Reddit, and asks what he's learned about operating as a product leader at companies that face frequent criticism and bad PR. Adriel is explaining his philosophy that controversy is often inevitable when building meaningful products. He argues that creating real impact requires changing existing behaviors, which naturally creates conflict with those who benefit from the status quo.",
     "vocabulary_highlights": [
-      "at a different point",
-      "meaningful influence",
-      "invested in that pattern",
-      "create some conflict"
+      "meaningful",
+      "influence",
+      "controversy",
+      "behavior"
     ],
     "topics": [
       "Leadership & Management",
@@ -78,19 +201,79 @@
     "text_ko": "저는 어느 정도 논란이 필요하다고 생각해요. 그래서 그 부분에 대해서는 좀 다른 의견일 수도 있어요. 세상에 의미 있는 영향을 미치려면 행동 패턴을 바꿔야 한다고 생각해요. 행동 패턴을 바꾸면 그 패턴에 투자한 사람들이 있기 때문에 갈등이 생길 수밖에 없죠.",
     "text_zh": "我认为适度的争议是必要的，因此我可能在这一点上与您有所不同。我认为，如果不改变某些行为模式，您将无法对世界产生任何有意义的影响。而如果您在改变某种行为模式，就会有一些人对此模式有所依赖，这必然会引发冲突。",
     "text_es": "Creo que cierta controversia es necesaria, por lo que puedo tener una opinión diferente al respecto. No creo que puedas tener una influencia significativa en el mundo sin cambiar algún patrón de comportamiento. Y si estás cambiando un patrón de comportamiento, hay alguien que está invertido en ese patrón y eso va a generar algún conflicto.",
-    "key_sentence": "Meaningful influence requires changing behavior, which creates conflict with those invested in it."
+    "key_sentence": "I don't think you're going to have any meaningful influence on the world without changing some pattern of behavior.",
+    "text_trimmed": true,
+    "original_text": "I think some controversy is necessary and so I may be at a different point on that one. I don't think you're going to have any meaningful influence on the world without changing some pattern of behavior. And if you're changing a pattern of behavior, there's somebody who's invested in that pattern of behavior and that's going to create some conflict.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "meaningful",
+        "definition": "Having significance or purpose; conveying an important message or value.",
+        "businessContext": "In business, 'meaningful' often refers to actions, metrics, or relationships that have a substantial impact on outcomes or stakeholder engagement.",
+        "nuance": "While 'meaningful' implies depth and importance, it can sometimes be perceived as subjective, so it's important to clarify the context in which it is used.",
+        "synonyms": [
+          "significant",
+          "substantial"
+        ],
+        "antonyms": [
+          "insignificant",
+          "trivial"
+        ]
+      },
+      {
+        "word": "influence",
+        "definition": "The capacity to have an effect on the character, development, or behavior of someone or something.",
+        "businessContext": "In a business setting, influence can refer to the power of individuals or organizations to sway decisions, shape company culture, or drive market trends.",
+        "nuance": "Influence can be both direct and indirect, and while it often carries a positive connotation, it can also imply manipulation if not exercised ethically.",
+        "synonyms": [
+          "impact",
+          "sway"
+        ],
+        "antonyms": [
+          "powerlessness",
+          "ineffectiveness"
+        ]
+      },
+      {
+        "word": "controversy",
+        "definition": "A prolonged public disagreement or heated discussion, often involving differing opinions or viewpoints.",
+        "businessContext": "In the business world, controversy can arise from decisions, policies, or practices that provoke debate among stakeholders, affecting public perception and brand reputation.",
+        "nuance": "While controversy can be detrimental, it can also serve as a catalyst for change or innovation if managed effectively.",
+        "synonyms": [
+          "dispute",
+          "debate"
+        ],
+        "antonyms": [
+          "consensus",
+          "agreement"
+        ]
+      },
+      {
+        "word": "behavior",
+        "definition": "The way in which one acts or conducts oneself, especially towards others.",
+        "businessContext": "In a business context, understanding employee behavior is crucial for management, as it influences team dynamics, productivity, and organizational culture.",
+        "nuance": "Behavior can be both conscious and unconscious, and it is important to consider the underlying motivations when assessing it in a professional environment.",
+        "synonyms": [
+          "conduct",
+          "action"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think growth hacking as traditionally assigned, finding those small changes you can make to a product to give you outsized impact, that is absolutely valuable. Where I've seen people get lost is they assume that if you do that alone, it will work. You can grow your way into something successful if you just find those few hacks and patch them together. And there's something about that that I find disrespectful to the people using the product.",
+    "text": "I think growth hacking as traditionally assigned, finding those small changes you can make to a product to give you outsized impact, that is absolutely valuable. Where I've seen people get lost is they assume that if you do that alone, it will work.",
     "speaker": "Adriel Frederick",
     "timestamp": "00:44:43",
     "context": "Lenny asks Adriel about his learnings on growth and growth hacking from his time at Facebook's growth team and other companies. Adriel is explaining his nuanced view on growth hacking - while he sees value in tactical optimizations that can create outsized impact, he warns against relying solely on these tactics. He argues that depending only on growth hacks without providing real fundamental value is ultimately disrespectful to users and unsustainable.",
     "vocabulary_highlights": [
-      "traditionally assigned",
+      "growth hacking",
       "outsized impact",
-      "get lost",
-      "patch them together",
-      "disrespectful"
+      "valuable",
+      "nuanced"
     ],
     "topics": [
       "Growth & Marketing",
@@ -106,17 +289,79 @@
     "text_ko": "저는 전통적으로 성장 해킹(growth hacking)이라고 하는, 제품에 작은 변화를 주어서 큰 영향을 주는 방법이 정말 가치 있다고 생각해요. 그런데 사람들이 자주 헷갈리는 점은, 그걸 혼자서만 하면 성공할 거라고 생각하는 거예요. 몇 가지 해킹(hacks)을 찾아서 조합하면 성공할 수 있다고 믿는 거죠. 그런데 그렇게 생각하는 건 제품을 사용하는 사람들에 대한 예의가 아닌 것 같아요.",
     "text_zh": "我认为传统意义上的增长黑客（growth hacking），即寻找那些可以对产品产生巨大影响的小改动，确实是非常有价值的。然而，我看到很多人误以为仅仅依靠这些小改动就能成功。他们认为只要找到几个黑客（hacks）并将其拼凑在一起，就能实现增长。我觉得这种想法对使用产品的人是不尊重的。",
     "text_es": "Creo que el \"growth hacking\" (crecimiento acelerado), tal como se ha definido tradicionalmente, es valioso al encontrar esos pequeños cambios que puedes hacer en un producto para lograr un impacto desproporcionado. Donde he visto que las personas se pierden es al asumir que si lo hacen por su cuenta, funcionará. Puedes crecer hacia algo exitoso si solo encuentras esos pocos \"hacks\" y los unes. Y hay algo en eso que considero irrespetuoso hacia las personas que utilizan el producto.",
-    "key_sentence": "Growth hacking traditionally assigned can lead people to get lost in patching them together."
+    "key_sentence": "Growth hacking traditionally assigned can lead people to get lost in patching them together.",
+    "text_trimmed": true,
+    "original_text": "I think growth hacking as traditionally assigned, finding those small changes you can make to a product to give you outsized impact, that is absolutely valuable. Where I've seen people get lost is they assume that if you do that alone, it will work. You can grow your way into something successful if you just find those few hacks and patch them together. And there's something about that that I find disrespectful to the people using the product.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "growth hacking",
+        "definition": "Growth hacking refers to a set of marketing strategies focused on rapid growth, often leveraging data analysis and creative problem-solving to optimize product performance and user acquisition.",
+        "businessContext": "In startup environments, growth hacking is employed to achieve significant growth with minimal resources, often through innovative marketing techniques and product adjustments.",
+        "nuance": "While growth hacking emphasizes quick wins and unconventional methods, it should not replace a comprehensive marketing strategy; it is best used as a complement to traditional approaches.",
+        "synonyms": [
+          "growth marketing",
+          "agile marketing"
+        ],
+        "antonyms": [
+          "stagnation",
+          "decline"
+        ]
+      },
+      {
+        "word": "outsized impact",
+        "definition": "Outsized impact refers to an effect or influence that is disproportionately large compared to the effort or resources invested.",
+        "businessContext": "In business, achieving an outsized impact is often a goal for startups, as they seek to maximize their results from limited investments in time and capital.",
+        "nuance": "This term conveys a sense of exceptional effectiveness; however, it can imply that results may not be sustainable if not supported by a solid foundation.",
+        "synonyms": [
+          "disproportionate effect",
+          "significant influence"
+        ],
+        "antonyms": [
+          "minimal impact",
+          "negligible effect"
+        ]
+      },
+      {
+        "word": "valuable",
+        "definition": "Valuable describes something that has worth, significance, or utility, often in terms of financial, intellectual, or emotional benefits.",
+        "businessContext": "In business, products, services, or insights are deemed valuable when they meet customer needs effectively, leading to customer satisfaction and loyalty.",
+        "nuance": "While 'valuable' generally has a positive connotation, it is essential to specify the context in which something is considered valuable to avoid ambiguity.",
+        "synonyms": [
+          "beneficial",
+          "worthwhile"
+        ],
+        "antonyms": [
+          "worthless",
+          "insignificant"
+        ]
+      },
+      {
+        "word": "nuanced",
+        "definition": "Nuanced refers to something characterized by subtle distinctions or variations, often requiring careful consideration to fully understand.",
+        "businessContext": "In business discussions, a nuanced approach is crucial for addressing complex issues, as it allows for a deeper understanding of different perspectives and potential solutions.",
+        "nuance": "The term suggests sophistication and depth; however, it may also imply that a topic is complicated and not easily understood, which can be a barrier in communication.",
+        "synonyms": [
+          "subtle",
+          "refined"
+        ],
+        "antonyms": [
+          "simplistic",
+          "blunt"
+        ]
+      }
+    ]
   },
   {
-    "text": "For me, it's a person who is just on the cusp of taking the action you want to take. I'll give you the concrete example. When working on registration, I would try to find a country where we had a lot of growth, but for some reason our conversion rates were terrible. So we had a lot of traffic, but conversion rates were terrible. And I was like, okay, that's the marginal user.",
+    "text": "For me, it's a person who is just on the cusp of taking the action you want to take. I'll give you the concrete example.",
     "speaker": "Adriel Frederick",
     "timestamp": "00:50:29",
     "context": "Lenny asks Adriel to unpack what he means by the term 'marginal user,' which Adriel had mentioned earlier as a key focus for growth optimization. Adriel is defining this concept by explaining that marginal users are people who are almost ready to take a desired action but haven't quite gotten there yet. He provides a concrete example from his Facebook experience of identifying marginal users by looking for markets with high traffic but low conversion rates.",
     "vocabulary_highlights": [
-      "on the cusp",
+      "marginal user",
+      "growth optimization",
       "concrete example",
-      "marginal user"
+      "focus for growth"
     ],
     "topics": [
       "Growth & Marketing",
@@ -132,17 +377,79 @@
     "text_ko": "저한테는 원하는 행동을 막 하려는 사람을 의미해요. 구체적인 예를 들어볼게요. 등록 작업을 할 때, 성장률이 높은 나라를 찾으려고 했는데, 이상하게도 전환율이 정말 낮았어요. 그래서 방문자는 많았는데 전환율은 형편없었죠. 그래서 저는 그걸 한계 사용자(marginal user)라고 생각했어요.",
     "text_zh": "对我来说，这个人正好处于采取你想要的行动的边缘。我给你一个具体的例子。在进行注册工作时，我会尝试找一个我们增长很快的国家，但出于某种原因，我们的转化率却很糟糕。所以我们有很多流量，但转化率却很低。我想，这就是边际用户。",
     "text_es": "Para mí, es una persona que está a punto de tomar la acción que deseas que tome. Te daré un ejemplo concreto. Al trabajar en el registro, intentaba encontrar un país donde tuviéramos un gran crecimiento, pero por alguna razón nuestras tasas de conversión eran terribles. Teníamos mucho tráfico, pero las tasas de conversión eran muy bajas. Y pensé, está bien, ese es el usuario marginal.",
-    "key_sentence": "A marginal user is on the cusp of taking the desired action for conversion."
+    "key_sentence": "A marginal user is on the cusp of taking the desired action for conversion.",
+    "text_trimmed": true,
+    "original_text": "For me, it's a person who is just on the cusp of taking the action you want to take. I'll give you the concrete example. When working on registration, I would try to find a country where we had a lot of growth, but for some reason our conversion rates were terrible. So we had a lot of traffic, but conversion rates were terrible. And I was like, okay, that's the marginal user.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "marginal user",
+        "definition": "A marginal user is an individual who is on the brink of adopting a product or service but has not yet fully committed to it.",
+        "businessContext": "In business and marketing, identifying marginal users can help companies tailor their strategies to convert these potential customers into active users.",
+        "nuance": "The term often implies that the user is hesitant or undecided, making it important to understand their motivations and barriers to adoption.",
+        "synonyms": [
+          "potential user",
+          "prospective customer"
+        ],
+        "antonyms": [
+          "loyal customer",
+          "active user"
+        ]
+      },
+      {
+        "word": "growth optimization",
+        "definition": "Growth optimization refers to the systematic process of improving a business's strategies and operations to maximize its growth potential.",
+        "businessContext": "In startups and tech companies, growth optimization often involves analyzing data, refining marketing tactics, and enhancing product features to drive user acquisition and retention.",
+        "nuance": "This term suggests a proactive and analytical approach to growth, emphasizing efficiency and effectiveness in achieving business objectives.",
+        "synonyms": [
+          "scalability enhancement",
+          "performance improvement"
+        ],
+        "antonyms": [
+          "growth stagnation",
+          "decline"
+        ]
+      },
+      {
+        "word": "concrete example",
+        "definition": "A concrete example is a specific, tangible instance used to illustrate a concept or idea.",
+        "businessContext": "In business presentations or discussions, providing a concrete example can help clarify complex ideas and make them more relatable to the audience.",
+        "nuance": "This phrase is often used to emphasize the importance of practical application over theoretical discussion, making it particularly effective in persuasive communication.",
+        "synonyms": [
+          "specific case",
+          "real-world instance"
+        ],
+        "antonyms": [
+          "abstract concept",
+          "theoretical example"
+        ]
+      },
+      {
+        "word": "focus for growth",
+        "definition": "Focus for growth refers to the strategic areas or initiatives that a business prioritizes to drive its expansion and success.",
+        "businessContext": "In corporate strategy, identifying a focus for growth helps organizations allocate resources effectively and align their efforts towards achieving specific growth objectives.",
+        "nuance": "This phrase conveys a sense of direction and intentionality, suggesting that not all areas are equally important for growth at any given time.",
+        "synonyms": [
+          "growth strategy",
+          "strategic priority"
+        ],
+        "antonyms": [
+          "dispersed efforts",
+          "lack of direction"
+        ]
+      }
+    ]
   },
   {
-    "text": "Organization design and empathy. Oh dude, for a long time, and I think this is, I and many others had this idea that the people who are the smartest are the ones who rise. The people who are the most technically competent are the ones who rise. People who are the best individual contributors are the ones who rise. And somewhere along the way I had that idea disabused of me and I recognize the job's different.",
+    "text": "Organization design and empathy. Oh dude, for a long time, and I think this is, I and many others had this idea that the people who are the smartest are the ones who rise.",
     "speaker": "Adriel Frederick",
     "timestamp": "01:00:45",
     "context": "Lenny asks Adriel what skills he's had to grow most as he's advanced from individual contributor to VP of Product at Reddit. Adriel identifies organization design and empathy as the two most critical skills he's developed. He explains that early in his career, like many others, he believed that being the smartest or most technically competent person would lead to advancement, but he learned that leadership roles require fundamentally different skills focused on building and managing teams effectively.",
     "vocabulary_highlights": [
-      "had that idea disabused of me",
-      "the ones who rise",
-      "individual contributors"
+      "organization design",
+      "empathy",
+      "critical",
+      "individual contributor"
     ],
     "topics": [
       "Leadership & Management",
@@ -158,6 +465,67 @@
     "text_ko": "조직 설계와 공감에 대해 이야기해볼게요. 한동안 저도 그렇고 많은 사람들이 가장 똑똑한 사람들이 성공한다고 생각했어요. 기술적으로 가장 능숙한 사람들이 올라간다고 믿었고, 개인적으로 가장 잘하는 사람들이 성공한다고 생각했죠. 그런데 어느 순간 그 생각이 바뀌었고, 일이 다르다는 걸 깨달았어요.",
     "text_zh": "组织设计与同理心。很长一段时间以来，我和许多人都有这样的想法：最聪明的人是那些能够晋升的人；技术能力最强的人是那些能够晋升的人；表现最出色的个人贡献者是那些能够晋升的人。然而，在某个时刻，我意识到这个想法是错误的，我认识到工作的本质是不同的。",
     "text_es": "Diseño organizacional y empatía. Durante mucho tiempo, yo y muchos otros pensamos que las personas más inteligentes son las que ascienden. Que los que tienen mayor competencia técnica son los que avanzan. Que los mejores colaboradores individuales son los que logran el éxito. Sin embargo, en algún momento me di cuenta de que el trabajo es diferente.",
-    "key_sentence": "I had that idea disabused of me; individual contributors don't always rise."
+    "key_sentence": "the people who are the smartest are the ones who rise.",
+    "text_trimmed": true,
+    "original_text": "Organization design and empathy. Oh dude, for a long time, and I think this is, I and many others had this idea that the people who are the smartest are the ones who rise. The people who are the most technically competent are the ones who rise. People who are the best individual contributors are the ones who rise. And somewhere along the way I had that idea disabused of me and I recognize the job's different.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "organization design",
+        "definition": "Organization design refers to the process of structuring an organization to align its resources and processes with its strategic objectives. It involves defining roles, responsibilities, and relationships within the organization.",
+        "businessContext": "In business and tech settings, effective organization design is crucial for optimizing workflows, enhancing communication, and ensuring that teams can respond quickly to changes in the market.",
+        "nuance": "While often associated with hierarchical structures, organization design can also encompass more fluid, agile frameworks that promote collaboration and innovation.",
+        "synonyms": [
+          "organizational structure",
+          "organizational architecture"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "empathy",
+        "definition": "Empathy is the ability to understand and share the feelings of another person, fostering a deeper connection and understanding of their perspective. It is a key component of emotional intelligence.",
+        "businessContext": "In the workplace, empathy is essential for effective leadership, team collaboration, and customer relations, as it helps in building trust and improving communication.",
+        "nuance": "While empathy is generally viewed positively, excessive empathy can lead to emotional burnout or biased decision-making if not balanced with objectivity.",
+        "synonyms": [
+          "compassion",
+          "understanding"
+        ],
+        "antonyms": [
+          "indifference",
+          "apathy"
+        ]
+      },
+      {
+        "word": "critical",
+        "definition": "Critical refers to the ability to analyze and evaluate information or situations with a discerning eye, often highlighting the importance of thorough examination and judgment. It can also imply a sense of urgency or severity.",
+        "businessContext": "In business, critical thinking is vital for problem-solving, strategic planning, and decision-making, enabling leaders to navigate complex challenges effectively.",
+        "nuance": "The term can carry a negative connotation when used to describe feedback or assessments that are overly harsh or unconstructive.",
+        "synonyms": [
+          "analytical",
+          "judgmental"
+        ],
+        "antonyms": [
+          "uncritical",
+          "accepting"
+        ]
+      },
+      {
+        "word": "individual contributor",
+        "definition": "An individual contributor is an employee who contributes to a company's goals through their specialized skills and expertise, rather than through managerial responsibilities or leadership roles. They typically focus on executing tasks and projects independently.",
+        "businessContext": "In tech and startup environments, individual contributors are often essential for driving innovation and delivering high-quality work, especially in roles such as software development, design, and research.",
+        "nuance": "While individual contributors are crucial for operational success, there can be a perception that they lack the influence or authority that comes with managerial positions.",
+        "synonyms": [
+          "team member",
+          "specialist"
+        ],
+        "antonyms": [
+          "manager",
+          "leader"
+        ]
+      }
+    ]
   }
 ]

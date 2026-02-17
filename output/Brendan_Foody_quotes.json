@@ -1,13 +1,14 @@
 [
   {
-    "text": "The wealthiest companies in the world are willing to spend whatever it takes to improve model capabilities. The market is bound by the amount of things where humans can do something that models can't. The lab's primary bottleneck to improve models is how they can effectively have some way of measuring what success looks like for the model.",
+    "text": "The wealthiest companies in the world are willing to spend whatever it takes to improve model capabilities. The market is bound by the amount of things where humans can do something that models can't.",
     "speaker": "Brendan Foody",
     "timestamp": "00:00:00",
     "context": "Lenny asks Brendan why the AI training data market has become so valuable and why companies like Mercor are experiencing unprecedented growth. Brendan explains that AI labs are facing a fundamental bottleneck - they need ways to measure and evaluate model performance across different capabilities. Since the most advanced AI companies have virtually unlimited resources to improve their models, they're willing to pay premium rates for experts who can help them assess what success looks like for their AI systems.",
     "vocabulary_highlights": [
-      "whatever it takes",
-      "bound by",
-      "primary bottleneck"
+      "model capabilities",
+      "fundamental",
+      "unprecedented growth",
+      "market"
     ],
     "topics": [
       "Product Management",
@@ -24,17 +25,79 @@
     "text_ko": "세계에서 가장 부유한 기업들은 모델 역량(model capabilities)을 높이기 위해 필요한 건 뭐든지 투자할 준비가 돼 있어요.  \n시장 규모는 사람이 모델이 못 하는 일을 할 수 있는 영역의 크기에 의해 제한돼요.  \n랩(lab)의 모델 개선에서 가장 큰 병목은 모델의 성공이 어떤 모습인지 효과적으로 측정할 방법을 마련하는 거예요.",
     "text_zh": "全世界最有钱的那些公司，为了提升模型能力，花多少钱都舍得。市场的天花板就看人类能做而模型做不了的事情还有多少。实验室要改进模型，最大的卡脖子问题就是怎么有效衡量模型到底做得成功不成功。",
     "text_es": "Las empresas más prósperas del mundo están dispuestas a invertir lo que sea necesario para mejorar las capacidades de sus modelos. El mercado está limitado por la cantidad de tareas donde los humanos pueden hacer algo que los modelos no pueden. El principal cuello de botella (bottleneck) del laboratorio para mejorar los modelos es cómo pueden tener una manera efectiva de medir cómo se ve el éxito del modelo.",
-    "key_sentence": "Wealthiest companies spend whatever it takes to improve model capabilities."
+    "key_sentence": "Wealthiest companies spend whatever it takes to improve model capabilities.",
+    "text_trimmed": true,
+    "original_text": "The wealthiest companies in the world are willing to spend whatever it takes to improve model capabilities. The market is bound by the amount of things where humans can do something that models can't. The lab's primary bottleneck to improve models is how they can effectively have some way of measuring what success looks like for the model.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "model capabilities",
+        "definition": "Model capabilities refer to the features and functionalities that a predictive model or algorithm can perform, including its accuracy, efficiency, and adaptability to different datasets.",
+        "businessContext": "In business and technology, enhancing model capabilities is crucial for improving decision-making processes and gaining competitive advantages through data-driven insights.",
+        "nuance": "The term often implies a focus on the technical aspects of models, and should be used in contexts where precision and performance are being discussed.",
+        "synonyms": [
+          "model performance",
+          "algorithm capabilities"
+        ],
+        "antonyms": [
+          "model limitations",
+          "N/A"
+        ]
+      },
+      {
+        "word": "fundamental",
+        "definition": "Fundamental refers to the basic, essential, or foundational principles or elements that serve as the groundwork for a system or concept.",
+        "businessContext": "In business, understanding fundamental principles is vital for strategic planning and decision-making, as they influence the overall direction and success of an organization.",
+        "nuance": "While 'fundamental' suggests something essential, it can also imply a degree of simplicity or basic understanding, so it should be used carefully in complex discussions.",
+        "synonyms": [
+          "essential",
+          "core"
+        ],
+        "antonyms": [
+          "superficial",
+          "N/A"
+        ]
+      },
+      {
+        "word": "unprecedented growth",
+        "definition": "Unprecedented growth refers to a level of expansion or increase that has never been seen before, often characterized by rapid and substantial changes in metrics such as revenue, market share, or customer base.",
+        "businessContext": "In the context of startups and emerging markets, unprecedented growth can indicate a breakthrough innovation or a significant shift in consumer behavior that creates new opportunities.",
+        "nuance": "This phrase carries a positive connotation, suggesting exceptional success, but should be used judiciously to avoid overstatement in less extraordinary situations.",
+        "synonyms": [
+          "remarkable expansion",
+          "extraordinary growth"
+        ],
+        "antonyms": [
+          "stagnation",
+          "decline"
+        ]
+      },
+      {
+        "word": "market",
+        "definition": "Market refers to the arena in which commercial dealings are conducted, encompassing the demand for goods and services as well as the competitive landscape among suppliers.",
+        "businessContext": "In business, analyzing the market is essential for identifying opportunities, understanding consumer behavior, and developing effective marketing strategies.",
+        "nuance": "While 'market' can refer to a specific sector or industry, it can also imply a broader economic context, so clarity is important when specifying which market is being discussed.",
+        "synonyms": [
+          "industry",
+          "sector"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "If the model is the product, then the eval is the product requirement document. And reinforcement learning is becoming so effective that once they have an eval, they can help climb it. If you look at just how fast people were able to saturate Olympiad Math once they focused on it, how fast we're even saturating SWE-bench once we focus on it.",
+    "text": "If the model is the product, then the eval is the product requirement document. And reinforcement learning is becoming so effective that once they have an eval, they can help climb it.",
     "speaker": "Brendan Foody",
     "timestamp": "00:06:19",
     "context": "Lenny asks Brendan to explain what the \"era of evals\" means and why evaluations are becoming so important in AI development. Brendan uses an analogy to explain that evaluations (evals) serve the same purpose for AI models that product requirement documents serve for traditional products - they define what success looks like. He explains that once labs have clear evaluation criteria, they can use reinforcement learning techniques to rapidly improve model performance on those specific tasks.",
     "vocabulary_highlights": [
-      "climb it",
-      "saturate",
-      "focus on it"
+      "requirement",
+      "reinforcement",
+      "effective",
+      "evaluate"
     ],
     "topics": [
       "Product Management",
@@ -50,16 +113,79 @@
     "text_ko": "모델(model)이 제품이라면, 평가(eval)는 제품 요구사항 문서(product requirement document)와 같아요. 강화학습(reinforcement learning)이 워낙 효과적이라 일단 평가가 마련되면 그 평가를 바탕으로 성능을 끌어올리는 데 바로 활용할 수 있어요. 사람들이 올림피아드 수학(Olympiad Math)에만 집중했을 때 얼마나 빠르게 포화에 이르렀는지, 우리도 SWE-bench(SWE-bench)에 집중하면 얼마나 빨리 포화시키는지 보면 그게 잘 드러나요.",
     "text_zh": "如果模型就是产品，那评测(eval)就相当于产品需求文档(PRD)。现在强化学习(reinforcement learning)变得特别厉害，只要有了评测标准，就能帮着往上冲。你看奥数竞赛，大家一认真搞，很快就刷到头了；还有SWE-bench那个基准测试，我们一专注去做，也很快就要刷满分了。",
     "text_es": "Si el modelo es el producto, entonces la evaluación es el documento de requisitos del producto. Y el aprendizaje por refuerzo se está volviendo tan efectivo que una vez que tienen una eval, pueden ayudar a escalarla. Si ves qué tan rápido la gente pudo saturar las Olimpiadas de Matemáticas una vez que se enfocaron en eso, qué tan rápido estamos saturando incluso el SWE-bench una vez que nos enfocamos en ello.",
-    "key_sentence": "Reinforcement learning helps saturate challenges once we focus on it."
+    "key_sentence": "the eval is the product requirement document.",
+    "text_trimmed": true,
+    "original_text": "If the model is the product, then the eval is the product requirement document. And reinforcement learning is becoming so effective that once they have an eval, they can help climb it. If you look at just how fast people were able to saturate Olympiad Math once they focused on it, how fast we're even saturating SWE-bench once we focus on it.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "requirement",
+        "definition": "A requirement is a specific condition or capability that must be met or possessed by a product, service, or system to satisfy a contract, standard, or specification.",
+        "businessContext": "In business and technology, requirements are critical for guiding the development process and ensuring that the final product meets customer needs and regulatory standards.",
+        "nuance": "While often used interchangeably with 'specification,' 'requirement' implies a necessity rather than a suggestion.",
+        "synonyms": [
+          "specification",
+          "condition"
+        ],
+        "antonyms": [
+          "option",
+          "suggestion"
+        ]
+      },
+      {
+        "word": "reinforcement",
+        "definition": "Reinforcement refers to the process of strengthening a behavior or outcome through rewards or positive feedback, often used in learning and behavioral contexts.",
+        "businessContext": "In the context of machine learning and artificial intelligence, reinforcement learning is a method where algorithms learn optimal actions through trial and error, guided by rewards.",
+        "nuance": "The term carries a positive connotation, suggesting support and encouragement, and is often used in discussions about behavior modification and training.",
+        "synonyms": [
+          "strengthening",
+          "support"
+        ],
+        "antonyms": [
+          "weakening",
+          "diminishment"
+        ]
+      },
+      {
+        "word": "effective",
+        "definition": "Effective describes something that successfully produces a desired or intended result, often measured by its impact or efficiency.",
+        "businessContext": "In business, an effective strategy or tool is one that achieves its goals, such as increasing sales or improving customer satisfaction, and is often evaluated through performance metrics.",
+        "nuance": "While 'effective' implies success, it does not necessarily convey efficiency; something can be effective but not efficient.",
+        "synonyms": [
+          "efficient",
+          "successful"
+        ],
+        "antonyms": [
+          "ineffective",
+          "unproductive"
+        ]
+      },
+      {
+        "word": "evaluate",
+        "definition": "To evaluate means to assess or appraise the value, quality, or performance of something based on established criteria.",
+        "businessContext": "In business settings, evaluation is crucial for decision-making processes, such as assessing project feasibility, employee performance, or product effectiveness.",
+        "nuance": "The term suggests a systematic approach to assessment, often involving quantitative and qualitative measures, and is more formal than simply 'judging.'",
+        "synonyms": [
+          "assess",
+          "appraise"
+        ],
+        "antonyms": [
+          "ignore",
+          "overlook"
+        ]
+      }
+    ]
   },
   {
-    "text": "What everyone is generally moving towards is reinforcement learning from AI feedback instead of human feedback where you have instead the human defined some sort of success criteria, some way to measure that. And it's far more scalable and data-efficient, and so that's why a lot of the broader trend in the market across the board is moving towards RLHF to both eval models as well as improved capabilities.",
+    "text": "What everyone is generally moving towards is reinforcement learning from AI feedback instead of human feedback where you have instead the human defined some sort of success criteria, some way to measure that.",
     "speaker": "Brendan Foody",
     "timestamp": "00:15:22",
     "context": "Lenny asks Brendan to explain what experts are actually doing when they work with AI labs. Brendan describes the evolution of AI training methods, explaining how the industry is shifting from human-driven feedback to AI-driven feedback systems. In this newer approach, humans create the success criteria and rubrics, but AI systems handle the actual evaluation and feedback process, making the training process much more efficient and scalable.",
     "vocabulary_highlights": [
-      "data-efficient",
-      "across the board"
+      "reinforcement learning",
+      "success criteria",
+      "measure",
+      "feedback"
     ],
     "topics": [
       "Product Management",
@@ -75,17 +201,79 @@
     "text_ko": "요즘 대부분이 향하는 방향은 사람이 직접 평가하는 인간 피드백 대신 AI가 주는 피드백으로부터 학습하는 강화학습(reinforcement learning from AI feedback)이에요. 예전에는 사람이 어떤 성공 기준을 정해 그걸로 성과를 측정했죠. 그런데 AI 기반 방식이 훨씬 더 확장 가능하고 데이터 효율적이라서, 시장 전반에서 모델 평가와 성능 개선 모두에 AI 피드백 기반 강화학습(reinforcement learning from AI feedback, 기존 RLHF 개념의 확장) 쪽으로 움직이고 있어요.",
     "text_zh": "现在大家普遍都在往一个方向走，就是用AI反馈来做强化学习(reinforcement learning)，而不是用人的反馈。这种方式是让人先定义好成功的标准，定义好怎么去衡量。这样做扩展性更强，数据效率也更高，所以你看市场上整体的大趋势都在朝RLHF这个方向发展，既能用来评估模型，也能提升模型的能力。",
     "text_es": "Hacia donde se está moviendo todo el mundo en general es el aprendizaje por refuerzo con retroalimentación de IA en lugar de retroalimentación humana, donde lo que tienes es que el humano define algún tipo de criterio de éxito, alguna forma de medirlo. Y es mucho más escalable y eficiente en cuanto a datos, por eso es que gran parte de la tendencia general en el mercado está yendo hacia RLHF tanto para evaluar modelos como para mejorar capacidades.",
-    "key_sentence": "The market is moving towards data-efficient reinforcement learning from AI feedback."
+    "key_sentence": "The market is moving towards data-efficient reinforcement learning from AI feedback.",
+    "text_trimmed": true,
+    "original_text": "What everyone is generally moving towards is reinforcement learning from AI feedback instead of human feedback where you have instead the human defined some sort of success criteria, some way to measure that. And it's far more scalable and data-efficient, and so that's why a lot of the broader trend in the market across the board is moving towards RLHF to both eval models as well as improved capabilities.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "reinforcement learning",
+        "definition": "A type of machine learning where an agent learns to make decisions by receiving rewards or penalties based on its actions in an environment.",
+        "businessContext": "In business and tech, reinforcement learning is often applied in developing AI systems that optimize processes, enhance user experiences, or improve decision-making through iterative learning.",
+        "nuance": "This term conveys a sense of adaptive learning and improvement over time, distinguishing it from other learning paradigms that may rely on static datasets.",
+        "synonyms": [
+          "adaptive learning",
+          "trial-and-error learning"
+        ],
+        "antonyms": [
+          "supervised learning",
+          "unsupervised learning"
+        ]
+      },
+      {
+        "word": "success criteria",
+        "definition": "The specific standards or benchmarks used to evaluate the success of a project, initiative, or performance.",
+        "businessContext": "In project management and business strategy, success criteria are essential for measuring outcomes and ensuring alignment with organizational goals.",
+        "nuance": "While often quantitative, success criteria can also be qualitative, and it's important to clearly define them to avoid ambiguity in performance assessments.",
+        "synonyms": [
+          "performance metrics",
+          "evaluation standards"
+        ],
+        "antonyms": [
+          "failure indicators",
+          "N/A"
+        ]
+      },
+      {
+        "word": "measure",
+        "definition": "To ascertain the size, amount, or degree of something using a standard unit or method.",
+        "businessContext": "In business, measuring performance, outcomes, or processes is critical for data-driven decision-making and strategic planning.",
+        "nuance": "The term implies a systematic approach to evaluation, and it is often associated with quantitative analysis rather than qualitative assessments.",
+        "synonyms": [
+          "assess",
+          "evaluate"
+        ],
+        "antonyms": [
+          "ignore",
+          "neglect"
+        ]
+      },
+      {
+        "word": "feedback",
+        "definition": "Information or criticism about a person's performance or work, intended to guide future improvements.",
+        "businessContext": "In corporate environments, feedback is vital for employee development, product improvement, and enhancing customer satisfaction.",
+        "nuance": "Feedback can be formal or informal, and its effectiveness often depends on the manner and context in which it is delivered.",
+        "synonyms": [
+          "input",
+          "critique"
+        ],
+        "antonyms": [
+          "silence",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "It's highly likely that the entire economy will become an aural environment machine, building out all of these worlds and contexts. And I think the narrative in AI over the last three years has almost entirely been one of job displacement, but very few companies and people have talked about this new category of jobs that's being created.",
+    "text": "It's highly likely that the entire economy will become an aural environment machine, building out all of these worlds and contexts.",
     "speaker": "Brendan Foody",
     "timestamp": "00:00:43",
     "context": "Lenny shares a provocative tweet about humans being put on Earth to create training data for AI labs and asks Brendan what this means. Brendan explains his vision that the economy will increasingly involve creating virtual environments and evaluation systems for AI training. He argues that while most discussion about AI focuses on job displacement, there's insufficient attention paid to the entirely new categories of jobs being created in the AI training and evaluation space.",
     "vocabulary_highlights": [
-      "aural environment machine",
-      "narrative",
-      "category of jobs"
+      "economy",
+      "environment",
+      "building out",
+      "contexts"
     ],
     "topics": [
       "Career Development",
@@ -101,16 +289,79 @@
     "text_ko": "전체 경제가 이런 세계와 맥락을 전부 구현해 나가는 청각 기반 환경 플랫폼(aural environment machine)이 될 가능성이 커요. 그리고 제 생각엔 지난 3년간 AI 관련 논의는 거의 대부분 일자리 대체(job displacement)에만 집중돼 왔는데, 새로 생겨나는 일자리 카테고리(category of jobs)에 대해 말하는 회사나 사람은 거의 없었어요.",
     "text_zh": "很可能整个经济都会变成一个听觉环境机器，构建出各种各样的世界和场景。我觉得过去三年关于AI的说法几乎都是在讲工作会被取代，但很少有公司和人谈到AI其实在创造一个全新的就业类别。",
     "text_es": "Es muy probable que toda la economía se convierta en una máquina de entornos auditivos (aural environment machine), desarrollando todos estos mundos y contextos. Y creo que la narrativa en IA durante los últimos tres años ha sido casi completamente sobre el desplazamiento laboral (job displacement), pero muy pocas empresas y personas han hablado de esta nueva categoría de trabajos que se está creando.",
-    "key_sentence": "The narrative in AI has focused on job displacement, ignoring new job categories."
+    "key_sentence": "the entire economy will become an aural environment machine",
+    "text_trimmed": true,
+    "original_text": "It's highly likely that the entire economy will become an aural environment machine, building out all of these worlds and contexts. And I think the narrative in AI over the last three years has almost entirely been one of job displacement, but very few companies and people have talked about this new category of jobs that's being created.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "economy",
+        "definition": "The system of production, distribution, and consumption of goods and services in a particular area or country.",
+        "businessContext": "In business, the economy can refer to the overall market conditions that affect consumer behavior, investment decisions, and corporate strategies.",
+        "nuance": "While 'economy' often refers to a national or global scale, it can also be used to describe smaller economic systems, such as local economies or specific sectors.",
+        "synonyms": [
+          "market",
+          "financial system"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "environment",
+        "definition": "The surrounding conditions, influences, or circumstances in which a person, organization, or community operates.",
+        "businessContext": "In a business context, 'environment' can refer to the corporate culture, market conditions, or regulatory landscape that impacts operations and strategy.",
+        "nuance": "The term can encompass both physical and abstract elements, such as the social environment or competitive environment, making it versatile in discussions.",
+        "synonyms": [
+          "surroundings",
+          "setting"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "building out",
+        "definition": "The process of expanding or developing a particular aspect of a business, project, or system to enhance its functionality or reach.",
+        "businessContext": "In startups and tech, 'building out' often refers to scaling operations, developing new features, or expanding market presence to meet growing demands.",
+        "nuance": "This phrase implies a proactive approach to growth and development, suggesting a strategic effort rather than mere maintenance or minor adjustments.",
+        "synonyms": [
+          "expanding",
+          "developing"
+        ],
+        "antonyms": [
+          "shrinking",
+          "reducing"
+        ]
+      },
+      {
+        "word": "contexts",
+        "definition": "The circumstances or settings that surround an event, statement, or idea, providing meaning and relevance.",
+        "businessContext": "In business discussions, understanding different contexts is crucial for effective communication, as it influences decision-making and strategy formulation.",
+        "nuance": "The term can imply varying perspectives or situations, highlighting the importance of adaptability and awareness in diverse business environments.",
+        "synonyms": [
+          "situations",
+          "frameworks"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think it's people that can leverage AI to do whatever their day-to-day workflows are. We'll give people interviews where we say, 'Use ChatGPT and Kodak. Use Claude code. Use whatever tool cursor and whatever tools are available to build a website and let's see what product you're able to build in an hour.'",
+    "text": "I think it's people that can leverage AI to do whatever their day-to-day workflows are. We'll give people interviews where we say, 'Use ChatGPT and Kodak. Use Claude code.",
     "speaker": "Brendan Foody",
     "timestamp": "00:20:47",
     "context": "Lenny asks Brendan what skills young people should focus on developing given the rapid changes in AI. Brendan emphasizes that the most valuable skill is learning to effectively use AI tools to enhance productivity in any field. He gives an example of how his company now conducts interviews - instead of testing people's ability to work without AI, they provide access to all available AI tools and evaluate what candidates can accomplish with them.",
     "vocabulary_highlights": [
       "leverage",
-      "day-to-day workflows"
+      "workflows",
+      "enhance",
+      "effectively"
     ],
     "topics": [
       "Career Development",
@@ -126,17 +377,79 @@
     "text_ko": "제 생각에는 일상적인 업무 흐름( workflow)을 AI로 잘 활용할 수 있는 사람이 중요해요. 면접에서는 '챗GPT(ChatGPT)랑 코닥(Kodak)을 쓰세요. 클로드 코드(Claude code)를 쓰세요. 커서(Cursor)나 사용 가능한 다른 도구들을 아무거나 써서 웹사이트를 만들어 보고, 한 시간 안에 어떤 제품을 만들 수 있는지 보여주세요.'라고 말할 거예요.",
     "text_zh": "我觉得关键是那些能用AI来处理日常工作流程的人。我们面试的时候会跟候选人说，\"你用ChatGPT也好，用Claude写代码也行，什么cursor工具啊，随便什么工具都可以，给你一个小时搭个网站，看看你能做出什么产品来。\"",
     "text_es": "Creo que son las personas que pueden aprovechar la IA para hacer sus tareas del día a día. Les damos entrevistas donde les decimos: \"Usa ChatGPT y Kodak. Usa Claude code. Usa cualquier herramienta como cursor y las que tengas disponibles para armar un sitio web y veamos qué producto puedes crear en una hora.\"",
-    "key_sentence": "People leverage AI for day-to-day workflows to build products quickly."
+    "key_sentence": "People leverage AI for day-to-day workflows to build products quickly.",
+    "text_trimmed": true,
+    "original_text": "I think it's people that can leverage AI to do whatever their day-to-day workflows are. We'll give people interviews where we say, 'Use ChatGPT and Kodak. Use Claude code. Use whatever tool cursor and whatever tools are available to build a website and let's see what product you're able to build in an hour.'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "leverage",
+        "definition": "To use something to maximum advantage or benefit, often involving the strategic application of resources or tools.",
+        "businessContext": "In business and technology, leveraging often refers to utilizing assets, such as technology or human capital, to achieve greater efficiency or competitive advantage.",
+        "nuance": "While 'leverage' implies a strategic and positive use of resources, it can sometimes carry a connotation of manipulation or exploitation if not used ethically.",
+        "synonyms": [
+          "utilize",
+          "capitalize"
+        ],
+        "antonyms": [
+          "squander",
+          "waste"
+        ]
+      },
+      {
+        "word": "workflows",
+        "definition": "A series of tasks or processes that are organized in a specific sequence to accomplish a particular goal or outcome.",
+        "businessContext": "In business settings, workflows are crucial for optimizing operations, ensuring consistency, and enhancing productivity through structured processes.",
+        "nuance": "The term 'workflow' often implies a systematic approach, and while it can be flexible, it is typically associated with routine and predictable tasks.",
+        "synonyms": [
+          "processes",
+          "procedures"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorder"
+        ]
+      },
+      {
+        "word": "enhance",
+        "definition": "To improve the quality, value, or extent of something, often through the addition of features or capabilities.",
+        "businessContext": "In the tech industry, enhancing products or services is vital for maintaining competitiveness and meeting customer expectations through innovation.",
+        "nuance": "While 'enhance' suggests a positive improvement, it is important to ensure that enhancements align with user needs and do not complicate the user experience.",
+        "synonyms": [
+          "improve",
+          "augment"
+        ],
+        "antonyms": [
+          "diminish",
+          "reduce"
+        ]
+      },
+      {
+        "word": "effectively",
+        "definition": "In a manner that produces the desired result or outcome, often emphasizing efficiency and competence.",
+        "businessContext": "Effectiveness is a key performance indicator in business, where teams and individuals are often evaluated based on their ability to achieve goals efficiently.",
+        "nuance": "While 'effectively' implies success in achieving objectives, it can also suggest the need for strategic planning and resource management to reach those goals.",
+        "synonyms": [
+          "efficiently",
+          "successfully"
+        ],
+        "antonyms": [
+          "ineffectively",
+          "inefficiently"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think the most important thing is looking at the leading indicators in fast-moving markets. What matters a ton is actually figuring out what are the new markets, the new pockets of demand that are changing very quickly where the wealthiest customers in the world are willing to pay whatever it takes to improve model capabilities, and how do we focus on the leading indicators of those markets.",
+    "text": "I think the most important thing is looking at the leading indicators in fast-moving markets.",
     "speaker": "Brendan Foody",
     "timestamp": "00:39:09",
     "context": "Lenny asks Brendan what core tenets contributed to building the fastest-growing company in history. Brendan explains that success in rapidly evolving markets requires focusing on leading indicators rather than lagging metrics. He emphasizes identifying emerging market opportunities where customers have urgent, high-value needs and are willing to pay premium prices - exactly what happened with AI labs needing expert evaluation services.",
     "vocabulary_highlights": [
       "leading indicators",
-      "pockets of demand",
-      "whatever it takes"
+      "fast-moving markets",
+      "core tenets",
+      "rapidly evolving"
     ],
     "topics": [
       "Strategy & Planning",
@@ -152,6 +465,67 @@
     "text_ko": "저는 가장 중요한 건 빠르게 변화하는 시장(fast-moving markets)에서 선행 지표(leading indicators)를 보는 거라고 생각해요. 핵심은 세계에서 가장 부유한 고객들이 모델 성능(model capabilities)을 개선하기 위해 얼마든지 비용을 지불할 의향이 있는, 아주 빠르게 변하는 새로운 시장과 수요의 영역(pockets of demand)이 무엇인지 파악하고, 그 시장들의 선행 지표에 어떻게 집중할지 결정하는 거예요.",
     "text_zh": "我觉得最关键的是要盯住快速变化市场里的先行指标(leading indicators)。真正重要的是要搞清楚哪些是新兴市场，哪些是需求变化特别快的新领域，那些全世界最有钱的客户愿意不惜代价来提升模型能力，我们怎么把注意力放在这些市场的先行指标上。",
     "text_es": "Creo que lo más importante es fijarse en los indicadores adelantados (leading indicators) en mercados que se mueven súper rápido. Lo que realmente importa un montón es descifrar cuáles son los nuevos mercados, esos nuevos nichos de demanda que están cambiando a toda velocidad, donde los clientes con más recursos del mundo están dispuestos a pagar lo que sea para mejorar las capacidades del modelo, y cómo nos enfocamos en los indicadores adelantados de esos mercados.",
-    "key_sentence": "Leading indicators reveal new pockets of demand in fast-moving markets."
+    "key_sentence": "the most important thing is looking at the leading indicators in fast-moving markets.",
+    "text_trimmed": true,
+    "original_text": "I think the most important thing is looking at the leading indicators in fast-moving markets. What matters a ton is actually figuring out what are the new markets, the new pockets of demand that are changing very quickly where the wealthiest customers in the world are willing to pay whatever it takes to improve model capabilities, and how do we focus on the leading indicators of those markets.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "leading indicators",
+        "definition": "Leading indicators are measurable factors that are used to predict future economic activity or trends. They provide insights into potential changes in the market before they occur.",
+        "businessContext": "In business and finance, leading indicators help organizations anticipate market shifts, allowing them to make informed strategic decisions and adjust their operations accordingly.",
+        "nuance": "While leading indicators are valuable for forecasting, they are not foolproof and should be used in conjunction with other data for a comprehensive analysis.",
+        "synonyms": [
+          "predictive indicators",
+          "economic forecasts"
+        ],
+        "antonyms": [
+          "lagging indicators",
+          "N/A"
+        ]
+      },
+      {
+        "word": "fast-moving markets",
+        "definition": "Fast-moving markets refer to industries or sectors characterized by rapid changes in consumer preferences, technology, or competitive dynamics. These markets often require quick decision-making and adaptability.",
+        "businessContext": "In tech startups and consumer goods, fast-moving markets demand agility from businesses to capitalize on emerging trends and maintain a competitive edge.",
+        "nuance": "The term implies a high level of volatility and risk, suggesting that businesses must be proactive rather than reactive to succeed.",
+        "synonyms": [
+          "dynamic markets",
+          "volatile markets"
+        ],
+        "antonyms": [
+          "stable markets",
+          "slow-moving markets"
+        ]
+      },
+      {
+        "word": "core tenets",
+        "definition": "Core tenets are fundamental principles or beliefs that guide the philosophy or operations of an organization. They serve as the foundation for decision-making and strategic direction.",
+        "businessContext": "In corporate governance and organizational culture, core tenets help align employees and stakeholders with the company's mission and values, fostering a cohesive work environment.",
+        "nuance": "While core tenets are essential for consistency, they should also be flexible enough to evolve with changing circumstances and market demands.",
+        "synonyms": [
+          "fundamental principles",
+          "guiding beliefs"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "rapidly evolving",
+        "definition": "Rapidly evolving describes a situation or environment that is changing quickly and continuously, often due to technological advancements or shifting market conditions.",
+        "businessContext": "In the context of technology and innovation, rapidly evolving sectors require businesses to stay ahead of trends and adapt their strategies to remain relevant.",
+        "nuance": "This phrase emphasizes the urgency and necessity for businesses to innovate and respond swiftly to changes, highlighting the risks of stagnation.",
+        "synonyms": [
+          "quickly changing",
+          "swiftly transforming"
+        ],
+        "antonyms": [
+          "static",
+          "unchanging"
+        ]
+      }
+    ]
   }
 ]

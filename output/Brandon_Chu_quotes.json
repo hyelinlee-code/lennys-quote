@@ -1,14 +1,14 @@
 [
   {
-    "text": "What we do have is an annual planning cycle basically, we call investment plans and it's for fairly large SWOTs to the organization. I'm talking like 20% chunks of all of Shopify consolidated under a VP here and there to put forward a vision for what that team's going to accomplish that year, whether that is a directional change or even specific outcomes in some cases.",
+    "text": "What we do have is an annual planning cycle basically, we call investment plans and it's for fairly large SWOTs to the organization.",
     "speaker": "Brandon Chu",
     "timestamp": "13:15",
     "context": "Lenny asks about Shopify's framework or process for making bigger decisions. Brandon explains their annual planning cycle where VPs create investment plans for large portions of the organization. Each investment plan covers about 20% of Shopify's workforce under a VP and outlines what that team will accomplish that year, whether through directional changes or specific outcomes.",
     "vocabulary_highlights": [
-      "fairly large SWOTs",
-      "consolidated under",
-      "put forward a vision",
-      "directional change"
+      "annual planning cycle",
+      "investment plans",
+      "SWOT",
+      "organization"
     ],
     "topics": [
       "Strategy & Planning",
@@ -23,17 +23,79 @@
     "text_ko": "우리가 가지고 있는 건 연간 계획 주기인데, 이걸 투자 계획이라고 부르거든요. 이건 조직에 꽤 큰 SWOT(강점, 약점, 기회, 위협) 분석을 포함해요. 예를 들어, Shopify 전체의 20% 정도를 차지하는 팀들이 VP 아래에서 그 해에 어떤 목표를 달성할지를 제시하는 거예요. 방향성을 바꾸는 경우도 있고, 특정 결과를 목표로 하는 경우도 있어요.",
     "text_zh": "我们有个年度规划流程，基本上叫投资计划(investment plans)，主要针对组织里比较大的业务板块做SWOT分析。我说的是那种占整个Shopify大概20%体量的部门，由各个VP负责，让他们提出愿景，说明这个团队那一年要完成什么目标，不管是战略方向的调整还是具体的业务结果。",
     "text_es": "Lo que sí tenemos es básicamente un ciclo de planificación anual, le decimos planes de inversión y es para análisis FODA (SWOTs) bastante grandes para la organización. Te hablo de como pedazos del 20% de todo Shopify consolidado bajo un VP por aquí y por allá para presentar una visión de lo que ese equipo va a lograr ese año, ya sea un cambio de rumbo o incluso resultados específicos en algunos casos.",
-    "key_sentence": "We call investment plans for fairly large SWOTs consolidated under a VP."
+    "key_sentence": "We call investment plans for fairly large SWOTs consolidated under a VP.",
+    "text_trimmed": true,
+    "original_text": "What we do have is an annual planning cycle basically, we call investment plans and it's for fairly large SWOTs to the organization. I'm talking like 20% chunks of all of Shopify consolidated under a VP here and there to put forward a vision for what that team's going to accomplish that year, whether that is a directional change or even specific outcomes in some cases.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "annual planning cycle",
+        "definition": "A systematic process that organizations follow each year to set goals, allocate resources, and develop strategies for the upcoming year.",
+        "businessContext": "In business, the annual planning cycle is crucial for aligning departmental objectives with overall company goals and ensuring that resources are effectively utilized.",
+        "nuance": "This term implies a recurring, structured approach to planning, which can be contrasted with more ad-hoc or reactive planning methods.",
+        "synonyms": [
+          "yearly planning process",
+          "annual strategic planning"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "investment plans",
+        "definition": "Documents or strategies outlining how an organization intends to allocate financial resources to achieve specific objectives or returns.",
+        "businessContext": "In the context of startups and businesses, investment plans are critical for attracting investors and guiding financial decision-making to maximize growth and profitability.",
+        "nuance": "The term often carries a connotation of careful analysis and forecasting, distinguishing it from more casual or informal financial strategies.",
+        "synonyms": [
+          "financial strategy",
+          "capital allocation plan"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "SWOT",
+        "definition": "An acronym for Strengths, Weaknesses, Opportunities, and Threats; a strategic planning tool used to identify and analyze these four aspects of an organization or project.",
+        "businessContext": "In business settings, SWOT analysis is commonly employed to assess competitive positioning and inform strategic decisions, making it an essential part of the planning process.",
+        "nuance": "While SWOT is widely recognized, its effectiveness depends on the thoroughness of the analysis and the honesty of the assessments made.",
+        "synonyms": [
+          "SWOT analysis",
+          "strategic assessment"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "organization",
+        "definition": "A structured group of individuals working together to achieve common goals, often characterized by defined roles, responsibilities, and hierarchies.",
+        "businessContext": "In the business world, the term organization refers not only to companies but also to non-profits and other entities that require coordination and management to function effectively.",
+        "nuance": "The term can imply a formal structure, but it can also refer to informal groups or networks, depending on the context.",
+        "synonyms": [
+          "company",
+          "institution"
+        ],
+        "antonyms": [
+          "disorganization",
+          "chaos"
+        ]
+      }
+    ]
   },
   {
-    "text": "But what's really amazing and also difficult about Shopify though is we're pretty good at never falling into sunk-cost fallacy. So we'll throw it all away anytime if the world changes. And so that's why it's actually a really tricky place for a lot of folks because there are cases and it's happened to me many times where it's just like you're building three, six months into something and it's just not important anymore or the world changed.",
+    "text": "But what's really amazing and also difficult about Shopify though is we're pretty good at never falling into sunk-cost fallacy. So we'll throw it all away anytime if the world changes.",
     "speaker": "Brandon Chu",
     "timestamp": "15:29",
     "context": "Brandon continues explaining Shopify's decision-making approach, highlighting how they avoid the sunk-cost fallacy. Sunk-cost fallacy is when people continue investing in something because they've already spent resources on it, even when it's no longer the best option. He explains that Shopify is willing to abandon projects even after months of work if circumstances change, which can be challenging for employees but keeps the company agile.",
     "vocabulary_highlights": [
       "sunk-cost fallacy",
-      "throw it all away",
-      "really tricky place"
+      "decision-making",
+      "investing",
+      "approach"
     ],
     "topics": [
       "Strategy & Planning",
@@ -48,17 +110,79 @@
     "text_ko": "하지만 Shopify가 정말 놀랍기도 하고 또 어려운 점은, 매몰비용 오류(sunk-cost fallacy)에 거의 빠지지 않는다는 거예요. 세상이 바뀌면 언제든 다 접어버려요. 그래서 많은 사람들한테는 여기 분위기가 꽤 까다로워요. 저도 그런 경우를 여러 번 겪었는데, 3~6개월 동안 뭘 열심히 만들어 놨더니 어느 순간 더 이상 중요하지 않거나 세상이 변해버리곤 해요.",
     "text_zh": "不过Shopify真正厉害但也挺难的地方在于，我们从来不会陷入沉没成本的陷阱(sunk-cost fallacy)。只要世界变了，我们随时都能把之前做的全部推倒重来。所以对很多人来说，这地方确实不好待，因为经常会出现这种情况——我自己就遇到过好多次——你花了三个月、六个月在做一个项目，结果突然就不重要了，或者整个大环境都变了。",
     "text_es": "Pero lo que realmente impresiona y también es complicado de Shopify es que somos bastante buenos para nunca caer en la falacia del costo hundido (sunk-cost fallacy). O sea, botamos todo a la basura cuando sea necesario si el mundo cambia. Y por eso es que en realidad es un lugar bien difícil para mucha gente, porque hay casos - y me ha pasado muchísimas veces - donde llevas tres, seis meses construyendo algo y de repente ya no importa o el mundo cambió.",
-    "key_sentence": "Shopify avoids the sunk-cost fallacy, throwing it all away if the world changes."
+    "key_sentence": "Shopify avoids the sunk-cost fallacy, throwing it all away if the world changes.",
+    "text_trimmed": true,
+    "original_text": "But what's really amazing and also difficult about Shopify though is we're pretty good at never falling into sunk-cost fallacy. So we'll throw it all away anytime if the world changes. And so that's why it's actually a really tricky place for a lot of folks because there are cases and it's happened to me many times where it's just like you're building three, six months into something and it's just not important anymore or the world changed.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "sunk-cost fallacy",
+        "definition": "The sunk-cost fallacy is a cognitive bias that occurs when individuals continue an endeavor, or continue consuming or pursuing an option, based on previously invested resources (time, money, or effort) rather than current and future benefits.",
+        "businessContext": "In business and startup environments, recognizing the sunk-cost fallacy can prevent companies from making poor decisions based on past investments, allowing them to pivot or abandon projects that no longer align with strategic goals.",
+        "nuance": "While it is important to acknowledge past investments, it is crucial to focus on future potential rather than being anchored by previous costs.",
+        "synonyms": [
+          "escalation of commitment",
+          "commitment bias"
+        ],
+        "antonyms": [
+          "rational decision-making",
+          "opportunity cost analysis"
+        ]
+      },
+      {
+        "word": "decision-making",
+        "definition": "Decision-making is the process of selecting a course of action from multiple alternatives, often involving the evaluation of information and potential outcomes.",
+        "businessContext": "In business settings, effective decision-making is critical for strategic planning, resource allocation, and operational efficiency, often relying on data analysis and stakeholder input.",
+        "nuance": "The term encompasses both individual and collective processes, and can vary in complexity from simple choices to intricate, multi-faceted decisions.",
+        "synonyms": [
+          "choice-making",
+          "judgment"
+        ],
+        "antonyms": [
+          "indecision",
+          "inactivity"
+        ]
+      },
+      {
+        "word": "investing",
+        "definition": "Investing refers to the act of allocating resources, usually money, into assets or ventures with the expectation of generating a return or profit over time.",
+        "businessContext": "In the context of startups and businesses, investing is essential for growth, as it enables companies to fund new projects, expand operations, and innovate products or services.",
+        "nuance": "Investing can imply varying levels of risk and time commitment, and it is important to distinguish between short-term and long-term investment strategies.",
+        "synonyms": [
+          "capital allocation",
+          "financial commitment"
+        ],
+        "antonyms": [
+          "divesting",
+          "withdrawing"
+        ]
+      },
+      {
+        "word": "approach",
+        "definition": "An approach is a method or way of dealing with a situation or problem, often reflecting a particular perspective or strategy.",
+        "businessContext": "In business, the choice of approach can significantly influence project outcomes, team dynamics, and overall effectiveness in achieving objectives.",
+        "nuance": "The term can imply a systematic or strategic method, and it is often used to describe both formal and informal tactics in various business contexts.",
+        "synonyms": [
+          "method",
+          "strategy"
+        ],
+        "antonyms": [
+          "disregard",
+          "neglect"
+        ]
+      }
+    ]
   },
   {
-    "text": "I think what I learned over the arc of my career is that especially when it comes to product management specifically, it's a lot of the hard skills that PMs are known for, so organizational, analytical, good communication, even technical skills. There's sort of table stakes and commodities to be an entry level PM.",
+    "text": "I think what I learned over the arc of my career is that especially when it comes to product management specifically, it's a lot of the hard skills that PMs are known for, so organizational, analytical, good communication, even technical skills.",
     "speaker": "Brandon Chu",
     "timestamp": "07:26",
     "context": "Lenny asks Brandon for advice on what helped him achieve his impressive career trajectory at Shopify that newer PMs could learn from. Brandon explains that traditional PM hard skills like organization, analysis, and communication are just the baseline requirements for entry-level PM roles. He's setting up to explain what skills are needed to advance beyond that level.",
     "vocabulary_highlights": [
-      "over the arc of my career",
-      "table stakes",
-      "commodities"
+      "trajectory",
+      "analytical",
+      "organizational",
+      "communication"
     ],
     "topics": [
       "Career Development",
@@ -73,18 +197,79 @@
     "text_ko": "제가 커리어를 쌓으면서 배운 건, 특히 프로덕트 매니지먼트(product management) 분야는 조직력, 분석력, 좋은 의사소통, 심지어 기술적 역량 같은 하드 스킬(hard skills)이 대부분이라는 거예요. 다시 말해 초급 PM(entry-level PM)이 되기 위한 건 기본 요건(table stakes)이자 흔한 자질들(commodities)이에요.",
     "text_zh": "我觉得在我整个职业生涯中学到的是，特别是在产品管理(product management)这个领域，很多PM(product manager)需要具备的硬技能，比如组织能力、分析能力、沟通能力，甚至是技术能力，这些其实都是入门级PM的基本门槛，算是标配了。",
     "text_es": "Creo que lo que he aprendido a lo largo de mi carrera es que, especialmente en gestión de productos, muchas de las habilidades duras por las que se conoce a los PMs —como la organización, el análisis, la buena comunicación, incluso las habilidades técnicas— son como el mínimo indispensable, lo básico que necesitas para ser un PM junior.",
-    "key_sentence": "Table stakes for PMs include organizational, analytical, and communication skills."
+    "key_sentence": "Table stakes for PMs include organizational, analytical, and communication skills.",
+    "text_trimmed": true,
+    "original_text": "I think what I learned over the arc of my career is that especially when it comes to product management specifically, it's a lot of the hard skills that PMs are known for, so organizational, analytical, good communication, even technical skills. There's sort of table stakes and commodities to be an entry level PM.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "trajectory",
+        "definition": "The path or progression of an object or concept over time, often indicating growth or development.",
+        "businessContext": "In business, trajectory is often used to describe the expected growth or performance path of a company, product, or market trend.",
+        "nuance": "While trajectory can imply a positive direction, it can also refer to a decline, so context is important when discussing it.",
+        "synonyms": [
+          "path",
+          "course"
+        ],
+        "antonyms": [
+          "stagnation",
+          "decline"
+        ]
+      },
+      {
+        "word": "analytical",
+        "definition": "Relating to the ability to analyze information, break it down into components, and understand its structure.",
+        "businessContext": "Analytical skills are crucial in business for making data-driven decisions, evaluating market trends, and optimizing processes.",
+        "nuance": "While analytical often has a positive connotation in problem-solving contexts, it can suggest a lack of creativity if overemphasized.",
+        "synonyms": [
+          "critical",
+          "logical"
+        ],
+        "antonyms": [
+          "intuitive",
+          "imprecise"
+        ]
+      },
+      {
+        "word": "organizational",
+        "definition": "Pertaining to the arrangement and coordination of resources, tasks, and personnel to achieve specific goals.",
+        "businessContext": "Organizational skills are essential for effective project management, ensuring that teams work efficiently and deadlines are met.",
+        "nuance": "The term can imply a systematic approach, but overemphasis on organization may stifle flexibility and creativity.",
+        "synonyms": [
+          "structural",
+          "systematic"
+        ],
+        "antonyms": [
+          "chaotic",
+          "disorganized"
+        ]
+      },
+      {
+        "word": "communication",
+        "definition": "The act of conveying information effectively through various means, including verbal, written, and non-verbal methods.",
+        "businessContext": "Effective communication is vital in business for collaboration, stakeholder engagement, and ensuring that all team members are aligned with company objectives.",
+        "nuance": "While communication is generally viewed positively, it can also imply challenges when miscommunication occurs or when messages are unclear.",
+        "synonyms": [
+          "conveyance",
+          "discourse"
+        ],
+        "antonyms": [
+          "miscommunication",
+          "silence"
+        ]
+      }
+    ]
   },
   {
-    "text": "But I think ultimately to have the highest trajectory and what certainly was a tailwind for my career was you guys have to lean into those founder skills. And so things like being a great storyteller, how to get the most out of people around you, foster creative and motivated teams and know how to make really, really hard high conviction decisions that actually can't be solved.",
+    "text": "But I think ultimately to have the highest trajectory and what certainly was a tailwind for my career was you guys have to lean into those founder skills.",
     "speaker": "Brandon Chu",
     "timestamp": "08:05",
     "context": "Brandon continues his advice about advancing as a PM beyond entry-level skills. He identifies 'founder skills' as the key differentiator for high career trajectory. These include storytelling abilities, getting the best performance from team members, fostering creativity and motivation, and making difficult decisions with strong conviction even when there's no clear analytical solution.",
     "vocabulary_highlights": [
-      "highest trajectory",
-      "tailwind for my career",
+      "trajectory",
+      "tailwind",
       "lean into",
-      "high conviction decisions"
+      "founder skills"
     ],
     "topics": [
       "Career Development",
@@ -99,16 +284,79 @@
     "text_ko": "결국 제 커리어에 가장 큰 도움이 됐던 건, 여러분이 바로 그런 창업가적 역량(founder skills)에 적극적으로 기대고 발휘해야 한다는 점이에요. 훌륭한 스토리텔러(storyteller)가 되는 법, 주변 사람들로부터 최대한의 성과를 이끌어내는 법, 창의적이고 동기 부여된 팀을 만들고 키우는 법, 그리고 사실상 해결책이 없는 것처럼 보이는 정말 어려운 문제들에 대해 확신을 갖고 결단하는 법(high conviction decisions)을 아는 것들이요.",
     "text_zh": "但我觉得最终要想有最好的发展轨迹，对我职业生涯真正起到推动作用的，还是得发挥那些创始人的核心能力。比如说要会讲故事，知道怎么激发身边人的潜力，打造有创造力、有干劲的团队，还有就是面对那些没有标准答案的难题时，能做出坚定的决策。",
     "text_es": "Pero creo que al final, para tener la trayectoria más alta y lo que definitivamente fue un impulso para mi carrera fue que tienen que apostar fuerte por esas habilidades de fundador. O sea, cosas como ser un gran contador de historias (storyteller), cómo sacar lo mejor de la gente que te rodea, crear equipos creativos y motivados, y saber tomar decisiones súper difíciles con total convicción, esas que realmente no se pueden resolver con fórmulas.",
-    "key_sentence": "Lean into founder skills for the highest trajectory and high conviction decisions."
+    "key_sentence": "Lean into founder skills for the highest trajectory and high conviction decisions.",
+    "text_trimmed": true,
+    "original_text": "But I think ultimately to have the highest trajectory and what certainly was a tailwind for my career was you guys have to lean into those founder skills. And so things like being a great storyteller, how to get the most out of people around you, foster creative and motivated teams and know how to make really, really hard high conviction decisions that actually can't be solved.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "trajectory",
+        "definition": "The path or progression of an individual's career or a project's development over time.",
+        "businessContext": "In business, trajectory often refers to the expected growth or success of a company, product, or individual based on current performance and market conditions.",
+        "nuance": "While trajectory typically has a positive connotation, it can also imply a downward trend if used in a negative context.",
+        "synonyms": [
+          "path",
+          "course"
+        ],
+        "antonyms": [
+          "stagnation",
+          "decline"
+        ]
+      },
+      {
+        "word": "tailwind",
+        "definition": "A favorable condition or support that aids progress or success.",
+        "businessContext": "In the context of startups, a tailwind might refer to market trends or external factors that positively influence a company's growth potential.",
+        "nuance": "Tailwind suggests an advantage that is somewhat external and not solely dependent on the individual's or company's efforts.",
+        "synonyms": [
+          "advantage",
+          "boost"
+        ],
+        "antonyms": [
+          "headwind",
+          "obstacle"
+        ]
+      },
+      {
+        "word": "lean into",
+        "definition": "To embrace or actively engage with a particular skill, idea, or situation.",
+        "businessContext": "In a business setting, leaning into skills means recognizing and utilizing one's strengths to drive success or innovation.",
+        "nuance": "This phrase conveys a proactive approach, suggesting that one should not shy away from challenges but rather confront them head-on.",
+        "synonyms": [
+          "embrace",
+          "engage"
+        ],
+        "antonyms": [
+          "avoid",
+          "shy away from"
+        ]
+      },
+      {
+        "word": "founder skills",
+        "definition": "A set of competencies and attributes that are essential for starting and running a successful business, often including leadership, vision, and resilience.",
+        "businessContext": "In the startup ecosystem, founder skills are critical for navigating challenges, securing funding, and building a strong team and company culture.",
+        "nuance": "The term implies a blend of both hard and soft skills, emphasizing the unique abilities that distinguish successful entrepreneurs from others.",
+        "synonyms": [
+          "entrepreneurial skills",
+          "leadership skills"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "Oh, it's honestly been the most important thing I've ever done in my career unbelievably. And it's had probably two really interesting effects. One is that as Shopify grew and when we were going through hyperscale, you probably recognize this from your Airbnb days as well but people are falling from the sky.",
+    "text": "Oh, it's honestly been the most important thing I've ever done in my career unbelievably. And it's had probably two really interesting effects.",
     "speaker": "Brandon Chu",
     "timestamp": "31:49",
     "context": "Lenny asks Brandon about the impact writing has had on his career. Brandon describes writing as the single most important thing for his career success. He explains that during Shopify's rapid growth phase (hyperscale), new employees were joining constantly - he uses the vivid expression 'people are falling from the sky' to describe how quickly new hires were arriving and needing onboarding and context.",
     "vocabulary_highlights": [
-      "hyperscale",
-      "people are falling from the sky"
+      "impact",
+      "important",
+      "growth",
+      "career success"
     ],
     "topics": [
       "Career Development",
@@ -123,17 +371,79 @@
     "text_ko": "정말 솔직히 말하면 제 경력에서 했던 일 중 가장 중요한 일이었어요, 믿기 힘들 정도로요. 그리고 그게 아마 두 가지 정말 흥미로운 효과를 가져왔어요. 하나는 Shopify가 성장하고 우리가 하이퍼스케일(hyperscale)을 겪을 때인데, 아마 에어비앤비 다니시던 시절에도 느끼셨겠지만 사람들이 하늘에서 떨어지듯 쏟아져 들어왔어요.",
     "text_zh": "说实话，这真的是我职业生涯中做过的最重要的事情，重要到难以置信。而且产生了两个特别有意思的效果。第一个就是随着Shopify的发展，当我们进入超高速增长期的时候，你从Airbnb的经历应该也深有体会，就是人才像天上掉下来一样多。",
     "text_es": "Oye, honestamente ha sido lo más importante que he hecho en mi carrera, increíblemente. Y ha tenido probablemente dos efectos súper interesantes. Uno es que mientras Shopify crecía y cuando estábamos pasando por una hiperescala (hyperscale), seguramente te suena de tus días en Airbnb también, pero la gente nos llovía del cielo.",
-    "key_sentence": "Hyperscale at Shopify led to people falling from the sky."
+    "key_sentence": "it's honestly been the most important thing I've ever done in my career unbelievably.",
+    "text_trimmed": true,
+    "original_text": "Oh, it's honestly been the most important thing I've ever done in my career unbelievably. And it's had probably two really interesting effects. One is that as Shopify grew and when we were going through hyperscale, you probably recognize this from your Airbnb days as well but people are falling from the sky.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "impact",
+        "definition": "The strong effect or influence that something has on a situation or person.",
+        "businessContext": "In business, 'impact' often refers to the measurable effects of a project, initiative, or decision on performance metrics or stakeholder satisfaction.",
+        "nuance": "While 'impact' can imply positive effects, it can also refer to negative consequences, so context is essential when using the term.",
+        "synonyms": [
+          "effect",
+          "influence"
+        ],
+        "antonyms": [
+          "insignificance",
+          "irrelevance"
+        ]
+      },
+      {
+        "word": "important",
+        "definition": "Of great significance or value; having a major effect on a situation or outcome.",
+        "businessContext": "In the corporate world, 'important' is frequently used to prioritize tasks, projects, or decisions that significantly affect business objectives or strategies.",
+        "nuance": "The term can sometimes be subjective, as what is considered 'important' may vary between individuals or organizations.",
+        "synonyms": [
+          "crucial",
+          "essential"
+        ],
+        "antonyms": [
+          "trivial",
+          "unimportant"
+        ]
+      },
+      {
+        "word": "growth",
+        "definition": "The process of increasing in size, number, value, or strength; development or expansion.",
+        "businessContext": "In business, 'growth' often refers to the increase in revenue, market share, or customer base, and is a key indicator of a company's health and potential.",
+        "nuance": "While 'growth' is typically viewed positively, it can also imply challenges such as scaling issues or resource strain if not managed properly.",
+        "synonyms": [
+          "expansion",
+          "development"
+        ],
+        "antonyms": [
+          "decline",
+          "recession"
+        ]
+      },
+      {
+        "word": "career success",
+        "definition": "The achievement of professional goals and milestones that contribute to an individual's advancement and fulfillment in their chosen field.",
+        "businessContext": "In the context of business, 'career success' is often measured by promotions, salary increases, and recognition within the industry, reflecting an individual's contributions and capabilities.",
+        "nuance": "The definition of 'career success' can vary widely among individuals, influenced by personal values, aspirations, and industry standards.",
+        "synonyms": [
+          "professional achievement",
+          "career advancement"
+        ],
+        "antonyms": [
+          "career stagnation",
+          "failure"
+        ]
+      }
+    ]
   },
   {
-    "text": "So I actually found that writing externally and getting momentum externally was a better way to influence internally what was happening, to the effect that Tobi would read my post here and there and he'd be like, 'Great post.' And I'd be like, 'Hey, daddy loves me.'",
+    "text": "writing externally and getting momentum externally was a better way to influence internally... Tobi would read my post... and he'd be like, 'Great post.' And I'd be like, 'Hey, daddy loves me.",
     "speaker": "Brandon Chu",
     "timestamp": "33:20",
     "context": "Brandon explains how his external writing helped him gain influence within Shopify's chaotic, fast-growing environment. With so much happening internally, it was difficult to get the attention of 200+ PMs for new ideas. He discovered that publishing content externally and gaining traction outside the company was more effective for influencing internal decisions. When Tobi (Shopify's CEO) would praise his posts, it built his credibility and trust within the organization.",
     "vocabulary_highlights": [
-      "getting momentum externally",
-      "to the effect that",
-      "daddy loves me"
+      "momentum",
+      "influence",
+      "chaotic",
+      "fast-growing"
     ],
     "topics": [
       "Communication Skills",
@@ -148,16 +458,79 @@
     "text_ko": "그래서 사실 저는 외부에서 글을 쓰고 모멘텀(momentum)을 얻는 게 내부에서 벌어지는 일에 더 큰 영향을 준다는 걸 알게 됐어요. 그래서 토비가 가끔 제 글(post)을 읽고 '좋은 글이야'라고 하면 저는 '아빠가 날 좋아하네' 싶었어요.",
     "text_zh": "所以我发现，对外写文章、在外面建立影响力，反而是影响内部决策更好的方式。托比会时不时看到我的文章，然后跟我说\"写得不错\"，我心里就想\"哎呀，老大认可我了\"。",
     "text_es": "Resulta que me di cuenta de que escribir para audiencias externas y generar tracción afuera era una mejor forma de influir internamente en lo que pasaba en la empresa. O sea, Tobi leía mis posts de vez en cuando y me decía \"Excelente post\", y yo quedaba como \"Ay, papá me quiere.\"",
-    "key_sentence": "Getting momentum externally influences internal dynamics to the effect that Tobi notices."
+    "key_sentence": "writing externally and getting momentum externally was a better way to influence internally",
+    "text_trimmed": true,
+    "original_text": "So I actually found that writing externally and getting momentum externally was a better way to influence internally what was happening, to the effect that Tobi would read my post here and there and he'd be like, 'Great post.' And I'd be like, 'Hey, daddy loves me.'",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "momentum",
+        "definition": "Momentum refers to the force or speed of movement gained by a process or course of events. In a business context, it often describes the increasing growth or progress of a project or initiative.",
+        "businessContext": "In business and startups, momentum can indicate the accelerating success of a product launch or the growing interest in a company's services, often leading to increased investment and market share.",
+        "nuance": "While momentum typically has a positive connotation, it can also imply a sense of urgency that may lead to hasty decisions if not managed carefully.",
+        "synonyms": [
+          "drive",
+          "progress"
+        ],
+        "antonyms": [
+          "stagnation",
+          "decline"
+        ]
+      },
+      {
+        "word": "influence",
+        "definition": "Influence is the capacity to have an effect on the character, development, or behavior of someone or something. It often involves persuasion or the ability to shape opinions and decisions.",
+        "businessContext": "In a business setting, influence is crucial for leadership, marketing strategies, and stakeholder engagement, as it can determine how effectively ideas are communicated and adopted within an organization.",
+        "nuance": "Influence can carry both positive and negative connotations; it is essential to use it ethically to foster trust and collaboration.",
+        "synonyms": [
+          "impact",
+          "sway"
+        ],
+        "antonyms": [
+          "powerlessness",
+          "ineffectiveness"
+        ]
+      },
+      {
+        "word": "chaotic",
+        "definition": "Chaotic describes a state of complete disorder and confusion, often characterized by unpredictability and a lack of organization. It suggests a breakdown of structure or control.",
+        "businessContext": "In the context of startups or business environments, chaotic situations may arise during rapid growth phases or crises, requiring strong leadership and adaptability to navigate effectively.",
+        "nuance": "While chaos can imply a negative situation, it can also lead to innovation and creativity if managed properly, as it often forces teams to think outside the box.",
+        "synonyms": [
+          "disordered",
+          "turbulent"
+        ],
+        "antonyms": [
+          "orderly",
+          "structured"
+        ]
+      },
+      {
+        "word": "fast-growing",
+        "definition": "Fast-growing refers to a rapid increase in size, revenue, or market share over a short period. It indicates a company or sector that is expanding quickly and often attracting significant attention.",
+        "businessContext": "In the business world, fast-growing companies are often seen as attractive investment opportunities, signaling potential for high returns and innovation in their respective markets.",
+        "nuance": "While fast-growing can imply success, it may also suggest challenges related to scalability and sustainability that need to be addressed to maintain growth.",
+        "synonyms": [
+          "expanding",
+          "booming"
+        ],
+        "antonyms": [
+          "declining",
+          "stagnant"
+        ]
+      }
+    ]
   },
   {
-    "text": "Everyone has so many different backgrounds, but I'd say overall, based on most PMs that I've met, I'd say, look, it is hard to do when you are a PM somewhere, but do a legitimate side hustle, found a company on the side and learn everything else. Because I think sometimes you're in this silo of your feature, your area or whatnot.",
+    "text": "Do a legitimate side hustle, found a company on the side and learn everything else. Because I think sometimes you're in this silo of your feature, your area or whatnot.",
     "speaker": "Brandon Chu",
     "timestamp": "47:13",
     "context": "Lenny asks Brandon for one piece of advice for PMs to level up in their careers. Brandon recommends starting a legitimate side business or founding a company while working as a PM. He explains that PMs often get trapped in a narrow focus on their specific feature or product area, missing the broader perspective of what it takes to build and run a complete business.",
     "vocabulary_highlights": [
-      "legitimate side hustle",
-      "in this silo"
+      "legitimate",
+      "silo",
+      "found",
+      "level up"
     ],
     "topics": [
       "Career Development",
@@ -172,6 +545,67 @@
     "text_ko": "사람들 배경은 정말 다양하지만, 제가 만난 대부분의 프로덕트 매니저들(PMs)을 보면 한마디로 말하면, PM으로 일할 때는 하기 어렵지만 진짜 제대로 된 부업(side hustle)을 해보거나 옆에서 회사를 창업(found a company)해서 다른 것들을 모두 배워보라고 권하고 싶어요. 왜냐하면 가끔은 자기 담당 기능(feature)이나 영역에만 갇혀 있게 되거든요.",
     "text_zh": "每个人的背景都不一样，但是从我接触过的大部分产品经理来看，我觉得吧，虽然你当PM(产品经理)的时候确实挺难的，但还是要搞点正经的副业，在业余时间创个公司，学学其他方面的东西。因为我觉得有时候你就困在自己那个功能、自己那块地盘里了。",
     "text_es": "Mira, todos vienen de trasfondos muy diferentes, pero por lo que he visto con la mayoría de PMs que conozco, te diría: oye, sé que es complicado cuando ya trabajas como PM en algún lado, pero métete en un proyecto paralelo de verdad, monta una empresa aparte y aprende todo lo demás. Porque creo que a veces te quedas muy encerrado en tu funcionalidad, en tu área o lo que sea.",
-    "key_sentence": "Do a legitimate side hustle to avoid being in this silo as a PM."
+    "key_sentence": "Do a legitimate side hustle to avoid being in this silo as a PM.",
+    "text_trimmed": true,
+    "original_text": "Everyone has so many different backgrounds, but I'd say overall, based on most PMs that I've met, I'd say, look, it is hard to do when you are a PM somewhere, but do a legitimate side hustle, found a company on the side and learn everything else. Because I think sometimes you're in this silo of your feature, your area or whatnot.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "legitimate",
+        "definition": "Conforming to the law or to rules; valid and acceptable.",
+        "businessContext": "In business, 'legitimate' often refers to practices or operations that are lawful and ethically sound, distinguishing them from fraudulent or unethical activities.",
+        "nuance": "While 'legitimate' generally has a positive connotation, it can imply that something is being questioned or scrutinized for its authenticity.",
+        "synonyms": [
+          "valid",
+          "authentic"
+        ],
+        "antonyms": [
+          "illegitimate",
+          "fraudulent"
+        ]
+      },
+      {
+        "word": "silo",
+        "definition": "A system, process, or department that operates in isolation from others, often leading to a lack of communication and collaboration.",
+        "businessContext": "In organizational settings, silos can hinder innovation and efficiency, as teams may not share information or resources effectively.",
+        "nuance": "The term often carries a negative connotation, suggesting inefficiency and a need for greater integration within an organization.",
+        "synonyms": [
+          "isolation",
+          "compartmentalization"
+        ],
+        "antonyms": [
+          "collaboration",
+          "integration"
+        ]
+      },
+      {
+        "word": "found",
+        "definition": "To establish or set up an organization, institution, or company.",
+        "businessContext": "In the startup ecosystem, 'found' is commonly used to describe the act of starting a new business venture, often involving innovation and entrepreneurship.",
+        "nuance": "The term implies a sense of initiative and leadership, often associated with risk-taking and vision.",
+        "synonyms": [
+          "establish",
+          "create"
+        ],
+        "antonyms": [
+          "dissolve",
+          "terminate"
+        ]
+      },
+      {
+        "word": "level up",
+        "definition": "To improve or enhance one's skills, abilities, or status to a higher level.",
+        "businessContext": "In professional development, 'level up' is often used to encourage employees to acquire new skills or take on greater responsibilities to advance their careers.",
+        "nuance": "This phrase conveys a sense of progression and empowerment, often used in motivational contexts.",
+        "synonyms": [
+          "advance",
+          "upgrade"
+        ],
+        "antonyms": [
+          "decline",
+          "diminish"
+        ]
+      }
+    ]
   }
 ]

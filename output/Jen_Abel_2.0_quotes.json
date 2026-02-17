@@ -1,13 +1,14 @@
 [
   {
-    "text": "In the very early days, people will discount till the cows come home because they think that's the way to get a deal done. The best clients are not going to do that to you. If they're sitting there nickel-and-diming you, they're not fully bought in on what you're selling them.",
+    "text": "In the very early days, people will discount till the cows come home because they think that's the way to get a deal done. The best clients are not going to do that to you.",
     "speaker": "Jen Abel",
     "timestamp": "00:00:17",
     "context": "Lenny mentions that most founders would rather get 10 ten-thousand-dollar deals than lose nine and get one hundred-thousand-dollar deal. Jen explains why this approach is problematic for enterprise sales. She argues that discounting heavily signals weakness and attracts the wrong type of clients who aren't truly committed to the product's value.",
     "vocabulary_highlights": [
-      "discount till the cows come home",
-      "nickel-and-diming",
-      "fully bought in"
+      "discount",
+      "get a deal done",
+      "approach",
+      "problematic"
     ],
     "topics": [
       "Starting a Company",
@@ -22,16 +23,79 @@
     "text_ko": "초기에는 많은 사람이 거래를 성사시키려고 끝없이 할인을 해요(discount till the cows come home). 그게 딜을 성사시키는 방법이라고 생각하니까요. 하지만 최고의 고객들은 그렇게 하지 않아요. 만약 고객이 계속 꼬투리 잡아 한 푼씩 깎으려 한다면(nickel-and-diming), 그건 당신이 제안하는 것에 완전히 공감하고 투자한 상태가 아니라고 볼 수 있어요(fully bought in).",
     "text_zh": "刚开始做生意的时候，很多人会拼命砍价，觉得这样才能成交。但真正的好客户不会这么折腾你。如果他们老是跟你斤斤计较，抠这个抠那个的，说明他们根本就没真心想买你的东西。",
     "text_es": "En los primeros días, la gente va a regatear hasta el cansancio porque creen que así es como se cierra un trato. Los mejores clientes no te van a hacer eso. Si están ahí regateándote cada centavo, es porque no están realmente convencidos de lo que les estás vendiendo.",
-    "key_sentence": "Best clients are not nickel-and-diming; they're fully bought in."
+    "key_sentence": "The best clients are not going to do that to you.",
+    "text_trimmed": true,
+    "original_text": "In the very early days, people will discount till the cows come home because they think that's the way to get a deal done. The best clients are not going to do that to you. If they're sitting there nickel-and-diming you, they're not fully bought in on what you're selling them.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "discount",
+        "definition": "A reduction in the usual price of a product or service, often used as an incentive to encourage purchases.",
+        "businessContext": "In business, discounts are frequently employed as a marketing strategy to increase sales volume or attract new customers, particularly in competitive markets.",
+        "nuance": "While offering discounts can boost short-term sales, excessive discounting may devalue a brand or product in the eyes of consumers.",
+        "synonyms": [
+          "rebate",
+          "markdown"
+        ],
+        "antonyms": [
+          "premium",
+          "markup"
+        ]
+      },
+      {
+        "word": "get a deal done",
+        "definition": "To successfully complete a transaction or agreement, often involving negotiation and compromise.",
+        "businessContext": "In business negotiations, getting a deal done is crucial for establishing partnerships, closing sales, or finalizing contracts, highlighting the importance of effective communication and persuasion.",
+        "nuance": "This phrase implies a sense of urgency and the necessity of overcoming obstacles to achieve a mutually beneficial outcome.",
+        "synonyms": [
+          "close a deal",
+          "finalize an agreement"
+        ],
+        "antonyms": [
+          "fail to negotiate",
+          "leave unresolved"
+        ]
+      },
+      {
+        "word": "approach",
+        "definition": "A method or way of dealing with a situation or problem, often involving strategic planning.",
+        "businessContext": "In a business context, an approach can refer to the tactics used to engage clients, solve issues, or develop products, emphasizing the importance of strategy in achieving objectives.",
+        "nuance": "The term can carry a positive connotation when referring to innovative or effective methods, but may imply a lack of thoroughness if the approach is deemed superficial.",
+        "synonyms": [
+          "method",
+          "strategy"
+        ],
+        "antonyms": [
+          "neglect",
+          "avoidance"
+        ]
+      },
+      {
+        "word": "problematic",
+        "definition": "Causing or presenting difficulties or challenges that require resolution.",
+        "businessContext": "In business, identifying problematic areas is essential for risk management and operational efficiency, as unresolved issues can hinder progress and profitability.",
+        "nuance": "While 'problematic' can indicate a serious concern, it may also suggest that a situation is complex and requires careful consideration rather than immediate action.",
+        "synonyms": [
+          "troublesome",
+          "challenging"
+        ],
+        "antonyms": [
+          "beneficial",
+          "advantageous"
+        ]
+      }
+    ]
   },
   {
-    "text": "As soon as you become a comparison, as soon as you become one of three that they're testing out, you've already sort of lost. It's all about differentiation. Here's what you will be able to do tomorrow because of how we're going to serve you today.",
+    "text": "As soon as you become a comparison, as soon as you become one of three that they're testing out, you've already sort of lost. It's all about differentiation.",
     "speaker": "Jen Abel",
     "timestamp": "00:00:31",
     "context": "Jen is explaining how to position your product in enterprise sales. She emphasizes that once a potential client starts comparing your solution to others in a competitive evaluation process, you've lost your advantage. The key is to differentiate yourself by focusing on future opportunities and outcomes rather than competing on features or price.",
     "vocabulary_highlights": [
-      "sort of lost",
-      "testing out"
+      "differentiation",
+      "competitive evaluation",
+      "position",
+      "solution"
     ],
     "topics": [
       "Product Management",
@@ -46,7 +110,68 @@
     "text_ko": "비교 대상이 되거나 그들이 시험해보는 세 후보 중 하나로 여겨지는 순간, 이미 어느 정도 불리해요. 핵심은 차별화(differentiation)이에요. 오늘 우리가 어떻게 서비스를 제공하느냐에 따라 내일 무엇을 할 수 있게 될지가 결정돼요. 그래서 우리가 오늘 이렇게 해드리면, 내일은 이렇게 하실 수 있어요.",
     "text_zh": "一旦你变成了被比较的对象，一旦你成了他们要测试的三个选择之一，基本上就已经输了。关键在于差异化(differentiation)。要让客户知道：因为我们今天为你提供的服务，明天你就能做到这些事情。",
     "text_es": "En cuanto te conviertes en una opción más para comparar, en cuanto te vuelves uno de los tres que están evaluando, ya prácticamente perdiste. Todo se trata de diferenciación. Esto es lo que vas a poder lograr mañana gracias a cómo te vamos a atender hoy.",
-    "key_sentence": "You've sort of lost when becoming one of three testing out."
+    "key_sentence": "You've sort of lost when becoming one of three testing out.",
+    "text_trimmed": true,
+    "original_text": "As soon as you become a comparison, as soon as you become one of three that they're testing out, you've already sort of lost. It's all about differentiation. Here's what you will be able to do tomorrow because of how we're going to serve you today.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "differentiation",
+        "definition": "The process of distinguishing a product or service from others to make it more attractive to a specific target market.",
+        "businessContext": "In business, differentiation is crucial for establishing a unique value proposition that sets a company apart from its competitors, particularly in saturated markets.",
+        "nuance": "While differentiation often refers to tangible features, it can also encompass branding and customer experience; avoid using it in contexts where competition is not a factor.",
+        "synonyms": [
+          "distinction",
+          "segregation"
+        ],
+        "antonyms": [
+          "similarity",
+          "uniformity"
+        ]
+      },
+      {
+        "word": "competitive evaluation",
+        "definition": "The systematic assessment of competitors' strengths and weaknesses in relation to one's own business offerings.",
+        "businessContext": "In strategic planning, competitive evaluation helps businesses identify market opportunities and threats, guiding decisions on product development and marketing strategies.",
+        "nuance": "This term implies a thorough analysis rather than a superficial comparison; it is best used in contexts involving strategic decision-making.",
+        "synonyms": [
+          "competitive analysis",
+          "market assessment"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "position",
+        "definition": "The strategic place a company occupies in the market relative to its competitors, often defined by its brand, offerings, and customer perception.",
+        "businessContext": "Positioning is fundamental in marketing, as it influences how consumers perceive a brand and its products, impacting sales and market share.",
+        "nuance": "Position can refer to both physical and conceptual spaces; use it carefully to avoid confusion with location-based terms.",
+        "synonyms": [
+          "placement",
+          "standing"
+        ],
+        "antonyms": [
+          "displacement",
+          "removal"
+        ]
+      },
+      {
+        "word": "solution",
+        "definition": "A means of solving a problem or dealing with a difficult situation, often in the context of products or services that address customer needs.",
+        "businessContext": "In business, solutions are often marketed as comprehensive answers to specific challenges faced by customers, enhancing customer satisfaction and loyalty.",
+        "nuance": "While 'solution' is widely used in tech and service industries, it can sometimes imply overselling; use it judiciously to maintain credibility.",
+        "synonyms": [
+          "answer",
+          "resolution"
+        ],
+        "antonyms": [
+          "problem",
+          "issue"
+        ]
+      }
+    ]
   },
   {
     "text": "Enterprise is the number one thing they buy services, they know how to do it's super easy, they do it all of the time. It's like the most consistent thing they do. It's their largest budget item, external resources, consultants, whatever.",
@@ -55,7 +180,9 @@
     "context": "Lenny asks about Jen's advice to start with services rather than just selling software products to enterprises. Jen explains that large companies are very comfortable buying services and consulting - it's something they do regularly and have large budgets for. This makes services an easier entry point than trying to sell new technology solutions.",
     "vocabulary_highlights": [
       "external resources",
-      "budget item"
+      "consultants",
+      "budget item",
+      "consistent"
     ],
     "topics": [
       "Starting a Company",
@@ -70,17 +197,77 @@
     "text_ko": "기업(enterprise)은 서비스 구매가 가장 큰 비중이에요. 어떻게 하는지 잘 알고 있어서 아주 손쉽게 처리해요. 늘 하던 일이니까요. 가장 일관되게 하는 활동이고, 예산도 가장 큰 항목이에요. 외부 리소스(external resources)나 컨설턴트(consultants) 같은 데에 많이 쓰여요.",
     "text_zh": "大企业买服务这事儿是他们的强项，轻车熟路的，天天都在做。这是他们最稳定的操作了，也是预算里最大的一块 - 外部资源啊、咨询啊什么的。",
     "text_es": "Las empresas grandes son las que más compran servicios, ya saben cómo hacerlo y es súper fácil para ellas, lo hacen todo el tiempo. Es como lo más constante que hacen. Es su partida presupuestaria más grande: recursos externos, consultores, lo que sea.",
-    "key_sentence": "Enterprise is their largest budget item for external resources."
+    "key_sentence": "Enterprise is their largest budget item for external resources.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "external resources",
+        "definition": "Assets or services sourced from outside an organization, rather than being produced internally.",
+        "businessContext": "In business, external resources can include freelancers, consultants, or outsourced services that help companies achieve their goals without the need for permanent staff.",
+        "nuance": "The term often implies a reliance on outside expertise or support, which can be seen as both a strength and a potential risk if not managed properly.",
+        "synonyms": [
+          "outsourced services",
+          "third-party resources"
+        ],
+        "antonyms": [
+          "internal resources",
+          "in-house capabilities"
+        ]
+      },
+      {
+        "word": "consultants",
+        "definition": "Professionals who provide expert advice in a particular area, often hired on a temporary basis to assist organizations.",
+        "businessContext": "Consultants are commonly used in business settings to offer specialized knowledge, help with strategic planning, or improve operational efficiency.",
+        "nuance": "While consultants can bring valuable insights, their effectiveness can vary based on their understanding of the client's specific context and needs.",
+        "synonyms": [
+          "advisors",
+          "specialists"
+        ],
+        "antonyms": [
+          "employees",
+          "staff members"
+        ]
+      },
+      {
+        "word": "budget item",
+        "definition": "A specific line item in a financial plan that allocates funds for a particular expense or category.",
+        "businessContext": "In business, budget items help organizations track spending and ensure that resources are allocated effectively to meet strategic objectives.",
+        "nuance": "The term suggests a level of detail in financial planning, indicating that each item is scrutinized for its necessity and impact on overall financial health.",
+        "synonyms": [
+          "expense category",
+          "financial allocation"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "consistent",
+        "definition": "Showing steady conformity to the same principles, course, or form; reliable and predictable in performance.",
+        "businessContext": "In a business context, consistency is crucial for maintaining quality, building brand trust, and ensuring customer satisfaction over time.",
+        "nuance": "While consistency is generally viewed positively, it can also imply a lack of innovation or adaptability if taken to an extreme.",
+        "synonyms": [
+          "reliable",
+          "steady"
+        ],
+        "antonyms": [
+          "inconsistent",
+          "variable"
+        ]
+      }
+    ]
   },
   {
-    "text": "It's more of an art. It's all about deal crafting. It is a relationship you're building with someone. If they know they can call on you, people will turn over rocks for you. I have a client at a Fortune 10 company where I was like, 'It's so important we get the deal done this year. Is that possible?' And she's like, 'It's a tall order, but if it's going to help you, let's do it.' These are how enterprise deals gets done. It's relationships.",
+    "text": "It's more of an art. It's all about deal crafting. It is a relationship you're building with someone. If they know they can call on you, people will turn over rocks for you.",
     "speaker": "Jen Abel",
     "timestamp": "00:00:48",
     "context": "Lenny mentions that Jen talks about enterprise sales being very creative. Jen responds by explaining that enterprise sales is more of an art than a science, requiring creativity in structuring deals and building deep relationships. She shares a real example of how a strong relationship with a Fortune 10 client led them to expedite a deal specifically to help her, demonstrating the power of relationship-based selling.",
     "vocabulary_highlights": [
       "deal crafting",
-      "turn over rocks for you",
-      "tall order"
+      "relationship building",
+      "enterprise sales",
+      "creativity"
     ],
     "topics": [
       "Growth & Marketing",
@@ -95,7 +282,68 @@
     "text_ko": "이건 더 예술에 가까워요. 결국은 딜 구성(deal crafting)이 핵심이에요. 누군가와 쌓아가는 관계예요. 상대가 필요할 때 도움을 요청해도 된다고 알면, 사람들은 발품까지 팔아가며 도와줘요. 포춘 10대 기업(Fortune 10 company)의 고객이 한 분 있는데 제가 “올해 이 딜을 꼭 마무리하는 게 중요해요. 가능할까요?”라고 물었더니 그분이 “무리한 요청이긴 하지만, 당신에게 도움이 된다면 해보죠”라고 하더라고요. 엔터프라이즈 딜(enterprise deals)은 이렇게 관계로 성사돼요. 결국 관계예요.",
     "text_zh": "这更像是一门艺术。关键在于怎么做交易(deal crafting)。你其实是在跟人建立关系。如果他们知道有事能找你，别人就会为你想方设法。我有个客户在世界500强前10的公司，我跟她说：\"今年把这单搞定对我们特别重要，有可能吗？\"她就说：\"要求是挺高的，但如果能帮到你，那咱们就干吧。\"企业级交易(enterprise deals)就是这么成的，靠的就是关系。",
     "text_es": "Es más un arte, ¿sabes? Todo se trata de construir el negocio (deal crafting). Lo que estás haciendo es crear una relación con alguien. Si saben que pueden contar contigo, la gente va a mover cielo y tierra por ti. Tengo una cliente en una empresa Fortune 10 donde le dije, 'Es súper importante que cerremos este negocio este año. ¿Será posible?' Y me dice, 'Está complicado, pero si te va a ayudar, hagámoslo.' Así es como se cierran los negocios grandes (enterprise deals). Todo son relaciones.",
-    "key_sentence": "It's all about deal crafting and building relationships."
+    "key_sentence": "It's all about deal crafting and building relationships.",
+    "text_trimmed": true,
+    "original_text": "It's more of an art. It's all about deal crafting. It is a relationship you're building with someone. If they know they can call on you, people will turn over rocks for you. I have a client at a Fortune 10 company where I was like, 'It's so important we get the deal done this year. Is that possible?' And she's like, 'It's a tall order, but if it's going to help you, let's do it.' These are how enterprise deals gets done. It's relationships.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "deal crafting",
+        "definition": "The process of designing and negotiating a business agreement or transaction to meet the needs of all parties involved.",
+        "businessContext": "In business, deal crafting is crucial for creating win-win scenarios that foster long-term partnerships and successful outcomes in negotiations.",
+        "nuance": "This term implies a level of artistry and skill in negotiation, suggesting that successful deals require more than just basic transactional skills.",
+        "synonyms": [
+          "deal structuring",
+          "transaction design"
+        ],
+        "antonyms": [
+          "deal breakdown",
+          "transaction failure"
+        ]
+      },
+      {
+        "word": "relationship building",
+        "definition": "The process of establishing and nurturing connections with individuals or organizations to foster trust and collaboration.",
+        "businessContext": "In business environments, relationship building is essential for networking, customer retention, and creating strategic alliances that can lead to increased opportunities.",
+        "nuance": "This phrase emphasizes the importance of interpersonal skills and emotional intelligence in professional settings, often suggesting a long-term commitment.",
+        "synonyms": [
+          "networking",
+          "rapport development"
+        ],
+        "antonyms": [
+          "alienation",
+          "estrangement"
+        ]
+      },
+      {
+        "word": "enterprise sales",
+        "definition": "The sale of products or services to large organizations or corporations, typically involving complex decision-making processes and longer sales cycles.",
+        "businessContext": "In the tech industry, enterprise sales often require tailored solutions and a deep understanding of the client's business needs, making it a critical area for revenue generation.",
+        "nuance": "This term often conveys a sense of scale and complexity, indicating that the sales process is more involved than standard consumer sales.",
+        "synonyms": [
+          "B2B sales",
+          "corporate sales"
+        ],
+        "antonyms": [
+          "retail sales",
+          "consumer sales"
+        ]
+      },
+      {
+        "word": "creativity",
+        "definition": "The ability to generate original ideas, solutions, or approaches, often by thinking outside conventional frameworks.",
+        "businessContext": "In business, creativity is vital for innovation, problem-solving, and developing unique marketing strategies that can differentiate a company in a competitive market.",
+        "nuance": "While often associated with artistic endeavors, in a business context, creativity is equally valued for its role in strategic thinking and operational improvements.",
+        "synonyms": [
+          "innovation",
+          "imagination"
+        ],
+        "antonyms": [
+          "conformity",
+          "stagnation"
+        ]
+      }
+    ]
   },
   {
     "text": "I want to email someone not in the database that's getting hit by a million folks. I want to take a back door in, not the front door where everyone else is trick or treating.",
@@ -103,9 +351,10 @@
     "timestamp": "00:01:18",
     "context": "Lenny asks about the state of the art in go-to-market outbound tooling. Jen explains why she doesn't use automated tools for prospecting. She believes that AI tools and databases are creating too much noise because they all target the same people. Instead, she prefers finding unique ways to reach prospects that others aren't using.",
     "vocabulary_highlights": [
-      "back door in",
-      "front door",
-      "trick or treating"
+      "go-to-market",
+      "prospecting",
+      "automated tools",
+      "state of the art"
     ],
     "topics": [
       "Growth & Marketing",
@@ -120,16 +369,77 @@
     "text_ko": "데이터베이스(database)가 이미 수많은 사람들에게 시달리고 있어서, 그 안에 없는 사람에게 이메일을 보내고 싶어요. 다들 우르르 몰려가는 앞문(front door)으로 가지 않고 백도어(back door)로 슬쩍 들어가고 싶어요.",
     "text_zh": "我想给数据库里没有的人发邮件，不想走那些被无数人轰炸的渠道。我要走后门，不走正门——正门那儿人太多了，跟要糖的小孩似的排着队呢。",
     "text_es": "Quiero contactar por email a alguien que no está en la base de datos pero que está siendo bombardeado por un millón de personas. Quiero entrar por la puerta de atrás, no por la puerta principal donde todos están pidiendo dulces.",
-    "key_sentence": "I want to take a back door in, not the front door."
+    "key_sentence": "I want to take a back door in, not the front door.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "go-to-market",
+        "definition": "The strategy or plan a company uses to deliver its products or services to customers and gain a competitive advantage.",
+        "businessContext": "In business settings, 'go-to-market' refers to the comprehensive approach that includes marketing, sales, distribution, and customer engagement strategies to effectively reach target markets.",
+        "nuance": "This term often implies a well-thought-out plan that considers market dynamics and customer needs, and is typically used in discussions about launching new products or entering new markets.",
+        "synonyms": [
+          "market entry",
+          "launch strategy"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "prospecting",
+        "definition": "The process of identifying and reaching out to potential customers or clients to generate new business opportunities.",
+        "businessContext": "In sales and marketing, prospecting is a crucial activity that involves researching and qualifying leads to build a pipeline of potential sales.",
+        "nuance": "While prospecting can be seen as a proactive approach to sales, it can also carry a connotation of being intrusive if not done thoughtfully, so it's important to balance persistence with respect for potential clients' time.",
+        "synonyms": [
+          "lead generation",
+          "customer acquisition"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "automated tools",
+        "definition": "Software or systems that perform tasks with minimal human intervention, often to increase efficiency and accuracy.",
+        "businessContext": "In business and tech environments, automated tools are used for various functions such as marketing automation, customer relationship management, and data analysis, enabling teams to focus on strategic initiatives.",
+        "nuance": "The use of automated tools can enhance productivity but may also raise concerns about the loss of personal touch in customer interactions, so their implementation should be carefully considered.",
+        "synonyms": [
+          "automation software",
+          "digital tools"
+        ],
+        "antonyms": [
+          "manual processes",
+          "N/A"
+        ]
+      },
+      {
+        "word": "state of the art",
+        "definition": "Referring to the highest level of development or sophistication in a particular field, often involving the latest technology or methods.",
+        "businessContext": "In business, 'state of the art' is used to describe products, services, or processes that incorporate the most advanced features and innovations, often serving as a selling point.",
+        "nuance": "This phrase conveys a sense of superiority and cutting-edge quality, but it should be used judiciously to avoid overpromising or misrepresenting capabilities.",
+        "synonyms": [
+          "cutting-edge",
+          "advanced"
+        ],
+        "antonyms": [
+          "obsolete",
+          "outdated"
+        ]
+      }
+    ]
   },
   {
-    "text": "The market doesn't want to be sold to, they want to buy. And I know that it's very hard to hire a really good enterprise salesperson. The number of people that I've interviewed, I can count on my hand the ones that I get really, really excited by.",
+    "text": "The market doesn't want to be sold to, they want to buy. And I know that it's very hard to hire a really good enterprise salesperson.",
     "speaker": "Jen Abel",
     "timestamp": "00:52:38",
     "context": "Jen is discussing what makes a good enterprise salesperson and why it's challenging to find the right people. She explains that taking typical salespeople and putting them in startup sales roles often fails because it feels too 'salesy' to prospects. She emphasizes that great enterprise salespeople are as rare as great founders or engineers.",
     "vocabulary_highlights": [
-      "count on my hand",
-      "get really, really excited by"
+      "enterprise",
+      "salesperson",
+      "challenging",
+      "typical"
     ],
     "topics": [
       "Leadership & Management",
@@ -144,6 +454,67 @@
     "text_ko": "시장은 누군가에게 일방적으로 팔리기를 원하지 않고, 스스로 사기를 원해요. 그리고 진짜 좋은 엔터프라이즈 영업 담당자(enterprise salesperson)를 뽑는 건 정말 어렵다는 걸 잘 알아요. 제가 면접 본 사람들 중에서 정말로 기대가 되고 가슴이 뛰었던 사람은 손에 꼽을 정도예요.",
     "text_zh": "市场不想被推销，他们想要主动购买。我知道招到一个真正优秀的企业销售特别难。我面试过那么多人，真正让我眼前一亮的，用一只手都能数得过来。",
     "text_es": "El mercado no quiere que le vendan, quiere comprar. Y sé que es súper difícil contratar a un vendedor empresarial realmente bueno. De toda la gente que he entrevistado, puedo contar con los dedos de una mano a los que realmente me emocionan.",
-    "key_sentence": "I can count on my hand the ones I get really, really excited by."
+    "key_sentence": "The market doesn't want to be sold to, they want to buy.",
+    "text_trimmed": true,
+    "original_text": "The market doesn't want to be sold to, they want to buy. And I know that it's very hard to hire a really good enterprise salesperson. The number of people that I've interviewed, I can count on my hand the ones that I get really, really excited by.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "enterprise",
+        "definition": "An enterprise refers to a business or company, particularly one that is large and complex in nature. It often implies a level of organization and structure that is necessary for managing various operations and resources.",
+        "businessContext": "In business settings, 'enterprise' is frequently used to describe large-scale organizations that operate across multiple sectors or regions, often requiring sophisticated management and operational strategies.",
+        "nuance": "The term 'enterprise' can also connote a sense of innovation and initiative, particularly in entrepreneurial contexts, distinguishing it from smaller businesses or startups.",
+        "synonyms": [
+          "corporation",
+          "business"
+        ],
+        "antonyms": [
+          "individual",
+          "sole proprietorship"
+        ]
+      },
+      {
+        "word": "salesperson",
+        "definition": "A salesperson is an individual whose primary responsibility is to sell products or services to customers, often through direct interaction and relationship-building.",
+        "businessContext": "In the context of business and sales, a salesperson plays a crucial role in driving revenue and fostering customer loyalty, often requiring skills in negotiation, communication, and product knowledge.",
+        "nuance": "While 'salesperson' is a neutral term, it can sometimes carry a negative connotation if associated with aggressive or pushy sales tactics; thus, it is important to emphasize consultative selling approaches.",
+        "synonyms": [
+          "sales representative",
+          "account executive"
+        ],
+        "antonyms": [
+          "customer",
+          "buyer"
+        ]
+      },
+      {
+        "word": "challenging",
+        "definition": "Challenging describes a situation or task that is difficult and requires significant effort, skill, or determination to overcome.",
+        "businessContext": "In business environments, challenges are often viewed as opportunities for growth and innovation, prompting teams to develop creative solutions and improve processes.",
+        "nuance": "The term 'challenging' can have a positive connotation when used to highlight the potential for personal or professional development, but it may also imply frustration or adversity in certain contexts.",
+        "synonyms": [
+          "demanding",
+          "difficult"
+        ],
+        "antonyms": [
+          "easy",
+          "simple"
+        ]
+      },
+      {
+        "word": "typical",
+        "definition": "Typical refers to something that is characteristic or representative of a particular group, category, or situation, often indicating what is expected or usual.",
+        "businessContext": "In business discussions, 'typical' is often used to describe standard practices, average performance metrics, or common customer behaviors, serving as a benchmark for comparison.",
+        "nuance": "While 'typical' conveys a sense of normalcy, it can also imply a lack of uniqueness or innovation, so it is important to use it carefully in contexts where differentiation is valued.",
+        "synonyms": [
+          "standard",
+          "usual"
+        ],
+        "antonyms": [
+          "atypical",
+          "unusual"
+        ]
+      }
+    ]
   }
 ]

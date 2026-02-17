@@ -1,12 +1,14 @@
 [
   {
-    "text": "The viral actions of a document platform are shared, create, share, create. It happens over and over and over again. The best way you learn about Office or Google Docs or so on is somebody shares one with you and you're like, \"Oh, that's pretty cool. I bet I could create one.\" And that loop can happen very, very quickly and it really drives for us a lot of how we think about how we work mostly within companies and teams, but sometimes across them as well.",
+    "text": "The viral actions of a document platform are shared, create, share, create. It happens over and over and over again.",
     "speaker": "Shishir Mehrotra",
     "timestamp": "00:09:53",
     "context": "Lenny asks Shishir to explain what Black Loops and Blue Loops are - a framework for understanding how Coda's product spreads. Shishir is describing the Black Loop, which he compares to Microsoft's document sharing model. The Black Loop works when someone creates a document, shares it with a group, and some subset of those people create their own documents, repeating the cycle. This viral sharing mechanism is fundamental to how document platforms naturally grow and spread within organizations.",
     "vocabulary_highlights": [
       "viral actions",
-      "loop can happen very, very quickly"
+      "framework",
+      "product spreads",
+      "document platform"
     ],
     "topics": [
       "Product Management",
@@ -22,16 +24,79 @@
     "text_ko": "문서 플랫폼(document platform)에서 바이럴(viral)하게 퍼지는 행동 패턴은 '공유 → 만들기 → 공유 → 만들기'예요. 이게 계속해서 반복돼요. 오피스(Office)나 구글 문서(Google Docs)를 가장 잘 배우는 방법은 누군가가 하나를 공유해줘서 \"아, 이거 괜찮네. 나도 만들어볼 수 있겠다\"라고 느끼는 거예요. 그 루프(loop)는 아주 빠르게 일어나고, 우리한테는 주로 회사나 팀 내에서 일하는 방식을 생각하게 하는 큰 동력이 돼요. 가끔은 팀을 넘어서서도 일어나고요.",
     "text_zh": "文档平台的病毒式传播动作就是分享、创建、分享、创建，这个循环不断重复。你了解Office或者Google Docs这些工具的最好方式，就是别人先分享给你一个文档，然后你就想\"哎，这个挺不错的，我也能做一个\"。这个循环可以非常非常快地发生，这很大程度上影响了我们对团队内部协作的思考方式，有时候也会影响跨团队的合作。",
     "text_es": "Las acciones virales de una plataforma de documentos son: compartir, crear, compartir, crear. Pasa una y otra vez sin parar. La mejor manera de conocer Office o Google Docs o cualquier otra es que alguien te comparta un documento y tú dices \"Oye, qué padre está esto. Seguro yo también puedo crear uno\". Y ese bucle puede pasar súper rápido y realmente nos ayuda muchísimo a entender cómo trabajamos, sobre todo dentro de las empresas y equipos, pero a veces también entre diferentes organizaciones.",
-    "key_sentence": "Viral actions create a quick loop for sharing and learning about document platforms."
+    "key_sentence": "The viral actions of a document platform are shared, create, share, create.",
+    "text_trimmed": true,
+    "original_text": "The viral actions of a document platform are shared, create, share, create. It happens over and over and over again. The best way you learn about Office or Google Docs or so on is somebody shares one with you and you're like, \"Oh, that's pretty cool. I bet I could create one.\" And that loop can happen very, very quickly and it really drives for us a lot of how we think about how we work mostly within companies and teams, but sometimes across them as well.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "viral actions",
+        "definition": "Viral actions refer to behaviors or activities that rapidly gain popularity and are widely shared among users, often through social media or digital platforms.",
+        "businessContext": "In business and tech, viral actions are crucial for marketing strategies, as they can lead to exponential growth in user engagement and brand awareness.",
+        "nuance": "The term often implies a spontaneous and organic spread, so it should be used when discussing successful marketing campaigns or user-generated content that resonates widely.",
+        "synonyms": [
+          "viral marketing",
+          "word-of-mouth"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "framework",
+        "definition": "A framework is a structured approach or system that provides guidance and support for developing, implementing, or analyzing a particular process or project.",
+        "businessContext": "In business and technology, frameworks are essential for project management, software development, and strategic planning, as they help teams align their efforts and ensure consistency.",
+        "nuance": "While 'framework' suggests a solid foundation, it can also imply rigidity; use it when discussing structured methodologies but be cautious of its limitations in flexibility.",
+        "synonyms": [
+          "structure",
+          "system"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "product spreads",
+        "definition": "Product spreads refer to the process by which a product gains traction and becomes widely adopted among users, often through recommendations or marketing efforts.",
+        "businessContext": "In the startup ecosystem, understanding how product spreads can inform growth strategies and help businesses identify key channels for customer acquisition.",
+        "nuance": "This phrase can imply both organic growth through user satisfaction and strategic marketing; use it when discussing the dynamics of market penetration.",
+        "synonyms": [
+          "market adoption",
+          "user acquisition"
+        ],
+        "antonyms": [
+          "market stagnation",
+          "decline"
+        ]
+      },
+      {
+        "word": "document platform",
+        "definition": "A document platform is a digital service or application that allows users to create, manage, share, and collaborate on documents in a cloud-based environment.",
+        "businessContext": "In business settings, document platforms enhance productivity and collaboration by enabling teams to work on documents simultaneously and access them from anywhere.",
+        "nuance": "While 'document platform' is straightforward, it can imply varying levels of sophistication and features; use it to refer specifically to tools designed for document management and collaboration.",
+        "synonyms": [
+          "document management system",
+          "collaboration platform"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "If you take Black Loop and Blue Loop, the Black Loop is every product in our category has that. We didn't invent it. You build a document, you put a share button on it, every product has that. Sometimes it's just recognizing what's there. It's not that interesting. The Blue Loop on the other hand, is not something that every product in our category has.",
+    "text": "If you take Black Loop and Blue Loop, the Black Loop is every product in our category has that. We didn't invent it. You build a document, you put a share button on it, every product has that. Sometimes it's just recognizing what's there.",
     "speaker": "Shishir Mehrotra",
     "timestamp": "00:15:13",
     "context": "Lenny asks Shishir how founders can identify their own loops and flywheels for growth. Shishir explains that while the Black Loop (document sharing) exists in every document product and isn't unique to Coda, the Blue Loop represents their unique innovation. The Blue Loop allows users to publish documents publicly to the world, creating a publishing platform that acts like a hybrid between Medium and an app store, which differentiates Coda from competitors like Google Docs.",
     "vocabulary_highlights": [
-      "recognizing what's there",
-      "not that interesting"
+      "recognizing",
+      "product",
+      "category",
+      "build"
     ],
     "topics": [
       "Product Management",
@@ -47,17 +112,79 @@
     "text_ko": "블랙 루프(Black Loop)랑 블루 루프(Blue Loop)를 보면, 블랙 루프는 우리 카테고리의 모든 제품이 가지고 있어요. 우리가 발명한 건 아니에요. 문서를 만들고 공유 버튼을 달면 되는 기능이라서, 사실 모든 제품에 다 있어요. 가끔은 그냥 이미 있는 걸 인지하는 수준이라서 별로 흥미롭지 않아요. 반면 블루 루프(Blue Loop)는 우리 카테고리의 모든 제품이 갖고 있는 건 아니에요.",
     "text_zh": "你看，如果把黑色循环(Black Loop)和蓝色循环(Blue Loop)拿来比较的话，黑色循环其实我们这个行业里每个产品都有，不是我们发明的。就是你做个文档，加个分享按钮，每个产品都这么干，有时候就是把现有的东西认识一下而已，没什么特别的。但是蓝色循环就不一样了，不是我们这个品类里每个产品都有的。",
     "text_es": "Si tomas el Bucle Negro (Black Loop) y el Bucle Azul (Blue Loop), el Bucle Negro es algo que todos los productos de nuestra categoría tienen. No lo inventamos nosotros. Creas un documento, le pones un botón para compartir, todos los productos tienen eso. A veces se trata simplemente de reconocer lo que ya está ahí. No es tan interesante. El Bucle Azul, por otro lado, no es algo que todos los productos de nuestra categoría tengan.",
-    "key_sentence": "Recognizing what's there is not that interesting compared to the unique Blue Loop."
+    "key_sentence": "Recognizing what's there is not that interesting compared to the unique Blue Loop.",
+    "text_trimmed": true,
+    "original_text": "If you take Black Loop and Blue Loop, the Black Loop is every product in our category has that. We didn't invent it. You build a document, you put a share button on it, every product has that. Sometimes it's just recognizing what's there. It's not that interesting. The Blue Loop on the other hand, is not something that every product in our category has.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "recognizing",
+        "definition": "The act of identifying or acknowledging something as valid or important.",
+        "businessContext": "In business, recognizing trends, opportunities, or challenges is crucial for strategic decision-making and innovation.",
+        "nuance": "This term often implies a deeper understanding or awareness rather than just superficial acknowledgment.",
+        "synonyms": [
+          "acknowledging",
+          "identifying"
+        ],
+        "antonyms": [
+          "ignoring",
+          "overlooking"
+        ]
+      },
+      {
+        "word": "product",
+        "definition": "An item or service that is created and offered for sale to meet consumer needs or demands.",
+        "businessContext": "In a business context, a product can range from physical goods to digital services, and its development and marketing are central to a company's success.",
+        "nuance": "The term can also imply a sense of value or utility, often associated with the benefits it provides to the consumer.",
+        "synonyms": [
+          "offering",
+          "merchandise"
+        ],
+        "antonyms": [
+          "service",
+          "N/A"
+        ]
+      },
+      {
+        "word": "category",
+        "definition": "A classification or grouping of similar items or concepts based on shared characteristics.",
+        "businessContext": "In marketing and product development, categorizing products helps businesses target specific consumer segments and streamline inventory management.",
+        "nuance": "The term can suggest a hierarchy or structure, indicating the relationship between different products within a market.",
+        "synonyms": [
+          "classification",
+          "group"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "build",
+        "definition": "To create or develop something, often through a systematic process or set of actions.",
+        "businessContext": "In the tech industry, 'build' often refers to the development of software or products, emphasizing the iterative process of creation.",
+        "nuance": "This term can imply a collaborative effort and may also suggest ongoing improvement rather than a one-time action.",
+        "synonyms": [
+          "construct",
+          "develop"
+        ],
+        "antonyms": [
+          "destroy",
+          "dismantle"
+        ]
+      }
+    ]
   },
   {
-    "text": "And one reason it's very important is because for products like ours that are very horizontal, you get different types of users. There's some users that I call the building block thinkers, they like to build up from scratch and the blank surface of Coda is really amazing for them, but for most people that's intimidating. I don't really know what to do. Most people in the world are problem solvers.",
+    "text": "And one reason it's very important is because for products like ours that are very horizontal, you get different types of users.",
     "speaker": "Shishir Mehrotra",
     "timestamp": "00:12:51",
     "context": "Shishir continues explaining how the Blue Loop helps Coda reach different user types. He's describing why the Blue Loop publishing mechanism is crucial for horizontal products like Coda. While some users enjoy starting from a blank document (building block thinkers), most people are intimidated by that approach and prefer to start with a specific problem they need to solve. The Blue Loop allows problem-solvers to discover Coda through templates and solutions rather than being confronted with an empty document.",
     "vocabulary_highlights": [
-      "building block thinkers",
-      "build up from scratch",
-      "blank surface"
+      "horizontal",
+      "types of users",
+      "crucial",
+      "mechanism"
     ],
     "topics": [
       "Product Management",
@@ -73,15 +200,79 @@
     "text_ko": "중요한 이유 중 하나는 우리처럼 범용적인 제품(horizontal)은 다양한 유형의 사용자를 갖는다는 거예요. 제가 '구성요소형 사고를 하는 사용자들(building block thinkers)'이라고 부르는 분들이 있는데, 이분들은 처음부터 하나씩 쌓아 올리는 걸 좋아해서 Coda의 빈 화면(blank surface)이 정말 잘 맞아요. 그런데 대부분의 사람들에겐 그게 오히려 부담스러워요 — 어디서부터 시작해야 할지 모르겠다고 느끼거든요. 세상 사람들 대부분은 문제 해결자(problem solvers)이에요.",
     "text_zh": "这个特别重要的一个原因是，像我们这种横向产品(horizontal product)，会有各种不同类型的用户。有些用户我叫他们\"搭积木型思维者\"，他们喜欢从零开始搭建，Coda的空白界面对他们来说简直太棒了。但对大多数人来说，这挺吓人的，不知道该从哪儿下手。其实世界上大部分人都是解决问题型的。",
     "text_es": "Y una razón por la que esto es súper importante es porque para productos como el nuestro que son muy horizontales, te llegan diferentes tipos de usuarios. Hay algunos usuarios que yo llamo los pensadores de bloques de construcción (building block thinkers), a ellos les encanta construir desde cero y la superficie en blanco de Coda les resulta increíble, pero para la mayoría de la gente eso les da cosa. No saben realmente qué hacer. La mayoría de las personas en el mundo son solucionadores de problemas.",
-    "key_sentence": "Building block thinkers thrive on a blank surface, while most prefer problem-solving."
+    "key_sentence": "for products like ours that are very horizontal, you get different types of users.",
+    "text_trimmed": true,
+    "original_text": "And one reason it's very important is because for products like ours that are very horizontal, you get different types of users. There's some users that I call the building block thinkers, they like to build up from scratch and the blank surface of Coda is really amazing for them, but for most people that's intimidating. I don't really know what to do. Most people in the world are problem solvers.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "horizontal",
+        "definition": "Referring to a product or service that serves a wide range of industries or markets rather than being specialized for a specific niche.",
+        "businessContext": "In business and tech, a horizontal product can appeal to various customer segments, allowing for broader market penetration and diversification of user base.",
+        "nuance": "While 'horizontal' suggests versatility, it may also imply a lack of depth in addressing specific needs compared to 'vertical' solutions.",
+        "synonyms": [
+          "broad-based",
+          "general-purpose"
+        ],
+        "antonyms": [
+          "vertical",
+          "niche"
+        ]
+      },
+      {
+        "word": "types of users",
+        "definition": "Categories or classifications of individuals or organizations that utilize a product or service, often based on their specific needs or behaviors.",
+        "businessContext": "Understanding the different types of users is crucial for tailoring marketing strategies, product features, and customer support to meet diverse requirements.",
+        "nuance": "The phrase emphasizes the diversity within a user base, highlighting the importance of segmentation in product development and marketing.",
+        "synonyms": [
+          "user categories",
+          "user segments"
+        ],
+        "antonyms": [
+          "single user",
+          "uniform user"
+        ]
+      },
+      {
+        "word": "crucial",
+        "definition": "Extremely important or essential, often indicating that something is critical to the success or failure of a situation.",
+        "businessContext": "In business discussions, identifying crucial factors can guide decision-making processes and prioritize actions that significantly impact outcomes.",
+        "nuance": "While 'crucial' conveys urgency, it should be used judiciously to avoid overstating the importance of less significant issues.",
+        "synonyms": [
+          "critical",
+          "vital"
+        ],
+        "antonyms": [
+          "insignificant",
+          "trivial"
+        ]
+      },
+      {
+        "word": "mechanism",
+        "definition": "A system or process by which something operates or functions, often involving a series of interconnected parts or steps.",
+        "businessContext": "In a business context, understanding the mechanisms behind a product or service can help in optimizing operations and improving user experience.",
+        "nuance": "The term can imply complexity and is often used in technical discussions, so it may not be suitable for all audiences without proper context.",
+        "synonyms": [
+          "system",
+          "process"
+        ],
+        "antonyms": [
+          "disorganization",
+          "chaos"
+        ]
+      }
+    ]
   },
   {
-    "text": "I highly encourage drawing a diagram like this for your business. I'll flash it up on screen for a second and I'll describe it, but this is what the diagram looks like, black loop, blue loop, and it's basically the two different ways that our product spreads.",
+    "text": "I highly encourage drawing a diagram like this for your business.",
     "speaker": "Shishir Mehrotra",
     "timestamp": "00:09:08",
     "context": "Lenny asks Shishir to explain what Black Loops and Blue Loops are as a framework for understanding growth strategy. Shishir is introducing a visual diagram that maps out Coda's ecosystem and growth mechanisms. He emphasizes that most businesses should create similar diagrams to understand how their products actually grow and spread, rather than thinking about growth as a linear funnel. This diagram became central to how Coda thinks about their business model and growth strategy.",
     "vocabulary_highlights": [
-      "flash it up on screen"
+      "framework",
+      "ecosystem",
+      "strategy",
+      "visual diagram"
     ],
     "topics": [
       "Growth & Marketing",
@@ -97,7 +288,68 @@
     "text_ko": "여러분 비즈니스에 이런 다이어그램(diagram)을 그려보시길 강력히 권해요. 잠깐 화면에 띄워 보여드리고 설명할게요. 이 다이어그램은 블랙 루프(black loop)와 블루 루프(blue loop)로 되어 있고, 기본적으로 우리 제품이 퍼지는 두 가지 방식이에요.",
     "text_zh": "我强烈建议你们也给自己的业务画这样一个图。我在屏幕上放一下，简单描述一下，就是这个样子——黑色循环，蓝色循环，基本上就是我们产品传播的两种不同路径。",
     "text_es": "Te recomiendo muchísimo que hagas un diagrama como este para tu negocio. Lo voy a poner en pantalla un momento y te lo explico, pero así se ve el diagrama: bucle negro, bucle azul, y básicamente son las dos formas distintas en que se extiende nuestro producto.",
-    "key_sentence": "Flash it up on screen to illustrate the black loop and blue loop dynamics."
+    "key_sentence": "I highly encourage drawing a diagram like this for your business.",
+    "text_trimmed": true,
+    "original_text": "I highly encourage drawing a diagram like this for your business. I'll flash it up on screen for a second and I'll describe it, but this is what the diagram looks like, black loop, blue loop, and it's basically the two different ways that our product spreads.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "framework",
+        "definition": "A framework is a structured approach or system that provides a foundation for developing or organizing ideas, processes, or projects.",
+        "businessContext": "In business and tech, frameworks are often used to guide project management, software development, or strategic planning, ensuring consistency and efficiency.",
+        "nuance": "While 'framework' implies a flexible structure that can adapt to various contexts, it should not be confused with rigid methodologies that allow little room for customization.",
+        "synonyms": [
+          "structure",
+          "system"
+        ],
+        "antonyms": [
+          "chaos",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "ecosystem",
+        "definition": "An ecosystem refers to a complex network of interconnected entities, including businesses, stakeholders, and technologies, that interact and depend on one another.",
+        "businessContext": "In the context of startups and technology, an ecosystem often describes the collaborative environment that fosters innovation, partnerships, and competition among various players.",
+        "nuance": "The term 'ecosystem' conveys a sense of interdependence and dynamic interaction, making it more suitable for discussions about collaborative environments than for isolated entities.",
+        "synonyms": [
+          "network",
+          "environment"
+        ],
+        "antonyms": [
+          "isolation",
+          "independence"
+        ]
+      },
+      {
+        "word": "strategy",
+        "definition": "A strategy is a carefully devised plan or method for achieving specific goals or objectives, often involving the allocation of resources and the assessment of risks.",
+        "businessContext": "In business, strategy is crucial for guiding decision-making, aligning teams, and ensuring that all efforts contribute to overarching organizational goals.",
+        "nuance": "While 'strategy' implies a long-term vision, it should be distinguished from tactics, which are the specific actions taken to implement the strategy.",
+        "synonyms": [
+          "plan",
+          "approach"
+        ],
+        "antonyms": [
+          "impulsiveness",
+          "disorganization"
+        ]
+      },
+      {
+        "word": "visual diagram",
+        "definition": "A visual diagram is a graphical representation of information, concepts, or processes, designed to enhance understanding and communication.",
+        "businessContext": "In business settings, visual diagrams are often used in presentations, reports, and brainstorming sessions to clarify complex ideas and facilitate collaboration among team members.",
+        "nuance": "The term 'visual diagram' emphasizes clarity and accessibility, making it preferable in contexts where visual learning aids are beneficial, but it may not be suitable for conveying detailed textual information.",
+        "synonyms": [
+          "graphic representation",
+          "flowchart"
+        ],
+        "antonyms": [
+          "textual description",
+          "verbal explanation"
+        ]
+      }
+    ]
   },
   {
     "text": "Great companies has a very small list of golden rituals. And there are three rules of golden rituals. Number one, they're named. Number two, every employee knows them by their first Friday and, number three, they're templated.",
@@ -105,9 +357,10 @@
     "timestamp": "00:26:29",
     "context": "Lenny asks Shishir how he got interested in rituals enough to write a book about them. Shishir shares a quote from Bing Gordon, a founder of Electronic Arts, that became the foundation for his book \"The Rituals of Great Teams.\" This quote defines what makes organizational rituals effective and memorable. Golden rituals are the key practices that define a company's culture and operational excellence, with examples including Amazon's six-pagers, Google's OKRs, and Salesforce's V2MOM framework.",
     "vocabulary_highlights": [
-      "golden rituals",
-      "by their first Friday",
-      "they're templated"
+      "rituals",
+      "templated",
+      "foundation",
+      "employees"
     ],
     "topics": [
       "Leadership & Management",
@@ -123,17 +376,77 @@
     "text_ko": "위대한 회사들은 아주 소수의 골든 리추얼(golden rituals)만 갖고 있어요. 골든 리추얼에는 세 가지 규칙이 있어요. 첫째, 이름이 붙어 있어요. 둘째, 모든 직원이 입사 첫 금요일까지는 그걸 알고 있어요. 셋째, 형식이 정해져 있어요(templated).",
     "text_zh": "优秀的公司都有一套核心仪式感，而且数量不多。这些黄金仪式(golden rituals)有三个特点：第一，都有专门的名字；第二，每个员工入职第一周就必须熟悉；第三，都有标准化的模板和流程。",
     "text_es": "Las empresas exitosas tienen una lista muy pequeña de rituales de oro (golden rituals). Y hay tres reglas para estos rituales de oro. Primera, tienen nombre propio. Segunda, todos los empleados los conocen desde su primer viernes en la empresa. Y tercera, están sistematizados con plantillas.",
-    "key_sentence": "Golden rituals are named, known by their first Friday, and templated for all employees."
+    "key_sentence": "Golden rituals are named, known by their first Friday, and templated for all employees.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "rituals",
+        "definition": "Rituals are established procedures or practices that are regularly followed in a specific context. In a business setting, these can refer to recurring activities that reinforce company culture and values.",
+        "businessContext": "In business, rituals can enhance team cohesion and promote a shared sense of purpose among employees, often leading to improved morale and productivity.",
+        "nuance": "While rituals can be seen as positive and unifying, they may also be perceived as rigid or outdated if not adapted to changing circumstances.",
+        "synonyms": [
+          "practices",
+          "traditions"
+        ],
+        "antonyms": [
+          "spontaneity",
+          "chaos"
+        ]
+      },
+      {
+        "word": "templated",
+        "definition": "Templated refers to something that is created based on a predefined format or structure. In business, this often applies to documents, processes, or workflows that follow a standard model.",
+        "businessContext": "Using templated approaches in business can streamline operations, ensure consistency, and reduce the time required for repetitive tasks.",
+        "nuance": "While templated solutions can enhance efficiency, they may also limit creativity and flexibility if applied too rigidly.",
+        "synonyms": [
+          "standardized",
+          "formatted"
+        ],
+        "antonyms": [
+          "customized",
+          "unique"
+        ]
+      },
+      {
+        "word": "foundation",
+        "definition": "Foundation refers to the underlying basis or groundwork upon which something is built or established. In a business context, it often pertains to core values, principles, or structures that support the organization.",
+        "businessContext": "A strong foundation in a company can lead to sustainable growth and resilience, as it provides a clear direction and framework for decision-making.",
+        "nuance": "The term carries a connotation of stability and reliability, suggesting that a well-established foundation is crucial for long-term success.",
+        "synonyms": [
+          "basis",
+          "cornerstone"
+        ],
+        "antonyms": [
+          "superstructure",
+          "instability"
+        ]
+      },
+      {
+        "word": "employees",
+        "definition": "Employees are individuals who work for an organization in exchange for compensation, typically in the form of wages or salaries. They play a crucial role in executing the company's objectives and strategies.",
+        "businessContext": "In business, employees are often considered the most valuable asset, as their skills, engagement, and productivity directly impact the organization's success.",
+        "nuance": "While the term is neutral, it can sometimes imply a hierarchical relationship, which may not fully capture the collaborative nature of modern workplaces.",
+        "synonyms": [
+          "staff",
+          "workforce"
+        ],
+        "antonyms": [
+          "employers",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "The eigenquestion, the simplest definition of eigenquestion, it's the question that when answered also answers the most subsequent questions. And it's a very simple idea that when you sit down and you say, hey, here's all these questions we ought to answer, how do we all usually rank them? Sometimes we rank them just by what order we came up with them. Sometimes we rank them by importance, which is the most impactful decision we're going to make. But this methodology says don't rank them that way.",
+    "text": "The eigenquestion, the simplest definition of eigenquestion, it's the question that when answered also answers the most subsequent questions.",
     "speaker": "Shishir Mehrotra",
     "timestamp": "00:52:51",
     "context": "Lenny asks Shishir to explain what eigenquestions are, referencing one of his most popular posts. Shishir defines the core concept after telling the story of YouTube's \"Modern Family question\" - a strategic dilemma about whether to link users to content on other sites. An eigenquestion is named after the mathematical concept of eigenvectors and represents the most discriminating question in a decision space. Rather than ranking questions by order or importance, this methodology prioritizes the question that, when answered, eliminates the need to answer many other related questions.",
     "vocabulary_highlights": [
-      "subsequent questions",
-      "most impactful decision",
-      "this methodology"
+      "definition",
+      "subsequent",
+      "core concept",
+      "simplest"
     ],
     "topics": [
       "Decision Making",
@@ -149,6 +462,67 @@
     "text_ko": "아이겐 질문(eigenquestion)은 가장 단순한 정의로 말하면, 그 질문에 답하면 이후에 이어지는 질문들까지 가장 많이 해결되는 질문이에요. 아주 간단한 아이디어예요. 우리가 앉아서 “여기 답해야 할 질문들이 다 있네”라고 할 때 보통 어떻게 우선순위를 매기죠? 가끔은 떠오른 순서대로 정하고, 가끔은 중요도, 즉 가장 큰 영향을 줄 결정부터 정해요. 그런데 이 방법론은 그렇게 순위를 매기지 말라고 해요.",
     "text_zh": "本征问题(eigenquestion)，最简单的定义就是，当你解决了这个问题，其他一大堆问题也就迎刃而解了。这个概念其实很简单，就是当你坐下来说\"好，我们有这么多问题需要解决\"的时候，我们通常怎么排优先级呢？有时候我们就按想到的先后顺序来排，有时候按重要程度排，看哪个决策影响最大。但这套方法论告诉我们，别这么排。",
     "text_es": "La eigenpregunta, la definición más sencilla de eigenpregunta, es la pregunta que cuando la contestas, también te da respuesta a la mayor cantidad de preguntas que vienen después. Y es una idea muy simple: cuando te sientas y dices, oye, aquí tenemos todas estas preguntas que deberíamos responder, ¿cómo las priorizamos normalmente? A veces las ordenamos simplemente por el orden en que se nos ocurrieron. A veces las ordenamos por importancia, cuál va a ser la decisión con mayor impacto. Pero esta metodología dice que no las ordenes así.",
-    "key_sentence": "The eigenquestion answers the most subsequent questions, guiding impactful decision-making."
+    "key_sentence": "The eigenquestion answers the most subsequent questions, guiding impactful decision-making.",
+    "text_trimmed": true,
+    "original_text": "The eigenquestion, the simplest definition of eigenquestion, it's the question that when answered also answers the most subsequent questions. And it's a very simple idea that when you sit down and you say, hey, here's all these questions we ought to answer, how do we all usually rank them? Sometimes we rank them just by what order we came up with them. Sometimes we rank them by importance, which is the most impactful decision we're going to make. But this methodology says don't rank them that way.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "definition",
+        "definition": "A statement that explains the meaning of a term or concept, often providing clarity and context.",
+        "businessContext": "In business and tech, definitions are crucial for establishing a common understanding of terms, especially in contracts, product specifications, and strategic discussions.",
+        "nuance": "While 'definition' is straightforward, it can imply varying levels of complexity depending on the context in which it is used.",
+        "synonyms": [
+          "explanation",
+          "description"
+        ],
+        "antonyms": [
+          "ambiguity",
+          "misinterpretation"
+        ]
+      },
+      {
+        "word": "subsequent",
+        "definition": "Occurring or coming later in time or order; following something else.",
+        "businessContext": "In project management, subsequent tasks or phases depend on the completion of prior activities, making it essential to understand their sequence.",
+        "nuance": "The term often implies a direct relationship to a preceding event, highlighting a cause-and-effect dynamic.",
+        "synonyms": [
+          "following",
+          "ensuing"
+        ],
+        "antonyms": [
+          "preceding",
+          "prior"
+        ]
+      },
+      {
+        "word": "core concept",
+        "definition": "The fundamental idea or principle that serves as the foundation for a theory, system, or strategy.",
+        "businessContext": "In business strategy, identifying the core concept helps organizations focus their efforts and align their resources toward achieving key objectives.",
+        "nuance": "While 'core concept' suggests importance, it can also indicate a simplification of more complex ideas, which may require further elaboration.",
+        "synonyms": [
+          "fundamental idea",
+          "central principle"
+        ],
+        "antonyms": [
+          "peripheral detail",
+          "superficial aspect"
+        ]
+      },
+      {
+        "word": "simplest",
+        "definition": "The most straightforward or uncomplicated version of something, often devoid of unnecessary complexity.",
+        "businessContext": "In product development, the simplest solution is often preferred to enhance user experience and reduce costs, aligning with the principle of minimalism.",
+        "nuance": "While 'simplest' conveys ease, it can sometimes be perceived as lacking depth or sophistication, depending on the audience's expectations.",
+        "synonyms": [
+          "most basic",
+          "easiest"
+        ],
+        "antonyms": [
+          "most complex",
+          "most complicated"
+        ]
+      }
+    ]
   }
 ]

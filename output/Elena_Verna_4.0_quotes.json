@@ -1,13 +1,14 @@
 [
   {
-    "text": "I feel like only 30 to 40% of what I've learned in the last 15 to 20 years of being in growth transfers here because we just need to invest in such bigger bets, and innovate, and create new growth loops here, everybody and their mother is starting a vibe coding business nowadays, and we need to figure out how to be ahead of them. And to be ahead of them is not optimization of the problem, it's reinvention of the solution.",
+    "text": "To be ahead of them is not optimization of the problem, it's reinvention of the solution.",
     "speaker": "Elena Verna",
     "timestamp": "00:00:12",
     "context": "Lenny asks Elena what she's had to unlearn about growth at Lovable. Elena explains that traditional growth tactics don't work in the AI space because the market is moving so quickly. Most of her previous growth knowledge focused on optimizing existing systems, but at Lovable she spends most of her time creating entirely new approaches rather than tweaking what already exists.",
     "vocabulary_highlights": [
-      "everybody and their mother",
-      "vibe coding",
-      "reinvention of the solution"
+      "optimization",
+      "reinvention",
+      "solution",
+      "tactics"
     ],
     "topics": [
       "Growth & Marketing",
@@ -23,14 +24,68 @@
     "text_ko": "지난 15~20년 동안 그로스(growth) 쪽에서 배운 것들 중 여기서 통하는 건 30~40% 정도밖에 안 되는 것 같아요. 이쪽은 훨씬 더 큰 베팅에 투자하고 혁신하고 새로운 성장 루프(growth loops)를 만들어야 해서요. 요즘은 너도 나도 바이브 코딩 비즈니스(vibe coding business)를 시작하고 있어서 우리가 어떻게 그들보다 앞설지 방법을 찾아야 해요. 그리고 앞서간다는 건 문제를 단순히 최적화하는 게 아니라 해결책을 완전히 재창조하는 거예요.",
     "text_zh": "我感觉过去15到20年在增长方面学到的东西，在这里只能用上30%到40%，因为我们得下更大的赌注，要创新，要建立新的增长循环(growth loops)。现在是个人都在搞编程业务，我们必须想办法领先他们。想要领先，光优化问题是不够的，得重新发明解决方案。",
     "text_es": "Siento que solo el 30 o 40% de lo que he aprendido en estos últimos 15 o 20 años trabajando en crecimiento me sirve aquí, porque necesitamos apostar mucho más fuerte, innovar, y crear nuevos bucles de crecimiento (growth loops). Hoy en día hasta el perro del vecino está montando un negocio de programación con IA, y tenemos que encontrar la manera de estar por delante de ellos. Y para estar por delante no se trata de optimizar el problema, sino de reinventar completamente la solución.",
-    "key_sentence": "Reinvention of the solution is necessary to stay ahead of everybody and their mother."
+    "key_sentence": "it's reinvention of the solution.",
+    "text_trimmed": true,
+    "original_text": "I feel like only 30 to 40% of what I've learned in the last 15 to 20 years of being in growth transfers here because we just need to invest in such bigger bets, and innovate, and create new growth loops here, everybody and their mother is starting a vibe coding business nowadays, and we need to figure out how to be ahead of them. And to be ahead of them is not optimization of the problem, it's reinvention of the solution.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "optimization",
+        "definition": "The process of making something as effective or functional as possible by improving its performance or efficiency.",
+        "businessContext": "In business and technology, optimization often refers to enhancing processes, systems, or products to maximize output and minimize costs, thereby increasing profitability.",
+        "nuance": "While optimization implies improving existing solutions, it may not always lead to innovative breakthroughs or transformative changes.",
+        "synonyms": [
+          "enhancement",
+          "refinement"
+        ],
+        "antonyms": []
+      },
+      {
+        "word": "reinvention",
+        "definition": "The act of completely changing or transforming something to create a new version that is significantly different from the original.",
+        "businessContext": "In the context of startups and business strategy, reinvention often involves rethinking products, services, or business models to adapt to changing market conditions or consumer needs.",
+        "nuance": "Reinvention suggests a more radical change than optimization, often implying a need for creativity and innovation rather than mere improvement.",
+        "synonyms": [
+          "transformation",
+          "revolution"
+        ],
+        "antonyms": []
+      },
+      {
+        "word": "solution",
+        "definition": "A means of solving a problem or dealing with a difficult situation, often involving a specific method or product.",
+        "businessContext": "In business, a solution typically refers to a product or service designed to address a particular challenge faced by customers or organizations.",
+        "nuance": "The term can imply a comprehensive approach to problem-solving, but it may also be used loosely to refer to any quick fix or temporary measure.",
+        "synonyms": [
+          "answer",
+          "resolution"
+        ],
+        "antonyms": []
+      },
+      {
+        "word": "tactics",
+        "definition": "Specific actions or strategies designed to achieve a particular goal or objective, often within a larger plan.",
+        "businessContext": "In business and marketing, tactics are the concrete steps taken to implement strategies, such as promotional campaigns or operational improvements.",
+        "nuance": "Tactics are often seen as short-term actions that support broader strategic goals, and their effectiveness can vary based on execution and context.",
+        "synonyms": [
+          "strategies",
+          "approaches"
+        ],
+        "antonyms": []
+      }
+    ]
   },
   {
     "text": "I just feel like I usually spend maybe 5% innovating on growth in my previous roles, right now, I'm spending 95% innovating on growth, and only 5% on optimization.",
     "speaker": "Elena Verna",
     "timestamp": "00:00:14",
     "context": "Elena continues explaining how growth work has fundamentally changed at AI companies like Lovable. In traditional roles, growth teams spend most of their time optimizing existing user journeys and conversion funnels. However, at Lovable, with intense competition and rapidly evolving capabilities, she spends almost all her time creating new growth strategies rather than fine-tuning existing ones.",
-    "vocabulary_highlights": [],
+    "vocabulary_highlights": [
+      "innovating",
+      "growth",
+      "optimization",
+      "fundamentally"
+    ],
     "topics": [
       "Growth & Marketing",
       "Strategy & Planning"
@@ -45,18 +100,77 @@
     "text_ko": "이전 역할들에선 성장(growth) 혁신에 보통 5% 정도만 썼던 것 같은데, 지금은 성장 혁신에 95%를 쓰고 최적화(optimization)에는 겨우 5%만 쓰고 있어요.",
     "text_zh": "我感觉以前的工作里，我可能只有5%的时间在琢磨增长创新，现在正好反过来了，95%的时间都在研究怎么创新增长，只有5%在做优化。",
     "text_es": "Siento que antes en mis roles anteriores dedicaba como un 5% a innovar para el crecimiento, ¿no? Pero ahora estoy invirtiendo el 95% de mi tiempo en innovar para crecer, y solo un 5% en optimización.",
-    "key_sentence": "I'm spending 95% innovating on growth, only 5% on optimization."
+    "key_sentence": "I'm spending 95% innovating on growth, only 5% on optimization.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "innovating",
+        "definition": "The process of creating new ideas, products, or methods that significantly improve existing solutions or introduce entirely new concepts.",
+        "businessContext": "In business and tech environments, innovating is crucial for staying competitive and addressing market demands, often leading to the development of disruptive technologies or business models.",
+        "nuance": "While 'innovating' implies a positive and forward-thinking approach, it can sometimes suggest a departure from traditional methods, which may not always be welcomed in conservative industries.",
+        "synonyms": [
+          "inventing",
+          "developing"
+        ],
+        "antonyms": [
+          "copying",
+          "imitation"
+        ]
+      },
+      {
+        "word": "growth",
+        "definition": "An increase in size, value, or importance, often measured in terms of revenue, market share, or customer base.",
+        "businessContext": "In the context of startups and businesses, growth is a key performance indicator that reflects the company's ability to expand its operations and enhance profitability.",
+        "nuance": "The term 'growth' can imply both positive expansion and the challenges that come with scaling, making it essential to consider the context in which it is used.",
+        "synonyms": [
+          "expansion",
+          "development"
+        ],
+        "antonyms": [
+          "decline",
+          "contraction"
+        ]
+      },
+      {
+        "word": "optimization",
+        "definition": "The act of making something as effective or functional as possible, often through adjustments and improvements to processes or systems.",
+        "businessContext": "In business and technology, optimization is vital for enhancing efficiency, reducing costs, and improving user experience, particularly in operations and product development.",
+        "nuance": "While 'optimization' suggests refinement and improvement, it can sometimes imply a focus on short-term gains rather than long-term innovation, which may not always align with broader strategic goals.",
+        "synonyms": [
+          "enhancement",
+          "refinement"
+        ],
+        "antonyms": [
+          "deterioration",
+          "worsening"
+        ]
+      },
+      {
+        "word": "fundamentally",
+        "definition": "In a basic or essential way; at the core or root level of something.",
+        "businessContext": "In business discussions, 'fundamentally' is often used to emphasize core principles or foundational changes that impact overall strategy and operations.",
+        "nuance": "This term carries a weight of significance, suggesting that the point being made is not just superficial but rather touches on the essential aspects of a topic or issue.",
+        "synonyms": [
+          "essentially",
+          "intrinsically"
+        ],
+        "antonyms": [
+          "superficially",
+          "peripherally"
+        ]
+      }
+    ]
   },
   {
-    "text": "One of our biggest strategy is building in public, and it's coupled with employee socials, founder-led socials. And another one is giving your product away a lot, this is part of our growth secret sauce. You have to remove the barrier of entry. If somebody, one of our users stands up and say, hey, I'm going to have a hackathon at my work on Lovable, can you give us some free credits to play with? Why would we prevent a person who wants to do all of the marketing and activating for us from using us?",
+    "text": "One of our biggest strategy is building in public, and it's coupled with employee socials, founder-led socials. And another one is giving your product away a lot, this is part of our growth secret sauce. You have to remove the barrier of entry.",
     "speaker": "Elena Verna",
     "timestamp": "00:00:48",
     "context": "Lenny asks what growth tactics are actually working for Lovable. Elena describes their core growth strategies: building in public through social media and giving away their product extensively. Rather than viewing free credits as lost revenue, Lovable sees them as marketing costs that enable users to become advocates who do marketing and activation work for the company.",
     "vocabulary_highlights": [
-      "building in public",
-      "secret sauce",
+      "growth tactics",
       "barrier of entry",
-      "stands up and say"
+      "building in public",
+      "secret sauce"
     ],
     "topics": [
       "Growth & Marketing",
@@ -72,7 +186,68 @@
     "text_ko": "우리 전략 중 하나는 공개적으로 제품을 만들어가는 '빌딩 인 퍼블릭'(building in public)이고, 직원 소셜(employee socials)이나 창업자 주도 소셜(founder-led socials)과 함께 해요. 또 하나는 제품을 많이 공짜로 풀어주는 건데, 이게 우리의 성장 비법(growth secret sauce)이에요. 진입 장벽(barrier of entry)을 없애야 해요. 만약 어떤 사용자가 \"우리 회사에서 Lovable로 해커톤을 하려고 하는데, 써볼 수 있게 무료 크레딧 좀 줄 수 있나요?\"라고 하면, 우리를 위해 모든 마케팅과 활성화(activating)를 해주겠다는 사람을 우리가 왜 막겠어요?",
     "text_zh": "我们最重要的策略之一就是公开建设(building in public)，再配合员工社交活动和创始人主导的社交活动。还有一个就是大量免费提供产品，这是我们增长秘诀(growth secret sauce)的一部分。你必须得降低使用门槛。如果我们的用户站出来说，嘿，我要在公司用Lovable办个黑客马拉松(hackathon)，你们能给点免费额度让我们玩玩吗？我们为什么要阻止一个愿意帮我们做营销和用户激活的人使用我们的产品呢？",
     "text_es": "Una de nuestras estrategias más grandes es construir en público (building in public), y va de la mano con eventos sociales de empleados y eventos sociales liderados por el fundador. Y otra es regalar mucho tu producto, esto es parte de nuestra salsa secreta de crecimiento. Tienes que quitar las barreras de entrada. Si alguien, uno de nuestros usuarios se para y dice, oye, vamos a hacer un hackathon en mi trabajo con Lovable, ¿nos pueden dar algunos créditos gratis para jugar? ¿Por qué vamos a impedir que una persona que quiere hacer todo el marketing y la activación por nosotros nos use?",
-    "key_sentence": "Building in public and removing the barrier of entry are part of our secret sauce."
+    "key_sentence": "Building in public and removing the barrier of entry are part of our secret sauce.",
+    "text_trimmed": true,
+    "original_text": "One of our biggest strategy is building in public, and it's coupled with employee socials, founder-led socials. And another one is giving your product away a lot, this is part of our growth secret sauce. You have to remove the barrier of entry. If somebody, one of our users stands up and say, hey, I'm going to have a hackathon at my work on Lovable, can you give us some free credits to play with? Why would we prevent a person who wants to do all of the marketing and activating for us from using us?",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "growth tactics",
+        "definition": "Strategies or methods employed to increase a company's market share, revenue, or overall business performance.",
+        "businessContext": "In business and startup environments, growth tactics are essential for scaling operations and achieving sustainable success, often involving innovative marketing, product development, or customer engagement strategies.",
+        "nuance": "While 'growth tactics' suggests a proactive approach to expansion, it can imply a trial-and-error process that may not always yield immediate results.",
+        "synonyms": [
+          "expansion strategies",
+          "scaling methods"
+        ],
+        "antonyms": [
+          "contraction strategies",
+          "reduction methods"
+        ]
+      },
+      {
+        "word": "barrier of entry",
+        "definition": "Obstacles that make it difficult for new competitors to enter a market or industry.",
+        "businessContext": "Understanding barriers of entry is crucial for businesses as they assess market opportunities and competitive landscapes, often influencing pricing, product differentiation, and regulatory compliance.",
+        "nuance": "The term often carries a negative connotation for new entrants, as it highlights the challenges they face in gaining market access.",
+        "synonyms": [
+          "entry barriers",
+          "market entry obstacles"
+        ],
+        "antonyms": [
+          "entry ease",
+          "market accessibility"
+        ]
+      },
+      {
+        "word": "building in public",
+        "definition": "The practice of sharing the development process of a product or service openly with the public, often through social media or other platforms.",
+        "businessContext": "In the tech and startup community, building in public fosters transparency, community engagement, and feedback, which can enhance product development and customer loyalty.",
+        "nuance": "This approach can be seen as risky, as it exposes a company to public scrutiny, but it can also build trust and authenticity with potential customers.",
+        "synonyms": [
+          "transparent development",
+          "public iteration"
+        ],
+        "antonyms": [
+          "closed development",
+          "private iteration"
+        ]
+      },
+      {
+        "word": "secret sauce",
+        "definition": "A unique feature, strategy, or element that gives a company a competitive advantage over others in the market.",
+        "businessContext": "In business discussions, the term 'secret sauce' often refers to the distinctive qualities or practices that contribute to a company's success, such as innovative technology, exceptional customer service, or proprietary processes.",
+        "nuance": "While it suggests a special ingredient for success, it can also imply that the details are closely guarded or not easily replicable by competitors.",
+        "synonyms": [
+          "competitive edge",
+          "unique selling proposition"
+        ],
+        "antonyms": [
+          "commonality",
+          "standard practice"
+        ]
+      }
+    ]
   },
   {
     "text": "The only way to create a word of mouth loop is just to blow their socks off.",
@@ -80,8 +255,9 @@
     "timestamp": "00:01:22",
     "context": "Elena is discussing Lovable's growth strategy with Lenny, specifically how they get customers to share their product organically on social media. She explains that the fundamental requirement for word-of-mouth marketing is creating an experience so impressive that users feel compelled to tell others about it.",
     "vocabulary_highlights": [
-      "blow their socks off",
-      "word of mouth loop"
+      "fundamental",
+      "organic",
+      "growth strategy"
     ],
     "topics": [
       "Growth & Marketing",
@@ -97,14 +273,64 @@
     "text_ko": "입소문 루프(word of mouth loop)를 만들려면, 사람들을 말 그대로 깜짝 놀라게 해서 감탄하게 만들어야 해요.",
     "text_zh": "要想形成口碑传播，就得让客户彻底惊艳，超出他们所有预期。",
     "text_es": "La única manera de crear un efecto boca a boca es simplemente dejarlos con la boca abierta.",
-    "key_sentence": "To create a word of mouth loop, you must blow their socks off."
+    "key_sentence": "To create a word of mouth loop, you must blow their socks off.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "fundamental",
+        "definition": "Serving as a foundation or basis; essential and primary.",
+        "businessContext": "In business, 'fundamental' often refers to core principles or elements that are crucial for the success of a strategy or operation.",
+        "nuance": "While 'fundamental' implies something essential, it can also suggest a level of simplicity or basic nature that may not encompass more complex aspects.",
+        "synonyms": [
+          "essential",
+          "basic"
+        ],
+        "antonyms": [
+          "superficial",
+          "secondary"
+        ]
+      },
+      {
+        "word": "organic",
+        "definition": "Relating to or derived from living matter; in business, it often refers to growth that occurs naturally without external intervention.",
+        "businessContext": "In a business context, 'organic growth' describes the expansion of a company through its own resources and operations, rather than through mergers or acquisitions.",
+        "nuance": "The term 'organic' carries a connotation of sustainability and authenticity, suggesting growth that is healthy and aligned with the company's core values.",
+        "synonyms": [
+          "natural",
+          "unforced"
+        ],
+        "antonyms": [
+          "artificial",
+          "inorganic"
+        ]
+      },
+      {
+        "word": "growth strategy",
+        "definition": "A plan or approach designed to increase a company's size, revenue, or market share over time.",
+        "businessContext": "In business, a 'growth strategy' can encompass various methods, including market penetration, product development, and diversification, to achieve long-term objectives.",
+        "nuance": "The term implies a proactive and structured approach to expansion, and it is often used in discussions about scaling businesses or entering new markets.",
+        "synonyms": [
+          "expansion plan",
+          "development strategy"
+        ],
+        "antonyms": [
+          "retrenchment strategy",
+          "contraction plan"
+        ]
+      }
+    ]
   },
   {
-    "text": "I feel like it's been very clear to me that when you're talking about marketing organic strategy, if you asked me that five years ago, I would've said that's SEO. It's search engine optimization. Go on Google, that's your organic marketing strategy. If you ask me what's your organic marketing strategy right now, to me it's all about social.",
+    "text": "I feel like it's been very clear to me that when you're talking about marketing organic strategy, if you asked me that five years ago, I would've said that's SEO. It's search engine optimization. Go on Google, that's your organic marketing strategy.",
     "speaker": "Elena Verna",
     "timestamp": "00:29:27",
     "context": "Elena discusses how marketing channels have fundamentally changed for AI companies. She explains that traditional organic marketing relied heavily on search engine optimization and Google traffic. However, for modern AI companies, organic marketing now centers around social media presence, including what CEOs and employees post, influencer marketing, and user-generated content across social platforms.",
-    "vocabulary_highlights": [],
+    "vocabulary_highlights": [
+      "organic strategy",
+      "search engine optimization",
+      "marketing channels",
+      "fundamentally"
+    ],
     "topics": [
       "Growth & Marketing",
       "Strategy & Planning"
@@ -119,17 +345,79 @@
     "text_ko": "유기적 마케팅 전략 얘기를 하면 저한텐 그게 아주 분명했어요. 5년 전만 해도 저한테 물어봤다면 '그건 SEO예요'라고 말했을 거예요. 검색 엔진 최적화(search engine optimization, SEO) — 구글(Google)에 노출되는 게 유기적 마케팅 전략이라고 생각했거든요. 근데 지금 제게 유기적 마케팅 전략이 뭐냐고 물어보면, 저는 이제 전부 소셜(social)이라고 봐요.",
     "text_zh": "我觉得这个问题对我来说挺明确的，说到有机营销策略(organic marketing strategy)，你要是五年前问我，我肯定会说那就是SEO，就是搜索引擎优化(search engine optimization)，在谷歌上做文章，这就是你的有机营销策略。但你现在问我什么是有机营销策略，我觉得现在全都是围绕社交媒体来做的。",
     "text_es": "Me parece súper claro que cuando hablas de estrategia de marketing orgánico, si me hubieras preguntado eso hace cinco años, te habría dicho que era SEO. Optimización para motores de búsqueda. Métete en Google, esa era tu estrategia de marketing orgánico. Si ahora me preguntas cuál es tu estrategia de marketing orgánico, para mí todo gira en torno a las redes sociales.",
-    "key_sentence": ""
+    "key_sentence": "when you're talking about marketing organic strategy, if you asked me that five years ago, I would've said that's SEO.",
+    "text_trimmed": true,
+    "original_text": "I feel like it's been very clear to me that when you're talking about marketing organic strategy, if you asked me that five years ago, I would've said that's SEO. It's search engine optimization. Go on Google, that's your organic marketing strategy. If you ask me what's your organic marketing strategy right now, to me it's all about social.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "organic strategy",
+        "definition": "An organic strategy refers to a method of growth that relies on internal resources and capabilities rather than external acquisitions or partnerships. It often emphasizes sustainable practices and long-term development.",
+        "businessContext": "In business settings, an organic strategy is commonly employed by companies aiming to expand their market share through innovation, customer engagement, and enhancing product offerings without relying on mergers or acquisitions.",
+        "nuance": "While 'organic' suggests a natural and sustainable approach, it can sometimes imply slower growth compared to aggressive acquisition strategies.",
+        "synonyms": [
+          "internal growth strategy",
+          "sustainable growth strategy"
+        ],
+        "antonyms": [
+          "acquisition strategy",
+          "merger strategy"
+        ]
+      },
+      {
+        "word": "search engine optimization",
+        "definition": "Search engine optimization (SEO) is the practice of enhancing a website's visibility on search engines through various techniques aimed at improving its ranking in search results.",
+        "businessContext": "In the digital marketing landscape, SEO is crucial for businesses to attract organic traffic, increase brand awareness, and ultimately drive sales without direct advertising costs.",
+        "nuance": "SEO encompasses both technical and creative elements, and while it can yield significant long-term benefits, it often requires ongoing effort and adaptation to changing algorithms.",
+        "synonyms": [
+          "SEO",
+          "search optimization"
+        ],
+        "antonyms": [
+          "paid search marketing",
+          "advertising"
+        ]
+      },
+      {
+        "word": "marketing channels",
+        "definition": "Marketing channels are the various platforms and methods used by businesses to communicate and deliver their products or services to consumers.",
+        "businessContext": "In a business context, understanding and utilizing multiple marketing channels—such as social media, email, and traditional advertising—allows companies to reach diverse audiences and optimize their marketing efforts.",
+        "nuance": "The choice of marketing channels can significantly impact a campaign's effectiveness, and businesses must carefully select channels that align with their target audience's preferences.",
+        "synonyms": [
+          "distribution channels",
+          "promotional channels"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "fundamentally",
+        "definition": "Fundamentally means at the most basic level or in essence; it refers to the core principles or underlying truths of a subject.",
+        "businessContext": "In business discussions, the term is often used to emphasize essential truths or foundational concepts that drive decision-making and strategy formulation.",
+        "nuance": "While 'fundamentally' suggests a deep-rooted understanding, it can also imply that other aspects may be secondary or less critical to the core issue being discussed.",
+        "synonyms": [
+          "essentially",
+          "intrinsically"
+        ],
+        "antonyms": [
+          "superficially",
+          "peripherally"
+        ]
+      }
+    ]
   },
   {
-    "text": "I actually think that's quite false, because new grads, especially AI-native new grads... We have multiple new graduates at Lovable that are working, and I learned so much from them. And you need to obviously have the right atmosphere where people with experience, like a old guard like me, that can look at the new guard and really hear them and see them.",
+    "text": "I actually think that's quite false, because new grads, especially AI-native new grads... We have multiple new graduates at Lovable that are working, and I learned so much from them.",
     "speaker": "Elena Verna",
     "timestamp": "01:25:38",
     "context": "Elena addresses concerns about AI eliminating entry-level jobs, particularly for new graduates. She argues this narrative is incorrect and explains that AI-native new graduates actually bring valuable skills to companies. She describes how at Lovable, experienced workers like herself learn from new graduates who understand AI capabilities without the baggage of traditional approaches.",
     "vocabulary_highlights": [
       "AI-native",
-      "old guard",
-      "new guard"
+      "valuable",
+      "graduate",
+      "narrative"
     ],
     "topics": [
       "Career Development",
@@ -145,7 +433,68 @@
     "text_ko": "저는 그게 사실 꽤 잘못된 생각이라고 생각해요. 신입들, 특히 AI 네이티브(AI-native) 신입들한테서요... 저희 Lovable에 일하는 신입이 여러 명 있는데, 그들한테서 정말 많은 걸 배웠어요. 그리고 당연히 경험 많은 사람들, 즉 저 같은 올드 가드(old guard)가 뉴 가드(new guard)를 진심으로 듣고 보고 인정해줄 수 있는 분위기가 필요해요.",
     "text_zh": "我觉得这个说法其实挺不对的，因为应届生，特别是那些AI原生代(AI-native)的应届生...我们Lovable就有好几个应届毕业生在工作，我从他们身上学到了很多东西。当然你得营造一个合适的氛围，让我这种有经验的老家伙能够真正去倾听和观察这些新人。",
     "text_es": "En realidad creo que eso es bastante falso, porque los recién graduados, especialmente los que son nativos de la IA... Tenemos varios recién graduados en Lovable que están trabajando, y he aprendido muchísimo de ellos. Y obviamente necesitas tener el ambiente adecuado donde la gente con experiencia, como un veterano como yo, pueda realmente escuchar a la nueva generación y verlos de verdad.",
-    "key_sentence": "The right atmosphere allows the old guard to hear the AI-native new guard."
+    "key_sentence": "I actually think that's quite false, because new grads, especially AI-native new grads...",
+    "text_trimmed": true,
+    "original_text": "I actually think that's quite false, because new grads, especially AI-native new grads... We have multiple new graduates at Lovable that are working, and I learned so much from them. And you need to obviously have the right atmosphere where people with experience, like a old guard like me, that can look at the new guard and really hear them and see them.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "AI-native",
+        "definition": "Referring to individuals or organizations that have grown up in an environment heavily influenced by artificial intelligence technologies, often possessing a deep understanding of AI applications and implications.",
+        "businessContext": "In tech and startup environments, AI-native individuals are valued for their ability to leverage AI tools and concepts to drive innovation and efficiency in projects.",
+        "nuance": "The term suggests a familiarity and comfort with AI that goes beyond basic knowledge, indicating a generation that has integrated AI into their daily practices.",
+        "synonyms": [
+          "AI-savvy",
+          "tech-native"
+        ],
+        "antonyms": [
+          "AI-illiterate",
+          "N/A"
+        ]
+      },
+      {
+        "word": "valuable",
+        "definition": "Having worth or significance, particularly in terms of usefulness or importance in a given context.",
+        "businessContext": "In business, valuable assets, skills, or insights are critical for competitive advantage and often drive strategic decision-making.",
+        "nuance": "While 'valuable' can refer to monetary worth, it often implies a broader significance that includes qualitative aspects such as impact and potential.",
+        "synonyms": [
+          "beneficial",
+          "essential"
+        ],
+        "antonyms": [
+          "worthless",
+          "insignificant"
+        ]
+      },
+      {
+        "word": "graduate",
+        "definition": "A person who has completed a degree program at a college or university, often entering the workforce with specialized knowledge or skills.",
+        "businessContext": "In the context of hiring, graduates are often sought after for their fresh perspectives and up-to-date knowledge, particularly in rapidly evolving fields like technology.",
+        "nuance": "The term can imply a certain level of expertise and readiness for professional challenges, but may also carry connotations of inexperience compared to seasoned professionals.",
+        "synonyms": [
+          "alumnus",
+          "degree holder"
+        ],
+        "antonyms": [
+          "dropout",
+          "N/A"
+        ]
+      },
+      {
+        "word": "narrative",
+        "definition": "A structured account or story that conveys information or insights, often used to illustrate a point or convey a message.",
+        "businessContext": "In business, narratives are crucial for branding, marketing, and communication strategies, helping to shape public perception and engage stakeholders.",
+        "nuance": "While narratives can be factual, they often involve a degree of storytelling that can enhance emotional engagement and relatability.",
+        "synonyms": [
+          "story",
+          "account"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
     "text": "It shouldn't be minimal viable product anymore. Viability is left back in 2010s. Now it's minimal lovable product. That's the only thing that matters.",
@@ -153,7 +502,10 @@
     "timestamp": "00:43:17",
     "context": "Lenny summarizes that one key growth lever for AI companies is building something that genuinely impresses users in a growing market. Elena responds by reframing the classic startup concept of MVP (Minimum Viable Product). She argues that in today's competitive AI landscape, simply being viable isn't enough - products must be genuinely lovable and delightful to stand out.",
     "vocabulary_highlights": [
-      "minimal lovable product"
+      "viable",
+      "minimal lovable product",
+      "growth lever",
+      "genuinely impresses"
     ],
     "topics": [
       "Product Management",
@@ -169,6 +521,65 @@
     "text_ko": "이제는 더 이상 최소 실행 가능 제품(minimum viable product, MVP)으로는 안 돼요. '생존 가능성(viability)'에 머물러 있던 건 2010년대에 이미 지나갔어요. 지금은 최소 사랑받는 제품(minimum lovable product)만이 유일하게 중요한 기준이에요.",
     "text_zh": "现在不应该再说最小可行产品(minimal viable product)了。可行性这个概念已经是2010年代的老黄历了。现在讲的是最小可爱产品(minimal lovable product)，这才是唯一重要的。",
     "text_es": "Ya no debería ser producto mínimo viable. La viabilidad se quedó en los 2010. Ahora es producto mínimo adorable (minimal lovable product). Eso es lo único que importa.",
-    "key_sentence": "Now it's minimal lovable product that matters, not minimal viable product."
+    "key_sentence": "Now it's minimal lovable product that matters, not minimal viable product.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "viable",
+        "definition": "Capable of working successfully or feasibly; able to be put into practice.",
+        "businessContext": "In business and startup environments, 'viable' often refers to a product or business model that can sustain itself and generate profit in the market.",
+        "nuance": "While 'viable' indicates practicality, it may lack the emotional or customer-centric appeal that is increasingly valued in today's market.",
+        "synonyms": [
+          "feasible",
+          "practical"
+        ],
+        "antonyms": [
+          "unfeasible",
+          "impractical"
+        ]
+      },
+      {
+        "word": "minimal lovable product",
+        "definition": "A product that includes only the essential features to satisfy early adopters while also providing a delightful user experience.",
+        "businessContext": "This concept shifts the focus from merely creating a functional product to ensuring it resonates emotionally with users, thereby fostering loyalty and engagement.",
+        "nuance": "The term emphasizes the importance of emotional connection over just functionality, suggesting that user satisfaction is paramount in product development.",
+        "synonyms": [
+          "minimum delightful product",
+          "customer-centric product"
+        ],
+        "antonyms": [
+          "minimal viable product",
+          "basic product"
+        ]
+      },
+      {
+        "word": "growth lever",
+        "definition": "A strategy or tool that can be utilized to significantly increase a company's growth rate or market presence.",
+        "businessContext": "In startups and businesses, identifying and implementing growth levers is crucial for scaling operations and enhancing revenue generation.",
+        "nuance": "The term implies a strategic approach to growth, focusing on impactful actions rather than incremental changes.",
+        "synonyms": [
+          "growth driver",
+          "scaling mechanism"
+        ],
+        "antonyms": [
+          "growth inhibitor",
+          "decline factor"
+        ]
+      },
+      {
+        "word": "genuinely impresses",
+        "definition": "To evoke a strong feeling of admiration or respect through authenticity and quality.",
+        "businessContext": "In business, products or services that genuinely impress customers can lead to increased brand loyalty and positive word-of-mouth marketing.",
+        "nuance": "This phrase conveys a deeper level of impact than simply 'impresses,' suggesting that the admiration stems from a true connection or exceptional quality.",
+        "synonyms": [
+          "truly captivates",
+          "authentically astonishes"
+        ],
+        "antonyms": [
+          "fails to impress",
+          "disappoints"
+        ]
+      }
+    ]
   }
 ]

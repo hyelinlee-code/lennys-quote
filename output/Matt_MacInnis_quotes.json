@@ -1,13 +1,14 @@
 [
   {
-    "text": "If you want to accomplish something truly extraordinary, if you want to be in the 99th percentile in terms of outcomes, it's going to be really difficult. It's going to be really uncomfortable. And you got to sort of remind people of that, that if they ever find themselves in the comfort zone at work, they are definitely making a mistake.",
+    "text": "If you want to accomplish something truly extraordinary, if you want to be in the 99th percentile in terms of outcomes, it's going to be really difficult. It's going to be really uncomfortable.",
     "speaker": "Matt MacInnis",
     "timestamp": "00:05:04",
     "context": "Lenny asks Matt about his philosophy that extraordinary results require extraordinary efforts. Matt explains that achieving exceptional outcomes - being in the 99th percentile - requires accepting that the work will be difficult and uncomfortable. He emphasizes that if someone finds themselves comfortable at work, they're likely not pushing hard enough to achieve extraordinary results.",
     "vocabulary_highlights": [
-      "99th percentile",
-      "comfort zone",
-      "making a mistake"
+      "extraordinary",
+      "outcomes",
+      "exceptional",
+      "percentile"
     ],
     "topics": [
       "Leadership & Management",
@@ -23,17 +24,79 @@
     "text_ko": "정말 특별한 성과를 내고 싶고, 결과 면에서 상위 1퍼센타일(99th percentile)에 들고 싶다면 그건 정말 힘들고 많이 불편할 거예요. 사람들에게도 그 점을 계속 상기시켜 줘야 해요. 직장에서 안전지대(comfort zone)에 머무르고 있다면 분명 실수를 하고 있는 거예요.",
     "text_zh": "如果你想做出真正了不起的成绩，想要进入那1%的顶尖行列，那肯定会特别难，特别不舒服。你得经常提醒大家，如果在工作中感觉太舒适了，那绝对是走错路了。",
     "text_es": "Si quieres lograr algo realmente extraordinario, si quieres estar en el percentil 99 en cuanto a resultados, va a ser súper difícil. Te va a hacer sentir muy incómodo. Y tienes que recordarle a la gente que si alguna vez se encuentran en su zona de confort en el trabajo, definitivamente están cometiendo un error.",
-    "key_sentence": "Being in the comfort zone at work is definitely making a mistake."
+    "key_sentence": "If you want to accomplish something truly extraordinary, if you want to be in the 99th percentile in terms of outcomes, it's going to be really difficult.",
+    "text_trimmed": true,
+    "original_text": "If you want to accomplish something truly extraordinary, if you want to be in the 99th percentile in terms of outcomes, it's going to be really difficult. It's going to be really uncomfortable. And you got to sort of remind people of that, that if they ever find themselves in the comfort zone at work, they are definitely making a mistake.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "extraordinary",
+        "definition": "Beyond what is usual, ordinary, or expected; remarkable or exceptional in quality or degree.",
+        "businessContext": "In business, 'extraordinary' often describes achievements, innovations, or performances that significantly surpass standard benchmarks or expectations.",
+        "nuance": "While 'extraordinary' conveys a positive connotation, it can imply that such achievements require exceptional effort or resources.",
+        "synonyms": [
+          "remarkable",
+          "unusual"
+        ],
+        "antonyms": [
+          "ordinary",
+          "common"
+        ]
+      },
+      {
+        "word": "outcomes",
+        "definition": "The results or consequences of a particular action, process, or event, often measured against specific objectives.",
+        "businessContext": "In a business context, 'outcomes' are critical for evaluating the effectiveness of strategies, projects, or initiatives, guiding future decisions.",
+        "nuance": "The term can imply both positive and negative results, making it essential to specify the context in which outcomes are discussed.",
+        "synonyms": [
+          "results",
+          "consequences"
+        ],
+        "antonyms": [
+          "causes",
+          "inputs"
+        ]
+      },
+      {
+        "word": "exceptional",
+        "definition": "Unusually good; outstanding; surpassing the norm in quality or performance.",
+        "businessContext": "In the corporate world, 'exceptional' is often used to describe employees, products, or services that stand out due to their superior quality or performance.",
+        "nuance": "While 'exceptional' is generally positive, it can also create high expectations that may be difficult to maintain over time.",
+        "synonyms": [
+          "outstanding",
+          "remarkable"
+        ],
+        "antonyms": [
+          "mediocre",
+          "average"
+        ]
+      },
+      {
+        "word": "percentile",
+        "definition": "A statistical measure indicating the value below which a given percentage of observations fall; often used to rank data points.",
+        "businessContext": "In business analytics, 'percentile' is frequently used to assess performance metrics, such as employee productivity or market share, relative to competitors.",
+        "nuance": "Percentiles can provide a clearer understanding of relative performance, but they may not convey the full picture without additional context.",
+        "synonyms": [
+          "quantile",
+          "ranking"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "The extraordinary effort thing is a reminder that it's supposed to be really fricking exhausting. It's supposed to be. So on Friday night, when you get hit with an escalation on Friday night, when you get sort of hit with a bunch of new bugs from someone in the engineering team that you've got a triage, those are the moments where great players and great teams are separated from good players and good teams.",
+    "text": "The extraordinary effort thing is a reminder that it's supposed to be really fricking exhausting. It's supposed to be.",
     "speaker": "Matt MacInnis",
     "timestamp": "00:06:29",
     "context": "Matt continues explaining his extraordinary efforts philosophy by giving concrete examples. He describes how the work should feel exhausting and points to specific scenarios - like getting escalations on Friday nights or having to triage bugs - as the defining moments that separate great teams from merely good ones. These challenging moments are when superior performance is demonstrated.",
     "vocabulary_highlights": [
-      "really fricking exhausting",
-      "get hit with",
-      "triage"
+      "extraordinary",
+      "effort",
+      "exhausting",
+      "escalations"
     ],
     "topics": [
       "Leadership & Management",
@@ -49,17 +112,79 @@
     "text_ko": "'엄청난 노력'이라는 얘기는 그 일이 정말 고되고 지치게 마련이라는 걸 상기시켜줘요. 그래야 해요. 그래서 금요일 밤에 에스컬레이션(escalation)이 들어오거나 엔지니어링팀(engineering team)에서 새 버그(bug)들이 몰려와서 트리아지(triage)를 해야 할 때가 바로 훌륭한 사람과 팀이 그저 괜찮은 사람과 팀과 갈리는 순간이에요.",
     "text_zh": "超常努力这件事提醒我们，工作本来就应该累得要死，就是应该这样。所以周五晚上，当你突然遇到紧急情况需要处理，或者工程团队那边突然冒出一堆新的bug需要你去分类处理，这些时候就是区分顶尖选手和普通选手、顶尖团队和普通团队的关键时刻。",
     "text_es": "La cosa del esfuerzo extraordinario es un recordatorio de que se supone que tiene que ser súper agotador. Así es como debe ser. Entonces el viernes por la noche, cuando te cae una escalación, cuando te llueven un montón de bugs nuevos del equipo de ingeniería que tienes que priorizar, esos son los momentos donde se separan los jugadores y equipos extraordinarios de los que son solo buenos.",
-    "key_sentence": "Extraordinary effort is really fricking exhausting, separating great teams from good ones."
+    "key_sentence": "It's supposed to be really fricking exhausting.",
+    "text_trimmed": true,
+    "original_text": "The extraordinary effort thing is a reminder that it's supposed to be really fricking exhausting. It's supposed to be. So on Friday night, when you get hit with an escalation on Friday night, when you get sort of hit with a bunch of new bugs from someone in the engineering team that you've got a triage, those are the moments where great players and great teams are separated from good players and good teams.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "extraordinary",
+        "definition": "Remarkably unusual or exceptional; going beyond what is ordinary or expected.",
+        "businessContext": "In business, 'extraordinary' often describes exceptional performance, achievements, or efforts that significantly surpass standard expectations.",
+        "nuance": "While it conveys a positive connotation, it should be used carefully to avoid overstatement in routine contexts.",
+        "synonyms": [
+          "remarkable",
+          "exceptional"
+        ],
+        "antonyms": [
+          "ordinary",
+          "common"
+        ]
+      },
+      {
+        "word": "effort",
+        "definition": "The exertion of physical or mental energy to achieve a goal or complete a task.",
+        "businessContext": "In a business setting, 'effort' is often associated with the resources and time invested in projects, initiatives, or team collaboration.",
+        "nuance": "It implies a level of commitment and can suggest varying degrees of intensity, so context is important when discussing effort levels.",
+        "synonyms": [
+          "endeavor",
+          "exertion"
+        ],
+        "antonyms": [
+          "laziness",
+          "idleness"
+        ]
+      },
+      {
+        "word": "exhausting",
+        "definition": "Causing extreme fatigue or depletion of energy; requiring significant effort over time.",
+        "businessContext": "In the workplace, 'exhausting' can describe demanding projects or workloads that drain employees' physical or mental resources.",
+        "nuance": "It often carries a negative connotation, indicating that the task may be unsustainable or detrimental to well-being if prolonged.",
+        "synonyms": [
+          "fatiguing",
+          "tiring"
+        ],
+        "antonyms": [
+          "refreshing",
+          "invigorating"
+        ]
+      },
+      {
+        "word": "escalations",
+        "definition": "The process of increasing in intensity or seriousness, often referring to issues or conflicts that require higher-level intervention.",
+        "businessContext": "In business and tech environments, 'escalations' typically refer to the formal process of addressing unresolved issues by involving higher management or specialized teams.",
+        "nuance": "It suggests a progression from a lower to a higher level of urgency or importance, and should be used when discussing issues that cannot be resolved at the initial level.",
+        "synonyms": [
+          "intensifications",
+          "amplifications"
+        ],
+        "antonyms": [
+          "de-escalations",
+          "reductions"
+        ]
+      }
+    ]
   },
   {
-    "text": "It is really important to me that we feel that we've deliberately understaffed every project at the company. If you overstaff, you get politics, you get people working on things that are further down the priority list than necessary. That is poison. It's wasteful. It slows you down. It creates cruft.",
+    "text": "It is really important to me that we feel that we've deliberately understaffed every project at the company. If you overstaff, you get politics, you get people working on things that are further down the priority list than necessary. That is poison. It's wasteful.",
     "speaker": "Matt MacInnis",
     "timestamp": "00:00:00",
     "context": "Matt explains his management philosophy about staffing projects. He advocates for deliberately understaffing rather than overstaffing because overstaffing leads to negative consequences like office politics and people working on lower-priority tasks. He uses the term 'cruft' to describe the unnecessary complexity and waste that comes from having too many people on a project.",
     "vocabulary_highlights": [
-      "deliberately understaffed",
-      "further down the priority list",
-      "creates cruft"
+      "deliberately",
+      "understaffed",
+      "priority list",
+      "wasteful"
     ],
     "topics": [
       "Leadership & Management",
@@ -75,17 +200,79 @@
     "text_ko": "회사의 모든 프로젝트에서 일부러 인력을 줄였다는 느낌이 정말 중요해요. 인력이 과다하면 정치적 문제도 생기고, 우선순위가 낮은 일에 사람들이 시간을 쓰게 되거든요. 그건 독이 되고, 낭비가 되고, 속도를 늦추고, 불필요한 것들이 쌓이게 해요.",
     "text_zh": "对我来说特别重要的一点是，我们公司每个项目都要故意少配人手。如果人员冗余的话，就会产生办公室政治，大家就会去搞一些不那么重要的事情。这简直是毒药，既浪费资源，又拖慢进度，还会产生各种没用的东西。",
     "text_es": "Es súper importante para mí que sintamos que hemos dejado deliberadamente pocos recursos humanos en cada proyecto de la empresa. Si pones demasiada gente, empiezas a tener política interna, gente trabajando en cosas que están muy abajo en la lista de prioridades cuando no es necesario. Eso es veneno. Es un desperdicio. Te frena. Crea pura basura (cruft).",
-    "key_sentence": "Deliberately understaffed projects avoid waste and prevent creating cruft."
+    "key_sentence": "If you overstaff, you get politics, you get people working on things that are further down the priority list than necessary.",
+    "text_trimmed": true,
+    "original_text": "It is really important to me that we feel that we've deliberately understaffed every project at the company. If you overstaff, you get politics, you get people working on things that are further down the priority list than necessary. That is poison. It's wasteful. It slows you down. It creates cruft.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "deliberately",
+        "definition": "In a manner that is intentional and planned, rather than accidental or spontaneous.",
+        "businessContext": "In business settings, acting deliberately often refers to making strategic decisions that are carefully considered to achieve specific outcomes.",
+        "nuance": "This term carries a connotation of thoughtfulness and purpose, suggesting that actions are taken with clear intent rather than haphazardly.",
+        "synonyms": [
+          "intentionally",
+          "purposely"
+        ],
+        "antonyms": [
+          "accidentally",
+          "unintentionally"
+        ]
+      },
+      {
+        "word": "understaffed",
+        "definition": "Having fewer staff members than necessary to effectively manage workload and responsibilities.",
+        "businessContext": "In a business context, being understaffed can lead to increased employee stress, decreased productivity, and potential project delays due to insufficient human resources.",
+        "nuance": "While understaffing can sometimes be a strategic choice to encourage efficiency, it often implies a negative impact on employee morale and project outcomes.",
+        "synonyms": [
+          "short-staffed",
+          "insufficiently staffed"
+        ],
+        "antonyms": [
+          "overstaffed",
+          "well-staffed"
+        ]
+      },
+      {
+        "word": "priority list",
+        "definition": "A ranked list of tasks or projects that are deemed most important and should be addressed first.",
+        "businessContext": "In business and project management, a priority list helps teams focus their efforts on the most critical objectives, ensuring resources are allocated effectively.",
+        "nuance": "The term implies a systematic approach to task management, where items are prioritized based on urgency and importance, often requiring regular updates.",
+        "synonyms": [
+          "task hierarchy",
+          "ranking of priorities"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "wasteful",
+        "definition": "Involving the unnecessary expenditure of resources, time, or effort, often leading to inefficiency.",
+        "businessContext": "In business environments, wastefulness can manifest in various forms, such as excessive spending, inefficient processes, or misallocation of human resources, ultimately harming profitability.",
+        "nuance": "The term carries a negative connotation, suggesting a lack of efficiency and foresight, and is often used to critique poor management practices.",
+        "synonyms": [
+          "inefficient",
+          "extravagant"
+        ],
+        "antonyms": [
+          "efficient",
+          "prudent"
+        ]
+      }
+    ]
   },
   {
-    "text": "Fundamentally, the most selfish thing you can do is withhold feedback from someone. When you think a thought that would help someone improve and you avoid giving it to them because it would make you uncomfortable. Well, you're optimizing for your own comfort, and it's fundamentally selfish.",
+    "text": "Fundamentally, the most selfish thing you can do is withhold feedback from someone. When you think a thought that would help someone improve and you avoid giving it to them because it would make you uncomfortable.",
     "speaker": "Matt MacInnis",
     "timestamp": "00:00:40",
     "context": "Lenny mentions that Matt is a big fan of escalating issues, and Matt explains his philosophy on feedback. He argues that withholding helpful feedback from someone because it makes you uncomfortable is the most selfish behavior possible. This is because you're prioritizing your own comfort over helping someone else improve and grow professionally.",
     "vocabulary_highlights": [
-      "withhold feedback",
-      "optimizing for your own comfort",
-      "fundamentally selfish"
+      "fundamentally",
+      "withhold",
+      "feedback",
+      "improve"
     ],
     "topics": [
       "Leadership & Management",
@@ -102,7 +289,68 @@
     "text_ko": "근본적으로, 누군가에게 피드백(feedback)을 주지 않는 게 가장 이기적인 행동이에요. 누군가가 발전하는 데 도움이 될 말이 떠올랐는데 내가 불편할까 봐 그걸 말하지 않는다면 자기 편안함만을 우선하는 거고, 결국 정말 이기적인 행동이에요.",
     "text_zh": "说白了，最自私的事情就是不给别人反馈。你明明想到了能帮人家改进的点子，但因为怕自己不舒服就不说出来。这其实就是为了让自己舒服，本质上就是自私。",
     "text_es": "En el fondo, lo más egoísta que puedes hacer es no darle feedback a alguien. Cuando tienes una idea que podría ayudar a esa persona a mejorar y no se la das porque te va a resultar incómodo... bueno, estás priorizando tu propia comodidad, y eso es puro egoísmo.",
-    "key_sentence": "Withholding feedback is fundamentally selfish and optimizing for your own comfort."
+    "key_sentence": "the most selfish thing you can do is withhold feedback from someone.",
+    "text_trimmed": true,
+    "original_text": "Fundamentally, the most selfish thing you can do is withhold feedback from someone. When you think a thought that would help someone improve and you avoid giving it to them because it would make you uncomfortable. Well, you're optimizing for your own comfort, and it's fundamentally selfish.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "fundamentally",
+        "definition": "In a basic or essential way; at the core or root of something.",
+        "businessContext": "In business discussions, 'fundamentally' is often used to emphasize the core principles or values that drive decisions and strategies.",
+        "nuance": "This term conveys a sense of importance and foundational significance, making it suitable for discussions about core values or essential truths.",
+        "synonyms": [
+          "essentially",
+          "intrinsically"
+        ],
+        "antonyms": [
+          "superficially",
+          "secondarily"
+        ]
+      },
+      {
+        "word": "withhold",
+        "definition": "To hold back or refuse to give something, such as information or resources.",
+        "businessContext": "In a corporate environment, withholding information can hinder communication and collaboration, impacting team performance and decision-making.",
+        "nuance": "This term often carries a negative connotation, implying a deliberate choice to keep something from others, which can lead to distrust.",
+        "synonyms": [
+          "retain",
+          "suppress"
+        ],
+        "antonyms": [
+          "disclose",
+          "share"
+        ]
+      },
+      {
+        "word": "feedback",
+        "definition": "Information or criticism about a person's performance or behavior, often provided to help improve future actions.",
+        "businessContext": "In a business setting, feedback is crucial for employee development, performance reviews, and fostering a culture of continuous improvement.",
+        "nuance": "While feedback can be constructive, it can also be perceived as negative if not delivered thoughtfully, making the context and delivery important.",
+        "synonyms": [
+          "input",
+          "critique"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "word": "improve",
+        "definition": "To make or become better; to enhance the quality or performance of something.",
+        "businessContext": "Improvement is a key objective in business strategies, focusing on processes, products, and employee skills to achieve greater efficiency and effectiveness.",
+        "nuance": "The term implies a positive change, but the specific context can determine whether the improvement is incremental or transformative.",
+        "synonyms": [
+          "enhance",
+          "refine"
+        ],
+        "antonyms": [
+          "deteriorate",
+          "worsen"
+        ]
+      }
+    ]
   },
   {
     "text": "The purest form of ambition and most intense source of energy in the business is the founder CEO. Every next concentric circle of management beyond the founder CEO has the potential to be an order of magnitude drop off in intensity. That is fucking dangerous.",
@@ -110,9 +358,10 @@
     "timestamp": "00:00:41",
     "context": "Matt discusses organizational dynamics and how intensity can diminish as you move away from the founder. He explains that founder CEOs typically have the highest level of ambition and energy, but each layer of management below them risks dramatically reducing that intensity - potentially by an order of magnitude. He sees this dilution of intensity as a serious threat to organizational performance.",
     "vocabulary_highlights": [
-      "purest form of ambition",
-      "concentric circle",
-      "order of magnitude drop off"
+      "intensity",
+      "ambition",
+      "diminish",
+      "organizational dynamics"
     ],
     "topics": [
       "Leadership & Management",
@@ -128,16 +377,77 @@
     "text_ko": "비즈니스에서는 야망의 가장 순수한 형태이자 에너지의 가장 강렬한 원천이 창업자 겸 CEO(founder CEO)예요. 창업자에서 바깥으로 이어지는 다음 동심원(concentric circle)에 속한 경영진은 에너지 강도가 한 차원, 심지어는 한 자릿수(즉 십배) 수준으로 떨어질 수 있어요. 그건 진짜 위험해요.",
     "text_zh": "创始人CEO是公司里最纯粹的野心和最强的驱动力。离创始人CEO越远的那些管理层，他们的干劲可能会断崖式下跌。这他妈的太危险了。",
     "text_es": "La forma más pura de ambición y la fuente de energía más intensa en el negocio es el CEO fundador. Cada siguiente círculo concéntrico de gerencia más allá del CEO fundador tiene el potencial de ser una caída de intensidad de un orden de magnitud. Eso es jodidamente peligroso.",
-    "key_sentence": "The founder CEO represents the purest form of ambition, risking an order of magnitude drop off."
+    "key_sentence": "The founder CEO represents the purest form of ambition, risking an order of magnitude drop off.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "intensity",
+        "definition": "The quality of being intense; a high degree of strength, force, or energy.",
+        "businessContext": "In business settings, intensity often refers to the level of passion, commitment, or urgency that individuals or teams bring to their work, which can significantly impact productivity and innovation.",
+        "nuance": "While intensity can be a positive driver of performance, excessive intensity may lead to burnout or conflict, so it should be balanced with sustainability.",
+        "synonyms": [
+          "fervor",
+          "vigor"
+        ],
+        "antonyms": [
+          "laziness",
+          "apathy"
+        ]
+      },
+      {
+        "word": "ambition",
+        "definition": "A strong desire to achieve success or a particular goal, often requiring determination and hard work.",
+        "businessContext": "In the context of startups and corporate environments, ambition is crucial for driving growth, inspiring teams, and fostering a culture of innovation and achievement.",
+        "nuance": "Ambition can be viewed positively as a motivating force, but it can also carry negative connotations if perceived as overly aggressive or self-serving.",
+        "synonyms": [
+          "aspiration",
+          "drive"
+        ],
+        "antonyms": [
+          "contentment",
+          "indifference"
+        ]
+      },
+      {
+        "word": "diminish",
+        "definition": "To make or become less in size, amount, intensity, or importance.",
+        "businessContext": "In business, diminishing can refer to the reduction of resources, market share, or employee engagement, which can adversely affect a company's performance and competitiveness.",
+        "nuance": "Diminish is often used in contexts where a decline is undesirable, so it should be used carefully to avoid implying a lack of potential or value.",
+        "synonyms": [
+          "reduce",
+          "decrease"
+        ],
+        "antonyms": [
+          "increase",
+          "amplify"
+        ]
+      },
+      {
+        "word": "organizational dynamics",
+        "definition": "The patterns of interaction and relationships within an organization that influence its culture, behavior, and performance.",
+        "businessContext": "Understanding organizational dynamics is essential for leaders to effectively manage teams, facilitate communication, and drive change within a company.",
+        "nuance": "This term encompasses both formal structures and informal relationships, making it important to consider the broader social context when discussing organizational effectiveness.",
+        "synonyms": [
+          "organizational behavior",
+          "group dynamics"
+        ],
+        "antonyms": [
+          "N/A",
+          "N/A"
+        ]
+      }
+    ]
   },
   {
-    "text": "You don't really learn from your mistakes, you learn from your successes. Of course, you learn a bit from mistakes, but I do think that this is sort of feel good that it's like, 'Well, you didn't succeed, but at least you learned something.' I've learned so much more because I've seen success.",
+    "text": "You don't really learn from your mistakes, you learn from your successes.",
     "speaker": "Matt MacInnis",
     "timestamp": "00:14:23",
     "context": "Matt challenges the common Silicon Valley wisdom that failure is the best teacher. He argues that while people do learn from mistakes, they actually learn much more from experiencing success. He contrasts his nine years at his previous company Inkling (which struggled) with his time at the successful company Rippling, noting that observing what works right provides more valuable insights than seeing what goes wrong.",
     "vocabulary_highlights": [
-      "feel good",
-      "at least you learned something"
+      "challenge",
+      "wisdom",
+      "experience",
+      "success"
     ],
     "topics": [
       "Learning & Growth",
@@ -153,16 +463,79 @@
     "text_ko": "사실 실수에서 진짜 배우는 경우보다 성공에서 더 많이 배우는 편이에요. 물론 실수로부터 어느 정도는 배우지만, '성공하진 못했지만 적어도 뭔가 배웠으니 다행' 같은 위로의 느낌도 있는 것 같아요. 저는 성공을 직접 경험하면서 훨씬 더 많은 걸 배웠어요.",
     "text_zh": "其实你真正学到东西不是从失败中，而是从成功中。当然，失败也能学到一点，但我觉得那种\"虽然没成功，但至少学到了什么\"的说法更多是自我安慰。我从成功的经历中学到的东西要多得多。",
     "text_es": "En realidad no aprendes tanto de tus errores, sino de tus éxitos. Claro, algo sí aprendes de los errores, pero creo que esto de \"bueno, no te fue bien, pero al menos aprendiste algo\" es como para consolarse. Yo he aprendido muchísimo más porque he visto el éxito de cerca.",
-    "key_sentence": "Success teaches more than mistakes; feel good about learning from achievements."
+    "key_sentence": "You don't really learn from your mistakes, you learn from your successes.",
+    "text_trimmed": true,
+    "original_text": "You don't really learn from your mistakes, you learn from your successes. Of course, you learn a bit from mistakes, but I do think that this is sort of feel good that it's like, 'Well, you didn't succeed, but at least you learned something.' I've learned so much more because I've seen success.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "challenge",
+        "definition": "A challenge is a task or situation that tests someone's abilities or skills. It often requires effort and determination to overcome.",
+        "businessContext": "In business, challenges can refer to obstacles that organizations face in achieving their goals, such as market competition or resource limitations.",
+        "nuance": "While challenges can be daunting, they are often viewed positively as opportunities for growth and innovation.",
+        "synonyms": [
+          "obstacle",
+          "difficulty"
+        ],
+        "antonyms": [
+          "ease",
+          "solution"
+        ]
+      },
+      {
+        "word": "wisdom",
+        "definition": "Wisdom is the ability to make sound judgments and decisions based on knowledge, experience, and understanding. It often involves insight and foresight.",
+        "businessContext": "In a business context, wisdom is crucial for leaders when making strategic decisions that affect the direction and success of the organization.",
+        "nuance": "Wisdom is often associated with age and experience, but it can also be cultivated through learning and reflection.",
+        "synonyms": [
+          "sagacity",
+          "judgment"
+        ],
+        "antonyms": [
+          "foolishness",
+          "ignorance"
+        ]
+      },
+      {
+        "word": "experience",
+        "definition": "Experience refers to the knowledge or skill acquired through practical involvement in a particular activity or field over time.",
+        "businessContext": "In the business world, experience is highly valued as it often correlates with better decision-making, problem-solving, and leadership capabilities.",
+        "nuance": "While experience is generally seen as beneficial, it can also lead to biases if one becomes resistant to new ideas or approaches.",
+        "synonyms": [
+          "expertise",
+          "background"
+        ],
+        "antonyms": [
+          "inexperience",
+          "novice"
+        ]
+      },
+      {
+        "word": "success",
+        "definition": "Success is the achievement of a desired aim, goal, or purpose, often measured by the attainment of specific benchmarks or outcomes.",
+        "businessContext": "In business, success can be quantified through metrics such as revenue growth, market share, or customer satisfaction, and is often celebrated as a key indicator of organizational health.",
+        "nuance": "Success can be subjective; what constitutes success may vary greatly between individuals and organizations based on their unique goals and values.",
+        "synonyms": [
+          "achievement",
+          "victory"
+        ],
+        "antonyms": [
+          "failure",
+          "setback"
+        ]
+      }
+    ]
   },
   {
-    "text": "We talk in Silicon Valley about never quit, but that is complete absolute venture capital bullshit. The incentive of venture capitalist is to put money into your company and milk you dry. They never get their money back. There is no way for them to take that investment back.",
+    "text": "We talk in Silicon Valley about never quit, but that is complete absolute venture capital bullshit. The incentive of venture capitalist is to put money into your company and milk you dry. They never get their money back.",
     "speaker": "Matt MacInnis",
     "timestamp": "00:43:45",
     "context": "Matt challenges the popular Silicon Valley mentality of 'never quit' when discussing product-market fit and knowing when to shut down a startup. He argues this advice serves venture capitalists' interests rather than entrepreneurs' interests, since VCs can't get their money back once invested and benefit from founders continuing to try even when success is unlikely. This creates misaligned incentives between VCs and founders.",
     "vocabulary_highlights": [
-      "complete absolute venture capital bullshit",
-      "milk you dry"
+      "venture capital",
+      "incentive",
+      "product-market fit",
+      "shut down"
     ],
     "topics": [
       "Starting a Company",
@@ -178,6 +551,67 @@
     "text_ko": "실리콘밸리(Silicon Valley)에서는 '절대 포기하지 마라'고들 말하죠. 그런데 그건 벤처 투자자(venture capitalist)들의 완전한 헛소리예요. 벤처 투자자들의 인센티브(incentive)는 당신 회사에 돈을 넣고 다 쥐어짜서 빨아먹는 거예요. 그들은 절대 투자금을 돌려받지 못해요. 투자금을 회수할 방법이 전혀 없거든요.",
     "text_zh": "我们在硅谷总说永不放弃，但这完全就是风投(venture capital)的扯淡。风投(venture capitalist)的动机就是往你公司砸钱，然后把你榨干。他们的钱根本收不回来，也没办法把投资撤回去。",
     "text_es": "En Silicon Valley siempre hablan de \"nunca te rindas\", pero eso es una completa mentira de los capitalistas de riesgo. El incentivo de los venture capitalists es meter plata en tu empresa y exprimirte hasta el último centavo. Nunca recuperan su dinero. No tienen manera de retirar esa inversión.",
-    "key_sentence": "Venture capitalists' incentives are complete absolute venture capital bullshit, milking you dry."
+    "key_sentence": "Venture capitalists' incentives are complete absolute venture capital bullshit, milking you dry.",
+    "text_trimmed": true,
+    "original_text": "We talk in Silicon Valley about never quit, but that is complete absolute venture capital bullshit. The incentive of venture capitalist is to put money into your company and milk you dry. They never get their money back. There is no way for them to take that investment back.",
+    "vocab_reparsed": true,
+    "vocabulary": [
+      {
+        "word": "venture capital",
+        "definition": "Venture capital refers to funds provided by investors to startups and small businesses with long-term growth potential, often in exchange for equity stakes.",
+        "businessContext": "In the startup ecosystem, venture capital is crucial for financing early-stage companies that may not have access to traditional funding sources, allowing them to scale rapidly.",
+        "nuance": "While venture capital can drive innovation, it may also imply pressure for rapid growth and returns, which can lead to unsustainable business practices.",
+        "synonyms": [
+          "risk capital",
+          "startup funding"
+        ],
+        "antonyms": [
+          "debt financing",
+          "N/A"
+        ]
+      },
+      {
+        "word": "incentive",
+        "definition": "An incentive is a benefit or reward designed to motivate individuals or organizations to act in a certain way or achieve specific goals.",
+        "businessContext": "In business, incentives are often used to align the interests of employees, customers, or investors with the objectives of the organization, such as performance bonuses or stock options.",
+        "nuance": "While incentives can effectively drive behavior, they may also lead to unintended consequences if not carefully structured.",
+        "synonyms": [
+          "motivation",
+          "enticement"
+        ],
+        "antonyms": [
+          "disincentive",
+          "deterrent"
+        ]
+      },
+      {
+        "word": "product-market fit",
+        "definition": "Product-market fit is the degree to which a product satisfies a strong market demand, indicating that the product is well-suited to its target audience.",
+        "businessContext": "Achieving product-market fit is a critical milestone for startups, as it validates the business model and often leads to increased customer acquisition and retention.",
+        "nuance": "The concept emphasizes the importance of understanding customer needs and iterating on the product to meet those needs effectively.",
+        "synonyms": [
+          "market alignment",
+          "customer fit"
+        ],
+        "antonyms": [
+          "product-market mismatch",
+          "N/A"
+        ]
+      },
+      {
+        "word": "shut down",
+        "definition": "To shut down means to cease operations or terminate a business or project, often due to financial difficulties or strategic decisions.",
+        "businessContext": "In the tech industry, shutting down a startup can occur when it fails to secure funding, achieve profitability, or adapt to market changes, often leading to layoffs and loss of investment.",
+        "nuance": "The term can carry a negative connotation, implying failure, but it can also be a strategic decision to pivot or redirect resources.",
+        "synonyms": [
+          "cease operations",
+          "close down"
+        ],
+        "antonyms": [
+          "launch",
+          "expand"
+        ]
+      }
+    ]
   }
 ]
