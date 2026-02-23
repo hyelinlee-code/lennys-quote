@@ -7,8 +7,7 @@
     "vocabulary_highlights": [
       "overhired",
       "agile",
-      "roles",
-      "chaos"
+      "roles"
     ],
     "topics": [
       "Product Management",
@@ -67,22 +66,9 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "chaos",
-        "definition": "Chaos refers to a state of complete disorder and confusion, often resulting from a lack of organization or control.",
-        "businessContext": "In business contexts, chaos can arise during periods of rapid change or crisis, impacting decision-making and operational efficiency.",
-        "nuance": "While chaos can sometimes lead to innovation and creativity, it generally has a negative connotation associated with instability and unpredictability.",
-        "synonyms": [
-          "disorder",
-          "turmoil"
-        ],
-        "antonyms": [
-          "order",
-          "stability"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "They're dramatically overpaid for the value they provide. Because it's a project management role. It is a lot easier to deliver output than it is to deliver outcomes.",
@@ -175,9 +161,7 @@
     "timestamp": "00:00:27",
     "context": "Lenny asks what motivated Marty to write his third book, TRANSFORMED. Marty explains that many product professionals feel trapped in organizations that operate as 'feature teams' - teams given roadmaps of features to build rather than problems to solve. Instead of viewing themselves as powerless victims, Marty argues these individuals have much more agency than they realize to transform their companies and elevate their own roles.",
     "vocabulary_highlights": [
-      "feature team",
-      "trapped in organizations",
-      "roadmap"
+      "feature team"
     ],
     "topics": [
       "Career Development",
@@ -208,36 +192,9 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "trapped in organizations",
-        "definition": "Being trapped in organizations refers to the feeling of being stuck in a company or role with limited opportunities for growth or change.",
-        "businessContext": "This phrase is often used in discussions about employee engagement and retention, highlighting the importance of fostering a culture that empowers employees to seek development and innovation.",
-        "nuance": "The term carries a negative connotation, suggesting a lack of agency or autonomy, and is typically used to describe dissatisfaction among employees who feel constrained by organizational structures.",
-        "synonyms": [
-          "stagnant in roles",
-          "confined in positions"
-        ],
-        "antonyms": [
-          "empowered in organizations",
-          "free to innovate"
-        ]
-      },
-      {
-        "word": "roadmap",
-        "definition": "A roadmap is a strategic plan that outlines the vision, direction, and milestones for a project or product over a specified period.",
-        "businessContext": "In business and tech, roadmaps are essential for aligning teams, setting priorities, and communicating the timeline and goals for product development or organizational initiatives.",
-        "nuance": "While roadmaps provide a clear direction, they should remain flexible to adapt to changing market conditions or feedback, and are often revised as projects evolve.",
-        "synonyms": [
-          "strategic plan",
-          "project timeline"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "We are looking for the commonality and mostly we're looking to help a company, whether it's a startup or a large company to have the best possible chance of success. That's the goal for us. It's a different goal.",
@@ -331,9 +288,7 @@
     "context": "Lenny asks about Marty's recent 'spiciness' in writing, suggesting he's telling people things they don't want to hear but need to hear. Marty confirms this is conscious - he's deliberately dialing up his rhetoric around uncomfortable truths in the product management industry. He acknowledges internal conflict between staying diplomatic versus sharing harsh realities that could help people and companies improve.",
     "vocabulary_highlights": [
       "uncomfortable",
-      "intelligent",
-      "deliberately",
-      "dialing up"
+      "intelligent"
     ],
     "topics": [
       "Communication Skills",
@@ -378,36 +333,9 @@
           "unintelligent",
           "ignorant"
         ]
-      },
-      {
-        "word": "deliberately",
-        "definition": "In a purposeful or intentional manner; done with careful consideration or planning.",
-        "businessContext": "In a business context, actions taken 'deliberately' indicate strategic decision-making, often reflecting a calculated approach to risk and opportunity.",
-        "nuance": "This term can imply a sense of control or forethought, but it may also suggest a lack of spontaneity or flexibility.",
-        "synonyms": [
-          "intentionally",
-          "purposely"
-        ],
-        "antonyms": [
-          "accidentally",
-          "unintentionally"
-        ]
-      },
-      {
-        "word": "dialing up",
-        "definition": "To increase or intensify something; to enhance or amplify a particular aspect or quality.",
-        "businessContext": "In technology and marketing, 'dialing up' often refers to boosting efforts in areas such as customer engagement, advertising, or product features to achieve better results.",
-        "nuance": "While it conveys a proactive approach, overusing this phrase can imply excessive or aggressive tactics that may not align with a company's values.",
-        "synonyms": [
-          "amplifying",
-          "intensifying"
-        ],
-        "antonyms": [
-          "dialing down",
-          "reducing"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "And then the one that I really probably shouldn't bring up just because it's become a religious topic almost. I know it's a super sensitive topic for people, but the reality is with remote employees, both velocity and innovation have taken a real hit.",
@@ -417,8 +345,7 @@
     "vocabulary_highlights": [
       "velocity",
       "innovation",
-      "sensitive",
-      "macro factors"
+      "sensitive"
     ],
     "topics": [
       "Work-Life Balance",
@@ -477,21 +404,8 @@
           "insensitive",
           "unresponsive"
         ]
-      },
-      {
-        "word": "macro factors",
-        "definition": "Macro factors are large-scale influences that affect an organization or industry, including economic, political, social, and technological elements.",
-        "businessContext": "In strategic planning, understanding macro factors is essential for assessing risks and opportunities that can impact long-term business success.",
-        "nuance": "While macro factors provide a broad perspective, they can sometimes overshadow specific, actionable insights; it's important to balance macro analysis with micro-level considerations.",
-        "synonyms": [
-          "external factors",
-          "environmental factors"
-        ],
-        "antonyms": [
-          "micro factors",
-          "internal factors"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

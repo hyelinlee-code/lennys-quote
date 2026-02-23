@@ -5,10 +5,7 @@
     "timestamp": "00:09:19",
     "context": "Lenny asks Alex what it was like leading Facebook's news product immediately after the 2016 presidential election, when Facebook was facing intense criticism over misinformation and disinformation. Alex describes entering a crisis situation where Facebook needed to completely rethink how it handled content on the platform, moving from treating all public content equally to distinguishing between factually accurate journalism and potentially misleading information.",
     "vocabulary_highlights": [
-      "product management",
-      "intense criticism",
-      "misinformation",
-      "disinformation"
+      "product management"
     ],
     "topics": [
       "Product Management",
@@ -22,9 +19,9 @@
       "B2B SaaS",
       "Consumer Products"
     ],
-    "text_ko": "전쟁 같은 상황에서 제품 관리를 생각해보면, 들어오는 순간부터... 제가 페이스북에서 그 시기에 정말 감사했던 점은 플랫폼에서 실제로 무슨 일이 일어나고 있는지를 이해하고 진단하기 위해 필요한 겸손함이었어요.",
-    "text_zh": "我想到的是战时产品管理，对吧？你进入这个环境，我认为……我对在Facebook的那段时间印象深刻的是，真正理解并首先诊断平台上发生的事情需要一种令人敬佩的谦逊。",
-    "text_es": "Pienso en la gestión de productos en tiempos de guerra, ¿verdad? Estás entrando, y lo que aprecié de esa época en Facebook fue la increíble humildad que se necesitaba para realmente entender y, primero, diagnosticar lo que estaba sucediendo en la plataforma.",
+    "text_ko": "전시형 제품 관리(wartime product management)에 대해 생각해요, 알죠? 회사에 합류하면, 제 생각엔 ... 있었던 것 같아요...",
+    "text_zh": "我想到的是战时产品管理那套，对吧？你刚进来的时候，我觉得当时有...",
+    "text_es": "Pienso en la gestión de producto en tiempos de guerra, ¿no? Estás entrando, y creo que había...",
     "key_sentence": "I think about wartime product management, right?",
     "text_trimmed": true,
     "original_text": "I think about wartime product management, right? You're coming in, and I think there was ... What I appreciated about that time inside of Facebook was that there was just this incredible humility that was needed to really understand and first diagnose what was actually happening on the platform.",
@@ -43,50 +40,10 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "intense criticism",
-        "definition": "Severe and often public disapproval or negative feedback directed towards a person, organization, or product.",
-        "businessContext": "In the business world, intense criticism can arise from stakeholders, customers, or the media, particularly in response to product failures, ethical lapses, or poor management decisions.",
-        "nuance": "This phrase carries a strong emotional weight and is typically used when the feedback is not only negative but also harsh and impactful.",
-        "synonyms": [
-          "harsh critique",
-          "severe disapproval"
-        ],
-        "antonyms": [
-          "praise",
-          "commendation"
-        ]
-      },
-      {
-        "word": "misinformation",
-        "definition": "False or misleading information that is spread regardless of intent to deceive.",
-        "businessContext": "In a corporate setting, misinformation can lead to poor decision-making, damaged reputations, and loss of consumer trust, making clear communication essential.",
-        "nuance": "Misinformation is often unintentional, and it is important to distinguish it from disinformation, which is deliberately misleading.",
-        "synonyms": [
-          "false information",
-          "incorrect data"
-        ],
-        "antonyms": [
-          "accurate information",
-          "fact"
-        ]
-      },
-      {
-        "word": "disinformation",
-        "definition": "Deliberately false information spread with the intent to deceive or mislead others.",
-        "businessContext": "In business, disinformation can be used as a tactic by competitors or malicious entities to undermine a company's credibility or market position.",
-        "nuance": "This term implies a calculated effort to mislead, and it is often associated with political or corporate espionage.",
-        "synonyms": [
-          "deceptive information",
-          "falsehood"
-        ],
-        "antonyms": [
-          "truth",
-          "reality"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I just actually think that that's where product people thrive. The idea of being able to take all of these crazy inputs, trying to create a very structured model to figure out, 'Okay, what is true? Where do we have conviction?",
@@ -96,8 +53,7 @@
     "vocabulary_highlights": [
       "structured",
       "inputs",
-      "conviction",
-      "chaotic"
+      "conviction"
     ],
     "topics": [
       "Product Management",
@@ -111,9 +67,9 @@
       "B2B SaaS",
       "Consumer Products"
     ],
-    "text_ko": "저는 제품 관련 사람들이 바로 그곳에서 잘 성장한다고 생각해요. 다양한 복잡한 정보들을 모아서, '이게 진짜 뭐지? 우리가 확신하는 건 뭐고? 궁금한 점은 뭐지? 해결해야 할 가장 중요한 문제는 무엇인가? 우선순위는 어떻게 정하지? 팀을 하나의 목표를 위해 어떻게 모을 수 있을까?' 같은 구조화된 모델을 만드는 과정이 정말 중요하다고 봐요.",
-    "text_zh": "我认为这正是产品经理发挥优势的地方。能够将各种复杂的输入整合起来，构建一个有条理的模型，以弄清楚“什么是真实的？我们在哪些方面有信心？我们有哪些疑问？最重要的问题是什么？如何进行优先级排序？如何让团队围绕一个共同的目标团结起来？”",
-    "text_es": "Creo que ahí es donde realmente prosperan las personas de producto. La idea de poder tomar todos estos insumos locos y tratar de crear un modelo muy estructurado para determinar: '¿Qué es lo que realmente importa? ¿Dónde tenemos convicción? ¿Dónde tenemos dudas? ¿Cuáles son los problemas más importantes que debemos resolver? ¿Cómo se prioriza? ¿Cómo se logra que un equipo se una en torno a un contexto compartido y un objetivo único?'",
+    "text_ko": "사실 저는 그런 부분에서 프로덕트 담당자들(product people)이 특히 잘한다고 생각해요. 온갖 복잡한 인풋(inputs)을 받아서, 그걸 아주 구조화된 모델(structured model)로 만들어 ‘무엇이 사실인지? 어디에 우리가 확신(conviction)을 가질 수 있는지?’를 찾아내는 능력이에요.",
+    "text_zh": "我觉得这恰恰是产品经理最能发挥价值的地方。就是能够把各种乱七八糟的信息整理出来，建立一个很有条理的框架，然后搞清楚\"到底什么是对的？我们对哪些事情有把握？\"",
+    "text_es": "Yo creo que ahí es donde la gente de producto realmente se luce. La idea de poder tomar todas estas variables locas que llegan de todos lados, y tratar de crear un modelo bien estructurado para descifrar: 'A ver, ¿qué es lo que realmente está pasando? ¿En qué podemos confiar de verdad?'",
     "key_sentence": "take all of these crazy inputs, trying to create a very structured model to figure out, 'Okay, what is true?",
     "text_trimmed": true,
     "original_text": "I just actually think that that's where product people thrive. The idea of being able to take all of these crazy inputs, trying to create a very structured model to figure out, 'Okay, what is true? Where do we have conviction? Where do we have questions? What are the most important problems to solve? How do you prioritize? How do you get a team rallied around a shared context in one single goal?'",
@@ -160,22 +116,10 @@
           "doubt",
           "uncertainty"
         ]
-      },
-      {
-        "word": "chaotic",
-        "definition": "Characterized by a state of complete disorder and confusion, lacking any clear structure.",
-        "businessContext": "In startup environments, chaotic situations may arise during rapid growth or crisis, requiring agile responses and adaptive strategies from teams.",
-        "nuance": "While 'chaotic' often has negative connotations, it can also describe dynamic environments where innovation thrives amidst uncertainty.",
-        "synonyms": [
-          "disordered",
-          "turbulent"
-        ],
-        "antonyms": [
-          "ordered",
-          "structured"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "When we acquired Wordle, it was a simple web game with no backend.",
@@ -184,9 +128,7 @@
     "context": "Alex is explaining the technical challenges of integrating Wordle into The New York Times' platform after they acquired it. She describes how the original game had no database infrastructure, meaning all user progress was saved locally on individual devices. This created problems when people switched devices or browsers, losing their playing history that was important for the social sharing aspect of the game.",
     "vocabulary_highlights": [
       "acquired",
-      "backend",
-      "infrastructure",
-      "integrating"
+      "backend"
     ],
     "topics": [
       "Product Management",
@@ -199,9 +141,9 @@
       "B2B SaaS",
       "Consumer Products"
     ],
-    "text_ko": "우리가 Wordle을 인수했을 때, 그건 백엔드도 없는 간단한 웹 게임이었어요. 그래서 사람들이 게임을 한 후에 공유하던 통계와 연속 기록은 로컬 브라우저에 저장되고 있었죠. 그게 바로 사람들이 소셜 커런시(social currency)로 생각했던 가치였어요.",
-    "text_zh": "当我们收购Wordle时，它只是一个简单的网页游戏，没有后端。这意味着玩家的统计数据和连胜记录（streaks），即人们在游戏后分享的社交价值，都是存储在本地浏览器中的。",
-    "text_es": "Cuando adquirimos Wordle, era un juego web simple sin backend. Eso significaba que las estadísticas y las rachas de los jugadores, que eran el valor en términos de moneda social que la gente compartía después de jugar, se almacenaban en los navegadores locales.",
+    "text_ko": "우리가 Wordle을 인수했을 때는 백엔드(backend)도 없이 돌아가던 아주 단순한 웹 게임이었어요.",
+    "text_zh": "我们收购Wordle的时候，它就是个简单的网页游戏，连后台都没有。",
+    "text_es": "Cuando adquirimos Wordle, era un juego web súper sencillo sin ningún backend.",
     "key_sentence": "it was a simple web game with no backend.",
     "text_trimmed": true,
     "original_text": "When we acquired Wordle, it was a simple web game with no backend. That meant that people's stats and streaks, which was that was the value in terms of social currency that people were sharing after playing, those stats and streaks were stored in local browsers.",
@@ -234,36 +176,10 @@
           "frontend",
           "user interface"
         ]
-      },
-      {
-        "word": "infrastructure",
-        "definition": "The underlying framework or systems that support the operation and functionality of an organization or project.",
-        "businessContext": "In a business context, infrastructure can refer to both physical assets, like buildings and equipment, and digital assets, such as networks and software systems.",
-        "nuance": "The term often implies a foundational role, essential for the effective functioning of an organization or system.",
-        "synonyms": [
-          "framework",
-          "foundation"
-        ],
-        "antonyms": [
-          "superstructure",
-          "periphery"
-        ]
-      },
-      {
-        "word": "integrating",
-        "definition": "The process of combining different systems, processes, or components to work together as a unified whole.",
-        "businessContext": "In business and technology, integrating often refers to merging software applications, data systems, or operational processes to enhance efficiency and functionality.",
-        "nuance": "The term suggests a collaborative effort to ensure compatibility and synergy among various elements.",
-        "synonyms": [
-          "combining",
-          "unifying"
-        ],
-        "antonyms": [
-          "segregating",
-          "isolating"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "This was a moment where we just had to come out and really tell the world, 'We're mid integration. We're really not trying to communicate more than Wordle being a fun diversion from the news. Here's what happened, and why.' Everyone understood.",
@@ -288,9 +204,9 @@
       "B2B SaaS",
       "Consumer Products"
     ],
-    "text_ko": "이건 우리가 나와서 세상에 정말로 말해야 했던 순간이에요. '우리는 지금 통합 중이에요. Wordle이 뉴스에서 잠깐 벗어나는 재미있는 오락이라는 걸 더 이상 설명하려고 하지 않아요. 이게 무슨 일이 있었고, 왜 그런지 알려드릴게요.' 모두가 이해했어요. 이렇게 사실에 대해 투명하게 이야기하고, 때로는 제품 개발 과정에 대해 더 많이 공개하는 게 사람들이 가질 수 있는 여러 루머를 불식시키는 데 정말 도움이 돼요.",
-    "text_zh": "这是一个我们必须向世界坦诚的时刻，我们正在进行中期整合（mid integration）。我们并不想传达比《Wordle》作为一种有趣的消遣（fun diversion from the news）更多的信息。事情是这样的，原因也在这里。大家都理解。这时，坦诚地公开事实，并在某些情况下更多地揭示产品开发过程，确实有助于澄清人们可能会产生的一些谣言。",
-    "text_es": "Este fue un momento en el que simplemente teníamos que salir y decirle al mundo: 'Estamos en medio de la integración. Realmente no estamos tratando de comunicar más que Wordle como una divertida distracción de las noticias. Esto es lo que sucedió y por qué.' Todos lo entendieron. Aquí es donde ser realmente transparente sobre los hechos y, en algunos casos, revelar más sobre el proceso de desarrollo del producto ayuda a desmitificar algunos de los rumores que la gente podría pensar de otra manera.",
+    "text_ko": "이건 우리가 직접 나와서 “지금 통합 과정(mid integration) 중이에요. 우리가 전달하려던 건 Wordle이 뉴스에서 잠깐 벗어나는 재미있는 기분전환이라는 것뿐이에요. 무슨 일이 있었고 왜 그런지 솔직히 말씀드리는 거예요.”라고 분명히 말해야 할 순간이었어요. 다들 이해했어요.",
+    "text_zh": "那个时候我们就得站出来，直接跟大家说清楚，'我们正在整合过程中。我们真的没想搞那么复杂，Wordle就是想让大家看新闻累了能放松一下。事情是这样的，原因是这样的。'大家都理解了。",
+    "text_es": "Este fue un momento donde tuvimos que salir y decirle al mundo de frente: 'Estamos en plena integración. En realidad no estamos tratando de comunicar más que el hecho de que Wordle es una distracción divertida de las noticias. Esto fue lo que pasó y por qué.' Todo el mundo lo entendió.",
     "key_sentence": "We're really not trying to communicate more than Wordle being a fun diversion from the news.",
     "text_trimmed": true,
     "original_text": "This was a moment where we just had to come out and really tell the world, 'We're mid integration. We're really not trying to communicate more than Wordle being a fun diversion from the news. Here's what happened, and why.' Everyone understood. This is where coming out being really transparent about the facts and in some cases just exposing more about the product development process really helps demystify some of the rumors that people might otherwise think.",
@@ -352,7 +268,8 @@
           "confused"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "you just need to blow up roadmaps, share context with everyone and say, 'Okay, everyone, we have a totally different mandate... to help people access information to make informed decisions about their lives.",
@@ -377,9 +294,9 @@
       "B2B SaaS",
       "Consumer Products"
     ],
-    "text_ko": "이건 제품 리더로서 정말 전시 상황 같은 순간이에요. 로드맵을 완전히 바꿔야 하고, 모든 사람과 상황을 공유하면서 '자, 여러분, 우리는 몇 주 전과는 완전히 다른 임무를 맡게 됐어요.'라고 말해야 해요. 세상의 필요와 뉴욕 타임스의 미션, 즉 사람들이 정보에 접근해서 자신의 삶에 대한 현명한 결정을 내릴 수 있도록 돕는 우리의 목적을 고려할 때, 우리는 이런 것들을 많이 할 거예요.",
-    "text_zh": "这是一个产品领导者的真实战时时刻，我们需要彻底重塑路线图，与每个人分享背景，并说：“好吧，大家，我们的任务与几周前完全不同。”鉴于世界的需求以及《纽约时报》的使命和我们的目标，即帮助人们获取信息，以便对他们的生活做出明智的决策，我们将开展一系列新的工作。",
-    "text_es": "Este es un momento crucial para un líder de producto; es un verdadero momento de crisis en el que es necesario revisar completamente los planes (roadmaps), compartir el contexto con todos y decir: 'Bien, todos, tenemos un mandato totalmente diferente al que teníamos hace un par de semanas.' Dadas las necesidades del mundo y la misión del New York Times, que es ayudar a las personas a acceder a la información para tomar decisiones informadas sobre sus vidas, vamos a llevar a cabo una serie de iniciativas.",
+    "text_ko": "그냥 로드맵(roadmaps)을 전부 뒤엎고, 모두에게 맥락(context)을 공유한 다음 \"자, 여러분, 우리의 임무(mandate)는 완전히 달라졌어요. 사람들이 정보에 접근해서 자신의 삶에 대해 정보에 기반한 결정을 내릴 수 있도록 돕는 거예요.\"라고 말하면 돼요.",
+    "text_zh": "你只需要把路线图(roadmap)全部推翻，跟所有人说清楚具体情况，然后告诉大家：'好，现在我们的使命完全变了，要帮助人们获取信息，让他们能对自己的生活做出明智的决定。'",
+    "text_es": "Simplemente tienes que mandar los roadmaps al carajo, compartir el contexto con todo el mundo y decir: \"Bueno gente, ahora tenemos un mandato completamente distinto... ayudar a la gente a acceder a información para que puedan tomar decisiones informadas sobre sus vidas.\"",
     "key_sentence": "Blow up roadmaps to share context and embrace a totally different mandate.",
     "text_trimmed": true,
     "original_text": "This is a product leader, it's a real wartime moment where you just need to blow up roadmaps, share context with everyone and say, 'Okay, everyone, we have a totally different mandate than what we did a couple weeks ago.' Given the needs in the world and the mission of the New York Times and our purpose, which is to help people access information to make informed decision about their lives, we're going to do a whole bunch of these things.",
@@ -441,7 +358,8 @@
           "uninformed choices"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "One thing that's really interesting is that our impact and our business goals are in service of our mission, which is to seek the truth and help people understand the world, not the other way around.",
@@ -450,7 +368,6 @@
     "context": "Alex is explaining how The New York Times approaches the concept of impact differently from traditional tech companies. She contrasts their mission-first approach with typical business-first models, emphasizing that their subscription business exists to serve democratic values and public understanding rather than purely commercial objectives. This creates a broader definition of success that includes both financial metrics and societal outcomes.",
     "vocabulary_highlights": [
       "impact",
-      "mission-first approach",
       "business goals",
       "understand"
     ],
@@ -465,9 +382,9 @@
       "B2B SaaS",
       "Consumer Products"
     ],
-    "text_ko": "정말 흥미로운 점은 우리의 영향력과 비즈니스 목표가 우리의 사명, 즉 진실을 추구하고 사람들이 세상을 이해하도록 돕는 데에 있다는 거예요. 반대가 아니라는 거죠. 그래서 우리가 영향력에 대해 생각하는 방식은 거대한 구독 비즈니스를 키우는 거예요. 이 비즈니스는 사람들이 기본적인 사실을 이해하는 데 어려움을 겪고 서로를 이해하는 데 힘든 시기에 정보에 기반한 민주주의를 강화하기 위해 존재하는 거예요.",
-    "text_zh": "一个非常有趣的事情是，我们的影响力和商业目标是为了实现我们的使命，即寻求真相并帮助人们理解世界，而不是反过来。这意味着我们对影响力的看法是发展一个庞大的订阅业务。这个业务的存在是为了在一个人们难以理解基本事实和彼此沟通的时代，增强一个知情的民主。",
-    "text_es": "Una cosa realmente interesante es que nuestro impacto y nuestros objetivos comerciales están al servicio de nuestra misión, que es buscar la verdad y ayudar a las personas a entender el mundo, no al revés. Esto significa que nuestra forma de pensar sobre el impacto se centra en hacer crecer un gran negocio de suscripción. Ese negocio existe para fortalecer una democracia informada en un momento en que las personas tienen dificultades para entender hechos básicos y para comprenderse entre sí.",
+    "text_ko": "정말 흥미로운 건 우리 임팩트(impact)와 비즈니스 목표(business goals)가 미션(mission)을 위해 있다는 점이에요. 그 미션은 진실을 찾고 사람들이 세상을 이해하도록 돕는 것이지, 그 반대가 아니에요.",
+    "text_zh": "有个很有意思的地方是，我们的影响力和商业目标都是为我们的使命服务的——也就是追求真相，帮助大家理解这个世界，而不是反过来让使命为商业服务。",
+    "text_es": "Lo que me parece súper interesante es que nuestro impacto y nuestros objetivos de negocio están al servicio de nuestra misión, que es buscar la verdad y ayudar a la gente a entender el mundo, no al revés.",
     "key_sentence": "Our business goals are in service of strengthening an informed democracy.",
     "text_trimmed": true,
     "original_text": "One thing that's really interesting is that our impact and our business goals are in service of our mission, which is to seek the truth and help people understand the world, not the other way around. What it means is that the way that we think about impact is growing a giant subscription business. That business exists to strengthen an informed democracy at a time when people are struggling to understand basic facts and struggling to understand each other.",
@@ -485,20 +402,6 @@
         "antonyms": [
           "insignificance",
           "irrelevance"
-        ]
-      },
-      {
-        "word": "mission-first approach",
-        "definition": "A strategic framework where an organization's primary focus is on its core mission rather than solely on profit or growth.",
-        "businessContext": "In startups and social enterprises, a mission-first approach emphasizes aligning business practices with the organization's foundational goals, often prioritizing social impact over financial gain.",
-        "nuance": "This approach can convey a strong commitment to values, but may be perceived as less pragmatic in highly competitive markets.",
-        "synonyms": [
-          "purpose-driven strategy",
-          "values-led approach"
-        ],
-        "antonyms": [
-          "profit-first strategy",
-          "growth-centric model"
         ]
       },
       {
@@ -529,6 +432,8 @@
           "confuse"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

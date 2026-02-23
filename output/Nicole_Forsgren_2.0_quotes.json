@@ -6,9 +6,7 @@
     "context": "Lenny asks Nicole about how companies are measuring productivity for their teams in the age of AI. Nicole explains that traditional productivity metrics like lines of code have become meaningless with AI tools because they can be easily gamed. She points out that AI agents and LLMs tend to be very verbose by default, making it trivial to generate large amounts of code that may introduce complexity and technical debt rather than actual value.",
     "vocabulary_highlights": [
       "metrics",
-      "productivity",
-      "meaningless",
-      "gain the system"
+      "productivity"
     ],
     "topics": [
       "Product Management",
@@ -53,36 +51,9 @@
           "inefficiency",
           "unproductiveness"
         ]
-      },
-      {
-        "word": "meaningless",
-        "definition": "Meaningless describes something that lacks significance, value, or purpose.",
-        "businessContext": "In business discussions, labeling a metric or goal as meaningless can indicate that it does not contribute to the overall objectives or is not aligned with strategic priorities.",
-        "nuance": "Use this term cautiously, as it can imply a lack of respect for the efforts or intentions behind a particular initiative.",
-        "synonyms": [
-          "insignificant",
-          "trivial"
-        ],
-        "antonyms": [
-          "meaningful",
-          "significant"
-        ]
-      },
-      {
-        "word": "gain the system",
-        "definition": "To gain the system means to exploit or manipulate established rules or processes to achieve an advantage, often in a way that undermines the intended purpose.",
-        "businessContext": "In tech and business environments, gaining the system can refer to practices that skew performance metrics or exploit loopholes, leading to misleading assessments of success.",
-        "nuance": "This phrase often carries a negative connotation, suggesting unethical behavior or a lack of integrity in achieving results.",
-        "synonyms": [
-          "manipulate the system",
-          "exploit the system"
-        ],
-        "antonyms": [
-          "adhere to the system",
-          "follow the rules"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "Most teams can move faster. But faster for what? We can ship trash faster every single day. We need strategy and really smart decisions to know what to ship.",
@@ -91,9 +62,7 @@
     "context": "Lenny asks how to know if an engineering team is moving fast enough or if they can move faster. Nicole responds that while most teams have room for improvement in speed, velocity alone isn't valuable without direction. She emphasizes that the real challenge isn't just moving faster, but ensuring teams are building the right things with proper strategic guidance.",
     "vocabulary_highlights": [
       "strategy",
-      "smart decisions",
-      "velocity",
-      "valuable"
+      "smart decisions"
     ],
     "topics": [
       "Strategy & Planning",
@@ -138,36 +107,9 @@
           "poor choices",
           "hasty decisions"
         ]
-      },
-      {
-        "word": "velocity",
-        "definition": "The speed at which an object moves in a specific direction; in business, it often refers to the rate of progress or development.",
-        "businessContext": "In the tech and startup sectors, velocity is used to measure how quickly teams can deliver products or features, often emphasizing the importance of speed in a competitive market.",
-        "nuance": "While 'velocity' suggests rapid movement, it also implies direction and purpose, highlighting that speed alone is not sufficient without a clear goal.",
-        "synonyms": [
-          "speed",
-          "pace"
-        ],
-        "antonyms": [
-          "slowness",
-          "delay"
-        ]
-      },
-      {
-        "word": "valuable",
-        "definition": "Having worth or usefulness; capable of providing significant benefits or advantages.",
-        "businessContext": "In business, valuable assets, products, or services are those that contribute to the company's success and help meet customer needs effectively.",
-        "nuance": "The term 'valuable' often carries a subjective quality, as what is considered valuable can vary greatly depending on context and perspective.",
-        "synonyms": [
-          "beneficial",
-          "important"
-        ],
-        "antonyms": [
-          "worthless",
-          "insignificant"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "We can't just put in a command and guess something back and accept it. We really need to evaluate it. Are we seeing hallucinations? What's the reliability? Does it meet the style that we would typically write?",
@@ -177,8 +119,7 @@
     "vocabulary_highlights": [
       "evaluate",
       "reliability",
-      "typically",
-      "trust"
+      "typically"
     ],
     "topics": [
       "Product Management",
@@ -237,22 +178,9 @@
           "atypically",
           "unusually"
         ]
-      },
-      {
-        "word": "trust",
-        "definition": "A firm belief in the reliability, truth, ability, or strength of someone or something.",
-        "businessContext": "Trust is fundamental in business relationships, influencing partnerships, customer loyalty, and team dynamics.",
-        "nuance": "The term 'trust' conveys a deep-seated confidence that can take time to build, and its absence can lead to significant challenges in collaboration.",
-        "synonyms": [
-          "confidence",
-          "faith"
-        ],
-        "antonyms": [
-          "distrust",
-          "mistrust"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "There's some real opportunity there to not just rethink workflows, but rethink how we structure our days and how we structure our work.",
@@ -275,9 +203,9 @@
       "Engineering Leadership",
       "Product Management"
     ],
-    "text_ko": "단순히 워크플로(workflows)를 다시 생각하는 수준이 아니라, 하루를 어떻게 짜고 업무를 어떻게 구성할지 자체를 재구성할 수 있는 진짜 기회가 있어요. 그리고 45분짜리 작업 단위도 쓸모 있게 만들 수 있어요. 플로우(flow)에 들어가는 건 적어도 일부는 기계(예: AI)가 맡아줄 수 있고, 기계가 맥락을 상기시켜주거나 시스템 다이어그램(system diagrams)을 만들어줘서 다시 플로우로 돌아가게 도와줄 수 있으니까요.",
-    "text_zh": "这里真的有很大机会，不只是重新考虑工作流程，而是重新思考我们怎么安排一天的时间，怎么组织工作。现在我们也能让45分钟的工作时间块变得很有用，因为进入心流状态(flow state)这件事其实可以部分交给机器来处理，或者说机器可以帮我们重新进入状态——比如提醒我们上下文，生成系统图表什么的。",
-    "text_es": "Ahí hay una oportunidad real de no solo repensar los flujos de trabajo (workflows), sino también repensar cómo estructuramos nuestros días y cómo organizamos nuestro trabajo. Ahora también podemos hacer que un bloque de 45 minutos de trabajo sea útil porque entrar en el flujo (flow) se puede delegar, al menos en parte, a la máquina, o la máquina nos puede ayudar a recuperar ese flujo recordándonos el contexto y generando diagramas del sistema.",
+    "text_ko": "단순히 워크플로(workflows)를 재고하는 데 그치지 않고, 하루 일과를 어떻게 짜고 업무를 어떻게 구성할지 다시 생각해볼 수 있는 진짜 기회가 있어요.",
+    "text_zh": "这是个真正的机会，不只是重新思考工作流程，更是重新规划我们每天的安排和工作组织方式。",
+    "text_es": "Hay una oportunidad real, no solo para repensar los flujos de trabajo (workflows), sino también para repensar cómo organizamos nuestras jornadas y nuestro trabajo.",
     "key_sentence": "There's some real opportunity there to not just rethink workflows, but rethink how we structure our days and how we structure our work.",
     "text_trimmed": true,
     "original_text": "There's some real opportunity there to not just rethink workflows, but rethink how we structure our days and how we structure our work. Now, we can also make a 45-minute work block useful because getting into the flow is actually kind of handed off, at least, in part to the machine or the machine can help us get back into the flow by, reminding us of context and generating diagrams of the system.",
@@ -339,7 +267,8 @@
           "inefficiency"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "Honestly, I think the best thing you can do is go talk to people and listen. I love that the audience of this podcast is primarily PMs because they tend to be really good at this.",
@@ -347,10 +276,7 @@
     "timestamp": "00:22:21",
     "context": "Lenny asks Nicole for one practical thing that engineering or product teams can do immediately to improve their developer experience and get more done. Nicole emphasizes that the most effective starting point isn't implementing new tools or automation, but rather conducting a listening tour with developers to understand their actual pain points and friction areas in their daily work.",
     "vocabulary_highlights": [
-      "audience",
-      "effective",
-      "improve",
-      "experience"
+      "audience"
     ],
     "topics": [
       "Communication Skills",
@@ -363,9 +289,9 @@
       "Engineering Leadership",
       "Product Management"
     ],
-    "text_ko": "솔직히 말하면, 가장 좋은 건 사람들을 직접 만나서 얘기하고 귀 기울이는 거예요. 이 팟캐스트 청중이 주로 프로덕트 매니저(PM)분들이라는 게 마음에 들어요 — 보통 이걸 잘하거든요. 그리고 저는 도구나 자동화부터 시작하지 말고 일단 듣는 것부터 시작하라고 권해요.",
-    "text_zh": "说实话，我觉得最好的办法就是去跟人聊，多听听。我特别喜欢这个播客的听众主要都是PM，因为他们在这方面通常很在行。我建议先从倾听开始，别一上来就想着用什么工具和自动化。",
-    "text_es": "La verdad, creo que lo mejor que puedes hacer es ir a hablar con la gente y escuchar. Me encanta que la audiencia de este podcast sean principalmente PMs porque suelen ser muy buenos en esto. Y yo diría que empieces por escuchar, no por las herramientas y la automatización.",
+    "text_ko": "솔직히 저는 제일 좋은 건 사람들 만나서 얘기하고 귀 기울이는 거라고 생각해요. 이 팟캐스트 청중이 주로 프로덕트 매니저(Product Manager)인 게 참 마음에 들어요 — 그분들이 이런 걸 잘하니까요.",
+    "text_zh": "说实话，我觉得你最该做的就是多去跟别人聊聊，认真听他们说。我很喜欢这个播客的听众主要是产品经理(PMs)，因为他们通常很擅长这点。",
+    "text_es": "Sinceramente, creo que lo mejor que puedes hacer es salir a hablar con la gente y, sobre todo, escuchar. Me encanta que la audiencia de este podcast esté formada principalmente por responsables de producto (PMs), porque se les da muy bien.",
     "key_sentence": "the best thing you can do is go talk to people and listen.",
     "text_trimmed": true,
     "original_text": "Honestly, I think the best thing you can do is go talk to people and listen. I love that the audience of this podcast is primarily PMs because they tend to be really good at this. And I would say start with listening and not with tools and automation.",
@@ -384,50 +310,10 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "effective",
-        "definition": "Producing a desired or intended result; successful in achieving a goal.",
-        "businessContext": "In business, an effective strategy or tool is one that successfully meets objectives, whether in marketing, management, or operations.",
-        "nuance": "The term 'effective' often implies not just success, but efficiency and appropriateness in achieving specific outcomes.",
-        "synonyms": [
-          "efficient",
-          "successful"
-        ],
-        "antonyms": [
-          "ineffective",
-          "inefficient"
-        ]
-      },
-      {
-        "word": "improve",
-        "definition": "To make or become better; to enhance the quality, value, or effectiveness of something.",
-        "businessContext": "Continuous improvement is a key principle in business practices, focusing on optimizing processes, products, and services to increase competitiveness.",
-        "nuance": "While 'improve' suggests positive change, it is important to specify the area of improvement to avoid ambiguity.",
-        "synonyms": [
-          "enhance",
-          "upgrade"
-        ],
-        "antonyms": [
-          "deteriorate",
-          "decline"
-        ]
-      },
-      {
-        "word": "experience",
-        "definition": "The knowledge or skill acquired by a person through practical involvement in a particular activity or field over time.",
-        "businessContext": "In a business context, experience is often valued as it can lead to better decision-making, innovation, and leadership capabilities.",
-        "nuance": "The term can refer to both personal experiences and collective organizational experiences, with a focus on learning and growth.",
-        "synonyms": [
-          "expertise",
-          "background"
-        ],
-        "antonyms": [
-          "inexperience",
-          "novice"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Most teams can move faster, right? Also, given what we know about cognitive load, not all speed gains are necessarily good.",
@@ -450,9 +336,9 @@
       "Engineering Leadership",
       "Product Management"
     ],
-    "text_ko": "대부분 팀은 더 빨리 움직일 수 있어요, 그렇죠? 또 인지 부하(cognitive load)에 대해 우리가 아는 걸 감안하면, 속도를 올린다고 해서 다 좋은 건 아니에요. 어떤 한계점에 이르면 얻을 수 있는 이득이 제한될 텐데, 대부분 사람들은 그 지점에조차 못 미쳐요.",
-    "text_zh": "大部分团队都能提速，对吧？不过从认知负荷(cognitive load)的角度来看，提速也不见得都是好事。到了某个节点之后，收益其实就很有限了，而且大多数人连那个节点都还没碰到呢。",
-    "text_es": "La mayoría de los equipos pueden ir más rápido, ¿no? Pero también, con lo que sabemos sobre la carga cognitiva (cognitive load), no todas las mejoras de velocidad son necesariamente buenas. O sea, los beneficios van a ser medio limitados una vez que llegas a cierto punto, y la mayoría de la gente ni siquiera está cerca de ese punto.",
+    "text_ko": "대부분의 팀은 더 빨리 움직일 수 있죠? 인지 부하(cognitive load)에 대해 우리가 아는 걸 감안하면, 모든 속도 향상이 꼭 좋은 건 아니에요.",
+    "text_zh": "大多数团队都能提速，是吧？不过，考虑到我们对认知负荷(cognitive load)的理解，提速并不一定全是好事。",
+    "text_es": "La mayoría de los equipos pueden ir más rápido, ¿no? Pero, con lo que sabemos sobre la carga cognitiva (cognitive load), no todas las mejoras de velocidad son necesariamente buenas.",
     "key_sentence": "Not all speed gains are good given cognitive load; the upside is limited.",
     "text_trimmed": true,
     "original_text": "Most teams can move faster, right? Also, given what we know about cognitive load, not all speed gains are necessarily good. Or the upside is going to be kind of limited once you hit kind of a certain point, and most people are not even near that point.",
@@ -514,6 +400,7 @@
           "delay"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   }
 ]

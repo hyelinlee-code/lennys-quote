@@ -4,12 +4,7 @@
     "speaker": "Josh Miller",
     "timestamp": "00:00:00",
     "context": "Lenny asks Josh about The Browser Company's hiring philosophy and what makes their team culture unique. Josh explains their core company value of hiring people with 'heartfelt intensity' - meaning they want team members who arrive with genuine passion and something specific they want to prove or accomplish, whether that's perfecting UI details or optimizing engineering performance.",
-    "vocabulary_highlights": [
-      "hiring philosophy",
-      "company value",
-      "heartfelt intensity",
-      "team culture"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Leadership & Management",
       "Coaching & Development"
@@ -21,71 +16,16 @@
       "Product Management",
       "Team Building"
     ],
-    "text_ko": "우리는 우리 회사에 들어올 사람들이 가슴 속에 불꽃 같은 열정, 뭔가 해내고자 하는 목표를 가지고 있기를 원해요. 사람마다 그게 조금씩 달라요. 어떤 사람에게는 UI 디테일(UI Craft)이 그럴 수 있고, 어떤 사람에게는 엔지니어링 인력수(engineering headcount)의 4분의 1로 성능을 두 배로 끌어올리는 것이 그럴 수 있어요. 모두 각자 그런 게 하나씩 있고, 그런 진심에서 우러나는 강한 열정을 안고 와요.",
-    "text_zh": "我们希望招到那种有冲劲儿、有想法的人，来了就想干点什么事儿的。每个人的点不一样，有些人可能特别在意UI设计的细节，有些人可能想用四分之一的工程师人手做出双倍的性能。反正每个人都有自己的那个劲儿，但都是带着那种发自内心的热情来的。",
-    "text_es": "Buscamos gente que llegue a nuestra empresa con ganas de comerse el mundo, con algo que realmente quieren lograr. Y para cada persona es algo distinto. Para algunos puede ser perfeccionar cada detalle del UI. Para otros, puede ser lograr el doble de rendimiento con la cuarta parte del equipo de ingenieros. Cada quien tiene su cosa, pero llegan con esa intensidad que se siente de verdad, que les sale del corazón.",
+    "text_ko": "우리는 우리 회사에 열정이 있고, 뭔가 해내려는 목표를 가진 사람들이 오길 원해요. 사람마다 그 목표는 조금씩 다른데, 어떤 사람에게는 UI 세부 사항(UI craft details)을 중요하게 여길 수도 있어요.",
+    "text_zh": "我们希望来公司的人带着一股冲劲，心里有件事想去做。每个人都不太一样——有的人可能就是特别在意界面细节(UI Craft)。",
+    "text_es": "Queremos gente que llegue a nuestra empresa con algo de fuego en la barriga, con algo que realmente quieran lograr. Y para cada uno es un poco distinto: para algunos puede ser cuidar los detalles de la interfaz de usuario (UI Craft).",
     "key_sentence": "We want people with fire in their belly and heartfelt intensity.",
     "text_trimmed": true,
     "original_text": "We want people that show up to our company with some fire in their belly, something that they are out to do. And for each person it's a little bit different. For some people it may be UI Craft details. For other people, it may be achieving double the performance with a quarter of the engineering headcount. Everyone has something, but they show up with this heartfelt intensity.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "hiring philosophy",
-        "definition": "A hiring philosophy is a set of guiding principles that inform how an organization approaches the recruitment and selection of employees. It reflects the values and priorities of the company in terms of talent acquisition.",
-        "businessContext": "In business, a hiring philosophy shapes the recruitment strategy, influencing decisions on candidate qualifications, cultural fit, and diversity. It helps ensure that new hires align with the company's long-term goals and culture.",
-        "nuance": "This term often implies a strategic and thoughtful approach to hiring, rather than a purely transactional process.",
-        "synonyms": [
-          "recruitment strategy",
-          "talent acquisition approach"
-        ],
-        "antonyms": [
-          "haphazard hiring",
-          "random selection"
-        ]
-      },
-      {
-        "word": "company value",
-        "definition": "Company values are the core principles and beliefs that guide an organization's actions, decisions, and culture. They serve as a foundation for the company's identity and mission.",
-        "businessContext": "In the business world, company values are crucial for establishing a strong corporate culture and can influence employee behavior, customer relationships, and brand reputation.",
-        "nuance": "While often used in a formal context, discussing company values can also evoke emotional connections among employees and stakeholders.",
-        "synonyms": [
-          "core principles",
-          "organizational beliefs"
-        ],
-        "antonyms": [
-          "company vice",
-          "moral ambiguity"
-        ]
-      },
-      {
-        "word": "heartfelt intensity",
-        "definition": "Heartfelt intensity refers to a deep and genuine passion or enthusiasm for one's work or mission. It conveys a strong emotional commitment to achieving goals.",
-        "businessContext": "In a business context, heartfelt intensity can be a desirable trait in employees, as it often leads to higher motivation, creativity, and productivity, particularly in startup environments.",
-        "nuance": "This phrase carries a positive connotation, suggesting authenticity and dedication, and is often used to inspire or motivate teams.",
-        "synonyms": [
-          "genuine passion",
-          "deep commitment"
-        ],
-        "antonyms": [
-          "indifference",
-          "apathy"
-        ]
-      },
-      {
-        "word": "team culture",
-        "definition": "Team culture refers to the shared values, beliefs, and behaviors that shape how members of a team interact and work together. It influences collaboration, communication, and overall team dynamics.",
-        "businessContext": "In business settings, a strong team culture can enhance productivity, improve morale, and foster innovation, making it a critical factor for successful project outcomes.",
-        "nuance": "While often discussed in terms of positivity and support, team culture can also highlight potential conflicts or challenges within a group.",
-        "synonyms": [
-          "team dynamics",
-          "group ethos"
-        ],
-        "antonyms": [
-          "toxic environment",
-          "disjointed team"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "What we do at The Browser Company is we talk about optimizing feelings. How do we want to make someone feel on the other end of our software? Do we want to make them feel joy? Do we want to make them feel fast?",
@@ -93,10 +33,7 @@
     "timestamp": "00:10:36",
     "context": "Lenny asks Josh about his product building philosophy being a reaction to traditional Silicon Valley approaches. Josh explains that while most tech companies obsess over metrics and graphs, The Browser Company focuses on 'optimizing feelings' - deliberately considering what emotions they want to evoke in users through their software, whether it's joy, speed, organization, or focus.",
     "vocabulary_highlights": [
-      "optimizing",
-      "philosophy",
-      "metrics",
-      "traditional"
+      "optimizing"
     ],
     "topics": [
       "Product Management",
@@ -109,9 +46,9 @@
       "Product Management",
       "Team Building"
     ],
-    "text_ko": "저희 The Browser Company에서는 감정 최적화(optimizing feelings)에 대해 이야기해요. 우리 소프트웨어를 사용하는 사람들에게 어떤 기분을 느끼게 하고 싶을까요? 기쁨을 느끼게 하고 싶나요? 빠르다고 느끼게 하고 싶나요? 정돈된 느낌을 주고 싶나요? 집중할 수 있게 하고 싶나요? 특정 프로젝트나 특정 기능, 혹은 한 편의 스토리텔링 콘텐츠에서 우리가 불러일으키려는 감정이 무엇인지 묻는 거예요.",
-    "text_zh": "我们Browser Company做的事情就是，我们会讲怎么去优化用户的感受。就是说，我们希望用我们软件的人能有什么样的感觉？我们是想让他们感到开心吗？还是想让他们觉得很快很流畅？或者是让他们觉得井井有条？还是让他们觉得很专注？就是说，不管我们在做某个具体项目，还是某个功能，或者某个内容的时候，我们到底想要唤起用户什么样的感觉？",
-    "text_es": "En The Browser Company lo que hacemos es hablar de optimizar emociones. ¿Cómo queremos que se sienta la persona que está del otro lado usando nuestro software? ¿Queremos que sienta alegría? ¿Queremos que se sienta ágil? ¿Queremos que se sienta organizada? ¿Queremos que se sienta enfocada? ¿Cuál es esa emoción que tratamos de despertar en lo que sea que estemos haciendo - ya sea en un proyecto específico, una funcionalidad específica, o un contenido específico para contar nuestra historia?",
+    "text_ko": "우리가 The Browser Company에서 하는 일은 감정 최적화(optimizing feelings)에 대해 이야기하는 거예요. 우리 소프트웨어를 사용하는 사람에게 어떤 기분을 느끼게 하고 싶을까요? 기쁨을 느끼게 하고 싶나요, 아니면 '빠르다'는 느낌을 주고 싶나요?",
+    "text_zh": "我们在 The Browser Company 做的，是讨论如何优化用户的感受。我们想让用我们软件的人有什么感觉？是想让他们开心，还是让他们觉得很快？",
+    "text_es": "En The Browser Company nos ocupamos de optimizar cómo se siente la gente (optimizing feelings). ¿Cómo queremos que se sienta la persona al otro lado de nuestro software? ¿Queremos que sienta alegría? ¿Que perciba rapidez (feel fast)?",
     "key_sentence": "How do we want to make someone feel on the other end of our software?",
     "text_trimmed": true,
     "original_text": "What we do at The Browser Company is we talk about optimizing feelings. How do we want to make someone feel on the other end of our software? Do we want to make them feel joy? Do we want to make them feel fast? Do we want to make them feel organized? Do we want to make them feel focused? What is it the feeling we are trying to evoke in whatever we're doing on a specific project, or a specific feature, or a specific piece of storytelling content?",
@@ -130,50 +67,10 @@
           "deteriorating",
           "worsening"
         ]
-      },
-      {
-        "word": "philosophy",
-        "definition": "A set of beliefs or principles that guide behavior and decision-making.",
-        "businessContext": "In a business context, philosophy can refer to the foundational values and guiding principles that shape a company's culture and strategic direction.",
-        "nuance": "The term often carries a deeper, more reflective connotation, suggesting a thoughtful approach to understanding and addressing complex issues.",
-        "synonyms": [
-          "principle",
-          "doctrine"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "metrics",
-        "definition": "Quantitative measures used to assess performance, progress, or success.",
-        "businessContext": "In business and technology, metrics are crucial for evaluating the effectiveness of strategies, products, and services, often driving data-informed decision-making.",
-        "nuance": "While metrics provide valuable insights, over-reliance on them can lead to a narrow focus, potentially overlooking qualitative factors.",
-        "synonyms": [
-          "measurements",
-          "indicators"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "traditional",
-        "definition": "Relating to long-established customs, practices, or methods.",
-        "businessContext": "In the business world, traditional approaches may refer to established practices that contrast with innovative or modern strategies, often influencing organizational culture and decision-making.",
-        "nuance": "The term can carry a positive connotation of reliability, but may also imply resistance to change or innovation.",
-        "synonyms": [
-          "conventional",
-          "classical"
-        ],
-        "antonyms": [
-          "modern",
-          "innovative"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think sometimes we just forget that whoever your buyer is, or whatever your business objective, at the end of the day we're a bunch of people in a bunch of rooms at the other side of these screens.",
@@ -181,10 +78,7 @@
     "timestamp": "00:14:42",
     "context": "Lenny challenges Josh on how to operationalize the 'optimize for feelings' approach when companies still need to hit business goals and metrics. Josh responds by emphasizing that regardless of whether you're building consumer or enterprise software, there are real humans behind every transaction who experience emotions, and considering those human feelings often aligns well with business metrics.",
     "vocabulary_highlights": [
-      "business objective",
-      "optimize",
-      "metrics",
-      "operationalize"
+      "business objective"
     ],
     "topics": [
       "Product Management",
@@ -197,9 +91,9 @@
       "Product Management",
       "Team Building"
     ],
-    "text_ko": "가끔은 우리가 누가 당신의 구매자든, 사업 목표가 뭐든 결국 이 화면 저편에는 여러 방에 앉아 있는 사람들일 뿐이라는 걸 잊곤 해요. 그 사람을 그냥 한 사람으로 생각해 보면, 구매자일 수도 있고 고객일 수도 있어요.",
-    "text_zh": "我觉得有时候我们会忘记，不管你的买家是谁，不管你的商业目标是什么，说到底屏幕另一边坐在那些房间里的都是活生生的人。想想那个人，可能是买家，也可能是客户。",
-    "text_es": "Creo que a veces se nos olvida que no importa quién sea tu comprador o cuál sea tu objetivo de negocio, al final del día somos un montón de personas en un montón de oficinas del otro lado de estas pantallas. Y hay que pensar en esa persona, puede ser un comprador, puede ser un cliente.",
+    "text_ko": "가끔은 그냥 잊어버리곤 해요. 구매자가 누구든, 사업 목표가 뭐든 결국 이 화면 저편에는 각자 다른 방에 있는 사람들일 뿐이에요.",
+    "text_zh": "我觉得有时候我们会忘了，不管买家是谁，或者你的商业目标是什么，说到底这些屏幕那头都是一群人在各自的房间里。",
+    "text_es": "Creo que a veces se nos olvida que, sea quien sea tu comprador (buyer) o cual sea tu objetivo de negocio, al final del día somos simplemente un grupo de personas en distintas salas al otro lado de estas pantallas.",
     "key_sentence": "At the end of the day, we are just people behind screens.",
     "text_trimmed": true,
     "original_text": "I think sometimes we just forget that whoever your buyer is, or whatever your business objective, at the end of the day we're a bunch of people in a bunch of rooms at the other side of these screens. And just thinking about that person, it could be a buyer, it could be a customer.",
@@ -218,50 +112,10 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "optimize",
-        "definition": "To make the best or most effective use of resources, processes, or systems to achieve desired outcomes.",
-        "businessContext": "In the context of business and technology, optimization often refers to improving efficiency, reducing costs, or enhancing performance metrics to maximize profitability.",
-        "nuance": "The term carries a connotation of continuous improvement and may imply a systematic approach to problem-solving rather than a one-time fix.",
-        "synonyms": [
-          "enhance",
-          "refine"
-        ],
-        "antonyms": [
-          "deteriorate",
-          "worsen"
-        ]
-      },
-      {
-        "word": "metrics",
-        "definition": "Quantitative measures used to assess, compare, and track performance or progress towards specific objectives.",
-        "businessContext": "In business and tech environments, metrics are crucial for evaluating success, guiding strategic decisions, and providing insights into operational effectiveness.",
-        "nuance": "While 'metrics' often refers to numerical data, it can also encompass qualitative measures; however, clarity in what is being measured is essential.",
-        "synonyms": [
-          "measurements",
-          "indicators"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "operationalize",
-        "definition": "To put a plan, idea, or concept into practical operation or use, often by defining specific procedures and actions.",
-        "businessContext": "In business contexts, operationalizing a strategy involves translating theoretical frameworks into actionable steps that can be implemented across teams or departments.",
-        "nuance": "This term is often used in strategic planning and project management, and may imply a level of complexity in ensuring that all elements are effectively integrated into daily operations.",
-        "synonyms": [
-          "implement",
-          "execute"
-        ],
-        "antonyms": [
-          "abandon",
-          "neglect"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "If you have a team that has heartfelt intensity and is there for a purpose and something to prove, you give them a very exciting, ambitious product and get out of their way and they will do remarkable work.",
@@ -356,9 +210,7 @@
     "context": "Lenny asks Josh to elaborate on The Browser Company's values and how they contribute to fast shipping. Josh explains their second core value 'assume you don't know,' which promotes a beginner's mindset even among experts. He uses the example of their team member who created Chrome but still approaches new problems with fresh perspective and curiosity.",
     "vocabulary_highlights": [
       "assume",
-      "subject matter expert",
-      "core value",
-      "beginner's mindset"
+      "subject matter expert"
     ],
     "topics": [
       "Learning & Growth",
@@ -371,9 +223,9 @@
       "Product Management",
       "Team Building"
     ],
-    "text_ko": "우리의 두 번째 가치는 '모른다고 가정하기'예요. 모른다고 가정해요. 이 '모른다고 가정하기'라는 가치는 설령 당신이 주제 전문가(subject matter expert)라도 똑같이 적용돼요. 우리 회사에는 실제로 크롬(Chrome) 최초 버전을 만들고 16년 동안 운영했던 사람이 있어요. 그런데 그 사람은 누구보다도 '어떻게 작동해야 할지, 무슨 일이 일어날지 전혀 모른다'는 초심자 마인드(beginner's mind)를 몸에 지니고 있어요.",
-    "text_zh": "我们的第二个价值观是假设你什么都不懂。就是假设你什么都不懂。这个\"假设你什么都不懂\"的价值观，哪怕你是某个领域的专家也要这样。我们公司有个人，他亲手打造了Chrome的第一版，而且管了16年。但就是他，比谁都体现了这种初学者心态(beginner's mind)——\"我压根不知道这玩意儿该怎么运作，也不知道会发生什么。\"",
-    "text_es": "Nuestro segundo valor es asumir que no sabes. Asumir que no sabes. Y este valor de \"asumir que no sabes\" significa que, incluso si eres un experto en el tema. Tenemos a alguien en nuestra empresa que literalmente construyó la primera versión de Chrome y la dirigió durante 16 años. Pero él más que nadie encarna esta mentalidad de principiante de \"no tengo ni idea de cómo debería funcionar esto o qué va a pasar.\"",
+    "text_ko": "우리의 두 번째 가치는 '모른다고 가정하라'(assume you don't know)예요. 모른다고 가정하세요. 그리고 이 '모른다고 가정하라'(assume you don't know)의 가치는 설령 여러분이 해당 분야의 전문가여도 마찬가지예요.",
+    "text_zh": "我们的第二项价值观是：先假设自己不知道。先假设自己不知道——就算你是这个领域的专家，也要保持这种心态。",
+    "text_es": "Nuestro segundo valor es asumir que no lo sabes. Asume que no lo sabes. Y ese valor —asumir que no lo sabes— aplica incluso si eres un experto en la materia (subject matter expert).",
     "key_sentence": "Assume you don't know, even as a subject matter expert, to embody a beginner's mind.",
     "text_trimmed": true,
     "original_text": "Our second value is assume you don't know. Assume you don't know. And the value 'assume you don't know' is, even if you're a subject matter expert. We have someone in our company that literally built the first version of Chrome and ran it for 16 years. But he more than anyone embodies this beginner's mind of, 'I have no idea how this should work or what will happen.'",
@@ -406,36 +258,10 @@
           "novice",
           "amateur"
         ]
-      },
-      {
-        "word": "core value",
-        "definition": "Fundamental beliefs or principles that guide an organization's actions and decision-making.",
-        "businessContext": "Core values are essential in shaping company culture and aligning employees towards common goals, often reflected in mission statements and strategic initiatives.",
-        "nuance": "Core values should resonate deeply within the organization and be consistently demonstrated in behavior and practices, rather than just being theoretical ideals.",
-        "synonyms": [
-          "fundamental principle",
-          "guiding belief"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "beginner's mindset",
-        "definition": "An approach characterized by openness, eagerness to learn, and a lack of preconceptions, regardless of one's level of expertise.",
-        "businessContext": "In innovative environments, adopting a beginner's mindset can foster creativity and encourage team members to explore new ideas without fear of failure.",
-        "nuance": "While it is important to leverage expertise, maintaining a beginner's mindset allows for continuous growth and adaptability in a rapidly changing business landscape.",
-        "synonyms": [
-          "open-mindedness",
-          "fresh perspective"
-        ],
-        "antonyms": [
-          "closed-mindedness",
-          "complacency"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "What we say is, we want people that show up to our company with some fire in their belly, something that they are out to do. And for each person it's a little bit different.",
@@ -443,8 +269,6 @@
     "timestamp": "00:20:11",
     "context": "Lenny asks Josh about what enables The Browser Company to ship so quickly and effectively, referencing Scott Belsky's observation about their execution speed. Josh explains their hiring philosophy, emphasizing they look for people with 'heartfelt intensity' - genuine passion and drive to excel in their particular area, whether that's design details or engineering optimization.",
     "vocabulary_highlights": [
-      "hiring philosophy",
-      "execution speed",
       "show up",
       "fire in their belly"
     ],
@@ -459,42 +283,14 @@
       "Product Management",
       "Team Building"
     ],
-    "text_ko": "저희가 말하는 건, 뭔가 해내겠다는 불타는 열정을 가지고 우리 회사에 오는 사람들을 원해요. 사람마다 그 목적은 조금씩 달라요. 어떤 사람에게는 UI 디테일(UI Craft)이 중요할 수 있고, 또 다른 사람에게는 엔지니어 수(engineering head count)의 1/4로 성능을 두 배로 올리는 일이 될 수도 있어요.",
-    "text_zh": "我们的想法是这样的，我们希望来公司的人都有那种干劲儿，都有自己想要做成的事情。每个人的追求不太一样，有些人可能就是想把UI细节打磨到极致，有些人可能想用四分之一的工程师人数做出双倍的性能表现。",
-    "text_es": "Lo que nosotros decimos es que queremos gente que llegue a nuestra empresa con ganas de comerse el mundo, con algo que realmente quieren lograr. Y para cada persona es un poco diferente. Para algunos puede ser los detalles del diseño de interfaz (UI craft), para otros puede ser lograr el doble de rendimiento con la cuarta parte del equipo de ingeniería.",
+    "text_ko": "저희는 회사에 합류할 때 가슴 속에 불꽃 같은 열정과 무언가를 이루려는 의지를 가진 분들을 원해요. 그리고 그 불꽃은 사람마다 조금씩 달라요.",
+    "text_zh": "我们希望来公司的人带着冲劲，心里有件想做的事——不过每个人都不太一样。",
+    "text_es": "Lo que decimos es que queremos personas que lleguen a nuestra empresa con fuego en la barriga, con algo que quieran lograr. Y para cada persona es un poco diferente.",
     "key_sentence": "We seek people with fire in their belly, each out to do something different.",
     "text_trimmed": true,
     "original_text": "What we say is, we want people that show up to our company with some fire in their belly, something that they are out to do. And for each person it's a little bit different. For some people it may be UI Craft details, for other people it may be achieving double the performance with a quarter of the engineering head count.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "hiring philosophy",
-        "definition": "A hiring philosophy is a set of guiding principles and beliefs that inform an organization's approach to recruiting and selecting employees.",
-        "businessContext": "In business settings, a hiring philosophy shapes the criteria for candidate evaluation and influences the overall culture of the workplace.",
-        "nuance": "This term often reflects the values and priorities of a company, making it important to align hiring practices with organizational goals.",
-        "synonyms": [
-          "recruitment strategy",
-          "talent acquisition philosophy"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "execution speed",
-        "definition": "Execution speed refers to the rate at which a plan or strategy is implemented and actions are taken to achieve business objectives.",
-        "businessContext": "In fast-paced industries, such as tech and startups, execution speed is critical for maintaining competitive advantage and responding to market changes.",
-        "nuance": "While high execution speed is often valued, it should not compromise the quality of work or decision-making processes.",
-        "synonyms": [
-          "implementation pace",
-          "operational velocity"
-        ],
-        "antonyms": [
-          "delayed execution",
-          "slow implementation"
-        ]
-      },
       {
         "word": "show up",
         "definition": "To 'show up' means to arrive or present oneself at a particular place or event, often implying active participation or engagement.",
@@ -523,6 +319,8 @@
           "indifference"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

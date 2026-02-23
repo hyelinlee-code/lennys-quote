@@ -7,7 +7,6 @@
     "vocabulary_highlights": [
       "business impact",
       "opportunities",
-      "strategic",
       "function"
     ],
     "topics": [
@@ -21,9 +20,9 @@
       "Metrics Definition",
       "Business Impact Analysis"
     ],
-    "text_ko": "저한텐 애널리틱스(analytics)가 단순한 서비스 기능이 아니라 비즈니스 임팩트를 만들어내는 역할이에요. 단지 '왜 그랬는지'를 설명해주는 데 그치지 않고, '이걸 알게 됐으니 이제 우리가 뭘 해야 하나요?'에 답할 수 있어야 해요. 기회를 찾아내고 우리가 내려야 할 결정에 대해 관점을 갖는 거예요. '왜'를 넘어 '그게 그래서 무슨 의미인지(so what)?'와 '이걸 알았으니 이제 우리가 뭘 할 건가요?'까지 말해주는 거예요.",
-    "text_zh": "在我看来，数据分析(analytics)不只是个服务部门，而是能直接推动业务成果的核心职能。我们不能只回答\"为什么\"，更要回答\"知道了这个，我们接下来该怎么办？\"对我来说，关键是发现机会，对我们应该做什么决策提出自己的观点和建议。不只是解释原因，更要回答\"然后呢？知道了这些信息，我们具体该采取什么行动？\"",
-    "text_es": "Para mí, la analítica es una función que realmente impulsa el impacto en el negocio, no es solo una función de servicio que responde el porqué de las cosas, sino que también responde: \"¿Y ahora qué hacemos con esta información?\" Se trata de identificar oportunidades, de tener una posición clara sobre las decisiones que deberíamos tomar, no solo explicar el porqué sino también el \"¿y qué?\" O sea, \"¿qué hacemos ahora que sabemos esto?\"",
+    "text_ko": "애널리틱스(Analytics)는 비즈니스 임팩트를 만들어내는 역할이에요. 단순히 '왜(why)'만 답하는 게 아니라, '이걸 알게 된 지금 우리가 무엇을 할 건가(What do we do now that we know this?)?'까지 답해야 해요. 결국 기회를 찾아내는 것이고, '그래서 그게 우리에게 어떤 의미인가(so what)?'에 답하는 일이에요.",
+    "text_zh": "数据分析(Analytics)应该是能推动业务、产生实际影响的职能，不只是解释“为什么”，更要回答“既然知道了，我们接下来该做什么？”重点是发现机会，把分析结果变成对业务有用的行动，而不是只停留在讲原因。",
+    "text_es": "Analítica (Analytics) es una función que impulsa el negocio... no se trata solo de responder el 'por qué', sino de responder: '¿qué hacemos ahora que lo sabemos?'. Se trata de detectar oportunidades... no basta con explicar el 'por qué'; hay que responder al '¿y qué?'.",
     "key_sentence": "Analytics is a business impact driving function, answering 'What do we do now?'.",
     "text_trimmed": true,
     "original_text": "For me, analytics is a business impact driving function and not purely a service function, not just answering the why, but answering the, 'What do we do now that we know this?' For me, it's about finding opportunities, about having a point of view on the decisions that we should make, not just answering the why but answering the so what. 'So what do we do now that we know this?'",
@@ -58,20 +57,6 @@
         ]
       },
       {
-        "word": "strategic",
-        "definition": "Relating to the identification of long-term or overall aims and interests and the means of achieving them.",
-        "businessContext": "In business, strategic planning involves setting goals and determining actions to achieve them, often requiring analysis of competitive environments and resource allocation.",
-        "nuance": "This term is often used to denote a high-level perspective, distinguishing it from tactical, which refers to short-term actions.",
-        "synonyms": [
-          "tactical",
-          "calculated"
-        ],
-        "antonyms": [
-          "haphazard",
-          "random"
-        ]
-      },
-      {
         "word": "function",
         "definition": "The specific role or activity that a person, department, or system performs within an organization.",
         "businessContext": "In business, understanding the function of various teams or processes is vital for ensuring effective collaboration and operational efficiency.",
@@ -85,7 +70,9 @@
           "inactivity"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Retention is a terrible thing to goal on. It's almost impossible to drive in a meaningful way in a short term. Ultimately, you want to find a short-term metric you can measure that drives a long-term output.",
@@ -95,8 +82,7 @@
     "vocabulary_highlights": [
       "retention",
       "metric",
-      "meaningful",
-      "aligning"
+      "meaningful"
     ],
     "topics": [
       "Strategy & Planning",
@@ -156,22 +142,9 @@
           "trivial",
           "insignificant"
         ]
-      },
-      {
-        "word": "aligning",
-        "definition": "Aligning refers to the process of bringing different elements into agreement or harmony to achieve a common goal.",
-        "businessContext": "In organizations, aligning teams, strategies, and objectives is crucial for ensuring that all efforts are directed towards shared outcomes, enhancing efficiency and collaboration.",
-        "nuance": "While aligning is generally positive, it can also imply a need for compromise, which may not always be desirable in every situation.",
-        "synonyms": [
-          "coordinating",
-          "harmonizing"
-        ],
-        "antonyms": [
-          "diverging",
-          "conflicting"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "Yes, you are a data scientist, but your goal is to figure out what's happening. And if that means that you're going to pick up the phone and call customers, then that is what you're going to do to roll up your sleeves.",
@@ -179,8 +152,6 @@
     "timestamp": "00:00:32",
     "context": "Lenny asks Jessica about creating extreme ownership within teams, referencing the early DoorDash culture. Jessica explains her expectation that team members should take complete ownership of outcomes rather than staying within traditional role boundaries. She describes how data scientists on her team will do whatever is necessary to solve problems, including qualitative research like customer calls when quantitative data isn't sufficient to understand issues.",
     "vocabulary_highlights": [
-      "extreme ownership",
-      "take ownership",
       "roll up your sleeves",
       "figure out"
     ],
@@ -201,34 +172,6 @@
     "key_sentence": "Data scientists must roll up their sleeves to understand what's happening.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "extreme ownership",
-        "definition": "A leadership philosophy that emphasizes taking full responsibility for one's actions and their outcomes, regardless of external factors.",
-        "businessContext": "In business, extreme ownership is often applied in management and team dynamics, encouraging leaders to foster accountability and transparency within their teams.",
-        "nuance": "This term carries a strong connotation of proactive leadership and integrity, and is best used in discussions about accountability and team culture.",
-        "synonyms": [
-          "total accountability",
-          "full responsibility"
-        ],
-        "antonyms": [
-          "blame shifting",
-          "irresponsibility"
-        ]
-      },
-      {
-        "word": "take ownership",
-        "definition": "To assume responsibility for a task, project, or outcome, demonstrating commitment and accountability.",
-        "businessContext": "In a corporate environment, taking ownership is crucial for fostering a culture of accountability and encouraging employees to take initiative in their roles.",
-        "nuance": "This phrase is often used to inspire proactive behavior in employees, but can imply a negative connotation if used in a context of blame.",
-        "synonyms": [
-          "accept responsibility",
-          "be accountable"
-        ],
-        "antonyms": [
-          "avoid responsibility",
-          "pass the buck"
-        ]
-      },
       {
         "word": "roll up your sleeves",
         "definition": "To prepare to engage in hard work or to become actively involved in a task, often implying a hands-on approach.",
@@ -257,7 +200,8 @@
           "misunderstand"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I became a data scientist out of necessity.",
@@ -265,10 +209,7 @@
     "timestamp": "00:29:24",
     "context": "Lenny notes that Jessica doesn't have a traditional data science background, having previously had an art portfolio and worked in investment banking. Jessica explains how she transitioned into data science by teaching herself technical skills out of business necessity at DoorDash. She acknowledges that she jokes about having a job she'd never be hired for today due to her non-traditional background, but that Tony Xu recognized her capabilities despite her lack of formal training.",
     "vocabulary_highlights": [
-      "necessity",
-      "transitioned",
-      "portfolio",
-      "background"
+      "necessity"
     ],
     "topics": [
       "Career Development",
@@ -281,9 +222,9 @@
       "Metrics Definition",
       "Business Impact Analysis"
     ],
-    "text_ko": "저는 필요 때문에 데이터 사이언티스트(data scientist)가 되었어요. SQL(SQL)과 Python(Python)은 전부 독학했어요. 당시 DoorDash에는 누군가가 올바른 목표가 무엇인지, 그 목표를 어떻게 설정할지, 그리고 DoorDash 초창기 각 시장의 성과가 어땠는지를 파악해줄 사람이 필요했기 때문에 그렇게 했어요. 지금으로부터 약 10년 전 일이에요.",
-    "text_zh": "我是被逼成数据科学家的。SQL和Python(Python)都是我自学的，当时DoorDash急需有人帮忙搞清楚我们的目标到底应该是什么，怎么定这些目标，还有在DoorDash早期阶段各个市场的表现怎么样，那已经是十年前的事了。",
-    "text_es": "Me convertí en científico de datos por necesidad. Aprendí SQL y Python completamente por mi cuenta porque en DoorDash hacía falta alguien que ayudara a entender cuáles eran los objetivos correctos, cómo establecer esas metas, y cómo nos estaba yendo en los diferentes mercados al principio de la historia de DoorDash, hace ya unos 10 años.",
+    "text_ko": "저는 필요해서 데이터 사이언티스트(data scientist)가 되었어요.",
+    "text_zh": "说实话，我成为数据科学家是迫于无奈。",
+    "text_es": "Terminé siendo científico de datos (data scientist) por necesidad.",
     "key_sentence": "I became a data scientist out of necessity, self-taught in SQL and Python.",
     "text_trimmed": true,
     "original_text": "I became a data scientist out of necessity. I completely self-taught in terms of SQL and Python and I did it because there was a need at DoorDash for someone to help figure out what the right goals were, how we set those goals, how we were performing different markets early in the DoorDash story, so 10 years ago at this point.",
@@ -302,50 +243,10 @@
           "luxury",
           "option"
         ]
-      },
-      {
-        "word": "transitioned",
-        "definition": "Transitioned refers to the process of changing from one state, condition, or phase to another. It often involves a significant shift in focus or methodology.",
-        "businessContext": "In the context of business, transitioned is frequently used to describe changes in roles, strategies, or technologies, such as a company transitioning to a digital-first approach.",
-        "nuance": "The term suggests a deliberate and often gradual change, rather than a sudden or forced shift.",
-        "synonyms": [
-          "shifted",
-          "moved"
-        ],
-        "antonyms": [
-          "remained",
-          "stagnated"
-        ]
-      },
-      {
-        "word": "portfolio",
-        "definition": "A portfolio is a collection of work, projects, or investments that showcases an individual's or organization's capabilities and achievements. It can also refer to a range of financial assets held by an investor.",
-        "businessContext": "In business and finance, a portfolio is crucial for demonstrating expertise, managing risk, and making strategic investment decisions.",
-        "nuance": "While often associated with creative fields, the term is also widely applicable in finance and project management, indicating a broader scope of assets or projects.",
-        "synonyms": [
-          "collection",
-          "assortment"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "background",
-        "definition": "Background refers to the circumstances or experiences that shape an individual’s or organization’s identity, skills, and perspectives. It can encompass education, work history, and cultural influences.",
-        "businessContext": "In a business setting, understanding a person's background can inform hiring decisions, team dynamics, and the development of company culture.",
-        "nuance": "The term can imply both professional qualifications and personal experiences, making it a versatile descriptor in various contexts.",
-        "synonyms": [
-          "history",
-          "experience"
-        ],
-        "antonyms": [
-          "foreground",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think it happened organically and I don't think I realized at the time what I was even doing.",
@@ -353,10 +254,7 @@
     "timestamp": "00:31:52",
     "context": "Lenny asks Jessica what she thinks allowed her to succeed in data science despite not having a traditional background in the field. Jessica reflects on her approach of focusing on immediate problems rather than overthinking her lack of credentials. She describes how she learned skills incrementally - first asking engineers for data access, then learning Python when that became a bottleneck - by thinking from first principles about what was needed to solve each immediate challenge.",
     "vocabulary_highlights": [
-      "organically",
-      "approach",
-      "immediate",
-      "reflect"
+      "organically"
     ],
     "topics": [
       "Career Development",
@@ -369,9 +267,9 @@
       "Metrics Definition",
       "Business Impact Analysis"
     ],
-    "text_ko": "제 생각엔 그게 자연스럽게 생긴 일이라서, 그때 제가 뭘 하고 있는지도 잘 몰랐던 것 같아요. 그리고 지금 눈앞에 있는 문제를 풀거나 막힌 걸 뚫기 위해 당장 필요한 게 뭔지 기본 원리(first principles)에서 생각해 보면, 큰 조직을 만들겠다고 고민하는 대신 그거에만 집중하는 게 더 낫다고 생각해요.",
-    "text_zh": "我觉得这个过程很自然，当时我也没意识到自己在做什么。我觉得如果你从第一性原理(first principles)的角度去思考，就想想眼前需要什么来解决卡壳的问题，专注于此就行了，而不是去想着要搭建一个全球性的组织架构。",
-    "text_es": "Creo que pasó de forma natural y en ese momento ni me daba cuenta de lo que estaba haciendo realmente. Y después creo que si piensas las cosas desde los fundamentos básicos (first principles) sobre lo que necesitas ahora mismo, justo enfrente de ti, para desbloquearte o resolver un problema, y te enfocas solo en eso en lugar de estar pensando en toda una organización global que estás tratando de construir.",
+    "text_ko": "제 생각엔 자연스럽게 그렇게 된 것 같아요. 그때는 제가 뭘 하고 있는지조차 잘 몰랐던 것 같아요.",
+    "text_zh": "我觉得那是自然而然发生的，而且当时我根本没意识到自己在做什么。",
+    "text_es": "Creo que surgió de forma natural y, la verdad, en ese momento ni siquiera me daba cuenta de lo que estaba haciendo.",
     "key_sentence": "I don't think I realized at the time what I was even doing.",
     "text_trimmed": true,
     "original_text": "I think it happened organically and I don't think I realized at the time what I was even doing. And then I think if you think about things from first principles about what you need right now in front of you to unblock yourself or solve a problem, and you just focus on that instead of thinking about a global org that you're trying to build.",
@@ -390,50 +288,10 @@
           "artificially",
           "inorganically"
         ]
-      },
-      {
-        "word": "approach",
-        "definition": "A method or way of dealing with a situation or problem.",
-        "businessContext": "In a business setting, an 'approach' can refer to a strategic plan or methodology employed to achieve specific goals or solve challenges.",
-        "nuance": "The term can imply flexibility and adaptability, and is often used to suggest that there are multiple ways to tackle an issue.",
-        "synonyms": [
-          "method",
-          "strategy"
-        ],
-        "antonyms": [
-          "disregard",
-          "neglect"
-        ]
-      },
-      {
-        "word": "immediate",
-        "definition": "Occurring or done at once; instant or urgent.",
-        "businessContext": "In business, 'immediate' often describes actions or responses that are required without delay, especially in crisis management or customer service scenarios.",
-        "nuance": "While it denotes urgency, overuse can imply a lack of thoroughness or planning, so it should be used judiciously.",
-        "synonyms": [
-          "instant",
-          "prompt"
-        ],
-        "antonyms": [
-          "delayed",
-          "eventual"
-        ]
-      },
-      {
-        "word": "reflect",
-        "definition": "To think deeply or carefully about something; to show or express an idea or feeling.",
-        "businessContext": "In a corporate environment, 'reflect' can refer to the process of evaluating performance, strategies, or company culture to inform future decisions.",
-        "nuance": "This term often suggests a thoughtful and introspective process, and is typically used in contexts where critical analysis is valued.",
-        "synonyms": [
-          "consider",
-          "ponder"
-        ],
-        "antonyms": [
-          "ignore",
-          "dismiss"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think keeping things simple is another thing I've learned over the years, maybe it's data scientists, but they tend to love these composite metrics with a coefficient.",
@@ -442,9 +300,7 @@
     "context": "Lenny asks Jessica about her approach to picking good metrics and aligning incentives. Jessica shares her philosophy on metric design, explaining that data scientists often create overly complex composite metrics with weighted coefficients that are difficult for teams to understand and act upon. She advocates for simple, intuitive metrics that people across the company can easily comprehend and work toward, even if they're not mathematically perfect.",
     "vocabulary_highlights": [
       "metrics",
-      "composite",
-      "aligning",
-      "incentives"
+      "composite"
     ],
     "topics": [
       "Strategy & Planning",
@@ -457,9 +313,9 @@
       "Metrics Definition",
       "Business Impact Analysis"
     ],
-    "text_ko": "제가 수년 동안 배운 것 중 하나는, 뭔가를 단순하게 유지하는 거예요. 아마 데이터 사이언티스트들(data scientists) 탓일 수도 있는데, 이분들은 계수(coefficient)가 들어간 합성 지표(composite metrics)를 좋아하는 경향이 있어요. “이 입력에는 가중치(weight)를 X로, 저 입력에는 X+2로 하자”라고 하고 나면 결국 아무도 제대로 이해하지 못하는, 사실상 아무 의미 없는 지표가 나오고 말아요.",
-    "text_zh": "我觉得保持简单是我这些年学到的另一个道理。可能是数据科学家的通病吧，他们特别爱搞那些复合指标(composite metrics)，还要加系数。什么\"这个输入我们按X权重，那个输入按X+2权重\"。最后整出来一个指标，没人能看懂，其实也没什么实际意义。",
-    "text_es": "Creo que mantener las cosas sencillas es algo que he aprendido con los años. Tal vez sea cosa de los científicos de datos, pero tienden a enamorarse de estas métricas compuestas con coeficientes. \"Vamos a ponderar esta variable con X y esta otra con X+2.\" Y al final terminas con una métrica que nadie entiende realmente y que no significa nada en la práctica.",
+    "text_ko": "제가 수년 동안 배운 또 다른 건 뭔가를 단순하게 유지하는 거예요. 아마 데이터 과학자들(data scientists) 때문일 수도 있는데, 그분들은 계수(coefficient)가 붙은 이런 복합 지표(composite metrics)를 좋아하더라고요.",
+    "text_zh": "我觉得这几年学到的另一件事就是尽量把事情简单化。可能是数据科学家的习惯，他们总喜欢把指标加个系数，做成复合指标 (composite metrics)。",
+    "text_es": "Creo que mantener las cosas sencillas es otra lección que he aprendido a lo largo de los años. Quizá sea cosa de los científicos de datos (data scientists), pero a los científicos de datos (data scientists) les suelen gustar las métricas compuestas que llevan un coeficiente.",
     "key_sentence": "Data scientists love composite metrics, but they often lack meaning.",
     "text_trimmed": true,
     "original_text": "I think keeping things simple is another thing I've learned over the years, maybe it's data scientists, but they tend to love these composite metrics with a coefficient. 'We're going to wait this input at X and this input at X+2.' And then you end up with a metric that nobody really understands that doesn't actually mean anything.",
@@ -492,35 +348,9 @@
           "simple",
           "individual"
         ]
-      },
-      {
-        "word": "aligning",
-        "definition": "Aligning involves adjusting or coordinating elements to ensure they work together effectively towards a common goal.",
-        "businessContext": "In a business setting, aligning teams, strategies, or objectives is crucial for ensuring that all parts of the organization are working towards the same outcomes.",
-        "nuance": "While aligning is often seen as positive, it can also suggest a loss of individuality or creativity if taken to an extreme.",
-        "synonyms": [
-          "coordinating",
-          "harmonizing"
-        ],
-        "antonyms": [
-          "diverging",
-          "discrepancy"
-        ]
-      },
-      {
-        "word": "incentives",
-        "definition": "Incentives are rewards or motivations designed to encourage specific behaviors or actions, often used to drive performance.",
-        "businessContext": "In business, incentives can take various forms, such as bonuses, promotions, or recognition, and are used to motivate employees and align their efforts with organizational goals.",
-        "nuance": "While incentives can effectively drive performance, they must be carefully structured to avoid unintended consequences or ethical dilemmas.",
-        "synonyms": [
-          "motivators",
-          "rewards"
-        ],
-        "antonyms": [
-          "deterrents",
-          "disincentives"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

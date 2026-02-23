@@ -5,10 +5,7 @@
     "timestamp": "00:00:34",
     "context": "Lenny asks Camille about the motivations of engineers and what excites them. Camille emphasizes that engineers are often underestimated in their desire to grasp the broader business and customer issues, highlighting the importance of product managers acknowledging this interest to foster better collaboration.",
     "vocabulary_highlights": [
-      "underestimate",
-      "motivation",
-      "grasp",
-      "broader"
+      "underestimate"
     ],
     "topics": [
       "Product Management",
@@ -39,50 +36,9 @@
           "overestimate",
           "appreciate"
         ]
-      },
-      {
-        "word": "motivation",
-        "definition": "The reason or reasons one has for acting or behaving in a particular way; the drive that prompts action.",
-        "businessContext": "Understanding employee motivation is crucial for management to foster a productive work environment and enhance performance.",
-        "nuance": "While often associated with positive drives, motivation can also stem from negative factors such as fear of failure.",
-        "synonyms": [
-          "incentive",
-          "drive"
-        ],
-        "antonyms": [
-          "apathy",
-          "disinterest"
-        ]
-      },
-      {
-        "word": "grasp",
-        "definition": "To seize and hold firmly; to understand something fully and thoroughly.",
-        "businessContext": "A strong grasp of market trends and customer needs is essential for making informed business decisions.",
-        "nuance": "This term implies not just surface-level understanding but a deep comprehension of the subject matter.",
-        "synonyms": [
-          "comprehend",
-          "understand"
-        ],
-        "antonyms": [
-          "misunderstand",
-          "ignore"
-        ]
-      },
-      {
-        "word": "broader",
-        "definition": "Wider in scope or range; encompassing more than just the immediate or obvious aspects.",
-        "businessContext": "In strategic planning, considering broader market trends can help companies identify new opportunities and threats.",
-        "nuance": "This term suggests an expansion beyond the immediate focus, often implying a more holistic view.",
-        "synonyms": [
-          "wider",
-          "more comprehensive"
-        ],
-        "antonyms": [
-          "narrower",
-          "limited"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "Making every effort to be credit sharing and inclusive of the engineering team and giving them the opportunity to speak about their contributions when it makes sense.",
@@ -92,7 +48,6 @@
     "vocabulary_highlights": [
       "inclusive",
       "contributions",
-      "consciously",
       "opportunity"
     ],
     "topics": [
@@ -140,20 +95,6 @@
         ]
       },
       {
-        "word": "consciously",
-        "definition": "With full awareness and intention, often implying a deliberate choice or action.",
-        "businessContext": "In business, making decisions consciously can lead to more ethical practices and strategic planning, as it involves careful consideration of the implications.",
-        "nuance": "The term suggests a level of mindfulness that is often necessary in leadership and decision-making roles.",
-        "synonyms": [
-          "deliberately",
-          "intentionally"
-        ],
-        "antonyms": [
-          "unconsciously",
-          "inadvertently"
-        ]
-      },
-      {
         "word": "opportunity",
         "definition": "A favorable circumstance or chance for advancement or progress, often in a professional context.",
         "businessContext": "Identifying and leveraging opportunities is crucial for growth and innovation within companies, particularly in competitive markets.",
@@ -167,7 +108,8 @@
           "hindrance"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "If you are being asked questions that you cannot answer because you just don't know or because that's something that involves a level of technical detail that only the engineers have... that drives engineers, particularly senior engineers on projects, it's crazy.",
@@ -175,10 +117,7 @@
     "timestamp": "00:07:08",
     "context": "Lenny asks Camille about behaviors that PMs exhibit that frustrate engineers. Camille explains that when PMs play the middleman and cannot answer technical questions, it creates inefficiencies and annoys engineers, particularly those in senior roles who expect direct communication.",
     "vocabulary_highlights": [
-      "inefficiencies",
-      "technical detail",
-      "frustrate",
-      "middleman"
+      "technical detail"
     ],
     "topics": [
       "Leadership & Management",
@@ -197,20 +136,6 @@
     "vocab_reparsed": true,
     "vocabulary": [
       {
-        "word": "inefficiencies",
-        "definition": "Inefficiencies refer to the lack of productivity or effectiveness in a process, resulting in wasted resources or time.",
-        "businessContext": "In business and technology, inefficiencies can hinder project timelines and increase costs, making it crucial for organizations to identify and eliminate them.",
-        "nuance": "The term often carries a negative connotation, suggesting that improvements are necessary to optimize performance.",
-        "synonyms": [
-          "wastefulness",
-          "ineffectiveness"
-        ],
-        "antonyms": [
-          "efficiencies",
-          "productivity"
-        ]
-      },
-      {
         "word": "technical detail",
         "definition": "Technical detail refers to specific, often complex information related to the technical aspects of a project or product.",
         "businessContext": "In tech and engineering fields, understanding technical details is essential for effective communication and decision-making, especially among team members with varying expertise.",
@@ -223,36 +148,9 @@
           "general overview",
           "simplified explanation"
         ]
-      },
-      {
-        "word": "frustrate",
-        "definition": "To frustrate means to cause feelings of annoyance or disappointment due to an inability to achieve a desired outcome.",
-        "businessContext": "In a business environment, frustration can arise from unclear communication, unmet expectations, or obstacles in project execution, impacting team morale and productivity.",
-        "nuance": "While it can describe a temporary emotional state, it may also indicate deeper systemic issues that need addressing within an organization.",
-        "synonyms": [
-          "irritate",
-          "vex"
-        ],
-        "antonyms": [
-          "satisfy",
-          "please"
-        ]
-      },
-      {
-        "word": "middleman",
-        "definition": "A middleman is an intermediary or agent who facilitates transactions or communication between two parties, often taking a commission or fee.",
-        "businessContext": "In business and supply chain contexts, middlemen can streamline processes but may also add costs and complexities, leading companies to seek direct relationships with suppliers or customers.",
-        "nuance": "The term can imply both positive and negative connotations, depending on the efficiency and value added by the middleman in the transaction.",
-        "synonyms": [
-          "intermediary",
-          "broker"
-        ],
-        "antonyms": [
-          "direct seller",
-          "producer"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "Most of the time, you can't really afford to just say we're going to go away and we're not going to touch the system for a long time and we're going to build something new over here.",
@@ -261,8 +159,6 @@
     "context": "Lenny prompts Camille to elaborate on her view that rewrites can be traps. Camille warns that taking a long break from the current system to build something new often leads to complications, as teams typically underestimate the time needed for migration and the necessity of maintaining existing systems.",
     "vocabulary_highlights": [
       "afford",
-      "complications",
-      "rewrite",
       "system"
     ],
     "topics": [
@@ -296,34 +192,6 @@
         ]
       },
       {
-        "word": "complications",
-        "definition": "Difficulties or challenges that arise, often making a situation more complex than initially anticipated.",
-        "businessContext": "In a business setting, complications can refer to unforeseen issues that arise during project execution, potentially affecting timelines and outcomes.",
-        "nuance": "The term often carries a negative connotation, suggesting that the complications could lead to delays or increased costs.",
-        "synonyms": [
-          "challenges",
-          "issues"
-        ],
-        "antonyms": [
-          "simplicity",
-          "ease"
-        ]
-      },
-      {
-        "word": "rewrite",
-        "definition": "To write something again, often with the intention of improving clarity, accuracy, or effectiveness.",
-        "businessContext": "In business communications, rewriting is common for documents, proposals, or strategies to ensure they meet the desired objectives and resonate with the target audience.",
-        "nuance": "While it implies making changes, it can also suggest a significant overhaul rather than just minor edits.",
-        "synonyms": [
-          "revise",
-          "rework"
-        ],
-        "antonyms": [
-          "preserve",
-          "maintain"
-        ]
-      },
-      {
         "word": "system",
         "definition": "A set of interconnected components that work together to achieve a specific goal or function.",
         "businessContext": "In the context of business and technology, a system can refer to software, processes, or organizational structures that facilitate operations and decision-making.",
@@ -337,7 +205,8 @@
           "chaos"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "If you don't have any software engineers on your platform team and you only have more operations systems engineers, DevOps, SRE... you're kind of missing the picture.",
@@ -429,12 +298,7 @@
     "speaker": "Camille Fournier",
     "timestamp": "00:33:42",
     "context": "Lenny asks Camille about the common timeline for engineers transitioning into management roles. Camille comments on the issue of young professionals being pushed into management too early in their careers, suggesting that they should spend more time developing technical skills before taking on such responsibilities.",
-    "vocabulary_highlights": [
-      "transitioning",
-      "pushed into",
-      "management roles",
-      "young professionals"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Career Development",
       "Coaching & Development"
@@ -445,70 +309,15 @@
       "Engineering Leadership",
       "Leadership Development"
     ],
-    "text_ko": "23살인 사람들을 보면, 막 학교를 졸업한 경우가 많잖아요. 창업자라면 다르겠지만, 큰 회사에 다니면서 누군가가 \"너는 커뮤니케이션 능력이 뛰어난데, 왜 매니저가 되지 않니?\"라고 하면 좀 다른 느낌이죠.",
-    "text_zh": "我认为，当你看到23岁的人，他们刚刚从学校毕业，如果你是创始人，那是另一回事……但如果你在大公司工作，有人对你说你沟通能力很强，为什么不考虑成为一名经理呢？",
-    "text_es": "Creo que cuando ves a personas de 23 años, que recién han salido de la escuela, es diferente si eres un fundador... pero si estás en una gran empresa y alguien te dice que tienes excelentes habilidades de comunicación, ¿por qué no comienzas a convertirte en un gerente?",
+    "text_ko": "제 생각에는 23살인 사람들을 보면 막 학교를 막 나온 경우가 많아요. 창업자라면 이야기가 또 달라요...",
+    "text_zh": "我觉得那些23岁的年轻人，刚从学校出来没多久，如果你是创始人的话，情况就完全不一样了...",
+    "text_es": "Creo que cuando ves a gente de 23 años, que acaba de salir de la universidad, hace muy poquito, es muy diferente si eres fundador...",
     "key_sentence": "it's a different thing if you're a founder...",
     "text_trimmed": true,
     "original_text": "I think when you see people that are 23, they are just out, very recently out of school, it's a different thing if you're a founder... but if you're at a big company and somebody is like you have great communication skills, why don't you start to become a manager?",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "transitioning",
-        "definition": "The process of changing from one state or condition to another.",
-        "businessContext": "In business, transitioning often refers to shifts in roles, strategies, or organizational structures, especially during periods of growth or change.",
-        "nuance": "The term implies a gradual process rather than an abrupt change, often used in contexts where adaptation is necessary.",
-        "synonyms": [
-          "changing",
-          "shifting"
-        ],
-        "antonyms": [
-          "stagnating",
-          "remaining"
-        ]
-      },
-      {
-        "word": "pushed into",
-        "definition": "To be compelled or forced into a situation or role, often without prior planning or desire.",
-        "businessContext": "In a business context, being 'pushed into' a role may refer to employees who are assigned responsibilities due to organizational needs rather than personal choice.",
-        "nuance": "This phrase carries a connotation of pressure or lack of agency, suggesting that the individual may not be fully prepared or willing.",
-        "synonyms": [
-          "forced into",
-          "compelled to"
-        ],
-        "antonyms": [
-          "voluntarily entering",
-          "choosing"
-        ]
-      },
-      {
-        "word": "management roles",
-        "definition": "Positions within an organization that involve overseeing and directing the work of others, typically requiring leadership skills.",
-        "businessContext": "Management roles are crucial in business as they ensure that teams are effectively guided towards achieving organizational goals and objectives.",
-        "nuance": "The term suggests a level of authority and responsibility, often implying that the individual must balance team dynamics with strategic decision-making.",
-        "synonyms": [
-          "leadership positions",
-          "supervisory roles"
-        ],
-        "antonyms": [
-          "non-management positions",
-          "staff roles"
-        ]
-      },
-      {
-        "word": "young professionals",
-        "definition": "Individuals, typically in their early career stages, who are entering the workforce and beginning to establish their professional identities.",
-        "businessContext": "In the business world, young professionals are often seen as fresh talent that can bring new ideas and perspectives, but they may also face challenges due to their lack of experience.",
-        "nuance": "This term conveys a sense of potential and ambition, often associated with adaptability and a willingness to learn, though it may also imply inexperience.",
-        "synonyms": [
-          "early-career professionals",
-          "new entrants"
-        ],
-        "antonyms": [
-          "experienced professionals",
-          "seasoned workers"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

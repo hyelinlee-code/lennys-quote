@@ -6,9 +6,7 @@
     "context": "Lenny asks about practical advice for product managers who want to get better at invention and innovation. Ethan explains that becoming inventive requires dedicated thinking time, but emphasizes that the time commitment is much smaller than people believe - just two hours monthly of focused brainstorming. He explains that the real work comes after having the initial idea, in the years-long process of developing and implementing that concept into reality.",
     "vocabulary_highlights": [
       "invention",
-      "express",
-      "dedicated",
-      "innovation"
+      "express"
     ],
     "topics": [
       "Product Management",
@@ -54,36 +52,9 @@
           "conceal",
           "suppress"
         ]
-      },
-      {
-        "word": "dedicated",
-        "definition": "Devoted to a particular task, purpose, or person; showing commitment and focus in one's efforts. It often implies a strong sense of responsibility and loyalty.",
-        "businessContext": "In the workplace, dedicated employees are valued for their commitment to the company's goals, often leading to higher productivity and morale.",
-        "nuance": "While 'dedicated' generally has a positive connotation, it can also imply a lack of flexibility or an inability to adapt to changing circumstances.",
-        "synonyms": [
-          "committed",
-          "devoted"
-        ],
-        "antonyms": [
-          "disinterested",
-          "uncommitted"
-        ]
-      },
-      {
-        "word": "innovation",
-        "definition": "The process of introducing new ideas, products, or methods that improve efficiency, effectiveness, or value. It often involves the application of creative thinking to solve problems.",
-        "businessContext": "In the business world, innovation is critical for growth and sustainability, as it enables companies to stay competitive and meet evolving customer needs.",
-        "nuance": "Unlike 'invention,' which focuses on the creation of something new, 'innovation' emphasizes the implementation and practical application of ideas to achieve improvements.",
-        "synonyms": [
-          "advancement",
-          "breakthrough"
-        ],
-        "antonyms": [
-          "stagnation",
-          "regression"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "And so I have this patent, and we haven't seen this become reality yet. I'm waiting for my idea to become part of Amazon's drone delivery system, but I think ultimately it will.",
@@ -93,8 +64,7 @@
     "vocabulary_highlights": [
       "patent",
       "reality",
-      "delivery system",
-      "combine"
+      "delivery system"
     ],
     "topics": [
       "Product Management",
@@ -154,34 +124,16 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "combine",
-        "definition": "To combine means to bring two or more elements together to form a single entity or to integrate different components into a cohesive whole.",
-        "businessContext": "In business, combining resources, technologies, or strategies can lead to synergies that enhance productivity and innovation.",
-        "nuance": "The term suggests collaboration and integration, but can also imply challenges in merging differing cultures or systems.",
-        "synonyms": [
-          "merge",
-          "integrate"
-        ],
-        "antonyms": [
-          "separate",
-          "divide"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "you just put it on your porch... and you push a button and the drone takes your return away.",
     "speaker": "Ethan Evans",
     "timestamp": "00:32:32",
     "context": "Lenny expresses excitement about Ethan's drone delivery patent and suggests returns could also use the system. Ethan elaborates on how his truck-based drone delivery system would handle returns, describing the user experience where customers simply place items on their porch and use an app to request pickup. This demonstrates how good inventions can be extended beyond their original purpose to solve additional problems.",
-    "vocabulary_highlights": [
-      "delivery",
-      "system",
-      "returns",
-      "patent"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Growth & Marketing"
@@ -193,71 +145,16 @@
       "Leadership Development",
       "Product Strategy"
     ],
-    "text_ko": "반품하러 UPS 매장 같은 데까지 갖고 갈 필요 없이 그냥 집 현관 앞에 놔두면 돼요. 그리고 휴대폰의 앱(app)에서 아마 박스를 드론(drone)이 인식하게 사진을 찍거나 지정된 자리에 놓고 버튼만 누르면 드론이 반품 물건을 가져가요.",
-    "text_zh": "你要退货的话，不用跑UPS Store什么的了，直接把东西放门口就行。然后在手机app上操作一下，可能拍个照让无人机识别包裹，或者放到指定位置，按个键，无人机就把你要退的东西拿走了。",
-    "text_es": "Cuando quieres devolver algo, en lugar de llevarlo a la tienda de UPS o lo que sea, simplemente lo dejas en tu porche, y luego desde tu celular, en la app, tal vez le tomas una foto para que el dron pueda reconocer la caja o lo pones en un lugar específico, presionas un botón y el dron se lleva tu devolución.",
+    "text_ko": "그냥 현관 앞에 놔두고 버튼만 누르면 드론이 반품을 가져가요.",
+    "text_zh": "你就把包裹放在门口...按个按钮，无人机就把退货给你取走了。",
+    "text_es": "Lo pones en el porche de tu casa... aprietas un botón y el drone se lleva tu devolución.",
     "key_sentence": "The drone takes your return away from a designated spot.",
     "text_trimmed": true,
     "original_text": "When you want to return something as opposed to taking it to the UPS Store or whatever, you just put it on your porch, and then on your phone, on your app, maybe you take a picture of it so that the drone can recognize the box or you put it in a designated spot, and you push a button and the drone takes your return away.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "delivery",
-        "definition": "The act of transporting goods or services to a designated location or recipient. It often involves logistics and timing to ensure that products reach customers efficiently.",
-        "businessContext": "In business and technology, delivery refers to the process of fulfilling customer orders, which can include traditional shipping methods as well as innovative solutions like drone delivery.",
-        "nuance": "While 'delivery' generally implies the transfer of goods, it can also connote the reliability and speed of service, making it a critical factor in customer satisfaction.",
-        "synonyms": [
-          "shipment",
-          "distribution"
-        ],
-        "antonyms": [
-          "collection",
-          "retrieval"
-        ]
-      },
-      {
-        "word": "system",
-        "definition": "A set of interconnected components working together to achieve a specific goal or function. Systems can be physical, digital, or organizational in nature.",
-        "businessContext": "In a business context, systems are crucial for operations, such as supply chain systems, information systems, and customer relationship management systems, which streamline processes and enhance efficiency.",
-        "nuance": "The term 'system' often implies a level of complexity and interdependence, suggesting that changes in one part can affect the whole, which is important in strategic planning.",
-        "synonyms": [
-          "framework",
-          "structure"
-        ],
-        "antonyms": [
-          "disorder",
-          "chaos"
-        ]
-      },
-      {
-        "word": "returns",
-        "definition": "The process by which customers send back purchased goods to the seller, often for a refund or exchange. Returns are a critical aspect of customer service and inventory management.",
-        "businessContext": "In e-commerce and retail, managing returns effectively is essential for maintaining customer satisfaction and minimizing losses, often involving policies and logistics to handle the reverse flow of goods.",
-        "nuance": "The term 'returns' can carry a negative connotation if associated with high rates of product returns, which may indicate issues with product quality or customer expectations.",
-        "synonyms": [
-          "reimbursements",
-          "exchanges"
-        ],
-        "antonyms": [
-          "sales",
-          "purchases"
-        ]
-      },
-      {
-        "word": "patent",
-        "definition": "A legal right granted to an inventor or assignee for a specific period, giving them exclusive rights to make, use, or sell an invention. Patents protect intellectual property and encourage innovation.",
-        "businessContext": "In the business and tech sectors, patents are vital for safeguarding innovations and can provide a competitive advantage, often influencing investment decisions and partnerships.",
-        "nuance": "The term 'patent' is often associated with high-value inventions and can imply a level of prestige; however, it can also indicate potential legal disputes over intellectual property rights.",
-        "synonyms": [
-          "license",
-          "intellectual property"
-        ],
-        "antonyms": [
-          "public domain",
-          "N/A"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "But the other thing that causes people to get stuck is the difference between a senior manager and a director is how you lead and the work you're doing.",
@@ -265,10 +162,7 @@
     "timestamp": "00:24:07",
     "context": "Lenny asks about advice for senior managers who are stuck and unable to advance to director level. Ethan explains that beyond the structural challenges like fewer available roles, there's a fundamental shift in required skills. He describes how senior managers can succeed through functional expertise and execution, but director-level roles demand different capabilities focused on strategic thinking and working through others rather than direct hands-on work.",
     "vocabulary_highlights": [
-      "fundamental",
-      "lead",
-      "advance",
-      "structural"
+      "lead"
     ],
     "topics": [
       "Leadership & Management",
@@ -281,28 +175,14 @@
       "Leadership Development",
       "Product Strategy"
     ],
-    "text_ko": "사람들이 멈춰 서는 또 다른 이유는 시니어 매니저(senior manager)와 디렉터(director)의 차이가 어떻게 리드하느냐와 어떤 일을 하느냐에 있기 때문이에요. 자기 담당 분야에서 실력 있고 일을 잘 해내면 시니어 매니저까지는 올라갈 수 있어요. 하지만 디렉터, 그 위의 부사장(VP)급이 되면 훨씬 더 영향력 발휘와 다른 사람들과의 조율, 그리고 모든 세부사항을 직접 챙기려는 걸 내려놓는 일이 중요해져요.",
-    "text_zh": "但是另一个让人卡住的地方就是，高级经理和总监之间的区别在于你怎么带团队，还有你做的工作性质。你可以凭着在自己专业领域很强，执行力很棒，一路做到高级经理。但是到了总监这个级别，更别说VP了，就更多的是要靠影响力，跟其他部门协调配合，还要学会放手，不能什么细节都要自己抓。",
-    "text_es": "Pero lo que también hace que la gente se quede estancada es que hay una diferencia enorme entre ser gerente senior y director en cuanto a cómo lideras y el tipo de trabajo que haces. Puedes llegar hasta gerente senior siendo muy fuerte en tu área y siendo excelente ejecutando cosas. Pero como director, y más aún como VP, se trata mucho más de influencia, de coordinarte con otros, y de soltar el control de todos los detalles.",
+    "text_ko": "사람들이 커리어에서 막히는 또 다른 이유는 시니어 매니저(senior manager)와 디렉터(director)의 차이가 어떻게 리드하느냐와 어떤 일을 하느냐에 있기 때문이에요.",
+    "text_zh": "还有一个让人卡住的原因就是，高级经理和总监的区别其实就在于你怎么带团队，还有你具体在做什么样的工作。",
+    "text_es": "El otro tema que hace que la gente se atasque es que la diferencia entre ser gerente senior y director está en cómo lideras y el tipo de trabajo que haces.",
     "key_sentence": "the difference between a senior manager and a director is how you lead and the work you're doing.",
     "text_trimmed": true,
     "original_text": "But the other thing that causes people to get stuck is the difference between a senior manager and a director is how you lead and the work you're doing. And you can get as far as senior manager by being really strong in your function and being really good at getting things done. As a director, and as a VP beyond that, it becomes much more about influence, coordination with others, and letting go of being in all the details yourself.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "fundamental",
-        "definition": "Serving as a base or core; essential to the nature or function of something.",
-        "businessContext": "In business, 'fundamental' often refers to the basic principles or concepts that underpin a strategy, decision, or operation.",
-        "nuance": "While 'fundamental' implies something essential, it can also suggest that other factors may be secondary or supportive.",
-        "synonyms": [
-          "essential",
-          "foundational"
-        ],
-        "antonyms": [
-          "superficial",
-          "secondary"
-        ]
-      },
       {
         "word": "lead",
         "definition": "To guide or direct a group or organization towards achieving specific goals or objectives.",
@@ -316,36 +196,10 @@
           "follow",
           "subordinate"
         ]
-      },
-      {
-        "word": "advance",
-        "definition": "To move forward in position, progress, or development; to promote or enhance.",
-        "businessContext": "In the context of business, 'advance' can refer to the progression of a project, career, or technology, often indicating growth or improvement.",
-        "nuance": "While 'advance' suggests positive movement, it can also imply a competitive edge or the need to stay ahead in a rapidly changing environment.",
-        "synonyms": [
-          "progress",
-          "promote"
-        ],
-        "antonyms": [
-          "retreat",
-          "regress"
-        ]
-      },
-      {
-        "word": "structural",
-        "definition": "Relating to the arrangement or organization of parts within a whole; foundational in nature.",
-        "businessContext": "In business, 'structural' often pertains to the organizational framework, processes, or systems that support operations and decision-making.",
-        "nuance": "The term can imply stability and permanence, but may also suggest rigidity or the need for adaptation in a dynamic market.",
-        "synonyms": [
-          "organizational",
-          "systematic"
-        ],
-        "antonyms": [
-          "unstructured",
-          "chaotic"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "However, there is a lot you can do. A lot is in your control. And what is in your control is to start practicing those next level skills. Start working with your leadership on, where can I take on a strategic project?",
@@ -369,9 +223,9 @@
       "Leadership Development",
       "Product Strategy"
     ],
-    "text_ko": "하지만 할 수 있는 일이 많아요. 많은 것이 본인 통제 안에 있어요. 통제할 수 있는 것 중 하나는 바로 그런 다음 단계 역량(next-level skills)을 연습하기 시작하는 거예요. 리더십(leadership)과 함께 어디서 전략적 프로젝트(strategic project)를 맡아볼 수 있을지 이야기해 보세요. 또 어떻게 하면 더 발명가(inventor)처럼 될 수 있을지도 고민해 보세요.",
-    "text_zh": "不过呢，你能做的事情其实挺多的。很多东西都在你的掌控范围内。你能控制的就是开始练习那些更高层次的技能。开始跟你的领导沟通，看看我能不能接手一些战略性的项目？怎么样才能让我更有创新精神，成为一个发明家？",
-    "text_es": "Sin embargo, sí hay mucho que puedes hacer. Muchas cosas están en tus manos. Y lo que sí puedes controlar es empezar a practicar esas habilidades del siguiente nivel. Empieza a trabajar con tu liderazgo preguntando: ¿dónde puedo agarrar un proyecto estratégico? ¿Cómo puedo volverme más innovador?",
+    "text_ko": "하지만 할 수 있는 일이 많아요. 많은 게 여러분의 통제 안에 있어요. 지금 통제할 수 있는 건 바로 다음 수준의 역량(next-level skills)을 연습하기 시작하는 거예요. 리더십(leadership)과 함께 어디서 전략적 프로젝트(strategic project)를 맡아볼 수 있을지 논의해 보세요.",
+    "text_zh": "不过，你能做的事情其实挺多的。很多东西都在你的掌控范围内。你能控制的就是开始练习那些更高层次的技能。主动跟你的领导沟通，问问能不能让我负责一个战略性的项目？",
+    "text_es": "Sin embargo, sí hay muchas cosas que puedes hacer. Muchas cosas están en tus manos. Y lo que sí puedes controlar es empezar a practicar esas habilidades del siguiente nivel. Empieza a trabajar con tu jefe en plan: ¿dónde puedo agarrar un proyecto estratégico?",
     "key_sentence": "A lot is in your control to take on next level skills.",
     "text_trimmed": true,
     "original_text": "However, there is a lot you can do. A lot is in your control. And what is in your control is to start practicing those next level skills. Start working with your leadership on, where can I take on a strategic project? How can I become more of an inventor?",
@@ -433,7 +287,8 @@
           "disorder"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "And so as a leader, I had to think, is what I'm doing going to generate a New York Times headline? Because if it is, I'd better be really careful.",
@@ -442,9 +297,7 @@
     "context": "Lenny asks what Ethan learned from his major failure launching Amazon's App Store in front of Jeff Bezos. Ethan describes how he had to change his approach from being an 'operational cowboy' who prioritized speed over caution. He developed a mental framework of considering whether his decisions could generate negative media coverage, teaching his team to balance speed with appropriate risk assessment at Amazon's scale.",
     "vocabulary_highlights": [
       "generate",
-      "headline",
-      "approach",
-      "operational"
+      "headline"
     ],
     "topics": [
       "Leadership & Management",
@@ -457,9 +310,9 @@
       "Leadership Development",
       "Product Strategy"
     ],
-    "text_ko": "그래서 리더로서 저는 항상 \"내가 하는 일이 뉴욕타임스(New York Times) 헤드라인이 될까?\"라고 생각해야 했어요. 만약 그렇다면 정말 조심해야 해요. 그렇다고 해서 아무 것도 못 하고 마비돼서는 안 된다고 스스로 배웠고, 팀에게도 \"우리는 잘못된 일로 뉴욕타임스에 나오고 싶지 않다\"라고 계속 얘기했어요.",
-    "text_zh": "所以作为领导，我得想想，我现在做的事会不会上《纽约时报》的头条？如果会的话，那我得格外小心。我给自己的教训就是，你不能因为害怕就什么都不敢做，但我告诉我整个团队，咱们可不想因为负面新闻上《纽约时报》。",
-    "text_es": "Y entonces como líder, tenía que preguntarme: ¿lo que estoy haciendo va a terminar siendo noticia en el New York Times? Porque si es así, mejor me ando con mucho cuidado. Y eso es lo que aprendí: no te puedes paralizar, pero le enseñé a todo mi equipo que no queremos salir en el New York Times por las razones equivocadas.",
+    "text_ko": "그래서 리더로서 내가 하는 일이 뉴욕 타임스의 헤드라인에 오를 만한 건지 생각해야 했어요. 만약 그렇다면 정말 더 조심해야겠더라고요.",
+    "text_zh": "所以作为领导，我得想想，我现在做的事情会不会上《纽约时报》头条？如果会的话，那我就得特别小心了。",
+    "text_es": "Y entonces como líder, tenía que preguntarme: ¿esto que estoy haciendo va a salir en primera plana? Porque si es así, mejor me ando con mucho cuidado.",
     "key_sentence": "I can't be paralyzed by generating a New York Times headline.",
     "text_trimmed": true,
     "original_text": "And so as a leader, I had to think, is what I'm doing going to generate a New York Times headline? Because if it is, I'd better be really careful. And that's what I taught myself is you can't be paralyzed, but I taught my whole team, we don't want to be in the New York Times for the wrong thing.",
@@ -492,35 +345,9 @@
           "footer",
           "subheading"
         ]
-      },
-      {
-        "word": "approach",
-        "definition": "A method or way of dealing with a situation or problem, often characterized by a specific strategy or perspective.",
-        "businessContext": "In business, an 'approach' can refer to the strategic direction taken to achieve objectives, such as a marketing approach or problem-solving approach.",
-        "nuance": "The term 'approach' suggests a level of thoughtfulness and planning, distinguishing it from more reactive or impulsive actions.",
-        "synonyms": [
-          "method",
-          "strategy"
-        ],
-        "antonyms": [
-          "neglect",
-          "avoidance"
-        ]
-      },
-      {
-        "word": "operational",
-        "definition": "Relating to the functioning or management of an organization, particularly in terms of processes and procedures.",
-        "businessContext": "In a business context, 'operational' often pertains to the day-to-day activities that ensure the organization runs smoothly and efficiently.",
-        "nuance": "The term can imply a focus on efficiency and effectiveness, often contrasting with strategic or theoretical considerations.",
-        "synonyms": [
-          "functional",
-          "practical"
-        ],
-        "antonyms": [
-          "theoretical",
-          "conceptual"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

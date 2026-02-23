@@ -5,7 +5,6 @@
     "timestamp": "00:07:08",
     "context": "Lenny asks Stewart about utility curves, a concept that came up frequently when talking to people who worked with him. Stewart explains that utility curves are S-shaped curves where the horizontal axis represents cost or effort, and the vertical axis represents value or convenience. He uses the hammer example to illustrate how initial investment yields little value until you reach a threshold where it becomes useful, after which additional investment provides diminishing returns.",
     "vocabulary_highlights": [
-      "utility",
       "impact",
       "quality",
       "useless"
@@ -21,28 +20,14 @@
       "User Experience",
       "Product Strategy"
     ],
-    "text_ko": "가장 기본적인 예로 망치를 만든다고 해볼게요. 그 하단 축(bottom axis)을 ‘품질’로 보면, 손잡이가 조금만 충격을 받아도 부러지는 망치는 완전히 쓸모없어요. 조금 더 튼튼하게 만든다고 해도 여전히 별로고, 그냥 쓰레기예요, 쓰레기... 알겠죠? 그러면 더 이상 상관없어요.",
-    "text_zh": "我能想到的最简单的例子就是，比如说你在做锤子，底下这个轴代表质量，如果锤子的把手一碰就断，那就完全没用。你稍微做结实一点，还是很垃圾，就是垃圾、垃圾、垃圾、垃圾、垃圾。然后突然就变成，好，很好，非常好。再往上就没什么区别了。",
-    "text_es": "El ejemplo más básico que se me ocurre es digamos que estás fabricando un martillo, y en ese eje inferior tienes la calidad, y si el martillo tiene un mango que se rompe con cualquier golpe, pues es totalmente inútil. Y si lo haces un poquito más resistente, sigue siendo bastante inútil y es como basura, basura, basura, basura, basura. Vale, bien, genial. Después ya no importa más.",
+    "text_ko": "제가 가장 먼저 떠올리는 기본적인 예로, 망치를 만든다고 해요. 그 아래 축(bottom axis)이 품질(quality)이라면, 망치 손잡이가 조금만 충격을 받아도 부러진다면 그건 완전히 쓸모가 없어요.",
+    "text_zh": "我能想到最简单的例子就是，假设你做一把锤子，在那个底轴（bottom axis）上讲的是质量。如果锤子的把手稍微一撞就断，那这把锤子就完全没用了。",
+    "text_es": "El ejemplo más básico que se me ocurre es: imagina que estás fabricando un martillo; en ese eje inferior (bottom axis) hablamos de calidad, y si el martillo tiene un mango que se rompe con cualquier golpe, entonces no sirve para nada.",
     "key_sentence": "A hammer with a weak handle is totally useless and considered junk.",
     "text_trimmed": true,
     "original_text": "The most basic example I can think of is let's say you're making a hammer, and on that bottom axis, it's now quality, and if the hammer has a handle that breaks with any impact, then is totally useless. And if you make it a little bit stronger, it's still pretty useless and it's like junk, junk, junk, junk, junk. Okay, good, great. Then it doesn't matter anymore.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "utility",
-        "definition": "Utility refers to the usefulness or practical value of a product or service in fulfilling a need or solving a problem.",
-        "businessContext": "In business and technology, utility is often assessed in terms of how well a product meets customer needs and enhances user experience, influencing design and development decisions.",
-        "nuance": "While utility emphasizes functionality, it can also imply efficiency and effectiveness, making it a key consideration in product development.",
-        "synonyms": [
-          "usefulness",
-          "practicality"
-        ],
-        "antonyms": [
-          "ineffectiveness",
-          "uselessness"
-        ]
-      },
       {
         "word": "impact",
         "definition": "Impact refers to the strong effect or influence that an action, event, or decision has on a situation or individual.",
@@ -85,7 +70,9 @@
           "effective"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I would tell the story at Slack over and over again. It actually made it part of the new hire welcome.",
@@ -93,8 +80,6 @@
     "timestamp": "00:15:49",
     "context": "Lenny asks Stewart about taste and craft in product development. Stewart shares the 'umbrella story' from Vancouver, where he and a colleague noticed how few people would tilt their umbrellas to avoid poking others in crowded sidewalks. This became a metaphor at Slack for being considerate of user experience - 'tilt your umbrella' became company slang for thinking about how your actions affect others.",
     "vocabulary_highlights": [
-      "craft",
-      "context",
       "welcome",
       "story"
     ],
@@ -109,42 +94,14 @@
       "User Experience",
       "Product Strategy"
     ],
-    "text_ko": "슬랙에서는 그 이야기를 계속해서 반복했어요. 실제로 그걸 신입 환영 프로그램(new hire welcome)의 일부로 넣었죠. 다른 사람들이 진정으로 배려하거나 타인의 경험에 공감(empathic)하지 못하는 건 오히려 기회예요. 그걸 잘 활용하면 결정적인 이점(critical advantage)을 만들 수 있어요.",
-    "text_zh": "我在Slack的时候会反复讲这个故事，后来甚至把它加到了新员工入职培训里。你要是不够体贴，不懂得换位思考，不能真正理解别人的感受和经历，这其实是你可以创造的一个关键优势。",
-    "text_es": "Yo contaba esta historia en Slack una y otra vez. De hecho, terminó siendo parte de la bienvenida para los nuevos empleados. Si no logras ser realmente considerado y tener esta cortesía, si no eres empático con la experiencia de los demás, pierdes la oportunidad de crear una ventaja competitiva crucial.",
+    "text_ko": "슬랙(Slack)에서 그 이야기를 몇 번이고 계속 들려줬어요. 실제로 그 이야기는 신입사원 환영 때 빠지지 않는 내용이 됐어요.",
+    "text_zh": "我总是在 Slack 上反复讲这个故事，后来还把它当成新员工欢迎环节的一部分。",
+    "text_es": "Solía contar esa historia en Slack una y otra vez. De hecho, acabó formando parte del programa de bienvenida para nuevas incorporaciones (new hire welcome).",
     "key_sentence": "It actually made it part of the new hire welcome.",
     "text_trimmed": true,
     "original_text": "I would tell the story at Slack over and over again. It actually made it part of the new hire welcome. Your failure to really be considerate and exercise this courtesy and really be empathic about other people's experience is an advantage that you can create a critical advantage.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "craft",
-        "definition": "To create or construct something with skill and care, often involving a specific technique or method.",
-        "businessContext": "In business, 'craft' often refers to the careful development of products, services, or content that reflects quality and attention to detail.",
-        "nuance": "While 'craft' implies a level of artistry and skill, it may not be suitable in contexts that require a more mechanical or automated approach.",
-        "synonyms": [
-          "create",
-          "design"
-        ],
-        "antonyms": [
-          "destroy",
-          "neglect"
-        ]
-      },
-      {
-        "word": "context",
-        "definition": "The circumstances or setting surrounding an event, statement, or idea that help to clarify its meaning.",
-        "businessContext": "In business discussions, understanding the context is crucial for interpreting data, making decisions, and communicating effectively with stakeholders.",
-        "nuance": "The term 'context' implies that meaning can change based on surrounding factors, so it should be used when discussing nuanced situations.",
-        "synonyms": [
-          "background",
-          "framework"
-        ],
-        "antonyms": [
-          "isolation",
-          "disregard"
-        ]
-      },
       {
         "word": "welcome",
         "definition": "To greet someone in a friendly and hospitable manner, often indicating acceptance or approval.",
@@ -173,19 +130,16 @@
           "truth"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Are you sure you want to send this message with the @everyone?",
     "speaker": "Stewart Butterfield",
     "timestamp": "00:23:41",
     "context": "Stewart is explaining examples of craft and thoughtful product design at Slack. He describes how they solved the problem of people overusing the @everyone feature, which would send notifications to all channel members. The 'shouty rooster' was a visual warning that appeared to make users think twice before notifying everyone, helping shape better communication culture within organizations.",
-    "vocabulary_highlights": [
-      "@everyone",
-      "notifications",
-      "overusing",
-      "thoughtful"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Communication Skills"
@@ -197,71 +151,16 @@
       "User Experience",
       "Product Strategy"
     ],
-    "text_ko": "그래서 저희는 '소리지르는 수탉(shouty rooster)'이라는 걸 만들었고, 내부적으로는 '건방지게 굴지 말자'고 했어요. 물론 그걸 공개적으로 말하진 않았고요. 누군가 @everyone(@everyone)을 쓰면 작은 수탉 아이콘이 팝업하면서 입에서 소리파가 나오는 애니메이션으로 정말 거슬리게 등장해서, \"이걸 보내면 8개 시간대에 걸쳐 147명에게 알림(notification)이 갑니다. @everyone으로 이 메시지를 보내시겠어요?\"라고 뜨게 했어요.",
-    "text_zh": "所以我们就设计了一个叫\"大嗓门公鸡\"的功能，内部我们叫它\"别当混蛋\"。当然对外我们肯定不会这么说。当你要@所有人的时候，会弹出一只小公鸡，嘴巴里冒出声波，特别讨厌的样子，然后说：\"嘿，这条消息会给8个不同时区的147个人发通知。你确定要发这条@所有人的消息吗？\"",
-    "text_es": "Entonces se nos ocurrió lo que llamamos el gallo gritón (shouty rooster), y internamente decíamos \"No seas gallina\" - aunque obviamente no lo dijimos así públicamente. Cuando hacías @everyone, aparecía un gallito con ondas de sonido saliendo de su pico, súper molesto, que te decía: \"Oye, esto va a mandar una notificación a 147 personas en ocho zonas horarias diferentes. ¿Estás seguro de que quieres enviar este mensaje con @everyone?\"",
+    "text_ko": "정말 이 메시지를 전체 멘션(@everyone)으로 보내시겠어요?",
+    "text_zh": "确定要把这条消息发给所有人（@everyone）吗？",
+    "text_es": "¿Seguro que quieres enviar este mensaje con @everyone?",
     "key_sentence": "Are you sure you want to send this message with the @everyone?",
     "text_trimmed": true,
     "original_text": "So we came up with what was called the shouty rooster, and internally we said, 'Don't be a cock.' But we didn't obviously say that publicly when you @everyone, a little rooster would pop up and it would have you sound waves coming out of its mouth and being really obnoxious and say, 'Hey, this is going to cause a notification for 147 people in eight different time zones. Are you sure you want to send this message with the @everyone?'",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "@everyone",
-        "definition": "A tag used in messaging platforms to notify all members of a group or channel simultaneously.",
-        "businessContext": "In business communication, particularly in team collaboration tools, using @everyone can ensure that important messages reach all relevant stakeholders quickly.",
-        "nuance": "While effective for urgent announcements, overusing @everyone can lead to notification fatigue among team members, making it essential to use it judiciously.",
-        "synonyms": [
-          "@all",
-          "@channel"
-        ],
-        "antonyms": [
-          "@individual",
-          "N/A"
-        ]
-      },
-      {
-        "word": "notifications",
-        "definition": "Alerts or messages that inform users about updates, messages, or events within a digital platform or application.",
-        "businessContext": "In a business setting, notifications are crucial for keeping team members informed about project updates, deadlines, and important communications.",
-        "nuance": "While notifications can enhance productivity by providing timely information, excessive notifications can be distracting and counterproductive.",
-        "synonyms": [
-          "alerts",
-          "updates"
-        ],
-        "antonyms": [
-          "silence",
-          "N/A"
-        ]
-      },
-      {
-        "word": "overusing",
-        "definition": "The act of using something excessively or more than is necessary or appropriate.",
-        "businessContext": "In a corporate environment, overusing certain communication tools or strategies can lead to decreased effectiveness and employee burnout.",
-        "nuance": "It's important to balance the use of tools and strategies to maintain engagement without overwhelming team members.",
-        "synonyms": [
-          "excessive use",
-          "overindulgence"
-        ],
-        "antonyms": [
-          "underusing",
-          "moderation"
-        ]
-      },
-      {
-        "word": "thoughtful",
-        "definition": "Demonstrating consideration for the needs and feelings of others; reflective and deliberate in decision-making.",
-        "businessContext": "In business, being thoughtful in communication and decision-making fosters a positive workplace culture and strengthens team dynamics.",
-        "nuance": "While being thoughtful is generally positive, it can sometimes be perceived as indecisiveness if taken to an extreme.",
-        "synonyms": [
-          "considerate",
-          "reflective"
-        ],
-        "antonyms": [
-          "thoughtless",
-          "inconsiderate"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "It became an assumption that it should always be trying to remove friction when the challenge is really comprehension. If your software stops me and asks me to make a decision and I don't really understand it, you make me feel stupid.",
@@ -270,9 +169,7 @@
     "context": "Lenny asks Stewart about his counterintuitive view that friction in products can actually be good. Stewart explains that many product teams obsess over reducing friction and clicks, but the real challenge is often comprehension - helping users understand what they're supposed to do. He argues that making users think or feel stupid is worse than having a few extra steps, and advocates for focusing on simplicity and clarity instead.",
     "vocabulary_highlights": [
       "friction",
-      "comprehension",
-      "counterintuitive",
-      "obsess"
+      "comprehension"
     ],
     "topics": [
       "Product Management",
@@ -285,9 +182,9 @@
       "User Experience",
       "Product Strategy"
     ],
-    "text_ko": "항상 마찰(friction)을 없애야 한다는 전제가 생겼는데, 실제 문제는 이해에 있는 경우가 많아요. 소프트웨어가 저를 멈춰 세우고 결정을 요구하는데 제가 그걸 잘 이해하지 못하면, 그건 저를 바보처럼 느끼게 해요. 사람들이 마찰(friction)을 줄이는 걸 목표로 삼거나 클릭(clicks)이나 탭(taps) 횟수만 줄이려는 집착에서 벗어나서, 대신 \"이걸 어떻게 더 단순하게 만들까? 사람들이 내 소프트웨어를 쓰면서 굳이 생각하지 않게 하려면 어떻게 해야 할까?\"에 집중하면 좋겠어요.",
-    "text_zh": "大家都觉得应该一直想着怎么减少摩擦，但其实真正的挑战是理解问题。如果你的软件突然跳出来让我做决定，而我根本搞不清楚是怎么回事，这就让我觉得自己很蠢。要是大家能不要老想着减少摩擦或者减少点击次数这些指标，而是专注于\"我怎么能让这个东西变简单？怎么让用户不用动脑子就能用我的软件？\"那就好了。",
-    "text_es": "Se convirtió en algo que dábamos por hecho: que siempre había que eliminar la fricción, cuando en realidad el desafío está en la comprensión. Si tu software me detiene y me pide que tome una decisión y yo realmente no la entiendo, me haces sentir tonto. Si la gente pudiera dejar atrás esa idea de reducir la fricción como un objetivo numérico, o de reducir la cantidad de clics o toques para hacer algo, y en cambio se enfocara en: ¿cómo puedo hacer esto más simple? ¿Cómo evito que la gente tenga que pensar para usar mi software?",
+    "text_ko": "항상 마찰(friction)을 제거해야 한다는 전제가 돼 버렸는데, 실제 문제는 오히려 이해(comprehension)에 있는 경우가 많아요. 소프트웨어(software)가 저를 멈춰서 결정을 내리라고 요구하는데 제가 그걸 제대로 이해하지 못하면 저는 멍해지거나 바보처럼 느껴져요.",
+    "text_zh": "大家都默认应该不停地去消除摩擦（friction），但真正的挑战其实是让人理解。如果你的软件(software)把我拦下来让我做决定，而我根本不懂它到底在问什么，你会让我觉得自己很笨。",
+    "text_es": "Se dio por hecho que siempre había que eliminar la fricción, cuando en realidad el problema es entenderlo. Si tu aplicación (software) me interrumpe y me pide que decida algo que no entiendo, me haces sentir tonto.",
     "key_sentence": "The challenge is really comprehension, not just removing friction.",
     "text_trimmed": true,
     "original_text": "It became an assumption that it should always be trying to remove friction when the challenge is really comprehension. If your software stops me and asks me to make a decision and I don't really understand it, you make me feel stupid. If people could get over the idea of reducing friction as a number of goal or reducing the number of clicks or taps to do something, and instead focus on how can I make this simple? How do I prevent people from having to think in order to use my software?",
@@ -320,36 +217,10 @@
           "misunderstanding",
           "confusion"
         ]
-      },
-      {
-        "word": "counterintuitive",
-        "definition": "Counterintuitive describes something that goes against common sense or what one would normally expect.",
-        "businessContext": "In business strategy and innovation, counterintuitive ideas can lead to breakthroughs, as they challenge conventional wisdom and encourage creative problem-solving.",
-        "nuance": "While often surprising, counterintuitive solutions can be highly effective; however, they may require careful explanation to gain acceptance.",
-        "synonyms": [
-          "unexpected",
-          "paradoxical"
-        ],
-        "antonyms": [
-          "intuitive",
-          "logical"
-        ]
-      },
-      {
-        "word": "obsess",
-        "definition": "To obsess means to preoccupy or dominate one's thoughts, often to an excessive degree.",
-        "businessContext": "In a business environment, obsession can drive innovation and excellence, but it may also lead to burnout or tunnel vision if not managed properly.",
-        "nuance": "While obsession can be seen as a positive trait in terms of dedication, it can also carry a negative connotation if it leads to an unhealthy focus or neglect of other important areas.",
-        "synonyms": [
-          "preoccupy",
-          "fixate"
-        ],
-        "antonyms": [
-          "disregard",
-          "neglect"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The decision is about have you exhausted the possibilities? Creating the distance so that you can make an intellectual rational decision about it rather than an emotional decision is essential.",
@@ -373,9 +244,9 @@
       "User Experience",
       "Product Strategy"
     ],
-    "text_ko": "결정은 '가능한 선택지를 다 써봤나?' 하는 거예요. 감정적으로 결정하지 않고 이성적으로 판단할 수 있도록 거리를 두는 게 중요해요. 제가 냉정하게 이성적으로 하라고 말하는 이유는 솔직히 그게 진짜 굴욕적이거든요.",
-    "text_zh": "这个决定的关键是，你有没有把所有可能性都试遍了？你得拉开距离，这样才能理性地、冷静地做决定，而不是凭感情用事，这一点特别重要。我之所以说必须得冷酷理性，是因为这事儿真的太他妈丢人了。",
-    "text_es": "La decisión se trata de: ¿ya agotaste todas las posibilidades? Crear esa distancia para poder tomar una decisión racional e intelectual en lugar de una emocional es fundamental. Y la razón por la que digo que tienes que ser fríamente racional es porque es jodidamente humillante.",
+    "text_ko": "결정은 '가능한 선택지를 모두 검토해봤나요?'에 관한 거예요. 감정적으로 결정하기보다 한 발 물러서서 이성적 판단(rational decision)을 할 수 있도록 거리를 두는 게 중요해요.",
+    "text_zh": "做决定之前先问自己：你是不是把所有可能性都考虑清楚了？关键是要拉开点距离、抽身出来——别凭情绪决定，要用理性来判断。",
+    "text_es": "La decisión es: ¿has agotado todas las opciones? Es esencial tomarse distancia para decidir de forma racional y meditada, no desde la emoción.",
     "key_sentence": "Creating the distance so that you can make an intellectual rational decision about it rather than an emotional decision is essential.",
     "text_trimmed": true,
     "original_text": "The decision is about have you exhausted the possibilities? Creating the distance so that you can make an intellectual rational decision about it rather than an emotional decision is essential. And the reason I say you have to be coldly rational about it is because it's fucking humiliating.",
@@ -437,19 +308,15 @@
           "optional"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "At more than one company all hands, I made everyone in the company repeat this as a chant.",
     "speaker": "Stewart Butterfield",
     "timestamp": "00:00:24",
     "context": "Stewart is discussing his approach to generosity and ethical business practices. He shares the company mantra he made all Slack employees recite at company meetings, emphasizing that true business success comes from actually creating value for customers, not just appearing to do so. This philosophy guided many of Slack's customer-friendly policies and generous practices.",
-    "vocabulary_highlights": [
-      "ethical",
-      "generosity",
-      "mantra",
-      "emphasizing"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Leadership & Management",
       "Strategy & Planning"
@@ -461,71 +328,16 @@
       "User Experience",
       "Product Strategy"
     ],
-    "text_ko": "여러 회사의 올핸즈(all-hands) 미팅에서 저는 회사 사람들 모두에게 이 말을 구호처럼 외치게 했어요. 장기적으로 성공의 척도는 고객에게 우리가 만들어낸 가치의 크기예요. 그 가치를 증명하려고 애쓰거나 겉으로 보여주려 할 수는 있지만, 실제로 그 가치를 만들어낸 것만큼 대체할 수 있는 건 없어요.",
-    "text_zh": "在不止一次的全员大会上，我让公司所有人跟我一起喊这句话。从长远来看，衡量我们成功与否的标准就是我们为客户创造了多少价值，你可以花力气去证明你创造了这些价值什么的，但这些都比不上你真的创造出了价值。",
-    "text_es": "En más de una reunión general de la empresa, hice que todos repitieran esto como un mantra. A la larga, lo que va a medir nuestro éxito será el valor real que creemos para nuestros clientes, y sí, puedes esforzarte en demostrar que has creado ese valor y todo eso, pero no hay nada que sustituya el haberlo creado de verdad.",
+    "text_ko": "여러 회사의 전사(all-hands) 미팅에서 저는 회사 사람들 모두에게 이걸 구호처럼 따라 하게 했어요.",
+    "text_zh": "在不止一家公司的全公司大会(all-hands)上，我都让大家像喊口号一样把这句话跟着念。",
+    "text_es": "En más de una reunión general (all-hands) de la empresa, hice que todo el equipo repitiera esto como un estribillo.",
     "key_sentence": "I made everyone in the company repeat this as a chant.",
     "text_trimmed": true,
     "original_text": "At more than one company all hands, I made everyone in the company repeat this as a chant. In the long run, the measure of our success will be the amount of value that we create for customers, and you can put effort into demonstrating that you have created this value and stuff like that, but there's no substitute for actually having created it.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "ethical",
-        "definition": "Relating to moral principles that govern a person's or group's behavior. It often involves considerations of right and wrong in decision-making.",
-        "businessContext": "In business, ethical practices are crucial for maintaining trust with stakeholders, ensuring compliance with laws, and fostering a positive corporate culture.",
-        "nuance": "While 'ethical' generally has a positive connotation, it can sometimes be used to critique practices that are perceived as lacking integrity.",
-        "synonyms": [
-          "moral",
-          "principled"
-        ],
-        "antonyms": [
-          "unethical",
-          "immoral"
-        ]
-      },
-      {
-        "word": "generosity",
-        "definition": "The quality of being kind and giving, often involving the willingness to provide resources or support to others without expecting anything in return.",
-        "businessContext": "In a business context, generosity can manifest in corporate social responsibility initiatives, employee benefits, or fostering a collaborative work environment.",
-        "nuance": "Generosity is often viewed positively, but excessive generosity without strategic alignment can lead to resource depletion or exploitation.",
-        "synonyms": [
-          "benevolence",
-          "philanthropy"
-        ],
-        "antonyms": [
-          "stinginess",
-          "selfishness"
-        ]
-      },
-      {
-        "word": "mantra",
-        "definition": "A phrase or slogan that is repeated frequently, often serving as a guiding principle or motivational tool.",
-        "businessContext": "In corporate environments, a mantra can encapsulate a company's mission or values, helping to unify employees and reinforce the organizational culture.",
-        "nuance": "While mantras can be powerful motivators, they may become clichéd if overused or if they lack genuine alignment with company practices.",
-        "synonyms": [
-          "slogan",
-          "motto"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "emphasizing",
-        "definition": "The act of giving special importance or prominence to something in speech or writing.",
-        "businessContext": "In business communication, emphasizing key points can enhance clarity and persuade stakeholders, making it a vital skill in presentations and reports.",
-        "nuance": "Over-emphasizing can lead to perceptions of bias or exaggeration, so it is important to balance emphasis with factual support.",
-        "synonyms": [
-          "highlighting",
-          "underscoring"
-        ],
-        "antonyms": [
-          "downplaying",
-          "minimizing"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "So people are like calling meetings with their colleagues to preview the deck that they're going to show in the big meeting to get feedback on whether they should improve some of the slides. And that hyper-realistic work-like activity is superficially identical to work.",

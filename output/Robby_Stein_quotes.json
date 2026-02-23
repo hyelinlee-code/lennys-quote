@@ -22,9 +22,9 @@
       "User Experience",
       "Growth Strategy"
     ],
-    "text_ko": "구글의 미션은 모든 정보가 누구나 접근할 수 있게 만드는 거예요. 이건 정말 지속적이고 동기 부여가 되는 목표인데, 지금 AI의 시대에 우리가 그 목표를 그 어느 때보다 더 이룰 수 있을 것 같아요. 지금 느끼는 건 엄청난 집중력과 긴박감이에요. 이제 이 모델들이 소비자들에게 진짜로 도움이 될 수 있는 전환점에 도달한 것 같아요.",
-    "text_zh": "谷歌的使命就是让所有信息都能被全世界的人获取到，这个目标特别持久，也特别激励人，现在感觉有了AI这个机会，我们比以前任何时候都更有可能实现这个目标。我现在的感受就是特别专注，特别紧迫。现在已经到了一个临界点，这些模型(models)真的能够为消费者提供价值了。",
-    "text_es": "La misión de Google de que cualquier información sea accesible para todos, es algo muy duradero y motivador, y con este momento de la IA, siento que realmente podemos lograrlo más que nunca. Lo que estoy sintiendo ahora es una sensación increíble de enfoque y urgencia. Las cosas han llegado a un punto de inflexión (tipping point) donde estos modelos ya pueden verdaderamente cumplir para los consumidores.",
+    "text_ko": "구글의 '어떤 정보든 누구나 접근할 수 있게 하자'는 사명은 오래전부터 이어져 온, 아주 강력한 동기예요. 지금의 AI 모멘트(AI moment)를 보면 그 목표를 그 어느 때보다 실제로 이룰 수 있을 것 같아요. 지금 저는 말 그대로 엄청난 집중과 긴박감을 느끼고 있어요.",
+    "text_zh": "谷歌的使命是让任何信息都能被普遍获取——这是个长期且特别振奋人心的目标。现在到了人工智能(AI)的时刻，我觉得比以往任何时候都更有机会把它实现，而我现在的感觉就是前所未有的专注和紧迫感。",
+    "text_es": "La misión de Google de que cualquier información sea accesible para todo el mundo —esa idea tan duradera y motivadora— parece que, con este momento de la IA (AI), podemos cumplirla más que nunca. Ahora mismo siento una enorme sensación de enfoque y urgencia.",
     "key_sentence": "AI can achieve universally accessible information more than ever before.",
     "text_trimmed": true,
     "original_text": "Google's mission around have any information be universally accessible, this very enduring, very motivating thing, and it feels like with the AI moment, we can actually achieve that more than ever before. What I'm feeling now is just an incredible sense of focus and urgency. Things have hit a tipping point where these models are now truly able to deliver for consumers.",
@@ -86,7 +86,8 @@
           "diversion"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "The core Google search isn't really changing, in my opinion. We're not seeing that people come to search for just ridiculously wide set of things. They want a specific phone number, they want a price for something, they want to get directions.",
@@ -95,7 +96,6 @@
     "context": "Lenny asks about the impact of ChatGPT and other AI chatbots on Google search, wondering if people still want to go through search results instead of getting direct answers. Robby explains that core search behavior hasn't changed - people still come to Google for a ridiculously wide variety of specific needs. He argues that AI is actually expansionary, meaning it creates more opportunities for search rather than replacing it.",
     "vocabulary_highlights": [
       "specific",
-      "impact",
       "core",
       "directions"
     ],
@@ -110,9 +110,9 @@
       "User Experience",
       "Growth Strategy"
     ],
-    "text_ko": "제 생각엔 구글 검색의 핵심은 사실 크게 바뀌지 않았어요. 사람들이 검색하러 와서 정말 무작정 광범위한 것들을 찾는 건 아니에요. 대부분은 특정 전화번호를 찾거나, 제품의 가격을 확인하거나, 길 안내를 받으러 와요. 그런 수요의 방대함을 많은 사람이 과소평가하고 있는 것 같아요. 인공지능(AI)은 확장적이에요 — 기능과 사용 사례를 계속 넓혀줘요.",
-    "text_zh": "在我看来，谷歌搜索的核心其实没怎么变。我们发现用户并不是来搜索什么五花八门的东西。他们就是想要个具体的电话号码，想知道某样东西多少钱，想查个路线什么的。我觉得很多人都小看了这种需求的广泛性。AI是有扩张性的。",
-    "text_es": "En mi opinión, la búsqueda principal de Google realmente no está cambiando. No estamos viendo que la gente venga a buscar cosas súper variadas o disparatadas. Quieren un número de teléfono específico, quieren saber el precio de algo, quieren conseguir direcciones. Creo que muchas personas no valoran lo enorme que es eso. La IA es expansiva.",
+    "text_ko": "제 생각에는 구글 검색(Google Search)의 핵심은 사실 크게 달라지지 않았어요. 사람들이 엄청나게 다양한 걸 찾으러 오는 건 아니에요. 대부분은 특정 전화번호를 찾거나, 어떤 물건의 가격을 확인하거나, 길 안내를 받으려 해요.",
+    "text_zh": "我觉得 Google 搜索的核心 (Google search) 并没有真正改变。我们并没有看到用户来搜的东西变得特别宽泛或杂乱——他们还是想找某个具体的电话号码、想知道某样东西的价格，或者查路线。",
+    "text_es": "Para mí, la búsqueda de Google (Google Search) en lo básico no está cambiando. No vemos que la gente venga a buscar de todo: quieren un número de teléfono concreto, el precio de algo o las indicaciones para llegar.",
     "key_sentence": "People want specific information, underappreciated vastness of that.",
     "text_trimmed": true,
     "original_text": "The core Google search isn't really changing, in my opinion. We're not seeing that people come to search for just ridiculously wide set of things. They want a specific phone number, they want a price for something, they want to get directions. I think the vastness of that is underappreciated by many people. AI is expansionary.",
@@ -130,20 +130,6 @@
         "antonyms": [
           "general",
           "vague"
-        ]
-      },
-      {
-        "word": "impact",
-        "definition": "The strong effect or influence that something has on a situation or person.",
-        "businessContext": "In the business realm, assessing the impact of decisions, strategies, or market changes is vital for understanding outcomes and guiding future actions.",
-        "nuance": "The term 'impact' often conveys a sense of significance or importance, and is frequently used in discussions about performance metrics and outcomes.",
-        "synonyms": [
-          "effect",
-          "influence"
-        ],
-        "antonyms": [
-          "insignificance",
-          "irrelevance"
         ]
       },
       {
@@ -174,7 +160,9 @@
           "disarray"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "You need to be the physical manifestation of two pieces of things. One is just relentlessness, just complete effort that is always exerted in a direction of positive productivity. And then the second is make things better. You have to always make things better.",
@@ -182,9 +170,7 @@
     "timestamp": "00:00:54",
     "context": "Lenny asks Robby about his philosophy of 'embodying relentless improvement' and what that means for building successful products. Robby explains that this concept has two key components: relentlessness (complete effort always directed toward positive productivity) and continuously making things better while never being content with the current state. This philosophy drives the constant improvement needed for breakthrough products.",
     "vocabulary_highlights": [
-      "relentless",
       "positive productivity",
-      "improvement",
       "manifestation"
     ],
     "topics": [
@@ -198,28 +184,14 @@
       "User Experience",
       "Growth Strategy"
     ],
-    "text_ko": "직접 보여줘야 하는 건 두 가지예요. 하나는 끈질긴 집념(relentlessness)으로, 언제나 생산적인 방향으로 온힘을 다하는 태도예요. 두 번째는 늘 더 좋게 만드는 자세예요. 항상 개선하려고 하고 결코 만족하면 안 돼요.",
-    "text_zh": "你得具备两个特质。第一个就是要有韧劲儿，就是那种不达目的不罢休的劲头，永远朝着积极的方向全力以赴。第二个就是要不断改进优化。你必须时刻想着怎么把事情做得更好，永远不能满足于现状。",
-    "text_es": "Tienes que ser la manifestación física de dos cosas. Una es ser implacable, poner el cien por ciento de tu esfuerzo siempre hacia algo productivo y positivo. Y la segunda es mejorar las cosas constantemente. Siempre tienes que estar mejorando todo. Nunca puedes conformarte con lo que tienes.",
+    "text_ko": "여러분은 두 가지를 몸소 보여줘야 해요. 하나는 포기하지 않는 끈기예요 — 항상 생산적인 방향으로 온 힘을 다해 노력하는 태도요. 두 번째는 모든 것을 더 낫게 만드는 자세예요. 늘 더 나아지게 만들어야 해요.",
+    "text_zh": "你要把两件事身体力行：一是有种不服输的韧劲儿——永不松懈、全力以赴，始终把精力放在能产生成果的方向；二是不断改进，总是在想办法把事情做得更好。",
+    "text_es": "Tienes que encarnar dos cosas. La primera: perseverancia implacable —una entrega total y constante, siempre orientada a la productividad y a obtener resultados positivos. La segunda: mejorar las cosas; siempre debes esforzarte por dejarlas mejor.",
     "key_sentence": "Be the physical manifestation of relentlessness and positive productivity.",
     "text_trimmed": true,
     "original_text": "You need to be the physical manifestation of two pieces of things. One is just relentlessness, just complete effort that is always exerted in a direction of positive productivity. And then the second is make things better. You have to always make things better. You're never content.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "relentless",
-        "definition": "Characterized by an unyielding intensity or determination; persistent in pursuit of a goal.",
-        "businessContext": "In business, being relentless often refers to a company's unwavering commitment to achieving objectives, driving innovation, or overcoming challenges without giving up.",
-        "nuance": "While 'relentless' conveys a strong sense of determination, it can also imply a lack of flexibility or consideration for others, so it should be used carefully.",
-        "synonyms": [
-          "unwavering",
-          "tenacious"
-        ],
-        "antonyms": [
-          "yielding",
-          "lenient"
-        ]
-      },
       {
         "word": "positive productivity",
         "definition": "The effective and efficient output of work that not only meets but exceeds expectations, contributing to overall success.",
@@ -232,20 +204,6 @@
         "antonyms": [
           "negative productivity",
           "inefficiency"
-        ]
-      },
-      {
-        "word": "improvement",
-        "definition": "The process of making something better or enhancing its quality, performance, or effectiveness.",
-        "businessContext": "In the context of business, improvement can refer to initiatives aimed at increasing operational efficiency, enhancing product features, or boosting customer satisfaction.",
-        "nuance": "While 'improvement' is generally positive, it can imply that the current state is inadequate, so it should be used in contexts where growth or enhancement is desired.",
-        "synonyms": [
-          "enhancement",
-          "advancement"
-        ],
-        "antonyms": [
-          "deterioration",
-          "decline"
         ]
       },
       {
@@ -262,7 +220,9 @@
           "suppression"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Not every great thing is going to be invented by you. Facebook probably created the modern feed, but there's a feed for every single product. At the end of the day, you're just robbing your user base of the opportunity to have a better product.",
@@ -270,10 +230,8 @@
     "timestamp": "00:01:12",
     "context": "Lenny brings up the controversial launch of Instagram Stories, which was criticized for copying Snapchat's format. Robby defends the decision by explaining that not every innovation needs to be original - formats like feeds become universal primitives across products. He argues that refusing to adopt better formats would be robbing users of improved experiences, emphasizing that the focus should be on serving users rather than claiming originality.",
     "vocabulary_highlights": [
-      "innovation",
       "opportunity",
-      "product",
-      "rob"
+      "product"
     ],
     "topics": [
       "Product Management",
@@ -292,20 +250,6 @@
     "key_sentence": "Robbing your user base denies them a better product opportunity.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "innovation",
-        "definition": "The process of creating new ideas, products, or methods that improve efficiency or effectiveness.",
-        "businessContext": "In business and technology, innovation is crucial for staying competitive and meeting changing consumer demands, often leading to the development of disruptive technologies.",
-        "nuance": "While innovation typically has a positive connotation, it can also imply risk and uncertainty, especially when it involves untested ideas.",
-        "synonyms": [
-          "creativity",
-          "advancement"
-        ],
-        "antonyms": [
-          "stagnation",
-          "regression"
-        ]
-      },
       {
         "word": "opportunity",
         "definition": "A favorable circumstance or situation that allows for the potential to achieve a desired outcome or benefit.",
@@ -333,22 +277,9 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "rob",
-        "definition": "To take something from someone unlawfully or by force, often implying a violation of trust or rights.",
-        "businessContext": "In a business context, 'robbing' can metaphorically refer to depriving customers or stakeholders of value or opportunities, often through unethical practices.",
-        "nuance": "While the term has a strong negative connotation, it can also be used metaphorically in discussions about market competition or resource allocation.",
-        "synonyms": [
-          "deprive",
-          "steal"
-        ],
-        "antonyms": [
-          "give",
-          "provide"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I think the most recent one, and this is true, something even within the last week or two, is that it's so obvious how human-like the interface is becoming with how you can communicate and steer AI.",
@@ -372,9 +303,9 @@
       "User Experience",
       "Growth Strategy"
     ],
-    "text_ko": "최근에 가장 인상적이었던 건, 사실 지난 일주일이나 이주일 사이의 일인데, AI(AI)와 소통하고 원하는 방향으로 이끌 수 있게 된 인터페이스(interface)가 얼마나 인간적으로 변해 가는지가 너무 분명해졌다는 점이에요. 몇 달 전만 해도 원하는 걸 AI에게 하려면 훨씬 더 많은 노력을 기울여야 했던 것 같아요, 그렇죠?",
-    "text_zh": "我觉得最近的一个变化，这是真的，就在上周或者前两周吧，就是AI的交互界面变得越来越像人了，你跟它沟通、引导它的方式特别自然。我记得就几个月前，你还得费老大劲儿才能让AI做你想要它做的事情，对吧？",
-    "text_es": "Mira, lo más reciente, y esto es cierto, algo que pasó literalmente la semana pasada o hace dos semanas, es que se nota muchísimo lo parecido a una conversación humana que se está volviendo la forma de comunicarte y dirigir la IA. Creo que hasta hace unos meses tenías que hacer un montón de trabajo para lograr que la IA hiciera lo que realmente querías que hiciera, ¿no?",
+    "text_ko": "가장 최근의 변화라고 생각하는 건—사실 지난 일주일이나 이주일 안에 생긴 일인데요—인공지능(AI)와 소통하면서 원하는 방향으로 이끌 수 있게 되면서 인터페이스(interface)가 얼마나 사람처럼 돼 가는지가 너무 확실해졌어요.",
+    "text_zh": "我觉得最近这点越来越明显，甚至在过去一两周就能看出来：和人工智能(AI)的交互界面(interface)越来越像真人，你可以像跟人交流一样去沟通和引导它。",
+    "text_es": "Creo que lo más reciente, y esto es verdad incluso en la última semana o dos, es lo evidente que resulta lo humano que se está volviendo la interfaz, por cómo puedes comunicarte con la IA (AI) y guiarla.",
     "key_sentence": "it's so obvious how human-like the interface is becoming with how you can communicate and steer AI.",
     "text_trimmed": true,
     "original_text": "I think the most recent one, and this is true, something even within the last week or two, is that it's so obvious how human-like the interface is becoming with how you can communicate and steer AI. I think it used to be even just months back that you had to do a lot of work to get the AI to do the thing you're trying to get it to do, right?",
@@ -436,7 +367,8 @@
           "inhuman"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "I think that you need to be the physical manifestation of two pieces of things. One is just relentlessness, just complete effort, but is always exerted in a direction of positive productivity. And then the second is make things better.",
@@ -445,9 +377,7 @@
     "context": "Lenny asks about Robby's core philosophy for building successful products. Robby explains his concept of 'embodying relentless improvement' which came from a personal story where his wife described him as 'dissatisfied' - meaning he's driven by a desire to make the world better. He breaks this philosophy into two components: relentless effort in a productive direction, and never being content with the current state of things.",
     "vocabulary_highlights": [
       "relentlessness",
-      "positive productivity",
-      "improvement",
-      "embodying"
+      "positive productivity"
     ],
     "topics": [
       "Product Management",
@@ -461,9 +391,9 @@
       "User Experience",
       "Growth Strategy"
     ],
-    "text_ko": "제가 보기에는 두 가지를 몸소 보여줘야 해요. 하나는 끈질김(relentlessness), 전력을 다하는 태도인데 그 노력이 항상 생산적이고 긍정적인 방향(positive productivity)으로 향해야 해요. 두 번째는 늘 더 나아지게 만들기(make things better)예요. 항상 개선하려고 해야 하고, 결코 현 상태에 만족하면 안 돼요.",
-    "text_zh": "我觉得你需要体现两个方面。第一个就是要有那种不服输的劲头，全力以赴去干，但一定要往正确的方向使劲，要有产出。第二个就是要不断改进，永远想着怎么把事情做得更好，不能满足于现状。",
-    "text_es": "Creo que tienes que ser la manifestación física de dos cosas. Una es ser implacable, dar todo de ti, pero siempre enfocando esa energía hacia algo productivo y positivo. Y la segunda es mejorar las cosas constantemente. Siempre tienes que estar mejorando las cosas, nunca conformarte con lo que tienes.",
+    "text_ko": "제 생각에는 두 가지를 직접 보여줘야 해요(physical manifestation). 하나는 단순한 끈질김이에요 — 전력을 다해 노력하되 그 노력이 항상 생산적인 방향으로 향해야 해요. 그리고 두 번째는 뭔가를 더 좋게 만드는 태도예요, 계속 개선하려고 하는 거죠.",
+    "text_zh": "你得把两点具体体现出来：一是要有不懈的劲头、全力以赴，但要把这种努力放在能带来正向成果的方向上；二是要不断把事情做得更好。",
+    "text_es": "Creo que tienes que encarnar dos cosas: primero, una persistencia implacable —darlo todo, pero siempre orientado a generar productividad y resultados positivos—; y segundo, hacer que las cosas mejoren.",
     "key_sentence": "Be the physical manifestation of relentlessness and always make things better.",
     "text_trimmed": true,
     "original_text": "I think that you need to be the physical manifestation of two pieces of things. One is just relentlessness, just complete effort, but is always exerted in a direction of positive productivity. And then the second is make things better. You have to always make things better, you're never content.",
@@ -496,36 +426,10 @@
           "negative productivity",
           "inefficiency"
         ]
-      },
-      {
-        "word": "improvement",
-        "definition": "The process of making something better or enhancing its quality, performance, or value.",
-        "businessContext": "Improvement is a key focus in business strategies, often driving initiatives aimed at increasing efficiency, customer satisfaction, and overall competitiveness.",
-        "nuance": "Improvement can refer to both incremental changes and significant transformations, and it is often associated with continuous improvement methodologies like Kaizen.",
-        "synonyms": [
-          "enhancement",
-          "advancement"
-        ],
-        "antonyms": [
-          "deterioration",
-          "decline"
-        ]
-      },
-      {
-        "word": "embodying",
-        "definition": "The act of representing or expressing an idea, quality, or concept in a tangible or visible form.",
-        "businessContext": "In business, embodying values or principles can refer to leaders or employees demonstrating company culture and mission through their actions and behaviors.",
-        "nuance": "This term often implies a deep integration of values into one's actions, suggesting authenticity and alignment between beliefs and practices.",
-        "synonyms": [
-          "representing",
-          "manifesting"
-        ],
-        "antonyms": [
-          "disembodying",
-          "detaching"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think there's typically three things I think about. If I were to write a book about how to build great products, there'd be three chapters.",
@@ -533,10 +437,7 @@
     "timestamp": "00:51:53",
     "context": "Lenny asks Robby to share his core product principles that have helped him build successful products across Instagram and Google. Robby outlines his framework for a hypothetical three-chapter book on building great products, starting with the first principle of deeply understanding people. He references Clayton Christensen's 'jobs to be done' framework from 'Competing Against Luck' as a key methodology for understanding why people hire products to solve their problems.",
     "vocabulary_highlights": [
-      "framework",
-      "principles",
-      "build",
-      "successful"
+      "build"
     ],
     "topics": [
       "Product Management",
@@ -550,42 +451,14 @@
       "User Experience",
       "Growth Strategy"
     ],
-    "text_ko": "제가 보통 생각하는 건 세 가지예요. 훌륭한 제품을 만드는 법에 대해 책을 쓴다면 장도 세 개로 나눌 것 같고요. 첫째는 사람을 깊이 이해하는 거예요. 이건 우리가 '해야 할 일(jobs to be done)' 관점에서 조금 얘기했던 부분이고, 저는 클레이튼 크리스텐슨의 책 'Competing Against Luck'을 정말 좋아해요.",
-    "text_zh": "我觉得通常有三个方面需要考虑。如果让我写一本关于如何打造优秀产品的书，我会分三个章节。第一章就是深度理解用户需求，这个我们刚才聊\"待完成任务\"(jobs to be done)理论时也提到了，还有克莱顿·克里斯坦森那本《与运气竞争》(Competing Against Luck)，我特别喜欢那本书。",
-    "text_es": "Yo creo que típicamente hay tres cosas en las que pienso. Si fuera a escribir un libro sobre cómo crear productos increíbles, tendría tres capítulos. El primero es entender profundamente a las personas, y creo que ya tocamos esto un poco cuando hablamos del tema de \"trabajos por hacer\" (jobs to be done) y el libro de Clayton Christensen, que me encantó, \"Competing Against Luck\".",
+    "text_ko": "제가 보통 생각하는 건 세 가지예요. 훌륭한 제품을 만드는 방법에 대해 책을 쓴다면 장을 세 개로 나눌 것 같아요.",
+    "text_zh": "我通常会想到三件事。要是写一本教你怎么打造优秀产品的书，我会把它分成三章。",
+    "text_es": "Suelo centrarme en tres cosas. Si tuviera que escribir un libro sobre cómo desarrollar productos excelentes, serían tres capítulos.",
     "key_sentence": "there'd be three chapters.",
     "text_trimmed": true,
     "original_text": "I think there's typically three things I think about. If I were to write a book about how to build great products, there'd be three chapters. The first is deeply understand people, and I think we talked about this a little bit with the jobs to be done point and Clayton Christensen's book, which I loved around Competing Against Luck.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "framework",
-        "definition": "A framework is a structured system or set of guidelines that provides a foundation for building or developing something. It serves as a conceptual structure that helps organize and support various components.",
-        "businessContext": "In business and technology, frameworks are often used to guide project development, ensuring consistency and efficiency in processes such as software development, product management, and strategic planning.",
-        "nuance": "While 'framework' often implies a flexible structure that can be adapted, it can also suggest rigidity if overly prescriptive; use it when discussing structured approaches that allow for creativity within defined boundaries.",
-        "synonyms": [
-          "structure",
-          "system"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorder"
-        ]
-      },
-      {
-        "word": "principles",
-        "definition": "Principles are fundamental truths or propositions that serve as the foundation for a system of belief or behavior. They guide decision-making and actions in various contexts.",
-        "businessContext": "In a business setting, principles often refer to core values or ethical standards that shape company culture, influence strategic decisions, and guide employee behavior.",
-        "nuance": "The term 'principles' carries a connotation of moral or ethical considerations; use it when discussing foundational beliefs that inform actions rather than just operational rules.",
-        "synonyms": [
-          "values",
-          "tenets"
-        ],
-        "antonyms": [
-          "exceptions",
-          "anomalies"
-        ]
-      },
       {
         "word": "build",
         "definition": "To build means to construct or develop something systematically, often involving the integration of various components or resources. It implies a process of creation that can be tangible or intangible.",
@@ -599,21 +472,9 @@
           "destroy",
           "dismantle"
         ]
-      },
-      {
-        "word": "successful",
-        "definition": "Successful refers to the achievement of desired outcomes or goals, often measured by effectiveness, profitability, or recognition. It indicates a favorable result in a given context.",
-        "businessContext": "In business, 'successful' is often used to evaluate the performance of products, strategies, or companies, typically in terms of market share, revenue growth, or customer satisfaction.",
-        "nuance": "The term can imply not just financial success but also social or ethical achievements; use it when discussing outcomes that meet or exceed established objectives.",
-        "synonyms": [
-          "prosperous",
-          "effective"
-        ],
-        "antonyms": [
-          "unsuccessful",
-          "ineffective"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

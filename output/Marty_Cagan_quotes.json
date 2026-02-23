@@ -5,10 +5,7 @@
     "timestamp": "00:00:00",
     "context": "Lenny is asking about product discovery and how teams should spend their time between understanding problems versus creating solutions. Marty is explaining why product teams should focus most of their discovery time on solution development rather than problem validation. He argues that while problems are important, customers ultimately purchase solutions, and the key differentiator is building a better solution than competitors.",
     "vocabulary_highlights": [
-      "solution",
-      "solve",
-      "understanding",
-      "focus"
+      "solution"
     ],
     "topics": [
       "Product Management",
@@ -20,9 +17,9 @@
       "Product Management",
       "Product Strategy"
     ],
-    "text_ko": "사람들은 문제 자체를 사는 게 아니라, 그 문제를 해결해 주는 여러분의 솔루션(solution)을 사요. 물론 그들이 중요하게 여기는 문제를 해결하지 못하면 사지 않아요. 그런데 그들이 신경 쓰는 문제를 해결해 주는 제품(product)은 많아요. 진짜 질문은, 다른 경쟁자보다 더 잘 해결해서 사람들이 여러분의 솔루션(solution)을 선택하게 만들 수 있느냐는 거예요. 그걸 위해 시간을 투자해야 해요.",
-    "text_zh": "客户买的不是问题本身，而是你的解决方案。当然了，如果你解决的不是他们关心的事情，那肯定不会买单。但是市面上解决同样问题的产品一大堆。真正的关键是，你能不能比其他人做得更好，让客户选择你？这就需要你花时间好好琢磨了。",
-    "text_es": "La gente no compra el problema, compra tu solución. Obvio que no la van a comprar si no está resolviendo algo que les importa, pero hay muchos productos que sí resuelven lo que les importa. La pregunta de verdad es: ¿lo resuelves mejor que todos los demás para que te elijan a ti? Y ahí es donde tienes que invertir tiempo.",
+    "text_ko": "사람들은 문제 자체를 사는 게 아니라 그 문제를 해결해주는 해결책(solution)을 사는 거예요. 당연히 사람들이 신경 쓰지 않는 문제를 해결해줘도 사지 않지만, 사람들이 실제로 신경 쓰는 문제를 해결해주는 제품(product)은 꽤 많아요.",
+    "text_zh": "人不是为问题买单，而是为你的解决方案（solution）买单。如果你的东西解决不了他们关心的事，他们当然不会买；但确实有很多产品正好解决了他们在意的问题。",
+    "text_es": "La gente no compra el problema, compra tu solución. Obviamente no la compran si no les resuelve algo que les importa, pero hay muchos productos que sí solucionan eso.",
     "key_sentence": "People don't buy the problem, they buy your solution.",
     "text_trimmed": true,
     "original_text": "People don't buy the problem, they buy your solution. Obviously they don't buy it if it's not solving something they care about, but there are many products that are solving what they care about. The real question is, do you solve it better than everybody else so that they buy you? And that's where you need to take time.",
@@ -41,50 +38,10 @@
           "problem",
           "issue"
         ]
-      },
-      {
-        "word": "solve",
-        "definition": "To find an answer to a problem or to deal effectively with a challenge. It involves the application of critical thinking and analysis.",
-        "businessContext": "In a business context, 'solve' often refers to the process of addressing customer needs or operational challenges through innovative strategies or products.",
-        "nuance": "The term suggests an active, dynamic process and is often used in contexts where creativity and resourcefulness are required.",
-        "synonyms": [
-          "resolve",
-          "address"
-        ],
-        "antonyms": [
-          "complicate",
-          "exacerbate"
-        ]
-      },
-      {
-        "word": "understanding",
-        "definition": "The ability to comprehend or grasp the meaning of something, often involving insight into complex issues or relationships. It is essential for effective communication and decision-making.",
-        "businessContext": "In business, understanding is crucial for identifying customer needs, market trends, and internal dynamics, which informs strategy and operations.",
-        "nuance": "While 'understanding' implies a depth of knowledge, it can also suggest empathy and awareness, particularly in interpersonal or customer relations.",
-        "synonyms": [
-          "comprehension",
-          "insight"
-        ],
-        "antonyms": [
-          "misunderstanding",
-          "ignorance"
-        ]
-      },
-      {
-        "word": "focus",
-        "definition": "The center of interest or activity; the act of concentrating attention on a particular task or objective. It is essential for achieving goals efficiently.",
-        "businessContext": "In business environments, maintaining focus is critical for prioritizing tasks, aligning team efforts, and driving projects to successful completion.",
-        "nuance": "While 'focus' suggests clarity and direction, it can also imply the risk of neglecting other important areas if overemphasized.",
-        "synonyms": [
-          "concentration",
-          "emphasis"
-        ],
-        "antonyms": [
-          "distraction",
-          "diversion"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "It's frustrating because I really thought by the year 2022, we would not have such a chasm between how good companies work and the rest. There's such strong incentives, just the profit motive alone. Why don't more companies want to work like the best?",
@@ -94,8 +51,7 @@
     "vocabulary_highlights": [
       "frustrating",
       "incentives",
-      "profit motive",
-      "persistent gap"
+      "profit motive"
     ],
     "topics": [
       "Product Management",
@@ -107,9 +63,9 @@
       "Product Management",
       "Product Strategy"
     ],
-    "text_ko": "정말 2022년쯤이면 잘하는 회사들이 일하는 방식과 다른 회사들 사이에 이런 큰 격차가 없을 줄 알았어요. 유인이 충분히 강한데, 이윤 동기(profit motive)만 봐도 그렇고요. 그래서 왜 더 많은 회사들이 최고 수준처럼 일하려고 하지 않는지 정말 이해가 안 돼요.",
-    "text_zh": "这真的很让人郁闷，我原本以为到了2022年，优秀公司和普通公司之间不会有这么大的差距。动力其实很强啊，光是利润驱动就够了。为什么更多公司不愿意学习那些最好的公司呢？我觉得这事儿真的很费解。",
-    "text_es": "Es frustrante porque realmente pensé que para el año 2022, no tendríamos semejante abismo entre cómo funcionan las empresas que lo hacen bien y el resto. Hay incentivos muy fuertes, solo el motivo de ganancia ya es suficiente. ¿Por qué no quieren más empresas trabajar como las mejores? Eso me resulta desconcertante.",
+    "text_ko": "정말 답답해요. 2022년이면 잘하는 회사들이 일하는 방식과 다른 회사들 사이에 이렇게 큰 간극이 없을 줄 알았거든요. 수익 동기(profit motive) 하나만으로도 충분히 강력한 유인이 있는데, 왜 더 많은 회사들이 최고처럼 일하려고 하지 않는 걸까요?",
+    "text_zh": "挺让人沮丧的，我真的以为到了2022年，做得好的公司和其他公司的运作方式不会有这么大的差距。市场上的激励很强，单凭利润动机（profit motive）就应该能推动改变。为什么更多公司不愿意像最优秀的公司那样去做？",
+    "text_es": "Me frustra porque de verdad pensaba que para 2022 no habría un abismo tan grande entre cómo trabajan las mejores empresas y las demás. Hay incentivos tan fuertes —con solo el incentivo del lucro (profit motive) debería bastar—. ¿Por qué no hay más empresas dispuestas a trabajar como las mejores?",
     "key_sentence": "The chasm between good companies and the rest is perplexing.",
     "text_trimmed": true,
     "original_text": "It's frustrating because I really thought by the year 2022, we would not have such a chasm between how good companies work and the rest. There's such strong incentives, just the profit motive alone. Why don't more companies want to work like the best? So I find that just perplexing.",
@@ -156,22 +112,10 @@
           "altruism",
           "nonprofit motive"
         ]
-      },
-      {
-        "word": "persistent gap",
-        "definition": "A continuous and significant difference or disparity between two entities or groups over time.",
-        "businessContext": "In business, a persistent gap may refer to ongoing disparities in performance, technology adoption, or market access between leading companies and their competitors.",
-        "nuance": "This term often implies a need for urgent action to address the underlying issues causing the disparity.",
-        "synonyms": [
-          "ongoing disparity",
-          "enduring divide"
-        ],
-        "antonyms": [
-          "equity",
-          "similarity"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "In a feature team, basically you are handed a typical roadmap. Almost everybody, even though I wish this wasn't the case, almost everybody to have the same thing, that it's a prioritized list of features and projects.",
@@ -194,9 +138,9 @@
       "Product Management",
       "Product Strategy"
     ],
-    "text_ko": "기능 팀(feature team)에서는 보통 전형적인 로드맵을 넘겨받아요. 솔직히 이게 아니었으면 좋겠지만, 거의 다들 똑같아요 — 우선순위가 매겨진 기능과 프로젝트 목록(features and projects)을요. 그래서 이해관계자들이 보통 분기마다 모여서, \"우리 쪽 비즈니스를 운영하려면 이 기능들이 필요하다\"고 말해요.",
-    "text_zh": "在功能团队(feature team)里，基本上就是给你一个典型的路线图(roadmap)。几乎所有人，虽然我希望情况不是这样，但几乎所有人拿到的都是同一个东西——就是一个按优先级排列的功能和项目清单。一般是一些利益相关方(stakeholders)聚在一起，通常是每个季度一次，然后他们会说：\"你看，要想把我们这块业务搞好，我们需要这些功能。\"",
-    "text_es": "En un equipo de funcionalidades (feature team), básicamente te entregan una hoja de ruta típica. Casi todo el mundo, aunque ojalá no fuera así, casi todo el mundo tiene lo mismo: una lista priorizada de funcionalidades y proyectos. Entonces se juntan algunos stakeholders, normalmente cada trimestre, y dicen: \"Mira, para manejar nuestra parte del negocio, necesitamos estas funcionalidades.\"",
+    "text_ko": "기능 팀(feature team)에서는 보통 전형적인 로드맵(roadmap)을 넘겨받아요. 안 그랬으면 좋겠지만, 거의 다들 같은 걸 갖고 있어서, 우선순위가 매겨진 기능(features)과 프로젝트(projects) 목록이에요.",
+    "text_zh": "在功能团队（feature team）里，基本上你会被给到一份典型的路线图（roadmap）。几乎每个人——尽管我真心不希望是这样——拿到的都是同样的东西：一个按优先级排好的功能和项目清单。",
+    "text_es": "En un equipo de features (feature team), básicamente te pasan una hoja de ruta (roadmap) típica. Prácticamente todo el mundo —aunque ojalá no fuera así— tiene lo mismo: una lista priorizada de funcionalidades (features) y proyectos.",
     "key_sentence": "A prioritized list of features guides typical roadmap decisions.",
     "text_trimmed": true,
     "original_text": "In a feature team, basically you are handed a typical roadmap. Almost everybody, even though I wish this wasn't the case, almost everybody to have the same thing, that it's a prioritized list of features and projects. So some stakeholders got together, usually quarterly, and they say, 'Look, to run our part of the business, we need these features.'",
@@ -258,7 +202,8 @@
           "operations"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "But on an empowered product team, where you're trying to come up with a solution that solves the problem you've been assigned, that's much harder because that means we have to discover a solution that's valuable, usable, feasible, viable.",
@@ -281,9 +226,9 @@
       "Product Management",
       "Product Strategy"
     ],
-    "text_ko": "하지만 권한이 주어진 프로덕트 팀(empowered product team)에서는 배정된 문제를 실제로 해결할 수 있는 해법을 찾아내야 해서 훨씬 더 어려워요. 우리가 찾아야 하는 해법은 가치(valuable)가 있고, 사용성(usable)이 뛰어나고, 실현 가능성(feasible)이 있으며, 사업성(viable)도 갖춰야 하거든요. 엔지니어들은 확실히 실현 가능성(feasible)을 책임지고, 디자이너는 사용성(usable)을 책임지지만, 가치(valuable)와 사업성(viable) — 이 두 가지가 가장 어려운 과제들 중 하나예요 — 을 책임지는 건 프로덕트 매니저(product manager)예요.",
-    "text_zh": "但是在一个有自主权的产品团队里，你要想出解决方案来搞定分配给你的问题，这就难多了，因为这意味着我们得找到一个既有价值、又好用、还能实现、也能盈利的解决方案。虽然工程师肯定负责\"能不能实现\"这块，设计师肯定负责\"好不好用\"这块，但是\"有没有价值\"和\"能不能盈利\"——这两个最难搞的事情，就是产品经理的活儿了。",
-    "text_es": "Pero en un equipo de producto empoderado (empowered), donde estás tratando de encontrar una solución que resuelva el problema que te asignaron, eso es mucho más difícil porque significa que tenemos que descubrir una solución que sea valiosa, usable, factible y viable. Ahora, mientras que los ingenieros definitivamente se encargan de lo factible, y el diseñador se encarga de lo usable, lo valioso y lo viable, que son dos de las cosas más difíciles de lograr, eso le toca al product manager.",
+    "text_ko": "하지만 권한을 가진 제품팀(empowered product team)에서는 맡은 문제를 실제로 해결할 수 있는 해결책을 만들어야 해서 훨씬 더 어려워요. 그건 곧 가치 있고(valuable), 사용하기 쉬우며(usable), 실현 가능하고(feasible), 사업적으로 성립 가능한(viable) 해결책을 찾아내야 한다는 뜻이기 때문이에요.",
+    "text_zh": "但在一个有自主权的产品团队（empowered product team）里，要想出能解决交给你们的问题的方案要难得多，因为这意味着你们必须找到一个既有价值 (valuable)、好用 (usable)、可实现 (feasible)、又商业上可行 (viable) 的解决方案。",
+    "text_es": "Pero en un equipo de producto con autonomía (empowered), donde intentas dar con una solución que resuelva el problema que te han asignado, eso es mucho más difícil porque implica que tenemos que encontrar una solución que sea valiosa (valuable), usable (usable), factible (feasible) y viable (viable).",
     "key_sentence": "An empowered product team discovers valuable, usable, feasible, and viable solutions.",
     "text_trimmed": true,
     "original_text": "But on an empowered product team, where you're trying to come up with a solution that solves the problem you've been assigned, that's much harder because that means we have to discover a solution that's valuable, usable, feasible, viable. Now while the engineers definitely own feasible, and the designer definitely owns usable, valuable and viable, which are two of the hardest things to do, that's the product manager.",
@@ -345,7 +290,8 @@
           "unworkable"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "Nothing I talk about, and honestly being very clear, nothing I've written about in Inspired, nothing I've written about in Empowered was invented by us. All we do is share the practices we see being used in the best teams.",
@@ -353,8 +299,6 @@
     "timestamp": "12:16",
     "context": "Lenny asks whether the high-performing product practices Marty describes actually exist at real companies, as some people doubt these methods are used anywhere. Marty explains his methodology for developing recommendations - he doesn't invent practices but rather observes and shares what the best product teams are already doing. He describes his approach of only recommending practices that are proven effective at multiple top-performing companies.",
     "vocabulary_highlights": [
-      "high-performing",
-      "methodology",
       "practices",
       "teams"
     ],
@@ -368,42 +312,14 @@
       "Product Management",
       "Product Strategy"
     ],
-    "text_ko": "솔직히 말하면요, 제가 이야기하는 것들—그리고 분명히 해두자면 제가 Inspired나 Empowered에 쓴 내용들 중 어느 것도 우리가 발명한 게 아니에요. 우리가 하는 건 최고의 팀들이 실제로 쓰는 관행들만 공유하는 거예요. 그래서 판단 기준(heuristic)은 꽤 간단해요. 여러 우수한 팀들이 쓰고 있으면, '좋아요, 그럼 추천을 시작해보죠' 하는 식이에요.",
-    "text_zh": "说实话，我讲的这些东西，还有我在《启示录》和《赋能》里写的那些，都不是我们发明的。我们就是把那些顶尖团队在用的方法分享出来而已。判断标准其实很简单——如果好几个顶级团队都在用某个做法，我们就会想\"行，那咱们就开始推荐这个方法吧。\"",
-    "text_es": "Nada de lo que hablo, y siendo muy honesto, nada de lo que he escrito en Inspired, nada de lo que he escrito en Empowered lo inventamos nosotros. Lo único que hacemos es compartir las prácticas que vemos que usan los mejores equipos. Así que la regla es bastante sencilla. Si varios de los mejores equipos lo están usando, decimos: \"Bueno, empecemos a recomendarlo.\"",
+    "text_ko": "제가 하는 얘기들—솔직히, 그리고 분명히 말씀드리면—'Inspired'에 쓴 내용도, 'Empowered'에 쓴 내용도 저희가 발명한 게 아니에요. 저희는 단지 가장 잘하는 팀들에서 실제로 쓰이고 있는 방법들을 공유할 뿐이에요.",
+    "text_zh": "我说的这些话，说实话得讲清楚：我在《Inspired》(Inspired)和《Empowered》(Empowered)里写的东西，并不是我们发明的。我们只是把那些在最棒的团队里真正用得好的做法分享出来而已。",
+    "text_es": "Nada de lo que digo, y para dejarlo bien claro, nada de lo que escribí en Inspired ni en Empowered lo inventamos nosotros. Solo compartimos las prácticas que vemos que usan los mejores equipos.",
     "key_sentence": "The heuristic is to recommend practices used by the best teams.",
     "text_trimmed": true,
     "original_text": "Nothing I talk about, and honestly being very clear, nothing I've written about in Inspired, nothing I've written about in Empowered was invented by us. All we do is share the practices we see being used in the best teams. So the heuristic is pretty easy. If it's used by several of the best teams, we're like, 'Okay, let's start recommending it.'",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "high-performing",
-        "definition": "Characterized by exceptional efficiency and effectiveness in achieving goals or objectives.",
-        "businessContext": "In business and tech environments, 'high-performing' often describes teams or individuals who consistently exceed performance benchmarks and contribute significantly to organizational success.",
-        "nuance": "This term conveys a positive connotation and is typically used to highlight excellence, but should be applied carefully to avoid unrealistic expectations.",
-        "synonyms": [
-          "top-performing",
-          "elite"
-        ],
-        "antonyms": [
-          "low-performing",
-          "underachieving"
-        ]
-      },
-      {
-        "word": "methodology",
-        "definition": "A systematic, theoretical analysis of the methods applied to a field of study or practice.",
-        "businessContext": "In business and tech, 'methodology' refers to structured approaches used to manage projects, conduct research, or implement processes, such as Agile or Lean methodologies.",
-        "nuance": "While often used interchangeably with 'methods,' 'methodology' implies a broader framework and should be used when discussing the rationale behind chosen methods.",
-        "synonyms": [
-          "approach",
-          "system"
-        ],
-        "antonyms": [
-          "randomness",
-          "chaos"
-        ]
-      },
       {
         "word": "practices",
         "definition": "Established methods or techniques that are regularly employed in a specific field or activity.",
@@ -432,7 +348,9 @@
           "solos"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "And his argument was because as a company gets bigger, product historically became less important. The people in a company that would be celebrated were marketing people, sales people, finance people. If a company stops innovating, these are the engines for growth.",
@@ -440,7 +358,6 @@
     "timestamp": "18:59",
     "context": "Lenny asks about insights from Steve Jobs's lost interview documentary. Marty explains Jobs's theory about why companies lose their product innovation edge as they grow. According to Jobs, as companies get larger and stop innovating, the focus shifts from product development to other functions like sales, marketing, and finance, which become the primary drivers of business results. These non-product functions then gain more influence and recognition within the company.",
     "vocabulary_highlights": [
-      "innovation",
       "engines for growth",
       "celebrated",
       "historically"
@@ -456,28 +373,14 @@
       "Product Management",
       "Product Strategy"
     ],
-    "text_ko": "그의 주장은, 회사가 커질수록 역사적으로 프로덕트(product)의 중요성이 낮아졌다는 거였어요. 회사에서 칭찬받는 사람들은 마케팅(marketing), 영업(sales), 재무(finance) 같은 사람들이죠. 그리고 회사가 혁신을 멈추면 이 사람들이 성장(growth)의 엔진이라고 여겨지는데, 사실은 성장을 만들어낸다기보다 비용 절감(cost-cutting)으로 조직을 굴리는 쪽이에요.",
-    "text_zh": "他的观点是，公司规模越大，产品就越不重要了。公司里受到重视的都是做市场的、跑销售的、搞财务的人。如果一个公司不再创新了，那增长就只能靠这些了——销售、市场营销，财务虽然不能带来增长，但至少能控制成本。",
-    "text_es": "Y su argumento era que mientras más grande se vuelve una empresa, históricamente el producto va perdiendo importancia. La gente que celebraban en la compañía eran los de marketing, los de ventas, los de finanzas. Si una empresa deja de innovar, estos son los motores de crecimiento. Ventas, marketing, o bueno, con finanzas no es crecimiento, sino recortar costos.",
+    "text_ko": "그의 요지는 회사가 커질수록 역사적으로 제품(product)의 중요성이 떨어져 왔다는 거예요. 회사에서 주로 주목받는 건 마케팅(marketing), 영업(sales), 재무(finance) 쪽 사람들이고요. 회사가 혁신을 멈추면 이들이 성장의 엔진이 돼요.",
+    "text_zh": "他说，按以往经验，随着公司越做越大，产品的重要性反而会下降。公司里被看重的通常是市场/营销(marketing)、销售(sales)、财务(finance)这些人。要是公司不再创新，这些人就成了推动增长的主力。",
+    "text_es": "Su argumento era que, a medida que una empresa crece, históricamente el producto (product) pierde importancia. Los que suelen recibir más reconocimiento en la empresa son la gente de marketing (marketing), de ventas (sales) y de finanzas (finance). Si una empresa deja de innovar, esos son los motores del crecimiento.",
     "key_sentence": "Sales and marketing are engines for growth when companies stop innovating.",
     "text_trimmed": true,
     "original_text": "And his argument was because as a company gets bigger, product historically became less important. The people in a company that would be celebrated were marketing people, sales people, finance people. If a company stops innovating, these are the engines for growth. Sales, marketing, or not growth with finance, but cutting cost.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "innovation",
-        "definition": "The process of creating new ideas, products, or methods that improve efficiency or effectiveness. It often involves the application of creative thinking to solve problems or meet market demands.",
-        "businessContext": "In business and technology, innovation is crucial for maintaining competitive advantage and driving growth, often leading to the development of new products or services that meet evolving consumer needs.",
-        "nuance": "While 'innovation' generally has a positive connotation, it can imply risk and uncertainty, especially when it involves significant changes to existing processes or products.",
-        "synonyms": [
-          "creativity",
-          "novelty"
-        ],
-        "antonyms": [
-          "stagnation",
-          "conformity"
-        ]
-      },
       {
         "word": "engines for growth",
         "definition": "Key drivers or mechanisms that propel a business or economy forward, often through increased productivity, sales, or market expansion. These engines can include innovation, effective marketing, and strong sales strategies.",
@@ -520,7 +423,9 @@
           "currently"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "And he called it the disease of the stakeholders, of the managers, where they think that an idea is 90% of the work. And that's how he called it out. And he's like, 'They don't understand. The idea is minor.",
@@ -529,8 +434,6 @@
     "context": "Lenny asks about executives who believe they know exactly what to build without going through discovery processes. Marty references Steve Jobs's insights about management diseases, specifically the misconception that having an idea represents most of the work in product development. Jobs emphasized that ideas are just starting points, and the real work lies in the craftsmanship of transforming ideas into successful products through what is now called product discovery.",
     "vocabulary_highlights": [
       "stakeholders",
-      "discovery processes",
-      "management diseases",
       "minor"
     ],
     "topics": [
@@ -543,9 +446,9 @@
       "Product Management",
       "Product Strategy"
     ],
-    "text_ko": "그는 그걸 이해관계자들이나 관리자들이 가진 병이라고 불렀어요. 그 사람들이 아이디어가 일의 90%라고 생각한다고 꼬집었죠. '그들은 모르는 거야. 아이디어는 사소해. 아이디어는 그냥 시작일 뿐이야.'라고 말했고, '아이디어에서 제품으로 가는 전체적인 장인정신'이라고 했던 것 같아요. 이게 우리가 제품 발견(product discovery)이라고 부르는 거예요.",
-    "text_zh": "他把这个叫做利益相关者和管理层的通病，就是他们觉得有了想法就等于完成了90%的工作。他就是这么说的。他说：\"他们根本不懂，想法其实很次要，想法只是个开始而已。\"我记得他说过：\"从想法到产品这整个打磨过程才是关键。\"这就是我们说的产品探索(product discovery)。",
-    "text_es": "Y él le puso \"la enfermedad de los stakeholders, de los managers\", donde piensan que una idea es el 90% del trabajo. Así lo describió. Y decía: \"No entienden. La idea es lo de menos. La idea es solo para empezar.\" Creo que dijo algo como \"Todo el arte de llevar una idea hasta convertirla en producto.\" A eso le llamamos product discovery.",
+    "text_ko": "그는 그걸 이해관계자들(stakeholders)과 관리자들(managers)의 병이라고 불렀어요. 그 사람들은 아이디어가 일의 90%라고 생각해요. 그는 그렇게 지적하면서 \"그들은 이해하지 못해요. 아이디어는 사소한 부분이에요.\"라고 말했어요.",
+    "text_zh": "他把这称为利益相关者(stakeholders)和管理者(managers)的通病——他们以为有个想法就等于完成了90%的工作。他就是这么指出的，说：“他们不懂，想法只是很小的一部分。”",
+    "text_es": "Lo llamó la “enfermedad de las partes interesadas (stakeholders), de los gerentes”, porque creen que una idea es el 90% del trabajo. Y lo dejó claro: “No lo entienden. La idea es lo de menos.”",
     "key_sentence": "The idea is minor.",
     "text_trimmed": true,
     "original_text": "And he called it the disease of the stakeholders, of the managers, where they think that an idea is 90% of the work. And that's how he called it out. And he's like, 'They don't understand. The idea is minor. The idea is just to start.' I think he said, 'The whole craftsmanship of going from an idea to a product.' This is what we call product discovery.",
@@ -566,34 +469,6 @@
         ]
       },
       {
-        "word": "discovery processes",
-        "definition": "Systematic methods used to identify, explore, and validate new ideas, opportunities, or solutions within a business context.",
-        "businessContext": "In startups and innovation-driven companies, discovery processes are crucial for developing products or services that meet market needs and for minimizing risks associated with new ventures.",
-        "nuance": "This term often emphasizes the iterative nature of exploration and learning, distinguishing it from more linear project management approaches.",
-        "synonyms": [
-          "exploratory methods",
-          "innovation processes"
-        ],
-        "antonyms": [
-          "implementation processes",
-          "execution phases"
-        ]
-      },
-      {
-        "word": "management diseases",
-        "definition": "Metaphorical terms used to describe common pitfalls or ineffective practices in management that hinder organizational performance.",
-        "businessContext": "In a business setting, management diseases can manifest as poor communication, lack of vision, or overemphasis on ideas without execution, leading to stagnation or failure.",
-        "nuance": "The phrase carries a negative connotation, suggesting that these issues are pervasive and detrimental to the health of an organization.",
-        "synonyms": [
-          "organizational dysfunctions",
-          "managerial pitfalls"
-        ],
-        "antonyms": [
-          "effective management practices",
-          "organizational health"
-        ]
-      },
-      {
         "word": "minor",
         "definition": "Of lesser importance, significance, or impact compared to other elements or factors.",
         "businessContext": "In business discussions, labeling an idea as minor suggests that it should not be the primary focus or that it lacks the weight necessary to drive significant outcomes.",
@@ -607,6 +482,8 @@
           "significant"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

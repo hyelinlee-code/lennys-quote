@@ -7,8 +7,7 @@
     "vocabulary_highlights": [
       "entrepreneur",
       "startup",
-      "industry",
-      "platform"
+      "industry"
     ],
     "topics": [
       "Leadership & Management",
@@ -21,9 +20,9 @@
       "Company Building",
       "Fundraising"
     ],
-    "text_ko": "결국 정리하자면, 우리는 전 세계적인 위기(global crises)를 보며 '아, 이게 어느 업계(industry)에 영향을 주겠구나'라고 말하죠. 그런데 창업가(entrepreneur) 입장에서는 업계는 신경 안 쓰고 자기 스타트업(startup)만 신경 써요, 그게 전부예요. 그리고 세상이 다 같은 문제로 고통받는다고 해도, 그건 자기한테 아무 도움이 되지 않아요, 조금도요.",
-    "text_zh": "总的来说，我觉得最终来看，我们看到全球危机的时候会说\"哦，这会影响整个行业\"。但作为创业者，你根本不在乎什么行业，你只在乎你自己的初创公司(startup)，就这么简单。全世界其他人都遇到同样的问题，对你一点用都没有，一丁点儿帮助都没有。",
-    "text_es": "En general, yo diría que al final del día, vemos las crisis globales y decimos \"Ay, esto va a impactar toda la industria.\" Pero como emprendedor, te vale madre la industria - perdón por la expresión - te importa tu propia startup y ya. Y si el resto del mundo está sufriendo el mismo problema, no te ayuda para nada, ni tantito.",
+    "text_ko": "창업가로서 업계 자체보다 내 스타트업에만 신경 써요. 그게 다예요.",
+    "text_zh": "创业者关心的不是整个行业，而是自家的公司，仅此而已。",
+    "text_es": "Como emprendedor, lo único que te importa no es el sector, sino tu propia empresa emergente (startup). Eso es todo.",
     "key_sentence": "you care about your own startup, that's it.",
     "text_trimmed": true,
     "original_text": "So by and large I would say end of the day, we look at the global crisises and we say, \"Oh, this is going to impact an industry.\" But as an entrepreneur, you don't care about the industry, you care about your own startup, that's it. And if the rest of the world is suffering from the same problem, doesn't help you, not even a single bit.",
@@ -70,22 +69,10 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "platform",
-        "definition": "A platform is a technology or service that enables users to create, share, and interact with content or services, often serving as a foundation for other applications.",
-        "businessContext": "In the context of startups, platforms are critical as they can facilitate user engagement and scalability, often leading to network effects that enhance value.",
-        "nuance": "The term suggests a level of interactivity and user participation, and is often used in discussions about digital ecosystems, but may not be suitable for traditional, non-interactive business models.",
-        "synonyms": [
-          "framework",
-          "infrastructure"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "So two types of, abstractly, two types of crisis. One is that I would call that a cash crisis.",
@@ -93,10 +80,7 @@
     "timestamp": "00:23:59",
     "context": "Lenny asks Uri to create a taxonomy of the different types of crises that founders face. Uri breaks down the major existential threats into two categories: cash crises (when your funding or revenue streams are suddenly at risk) and product-market fit crises (when your product becomes irrelevant). He explains that cash crises involve financial pressures like losing customers or investors, while product-market fit loss means you need to start over completely.",
     "vocabulary_highlights": [
-      "taxonomy",
-      "existential",
-      "crisis",
-      "funding"
+      "crisis"
     ],
     "topics": [
       "Starting a Company",
@@ -109,42 +93,14 @@
       "Company Building",
       "Fundraising"
     ],
-    "text_ko": "추상적으로 보면 위기는 크게 두 가지예요. 하나는 제가 '자금 위기(cash crisis)'라고 부르는 건데, 예를 들어 갑자기 고객을 잃거나 투자자가 떠나거나 기대에 못 미치거나 시장에서 가격이 급격히 변해서 현금 흐름이나 자금 운영 계획이 위태로워지는 상황이에요. 다른 하나는 제품-시장 적합성(product-market fit)을 잃는 거예요.",
-    "text_zh": "抽象来说，有两种危机。一种我叫它现金危机，就是突然间你的现金流计划出了问题，可能是丢了大客户、投资人跑了、业绩没达到预期，或者市场价格大幅波动什么的。另一种就是产品和市场不匹配了，失去了product market fit。",
-    "text_es": "Entonces hay dos tipos de crisis, hablando en abstracto. Una que yo llamaría crisis de liquidez o de caja. De repente tu programa de flujo de efectivo o tu plan se ve amenazado, ya sea por perder un cliente importante, que desaparezca un inversionista, no cumplir tus expectativas, un cambio drástico de precios en el mercado, y cosas así. Y la otra es la pérdida del product market fit.",
+    "text_ko": "그러니까 위기는 추상적으로 두 가지로 나눌 수 있어요. 하나는 제가 '현금 위기(cash crisis)'라고 부르는 유형이에요.",
+    "text_zh": "总的来说，危机大体上可以分成两类。一类就是我说的现金危机（cash crisis）。",
+    "text_es": "A grandes rasgos, hay dos tipos de crisis. Una de ellas la llamaría crisis de caja (cash crisis).",
     "key_sentence": "One is that I would call that a cash crisis.",
     "text_trimmed": true,
     "original_text": "So two types of, abstractly, two types of crisis. One is that I would call that a cash crisis. So all of a sudden your cash program or plan is being jeopardized, for losing a customer, disappearing investor, not meeting your expectation, dramatic price change in the market and so forth. And the other one is lose of product market fit.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "taxonomy",
-        "definition": "Taxonomy refers to the classification of entities into categories based on shared characteristics or criteria. It is often used to organize complex information systematically.",
-        "businessContext": "In business and technology, taxonomy is crucial for data organization, product categorization, and improving user experience through structured information architecture.",
-        "nuance": "While taxonomy implies a hierarchical structure, it can also suggest a level of complexity that may not be necessary in all contexts, so it should be used when precision in classification is required.",
-        "synonyms": [
-          "classification",
-          "categorization"
-        ],
-        "antonyms": [
-          "disorganization",
-          "chaos"
-        ]
-      },
-      {
-        "word": "existential",
-        "definition": "Existential pertains to existence or the nature of being, often addressing fundamental questions about life and human experience. It can also refer to crises that challenge one's sense of purpose.",
-        "businessContext": "In a business context, existential issues may arise during strategic decision-making, particularly when companies face challenges that threaten their core identity or long-term viability.",
-        "nuance": "The term carries a philosophical weight, so it is best used in discussions about profound challenges or dilemmas rather than routine operational issues.",
-        "synonyms": [
-          "ontological",
-          "philosophical"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
       {
         "word": "crisis",
         "definition": "A crisis is a significant event or situation that poses a threat to an organization, requiring urgent action and decision-making to mitigate potential damage.",
@@ -158,22 +114,10 @@
           "stability",
           "calm"
         ]
-      },
-      {
-        "word": "funding",
-        "definition": "Funding refers to the financial resources provided to support a project, initiative, or organization, often sourced from investors, grants, or loans.",
-        "businessContext": "In the startup ecosystem, securing funding is critical for growth and development, as it enables businesses to scale operations, invest in research and development, and expand market reach.",
-        "nuance": "While 'funding' is a neutral term, it can carry different connotations depending on the source (e.g., venture capital may imply high expectations for returns), so context is essential.",
-        "synonyms": [
-          "financing",
-          "capital"
-        ],
-        "antonyms": [
-          "debt",
-          "deficit"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Never give up is the most important behavior of successful CEOs of startup. The second one, by the way, is making decisions with conviction. If you don't make them with conviction, then the team is not going to follow.",
@@ -181,10 +125,7 @@
     "timestamp": "00:00:35",
     "context": "Lenny asks Uri about his advice to never give up during a crisis. Uri explains the two most critical behaviors for startup CEOs: persistence and decisive leadership. He emphasizes that making decisions with conviction is essential because team members need to see strong leadership to maintain their commitment, especially during difficult times when uncertainty could cause talented people to leave the company.",
     "vocabulary_highlights": [
-      "persistence",
-      "decisive",
-      "conviction",
-      "critical"
+      "conviction"
     ],
     "topics": [
       "Leadership & Management",
@@ -197,42 +138,14 @@
       "Company Building",
       "Fundraising"
     ],
-    "text_ko": "성공한 스타트업(startup)의 최고경영자(CEO)들에게 가장 중요한 행동은 절대 포기하지 않는 거예요. 두 번째로 중요한 건 확신(conviction)을 가지고 결정을 내리는 거예요. 확신 없이 결정을 하면 팀이 따라오지 않고, 팀이 따라오지 않으면 결국 성공하기 어렵거든요.",
-    "text_zh": "对于创业公司的CEO来说，永不放弃是成功最重要的品质。第二个呢，就是要有魄力地做决策。如果你做决定的时候犹犹豫豫的，团队就不会跟着你走。团队都不跟你，那你肯定做不成事儿。",
-    "text_es": "Nunca rendirse es lo más importante que tienen que hacer los CEOs exitosos de startups. Lo segundo, por cierto, es tomar decisiones con convicción. Si no las tomas con convicción, entonces el equipo no te va a seguir. Y si el equipo no te sigue, no vas a tener éxito.",
+    "text_ko": "스타트업(startup)에서 성공한 CEO들에게 가장 중요한 행동은 포기하지 않는 거예요. 두 번째로 중요한 건 확신을 갖고 결정을 내리는 거예요. 확신 없이 결정을 내리면 팀이 따라오지 않아요.",
+    "text_zh": "对创业公司CEO (startup CEO) 来说，最重要的一点就是别放弃。顺便说一句，第二重要的是做决定要有底气——没底气，团队就不会跟你走。",
+    "text_es": "No darse por vencido es la actitud más importante de los directores ejecutivos (CEOs) de startups exitosas. La segunda es tomar decisiones con convicción. Si no las tomas con convicción, el equipo no te va a seguir.",
     "key_sentence": "Successful CEOs excel at making decisions with conviction.",
     "text_trimmed": true,
     "original_text": "Never give up is the most important behavior of successful CEOs of startup. The second one, by the way, is making decisions with conviction. If you don't make them with conviction, then the team is not going to follow. If the team is not going to follow, then you are not going to be successful.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "persistence",
-        "definition": "The quality of continuing steadily despite difficulties or opposition.",
-        "businessContext": "In business, persistence is crucial for overcoming challenges and achieving long-term goals, especially in the fast-paced environment of startups where setbacks are common.",
-        "nuance": "While persistence is generally viewed positively, it can sometimes imply stubbornness if not balanced with adaptability.",
-        "synonyms": [
-          "tenacity",
-          "determination"
-        ],
-        "antonyms": [
-          "quitting",
-          "yielding"
-        ]
-      },
-      {
-        "word": "decisive",
-        "definition": "Having the ability to make decisions quickly and effectively.",
-        "businessContext": "Decisive leaders in startups can navigate uncertainty and guide their teams with confidence, which is essential for maintaining momentum in a competitive landscape.",
-        "nuance": "Being decisive is often seen as a strength, but it should be tempered with careful consideration to avoid hasty mistakes.",
-        "synonyms": [
-          "resolute",
-          "determined"
-        ],
-        "antonyms": [
-          "indecisive",
-          "hesitant"
-        ]
-      },
       {
         "word": "conviction",
         "definition": "A firmly held belief or opinion that influences one's actions and decisions.",
@@ -246,22 +159,10 @@
           "doubt",
           "uncertainty"
         ]
-      },
-      {
-        "word": "critical",
-        "definition": "Of great importance or significance; essential for success.",
-        "businessContext": "In the context of startups, critical decisions can determine the viability of a business model or product, making it imperative for leaders to assess situations thoroughly.",
-        "nuance": "While 'critical' often has a negative connotation in everyday usage, in business, it indicates urgency and importance rather than negativity.",
-        "synonyms": [
-          "crucial",
-          "vital"
-        ],
-        "antonyms": [
-          "insignificant",
-          "trivial"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "At the end of the day, you cannot rely on someone else, you have only one company, you need to make sure that this company is successful. When you assume responsibility, you're basically saying, \"You know what, I control my own destiny.\"",
@@ -271,8 +172,7 @@
     "vocabulary_highlights": [
       "assume responsibility",
       "control my own destiny",
-      "successful",
-      "external factors"
+      "successful"
     ],
     "topics": [
       "Leadership & Management",
@@ -332,22 +232,9 @@
           "unsuccessful",
           "failing"
         ]
-      },
-      {
-        "word": "external factors",
-        "definition": "Elements or influences that originate outside an organization or individual and can impact performance or outcomes.",
-        "businessContext": "In business analysis, external factors include market trends, economic conditions, regulatory changes, and competitive actions that can affect strategic decisions.",
-        "nuance": "This term is often used in contrast to internal factors, and it is important to specify which external factors are relevant to the discussion to provide clarity.",
-        "synonyms": [
-          "outside influences",
-          "environmental factors"
-        ],
-        "antonyms": [
-          "internal factors",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "The longer that you wait, you actually lose options. The only ability to choose is today. This is one of the most challenging part of a crisis. You actually need to make a decision rapidly, like today.",
@@ -442,9 +329,7 @@
     "context": "Uri is describing how his ski vacation booking company WeSki survived the COVID crisis. When the pandemic shut down European ski resorts, the company faced potential bankruptcy since they were supposed to become profitable that year. Uri explains how the team had to make assumptions about how long the crisis would last and plan accordingly, even though success seemed unlikely when they were in the thick of the crisis.",
     "vocabulary_highlights": [
       "chances",
-      "successful",
-      "potential",
-      "bankruptcy"
+      "successful"
     ],
     "topics": [
       "Starting a Company",
@@ -457,9 +342,9 @@
       "Company Building",
       "Fundraising"
     ],
-    "text_ko": "그 상황 한가운데에 있을 때 스스로 '우리가 결국 성공할 가능성은 얼마나 될까?' 하고 물어보면, 가능성은 훨씬 작아 보여요. 훨씬 작아요. 그래서 여기서 벌어진 일은 '아, 이건 영원히 계속되는 게 아니구나'라고 깨닫게 된다는 거예요. 스키는 다시 돌아오겠지만 언제일지는 모르니까 다시 돌아올 때까지 두 시즌 정도, 그러니까 2022년까지 계속될 거라고 가정하게 되는 거예요.",
-    "text_zh": "当你身处其中的时候，你会问自己，我们成功的几率到底有多大？看起来真的很渺茫，非常渺茫。所以这时候你就意识到，好吧，这种情况不会永远持续下去，滑雪产业肯定会回来的，但我们不知道要多久，所以我们假设可能要两个雪季才能恢复，也就是要到2022年。",
-    "text_es": "Si estás en pleno proceso y te preguntas, ¿cuáles son las posibilidades de que al final tengamos éxito? Se ve mucho más difícil. Muchísimo más difícil. Entonces lo que pasó aquí es que te das cuenta de que, bueno, esto no es para siempre, el esquí va a regresar pero no sabemos cuándo y por eso asumimos que va a ser por dos temporadas hasta que regrese, hasta 2022.",
+    "text_ko": "프로젝트 한창 진행 중일 때 스스로 '우리가 결국 성공할 가능성은 얼마나 될까?'라고 물어보면, 성공 확률이 훨씬 낮아 보여요. 훨씬 낮아 보여요.",
+    "text_zh": "当你身处其中，会不由得问自己：我们最后成功的几率到底有多大？看上去要小得多，真的小得多。",
+    "text_es": "Si estás en medio de esto y te preguntas: ¿qué probabilidades hay de que al final tengamos éxito? Se ven mucho más bajas. Mucho más bajas.",
     "key_sentence": "Chances of success look way smaller when you are in the middle of it.",
     "text_trimmed": true,
     "original_text": "If you are in the middle of it and you ask yourself, so what are the chances that we will end up being successful? It looks way smaller. Way smaller. So what happened here is that you realize that, okay, this is not forever, so ski is going to come back but we don't know how long and therefore we assume that it's going to be for two seasons until it's coming back, until 2022.",
@@ -492,36 +377,10 @@
           "unsuccessful",
           "failed"
         ]
-      },
-      {
-        "word": "potential",
-        "definition": "The inherent ability or capacity for growth, development, or future success.",
-        "businessContext": "In business, 'potential' often refers to untapped opportunities within markets, products, or personnel that could lead to significant advancements or profits.",
-        "nuance": "While 'potential' suggests promise, it can also imply uncertainty, as it does not guarantee actual results without effective execution.",
-        "synonyms": [
-          "capability",
-          "possibility"
-        ],
-        "antonyms": [
-          "limitation",
-          "inability"
-        ]
-      },
-      {
-        "word": "bankruptcy",
-        "definition": "A legal status of a person or entity that cannot repay the debts it owes to creditors.",
-        "businessContext": "In business, bankruptcy signifies a critical financial situation that can lead to liquidation or restructuring, impacting stakeholders, employees, and market perceptions.",
-        "nuance": "The term carries a strong negative connotation, often associated with failure, though it can also represent a strategic option for recovery in dire circumstances.",
-        "synonyms": [
-          "insolvency",
-          "liquidation"
-        ],
-        "antonyms": [
-          "solvency",
-          "financial stability"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "During crisis, people will appreciate more than anything else transparency. And if you hide information from them, then they would leave, they don't trust you anymore.",
@@ -530,9 +389,7 @@
     "context": "Lenny asks Uri for advice on keeping team members motivated and engaged during a crisis. Uri emphasizes the critical importance of transparent communication with employees during difficult times. He explains that hiding bad news from the team will backfire because people can sense when something is wrong, and dishonesty will cause them to lose trust and leave the company when you need them most.",
     "vocabulary_highlights": [
       "transparency",
-      "trust",
-      "critical",
-      "communication"
+      "trust"
     ],
     "topics": [
       "Leadership & Management",
@@ -545,9 +402,9 @@
       "Company Building",
       "Fundraising"
     ],
-    "text_ko": "위기 상황에서는 무엇보다 투명성(transparency)을 가장 높게 평가해요. 정보를 숨기면 사람들은 떠나고 더 이상 신뢰하지 않아요. 어차피 위기가 닥치면 모두가 그 사실을 알고 있어서 누구에게도 놀랄 일이 아니에요.",
-    "text_zh": "遇到危机的时候，大家最看重的就是透明度。你要是藏着掖着不告诉他们实情，人家就会走人，再也不信任你了。但是如果真的出了危机，你想想，既然出了危机，那大家肯定都知道有问题，这也不是什么意外的事儿。",
-    "text_es": "Durante una crisis, la gente va a valorar más que nada la transparencia. Y si les ocultas información, entonces se van a ir, ya no confían en ti. Pero si hay una crisis, y mira, si hay una crisis entonces todo el mundo sabe que hay una crisis, no es ninguna sorpresa para nadie.",
+    "text_ko": "위기(crisis) 상황에서는 사람들은 무엇보다 투명성(transparency)을 가장 높이 평가해요. 정보를 숨기면 사람들은 떠나고 더 이상 당신을 신뢰하지 않아요.",
+    "text_zh": "危机时，人们最看重的是透明。如果你对他们隐瞒信息，他们就会走，不再信任你。",
+    "text_es": "En una crisis, la gente valorará por encima de todo la transparencia. Si les ocultas información, se irán; ya no confiarán en ti.",
     "key_sentence": "During crisis, people will appreciate more than anything else transparency.",
     "text_trimmed": true,
     "original_text": "During crisis, people will appreciate more than anything else transparency. And if you hide information from them, then they would leave, they don't trust you anymore. But if there is a crisis, and look, if there is a crisis then everyone knows that there is a crisis, it's not surprising for anyone.",
@@ -580,35 +437,9 @@
           "distrust",
           "suspicion"
         ]
-      },
-      {
-        "word": "critical",
-        "definition": "Of great importance or significance; essential for success or failure.",
-        "businessContext": "In business, critical decisions or factors can determine the trajectory of a project or the overall health of an organization.",
-        "nuance": "While often used to denote urgency, 'critical' can also imply a need for careful analysis and consideration.",
-        "synonyms": [
-          "crucial",
-          "vital"
-        ],
-        "antonyms": [
-          "insignificant",
-          "unimportant"
-        ]
-      },
-      {
-        "word": "communication",
-        "definition": "The act of conveying information or expressing thoughts and feelings through verbal, written, or non-verbal means.",
-        "businessContext": "Effective communication is vital in business for ensuring clarity, alignment, and collaboration among teams and stakeholders.",
-        "nuance": "While communication can be formal or informal, the context often dictates the most appropriate style and medium to use.",
-        "synonyms": [
-          "conveyance",
-          "discourse"
-        ],
-        "antonyms": [
-          "silence",
-          "miscommunication"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

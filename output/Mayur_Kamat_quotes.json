@@ -5,10 +5,7 @@
     "timestamp": "00:00:00",
     "context": "Lenny asks Mayur about failures in his career. Mayur shares his experience as the first product manager on Google Hangouts, which despite having massive resources and direct support from Google's leadership, failed to become a successful messaging product. He explains this as his most significant product failure, highlighting how even with unlimited resources, product success isn't guaranteed.",
     "vocabulary_highlights": [
-      "spectacular failure",
-      "product manager",
-      "resources",
-      "support"
+      "spectacular failure"
     ],
     "topics": [
       "Product Management",
@@ -21,9 +18,9 @@
       "Growth Strategy",
       "User Experience"
     ],
-    "text_ko": "제가 아마도 가장 큰 실패 중 하나는, 제가 처음으로 Hangouts의 PM이었을 때예요. 저희는 수천 명의 사람들이 저를 위해 일하고 있었고, Google의 모든 힘을 가지고 있었어요. Larry가 저희와 함께 앉아 'Chrome이 원하는 건 뭐든지 할 수 있다'고 말했는데도, 결국 훌륭한 메시징 제품을 만들지 못했어요.",
-    "text_zh": "我最惨痛的失败经历，应该就是我做Hangouts第一任产品经理(PM)的时候。我手下有几千号人，整个Google的资源都给我们用，Larry本人就坐在我们旁边，说Chrome想怎么改都行，结果我们还是没做出一个像样的聊天产品。",
-    "text_es": "Mi fracaso más espectacular, probablemente, fue cuando fui el primer PM de Hangouts. Tenía miles de personas trabajando conmigo. Teníamos todo el poder de Google detrás. Larry literalmente se sentaba con nosotros diciéndonos que podíamos hacer lo que quisiéramos con Chrome y aun así no logramos crear un buen producto de mensajería.",
+    "text_ko": "아마 제가 가장 드라마틱하게 실패한 건 Hangouts에서 초대 제품 관리자(Product Manager)로 일했을 때예요. 제 밑에 수천 명이 있었고, 구글이 가진 모든 힘을 쓸 수 있었어요.",
+    "text_zh": "",
+    "text_es": "Probablemente mi fracaso más espectacular fue cuando fui el primer responsable de producto (product manager, PM) de Hangouts. Tenía a miles de personas a mi cargo y contábamos con todo el respaldo de Google.",
     "key_sentence": "My, probably, most spectacular failure was, I was the first PM on Hangouts.",
     "text_trimmed": true,
     "original_text": "My, probably, most spectacular failure was, I was the first PM on Hangouts. We had thousands of people working for me. We had entire power of Google. We had Larry literally sitting with us saying we can do anything we want Chrome to do and we still didn't manage to build a great messaging product.",
@@ -42,50 +39,10 @@
           "resounding success",
           "triumphant achievement"
         ]
-      },
-      {
-        "word": "product manager",
-        "definition": "A professional responsible for the strategy, roadmap, and feature definition of a product or product line.",
-        "businessContext": "In tech and startup environments, product managers play a crucial role in guiding cross-functional teams to deliver products that meet user needs and business goals.",
-        "nuance": "While the role can vary significantly between organizations, it often requires a blend of technical knowledge, business acumen, and interpersonal skills.",
-        "synonyms": [
-          "product owner",
-          "product lead"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "resources",
-        "definition": "Assets or materials that can be utilized to achieve objectives, including human, financial, and physical assets.",
-        "businessContext": "In a business context, resources are critical for executing strategies, completing projects, and ensuring operational efficiency.",
-        "nuance": "The term can imply both tangible and intangible assets, and its effective management is essential for organizational success.",
-        "synonyms": [
-          "assets",
-          "capabilities"
-        ],
-        "antonyms": [
-          "liabilities",
-          "deficits"
-        ]
-      },
-      {
-        "word": "support",
-        "definition": "Assistance or backing provided to help someone or something succeed or function effectively.",
-        "businessContext": "In business, support can refer to customer service, technical assistance, or organizational backing that enables teams to achieve their goals.",
-        "nuance": "The term can imply both emotional and practical assistance, and its effectiveness often hinges on the context and manner in which it is provided.",
-        "synonyms": [
-          "assistance",
-          "backing"
-        ],
-        "antonyms": [
-          "obstruction",
-          "hindrance"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The challenge with being a product manager is, everybody thinks they can do the job. Anybody who uses the product thinks they have ideas, so at some point in time, you're like, \"What is my discipline?",
@@ -93,10 +50,7 @@
     "timestamp": "00:00:00",
     "context": "Mayur discusses the fundamental challenge product managers face in establishing credibility and professional discipline. He explains how experimentation transforms product management from subjective opinion-based work into a scientific discipline, giving PMs the authority to make data-driven decisions when everyone around them has product opinions.",
     "vocabulary_highlights": [
-      "credibility",
-      "discipline",
-      "experimentation",
-      "subjective"
+      "discipline"
     ],
     "topics": [
       "Product Management",
@@ -109,28 +63,14 @@
       "Growth Strategy",
       "User Experience"
     ],
-    "text_ko": "프로덕트 매니저(product manager)로 일하면서 겪는 어려움은, 다들 그 일을 할 수 있다고 생각한다는 점이에요. 제품을 쓰는 사람이라면 누구나 아이디어가 있다고 생각하니까요. 그러다 보면 어느 순간 '내 전문성은 뭔가? 내 일의 근거는 뭐지?'라고 하게 돼요. 그런데 실험(experimentation) 체계를 만들면 그 순간 그 일이 과학이 되는 거예요.",
-    "text_zh": "做产品经理最头疼的就是，谁都觉得自己能干这活儿。只要是用过产品的人，都觉得自己有想法，搞得你有时候会想：\"我这个岗位到底专业在哪儿？我的科学方法在哪儿？\"但是一旦你建立起实验机制(experimentation)，这事儿就变科学了。",
-    "text_es": "El problema de ser product manager es que todo el mundo cree que puede hacer tu trabajo. Cualquiera que use el producto piensa que tiene buenas ideas, entonces llega un momento en que te preguntas: \"¿Cuál es mi disciplina? ¿Cuál es mi ciencia?\" En el momento que implementas experimentación, ya lo has vuelto científico.",
+    "text_ko": "프로덕트 매니저(product manager)라는 일이 힘든 점은, 다들 자기가 그 일을 할 수 있다고 생각한다는 거예요. 제품을 쓰는 사람이라면 누구나 아이디어가 있다고 여기니까, 어느 순간엔 “내 역할이 대체 뭐지?” 하고 고민하게 돼요.",
+    "text_zh": "做产品经理(product manager)的挑战在于，人人都觉得自己能干这活。凡是用过产品的人都会有想法，所以到最后你就会想：我的职责到底是什么？",
+    "text_es": "El problema de ser gerente de producto (product manager) es que todo el mundo piensa que puede hacerlo. Cualquiera que usa el producto cree tener ideas, así que llega un momento en que te preguntas: \"¿Cuál es mi papel?\"",
     "key_sentence": "everybody thinks they can do the job.",
     "text_trimmed": true,
     "original_text": "The challenge with being a product manager is, everybody thinks they can do the job. Anybody who uses the product thinks they have ideas, so at some point in time, you're like, \"What is my discipline? What is my science?\" The moment you build experimentation, you've now made it scientific.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "credibility",
-        "definition": "The quality of being trusted and believed in, often based on evidence or reputation.",
-        "businessContext": "In business, credibility is crucial for building trust with clients, stakeholders, and team members, influencing decisions and partnerships.",
-        "nuance": "While credibility can be built over time, it can also be easily damaged, making it essential to maintain integrity in communications and actions.",
-        "synonyms": [
-          "trustworthiness",
-          "reliability"
-        ],
-        "antonyms": [
-          "discredit",
-          "doubt"
-        ]
-      },
       {
         "word": "discipline",
         "definition": "A branch of knowledge, study, or activity; also refers to the practice of training oneself to follow rules or a code of behavior.",
@@ -144,36 +84,10 @@
           "chaos",
           "disorder"
         ]
-      },
-      {
-        "word": "experimentation",
-        "definition": "The process of conducting tests or trials to discover or validate new ideas, products, or processes.",
-        "businessContext": "In tech and startups, experimentation is vital for innovation, allowing teams to test hypotheses and iterate on products based on user feedback.",
-        "nuance": "While experimentation is often associated with scientific methods, in business it can also encompass agile methodologies and rapid prototyping.",
-        "synonyms": [
-          "testing",
-          "trial"
-        ],
-        "antonyms": [
-          "certainty",
-          "conformity"
-        ]
-      },
-      {
-        "word": "subjective",
-        "definition": "Based on or influenced by personal feelings, tastes, or opinions rather than external facts.",
-        "businessContext": "In business decision-making, subjective assessments can affect evaluations of product success or customer satisfaction, often requiring a balance with objective data.",
-        "nuance": "Subjective views can enrich discussions but may also lead to bias, so it's important to support them with objective evidence when making strategic decisions.",
-        "synonyms": [
-          "personal",
-          "individual"
-        ],
-        "antonyms": [
-          "objective",
-          "impartial"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Strategy is a little bit overrated for product. For most product managers, your strategy should be, \"How fast can I go from hypothesis to data?\"",
@@ -268,9 +182,7 @@
     "context": "Lenny asks Mayur about his experience working at Binance and how it was unique compared to other companies. Mayur explains the extraordinary scale and rapid growth of Binance, describing how they achieved market leadership in just six months despite established competitors, which he characterizes as an unprecedented achievement in the industry.",
     "vocabulary_highlights": [
       "scale",
-      "unprecedented",
-      "extraordinary",
-      "rapid growth"
+      "unprecedented"
     ],
     "topics": [
       "Growth & Marketing",
@@ -316,36 +228,9 @@
           "commonplace",
           "ordinary"
         ]
-      },
-      {
-        "word": "extraordinary",
-        "definition": "Extraordinary refers to something that is very unusual or remarkable, standing out from the norm due to its exceptional qualities or characteristics.",
-        "businessContext": "In the business realm, extraordinary performance or achievements can set a company apart from its competitors, often leading to increased recognition and opportunities.",
-        "nuance": "While 'extraordinary' is generally positive, it can also suggest that something is so far removed from the ordinary that it may not be sustainable or replicable.",
-        "synonyms": [
-          "remarkable",
-          "exceptional"
-        ],
-        "antonyms": [
-          "mundane",
-          "unremarkable"
-        ]
-      },
-      {
-        "word": "rapid growth",
-        "definition": "Rapid growth refers to a swift increase in size, revenue, or market presence, often occurring in a short period of time. It is a key indicator of a company's performance and potential.",
-        "businessContext": "In the startup ecosystem, rapid growth is often a primary goal, as it can attract investment and market share, but it also requires careful management to maintain quality and service.",
-        "nuance": "While rapid growth is often seen as a positive indicator, it can also raise concerns about sustainability and operational challenges if not managed properly.",
-        "synonyms": [
-          "accelerated expansion",
-          "swift growth"
-        ],
-        "antonyms": [
-          "stagnation",
-          "decline"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "You cannot have one-on-ones when you have 55 direct reports, so there's a culture of one-to-many and doing that as often as possible.",
@@ -353,9 +238,7 @@
     "timestamp": "00:06:35",
     "context": "Mayur describes the unique organizational structure at Binance where the CEO had 55 direct reports and how this extreme flat structure required different management approaches. He explains how they handled communication at scale through daily leadership meetings across time zones, illustrating the intense operational pace required to manage such rapid growth.",
     "vocabulary_highlights": [
-      "organizational structure",
       "culture",
-      "management approaches",
       "direct reports"
     ],
     "topics": [
@@ -369,28 +252,14 @@
       "Growth Strategy",
       "User Experience"
     ],
-    "text_ko": "직속 팀원(direct reports)이 55명이나 되면 원온원(one-on-ones)은 할 수가 없어서, 일대다(one-to-many) 방식으로 가능한 한 자주 그렇게 하는 문화가 있어요. 예를 들어 리더십 팀(leadership team)은 매일 모였고, 팀이 전 세계에 흩어져 있어서 제가 싱가포르에 있을 때는 매일 밤 11시에 회의를 했어요.",
-    "text_zh": "你管着55个直属下属，根本没法一对一谈话，所以我们的文化就是一对多，而且要尽可能多地这样做。比如说领导团队，我们每天都开会，因为领导团队分布在世界各地，我在新加坡的时候，我们每天晚上11点开会。",
-    "text_es": "No puedes tener reuniones uno a uno cuando tienes 55 personas reportándote directamente, así que hay una cultura de uno a muchos y hacerlo lo más seguido posible. El equipo de liderazgo, por ejemplo, se reunía todos los días, y como el equipo directivo estaba repartido por todo el mundo, nos reuníamos a las 11:00 PM cuando yo estaba en Singapur, todos los días.",
+    "text_ko": "직속 팀원이 55명이나 되면 일대일 미팅(one-on-ones)을 다 할 수가 없어요. 그래서 주로 일대다(one-to-many)로 만나고 가능한 한 자주 그렇게 해요.",
+    "text_zh": "你有55个直接下属（direct reports），就没法和每个人做一对一（one-on-ones）。所以大家就习惯用一对多（one-to-many）的方式，尽量频繁地这么做。",
+    "text_es": "No se pueden hacer reuniones uno a uno (one-on-ones) cuando tienes 55 reportes directos (direct reports), así que se crea una cultura de uno a muchos (one-to-many) y de recurrir a eso siempre que se puede.",
     "key_sentence": "you cannot have one-on-ones when you have 55 direct reports",
     "text_trimmed": true,
     "original_text": "You cannot have one-on-ones when you have 55 direct reports, so there's a culture of one-to-many and doing that as often as possible. The leadership team, for example, met every day, and because the leadership team was spread across the world, we met at 11:00 PM when I was in Singapore every day.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "organizational structure",
-        "definition": "The system that outlines how certain activities are directed in order to achieve an organization's goals, including roles, responsibilities, and communication flow.",
-        "businessContext": "In business, organizational structure determines how tasks are allocated, coordinated, and supervised, impacting efficiency and employee engagement.",
-        "nuance": "The term can imply a formal hierarchy or a more flexible, flat arrangement, depending on the organization's size and culture.",
-        "synonyms": [
-          "organizational framework",
-          "corporate structure"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
       {
         "word": "culture",
         "definition": "The shared values, beliefs, and behaviors that shape how members of an organization interact and work together.",
@@ -399,20 +268,6 @@
         "synonyms": [
           "organizational ethos",
           "workplace environment"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "management approaches",
-        "definition": "The various strategies and methods employed by leaders to direct, motivate, and manage teams and organizational resources.",
-        "businessContext": "Different management approaches, such as transformational, transactional, or servant leadership, can significantly affect team dynamics and organizational success.",
-        "nuance": "Choosing the appropriate management approach often depends on the specific context, team composition, and organizational goals.",
-        "synonyms": [
-          "leadership styles",
-          "management strategies"
         ],
         "antonyms": [
           "N/A",
@@ -433,7 +288,9 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "There's some people in Sydney, Australia, so it was 1:00 AM for them.",
@@ -466,8 +323,6 @@
     "context": "Lenny asks Mayur for career advice for product managers who want to accelerate their careers and get unstuck. Mayur emphasizes that working at fast-growing companies is the most important factor for career development, using the compound interest metaphor to explain how frequent learning opportunities at growing companies create exponential career growth compared to slower-paced environments.",
     "vocabulary_highlights": [
       "compounds",
-      "accelerate",
-      "fast-growing",
       "interval"
     ],
     "topics": [
@@ -481,9 +336,9 @@
       "Growth Strategy",
       "User Experience"
     ],
-    "text_ko": "가장 좋은 건 빠르게 성장하는 회사를 찾는 거예요. 그게 배움이 훨씬 더 빠르게 누적되거든요. 기본적인 복리(compound interest) 공식처럼, 이자율(interest rate)이 낮더라도 일 단위로 복리(compounding daily)하면 연 단위로 복리(compounding yearly)할 때와 비교해 2년 뒤엔 완전히 다른 단계에 있게 돼요.",
-    "text_zh": "最好的选择就是找那些发展很快的公司，因为这样你学东西的速度会成倍增长。就像复利(compound interest)的基本公式一样，哪怕你的利率不高，但如果你是按天复利而不是按年复利，两年下来，最终的结果会完全不一样。",
-    "text_es": "Lo mejor que puedes hacer es buscar empresas que estén creciendo rápido porque eso acelera tu aprendizaje de manera exponencial. Es como la fórmula básica del interés compuesto - aunque tu tasa de interés sea baja, si capitalizas diariamente en lugar de anualmente, después de dos años vas a estar en un nivel completamente distinto al final.",
+    "text_ko": "가장 좋은 건 성장 속도가 빠른 회사들을 찾는 거예요. 그러면 배움이 훨씬 짧은 주기로 복리(compounding)처럼 쌓여요.",
+    "text_zh": "最划算的做法是去那些高速成长的公司，因为在那里你能在更短时间内把学习效果成倍放大。",
+    "text_es": "Lo mejor que puedes hacer es trabajar en empresas que crecen rápido; así tu aprendizaje se acelera y se multiplica.",
     "key_sentence": "Find fast-growing companies; it compounds your learning at a faster interval.",
     "text_trimmed": true,
     "original_text": "The best thing you can do is find companies that are growing fast because it compounds your learning at a much faster interval. Just the basic compound interest formula, even if your interest rate is low, if you're compounding daily versus compounding yearly, after two years, you will be at a whole different stage at the end point.",
@@ -504,34 +359,6 @@
         ]
       },
       {
-        "word": "accelerate",
-        "definition": "To accelerate means to increase in speed or rate, often referring to the pace at which something develops or progresses.",
-        "businessContext": "In the business world, accelerating growth or processes can lead to quicker market entry, faster innovation cycles, and enhanced competitive advantage.",
-        "nuance": "While it generally has a positive implication, it can also suggest urgency or pressure, which may not always be desirable in every context.",
-        "synonyms": [
-          "hasten",
-          "expedite"
-        ],
-        "antonyms": [
-          "slow down",
-          "delay"
-        ]
-      },
-      {
-        "word": "fast-growing",
-        "definition": "Fast-growing describes entities, such as companies or markets, that experience rapid expansion in terms of revenue, customer base, or market share.",
-        "businessContext": "Identifying fast-growing companies is crucial for investors and entrepreneurs, as they often present lucrative opportunities for investment and collaboration.",
-        "nuance": "The term is typically used in a positive light, but it can also imply volatility or risk, as rapid growth may not always be sustainable.",
-        "synonyms": [
-          "rapidly expanding",
-          "quickly developing"
-        ],
-        "antonyms": [
-          "stagnant",
-          "declining"
-        ]
-      },
-      {
         "word": "interval",
         "definition": "An interval is a period of time between two events or points, often used to measure duration or frequency.",
         "businessContext": "In business, intervals can refer to the time frames for project milestones, performance reviews, or market analysis, helping to structure timelines and expectations.",
@@ -545,6 +372,8 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

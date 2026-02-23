@@ -20,9 +20,9 @@
       "Growth Strategy",
       "Go-to-Market"
     ],
-    "text_ko": "세부로 들어가기보다는 성장 시스템에 대해 한 가지만 말씀드리면요: 우리 비즈니스에서 아웃바운드 세일즈(outbound sales), 유료 마케팅(paid marketing), 필드(field), 그 밖의 여러 채널(channel)에서 각각 차지하는 비중을 보고 업계 벤치마크(industry benchmarks)와 비교해 보면, Ramp의 비결(secret sauce)은 어떤 독특한 채널을 찾아서 거기에 과도하게 혹은 부족하게 투자했다는 게 아니에요. 저희가 다르게 해온 건 그런 모든 투자를 기술과 데이터(technology and data)로 주도되게 만드는 데 정말 집중했다는 점이에요.",
-    "text_zh": "我就不细说具体的了，关于我们现在的增长体系，我可以这么说：如果你看看我们从主动销售(outbound sales)、付费营销(paid marketing)、地推(field)还有其他各种渠道来的业务占比，然后跟行业基准(industry benchmarks)对比一下，我觉得Ramp的秘诀(secret sauce)不是说我们找到了什么独特的渠道，或者在某个渠道上投入过多或过少。我们做得不一样的地方是，我们特别专注于用技术和数据来驱动所有这些投入。",
-    "text_es": "Más que entrar en detalles específicos, algo que te puedo decir sobre nuestro sistema de crecimiento es que si te fijas en qué porcentaje de nuestro negocio viene de ventas directas (outbound sales), marketing pagado, trabajo de campo, y otros canales, y lo comparas con los estándares de la industria, creo que la fórmula secreta de Ramp no es que hayamos encontrado un canal único donde invertimos de más o de menos. Lo que hemos hecho diferente es enfocarnos en hacer que todas esas inversiones estén muy impulsadas por tecnología y datos.",
+    "text_ko": "저희가 다르게 해온 건, 그런 모든 투자를 기술(technology)과 데이터(data) 중심으로 진행하도록 정말 집중해왔어요.",
+    "text_zh": "我觉得我们不一样的一点是，我们把所有这些投资都真正由技术(technology)和数据(data)来驱动。",
+    "text_es": "Creo que lo que hemos hecho distinto es poner mucho énfasis en que todas esas inversiones estén fuertemente impulsadas por la tecnología (technology) y los datos (data).",
     "key_sentence": "Ramp's secret sauce is investments driven by technology and data.",
     "text_trimmed": true,
     "original_text": "Rather than going into the specifics, one thing I'll say about the growth system today is if you were to look at what percentage of our business comes from outbound sales, paid marketing, field, and then a bunch of other channels and then you compare it against industry benchmarks, I think the secret sauce of Ramp is not that we've found a channel that's unique and that we've over-invested or under-invested. I think what we've done differently is we've really focused on making all of those investments very much driven by technology and data.",
@@ -84,7 +84,8 @@
           "anecdote"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "I think what works really well with Ramp is that we have the same shared goal, which is the pipeline driven and the payback period of the channel. It's unique to Ramp where the engineers feel ownership of the quota.",
@@ -94,8 +95,7 @@
     "vocabulary_highlights": [
       "shared goal",
       "pipeline driven",
-      "ownership",
-      "accountability"
+      "ownership"
     ],
     "topics": [
       "Growth & Marketing",
@@ -107,9 +107,9 @@
       "Growth Strategy",
       "Go-to-Market"
     ],
-    "text_ko": "Ramp에서 정말 잘 맞는 건 우리 모두 같은 목표를 공유한다는 거예요 — 채널의 파이프라인 중심(pipeline-driven) 운영과 채널의 투자 회수 기간(payback period)이에요. 엔지니어들이 쿼터(quota)에 대해 주인의식을 느낀다는 건 Ramp만의 독특한 점이에요. 제품 지표(product metrics)를 직접 관리하진 않지만, 중간 지표(interim metrics)나 투입 지표(input metrics) 같은 것들이 중요하다는 건 당연해요. 그럼에도 불구하고 이들은 파이프라인 중심(pipeline-driven)의 성과와 팀이 만들어내는 효율성(efficiency)에 대해 진짜 책임감을 느껴요.",
-    "text_zh": "我觉得和Ramp合作特别顺的地方就是，我们目标很一致，都是奔着渠道的pipeline(销售漏斗)和回本周期去的。Ramp比较特别的是，他们的工程师对quota(销售指标)特别有主人翁意识。他们不是只盯着产品数据啊什么的，当然那些过程指标和输入指标肯定也重要，但他们确实会为pipeline的效果和团队的效率负责任。",
-    "text_es": "Creo que lo que funciona muy bien con Ramp es que tenemos el mismo objetivo en común, que es el pipeline generado y el período de retorno de la inversión del canal. Es algo único de Ramp donde los ingenieros sienten que son dueños de la cuota. No están enfocados en métricas de producto ni nada por el estilo - obviamente hay métricas intermedias y de entrada que son importantes - pero realmente se sienten responsables del pipeline generado y de la eficiencia que logra ese equipo.",
+    "text_ko": "Ramp에서 특히 잘 맞는다고 생각하는 건, 모두가 같은 목표를 보고 있다는 점이에요 — 파이프라인 중심(pipeline-driven)으로 움직이고 채널의 회수 기간(payback period of the channel)에 초점을 맞춘다는 거요. Ramp만의 독특한 점은 엔지니어들조차 쿼터(quota)를 자기 일처럼 소유감 있게 느낀다는 거예요.",
+    "text_zh": "我觉得在Ramp特别奏效的一点是，我们目标一致——以pipeline为导向(pipeline driven)，都在盯着渠道的回本期(payback period)。Ramp比较独特的是，工程师会把配额(quota)当成自己的事，真有主人翁意识。",
+    "text_es": "Creo que lo que funciona muy bien en Ramp es que todos compartimos el mismo objetivo: que el canal esté impulsado por el pipeline (pipeline driven) y que el plazo de recuperación (payback period) del canal sea el adecuado. Es algo que hace única a Ramp: los ingenieros sienten la cuota como propia.",
     "key_sentence": "Engineers feel ownership of the quota and are accountable for pipeline efficiency.",
     "text_trimmed": true,
     "original_text": "I think what works really well with Ramp is that we have the same shared goal, which is the pipeline driven and the payback period of the channel. It's unique to Ramp where the engineers feel ownership of the quota. They're not owning product metrics or what have you, they're obviously of course interim and input metrics that are important, but they really do feel accountable for the pipeline driven and the efficiency driven by that team.",
@@ -156,22 +156,10 @@
           "disinterest",
           "neglect"
         ]
-      },
-      {
-        "word": "accountability",
-        "definition": "Accountability is the obligation of individuals or organizations to explain, justify, and take responsibility for their actions and decisions.",
-        "businessContext": "In business, accountability is crucial for maintaining trust and transparency, as it ensures that team members are held responsible for their performance and outcomes.",
-        "nuance": "This term often carries a connotation of ethical responsibility and can be used in contexts where transparency and integrity are emphasized.",
-        "synonyms": [
-          "responsibility",
-          "answerability"
-        ],
-        "antonyms": [
-          "impunity",
-          "unaccountability"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "What you see internally is what I'll say is razor-sharp focus on reducing cycle time and bias to action and how do we reduce cycle time.",
@@ -181,8 +169,7 @@
     "vocabulary_highlights": [
       "razor-sharp focus",
       "cycle time",
-      "bias to action",
-      "unprecedented"
+      "bias to action"
     ],
     "topics": [
       "Leadership & Management",
@@ -194,9 +181,9 @@
       "Growth Strategy",
       "Go-to-Market"
     ],
-    "text_ko": "사내에서 보이는 건, 제 말로 하자면 사이클 타임(cycle time)을 줄이는 데 대한 정말 날카로운 집중과 행동 편향(bias to action), 그리고 '사이클 타임을 어떻게 줄일지'에 대한 고민이에요. 제게 문화적으로 가장 핵심은 사람들이 의사결정을 더 짧은 시간 단위로 생각하게 만드는 거예요. 겉으로는 당연해 보이지만, 실제로는 그걸 조직 문화로 계속해서 강화해야 해요.",
-    "text_zh": "从内部来看，我觉得就是要超级专注地缩短决策周期(cycle time)，偏向于赶紧行动起来，怎么把这个周期时间给压缩下来。我觉得从文化上来说，核心就是要让大家习惯用更短的时间单位去做决策。听起来挺简单的，但你真得在文化层面不断强化这一点。",
-    "text_es": "Lo que vemos internamente es lo que yo llamaría un enfoque súper preciso en reducir los tiempos de ciclo y esa tendencia hacia la acción - ¿cómo acortamos los plazos? Creo que básicamente el núcleo cultural para mí es lograr que la gente piense en períodos más cortos para tomar decisiones. Parece obvio, pero realmente tienes que reforzarlo como parte de la cultura.",
+    "text_ko": "내부에서 보이는 건, 제가 보기엔 사이클 타임(cycle time) 단축에 대한 날카로운 집중과 실행 우선(bias to action)의 태도, 그리고 '어떻게 사이클 타임을 더 단축할까'라는 끊임없는 고민이에요.",
+    "text_zh": "你在内部看到的，归根结底就是：大家对缩短周期时间(cycle time)有刀刃般的专注，强调行动优先(bias to action)，一直在想我们怎么把周期再缩短。",
+    "text_es": "Lo que se ve internamente, diría, es un enfoque láser en reducir el tiempo de ciclo (cycle time) y un sesgo hacia la acción (bias to action). La pregunta es: ¿cómo reducimos ese tiempo de ciclo?",
     "key_sentence": "Razor-sharp focus on reducing cycle time reinforces a bias to action culturally.",
     "text_trimmed": true,
     "original_text": "What you see internally is what I'll say is razor-sharp focus on reducing cycle time and bias to action and how do we reduce cycle time. I think it's basically the core of it culturally to me is getting people to think about smaller units of time for decision making. It seems obvious but I think you really have to reinforce it culturally.",
@@ -243,22 +230,10 @@
           "analysis paralysis",
           "inaction"
         ]
-      },
-      {
-        "word": "unprecedented",
-        "definition": "Never done or known before; without previous example.",
-        "businessContext": "In business, the term is often used to describe unique market conditions, innovations, or challenges that require novel strategies and responses.",
-        "nuance": "While it conveys a sense of uniqueness and significance, it should be used judiciously to avoid overstating the novelty of a situation.",
-        "synonyms": [
-          "extraordinary",
-          "unmatched"
-        ],
-        "antonyms": [
-          "commonplace",
-          "ordinary"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think design of the team, people often... I think it's a red herring about team structure and team design and what's the right one, et cetera. I think most of that is irrelevant.",
@@ -281,9 +256,9 @@
       "Growth Strategy",
       "Go-to-Market"
     ],
-    "text_ko": "저는 팀 구조(team structure)나 팀 디자인(team design), 어떤 게 옳은지 따지는 건 오히려 본질을 흐리는 얘기라고 생각해요. 실제로 중요한 건 팀 자체가 아니라 문화와 의식(rituals), 그리고 운영 리듬(cadences)이에요.",
-    "text_zh": "我觉得团队设计这个事儿，大家经常... 我觉得纠结团队架构啊、团队设计啊、什么样的结构最好啊这些，其实都是在转移注意力。我觉得这些大部分都不重要。真正重要的是文化、仪式感和节奏，而不是团队本身。",
-    "text_es": "Mira, creo que el diseño de equipos, la gente muchas veces... pienso que es una distracción todo eso de la estructura del equipo y el diseño y cuál es el correcto, etcétera. Creo que la mayoría de eso no importa realmente. Lo que de verdad cuenta es la cultura y los rituales y las dinámicas (cadences) más que el equipo en sí.",
+    "text_ko": "팀 설계에 대해 사람들이 자주 팀 구조나 어떤 방식이 옳은지에만 집착하는데, 그건 본질을 흐리는 헛수고라고 생각해요. 그런 것들 대부분은 별로 중요하지 않아요.",
+    "text_zh": "我觉得大家老纠结团队设计(team design)、团队结构(team structure)到底哪种才“对”，其实都是分散注意力的烟雾弹，大多数情况下根本无关紧要。",
+    "text_es": "Creo que, respecto al diseño del equipo, la gente a menudo se entretiene con cuál es la estructura “correcta” y cosas por el estilo. La mayor parte de eso es irrelevante.",
     "key_sentence": "Team structure is a red herring; culture and rituals matter more.",
     "text_trimmed": true,
     "original_text": "I think design of the team, people often... I think it's a red herring about team structure and team design and what's the right one, et cetera. I think most of that is irrelevant. What actually matters is culture and rituals and cadences rather than the team itself.",
@@ -345,7 +320,8 @@
           "pertinent"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "I do think there's actually a general path that most B2B companies take and should take. My view is you start off with founder-led sales, the early team needs to know how to actually sell.",
@@ -353,10 +329,7 @@
     "timestamp": "00:00:00",
     "context": "Lenny asks Sri about his opinion on how to sequence different growth channels for B2B companies. Sri outlines a specific progression that he believes most B2B companies should follow, starting with founder-led sales and gradually adding more expensive and scalable channels. His reasoning is that channels become more expensive as you progress but also more effective as you learn about your customers.",
     "vocabulary_highlights": [
-      "founder-led sales",
-      "growth channels",
-      "sequence",
-      "progression"
+      "founder-led sales"
     ],
     "topics": [
       "Growth & Marketing",
@@ -369,9 +342,9 @@
       "Growth Strategy",
       "Go-to-Market"
     ],
-    "text_ko": "저는 대부분의 B2B 회사들이 따라야 할 일반적인 경로가 있다고 생각해요. 제 생각에는 처음에는 창립자가 직접 판매를 하고, 초기 팀이 실제로 판매하는 방법을 알아야 해요. 그 다음에 첫 몇 명의 영업직원을 채용하고, 아주 저렴한 타겟 마케팅을 시작해야 해요. 콘텐츠, 커뮤니티, 소규모 이벤트 같은 것들이요. 그리고 PR을 진행한 후에야 유료 마케팅과 브랜드 노력을 시작하고, SEO도 아마 유료 마케팅을 시작할 때쯤에 함께 시작할 거예요.",
-    "text_zh": "我觉得大部分B2B公司其实都有一个通用的发展路径，也应该这样走。我的看法是，一开始肯定是创始人自己做销售，早期团队得知道怎么卖东西。然后你招几个销售，接着开始搞一些低成本的精准营销，比如做内容、建社群、办点小活动，再做做PR。等这些都搞定了，再开始投付费广告和品牌推广，SEO的话差不多和付费推广同时开始就行。",
-    "text_es": "Creo que sí hay un camino general que la mayoría de las empresas B2B siguen y deberían seguir. Mi punto de vista es que empiezas con ventas lideradas por el fundador, el equipo inicial necesita saber cómo vender de verdad. Después contratas a tus primeros vendedores, luego arrancas con esfuerzos de marketing muy económicos y bien dirigidos. O sea, ya sea contenido, comunidad, eventos pequeños, y después relaciones públicas. Después de todo eso es cuando empiezas con los esfuerzos pagados y de marca, y luego el SEO probablemente lo inicias más o menos al mismo tiempo que arrancas con el marketing pagado.",
+    "text_ko": "사실 대부분의 기업 간 거래(B2B) 기업들이 가는, 또 가야 하는 일반적인 경로가 있다고 생각해요. 제 생각에는 처음엔 창업자 주도 영업(founder-led sales)으로 시작하고, 초기 팀은 실제로 판매할 줄 알아야 해요.",
+    "text_zh": "我觉得大多数面向企业的公司(B2B companies)其实都有一条比较常见的发展路线，也应该照着走。我的看法是，起步阶段要由创始人亲自做销售(founder-led sales)，早期团队必须真正会把产品/服务卖出去。",
+    "text_es": "De hecho, creo que existe un camino general que la mayoría de las empresas B2B (B2B companies) siguen y deberían seguir. Para mí, todo empieza con ventas lideradas por los fundadores (founder-led sales); el equipo inicial tiene que saber vender de verdad.",
     "key_sentence": "B2B companies should start with founder-led sales and low cost targeted marketing efforts.",
     "text_trimmed": true,
     "original_text": "I do think there's actually a general path that most B2B companies take and should take. My view is you start off with founder-led sales, the early team needs to know how to actually sell. Then you hire your first couple of salespeople, then you start some very low cost targeted marketing efforts. So whether it's content, community, small scale events, and then PR, after all of that is when you start paid and brand effort and then SEO probably start around the same time that you start paid marketing efforts.",
@@ -390,50 +363,10 @@
           "sales team-led approach",
           "automated sales"
         ]
-      },
-      {
-        "word": "growth channels",
-        "definition": "Various pathways or methods through which a business can acquire new customers and increase revenue.",
-        "businessContext": "Identifying and optimizing growth channels is vital for startups to scale effectively, as it helps them focus their marketing and sales efforts on the most effective strategies.",
-        "nuance": "The term suggests a strategic approach to customer acquisition, emphasizing the need to analyze and select channels based on performance rather than using a one-size-fits-all method.",
-        "synonyms": [
-          "customer acquisition channels",
-          "revenue streams"
-        ],
-        "antonyms": [
-          "declining channels",
-          "stagnant markets"
-        ]
-      },
-      {
-        "word": "sequence",
-        "definition": "A specific order in which a series of actions or events occur, often designed to achieve a particular outcome.",
-        "businessContext": "In sales and marketing, a sequence may refer to the planned steps taken to engage potential customers, such as outreach emails followed by follow-up calls.",
-        "nuance": "The term implies a strategic and deliberate arrangement of actions, highlighting the importance of timing and structure in achieving desired results.",
-        "synonyms": [
-          "order",
-          "series"
-        ],
-        "antonyms": [
-          "disorder",
-          "randomness"
-        ]
-      },
-      {
-        "word": "progression",
-        "definition": "The process of developing or moving gradually towards a more advanced state or level.",
-        "businessContext": "In the context of B2B companies, progression often refers to the stages of growth a company experiences as it scales from startup to established business.",
-        "nuance": "This term conveys a sense of continuous improvement and evolution, suggesting that businesses must adapt and innovate to succeed over time.",
-        "synonyms": [
-          "advancement",
-          "development"
-        ],
-        "antonyms": [
-          "regression",
-          "decline"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Growth experiments in my history are typically 30%-ish success rate. So the vast majority of things that you try don't work. And so you want to create a culture where people aren't afraid to take risks and aren't afraid to fail.",
@@ -443,7 +376,6 @@
     "vocabulary_highlights": [
       "culture",
       "take risks",
-      "failure rate",
       "growth experiments"
     ],
     "topics": [
@@ -456,9 +388,9 @@
       "Growth Strategy",
       "Go-to-Market"
     ],
-    "text_ko": "제가 해온 성장 실험(growth experiments)은 보통 성공률(success rate)이 한 30% 정도였어요. 그래서 시도하는 것들 대부분은 잘 안 돼요. 사람들이 위험을 감수하고 실패하는 걸 두려워하지 않는 문화를 만들어야 해요. 제게 실패란 수익을 못 냈다는 게 아니라, 그로부터 배우지 못한 거예요.",
-    "text_zh": "我做过的增长实验(growth experiments)成功率一般也就30%左右。也就是说，你尝试的大部分东西都不会成功。所以你得营造一种文化，让大家不怕冒险，不怕失败。在我看来，失败不是说你没带来收入，失败是你什么都没学到。",
-    "text_es": "En mi experiencia, los experimentos de crecimiento suelen tener una tasa de éxito de alrededor del 30%. O sea, la gran mayoría de las cosas que pruebas no funcionan. Por eso necesitas crear una cultura donde la gente no tenga miedo de arriesgarse ni de fallar. Para mí, fallar no es que no generes ingresos, fallar es no aprender nada.",
+    "text_ko": "제 경험상 성장 실험(growth experiments)은 성공률이 대략 30% 정도예요. 그래서 시도하는 것들 대부분은 잘 안 돼요. 그래서 사람들이 위험을 감수하고 실패하는 것을 두려워하지 않는 문화를 만들어야 해요.",
+    "text_zh": "以我的经验，增长实验(growth experiments)的成功率通常只有三成左右。所以你尝试的绝大多数东西都行不通。这就要求你营造一种文化，让大家敢冒风险、不怕失败。",
+    "text_es": "En mi experiencia, los experimentos de crecimiento (growth experiments) suelen tener una tasa de éxito de alrededor del 30%. Así que la gran mayoría de las cosas que intentas no funcionan. Por eso hay que crear una cultura en la que nadie tenga miedo de arriesgarse ni de fracasar.",
     "key_sentence": "Growth experiments have a 30%-ish success rate; create a culture that embraces risks.",
     "text_trimmed": true,
     "original_text": "Growth experiments in my history are typically 30%-ish success rate. So the vast majority of things that you try don't work. And so you want to create a culture where people aren't afraid to take risks and aren't afraid to fail. And for me, failure is not that you didn't drive revenue, failure is not learning.",
@@ -493,20 +425,6 @@
         ]
       },
       {
-        "word": "failure rate",
-        "definition": "The percentage of attempts or projects that do not achieve their intended outcome or success.",
-        "businessContext": "Understanding the failure rate is crucial for businesses to assess the effectiveness of their strategies and to make informed decisions about resource allocation.",
-        "nuance": "A high failure rate can indicate a need for improvement or innovation, but it can also reflect a culture that encourages experimentation.",
-        "synonyms": [
-          "success ratio",
-          "defeat percentage"
-        ],
-        "antonyms": [
-          "success rate",
-          "achievement ratio"
-        ]
-      },
-      {
         "word": "growth experiments",
         "definition": "Strategic initiatives designed to test new ideas or approaches aimed at increasing a company's market presence or revenue.",
         "businessContext": "In startups and tech companies, growth experiments are often used to validate hypotheses about customer behavior and to optimize marketing strategies.",
@@ -520,6 +438,8 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

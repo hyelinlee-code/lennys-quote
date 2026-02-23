@@ -7,8 +7,7 @@
     "vocabulary_highlights": [
       "radically transform",
       "explore",
-      "core premise",
-      "massive technology shift"
+      "core premise"
     ],
     "topics": [
       "Product Management",
@@ -21,9 +20,9 @@
       "User Experience",
       "Product Design"
     ],
-    "text_ko": "이건 당신 쪽으로 날아오는 운석이에요. 사회를 근본적으로 바꿔 놓을 거예요. 그리고 사람들이 인공지능(AI)을 제대로 들여다보지 않으면 뒤처질 거라고 생각해요. 저는 우선 제품(product)이 하는 일부터 살펴볼 것 같아요. \"그 제품의 핵심 전제(core premise)는 뭔가요? 사람들이 왜 쓰죠? 어떤 문제를 해결해 주나요?\" 이런 식으로요. 기본으로 돌아가서, 그리고 나서 \"인공지능(AI)이 그걸 할 수 있을까요?\"라고 물어보세요.",
-    "text_zh": "这就像一颗流星朝你砸过来一样。这会彻底改变整个社会。我觉得如果大家不好好研究AI的话，肯定会被甩在后面。我建议先从你们产品本身入手。\"它的核心逻辑是什么？用户为什么要用它？它帮他们解决了什么痛点？\"就是这些基本问题。所以，回到原点去思考。然后再问自己，\"AI能做这件事吗？\"",
-    "text_es": "Esto es como un meteorito que viene hacia ti. Va a transformar la sociedad de manera radical. Y creo que si la gente no explora bien la IA, se va a quedar atrás. Yo empezaría con lo que hace tu producto. \"¿Cuál es la idea central? ¿Por qué lo usa la gente? ¿Qué problema les resuelve?\" Ese tipo de cosas. O sea, volver a lo básico. Y después preguntarte: \"¿Puede la IA hacer eso?\"",
+    "text_ko": "이건 당신에게로 다가오는 운석 같은 거예요. 사회를 완전히 바꿔 놓을 거예요. 사람들이 AI를 제대로 들여다보지 않으면 뒤처질 거라고 생각해요. 저는 제품이 뭘 하는지부터 시작할 것 같아요. 그 제품의 핵심 가정(core premise)이 뭐예요?",
+    "text_zh": "这就像一颗朝你飞来的陨石，会彻底改变社会。我觉得如果不真正去探索人工智能 (AI)，很多人会跟不上。我会先从你们的产品说起：它背后的核心逻辑是什么？",
+    "text_es": "Esto es como un meteorito que viene hacia ti. Va a cambiar la sociedad por completo. Y creo que si no exploras la IA (AI) a fondo, te vas a quedar atrás. Empezaría por lo que hace tu producto: ¿cuál es la idea principal detrás?",
     "key_sentence": "AI is a meteor coming towards you, radically transforming society.",
     "text_trimmed": true,
     "original_text": "This is a meteor coming towards you. This is going to radically transform society. And I think if people don't explore AI properly, it will leave them behind. I'd start with the thing your product does. \"What's the core premise behind it? Why do people use it? What problem does it solve for them?\" That kind of thing. So, go back to basics. And then ask, \"Can AI do that?\"",
@@ -70,22 +69,10 @@
           "peripheral detail",
           "superficial aspect"
         ]
-      },
-      {
-        "word": "massive technology shift",
-        "definition": "A significant change in technology that alters the landscape of industries, markets, or consumer behavior on a large scale.",
-        "businessContext": "In the tech industry, a 'massive technology shift' can create new business models, disrupt existing markets, and necessitate strategic pivots for companies to remain competitive.",
-        "nuance": "This phrase often carries a sense of urgency and importance, indicating that organizations must adapt quickly to leverage new technologies or risk obsolescence.",
-        "synonyms": [
-          "technological revolution",
-          "major innovation"
-        ],
-        "antonyms": [
-          "stagnation",
-          "status quo"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "You can get sidetracked by the technology, for sure. And I do. I just mentioned, hey, going out for dinner and taking a photo of my food. You can get sidetracked by the tech and some of it's really cool. I wouldn't start there.",
@@ -93,10 +80,7 @@
     "timestamp": "00:21:17",
     "context": "Lenny asks Paul to elaborate on how to think strategically about whether your product is in the path of AI disruption. Paul warns against getting distracted by flashy AI capabilities and instead recommends starting with fundamental product questions. He emphasizes understanding your product's core value proposition before determining how AI might impact it.",
     "vocabulary_highlights": [
-      "sidetracked",
-      "strategically",
-      "distracted",
-      "capabilities"
+      "sidetracked"
     ],
     "topics": [
       "Product Management",
@@ -109,9 +93,9 @@
       "User Experience",
       "Product Design"
     ],
-    "text_ko": "물론 기술(technology)에 신경이 쓰여 곁길로 새는 경우가 있어요. 저도 그래요 — 아까 말한 것처럼 저녁 먹으러 가서 음식 사진 찍는 것처럼요. 기술이 멋진 건 맞지만 거기서 시작하진 않아요. 저는 제품(product)이 실제로 뭘 하는지부터 시작해요. 그 밑에 있는 핵심 전제(core premise)는 뭔가요? 사람들이 왜 쓰나요? 어떤 문제를 해결해 주나요? 그런 것들이요.",
-    "text_zh": "技术确实容易让人分心，我也会这样。就像我刚说的，出去吃饭还要给菜拍照。你很容易被那些酷炫的技术带跑偏，有些确实挺有意思的。但我不会从这里入手。我会从你的产品本身做什么开始。它的核心价值主张(core premise)是什么？用户为什么要用它？它帮他们解决了什么问题？就是这些东西。",
-    "text_es": "Claro que te puedes distraer con la tecnología, sin duda. Y a mí me pasa. Como te decía, salir a cenar y tomarle foto a la comida. Te puedes ir por las ramas con la tecnología y algunas cosas están padrísimas. Pero yo no empezaría por ahí. Yo empezaría con lo que hace tu producto en realidad. ¿Cuál es la premisa central? ¿Por qué la gente lo usa? ¿Qué problema les resuelve? Ese tipo de cosas.",
+    "text_ko": "확실히 기술(technology)에 정신이 팔릴 수 있어요. 저도 그래요. 방금 말했듯이 저녁 먹으러 가서 음식 사진 찍는 거요. 테크(tech)에 빠지면 정말 멋진 것도 많지만, 저는 거기서부터 시작하진 않을 것 같아요.",
+    "text_zh": "确实，很容易被技术(tech)分心，我自己也会。刚举了个例子：出去吃饭顺手拍个菜的照片，你就会被这些技术(tech)吸引走，有些功能确实挺酷的，但我不会从这儿开始。",
+    "text_es": "",
     "key_sentence": "You can get sidetracked by the tech and some of it's really cool.",
     "text_trimmed": true,
     "original_text": "You can get sidetracked by the technology, for sure. And I do. I just mentioned, hey, going out for dinner and taking a photo of my food. You can get sidetracked by the tech and some of it's really cool. I wouldn't start there. I'd start with the thing your product does. What's the core premise behind it? Why do people use it? What problem does it solve for them? That kind of thing.",
@@ -130,50 +114,10 @@
           "focused",
           "on track"
         ]
-      },
-      {
-        "word": "strategically",
-        "definition": "In a manner that relates to the identification and pursuit of long-term goals and objectives.",
-        "businessContext": "In the context of business and technology, acting strategically involves making decisions that align with the overall vision and direction of the organization.",
-        "nuance": "This term implies a thoughtful and planned approach, as opposed to a reactive or impulsive one.",
-        "synonyms": [
-          "tactically",
-          "deliberately"
-        ],
-        "antonyms": [
-          "haphazardly",
-          "impulsively"
-        ]
-      },
-      {
-        "word": "distracted",
-        "definition": "Unable to concentrate or focus due to external stimuli or internal thoughts.",
-        "businessContext": "In a professional environment, being distracted can hinder productivity and lead to mistakes, particularly in fast-paced tech or startup settings where focus is crucial.",
-        "nuance": "While distraction can be temporary, it often suggests a need for better time management or prioritization skills.",
-        "synonyms": [
-          "preoccupied",
-          "inattentive"
-        ],
-        "antonyms": [
-          "attentive",
-          "focused"
-        ]
-      },
-      {
-        "word": "capabilities",
-        "definition": "The skills, resources, or potential that an individual or organization possesses to perform tasks or achieve goals.",
-        "businessContext": "In business, understanding one's capabilities is essential for strategic planning, resource allocation, and competitive analysis.",
-        "nuance": "Capabilities often imply inherent strengths and can be contrasted with limitations or weaknesses.",
-        "synonyms": [
-          "competencies",
-          "abilities"
-        ],
-        "antonyms": [
-          "inabilities",
-          "limitations"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "We literally ripped up our strategy almost entirely, and started again, from first principles and said, \"Okay, why do people use Intercom?\" Intercom is a customer support product.",
@@ -183,7 +127,6 @@
     "vocabulary_highlights": [
       "strategy",
       "principles",
-      "functionality",
       "customer support"
     ],
     "topics": [
@@ -197,9 +140,9 @@
       "User Experience",
       "Product Design"
     ],
-    "text_ko": "우리는 전략을 거의 완전히 갈아엎고 처음부터 다시 시작했어요. 기본 원칙(first principles)부터 다시 되짚어 보면서 “사람들이 왜 Intercom을 쓰는 거지?”라고 물었죠. Intercom은 고객 지원(customer support) 제품이에요. 그리고 얼마 지나지 않아 OpenAI의 창업자 겸 대표인 샘 올트먼이 “가장 먼저 영향을 받게 될 산업 중 하나가 고객 서비스(customer service)다”라고 했어요. 우리는 “그렇죠”라고 했어요.",
-    "text_zh": "我们基本上把原来的战略全部推倒重来，从最基本的问题开始思考：\"用户为什么要用Intercom？\"Intercom本质上就是个客服产品。然后没过多久，OpenAI的创始人兼负责人Sam Altman就说：\"客服行业肯定是首批被AI颠覆的行业之一。\"我们当时就想：\"没错，就是这样。\"",
-    "text_es": "Literalmente tiramos nuestra estrategia casi por completo a la basura y empezamos de cero, desde los principios básicos, y dijimos: \"A ver, ¿por qué la gente usa Intercom?\" Intercom es un producto de atención al cliente. Y luego, muy poco después, Sam Altman, que es el fundador y director de OpenAI, dijo: \"Oye, una de las primeras industrias que va a ser revolucionada es el servicio al cliente.\" Y nosotros: \"Exacto.\"",
+    "text_ko": "우리는 사실 전략을 거의 통째로 갈아엎고 처음부터 다시 시작했어요. 근본 원칙(first principles)부터 생각하면서 “사람들이 왜 Intercom을 쓰는 걸까?”라고 물었죠. Intercom은 고객 지원 제품(customer support product)이에요.",
+    "text_zh": "我们差不多把整套策略都推翻了，从第一性原理(first principles)重新来，心里只问一个问题：好吧，人们为什么要用 Intercom？Intercom 是个客户支持产品(customer support product)。",
+    "text_es": "Acabamos tirando casi por completo nuestra estrategia y volvimos a empezar desde cero, partiendo de los principios básicos; nos dijimos: \"Bueno, ¿por qué la gente usa Intercom?\" Intercom es un producto de atención al cliente.",
     "key_sentence": "We ripped up our strategy and started again from first principles.",
     "text_trimmed": true,
     "original_text": "We literally ripped up our strategy almost entirely, and started again, from first principles and said, \"Okay, why do people use Intercom?\" Intercom is a customer support product. And then, very soon after that, Sam Altman, who's the founder and head of OpenAI, said, \"Hey, one of the first industries that's going to be disrupted is customer service.\" We're like, \"Yep.\"",
@@ -234,20 +177,6 @@
         ]
       },
       {
-        "word": "functionality",
-        "definition": "The quality of being suited to serve a purpose well; the range of operations that can be run on a system or product.",
-        "businessContext": "In technology and product development, functionality refers to the specific features and capabilities that a product offers to meet user needs.",
-        "nuance": "While 'functionality' emphasizes practical aspects, it can sometimes imply a lack of aesthetic or user-friendly design, so it's important to balance both in product development.",
-        "synonyms": [
-          "capability",
-          "utility"
-        ],
-        "antonyms": [
-          "inutility",
-          "ineffectiveness"
-        ]
-      },
-      {
         "word": "customer support",
         "definition": "Services provided to assist customers in resolving issues with a product or service, ensuring satisfaction and loyalty.",
         "businessContext": "In the business world, customer support is critical for maintaining customer relationships and enhancing user experience, often involving various channels like phone, email, and chat.",
@@ -261,7 +190,9 @@
           "abandonment"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The advice I have for people, and the advice I have for myself, I'm in that too, I wake up every day to too many emails, and Slack chats, and people knocking on my door, and my desk, and all things.",
@@ -269,10 +200,8 @@
     "timestamp": "00:17:31",
     "context": "Lenny asks what advice Paul would give to people who want to go deeper into AI but don't have time due to their existing workload. Paul acknowledges he faces the same challenge with emails and meetings, but emphasizes that learning about AI must become a priority. He stresses that staying current with AI isn't optional - it requires dedicated time and prioritization.",
     "vocabulary_highlights": [
-      "workload",
       "emails",
-      "advice",
-      "challenges"
+      "advice"
     ],
     "topics": [
       "Learning & Growth",
@@ -285,28 +214,14 @@
       "User Experience",
       "Product Design"
     ],
-    "text_ko": "사람들에게 해주는 조언이자 제 자신에게도 하는 말인데요, 저도 그래요. 매일 너무 많은 이메일과 슬랙 메시지, 사람들이 문을 두드리거나 제 책상으로 불쑥 찾아오는 등으로 하루가 시작돼요. 저한테도 큰 도전이에요. 그래서 시간을 따로 내야 해요. 저한텐 다른 방법이 없더라고요. 그리고 그게 의미하는 건… 결국 우선순위의 문제예요.",
-    "text_zh": "我给别人的建议，也是给自己的建议，我也是这样的，每天一醒来就是一堆邮件，Slack消息，还有人敲门找我，桌子上也是乱七八糟的，什么都有。所以我也面临这个挑战。你就得挤时间出来，对我来说没别的办法。这不是说... 关键还是看你怎么排优先级。",
-    "text_es": "El consejo que les doy a otros, y que me doy a mí mismo porque yo también estoy en la misma, es que me levanto cada día con demasiados emails, chats de Slack, gente tocando mi puerta, cosas en mi escritorio, de todo. O sea, para mí también es un reto. Simplemente tienes que darte el tiempo. Para mí no hay de otra. Y eso no significa... Se trata de prioridades.",
+    "text_ko": "사람들에게 해주는 조언이자 제 자신에게도 하는 말인데요, 저도 마찬가지예요. 매일 일어나면 이메일이랑 슬랙(Slack) 메시지가 너무 많고, 사람들이 문을 두드리거나 책상을 툭툭 치는 등 이런저런 일들로 정신이 없어요.",
+    "text_zh": "我给别人的建议，也是给我自己的：我也一样，天天一醒来就被太多邮件（emails）和 Slack 消息（Slack chats）淹没，还有人敲门、有人跑到我桌前来，事情多得应接不暇。",
+    "text_es": "El consejo que doy a los demás, y también a mí mismo —porque yo también estoy en lo mismo—: me levanto todos los días con demasiados correos electrónicos (emails), mensajes en Slack (Slack chats), gente llamando a mi puerta o interrumpiéndome en mi mesa, y un montón de cosas más.",
     "key_sentence": "I wake up every day to too many emails, and Slack chats, and people knocking on my door.",
     "text_trimmed": true,
     "original_text": "The advice I have for people, and the advice I have for myself, I'm in that too, I wake up every day to too many emails, and Slack chats, and people knocking on my door, and my desk, and all things. So, this is a challenge for me too. You just have to take the time. There's just no other way for me. And that to me doesn't mean... It's about priorities.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "workload",
-        "definition": "The amount of work assigned to or expected from a person in a specific period of time.",
-        "businessContext": "In business settings, managing workload is crucial for ensuring productivity and preventing employee burnout, especially in high-pressure environments like startups.",
-        "nuance": "While 'workload' typically refers to quantity, it can also imply the complexity and difficulty of tasks involved.",
-        "synonyms": [
-          "task load",
-          "responsibility"
-        ],
-        "antonyms": [
-          "leisure",
-          "break"
-        ]
-      },
       {
         "word": "emails",
         "definition": "Messages sent electronically, typically via the internet, used for communication in personal and professional contexts.",
@@ -334,22 +249,10 @@
           "misguidance",
           "N/A"
         ]
-      },
-      {
-        "word": "challenges",
-        "definition": "Difficulties or obstacles that require a solution or response.",
-        "businessContext": "In the business world, challenges can arise from market competition, resource limitations, or internal processes, necessitating strategic problem-solving.",
-        "nuance": "The term 'challenges' often implies an opportunity for growth and innovation, rather than merely a setback.",
-        "synonyms": [
-          "obstacles",
-          "difficulties"
-        ],
-        "antonyms": [
-          "ease",
-          "solution"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think customer support is definitely... Like I said, number one, customer support. So you're like, \"Okay, I guess we should adapt.\" Adapt or die is our mantra. Adapt or die.",
@@ -358,9 +261,7 @@
     "context": "Lenny asks what helps people gain conviction about AI's importance, noting that customer support seems like a clear opportunity for AI integration. Paul confirms that customer support was identified as the top industry for AI disruption, making their decision clearer. He introduces Intercom's core philosophy of \"adapt or die\" while acknowledging that other industries face similar AI transformation challenges, though the path may be less obvious.",
     "vocabulary_highlights": [
       "adapt",
-      "mantra",
-      "conviction",
-      "integration"
+      "mantra"
     ],
     "topics": [
       "Strategy & Planning",
@@ -373,9 +274,9 @@
       "User Experience",
       "Product Design"
     ],
-    "text_ko": "저는 고객 지원이 확실히... 아까 말했듯이, 가장 중요한 건 고객 지원이에요. 그래서 사람들이 “그럼 우리도 적응해야겠다”라고 생각하죠. '적응하라 아니면 도태된다(Adapt or die)'가 저희 신조예요. 다른 업종들도 같은 길을 가고 있다고 생각하는데, 그게 그렇게 뚜렷하게 보이진 않을 뿐이에요.",
-    "text_zh": "我觉得客户服务绝对是...就像我刚说的，排第一位的就是客户服务。所以你就会想，\"好吧，看来我们得适应变化了。\"适应或淘汰(adapt or die)就是我们的座右铭。要么适应，要么被淘汰。我觉得其他行业其实也在走同样的路，只是没有那么明显而已。",
-    "text_es": "Creo que el soporte al cliente es definitivamente... Como te dije, número uno, soporte al cliente. Entonces piensas, \"Bueno, supongo que tenemos que adaptarnos.\" Adaptarse o morir es nuestro lema. Adaptarse o morir. Creo que hay otras industrias que están en el mismo camino, simplemente no es tan obvio.",
+    "text_ko": "저는 고객 지원(customer support)이 확실히 가장 중요하다고 생각해요. 제가 말했듯이, 첫째도 고객 지원이에요. 그래서 '그럼 우리가 적응해야겠네요'라고 생각하게 돼요. '적응하든지 아니면 도태되든지'가 우리 모토예요. 적응하든지요.",
+    "text_zh": "我觉得客服(customer support)肯定很重要……就像我说的，第一位是客服(customer support)。然后你可能会说，“好吧，看来我们得适应了。”我们的座右铭就是：要么适应，要么被淘汰(Adapt or die)。要么适应，要么被淘汰(Adapt or die)。",
+    "text_es": "Creo que la atención al cliente (customer support) es, sin duda... Como dije, lo primero, la atención al cliente. Entonces te quedas como: \"bueno, supongo que tenemos que adaptarnos\". \"Adaptarse o morir\" es nuestro lema. Adaptarse o morir.",
     "key_sentence": "Adapt or die is our mantra for customer support.",
     "text_trimmed": true,
     "original_text": "I think customer support is definitely... Like I said, number one, customer support. So you're like, \"Okay, I guess we should adapt.\" Adapt or die is our mantra. Adapt or die. I think that there are other industries where they're on the same journey, it's just not as obvious.",
@@ -408,48 +309,17 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "conviction",
-        "definition": "A firmly held belief or opinion, often accompanied by a strong sense of certainty.",
-        "businessContext": "In business, conviction can drive decision-making and leadership, influencing how leaders communicate their vision and rally their teams around a common goal.",
-        "nuance": "While 'conviction' implies a strong belief, it can also suggest inflexibility; thus, it's important to balance conviction with openness to new ideas.",
-        "synonyms": [
-          "belief",
-          "certainty"
-        ],
-        "antonyms": [
-          "doubt",
-          "uncertainty"
-        ]
-      },
-      {
-        "word": "integration",
-        "definition": "The process of combining or coordinating different components into a unified whole.",
-        "businessContext": "In technology and business, integration often refers to the seamless incorporation of various systems, processes, or teams to enhance efficiency and effectiveness.",
-        "nuance": "Integration suggests a collaborative effort and can imply complexity, as it often requires careful planning and execution to ensure all parts work together harmoniously.",
-        "synonyms": [
-          "unification",
-          "consolidation"
-        ],
-        "antonyms": [
-          "segregation",
-          "isolation"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Number one thing I would say is keep it simple. Keep it simple. It's so tempting to...",
     "speaker": "Paul Adams",
     "timestamp": "00:53:18",
     "context": "Lenny asks for pricing wisdom based on Paul's experience with Intercom's complex pricing challenges. Paul emphasizes that pricing is deceptively difficult, comparing it to onboarding as one of the hardest design problems. He explains how companies often start simple but gradually add complexity through add-ons and tiers, making customer bills incomprehensible. His key lesson is to resist the temptation to add multiple pricing models.",
-    "vocabulary_highlights": [
-      "deceptively",
-      "complex",
-      "emphasizes",
-      "challenges"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Strategy & Planning"
@@ -461,70 +331,15 @@
       "User Experience",
       "Product Design"
     ],
-    "text_ko": "제일 먼저 드리고 싶은 말은 단순하게 하라는 거예요. 정말 단순하게 유지하세요. 복잡하게 확장하고 싶어지는 유혹이 크거든요. 예를 들어 우리 같은 경우 많은 SaaS 제품(SaaS products)은 애드온(add-ons)이 있어서 “우리가 X를 만들었고 그게 X의 가격이에요—10달러일 수도 있고 100,000일 수도 있어요(판매하는 제품에 따라 달라요).” 그런 다음에 “방금 Y를 만들었어요. Y는 멋지고 새로운 기능이라서 이걸로 여러 새로운 가능성이 열려요”라고 계속 추가하는 식이에요.",
-    "text_zh": "我觉得最重要的一点就是保持简单。一定要保持简单。真的特别容易陷入这样的陷阱...比如说我们这种情况，很多SaaS产品都有附加功能，你会说：\"嘿，我们开发了X功能，卖10块钱。\"或者10万块，这得看你卖的是什么产品了。\"我们开发了X功能，X功能就是这个价格。嘿，我们刚开发了Y功能。Y功能超棒的，是个全新的东西，能解锁各种新能力。\"",
-    "text_es": "Lo principal que te diría es que lo mantengas sencillo. Que lo mantengas sencillo. Es súper tentador... Con nosotros, por ejemplo, muchos productos SaaS tienen complementos (add-ons), donde dices, \"Oye, creamos X y eso cuesta 10 dólares.\" O 100,000, depende del producto que vendas. \"Creamos X y ese es el precio de X. Oye, acabamos de crear Y. Y está padrísimo y es algo nuevo que puedes hacer, y te abre un montón de nuevas posibilidades.\"",
+    "text_ko": "제가 가장 먼저 드리고 싶은 말은 단순하게 하라는 거예요. 단순하게 유지하세요. 이것저것 더하려는 유혹이 너무 강해요...",
+    "text_zh": "我最想说的一点就是别复杂化，简单点。简单点。你很容易忍不住想把事情搞得更复杂...",
+    "text_es": "Lo primero que diría es: manténlo sencillo. Manténlo sencillo. Es muy tentador...",
     "key_sentence": "Number one thing I would say is keep it simple.",
     "text_trimmed": true,
     "original_text": "Number one thing I would say is keep it simple. Keep it simple. It's so tempting to... With us, for example, a lot of SaaS products have add-ons, where you're like, \"Hey, we built X and that's 10 bucks.\" Or 100,000, depends on what product you're selling. \"We built X and that's the price of X. Hey, we've just built Y. Y is awesome and it's a new thing you can do, and it unlocks all these new capabilities.\"",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "deceptively",
-        "definition": "In a manner that is misleading or gives a false impression.",
-        "businessContext": "In business, 'deceptively' can describe marketing strategies that may appear straightforward but are actually more complex than they seem, potentially leading to misunderstandings.",
-        "nuance": "This term often carries a negative connotation, suggesting that something is not as it appears, and should be used cautiously to avoid implying dishonesty.",
-        "synonyms": [
-          "misleadingly",
-          "falsely"
-        ],
-        "antonyms": [
-          "honestly",
-          "clearly"
-        ]
-      },
-      {
-        "word": "complex",
-        "definition": "Consisting of many interconnected parts; not simple or straightforward.",
-        "businessContext": "In a business setting, 'complex' often refers to systems, processes, or problems that require careful analysis and strategic thinking to navigate effectively.",
-        "nuance": "While 'complex' can indicate sophistication, it may also imply unnecessary complication, so it's important to assess whether complexity is beneficial or detrimental.",
-        "synonyms": [
-          "complicated",
-          "intricate"
-        ],
-        "antonyms": [
-          "simple",
-          "straightforward"
-        ]
-      },
-      {
-        "word": "emphasizes",
-        "definition": "To give special importance or prominence to something in speaking or writing.",
-        "businessContext": "In business communication, 'emphasizes' is often used to highlight key points in presentations or reports, ensuring that critical information is not overlooked.",
-        "nuance": "Using 'emphasizes' suggests a deliberate focus on certain aspects, which can be positive for clarity but may also imply that other areas are less important.",
-        "synonyms": [
-          "highlights",
-          "stresses"
-        ],
-        "antonyms": [
-          "downplays",
-          "minimizes"
-        ]
-      },
-      {
-        "word": "challenges",
-        "definition": "Difficulties or obstacles that require a solution or response.",
-        "businessContext": "In the context of business, 'challenges' often refer to issues that organizations must address to achieve their goals, such as market competition or operational inefficiencies.",
-        "nuance": "While 'challenges' can imply a negative situation, it can also suggest opportunities for growth and innovation when approached positively.",
-        "synonyms": [
-          "obstacles",
-          "difficulties"
-        ],
-        "antonyms": [
-          "solutions",
-          "ease"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

@@ -6,9 +6,7 @@
     "context": "Lenny asks Nikita about lessons she's learned about building successful teams. Nikita explains a common problem she's observed across companies where teams become too focused on outcomes (like setting goals and OKRs) while neglecting output (actual shipping and execution). She argues that while having the right goals is important, teams also need to monitor how quickly they're actually delivering products to market, as output serves as a key indicator of whether the outcomes-focused approach is working.",
     "vocabulary_highlights": [
       "outcomes",
-      "indicator",
-      "focused",
-      "successful"
+      "indicator"
     ],
     "topics": [
       "Product Management",
@@ -22,9 +20,9 @@
       "Team Building",
       "Growth Strategy"
     ],
-    "text_ko": "사실 어떤 사람들, 저도 가끔 그랬는데, 성과(outcomes)에만 너무 치우치다 보니 산출(output)이 그걸 보여주는 지표라는 걸 잊었어요. 그래서 팀이 아이데이션(ideation)을 하고, 빠르게 의사결정하는 방법을 찾아 문서화도 잘 해두고, 제품 브리프(product briefs), 디자인 브리프(design briefs), 실험 브리프(experiment briefs) 같은 것들까지 다 갖추고 있다면 그건 정말 좋은 일이에요. 그런데도 시장에 빨리 많이 출시(shipping)하지 못하면 그건 별로 큰 의미가 없어요.",
-    "text_zh": "有些人，包括我自己在某些时候，都太过于追求结果导向，忘记了产出其实是结果的一个体现。所以说，如果你的团队在做头脑风暴(ideation)、快速决策、整理合适的文档、制定产品简报(product briefs)、设计简报(design briefs)、实验简报(experiment briefs)等等这些我们都知道对成功的产品开发很重要的事情，这当然很好，但如果你们同时没有足够快地把很多东西推向市场，那这些其实都没什么太大意义。",
-    "text_es": "Y algunas personas, yo incluido en ciertos momentos, nos fuimos demasiado al extremo con el tema de los resultados finales y se nos olvidó que lo que produces es un indicador de eso. O sea, si tienes un equipo que está haciendo toda la lluvia de ideas (ideation) y descubriendo cómo tomar decisiones rápido y consiguiendo la documentación correcta y armando los briefs de producto adecuados y los briefs de diseño y los briefs de experimentos, todas esas cosas que sabemos que van en el desarrollo exitoso de productos, eso está genial, pero si también no estás lanzando muchas cosas al mercado lo suficientemente rápido, entonces realmente no importa tanto.",
+    "text_ko": "어떤 분들은, 저도 어떤 시점에는 그랬는데, 성과(outcomes)에 너무 치중하다 보니 산출물(output)이 그걸 나타내는 지표라는 걸 잊었어요.",
+    "text_zh": "有些人——包括我有时候也会——在追求结果(outcomes)上走得太远，忘了产出(output)只是个指标而已。",
+    "text_es": "Algunos —y me incluyo en ciertos momentos— nos obsesionamos tanto con los resultados (outcomes) que olvidamos que la producción (output) es un indicador de eso.",
     "key_sentence": "swung way too far on the outcomes train and forgot that output is an indicator of that.",
     "text_trimmed": true,
     "original_text": "And some folks, myself included at certain points, swung way too far on the outcomes train and forgot that output is an indicator of that. So if you have a team that's doing all of the ideation and figuring out how to make decisions quickly and getting the right documentation and setting up the right product briefs and design briefs and experiment briefs, all the things that we know go into to successful product development, that's great, but if you're also not shipping a lot of things to market quickly enough, then it just doesn't matter that much.",
@@ -57,48 +55,17 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "focused",
-        "definition": "Focused describes the state of being concentrated on a particular task, objective, or area of interest, often implying clarity and intent.",
-        "businessContext": "In business settings, being focused is crucial for effective project management, ensuring that teams prioritize their efforts on key objectives and avoid distractions.",
-        "nuance": "While being focused is generally positive, it can sometimes suggest a narrow perspective that may overlook broader opportunities or potential risks.",
-        "synonyms": [
-          "concentrated",
-          "targeted"
-        ],
-        "antonyms": [
-          "distracted",
-          "scattered"
-        ]
-      },
-      {
-        "word": "successful",
-        "definition": "Successful refers to the achievement of desired outcomes or objectives, often implying a favorable or prosperous result.",
-        "businessContext": "In the business world, success is typically measured by financial performance, market share, customer satisfaction, and the ability to meet strategic goals.",
-        "nuance": "The term successful can vary in meaning depending on context; what is considered successful in one scenario may not be viewed the same way in another, highlighting the importance of defining success criteria.",
-        "synonyms": [
-          "prosperous",
-          "achieving"
-        ],
-        "antonyms": [
-          "unsuccessful",
-          "failing"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "the exercise especially with leaders in an org is to have them sit down and write them for each other.",
     "speaker": "Nikita Miller",
     "timestamp": "16:53",
     "context": "Lenny asks Nikita about her biggest lessons for building successful teams. Nikita describes her framework for creating clear roles and responsibilities within cross-functional product teams. She advocates for expanding the traditional product-design-engineering triad to include data scientists as a fourth member. Her approach involves having each team member write down not only their own role but also their expectations of their counterparts, then reviewing these together to create a shared agreement or 'contract' about how the team will work together.",
-    "vocabulary_highlights": [
-      "framework",
-      "cross-functional",
-      "roles and responsibilities",
-      "successful teams"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Leadership & Management",
@@ -111,71 +78,16 @@
       "Team Building",
       "Growth Strategy"
     ],
-    "text_ko": "제가 자주 하는 연습은 보통 이 네 가지 역할에 대해 제가 생각하는 역할과 책임(roles and responsibilities)과 기대치를 대략 정리해 놓는 거예요. 그런데 조직 내 리더들과 할 때는 서로 앉아서 각자 서로를 위해 그걸 직접 써보게 하는 게 핵심이에요. Atlassian도 이런 걸 플레이북(playbooks) 형태로 일부 하고 있고, 기본적으로 저는 프로덕트 리더(product leader)로서 제 엔지니어링 매니저(engineering manager), 디자이너(designer), 데이터 담당자(data)에게 기대하는 역할과 책임을 직접 적어보는 거예요.",
-    "text_zh": "我经常做的一个练习是这样的：虽然我心里大概知道这四个岗位的职责分工和期望值是什么，但我特别喜欢让团队里的领导们坐下来，互相给对方写一遍。Atlassian就有类似的做法，他们叫playbook（工作手册），基本上就是我作为产品负责人，把我认为的工程经理、设计师、数据分析师他们各自的职责和期望值都写下来。",
-    "text_es": "El ejercicio que suelo hacer es que generalmente tengo una idea de cuáles creo que son los roles y responsabilidades, y las expectativas entre estos cuatro roles, pero el ejercicio, especialmente con líderes en la organización, es hacer que se sienten y los escriban el uno para el otro. Atlassian tiene algo de esto que hacen en forma de playbooks, pero básicamente es: yo, como líder de producto, voy a escribir lo que creo que son las expectativas, el rol y las responsabilidades de mi gerente de ingeniería, de mi diseñador, de mi analista de datos.",
+    "text_ko": "특히 조직의 리더들과 할 때는, 리더들이 앉아서 서로를 위해 그것들을 적어보게 하는 연습이에요.",
+    "text_zh": "这个练习，尤其是针对组织里的领导，就是让他们坐下来，互相把这些写清楚。",
+    "text_es": "El ejercicio, sobre todo con los líderes de una organización, consiste en que se sienten y se escriban entre sí.",
     "key_sentence": "Leaders should sit down and write down roles and responsibilities for each other.",
     "text_trimmed": true,
     "original_text": "The exercise that I often do is I generally have an idea of what I think the roles and responsibilities are and the expectations across these four roles, but the exercise especially with leaders in an org is to have them sit down and write them for each other. So Atlassian has some of this that they do in the form of playbooks, but it's basically I as a product leader, I'm going to write down what I think the expectations and the role and responsibilities of my engineering manager, of my designer, of my data.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "framework",
-        "definition": "A structured approach or system that provides guidance for organizing and implementing processes or ideas.",
-        "businessContext": "In business and tech, frameworks are often used to establish methodologies for project management, software development, or strategic planning.",
-        "nuance": "While a framework offers flexibility, it also implies a level of standardization that can guide decision-making without being overly prescriptive.",
-        "synonyms": [
-          "structure",
-          "blueprint"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
-      },
-      {
-        "word": "cross-functional",
-        "definition": "Involving multiple departments or areas of expertise within an organization to achieve a common goal.",
-        "businessContext": "Cross-functional teams are essential in projects that require diverse skills and perspectives, often leading to more innovative solutions and improved collaboration.",
-        "nuance": "The term emphasizes collaboration across different functions, which can sometimes lead to conflicts if not managed properly.",
-        "synonyms": [
-          "interdisciplinary",
-          "multidisciplinary"
-        ],
-        "antonyms": [
-          "single-functional",
-          "departmental"
-        ]
-      },
-      {
-        "word": "roles and responsibilities",
-        "definition": "The specific duties and expectations assigned to individuals or teams within an organization.",
-        "businessContext": "Clearly defined roles and responsibilities are crucial for effective teamwork and accountability, ensuring that everyone understands their contributions to the organization's objectives.",
-        "nuance": "While roles and responsibilities provide clarity, they should also allow for flexibility to adapt to changing circumstances or team dynamics.",
-        "synonyms": [
-          "job descriptions",
-          "duties and obligations"
-        ],
-        "antonyms": [
-          "ambiguity",
-          "confusion"
-        ]
-      },
-      {
-        "word": "successful teams",
-        "definition": "Groups of individuals who work collaboratively towards shared goals, achieving high levels of performance and satisfaction.",
-        "businessContext": "In business, successful teams are characterized by effective communication, trust, and a clear understanding of their objectives, often leading to improved productivity and innovation.",
-        "nuance": "The term 'successful' implies not only achievement of goals but also the health of team dynamics and relationships, which are equally important.",
-        "synonyms": [
-          "high-performing teams",
-          "effective teams"
-        ],
-        "antonyms": [
-          "dysfunctional teams",
-          "ineffective groups"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "From my experience as a product manager, it was always a blocker. Getting your hands on the data, maybe having someone to troubleshoot with if as a PM you couldn't kind of understand or figure it out yourself, it was just always a blocker.",
@@ -184,9 +96,7 @@
     "context": "Lenny asks why Nikita pushes to embed data scientists directly into product teams rather than having them in a centralized data team. Nikita explains that when data scientists are centralized, product managers constantly face delays in getting data analysis done. They have to negotiate with other teams for data science resources and wait in queues, which slows down product development. Having a dedicated data scientist on each product team eliminates these bottlenecks and allows for faster decision-making.",
     "vocabulary_highlights": [
       "blocker",
-      "troubleshoot",
-      "embed",
-      "centralized"
+      "troubleshoot"
     ],
     "topics": [
       "Product Management",
@@ -199,9 +109,9 @@
       "Team Building",
       "Growth Strategy"
     ],
-    "text_ko": "프로덕트 매니저(product manager)로 일하면서 제 경험으론 그게 항상 블로커(blocker)였어요. 데이터를 직접 확보하거나 접근하는 것 자체가 문제였고, PM(PM) 혼자서 이해하거나 해결하기 어려울 때 같이 트러블슈팅(troubleshoot)해줄 사람이 없으면 더 막혔죠. 그래서 다른 팀에 가서 누군가의 리소스(resources)를 빌려 이 문제를 봐 달라고 조율해야 했어요. 그게 한 가지 큰 문제였어요.",
-    "text_zh": "从我做产品经理的经验来看，这个一直都是个障碍。想要拿到数据，或者找个人帮你排查问题，如果你作为PM自己搞不定的话，这就一直卡在那儿。然后你还得去跟其他团队谈，让他们分个人手来看这个问题，这是其中一点。",
-    "text_es": "Por mi experiencia como product manager, siempre era un cuello de botella (blocker). El poder acceder a los datos, tal vez tener a alguien con quien resolver problemas si como PM no podías como que entenderlo o resolverlo tú solo, simplemente siempre era un obstáculo. Y entonces también tenías que ir a negociar con otros equipos para conseguir que alguien dedicara recursos a mirar este problema, eso es una cosa.",
+    "text_ko": "프로덕트 매니저(product manager, PM)로 일하면서 제 경험상 그건 항상 걸림돌이었어요. 데이터를 직접 확보하는 것도 문제였고, PM이 혼자서 이해하거나 해결하기 어려울 때 같이 트러블슈팅(troubleshoot)해줄 사람이 없으면 늘 막혔어요.",
+    "text_zh": "以我做产品经理(product manager)的经验来看，这一直是个绊脚石。拿到数据本身就是问题，要是作为产品经理(PM)你自己弄不明白、也没人能一起排查(troubleshoot)，事情就彻底卡住了。",
+    "text_es": "En mi experiencia como responsable de producto (product manager, PM), siempre fue un cuello de botella: acceder a los datos y no tener a alguien con quien resolver problemas cuando no podías entenderlo o solucionarlo por tu cuenta.",
     "key_sentence": "Getting your hands on data was always a blocker for product managers.",
     "text_trimmed": true,
     "original_text": "From my experience as a product manager, it was always a blocker. Getting your hands on the data, maybe having someone to troubleshoot with if as a PM you couldn't kind of understand or figure it out yourself, it was just always a blocker. And so then you'd also then have to go and negotiate with other teams about getting someone's resources to look at this problem, so that's one.",
@@ -234,36 +144,10 @@
           "ignore",
           "neglect"
         ]
-      },
-      {
-        "word": "embed",
-        "definition": "To embed means to incorporate or integrate an element within a larger system or context, making it an integral part of that system.",
-        "businessContext": "In technology and product development, embedding features or data within applications enhances user experience and functionality.",
-        "nuance": "While 'embed' can refer to physical integration, in digital contexts it often implies seamless incorporation that enhances usability.",
-        "synonyms": [
-          "integrate",
-          "incorporate"
-        ],
-        "antonyms": [
-          "detach",
-          "remove"
-        ]
-      },
-      {
-        "word": "centralized",
-        "definition": "Centralized refers to the concentration of control or decision-making authority within a single entity or location.",
-        "businessContext": "In business, a centralized structure can streamline processes and decision-making, but may also lead to bottlenecks if not managed effectively.",
-        "nuance": "Centralized systems can promote uniformity and efficiency, but may lack flexibility and responsiveness compared to decentralized alternatives.",
-        "synonyms": [
-          "consolidated",
-          "unified"
-        ],
-        "antonyms": [
-          "decentralized",
-          "distributed"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I'll tell you what I do. I don't know, I think folks might get defensive sometime. But I'll tell you what I try.",
@@ -271,10 +155,7 @@
     "timestamp": "31:53",
     "context": "Lenny asks how to help teams recognize when they're not delivering enough output without making them defensive. Nikita shares her approach of asking direct but non-accusatory questions about actual deliverables. Rather than making statements about poor performance, she focuses on understanding what was actually shipped to production and how long it took. This questioning approach helps teams self-reflect on their execution velocity while avoiding defensiveness that comes from direct criticism.",
     "vocabulary_highlights": [
-      "defensive",
-      "approach",
-      "recognize",
-      "output"
+      "defensive"
     ],
     "topics": [
       "Leadership & Management",
@@ -287,9 +168,9 @@
       "Team Building",
       "Growth Strategy"
     ],
-    "text_ko": "제가 어떻게 하는지 말해드릴게요. 글쎄요, 사람들은 가끔 방어적으로 나올 때가 있는 것 같아요. 그래도 제가 시도하는 건 이거예요. 제일 중요한 건 스프린트(sprint) 동안 사람들이 실제로 뭘 했는지예요. 아주 단순하게 \"이번 스프린트에서 무엇을 배포했나요?\" 그게 전부예요. 그냥 질문을 막 던져요. \"무엇을 배포했나요?\" 그리고 더 물어봐요. \"좋아요, 그런데 그걸 프로덕션(production)에 배포했나요?\" \"잘했네요. 그걸 얼마나 오래 작업했나요? 얼마나요? 사이클 타임(cycle time)은 어땠나요?\"",
-    "text_zh": "我跟你说我是怎么做的。我也不知道，可能有些人会觉得不舒服吧。但我告诉你我的做法。对我来说最重要的就是，如果团队在做冲刺(sprint)的话，很简单，就问\"这个冲刺你们交付了什么？\"就这样。就是不停地问问题。\"你们交付了什么？\"然后接着问，\"好吧，那你们实际上线了什么？很好。那你们在这上面花了多长时间？多久？周期时间(cycle time)是多少？\"",
-    "text_es": "Te voy a decir lo que hago yo. No sé, creo que a veces la gente se puede poner a la defensiva. Pero te cuento lo que trato de hacer. Para mí lo más importante es simplemente, si el equipo está trabajando en un sprint, muy sencillo: \"¿Qué entregaron en este sprint?\" Y ya. Nada más hacer un montón de preguntas. \"¿Qué entregaron?\" Y más preguntas: \"Bueno, está bien, ¿pero qué subieron a producción? Perfecto. ¿Y cuánto tiempo llevan trabajando en eso? ¿Cuánto tiempo? ¿Cuál fue el tiempo de ciclo (cycle time)?\"",
+    "text_ko": "제가 하는 걸 말씀드릴게요. 음, 가끔 사람들 반응이 방어적일 때가 있는 것 같아요. 그래도 제가 시도해 보는 방법은 이런 식이에요.",
+    "text_zh": "我跟你说说我是怎么做的吧。我也不太确定，有时候人会有点防备。不过我可以讲讲我通常会怎么尝试。",
+    "text_es": "Te cuento lo que hago. No sé, creo que a veces la gente se pone a la defensiva. Pero te digo qué intento.",
     "key_sentence": "But I'll tell you what I try.",
     "text_trimmed": true,
     "original_text": "I'll tell you what I do. I don't know, I think folks might get defensive sometime. But I'll tell you what I try. For me the biggest thing is just if folks are working on a sprint, it's very simply, 'What did you deliver this sprint?' That's it. Just ask a bunch of questions. 'What did you deliver?' And more questions, 'Okay, fine, but what did you deliver to production? Great. And how long have you been working on that? How long? What was the cycle time?'",
@@ -308,50 +189,10 @@
           "open",
           "receptive"
         ]
-      },
-      {
-        "word": "approach",
-        "definition": "A method or way of dealing with a situation or problem, often involving a specific strategy or perspective.",
-        "businessContext": "In a business context, an approach can refer to the strategic plan adopted to achieve objectives, such as market entry or project management.",
-        "nuance": "The term can imply a degree of flexibility or adaptability, suggesting that different situations may require different methods.",
-        "synonyms": [
-          "method",
-          "strategy"
-        ],
-        "antonyms": [
-          "disregard",
-          "neglect"
-        ]
-      },
-      {
-        "word": "recognize",
-        "definition": "To identify or acknowledge the existence, validity, or legality of something or someone.",
-        "businessContext": "In business, recognizing contributions or achievements can enhance employee morale and foster a culture of appreciation and motivation.",
-        "nuance": "While it often implies acknowledgment, it can also suggest a deeper understanding or validation of someone's efforts or ideas.",
-        "synonyms": [
-          "acknowledge",
-          "identify"
-        ],
-        "antonyms": [
-          "ignore",
-          "overlook"
-        ]
-      },
-      {
-        "word": "output",
-        "definition": "The amount of something produced by a person, machine, or system, often measured in terms of quantity or quality.",
-        "businessContext": "In a business environment, output can refer to the productivity of employees, the performance of machinery, or the results of a project.",
-        "nuance": "The term can carry connotations of efficiency and effectiveness, suggesting that higher output is often desirable, but quality should not be compromised.",
-        "synonyms": [
-          "production",
-          "yield"
-        ],
-        "antonyms": [
-          "input",
-          "loss"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "When I reflect back on what works across my early career, it really comes down in a nutshell to this career concept of explore and exploit.",
@@ -361,8 +202,7 @@
     "vocabulary_highlights": [
       "reflect",
       "explore",
-      "exploit",
-      "fundamentals"
+      "exploit"
     ],
     "topics": [
       "Career Development",
@@ -375,9 +215,9 @@
       "Team Building",
       "Growth Strategy"
     ],
-    "text_ko": "제 경력 초반에 뭐가 통했나 돌아보면, 한마디로 경력 개념인 '탐색과 활용(explore and exploit)'으로 정리돼요. 보통은 미지의 게 많아서 이 일이 맞는지, 내가 좋아하는지 시험해보는 탐색자 모드(explorer)에 있거나, 아니면 정말 깊고 가치 있는 무언가를 찾아내 그걸 깊이 파고들며 활용하는 활용 모드(exploit)에 있어요.",
-    "text_zh": "回头想想我职业生涯早期什么管用，说白了就是两个字：探索和深耕。要么你在探索模式，面对一堆未知的东西，试试看自己到底喜不喜欢；要么你在深耕模式，已经找到了真正有价值、有深度的东西，就使劲挖下去。",
-    "text_es": "Cuando reflexiono sobre lo que me funcionó en mis primeros años profesionales, todo se resume básicamente en este concepto de carrera: explorar y explotar. O estás en modo explorador, donde tienes un montón de incógnitas y estás probando a ver si te gusta, o estás explotando, donde ya encontraste algo que realmente vale la pena y tiene mucha profundidad.",
+    "text_ko": "제가 경력 초반에 무엇이 잘 통했는지 돌이켜보면, 한마디로 말해 커리어 관점에서 '탐색과 활용(explore and exploit)'이라는 개념으로 요약돼요.",
+    "text_zh": "回头看我早期职业生涯里什么管用，归根结底就是这条职业策略：探索与利用（explore and exploit）。",
+    "text_es": "Cuando pienso en lo que realmente funcionó al principio de mi carrera, todo se reduce a esto: el concepto de explorar y aprovechar (explore and exploit).",
     "key_sentence": "it really comes down in a nutshell to this career concept of explore and exploit.",
     "text_trimmed": true,
     "original_text": "When I reflect back on what works across my early career, it really comes down in a nutshell to this career concept of explore and exploit. You're either in a mode of explorer where you have a bunch of unknowns and you're testing to see whether or not you like it, or you're exploiting, where you actually have found something that's really rich and really deep.",
@@ -424,22 +264,10 @@
           "waste",
           "neglect"
         ]
-      },
-      {
-        "word": "fundamentals",
-        "definition": "The basic principles or underlying concepts that form the foundation of a subject or system.",
-        "businessContext": "Understanding the fundamentals of a business model, market dynamics, or financial principles is essential for effective decision-making and strategic planning.",
-        "nuance": "While fundamentals are often seen as essential knowledge, the term can also imply a level of simplicity that may overlook complex nuances in advanced business scenarios.",
-        "synonyms": [
-          "basics",
-          "principles"
-        ],
-        "antonyms": [
-          "complexities",
-          "nuances"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "So when I say outcome, you're saying here's the goal they're achieving or the impact they're having, or is it just the idea we know what our outcome will be but they're not actually shipping anything?",
@@ -449,8 +277,7 @@
     "vocabulary_highlights": [
       "outcome",
       "impact",
-      "achieving",
-      "goals"
+      "achieving"
     ],
     "topics": [
       "Product Management",
@@ -463,9 +290,9 @@
       "Team Building",
       "Growth Strategy"
     ],
-    "text_ko": "제가 '성과(outcome)'라고 말할 때, 당신은 그들이 달성하려는 목표나 만들어내는 영향(impact)을 말하는 건가요, 아니면 결과는 알고 있는데 실제로는 아무 것도 출시(shipping)하지 않는다는 뜻인가요? 성과라는 건 목표가 무엇인지, 그리고 그 목표에 도달하기 위해 우리가 무엇을 할 수 있을지 이해하는 거예요. 그래서 OKR(목표와 핵심 결과, OKRs)이 그걸 이야기하는 한 방법이에요. 좋은 접근이에요. 그런데 거기에는 '우리는 어떻게 그 목표에 도달할 것인가?'라는 질문이 포함돼 있어요. 그리고 사실 여러 번 시도해볼수록 정답을 맞출 가능성이 더 커져요.",
-    "text_zh": "所以我说到结果的时候，你是指他们要达成的目标或者产生的影响，还是说我们只是知道会有什么结果，但实际上他们什么都没做出来？这里说的结果就是要搞清楚目标是什么，我们可能怎么去实现。所以OKR就是讨论这个的一种方法。很好。但这里面还包含一个问题——我们怎么去实现？事实上就是，你尝试的次数越多，成功的可能性就越大。",
-    "text_es": "Entonces cuando digo resultado, ¿te refieres a que aquí está la meta que están logrando o el impacto que están teniendo, o es solo la idea de que sabemos cuál va a ser nuestro resultado pero en realidad no están entregando nada? Los resultados tienen que ver con entender cuáles son los objetivos y qué podríamos hacer para llegar ahí. Los OKRs son una forma de hablar de eso. Perfecto. Pero dentro de eso está el cómo vamos a llegar ahí. Y la realidad es que mientras más intentos tengas, más probable es que le atines.",
+    "text_ko": "그러니까 제가 '결과(outcome)'라고 말할 때, 당신은 그들이 달성하는 목표나 주는 임팩트(impact)를 말하는 건가요? 아니면 우리가 결과를 알고는 있지만 실제로는 아무것도 출시(shipping)하지 않는, 단지 아이디어 수준인 건가요?",
+    "text_zh": "所以我说成果(outcome)，你的意思是这是他们要达成的目标或带来的影响，还是只是我们心里有个预期，但他们根本没真正把东西交付出来？",
+    "text_es": "Entonces, cuando digo \"resultado (outcome)\", ¿estás diciendo que esa es la meta que están alcanzando o el impacto que están teniendo, o que es solo la idea — sabemos cuál será el resultado pero en realidad no están lanzando (shipping) nada?",
     "key_sentence": "here's the goal they're achieving or the impact they're having",
     "text_trimmed": true,
     "original_text": "So when I say outcome, you're saying here's the goal they're achieving or the impact they're having, or is it just the idea we know what our outcome will be but they're not actually shipping anything? The outcomes are understanding what the goals are and what we might do to get there. So OKRs is one way to talk about that. Great. But embedded in that is and how are we going to get there? And the fact is, the more tries you have at it, the likelier you are to get it right.",
@@ -512,21 +339,9 @@
           "failing",
           "abandoning"
         ]
-      },
-      {
-        "word": "goals",
-        "definition": "Goals are specific, measurable objectives that an individual or organization aims to achieve within a certain timeframe.",
-        "businessContext": "In business, goals provide direction and motivation, serving as benchmarks for performance evaluation and strategic planning.",
-        "nuance": "While 'goals' can refer to both short-term and long-term aspirations, they are often associated with concrete, actionable plans rather than vague aspirations.",
-        "synonyms": [
-          "objectives",
-          "targets"
-        ],
-        "antonyms": [
-          "aimlessness",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

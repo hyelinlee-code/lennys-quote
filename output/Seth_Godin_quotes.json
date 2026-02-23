@@ -5,10 +5,8 @@
     "timestamp": "16:26",
     "context": "Lenny asks Seth how new AI companies can build brands to distinguish themselves in an increasingly crowded market. Seth first clarifies what a brand actually is - not a logo, but a promise and set of expectations. He explains that true brands transcend product categories because people understand what the brand stands for, using Nike as an example of a strong brand versus Hyatt as just a logo.",
     "vocabulary_highlights": [
-      "distinguish",
       "promise",
-      "expect",
-      "crowded"
+      "expect"
     ],
     "topics": [
       "Strategy & Planning",
@@ -20,28 +18,14 @@
       "Marketing Strategy",
       "Leadership Development"
     ],
-    "text_ko": "첫 번째 질문은 '브랜드가 뭐예요?'예요. 왜냐하면 브랜드는 로고(logo)가 아니거든요. 브랜드(brand)는 약속이에요. 그 브랜드에게서 무엇을 기대하느냐는 거예요. 그 브랜드가 사라지면 그리울까 하는 거죠. 하얏트 호텔(Hyatt Hotels)은 로고(logo)가 있고, 나이키(Nike)는 브랜드(brand)가 있어요. 우리가 이걸 아는 방법은, 만약 나이키가 호텔을 연다면 어떤 느낌일지 알 수 있기 때문이에요.",
-    "text_zh": "首先，什么叫品牌？品牌可不是一个标志那么简单。品牌其实是一种承诺，就是我对你的期待是什么，你要是没了我会不会想念你。凯悦酒店有的只是个标志，但耐克有的是品牌。怎么证明呢？如果耐克开酒店，我们马上就能想象出那会是什么样子。",
-    "text_es": "Bueno, la primera pregunta es ¿qué es una marca? Porque no es un logo. Una marca es una promesa. Es qué espero de ti. Es si te echaría de menos si desaparecieras. Y Hyatt Hotels tiene un logo, Nike tiene una marca. Y sabemos esto porque si Nike abriera un hotel, sabríamos exactamente cómo sería.",
+    "text_ko": "음, 먼저 브랜드가 뭐냐는 질문이에요. 왜냐하면 브랜드는 로고(logo)가 아니거든요. 브랜드(brand)는 약속이에요. 내가 그 브랜드에게서 무엇을 기대하는지, 그 브랜드가 사라졌을 때 내가 그리워할지 그런 거예요. 하얏트 호텔은 로고(logo)가 있고, 나이키는 브랜드(brand)가 있어요.",
+    "text_zh": "嗯，首先得问，什么是品牌(brand)？它不是标志(logo)。品牌是一种承诺——就是我对你的期待，换句话说，是如果你消失了，我会不会想念你。凯悦有个标志(logo)，耐克有品牌(brand)。",
+    "text_es": "Bueno, la primera pregunta es: ¿qué es una marca? No es un logo. Una marca es una promesa: es lo que espero de ti. Es preguntarme si te echaría de menos si no estuvieras. Hyatt Hotels tiene un logo; Nike tiene una marca.",
     "key_sentence": "A brand is a promise.",
     "text_trimmed": true,
     "original_text": "Well, the first question is what's a brand? Because it's not a logo. A brand is a promise. It's what do I expect from you. It's would I miss you if you were gone. And Hyatt Hotels has a logo, Nike has a brand. The way we know this is if Nike opened a hotel, we'd know what it would be like.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "distinguish",
-        "definition": "To recognize or point out the differences between two or more items or concepts.",
-        "businessContext": "In business, distinguishing a product or service from competitors is crucial for branding and market positioning.",
-        "nuance": "Often used in contexts where clarity and differentiation are essential, it implies a deeper understanding rather than superficial recognition.",
-        "synonyms": [
-          "differentiate",
-          "identify"
-        ],
-        "antonyms": [
-          "confuse",
-          "misidentify"
-        ]
-      },
       {
         "word": "promise",
         "definition": "A declaration or assurance that one will do something or that a particular thing will happen.",
@@ -69,34 +53,17 @@
           "doubt",
           "disregard"
         ]
-      },
-      {
-        "word": "crowded",
-        "definition": "Filled with a large number of people or things, often resulting in a lack of space or comfort.",
-        "businessContext": "In market analysis, a crowded market indicates high competition, which can affect pricing strategies and market entry decisions.",
-        "nuance": "While it can imply vibrancy and activity, it may also suggest challenges related to saturation and differentiation.",
-        "synonyms": [
-          "congested",
-          "packed"
-        ],
-        "antonyms": [
-          "spacious",
-          "unpopulated"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "AI very soon is going to stop being a feature the same way electricity is not a feature. What AI companies and all companies need to do is say, what's in this for the user?",
     "speaker": "Seth Godin",
     "timestamp": "17:13",
     "context": "Following up on his brand definition, Seth addresses how AI companies specifically should approach branding. He predicts that AI will become ubiquitous infrastructure rather than a differentiating feature, similar to how electricity powers many products but isn't considered special. He emphasizes that companies should focus on making and keeping meaningful promises to users rather than promoting their use of AI technology.",
-    "vocabulary_highlights": [
-      "ubiquitous",
-      "infrastructure",
-      "differentiating",
-      "approach"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Strategy & Planning",
       "Product Management"
@@ -107,83 +74,23 @@
       "Marketing Strategy",
       "Leadership Development"
     ],
-    "text_ko": "머지않아 인공지능(AI)은 전기(electricity)처럼 더 이상 '기능(feature)'으로 여겨지지 않을 거예요. AI 회사든 모든 회사든 스스로에게 물어봐야 할 건 '이게 사용자에게 어떤 가치가 있지?'예요. 내가 어떤 약속을 하고 싶은가요? 어렵지만 의미 있는, 눈에 띄는 약속을 정하고 그 약속을 어떻게 지킬지 고민해야 해요.",
-    "text_zh": "AI很快就不会再是一个功能特色了，就像电力一样——你不会说电力是个特色功能对吧？AI公司也好，其他公司也好，都得想清楚一个问题：用户能从中得到什么好处？我要给用户一个什么样的承诺？这个承诺得有挑战性，得让人眼前一亮，然后最关键的是——我怎么兑现这个承诺？",
-    "text_es": "Muy pronto la IA va a dejar de ser una funcionalidad, igual que la electricidad ya no es una funcionalidad. Lo que las empresas de IA y todas las empresas tienen que preguntarse es: ¿qué gana el usuario con esto? ¿Qué promesa quiero hacer - una promesa difícil, una promesa que realmente marque la diferencia - y entonces cómo la voy a cumplir?",
+    "text_ko": "머지않아 인공지능(AI)은 전기처럼 더 이상 따로 '기능(feature)'이라고 부를 수 없게 될 거예요. 인공지능 관련 회사든 다른 모든 회사든 지금 해야 할 일은 \"이게 사용자에게 어떤 가치가 있나요?\"라고 스스로 묻는 거예요.",
+    "text_zh": "很快人工智能(AI)就不会再被当成一个功能(feature)了，就像电不是个功能一样。AI公司和所有公司要做的，是问自己：这对用户有什么好处？",
+    "text_es": "En poco tiempo la IA dejará de verse como una característica (feature), igual que la electricidad no se considera una característica. Lo que tienen que hacer las empresas de IA —y todas las empresas— es preguntarse: ¿qué le aporta esto al usuario?",
     "key_sentence": "AI very soon is going to stop being a feature the same way electricity is not a feature.",
     "text_trimmed": true,
     "original_text": "AI very soon is going to stop being a feature the same way electricity is not a feature. What AI companies and all companies need to do is say, what's in this for the user? What promise do I want to make a difficult promise, a remarkable promise, and then how do I keep it?",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "ubiquitous",
-        "definition": "Present, appearing, or found everywhere; pervasive.",
-        "businessContext": "In business and technology, 'ubiquitous' often describes products or services that are widely available and integrated into everyday life, such as smartphones or internet access.",
-        "nuance": "While it implies widespread presence, it can also suggest a lack of uniqueness or differentiation in a crowded market.",
-        "synonyms": [
-          "omnipresent",
-          "universal"
-        ],
-        "antonyms": [
-          "rare",
-          "scarce"
-        ]
-      },
-      {
-        "word": "infrastructure",
-        "definition": "The fundamental facilities and systems serving a country, city, or area, including services and installations necessary for economic activity.",
-        "businessContext": "In the context of startups and technology, 'infrastructure' refers to the underlying systems and services that support operations, such as cloud computing, networking, and data management.",
-        "nuance": "It often implies a foundational role that is critical for growth and scalability, and can encompass both physical and digital components.",
-        "synonyms": [
-          "framework",
-          "foundation"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "differentiating",
-        "definition": "The process of distinguishing or setting apart a product or service from others in the market.",
-        "businessContext": "In business, 'differentiating' is crucial for competitive advantage, as it helps companies highlight unique features, benefits, or value propositions to attract customers.",
-        "nuance": "It often carries a positive connotation, suggesting innovation and strategic positioning, but can also imply a challenge in a saturated market.",
-        "synonyms": [
-          "distinguishing",
-          "separating"
-        ],
-        "antonyms": [
-          "standardizing",
-          "homogenizing"
-        ]
-      },
-      {
-        "word": "approach",
-        "definition": "A way of dealing with a situation or problem; a method or strategy.",
-        "businessContext": "In business and technology, 'approach' can refer to the strategic methods employed to solve problems, develop products, or engage with customers, such as agile or customer-centric approaches.",
-        "nuance": "It suggests a thoughtful and systematic method, but can also imply flexibility and adaptability depending on the context.",
-        "synonyms": [
-          "method",
-          "strategy"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I define good taste as knowing what other people want just before they do.",
     "speaker": "Seth Godin",
     "timestamp": "05:54",
     "context": "Lenny asks Seth how to recognize and develop good taste and high standards, based on advice from Wes Kao who worked with Seth. Seth provides his definition of good taste - the ability to anticipate what others will want before they realize it themselves. He uses a humorous food example to illustrate that personal preference alone doesn't constitute good taste; it must resonate with others.",
-    "vocabulary_highlights": [
-      "anticipate",
-      "develop",
-      "standards",
-      "recognize"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Strategy & Planning"
@@ -194,71 +101,16 @@
       "Marketing Strategy",
       "Leadership Development"
     ],
-    "text_ko": "저는 좋은 취향을 '다른 사람들이 원하기 직전에 그들이 뭘 원하는지 알아내는 능력'이라고 정의해요. 그러니까 만약 당신 혼자만 땅콩버터를 바른 리코리스를 좋아한다면, 그걸 먹을 권리는 있어요. 다만 그건 좋은 취향이라고 보긴 어려워요 — 다른 사람들은 그걸 이상하게 생각하니까요.",
-    "text_zh": "我觉得品味好就是能比别人早一步知道他们想要什么。比如说，如果全世界就你一个人想吃花生酱裹甘草糖，那你当然可以吃，但这不叫有品味，因为别人都觉得这太奇怪了。",
-    "text_es": "Yo defino el buen gusto como saber lo que otros quieren justo antes de que ellos se den cuenta. O sea, si eres la única persona que quiere regaliz cubierto de mantequilla de maní, perfecto, tienes todo el derecho de comértelo, pero no tienes buen gusto porque todos los demás piensan que eso está rarísimo.",
+    "text_ko": "제가 정의하는 좋은 안목은 다른 사람들이 원하기 직전에 그들이 원하는 걸 아는 거예요.",
+    "text_zh": "我把“好品味”定义为：在别人还没意识到自己想要什么之前，就已经知道他们想要什么。",
+    "text_es": "Para mí, el buen gusto es adelantarse a lo que van a querer los demás, justo antes de que ellos mismos lo sepan.",
     "key_sentence": "Good taste means knowing what others want just before they do.",
     "text_trimmed": true,
     "original_text": "I define good taste as knowing what other people want just before they do. So if you're the only person who wants peanut butter covered licorice, you're entitled to eat peanut butter covered licorice, but you don't have good taste because everyone else thinks that's weird.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "anticipate",
-        "definition": "To expect or predict something before it occurs.",
-        "businessContext": "In business, anticipating market trends or consumer needs can provide a competitive advantage and inform strategic planning.",
-        "nuance": "While 'anticipate' often has a positive connotation of foresight, it can imply uncertainty if the prediction is not based on solid data.",
-        "synonyms": [
-          "foresee",
-          "expect"
-        ],
-        "antonyms": [
-          "ignore",
-          "overlook"
-        ]
-      },
-      {
-        "word": "develop",
-        "definition": "To grow or cause to grow and become more mature, advanced, or elaborate.",
-        "businessContext": "In a business context, developing products or services involves research, design, and iterative improvement to meet market demands.",
-        "nuance": "The term 'develop' suggests a process of evolution and improvement, rather than a one-time action.",
-        "synonyms": [
-          "evolve",
-          "enhance"
-        ],
-        "antonyms": [
-          "stagnate",
-          "regress"
-        ]
-      },
-      {
-        "word": "standards",
-        "definition": "A level of quality or attainment used as a measure, norm, or model in comparative evaluations.",
-        "businessContext": "Establishing standards in a business ensures consistency in product quality and service delivery, which can enhance customer satisfaction and brand reputation.",
-        "nuance": "The term can imply both minimum requirements and aspirational benchmarks, depending on the context.",
-        "synonyms": [
-          "criteria",
-          "benchmarks"
-        ],
-        "antonyms": [
-          "anomalies",
-          "exceptions"
-        ]
-      },
-      {
-        "word": "recognize",
-        "definition": "To identify someone or something from previous encounters or knowledge; to acknowledge the existence or validity of something.",
-        "businessContext": "In business, recognizing employee contributions or market opportunities can foster a positive culture and drive innovation.",
-        "nuance": "While 'recognize' often conveys acknowledgment, it can also imply a deeper understanding or appreciation of value.",
-        "synonyms": [
-          "acknowledge",
-          "identify"
-        ],
-        "antonyms": [
-          "disregard",
-          "ignore"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Standards, it's worth understanding what quality is and the people who listen to this podcast know better than most. Quality is not luxury. Quality is not perfection. Quality means meeting spec, and if you meet spec, you're done.",
@@ -281,9 +133,9 @@
       "Marketing Strategy",
       "Leadership Development"
     ],
-    "text_ko": "기준(standards) 얘기인데요, 품질이 무엇인지 제대로 이해하는 게 중요해요. 이 팟캐스트를 들으시는 분들은 대부분 그걸 더 잘 아세요. 품질은 사치가 아니고, 품질은 완벽함도 아니에요. 품질이란 스펙(spec)을 충족시키는 거예요. 스펙을 충족하면 그걸로 끝이에요. 스펙이 충분히 좋지 않다고 생각되면 더 나은 스펙을 만드세요.",
-    "text_zh": "说到标准，咱们得先搞清楚什么是质量，听这个播客的人比大部分人都更懂这个道理。质量不等于奢华，也不等于完美。质量就是达到规格要求，只要你达标了，就算完成任务了。如果你觉得现有的规格标准不够好，那就制定一个更好的标准。",
-    "text_es": "Mira, hablando de estándares, vale la pena entender qué es realmente la calidad, y la gente que escucha este podcast lo sabe mejor que nadie. La calidad no es lujo. La calidad no es perfección. Calidad significa cumplir con las especificaciones, y si cumples con las especificaciones, ya está, listo. Si crees que las especificaciones no son lo suficientemente buenas, pues haz mejores especificaciones.",
+    "text_ko": "기준(standards), 즉 품질(quality)이 무엇인지 이해해두는 건 의미가 있어요. 이 팟캐스트를 들으시는 분들은 그걸 대부분 사람들보다 더 잘 아세요. 품질은 사치가 아니고 완벽함도 아니에요. 품질은 사양(spec)을 충족시키는 것이고, 사양을 맞추면 그걸로 끝이에요.",
+    "text_zh": "说到标准(standards)，有必要弄清楚什么才算质量——听这个播客的人比大多数人更明白。质量不是奢侈，也不是追求完美；质量就是符合规范(spec)，符合了就行。",
+    "text_es": "Hablando de estándares, conviene entender qué es la calidad, y los que escuchan este podcast lo saben mejor que la mayoría. La calidad no es un lujo. No es perfección. Calidad es cumplir con la especificación (spec), y si la cumples, ya está.",
     "key_sentence": "Quality means meeting spec; if not, make a better spec.",
     "text_trimmed": true,
     "original_text": "Standards, it's worth understanding what quality is and the people who listen to this podcast know better than most. Quality is not luxury. Quality is not perfection. Quality means meeting spec, and if you meet spec, you're done. If you don't think the spec is good enough, make a better spec.",
@@ -345,7 +197,8 @@
           "defectiveness"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "Tension is at the heart of every art form and every innovation.",
@@ -354,9 +207,7 @@
     "context": "Lenny asks Seth about a key concept from his new book - why great strategies need tension at their center. Seth distinguishes between harmful stress and productive tension, explaining that tension drives creativity and innovation. He describes how product launches create tension by making promises that cause customers to imagine better futures, creating suspense about whether the product will actually deliver on those promises.",
     "vocabulary_highlights": [
       "innovation",
-      "productive",
-      "tension",
-      "strategies"
+      "tension"
     ],
     "topics": [
       "Product Management",
@@ -368,9 +219,9 @@
       "Marketing Strategy",
       "Leadership Development"
     ],
-    "text_ko": "긴장감은 모든 예술과 모든 혁신의 핵심이에요. 신제품을 출시할 때(launch) 우리가 하는 건 “이게 X를 할 수 있다”라고 말하는 거고, 그러면 사람들은 그게 사실이라면 자신의 삶이 어떻게 달라질지 상상해요. 그 가능성에 마음이 끌리면 긴장감이 생겨요. 진실을 말했나요? 그게 그들에게 통할까요?",
-    "text_zh": "张力是所有艺术形式和创新的核心。我们推出新产品的时候，其实就是在说，我们有个东西能做到X，然后用户就开始想象，要是真能这样，我的生活会变成什么样。如果他们爱上了这种可能性，张力就产生了。你说的是真话吗？这个产品对他们来说真的有用吗？",
-    "text_es": "La tensión está en el corazón de cualquier forma de arte y de toda innovación. Lo que hacemos cuando lanzamos un producto nuevo es decir: \"Tenemos esto que puede hacer X\", y entonces la persona se imagina cómo podría ser su vida si eso fuera cierto. Si se enamoran de esa posibilidad, ahí surge la tensión. ¿Les dijiste la verdad? ¿Realmente les va a funcionar?",
+    "text_ko": "모든 예술의 형태와 모든 혁신의 중심에는 긴장감(tension)이 있어요.",
+    "text_zh": "每门艺术和每次创新的核心，都离不开张力。",
+    "text_es": "La tensión es el motor de cualquier forma de arte y de toda innovación.",
     "key_sentence": "Tension is at the heart of every art form and every innovation.",
     "text_trimmed": true,
     "original_text": "Tension is at the heart of every art form and every innovation. What we do when we launch a new product, we say, we have this thing that can do X, and now the person is imagining what their life might be like if that were true. If they fall in love with that possibility, now there's tension. Did you tell the truth? Is it going to work for them?",
@@ -391,20 +242,6 @@
         ]
       },
       {
-        "word": "productive",
-        "definition": "Yielding favorable results or outputs, particularly in relation to time and resources. It refers to the ability to generate significant outcomes efficiently.",
-        "businessContext": "In a business context, being productive is essential for maximizing profits and achieving organizational goals, often measured through performance metrics and output ratios.",
-        "nuance": "The term can imply not just quantity but also quality of work, and should be used carefully to avoid suggesting that mere output is sufficient without considering effectiveness.",
-        "synonyms": [
-          "efficient",
-          "effective"
-        ],
-        "antonyms": [
-          "unproductive",
-          "inefficient"
-        ]
-      },
-      {
         "word": "tension",
         "definition": "A state of mental or emotional strain, often arising from conflicting demands or interests. It can also refer to the pressure that drives creativity and innovation.",
         "businessContext": "In business, tension can be a catalyst for innovation, as it often leads teams to confront challenges and develop creative solutions, though it can also lead to conflict if not managed properly.",
@@ -417,22 +254,10 @@
           "harmony",
           "calm"
         ]
-      },
-      {
-        "word": "strategies",
-        "definition": "A plan of action designed to achieve a long-term or overall aim, often involving the allocation of resources and consideration of various factors and contingencies.",
-        "businessContext": "In the business world, strategies are essential for guiding decision-making and resource allocation to achieve competitive advantage and meet organizational objectives.",
-        "nuance": "The term implies a level of foresight and planning, and should be used when discussing comprehensive approaches rather than ad-hoc or reactive measures.",
-        "synonyms": [
-          "plans",
-          "tactics"
-        ],
-        "antonyms": [
-          "impulsiveness",
-          "chaos"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "When you choose your smallest viable audience... you have chosen everything that's going to go into the product and what your future is going to be like.",
@@ -440,10 +265,7 @@
     "timestamp": "23:31",
     "context": "Lenny asks Seth about four critical strategic choices from his book that determine a product's future. Seth explains the first choice - selecting your customers - and argues that this decision shapes everything else about your product and business. He emphasizes that by defining your target audience's characteristics, constraints, and behaviors, you're essentially determining your product requirements and company trajectory.",
     "vocabulary_highlights": [
-      "viable",
-      "strategic",
-      "critical",
-      "shape"
+      "viable"
     ],
     "topics": [
       "Product Management",
@@ -455,9 +277,9 @@
       "Marketing Strategy",
       "Leadership Development"
     ],
-    "text_ko": "당신이 최소 유효 고객층 (smallest viable audience)을 정할 때, 그들이 어떤 언어를 쓰는지, 재정 상태가 어떤지, 어떤 문제를 해결하려 하는지, 기술 숙련도 (technical facility)는 어떤지, 성미가 급한지, 친절한지, 당신과 계속 함께해줄 사람들인지까지 모두 선택하는 거예요. 그 선택들이 결국 제품에 들어갈 모든 것과 당신의 미래를 결정해요.",
-    "text_zh": "你选择最小可行受众(smallest viable audience)的时候，比如他们说什么语言、有多少钱、想解决什么问题、技术水平怎么样、是不是急性子、人品好不好、会不会跟你走到底，这些其实就已经决定了你的产品会做成什么样，你的未来会是什么样子。",
-    "text_es": "Cuando defines tu audiencia mínima viable (smallest viable audience), qué idioma hablan, cuánto dinero manejan, qué problema están tratando de resolver, qué tan buenos son con la tecnología, si son impacientes o pacientes, si son buena onda, si van a quedarse contigo a largo plazo, básicamente ya decidiste todo lo que va a tener tu producto y cómo va a ser tu futuro.",
+    "text_ko": "가장 작은 실행 가능한 고객층(smallest viable audience)을 선택하면, 제품에 들어갈 모든 것과 앞으로의 모습까지 전부 정한 셈이에요.",
+    "text_zh": "一旦你定位了最小可行用户群（smallest viable audience），你就决定了产品会包含什么，也决定了你未来的走向。",
+    "text_es": "Cuando eliges a tu audiencia mínima viable (smallest viable audience), estás decidiendo todo lo que formará el producto y, en buena medida, el rumbo de tu futuro.",
     "key_sentence": "Choosing your smallest viable audience shapes your product and future.",
     "text_trimmed": true,
     "original_text": "When you choose your smallest viable audience, what language they speak, how much money they have, what problem they're trying to solve, what their technical facility is, whether they're short-tempered, whether they're kind, whether they're going to stick with you, you have chosen everything that's going to go into the product and what your future is going to be like.",
@@ -476,50 +298,10 @@
           "unfeasible",
           "impractical"
         ]
-      },
-      {
-        "word": "strategic",
-        "definition": "Relating to the identification of long-term or overall aims and interests and the means of achieving them.",
-        "businessContext": "In business, 'strategic' decisions are those that align with the company's long-term goals and vision, often involving resource allocation and competitive positioning.",
-        "nuance": "The term carries a connotation of careful planning and foresight, and should be used when discussing high-level decisions rather than routine operational tasks.",
-        "synonyms": [
-          "tactical",
-          "calculated"
-        ],
-        "antonyms": [
-          "impulsive",
-          "haphazard"
-        ]
-      },
-      {
-        "word": "critical",
-        "definition": "Of great importance; essential or decisive in determining the outcome of a situation.",
-        "businessContext": "In a business context, 'critical' often describes factors or decisions that are crucial for the success or failure of a project or initiative.",
-        "nuance": "While it indicates importance, 'critical' can also imply urgency and the need for immediate attention, so it should be used judiciously to avoid overstating situations.",
-        "synonyms": [
-          "crucial",
-          "vital"
-        ],
-        "antonyms": [
-          "insignificant",
-          "minor"
-        ]
-      },
-      {
-        "word": "shape",
-        "definition": "To influence or determine the form, character, or development of something.",
-        "businessContext": "In business, 'shape' is often used to describe how decisions, strategies, or market conditions can influence the direction and success of a company or product.",
-        "nuance": "The term suggests an active role in influencing outcomes, and is often used in contexts where leadership and vision are essential.",
-        "synonyms": [
-          "mold",
-          "form"
-        ],
-        "antonyms": [
-          "destroy",
-          "disorganize"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The word remarkable means worth making a remark about. So I'm not talking about coming up with some viral video that's ridiculous in its gimmickry.",
@@ -529,8 +311,7 @@
     "vocabulary_highlights": [
       "remarkable",
       "viral",
-      "gimmickry",
-      "building"
+      "gimmickry"
     ],
     "topics": [
       "Product Management",
@@ -542,9 +323,9 @@
       "Marketing Strategy",
       "Leadership Development"
     ],
-    "text_ko": "remarkable이라는 단어는 ‘말할 만한 가치가 있다’는 뜻이에요. 그러니까 제가 말하는 건 기교만 요란한 바이럴 영상(viral video)을 하나 만들어 유행시키자는 얘기가 아니에요. 제 말은, 누군가가 당신에 대해 이야기하면 그 사람의 삶이 실제로 더 나아지고, 그리고 당신이 미리 그들이 어떤 얘기를 하길 원하는지 알고 있다면 그들이 그 말을 할 가능성이 더 높아진다는 거예요.",
-    "text_zh": "\"Remarkable\"这个词的意思就是值得别人去聊、去说的。所以我说的不是搞那种靠噱头博眼球的病毒视频。我的意思是，如果你做的东西能让别人通过谈论你而受益，而且你提前就想好了希望他们说什么，那他们就更愿意主动去说。",
-    "text_es": "La palabra \"remarkable\" significa que vale la pena comentar algo. Así que no estoy hablando de crear algún video viral ridículo lleno de trucos baratos. Lo que digo es que si haces algo donde la vida de la persona mejora cuando habla de ti, y además sabes de antemano qué quieres que digan, entonces es mucho más probable que lo digan.",
+    "text_ko": "remarkable이라는 단어는 '말할 가치가 있다', 즉 '주목할 만하다'는 뜻이에요. 그러니까 제가 말하는 건 단지 기믹(gimmickry)이 과해서 터무니없는 바이럴 비디오(viral video)를 만들어내자는 게 아니에요.",
+    "text_zh": "remarkable 的意思就是值得被人提起。所以我不是说要搞出那种靠噱头火起来、看上去很荒唐的病毒视频（viral video）。",
+    "text_es": "La palabra \"remarkable\" significa que merece la pena comentarlo. No me refiero a idear un video viral con trucos ridículos para llamar la atención.",
     "key_sentence": "Remarkable means worth making a remark about; avoid ridiculous gimmickry.",
     "text_trimmed": true,
     "original_text": "The word remarkable means worth making a remark about. So I'm not talking about coming up with some viral video that's ridiculous in its gimmickry. I'm saying if you make something where the person's life gets better if they talk about you and you know in advance what you want them to say, then they are more likely to say it.",
@@ -591,21 +372,9 @@
           "authenticity",
           "sincerity"
         ]
-      },
-      {
-        "word": "building",
-        "definition": "The act of constructing or developing something, often referring to physical structures or organizational frameworks.",
-        "businessContext": "In a business context, 'building' can refer to the development of a company, product, or team, emphasizing growth and scalability.",
-        "nuance": "The term 'building' can imply a long-term commitment to development, contrasting with more transient or superficial efforts.",
-        "synonyms": [
-          "construction",
-          "development"
-        ],
-        "antonyms": [
-          "destruction",
-          "dismantling"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

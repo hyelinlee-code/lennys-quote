@@ -6,9 +6,7 @@
     "context": "Lenny asks Claire about her tactics for maintaining fast pace while keeping high quality in larger companies. Claire explains her specific approach to preventing organizations from defaulting to slower cadences that match their meeting schedules. She describes how she sets explicit expectations with leadership teams to accelerate their natural timelines by one iteration - essentially compressing every deadline to create urgency and momentum throughout the organization.",
     "vocabulary_highlights": [
       "expectation",
-      "clock speed",
-      "maintaining",
-      "quality"
+      "clock speed"
     ],
     "topics": [
       "Leadership & Management",
@@ -20,9 +18,9 @@
       "Product Management",
       "Operations"
     ],
-    "text_ko": "저는 제 리더들에게 기대하는 바를 전달해요. 시계 속도(clock speed)를 한 단계 더 빠르게 가져와야 한다고요. 만약 올해 안에 뭔가 해야 한다면, 이번 반기 안에 해야 하고, 이번 반기 안에 해야 한다면 이번 분기 안에 해야 해요. 이번 분기, 이번 달, 이번 주, 오늘, 그리고 오늘 회의 끝나기 전에요.",
-    "text_zh": "我跟我的领导层说得很清楚，我的要求就是把节奏再提快一档。你觉得今年要完成的事，那就得这半年搞定。你觉得这半年要做完的，那就得这个季度拿下。这个季度的事这个月做，这周的事今天做。今天的事下班前做完，这周的事这次会上就敲定。",
-    "text_es": "Les comunico a mis líderes que mi expectativa es que aceleren el ritmo un nivel más. Si creen que algo se tiene que hacer este año, se tiene que hacer este semestre. Si creen que se tiene que hacer este semestre, se tiene que hacer este trimestre. Este trimestre, este mes. Esta semana, hoy. Al final del día, en esta misma reunión.",
+    "text_ko": "리더들에게는 속도(clock speed)를 한 단계(한 클릭) 빠르게 끌어올려 달라고 기대한다고 말해요. 올해 안에 해야 한다고 생각하면 이번 반기 안에 끝내야 해요.",
+    "text_zh": "我跟我的领导层说得很清楚，我希望他们把节奏再提快一档。你觉得今年要完成的事情，其实这半年就得搞定。",
+    "text_es": "Les digo a mis líderes que mi expectativa es que aceleren el ritmo un nivel más. Si creen que algo hay que hacerlo este año, hay que hacerlo en este semestre.",
     "key_sentence": "Expect leaders to bring in the clock speed one click faster.",
     "text_trimmed": true,
     "original_text": "I communicate to my leaders that my expectation is they bring in the clock speed one click faster. If you think something needs to be done this year, it needs to be done this half. If you think it needs to be done this half, it needs to be done this quarter. This quarter, this month. This week, today. End of day, in this meeting.",
@@ -55,36 +53,10 @@
           "slowness",
           "delay"
         ]
-      },
-      {
-        "word": "maintaining",
-        "definition": "The act of keeping something in a specified state or condition over time.",
-        "businessContext": "In business, maintaining can refer to sustaining operational standards, customer relationships, or product quality to ensure long-term success.",
-        "nuance": "While maintaining suggests stability, it can also imply the need for ongoing effort and resources to prevent decline.",
-        "synonyms": [
-          "sustaining",
-          "upholding"
-        ],
-        "antonyms": [
-          "neglecting",
-          "abandoning"
-        ]
-      },
-      {
-        "word": "quality",
-        "definition": "The standard of something as measured against other things of a similar kind; the degree of excellence.",
-        "businessContext": "In a business context, quality is crucial for customer satisfaction and can impact brand reputation, operational efficiency, and compliance with industry standards.",
-        "nuance": "Quality can be subjective and context-dependent; it's important to define what quality means in specific projects or products.",
-        "synonyms": [
-          "excellence",
-          "caliber"
-        ],
-        "antonyms": [
-          "inferiority",
-          "mediocrity"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I'm using CPTO for short code of running product and engineering design functionally together. There should be no debates over what's best for product or what's best for engineering, what's best for design speed. What is best for the organization?",
@@ -94,8 +66,7 @@
     "vocabulary_highlights": [
       "functionally",
       "debates",
-      "organization",
-      "trend"
+      "organization"
     ],
     "topics": [
       "Leadership & Management",
@@ -154,22 +125,9 @@
           "disorganization",
           "chaos"
         ]
-      },
-      {
-        "word": "trend",
-        "definition": "A general direction in which something is developing or changing, often observed over time.",
-        "businessContext": "In business and marketing, identifying trends is crucial for strategic planning and staying competitive in the market.",
-        "nuance": "While trends can indicate popular movements or shifts, they may also suggest fleeting fads that lack long-term sustainability.",
-        "synonyms": [
-          "movement",
-          "tendency"
-        ],
-        "antonyms": [
-          "stagnation",
-          "decline"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I really believe operating in your zone of genius. I really believe in leaning into strengths.",
@@ -192,9 +150,9 @@
       "Product Management",
       "Operations"
     ],
-    "text_ko": "저는 사람들이 자신의 탁월한 영역(zone of genius)에서 일해야 한다고 정말 믿어요. 자신의 강점(strengths)에 더 기대고 활용하는 것도 정말 중요하다고 생각해요. 그런데 만약 당신이 잘하는 일을 맡아 많은 책임을 지고 있는데 성장해야 할 부분(growth edges)이 커서 역량을 끌어올려야 하는 일에 더 많은 시간을 쓰고, 반대로 본인이 탁월한 일에 쏟는 시간이 적다면 그건 조직에 공정하지 않다고 생각해요.",
-    "text_zh": "我特别相信要在自己最擅长的领域发挥作用，要发挥自己的优势。如果你现在的职位上，虽然你各方面都还不错，也被委以重任，但是你还有很大的成长空间，而且你把更多时间花在需要提升的地方，而不是你真正出色的地方，我觉得这对公司来说其实不太公平。",
-    "text_es": "Realmente creo en trabajar desde tu zona de genialidad (zone of genius). Creo mucho en aprovechar las fortalezas. Y si estás en una posición donde eres bueno en ciertas cosas y te han dado mucha responsabilidad, pero tienes áreas enormes de crecimiento y estás invirtiendo más tiempo en las cosas que necesitas mejorar que en las que realmente destacas, creo que eso no es justo para la organización.",
+    "text_ko": "저는 자신의 ‘존 오브 지니어스(zone of genius)’에서 일하는 걸 진심으로 믿어요. 그리고 자신의 강점(strengths)을 더 활용할수록 더 좋은 결과가 나온다고 믿어요.",
+    "text_zh": "我真的觉得要在自己最擅长的领域发力。我特别相信要发挥自己的优势。",
+    "text_es": "Creo firmemente en trabajar desde tu zona de genialidad. Creo firmemente en apostar por tus fortalezas.",
     "key_sentence": "Operate in your zone of genius and lean into strengths.",
     "text_trimmed": true,
     "original_text": "I really believe operating in your zone of genius. I really believe in leaning into strengths. And if you are in a position in which you're good at things and you've been giving a lot of responsibility, but you have tremendous growth edges and you're spending more time on the things you need to level up than the things you are exceptional at, I think that's not fair for the organization.",
@@ -256,7 +214,8 @@
           "limitations"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "I try to stay in an empowered space. I know my value. I have no time for imposter syndrome. It's not a constructive thing for me, but I do think knowing that, as I said earlier, the universe is bendable to your will.",
@@ -266,8 +225,7 @@
     "vocabulary_highlights": [
       "empowered",
       "imposter syndrome",
-      "constructive",
-      "curious"
+      "constructive"
     ],
     "topics": [
       "Career Development",
@@ -279,9 +237,9 @@
       "Product Management",
       "Operations"
     ],
-    "text_ko": "저는 주도적인 상태를 유지하려고 해요. 제 가치를 알고 있고, 임포스터 신드롬(imposter syndrome)에 신경 쓸 시간이 없어요. 그건 제게 건설적이지 않아요. 앞서 말했듯이, 우주는 당신의 의지에 따라 굽힐 수 있다고 생각해요. 우리가 바꿀 수 있는 것들이 있어요. 이 수치들이 해결 불가능하다고는 생각하지 않아요.",
-    "text_zh": "我尽量让自己保持在一个充满力量的状态。我知道自己的价值。我没时间搞什么冒牌货综合征(imposter syndrome)。这对我来说没什么建设性，但我确实觉得，就像我之前说的，这个世界是可以被你的意志所改变的。有些事情我们是能改变的。我不认为这些数字是搞不定的。",
-    "text_es": "Trato de mantenerme en un lugar de poder personal. Conozco mi valor. No tengo tiempo para el síndrome del impostor. No me sirve de nada, pero sí creo que, como dije antes, el universo se puede moldear a tu voluntad. Hay cosas que podemos cambiar. No creo que estos números sean imposibles de mover.",
+    "text_ko": "저는 주체적이고 자신감 있는 상태를 유지하려고 해요. 제 가치를 알고 있어요. 임포스터 신드롬(imposter syndrome)에 신경 쓸 여유가 없어요. 그건 저한테 별로 도움이 안 돼요. 하지만 앞서 말했듯이, 우주는 당신의 의지에 따라 움직일 수 있다는 걸 아는 게 중요하다고 생각해요.",
+    "text_zh": "我尽量让自己保持一种很有力量的状态。我知道自己的价值在哪里。我没时间搞那些冒充者综合症(imposter syndrome)。对我来说那些都没用，但我确实觉得，就像我之前说的，这个世界是可以被你的意志改变的。",
+    "text_es": "Trato de mantenerme en una posición de poder. Conozco mi valor. No tengo tiempo para el síndrome del impostor (imposter syndrome). No me aporta nada constructivo, pero sí creo que, como dije antes, el universo se puede moldear a tu voluntad.",
     "key_sentence": "Stay in an empowered space; the universe is bendable to your will.",
     "text_trimmed": true,
     "original_text": "I try to stay in an empowered space. I know my value. I have no time for imposter syndrome. It's not a constructive thing for me, but I do think knowing that, as I said earlier, the universe is bendable to your will. There are things we can change. I don't think these numbers are not tractable.",
@@ -328,22 +286,10 @@
           "destructive",
           "unhelpful"
         ]
-      },
-      {
-        "word": "curious",
-        "definition": "Eager to learn or know more about something; inquisitive.",
-        "businessContext": "Curiosity in business can drive innovation and lead to the exploration of new ideas, products, and markets, making it a valuable trait in dynamic environments.",
-        "nuance": "While curiosity is generally seen as a positive trait, excessive curiosity can sometimes lead to distractions or overstepping boundaries.",
-        "synonyms": [
-          "inquisitive",
-          "interested"
-        ],
-        "antonyms": [
-          "indifferent",
-          "apathetic"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The reason I'm curious about it is I do think it's complicated and I do think you can be successful, but I don't think we're being successful at the rates I would love to see.",
@@ -353,8 +299,7 @@
     "vocabulary_highlights": [
       "curious",
       "complicated",
-      "successful",
-      "systemic"
+      "successful"
     ],
     "topics": [
       "Leadership & Management",
@@ -366,9 +311,9 @@
       "Product Management",
       "Operations"
     ],
-    "text_ko": "제가 그걸 궁금해하는 이유는 이게 복잡하다고 생각하면서도 성공할 수 있다고 보지만, 제가 바라는 속도만큼 성공하고 있지는 않다고 느끼기 때문이에요. 그리고 뛰어나고 기술적인(technical) 역량을 가진 유능한 여성들이 회사를 창업하고 조직을 이끌지 못해서 많은 혁신과 경제 성장을 놓치고 있다고 생각해요.",
-    "text_zh": "我之所以对这个问题感兴趣，是因为我觉得这事儿确实挺复杂的，而且我相信女性是可以成功的，但问题是现在的成功率还远远达不到我希望看到的水平。我觉得正是因为缺少那些技术能力超强的优秀女性来创业、来领导企业，我们错失了太多创新机会，也损失了很多经济增长的潜力。",
-    "text_es": "La razón por la que me llama tanto la atención es que creo que es un tema complejo y sí se puede tener éxito, pero no creo que estemos teniendo el éxito que me encantaría ver. Y creo que nos estamos perdiendo muchísima innovación y crecimiento económico al no tener mujeres increíbles, técnicamente capaces, creando empresas y liderando organizaciones.",
+    "text_ko": "제가 그 부분이 궁금한 건, 분명 복잡하다고 생각하고 성공할 수 있다고도 보기 때문이에요. 다만 제가 기대하는 만큼의 성공률로는 성공하고 있지 않은 것 같아요.",
+    "text_zh": "我之所以对这个感兴趣，是因为我觉得这事儿确实挺复杂的，而且我相信是能做成的，只是现在的成功率还没达到我期望的水平。",
+    "text_es": "Lo que me llama la atención es que creo que es complicado y sí se puede tener éxito, pero no creo que estemos teniendo el éxito que me gustaría ver.",
     "key_sentence": "I do think it's complicated and I do think you can be successful.",
     "text_trimmed": true,
     "original_text": "The reason I'm curious about it is I do think it's complicated and I do think you can be successful, but I don't think we're being successful at the rates I would love to see. And I think we're missing a lot of innovation and a lot of economic growth by not having incredible, technical, capable women start companies and lead organizations.",
@@ -415,22 +360,10 @@
           "unsuccessful",
           "failing"
         ]
-      },
-      {
-        "word": "systemic",
-        "definition": "Relating to or affecting an entire system; comprehensive and integrated.",
-        "businessContext": "In business, systemic issues may refer to challenges that impact the entire organization, necessitating holistic approaches for resolution.",
-        "nuance": "The term often suggests that the problems are deep-rooted and require significant changes rather than superficial fixes.",
-        "synonyms": [
-          "holistic",
-          "comprehensive"
-        ],
-        "antonyms": [
-          "isolated",
-          "individual"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Is it going to eliminate PMs next year? Probably not. Are the skills required going to shift? Yes. Could they shift much faster than we all anticipate? Probably.",
@@ -440,8 +373,7 @@
     "vocabulary_highlights": [
       "eliminate",
       "shift",
-      "anticipate",
-      "impact"
+      "anticipate"
     ],
     "topics": [
       "Product Management",
@@ -500,21 +432,8 @@
           "ignore",
           "overlook"
         ]
-      },
-      {
-        "word": "impact",
-        "definition": "The strong effect or influence that one thing has on another.",
-        "businessContext": "In a business setting, 'impact' is frequently used to discuss the effects of decisions, policies, or market changes on performance and outcomes.",
-        "nuance": "The term 'impact' can carry both positive and negative connotations, depending on the context in which it is used, making it versatile for various discussions.",
-        "synonyms": [
-          "effect",
-          "influence"
-        ],
-        "antonyms": [
-          "insignificance",
-          "irrelevance"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

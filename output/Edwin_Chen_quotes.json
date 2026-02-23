@@ -5,9 +5,6 @@
     "timestamp": "00:00:10",
     "context": "Lenny asks Edwin about Surge's unprecedented achievement of hitting a billion in revenue with only 60-70 people while being completely bootstrapped. Edwin explains why they deliberately chose to avoid the traditional Silicon Valley approach of raising VC money and building large teams. He shares his experience working at big tech companies where he believed most employees were unnecessary distractions that slowed down the best performers.",
     "vocabulary_highlights": [
-      "deliberately",
-      "bootstrapped",
-      "unprecedented",
       "ridiculous"
     ],
     "topics": [
@@ -21,56 +18,14 @@
       "Growth Strategy",
       "AI/ML Products"
     ],
-    "text_ko": "우리는 기본적으로 실리콘밸리 방식(Silicon Valley game)을 따르고 싶지 않았어요. 저는 항상 그게 터무니없다고 생각했어요. 예전에 여러 대형 테크 회사에서 일해봤는데, 직원들 중 90%를 해고해도 괜찮을 것 같다고 느꼈어요. 그러면 핵심 인재들이 이런저런 산만한 일에 방해받지 않아 훨씬 더 빨리 움직일 수 있을 거라고요. 그래서 Surge를 시작할 때는 완전히 다르게 가서, 아주 소수의 초정예 팀으로 만들고 싶었어요.",
-    "text_zh": "我们基本上从来就不想玩硅谷那一套。我一直觉得那些都挺扯的。我之前在好几个大科技公司待过，总感觉我们可以裁掉90%的人，反而能跑得更快，因为最牛的那些人就不会被各种乱七八糟的事情分心了。所以我们做Surge的时候，就想完全换个路子，搞一个超小但超精英的团队。",
-    "text_es": "Básicamente nunca quisimos jugar el juego de Silicon Valley. Siempre me pareció ridículo. Trabajé en un montón de las grandes empresas tecnológicas y siempre sentí que podríamos despedir al 90% de la gente y avanzaríamos más rápido porque la gente más talentosa no tendría todas esas distracciones. Entonces cuando empezamos Surge, quisimos construirlo de manera completamente diferente con un equipo súper pequeño y súper élite.",
+    "text_ko": "우리는 사실 실리콘밸리식 게임을 할 생각이 거의 없었어요. 저는 항상 그게 터무니없다고 생각했어요.",
+    "text_zh": "我们从来就不想玩硅谷那一套，我一直觉得那些东西很荒唐。",
+    "text_es": "Básicamente nunca quisimos seguir las reglas del juego de Silicon Valley. Siempre me pareció una ridiculez.",
     "key_sentence": "I always thought it was ridiculous.",
     "text_trimmed": true,
     "original_text": "We basically never wanted to play the Silicon Valley game. I always thought it was ridiculous. I used to work at a bunch of the big tech companies and I always felt that we could fire 90% of the people and we would move faster because the best people wouldn't have all these distractions. So when we start Surge, we wanted to build it completely differently with a super small, super elite team.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "deliberately",
-        "definition": "In a purposeful and intentional manner, often after careful consideration.",
-        "businessContext": "In business discussions, 'deliberately' may refer to strategic decisions made with specific goals in mind, such as targeting a niche market or implementing a particular policy.",
-        "nuance": "While it often has a neutral connotation, it can imply a sense of caution or premeditation, which may be viewed positively or negatively depending on the context.",
-        "synonyms": [
-          "intentionally",
-          "purposely"
-        ],
-        "antonyms": [
-          "accidentally",
-          "unintentionally"
-        ]
-      },
-      {
-        "word": "bootstrapped",
-        "definition": "To start and grow a business using minimal financial resources, relying primarily on personal savings and revenue generated from operations.",
-        "businessContext": "In the startup ecosystem, 'bootstrapped' companies often emphasize self-sufficiency and organic growth without external funding, which can appeal to investors looking for sustainable business models.",
-        "nuance": "The term conveys a sense of resourcefulness and resilience, but it can also imply limitations in scale and speed of growth compared to venture-backed firms.",
-        "synonyms": [
-          "self-funded",
-          "independently financed"
-        ],
-        "antonyms": [
-          "venture-backed",
-          "funded"
-        ]
-      },
-      {
-        "word": "unprecedented",
-        "definition": "Never done or known before; unparalleled in its nature or occurrence.",
-        "businessContext": "In business, 'unprecedented' is often used to describe market conditions, technological advancements, or competitive landscapes that have no historical precedent, indicating significant opportunities or challenges.",
-        "nuance": "While it typically carries a positive connotation of innovation and breakthrough, it can also suggest uncertainty or risk due to the lack of prior examples.",
-        "synonyms": [
-          "extraordinary",
-          "unmatched"
-        ],
-        "antonyms": [
-          "commonplace",
-          "ordinary"
-        ]
-      },
       {
         "word": "ridiculous",
         "definition": "Deserving or inviting mockery or derision; absurd or nonsensical.",
@@ -85,7 +40,9 @@
           "sensible"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think most people don't understand what quality even means in this space. They think you could just throw bodies at a problem and get good data and that's completely wrong.",
@@ -95,7 +52,6 @@
     "vocabulary_highlights": [
       "quality",
       "understand",
-      "fundamentally",
       "data"
     ],
     "topics": [
@@ -144,20 +100,6 @@
         ]
       },
       {
-        "word": "fundamentally",
-        "definition": "In a basic and important way; at the core or foundation of something.",
-        "businessContext": "This term is often used in business discussions to highlight essential principles or core values that drive strategies and operations, emphasizing the need for foundational understanding.",
-        "nuance": "While it suggests a strong emphasis on core aspects, it can also imply that other factors may be secondary or less important.",
-        "synonyms": [
-          "essentially",
-          "intrinsically"
-        ],
-        "antonyms": [
-          "superficially",
-          "peripherally"
-        ]
-      },
-      {
         "word": "data",
         "definition": "Facts and statistics collected for reference or analysis; information that can be processed to generate insights.",
         "businessContext": "In business and technology, data is critical for making informed decisions, driving strategy, and measuring performance, often serving as the foundation for analytics and reporting.",
@@ -171,7 +113,8 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I'm worried that instead of building AI that will actually advance us as a species, curing cancer, solving poverty, understand the universe, we are optimizing for AI slop instead.",
@@ -181,8 +124,7 @@
     "vocabulary_highlights": [
       "optimizing",
       "advance",
-      "solving",
-      "concern"
+      "solving"
     ],
     "topics": [
       "Strategy & Planning",
@@ -195,9 +137,9 @@
       "Growth Strategy",
       "AI/ML Products"
     ],
-    "text_ko": "솔직히 걱정돼요. 인류를 진보시키고 암을 치료하고 빈곤을 해결하고 우주를 이해하게 해줄 인공지능(AI)을 만드는 대신에, 우리가 오히려 형편없는 AI(AI slop)을 최적화하고 있는 건 아닌가 싶어요. 문제는 우리가 모델(models)을 식료품점에서 타블로이드(tabloid)를 사는 사람들 같은 타입에 맞춰 최적화하고 있다는 거예요. 결국 모델들을 진실(truth) 대신 도파민(dopamine)을 쫓게 가르치고 있는 셈이에요.",
-    "text_zh": "我担心我们现在不是在开发那种真正能推动人类进步的AI，比如攻克癌症、解决贫困问题、探索宇宙奥秘，而是在制造一堆AI垃圾内容。我们现在优化模型的方向，基本上就是迎合那些在超市买八卦小报的人群。说白了，我们是在教模型去追求多巴胺刺激，而不是追求真相。",
-    "text_es": "Me preocupa que en lugar de crear IA que realmente nos haga avanzar como especie, curando el cáncer, solucionando la pobreza, entendiendo el universo, estemos optimizando para pura basura de IA. Pero estamos optimizando nuestros modelos para el tipo de gente que compra revistas del corazón en el supermercado. Básicamente les estamos enseñando a nuestros modelos a perseguir la dopamina en vez de la verdad.",
+    "text_ko": "우리가 인류를 진짜로 진보시키고, 암을 치료하고, 빈곤을 해결하고, 우주를 이해하게 도울 인공지능(AI)을 만들기보다는 엉터리 같은 AI(AI slop)만 최적화하고 있는 게 걱정돼요.",
+    "text_zh": "我担心的是，我们没有在开发真正能推动人类进步的AI——比如攻克癌症、解决贫困问题、探索宇宙奥秘，反而在优化那些垃圾AI内容。",
+    "text_es": "Me preocupa que en vez de crear IA que realmente nos haga avanzar como especie, que cure el cáncer, que resuelva la pobreza, que nos ayude a entender el universo, estemos optimizando para crear pura basura digital con IA.",
     "key_sentence": "We're optimizing for AI slop, chasing dopamine instead of truth.",
     "text_trimmed": true,
     "original_text": "I'm worried that instead of building AI that will actually advance us as a species, curing cancer, solving poverty, understand the universe, we are optimizing for AI slop instead. But we're optimizing your models for the types of people who buy tabloids at a grocery store. We're basically teaching our models to chase dopamine instead of truth.",
@@ -244,22 +186,10 @@
           "complicating",
           "exacerbating"
         ]
-      },
-      {
-        "word": "concern",
-        "definition": "A matter of interest or importance that causes worry or anxiety, often requiring attention or action.",
-        "businessContext": "In business, concern can refer to issues that stakeholders, employees, or customers feel strongly about, which may impact decision-making and strategy.",
-        "nuance": "While concern can indicate a legitimate issue that needs addressing, it can also imply a sense of urgency or alarm that may not always be warranted.",
-        "synonyms": [
-          "worry",
-          "issue"
-        ],
-        "antonyms": [
-          "indifference",
-          "disregard"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "So long story short, I think there's all these different factors, and certainly the data is a big part of it, but it's also like what is the objective function that you're trying to optimize your model towards?",
@@ -269,8 +199,7 @@
     "vocabulary_highlights": [
       "optimize",
       "objective function",
-      "factors",
-      "performance"
+      "factors"
     ],
     "topics": [
       "Product Management",
@@ -330,22 +259,9 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "performance",
-        "definition": "The effectiveness or efficiency with which an individual, team, or system achieves its objectives, often measured against specific benchmarks.",
-        "businessContext": "In a business context, performance metrics are used to assess productivity, profitability, and overall success, guiding strategic decisions and improvements.",
-        "nuance": "While 'performance' generally has a positive connotation, it can also imply scrutiny and accountability, particularly in high-stakes environments.",
-        "synonyms": [
-          "efficacy",
-          "productivity"
-        ],
-        "antonyms": [
-          "ineffectiveness",
-          "failure"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "The easiest way to climb LLM Arena, it's adding crazy boating. It's doubling the number of emojis. It's tripling the length of your model responses, even if your model starts hallucinating and getting the answer completely wrong.",
@@ -353,8 +269,6 @@
     "timestamp": "00:23:53",
     "context": "Edwin discusses his concerns about popular AI evaluation platforms like LLM Arena, where random users vote on which AI responses are better. He explains how these platforms create perverse incentives that reward superficial qualities over accuracy. Edwin argues that models can win on these leaderboards by using flashy formatting, excessive emojis, and longer responses that look impressive but may contain completely incorrect information.",
     "vocabulary_highlights": [
-      "perverse incentives",
-      "evaluation platforms",
       "model responses",
       "hallucinating"
     ],
@@ -375,34 +289,6 @@
     "key_sentence": "Climbing LLM Arena involves crazy boating and increasing model response length.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "perverse incentives",
-        "definition": "Perverse incentives refer to situations where a reward system encourages undesirable or counterproductive behavior, often leading to outcomes that are contrary to the intended goals.",
-        "businessContext": "In business and technology, perverse incentives can arise in performance metrics that inadvertently motivate employees or systems to prioritize quantity over quality, resulting in suboptimal performance.",
-        "nuance": "The term often carries a negative connotation, suggesting that the incentive structure is fundamentally flawed and requires reevaluation.",
-        "synonyms": [
-          "misaligned incentives",
-          "counterproductive rewards"
-        ],
-        "antonyms": [
-          "aligned incentives",
-          "constructive rewards"
-        ]
-      },
-      {
-        "word": "evaluation platforms",
-        "definition": "Evaluation platforms are tools or systems designed to assess, analyze, and provide feedback on various processes, products, or performances within an organization.",
-        "businessContext": "In tech startups, evaluation platforms are crucial for measuring the effectiveness of software, user engagement, or employee performance, enabling data-driven decision-making.",
-        "nuance": "While the term is generally neutral, it can imply a level of scrutiny that some may find intrusive or overly critical, depending on the context of use.",
-        "synonyms": [
-          "assessment tools",
-          "review systems"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
       {
         "word": "model responses",
         "definition": "Model responses are predefined or exemplary answers generated by a system, often used as benchmarks for evaluating the performance of artificial intelligence or other automated systems.",
@@ -431,7 +317,8 @@
           "truthful"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "So yeah, I would say don't pivot. Don't put scale.",
@@ -440,9 +327,7 @@
     "context": "Lenny asks Edwin for his contrarian advice to founders about avoiding the traditional Silicon Valley approach of raising VC money and following standard startup playbooks. Edwin advocates against common Silicon Valley practices like frequent pivoting and rapid scaling. Instead, he encourages founders to focus on building something unique that leverages their specific expertise and insights, rather than following trendy approaches or hiring people who are just seeking prestigious company names for their resumes.",
     "vocabulary_highlights": [
       "pivot",
-      "scale",
-      "traditional",
-      "approach"
+      "scale"
     ],
     "topics": [
       "Starting a Company",
@@ -455,9 +340,9 @@
       "Growth Strategy",
       "AI/ML Products"
     ],
-    "text_ko": "그러니까 피벗(pivot)하지 마세요. 스케일(scale)에만 매달리지 마시고, 단지 이력서(resume)에 '핫한 회사' 하나 더 올리려고 하는 스탠퍼드 출신 같은 사람은 채용하지 마세요. 그냥 오직 당신만이 만들 수 있는 한 가지를 만드세요 — 당신의 통찰력과 전문성 없이는 아예 존재하지 않았을 그런 것 말이에요.",
-    "text_zh": "所以我的建议就是，别轻易转型，别急着扩张规模，也别为了给简历加分就去招那些斯坦福毕业生。就专心做一件事——做只有你能做出来的东西，做那种没有你的独特见解和专业能力就不可能存在的产品。",
-    "text_es": "Entonces sí, yo diría que no hagas pivot. No te enfoques en escalar. No contrates a ese graduado de Stanford que simplemente quiere agregar una empresa exitosa a su currículum, solo construye esa única cosa que solo tú podrías construir, algo que no existiría sin la perspectiva y experiencia que solo tú tienes.",
+    "text_ko": "제 생각에는 피벗(pivot)하지 마세요. 스케일(scale)을 우선순위로 두지 마세요.",
+    "text_zh": "所以我的建议就是，别轻易转方向，也别急着扩大规模。",
+    "text_es": "Entonces sí, yo diría que no hagas pivot. No te pongas a escalar.",
     "key_sentence": "Don't pivot. Don't put scale.",
     "text_trimmed": true,
     "original_text": "So yeah, I would say don't pivot. Don't put scale. Don't hire that Stanford grad who simply wants to add a hot company to your resume, just build the one thing only you could build, a thing that wouldn't exist without the insight and expertise that only you have.",
@@ -490,36 +375,10 @@
           "contract",
           "reduce"
         ]
-      },
-      {
-        "word": "traditional",
-        "definition": "Traditional refers to established customs, practices, or methods that have been in place for a significant period and are generally accepted as standard.",
-        "businessContext": "In business, traditional practices may include conventional marketing strategies, hierarchical organizational structures, or long-standing operational methods that contrast with modern, innovative approaches.",
-        "nuance": "While traditional methods can convey reliability and stability, they may also be viewed as outdated or resistant to change in rapidly evolving industries.",
-        "synonyms": [
-          "conventional",
-          "classic"
-        ],
-        "antonyms": [
-          "innovative",
-          "modern"
-        ]
-      },
-      {
-        "word": "approach",
-        "definition": "An approach refers to a way of dealing with a situation or problem, encompassing the methods and strategies employed to achieve a goal.",
-        "businessContext": "In business settings, different approaches can be taken to management, marketing, and problem-solving, influencing overall effectiveness and outcomes.",
-        "nuance": "The choice of approach can reflect a company's values and priorities, and it is important to align the approach with the specific context and objectives of the business.",
-        "synonyms": [
-          "method",
-          "strategy"
-        ],
-        "antonyms": [
-          "disregard",
-          "neglect"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "If you could choose the perfect model behavior, which model would you want? Do you want a model that says, 'You're absolutely right.",
@@ -527,10 +386,7 @@
     "timestamp": "00:00:43",
     "context": "Edwin discusses how AI models will become increasingly differentiated based on the values and philosophies of the companies that create them. He shares a personal example of spending 30 minutes with Claude refining an email through multiple iterations, only to realize he had wasted time on something unimportant. Edwin poses a fundamental question about what kind of AI behavior we actually want - one that enables endless perfectionism and consumes our time, or one that prioritizes productivity and helps us move forward efficiently.",
     "vocabulary_highlights": [
-      "model behavior",
-      "differentiated",
-      "values",
-      "philosophies"
+      "model behavior"
     ],
     "topics": [
       "Product Management",
@@ -544,9 +400,9 @@
       "Growth Strategy",
       "AI/ML Products"
     ],
-    "text_ko": "완벽한 모델(model) 행동을 고를 수 있다면 어떤 걸 원하세요? '정말 맞아요. 이 이메일을 더 고칠 방법이 분명히 20가지 더 있어요.'라고 말하면서 50번이나 더 반복(iterations)해서 계속 피드백을 주는 모델(model)을 원하세요, 아니면 당신의 시간과 생산성(productivity)을 최적화하는 모델(model)이 '아니요. 그만하세요. 이메일 충분히 좋아요. 그냥 보내고 다음으로 넘어가요.'라고 딱 잘라 말해 주는 걸 원하세요?",
-    "text_zh": "如果让你选择一个完美的模型行为，你会要哪种？你是想要一个模型跟你说\"你说得对，这封邮件肯定还有20种改进方法\"，然后继续折腾50轮？还是想要一个为你的时间和效率考虑的模型，直接告诉你\"别改了，邮件已经很好了，发出去，该干嘛干嘛去\"？",
-    "text_es": "Si pudieras elegir el comportamiento ideal de un modelo, ¿cuál querrías? ¿Quieres un modelo que te diga \"Tienes toda la razón. Definitivamente hay 20 formas más de mejorar este email\" y que siga así por 50 iteraciones más, o prefieres un modelo que optimice tu tiempo y productividad y que simplemente te diga \"No. Para ya. Tu email está perfecto. Solo mándalo y sigue adelante\"?",
+    "text_ko": "완벽한 모델 행동(model behavior)을 선택할 수 있다면, 어떤 모델을 원하세요? '정말 맞아요'라고 말하는 모델을 원하세요?",
+    "text_zh": "如果让你选择一个理想的模型行为，你会选哪种？你希望模型总是说\"你说得完全对\"吗？",
+    "text_es": "Si pudieras elegir el comportamiento ideal de un modelo, ¿cuál querrías? ¿Quieres un modelo que diga \"Tienes toda la razón\"?",
     "key_sentence": "Do you want a model that says, 'You're absolutely right.",
     "text_trimmed": true,
     "original_text": "If you could choose the perfect model behavior, which model would you want? Do you want a model that says, 'You're absolutely right. There are definitely 20 more ways to improve this email,' and it continues for 50 more iterations or do you want a model that's optimizing for your time and productivity and just says, 'No. You need to stop. Your email's great. Just send it and move on'?",
@@ -565,49 +421,9 @@
           "poor behavior",
           "unprofessional conduct"
         ]
-      },
-      {
-        "word": "differentiated",
-        "definition": "Differentiated refers to the process of distinguishing or making something distinct from others, often in terms of features, services, or branding. It emphasizes unique characteristics that set a product or service apart.",
-        "businessContext": "In business and marketing, a differentiated strategy is essential for competitive advantage, allowing companies to attract specific customer segments by highlighting unique selling propositions.",
-        "nuance": "Differentiated can carry a positive connotation when referring to innovation, but it may also suggest complexity or confusion if not communicated clearly.",
-        "synonyms": [
-          "distinctive",
-          "diversified"
-        ],
-        "antonyms": [
-          "homogeneous",
-          "uniform"
-        ]
-      },
-      {
-        "word": "values",
-        "definition": "Values are the fundamental beliefs or principles that guide behavior and decision-making within an organization or individual. They reflect what is deemed important and influence culture and ethics.",
-        "businessContext": "In corporate environments, clearly defined values are crucial for aligning team efforts, shaping company culture, and fostering employee engagement and loyalty.",
-        "nuance": "Values can be aspirational or actual; organizations may promote values that they strive for but do not always embody in practice.",
-        "synonyms": [
-          "principles",
-          "ethics"
-        ],
-        "antonyms": [
-          "disregard",
-          "indifference"
-        ]
-      },
-      {
-        "word": "philosophies",
-        "definition": "Philosophies refer to the underlying theories or beliefs that inform a person's or organization's approach to life, work, and decision-making. They encompass a broad range of ideas and principles.",
-        "businessContext": "In business, philosophies shape strategic direction, influence management styles, and guide organizational behavior, often reflecting the company's mission and vision.",
-        "nuance": "Philosophies can be abstract and may vary widely between organizations; they should be clearly articulated to avoid misinterpretation.",
-        "synonyms": [
-          "theories",
-          "ideologies"
-        ],
-        "antonyms": [
-          "pragmatism",
-          "realism"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

@@ -6,9 +6,7 @@
     "context": "Lenny asks Graham when someone should quit something, since some things are just not worth pursuing. Graham explains that the decision to quit should be based on whether you can still see and believe in your vision, rather than temporary setbacks or lack of excitement during difficult periods. He emphasizes that excitement isn't a reliable indicator during challenging times, but losing faith in the fundamental vision over an extended period is a clearer signal.",
     "vocabulary_highlights": [
       "vision",
-      "believe",
-      "pursuing",
-      "decision"
+      "believe"
     ],
     "topics": [
       "Decision Making",
@@ -20,9 +18,9 @@
       "Fundraising",
       "Career Development"
     ],
-    "text_ko": "그만둘 때는 비전(vision)이 더 이상 보이지 않고, 진짜로 그 비전을 믿을 수 없을 때라고 생각해요. 그 상태가 오래 지속되거나, 혹은 그 비전에 대해 더 이상 설레지 않을 때쯤—대체로 그쯤인 것 같아요. 다만 '설렘'에 대해서는 좀 조심해야 해요. 힘든 시기에는 '설레다'는 말을 쓰지 않게 되니까요.",
-    "text_zh": "我觉得该退出的时候就是当你看不到愿景了，也不再相信这个愿景的时候。如果这种状态持续很长时间...或者你对这个愿景已经没什么激情了，差不多就是这个意思吧。不过那个激情这个说法得小心点，因为在最艰难的时候，激情这个词你肯定是用不上的。",
-    "text_es": "Creo que es hora de dejarlo cuando ya no puedes ver la visión y ya no crees realmente en ella. Y cuando eso pasa durante mucho tiempo... o tal vez ya ni siquiera te emociona la visión; por ahí va la cosa, creo yo. Con lo de la emoción hay que tener cuidado, porque en los días difíciles, \"emocionante\" no es precisamente la palabra que vas a usar.",
+    "text_ko": "제 생각에는 그만둘 때는 더 이상 비전(vision)이 보이지 않고 그 비전을 진심으로 믿을 수 없을 때예요. 그리고 그런 상태가 오랫동안 계속된다면요...",
+    "text_zh": "我觉得该放弃的时候就是当你看不到愿景了，也不再真正相信这个愿景的时候。如果这种状态持续很长时间的话...",
+    "text_es": "Yo creo que es momento de dejarlo cuando ya no logras ver hacia dónde vas y ya no crees realmente en esa visión. Y cuando eso pasa durante mucho tiempo...",
     "key_sentence": "Quit when you no longer believe in the vision during dark days.",
     "text_trimmed": true,
     "original_text": "I think the time to quit is when you can no longer see the vision and you can no longer really believe the vision. And then when that happens for a long period of time ... or maybe you're no longer even excited about the vision; somewhere in there, I think. The excited one, you have to be a little careful of, because in the dark days, exciting is not the word you're going to use.",
@@ -55,36 +53,10 @@
           "doubt",
           "disbelieve"
         ]
-      },
-      {
-        "word": "pursuing",
-        "definition": "Pursuing refers to the act of actively seeking or striving to achieve a specific goal or objective. It involves dedication and effort over time.",
-        "businessContext": "In the business world, pursuing innovation, market opportunities, or strategic partnerships is essential for growth and competitive advantage.",
-        "nuance": "The term carries a connotation of persistence and determination, suggesting that the process may involve challenges and setbacks.",
-        "synonyms": [
-          "chasing",
-          "seeking"
-        ],
-        "antonyms": [
-          "abandoning",
-          "neglecting"
-        ]
-      },
-      {
-        "word": "decision",
-        "definition": "A decision is a conclusion or resolution reached after consideration, often involving a choice between alternatives. It is a fundamental aspect of management and leadership.",
-        "businessContext": "In business, effective decision-making is crucial for operational success, influencing everything from strategic direction to day-to-day operations.",
-        "nuance": "The term 'decision' can imply a formal process, but it can also refer to informal choices made in the moment, highlighting the importance of context.",
-        "synonyms": [
-          "resolution",
-          "conclusion"
-        ],
-        "antonyms": [
-          "indecision",
-          "hesitation"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "You start off and you're unconscious, and you're kind of going through the motions. And you may not even realize why you're doing what you're doing or even realize what you're doing.",
@@ -93,8 +65,6 @@
     "context": "Lenny asks Graham to explain his concept of 'autopilot mode' - the idea that most people go through life unconsciously without intentional direction. Graham describes how people can become unconscious and simply go through daily motions without realizing what they're doing or why. He uses the example of a typical workday routine to illustrate how people can live mechanically rather than intentionally.",
     "vocabulary_highlights": [
       "unconscious",
-      "intentional",
-      "autopilot mode",
       "realize"
     ],
     "topics": [
@@ -107,9 +77,9 @@
       "Fundraising",
       "Career Development"
     ],
-    "text_ko": "처음에는 무의식적으로 시작해서 그냥 관성적으로 움직여요. 왜 그렇게 하는지, 지금 뭘 하고 있는지조차 잘 모를 때가 있어요. 예를 들어 보통 사람은 일어나서 각자 아침 루틴을 하고… 저는 일어나서 운동하고 샤워하고 차로 출근해서 차 막히는 길을 뚫으며 통근해요.",
-    "text_zh": "刚开始的时候，你就是无意识地在过日子，基本上就是在走过场。你可能都不知道自己为什么要做这些事，甚至都没意识到自己在干嘛。比如说，一个普通人起床后，就按照他那套晨间流程...我起床、健身、洗澡、开车上班、堵车、通勤，就这样。",
-    "text_es": "Al principio estás como en piloto automático, simplemente sigues la rutina sin pensar. Y puede que ni siquiera te des cuenta de por qué haces lo que haces, o incluso qué estás haciendo realmente. Por ejemplo, una persona típica se levanta, tiene su rutina matutina... me levanto, hago ejercicio, me ducho, manejo al trabajo, me peleo con el tráfico, hago mi traslado diario.",
+    "text_ko": "처음엔 무의식적으로 시작해서 그냥 형식적으로 해요. 왜 그렇게 하는지, 심지어 지금 뭘 하고 있는지도 모를 때가 있어요.",
+    "text_zh": "刚开始的时候你其实是无意识的，就是在那儿走过场。你可能都不知道自己为什么要这么做，甚至都没意识到自己在做什么。",
+    "text_es": "Al principio actúas sin darte cuenta, como en piloto automático. Y puede que ni siquiera entiendas por qué haces lo que haces, o incluso qué es lo que estás haciendo realmente.",
     "key_sentence": "you may not even realize why you're doing what you're doing or even realize what you're doing.",
     "text_trimmed": true,
     "original_text": "You start off and you're unconscious, and you're kind of going through the motions. And you may not even realize why you're doing what you're doing or even realize what you're doing. So for example, a typical person gets up, they have whatever their morning routine ... I get up out, work out, take a shower, drive into work, fight traffic, commute.",
@@ -130,34 +100,6 @@
         ]
       },
       {
-        "word": "intentional",
-        "definition": "Done on purpose; deliberate and purposeful in action or decision-making.",
-        "businessContext": "In a business context, intentional actions are crucial for strategic planning and achieving specific goals, as they reflect a clear understanding of objectives.",
-        "nuance": "This term is often used positively to emphasize the importance of thoughtful decision-making and proactive behavior.",
-        "synonyms": [
-          "deliberate",
-          "purposeful"
-        ],
-        "antonyms": [
-          "unintentional",
-          "accidental"
-        ]
-      },
-      {
-        "word": "autopilot mode",
-        "definition": "A state of operating automatically without active thought or engagement; functioning based on routine or habit.",
-        "businessContext": "In the workplace, employees may enter autopilot mode during repetitive tasks, which can lead to decreased innovation and productivity if not managed effectively.",
-        "nuance": "While autopilot mode can enhance efficiency for mundane tasks, it may hinder creativity and critical thinking in more complex situations.",
-        "synonyms": [
-          "routine mode",
-          "automatic operation"
-        ],
-        "antonyms": [
-          "active engagement",
-          "mindful operation"
-        ]
-      },
-      {
         "word": "realize",
         "definition": "To become fully aware of something as a fact; to understand or grasp the significance of something.",
         "businessContext": "In business, realizing a problem or opportunity is crucial for effective decision-making and strategic planning, as it prompts necessary actions.",
@@ -171,7 +113,9 @@
           "overlook"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The formula, I think, for greatness is to be intentional, get in the path of the thing that you're most excited about, and then give yourself several decades to do it. And that's based on investing in 600 companies and building my own business.",
@@ -180,7 +124,6 @@
     "context": "Lenny mentions Graham's highly successful private equity fund performance and asks for comment. Graham responds by sharing what he believes is the fundamental formula for achieving greatness, based on his extensive experience investing in hundreds of companies and building his own business over decades. He emphasizes that this advice comes from real-world results, not just theoretical knowledge.",
     "vocabulary_highlights": [
       "intentional",
-      "fundamental",
       "investing",
       "greatness"
     ],
@@ -215,20 +158,6 @@
         ]
       },
       {
-        "word": "fundamental",
-        "definition": "Serving as a foundation or basis; essential to the core structure or function of something.",
-        "businessContext": "In the context of business, fundamental principles are the core values or practices that drive an organization's strategy and operations.",
-        "nuance": "The term 'fundamental' often suggests a deep-rooted importance, and should be used when discussing core concepts rather than peripheral issues.",
-        "synonyms": [
-          "essential",
-          "basic"
-        ],
-        "antonyms": [
-          "superficial",
-          "secondary"
-        ]
-      },
-      {
         "word": "investing",
         "definition": "The act of allocating resources, usually money, in order to generate an income or profit.",
         "businessContext": "In the startup ecosystem, investing often refers to funding new ventures with the expectation of future returns, either through equity or debt.",
@@ -256,7 +185,8 @@
           "inferiority"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "Pick anything. You want a better body? Okay, you're going to need to go to the gym. When you go to the gym the first few times, it's going to not be that fun. The first move is negative.",
@@ -264,9 +194,7 @@
     "timestamp": "00:01:02",
     "context": "Lenny references Graham's quote about 'everything you want is on the other side of worse first' and asks him to explain it. Graham illustrates this concept by explaining that any worthwhile change requires initial discomfort or difficulty. He uses the example of getting in shape to show how the first steps toward improvement are often unpleasant, and if you optimize for short-term comfort, you'll never make meaningful progress.",
     "vocabulary_highlights": [
-      "worthwhile",
       "negative",
-      "change",
       "first move"
     ],
     "topics": [
@@ -279,28 +207,14 @@
       "Fundraising",
       "Career Development"
     ],
-    "text_ko": "뭘 하든 마찬가지예요. 더 나은 몸을 원해요? 그럼 헬스장(gym)에 가야 해요. 처음 몇 번은 별로 즐겁지 않을 거고, 첫 걸음은 오히려 손해처럼 느껴질 거예요. 만약 제가 '내일'만을 위해 최적화(optimizing for tomorrow)해서 내일 하루만 좋게 만들고 싶다면, 전 지금 있는 자리 그대로 머물러 있을 거예요.",
-    "text_zh": "随便举个例子吧。你想要更好的身材？那行，你就得去健身房。刚开始去健身房的那几次，肯定不会很爽的。第一步总是痛苦的。如果我只想着明天过得舒服点，只想明天开心，那我就会一直待在原地不动。",
-    "text_es": "Elige lo que sea. ¿Quieres estar en mejor forma? Bueno, vas a tener que ir al gimnasio. Cuando vayas al gym las primeras veces, no va a ser nada divertido. El primer paso siempre cuesta. Si solo me enfoco en pasarla bien mañana y quiero que sea un día genial, me voy a quedar exactamente donde estoy.",
+    "text_ko": "아무거나 골라도 돼요. 몸을 더 좋게 만들고 싶어요? 그러려면 헬스장에 가야 해요. 헬스장에 처음 몇 번 가보면 별로 재미없을 거예요. 첫 시도는 항상 가장 힘들고 기분이 안 좋을 수 있어요.",
+    "text_zh": "随便举个例子吧。想要更好的身材？那你就得去健身房。刚开始去健身房的那几次，肯定不会很爽。第一步总是痛苦的。",
+    "text_es": "Elige lo que sea. ¿Quieres ponerte en forma? Perfecto, vas a tener que ir al gimnasio. Las primeras veces que vayas al gimnasio no te va a gustar nada. El primer paso siempre es duro.",
     "key_sentence": "The first move is negative when optimizing for tomorrow.",
     "text_trimmed": true,
     "original_text": "Pick anything. You want a better body? Okay, you're going to need to go to the gym. When you go to the gym the first few times, it's going to not be that fun. The first move is negative. If I'm optimizing for tomorrow and I just want to have a great day tomorrow, I'm going to stay exactly where I am.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "worthwhile",
-        "definition": "Having considerable value or importance; deserving of time, effort, or attention.",
-        "businessContext": "In business, a project or investment is often deemed worthwhile if it yields significant returns or contributes positively to strategic goals.",
-        "nuance": "While 'worthwhile' generally has a positive connotation, it can imply that the effort required may be substantial.",
-        "synonyms": [
-          "valuable",
-          "beneficial"
-        ],
-        "antonyms": [
-          "worthless",
-          "unimportant"
-        ]
-      },
       {
         "word": "negative",
         "definition": "Expressing denial, disagreement, or a lack of something; often associated with adverse outcomes or conditions.",
@@ -313,20 +227,6 @@
         "antonyms": [
           "positive",
           "favorable"
-        ]
-      },
-      {
-        "word": "change",
-        "definition": "The act or process of making something different; a transformation or alteration in status, condition, or form.",
-        "businessContext": "Change is a critical concept in business, often referring to shifts in strategy, market conditions, or organizational structure that can impact operations and outcomes.",
-        "nuance": "While 'change' can imply improvement, it can also suggest disruption or uncertainty, depending on the context.",
-        "synonyms": [
-          "transformation",
-          "modification"
-        ],
-        "antonyms": [
-          "stability",
-          "continuity"
         ]
       },
       {
@@ -343,7 +243,9 @@
           "reaction"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "And I have this unbelievable statement. I didn't write it. Dan and Chip Heath wrote it in their book, Switch, which is 'Scale your bright spots.",
@@ -352,9 +254,7 @@
     "context": "Graham is explaining when to quit versus when to persist with something difficult. He shares a key principle from the book 'Switch' about focusing on what's working rather than what's failing. He uses his own company Alpine as an example, explaining that even during the first difficult 10 years, they could always identify small successes or 'bright spots' that they could build upon and scale.",
     "vocabulary_highlights": [
       "scale",
-      "bright spots",
-      "focus on",
-      "persist"
+      "bright spots"
     ],
     "topics": [
       "Strategy & Planning",
@@ -366,9 +266,9 @@
       "Fundraising",
       "Career Development"
     ],
-    "text_ko": "믿기 어려운 말이 하나 있어요. 제가 쓴 건 아니고요. 댄과 칩 히스가 쓴 책 '스위치(Switch)'에 이런 구절이 나와요: \"성공 사례(bright spots)를 확장하세요. 잘 되고 있는 걸 찾아서 그걸 더 하세요.\" 그리고 일이 진척될수록, 제 경우 알파인(Alpine)에서는 거의 항상 적어도 작은 성공 사례(bright spot) 하나쯤은 있었어요.",
-    "text_zh": "我有一句特别棒的话，不是我说的，是丹和奇普·希思在他们的《转变》这本书里写的：'放大你的亮点。找到有效的东西，然后多做这些。'当你开始有进展的时候，就拿我在Alpine的经验来说，几乎所有时候，我们总能找到至少一丝丝的亮点。",
-    "text_es": "Y tengo esta frase increíble. Yo no la escribí. Dan y Chip Heath la escribieron en su libro, Switch, que dice 'Escala tus puntos brillantes. Encuentra lo que está funcionando y haz más de eso.' Y conforme empiezas a avanzar, por ejemplo en mi caso, en Alpine, casi siempre, siempre teníamos por lo menos un pequeño destello de esperanza, algo que brillaba.",
+    "text_ko": "정말 믿기 힘든 말이 있어요. 제가 쓴 말은 아니고요. 댄과 칩 히스가 쓴 책 스위치(Switch)에 나오는 표현인데요, '잘 되고 있는 부분들(bright spots)을 키우세요.'",
+    "text_zh": "我有个特别棒的说法，不是我说的，是丹和奇普·希思在他们《转变》这本书里写的：'把你的亮点放大'。",
+    "text_es": "Y tengo esta frase increíble. No es mía. Dan y Chip Heath la escribieron en su libro Switch, que dice: \"Multiplica lo que ya te está funcionando bien\" (scale your bright spots).",
     "key_sentence": "Scale your bright spots.",
     "text_trimmed": true,
     "original_text": "And I have this unbelievable statement. I didn't write it. Dan and Chip Heath wrote it in their book, Switch, which is 'Scale your bright spots. Find what's working and do more of that.' And as you start to progress, for me, for example, at Alpine, almost all the time, we always had at least a small glimmer of a bright spot.",
@@ -401,36 +301,10 @@
           "failures",
           "challenges"
         ]
-      },
-      {
-        "word": "focus on",
-        "definition": "To concentrate attention or resources on a specific area or task.",
-        "businessContext": "In business strategy, 'focusing on' certain objectives or markets can lead to more effective resource allocation and improved outcomes.",
-        "nuance": "This phrase emphasizes prioritization and may imply that other areas are being deprioritized or neglected.",
-        "synonyms": [
-          "concentrate on",
-          "prioritize"
-        ],
-        "antonyms": [
-          "disperse",
-          "neglect"
-        ]
-      },
-      {
-        "word": "persist",
-        "definition": "To continue firmly in a course of action despite difficulty or opposition.",
-        "businessContext": "In the context of startups and innovation, the ability to persist is crucial for overcoming obstacles and achieving long-term success in a competitive environment.",
-        "nuance": "While 'persist' conveys determination, it can also imply stubbornness if not balanced with adaptability.",
-        "synonyms": [
-          "persevere",
-          "endure"
-        ],
-        "antonyms": [
-          "give up",
-          "cease"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The thing that we probably believe to be true that not that many people agree with us on is that the management team is really where we think all the alpha comes from.",
@@ -439,8 +313,6 @@
     "context": "Lenny asks Graham what his private equity firm looks for in companies that others might not focus on. Graham explains Alpine's distinctive investment philosophy - that exceptional management teams are the primary source of returns (alpha). He clarifies that while you can't choose a completely failing industry, having world-class leadership is more important than finding the perfect market opportunity.",
     "vocabulary_highlights": [
       "management team",
-      "investment philosophy",
-      "exceptional",
       "alpha"
     ],
     "topics": [
@@ -453,9 +325,9 @@
       "Fundraising",
       "Career Development"
     ],
-    "text_ko": "많은 사람이 동의하지 않을 수도 있는데, 저희는 모든 알파(alpha)가 경영팀(management team)에서 나온다고 생각해요. 다만 업종을 잘못 고르면 소용없어요. 세상에서 가장 뛰어난 경영팀을 데려와서 타자기 사업(typewriter business)을 맡겨도 결국 돈을 잃게 돼요.",
-    "text_zh": "我们坚信但可能很多人不认同的一点是，管理团队才是真正创造超额收益(alpha)的关键。当然了，你不能选错行业，就算你找来全世界最牛的管理团队去经营打字机生意，那肯定还是要亏钱的。",
-    "text_es": "Lo que nosotros creemos que es cierto, pero en lo que no mucha gente está de acuerdo con nosotros, es que el equipo directivo es realmente de donde pensamos que viene todo el alfa (alpha). No puedes equivocarte con la industria, porque si contratas al mejor equipo de gestión del mundo para manejar un negocio de máquinas de escribir, vas a perder dinero.",
+    "text_ko": "우리가 아마 사실이라고 믿지만 많은 사람이 동의하지 않는 게 하나 있다면, 바로 모든 초과수익(alpha)이 결국 경영진의 역량에서 나온다고 보는 거예요.",
+    "text_zh": "我们坚信但可能很多人不认同的一点是，管理团队才是真正产生超额回报(alpha)的地方。",
+    "text_es": "Lo que nosotros creemos que es verdad, pero en lo que no mucha gente está de acuerdo con nosotros, es que el equipo directivo es realmente de donde creemos que viene todo el alfa.",
     "key_sentence": "The management team is where all the alpha comes from.",
     "text_trimmed": true,
     "original_text": "The thing that we probably believe to be true that not that many people agree with us on is that the management team is really where we think all the alpha comes from. You can't get the industry wrong, because if you hire the best management team in the world to run a typewriter business, you're going to lose money.",
@@ -476,34 +348,6 @@
         ]
       },
       {
-        "word": "investment philosophy",
-        "definition": "A set of guiding principles and beliefs that inform an investor's approach to selecting and managing investments.",
-        "businessContext": "In finance and investment firms, an investment philosophy shapes the strategies used to achieve financial goals and manage risk.",
-        "nuance": "This term reflects a broader worldview about markets and investing, and can vary significantly between different investors or firms.",
-        "synonyms": [
-          "investment strategy",
-          "investment approach"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "exceptional",
-        "definition": "Outstanding or extraordinary; significantly better than the norm or average.",
-        "businessContext": "In business, the term is often used to describe high-performing individuals, products, or services that stand out in a competitive market.",
-        "nuance": "While it generally has a positive connotation, it can also imply that something is rare or not easily replicated.",
-        "synonyms": [
-          "extraordinary",
-          "remarkable"
-        ],
-        "antonyms": [
-          "ordinary",
-          "average"
-        ]
-      },
-      {
         "word": "alpha",
         "definition": "A measure of an investment's performance relative to a benchmark, often used to indicate the excess return generated by an investment strategy.",
         "businessContext": "In finance, alpha is a key metric for evaluating the effectiveness of fund managers and investment strategies, with a positive alpha indicating outperformance.",
@@ -517,6 +361,8 @@
           "underperformance"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

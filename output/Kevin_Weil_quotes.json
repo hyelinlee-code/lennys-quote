@@ -7,8 +7,7 @@
     "vocabulary_highlights": [
       "mindset",
       "limitations",
-      "model",
-      "revolution"
+      "model"
     ],
     "topics": [
       "Product Management",
@@ -21,9 +20,9 @@
       "B2B SaaS",
       "Product Strategy"
     ],
-    "text_ko": "우리의 기본 사고방식은 ‘두 달이면 더 나은 모델(model)이 나와서 지금의 제약들을 완전히 뛰어넘을 거다’예요. 개발자(developer)들에게도 그렇게 말해요. 지금 만들고 있는 제품(product)이 모델(model)의 역량(capabilities) 바로 경계에 걸쳐 있다면 계속 밀고 가라고 해요 — 그건 제대로 하고 있다는 신호예요. 두 달만 더 지나면 모델(model)이 훨씬 좋아지고, 지금 간신히 돌아가던 그 제품(product)이 갑자기 진짜 빛을 발할 거예요.",
-    "text_zh": "我们的基本想法是这样的，两个月后肯定会有更好的模型出来，直接把现在这些限制都给突破了。我们也跟开发者们这么说，如果你在做的产品刚好卡在模型能力的边缘上，那就继续干下去，说明你的方向是对的。再给两个月时间，模型会变得特别厉害，到时候你那个现在勉强能跑的产品，突然就会表现得特别棒。",
-    "text_es": "Nuestra mentalidad en general es que en dos meses va a salir un modelo mejor que va a arrasar con todas las limitaciones que tenemos ahora. Y esto mismo les decimos a los desarrolladores. Si están construyendo algo y el producto que están haciendo está justo en el límite de lo que pueden hacer los modelos actuales, sigan adelante porque van por buen camino. Denle un par de meses más y los modelos van a estar buenísimos, y de repente ese producto que tenían que apenas funcionaba va a ser una joya.",
+    "text_ko": "저희 일반적인 생각은 두 달만 지나면 더 나은 모델(model)이 나와서 현재의 제약들을 완전히 뛰어넘을 거라는 거예요. 이 얘기는 개발자들(developers)한테도 똑같이 해요.",
+    "text_zh": "我们普遍的想法是：两个月内会有更好的模型 (model) 出来，能把现在这些限制都彻底打破。我们也会这么跟开发者 (developers) 说。",
+    "text_es": "Tendemos a pensar que en dos meses saldrá un modelo (model) mejor que dejará obsoletas las limitaciones actuales. Se lo decimos también a los desarrolladores (developers).",
     "key_sentence": "there's going to be a better model and it's going to blow away whatever the current set of limitations are.",
     "text_trimmed": true,
     "original_text": "Our general mindset is in two months, there's going to be a better model and it's going to blow away whatever the current set of limitations are. And we say this to developers too. If you're building and the product that you're building is kind of right on the edge of the capabilities of the models, keep going because you're doing something right. Give it another couple months and the models are going to be great, and suddenly the product that you have that just barely worked is really going to sing.",
@@ -70,22 +69,10 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "revolution",
-        "definition": "A significant and rapid change that transforms a system, industry, or society, often driven by innovation or new ideas.",
-        "businessContext": "In technology, a revolution can refer to groundbreaking advancements that disrupt existing markets and create new opportunities.",
-        "nuance": "While 'revolution' implies a positive and transformative change, it can also evoke resistance or upheaval in established systems.",
-        "synonyms": [
-          "transformation",
-          "upheaval"
-        ],
-        "antonyms": [
-          "stagnation",
-          "continuity"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Everywhere I've ever worked before this, you kind of know what technology you're building on, but that's not true at all with AI.",
@@ -94,9 +81,7 @@
     "context": "Lenny asks what's most different about working at OpenAI compared to Kevin's previous roles at traditional tech companies like Twitter, Instagram, and Facebook. Kevin explains that unlike conventional software development where the underlying technology stack remains relatively stable, AI development is fundamentally different because the core capabilities of the models evolve rapidly. This constant advancement in AI capabilities requires product teams to continuously rethink their approach and strategies.",
     "vocabulary_highlights": [
       "technology",
-      "conventional",
-      "building on",
-      "different"
+      "building on"
     ],
     "topics": [
       "Product Management",
@@ -109,9 +94,9 @@
       "B2B SaaS",
       "Product Strategy"
     ],
-    "text_ko": "지금까지 일했던 곳들은 보통 어떤 기술을 기반으로 하는지 어느 정도 알 수 있었어요. 그런데 인공지능(AI)은 전혀 그렇지 않아요. 두 달마다 컴퓨터가 이전에는 못하던 일을 해내니까 우리가 하는 일을 완전히 다르게 생각해야 해요.",
-    "text_zh": "我之前在别的公司工作的时候，基本上都清楚自己在用什么技术做事，但搞AI完全不是这么回事。每隔两个月，电脑就能做一些以前根本做不到的事情，你得完全换个思路重新考虑自己在干什么。",
-    "text_es": "En todos los trabajos que he tenido antes de este, más o menos sabías con qué tecnología ibas a trabajar, pero con la IA eso no aplica para nada. Cada dos meses las computadoras pueden hacer algo que jamás habían podido hacer antes, y tienes que replantear completamente tu forma de enfocar lo que estás haciendo.",
+    "text_ko": "여태까지 일해본 곳들에서는 보통 어떤 기술을 기반으로 하는지 대충 알 수 있었어요. 그런데 인공지능(AI)은 전혀 그렇지 않아요.",
+    "text_zh": "在我以前工作的那些地方，通常能大概看出你们是搭在什么技术上的，但在人工智能（AI）这块完全不是这么回事。",
+    "text_es": "En todos los trabajos anteriores más o menos sabes en qué tecnología te apoyas, pero con la inteligencia artificial (AI) eso no es así en absoluto.",
     "key_sentence": "you kind of know what technology you're building on, but that's not true at all with AI.",
     "text_trimmed": true,
     "original_text": "Everywhere I've ever worked before this, you kind of know what technology you're building on, but that's not true at all with AI. Every two months, computers can do something they've never been able to do before and you need to completely think differently about what you're doing.",
@@ -132,20 +117,6 @@
         ]
       },
       {
-        "word": "conventional",
-        "definition": "Based on or in accordance with what is generally done or believed; traditional or standard practices.",
-        "businessContext": "In business, 'conventional' often describes established methods or practices that are widely accepted, contrasting with innovative or disruptive approaches.",
-        "nuance": "While 'conventional' can imply reliability, it may also suggest a lack of creativity or adaptability, making it important to consider the context in which it is used.",
-        "synonyms": [
-          "traditional",
-          "orthodox"
-        ],
-        "antonyms": [
-          "unconventional",
-          "innovative"
-        ]
-      },
-      {
         "word": "building on",
         "definition": "To develop or expand upon an existing idea, foundation, or framework, often to enhance or innovate further.",
         "businessContext": "In the context of startups and technology, 'building on' refers to leveraging existing technologies or concepts to create new products or services, fostering growth and evolution.",
@@ -158,34 +129,17 @@
           "starting from scratch",
           "N/A"
         ]
-      },
-      {
-        "word": "different",
-        "definition": "Not the same as another or each other; distinct or unlike in nature or quality.",
-        "businessContext": "In business discussions, 'different' often highlights unique selling propositions, market differentiation, or diverse strategies that set a company apart from competitors.",
-        "nuance": "While 'different' can positively imply innovation or uniqueness, it may also carry a negative connotation if it suggests deviation from successful norms or practices.",
-        "synonyms": [
-          "distinct",
-          "diverse"
-        ],
-        "antonyms": [
-          "similar",
-          "identical"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "keep going, because you're doing something right... the models are going to be great, and suddenly the product that you have that just barely worked is really going to sing.",
     "speaker": "Kevin Weil",
     "timestamp": "00:00:29",
     "context": "Lenny asks about OpenAI's product philosophy and how they approach building products when the underlying AI technology is constantly improving. Kevin is explaining their 'model maximalism' approach - rather than building extensive workarounds for current AI limitations, they advise developers to build products that push current model capabilities to their limits. His point is that products struggling with today's models will excel as the models rapidly improve over the coming months.",
-    "vocabulary_highlights": [
-      "product philosophy",
-      "underlying",
-      "approach",
-      "constantly improving"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Strategy & Planning"
@@ -197,71 +151,16 @@
       "B2B SaaS",
       "Product Strategy"
     ],
-    "text_ko": "만약 지금 만들고 있는 제품이 모델(models)의 성능 한계 바로 경계에 있다면, 계속 밀어붙이세요. 그건 잘하고 있다는 신호예요. 몇 달만 더 기다리면 모델들이 훨씬 좋아질 거고, 지금은 간신히 작동하던 제품도 갑자기 정말 빛을 발할 거예요.",
-    "text_zh": "如果你在做产品开发，而你的产品刚好卡在模型能力的边缘上，别停下来，继续干，因为你走对路了。再给几个月时间，模型会变得特别厉害，到时候你那个刚刚能跑起来的产品就真的要起飞了。",
-    "text_es": "Si estás desarrollando algo y tu producto está justo en el límite de lo que pueden hacer los modelos actuales, sigue adelante, porque vas por buen camino. Dale un par de meses más y los modelos van a estar increíbles, y de repente ese producto tuyo que apenas funcionaba va a brillar de verdad.",
+    "text_ko": "계속 밀고 가세요. 지금 하시는 게 맞아요. 모델(models)이 훨씬 좋아질 거고, 어느 순간 겨우 돌아가던 프로덕트(product)가 진짜 빛을 발할 거예요.",
+    "text_zh": "坚持下去，你现在做对了。模型(models)会越来越强，那个现在还只是勉强能用的产品，突然就会大放异彩。",
+    "text_es": "Sigue así, porque estás haciendo algo bien... los modelos (models) van a ser excelentes, y de repente ese producto que apenas funcionaba va a empezar a brillar.",
     "key_sentence": "Keep going if your product barely worked; models will soon really sing.",
     "text_trimmed": true,
     "original_text": "If you're building and the product that you're building is right on the edge of the capabilities of the models, keep going, because you're doing something right because you give it another couple months and the models are going to be great, and suddenly the product that you have that just barely worked is really going to sing.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "product philosophy",
-        "definition": "A product philosophy is a guiding set of principles and beliefs that influence how a company develops and manages its products. It encompasses the values and priorities that shape product design, functionality, and customer experience.",
-        "businessContext": "In business and tech settings, a clear product philosophy helps teams align their efforts towards a common vision, ensuring that all product decisions reflect the company's core values and customer needs.",
-        "nuance": "This term is often used to convey a deeper commitment to quality and user satisfaction, rather than just focusing on profit or market trends.",
-        "synonyms": [
-          "product strategy",
-          "product ideology"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "underlying",
-        "definition": "Underlying refers to something that is fundamental or foundational, often hidden beneath the surface but essential to understanding a situation or concept. It indicates the root cause or basis of an issue.",
-        "businessContext": "In business analysis, identifying underlying factors can help organizations address core problems rather than just symptoms, leading to more effective solutions and strategies.",
-        "nuance": "This term suggests a depth of analysis, implying that the visible aspects are not the whole story, and it is often used in discussions about causes and effects.",
-        "synonyms": [
-          "fundamental",
-          "basic"
-        ],
-        "antonyms": [
-          "superficial",
-          "apparent"
-        ]
-      },
-      {
-        "word": "approach",
-        "definition": "An approach is a method or way of dealing with a situation or problem, encompassing the strategies and techniques employed to achieve a specific goal. It reflects the perspective taken in addressing challenges.",
-        "businessContext": "In business and startup environments, the choice of approach can significantly influence project outcomes, team dynamics, and overall effectiveness in reaching objectives.",
-        "nuance": "The term can imply a level of thoughtfulness and deliberation in decision-making, and it is often used to differentiate between various strategies or methodologies.",
-        "synonyms": [
-          "method",
-          "strategy"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "constantly improving",
-        "definition": "Constantly improving refers to the ongoing process of making enhancements and refinements to products, services, or processes to achieve better performance and outcomes. It emphasizes a commitment to continuous development.",
-        "businessContext": "In the context of tech and startups, a culture of constantly improving is vital for innovation and competitiveness, as it encourages teams to seek feedback and iterate on their offerings.",
-        "nuance": "This phrase conveys a proactive mindset and a dedication to excellence, suggesting that stagnation is not an option; it is often used in discussions about quality assurance and growth.",
-        "synonyms": [
-          "continually enhancing",
-          "perpetually refining"
-        ],
-        "antonyms": [
-          "stagnating",
-          "regressing"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think you're definitely going to live in a world where you have researchers built into every product team. And I don't even mean just at foundation model companies because I think the future...",
@@ -271,7 +170,6 @@
     "vocabulary_highlights": [
       "product team",
       "foundation model",
-      "prevalent",
       "researchers"
     ],
     "topics": [
@@ -286,9 +184,9 @@
       "B2B SaaS",
       "Product Strategy"
     ],
-    "text_ko": "저는 분명 앞으로 모든 제품팀에 연구자들이 들어와 있는 세상에서 살게 될 거라고 생각해요. 이게 파운데이션 모델(foundation model) 회사들에만 해당되는 얘기가 아니에요. 솔직히 말하면 업계 전반을 보면서 파인튜닝된 모델들(fine-tuned models)을 훨씬 더 많이 쓰고 있을 줄 알았는데, 그렇지 않은 점이 좀 놀라워요.",
-    "text_zh": "我觉得以后肯定会是这样，每个产品团队里都会配研究人员。而且我说的不只是那些做基础模型(foundation model)的公司，因为我觉得未来...说实话，咱们这个行业有一点让我挺意外的，就是微调模型(fine-tuned models)用得还是不够多。",
-    "text_es": "Creo que definitivamente vas a vivir en un mundo donde tengas investigadores integrados en cada equipo de producto. Y no me refiero solo a las empresas de modelos base porque pienso que el futuro... La verdad, una cosa que me sorprende bastante de nuestra industria en general es que no se use más el fine-tuning de modelos.",
+    "text_ko": "앞으로는 분명 모든 제품 팀(product team)에 연구자들이 정규 멤버로 들어가는 세상에서 살게 될 거예요. 그리고 제가 그걸 파운데이션 모델 회사들(foundation model companies)에만 해당된다고 말하는 것도 아니에요. 제 생각엔 미래에는...",
+    "text_zh": "我觉得将来你肯定会生活在一个每个产品团队里都配备研究员（researchers）的世界里。我并不是只说那些做基础模型的公司（foundation model companies），因为我觉得未来……",
+    "text_es": "Creo que, sin duda, vamos a vivir en un mundo en el que cada equipo de producto va a tener investigadores integrados. Y no me refiero solo a las empresas de modelos fundacionales (foundation model companies), porque creo que el futuro...",
     "key_sentence": "you're definitely going to live in a world where you have researchers built into every product team.",
     "text_trimmed": true,
     "original_text": "I think you're definitely going to live in a world where you have researchers built into every product team. And I don't even mean just at foundation model companies because I think the future... Actually, frankly one thing that I'm sort of surprised about about our industry in general is that there's not a greater use of fine-tuned models.",
@@ -323,20 +221,6 @@
         ]
       },
       {
-        "word": "prevalent",
-        "definition": "Prevalent describes something that is widespread or commonly occurring in a particular context or environment.",
-        "businessContext": "In business discussions, the term is often used to describe trends, practices, or technologies that are widely adopted within an industry.",
-        "nuance": "While it indicates commonality, it can also suggest a lack of uniqueness or innovation, so it should be used carefully to avoid implying mediocrity.",
-        "synonyms": [
-          "widespread",
-          "common"
-        ],
-        "antonyms": [
-          "rare",
-          "uncommon"
-        ]
-      },
-      {
         "word": "researchers",
         "definition": "Researchers are individuals who conduct systematic investigations to establish facts, gather data, and develop new knowledge in a specific field.",
         "businessContext": "In the context of tech and startups, researchers play a critical role in innovation, often working on product development, market analysis, and technological advancements.",
@@ -350,7 +234,9 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "if you teach your kids to be curious, to be independent, to be self-confident, you teach them how to think... those are going to be skills that are going to be important in any configuration of the future.",
@@ -374,9 +260,9 @@
       "B2B SaaS",
       "Product Strategy"
     ],
-    "text_ko": "제 생각에는 아이들에게 호기심을 갖게 하고, 자립심과 자신감을 길러주면 생각하는 법을 가르치는 거예요. 미래가 어떻게 될지는 모르겠지만, 그런 역량(skills)은 미래가 어떤 모습이든 중요해질 거예요.",
-    "text_zh": "我觉得啊，如果你教孩子保持好奇心，培养他们独立自主，让他们有自信，最重要的是教会他们怎么思考，虽然说未来会怎样谁也说不准，但我相信这些能力在任何情况下都会很重要的。",
-    "text_es": "Yo creo que si les enseñas a tus hijos a ser curiosos, a ser independientes, a tener confianza en sí mismos, si les enseñas a pensar por cuenta propia, no sé qué nos depare el futuro, pero estoy seguro de que esas van a ser habilidades clave en cualquier escenario que se presente.",
+    "text_ko": "자녀에게 호기심을 갖게 하고, 자립심과 자신감을 길러주면 사고하는 법을 가르치는 거예요. 그런 능력들은 미래가 어떻게 변하든 어디서나 중요해요.",
+    "text_zh": "如果你培养孩子的好奇心、独立性和自信，实际上就是在教他们怎么思考——这些能力在任何未来场景下都会很重要。",
+    "text_es": "Si enseñas a tus hijos a ser curiosos, independientes y seguros de sí mismos, les estás enseñando a pensar por sí mismos. Esas habilidades serán clave en cualquier escenario futuro.",
     "key_sentence": "if you teach your kids to be curious, to be independent, to be self-confident, you teach them how to think",
     "text_trimmed": true,
     "original_text": "I think if you teach your kids to be curious, to be independent, to be self-confident, you teach them how to think, I don't know what the future holds, but I think that those are going to be skills that are going to be important in any configuration of the future.",
@@ -438,7 +324,8 @@
           "ineptitude"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "It fundamentally disappoints me that this doesn't exist in the world today because the world would be a better place if we'd been able to ship that product. We tried to launch a new blockchain. It was a basket of currencies originally.",
@@ -447,9 +334,7 @@
     "context": "Lenny asks Kevin about Libra, the cryptocurrency project he worked on at Facebook that ultimately failed. Kevin explains that Libra was designed to solve real problems like expensive international remittances, where people pay 20% fees to send money to family in other countries. The project aimed to enable instant, free money transfers through WhatsApp and Messenger using a new blockchain and basket of currencies. Kevin expresses genuine disappointment that this product never launched because he believes it would have made the world better by solving these costly, inefficient payment problems.",
     "vocabulary_highlights": [
       "fundamentally",
-      "launch",
-      "cryptocurrency",
-      "solve"
+      "launch"
     ],
     "topics": [
       "Product Management",
@@ -462,9 +347,9 @@
       "B2B SaaS",
       "Product Strategy"
     ],
-    "text_ko": "이런 게 세상에 없다는 게 정말 아쉽고, 만약 이 제품이 출시됐다면 세상이 더 나아졌을 거라고 생각해요. 저희는 새로운 블록체인(blockchain)을 출시하려고 했었어요. 처음에는 여러 통화의 집합체였고, WhatsApp과 Messenger에 통합하는 방식이었죠. 그래서 제가 당신에게 WhatsApp으로 50센트를 무료로 보낼 수 있었을 거예요. 이건 꼭 존재해야 해요.",
-    "text_zh": "说实话，这个产品到现在都没能做出来，我真的挺失望的，因为如果我们当时能把这个产品推出来，世界肯定会变得更好。我们试过推出一个新的区块链(blockchain)，最初是一篮子货币的概念，要整合到WhatsApp和Messenger里面。这样我就能在WhatsApp里免费给你转个50美分什么的。这个功能真的应该存在的。",
-    "text_es": "Me decepciona profundamente que esto no exista hoy en día porque el mundo sería un lugar mejor si hubiéramos logrado sacar ese producto al mercado. Tratamos de lanzar una nueva blockchain. Originalmente era una canasta de monedas. Era integración con WhatsApp y Messenger. Yo te podría enviar 50 centavos por WhatsApp gratis. Esto debería existir.",
+    "text_ko": "솔직히 이게 아직 세상에 없는 게 너무 안타까워요. 그 제품을 출시할 수만 있었더라면 세상이 더 나아졌을 거예요. 저희는 새 블록체인(blockchain)을 출시하려고 했어요. 원래는 여러 통화를 묶은 통화 바스켓(basket of currencies)이었어요.",
+    "text_zh": "让我很失望的是，这东西现在还不存在——要是我们能把那款产品真的推出来，世界会更好一些。我们当时试着推出一个新的区块链(blockchain)，最初打算把它做成一个货币篮子(basket of currencies)。",
+    "text_es": "Me decepciona profundamente que esto no exista hoy en día; el mundo sería un lugar mejor si hubiéramos podido sacar ese producto al mercado. Intentamos lanzar una nueva cadena de bloques (blockchain). Al principio era una cesta de divisas (basket of currencies).",
     "key_sentence": "It fundamentally disappoints me that we couldn't ship that product; the world needs it.",
     "text_trimmed": true,
     "original_text": "It fundamentally disappoints me that this doesn't exist in the world today because the world would be a better place if we'd been able to ship that product. We tried to launch a new blockchain. It was a basket of currencies originally. It was integration into WhatsApp and Messenger. I would be able to send you 50 cents in WhatsApp for free. It should exist.",
@@ -497,35 +382,9 @@
           "withdraw",
           "suspend"
         ]
-      },
-      {
-        "word": "cryptocurrency",
-        "definition": "A digital or virtual currency that uses cryptography for security and operates independently of a central authority.",
-        "businessContext": "In the tech and finance sectors, 'cryptocurrency' is a rapidly growing area of interest, often discussed in relation to investment, blockchain technology, and regulatory challenges.",
-        "nuance": "This term carries connotations of innovation and disruption, but can also evoke concerns regarding volatility and security.",
-        "synonyms": [
-          "digital currency",
-          "virtual currency"
-        ],
-        "antonyms": [
-          "fiat currency",
-          "N/A"
-        ]
-      },
-      {
-        "word": "solve",
-        "definition": "To find a solution to a problem or challenge.",
-        "businessContext": "In business, 'solve' is frequently used to describe the process of addressing customer pain points or operational inefficiencies through innovative solutions.",
-        "nuance": "The term suggests a proactive approach to challenges, emphasizing the importance of critical thinking and creativity in problem-solving.",
-        "synonyms": [
-          "resolve",
-          "address"
-        ],
-        "antonyms": [
-          "complicate",
-          "exacerbate"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

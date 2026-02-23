@@ -5,10 +5,8 @@
     "timestamp": "00:06:57",
     "context": "Lenny asks Todd why founders need a framework for finding product-market fit and why it's so important. Todd explains that product-market fit advice is typically vague and mysterious, unlike other startup topics that have specific, actionable guidance. He argues that while other areas like hiring or board meetings have detailed, tactical content available, product-market fit remains poorly explained despite being the most critical challenge for early-stage companies.",
     "vocabulary_highlights": [
-      "framework",
       "specific",
-      "product-market fit",
-      "vague"
+      "product-market fit"
     ],
     "topics": [
       "Starting a Company",
@@ -20,28 +18,14 @@
       "Product Management",
       "Growth Strategy"
     ],
-    "text_ko": "인터넷에 널린 조언들은 제품-시장 적합성(product-market fit)에 관해서는 거의 대부분 너무 일반적이에요. 한 번 보면 알게 되고, 실제로 갖고 있으면 알게 되긴 하는데 구체적인 건 아니죠. 반면에 첫 영업사원 채용이나 이사회 운영 같은 다른 스타트업 관련 주제들은 인터넷에 구체적이고 실무적인 좋은 콘텐츠가 정말 많아요.",
-    "text_zh": "网上关于产品市场匹配(product-market fit)的建议都特别泛泛而谈。什么\"你有感觉的时候自然就知道了\"，\"找到了你就明白了\"，一点都不具体。可是其他很多创业话题，网上都有很不错的干货内容，比如怎么招第一个销售，怎么开董事会，这些都很具体很实用。",
-    "text_es": "Y todos los consejos que encuentras por ahí en internet sobre el encaje producto-mercado (product-market fit) son súper generales. Te dicen \"lo vas a saber cuando lo veas\", \"te vas a dar cuenta cuando lo tengas\". No es nada específico. Y hay tantos otros temas de startups donde sí hay buen contenido en internet, como contratar a tu primer vendedor, manejar juntas de consejo, cosas que sí son específicas y prácticas.",
+    "text_ko": "인터넷에 널린 조언들은 제품-시장 적합도(product-market fit)에 관해서는 대부분 너무 일반적이에요. 직접 보면 아는 거고, 실제로 갖고 있으면 알게 돼요. 딱 잘라 말할 정도로 구체적이지 않아요.",
+    "text_zh": "说到产品与市场契合（product-market fit），网上的建议大多很泛泛、不够具体。你一看到就会知道，一旦有了也会立刻感觉到。",
+    "text_es": "Todos los consejos que encuentras en internet son muy generales cuando se trata del encaje producto-mercado (product-market fit). Lo sabrás cuando lo veas, lo sabrás cuando lo tengas. No es nada concreto.",
     "key_sentence": "Advice on product-market fit is very general and not specific.",
     "text_trimmed": true,
     "original_text": "And all the advice that you find out there on the internet is very general when it comes to product-market fit. You'll know it when you see it, you'll know it when you have it. It's not specific. And there's so many other startup topics where there is good content on the internet like hiring your first salesperson, running board meetings, stuff that is specific and tactical.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "framework",
-        "definition": "A structured approach or system that provides guidance and support for understanding or addressing a particular issue or process.",
-        "businessContext": "In business and technology, a framework often refers to a set of guidelines or principles that help organizations develop strategies, manage projects, or implement systems effectively.",
-        "nuance": "While 'framework' implies a supportive structure, it can also suggest rigidity; thus, it is important to use it when referring to established systems that allow for some flexibility.",
-        "synonyms": [
-          "structure",
-          "model"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorder"
-        ]
-      },
       {
         "word": "specific",
         "definition": "Clearly defined or identified; precise in detail or meaning.",
@@ -69,22 +53,10 @@
           "market misalignment",
           "product-market mismatch"
         ]
-      },
-      {
-        "word": "vague",
-        "definition": "Not clearly expressed or defined; lacking precision or clarity.",
-        "businessContext": "In business communication, vague statements can lead to confusion and misinterpretation, making it essential to strive for clarity in proposals, reports, and discussions.",
-        "nuance": "The term 'vague' often carries a negative connotation, suggesting a lack of thoroughness or attention to detail, and is best avoided in formal contexts where clarity is paramount.",
-        "synonyms": [
-          "ambiguous",
-          "imprecise"
-        ],
-        "antonyms": [
-          "clear",
-          "explicit"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Finding product-market fit is the single most important thing that your startup does in the first three years, and it's just underexplored and it's just underexplained as a topic. So we felt this was a very important thing to do, something worth focusing on.",
@@ -94,8 +66,7 @@
     "vocabulary_highlights": [
       "product-market fit",
       "underexplored",
-      "underexplained",
-      "milestone"
+      "underexplained"
     ],
     "topics": [
       "Starting a Company",
@@ -154,22 +125,9 @@
           "well-explained",
           "thoroughly articulated"
         ]
-      },
-      {
-        "word": "milestone",
-        "definition": "A milestone is a significant event or point in a project or process that marks a notable achievement or progress. It serves as a reference point for measuring success.",
-        "businessContext": "In project management and startups, milestones are used to track progress, set goals, and motivate teams by providing clear targets to aim for throughout the development process.",
-        "nuance": "Milestones often carry a sense of accomplishment and can be used to celebrate progress, but they also imply that further work is needed to reach the final objective.",
-        "synonyms": [
-          "benchmark",
-          "landmark"
-        ],
-        "antonyms": [
-          "setback",
-          "failure"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "Because if you find extreme product-market fit, the momentum just carries you, and the market pulls you along. And it's easy to know what to build because you're building the thing that your customers want and it's motivating as a team.",
@@ -179,8 +137,7 @@
     "vocabulary_highlights": [
       "momentum",
       "product-market fit",
-      "motivating",
-      "virtuous cycle"
+      "motivating"
     ],
     "topics": [
       "Starting a Company",
@@ -192,9 +149,9 @@
       "Product Management",
       "Growth Strategy"
     ],
-    "text_ko": "압도적인 제품-시장 적합성(product-market fit)을 찾으면 추진력이 저절로 따라와서 시장이 회사를 끌고 가요. 고객들이 진짜 원하는 걸 만드는 거니까 뭘 만들어야 할지도 명확하고, 팀도 훨씬 의욕이 생겨요. 채용도 쉬워지고, 모든 게 더 수월해져요. 제품-시장 적합성 자체가 회사를 앞으로 밀어주는 힘이에요.",
-    "text_zh": "因为一旦你找到了极佳的产品市场契合度(product-market fit)，那种势头就会推着你往前走，市场会拉着你跑。而且你很清楚该做什么产品，因为你在做的就是客户真正想要的东西，这对团队来说特别有动力。招人也变得容易，有了产品市场契合度，什么事都变简单了，这就是推动公司发展的核心动力。",
-    "text_es": "Porque si logras un encaje producto-mercado (product-market fit) increíble, el impulso te lleva solo, y el mercado te jala. Y es súper fácil saber qué construir porque estás haciendo exactamente lo que tus clientes quieren, y eso motiva un montón al equipo. Es más fácil contratar gente, todo se vuelve más sencillo cuando encuentras ese encaje producto-mercado (product-market fit), es lo que realmente impulsa la empresa.",
+    "text_ko": "강력한 프로덕트-마켓 핏(product-market fit)을 찾으면 모멘텀(momentum)이 자연스럽게 붙어서 시장이 우리를 끌고 가요. 무엇을 만들어야 할지도 쉽게 알 수 있어요 — 고객이 원하는 걸 만드는 거니까요, 팀도 더 동기부여가 돼요.",
+    "text_zh": "如果你找到极致的产品和市场契合(product-market fit)，势头就会自然而然地带着你走，市场也会把你往前拉。你会很清楚该做什么——因为你在做客户真心想要的东西，团队也更有干劲。",
+    "text_es": "Porque si encuentras un encaje producto-mercado extremo (product-market fit), el impulso te lleva y el mercado te empuja. Además, es fácil saber qué construir porque estás haciendo lo que quieren tus clientes, y eso motiva al equipo.",
     "key_sentence": "Extreme product-market fit propels the company and carries momentum.",
     "text_trimmed": true,
     "original_text": "Because if you find extreme product-market fit, the momentum just carries you, and the market pulls you along. And it's easy to know what to build because you're building the thing that your customers want and it's motivating as a team. It's easy to hire people, everything becomes easier if you find product-market fit, it is the thing that propels the company.",
@@ -241,22 +198,10 @@
           "demotivating",
           "discouraging"
         ]
-      },
-      {
-        "word": "virtuous cycle",
-        "definition": "A virtuous cycle is a complex chain of events that reinforces itself through positive feedback, leading to beneficial outcomes.",
-        "businessContext": "In business, a virtuous cycle can occur when a company's success leads to increased customer satisfaction, which in turn drives more sales and further enhances the company's reputation.",
-        "nuance": "While virtuous cycles are desirable, they can be fragile and may require continuous effort to maintain their positive effects.",
-        "synonyms": [
-          "positive feedback loop",
-          "self-reinforcing cycle"
-        ],
-        "antonyms": [
-          "vicious cycle",
-          "negative feedback loop"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "We can't guarantee success here. I just want to contextualize that finding extreme product-market fit is very, very hard.",
@@ -265,9 +210,7 @@
     "context": "Lenny asks Todd about the realistic benefits and outcomes founders can expect from following this product-market fit framework. Todd provides an honest assessment, emphasizing that no framework can guarantee success in what remains an extremely challenging endeavor. He positions their approach as a way to improve probability of success rather than a silver bullet, focusing on systematic thinking over relying purely on chance.",
     "vocabulary_highlights": [
       "contextualize",
-      "product-market fit",
-      "realistic",
-      "assessment"
+      "product-market fit"
     ],
     "topics": [
       "Starting a Company",
@@ -279,9 +222,9 @@
       "Product Management",
       "Growth Strategy"
     ],
-    "text_ko": "여기서 성공을 보장할 수는 없어요. 다만 극단적인 제품-시장 적합성(product-market fit)을 찾아내는 건 정말, 정말 어렵다는 맥락을 설명드리고 싶어요. 우리가 하려는 건 성공 확률을 높여드리고, 운의 역할을 줄여드리며, 해야 할 일들에 대해 생각할 수 있는 프레임워크(framework)와 사고방식(way of thinking)을 제공하는 거예요.",
-    "text_zh": "我们不能保证一定成功哈。我想先说清楚，要找到特别好的产品市场匹配(product-market fit)真的是超级难的事儿。我们现在要做的就是提高你们成功的概率，减少运气的成分，给你们一套框架和思路，让你们知道该怎么去做这些事情。",
-    "text_es": "No podemos garantizar el éxito aquí. Solo quiero poner en contexto que lograr un product-market fit extremo es súper, súper difícil. Y lo que estamos tratando de hacer es aumentar tus probabilidades, mejorar las chances, reducir el papel de la suerte, darte un marco de trabajo y una forma de pensar sobre las cosas que necesitas hacer.",
+    "text_ko": "여기서 성공을 보장할 수는 없어요. 다만 짚고 넘어가고 싶은 건, 극단적인 제품-시장 적합성(extreme product-market fit)을 찾는 건 정말, 정말 어렵다는 거예요.",
+    "text_zh": "这事我们没法保证一定能成功。我只是想说明一下，找到那种极致的产品与市场契合(product-market fit)是非常非常难的。",
+    "text_es": "No podemos garantizar el éxito aquí. Solo quiero ponerlo en contexto: encontrar un encaje producto-mercado extremo (extreme product-market fit) es muy, muy difícil.",
     "key_sentence": "Finding extreme product-market fit is hard; we aim to increase your odds.",
     "text_trimmed": true,
     "original_text": "We can't guarantee success here. I just want to contextualize that finding extreme product-market fit is very, very hard. And what we are trying to do is increase your odds, increase the odds, reduce the role of luck, give you a framework and way of thinking about the things that you need to do.",
@@ -314,36 +257,10 @@
           "product-market mismatch",
           "market rejection"
         ]
-      },
-      {
-        "word": "realistic",
-        "definition": "Having a sensible and practical approach to situations, acknowledging limitations and possibilities.",
-        "businessContext": "In business planning, being realistic about goals and resources helps teams set achievable targets and avoid overpromising.",
-        "nuance": "While realism is important, it should not stifle ambition; a balance between realism and aspiration is often necessary.",
-        "synonyms": [
-          "pragmatic",
-          "practical"
-        ],
-        "antonyms": [
-          "idealistic",
-          "unrealistic"
-        ]
-      },
-      {
-        "word": "assessment",
-        "definition": "The evaluation or estimation of the nature, quality, or ability of someone or something.",
-        "businessContext": "Regular assessments in business help organizations measure performance, identify areas for improvement, and make informed strategic decisions.",
-        "nuance": "Assessments can vary in formality and depth, ranging from informal feedback to comprehensive evaluations.",
-        "synonyms": [
-          "evaluation",
-          "appraisal"
-        ],
-        "antonyms": [
-          "neglect",
-          "overlook"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "But the interesting thing is that you don't go for all three of them from the very beginning. And so product-market fit, it happens in the sequence of levels, it happens over multiple years.",
@@ -352,9 +269,7 @@
     "context": "Todd is explaining his framework's three key dimensions of product-market fit: demand, satisfaction, and efficiency. He's clarifying that companies don't need to optimize all three dimensions simultaneously from day one. Instead, product-market fit develops progressively through distinct levels over several years, with the most successful enterprise companies typically achieving the highest level within four to six years of founding.",
     "vocabulary_highlights": [
       "product-market fit",
-      "optimize",
-      "sequence",
-      "efficiency"
+      "sequence"
     ],
     "topics": [
       "Product Management",
@@ -366,9 +281,9 @@
       "Product Management",
       "Growth Strategy"
     ],
-    "text_ko": "재미있는 건 처음부터 세 가지를 모두 한꺼번에 노리지는 않는다는 점이에요. 제품-시장 적합성(product-market fit)은 단계별로, 여러 해에 걸쳐 서서히 찾아와요. 저는 최고의 엔터프라이즈 기업들(enterprise companies)이 보통 대략 4~6년 정도에 아주 강한 제품-시장 적합성에 도달한다고 봐요.",
-    "text_zh": "但有意思的是，你不可能一开始就把这三个方面都搞定。所以产品市场匹配(product-market fit)嘛，它是分层次、分阶段来的，需要好几年时间。对于那些最牛的企业级公司来说，我觉得他们一般要花个四到六年左右才能达到极致的产品市场匹配(product-market fit)。",
-    "text_es": "Pero lo interesante es que no vas por los tres desde el primer día. Entonces el product-market fit, pasa por niveles, en secuencia, lleva varios años. Y para las mejores empresas B2B, yo diría que tienden a alcanzar un product-market fit extremo en unos cuatro a seis años aproximadamente.",
+    "text_ko": "그런데 흥미로운 건 처음부터 세 가지를 모두 한꺼번에 추구하지 않는다는 거예요. 그래서 제품-시장 적합성(product-market fit)은 단계별로, 몇 년에 걸쳐 차근차근 찾아오는 거예요.",
+    "text_zh": "有意思的是，你不会一开始就把三件事都做到位。产品与市场的匹配（product-market fit）是按层级、按顺序逐步达成的，通常要花好几年。",
+    "text_es": "Lo interesante es que no intentas conseguir las tres desde el principio. El encaje producto-mercado (product-market fit) se logra por etapas y suele tardar varios años.",
     "key_sentence": "product-market fit, it happens in the sequence of levels, it happens over multiple years.",
     "text_trimmed": true,
     "original_text": "But the interesting thing is that you don't go for all three of them from the very beginning. And so product-market fit, it happens in the sequence of levels, it happens over multiple years. And for the best enterprise companies, I would say they tend to reach extreme product-market fit in roughly four to six years.",
@@ -389,20 +304,6 @@
         ]
       },
       {
-        "word": "optimize",
-        "definition": "To optimize means to make the best or most effective use of a resource, process, or system. It involves enhancing performance and efficiency to achieve desired outcomes.",
-        "businessContext": "In business and technology, optimization is often applied to processes, algorithms, and resource allocation to maximize productivity and minimize costs.",
-        "nuance": "While optimization suggests improvement, it can also imply trade-offs, where enhancing one aspect may detract from another.",
-        "synonyms": [
-          "enhance",
-          "refine"
-        ],
-        "antonyms": [
-          "deteriorate",
-          "worsen"
-        ]
-      },
-      {
         "word": "sequence",
         "definition": "A sequence is an ordered arrangement of items or events, often indicating a specific progression or timeline. It highlights the relationship and order in which actions or processes occur.",
         "businessContext": "In project management and product development, understanding the sequence of tasks is critical for efficient workflow and timely completion of objectives.",
@@ -415,22 +316,10 @@
           "disorder",
           "randomness"
         ]
-      },
-      {
-        "word": "efficiency",
-        "definition": "Efficiency refers to the ability to accomplish a task with the least amount of wasted resources, such as time, effort, or materials. It emphasizes productivity and effectiveness in achieving goals.",
-        "businessContext": "In business operations, efficiency is a key performance indicator that organizations strive to improve to enhance profitability and competitiveness.",
-        "nuance": "While efficiency is generally positive, it can sometimes overlook qualitative aspects, such as employee satisfaction or product quality.",
-        "synonyms": [
-          "productivity",
-          "effectiveness"
-        ],
-        "antonyms": [
-          "inefficiency",
-          "wastefulness"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "And the reason that she needed to get it is because we wanted to start selling Dropbox Paper into enterprise.",
@@ -438,10 +327,7 @@
     "timestamp": "00:23:48",
     "context": "Todd is sharing the origin story of Vanta as an example of level one product-market fit. He's describing how founder Christina Cacioppo discovered the compliance automation opportunity while working at Dropbox. Christina realized that SOC 2 certification was blocking enterprise sales deals, and she identified this as both a painful problem and a potential revenue unlock for her target customers who were trying to sell into Fortune 500 companies.",
     "vocabulary_highlights": [
-      "enterprise",
-      "product-market fit",
-      "compliance",
-      "automation"
+      "enterprise"
     ],
     "topics": [
       "Starting a Company",
@@ -453,9 +339,9 @@
       "Product Management",
       "Growth Strategy"
     ],
-    "text_ko": "그녀가 이걸 꼭 가져와야 했던 이유는 우리가 Dropbox Paper를 기업에 판매하기 시작하고 싶었기 때문이에요. 그래서 그녀가 저한테 '이런 문제들이 있는데, 내가 해결할 수 있을 것 같고, 수익을 창출할 수 있는 기회가 있을 것 같아'라고 말했어요. 제가 '그게 무슨 뜻이에요?'라고 물어보니까, 그녀가 '음, 몇몇 초기 고객이나 디자인 파트너, 가짜 고객들이 있어'라고 했어요.",
-    "text_zh": "她之前需要拿到这个认证，是因为我们想把Dropbox Paper卖给企业客户。然后她就跟我说，\"市场上有这个痛点，我觉得我能解决，而且我觉得这可能是个赚钱的机会。\"我就问她，\"你这话是什么意思？\"她说，\"我已经有了几个初期客户，或者说设计合作伙伴(design partner)，算是准客户吧。\"",
-    "text_es": "Y la razón por la que necesitaba conseguirlo es porque queríamos empezar a vender Dropbox Paper a empresas grandes. Entonces me dice: \"Hay un problema ahí afuera, creo que lo puedo resolver, y pienso que podría generar ingresos nuevos (revenue unlock).\" Y yo le digo: \"¿A qué te refieres con eso?\" Y me contesta: \"Bueno, ya tengo estos primeros clientes o socios de diseño (design partners), como clientes potenciales.\"",
+    "text_ko": "그녀가 그걸 받아야 했던 이유는 저희가 드롭박스 페이퍼(Dropbox Paper)를 엔터프라이즈(enterprise) 고객에게 팔기 시작하려고 했기 때문이에요.",
+    "text_zh": "她之所以非得把这事搞定，是因为我们想开始向企业(enterprise) 销售 Dropbox 的 Paper (Dropbox Paper)。",
+    "text_es": "La razón por la que ella necesitaba entenderlo era que queríamos empezar a vender Dropbox Paper a empresas (enterprise).",
     "key_sentence": "we wanted to start selling Dropbox Paper into enterprise.",
     "text_trimmed": true,
     "original_text": "And the reason that she needed to get it is because we wanted to start selling Dropbox Paper into enterprise. And so she said to me, 'There's this pain out there, I think I can solve it, and I think there might be a revenue unlock.' And I was like, 'What do you mean by that?' And she was like, 'Well, I've got these first few customers or design partner, pseudo customers.'",
@@ -474,49 +360,9 @@
           "small business",
           "startup"
         ]
-      },
-      {
-        "word": "product-market fit",
-        "definition": "Product-market fit is the degree to which a product satisfies a strong market demand, indicating that the product is well-suited to its target customers. It is often considered a critical milestone for startups.",
-        "businessContext": "In the startup ecosystem, achieving product-market fit is essential for growth and sustainability, as it validates the product's value proposition and informs marketing strategies.",
-        "nuance": "The term suggests not just a match between product and market, but also a deep understanding of customer needs and preferences; it is often used in discussions about scaling and investment readiness.",
-        "synonyms": [
-          "market alignment",
-          "customer fit"
-        ],
-        "antonyms": [
-          "market misalignment",
-          "product-market mismatch"
-        ]
-      },
-      {
-        "word": "compliance",
-        "definition": "Compliance refers to the act of adhering to established laws, regulations, and guidelines within a specific industry or sector. It ensures that organizations operate within legal and ethical boundaries.",
-        "businessContext": "In business, particularly in regulated industries like finance and healthcare, compliance is crucial for avoiding legal penalties and maintaining a company's reputation.",
-        "nuance": "While compliance is often seen as a necessary burden, it can also be viewed as an opportunity for organizations to build trust and credibility with stakeholders.",
-        "synonyms": [
-          "adherence",
-          "conformity"
-        ],
-        "antonyms": [
-          "violation",
-          "noncompliance"
-        ]
-      },
-      {
-        "word": "automation",
-        "definition": "Automation is the use of technology to perform tasks with minimal human intervention, often aimed at increasing efficiency and reducing operational costs. It encompasses a wide range of applications from simple processes to complex systems.",
-        "businessContext": "In business and technology, automation is leveraged to streamline operations, enhance productivity, and improve accuracy, making it a key component of digital transformation strategies.",
-        "nuance": "While automation can lead to significant efficiency gains, it may also raise concerns about job displacement and the need for workforce reskilling.",
-        "synonyms": [
-          "mechanization",
-          "robotization"
-        ],
-        "antonyms": [
-          "manual operation",
-          "human intervention"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

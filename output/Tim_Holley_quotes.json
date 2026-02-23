@@ -21,9 +21,9 @@
       "Product Management",
       "Leadership Development"
     ],
-    "text_ko": "또 한 가지 중요한 건 외부 시각(outside-in perspective)을 들여와서 경쟁사들과 경쟁군(competitive set)을 진짜로 벤치마킹(benchmarking)하는 거예요. 오해하지 마세요, 저는 Etsy가 정말 독특한 마켓플레이스(marketplace)라고 생각해요. 우리 판매자들은 독립적이고 독특한 상품을 팔아요. 하지만 현실은 구매자들이 인터넷 곳곳에서 쇼핑을 하고 있다는 거예요.",
-    "text_zh": "另外一点我觉得很重要的是，要有外部视角，真正去对标你的竞争对手和整个竞争格局。别误会我的意思，我觉得Etsy确实是个很独特的市场平台。我们的卖家都是独立卖家，卖的都是独一无二的商品。但现实情况是，我们的买家在整个互联网上到处购物。",
-    "text_es": "Lo otro que me parece clave es traer esa perspectiva de afuera hacia adentro, realmente hacer un benchmarking contra tus competidores y tu conjunto competitivo. No me malinterpretes, creo que Etsy es un marketplace único. Nuestros vendedores son vendedores independientes. Venden artículos únicos. Pero la realidad es que nuestros compradores andan comprando por todo el internet.",
+    "text_ko": "또 한 가지는 외부 시각을 들여와서 경쟁사(competitors)와 경쟁군(competitive set)에 대해 정말 벤치마킹(benchmarking)하는 거예요. 오해하지 마세요. 저는 Etsy가 정말 독특한 마켓플레이스라고 생각해요. 우리 판매자들은 독립적인 개인 판매자들이고, 각자 고유한 상품을 팔아요.",
+    "text_zh": "对我来说还有一点，就是要把外部视角带进来，真的要把自己跟竞争对手以及行业内其他可比公司(competitive set)做标杆比较(benchmarking)。别误会，我觉得Etsy确实是个独特的市场，我们的卖家都是独立卖家，卖的都是独特的商品。",
+    "text_es": "Una cosa importante para mí es aportar una perspectiva externa y, de verdad, comparar (benchmarking) cómo te estás posicionando frente a tus competidores y con tu conjunto competitivo (competitive set). No me malinterpretes: creo que Etsy es un mercado único. Nuestros vendedores son independientes y venden productos únicos.",
     "key_sentence": "Benchmarking against competitors provides an outside in perspective for Etsy.",
     "text_trimmed": true,
     "original_text": "The other thing to me is bringing an outside in perspective, really benchmarking against your competitors and your competitive set. Don't get me wrong, I think Etsy is a unique marketplace. Our sellers are independent sellers. They sell unique items. The reality though is that our buyers are shopping all over the internet.",
@@ -85,7 +85,8 @@
           "bias"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "And having that be part of the day-to-day conversation, it seems like such a small thing, but it adds up to having clarity on goal, the KPI point, and then clarity on why, the narrative point.",
@@ -109,9 +110,9 @@
       "Product Management",
       "Leadership Development"
     ],
-    "text_ko": "그게 일상 대화의 일부가 되면 사소해 보일 수 있지만, 목표와 KPI(핵심성과지표)에 대한 명확성 그리고 왜 하는지에 대한 내러티브(narrative)가 쌓여요. 이 둘을 잘 결합시키면 정말 강력한 조합이 된다고 생각해요.",
-    "text_zh": "把这个融入到日常聊天中，看起来是个小事儿，但积累起来就能让目标更清晰——这是KPI这块，还有让大家明白为什么要这么做——这是讲故事这块。如果你能把这两点结合好，我觉得威力是相当大的。",
-    "text_es": "Y que eso sea parte de las conversaciones del día a día, parece algo muy pequeño, pero al final se suma para tener claridad en el objetivo, el punto de los KPIs, y después claridad en el porqué, la parte narrativa. Si logras combinar esas dos cosas, creo que es una combinación tremendamente poderosa.",
+    "text_ko": "그걸 일상 대화의 일부로 만드는 건 별거 아닌 것처럼 보여도, 쌓이면 목표와 핵심성과지표(KPI)에 대한 명확성은 물론 왜 하는지에 대한 내러티브(narrative)도 분명해져요.",
+    "text_zh": "把这件事当成日常沟通的一部分，表面上看像小事，但久而久之会让大家对目标(goal)、关键绩效指标(KPI)更清晰，也更明白背后的原因和叙事(narrative)。",
+    "text_es": "Hacer que forme parte de la conversación diaria puede parecer algo pequeño, pero suma: da claridad sobre el objetivo, sobre el indicador clave de rendimiento (KPI) y, sobre todo, sobre el porqué, la narrativa detrás.",
     "key_sentence": "it adds up to having clarity on goal, the KPI point, and then clarity on why, the narrative point.",
     "text_trimmed": true,
     "original_text": "And having that be part of the day-to-day conversation, it seems like such a small thing, but it adds up to having clarity on goal, the KPI point, and then clarity on why, the narrative point. If you can marry those two things, I think that's an incredibly powerful combination.",
@@ -173,7 +174,8 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "Our sellers are incredibly astute business people. And if you had been making wedding dresses, and you know how to sew, and you've got material, and you've got a bit of time, making a mask is quite a simple task.",
@@ -181,10 +183,7 @@
     "timestamp": "00:00:00",
     "context": "Lenny asks Tim about Etsy's experience during COVID-19, particularly the massive growth in face mask sales. Tim explains how when the CDC mandated face masks in April 2020, Etsy experienced overnight Black Friday-level traffic and sales. He describes how Etsy's sellers quickly pivoted their skills - for example, wedding dress makers using their sewing abilities and materials to create face masks, demonstrating the marketplace's ability to rapidly adapt supply to meet urgent demand.",
     "vocabulary_highlights": [
-      "astute",
-      "mandated",
-      "experience",
-      "massive growth"
+      "astute"
     ],
     "topics": [
       "Strategy & Planning",
@@ -197,9 +196,9 @@
       "Product Management",
       "Leadership Development"
     ],
-    "text_ko": "우리 판매자들은 비즈니스 감각이 정말 뛰어나요. 예를 들어 웨딩드레스를 만들던 사람이 재봉을 할 줄 알고 재료도 있고 시간도 좀 있으면 마스크 만드는 건 꽤 쉬운 일이에요. 그래서 수요가 갑자기 크게 폭증했고 공급도 금방 그에 맞춰 늘어났어요.",
-    "text_zh": "我们的卖家都是特别精明的生意人。你想啊，如果你本来就在做婚纱，会缝纫，有面料，也有点时间，那做个口罩其实挺简单的。所以我们就看到需求量猛增，然后供应也跟着上来了。",
-    "text_es": "Nuestros vendedores son gente de negocios súper hábil, ¿eh? Y fíjate, si ya venías haciendo vestidos de novia, y sabes coser, y tienes tela, y tienes un poco de tiempo, pues hacer un cubrebocas es pan comido. Entonces lo que vimos fue un pico de demanda impresionante, y después la oferta se fue ajustando para cubrirla.",
+    "text_ko": "우리 판매자분들은 사업 감각이 정말 뛰어나요. 웨딩드레스를 만들던 분이고 재봉을 할 줄 아시며, 재료와 시간이 조금만 있으면 마스크 만드는 건 꽤 간단한 일이에요.",
+    "text_zh": "我们的卖家都很精明。要是你本来做婚纱、会缝、手头有布料、还有点空闲，做个口罩其实很简单。",
+    "text_es": "Nuestros vendedores son muy perspicaces. Si te dedicabas a hacer vestidos de novia, sabes coser, tienes tela y un poco de tiempo, hacer una mascarilla es bastante sencillo.",
     "key_sentence": "Sellers are incredibly astute business people responding to a huge surge of demand.",
     "text_trimmed": true,
     "original_text": "Our sellers are incredibly astute business people. And if you had been making wedding dresses, and you know how to sew, and you've got material, and you've got a bit of time, making a mask is quite a simple task. And so we just saw this huge surge of demand, and then supply rising to meet it.",
@@ -218,62 +217,17 @@
           "naive",
           "foolish"
         ]
-      },
-      {
-        "word": "mandated",
-        "definition": "Required or commanded by an authoritative order or law.",
-        "businessContext": "In a corporate setting, policies or regulations that are mandated must be followed by all employees and can impact operational procedures.",
-        "nuance": "The term 'mandated' often carries a sense of obligation and authority, making it suitable for formal contexts but less so in casual discussions.",
-        "synonyms": [
-          "required",
-          "obligated"
-        ],
-        "antonyms": [
-          "optional",
-          "discretionary"
-        ]
-      },
-      {
-        "word": "experience",
-        "definition": "The knowledge or skill acquired by a period of practical involvement in a particular activity.",
-        "businessContext": "In the business world, experience is highly valued as it often correlates with expertise and the ability to navigate complex situations effectively.",
-        "nuance": "While 'experience' generally has a positive connotation, it can also imply a lack of freshness or innovation if overemphasized in certain contexts.",
-        "synonyms": [
-          "expertise",
-          "proficiency"
-        ],
-        "antonyms": [
-          "inexperience",
-          "novice"
-        ]
-      },
-      {
-        "word": "massive growth",
-        "definition": "A significant and rapid increase in size, quantity, or value.",
-        "businessContext": "Massive growth is often a key objective for startups and companies looking to expand their market share and increase profitability.",
-        "nuance": "The phrase 'massive growth' suggests not just growth, but an extraordinary or unprecedented scale, making it suitable for highlighting exceptional achievements.",
-        "synonyms": [
-          "exponential growth",
-          "substantial expansion"
-        ],
-        "antonyms": [
-          "decline",
-          "stagnation"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "And we did something that far as I know we've never done an Etsy's past, which is we put out a call to our sellers to say, 'Now's the time.",
     "speaker": "Tim Holley",
     "timestamp": "00:14:26",
     "context": "Tim continues describing Etsy's response during the early COVID-19 pandemic when face masks became mandatory. He explains that Etsy took the unprecedented step of actively encouraging their sellers to pivot and start making face masks. This was apparently the first time in Etsy's history that they had directly called on sellers to focus on a specific product category, showing how the company stepped up during a crisis to help both sellers maintain income and buyers access essential items.",
-    "vocabulary_highlights": [
-      "unprecedented",
-      "actively",
-      "encouraging",
-      "response"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Strategy & Planning",
       "Leadership & Management"
@@ -285,71 +239,16 @@
       "Product Management",
       "Leadership Development"
     ],
-    "text_ko": "그리고 제가 알기로는 Etsy 역사상 한 번도 해본 적이 없는 일을 했어요. 판매자들에게 “지금이 바로 때예요. 가능하면 지금 마스크를 만들어 주세요”라고 적극적으로 요청했어요. 그래서 이건 우리가 진짜 빛날 기회라고 느꼈어요 — 판매자들이 계속 매출을 이어가실 수 있게 돕고, 구매자들이 찾고 있던 꼭 필요한 물건을 찾을 수 있게 해주자는 마음이었어요.",
-    "text_zh": "据我所知，我们做了一件Etsy以前从来没做过的事情，就是我们主动号召我们的卖家说：\"机会来了，如果你们能做的话，现在就是做口罩的时候。\" 感觉这就是我们大放异彩的时刻，真正帮助卖家继续做生意，帮买家找到他们急需的这个东西。",
-    "text_es": "Y hicimos algo que, por lo que yo sé, nunca habíamos hecho antes en Etsy, que fue hacer un llamado a nuestros vendedores para decirles: 'Es el momento. Es el momento de hacer mascarillas si pueden.' Y entonces sentimos que esta era nuestra oportunidad de brillar, de realmente ayudar a los vendedores a seguir generando ventas, y ayudar a los compradores a encontrar este producto tan necesario que estaban buscando.",
+    "text_ko": "그리고 제가 알기로는 Etsy 역사상 한 번도 해본 적이 없는 일을 했어요. 판매자들에게 '지금이 바로 그때예요'라고 공개적으로 요청을 보낸 거예요.",
+    "text_zh": "就我所知，这是Etsy以前从没做过的事——我们向卖家发出号召，说：“现在就是时候了。”",
+    "text_es": "Y hicimos algo que, hasta donde sé, nunca se había hecho antes en Etsy: lanzamos un llamado a nuestros vendedores para decirles «ahora es el momento».",
     "key_sentence": "We put out a call to help sellers shine and meet buyer needs.",
     "text_trimmed": true,
     "original_text": "And we did something that far as I know we've never done an Etsy's past, which is we put out a call to our sellers to say, 'Now's the time. Now's the time to make face masks if you can.' And so it felt like this is our time to shine, to really help sellers continue to make sales, to help buyers find this critical item that they were looking for.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "unprecedented",
-        "definition": "Never done or known before; without previous example.",
-        "businessContext": "In business, 'unprecedented' often describes unique market conditions, innovative strategies, or exceptional performance that has not been observed in the past.",
-        "nuance": "This term carries a strong connotation of rarity and significance, making it suitable for highlighting groundbreaking achievements or changes.",
-        "synonyms": [
-          "extraordinary",
-          "unparalleled"
-        ],
-        "antonyms": [
-          "commonplace",
-          "ordinary"
-        ]
-      },
-      {
-        "word": "actively",
-        "definition": "In a deliberate and engaged manner; taking action rather than being passive.",
-        "businessContext": "In a business setting, 'actively' refers to the proactive involvement of individuals or teams in tasks, decision-making, or strategic initiatives to drive results.",
-        "nuance": "This adverb implies a level of engagement and initiative that is often expected in dynamic work environments, contrasting with passive participation.",
-        "synonyms": [
-          "energetically",
-          "diligently"
-        ],
-        "antonyms": [
-          "passively",
-          "inactively"
-        ]
-      },
-      {
-        "word": "encouraging",
-        "definition": "Providing support, confidence, or hope; promoting positive outcomes.",
-        "businessContext": "In the corporate world, 'encouraging' is often used to describe feedback, policies, or environments that foster employee motivation and innovation.",
-        "nuance": "This term conveys a positive and supportive sentiment, making it suitable for discussions about leadership and team dynamics.",
-        "synonyms": [
-          "supportive",
-          "uplifting"
-        ],
-        "antonyms": [
-          "discouraging",
-          "detrimental"
-        ]
-      },
-      {
-        "word": "response",
-        "definition": "A reaction to a particular situation, event, or stimulus; an answer or reply.",
-        "businessContext": "In business, 'response' can refer to how a company reacts to market changes, customer feedback, or crises, often indicating agility and adaptability.",
-        "nuance": "While 'response' is neutral, the context can imply urgency or importance, especially in crisis management or customer service scenarios.",
-        "synonyms": [
-          "reply",
-          "reaction"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "And so using a favorite as an example, you favorite an item. That's a pretty strong ish... Of course, adding it to your cart or maybe purchasing it, that's the strongest of signals, but you've shown intent. So what can we do with that information?",
@@ -358,9 +257,7 @@
     "context": "Lenny asks Tim about what Etsy has learned works effectively for user retention. Tim explains their approach to creating habit loops - when users take actions like favoriting items (similar to 'liking' on other platforms), Etsy uses this behavioral data to create meaningful follow-up touchpoints. For example, if a user favorites an item and the seller later puts it on sale, Etsy can send targeted notifications to bring the user back to complete the purchase, turning initial interest into actual sales.",
     "vocabulary_highlights": [
       "intent",
-      "signals",
-      "user retention",
-      "habit loops"
+      "signals"
     ],
     "topics": [
       "Product Management",
@@ -373,9 +270,9 @@
       "Product Management",
       "Leadership Development"
     ],
-    "text_ko": "예를 들어 누군가 아이템을 즐겨찾기(favorite)했다면, 그건 꽤 강한 신호(signals)예요. 물론 장바구니(cart)에 담거나 실제로 구매하는 건 더 강한 신호지만, 이미 구매 의도(intent)를 보여준 거예요. 그 정보를 가지고 우리는 “판매자가 그 상품을 세일(on sale)로 올렸어요. 다시 와서 확인해 보세요”라고 알릴 수 있어요.",
-    "text_zh": "拿收藏这个功能举个例子吧，用户收藏了一个商品，这就是个挺强的信号了...当然了，加购物车或者直接买，那信号就更强了，但收藏已经说明用户有意向了。那我们拿到这个信息能干嘛呢？我们就可以跟用户说：\"卖家降价了，你回来看看吧。\"",
-    "text_es": "Y entonces, usando el favorito como ejemplo, marcas un artículo como favorito. Esa es una señal bastante fuerte... Claro, agregarlo al carrito o tal vez comprarlo, esas son las señales más fuertes de todas, pero ya mostraste intención. Entonces, ¿qué podemos hacer con esa información? Podemos decirle: \"El vendedor lo puso en oferta. Deberías regresar a echarle un vistazo.\"",
+    "text_ko": "예를 들어 즐겨찾기(favorite)를 한 경우를 보면, 아이템을 즐겨찾기에 추가하는 건 꽤 강한 신호예요. 물론 장바구니(cart)에 넣거나 실제로 구매하면 가장 강한 신호지만, 이미 구매 의도(intent)를 보인 셈이에요. 그 정보를 가지고 우리는 뭘 할 수 있을까요?",
+    "text_zh": "打个比方，你把某个商品收藏（favorite）了。这本身就是一个挺明显的信号。更进一步，把它加到购物车或者直接下单，信号就更强，但至少你已经表现出购买意向。那我们能用这些信息做什么？",
+    "text_es": "Si tomamos como ejemplo marcar un producto como favorito (favorite): cuando lo marcas, ya es una señal bastante relevante. Claro, añadirlo al carrito (cart) o comprarlo sería la señal más fuerte, pero ya has mostrado intención. ¿Qué podemos hacer con esa información?",
     "key_sentence": "You've shown intent by favoriting an item; we can encourage you to check it out.",
     "text_trimmed": true,
     "original_text": "And so using a favorite as an example, you favorite an item. That's a pretty strong ish... Of course, adding it to your cart or maybe purchasing it, that's the strongest of signals, but you've shown intent. So what can we do with that information? We can then say, 'The seller put it on sale. You should come back and check it out.'",
@@ -408,36 +305,10 @@
           "silence",
           "ambiguity"
         ]
-      },
-      {
-        "word": "user retention",
-        "definition": "User retention refers to the ability of a company or product to keep its customers engaged and returning over time.",
-        "businessContext": "In tech and startups, user retention is a critical metric that reflects customer satisfaction and loyalty, often influencing revenue and growth strategies.",
-        "nuance": "User retention is often measured over specific time frames and can be influenced by various factors, including product quality and customer service.",
-        "synonyms": [
-          "customer loyalty",
-          "customer retention"
-        ],
-        "antonyms": [
-          "customer churn",
-          "attrition"
-        ]
-      },
-      {
-        "word": "habit loops",
-        "definition": "Habit loops are psychological patterns consisting of a cue, routine, and reward that drive repetitive behaviors, often leading to the formation of habits.",
-        "businessContext": "In business, particularly in product design and marketing, understanding habit loops can help companies create engaging experiences that encourage repeat usage and customer loyalty.",
-        "nuance": "While habit loops can be beneficial for user engagement, they can also raise ethical concerns if they exploit users' psychological vulnerabilities.",
-        "synonyms": [
-          "behavioral patterns",
-          "habitual cycles"
-        ],
-        "antonyms": [
-          "spontaneity",
-          "randomness"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "But I think that it maybe misses the point in some changes or some areas where you are working towards a bigger net new thing or this specific change won't really be indicative of the greater whole you're building towards.",
@@ -445,10 +316,7 @@
     "timestamp": "00:35:28",
     "context": "Lenny asks Tim about Etsy's philosophy on experimentation and whether everything runs as an A/B test. Tim acknowledges that while A/B testing provides near absolute certainty about causal relationships between changes and KPIs, it has limitations. He explains that experimentation might not be the best approach when building toward larger, net-new initiatives where individual changes don't represent the full value of what you're creating, suggesting that Etsy is exploring additional validation methods beyond traditional A/B testing.",
     "vocabulary_highlights": [
-      "indicative",
-      "philosophy",
-      "experiment",
-      "causal"
+      "indicative"
     ],
     "topics": [
       "Product Management",
@@ -480,50 +348,9 @@
           "unrelated",
           "irrelevant"
         ]
-      },
-      {
-        "word": "philosophy",
-        "definition": "A set of beliefs or principles that guide an individual's or organization's behavior and decision-making.",
-        "businessContext": "In a business context, a company's philosophy often shapes its culture, values, and strategic direction, influencing everything from employee engagement to customer relations.",
-        "nuance": "The term can imply a deeper, more reflective approach to decision-making, distinguishing it from mere policy or procedure.",
-        "synonyms": [
-          "principle",
-          "doctrine"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "experiment",
-        "definition": "A systematic procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact.",
-        "businessContext": "In startups and tech, 'experiment' often refers to testing new ideas, products, or processes in a controlled way to gather data and inform future decisions.",
-        "nuance": "While 'experiment' suggests a trial-and-error approach, it carries a connotation of innovation and risk-taking, which can be essential in dynamic business environments.",
-        "synonyms": [
-          "trial",
-          "test"
-        ],
-        "antonyms": [
-          "certainty",
-          "N/A"
-        ]
-      },
-      {
-        "word": "causal",
-        "definition": "Relating to or acting as a cause; indicating a relationship where one event or factor leads to another.",
-        "businessContext": "In business analytics, understanding causal relationships is crucial for determining the impact of specific actions on outcomes, such as how marketing efforts influence sales.",
-        "nuance": "The term 'causal' implies a direct link, so it should be used when there is clear evidence of one factor influencing another, avoiding ambiguity.",
-        "synonyms": [
-          "causative",
-          "contributory"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "The thing that I do a lot, that we do as my team, that others do to some degree is a simple exercise of weekly focus. What are you focused on this week?",
@@ -531,8 +358,6 @@
     "timestamp": "01:03:11",
     "context": "Lenny asks Tim about frameworks or processes he finds particularly useful that listeners might find valuable. Tim describes a simple but effective weekly focus exercise where team members identify their key priorities for the week and then reflect on whether they accomplished the previous week's focus areas. He emphasizes that while this seems basic, the act of writing down priorities and sharing them publicly creates accountability and helps people recognize patterns in their work habits and time estimation over time.",
     "vocabulary_highlights": [
-      "frameworks",
-      "processes",
       "focus",
       "exercise"
     ],
@@ -547,42 +372,14 @@
       "Product Management",
       "Leadership Development"
     ],
-    "text_ko": "제가 자주 하고 우리 팀도 하며 다른 분들도 어느 정도 하는 건 간단한 '주간 집중(weekly focus)' 연습이에요. 이번 주에 무엇에 집중하고 있나요? 그리고 지난주에 집중했던 일들을 끝냈는지 되돌아보는 거예요. 정말 단순해 보이지만, 중요한 게 뭔지 생각하고 적어두고 그걸 다른 사람에게 공유해서 일종의 사회적 증거(social proof)를 만들면 자연스럽게 책임감(accountability)이 생겨요.",
-    "text_zh": "我经常做的一件事，我们团队也在做，其他人或多或少也会做，就是每周聚焦(weekly focus)这个简单的方法。就是问自己这周要专注做什么？然后回头看看，上周定的那些重点事情你到底做完了没有？听起来特别简单，但就是这么个过程——想想什么事情最重要，把它写下来，再跟别人说说或者有点社会证明(social proof)什么的，这就形成了一定程度的accountability，就是那种责任感和约束力。",
-    "text_es": "Lo que yo hago mucho, lo que hacemos en mi equipo, y lo que otros también hacen hasta cierto punto, es un ejercicio súper sencillo de enfoque semanal. ¿En qué te vas a enfocar esta semana? Y luego reflexionar sobre si lograste hacer las cosas en las que te enfocaste la semana pasada. Parece súper básico, pero simplemente el ejercicio de pensar en lo que importa, anotarlo, y tener un poquito de prueba social (social proof) o compartirlo con otros crea cierto nivel de rendición de cuentas (accountability).",
+    "text_ko": "제가 자주 하는 일이고 우리 팀도, 다른 사람들도 어느 정도 하는 건 매주 하는 '주간 집중(weekly focus)' 연습이에요. 이번 주엔 뭐에 집중하고 있어요?",
+    "text_zh": "我常做的一件事——我们团队也在做，别人也常做的——就是个简单的每周聚焦练习：确定本周重点(weekly focus)。你这周在聚焦什么？",
+    "text_es": "Algo que hago mucho, que hacemos en mi equipo y que otros practican en cierta medida, es un ejercicio semanal muy sencillo: ¿en qué te vas a centrar esta semana?",
     "key_sentence": "What are you focused on this week?",
     "text_trimmed": true,
     "original_text": "The thing that I do a lot, that we do as my team, that others do to some degree is a simple exercise of weekly focus. What are you focused on this week? And then reflecting on, did you get done the things you were focused on last week? Seems super simple, but just the exercise of thinking about what matters, writing it down, and having a little bit of social proof or articulating it out to others creates some degree of accountability.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "frameworks",
-        "definition": "Frameworks are structured systems or guidelines that provide a foundational basis for organizing and implementing processes or strategies. They help in establishing a common understanding and approach to complex tasks.",
-        "businessContext": "In business and tech, frameworks are often used to guide project management, software development, and strategic planning, ensuring that teams align their efforts with established best practices.",
-        "nuance": "The term 'frameworks' often implies a level of flexibility within a structured approach, making it suitable for dynamic environments; however, it can also suggest rigidity if misapplied.",
-        "synonyms": [
-          "structures",
-          "models"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
-      },
-      {
-        "word": "processes",
-        "definition": "Processes refer to a series of actions or steps taken in order to achieve a particular end. They are systematic and repeatable, often designed to improve efficiency and effectiveness.",
-        "businessContext": "In a business context, processes are critical for operational efficiency, quality control, and achieving consistent outcomes across various functions, such as production, sales, and customer service.",
-        "nuance": "While 'processes' suggest a methodical approach, over-reliance on rigid processes can stifle innovation and adaptability in fast-paced environments.",
-        "synonyms": [
-          "procedures",
-          "workflows"
-        ],
-        "antonyms": [
-          "improvisation",
-          "spontaneity"
-        ]
-      },
       {
         "word": "focus",
         "definition": "Focus refers to the concentration of attention or effort on a specific task or objective. It is essential for achieving clarity and direction in work.",
@@ -611,6 +408,8 @@
           "inaction"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

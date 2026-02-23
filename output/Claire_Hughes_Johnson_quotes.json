@@ -5,10 +5,7 @@
     "timestamp": "00:00:00",
     "context": "Lenny asks Claire for her insights on decision-making within a company. Claire emphasizes the importance of taking initiative in decision-making, suggesting that many employees often overlook their own authority. She encourages individuals to actively engage in the decision-making process, as hesitance can hinder company progress and momentum.",
     "vocabulary_highlights": [
-      "decision maker",
-      "take initiative",
-      "slow down",
-      "overlook"
+      "decision maker"
     ],
     "topics": [
       "Decision Making",
@@ -21,9 +18,9 @@
       "Operations",
       "Leadership Development"
     ],
-    "text_ko": "결정권자가 누구인지 잘 모르겠다면, 아마도 그게 당신일 거예요. 그런 역할을 하는 게 더 낫고, 그렇지 않으면 회사 전체가 느려질 거예요. 과정을 따라가고 일을 마무리 짓는 게 중요해요. 그리고 실제로 결정을 내리는 걸 잊지 마세요.",
-    "text_zh": "如果你不确定谁是决策者，首先，很可能就是你。我宁愿你以决策者的身份行事，而不是不作为，因为这会拖慢整个公司的进程。遵循流程，完成任务，别忘了真正做出决策。",
-    "text_es": "Si no estás seguro de quién es el tomador de decisiones, probablemente seas tú. Y prefiero que actúes como tal en lugar de no hacerlo, porque eso solo va a ralentizar a toda la empresa. Sigue un proceso, concluye y no olvides tomar una decisión.",
+    "text_ko": "누가 의사결정자(decision maker)인지 잘 모르겠다면, 일단 그게 아마 당신일 거예요. 그리고 그렇게 행동하는 편이 안 하는 것보다 나아요. 안 그러면 회사 전체가 느려질 테니까요.",
+    "text_zh": "如果你不确定谁是决策者，那很可能就是你。我宁愿你主动承担这个责任，也不愿意看到你因为犹豫不决而拖累整个公司的节奏。",
+    "text_es": "Si no tienes claro quién toma las decisiones, probablemente seas tú. Y prefiero que actúes así a que no hagas nada, porque si no vas a frenar a toda la empresa.",
     "key_sentence": "You're probably the decision maker; act to avoid slowing the whole company down.",
     "text_trimmed": true,
     "original_text": "If you're not sure who the decision maker is, one, it's probably you. And I'd rather you act that way than not because you're going to slow the whole company down. Follow a process and get it done, and don't forget to actually make a decision.",
@@ -42,50 +39,10 @@
           "follower",
           "N/A"
         ]
-      },
-      {
-        "word": "take initiative",
-        "definition": "To take initiative means to act independently and proactively to address a situation or to start a project without being prompted by others.",
-        "businessContext": "In a business environment, taking initiative is highly valued as it demonstrates leadership qualities and a commitment to driving progress and innovation.",
-        "nuance": "While taking initiative is generally positive, it is important to ensure that actions align with organizational goals and do not overstep boundaries.",
-        "synonyms": [
-          "be proactive",
-          "act independently"
-        ],
-        "antonyms": [
-          "wait for instructions",
-          "N/A"
-        ]
-      },
-      {
-        "word": "slow down",
-        "definition": "To slow down means to reduce speed or pace, often in the context of work processes or decision-making.",
-        "businessContext": "In business, slowing down can refer to the need to take more time to evaluate decisions thoroughly, which can prevent hasty mistakes but may also hinder progress if overdone.",
-        "nuance": "While slowing down can be beneficial for careful consideration, it can also be perceived negatively if it leads to inefficiency or missed opportunities.",
-        "synonyms": [
-          "decelerate",
-          "pause"
-        ],
-        "antonyms": [
-          "accelerate",
-          "hasten"
-        ]
-      },
-      {
-        "word": "overlook",
-        "definition": "To overlook means to fail to notice or consider something, often resulting in a missed opportunity or error.",
-        "businessContext": "In a business context, overlooking critical details can lead to significant consequences, such as flawed strategies or unsatisfactory outcomes.",
-        "nuance": "Overlook is often used in a negative context, implying negligence or carelessness, and should be avoided when discussing thoroughness and attention to detail.",
-        "synonyms": [
-          "neglect",
-          "miss"
-        ],
-        "antonyms": [
-          "notice",
-          "acknowledge"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "If you believe that talent is everything, then your hiring process is everything. So yes, you do need to put that work in.",
@@ -93,10 +50,7 @@
     "timestamp": "00:06:20",
     "context": "Lenny inquires about the significance of the hiring process. Claire asserts that if a company's success hinges on talent, then the hiring process must be meticulously crafted and executed. She reinforces the idea that investing time and effort in refining hiring practices is essential for building a strong team and ultimately achieving company goals.",
     "vocabulary_highlights": [
-      "hiring process",
-      "significance",
-      "meticulously",
-      "crafted"
+      "hiring process"
     ],
     "topics": [
       "Career Development",
@@ -128,50 +82,9 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "significance",
-        "definition": "The quality of being worthy of attention; importance.",
-        "businessContext": "In business discussions, understanding the significance of a decision or event can influence strategic planning and resource allocation.",
-        "nuance": "This term often carries a weight of consequence, suggesting that the matter at hand has a substantial impact on outcomes or future actions.",
-        "synonyms": [
-          "importance",
-          "relevance"
-        ],
-        "antonyms": [
-          "insignificance",
-          "triviality"
-        ]
-      },
-      {
-        "word": "meticulously",
-        "definition": "In a way that shows great attention to detail; very thoroughly.",
-        "businessContext": "Meticulously planning projects or processes in a business context can lead to higher quality outcomes and minimize errors.",
-        "nuance": "This adverb conveys a sense of care and precision, often used to highlight the importance of thoroughness in tasks that require accuracy.",
-        "synonyms": [
-          "carefully",
-          "diligently"
-        ],
-        "antonyms": [
-          "carelessly",
-          "negligently"
-        ]
-      },
-      {
-        "word": "crafted",
-        "definition": "Skillfully created or constructed with care and attention to detail.",
-        "businessContext": "In business, products, marketing materials, or strategies that are well-crafted can significantly enhance brand perception and customer engagement.",
-        "nuance": "This term often implies a level of artistry or skill, suggesting that the item or concept was not just produced, but thoughtfully designed.",
-        "synonyms": [
-          "designed",
-          "fashioned"
-        ],
-        "antonyms": [
-          "botched",
-          "clumsily made"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "You have the supporting beam. Say it's a post and beam structure. You need the posts and the beams, and then you're going to have to do the mechanicals, right? There's going to have to be some amount of wiring in order for you...",
@@ -181,7 +94,6 @@
     "vocabulary_highlights": [
       "supporting beam",
       "mechanicals",
-      "foundation",
       "structure"
     ],
     "topics": [
@@ -195,9 +107,9 @@
       "Operations",
       "Leadership Development"
     ],
-    "text_ko": "지지 기둥이 필요해요. 예를 들어, 포스트 앤 빔(post and beam) 구조라면 기둥과 보가 필요하고, 그 다음에 기계적인 부분도 신경 써야 해요. 전선 같은 것도 어느 정도 필요할 거고요. 저는 기둥과 보, 기계적 요소, 그리고 기초를 세우는 게 실제로 확장(scale)하는 데 필수적이라고 생각해요.",
-    "text_zh": "您需要支撑梁。假设这是一个柱梁结构，您需要柱子和梁，然后还需要进行机械安装，对吧？为了实现这一点，必须进行一定程度的布线。我认为安装柱子、梁、机械设备和基础对于实现规模化是至关重要的。",
-    "text_es": "Tienes la viga de soporte. Digamos que es una estructura de postes y vigas. Necesitas los postes y las vigas, y luego tendrás que hacer la parte mecánica, ¿verdad? Va a tener que haber cierta cantidad de cableado para que tú... Pienso que la instalación de los postes, las vigas, los sistemas mecánicos y la fundación es realmente esencial para escalar.",
+    "text_ko": "지지보(supporting beam)가 있어요. 기둥과 보로 이뤄진 구조(post-and-beam structure)라고 하면, 기둥과 보가 필요하고 그다음엔 기계 설비(mechanicals) 작업도 해야 해요. 전기 배선(wiring)도 어느 정도는 들어가야 할 거예요...",
+    "text_zh": "你有了承重梁，比如说是柱梁结构吧。你需要柱子和梁，然后还得搞机电设备，对吧？肯定要走一些线路才能让你...",
+    "text_es": "Tienes la viga de soporte. Digamos que es una estructura de postes y vigas. Necesitas los postes y las vigas, y después vas a tener que hacer las instalaciones, ¿no? Va a tener que haber algo de cableado para que tú...",
     "key_sentence": "Posts, beams, and mechanicals are essential to scale.",
     "text_trimmed": true,
     "original_text": "You have the supporting beam. Say it's a post and beam structure. You need the posts and the beams, and then you're going to have to do the mechanicals, right? There's going to have to be some amount of wiring in order for you... I think of putting in the posts and beams and the mechanicals and the foundation as actually essential to scale.",
@@ -232,20 +144,6 @@
         ]
       },
       {
-        "word": "foundation",
-        "definition": "The foundation is the lowest load-bearing part of a building, typically below ground level, which supports the entire structure and distributes its weight to the ground.",
-        "businessContext": "In real estate and construction, the foundation is a key factor in project feasibility studies, as it affects both the cost and safety of the building.",
-        "nuance": "The term can also metaphorically refer to the underlying principles or basis of a business model or strategy, indicating its importance in overall stability.",
-        "synonyms": [
-          "base",
-          "substructure"
-        ],
-        "antonyms": [
-          "superstructure",
-          "N/A"
-        ]
-      },
-      {
         "word": "structure",
         "definition": "A structure is a constructed entity that provides support and stability, typically referring to buildings, bridges, and other physical forms.",
         "businessContext": "In project management and architecture, the term structure is used to describe the organization of physical and operational elements, which is essential for effective planning and execution.",
@@ -259,7 +157,9 @@
           "disorganization"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The concept is the following, which is when you yank people out of their day-to-day routine, you create space, and also you imprint memory.",
@@ -269,7 +169,6 @@
     "vocabulary_highlights": [
       "create space",
       "imprint memory",
-      "engage creatively",
       "day-to-day routine"
     ],
     "topics": [
@@ -283,9 +182,9 @@
       "Operations",
       "Leadership Development"
     ],
-    "text_ko": "사람들을 일상에서 잠깐 떼어내면 새로운 공간이 생기고 기억이 남게 돼요. 그래서 '오늘이나 내일은 아주 다른 방식으로 시간을 보낼 거예요. 이메일도 안 하고, 정기 회의도 없고, 함께 앉아서 브레인스토밍을 할 거예요'라고 말하면, 사실 그들의 뇌의 새로운 부분을 활성화시키는 거예요.",
-    "text_zh": "这个概念是，当你把人们从日常生活中抽离出来时，你就创造了空间，同时也留下了记忆。因此，如果你说：“今天或接下来的两天我们将以非常不同的方式利用时间，我们不做邮件，不开常规会议，而是一起坐下来合作，进行头脑风暴”，你实际上是在激活他们大脑中的新区域。",
-    "text_es": "El concepto es el siguiente: cuando sacas a las personas de su rutina diaria, creas un espacio y también dejas una huella en la memoria. Así que si dices: 'Hoy o durante los próximos dos días vamos a hacer algo muy diferente con su tiempo, no vamos a revisar correos electrónicos, no vamos a tener nuestras reuniones habituales, vamos a sentarnos a trabajar juntos, vamos a hacer una lluvia de ideas', estás activando nuevas partes de su cerebro.",
+    "text_ko": "핵심은 이거예요. 사람들을 일상에서 확 끌어내면 여지가 생기고 기억에 각인돼요.",
+    "text_zh": "道理是这样的，当你把人从日常的例行公事中拉出来的时候，就给他们创造了空间，同时也让他们印象更深刻。",
+    "text_es": "El concepto es el siguiente: cuando sacas a la gente de su rutina diaria, creas espacio y además generas memoria duradera.",
     "key_sentence": "when you yank people out of their day-to-day routine, you create space, and also you imprint memory.",
     "text_trimmed": true,
     "original_text": "The concept is the following, which is when you yank people out of their day-to-day routine, you create space, and also you imprint memory. And so if you say, 'We're going to do a very different thing with your time today or the next two days, we're not going to do our emails, we're not going to do our regular meetings, we are going to sit and work together, we're going to brainstorm,' you're basically activating new parts of their brain.",
@@ -320,20 +219,6 @@
         ]
       },
       {
-        "word": "engage creatively",
-        "definition": "To involve oneself or others in a process that stimulates innovative thinking and artistic expression.",
-        "businessContext": "In a corporate setting, engaging creatively can lead to the development of unique solutions and products, enhancing team collaboration and problem-solving.",
-        "nuance": "This phrase suggests an active and dynamic involvement in creative processes, rather than a passive or routine participation.",
-        "synonyms": [
-          "inspire innovation",
-          "foster creativity"
-        ],
-        "antonyms": [
-          "suppress creativity",
-          "stifle innovation"
-        ]
-      },
-      {
         "word": "day-to-day routine",
         "definition": "The regular, habitual activities and tasks that one engages in on a daily basis.",
         "businessContext": "Understanding day-to-day routines is essential for managers to identify areas for improvement and efficiency within teams and workflows.",
@@ -347,7 +232,9 @@
           "variety"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think the main thing is, and Fred Kaufman has this in his book, Conscious Business, this concept of a left-hand column, which is you're in a dialogue with me or you're watching a meeting happen, and you've got a running commentary in your head.",
@@ -357,8 +244,7 @@
     "vocabulary_highlights": [
       "dialogue",
       "commentary",
-      "concept",
-      "internal"
+      "concept"
     ],
     "topics": [
       "Communication Skills",
@@ -418,22 +304,9 @@
           "reality",
           "fact"
         ]
-      },
-      {
-        "word": "internal",
-        "definition": "Relating to or located within an organization, system, or entity, as opposed to external factors or influences.",
-        "businessContext": "In a business context, 'internal' often refers to processes, communications, or resources that are managed within the organization, such as internal audits or employee relations.",
-        "nuance": "The term 'internal' can imply a focus on the organization's own dynamics and culture, which may differ significantly from external market conditions.",
-        "synonyms": [
-          "intrinsic",
-          "domestic"
-        ],
-        "antonyms": [
-          "external",
-          "outward"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "The other thing is, in the book, I talk about this framework that Bezos uses, type one, type two decisions. Is it high impact? Is it irreversible? Is it not? Really evaluate, what kind of decision is this? How hard is it?",

@@ -4,12 +4,7 @@
     "speaker": "Ben Horowitz",
     "timestamp": "00:00:29",
     "context": "Lenny asks Ben about the difficulty and pain of being a CEO and why so many people still want to start companies despite this reality. Ben explains that leaders must develop the psychological strength to make extremely difficult decisions where all options appear terrible. He emphasizes that true leadership value comes from making unpopular but necessary decisions that others wouldn't make on their own.",
-    "vocabulary_highlights": [
-      "psychological strength",
-      "navigate",
-      "develop",
-      "leadership"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Leadership & Management",
       "Decision Making"
@@ -21,71 +16,16 @@
       "Product Management",
       "Company Building"
     ],
-    "text_ko": "훌륭한 리더가 되려면 심리적 근육(psychological muscle)을 길러야 해요. 깊은 불확실성 속에서도 딱 결정을 내려서 “음, 저쪽이 조금 더 낫네요. 그쪽으로 가겠습니다”라고 말할 수 있어야 해요. 만약 모두가 그 결정에 동의했다면 당신은 아무런 가치를 더한 게 아니에요—그 사람들이 당신 없이도 그렇게 했을 테니까요. 그래서 리더로서 진짜 가치를 만드는 건 대부분의 사람들이 좋아하지 않는 결정을 내릴 때뿐이에요.",
-    "text_zh": "要成为优秀领导者，你得练就一种心理素质——就是在一片迷茫中还能拍板：\"好，那个方向稍微好一点，咱们就往那边走。\"如果所有人都同意你的决定，那说明你其实没创造什么价值，因为没有你他们也会这么做。所以你真正的价值就体现在——当你做出大多数人都不太认同的决定时。",
-    "text_es": "El músculo psicológico que tienes que desarrollar para ser un gran líder es poder quedarte ahí en el abismo y decir: \"Bueno, por ahí se ve un poquito mejor. Vamos por ese lado.\" Si todo el mundo está de acuerdo con tu decisión, entonces no aportaste nada porque lo habrían hecho sin ti. Así que el único valor que realmente agregas es cuando tomas una decisión que a la mayoría no le gusta.",
+    "text_ko": "훌륭한 리더가 되려면 길러야 할 심리적 근육(psychological muscle)이 있어요. 그건 불확실한 심연에서 '클릭'하듯(click in the abyss) 결단을 내리고, \"좋아요, 저쪽이 조금 더 나아 보이네요. 그쪽으로 갈게요\"라고 말할 수 있는 능력이에요.",
+    "text_zh": "要成为优秀领导者，你得练就这样的心理素质：即使在最绝望的时候，也能瞬间调整状态，然后说\"好，那个方向稍微好一点，我们就往那边走。\"",
+    "text_es": "El músculo psicológico que tienes que desarrollar para ser un gran líder es poder hacer clic en el abismo y decir: \"Bueno, por ahí se ve un poco mejor. Vamos por ese camino.\"",
     "key_sentence": "the psychological muscle you have to build to be a great leader is to be able to click in the abyss",
     "text_trimmed": true,
     "original_text": "The psychological muscle you have to build to be a great leader is to be able to click in the abyss and go, 'Okay, that way's slightly better. We're going to go that way. If everybody agrees with the decision, then you didn't add any value because they would've done that without you.' So the only value you ever add is when you make a decision that most people don't like.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "psychological strength",
-        "definition": "The mental resilience and emotional fortitude that enables individuals to cope with challenges and stress effectively.",
-        "businessContext": "In business, psychological strength is crucial for leaders to make tough decisions and inspire their teams during uncertain times.",
-        "nuance": "This term often implies a deeper, intrinsic ability to withstand pressure, rather than just surface-level confidence.",
-        "synonyms": [
-          "mental resilience",
-          "emotional fortitude"
-        ],
-        "antonyms": [
-          "vulnerability",
-          "weakness"
-        ]
-      },
-      {
-        "word": "navigate",
-        "definition": "To plan and direct the course of an action or process, often involving complex decision-making and problem-solving.",
-        "businessContext": "In a business context, leaders must navigate market changes, team dynamics, and strategic challenges to achieve organizational goals.",
-        "nuance": "While it can refer to physical movement, in business it often connotes strategic thinking and adaptability in uncertain environments.",
-        "synonyms": [
-          "steer",
-          "maneuver"
-        ],
-        "antonyms": [
-          "mismanage",
-          "ignore"
-        ]
-      },
-      {
-        "word": "develop",
-        "definition": "To grow or cause to grow and become more mature, advanced, or elaborate, often through a process of improvement or innovation.",
-        "businessContext": "In startups, developing a product or service involves iterative processes of design, testing, and refinement to meet market needs.",
-        "nuance": "This term can imply a gradual process of enhancement rather than immediate change, and is often associated with positive growth.",
-        "synonyms": [
-          "cultivate",
-          "enhance"
-        ],
-        "antonyms": [
-          "stagnate",
-          "deteriorate"
-        ]
-      },
-      {
-        "word": "leadership",
-        "definition": "The action of leading a group or organization, characterized by the ability to influence and guide others towards achieving common goals.",
-        "businessContext": "Effective leadership in business involves not only directing teams but also inspiring and motivating employees to reach their full potential.",
-        "nuance": "This term encompasses various styles and approaches, and can imply both formal authority and informal influence within an organization.",
-        "synonyms": [
-          "guidance",
-          "management"
-        ],
-        "antonyms": [
-          "followership",
-          "subordination"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "What I was trying to get out in Good Product Manager, Bad Product Manager, was the job is fundamentally a leadership job. And it's a tricky leadership job because nobody is actually reporting to you.",
@@ -179,10 +119,7 @@
     "timestamp": "00:00:00",
     "context": "Ben is discussing the importance of running towards fear and making difficult decisions as a leader, even when both available options seem terrible. He shares a personal example from his CEO experience where he had to choose between two bad alternatives. Ben explains that hesitation is the worst thing a leader can do, and sometimes you must choose the less terrible option even when it will result in harsh criticism.",
     "vocabulary_highlights": [
-      "trailing revenue",
-      "bankrupt",
-      "difficult decisions",
-      "running towards fear"
+      "bankrupt"
     ],
     "topics": [
       "Leadership & Management",
@@ -203,20 +140,6 @@
     "vocab_reparsed": true,
     "vocabulary": [
       {
-        "word": "trailing revenue",
-        "definition": "Trailing revenue refers to the total revenue generated by a company over a specified period, typically the last twelve months.",
-        "businessContext": "In business and finance, trailing revenue is often used to assess a company's performance and growth potential, particularly when evaluating startups or companies preparing for an initial public offering (IPO).",
-        "nuance": "This term often carries a connotation of caution, as it reflects past performance rather than future potential, making it crucial for investors to consider alongside other metrics.",
-        "synonyms": [
-          "historical revenue",
-          "past revenue"
-        ],
-        "antonyms": [
-          "projected revenue",
-          "future revenue"
-        ]
-      },
-      {
         "word": "bankrupt",
         "definition": "Bankrupt refers to a legal status of a person or organization that cannot repay the debts it owes to creditors.",
         "businessContext": "In the business world, declaring bankruptcy can lead to liquidation or reorganization, impacting stakeholders, employees, and the overall market perception of the company.",
@@ -229,36 +152,9 @@
           "solvent",
           "prosperous"
         ]
-      },
-      {
-        "word": "difficult decisions",
-        "definition": "Difficult decisions are choices that involve significant uncertainty, risk, or potential negative consequences, often requiring careful consideration and analysis.",
-        "businessContext": "In business, leaders frequently face difficult decisions that can affect the direction of the company, resource allocation, and employee welfare, necessitating a balance between short-term and long-term impacts.",
-        "nuance": "This phrase often implies a moral or ethical dimension, suggesting that the decision-maker may face conflicting values or priorities.",
-        "synonyms": [
-          "challenging choices",
-          "tough calls"
-        ],
-        "antonyms": [
-          "easy decisions",
-          "clear choices"
-        ]
-      },
-      {
-        "word": "running towards fear",
-        "definition": "Running towards fear is a metaphorical expression that describes the act of confronting one's fears or challenges head-on rather than avoiding them.",
-        "businessContext": "In the context of business and entrepreneurship, this phrase emphasizes the importance of resilience and proactive problem-solving in the face of uncertainty or adversity.",
-        "nuance": "This expression carries a motivational connotation, suggesting that embracing fear can lead to growth and innovation, making it a powerful concept in leadership and personal development.",
-        "synonyms": [
-          "embracing challenges",
-          "confronting fears"
-        ],
-        "antonyms": [
-          "avoiding fear",
-          "running away from challenges"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "The only reason to start a company is because you have an irrational desire to do so, because it's not worth the money.",
@@ -267,9 +163,7 @@
     "context": "Lenny asks Ben who should not start companies and what advice he gives to people considering entrepreneurship who may not understand what they're getting into. Ben shares wisdom from John Reed, former CEO of Citigroup, about the true motivation needed for starting a company. He emphasizes that founders need a deeper purpose beyond financial gain to survive the inevitable challenges of building a company.",
     "vocabulary_highlights": [
       "irrational",
-      "entrepreneurship",
-      "worth",
-      "advice"
+      "worth"
     ],
     "topics": [
       "Starting a Company",
@@ -282,9 +176,9 @@
       "Product Management",
       "Company Building"
     ],
-    "text_ko": "창업을 하는 유일한 이유는 그걸 하고 싶다는 비합리적인 열망이 있어서예요. 돈 때문에 할 일은 아니거든요. 돈을 목적으로 한다면 그건 아주 나쁜 이유이고 원하는 성과를 얻기 굉장히 어려울 거예요.",
-    "text_zh": "创业的唯一理由就是你有一种说不上来的冲动想去做这件事，因为单纯为了赚钱的话根本不值得。所以我觉得如果你是冲着钱去的，那动机就很有问题，最后也很难有什么好结果。",
-    "text_es": "La única razón para montar una empresa es porque tienes unas ganas irracionales de hacerlo, porque por la plata no vale la pena. Así que creo que si lo haces por el dinero, es una razón muy mala y va a ser súper difícil que logres buenos resultados.",
+    "text_ko": "회사를 시작하는 유일한 이유는 돈 때문이 아니라, 돈으로 보상할 수 없을 만큼 도무지 떨쳐낼 수 없는 비합리적인 열망이 있기 때문이에요.",
+    "text_zh": "创业的唯一理由就是你有一种说不清道不明的冲动想去做这件事，因为单纯为了赚钱的话根本不值得。",
+    "text_es": "La única razón para montar una empresa es porque tienes unas ganas irracionales de hacerlo, porque por dinero no vale la pena.",
     "key_sentence": "An irrational desire to start a company is essential to get you an outcome.",
     "text_trimmed": true,
     "original_text": "The only reason to start a company is because you have an irrational desire to do so, because it's not worth the money. So I think if you're doing it for the money, that's a very bad reason and it will be extremely difficult to get you an outcome.",
@@ -305,20 +199,6 @@
         ]
       },
       {
-        "word": "entrepreneurship",
-        "definition": "The process of starting and managing a new business venture, often characterized by innovation and risk-taking.",
-        "businessContext": "Entrepreneurship is central to the startup ecosystem, where individuals create new products or services to meet market needs, often with limited resources.",
-        "nuance": "The term can carry a positive connotation of creativity and initiative, but it may also imply the challenges and failures that accompany new ventures.",
-        "synonyms": [
-          "business creation",
-          "venture formation"
-        ],
-        "antonyms": [
-          "employment",
-          "job security"
-        ]
-      },
-      {
         "word": "worth",
         "definition": "The value or importance of something, often measured in terms of financial return or utility.",
         "businessContext": "In business, 'worth' can refer to the valuation of a company, its assets, or the potential return on investment for stakeholders.",
@@ -331,22 +211,10 @@
           "worthlessness",
           "insignificance"
         ]
-      },
-      {
-        "word": "advice",
-        "definition": "Guidance or recommendations offered with regard to prudent future action.",
-        "businessContext": "In a business setting, advice can come from mentors, consultants, or peers and is crucial for decision-making and strategic planning.",
-        "nuance": "The term suggests a level of expertise or experience, and while it is generally positive, it can be perceived as unwelcome or intrusive if unsolicited.",
-        "synonyms": [
-          "guidance",
-          "counsel"
-        ],
-        "antonyms": [
-          "misguidance",
-          "misadvice"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "You don't make people great. You find people that make you great, that make the company great, that you learned from, not the other way around.",
@@ -354,8 +222,6 @@
     "timestamp": "00:25:00",
     "context": "Lenny shares a story from Ali Ghodsi (CEO of Databricks) about advice Ben gave him when he became CEO regarding low performers on his team. Ben explains the concept of 'managerial leverage' - the difference between spending time developing people versus finding people who can drive the company forward independently. He emphasizes that as a CEO, you should focus on hiring people who can teach you and push the company forward, rather than trying to coach people in areas where you lack expertise.",
     "vocabulary_highlights": [
-      "managerial leverage",
-      "low performers",
       "great",
       "learned from"
     ],
@@ -370,42 +236,14 @@
       "Product Management",
       "Company Building"
     ],
-    "text_ko": "사람을 훌륭하게 만드는 건 당신이 아니에요. 대신 당신이 할 일은 당신을 훌륭하게 만드는 사람들, 회사를 훌륭하게 만드는 사람들, 그리고 당신이 배울 사람들을 찾아내는 거예요. 그 반대가 아니에요. 진짜 레버리지(leverage)는 당신이 뭘 해야 하는지, 어떻게 회사를 앞으로 이끌어갈 수 있는지 제게 말해주는 사람이에요. 그게 레버리지예요. 그러면 당신이 없었더라면 못 얻었을 더 많은 가치를 제가 얻게 되는 거죠.",
-    "text_zh": "你不是去培养牛人，而是要找到那些能让你变牛、让公司变牛的人，你要从他们身上学东西，而不是反过来。真正的杠杆效应(leverage)是什么？就是你能告诉我该怎么做，怎么推动公司往前走，这才叫杠杆效应，这样我得到的价值比没有你的时候要大得多。",
-    "text_es": "No haces grande a la gente. Encuentras a personas que te hacen grande a ti, que hacen grande a la empresa, personas de las que tú aprendes, no al revés. Lo que realmente tiene valor es cuando tú me dices qué deberíamos hacer y cómo puedes impulsar la empresa hacia adelante, eso sí es apalancamiento (leverage), ahí es cuando obtengo más de lo que tendría si tú no estuvieras.",
+    "text_ko": "사람을 위대하게 만드는 건 당신이 하는 일이 아니에요. 중요한 건 당신을 위대하게 만들어 주는 사람들, 회사를 위대하게 만들어 주는 사람들, 그리고 당신이 배운 사람들을 찾아내는 거예요. 그 반대가 아니에요.",
+    "text_zh": "你不是去培养牛人，而是要找到那些能让你变得更厉害、让公司变得更强的人，是你从他们身上学东西，不是反过来。",
+    "text_es": "No es que tú hagas grande a la gente. Lo que tienes que hacer es encontrar gente que te haga grande a ti, que haga grande a la empresa, gente de la que tú aprendas, no al revés.",
     "key_sentence": "You find people that make you great, that make the company great, that you learned from, not the other way around.",
     "text_trimmed": true,
     "original_text": "You don't make people great. You find people that make you great, that make the company great, that you learned from, not the other way around. What's leverage is if you're telling me what you should do and how you can push the company forward, that's leverage, then I'm getting more than I'd have if you weren't there.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "managerial leverage",
-        "definition": "The ability of managers to influence and optimize resources, including human capital, to achieve greater organizational effectiveness and efficiency.",
-        "businessContext": "In business settings, managerial leverage is crucial for maximizing productivity and ensuring that teams operate at their highest potential, often through strategic delegation and resource allocation.",
-        "nuance": "This term often implies a strategic advantage in leadership and decision-making, emphasizing the importance of effective management over mere authority.",
-        "synonyms": [
-          "managerial influence",
-          "operational leverage"
-        ],
-        "antonyms": [
-          "managerial ineffectiveness",
-          "operational weakness"
-        ]
-      },
-      {
-        "word": "low performers",
-        "definition": "Employees or team members whose output, productivity, or contributions are significantly below the expected standards or benchmarks.",
-        "businessContext": "Identifying low performers is essential in business environments for implementing performance improvement plans, reallocating resources, or making personnel decisions to enhance overall team effectiveness.",
-        "nuance": "While the term is often used in performance evaluations, it can carry a negative connotation and may overlook underlying issues affecting performance.",
-        "synonyms": [
-          "underperformers",
-          "ineffective employees"
-        ],
-        "antonyms": [
-          "high performers",
-          "top achievers"
-        ]
-      },
       {
         "word": "great",
         "definition": "Of an exceptionally high quality, standard, or degree; often used to describe individuals, teams, or outcomes that exceed expectations.",
@@ -434,7 +272,9 @@
           "ignored"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "There's a very consistent thing that happens, which is when somebody doesn't make it and it kind of starts with confidence is the way I would put it. And then if you lose confidence, what happens is you hesitate on the next decision.",
@@ -529,9 +369,7 @@
     "context": "Lenny asks Ben about the potential AI bubble, referencing Sam Altman's recent comments that 'we're in a big bubble.' Ben analyzes Sam's statement, first noting that it's strategically smart for Sam to say this as a CEO. He then gives his perspective on whether AI is actually in a bubble, explaining that while he doesn't think it's a financial bubble like the dot-com era, there could be competitive disruption due to the immaturity of the technology.",
     "vocabulary_highlights": [
       "landscape",
-      "immature",
-      "potential",
-      "strategically"
+      "immature"
     ],
     "topics": [
       "Growth & Marketing",
@@ -544,9 +382,9 @@
       "Product Management",
       "Company Building"
     ],
-    "text_ko": "샘이 말한 것 중 맞는 건 지금 시장 환경(landscape)이 초기 단계라는 거예요. 정말 초반이에요. 기술(technology)은 아직 많이 미성숙해요. 놀랍게도 잘 작동하긴 하지만 개선할 부분이 훨씬 많아요. 그래서 기술 변화가 그만큼 크면 이 회사들이 높은 매출로 차지한 위치가 오래 유지되기 힘들 수 있어요.",
-    "text_zh": "我觉得Sam说得对的地方在于，这个赛道还很早期，真的是非常早期。技术还很不成熟。虽然现在效果已经很惊人了，但要改进的地方还有很多很多。所以当技术变化这么大的时候，这些公司现在凭借高营收占据的位置很可能是站不住脚的。",
-    "text_es": "Creo que Sam tiene razón en algo: estamos en las primeras etapas, muy temprano todavía. La tecnología está muy verde aún. Por más increíble que funcione, le falta un mundo por mejorar. Entonces es muy probable que con tantos cambios tecnológicos, las posiciones que han logrado estas empresas con sus altos ingresos no sean sostenibles a largo plazo.",
+    "text_ko": "샘이 한 말 중에서 맞는 건 지금 시장(landscape)이 아직 아주 초기 단계라는 점이에요, 정말 초기예요. 기술(technology)도 굉장히 미성숙해요. 작동이 놀라울 만큼 잘 되긴 하지만, 개선해야 할 부분이 훨씬 많이 남아 있어요.",
+    "text_zh": "我觉得Sam说得对的地方是，整个行业还处在很早期的阶段，真的很早期。技术还很不成熟。虽然现在的效果已经很惊艳了，但要真正完善起来还有很长的路要走。",
+    "text_es": "Creo que en lo que Sam tiene razón es que estamos en pañales, súper en pañales. La tecnología está muy verde todavía. Por más increíble que funcione, queda muchísimo camino por recorrer para mejorarla.",
     "key_sentence": "the landscape is early, really early.",
     "text_trimmed": true,
     "original_text": "I think the thing that's right about what Sam is saying is the landscape is early, really early. The technology is very immature. As amazingly as it works, there's a long way to go to improve it. So it's very possible when you have that much technological change, that the positions that these companies have achieved with their high revenue isn't sustainable.",
@@ -579,35 +417,9 @@
           "mature",
           "refined"
         ]
-      },
-      {
-        "word": "potential",
-        "definition": "The inherent ability or capacity for growth, development, or future success in a particular area.",
-        "businessContext": "In business, 'potential' often refers to the anticipated growth or profitability of a market, product, or individual, guiding investment and strategic decisions.",
-        "nuance": "The term 'potential' can be optimistic, suggesting future success, but it may also imply uncertainty if not backed by concrete evidence.",
-        "synonyms": [
-          "capability",
-          "prospect"
-        ],
-        "antonyms": [
-          "limitation",
-          "inability"
-        ]
-      },
-      {
-        "word": "strategically",
-        "definition": "In a manner that is planned or designed to achieve a specific goal or advantage, often involving careful consideration of various factors.",
-        "businessContext": "In business and management, 'strategically' refers to actions or decisions that are aligned with long-term objectives and competitive positioning.",
-        "nuance": "The term suggests a deliberate and thoughtful approach, contrasting with reactive or haphazard decision-making.",
-        "synonyms": [
-          "tactically",
-          "deliberately"
-        ],
-        "antonyms": [
-          "haphazardly",
-          "randomly"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

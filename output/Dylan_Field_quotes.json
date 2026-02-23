@@ -6,8 +6,6 @@
     "context": "Lenny asks Dylan about his superpower of product intuition and taste, comparing him to music producer Rick Rubin who relies on taste rather than technical skills. Dylan explains his framework for how intuition works in product development. He describes intuition not as mystical gut feelings, but as a systematic process of generating ideas that need to be tested and validated through debate and data before becoming actionable strategies.",
     "vocabulary_highlights": [
       "hypothesis generator",
-      "intuitive",
-      "framework",
       "constantly generating"
     ],
     "topics": [
@@ -22,9 +20,9 @@
       "User Experience",
       "B2B SaaS"
     ],
-    "text_ko": "제 생각엔 직관은 가설 생성기(hypothesis generator) 같아요. 우리는 계속해서 이런 가설을 만들어 내고, 다른 사람들도 마찬가지로 가설을 만들어요. 그 가설들을 제시해서 토론하고, 그것들을 지지할 증거나 반박할 데이터를 찾아보는 거예요. 그런 과정을 통해 추려서 우리의 작업 가설(working hypothesis)이 뭔지 정하고, 그걸 바탕으로 앞으로 나아가는 식이에요.",
-    "text_zh": "我觉得直觉就像是个假设生成器，你在不断地产生各种假设，别人也在产生假设。然后你把这些假设拿出来，大家一起讨论辩论，想办法找数据来验证或者推翻它们。最后筛选出我们的工作假设(working hypothesis)，然后基于这个往前推进。",
-    "text_es": "Creo que la intuición es como un generador de hipótesis, ¿no? Constantemente estás generando estas hipótesis y otros también están generando las suyas. Entonces tomas esas hipótesis, las pones sobre la mesa, las debates y tratas de encontrar datos que las respalden o las refuten. Y después vas descartando hasta llegar a cuál es nuestra hipótesis de trabajo. Y de ahí sigues adelante.",
+    "text_ko": "직관은 일종의 가설 생성기(hypothesis generator) 같아요. 우리는 계속 이런 가설들을 만들어내고 있고, 다른 사람들도 마찬가지예요.",
+    "text_zh": "我觉得直觉就像是个假设生成器，你在不断地产生各种假设，别人也在产生假设。",
+    "text_es": "Creo que la intuición es como un generador de hipótesis y constantemente estás creando estas hipótesis mientras otros también están generando las suyas.",
     "key_sentence": "intuition is like a hypothesis generator and you're constantly generating these hypotheses",
     "text_trimmed": true,
     "original_text": "I think intuition is like a hypothesis generator and you're constantly generating these hypotheses and others are generating hypotheses as well. And you then take these hypotheses and you put them forward and you debate them and you try to find data to support them or negate them. And then you winnow it down into what is our working hypothesis? And from that you move forward.",
@@ -45,34 +43,6 @@
         ]
       },
       {
-        "word": "intuitive",
-        "definition": "Intuitive refers to the ability to understand or know something instinctively, without the need for conscious reasoning. It often describes insights or decisions that feel natural or obvious to an individual.",
-        "businessContext": "In the business world, intuitive decision-making is valued for its speed and efficiency, particularly in fast-paced environments where data may be limited or time-sensitive. Leaders often rely on their intuition to guide strategic choices.",
-        "nuance": "While intuition can be a powerful tool, it may also lead to biases; thus, it is important to balance intuitive insights with analytical data.",
-        "synonyms": [
-          "instinctive",
-          "innate"
-        ],
-        "antonyms": [
-          "analytical",
-          "deliberate"
-        ]
-      },
-      {
-        "word": "framework",
-        "definition": "A framework is a structured approach or system that provides a foundation for understanding, analyzing, or addressing a particular issue or concept. It often includes guidelines, principles, and methodologies.",
-        "businessContext": "In business and tech, frameworks are essential for project management, strategic planning, and product development, as they help teams align their efforts and ensure consistency in execution. Popular frameworks include Agile, Lean, and SWOT analysis.",
-        "nuance": "While frameworks can provide clarity and direction, they may also constrain creativity if applied too rigidly; flexibility in their application is often necessary.",
-        "synonyms": [
-          "structure",
-          "model"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
-      },
-      {
         "word": "constantly generating",
         "definition": "Constantly generating refers to the ongoing process of producing or creating ideas, hypotheses, or outputs without interruption. It emphasizes a continuous flow of creativity and innovation.",
         "businessContext": "In a business context, constantly generating ideas is crucial for maintaining competitive advantage and fostering a culture of innovation. Companies often encourage brainstorming sessions and collaborative environments to stimulate this continuous generation of concepts.",
@@ -86,19 +56,16 @@
           "ceasing"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I ask for examples a lot, I try to ask follow up questions about things and make sure I fully understand it.",
     "speaker": "Dylan Field",
     "timestamp": "15:05",
     "context": "Lenny asks Dylan what approaches work best when people try to influence him or change his mind as CEO. Dylan explains his decision-making process, emphasizing that he needs concrete examples and thorough understanding before making important decisions. He describes how he handles situations where teams don't yet have complete information - pausing discussions to gather missing data rather than proceeding with incomplete understanding.",
-    "vocabulary_highlights": [
-      "influence",
-      "decision-making",
-      "concrete",
-      "thorough"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Leadership & Management",
       "Decision Making",
@@ -111,71 +78,16 @@
       "User Experience",
       "B2B SaaS"
     ],
-    "text_ko": "저는 예시를 자주 부탁하고, 관련해서 추가 질문(follow-up questions)을 해서 완전히 이해하려고 해요. 그런데 가끔 막히는 건 추가 질문을 했는데 아직 답이 없을 때예요. 그럴 땐 그게 정말 중요하다고 생각하면 \"이 질문들에 대한 답을 찾아보고 다시 이 대화로 돌아가요\"라고 말하곤 해요.",
-    "text_zh": "我经常会要求举例子，会追问各种细节，确保自己完全搞明白。我觉得有时候卡住的地方就是，当我追问下去发现大家都没有答案的时候，我可能会说\"咱们先去把这些问题的答案找出来，然后再回过头来聊这个话题\"，特别是我觉得这个问题很重要的时候。",
-    "text_es": "Yo pregunto por ejemplos constantemente, trato de hacer preguntas de seguimiento sobre las cosas y asegurarme de que realmente lo entiendo todo. Y creo que donde a veces me quedo atascado es cuando hago estas preguntas de seguimiento y todavía no tenemos las respuestas, entonces mi respuesta suele ser: \"Vamos a buscar las respuestas a estas preguntas y después retomamos esta conversación\", si creo que es algo realmente importante.",
+    "text_ko": "저는 예시를 많이 달라고 하고, 궁금한 건 추가로 질문해서 확실히 이해하려고 해요.",
+    "text_zh": "我经常会要求举例子，还会追问很多细节问题，确保自己真正理解透了。",
+    "text_es": "Siempre pido ejemplos, trato de hacer preguntas de seguimiento sobre las cosas y asegurarme de que lo entiendo completamente.",
     "key_sentence": "I try to ask follow up questions about things and make sure I fully understand it.",
     "text_trimmed": true,
     "original_text": "I ask for examples a lot, I try to ask follow up questions about things and make sure I fully understand it. And I think where I get stuck sometimes is if I ask follow up questions and we don't have answers yet, and then my response might be, 'Let's go find the answer to these questions and then let's go back to this conversation', if I think it's something that's really important.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "influence",
-        "definition": "The capacity to have an effect on the character, development, or behavior of someone or something.",
-        "businessContext": "In business, influence often refers to the ability to sway decisions, opinions, or actions of colleagues, clients, or stakeholders, which is crucial for leadership and negotiation.",
-        "nuance": "While influence can be positive or negative, it is often viewed favorably when it leads to beneficial outcomes for the organization.",
-        "synonyms": [
-          "impact",
-          "sway"
-        ],
-        "antonyms": [
-          "powerlessness",
-          "insignificance"
-        ]
-      },
-      {
-        "word": "decision-making",
-        "definition": "The process of making choices by identifying a decision, gathering information, and assessing alternative resolutions.",
-        "businessContext": "Effective decision-making is vital in business environments, as it directly affects strategy, operations, and overall success, often involving data analysis and team input.",
-        "nuance": "The term implies a systematic approach and can vary in complexity from simple choices to intricate strategic decisions.",
-        "synonyms": [
-          "choice-making",
-          "judgment"
-        ],
-        "antonyms": [
-          "indecision",
-          "hesitation"
-        ]
-      },
-      {
-        "word": "concrete",
-        "definition": "Existing in a material or physical form; not abstract.",
-        "businessContext": "In business discussions, concrete examples or data are essential for illustrating points, supporting arguments, and ensuring clarity in communication.",
-        "nuance": "The term suggests specificity and clarity, contrasting with vague or abstract concepts that may lead to misunderstandings.",
-        "synonyms": [
-          "tangible",
-          "definite"
-        ],
-        "antonyms": [
-          "abstract",
-          "vague"
-        ]
-      },
-      {
-        "word": "thorough",
-        "definition": "Complete with regard to every detail; not superficial or partial.",
-        "businessContext": "A thorough approach in business often refers to comprehensive analysis, planning, or execution, ensuring that all aspects are considered to minimize risks and maximize effectiveness.",
-        "nuance": "While thoroughness is generally positive, it can sometimes lead to delays if it results in excessive scrutiny or over-analysis.",
-        "synonyms": [
-          "thoroughgoing",
-          "thoroughly"
-        ],
-        "antonyms": [
-          "superficial",
-          "incomplete"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think sometimes when you see people that fall down in that function is because they treat it too much like process. Which is very important too, don't me wrong. Good process can help support good outcomes.",
@@ -200,9 +112,9 @@
       "User Experience",
       "B2B SaaS"
     ],
-    "text_ko": "가끔 그 역할에서 잘 못하는 사람들을 보면, 그 이유가 그걸 지나치게 프로세스(process)처럼만 다루기 때문인 것 같아요. 물론 프로세스도 중요해요, 오해하지 마세요. 좋은 프로세스(process)는 좋은 결과를 뒷받침해 줄 수 있어요. 하지만 해결하려는 문제 자체를 잊으면 안 돼요. 직접 사용자(users)에게 가서 얘기해보고, 실제적인 전략(strategy)을 가져야 해요. 정말 잘하는 사람이라면 자기만의 관점(point of view)을 가지고 있어야 해요.",
-    "text_zh": "我觉得有些人在这个职能上栽跟头，就是因为他们太把它当流程来做了。当然流程也很重要，别误会我的意思。好的流程确实能帮你出好结果。但我觉得你不能忘了你到底要解决什么问题。你得去跟用户聊，你得有个真正的策略。如果你真的厉害，你应该有自己的观点和看法。",
-    "text_es": "Creo que a veces cuando ves gente que falla en esa función es porque lo tratan demasiado como si fuera puro proceso. Lo cual también es muy importante, no me malinterpretes. Un buen proceso puede ayudar a conseguir buenos resultados. Pero pienso que no puedes perder de vista los problemas que estás resolviendo. Tienes que ir a hablar con los usuarios y realmente tienes que tener una estrategia. Y si eres realmente bueno, deberías tener un punto de vista claro.",
+    "text_ko": "그 역할(function)에서 실수하는 사람들을 보면, 그걸 너무 프로세스(process)처럼만 다루기 때문이에요. 물론 프로세스가 중요하지 않다는 건 아니에요. 좋은 프로세스(process)는 좋은 결과를 뒷받침해 줄 수 있어요.",
+    "text_zh": "我觉得有些人在这个职能上搞砸，问题就在于太把它当成流程了。当然流程也很重要，别误会我的意思。好的流程确实能帮助达到好结果。",
+    "text_es": "Creo que a veces cuando ves que la gente falla en esa función es porque lo ven demasiado como un proceso. Y mira, los procesos también son súper importantes, no me malinterpretes. Un buen proceso te puede ayudar a conseguir buenos resultados.",
     "key_sentence": "they treat it too much like process.",
     "text_trimmed": true,
     "original_text": "I think sometimes when you see people that fall down in that function is because they treat it too much like process. Which is very important too, don't me wrong. Good process can help support good outcomes. But I think that you can't lose sight of the problems that you're solving. You have to go talk to users and you have to actually have a strategy. And if you're really good, you should have a point of view.",
@@ -264,7 +176,8 @@
           "inactivity"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "The best PMs, I think again, create those frameworks that bring everyone else along and those frameworks also have a point of view and a strategy associated with them.",
@@ -273,9 +186,7 @@
     "context": "Lenny continues probing about what value the best product managers bring to Figma specifically. Dylan describes the core skill that distinguishes exceptional PMs - their ability to create unifying frameworks. These frameworks don't just organize work, but embed strategic thinking and clear perspectives that help entire teams understand both the end goal and the path to reach it, ensuring everyone is aligned and moving in the same direction.",
     "vocabulary_highlights": [
       "frameworks",
-      "strategy",
-      "unifying",
-      "core skill"
+      "strategy"
     ],
     "topics": [
       "Product Management",
@@ -289,9 +200,9 @@
       "User Experience",
       "B2B SaaS"
     ],
-    "text_ko": "다시 말하면 제 생각엔 최고의 PM(프로덕트 매니저)들은 모두를 함께 이끄는 프레임워크(framework)를 만드는 사람들이에요. 그런 프레임워크에는 분명한 관점(point of view)과 전략(strategy)이 녹아 있고요. 그래서 그 전략과 관점을 하나의 프레임워크로 정리해서 모두가 목적지와 거기까지 가는 방법을 알 수 있게 만드는 거예요.",
-    "text_zh": "我觉得最厉害的产品经理(PM)，都会搭建一套框架，让整个团队都能跟上节奏。而且这套框架里面，既有明确的观点，也有配套的策略。你能把战略、观点这些东西都整合到一个框架里，然后让所有人都清楚我们要去哪儿，怎么去。",
-    "text_es": "Los mejores PMs, yo creo que son los que crean esos marcos de trabajo que logran que todo el equipo vaya en la misma dirección, y esos frameworks también llevan una visión clara y una estrategia bien definida. Entonces puedes tomar la estrategia, tomar esa visión, empaquetarlo todo en un marco de trabajo, y hacer que todos sepan cuál es el destino y cómo llegar ahí.",
+    "text_ko": "다시 말하지만 제 생각엔 최고의 프로덕트 매니저(PM)들은 모두가 따라오게 하는 프레임워크(framework)를 만들고, 그 프레임워크에는 명확한 관점(point of view)과 전략(strategy)이 담겨 있어요.",
+    "text_zh": "我觉得最厉害的产品经理(PM)，能够搭建一套框架，让团队所有人都能跟上节奏，而且这套框架本身就带有明确的观点和策略。",
+    "text_es": "Los mejores PMs, creo yo, son los que crean esos marcos de trabajo que logran que todo el equipo se suba al barco, y esos marcos también tienen una visión clara y una estrategia detrás.",
     "key_sentence": "The best PMs create frameworks that bring everyone else along with a strategy.",
     "text_trimmed": true,
     "original_text": "The best PMs, I think again, create those frameworks that bring everyone else along and those frameworks also have a point of view and a strategy associated with them. So you're able to take the strategy, take the point of view, wrap it all up in a framework, and then make it so that everyone knows what the destination is and how to get there.",
@@ -324,36 +235,10 @@
           "improvisation",
           "disorganization"
         ]
-      },
-      {
-        "word": "unifying",
-        "definition": "Unifying refers to the process of bringing together diverse elements into a cohesive whole. It emphasizes collaboration and collective effort towards a common purpose.",
-        "businessContext": "In business, unifying efforts are essential for fostering teamwork, enhancing communication, and aligning various departments or stakeholders towards shared objectives.",
-        "nuance": "The term often implies overcoming differences and building consensus, making it particularly relevant in multicultural or multidisciplinary environments.",
-        "synonyms": [
-          "integrating",
-          "coalescing"
-        ],
-        "antonyms": [
-          "divisive",
-          "fragmenting"
-        ]
-      },
-      {
-        "word": "core skill",
-        "definition": "A core skill is a fundamental ability or competency that is essential for performing a specific job or function effectively. It serves as the foundation for more advanced skills and expertise.",
-        "businessContext": "In the workplace, identifying and developing core skills is vital for employee training, performance evaluation, and career development, ensuring that individuals can meet the demands of their roles.",
-        "nuance": "Core skills are often seen as non-negotiable for success in a given field, distinguishing them from supplementary or specialized skills that may vary in importance.",
-        "synonyms": [
-          "essential skill",
-          "fundamental skill"
-        ],
-        "antonyms": [
-          "peripheral skill",
-          "non-essential skill"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "One essay that Evan, my co-founder, introduced me to early on in famous history, I think from Stevie's grants or something like that, contains the term irreducible complexity.",
@@ -362,8 +247,6 @@
     "context": "Lenny asks Dylan why simplification is so important to him and why it's so difficult to achieve in product development. Dylan references a concept called 'irreducible complexity' that his co-founder Evan shared with him early in Figma's history. He explains this principle using mathematical metaphor - that adding features doesn't create proportional value, and often makes products worse overall due to increased complexity.",
     "vocabulary_highlights": [
       "irreducible complexity",
-      "simplification",
-      "product development",
       "co-founder"
     ],
     "topics": [
@@ -377,9 +260,9 @@
       "User Experience",
       "B2B SaaS"
     ],
-    "text_ko": "초기에 공동창업자 에반이 소개해준 에세이 하나가 있는데, 유명한 역사 쪽에서였던 것 같고 스티비의 'grants'였나 뭐였나 기억이 가물가물해요. 그 글에 '환원 불가능한 복잡성(irreducible complexity)'이라는 표현이 나오는데, 기본적으로 1 더하기 1이 항상 3이 되는 게 아니라 때로는 1.5밖에 안 된다는 얘기예요. 더 많이 더하고 계속 뭔가를 집어넣을수록 더 복잡해지고 상황은 더 안 좋아진다는 뜻이에요.",
-    "text_zh": "我联合创始人Evan很早就给我看过一篇挺有名的文章，好像是史蒂夫的什么基金报告里的，里面提到一个概念叫\"不可简化的复杂性(irreducible complexity)\"。大概意思就是说，一加一不一定等于三，有时候反而只等于一点五。你往里面塞的东西越多，继续加的东西越多，整个事情就变得越复杂，效果反而越差。",
-    "text_es": "Un ensayo que me presentó Evan, mi co-fundador, al principio de nuestra historia conocida, creo que era de las becas de Stevie o algo así, contenía el término complejidad irreducible (irreducible complexity). Y básicamente es esta idea de que uno más uno no siempre es igual a tres, a veces es igual a uno y medio. Y mientras más le agregas y más sigues metiendo cosas, más complejo se vuelve todo y peor queda.",
+    "text_ko": "초반에 제 공동창업자 에반이 소개해 준 에세이 하나가 있어요. 유명한 역사 관련 자료였던 것 같고, 스티비의 지원금에서 나온 글이었던 것 같은데 거기에 '환원 불가능한 복잡성(irreducible complexity)'이라는 표현이 나와요.",
+    "text_zh": "我联合创始人Evan很早就给我看过一篇挺有名的文章，好像是史蒂夫·格兰茨写的还是什么的，里面提到了一个概念叫\"不可简化的复杂性\"(irreducible complexity)。",
+    "text_es": "Un ensayo que Evan, mi co-fundador, me enseñó al principio sobre historia famosa, creo que de las becas de Stevie o algo así, contiene el término complejidad irreducible (irreducible complexity).",
     "key_sentence": "contains the term irreducible complexity.",
     "text_trimmed": true,
     "original_text": "One essay that Evan, my co-founder, introduced me to early on in famous history, I think from Stevie's grants or something like that, contains the term irreducible complexity. And it's basically this idea that one plus one does not equal three, it sometimes equals one and a half. And the more that you add and the more that you continue to put in something, the more complex it gets and the worse it gets.",
@@ -400,34 +283,6 @@
         ]
       },
       {
-        "word": "simplification",
-        "definition": "Simplification is the process of making something easier to understand or do by reducing its complexity or removing unnecessary elements.",
-        "businessContext": "In business, simplification is crucial for enhancing user experience, improving processes, and increasing efficiency, often leading to better customer satisfaction and lower operational costs.",
-        "nuance": "While simplification is generally viewed positively, it can sometimes lead to oversimplification, where important details are lost, potentially compromising the effectiveness of a product or service.",
-        "synonyms": [
-          "streamlining",
-          "clarification"
-        ],
-        "antonyms": [
-          "complexity",
-          "complication"
-        ]
-      },
-      {
-        "word": "product development",
-        "definition": "Product development is the process of creating, designing, and bringing a new product to market, encompassing all stages from initial concept to final launch.",
-        "businessContext": "In the context of startups and technology companies, product development is a critical function that involves market research, prototyping, testing, and iteration to ensure the product meets customer needs and business goals.",
-        "nuance": "The term can imply a focus on innovation and responsiveness to market demands, and it is often associated with agile methodologies that prioritize rapid prototyping and user feedback.",
-        "synonyms": [
-          "product design",
-          "product innovation"
-        ],
-        "antonyms": [
-          "product stagnation",
-          "N/A"
-        ]
-      },
-      {
         "word": "co-founder",
         "definition": "A co-founder is an individual who collaborates with one or more people to establish a new business or organization, sharing the responsibilities and risks involved in its creation.",
         "businessContext": "In startups, co-founders often bring complementary skills and expertise, playing a vital role in shaping the company's vision, culture, and strategic direction from the outset.",
@@ -441,7 +296,9 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Get it out as fast as you possibly can. Everything they tell you about making sure that you get a product out really quickly is totally true. The faster you get it out, the more feedback you get. That is a positive thing.",
@@ -449,10 +306,7 @@
     "timestamp": "27:49",
     "context": "Lenny asks about lessons learned from Figma taking three and a half years to launch initially. Dylan shares his biggest regret about the slow initial launch and what he learned from that experience. He emphasizes that despite taking too long originally, he now prioritizes speed to market because rapid feedback loops are essential for product development, and he applies this principle to current Figma projects.",
     "vocabulary_highlights": [
-      "feedback",
-      "launch",
-      "regret",
-      "experience"
+      "feedback"
     ],
     "topics": [
       "Product Management",
@@ -466,9 +320,9 @@
       "User Experience",
       "B2B SaaS"
     ],
-    "text_ko": "가능한 한 빨리 내놓으세요. 제품을 정말 빨리 내놓으라고들 하는 말은 다 맞아요. 빨리 내놓을수록 피드백을 더 많이 받거든요. 그건 긍정적인 일이에요. 그래서 저는 뭔가를 만들 때 그걸 기준으로 삼아요 (index on).",
-    "text_zh": "能多快就多快地推出产品。他们说的那些关于要快速推产品的话，完全没错。你推得越快，收到的反馈就越多。这绝对是好事。现在我们在做产品的时候，我就特别看重这一点。",
-    "text_es": "Sácalo lo más rápido que puedas. Todo lo que te dicen sobre lanzar un producto súper rápido es totalmente cierto. Mientras más rápido lo saques, más feedback vas a recibir. Eso es algo positivo. Y ahora me enfoco en eso cuando tratamos de desarrollar algo.",
+    "text_ko": "될 수 있는 한 빨리 내보내세요. 제품을 빨리 출시(launch)해야 한다고들 하는 말은 전부 맞아요. 빨리 내보낼수록 더 많은 피드백(feedback)을 받게 되고, 그건 좋은 일이에요.",
+    "text_zh": "尽快把产品推出去，能多快就多快。别人跟你说的那些要赶紧出产品的建议，都是对的。你推得越快，拿到的反馈就越多，这绝对是好事。",
+    "text_es": "Sácalo al mercado lo más rápido que puedas. Todo lo que te dicen sobre asegurarte de que lances un producto súper rápido es totalmente cierto. Mientras más rápido lo saques, más feedback vas a recibir. Y eso es algo positivo.",
     "key_sentence": "The faster you get it out, the more feedback you get.",
     "text_trimmed": true,
     "original_text": "Get it out as fast as you possibly can. Everything they tell you about making sure that you get a product out really quickly is totally true. The faster you get it out, the more feedback you get. That is a positive thing. And now I index on that when we try to build.",
@@ -487,50 +341,10 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "launch",
-        "definition": "To launch means to officially introduce a product or service to the market, often accompanied by promotional activities.",
-        "businessContext": "In startup environments, launching a product is a critical milestone that involves strategic planning, marketing, and often a significant investment of resources.",
-        "nuance": "The term 'launch' can imply a sense of urgency and excitement, but it can also suggest the risks involved in bringing a new offering to market.",
-        "synonyms": [
-          "introduce",
-          "unveil"
-        ],
-        "antonyms": [
-          "withdraw",
-          "suspend"
-        ]
-      },
-      {
-        "word": "regret",
-        "definition": "Regret is a feeling of sadness or disappointment over something that has happened or been done, often accompanied by a sense of wishing things had been different.",
-        "businessContext": "In business, regret can arise from decisions that led to unfavorable outcomes, prompting leaders to reflect on their choices and learn from past mistakes.",
-        "nuance": "While regret can indicate a learning opportunity, it can also suggest hesitation or indecision if not addressed constructively.",
-        "synonyms": [
-          "remorse",
-          "lament"
-        ],
-        "antonyms": [
-          "satisfaction",
-          "contentment"
-        ]
-      },
-      {
-        "word": "experience",
-        "definition": "Experience refers to the knowledge or skill acquired through practical involvement in a particular activity or field over time.",
-        "businessContext": "In the business world, experience is highly valued as it often correlates with expertise, influencing hiring decisions and leadership roles.",
-        "nuance": "The term 'experience' can imply both positive and negative encounters, and its context can determine whether it is viewed as an asset or a liability.",
-        "synonyms": [
-          "expertise",
-          "background"
-        ],
-        "antonyms": [
-          "inexperience",
-          "novelty"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think that mentors can come from anywhere. It can come from the community, all of you. Mentorship can come from the people you hire. It can come from folks that you actively seek out as investors or explicit mentorship and mentors.",
@@ -539,9 +353,7 @@
     "context": "Lenny asks Dylan what has most helped him scale from being an intern to leading a thousand-person company. Dylan explains his philosophy about learning and mentorship, emphasizing that valuable insights can come from unexpected sources. He describes how mentorship is bidirectional - even people he mentors often teach him new frameworks or perspectives, and that maintaining an open, learning mindset is crucial for leadership growth.",
     "vocabulary_highlights": [
       "mentorship",
-      "actively seek out",
-      "valuable insights",
-      "scale"
+      "actively seek out"
     ],
     "topics": [
       "Leadership & Management",
@@ -555,9 +367,9 @@
       "User Experience",
       "B2B SaaS"
     ],
-    "text_ko": "저는 멘토(mentor)는 어디서든 나올 수 있다고 생각해요. 커뮤니티, 그러니까 여러분에게서도 올 수 있고요. 멘토십(mentorship)은 여러분이 고용한 사람들한테서도 생길 수 있어요. 투자자(investor)나 멘토십을 위해 적극적으로 찾아가는 멘토들에게서도 올 수 있고요. 스스로 코치(coach)라고 부르는 사람들에게서도 배울 수 있어요. 흥미로운 건, 여러분이 멘토하는 사람들에게서도 멘토십이 생길 수 있다는 점이에요.",
-    "text_zh": "我觉得导师可以来自各个地方。可能就在你身边的社群里，就是在座的各位。也可能是你招进来的员工。还可能是你主动去找的投资人，或者专门请的导师。有些人叫自己教练(coach)的也行。更有意思的是，有时候你指导的那些人反过来也能当你的老师。",
-    "text_es": "Creo que los mentores pueden salir de cualquier lado. Pueden venir de la comunidad, de todos ustedes. La mentoría puede llegar de la gente que contratas. Puede venir de personas que buscas activamente como inversionistas o de mentores explícitos. Puede venir de gente que se hace llamar coaches. Y lo interesante también es que puede venir de las personas a las que tú les das mentoría.",
+    "text_ko": "멘토(mentor)는 어디서든 나올 수 있다고 생각해요. 커뮤니티(community), 그러니까 여러분들한테서도 나올 수 있고요. 채용한 사람들, 즉 같이 일하는 분들로부터도 멘토링(mentorship)을 받을 수 있어요. 또 투자자(investors)처럼 일부러 찾아가거나 명확하게 멘토링을 요청해 만나는 분들에게서도 멘토가 나올 수 있어요.",
+    "text_zh": "我觉得导师哪里都能找到。可以是身边的人，比如在座的各位。也可以是你招进来的员工。还可以是你主动去找的投资人，或者专门找来做导师的人。",
+    "text_es": "Creo que los mentores pueden salir de cualquier lado. Pueden ser personas de la comunidad, como todos ustedes. La mentoría puede venir de la gente que contratas. Puede venir de personas que buscas activamente como inversionistas o que específicamente buscas como mentores.",
     "key_sentence": "Mentors can come from anywhere, including those you actively seek out.",
     "text_trimmed": true,
     "original_text": "I think that mentors can come from anywhere. It can come from the community, all of you. Mentorship can come from the people you hire. It can come from folks that you actively seek out as investors or explicit mentorship and mentors. It can come from people that call themselves coaches. And what's interesting too is it can come from people you mentor as well.",
@@ -590,35 +402,9 @@
           "ignore",
           "neglect"
         ]
-      },
-      {
-        "word": "valuable insights",
-        "definition": "Valuable insights are significant and actionable understandings or perspectives that can inform decision-making and strategy.",
-        "businessContext": "In business, valuable insights often stem from market research, customer feedback, or expert opinions, guiding companies in their strategic planning and operations.",
-        "nuance": "The term 'valuable' suggests that the insights have practical implications and can lead to beneficial outcomes, distinguishing them from mere observations.",
-        "synonyms": [
-          "meaningful observations",
-          "critical understandings"
-        ],
-        "antonyms": [
-          "misleading information",
-          "superficial views"
-        ]
-      },
-      {
-        "word": "scale",
-        "definition": "To scale refers to the ability of a business to grow and expand its operations, often in a way that increases revenue without a corresponding increase in costs.",
-        "businessContext": "In the startup ecosystem, scaling is crucial for attracting investment and achieving long-term sustainability, often involving strategies to enhance efficiency and market reach.",
-        "nuance": "The term carries a positive connotation of growth and success, but it can also imply challenges related to maintaining quality and managing resources effectively.",
-        "synonyms": [
-          "expand",
-          "grow"
-        ],
-        "antonyms": [
-          "contract",
-          "diminish"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

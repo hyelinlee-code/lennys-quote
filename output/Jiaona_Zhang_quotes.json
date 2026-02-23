@@ -6,9 +6,7 @@
     "context": "Lenny asks JZ about the most common mistakes she sees new product managers make, drawing from her six years of teaching product management at Stanford. JZ explains that the biggest mistake new PMs make is jumping straight to solutions without properly understanding user problems first. She emphasizes that this tendency to get attached to specific solutions prevents PMs from focusing on what users actually need.",
     "vocabulary_highlights": [
       "untrain",
-      "jump to solutions",
-      "common mistakes",
-      "product managers"
+      "jump to solutions"
     ],
     "topics": [
       "Product Management",
@@ -20,9 +18,9 @@
       "Product Management",
       "Go-to-Market"
     ],
-    "text_ko": "정말 쉽게 고쳐지지 않는 습관이 하나 있는데, 사람이라면 다들 하는 것 같아요 — 바로 해결책에 성급히 뛰어드는 거예요. 제가 강의에서만이 아니라 PM (product manager)으로 일하면서도 자주 보는 큰 실수 중 하나는, 머릿속에 그려둔 구현 방식(implementation)이나 만들고 싶은 솔루션(solution)에 너무 집착해버리는 거예요.",
-    "text_zh": "我觉得有一个特别难改的习惯，但是每个人都会这样做，就是你会直接跳到解决方案上去。所以我发现一个最大的问题，不光是在我的课程里，就是作为产品经理(PM)也是这样，很多产品经理都会犯的错误就是，你会特别执着于某个解决方案，执着于你脑子里想象的那个实现方式，就是你特别想要去做的那个东西。",
-    "text_es": "Creo que hay algo súper difícil de quitarse de encima, pero que todos hacemos: saltar directo a las soluciones. Y una de las cosas más grandes que veo, no solo en mi curso sino también como PM y algunos de los errores que cometes como PM, es que te enamoras de una solución, de una forma de implementar algo que ya tienes clarísimo en la cabeza y que quieres construir.",
+    "text_ko": "제 생각엔 정말 고치기 힘든데도 사람이라면 누구나 하는 게 하나 있어요: 성급하게 해결책으로 뛰어드는 거예요.",
+    "text_zh": "我觉得有个很难改掉的习惯，几乎人人都会，就是一上来就急着找解决办法。",
+    "text_es": "Creo que algo muy difícil de desaprender, y que todos hacemos, es lanzarnos a proponer soluciones.",
     "key_sentence": "you jump to solutions.",
     "text_trimmed": true,
     "original_text": "I think something that is really hard to untrain, but I think every human does it, is you jump to solutions. And so one of the biggest things I see, not just in my course but also just as a PM and some of the mistakes that you make as a PM is the idea of you get really attached to a solution, a way of implementing something that you can see in your head that you want to build.",
@@ -55,36 +53,10 @@
           "thorough analysis",
           "deliberate consideration"
         ]
-      },
-      {
-        "word": "common mistakes",
-        "definition": "Frequent errors or oversights that are often made in a particular context or activity.",
-        "businessContext": "Identifying common mistakes in business processes can help organizations improve efficiency and reduce errors in project execution or customer service.",
-        "nuance": "The term suggests that these mistakes are widely recognized and can often be avoided with proper training or awareness.",
-        "synonyms": [
-          "frequent errors",
-          "typical pitfalls"
-        ],
-        "antonyms": [
-          "best practices",
-          "success strategies"
-        ]
-      },
-      {
-        "word": "product managers",
-        "definition": "Professionals responsible for guiding the development, marketing, and lifecycle of a product, ensuring it meets customer needs and business goals.",
-        "businessContext": "In tech and startup settings, product managers play a crucial role in coordinating between engineering, design, and marketing teams to deliver successful products.",
-        "nuance": "The role requires a blend of technical knowledge, business acumen, and interpersonal skills, often making it one of the most challenging yet rewarding positions in a company.",
-        "synonyms": [
-          "product owners",
-          "product leads"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "You could be known for shepherding like the most complex launches because you're just so good at quarterbacking. Working with go-to--market teams and cross-functional stakeholders that could be like your thing.",
@@ -107,9 +79,9 @@
       "Product Management",
       "Go-to-Market"
     ],
-    "text_ko": "가장 복잡한 런칭(launches)을 총괄해서 이끄는 사람으로 알려질 수 있어요. 쿼터백 역할(quarterbacking)을 정말 잘하니까요. 시장 진입(go-to-market) 팀이나 교차 기능 이해관계자(cross-functional stakeholders)들과 함께 일하는 게 당신의 강점이 될 수 있어요. 또는 가장 기술적으로 복잡한 문제(technically complex problems)를 다루는 일로 이름을 낼 수도 있어요. 정말 잘할 수 있는 무언가를 찾아보세요.",
-    "text_zh": "你可以因为特别擅长统筹协调那些最复杂的产品发布而出名，因为你就是很会做项目管理(quarterbacking)。跟市场推广(go-to-market)团队还有各个部门的利益相关方打交道，这可能就是你的强项。你也可以专门攻克那些技术上最复杂的难题，总之要找到一个你能做得特别特别好的领域。",
-    "text_es": "Podrías ser conocido por liderar los lanzamientos más complejos porque eres increíble coordinando equipos. Trabajar con los equipos de go-to-market y con stakeholders de diferentes áreas podría ser lo tuyo. Podrías ser conocido por resolver los problemas técnicos más difíciles, encuentra algo en lo que puedas ser realmente, pero realmente bueno.",
+    "text_ko": "당신은 쿼터백 역할(quarterbacking)을 워낙 잘해서 가장 복잡한 출시를 원활하게 이끌어내는 사람으로 알려질 수 있어요. 시장 진출(go-to-market) 팀과 교차 기능 이해관계자(cross-functional stakeholders)들과 함께 일하는 게 당신의 강점이 될 수 있어요.",
+    "text_zh": "",
+    "text_es": "Podrías ser conocido por liderar los lanzamientos más complejos, porque se te da muy bien coordinarlo todo (quarterbacking). Trabajar con equipos de lanzamiento al mercado (go-to-market teams) y con partes interesadas interfuncionales (cross-functional stakeholders) podría ser lo tuyo.",
     "key_sentence": "You could be known for shepherding complex launches and quarterbacking cross-functional stakeholders.",
     "text_trimmed": true,
     "original_text": "You could be known for shepherding like the most complex launches because you're just so good at quarterbacking. Working with go-to--market teams and cross-functional stakeholders that could be like your thing. You could be known for working on the most technically complex problems, find something that you can be really, really good at.",
@@ -171,7 +143,8 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "My biggest tip on OKRs is actually get really, really crisp on qualitatively. What would make you say \"Yes, we did a great job\"?",
@@ -180,9 +153,7 @@
     "context": "Lenny asks JZ for her biggest tips on OKRs (Objectives and Key Results). JZ explains that teams often get overwhelmed by OKRs and focus too much on hitting specific numbers rather than understanding the qualitative success they're trying to achieve. She emphasizes the importance of clearly articulating what success looks like before getting caught up in metrics and measurements.",
     "vocabulary_highlights": [
       "crisp",
-      "qualitatively",
-      "overwhelmed",
-      "objectives"
+      "qualitatively"
     ],
     "topics": [
       "Strategy & Planning",
@@ -194,9 +165,9 @@
       "Product Management",
       "Go-to-Market"
     ],
-    "text_ko": "OKR에 대한 저의 가장 큰 팁은 사실 질적인 부분에 대해 정말 명확해지는 거예요. \"우리가 정말 잘했다!\"라고 말할 수 있는 기준이 뭔지 생각해보세요. 제가 이렇게 강조하는 이유는 많은 팀들이 OKR 때문에 정말 힘들어하는 걸 많이 봤거든요.",
-    "text_zh": "我对OKRs最大的建议就是，一定要在定性描述上特别特别清晰。什么情况下你会说\"对，我们这次干得很棒\"？我特别强调这点是因为我见过太多团队在OKRs上搞得一团糟。",
-    "text_es": "Mi consejo más importante sobre los OKRs es que te enfoques súper bien en lo cualitativo. ¿Qué tendría que pasar para que digas \"Sí, lo hicimos genial\"? Y insisto tanto en esto porque he visto muchos equipos que se atascan completamente con los OKRs.",
+    "text_ko": "제가 OKR(목표와 핵심 결과, OKRs)에 대해 드릴 가장 큰 팁은 정성적인 부분을 정말, 정말 명확하게 하라는 거예요. 어떤 기준이 있어야 '네, 우리가 정말 잘했어요'라고 말할 수 있을까요?",
+    "text_zh": "关于 OKRs(OKRs)，我最重要的建议是把定性(qualitative)的部分说得非常清楚：什么样的结果才会让你说“是的，我们这次做得很棒”？",
+    "text_es": "Mi consejo número uno sobre los OKR (Objectives and Key Results) es que seas muy, muy claro con lo cualitativo. ¿Qué tendría que ocurrir para que puedas decir \"Sí, hicimos un gran trabajo\"?",
     "key_sentence": "get really, really crisp on qualitatively.",
     "text_trimmed": true,
     "original_text": "My biggest tip on OKRs is actually get really, really crisp on qualitatively. What would make you say \"Yes, we did a great job\"? And the reason I pushed so hard on that is because I see so many teams get really mucked down by OKRs.",
@@ -229,36 +200,10 @@
           "quantitatively",
           "numerically"
         ]
-      },
-      {
-        "word": "overwhelmed",
-        "definition": "Experiencing an intense emotional or cognitive load, often resulting in difficulty managing tasks or emotions.",
-        "businessContext": "In a business context, employees may feel 'overwhelmed' due to high workloads, tight deadlines, or complex projects, which can impact productivity and morale.",
-        "nuance": "While 'overwhelmed' can indicate a temporary state, it may also suggest a need for support or resources; it is important to use it sensitively to avoid appearing unprofessional.",
-        "synonyms": [
-          "overcome",
-          "overawed"
-        ],
-        "antonyms": [
-          "calm",
-          "unperturbed"
-        ]
-      },
-      {
-        "word": "objectives",
-        "definition": "Specific, measurable goals that an organization aims to achieve within a defined timeframe.",
-        "businessContext": "In business strategy, 'objectives' are crucial for guiding efforts, aligning team activities, and measuring success, often articulated through frameworks like OKRs (Objectives and Key Results).",
-        "nuance": "While 'objectives' are often seen as concrete targets, they can also reflect broader aspirations and should be framed to inspire action rather than just serve as checklists.",
-        "synonyms": [
-          "goals",
-          "targets"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think the biggest tips I have is how do to be clear about the phase that you're in?",
@@ -266,8 +211,6 @@
     "timestamp": "00:11:42",
     "context": "Lenny asks JZ about when to think big and pursue ambitious goals versus being more cautious about execution. This comes after discussing the Airbnb Plus example, where ambitious vision wasn't coupled with practical execution planning. JZ explains that companies should dream big but be very clear about what phase they're in - whether they're in a learning/prototyping phase or scaling phase - and set explicit milestones and learning goals.",
     "vocabulary_highlights": [
-      "ambitious",
-      "execution",
       "clear",
       "phase"
     ],
@@ -281,42 +224,14 @@
       "Product Management",
       "Go-to-Market"
     ],
-    "text_ko": "제가 드릴 가장 큰 팁은 지금 어떤 단계인지 분명히 하는 방법이에요. 예를 들어 \"저희는 X를 6개월이나 3개월 등 정해진 기간 동안 시도해볼 거고, 그 기간에 구체적으로 이런 것들을 배우는 걸 목표로 삼을 거예요\"라고 명확하게 말하는 건 전혀 문제없다고 생각해요.",
-    "text_zh": "我觉得最重要的建议就是，你得搞清楚自己现在处在哪个阶段，对吧？我觉得完全可以这样说：\"嘿，我们打算试试X这个方向，给自己定个期限，六个月也好，三个月也好，就是要专门去摸索这些东西。\"",
-    "text_es": "Creo que el consejo más importante que tengo es ser súper claro sobre en qué etapa estás, ¿no? O sea, me parece perfectamente válido decir: \"Oye, vamos a probar X durante seis meses, tres meses, lo que sea, y específicamente vamos a enfocarnos en aprender este tipo de cosas.\"",
+    "text_ko": "제가 드릴 가장 큰 팁은 지금 어떤 단계에 있는지 명확히 하는 방법이에요.",
+    "text_zh": "我觉得我能给的最重要的建议就是搞清楚自己现在处于哪个阶段。",
+    "text_es": "Creo que el consejo más importante que tengo es cómo dejar claro en qué fase te encuentras.",
     "key_sentence": "how do to be clear about the phase that you're in?",
     "text_trimmed": true,
     "original_text": "I think the biggest tips I have is how do to be clear about the phase that you're in? So I think it's totally fine to be like, \"Hey, we are going to try X for six months, three months, whatever it is, and we're explicitly going to go learn these types of things.\"",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "ambitious",
-        "definition": "Having a strong desire and determination to achieve success or a particular goal.",
-        "businessContext": "In business settings, being ambitious often refers to setting high targets for growth, innovation, or market share, and striving to exceed them.",
-        "nuance": "While ambition is generally viewed positively, it can sometimes imply a willingness to take risks or prioritize goals over ethical considerations.",
-        "synonyms": [
-          "aspiring",
-          "driven"
-        ],
-        "antonyms": [
-          "unambitious",
-          "complacent"
-        ]
-      },
-      {
-        "word": "execution",
-        "definition": "The act of carrying out or putting into effect a plan, order, or course of action.",
-        "businessContext": "In the context of business and startups, execution refers to the implementation of strategies and plans to achieve desired outcomes, often emphasizing the importance of timely and effective action.",
-        "nuance": "Execution is often seen as a critical factor in the success of a business initiative, highlighting that having a good idea is not enough without effective execution.",
-        "synonyms": [
-          "implementation",
-          "performance"
-        ],
-        "antonyms": [
-          "inaction",
-          "failure"
-        ]
-      },
       {
         "word": "clear",
         "definition": "Easily understood or free from ambiguity; transparent in communication or intention.",
@@ -345,7 +260,9 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "On the product side, it's about really understanding why people love you and not forgetting to invest deeply in that core concept and then building everything around that. And so I'll walk you through the different companies.",
@@ -355,8 +272,7 @@
     "vocabulary_highlights": [
       "invest deeply",
       "core concept",
-      "understanding",
-      "building around"
+      "understanding"
     ],
     "topics": [
       "Product Management",
@@ -415,22 +331,9 @@
           "misunderstanding",
           "ignorance"
         ]
-      },
-      {
-        "word": "building around",
-        "definition": "The process of creating or developing something by centering it on a specific idea, principle, or resource.",
-        "businessContext": "In a business setting, building around a core concept means designing products, services, or strategies that are aligned with the foundational values or insights about the target audience.",
-        "nuance": "This phrase suggests a proactive approach to development, emphasizing the importance of a strong foundation rather than haphazard growth.",
-        "synonyms": [
-          "constructing based on",
-          "developing around"
-        ],
-        "antonyms": [
-          "neglecting",
-          "disregarding"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "Trust is so important. Trust is everything. As a PM, the trust that your cross-functional partners have in you, the trust that the CEO has is you... It's huge. Trust is everything.",
@@ -438,10 +341,8 @@
     "timestamp": "00:48:35",
     "context": "Lenny asks about the importance of building trust during JZ's first 90 days at Webflow, where she had a unique time constraint due to impending maternity leave. JZ emphasizes that trust is fundamental for product managers since they rely on influence rather than authority. She reflects on mistakes she made by pushing for changes too quickly before establishing sufficient trust with her team and stakeholders.",
     "vocabulary_highlights": [
-      "fundamental",
       "cross-functional",
-      "partners",
-      "importance"
+      "partners"
     ],
     "topics": [
       "Leadership & Management",
@@ -453,28 +354,14 @@
       "Product Management",
       "Go-to-Market"
     ],
-    "text_ko": "신뢰는 정말 중요해요. 신뢰가 모든 것이죠. PM으로서, 당신의 다양한 파트너들이 당신을 믿는 것, CEO가 당신을 믿는 것... 이건 정말 큰 일이에요. 신뢰가 모든 거예요. 그리고 여기서 제가 처음 90일 동안 저지른 실수에 대해서도 이야기해볼게요.",
-    "text_zh": "信任太重要了，信任就是一切。作为PM，你的跨职能合作伙伴对你的信任，CEO对你的信任...这些都太关键了。信任真的就是一切。说到这里，我甚至可以聊聊我在前90天犯的一些错误。",
-    "text_es": "La confianza es súper importante. La confianza lo es todo. Como PM, la confianza que tengan en ti tus compañeros de otras áreas, la confianza que tenga el CEO en ti... es enorme. La confianza lo es todo. Y tal vez aquí hasta les cuente algunos errores que cometí en mis primeros 90 días.",
+    "text_ko": "신뢰가 정말 중요해요. 신뢰가 전부예요. 프로덕트 매니저(PM)로서 부서 간 파트너들(cross-functional partners)이 당신을 얼마나 믿는지, 최고경영자(CEO)가 당신을 얼마나 신뢰하는지가 엄청 중요해요. 신뢰가 전부예요.",
+    "text_zh": "信任太重要了，几乎就是一切。作为产品经理（PM），跨职能合作伙伴（cross-functional partners）和首席执行官（CEO）对你的信任，影响非常大。说到底，信任就是根本。",
+    "text_es": "La confianza es fundamental. Como PM, la confianza que tus socios interfuncionales (cross-functional) y el CEO depositan en ti es enorme. Al final, la confianza lo es todo.",
     "key_sentence": "Trust is everything for cross-functional partners and your relationship with the CEO.",
     "text_trimmed": true,
     "original_text": "Trust is so important. Trust is everything. As a PM, the trust that your cross-functional partners have in you, the trust that the CEO has is you... It's huge. Trust is everything. And maybe here, I'll even talk about some of the mistakes I made in the first 90 days.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "fundamental",
-        "definition": "Serving as a foundation or basis; essential and primary in nature.",
-        "businessContext": "In business, 'fundamental' often refers to core principles or elements that are crucial for the success and sustainability of an organization or project.",
-        "nuance": "While 'fundamental' implies something basic, it carries a weight of importance, suggesting that without these elements, the structure may fail.",
-        "synonyms": [
-          "essential",
-          "basic"
-        ],
-        "antonyms": [
-          "superficial",
-          "secondary"
-        ]
-      },
       {
         "word": "cross-functional",
         "definition": "Involving multiple departments or areas of expertise within an organization.",
@@ -502,21 +389,9 @@
           "competitors",
           "adversaries"
         ]
-      },
-      {
-        "word": "importance",
-        "definition": "The state or quality of being significant or valuable; the degree to which something matters.",
-        "businessContext": "In a business context, understanding the importance of various factors—such as trust, communication, or market trends—is essential for strategic decision-making.",
-        "nuance": "While 'importance' denotes value, it can vary based on context and perspective, highlighting the need for prioritization in business strategies.",
-        "synonyms": [
-          "significance",
-          "value"
-        ],
-        "antonyms": [
-          "insignificance",
-          "triviality"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

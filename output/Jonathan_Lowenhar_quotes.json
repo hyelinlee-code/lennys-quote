@@ -7,8 +7,7 @@
     "vocabulary_highlights": [
       "outcomes",
       "seduced",
-      "fantasy",
-      "methodology"
+      "fantasy"
     ],
     "topics": [
       "Starting a Company",
@@ -68,22 +67,9 @@
           "reality",
           "fact"
         ]
-      },
-      {
-        "word": "methodology",
-        "definition": "Methodology is a systematic, theoretical analysis of the methods applied to a field of study or practice.",
-        "businessContext": "In business, particularly in project management and research, methodology refers to the structured approach used to achieve objectives and ensure consistency in processes.",
-        "nuance": "The term suggests a rigorous and formal approach, making it suitable for academic and professional discussions, but may be perceived as overly complex in casual conversations.",
-        "synonyms": [
-          "approach",
-          "framework"
-        ],
-        "antonyms": [
-          "disorganization",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "To be a founder is a state of being, it's an attitude. To be a CEO is a craft.",
@@ -92,9 +78,7 @@
     "context": "Jonathan is wrapping up the conversation by sharing his core philosophy about the founder journey. He's making a critical distinction that many founders miss - being a founder (having the vision, courage, and drive to start something) is fundamentally different from being a CEO (learning the operational skills to run and scale a business). An ascendant startup is one that's rising or advancing successfully.",
     "vocabulary_highlights": [
       "attitude",
-      "craft",
-      "distinction",
-      "vision"
+      "craft"
     ],
     "topics": [
       "Leadership & Management",
@@ -107,9 +91,9 @@
       "Executive Coaching",
       "Product Management"
     ],
-    "text_ko": "창업자(founder)는 어떤 정체성이자 태도예요. 반면 CEO(Chief Executive Officer)는 숙련이 필요한 역할이에요. 창업자들이 이 둘이 분명히 다른 것이라는 걸 받아들이고, 둘 다 성장하는 스타트업을 만들기 위해 똑같이 중요하다는 걸 인정할수록 우리 모두가 더 나아질 거예요.",
-    "text_zh": "创始人是一种状态，一种心态。而CEO是一门手艺活儿。越多创始人能够接受这是两码事，而且对于打造一个蒸蒸日上的初创公司来说都同样重要，那对我们大家都更有好处。",
-    "text_es": "Ser fundador es una forma de ser, es una actitud. Ser CEO es un oficio que se aprende. Mientras más fundadores puedan aceptar que son dos cosas completamente distintas y que ambas son igual de importantes para construir una startup exitosa, mejor nos va a ir a todos.",
+    "text_ko": "창업가라는 건 어떤 존재 방식이자 태도예요. CEO는 연습과 경험으로 다듬어지는 기술이에요.",
+    "text_zh": "做创始人是一种状态、一种态度；做首席执行官(CEO)是一门技术活。",
+    "text_es": "Ser fundador es una forma de ser, es una actitud. Ser director ejecutivo (CEO) es un oficio.",
     "key_sentence": "Being a founder is a state of being; being a CEO is a craft.",
     "text_trimmed": true,
     "original_text": "To be a founder is a state of being, it's an attitude. To be a CEO is a craft. The more founders who can accept that those are two separate things and they're both equally important to build an ascendant startup, the better all of us will be.",
@@ -142,36 +126,10 @@
           "incompetence",
           "ineptitude"
         ]
-      },
-      {
-        "word": "distinction",
-        "definition": "A difference or contrast between similar things or people, often highlighting a notable quality or characteristic.",
-        "businessContext": "In business, distinction can refer to the unique attributes that set a company or product apart from competitors, influencing branding and marketing strategies.",
-        "nuance": "While distinction often carries a positive connotation, it can also imply elitism or exclusivity if not framed appropriately.",
-        "synonyms": [
-          "difference",
-          "disparity"
-        ],
-        "antonyms": [
-          "similarity",
-          "uniformity"
-        ]
-      },
-      {
-        "word": "vision",
-        "definition": "The ability to think about or plan the future with imagination or wisdom, often encompassing long-term goals and aspirations.",
-        "businessContext": "In a business context, vision is crucial for strategic planning and leadership, as it provides direction and motivates teams towards common objectives.",
-        "nuance": "A compelling vision can inspire innovation and commitment, but a vague or unrealistic vision may lead to confusion and disengagement.",
-        "synonyms": [
-          "foresight",
-          "aspiration"
-        ],
-        "antonyms": [
-          "short-sightedness",
-          "narrow-mindedness"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Founder mode gets me angry. That article just got me hot. It really felt like an excuse. We were giving founders a permission to not learn the job.",
@@ -181,8 +139,7 @@
     "vocabulary_highlights": [
       "permission",
       "excuse",
-      "founder mode",
-      "involved"
+      "founder mode"
     ],
     "topics": [
       "Leadership & Management",
@@ -195,9 +152,9 @@
       "Executive Coaching",
       "Product Management"
     ],
-    "text_ko": "창업자 모드(Founder mode) 얘기만 나오면 화가 나요. 그 기사를 보고 정말 열받았어요. 완전 변명 같았어요. 우리는 창업자들(founders)에게 일을 배우지 않아도 된다는 면죄부를 준 셈이었거든요. 매니저 모드(manager mode)가 나쁘다는 게 아니라, 최고의 CEO들(CEOs)은 언제 어떤 모드를 써야 할지, 어떻게 조절(calibrate)해야 할지 알고 있어요.",
-    "text_zh": "创始人模式这个说法真的让我很火大。那篇文章看得我直冒火。感觉就是在找借口嘛。我们这不是在给创始人开绿灯，让他们不用学怎么当老板吗。不是说管理者模式不好，而是最厉害的CEO都知道什么时候该用哪一套。",
-    "text_es": "El \"founder mode\" me saca de quicio. Ese artículo me puso de malas. La verdad es que se sintió como una excusa barata. Les estábamos dando permiso a los fundadores para no aprender a hacer bien el trabajo. No es que el \"manager mode\" sea malo, es que los mejores CEOs saben cuándo calibrar cuál de los dos se necesita.",
+    "text_ko": "파운더 모드(founder mode)가 저를 화나게 해요. 그 기사 보고 정말 열받았어요. 변명처럼 느껴졌어요. 우리가 파운더들(founders)에게 '일을 배우지 않아도 된다'고 면죄부를 준 것 같았어요.",
+    "text_zh": "创始人模式 (founder mode) 让我气得不行。那篇文章看起来就是在找借口，等于是替创始人开脱，让他们不用去学会这份工作。",
+    "text_es": "El modo fundador (Founder mode) me enfada. Ese artículo me enfureció. De verdad parecía una excusa: les estábamos dando permiso a los fundadores para no aprender a hacer su trabajo.",
     "key_sentence": "We were giving founders a permission to not learn the job.",
     "text_trimmed": true,
     "original_text": "Founder mode gets me angry. That article just got me hot. It really felt like an excuse. We were giving founders a permission to not learn the job. It's not manager mode is bad, it's the greatest CEOs know when to calibrate which one is needed.",
@@ -244,34 +201,17 @@
           "collaborative mindset",
           "team-oriented approach"
         ]
-      },
-      {
-        "word": "involved",
-        "definition": "Participating or engaged in an activity or situation.",
-        "businessContext": "In a business context, being 'involved' often refers to the level of engagement or participation of team members in projects or decision-making processes.",
-        "nuance": "The term 'involved' can imply a positive engagement but may also suggest overcommitment or entanglement in complex issues.",
-        "synonyms": [
-          "engaged",
-          "participating"
-        ],
-        "antonyms": [
-          "disengaged",
-          "aloof"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "More companies die from suicide than homicide, and it's grim, but also if the two or three people in charge of the business can't get along, nothing else matters. It's all going to break apart.",
     "speaker": "Jonathan Lowenhar",
     "timestamp": "00:13:05",
     "context": "Jonathan is explaining common failure modes for startups, categorizing them into four main areas. He's discussing what he calls 'founder's function' - the critical need for founding team members to work well together. By 'suicide vs homicide,' he means companies more often fail due to internal dysfunction (suicide) rather than external competitive forces (homicide). This is one of his frameworks for understanding why startups fail.",
-    "vocabulary_highlights": [
-      "critical",
-      "function",
-      "founding",
-      "failure modes"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Starting a Company",
       "Leadership & Management"
@@ -288,64 +228,8 @@
     "text_es": "Más empresas se van a pique por problemas internos que por la competencia, y aunque suena duro, si las dos o tres personas que manejan el negocio no se pueden ni ver, no importa nada más. Todo se va a ir al carajo.",
     "key_sentence": "More companies die from suicide than homicide when leaders can't get along.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "critical",
-        "definition": "Of great importance or significance; essential for success or failure.",
-        "businessContext": "In business, the term 'critical' often refers to factors or decisions that are crucial for the survival and growth of a company, such as critical thinking in strategy development.",
-        "nuance": "While 'critical' can imply urgency, it can also suggest a need for careful analysis and consideration rather than just immediate action.",
-        "synonyms": [
-          "crucial",
-          "vital"
-        ],
-        "antonyms": [
-          "insignificant",
-          "trivial"
-        ]
-      },
-      {
-        "word": "function",
-        "definition": "The specific purpose or role that something serves within a system or organization.",
-        "businessContext": "In a business setting, 'function' can refer to various departments or roles, such as marketing functions or financial functions, that contribute to the overall operation of the company.",
-        "nuance": "The term can imply not just the role itself but also the effectiveness and efficiency with which that role is performed.",
-        "synonyms": [
-          "role",
-          "operation"
-        ],
-        "antonyms": [
-          "dysfunction",
-          "disorganization"
-        ]
-      },
-      {
-        "word": "founding",
-        "definition": "The act of establishing or creating an organization, institution, or business.",
-        "businessContext": "In the startup ecosystem, 'founding' often refers to the initial phase where entrepreneurs create a business model, secure funding, and set up operations.",
-        "nuance": "While 'founding' conveys the idea of initiation, it also carries the weight of responsibility and vision required to build something sustainable.",
-        "synonyms": [
-          "establishment",
-          "creation"
-        ],
-        "antonyms": [
-          "dissolution",
-          "closure"
-        ]
-      },
-      {
-        "word": "failure modes",
-        "definition": "The various ways in which a system or process can fail to perform its intended function.",
-        "businessContext": "In risk management and quality assurance, identifying 'failure modes' helps businesses anticipate potential problems and develop strategies to mitigate them.",
-        "nuance": "The term is often used in technical contexts but can also apply to organizational dynamics, highlighting the importance of understanding weaknesses in team interactions.",
-        "synonyms": [
-          "failure mechanisms",
-          "fault modes"
-        ],
-        "antonyms": [
-          "success factors",
-          "performance modes"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true
   },
   {
     "text": "If you keep doing what you're doing, you keep getting what you're getting. And for the ready, fire, aim folks who realize the weakness of that at scale, the way to counteract that, is to start with good planning.",
@@ -355,7 +239,6 @@
     "vocabulary_highlights": [
       "counteract",
       "planning",
-      "impulsively",
       "weakness"
     ],
     "topics": [
@@ -404,20 +287,6 @@
         ]
       },
       {
-        "word": "impulsively",
-        "definition": "In a manner characterized by acting on impulse rather than careful thought or consideration.",
-        "businessContext": "In business settings, acting impulsively can lead to hasty decisions that may not align with long-term goals, often resulting in missed opportunities or increased risks.",
-        "nuance": "The term 'impulsively' often carries a negative connotation, suggesting a lack of discipline or forethought, which is generally discouraged in professional environments.",
-        "synonyms": [
-          "hastily",
-          "recklessly"
-        ],
-        "antonyms": [
-          "deliberately",
-          "cautiously"
-        ]
-      },
-      {
         "word": "weakness",
         "definition": "A state or condition of lacking strength, effectiveness, or capability in a particular area.",
         "businessContext": "Identifying weaknesses within an organization or strategy is essential for improvement and competitive advantage, as it allows for targeted interventions and resource allocation.",
@@ -431,7 +300,8 @@
           "advantage"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I trust founder intuition. If the founder says this business is still going to work, or this co-founder is the wrong person, or yes, it's time to sell, I'm in. We're just here to support them.",
@@ -440,9 +310,7 @@
     "context": "Lenny mentions that one of Jonathan's clients said the biggest lesson learned was to trust his intuition more. Jonathan is explaining his philosophy about supporting founders through difficult existential decisions. He believes that when founders get quiet and listen to their inner voice - what he calls founder intuition - they usually know the right answer. His role is not to give directive advice but to help founders access and trust their own judgment.",
     "vocabulary_highlights": [
       "founder intuition",
-      "support",
-      "philosophy",
-      "lesson learned"
+      "support"
     ],
     "topics": [
       "Leadership & Management",
@@ -488,48 +356,16 @@
           "opposition",
           "neglect"
         ]
-      },
-      {
-        "word": "philosophy",
-        "definition": "A set of beliefs or principles that guide an individual's or organization's behavior and decision-making.",
-        "businessContext": "In business, a company's philosophy can shape its culture, strategic direction, and approach to customer relations and employee engagement.",
-        "nuance": "Business philosophies often reflect core values and can influence long-term sustainability and brand identity.",
-        "synonyms": [
-          "principle",
-          "doctrine"
-        ],
-        "antonyms": [
-          "chaos",
-          "anarchy"
-        ]
-      },
-      {
-        "word": "lesson learned",
-        "definition": "A valuable insight or understanding gained from experience, particularly from mistakes or challenges faced.",
-        "businessContext": "In the business world, lessons learned are crucial for continuous improvement and are often documented to prevent future errors and enhance decision-making.",
-        "nuance": "This phrase suggests a reflective approach to experience, emphasizing growth and development rather than failure.",
-        "synonyms": [
-          "insight gained",
-          "takeaway"
-        ],
-        "antonyms": [
-          "repetition of mistakes",
-          "ignorance"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "the first timers are like twenty-something year olds in a bar... anyone that makes eye contact with them is enough for them to say, I want to go on a date with you.",
     "speaker": "Jonathan Lowenhar",
     "timestamp": "01:09:39",
     "context": "Lenny asks Jonathan about go-to-market strategy and where founders should focus their efforts. Jonathan is explaining the biggest mistake first-time founders make when defining their ideal customer profile (ICP). He's using a humorous analogy to describe how inexperienced founders often lack discrimination in choosing customers - they'll try to sell to anyone who shows interest rather than being selective about their target market.",
-    "vocabulary_highlights": [
-      "go-to-market strategy",
-      "ideal customer profile",
-      "focus efforts",
-      "first-time founders"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Growth & Marketing",
       "Starting a Company"
@@ -541,70 +377,15 @@
       "Executive Coaching",
       "Product Management"
     ],
-    "text_ko": "초기 창업자들(early stage founders)은, 특히 처음 창업하는 사람들(first-timers)에게서 더 그렇습니다. 처음 창업하는 사람들은 마치 술집에 처음 나온 이십대 초반들처럼 사람들과 어울리는 게 처음이라서, 누군가 눈을 마주치기만 해도 '저 사람과 데이트하고 싶다'고 생각해요.",
-    "text_zh": "早期创业者，特别是那些第一次创业的，比有经验的老手更容易这样——就像二十多岁的年轻人第一次去酒吧社交，谁跟他们对个眼神，他们就想\"我要跟你约会\"。",
-    "text_es": "Los fundadores en etapas tempranas, y esto es mucho más cierto para los primerizos que para los veteranos, los primerizos son como veinteañeros en un bar que están socializando por primera vez en sus vidas, y cualquiera que los mire a los ojos les basta para decir \"quiero salir contigo\".",
+    "text_ko": "첫 방문자들은 바에 있는 20대들 같아요... 누군가 눈을 마주치기만 해도 '너랑 데이트하고 싶어'라고 말할 정도예요.",
+    "text_zh": "第一次来的人就像酒吧里二十多岁的年轻人，谁要是和他们对上眼，他们就会马上想：“我要约你出来。”",
+    "text_es": "Los que están empezando son como jóvenes de veintitantos en un bar: con que alguien les mire a los ojos, ya se lanzan y dicen «quiero salir contigo».",
     "key_sentence": "First timers make eye contact with anyone, wanting to go on a date.",
     "text_trimmed": true,
     "original_text": "Early stage founders, and this is certainly more true for the first timers than the veterans, the first timers are like twenty-something year olds in a bar and they're being social for the first time in their lives, and anyone that makes eye contact with them is enough for them to say, I want to go on a date with you.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "go-to-market strategy",
-        "definition": "A go-to-market strategy is a comprehensive plan that outlines how a company will sell its products or services to customers, including market analysis, target audience, and sales tactics.",
-        "businessContext": "In business and startup environments, a go-to-market strategy is crucial for defining how to effectively reach and engage potential customers, ensuring a successful product launch and market penetration.",
-        "nuance": "This term often implies a strategic approach that balances marketing, sales, and distribution efforts, and is typically used in discussions about new product introductions.",
-        "synonyms": [
-          "market entry strategy",
-          "launch strategy"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "ideal customer profile",
-        "definition": "An ideal customer profile (ICP) is a detailed description of the type of customer that would benefit most from a company's product or service, including demographics, behaviors, and needs.",
-        "businessContext": "In startups and businesses, defining an ICP helps in targeting marketing efforts and sales strategies to attract the most valuable customers, thereby optimizing resource allocation.",
-        "nuance": "The term suggests a focus on quality over quantity in customer acquisition and is often used in discussions about customer segmentation and targeting.",
-        "synonyms": [
-          "target customer profile",
-          "buyer persona"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "focus efforts",
-        "definition": "To focus efforts means to concentrate resources, time, and energy on specific tasks or objectives to achieve greater effectiveness and efficiency.",
-        "businessContext": "In business settings, particularly in startups, focusing efforts is essential for prioritizing initiatives that align with strategic goals and maximizing impact in a resource-constrained environment.",
-        "nuance": "This phrase conveys a sense of intentionality and prioritization, often used in strategic planning discussions to emphasize the importance of clarity in objectives.",
-        "synonyms": [
-          "concentrate efforts",
-          "prioritize actions"
-        ],
-        "antonyms": [
-          "scatter efforts",
-          "diversify actions"
-        ]
-      },
-      {
-        "word": "first-time founders",
-        "definition": "First-time founders are individuals who are starting a business for the first time, often characterized by their inexperience in entrepreneurship and the challenges they face in establishing a new venture.",
-        "businessContext": "In the startup ecosystem, first-time founders are often the focus of mentorship and support programs aimed at helping them navigate the complexities of launching and growing a business.",
-        "nuance": "This term can carry a connotation of both enthusiasm and naivety, and is often used in discussions about the unique challenges and learning curves faced by new entrepreneurs.",
-        "synonyms": [
-          "novice entrepreneurs",
-          "new business founders"
-        ],
-        "antonyms": [
-          "experienced founders",
-          "seasoned entrepreneurs"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

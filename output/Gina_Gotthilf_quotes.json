@@ -6,8 +6,6 @@
     "context": "Gina begins the podcast by sharing one of her key beliefs about effective communication. She's discussing how true communication goes far beyond simply delivering information - it requires ensuring the message is not only heard but actually absorbed and retained by the audience. This insight reflects her experience in growth marketing and brand building at companies like Duolingo.",
     "vocabulary_highlights": [
       "convey",
-      "understand",
-      "effective",
       "communication"
     ],
     "topics": [
@@ -42,34 +40,6 @@
         ]
       },
       {
-        "word": "understand",
-        "definition": "To grasp the meaning, significance, or nature of something; to comprehend.",
-        "businessContext": "Understanding is essential in business negotiations and decision-making processes, as it ensures all parties are aligned on objectives and expectations.",
-        "nuance": "The term 'understand' suggests a deeper level of comprehension, often implying that one can apply knowledge rather than just recognize it.",
-        "synonyms": [
-          "comprehend",
-          "grasp"
-        ],
-        "antonyms": [
-          "misunderstand",
-          "confuse"
-        ]
-      },
-      {
-        "word": "effective",
-        "definition": "Producing a desired or intended result; successful in achieving a goal.",
-        "businessContext": "In a business context, effective strategies and communication are vital for maximizing productivity and achieving organizational objectives.",
-        "nuance": "While 'effective' denotes success, it often implies efficiency and appropriateness in the method used to achieve that success.",
-        "synonyms": [
-          "efficient",
-          "successful"
-        ],
-        "antonyms": [
-          "ineffective",
-          "inefficient"
-        ]
-      },
-      {
         "word": "communication",
         "definition": "The act of exchanging information, ideas, or feelings between individuals or groups through speaking, writing, or other mediums.",
         "businessContext": "Effective communication is foundational in business environments, facilitating collaboration, negotiation, and relationship-building among teams and clients.",
@@ -83,7 +53,8 @@
           "miscommunication"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "One of the things I've helped employ at Duolingo that I think is still there today, it's definitely not just me, it was an amazing team, is a unique voice.",
@@ -91,10 +62,8 @@
     "timestamp": "00:00:13",
     "context": "Lenny asks about what made Duolingo successful as one of the rare consumer subscription apps that thrived. Gina explains how Duolingo differentiated itself from typical educational apps by developing a distinctive brand voice that was quirky, funny, and emotionally engaging rather than just instructional. She emphasizes that creating an emotional connection with users was crucial to the app's growth and retention.",
     "vocabulary_highlights": [
-      "differentiate",
       "unique",
-      "employ",
-      "thrive"
+      "employ"
     ],
     "topics": [
       "Growth & Marketing",
@@ -108,28 +77,14 @@
       "Marketing Strategy",
       "Community Building"
     ],
-    "text_ko": "제가 Duolingo에서 도입하는 데 도움을 준 것 중 하나로, 지금도 남아 있다고 생각하는 게 있어요. 물론 저 혼자 한 건 아니고 훌륭한 팀이 있었어요. 그건 바로 '독특한 목소리'(unique voice)예요. 그게 무슨 뜻이냐면, 단순히 지시를 주고 그대로 따라 하게 하는 평범한 언어 학습 앱(language learning app)이 아니라는 거예요. 항상 어딘가에 약간의 기발한 요소(quirk)가 있어서 예상치 못한 면이 있고, 우리가 사용자에게 말하는 방식이 조금 웃기고 우리 자신을 너무 심각하게 여기지 않아요. 그래서 그 메시지를 받는 사람이 뭔가를 느끼게 해요.",
-    "text_zh": "我在多邻国(Duolingo)帮忙建立的一个东西，现在应该还在用，当然不是我一个人的功劳，是整个团队都很棒，就是打造了一个很独特的品牌调性。这个意思就是说，我们不想做成那种普通的语言学习应用，就是给你指令然后你照着做。我们总是会有点小怪癖，让人意想不到的那种。我们跟用户说话的方式会有点幽默感，不会太严肃，这样用户收到信息的时候就会有感觉，有共鸣。",
-    "text_es": "Una de las cosas que ayudé a implementar en Duolingo y que creo que sigue ahí hoy en día, y por supuesto no fue solo yo sino un equipo increíble, es una voz única. Y lo que esto significa es que no somos simplemente otra app de idiomas donde te damos instrucciones y tú sigues las indicaciones. Siempre hay algo peculiar, algo inesperado. La forma en que te hablamos es un poco divertida. No nos tomamos demasiado en serio y eso hace que la persona que recibe este mensaje sienta algo.",
+    "text_ko": "제가 듀오링고에서 도입하는 데 기여했고 지금도 남아 있다고 생각하는 것 중 하나는 바로 특유의 목소리예요. 물론 저 혼자 한 건 아니고, 정말 멋진 팀이 있었어요.",
+    "text_zh": "我在多邻国帮着打造的一个东西，现在应该还在用，当然不是我一个人的功劳，是整个团队都很棒，就是打造了一个很独特的品牌声音。",
+    "text_es": "Una de las cosas que ayudé a desarrollar en Duolingo y que creo que sigue ahí hoy en día, aunque definitivamente no fue solo yo sino un equipo increíble, es una voz única.",
     "key_sentence": "a unique voice.",
     "text_trimmed": true,
     "original_text": "One of the things I've helped employ at Duolingo that I think is still there today, it's definitely not just me, it was an amazing team, is a unique voice. And what that means is not just another language learning app where we give you instructions and you follow directions. There is always a quirk, like it's unexpected. The way we talk to you is a little bit funny. It doesn't take ourselves too seriously and it makes the person receiving this message feel something.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "differentiate",
-        "definition": "To recognize or ascertain what makes something distinct or unique from others.",
-        "businessContext": "In business, differentiating products or services is crucial for establishing a competitive advantage in the market.",
-        "nuance": "This term often implies a strategic approach to highlighting features that set a product apart, rather than merely stating differences.",
-        "synonyms": [
-          "distinguish",
-          "separate"
-        ],
-        "antonyms": [
-          "conflate",
-          "merge"
-        ]
-      },
       {
         "word": "unique",
         "definition": "Being the only one of its kind; unlike anything else.",
@@ -157,22 +112,10 @@
           "neglect",
           "disregard"
         ]
-      },
-      {
-        "word": "thrive",
-        "definition": "To grow or develop vigorously; to prosper or flourish.",
-        "businessContext": "Companies that thrive in competitive markets often do so by innovating and adapting to changing consumer needs and market conditions.",
-        "nuance": "While 'thrive' conveys a sense of success and vitality, it may imply a proactive approach to overcoming challenges rather than merely surviving.",
-        "synonyms": [
-          "prosper",
-          "flourish"
-        ],
-        "antonyms": [
-          "struggle",
-          "fail"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "We are very encouraged in our lives, especially professionally, to talk about our A-sides all the time. Because that's what impresses people, that's what opens doors, that's what allows us to keep growing and it's so important.",
@@ -196,9 +139,9 @@
       "Marketing Strategy",
       "Community Building"
     ],
-    "text_ko": "우리 삶, 특히 직업적으로는 항상 'A-사이드(A-sides)'만 얘기하라고 많이들 권장해요. 사람들이 감동받고 문을 열어주고 계속 성장하게 해주는 게 바로 그 부분이라 정말 중요한 건 맞거든요. 그래서 팟캐스트나 강연에서 듣는 이야기들 상당수가 개인이나 회사, 나아가 한 나라의 궤적까지도 인스타에 올리기 좋은(Instagramable) 버전으로 정리돼요. 결국은 하이라이트만 있는 거죠.",
-    "text_zh": "我们在生活中，特别是职场上，总是被鼓励要展示自己最好的一面。因为这样才能给人留下深刻印象，才能为我们打开机会的大门，才能让我们不断成长，这确实很重要。但这也意味着，你在播客里听到的，在台上看到的，往往都是经过包装的版本——不管是个人、公司还是国家的发展轨迹，基本上都只是那些亮点时刻。",
-    "text_es": "Nos animan mucho en la vida, sobre todo en el ámbito profesional, a hablar siempre de nuestro lado bueno. Porque eso es lo que impresiona a la gente, lo que te abre puertas, lo que te permite seguir creciendo y es súper importante. Esto hace que mucho de lo que escuchas en podcasts y en conferencias termine siendo la versión \"instagrameable\" de alguien, de una empresa, o de la trayectoria de un país. Solo son los momentos estelares.",
+    "text_ko": "특히 직장에서는 우리에게 항상 자기의 A-사이드(A-sides)만 얘기하라고 많이 권장해요. 사람들이 인상을 받게 하는 것도 그거고, 기회를 열어주는 것도 그거고, 계속 성장할 수 있게 해주는 것도 바로 그거라서요. 그래서 정말 중요해요.",
+    "text_zh": "不管是生活中还是工作中，大家都特别鼓励我们要多展示自己的优点和强项。因为这样才能给别人留下好印象，才能为自己打开机会的大门，才能让我们不断成长进步，这确实很重要。",
+    "text_es": "Nos animan mucho en la vida, sobre todo en el trabajo, a hablar siempre de nuestros puntos fuertes. Porque eso es lo que impresiona a la gente, lo que abre puertas, lo que nos permite seguir creciendo y es súper importante.",
     "key_sentence": "Because that's what impresses people, that's what opens doors, that's what allows us to keep growing and it's so important.",
     "text_trimmed": true,
     "original_text": "We are very encouraged in our lives, especially professionally, to talk about our A-sides all the time. Because that's what impresses people, that's what opens doors, that's what allows us to keep growing and it's so important. It means that a lot of what you hear in podcasts and on stage ends up being the Instagramable version of someone, or a company, or a country's trajectory. It's just the highlights.",
@@ -260,7 +203,8 @@
           "diminishing"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "My one learning there that has stuck with me, and I think can work for other people too, is that it's not just about doing things that actually matter, and learning.",
@@ -269,9 +213,7 @@
     "context": "Lenny asks Gina to share a B-side story from her life. Gina recounts her early struggles, including dropping out of college due to depression, having a college counselor tell her she had 'nothing to show for' her time, and facing multiple job rejections and layoffs. From these experiences, she learned an important lesson about the psychology of career advancement and how perception matters as much as actual accomplishments.",
     "vocabulary_highlights": [
       "learning",
-      "actually matter",
-      "struggles",
-      "counselor"
+      "actually matter"
     ],
     "topics": [
       "Career Development",
@@ -284,9 +226,9 @@
       "Marketing Strategy",
       "Community Building"
     ],
-    "text_ko": "거기서 제가 얻은 한 가지 교훈은 아직도 제게 남아 있고, 다른 사람들에게도 통할 수 있다고 생각해요. 중요한 일을 하고 배우는 것만으로는 충분하지 않고, 그걸 잘 설명할 수 있는 스토리텔링(storytelling) 능력과 다른 사람들이 무엇을 가치 있게 여기는지 이해하는 게 더 중요하다는 거예요.",
-    "text_zh": "我在那儿学到的一个道理，到现在还印象特别深，我觉得对其他人也有用，就是说光做有意义的事情、光学习是不够的。你得会讲故事，得明白别人眼里什么才是有价值的。",
-    "text_es": "Mi gran aprendizaje de esa época, que se me ha quedado grabado y creo que le puede servir a otros también, es que no se trata solo de hacer cosas que realmente importen y de aprender. Se trata de saber contar la historia, y de entender qué es lo que los demás ven como valioso.",
+    "text_ko": "제가 거기서 얻은 한 가지 깨달음이 있어요. 지금까지도 남아 있고 다른 사람들에게도 도움이 될 것 같아요. 실제로 의미 있는 일을 하고 배우는 것만으로는 충분하지 않더라고요.",
+    "text_zh": "我在那里学到的一个道理，到现在还记得很清楚，我觉得对别人也有用，就是不能光做那些真正重要的事情，光学习还不够。",
+    "text_es": "Lo que más me quedó de esa experiencia, y creo que le puede servir a otros también, es que no se trata solo de hacer cosas que realmente importan y de aprender.",
     "key_sentence": "it's not just about doing things that actually matter, and learning.",
     "text_trimmed": true,
     "original_text": "My one learning there that has stuck with me, and I think can work for other people too, is that it's not just about doing things that actually matter, and learning. It's about being able to tell the story, and it's about understanding what other people perceive as valuable.",
@@ -319,36 +261,10 @@
           "irrelevant",
           "insignificant"
         ]
-      },
-      {
-        "word": "struggles",
-        "definition": "Efforts or challenges faced when trying to achieve a goal, often involving difficulty or hardship.",
-        "businessContext": "In the business world, struggles can refer to obstacles in project management, team dynamics, or market competition that require strategic solutions.",
-        "nuance": "While 'struggles' can imply negative experiences, they can also lead to growth and innovation when addressed constructively.",
-        "synonyms": [
-          "challenges",
-          "difficulties"
-        ],
-        "antonyms": [
-          "ease",
-          "success"
-        ]
-      },
-      {
-        "word": "counselor",
-        "definition": "A professional who provides guidance, support, and advice, often in a specific area such as career development or personal issues.",
-        "businessContext": "In corporate environments, counselors may assist employees with career planning, conflict resolution, or mental health support, contributing to overall workplace well-being.",
-        "nuance": "The term 'counselor' often implies a supportive and advisory role, distinct from more authoritative positions like managers or supervisors.",
-        "synonyms": [
-          "advisor",
-          "consultant"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "So we deployed historic amounts of money in the campaign. It wasn't me, Gina, personally. I think that's important to share. So my Bloomberg presidential campaign was spending roughly a million dollars a day. Which is crazy.",
@@ -372,9 +288,9 @@
       "Marketing Strategy",
       "Community Building"
     ],
-    "text_ko": "그래서 우리는 캠페인에 역대급 규모의 돈을 쏟아부었어요. 그건 저나 지나가 개인적으로 한 건 아니었어요. 이건 꼭 공유해야 할 것 같아요. 블룸버그 대선 캠페인(Bloomberg presidential campaign)은 하루에 대략 백만 달러를 썼어요. 정말 미친 수준이에요. 하루에 백만 달러면 할 수 있는 일이 엄청 많아요.",
-    "text_zh": "所以我们在竞选活动中投入了史无前例的资金。我要澄清一下，这不是我吉娜个人出的钱，我觉得这点很重要。当时我的彭博总统竞选团队每天大概要烧掉一百万美金。这简直太疯狂了。你想想，一天一百万美金能干多少事儿啊。",
-    "text_es": "Entonces desplegamos cantidades históricas de dinero en la campaña. No fui yo, Gina, personalmente. Creo que es importante aclarar eso. Mi campaña presidencial de Bloomberg estaba gastando aproximadamente un millón de dólares al día. Lo cual es una locura. Y puedes hacer muchísimo con un millón de dólares diarios.",
+    "text_ko": "그래서 캠페인에 역대급 규모의 자금을 투입했어요. 그건 저나 지나 개인이 부담한 건 아니에요. 이 점은 꼭 공유해야 한다고 생각해요. 제 블룸버그 대선 캠페인은 하루에 대략 백만 달러씩 쓰고 있었어요. 정말 말도 안 되는 수준이에요.",
+    "text_zh": "所以我们在竞选活动中投入了史无前例的资金。这不是我吉娜个人的钱，我觉得这点很重要要说清楚。我们彭博总统竞选团队当时每天烧钱大概一百万美元。这简直太疯狂了。",
+    "text_es": "Entonces desplegamos cantidades históricas de dinero en la campaña. No fui yo, Gina, personalmente. Me parece importante aclarar eso. La campaña presidencial de Bloomberg estaba gastando aproximadamente un millón de dólares al día. Lo cual es una locura.",
     "key_sentence": "We deployed historic amounts of money, spending roughly a million dollars a day.",
     "text_trimmed": true,
     "original_text": "So we deployed historic amounts of money in the campaign. It wasn't me, Gina, personally. I think that's important to share. So my Bloomberg presidential campaign was spending roughly a million dollars a day. Which is crazy. And you can do a lot with a million dollars a day.",
@@ -436,7 +352,8 @@
           "income"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "Which is, once you click on an ad, you land somewhere. And then whatever happens there is super important. Because if people then take the action you want them to take on that landing page, or don't, is definitive.",
@@ -445,8 +362,6 @@
     "context": "Gina is explaining what she learned from working on the Bloomberg campaign with their massive advertising budget. She describes how there were many talented people focused on creating and optimizing ads, but she realized that most people overlook what happens after someone clicks an ad - the landing page experience. She decided to focus her efforts on optimizing landing pages rather than competing with others on ad creation, which proved highly effective.",
     "vocabulary_highlights": [
       "definitive",
-      "optimizing",
-      "take action",
       "landing page"
     ],
     "topics": [
@@ -460,9 +375,9 @@
       "Marketing Strategy",
       "Community Building"
     ],
-    "text_ko": "광고(ad)를 클릭하면 어딘가로 이동하게 되죠. 그곳에서 무슨 일이 일어나는지가 정말 중요해요. 랜딩 페이지(landing page)에서 사람들이 우리가 원하는 행동을 하느냐 안 하느냐가 결국 결정적이에요. 그런데 다들 모든 노력과 돈을 광고에만 쏟아부어요.",
-    "text_zh": "就是说，用户点了广告之后，会跳转到一个页面。然后在那个页面上发生的事情特别关键。因为用户在那个落地页(landing page)上到底会不会按你希望的去做，这就是成败的关键。但是大家都把精力和钱全砸在广告上了。",
-    "text_es": "O sea, una vez que haces clic en un anuncio, llegas a algún lugar. Y lo que pasa ahí es súper importante. Porque si la gente hace lo que tú quieres que haga en esa página de aterrizaje (landing page), o no lo hace, eso es lo que define todo. Pero todo el mundo se gasta todo su esfuerzo y dinero en los anuncios.",
+    "text_ko": "광고(ad)를 클릭하면 특정 랜딩 페이지(landing page)로 연결되잖아요. 그곳에서 무슨 일이 벌어지는지가 정말 중요해요. 사람들이 그 랜딩 페이지에서 우리가 원하는 행동을 하느냐 안 하느냐가 결국 모든 걸 결정해요.",
+    "text_zh": "就是说，用户点击广告之后，会跳转到一个页面。接下来在那个页面上发生的事情就特别关键了。因为用户在那个落地页(landing page)上到底会不会按你希望的去操作，基本上就能决定成败了。",
+    "text_es": "O sea, una vez que haces clic en un anuncio, llegas a algún lado. Y lo que pase ahí es súper importante. Porque si la gente hace lo que tú quieres que haga en esa página de destino (landing page), o no lo hace, eso ya es definitivo.",
     "key_sentence": "whatever happens there is super important.",
     "text_trimmed": true,
     "original_text": "Which is, once you click on an ad, you land somewhere. And then whatever happens there is super important. Because if people then take the action you want them to take on that landing page, or don't, is definitive. But everyone spends all of their effort and money on the ads.",
@@ -483,34 +398,6 @@
         ]
       },
       {
-        "word": "optimizing",
-        "definition": "The process of making something as effective or functional as possible.",
-        "businessContext": "In a business context, optimizing often refers to improving processes, systems, or resources to enhance performance and efficiency.",
-        "nuance": "The term suggests a continuous process of improvement rather than a one-time fix, making it suitable for discussions about ongoing strategies.",
-        "synonyms": [
-          "enhancing",
-          "refining"
-        ],
-        "antonyms": [
-          "deteriorating",
-          "neglecting"
-        ]
-      },
-      {
-        "word": "take action",
-        "definition": "To initiate a response or make a decision to address a situation or achieve a goal.",
-        "businessContext": "In business, 'taking action' often refers to implementing strategies or making decisions that drive progress and results.",
-        "nuance": "This phrase conveys a sense of urgency and proactivity, making it appropriate in contexts where immediate response is necessary.",
-        "synonyms": [
-          "act",
-          "respond"
-        ],
-        "antonyms": [
-          "delay",
-          "hesitate"
-        ]
-      },
-      {
         "word": "landing page",
         "definition": "A standalone web page created specifically for a marketing or advertising campaign, designed to direct visitors to take a specific action.",
         "businessContext": "In digital marketing, a landing page is crucial for converting visitors into leads or customers by focusing on a single call to action.",
@@ -524,7 +411,9 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Very few people really believed that we were going to make it, not surprisingly. Even though we had this amazing team, et cetera, now it looks almost obvious, it's like B to C language learning just seems so niche.",
@@ -532,7 +421,6 @@
     "timestamp": "00:25:18",
     "context": "Lenny asks Gina what Duolingo did right to become one of the rare successful consumer subscription businesses, noting that most B2C subscription apps fail. Gina explains that initially, few people believed Duolingo would succeed because language learning seemed like a niche market and education technology was seen as unprofitable. She's setting up to explain what factors actually made Duolingo successful despite these perceived limitations.",
     "vocabulary_highlights": [
-      "consumer subscription",
       "niche",
       "believed",
       "amazing team"
@@ -548,28 +436,14 @@
       "Marketing Strategy",
       "Community Building"
     ],
-    "text_ko": "솔직히 우리가 해낼 거라고 진짜 믿은 사람은 거의 없었어요. 그럴 만했죠. 멋진 팀도 있고 여러 조건이 있었음에도, 지금 보면 다 당연해 보이거든요. B to C(B2C) 방식의 언어 학습은 워낙 틈새처럼 보였고, 게다가 교육은 돈이 안 된다는 인식이 강했어요. 교육 분야는 오랫동안 정체돼 있기도 했고요.",
-    "text_zh": "当时真正相信我们能成功的人寥寥无几，这也不奇怪。虽然我们有这个超棒的团队什么的，现在回头看好像很显而易见，但当时B2C语言学习这块儿看起来就是个很小众的市场。再加上教育行业嘛，大家都觉得教育不赚钱，这个行业卡在那儿太久了。",
-    "text_es": "Muy poca gente realmente creía que lo íbamos a lograr, lo cual no sorprende para nada. Aunque teníamos este equipo increíble y todo eso, ahora parece casi obvio, es como que el aprendizaje de idiomas B2C se ve súper nicho. Y además la educación, no hay plata en educación. Ha estado estancada por muchísimo tiempo.",
+    "text_ko": "우리가 성공할 거라고 진짜로 믿은 사람은 거의 없었어요. 놀랍지 않아요. 훌륭한 팀도 있었고 여러 조건이 맞았는데도, 지금 보면 거의 당연해 보이죠. 소비자 대상(B2C) 언어 학습은 그냥 너무 틈새 시장처럼 보였으니까요.",
+    "text_zh": "说实话，当时几乎没人相信我们能成功，这也不奇怪。虽然我们团队很厉害什么的，现在回头看好像很明显，但当时B to C的语言学习看起来就是个很小众的市场。",
+    "text_es": "Muy poca gente realmente creía que íbamos a lograrlo, y no es sorpresa. Aunque teníamos este equipo increíble y todo eso, ahora parece casi obvio, es como que el aprendizaje de idiomas B2C (business to consumer) se veía súper de nicho.",
     "key_sentence": "Very few believed we would make it; education seems so niche with no money.",
     "text_trimmed": true,
     "original_text": "Very few people really believed that we were going to make it, not surprisingly. Even though we had this amazing team, et cetera, now it looks almost obvious, it's like B to C language learning just seems so niche. And plus education, there's no money in education. It's been stuck for so long.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "consumer subscription",
-        "definition": "A consumer subscription is a business model where customers pay a recurring fee to access a product or service, typically on a monthly or annual basis.",
-        "businessContext": "In the tech and startup sectors, consumer subscriptions are often used for software, streaming services, and digital content, allowing companies to generate steady revenue and build customer loyalty.",
-        "nuance": "The term implies a direct relationship with individual consumers rather than businesses, highlighting the importance of user experience and satisfaction.",
-        "synonyms": [
-          "subscription model",
-          "recurring revenue"
-        ],
-        "antonyms": [
-          "one-time purchase",
-          "N/A"
-        ]
-      },
       {
         "word": "niche",
         "definition": "A niche refers to a specialized segment of the market for a particular kind of product or service.",
@@ -612,6 +486,8 @@
           "ineffective group"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

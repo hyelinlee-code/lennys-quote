@@ -21,9 +21,9 @@
       "Product Strategy",
       "B2B SaaS"
     ],
-    "text_ko": "성공을 어디에 돌리시겠어요? 그냥 '운'이라고만 할 순 없어요. 겸손한 사람들은 어떻게든 '운'이라고 하긴 하는데, 저는 그 사람이 얼마나 자기 인식(self-awareness)이 있고, 얼마나 호기심(curiosity)이 있는지가 궁금해요. 자신이 왜 지금 이 자리에 있게 됐는지 다시 돌아보고 성찰해보는 태도 자체가 그 사람이 세상을 어떻게 보는지를 많은 걸 말해준다고 생각해요.",
-    "text_zh": "\"你觉得自己的成功主要靠什么？\"而且你不能说是\"运气\"。因为我觉得谦虚的人总会说是运气什么的，但我其实想知道的是，你到底有多了解自己，有多好奇？我觉得那些真正回过头来思考\"我为什么能走到今天这一步\"的人，从他们的回答就能看出他们是怎么看这个世界的。",
-    "text_es": "\"¿A qué atribuyes tu éxito?\" Y no puedes decir \"suerte\". Porque creo que la gente humilde siempre va a decir \"suerte\" de alguna manera, y yo siempre quiero saber, básicamente, ¿qué tan consciente eres de ti mismo y qué tan curioso eres? Creo que las personas que realmente se han puesto a reflexionar y analizar por qué están donde están hoy, eso dice mucho sobre cómo ven el mundo.",
+    "text_ko": "“자신의 성공을 무엇 덕분이라고 보세요?” 그리고 ‘운’이라고 대답하면 안 돼요. 겸손한 사람들은 흔히 그렇게 말하니까요. 저는 본질적으로 그 사람이 자기 인식(self-awareness)이 어느 정도인지, 그리고 호기심(curiosity)은 얼마나 강한지가 궁금해요.",
+    "text_zh": "你觉得自己的成功靠什么？别说“运气”。谦虚的人总会这么回答。我更想知道的是，你有多了解自己？你到底有多好奇？",
+    "text_es": "¿A qué atribuye usted su éxito? No puede decir \"suerte\". Creo que la gente humilde suele achacarlo a la \"suerte\" de alguna manera, y a mí siempre me interesa saber, básicamente, qué tan consciente es usted de sí mismo y qué tan curioso es.",
     "key_sentence": "You can't attribute your success to luck; self-awareness matters.",
     "text_trimmed": true,
     "original_text": "\"To what do you attribute your success?\" And you can't say \"luck\". Because I think humble people will always say \"luck\" in some way, and I always kind of want to know, how self-aware are you, basically, and how curious are you? I think people have really sort of gone back and reflected on why are they where they are today really says a lot about how they think about the world.",
@@ -85,7 +85,8 @@
           "proud"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "I ask, \"What's the hardest thing you've ever done?\" I ask that because working at Ramp is hard, and I want to understand what hard means for them. I want to understand why it was hard.",
@@ -93,10 +94,7 @@
     "timestamp": "04:06",
     "context": "Geoff Charles, Head of Product at Ramp, explains his favorite interview question when Lenny asks about effective ways to evaluate candidates. This question helps him assess a candidate's resilience and problem-solving abilities, which are crucial for success at Ramp since the work environment is particularly challenging and demanding.",
     "vocabulary_highlights": [
-      "resilience",
-      "evaluate",
-      "understand",
-      "assess"
+      "understand"
     ],
     "topics": [
       "Leadership & Management",
@@ -109,42 +107,14 @@
       "Product Design",
       "Leadership Development"
     ],
-    "text_ko": "저는 \"지금까지 해본 일 중 가장 어려웠던 게 뭐예요?\"라고 물어봐요. Ramp에서 일하는 건 쉽지 않아서 그런 질문을 하는 거고, '힘들다'가 그분들한테는 구체적으로 어떤 의미인지 알고 싶어요. 왜 그게 힘들었는지, 그 어려움을 어떻게 극복했는지, 다른 사람들과는 어떻게 협력해서 해냈는지, 그리고 그 과정을 극복하는 데 본인의 주도성(agency)이 어느 정도였는지도 알고 싶어요.",
-    "text_zh": "我会问：\"你做过最难的事情是什么？\"我之所以这么问，是因为在Ramp工作很辛苦，我想了解对他们来说\"难\"意味着什么。我想知道为什么那件事很难，想了解他们是怎么克服困难的，怎么和别人配合一起解决问题的，还有他们在解决问题的过程中发挥了多大的主观能动性。",
-    "text_es": "Les pregunto: \"¿Qué ha sido lo más difícil que has hecho en tu vida?\" Hago esta pregunta porque trabajar en Ramp es exigente, y quiero entender qué significa \"difícil\" para ellos. Quiero saber por qué fue tan complicado, cómo lograron superarlo, cómo trabajaron con otros para salir adelante, y qué tanto control tuvieron sobre la situación para resolverlo.",
+    "text_ko": "제가 \"지금까지 해본 것 중 가장 힘들었던 건 뭐예요?\"라고 물어봐요. Ramp에서 일하는 건 쉽지 않아서요, 그분들에게 '힘들다'가 무엇을 의미하는지, 또 왜 그 일이 힘들었는지 이해하고 싶어서요.",
+    "text_zh": "我会问：“你做过最难的一件事是什么？” 我这么问是因为在Ramp工作很不容易，我想知道对他们来说“难”是什么意思，也想弄清楚那件事为什么会那么难。",
+    "text_es": "Les pregunto: «¿Qué es lo más difícil que han hecho?» Lo hago porque trabajar en Ramp es duro y quiero entender qué significa \"duro\" para cada persona; quiero saber por qué les resultó difícil.",
     "key_sentence": "I want to understand what hard means for them.",
     "text_trimmed": true,
     "original_text": "I ask, \"What's the hardest thing you've ever done?\" I ask that because working at Ramp is hard, and I want to understand what hard means for them. I want to understand why it was hard. I want to understand how they overcame that difficulty, how they worked with other people to overcome that difficulty, and how much agency they had in overcoming that.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "resilience",
-        "definition": "The capacity to recover quickly from difficulties or setbacks; the ability to adapt to challenging situations.",
-        "businessContext": "In business, resilience refers to an organization's ability to withstand market fluctuations and recover from crises, ensuring long-term sustainability and growth.",
-        "nuance": "While resilience often implies strength and durability, it can also suggest a need for flexibility and adaptability in the face of adversity.",
-        "synonyms": [
-          "adaptability",
-          "tenacity"
-        ],
-        "antonyms": [
-          "fragility",
-          "vulnerability"
-        ]
-      },
-      {
-        "word": "evaluate",
-        "definition": "To assess or appraise the value, quality, or significance of something based on certain criteria.",
-        "businessContext": "In a business context, evaluating often involves analyzing performance metrics, financial reports, or project outcomes to inform decision-making and strategy.",
-        "nuance": "Evaluate suggests a systematic and objective approach, often involving comparison against benchmarks or standards, rather than a subjective opinion.",
-        "synonyms": [
-          "assess",
-          "appraise"
-        ],
-        "antonyms": [
-          "ignore",
-          "overlook"
-        ]
-      },
       {
         "word": "understand",
         "definition": "To grasp the meaning, significance, or nature of something; to comprehend fully.",
@@ -158,22 +128,10 @@
           "misunderstand",
           "confuse"
         ]
-      },
-      {
-        "word": "assess",
-        "definition": "To evaluate or estimate the nature, ability, or quality of something, often through careful consideration.",
-        "businessContext": "In business settings, assessing is critical for risk management, performance reviews, and project evaluations, helping leaders make informed decisions.",
-        "nuance": "Assess carries a connotation of thoroughness and often involves quantitative or qualitative measures, distinguishing it from more casual evaluations.",
-        "synonyms": [
-          "evaluate",
-          "appraise"
-        ],
-        "antonyms": [
-          "neglect",
-          "dismiss"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Interestingly, all of a sudden the sharp product managers, engineers, basically every role, they very quickly find what are the one or two Eigenquestions on this topic.",
@@ -182,9 +140,7 @@
     "context": "Shishir Mehrotra, CEO of Coda, describes his teleportation device interview question where candidates must identify the most important questions to ask. An \"Eigenquestion\" in his framework refers to the fundamental questions that unlock the most critical information needed to make strategic decisions. He explains how strong candidates quickly identify these core questions that drive all other business decisions.",
     "vocabulary_highlights": [
       "product managers",
-      "engineers",
-      "identify",
-      "important questions"
+      "engineers"
     ],
     "topics": [
       "Product Management",
@@ -197,9 +153,9 @@
       "Growth Strategy",
       "Team Building"
     ],
-    "text_ko": "재밌게도, 갑자기 유능한 제품 매니저들, 엔지니어들, 사실상 모든 역할의 사람들이 이 주제에 대해 한두 가지 핵심 질문(Eigenquestions)을 아주 빠르게 찾아내요. 정답은 없지만, 제가 좋아하는 질문 중 하나를 말해볼게요. 한 제품 매니저가 \"만약 제가 두 가지 질문만 해야 한다면, 제가 물어볼 두 가지 중 첫 번째는 이게 사람들에게 충분히 안전한가요, 아닌가요?\"라고 했거든요.",
-    "text_zh": "有意思的是，突然间那些敏锐的产品经理、工程师，基本上各个岗位的人，都能很快找到这个话题的一两个核心问题(Eigenquestions)。虽然没有标准答案，但我跟你说一个我最喜欢的，因为那个产品经理说：\"好吧，如果我只能问两个问题的话，我会问的两个问题，第一个就是，这对人类来说够不够安全？\"",
-    "text_es": "Es interesante, de repente los product managers más avispados, los ingenieros, básicamente todos los roles, muy rápido encuentran cuáles son las una o dos preguntas fundamentales sobre este tema. No hay una respuesta correcta, pero te voy a contar una de mis favoritas, porque el product manager dijo: \"Oye, si tuviera que hacer dos preguntas, las dos preguntas que haría serían: una, ¿es lo suficientemente seguro para los humanos o no?\"",
+    "text_ko": "흥미롭게도, 갑자기 유능한 프로덕트 매니저(PM)들, 엔지니어들, 사실상 거의 모든 역할의 사람들이 이 주제에 대해 한두 가지 핵심 질문(Eigenquestions)을 금세 찾아내요.",
+    "text_zh": "有意思的是，突然之间，那些敏锐的产品经理、工程师，几乎每个岗位的人，都能很快抓住这个话题的一两个关键问题（Eigenquestions）。",
+    "text_es": "Lo curioso es que, de repente, los responsables de producto (product managers) más perspicaces, los ingenieros y, en general, prácticamente todos los roles, identifican enseguida cuáles son una o dos preguntas clave (Eigenquestions) sobre ese tema.",
     "key_sentence": "Sharp product managers quickly find Eigenquestions on the topic.",
     "text_trimmed": true,
     "original_text": "Interestingly, all of a sudden the sharp product managers, engineers, basically every role, they very quickly find what are the one or two Eigenquestions on this topic. There's no right answer, but I'll tell you one of my favorite ones, because the product manager said, \"Okay, if I had to ask two questions, the two questions I would ask, one, is it safe enough for humans or not?\"",
@@ -232,36 +188,10 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "identify",
-        "definition": "To identify means to recognize or establish the characteristics, qualities, or significance of something.",
-        "businessContext": "In business settings, identifying key issues, opportunities, or customer needs is essential for strategic planning and decision-making.",
-        "nuance": "The term suggests a process of analysis and discernment, often used in contexts where clarity and precision are required.",
-        "synonyms": [
-          "recognize",
-          "determine"
-        ],
-        "antonyms": [
-          "ignore",
-          "overlook"
-        ]
-      },
-      {
-        "word": "important questions",
-        "definition": "Important questions are inquiries that hold significant relevance or implications for understanding a situation, making decisions, or driving strategic initiatives.",
-        "businessContext": "In business and tech environments, asking important questions is critical for uncovering insights, guiding product development, and fostering innovation.",
-        "nuance": "The phrase emphasizes the need for thoughtful consideration and prioritization of inquiries that can lead to impactful outcomes.",
-        "synonyms": [
-          "critical inquiries",
-          "key questions"
-        ],
-        "antonyms": [
-          "trivial questions",
-          "insignificant inquiries"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The thought experiment for me is always, coming out of that, do I feel compelled to work on that problem? Right? No matter how boring it sounds on the surface, I think a really great product manager kind of casts something.",
@@ -270,7 +200,6 @@
     "context": "Yuhki Yamashita, Chief Product Officer at Figma, discusses what he looks for when candidates describe big problems they've worked on. He explains that exceptional product managers have the ability to make any problem sound compelling and important through their storytelling skills, which is crucial since much of a PM's job involves communication and inspiring teams to work on challenging problems.",
     "vocabulary_highlights": [
       "compelled",
-      "exceptional",
       "casts",
       "product manager"
     ],
@@ -285,9 +214,9 @@
       "Product Management",
       "User Experience"
     ],
-    "text_ko": "저한테는 항상 하나의 사고 실험(thought experiment)이 있어요. 그걸 거치고 나서 이 문제에 꼭 뛰어들어 일하고 싶다는 마음이 드는지가 중요한 거예요. 표면적으로 아무리 지루해 보여도, 정말 훌륭한 프로덕트 매니저(product manager)는 뭔가를 던져요. \"이게 왜 그렇게 근본적이고 흥미로운지\"를 설명하면서 사람들 사기를 북돋우고 하나로 모이게 만드는 식이에요.",
-    "text_zh": "我经常做这样的思考实验：从这个问题出发，我会不会有冲动去解决它？对吧？不管表面上听起来多无聊，我觉得真正厉害的产品经理(product manager)都有一种魔力。他们会说：\"你看，这就是为什么这个问题这么要命，为什么这么有意思\"，然后就把整个团队都给调动起来了。",
-    "text_es": "Para mí el ejercicio mental siempre es: después de eso, ¿siento que realmente me urge trabajar en ese problema? ¿No? Por más aburrido que suene al principio, creo que un product manager realmente bueno como que le da una vuelta especial. Es tipo \"Mira, por esto es tan fundamental y por esto es tan interesante\", y logra motivar a todo el equipo.",
+    "text_ko": "저는 늘 사고 실험(thought experiment)을 해요. 그걸 통해 '이 문제를 해결하는 일에 끌려서 직접 뛰어들고 싶다'는 마음이 드는지를 확인해요. 겉으로 아무리 지루해 보여도, 정말 훌륭한 제품 매니저(product manager)는 사람들을 끌어들이는 무언가를 만들어내요.",
+    "text_zh": "我通常的思考方式是这样的：从那点出发，我会问自己——我有没有一种非做不可的冲动去解决这个问题？对吧？不管表面上看起来多无聊，我觉得真正优秀的产品经理(product manager)总能把它讲成一个有吸引力的故事。",
+    "text_es": "Mi experimento mental siempre es: cuando salgo de eso, ¿me dan ganas de ponerme a trabajar en ese problema? Por muy aburrido que parezca a primera vista, creo que un gran responsable de producto (product manager) de algún modo le da sentido.",
     "key_sentence": "A great product manager compels you to work on the problem.",
     "text_trimmed": true,
     "original_text": "The thought experiment for me is always, coming out of that, do I feel compelled to work on that problem? Right? No matter how boring it sounds on the surface, I think a really great product manager kind of casts something. It's like, \"Well, this is why it's so existential and this is why it's so interesting, and really rallied the troops up.",
@@ -305,20 +234,6 @@
         "antonyms": [
           "unmotivated",
           "indifferent"
-        ]
-      },
-      {
-        "word": "exceptional",
-        "definition": "Remarkably good or outstanding; surpassing the usual standards.",
-        "businessContext": "In the context of business or technology, 'exceptional' is often used to describe products, services, or performance that exceed expectations and stand out in the marketplace.",
-        "nuance": "While 'exceptional' has a positive connotation, it can also imply rarity, so it should be used to highlight truly unique qualities rather than common achievements.",
-        "synonyms": [
-          "extraordinary",
-          "remarkable"
-        ],
-        "antonyms": [
-          "ordinary",
-          "average"
         ]
       },
       {
@@ -349,7 +264,9 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Good answers are people who put structure and a way forward through the ambiguity. That's what you look for. You want your PM to not just be like, \"Oh no, we're swimming in ambiguity,\" but actually put a path forward.",
@@ -359,8 +276,7 @@
     "vocabulary_highlights": [
       "structure",
       "ambiguity",
-      "path forward",
-      "evaluate"
+      "path forward"
     ],
     "topics": [
       "Product Management",
@@ -419,22 +335,9 @@
           "deadlock",
           "stalemate"
         ]
-      },
-      {
-        "word": "evaluate",
-        "definition": "To assess or appraise the value, quality, or significance of something based on established criteria.",
-        "businessContext": "In business, evaluating performance, projects, or strategies is crucial for informed decision-making and resource allocation.",
-        "nuance": "While 'evaluate' implies a thorough and systematic approach, it can sometimes suggest a level of subjectivity, depending on the criteria used.",
-        "synonyms": [
-          "assess",
-          "appraise"
-        ],
-        "antonyms": [
-          "ignore",
-          "disregard"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "\"What unfair secrets have you learned to improve the velocity and energy level of a product team?\" When I say \"unfair\" or \"secret\", I usually mean not something that you probably read on a media. \"What did you learn? How did you learn it?",
@@ -443,9 +346,7 @@
     "context": "Noah Weiss, Chief Product Officer at Slack, shares his favorite interview question when Lenny asks about creative ways to evaluate candidates. He's looking for unique insights or unconventional methods that candidates have discovered through experience rather than from commonly available resources like blog posts or articles. This helps him identify people with genuine hands-on learning and innovative thinking.",
     "vocabulary_highlights": [
       "velocity",
-      "energy level",
-      "unconventional",
-      "insights"
+      "energy level"
     ],
     "topics": [
       "Product Management",
@@ -458,9 +359,9 @@
       "AI/ML Products",
       "Product Design"
     ],
-    "text_ko": "프로덕트 팀(product team)의 속도(velocity)와 활력(energy level)을 개선하기 위해 터득한 'unfair'한 비결이 뭐예요? 여기서 'unfair'나 'secret'이라고 하면 보통 미디어에서 볼 수 있는 평범한 얘기가 아니라, 잘 알려지지 않은 실전 노하우를 말해요. 무엇을 배웠나요? 어떻게 배웠고, 그게 어떻게 작동하며, 실제로 어떻게 적용하나요?",
-    "text_zh": "\"你有什么不为人知的独门绝活，能让产品团队的效率和活力大幅提升？我说的'不为人知'或者'独门绝活'，不是那种你在媒体上随便就能看到的东西。你是怎么学到的？具体怎么操作？又是怎么运用到实际工作中的？\"",
-    "text_es": "\"¿Qué trucos o secretos no tan conocidos has aprendido para acelerar el ritmo y subir la energía de un equipo de producto? Cuando digo 'trucos' o 'secretos', me refiero a cosas que probablemente no vas a leer en cualquier artículo o blog. ¿Qué aprendiste? ¿Cómo lo aprendiste? ¿Cómo funciona y cómo lo aplicas?\"",
+    "text_ko": "프로덕트 팀(product team)의 속도(velocity)와 에너지 레벨(energy level)을 높이기 위해 터득한, 남들이 잘 모르는 '불공정한 비결'이 있나요? 제가 'unfair'나 'secret'이라고 말할 때는 보통 미디어에서 볼 수 있는 평범한 조언이 아니라 공개적으로 잘 알려지지 않은 실전 팁을 뜻해요. 무엇을 배웠고, 그걸 어떻게 배웠나요?",
+    "text_zh": "你学到过哪些能显著提升产品团队推进速度(velocity)和士气(energy level)的“不公平”的秘诀？当我说“unfair”或“secret”时，我指的不是那些你在媒体上随处能看到的公开做法。你具体学到了什么？又是怎么学到的？",
+    "text_es": "¿Qué secretos “injustos” has aprendido para mejorar la velocidad (velocity) y el nivel de energía (energy level) de un equipo de producto? Cuando digo “injusto” o “secreto” me refiero a cosas que probablemente no encontrarás en los medios. ¿Qué aprendiste y cómo lo aprendiste?",
     "key_sentence": "Unfair secrets improve the velocity and energy level of a product team.",
     "text_trimmed": true,
     "original_text": "\"What unfair secrets have you learned to improve the velocity and energy level of a product team?\" When I say \"unfair\" or \"secret\", I usually mean not something that you probably read on a media. \"What did you learn? How did you learn it? How does it work, and how do you apply it?\"",
@@ -493,36 +394,10 @@
           "apathy",
           "lethargy"
         ]
-      },
-      {
-        "word": "unconventional",
-        "definition": "Unconventional describes approaches, ideas, or methods that deviate from the norm or traditional practices.",
-        "businessContext": "In the startup and tech industries, being unconventional can lead to innovative solutions and competitive advantages, as companies seek to differentiate themselves in crowded markets.",
-        "nuance": "The term often implies a positive embrace of creativity and risk-taking, but can also suggest a lack of structure or predictability in certain contexts.",
-        "synonyms": [
-          "nontraditional",
-          "original"
-        ],
-        "antonyms": [
-          "conventional",
-          "standard"
-        ]
-      },
-      {
-        "word": "insights",
-        "definition": "Insights are deep understandings or realizations that provide clarity and guidance on a particular subject or situation.",
-        "businessContext": "In business, insights derived from data analysis, market research, or customer feedback are essential for informed decision-making and strategic planning.",
-        "nuance": "Insights carry a connotation of valuable knowledge that can lead to actionable strategies, distinguishing them from mere information or data points.",
-        "synonyms": [
-          "understandings",
-          "revelations"
-        ],
-        "antonyms": [
-          "ignorance",
-          "misunderstanding"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "\"What's something that everyone takes for granted that you think is essentially hogwash or inaccurate?\" Sometimes I'll ask a manager, \"Look, you've managed hundreds of people in your career. What's conventional wisdom that you bet against, that you have found is actually inaccurate?\"",
@@ -532,8 +407,7 @@
     "vocabulary_highlights": [
       "conventional wisdom",
       "bet against",
-      "essentially",
-      "evaluate"
+      "essentially"
     ],
     "topics": [
       "Leadership & Management",
@@ -593,21 +467,8 @@
           "superficially",
           "incidentally"
         ]
-      },
-      {
-        "word": "evaluate",
-        "definition": "To evaluate means to assess or appraise the value, quality, or performance of something based on specific criteria.",
-        "businessContext": "In a business context, evaluation is crucial for decision-making processes, such as performance reviews, project assessments, and financial analyses.",
-        "nuance": "The term suggests a systematic approach to judgment, which is important in professional settings to ensure objectivity and thoroughness.",
-        "synonyms": [
-          "assess",
-          "appraise"
-        ],
-        "antonyms": [
-          "ignore",
-          "neglect"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

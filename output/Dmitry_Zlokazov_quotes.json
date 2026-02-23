@@ -7,7 +7,6 @@
     "vocabulary_highlights": [
       "striving",
       "unquenched",
-      "prioritize",
       "intellect"
     ],
     "topics": [
@@ -56,20 +55,6 @@
         ]
       },
       {
-        "word": "prioritize",
-        "definition": "To arrange or deal with in order of importance or urgency.",
-        "businessContext": "In business, prioritizing is crucial for effective resource allocation, project management, and strategic planning, ensuring that the most critical tasks receive attention first.",
-        "nuance": "Prioritize suggests a systematic approach to decision-making, where certain tasks or objectives are deemed more significant than others based on specific criteria.",
-        "synonyms": [
-          "rank",
-          "order"
-        ],
-        "antonyms": [
-          "neglect",
-          "deprioritize"
-        ]
-      },
-      {
         "word": "intellect",
         "definition": "The faculty of reasoning and understanding objectively, especially with regard to abstract or academic matters.",
         "businessContext": "In the tech and startup sectors, intellect is often valued as a key asset, driving innovation and problem-solving capabilities within teams and organizations.",
@@ -83,7 +68,8 @@
           "stupidity"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "It's not getting traction. Is it because the underlying idea is wrong? Or maybe your product just sucks? By forcing everyone to build a product that people will love, we kind of cut out this part of uncertainty.",
@@ -93,8 +79,7 @@
     "vocabulary_highlights": [
       "traction",
       "underlying",
-      "uncertainty",
-      "investing"
+      "uncertainty"
     ],
     "topics": [
       "Product Management",
@@ -154,34 +139,16 @@
           "certainty",
           "confidence"
         ]
-      },
-      {
-        "word": "investing",
-        "definition": "Investing involves allocating resources, usually money, with the expectation of generating a return or profit over time.",
-        "businessContext": "In business, investing can refer to funding startups, purchasing assets, or allocating capital to projects that are expected to yield future benefits.",
-        "nuance": "Investing carries inherent risks, and the term often implies a long-term commitment rather than short-term speculation.",
-        "synonyms": [
-          "funding",
-          "capital allocation"
-        ],
-        "antonyms": [
-          "withdrawing",
-          "divesting"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "If something is 99% done, it's closer to 0% rather than 100%.",
     "speaker": "Dmitry Zlokazov",
     "timestamp": "00:00:43",
     "context": "Lenny asks Dmitry about what he's learned about setting up new products for success. Dmitry shares this philosophy about execution and completion, emphasizing that product owners at Revolut must be relentlessly focused on actually shipping and delivering value to customers, not just building features.",
-    "vocabulary_highlights": [
-      "execution",
-      "completion",
-      "philosophy",
-      "success"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Leadership & Management"
@@ -198,76 +165,15 @@
     "text_es": "Si algo está al 99%, está más cerca del 0% que del 100%.",
     "key_sentence": "If something is 99% done, it's closer to 0% than 100%.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "execution",
-        "definition": "The act of carrying out or putting into effect a plan, order, or course of action.",
-        "businessContext": "In business, execution refers to the implementation of strategies and plans to achieve specific objectives, often emphasizing the importance of timely and effective action.",
-        "nuance": "While execution implies a focus on action, it can also suggest a level of precision and adherence to established guidelines, making it important in discussions about performance and results.",
-        "synonyms": [
-          "implementation",
-          "enforcement"
-        ],
-        "antonyms": [
-          "abandonment",
-          "inaction"
-        ]
-      },
-      {
-        "word": "completion",
-        "definition": "The state of having finished or concluded a task or project.",
-        "businessContext": "In a business context, completion signifies the successful finalization of a project or task, often linked to meeting deadlines and delivering results.",
-        "nuance": "Completion can carry a sense of finality, but it may also imply that further evaluation or follow-up is necessary to ensure quality and satisfaction.",
-        "synonyms": [
-          "finalization",
-          "conclusion"
-        ],
-        "antonyms": [
-          "incompletion",
-          "interruption"
-        ]
-      },
-      {
-        "word": "philosophy",
-        "definition": "A set of beliefs or principles that guide an individual's or organization's behavior and decision-making.",
-        "businessContext": "In business, philosophy often refers to the core values and guiding principles that shape company culture, strategic direction, and stakeholder interactions.",
-        "nuance": "While philosophy can denote a formal system of thought, in business it often reflects the informal, underlying attitudes that influence actions and policies.",
-        "synonyms": [
-          "principle",
-          "doctrine"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "success",
-        "definition": "The achievement of a desired outcome or goal, often measured by specific criteria.",
-        "businessContext": "In the business realm, success is typically quantified through metrics such as profitability, market share, or customer satisfaction, and is a key indicator of organizational performance.",
-        "nuance": "Success can vary widely in meaning depending on context; what constitutes success for one organization may differ significantly for another, making it essential to define clear metrics.",
-        "synonyms": [
-          "achievement",
-          "accomplishment"
-        ],
-        "antonyms": [
-          "failure",
-          "setback"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true
   },
   {
     "text": "We go very deep on example of each of these projects. For example, we launched a branch in Ireland, we launched a branch in Netherlands.",
     "speaker": "Dmitry Zlokazov",
     "timestamp": "00:12:55",
     "context": "Lenny asks for a specific example of what Dmitry means when he talks about product owners needing to go really deep into details. Dmitry explains how Revolut's lean team handles the complex challenge of launching banking operations across 50 countries. Rather than trying to solve everything at once, they dive deep into specific examples first, then extract learnings to create scalable processes.",
-    "vocabulary_highlights": [
-      "launch",
-      "project",
-      "handle",
-      "complex"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Strategy & Planning",
       "Product Management"
@@ -279,71 +185,16 @@
       "User Experience",
       "Product Strategy"
     ],
-    "text_ko": "저희는 각 프로젝트 사례를 하나하나 아주 깊게 파고들어요. 예를 들어 아일랜드에 지사를 세우고 네덜란드에도 지사를 열었죠. 그런 다음 어떤 프로세스가 가장 효과적이었는지 역공학(reverse-engineering)으로 분석하고, 그걸 바탕으로 상위 수준에서 다시 보며 '이걸 대규모(at scale)로 진행할 때 이상적인 프레임워크(framework)는 뭘까?'라고 정리했어요.",
-    "text_zh": "我们会深挖每个项目的具体案例。比如说，我们在爱尔兰开了分公司，在荷兰也开了分公司。然后我们就倒推分析，看看最佳流程是什么，再回到顶层去思考，那如果要大规模复制的话，理想的框架应该是什么样的？",
-    "text_es": "Nos metemos a fondo con ejemplos de cada uno de estos proyectos. Por ejemplo, abrimos una sucursal en Irlanda, abrimos otra en Holanda. Después hicimos ingeniería inversa para ver cuál era el mejor proceso para hacerlo, y luego volvimos al nivel más alto y dijimos, bueno, ¿pero cuál es el marco ideal para hacerlo a gran escala?",
+    "text_ko": "각 프로젝트 사례를 하나하나 아주 깊게 다뤄요. 예를 들어 아일랜드와 네덜란드에 각각 지사를 설립했어요.",
+    "text_zh": "我们会深入讲每个项目的具体例子。比如说，我们在爱尔兰开了分公司，在荷兰也开了分公司。",
+    "text_es": "Nos metemos a fondo en ejemplos de cada uno de estos proyectos. Por ejemplo, abrimos una sucursal en Irlanda, abrimos una sucursal en Holanda.",
     "key_sentence": "We go very deep on example of each of these projects.",
     "text_trimmed": true,
     "original_text": "We go very deep on example of each of these projects. For example, we launched a branch in Ireland, we launched a branch in Netherlands. Then we reverse engineered what was the best process to do it, and then we went back up on top level and we said, okay, but what's the ideal framework of doing it at scale?",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "launch",
-        "definition": "To initiate or start a new product, service, or project, often involving a formal announcement or introduction to the market.",
-        "businessContext": "In business and tech, launching typically refers to the introduction of new offerings to customers, often accompanied by marketing efforts to generate interest and sales.",
-        "nuance": "While 'launch' conveys a sense of excitement and new beginnings, it is important to ensure that all preparatory steps have been completed to avoid potential pitfalls.",
-        "synonyms": [
-          "initiate",
-          "unveil"
-        ],
-        "antonyms": [
-          "withdraw",
-          "suspend"
-        ]
-      },
-      {
-        "word": "project",
-        "definition": "A temporary endeavor undertaken to create a unique product, service, or result, characterized by specific objectives and defined timelines.",
-        "businessContext": "In business settings, projects are often used to implement strategic initiatives, develop new products, or improve processes, requiring careful planning and resource allocation.",
-        "nuance": "The term 'project' implies a structured approach with clear goals, and should not be confused with ongoing operations or activities.",
-        "synonyms": [
-          "initiative",
-          "undertaking"
-        ],
-        "antonyms": [
-          "routine",
-          "operation"
-        ]
-      },
-      {
-        "word": "handle",
-        "definition": "To manage, deal with, or take responsibility for a task, situation, or individual.",
-        "businessContext": "In a business context, handling often refers to the management of customer inquiries, project challenges, or team dynamics, requiring effective communication and problem-solving skills.",
-        "nuance": "While 'handle' suggests competence, it can also imply a level of difficulty or challenge, so it should be used with care when discussing complex situations.",
-        "synonyms": [
-          "manage",
-          "address"
-        ],
-        "antonyms": [
-          "neglect",
-          "ignore"
-        ]
-      },
-      {
-        "word": "complex",
-        "definition": "Consisting of many interconnected parts; not simple or straightforward, often requiring careful analysis or consideration.",
-        "businessContext": "In business and technology, complex systems or projects may involve multiple stakeholders, intricate processes, or advanced technologies that necessitate specialized knowledge and strategic planning.",
-        "nuance": "The term 'complex' can carry a negative connotation of confusion or difficulty, so it is important to clarify the specific aspects that contribute to the complexity.",
-        "synonyms": [
-          "complicated",
-          "intricate"
-        ],
-        "antonyms": [
-          "simple",
-          "straightforward"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I would probably add an obsession with building wow product. I think in FinTech overall, this is probably the most neglected part usually, but it's also a part that we at Revolut, we pay enormous attention to.",
@@ -353,8 +204,7 @@
     "vocabulary_highlights": [
       "obsession",
       "neglected",
-      "enormous attention",
-      "delightful"
+      "enormous attention"
     ],
     "topics": [
       "Product Management",
@@ -414,22 +264,9 @@
           "minimal attention",
           "negligible focus"
         ]
-      },
-      {
-        "word": "delightful",
-        "definition": "Causing great pleasure or satisfaction; charming or pleasing.",
-        "businessContext": "In customer service and product design, creating delightful experiences can lead to increased customer loyalty and positive word-of-mouth marketing.",
-        "nuance": "Delightful is often used to convey a sense of joy and satisfaction, making it suitable for describing exceptional customer experiences or products that exceed expectations.",
-        "synonyms": [
-          "charming",
-          "enjoyable"
-        ],
-        "antonyms": [
-          "unpleasant",
-          "displeasing"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "Unfortunately, professionals with a lot of years of experience from established companies, they don't have this strong urge to change status quo, which by the way will require toil, tears, and sweat.",
@@ -439,8 +276,7 @@
     "vocabulary_highlights": [
       "status quo",
       "urge",
-      "established",
-      "driven"
+      "established"
     ],
     "topics": [
       "Career Development",
@@ -500,22 +336,9 @@
           "emerging",
           "novel"
         ]
-      },
-      {
-        "word": "driven",
-        "definition": "Motivated or determined to achieve a goal, often with a strong sense of purpose.",
-        "businessContext": "In the business world, driven individuals or teams are often seen as key contributors to innovation and success, pushing boundaries to achieve objectives.",
-        "nuance": "The term 'driven' connotes a proactive and ambitious attitude, which is generally viewed positively, but can also imply an intense focus that may overlook collaboration or balance.",
-        "synonyms": [
-          "motivated",
-          "ambitious"
-        ],
-        "antonyms": [
-          "unmotivated",
-          "complacent"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "Most importantly, it's again, getting things done, getting your hands dirty, and great product owners are very hands-on. They don't think of themselves as managers who just give tasks to people and wait them to complete it.",
@@ -523,7 +346,6 @@
     "timestamp": "00:55:20",
     "context": "Lenny asks what else Revolut looks for when hiring that leads to people being really successful in their careers. Dmitry emphasizes the importance of execution-focused candidates who are willing to personally tackle difficult problems rather than just delegating work. He explains that successful product owners at Revolut take personal ownership of outcomes and are willing to do whatever work is necessary themselves.",
     "vocabulary_highlights": [
-      "execution-focused",
       "hands-on",
       "product owners",
       "getting things done"
@@ -545,20 +367,6 @@
     "key_sentence": "Great product owners are hands-on, getting their hands dirty instead of just managing.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "execution-focused",
-        "definition": "Prioritizing the implementation and completion of tasks and projects over theoretical discussions or planning.",
-        "businessContext": "In business settings, being execution-focused means emphasizing actionable steps and measurable outcomes, often crucial in fast-paced environments like startups.",
-        "nuance": "This term conveys a sense of urgency and practicality, suggesting that success is measured by results rather than intentions.",
-        "synonyms": [
-          "results-oriented",
-          "implementation-driven"
-        ],
-        "antonyms": [
-          "theory-oriented",
-          "planning-focused"
-        ]
-      },
       {
         "word": "hands-on",
         "definition": "Involving active participation and direct engagement in tasks rather than merely overseeing or delegating them.",
@@ -601,6 +409,7 @@
           "inaction"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

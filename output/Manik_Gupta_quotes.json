@@ -20,9 +20,9 @@
       "Consumer Products",
       "Product Management"
     ],
-    "text_ko": "저는 기술(technology)에 대해 아주 낙관적인 편이에요. 요즘은 기술을 둘러싼 이야기들이 많은데, 오히려 비관적인 목소리가 더 커진 것 같아 좀 이상해요. 저는 기술을 강력히 지지하는 사람이자 낙관론자예요. 기술이 세상에 선한 영향을 주는 강한 힘이라고 믿거든요.",
-    "text_zh": "我是个坚定的技术乐观派。现在总有很多关于技术的讨论，而且可能还带着点悲观情绪，我觉得这挺奇怪的。我就是特别支持技术发展，特别乐观，因为我觉得技术绝对是个正面力量。",
-    "text_es": "Soy muy optimista con la tecnología. Últimamente hay mucha conversación sobre la tecnología y quizás un poco más de pesimismo, y me parece rarísimo. Es que soy un defensor y optimista de la tecnología súper convencido, porque siento que la tecnología es una fuerza increíblemente positiva.",
+    "text_ko": "저는 기술 낙관론자(technology optimist)이에요. 요즘 기술에 대한 내러티브(narrative)가 넘쳐나고, 어쩐지 비관적인 쪽으로 더 기운 것 같은데, 저는 그게 좀 이상하게 느껴져요.",
+    "text_zh": "我一直很看好技术(technology)。最近围绕技术的说法很多，而且比以前更偏悲观，我觉得这有点奇怪。",
+    "text_es": "Soy muy optimista con la tecnología. Últimamente hay mucha narrativa alrededor de ella y, si acaso, algo más de pesimismo; me resulta extraño.",
     "key_sentence": "I'm a strong technology optimist.",
     "text_trimmed": true,
     "original_text": "I'm a strong technology optimist. There's always a lot of narrative these days around technology and maybe a little bit more pessimism, and I find that bizarre. I'm just such a strong technology advocate and optimist, because I feel technology's such a strong force for good.",
@@ -84,7 +84,8 @@
           "ordinary"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "When I joined Google in India in 2008, I started off working on Google Maps and I remember how counterintuitive it was for anybody; my friends and family, a bunch of other folks whom I talked to.",
@@ -92,10 +93,7 @@
     "timestamp": "00:09:23",
     "context": "Lenny asks what project or product Manik is most proud of from his career. Manik discusses his work on Google Maps in India, explaining how initially it seemed counterintuitive to build a maps product for India because the country seemed unmappable due to poor addressing systems and people traditionally asked for directions from locals instead of using technology.",
     "vocabulary_highlights": [
-      "counterintuitive",
-      "project",
-      "product",
-      "build"
+      "counterintuitive"
     ],
     "topics": [
       "Product Management",
@@ -107,9 +105,9 @@
       "Consumer Products",
       "Product Management"
     ],
-    "text_ko": "2008년 인도에서 구글에 합류했을 때 구글 지도(Google Maps) 일을 처음 맡았어요. 친구들이나 가족, 만나봤던 여러 사람들 모두 '인도에서 누가 휴대폰으로 지도를 쓰겠어?'라며 전혀 이해를 못 했던 기억이 나요.",
-    "text_zh": "2008年我刚加入谷歌印度的时候，一开始是做谷歌地图的。我记得当时所有人都觉得特别不可思议——我的朋友、家人，还有其他很多我聊过的人。他们都想不通，在印度谁会在手机上用地图啊？",
-    "text_es": "Cuando me uní a Google en India en 2008, empecé trabajando en Google Maps y recuerdo lo raro que le parecía a todo el mundo; a mis amigos, mi familia, y a un montón de gente con la que hablaba. Les parecía rarísimo la idea de por qué alguien iba a usar mapas en su celular en India.",
+    "text_ko": "2008년에 인도에서 구글에 입사했을 때 구글 맵스(Google Maps) 일을 처음 맡았어요. 친구들이나 가족, 그리고 제가 얘기해본 여러 사람들에게 그게 얼마나 직관적이지 않았는지 아직도 기억해요.",
+    "text_zh": "2008年我去印度加入谷歌，刚开始做的是谷歌地图(Google Maps)。我记得这对很多人来说挺反直觉的——不管是我朋友、家人，还是我聊过的其他人。",
+    "text_es": "Cuando me incorporé a Google en la India en 2008, empecé trabajando en Google Maps y recuerdo lo poco intuitivo que les pareció a la gente en general: mis amigos, mi familia y varias otras personas con las que hablé.",
     "key_sentence": "Using maps on mobile phones was counterintuitive for many in India.",
     "text_trimmed": true,
     "original_text": "When I joined Google in India in 2008, I started off working on Google Maps and I remember how counterintuitive it was for anybody; my friends and family, a bunch of other folks whom I talked to. Counterintuitive in terms of why would anybody ever use maps on their mobile phone in India?",
@@ -128,50 +126,10 @@
           "intuitive",
           "predictable"
         ]
-      },
-      {
-        "word": "project",
-        "definition": "A planned set of interrelated tasks to be executed over a fixed period and within certain cost and performance parameters.",
-        "businessContext": "In business settings, projects are essential for achieving specific objectives, such as launching a product, improving processes, or implementing new systems.",
-        "nuance": "While 'project' can refer to any planned activity, it often implies a temporary endeavor with a clear beginning and end, making it distinct from ongoing operations.",
-        "synonyms": [
-          "initiative",
-          "undertaking"
-        ],
-        "antonyms": [
-          "routine",
-          "operation"
-        ]
-      },
-      {
-        "word": "product",
-        "definition": "An item or service that is created to meet the needs or demands of consumers, typically offered for sale in the marketplace.",
-        "businessContext": "In the context of business and technology, a product can range from physical goods to software applications, and its development often involves extensive market research and user testing.",
-        "nuance": "The term 'product' encompasses both tangible and intangible offerings, and its use can vary depending on whether one is discussing consumer goods or digital solutions.",
-        "synonyms": [
-          "offering",
-          "merchandise"
-        ],
-        "antonyms": [
-          "service",
-          "N/A"
-        ]
-      },
-      {
-        "word": "build",
-        "definition": "To create or develop something, often referring to the construction of a product, system, or organization.",
-        "businessContext": "In tech and startup environments, 'build' frequently refers to the process of developing software or hardware, as well as the broader concept of establishing a company or brand.",
-        "nuance": "While 'build' can imply physical construction, in business it often connotes a focus on innovation and development, making it a versatile term in entrepreneurial discussions.",
-        "synonyms": [
-          "construct",
-          "develop"
-        ],
-        "antonyms": [
-          "destroy",
-          "dismantle"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "We glamorize successes and we don't talk enough about challenges. I'm really happy that you're asking this. I would give you two times which... I had a lot of learning from both of them, but they were pretty tough times for me.",
@@ -181,8 +139,7 @@
     "vocabulary_highlights": [
       "glamorize",
       "challenges",
-      "learning",
-      "emphasizes"
+      "learning"
     ],
     "topics": [
       "Career Development",
@@ -241,22 +198,9 @@
           "ignorance",
           "unlearning"
         ]
-      },
-      {
-        "word": "emphasizes",
-        "definition": "To give special importance or prominence to something in order to highlight its significance.",
-        "businessContext": "In business communications, emphasizing certain points can help clarify priorities and direct focus towards key initiatives or values.",
-        "nuance": "Overemphasizing can lead to misinterpretation or distraction, so it is important to balance emphasis with clarity.",
-        "synonyms": [
-          "stresses",
-          "highlights"
-        ],
-        "antonyms": [
-          "downplays",
-          "minimizes"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "People can smell fear and pessimism from far. Just like optimism is infectious, so is pessimism. If you're not feeling great as a leader, people will see it. Absolutely. People are not stupid. You have to not fake it.",
@@ -265,9 +209,7 @@
     "context": "Manik is describing lessons learned during the challenging dotcom bust period when he was running his startup. He explains how he learned about managing ambiguity and keeping people motivated during tough times, emphasizing that as a leader you cannot fake motivation - people will detect insincerity and your genuine emotional state affects the entire team.",
     "vocabulary_highlights": [
       "pessimism",
-      "infectious",
-      "ambiguity",
-      "motivate"
+      "infectious"
     ],
     "topics": [
       "Leadership & Management",
@@ -279,9 +221,9 @@
       "Consumer Products",
       "Product Management"
     ],
-    "text_ko": "사람들은 멀리서도 두려움이나 비관을 금방 느껴요. 낙관이 전염되듯이 비관도 전염돼요. 리더로서 기분이 안 좋으면 사람들은 금방 알아차려요. 사람들은 바보가 아니에요. 겉으로만 꾸미면 안 돼요. 진짜로 버티고자 하는 동기와 의지가 있어야 해요. 적어도 저는 그렇게 하려고 노력했고, 그 과정에서 많은 걸 배웠어요.",
-    "text_zh": "人们老远就能闻到你的恐惧和悲观情绪。就像乐观会传染一样，悲观也会传染。如果你作为领导者状态不好，大家肯定看得出来。绝对的。大家又不傻。你不能装，必须真的有动力坚持下去，至少我是这么努力做的，从中也学到了很多。",
-    "text_es": "La gente huele el miedo y el pesimismo de lejos. Igual que el optimismo se contagia, el pesimismo también. Si como líder no te sientes bien, la gente se va a dar cuenta. Totalmente. La gente no es tonta. No puedes fingir. Tienes que estar realmente motivado para aguantar y seguir adelante, y eso es lo que traté de hacer por lo menos, y aprendí muchísimo en el proceso.",
+    "text_ko": "사람들은 멀리서도 두려움이나 비관을 금방 알아차려요. 낙관이 전염되는 것처럼 비관도 퍼져요. 리더로서 기분이 안 좋으면 사람들은 금세 알아봐요. 당연하죠. 사람들이 쉽게 속지 않아요. 겉으로만 꾸미면 소용없어요.",
+    "text_zh": "别人远远就能感到你的恐惧和悲观。乐观会传染，悲观也一样。作为领导，如果你自己状态不好，大家一眼就看得出来。真的，别人不傻，所以别假装了。",
+    "text_es": "La gente percibe el miedo y el pesimismo a kilómetros. Igual que el optimismo se contagia, el pesimismo también. Si como líder no te encuentras bien, se nota. Sin duda: la gente no es tonta. No puedes fingirlo.",
     "key_sentence": "People can smell fear and pessimism from far; optimism is infectious.",
     "text_trimmed": true,
     "original_text": "People can smell fear and pessimism from far. Just like optimism is infectious, so is pessimism. If you're not feeling great as a leader, people will see it. Absolutely. People are not stupid. You have to not fake it. You have to really be motivated to stick it out, and that's what I tried to do at least, and I learned a lot in that.",
@@ -314,36 +256,10 @@
           "noncontagious",
           "isolated"
         ]
-      },
-      {
-        "word": "ambiguity",
-        "definition": "The quality of being open to more than one interpretation; inexactness or uncertainty in meaning.",
-        "businessContext": "In business communication, ambiguity can lead to misunderstandings and misaligned expectations, making it crucial to strive for clarity in messaging and documentation.",
-        "nuance": "While some level of ambiguity can foster creativity and open-ended discussions, excessive ambiguity can create confusion and hinder effective collaboration.",
-        "synonyms": [
-          "uncertainty",
-          "vagueness"
-        ],
-        "antonyms": [
-          "clarity",
-          "precision"
-        ]
-      },
-      {
-        "word": "motivate",
-        "definition": "To provide someone with a reason or incentive to act or behave in a certain way; to inspire or encourage.",
-        "businessContext": "Effective leaders must motivate their teams to achieve goals, often employing various strategies such as incentives, recognition, and fostering a positive work environment.",
-        "nuance": "While motivation can stem from external rewards, intrinsic motivation—driven by personal satisfaction and purpose—tends to lead to more sustainable performance and engagement.",
-        "synonyms": [
-          "inspire",
-          "encourage"
-        ],
-        "antonyms": [
-          "demotivate",
-          "discourage"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Build for the world from day one.",
@@ -351,9 +267,6 @@
     "timestamp": "00:24:33",
     "context": "Lenny asks about counterintuitive things Manik has learned about building consumer products. Manik argues against the common belief that you need different products for different global markets. He explains that while localization for language and pricing is necessary, the core user interface patterns and product functionality should be universal, as consumers worldwide now expect similar experiences.",
     "vocabulary_highlights": [
-      "counterintuitive",
-      "global markets",
-      "consumer products",
       "build for"
     ],
     "topics": [
@@ -366,56 +279,14 @@
       "Consumer Products",
       "Product Management"
     ],
-    "text_ko": "처음부터 전 세계를 대상으로 설계하세요. 특정 시장에서 채택을 촉진(drive adoption)하다 보면 해결해야 할 미묘한 차이들이 있겠지만, 시장별 솔루션(market-specific solutions) 만드는 데 과도하게 치중하지 마세요. 소비자들은 그런 모델을 이미 넘어섰어요.",
-    "text_zh": "从第一天起就要做全球化的产品。你得明白，在不同市场推广的时候肯定会遇到一些细节问题需要解决，但是别太纠结于为特定市场量身定制解决方案，因为现在的消费者已经不吃这一套了。",
-    "text_es": "Construye pensando en el mercado global desde el primer día. Ten claro que van a surgir ciertos matices que tendrás que resolver conforme vayas ganando tracción en algunos mercados, pero no te enfoques demasiado en crear soluciones súper específicas para cada mercado, porque los consumidores ya superaron ese tipo de modelo.",
+    "text_ko": "처음부터 전 세계 사용자를 염두에 두고 만드세요.",
+    "text_zh": "从一开始就把产品放眼全球来做",
+    "text_es": "Construye pensando en el mundo desde el primer día.",
     "key_sentence": "Build for the world from day one.",
     "text_trimmed": true,
     "original_text": "Build for the world from day one. Understand that there are going to be some nuances that you'll have to solve as you drive adoption in certain markets, but don't over index on building market specific solutions, because consumers have moved on from that kind of a model.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "counterintuitive",
-        "definition": "Counterintuitive refers to something that goes against common sense or what one would expect based on intuition.",
-        "businessContext": "In business and technology, counterintuitive strategies or decisions may lead to unexpected positive outcomes, challenging conventional wisdom and prompting innovation.",
-        "nuance": "This term is often used to highlight surprising results or approaches that defy traditional logic, making it suitable for discussions on innovation or strategy.",
-        "synonyms": [
-          "unexpected",
-          "paradoxical"
-        ],
-        "antonyms": [
-          "intuitive",
-          "expected"
-        ]
-      },
-      {
-        "word": "global markets",
-        "definition": "Global markets refer to the international economic systems where goods, services, and capital are exchanged across borders.",
-        "businessContext": "In a business context, understanding global markets is crucial for companies looking to expand their reach and compete on an international scale, influencing strategies in marketing, production, and distribution.",
-        "nuance": "The term implies a broader scope of operations and considerations, including cultural, economic, and regulatory factors, making it essential for multinational corporations.",
-        "synonyms": [
-          "international markets",
-          "world markets"
-        ],
-        "antonyms": [
-          "local markets",
-          "domestic markets"
-        ]
-      },
-      {
-        "word": "consumer products",
-        "definition": "Consumer products are goods that are purchased by individuals for personal use, as opposed to business or industrial use.",
-        "businessContext": "In the business sector, companies focus on consumer products to drive sales and brand loyalty, often requiring extensive market research to understand consumer preferences and trends.",
-        "nuance": "The term is often associated with mass-market items and can imply a focus on marketing and branding strategies aimed at end-users.",
-        "synonyms": [
-          "retail products",
-          "end-user products"
-        ],
-        "antonyms": [
-          "industrial products",
-          "business-to-business products"
-        ]
-      },
       {
         "word": "build for",
         "definition": "Build for refers to the practice of designing and developing products or services with a specific audience or market in mind from the outset.",
@@ -430,7 +301,9 @@
           "ignore"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "What I define as company product fit. Which is a company essentially is a portfolio of products, and every large company, medium-sized company also has a portfolio. They'll have 10, 20, in some cases hundreds of products in the portfolio.",
@@ -439,9 +312,7 @@
     "context": "Lenny asks Manik to explain his concept of company product fit for bigger companies building new products. Manik introduces his framework that comes before finding product market fit - companies must first determine if a new product fits within their portfolio and leverages their unique strengths. He explains that companies are portfolios of products with distinct capabilities, and new products should align with these strengths.",
     "vocabulary_highlights": [
       "portfolio",
-      "product fit",
-      "framework",
-      "market fit"
+      "product fit"
     ],
     "topics": [
       "Product Management",
@@ -453,9 +324,9 @@
       "Consumer Products",
       "Product Management"
     ],
-    "text_ko": "제가 말하는 회사-제품 적합성 (company product fit)은, 즉 회사는 본질적으로 여러 제품으로 이뤄진 제품 포트폴리오 (product portfolio)라는 뜻이에요. 대기업이든 중견기업이든 포트폴리오를 갖고 있고 보통 10개, 20개, 경우에 따라 수백 개의 제품을 포함하죠. 모든 회사는 저마다 고유한 강점과 약점이 있어요.",
-    "text_zh": "我定义的叫公司产品匹配度(company product fit)。其实公司本质上就是一个产品组合，每个大公司、中等规模的公司都有自己的产品组合。他们会有十几个、二十几个产品，有些情况下甚至几百个产品在这个组合里。每家公司都有自己独特的优势和短板。",
-    "text_es": "Lo que yo defino como el ajuste entre empresa y producto. Básicamente, una empresa es como una cartera de productos, y toda empresa grande, o incluso mediana, también tiene su portafolio. Van a tener 10, 20, en algunos casos cientos de productos en su cartera. Cada empresa tiene sus fortalezas y debilidades únicas.",
+    "text_ko": "제가 정의하는 '회사-제품 적합성(company product fit)'은요, 본질적으로 회사라는 게 제품들의 포트폴리오라는 뜻이에요. 큰 회사나 중견기업도 모두 포트폴리오를 가지고 있고, 보통 10개, 20개, 어떤 경우에는 수백 개의 제품이 들어 있어요.",
+    "text_zh": "我所说的公司产品匹配（company product fit），说白了就是把公司当成一个产品组合来看。每家大公司或中型公司都有这样的组合，可能十几个、二十个，有时候甚至上百个产品。",
+    "text_es": "Lo que yo llamo encaje empresa-producto (company product fit) es que una empresa, en el fondo, es una cartera de productos; toda compañía grande —y también las medianas— tiene una cartera: pueden tener 10, 20 y, en algunos casos, cientos de productos.",
     "key_sentence": "a company essentially is a portfolio of products",
     "text_trimmed": true,
     "original_text": "What I define as company product fit. Which is a company essentially is a portfolio of products, and every large company, medium-sized company also has a portfolio. They'll have 10, 20, in some cases hundreds of products in the portfolio. Every company has unique strengths and weaknesses.",
@@ -488,36 +359,10 @@
           "product misalignment",
           "market disconnect"
         ]
-      },
-      {
-        "word": "framework",
-        "definition": "A structured approach or system that provides guidance for understanding and solving complex problems.",
-        "businessContext": "In business and technology, frameworks are used to develop strategies, manage projects, or analyze data, providing a consistent methodology for decision-making.",
-        "nuance": "The term 'framework' suggests a flexible structure that can be adapted to various situations, rather than a rigid set of rules.",
-        "synonyms": [
-          "structure",
-          "system"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
-      },
-      {
-        "word": "market fit",
-        "definition": "The extent to which a product or service satisfies a strong market demand and is well-received by consumers.",
-        "businessContext": "Achieving market fit is a critical milestone for startups, indicating that the product not only exists but also has a viable customer base and demand.",
-        "nuance": "Market fit often implies a broader acceptance and sustainability of the product in the market, beyond initial sales or interest.",
-        "synonyms": [
-          "market alignment",
-          "consumer acceptance"
-        ],
-        "antonyms": [
-          "market rejection",
-          "product failure"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Having the right metrics is important, but it's incredible how many times people have the metrics but they don't instrument them. They'll have all these debates, because the product is not instrumented properly.",
@@ -527,8 +372,7 @@
     "vocabulary_highlights": [
       "metrics",
       "instrument",
-      "debates",
-      "capabilities"
+      "debates"
     ],
     "topics": [
       "Product Management",
@@ -540,9 +384,9 @@
       "Consumer Products",
       "Product Management"
     ],
-    "text_ko": "지표(metrics)를 제대로 갖추는 건 중요해요. 그런데 그 지표들을 계측(instrument)해 놓지 않은 경우가 얼마나 많은지 정말 놀라워요. 제품을 제대로 계측해 놓지 않아서 온갖 논쟁이 벌어지고, 모두 같은 지표(metrics)에 대해 얘기하지만 “이게 정확히 무슨 뜻이지? 일간 활성 사용자(daily active user)가 뭔가요?”처럼 세부 해석이 다 달라요.",
-    "text_zh": "有正确的指标很重要，但你知道吗，很多时候大家手里有数据，但就是没有好好去追踪。产品的数据埋点(instrument)做得不到位，然后就开始各种争论。明明说的是同一个指标，但每个人理解的都不一样，比如\"日活用户到底怎么定义？\"这种问题就出来了。",
-    "text_es": "Tener las métricas correctas es importante, pero es increíble la cantidad de veces que la gente tiene las métricas pero no las implementa bien. Se la pasan en debates interminables porque el producto no está instrumentado como debe ser. Y todos hablan de la misma métrica, pero cada quien le da su propia interpretación: \"¿Qué significa realmente esto? ¿Qué es un usuario activo diario?\"",
+    "text_ko": "올바른 지표(metrics)를 갖는 건 중요해요. 그런데 지표는 있어도 실제로 계측(instrument)해 놓지 않은 경우가 얼마나 많은지 정말 놀라워요. 제품이 제대로 계측(instrument)되어 있지 않으니까 온갖 논쟁만 벌여요.",
+    "text_zh": "有合适的指标(metrics)很重要，但说来也奇怪，很多时候大家有指标却没把它们埋点(instrument)。结果大家就争来争去，问题往往是产品没有被正确埋点。",
+    "text_es": "Tener las métricas (metrics) adecuadas es importante, pero es increíble cuántas veces la gente las tiene y no las instrumenta (instrument). Se enredan en debates porque el producto no está bien instrumentado (instrumented).",
     "key_sentence": "Having the right metrics is important, but many fail to instrument them.",
     "text_trimmed": true,
     "original_text": "Having the right metrics is important, but it's incredible how many times people have the metrics but they don't instrument them. They'll have all these debates, because the product is not instrumented properly. And everybody will talk about the same metric, but they'll have different nuances in terms of, 'Oh, what does it really mean? What is a daily active user?'",
@@ -589,21 +433,9 @@
           "agreement",
           "consensus"
         ]
-      },
-      {
-        "word": "capabilities",
-        "definition": "Capabilities refer to the skills, resources, and competencies that an organization possesses to achieve its objectives.",
-        "businessContext": "In business, understanding and leveraging capabilities is vital for competitive advantage and effective resource allocation.",
-        "nuance": "The term often implies a focus on potential and capacity for growth, rather than just current performance.",
-        "synonyms": [
-          "competencies",
-          "resources"
-        ],
-        "antonyms": [
-          "limitations",
-          "inabilities"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

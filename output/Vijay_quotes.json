@@ -6,9 +6,7 @@
     "context": "Lenny asks Vijay what he had to unlearn as an engineer when transitioning to product leadership. Vijay explains how engineers develop a defensive mindset against new ideas because they experience the ongoing maintenance burden of poorly thought-out features. This creates what he calls 'scar tissue' - a protective response that makes engineers reflexively reject new proposals with a 'hard no' to avoid future problems.",
     "vocabulary_highlights": [
       "tendency",
-      "respond",
-      "defensive mindset",
-      "unlearn"
+      "respond"
     ],
     "topics": [
       "Leadership & Management",
@@ -21,9 +19,9 @@
       "Product Management",
       "Analytics"
     ],
-    "text_ko": "한동안 엔지니어링(engineering)을 하다 보면 새로운 아이디어에 바로 '안 돼'라고 반응하는 버릇이 생겨요. 엔지니어 관점에서는 그 이유가 아마도 대부분의 시간을 반쯤 생각만 해보고 끝나 버리거나 실제로는 잘 진행되지 않았던 아이디어들을 만들고 유지하는 데 쓰기 때문이에요. 그런 아이디어들의 유지 비용(maintenance cost)을 온전히 떠안는 느낌이 들고요. 그래서 흉터 조직(scar tissue)처럼 쌓인 경험이 면역 반응(immune response)을 만들면서, 새로운 아이디어에 대해 '아니야, 절대 안 해' 하는 식의 완전한 거부(hard no)를 하게 돼요.",
-    "text_zh": "搞技术搞久了，你就会发现自己有个毛病，一听到新想法就条件反射地说\"不行\"。我觉得从工程师的角度来看，这是因为你花了太多时间去搭建和维护那些想得不够成熟或者根本没啥前途的项目，维护成本(maintenance cost)全都压在你身上。时间长了你就有了心理阴影，形成了一种免疫反应(immune response)，一听到新想法就说不，而且是坚决不干的那种不。",
-    "text_es": "Una de las cosas que pasa después de que llevas un tiempo en ingeniería es que desarrollas esta tendencia de responder inmediatamente que no a las ideas nuevas. Y creo que desde la perspectiva de la ingeniería, esto es porque pasas mucho tiempo construyendo y manteniendo ideas que tal vez están medio pensadas o que realmente no van a ningún lado, y sientes todo el peso del costo de mantenimiento de eso. Entonces te vas blindando y desarrollas como una respuesta inmune de decir que no a las ideas nuevas, y es un no rotundo, o sea no, definitivamente no lo vamos a hacer.",
+    "text_ko": "엔지니어로 오래 일하다 보면 새 아이디어에 대해 일단 거절부터 하는 버릇이 생겨요.",
+    "text_zh": "在工程岗位待久了，会有个毛病：对新想法下意识就先说「不」。",
+    "text_es": "Después de un tiempo en ingeniería, tiendes a responder automáticamente \"no\" a las ideas nuevas.",
     "key_sentence": "develop this tendency to immediately respond with no to new ideas.",
     "text_trimmed": true,
     "original_text": "One of the things after you've been in engineering for a while is that develop this tendency to immediately respond with no to new ideas. And I think from the engineering perspective, this is because you spend a lot of your time building and maintaining ideas that maybe are half thought out or didn't really go anywhere, and you just feel like the full brunt of the maintenance cost of that. And so you build up the scar tissue and this immune response to say no to new ideas, and it's a hard no, like no, we're definitely not going to do it.",
@@ -56,36 +54,10 @@
           "ignore",
           "neglect"
         ]
-      },
-      {
-        "word": "defensive mindset",
-        "definition": "A defensive mindset refers to a psychological state characterized by a protective attitude, often leading to resistance against criticism or new ideas.",
-        "businessContext": "In a corporate environment, a defensive mindset can hinder innovation and collaboration, as employees may be reluctant to embrace change or accept feedback.",
-        "nuance": "While a defensive mindset can sometimes be protective, it often stifles growth and adaptability, making it important to recognize and address in team dynamics.",
-        "synonyms": [
-          "protective attitude",
-          "resistant outlook"
-        ],
-        "antonyms": [
-          "open-mindedness",
-          "receptiveness"
-        ]
-      },
-      {
-        "word": "unlearn",
-        "definition": "To unlearn means to discard previously acquired knowledge or habits, often in favor of new information or practices.",
-        "businessContext": "In fast-paced industries, unlearning outdated practices is crucial for innovation and staying competitive, as it allows organizations to adapt to new technologies and market demands.",
-        "nuance": "Unlearning can be challenging, as it requires individuals to confront their established beliefs and practices, making it a significant aspect of personal and professional development.",
-        "synonyms": [
-          "discard",
-          "retrain"
-        ],
-        "antonyms": [
-          "learn",
-          "acquire"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The issue for us at the time was that we took people away from the investment in our core product to go do those other things. We moved people, right?",
@@ -94,9 +66,7 @@
     "context": "Lenny asks about Mixpanel's journey of expanding to multiple products and then refocusing back to their core analytics product. Vijay explains the strategic mistake they made - they moved engineering resources away from their core product to build adjacent products, which made them vulnerable to competitors who could outinvest them in analytics. His key insight is that market leaders should maintain their investment advantage in their core product while funding new ventures with profits, not people.",
     "vocabulary_highlights": [
       "core product",
-      "investment",
-      "strategic mistake",
-      "refocusing"
+      "investment"
     ],
     "topics": [
       "Strategy & Planning",
@@ -109,9 +79,9 @@
       "Product Management",
       "Analytics"
     ],
-    "text_ko": "그때 우리의 문제는 핵심 제품(core product)에 대한 투자를 줄이고 사람들을 다른 일로 옮겼다는 점이었어요. 사람들을 옮겼죠? 그래서 생기는 함정은 누군가가 그 핵심에 우리보다 더 많이 투자(out-invest)하면 핵심 영역에서 스스로 교란(disruption)에 취약해진다는 거예요. 그래서 어떤 핵심 제품에서 리더(leader)라면, 결론은 그 핵심에 대해 계속 누구보다 더 많이 투자(out-invest)하고, 그 핵심에서 나오는 수익은 다음 벤처(next venture)에 재투자해야 한다는 것입니다.",
-    "text_zh": "我们当时的问题就是，把原本投入在核心产品上的人力都调去做别的事情了，对吧？这样做的风险就是，你的核心业务很容易被别人颠覆，因为竞争对手可能在这块投入比你更多。所以说，如果你在某个核心产品上是老大，我们的经验就是，你必须在这个核心业务上的投入要超过所有竞争对手，然后用核心业务赚来的钱去投资下一个项目。",
-    "text_es": "El problema que tuvimos en ese momento fue que sacamos gente de la inversión en nuestro producto principal para ponerlos a hacer esas otras cosas. Movimos personal, ¿no? Y ahí está la trampa: te quedas vulnerable a que te interrumpan (disrupt) en tu área central porque alguien más puede invertir más que tú en esa área. Entonces, si eres el líder en algún producto central, lo que aprendimos es que tienes que seguir invirtiendo más que todos los demás en esa área principal, y luego usar las ganancias que salen de ahí para invertir en el siguiente proyecto.",
+    "text_ko": "그때 우리의 문제는 핵심 제품(core product)에 대한 투자에서 인력을 빼서 다른 일에 투입했다는 거예요. 사람들을 옮겼잖아요?",
+    "text_zh": "当时的问题是，我们把人从核心产品(core product)的投入上抽走，去做那些别的事。我们确实把人挪走了，对吧？",
+    "text_es": "El problema para nosotros en ese momento era que estábamos sacando personal de la inversión en nuestro producto principal (core product) para que trabajara en esas otras cosas. Movimos a gente, ¿no?",
     "key_sentence": "We took people away from the investment in our core product to go do those other things.",
     "text_trimmed": true,
     "original_text": "The issue for us at the time was that we took people away from the investment in our core product to go do those other things. We moved people, right? And so the trap there is that you leave yourself ripe for disruption in your core because someone else can out invest you in that core. And so if you are the leader in some core product, our takeaway here is you should continue to out invest everyone else in that core and then invest the profits that come out of that core into the next venture.",
@@ -144,36 +114,10 @@
           "divestment",
           "withdrawal"
         ]
-      },
-      {
-        "word": "strategic mistake",
-        "definition": "An error in judgment or decision-making that adversely affects a company's long-term goals or competitive position. It often involves misallocation of resources or misinterpretation of market conditions.",
-        "businessContext": "In business strategy discussions, identifying and analyzing strategic mistakes is essential for learning and avoiding similar pitfalls in the future.",
-        "nuance": "The term carries a connotation of significant impact, suggesting that the mistake was not merely operational but fundamentally flawed in strategic thinking.",
-        "synonyms": [
-          "tactical error",
-          "strategic misstep"
-        ],
-        "antonyms": [
-          "strategic success",
-          "correct decision"
-        ]
-      },
-      {
-        "word": "refocusing",
-        "definition": "The process of realigning a company's efforts and resources towards its primary objectives or core competencies. It often involves shifting priorities or altering strategies to enhance effectiveness.",
-        "businessContext": "In the context of startups and businesses, refocusing is a common response to changing market conditions or internal challenges, aimed at improving performance and achieving strategic goals.",
-        "nuance": "Refocusing suggests a deliberate and often necessary adjustment rather than a reactionary measure, indicating a proactive approach to business management.",
-        "synonyms": [
-          "realignment",
-          "reorientation"
-        ],
-        "antonyms": [
-          "distraction",
-          "diversion"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "But one of the traps with RICE that we observed is that the C and E, the confidence and effort tends to cause you to prematurely deprioritize potentially high reach, high impact bets, really innovative things.",
@@ -183,8 +127,7 @@
     "vocabulary_highlights": [
       "deprioritize",
       "potentially",
-      "innovative",
-      "framework"
+      "innovative"
     ],
     "topics": [
       "Product Management",
@@ -197,9 +140,9 @@
       "Product Management",
       "Analytics"
     ],
-    "text_ko": "근데 RICE(Reach, Impact, Confidence, Effort)를 쓰면서 우리가 관찰한 함정 하나는 C(Confidence, 확신)랑 E(Effort, 노력) 때문에 잠재적으로 리치(reach)도 크고 임팩트(impact)도 큰, 정말 혁신적인 베팅들을 너무 일찍 우선순위에서 밀어내게 만든다는 거예요. 작년 초에 한 팀에서 실제로 그걸 겪었어요. 그 팀은 모든 아이디어를 RICE로만 점수화했는데, 리치가 크고 임팩트가 큰 아이디어들이 많이 아래로 내려갔어요. 그런 아이디어들은 보통 확신이나 노력이 불투명한 경우가 많은데(그게 당연하죠), 그래서 우선순위가 낮아진 거예요.",
-    "text_zh": "但是我们发现RICE有个坑，就是那个C和E，信心度(confidence)和工作量(effort)这两项，容易让你过早地把那些潜在的高覆盖、高影响力的想法给排到后面去，就是那些真正有创新性的东西。去年年初我们有个团队就遇到过这种情况，把所有想法都用RICE打了分，结果那些高覆盖、高影响力的项目全跑到最底下去了，因为信心度和工作量这两项对它们来说就是很模糊的，其实对于高覆盖、高影响力的想法来说，本来就应该是这样的。",
-    "text_es": "Pero una de las trampas que vimos con RICE es que la C y la E, o sea la confianza y el esfuerzo, tienden a hacerte que despriorities muy rápido apuestas que podrían tener mucho alcance y alto impacto, cosas realmente innovadoras. Y nos pasó esto con uno de nuestros equipos a principios del año pasado donde le aplicamos RICE a todo, a todas las ideas, y muchas de las cosas de alto alcance y alto impacto terminaron hasta abajo porque la confianza y el esfuerzo estaban súper confusos para esas ideas, como normalmente debería ser para ideas de alto alcance y alto impacto.",
+    "text_ko": "저희가 RICE(Reach, Impact, Confidence, Effort)를 보며 관찰한 함정 중 하나는 C와 E, 즉 확신(confidence)과 노력(effort)이 잠재적으로 도달 범위(Reach)와 영향(Impact)이 큰, 정말 혁신적인 시도들의 우선순위를 성급하게 낮추게 만든다는 점이에요.",
+    "text_zh": "我们发现 RICE 框架（RICE）有个陷阱：C 和 E，即置信度(confidence)和投入(effort)，常常会让你过早把那些可能覆盖面广、影响力大、真正有创新性的大胆押注降到次要位置。",
+    "text_es": "Una de las trampas del método RICE (RICE) que hemos observado es que la C y la E, la confianza (confidence) y el esfuerzo (effort), suelen llevarte a dejar en segundo plano demasiado pronto apuestas con potencial de gran alcance y alto impacto, cosas realmente innovadoras.",
     "key_sentence": "RICE can prematurely deprioritize high reach, high impact bets due to murky confidence.",
     "text_trimmed": true,
     "original_text": "But one of the traps with RICE that we observed is that the C and E, the confidence and effort tends to cause you to prematurely deprioritize potentially high reach, high impact bets, really innovative things. And we encountered this on one of our teams early last year were we just RICE'd everything, all the ideas, and a lot of the high reach, high impact things ended up at the bottom because confidence and effort were just so murky for them, as they should be typically for high reach, high impact ideas.",
@@ -246,34 +189,17 @@
           "conventional",
           "traditional"
         ]
-      },
-      {
-        "word": "framework",
-        "definition": "A structured approach or system that provides a foundation for understanding or addressing a particular issue or set of issues.",
-        "businessContext": "Frameworks are commonly used in business strategy, project management, and product development to guide decision-making and ensure consistency.",
-        "nuance": "While frameworks provide valuable structure, they can also be seen as limiting if they are too rigid or not adaptable to specific situations.",
-        "synonyms": [
-          "structure",
-          "model"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "you make the time box or an appetite the input, and you say, 'We want to solve X problem and we're willing to invest six weeks solving that problem.",
     "speaker": "Vijay Iyengar",
     "timestamp": "00:26:52",
     "context": "Lenny and Vijay are discussing estimation challenges in product development. Vijay explains the core problem with traditional estimation - teams are asked to estimate before they fully understand what they're building. He introduces the 'appetite over estimates' concept from Basecamp's Shape Up methodology, where instead of estimating how long something will take, you decide upfront how much time you're willing to invest in solving a particular problem.",
-    "vocabulary_highlights": [
-      "investment",
-      "estimate",
-      "core problem",
-      "fully understand"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Strategy & Planning"
@@ -285,71 +211,16 @@
       "Product Management",
       "Analytics"
     ],
-    "text_ko": "제가 정말 흥미롭게 본 접근법 중 하나는 Basecamp(베이스캠프)의 책 'Shape Up(Shape Up)'에 나오는, '추정(estimate)보다 투자 의향(appetite)을 우선하는(appetite over estimates)'이라는 아이디어예요. 즉 계획의 산출물로 추정을 만드는 대신 타임박스(timebox)나 어피타이트(appetite) 같은 시간·투자 한도를 입력값으로 잡고, \"우리는 X 문제를 해결하려고 하고 그걸 해결하는 데 6주를 투자하겠다\"라고 정하는 방식이에요.",
-    "text_zh": "我觉得Basecamp那本《Shape Up》里有个思路特别有意思，就是用appetite来替代estimates，不是先做规划再估时间，而是反过来，先定个时间框或者说appetite作为输入条件，然后说\"我们要解决X问题，愿意投入六周时间来搞定这个问题。\"",
-    "text_es": "Una estrategia que me pareció súper interesante es de este libro que se llama Shape Up de Basecamp, con esta idea del apetito (appetite) por encima de las estimaciones, donde en lugar de que la estimación sea el resultado de la planificación, haces que el tiempo disponible o el apetito (appetite) sea lo que determines desde el principio, y dices: 'Queremos resolver el problema X y estamos dispuestos a invertir seis semanas en resolver ese problema.'",
+    "text_ko": "타임박스(time box)나 투자 여력(appetite)을 입력값으로 삼고, “우리는 X 문제를 해결하려고 하고 그걸 해결하는 데 6주를 투자할 의향이 있다”라고 말하는 거예요.",
+    "text_zh": "你把时间限定(time box)或投入意愿(appetite)当作输入，然后就说：‘我们要解决X问题，愿意投入六周时间来解决它。’",
+    "text_es": "Pones como insumo (input) un límite de tiempo (time box) o un apetito (appetite) y dices: \"Queremos resolver el problema X y estamos dispuestos a dedicar seis semanas a resolverlo.\"",
     "key_sentence": "We want to solve X problem and we're willing to invest six weeks solving that problem.",
     "text_trimmed": true,
     "original_text": "One approach that I found really interesting is from this book called Shape Up by Basecamp, which this idea of appetite over estimates, where instead of making the estimate an output of planning, you make the time box or an appetite the input, and you say, 'We want to solve X problem and we're willing to invest six weeks solving that problem.'",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "investment",
-        "definition": "The allocation of resources, usually money, with the expectation of generating a profit or achieving a beneficial outcome in the future.",
-        "businessContext": "In business and startup environments, investment often refers to funding received from investors to support growth, product development, or market expansion.",
-        "nuance": "While 'investment' typically implies a financial commitment, it can also refer to time or effort dedicated to a project, emphasizing the importance of resource allocation.",
-        "synonyms": [
-          "capital allocation",
-          "funding"
-        ],
-        "antonyms": [
-          "divestment",
-          "withdrawal"
-        ]
-      },
-      {
-        "word": "estimate",
-        "definition": "An approximate calculation or judgment regarding the value, number, quantity, or extent of something.",
-        "businessContext": "In business settings, estimates are crucial for budgeting, project planning, and forecasting, helping teams make informed decisions based on available data.",
-        "nuance": "Estimates can carry a degree of uncertainty; thus, they should be communicated clearly to avoid misunderstandings about their accuracy.",
-        "synonyms": [
-          "approximation",
-          "assessment"
-        ],
-        "antonyms": [
-          "exact figure",
-          "certainty"
-        ]
-      },
-      {
-        "word": "core problem",
-        "definition": "The fundamental issue or challenge that underlies a situation, requiring resolution to achieve desired outcomes.",
-        "businessContext": "Identifying the core problem is essential in business strategy and problem-solving, as it directs efforts toward effective solutions rather than superficial fixes.",
-        "nuance": "The term suggests a deeper analysis beyond surface-level symptoms, indicating the need for critical thinking in addressing complex issues.",
-        "synonyms": [
-          "fundamental issue",
-          "root cause"
-        ],
-        "antonyms": [
-          "superficial problem",
-          "peripheral issue"
-        ]
-      },
-      {
-        "word": "fully understand",
-        "definition": "To comprehend something in its entirety, grasping all aspects and implications involved.",
-        "businessContext": "In business discussions, fully understanding a concept, market, or problem is crucial for making strategic decisions and developing effective solutions.",
-        "nuance": "This phrase emphasizes a thorough and deep comprehension, often implying that surface-level knowledge is insufficient for effective action.",
-        "synonyms": [
-          "comprehend completely",
-          "grasp thoroughly"
-        ],
-        "antonyms": [
-          "misunderstand",
-          "overlook"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "And one of the rituals that it's enabled is we'll find that engineers will go into that channel and react with a message with an email emoji, which means I'm going to email this customer and find out more, right?",
@@ -358,8 +229,6 @@
     "context": "Lenny asks about Mixpanel's unique approach to keeping product teams close to customers. Vijay explains how they created an automated Slack feed of customer feedback that all engineers and designers can access directly. He describes a ritual that emerged where engineers use emoji reactions to signal they'll reach out to customers directly, then email them to dig deeper into problems using techniques like the 'five whys' to understand root causes and improve the product independently.",
     "vocabulary_highlights": [
       "react",
-      "automated",
-      "feedback",
       "engineers"
     ],
     "topics": [
@@ -374,9 +243,9 @@
       "Product Management",
       "Analytics"
     ],
-    "text_ko": "그리고 그로 인해 생긴 습관 중 하나는 엔지니어들이 그 채널(channel)에 들어가 이메일 이모지(email emoji)로 반응하는 모습을 보는 거예요. 그건 '내가 이 고객에게 이메일을 보내서 더 알아볼게요'라는 뜻이에요. 실제로 그들은 고객에게 이메일을 보내서 \"안녕하세요, 이 기능을 만든 엔지니어입니다. 말씀하신 이 부분을 봤는데, 좀 더 자세히 얘기해주실 수 있나요? 더 이해하고 싶어요.\"라고 보내요. 파이브 와이즈(5 Whys)를 묻고, 그 과정에서 스스로 제품을 개선해요.",
-    "text_zh": "这样就形成了一个习惯，我们发现工程师会在那个频道里看到用户反馈，然后用邮件的表情符号回应，意思就是\"我要给这个客户发邮件了解一下情况\"。然后他们就直接给客户写邮件说：\"嗨，我就是开发这个功能的工程师，我看到你提到了这个具体问题，能跟我详细说说吗？我特别想了解一下。\" 他们会问五个为什么(five whys)，然后主动去优化产品。",
-    "text_es": "Y uno de los hábitos que esto ha creado es que vemos que los ingenieros entran a ese canal y reaccionan a un mensaje con el emoji del email, que significa \"voy a escribirle a este cliente para averiguar más\", ¿sí? Y simplemente le mandan un correo al cliente diciéndole: \"Hola, soy el ingeniero que desarrolló esta función. Vi que dijiste esto específico. ¿Me puedes contar más? Me encantaría entender mejor.\" Hacen los cinco porqués (five whys) y luego mejoran el producto por su cuenta.",
+    "text_ko": "그리고 그걸 가능하게 한 관행 중 하나는 엔지니어들이 그 채널(channel)에 들어가 이메일 이모지(email emoji)로 반응하면서 '이 고객에게 이메일 보내서 더 알아볼게요'라고 메시지를 남기는 걸 보는 거예요.",
+    "text_zh": "它促成的一个惯例是，我们会看到工程师进到那个频道 (channel)，在消息上点一个邮件表情 (email emoji)，意思就是“我要给这个客户发封邮件再问清楚”，对吧？",
+    "text_es": "Uno de los rituales que ha generado es que vemos a los ingenieros entrar en ese canal y poner un emoji de correo (email emoji) en el mensaje, lo que viene a decir: \"voy a enviarle un correo electrónico (email) a este cliente para averiguar más\", ¿no?",
     "key_sentence": "engineers will go into that channel and react with a message with an email emoji, which means I'm going to email this customer",
     "text_trimmed": true,
     "original_text": "And one of the rituals that it's enabled is we'll find that engineers will go into that channel and react with a message with an email emoji, which means I'm going to email this customer and find out more, right? And they'll just email the customer and say, 'Hey, I'm the engineer that built this feature. I saw you said this specific thing. Can you tell me more? I'd love to understand.' They ask the five why's, and then they improve the product on their own.",
@@ -397,34 +266,6 @@
         ]
       },
       {
-        "word": "automated",
-        "definition": "Performed by machines or software with minimal human intervention, often to increase efficiency.",
-        "businessContext": "In startups and tech companies, 'automated' processes are crucial for scaling operations, reducing errors, and saving time on repetitive tasks.",
-        "nuance": "While 'automated' suggests efficiency, it can also imply a lack of personal touch, which may not always be suitable for customer interactions.",
-        "synonyms": [
-          "mechanized",
-          "systematized"
-        ],
-        "antonyms": [
-          "manual",
-          "hand-operated"
-        ]
-      },
-      {
-        "word": "feedback",
-        "definition": "Information or reactions provided regarding a product, service, or performance, often used for improvement.",
-        "businessContext": "In business, 'feedback' is essential for understanding customer satisfaction, guiding product development, and enhancing team performance.",
-        "nuance": "Feedback can be constructive or critical; the context in which it is delivered can significantly affect its reception.",
-        "synonyms": [
-          "input",
-          "response"
-        ],
-        "antonyms": [
-          "silence",
-          "indifference"
-        ]
-      },
-      {
         "word": "engineers",
         "definition": "Professionals who apply scientific and mathematical principles to design, develop, and maintain structures, systems, or products.",
         "businessContext": "In technology companies, engineers are pivotal in product development, ensuring that solutions are both functional and innovative.",
@@ -438,7 +279,9 @@
           "administrators"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think the biggest mistake is setting up analytics using client side SDKs, client side tracking. So, web and mobile SDKs, putting a mixpanel.track or segment.track in your web app or your mobile apps.",
@@ -447,9 +290,7 @@
     "context": "Lenny asks Vijay what most people get wrong when setting up product analytics, given his expertise as head of product at Mixpanel. Vijay shares what he calls a 'hot take' - that using client-side SDKs for tracking is a major mistake. He explains that many people assume product analytics requires putting tracking code directly in web and mobile apps, but this approach consistently leads to poor data quality and maintenance challenges, contradicting common industry practice.",
     "vocabulary_highlights": [
       "analytics",
-      "client-side",
-      "tracking",
-      "expertise"
+      "tracking"
     ],
     "topics": [
       "Product Management",
@@ -462,9 +303,9 @@
       "Product Management",
       "Analytics"
     ],
-    "text_ko": "제가 보기엔 가장 큰 실수는 애널리틱스를 클라이언트 쪽 SDK(client-side SDKs)나 클라이언트 측 트래킹(client-side tracking)으로 구축하는 거예요. 예를 들어 웹·모바일용 SDK(web and mobile SDKs)를 넣고 웹 앱이나 모바일 앱에 mixpanel.track이나 segment.track 같은 트래킹 코드를 심는 식이죠. 이게 핫테이크(hot take)인 이유는 많은 사람들이 제품 애널리틱스(product analytics)랑 SDK 트래킹을 동일시하기 때문이에요. 'Mixpanel이면 SDK다, 웹·모바일 앱에 SDK를 넣어야 해'라고 생각하는 건데, 그건 실수예요. 반복해서 보면 그렇게 하면 데이터 품질이 떨어지고 그 데이터를 유지·관리하기도 훨씬 어려워지거든요.",
-    "text_zh": "我觉得最大的错误就是用客户端SDK来做数据分析，也就是客户端追踪。比如在网页和移动端SDK里面加个mixpanel.track或者segment.track到你的web应用或者手机app里。我说这个观点比较激进，是因为很多人觉得产品分析(product analytics)和SDK追踪就是一回事儿。他们想的是，\"好吧，Mixpanel就意味着SDK，我必须在我的网页和手机应用里装个SDK。\" 但这其实是个误区，因为我们一次又一次地看到，这样做会导致数据质量很差，而且后期维护这些数据特别麻烦。",
-    "text_es": "Creo que el error más grande es configurar la analítica usando SDKs del lado del cliente, o sea, tracking del lado del cliente. Me refiero a SDKs web y móviles, poniendo un mixpanel.track o segment.track en tu aplicación web o en tus apps móviles. Y la razón por la que esto es controversial es que para mucha gente la analítica de producto y el tracking por SDK son la misma cosa. Piensan: \"Bueno, Mixpanel significa SDK, tengo que meter un SDK en mi app web y móvil.\" Pero eso es un error porque... Lo hemos visto una y otra vez, termina dando una calidad de datos pésima y hace súper difícil mantener esos datos.",
+    "text_ko": "제 생각엔 가장 큰 실수는 애널리틱스(analytics)를 클라이언트 측 SDK(client-side SDKs), 클라이언트 측 트래킹(client-side tracking)으로 구축하는 거예요. 즉 웹(Web)과 모바일(Mobile) SDK를 써서 웹 앱이나 모바일 앱에 mixpanel.track이나 segment.track 같은 트래킹 호출을 직접 넣는 거죠.",
+    "text_zh": "我觉得最大的错误是把数据分析（analytics）放在客户端，用客户端 SDK（client-side SDKs）来做客户端埋点（client-side tracking）。也就是在网页和移动端的 SDK（web and mobile SDKs）里，直接把 mixpanel.track 或 segment.track 放到你的网页应用（web app）或移动应用（mobile apps）里。",
+    "text_es": "Creo que el mayor error es montar la analítica usando kits de desarrollo (SDKs) del lado del cliente, es decir, hacer el seguimiento (tracking) en el cliente. Por ejemplo, poner un mixpanel.track o un segment.track en tu aplicación web o móvil.",
     "key_sentence": "I think the biggest mistake is setting up analytics using client side SDKs, client side tracking.",
     "text_trimmed": true,
     "original_text": "I think the biggest mistake is setting up analytics using client side SDKs, client side tracking. So, web and mobile SDKs, putting a mixpanel.track or segment.track in your web app or your mobile apps. And reason it's a hot take is that for many people that's product analytics and SDK tracking are synonymous. They're like, 'All right, Mixpanel means SDK, I have to put an SDK in my web and mobile app. But that's a mistake because it... We've just seen time and time again, it leads to poor data quality and difficulty to maintain that data.",
@@ -485,20 +326,6 @@
         ]
       },
       {
-        "word": "client-side",
-        "definition": "Client-side refers to operations that are performed on the user's device rather than on a remote server, typically involving the user interface and user experience.",
-        "businessContext": "In web and mobile development, client-side processes are essential for creating interactive applications that respond quickly to user inputs without needing constant server communication.",
-        "nuance": "While client-side operations enhance user experience, they may also expose applications to security vulnerabilities if not properly managed.",
-        "synonyms": [
-          "front-end",
-          "user-side"
-        ],
-        "antonyms": [
-          "server-side",
-          "back-end"
-        ]
-      },
-      {
         "word": "tracking",
         "definition": "Tracking involves monitoring and recording user interactions or behaviors over time, often through various digital tools and technologies.",
         "businessContext": "In marketing and product development, tracking is vital for understanding user engagement, measuring campaign effectiveness, and improving product features based on user feedback.",
@@ -511,21 +338,9 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "expertise",
-        "definition": "Expertise refers to a high level of knowledge or skill in a particular area, often acquired through experience and education.",
-        "businessContext": "In the business world, expertise is highly valued as it contributes to informed decision-making, strategic planning, and competitive advantage in specialized fields.",
-        "nuance": "While expertise implies a deep understanding, it is also important to remain open to new ideas and developments within the field to maintain relevance.",
-        "synonyms": [
-          "proficiency",
-          "specialization"
-        ],
-        "antonyms": [
-          "inexperience",
-          "ignorance"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

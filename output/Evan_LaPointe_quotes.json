@@ -7,7 +7,6 @@
     "vocabulary_highlights": [
       "experimental",
       "open-minded",
-      "framework",
       "dramatically"
     ],
     "topics": [
@@ -56,20 +55,6 @@
         ]
       },
       {
-        "word": "framework",
-        "definition": "A structured approach or system that provides guidance for understanding or addressing a particular issue or process.",
-        "businessContext": "Frameworks are essential in business for strategic planning, project management, and establishing best practices, as they offer a clear outline for execution.",
-        "nuance": "The term 'framework' implies a level of flexibility and adaptability, making it suitable for dynamic environments, but it may also suggest a lack of specificity.",
-        "synonyms": [
-          "structure",
-          "system"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
-      },
-      {
         "word": "dramatically",
         "definition": "In a significant or striking manner; to a marked degree.",
         "businessContext": "In business communications, 'dramatically' is often used to emphasize substantial changes or improvements in performance metrics, market conditions, or project outcomes.",
@@ -83,7 +68,8 @@
           "marginally"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "It's almost like you're playing Elden Ring or some video game. The starting point is to choose your character.",
@@ -91,8 +77,6 @@
     "timestamp": "00:00:16",
     "context": "Lenny asks about Evan's advice on becoming more influential. Evan explains that the first step in influence is choosing your character or approach style, similar to selecting a character in a video game. He suggests that people should be intentional about their influence style rather than defaulting to whatever feels natural, and gives examples like being the \"devil's advocate\" or the person who stress-tests ideas by challenging them hard.",
     "vocabulary_highlights": [
-      "approach",
-      "influence",
       "starting point",
       "character"
     ],
@@ -107,42 +91,14 @@
       "Product Strategy",
       "User Experience"
     ],
-    "text_ko": "거의 엘든 링(Elden Ring) 같은 비디오게임을 하는 느낌이에요. 시작점은 캐릭터를 고르는 거고요. '저는 악마의 옹호자(devil's advocate) 스타일이에요'라든가 '망치로 세게 내려쳐도 버티는지 부숴보고 확인하는 타입이에요' 같은 성격이 자연스럽게 맞아요.",
-    "text_zh": "这就像你在玩《艾尔登法环》或者别的电子游戏一样。首先得选角色对吧。比如说，嘿，我就是那种专门唱反调的人，或者我就是那种喜欢把东西砸烂了看看还能不能用的人——你的性格总会找到适合的定位。",
-    "text_es": "Es como si estuvieras jugando Elden Ring o algún videojuego. El punto de partida es elegir tu personaje. Oye, yo soy del tipo \"abogado del diablo\" o soy más bien del estilo \"lo rompo a ver si aguanta después de darle con todo\", tu personalidad como que tiene un encaje natural.",
+    "text_ko": "거의 엘든 링(Elden Ring) 같은 비디오 게임을 하는 느낌이에요. 시작점은 캐릭터를 고르는 거예요.",
+    "text_zh": "这就像玩《艾尔登法环》或者其他游戏一样，第一步就是要选角色。",
+    "text_es": "Es casi como si estuvieras jugando Elden Ring o algún videojuego. El punto de partida es elegir tu personaje.",
     "key_sentence": "The starting point is to choose your character.",
     "text_trimmed": true,
     "original_text": "It's almost like you're playing Elden Ring or some video game. The starting point is to choose your character. Hey, I'm the devil's advocate approach, or I'm the break it and see if it still stands after I hit it really hard with a sledgehammer kind of guy, your personality kind of has a natural fit.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "approach",
-        "definition": "A method or way of dealing with a situation or problem.",
-        "businessContext": "In business, 'approach' often refers to the strategy or methodology employed to achieve objectives, such as market entry or product development.",
-        "nuance": "While 'approach' can imply a systematic method, it may also suggest a more flexible or adaptive style depending on the context.",
-        "synonyms": [
-          "method",
-          "strategy"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "influence",
-        "definition": "The capacity to have an effect on the character, development, or behavior of someone or something.",
-        "businessContext": "In a business context, 'influence' can refer to the power of individuals or organizations to sway decisions, shape policies, or affect market trends.",
-        "nuance": "The term often carries a connotation of subtlety, suggesting that influence can be exerted without direct authority or force.",
-        "synonyms": [
-          "impact",
-          "sway"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
       {
         "word": "starting point",
         "definition": "The initial stage or basis from which a process or journey begins.",
@@ -171,7 +127,9 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "It's critical to ask what kind of experience am I? Not how good am I at my job, how much do I know, how critical am I to this process, but am I a miserable experience?",
@@ -180,9 +138,7 @@
     "context": "Lenny asks about creating better relationships within teams. Evan explains his framework for relationships which includes three components: ability, trust, and appeal (what kind of experience you are to others). He emphasizes that \"appeal\" - how people experience working with you - is actually the most important factor biologically, even more than your competence. If people find you miserable to work with, they'll avoid including you regardless of your skills.",
     "vocabulary_highlights": [
       "critical",
-      "experience",
-      "framework",
-      "relationships"
+      "experience"
     ],
     "topics": [
       "Leadership & Management",
@@ -195,9 +151,9 @@
       "Product Strategy",
       "User Experience"
     ],
-    "text_ko": "가장 중요한 건 '내가 어떤 경험(experience)을 주고 있나요?'라고 스스로 물어보는 거예요. 얼마나 일을 잘하느냐, 얼마나 아는 게 많느냐, 이 프로세스에서 내가 얼마나 중요한 사람이냐를 묻는 게 아니라, 내가 상대에게 끔찍한 경험을 주고 있는 건 아닌가를 먼저 보세요. 만약 그렇다면 다른 것들은 일단 너무 신경 쓰지 마세요. 그걸 먼저 고쳐야 해요.",
-    "text_zh": "关键是要问自己：我给别人的体验怎么样？不是问我工作能力强不强，懂得多不多，在这个流程里有多重要，而是问我是不是让人感觉很糟糕？如果答案是肯定的，那别的先别管了，得先把这个问题解决了。",
-    "text_es": "Es fundamental preguntarse ¿qué tipo de experiencia soy yo? No qué tan bueno soy en mi trabajo, cuánto sé, o qué tan indispensable soy para este proceso, sino ¿soy una experiencia horrible? Si la respuesta es sí, no te preocupes tanto por las otras cosas todavía. Eso es lo primero que tienes que arreglar.",
+    "text_ko": "중요한 건 '내가 어떤 경험(experience)을 제공하고 있나?'라고 스스로 물어보는 거예요. 내가 일을 얼마나 잘하나, 얼마나 많이 아나, 이 프로세스(process)에서 내가 얼마나 중요한가를 따지는 게 아니라, 내가 상대에게 불편한 경험을 주고 있진 않은가요?",
+    "text_zh": "关键是要问自己：我给别人的感受怎么样？不是问我工作做得好不好，懂多少东西，在这个流程里有多重要，而是问我是不是让人感觉很糟糕？",
+    "text_es": "Es fundamental preguntarse: ¿qué tipo de experiencia soy yo para los demás? No qué tan bueno soy en mi trabajo, cuánto sé, o qué tan importante soy para este proceso, sino ¿soy una experiencia horrible para trabajar conmigo?",
     "key_sentence": "am I a miserable experience?",
     "text_trimmed": true,
     "original_text": "It's critical to ask what kind of experience am I? Not how good am I at my job, how much do I know, how critical am I to this process, but am I a miserable experience? If the answer is yes, don't worry too much about the other pieces yet. You got to fix that first.",
@@ -230,36 +186,10 @@
           "inexperience",
           "novice"
         ]
-      },
-      {
-        "word": "framework",
-        "definition": "A structured approach or system that provides guidance or support for understanding or solving a problem.",
-        "businessContext": "Frameworks are commonly used in business to establish processes, methodologies, or standards that facilitate decision-making and project management.",
-        "nuance": "The term can imply a level of rigidity or formality, so it is important to ensure that the framework is adaptable to specific contexts.",
-        "synonyms": [
-          "structure",
-          "model"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
-      },
-      {
-        "word": "relationships",
-        "definition": "The connections or associations between individuals or groups, often characterized by mutual respect, trust, and interaction.",
-        "businessContext": "In a business context, relationships are crucial for networking, collaboration, and building partnerships that can drive success.",
-        "nuance": "The term often emphasizes the importance of interpersonal dynamics and emotional intelligence in professional settings.",
-        "synonyms": [
-          "connections",
-          "associations"
-        ],
-        "antonyms": [
-          "estrangement",
-          "disconnection"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "We spend gazillions of dollars on waste of time and meetings. For us, like in our programs, the average delta is between 10 and 20%.",
@@ -268,9 +198,7 @@
     "context": "Lenny asks for practical things people can do to work better with colleagues based on brain science. Evan discusses how poorly designed meetings waste enormous amounts of money and time in businesses. He shares that his programs typically help people save 10-20% of their time, or half a day to a full day per week, simply by improving how they structure and run meetings using neuroscience principles.",
     "vocabulary_highlights": [
       "waste of time",
-      "average delta",
-      "poorly designed",
-      "enormous amounts"
+      "average delta"
     ],
     "topics": [
       "Leadership & Management",
@@ -283,9 +211,9 @@
       "Product Strategy",
       "User Experience"
     ],
-    "text_ko": "우리는 시간 낭비와 불필요한 회의에 어마어마한 돈을 쓰고 있어요. 저희 프로그램의 경우 평균 변화폭(average delta)은 10~20% 정도예요. 사람들은 회의 활용 방식을 조금만 정리해도 주당 반나절에서 하루까지 업무 시간을 절약해요.",
-    "text_zh": "我们在无效会议上烧钱烧得厉害。拿我们的项目来说，平均改善幅度(delta)能达到10%到20%。光是把开会的方式理顺了，大家每周就能省出半天到一整天的工作时间。",
-    "text_es": "Gastamos cantidades enormes de dinero en reuniones que son pura pérdida de tiempo. En nuestros programas, el cambio promedio está entre el 10 y 20%. La gente ahorra desde medio día completo hasta un día entero por semana de trabajo, simplemente por limpiar la forma en que manejan las reuniones.",
+    "text_ko": "우리는 시간 낭비와 불필요한 회의에 엄청난 돈을 쏟아붓고 있어요. 저희 프로그램에서도 평균 델타(delta)는 대략 10%에서 20% 사이예요.",
+    "text_zh": "我们在没用的会议上花了太多钱，简直是天文数字。就拿我们的项目来说，平均差值(delta)都在10%到20%之间。",
+    "text_es": "Gastamos una barbaridad de dinero en reuniones que no sirven para nada. En nuestros programas, la mejora promedio que vemos está entre el 10 y 20%.",
     "key_sentence": "Cleaning up the way we use meetings saves gazillions of dollars and time.",
     "text_trimmed": true,
     "original_text": "We spend gazillions of dollars on waste of time and meetings. For us, like in our programs, the average delta is between 10 and 20%. People save anywhere from a full half of a day to a full day per week of work as a result of just cleaning up the way they're using meetings.",
@@ -318,36 +246,10 @@
           "constant value",
           "fixed point"
         ]
-      },
-      {
-        "word": "poorly designed",
-        "definition": "Referring to a product, service, or system that lacks effective planning or execution, resulting in suboptimal functionality or user experience.",
-        "businessContext": "In product development and UX design, a poorly designed interface can lead to customer dissatisfaction and decreased usability, impacting overall business success.",
-        "nuance": "This phrase can imply a lack of attention to detail or user needs, and may be perceived as harsh if not accompanied by constructive feedback.",
-        "synonyms": [
-          "ineffectively structured",
-          "suboptimally crafted"
-        ],
-        "antonyms": [
-          "well-designed",
-          "efficiently structured"
-        ]
-      },
-      {
-        "word": "enormous amounts",
-        "definition": "A phrase indicating a very large quantity or volume of something, often used to emphasize scale or impact.",
-        "businessContext": "In financial discussions, enormous amounts may refer to significant investments, expenditures, or revenues, highlighting the scale of business operations or market potential.",
-        "nuance": "While it conveys a sense of magnitude, it can also be seen as vague; specifying the context or units can enhance clarity.",
-        "synonyms": [
-          "vast quantities",
-          "substantial volumes"
-        ],
-        "antonyms": [
-          "minimal amounts",
-          "insignificant quantities"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Most meetings skip the priming step altogether. They launched directly into decision making.",
@@ -356,9 +258,7 @@
     "context": "Lenny asks for tactical advice people can implement this week to be more successful at work. Evan explains that most meetings fail because they skip \"priming\" - the step where you align everyone on context, information, and intended outcomes before making decisions. He points out that assuming everyone is on the same page is usually a false assumption, especially for teams that have been working together for more than a day.",
     "vocabulary_highlights": [
       "priming",
-      "decision making",
-      "align",
-      "tactical"
+      "decision making"
     ],
     "topics": [
       "Leadership & Management",
@@ -371,9 +271,9 @@
       "Product Strategy",
       "User Experience"
     ],
-    "text_ko": "대부분의 회의는 프라이밍 단계(priming step)를 아예 건너뛰어요. 바로 의사결정(decision making)으로 들어가 버리죠. 회의를 시작할 때 여기 있는 모두가 같은 생각을 하고 같은 정보를 공유하며 대체로 같은 결과를 원한다고 가정한다면 그 단계를 생략해도 괜찮아요.",
-    "text_zh": "大部分会议都直接跳过了铺垫环节，上来就开始做决策。如果我们开会时能确保大家想法一致，信息同步，目标也基本一样，那跳过铺垫倒也没什么问题。",
-    "text_es": "La mayoría de las reuniones se saltan completamente el paso de preparación previa. Se lanzan directo a tomar decisiones. Sería seguro saltarse ese paso de preparación si empezáramos la reunión asumiendo que todos aquí estamos en la misma página, tenemos la misma información y, hablando en general, buscamos el mismo resultado.",
+    "text_ko": "대부분의 회의는 사전 준비 단계(priming step)를 아예 건너뛰고 곧바로 의사결정에 들어가요.",
+    "text_zh": "大部分会议都直接跳过了铺垫环节，一上来就开始做决定。",
+    "text_es": "La mayoría de reuniones se saltan completamente la fase de preparación. Se lanzan directo a tomar decisiones.",
     "key_sentence": "Most meetings skip the priming step altogether.",
     "text_trimmed": true,
     "original_text": "Most meetings skip the priming step altogether. They launched directly into decision making. It would be safe to skip the priming step if we began the meeting under the assumption that everybody here is on the same page, has the same information, and generally speaking, intends for the same outcome.",
@@ -406,36 +306,10 @@
           "indecision",
           "hesitation"
         ]
-      },
-      {
-        "word": "align",
-        "definition": "To align means to bring into agreement or cooperation, ensuring that different parties or elements work towards a common goal or objective.",
-        "businessContext": "In the business world, aligning teams, strategies, and objectives is essential for achieving coherence and maximizing efficiency across departments.",
-        "nuance": "While alignment is generally positive, it can sometimes imply a loss of individuality or creativity in pursuit of a unified direction.",
-        "synonyms": [
-          "coordinate",
-          "harmonize"
-        ],
-        "antonyms": [
-          "diverge",
-          "disagree"
-        ]
-      },
-      {
-        "word": "tactical",
-        "definition": "Tactical refers to the specific actions or strategies employed to achieve short-term goals within a broader strategic framework.",
-        "businessContext": "In business, tactical decisions are often made to respond to immediate challenges or opportunities, focusing on practical implementation rather than long-term vision.",
-        "nuance": "The term can suggest a reactive approach, which may be necessary in fast-paced environments, but should be balanced with strategic foresight.",
-        "synonyms": [
-          "operational",
-          "pragmatic"
-        ],
-        "antonyms": [
-          "strategic",
-          "long-term"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Your ability is actually not the most important part of a relationship, biologically speaking. There's two more that matter quite a bit more. And the surprise ending is that the third one matters the most, which is scary in some cases.",
@@ -443,9 +317,6 @@
     "timestamp": "01:25:20",
     "context": "Lenny asks about building better relationships within teams. Evan explains his three-component framework for understanding professional relationships: ability (your competence and skills), trust (perceived risk of working with you), and appeal (the experience of interacting with you). He reveals that while most people focus on demonstrating their ability, it's actually the least important factor biologically - trust and especially appeal matter much more for relationship quality.",
     "vocabulary_highlights": [
-      "framework",
-      "competence",
-      "trust",
       "relationship"
     ],
     "topics": [
@@ -466,48 +337,6 @@
     "vocab_reparsed": true,
     "vocabulary": [
       {
-        "word": "framework",
-        "definition": "A framework is a structured system or set of guidelines that provides a foundation for understanding or developing a particular concept or process.",
-        "businessContext": "In business and technology, frameworks are often used to streamline project management, software development, or organizational strategies, ensuring consistency and efficiency.",
-        "nuance": "While 'framework' implies a supportive structure, it can also suggest rigidity, so it is important to use it when referring to established systems rather than flexible or informal approaches.",
-        "synonyms": [
-          "structure",
-          "system"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
-      },
-      {
-        "word": "competence",
-        "definition": "Competence refers to the ability to perform a task effectively, demonstrating the necessary skills, knowledge, and experience.",
-        "businessContext": "In the workplace, competence is critical for employee performance evaluations, recruitment processes, and professional development programs.",
-        "nuance": "Competence often implies a baseline level of skill, so it is best used in contexts where proficiency is expected rather than in discussions of exceptional talent.",
-        "synonyms": [
-          "capability",
-          "proficiency"
-        ],
-        "antonyms": [
-          "incompetence",
-          "ineptitude"
-        ]
-      },
-      {
-        "word": "trust",
-        "definition": "Trust is the firm belief in the reliability, truth, or ability of someone or something, forming the basis of interpersonal and organizational relationships.",
-        "businessContext": "In business, trust is essential for fostering teamwork, enhancing collaboration, and building strong client relationships, ultimately impacting organizational success.",
-        "nuance": "Trust can be fragile and takes time to build, so it is crucial to use it in contexts that emphasize reliability and integrity rather than in situations of uncertainty.",
-        "synonyms": [
-          "confidence",
-          "faith"
-        ],
-        "antonyms": [
-          "distrust",
-          "suspicion"
-        ]
-      },
-      {
         "word": "relationship",
         "definition": "A relationship is a connection or association between individuals or entities, characterized by mutual interactions and influences.",
         "businessContext": "In the business world, relationships are vital for networking, partnerships, and customer engagement, often determining the success of collaborations and negotiations.",
@@ -521,6 +350,7 @@
           "estrangement"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

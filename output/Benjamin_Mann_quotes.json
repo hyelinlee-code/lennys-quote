@@ -6,9 +6,7 @@
     "context": "Lenny asks Benjamin about Meta's aggressive recruiting strategy where Zuck is offering $100 million signing bonuses to poach top AI researchers from other labs. Benjamin explains how Anthropic has been less affected by these massive compensation offers compared to other AI companies. He describes how Anthropic employees are mission-oriented and decline these offers because they prioritize making an impact on humanity's future over purely financial gains.",
     "vocabulary_highlights": [
       "scenario",
-      "affect",
-      "recruiting strategy",
-      "poach"
+      "affect"
     ],
     "topics": [
       "Career Development",
@@ -20,9 +18,9 @@
       "AI/ML Products",
       "Engineering Leadership"
     ],
-    "text_ko": "우리는 훨씬 덜 영향을 받았어요. 여기 사람들은 이런 제안을 받으면 보통 “당연히 떠나지 않아요. Meta에서의 최상의 시나리오(best case scenario)는 우리가 돈을 버는 거고, Anthropic에서의 최상의 시나리오는 인류의 미래에 영향을 미치는 거예요.”라고 말해요.",
-    "text_zh": "我们受到的影响要小得多，因为我们这里的人收到那些offer之后会说，我当然不会走啊，在Meta最好的情况就是赚到钱，但在Anthropic最好的情况是我们能影响人类的未来。",
-    "text_es": "Hemos sido mucho menos afectados porque la gente aquí, cuando les llegan estas ofertas, pues dicen, claro, obviamente no me voy a ir porque en el mejor de los casos en Meta ganamos dinero, pero en el mejor de los casos en Anthropic impactamos el futuro de la humanidad.",
+    "text_ko": "물론 떠나지 않을 거예요. Anthropic에서 제가 바라는 최선의 시나리오는 우리가 인류의 미래에 영향을 미치는 거예요.",
+    "text_zh": "我当然不会离开，因为在Anthropic最好的情况下，我们能影响人类的未来。",
+    "text_es": "claro que no me voy a ir porque en el mejor de los casos, en Anthropic podemos influir en el futuro de la humanidad.",
     "key_sentence": "my best case scenario at Anthropic is we affect the future of humanity.",
     "text_trimmed": true,
     "original_text": "We've been much less affected because people here, they get these offers and then they say, well, of course I'm not going to leave because my best case scenario at Meta is that we make money and my best case scenario at Anthropic is we affect the future of humanity.",
@@ -55,36 +53,10 @@
           "remain unchanged",
           "ignore"
         ]
-      },
-      {
-        "word": "recruiting strategy",
-        "definition": "A recruiting strategy is a systematic plan designed to attract, identify, and hire qualified candidates for job openings within an organization.",
-        "businessContext": "In the competitive landscape of tech startups, a well-defined recruiting strategy is essential for building a skilled workforce and achieving organizational goals.",
-        "nuance": "The effectiveness of a recruiting strategy can vary based on industry trends and company culture, making it important to tailor approaches to specific needs.",
-        "synonyms": [
-          "hiring plan",
-          "talent acquisition strategy"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "poach",
-        "definition": "To poach means to illegally or unethically take employees from another company, often by offering better compensation or benefits.",
-        "businessContext": "In the tech industry, poaching talent from competitors can be a controversial yet common practice, especially in high-demand fields where skilled workers are scarce.",
-        "nuance": "While 'poaching' often carries negative connotations of unethical behavior, it can also reflect aggressive talent acquisition strategies in highly competitive markets.",
-        "synonyms": [
-          "steal",
-          "siphon"
-        ],
-        "antonyms": [
-          "retain",
-          "hire ethically"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "the amount of impact that individuals can have on a company's trajectory... if we get a 1 or 10 or 5% efficiency bonus... that is worth an incredible amount of money.",
@@ -94,8 +66,7 @@
     "vocabulary_highlights": [
       "impact",
       "trajectory",
-      "efficiency",
-      "rationale"
+      "efficiency"
     ],
     "topics": [
       "Growth & Marketing",
@@ -107,9 +78,9 @@
       "AI/ML Products",
       "Engineering Leadership"
     ],
-    "text_ko": "개인이 회사의 성장 방향에 미칠 영향만 생각해 봐도, 우리의 경우에는 제품이 불티나게 팔리고 있어서 추론 스택(inference stack)의 효율이 1%든 5%든 10%든 조금만 올라가도 그게 엄청난 금전적 가치가 있어요.",
-    "text_zh": "你想想看，个人对公司发展轨迹能产生多大影响，我们现在产品卖得特别火，如果我们在推理技术栈(inference stack)上能提高1%、5%或者10%的效率，那价值就是天文数字了。",
-    "text_es": "Si te pones a pensar en el impacto que pueden tener las personas en la dirección de una empresa, en nuestro caso, estamos vendiendo como pan caliente y si logramos una mejora de eficiencia del 1, 5 o 10% en nuestro inference stack, eso vale una cantidad increíble de dinero.",
+    "text_ko": "개인이 회사의 방향성에 미치는 영향력은 정말 큽니다. 우리가 1%든 5%든 10%든 효율성 보너스(efficiency bonus)를 얻는다면, 그 가치는 엄청난 금전적 가치가 있어요.",
+    "text_zh": "个人对公司发展轨迹的影响力是很大的...如果我们能提升1%、5%或者10%的效率，那带来的价值是相当可观的。",
+    "text_es": "El impacto que puede tener una sola persona en el rumbo de la empresa... si logramos una mejora de eficiencia del 1, 10 o 5%... eso vale una cantidad de dinero impresionante.",
     "key_sentence": "the amount of impact that individuals can have on a company's trajectory",
     "text_trimmed": true,
     "original_text": "If you just think about the amount of impact that individuals can have on a company's trajectory, in our case, we are selling hotcakes and if we get a 1 or 10 or 5% efficiency bonus on our inference stack, that is worth an incredible amount of money.",
@@ -156,22 +127,10 @@
           "inefficiency",
           "wastefulness"
         ]
-      },
-      {
-        "word": "rationale",
-        "definition": "The underlying reason or justification for a decision or action.",
-        "businessContext": "In business, providing a clear 'rationale' for strategies or initiatives is essential for gaining stakeholder buy-in and ensuring alignment with organizational goals.",
-        "nuance": "The term often implies a logical and well-thought-out basis for decisions, making it important in formal communications and presentations.",
-        "synonyms": [
-          "justification",
-          "reasoning"
-        ],
-        "antonyms": [
-          "irrationality",
-          "nonsense"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "It's kind of funny because this narrative comes out every six months or so and it's never been true, and so I kind of wish people would have a little bit of a bullshit detector in their heads when they see this.",
@@ -180,8 +139,6 @@
     "context": "Lenny mentions the common perception that AI progress has hit plateaus and that newer models aren't significantly smarter than previous versions. Benjamin pushes back on this narrative, explaining that this same claim emerges repeatedly but has never proven accurate. He suggests people need better critical thinking skills when evaluating these claims about AI progress slowing down.",
     "vocabulary_highlights": [
       "narrative",
-      "perception",
-      "push back",
       "bullshit detector"
     ],
     "topics": [
@@ -215,34 +172,6 @@
         ]
       },
       {
-        "word": "perception",
-        "definition": "Perception refers to the way in which something is understood or interpreted by an individual or group, often influenced by personal experiences and biases. It is a critical factor in decision-making processes.",
-        "businessContext": "In business, understanding customer perception is vital for market research, product development, and branding, as it directly affects consumer behavior and brand loyalty.",
-        "nuance": "Perception can differ significantly from objective reality, making it essential for businesses to manage and shape perceptions through effective communication and marketing strategies.",
-        "synonyms": [
-          "viewpoint",
-          "interpretation"
-        ],
-        "antonyms": [
-          "reality",
-          "truth"
-        ]
-      },
-      {
-        "word": "push back",
-        "definition": "To push back means to resist or oppose a proposal, idea, or action, often by expressing disagreement or concern. It can also refer to delaying a timeline or deadline.",
-        "businessContext": "In a business setting, push back is common during negotiations, project management, or team discussions, where stakeholders may challenge decisions or suggest alternative approaches.",
-        "nuance": "While push back can indicate healthy debate and critical thinking, excessive push back may hinder progress and lead to conflict if not managed constructively.",
-        "synonyms": [
-          "resist",
-          "oppose"
-        ],
-        "antonyms": [
-          "accept",
-          "agree"
-        ]
-      },
-      {
         "word": "bullshit detector",
         "definition": "A bullshit detector is an informal term for an individual's ability to recognize insincerity, deception, or exaggeration in statements or claims. It reflects critical thinking and skepticism.",
         "businessContext": "In business, having a bullshit detector is crucial for evaluating proposals, assessing market claims, and making informed decisions, as it helps individuals discern credible information from misleading rhetoric.",
@@ -256,7 +185,8 @@
           "credulity"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I like the term transformative AI because it's less about can it do as much as people do? Can it do literally everything and more about objectively is it causing transformation in society and the economy?",
@@ -351,8 +281,7 @@
     "vocabulary_highlights": [
       "capitalism",
       "singularity",
-      "imagine",
-      "impact"
+      "imagine"
     ],
     "topics": [
       "Strategy & Planning",
@@ -411,22 +340,9 @@
           "disbelieve",
           "dismiss"
         ]
-      },
-      {
-        "word": "impact",
-        "definition": "The strong effect or influence that one thing has on another, particularly in terms of outcomes or changes. It can refer to both positive and negative consequences.",
-        "businessContext": "In business, measuring the impact of decisions, policies, or innovations is essential for assessing effectiveness and guiding future strategies.",
-        "nuance": "The term 'impact' is often used in a positive context to highlight beneficial outcomes, but it can also refer to adverse effects, making it important to clarify the nature of the impact being discussed.",
-        "synonyms": [
-          "effect",
-          "influence"
-        ],
-        "antonyms": [
-          "insignificance",
-          "irrelevance"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I'm not immune to job replacement either. At some point it's coming for all of us.",
@@ -434,10 +350,7 @@
     "timestamp": "00:01:13",
     "context": "Lenny asks Benjamin for advice on how people can future-proof their careers against AI replacement. Benjamin shows vulnerability by admitting that even he, as someone at the center of AI development at Anthropic, is not immune to eventual job displacement by AI. This candid admission emphasizes how widespread the impact of AI on employment is likely to be across all professions and skill levels.",
     "vocabulary_highlights": [
-      "job replacement",
-      "future-proof",
-      "vulnerability",
-      "AI development"
+      "job replacement"
     ],
     "topics": [
       "Career Development",
@@ -468,50 +381,9 @@
           "job creation",
           "employment growth"
         ]
-      },
-      {
-        "word": "future-proof",
-        "definition": "Future-proof refers to the ability of a product, service, or strategy to remain relevant and effective in the face of future changes and advancements.",
-        "businessContext": "In business, future-proofing is crucial for companies to ensure their offerings can adapt to evolving market demands and technological advancements.",
-        "nuance": "This term is often used in strategic planning and product development, conveying a proactive approach to potential challenges and changes.",
-        "synonyms": [
-          "sustainable",
-          "adaptable"
-        ],
-        "antonyms": [
-          "obsolete",
-          "outdated"
-        ]
-      },
-      {
-        "word": "vulnerability",
-        "definition": "Vulnerability refers to the susceptibility of a system, organization, or individual to harm, damage, or loss, often due to weaknesses or gaps.",
-        "businessContext": "In the context of business and technology, vulnerability is a critical concern, particularly in cybersecurity, where organizations must identify and mitigate risks to protect sensitive data.",
-        "nuance": "While often associated with weaknesses, vulnerability can also imply an opportunity for growth and improvement when addressed effectively.",
-        "synonyms": [
-          "susceptibility",
-          "weakness"
-        ],
-        "antonyms": [
-          "strength",
-          "resilience"
-        ]
-      },
-      {
-        "word": "AI development",
-        "definition": "AI development refers to the process of creating and enhancing artificial intelligence technologies and systems, including machine learning, natural language processing, and robotics.",
-        "businessContext": "In the tech industry, AI development is a rapidly growing field, driving innovation and transforming business operations across various sectors by automating tasks and providing data-driven insights.",
-        "nuance": "The term encompasses both the technical aspects of building AI systems and the ethical considerations surrounding their implementation and impact on society.",
-        "synonyms": [
-          "artificial intelligence engineering",
-          "machine learning advancement"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "We felt like safety wasn't the top priority there. The case for safety has gotten a lot more concrete, so superintelligence is a lot about how do we keep God in a box and not let the God out?",
@@ -521,8 +393,7 @@
     "vocabulary_highlights": [
       "priority",
       "concrete",
-      "superintelligence",
-      "metaphor"
+      "superintelligence"
     ],
     "topics": [
       "Starting a Company",
@@ -581,21 +452,8 @@
           "subintelligence",
           "ignorance"
         ]
-      },
-      {
-        "word": "metaphor",
-        "definition": "A metaphor is a figure of speech that implies a comparison between two unlike things, suggesting that one embodies qualities of the other.",
-        "businessContext": "In business communication, metaphors can be powerful tools for persuasion and clarity, helping to illustrate complex ideas in relatable terms.",
-        "nuance": "While metaphors can enhance understanding, they may also obscure meaning if overused or misapplied, so careful consideration is necessary.",
-        "synonyms": [
-          "analogy",
-          "symbol"
-        ],
-        "antonyms": [
-          "literal expression",
-          "fact"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

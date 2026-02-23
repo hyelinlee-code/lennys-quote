@@ -21,9 +21,9 @@
       "Community Building",
       "Career Development"
     ],
-    "text_ko": "보통은 모델(model)하고 상호작용하면서 정말 고난도 작업을 시키는데 기대만큼 성능이 안 나오면, 어딘가엔 아마 그 분야의 최고 전문가가 있고요. 그 전문가는 세계 최고 연구자들과 함께 프론티어 랩(Frontier Labs)에서 직접 문제를 파악하고 어떻게 개선할지 과학적 반복 개선 과정(scientific iteration process)을 거치며 연구하고 있을 가능성이 커요.",
-    "text_zh": "一般来说，当你在使用模型，让它做一些特别高端的任务，但它的表现达不到你的期望时，背后肯定有这个领域的顶级专家，在世界最好的前沿实验室(Frontier Labs)里跟最牛的研究人员一起合作，通过科学的迭代过程来琢磨怎么把这个问题解决得更好。",
-    "text_es": "En términos generales, cada vez que estás trabajando con un modelo y le pides que haga cosas realmente avanzadas, y no está cumpliendo con tus expectativas, seguramente hay un experto en algún lugar que es la mente más brillante en ese campo, trabajando directamente con los mejores investigadores del mundo en los Frontier Labs, tratando de entender y llevando a cabo todo el proceso de iteración científica para mejorar esa función.",
+    "text_ko": "모델(model)과 상호작용하면서 정말 고도화된 작업(advanced tasks)을 시키는데 기대만큼 수행하지 못하면, 어딘가에는 아마 세계 최고의 연구진(best researchers in the world)을 위해 직접 일하는 전문가(expert)가 있을 거예요.",
+    "text_zh": "每次你在使用模型，让它做一些特别高难度的事情，结果它的表现没达到你的预期时，很可能在某个地方就有专家...直接为世界顶尖的研究人员工作。",
+    "text_es": "cada vez que trabajas con un modelo y le pides que haga cosas muy avanzadas, y no te está dando los resultados que esperas, en algún lugar probablemente hay un experto... trabajando directamente con los mejores investigadores del mundo.",
     "key_sentence": "somewhere there's probably an expert...working directly for the best researchers in the world.",
     "text_trimmed": true,
     "original_text": "Generally speaking, anytime that you're interacting with a model and you're asking it to do really advanced things, and it's not performing your expectations, like somewhere there's probably an expert that is the top mind in that domain working directly for the best researchers in the world at the Frontier Labs trying to understand and go through the scientific iteration process of how to make that better.",
@@ -85,7 +85,8 @@
           "doers"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "the only moat in human data is access to an audience.",
@@ -95,8 +96,7 @@
     "vocabulary_highlights": [
       "moat",
       "access",
-      "audience",
-      "opportunities"
+      "audience"
     ],
     "topics": [
       "Strategy & Planning",
@@ -109,9 +109,9 @@
       "Community Building",
       "Career Development"
     ],
-    "text_ko": "연구팀과 모델 구축 팀, 그리고 그들이 진행하는 실험이 개선의 핵심이라고 생각한다면, 아마도 당신이 작업하고 있는 최신 연구가 동료에게 투자되는 걸 원하지 않을 거예요. 우리는 인간 데이터에서 유일한 방어선은 청중에 대한 접근이라고 자주 말하곤 해요.",
-    "text_zh": "我觉得如果你把研究团队、模型搭建团队，还有他们跑的那些实验当作是你们改进提升的核心基石，那你肯定不希望竞争对手也投资你正在研究的最新方向吧。我们常说，在人类数据这块，唯一的护城河就是能接触到用户群体。",
-    "text_es": "Mira, si consideras que tu equipo de investigación y tu equipo de desarrollo de modelos, y los experimentos que están haciendo, son realmente la base de cómo vas mejorando, probablemente no querrías que la investigación más reciente en lo que estás trabajando esté siendo financiada por un competidor. Nos gusta decir que la única ventaja competitiva real en datos humanos es tener acceso a una audiencia.",
+    "text_ko": "사람들에 관한 데이터(human data)에서 유일한 해자(moat)는 결국 오디언스(audience)에 대한 접근뿐이에요.",
+    "text_zh": "在人类数据这块，唯一的护城河就是能不能接触到用户群体。",
+    "text_es": "El único diferenciador real en datos humanos es tener acceso a una audiencia.",
     "key_sentence": "the only moat in human data is access to an audience.",
     "text_trimmed": true,
     "original_text": "I think if you viewed your research team and your model building team, and the experiments they're running to be really the cornerstone of how you're improving, you probably wouldn't want the latest research of what you're trying to work on being invested in by a peer. We like to say the only moat in human data is access to an audience.",
@@ -158,22 +158,10 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "opportunities",
-        "definition": "Opportunities are favorable situations or conditions that can be leveraged for growth, advancement, or profit. They represent potential avenues for success in various contexts.",
-        "businessContext": "In business, identifying opportunities is essential for strategic planning, market expansion, and innovation, often driving competitive advantage.",
-        "nuance": "While opportunities are generally seen as positive, they can also imply risk and require careful evaluation before pursuit.",
-        "synonyms": [
-          "prospects",
-          "possibilities"
-        ],
-        "antonyms": [
-          "challenges",
-          "obstacles"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "we built a decade of trust with 18 million people, and they trust us, and we built a ton of brand affinity.",
@@ -183,8 +171,7 @@
     "vocabulary_highlights": [
       "brand affinity",
       "trust",
-      "built",
-      "success"
+      "built"
     ],
     "topics": [
       "Growth & Marketing",
@@ -197,9 +184,9 @@
       "Community Building",
       "Career Development"
     ],
-    "text_ko": "우리가 가진 큰 장점이자 시장에서 이렇게 빠르게 반응을 얻은 이유는 10년 동안 1,800만 명과 쌓아온 신뢰 덕분이에요. 사람들은 우리를 믿고 있고, 브랜드에 대한 호감(brand affinity)도 많이 쌓였어요. 그들은 핸드쉐이크(Handshake)를 사용하고 활동적인 프로필을 가지고 있으며, 학업 성과나 학교에서 해온 활동에 대한 정보도 방대한 양으로 가지고 있어요.",
-    "text_zh": "我们最大的优势，也是为什么能在市场上这么快打响的原因，就是我们花了十年时间跟1800万用户建立了信任关系，他们信任我们，而且我们积累了超强的品牌黏性(brand affinity)，他们都在用Handshake，档案也很活跃，我们掌握了大量他们学习成绩和在校表现的数据。",
-    "text_es": "La ventaja enorme que hemos tenido y por qué hemos conectado tan rápido en el mercado es que construimos una década de confianza con 18 millones de personas, confían en nosotros, creamos un montón de afinidad con la marca, usan Handshake, tienen un perfil activo, y tenemos muchísima información sobre su rendimiento académico y lo que han hecho en la universidad.",
+    "text_ko": "우리는 10년 동안 1,800만 명과 신뢰를 쌓아왔고, 그들이 우리를 믿어줘요. 덕분에 브랜드 호감도(brand affinity)도 크게 쌓였어요.",
+    "text_zh": "我们花了十年时间赢得了1800万用户的信任，他们真的很信任我们，而且我们的品牌粘性特别强。",
+    "text_es": "Construimos una década de confianza con 18 millones de personas, confían en nosotros, y logramos una conexión muy fuerte con la marca.",
     "key_sentence": "we built a decade of trust with 18 million people, and they trust us",
     "text_trimmed": true,
     "original_text": "The huge advantage that we've had and why we've resonated so fast in the marketplace is we built a decade of trust with 18 million people, and they trust us, and we built a ton of brand affinity, and they use Handshake, and they have an active profile, and we have a ton of information around their academic performance and what they've done in school.",
@@ -246,22 +233,10 @@
           "destroyed",
           "dismantled"
         ]
-      },
-      {
-        "word": "success",
-        "definition": "Success is the achievement of desired aims, goals, or objectives, often measured by specific metrics such as profitability, growth, or customer satisfaction.",
-        "businessContext": "In business, success can be quantified through various performance indicators, and it is often the ultimate goal of strategic initiatives and operational efforts.",
-        "nuance": "Success can be subjective and context-dependent, as what constitutes success may vary between individuals, organizations, and industries.",
-        "synonyms": [
-          "achievement",
-          "accomplishment"
-        ],
-        "antonyms": [
-          "failure",
-          "setback"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "We're the largest expert network in the world. We have more PhDs, 500,000 of them use Handshake than any other platform. We have three million master students who are in school or alumni.",
@@ -270,9 +245,7 @@
     "context": "Garrett describes how Handshake discovered the opportunity in AI data labeling. As the demand shifted from generalist workers to experts for training AI models, companies began approaching Handshake to recruit from their massive network of PhD and master's degree holders. This led them to realize they could cut out these middleman companies and serve the AI labs directly while providing a better experience for their users.",
     "vocabulary_highlights": [
       "expert network",
-      "alumni",
-      "opportunity",
-      "demand"
+      "alumni"
     ],
     "topics": [
       "Starting a Company",
@@ -285,9 +258,9 @@
       "Community Building",
       "Career Development"
     ],
-    "text_ko": "우리는 세계에서 가장 큰 전문가 네트워크예요. 50만 명의 박사님들이 Handshake를 사용하고 있어서 다른 플랫폼보다 더 많아요. 그리고 현재 재학 중이거나 졸업한 석사 학생이 300만 명이나 있어요. 그래서 중개업체들이 우리에게 연락해서 '우리의 박사님들과 석사 학생들을 모집할 수 있을까요?'라고 물어보는 경우가 많아졌어요.",
-    "text_zh": "我们是全球最大的专家网络。我们平台上有五十万博士在用Handshake，比其他任何平台都多。还有三百万硕士生，包括在校生和毕业生。所以呢，我们开始看到很多中介公司找上门来，问我们\"能不能让我们招你们的博士和硕士？\"",
-    "text_es": "Somos la red de expertos más grande del mundo. Tenemos más doctores que nadie, 500,000 de ellos usan Handshake más que cualquier otra plataforma. Tenemos tres millones de estudiantes de maestría que están estudiando o ya son egresados. Y entonces empezamos a ver que todas estas empresas intermediarias (middleman companies) nos contactaban diciéndonos: '¿Podemos reclutar a sus doctores y estudiantes de maestría?'",
+    "text_ko": "저희는 전 세계에서 가장 큰 전문가 네트워크(expert network)이에요. 박사 학위자들(PhDs)이 어느 플랫폼보다 많고, 그중 50만 명이 Handshake 플랫폼(Handshake)을 사용해요. 재학 중이거나 동문인 석사생(master students)이 300만 명 있어요.",
+    "text_zh": "我们是全球最大的专家网络平台。我们这里的博士最多，有50万博士在用Handshake，比其他任何平台都多。我们还有300万硕士用户，有在校的也有校友。",
+    "text_es": "Somos la red de expertos más grande del mundo. Tenemos más doctores, 500,000 de ellos usan Handshake, más que cualquier otra plataforma. Y tenemos tres millones de estudiantes de maestría, tanto actuales como egresados.",
     "key_sentence": "We have more PhDs, 500,000 of them use Handshake than any other platform.",
     "text_trimmed": true,
     "original_text": "We're the largest expert network in the world. We have more PhDs, 500,000 of them use Handshake than any other platform. We have three million master students who are in school or alumni. And so, we started to see all what I would call middleman companies reaching out to us saying, 'Can we recruit your PhDs and master's students?'",
@@ -320,36 +293,10 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "opportunity",
-        "definition": "An opportunity is a favorable set of circumstances that makes it possible to do something or achieve a desired outcome. It often implies potential for growth, advancement, or profit.",
-        "businessContext": "In the business world, identifying and capitalizing on opportunities is crucial for innovation, market expansion, and competitive advantage, often driving strategic decision-making.",
-        "nuance": "The term 'opportunity' suggests a positive and proactive approach, making it ideal for discussions about potential growth, but it may be less appropriate in contexts where risks or challenges are emphasized.",
-        "synonyms": [
-          "prospect",
-          "chance"
-        ],
-        "antonyms": [
-          "obstacle",
-          "hindrance"
-        ]
-      },
-      {
-        "word": "demand",
-        "definition": "Demand refers to the desire and ability of consumers to purchase goods or services at a given price. It is a fundamental concept in economics that influences market dynamics.",
-        "businessContext": "In business, understanding demand is essential for forecasting sales, managing inventory, and shaping marketing strategies, as it directly impacts revenue and operational planning.",
-        "nuance": "The term 'demand' carries a sense of urgency and necessity, making it suitable for discussions about market needs, but it may not be appropriate in contexts where supply or availability is the focus.",
-        "synonyms": [
-          "requirement",
-          "need"
-        ],
-        "antonyms": [
-          "supply",
-          "oversupply"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "There will never be a time like this. I've never seen anything like it. I doubt I'll ever feel anything like this in business again where there's unlimited demand. How do you make sure that three months from now, six months, you have no regrets?",
@@ -357,10 +304,8 @@
     "timestamp": "00:00:00",
     "context": "Garrett shares the motto 'leave nothing to chance' that his team adopted while building their AI data labeling business. He emphasizes the unprecedented nature of the current AI opportunity, where there's essentially unlimited demand for high-quality training data. This mindset drove his team to work extremely hard - including nights and weekends - to ensure they could capitalize on this once-in-a-lifetime market opportunity.",
     "vocabulary_highlights": [
-      "unprecedented",
       "demand",
-      "regrets",
-      "opportunity"
+      "regrets"
     ],
     "topics": [
       "Leadership & Management",
@@ -373,28 +318,14 @@
       "Community Building",
       "Career Development"
     ],
-    "text_ko": "지금 같은 순간은 다시 오지 않을 거예요. 저도 이런 걸 본 적이 없고요. 수요가 끝없이 쏟아지는 이 상황을 비즈니스에서 다시 만나게 될지 잘 모르겠어요. 3개월, 6개월 뒤에 후회하지 않으려면 어떻게 해야 할까요? 고객 만나러 비행기 타고 가고, 밤을 새워서라도 밀어붙이고, 데이터를 몇 번이고 꼼꼼히 다시 확인하세요.",
-    "text_zh": "这种机会绝对是千载难逢的。我从来没见过这样的情况，估计以后在商场上也不太可能再遇到需求如此爆炸的时候了。怎么确保三个月后、半年后不会后悔呢？该飞就飞，去见客户；该熬夜就熬夜，拼一把；数据该检查几遍就检查几遍，不能马虎。",
-    "text_es": "Nunca va a haber un momento como este. Jamás he visto algo así. Dudo que vuelva a sentir algo parecido en los negocios, donde hay una demanda ilimitada. ¿Cómo te aseguras de que dentro de tres meses, seis meses, no te vayas a arrepentir? Súbete al avión para ir a hablar con un cliente, haz ese último esfuerzo hasta tarde, revisa los datos seis veces más.",
+    "text_ko": "이런 기회는 다시 없을 거예요. 이런 건 본 적이 없어요. 무한한 수요(unlimited demand)가 있는 상황을 사업에서 다시 경험할 것 같지 않아요. 3개월, 6개월 뒤에 후회가 없으려면 어떻게 해야 할까요?",
+    "text_zh": "这种机会真的是千载难逢。我从来没见过这样的情况。我觉得在商业上可能再也不会遇到这种需求无限大的时候了。你怎么确保三个月后、六个月后，不会后悔没抓住这个机会？",
+    "text_es": "No va a haber otro momento como este. Nunca he visto algo así. Dudo que vuelva a vivir algo parecido en los negocios, donde hay demanda ilimitada. ¿Cómo te aseguras de que dentro de tres meses, seis meses, no te vayas a arrepentir?",
     "key_sentence": "I doubt I'll ever feel anything like this in business again where there's unlimited demand.",
     "text_trimmed": true,
     "original_text": "There will never be a time like this. I've never seen anything like it. I doubt I'll ever feel anything like this in business again where there's unlimited demand. How do you make sure that three months from now, six months, you have no regrets? Get on the plane to go talk to a customer, make the late night push, check the data six times over again.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "unprecedented",
-        "definition": "Never done or known before; without previous example.",
-        "businessContext": "In business, 'unprecedented' often describes market conditions, trends, or events that have not been experienced before, which can create unique opportunities or challenges.",
-        "nuance": "While it conveys a sense of rarity and significance, it can also imply uncertainty and risk when applied to volatile situations.",
-        "synonyms": [
-          "extraordinary",
-          "unmatched"
-        ],
-        "antonyms": [
-          "commonplace",
-          "ordinary"
-        ]
-      },
       {
         "word": "demand",
         "definition": "The desire of consumers to purchase goods or services at a given price.",
@@ -422,22 +353,10 @@
           "satisfaction",
           "contentment"
         ]
-      },
-      {
-        "word": "opportunity",
-        "definition": "A set of circumstances that makes it possible to do something; a favorable chance for advancement or progress.",
-        "businessContext": "In business, identifying opportunities is essential for growth and innovation, as they can lead to new markets, products, or improvements in processes.",
-        "nuance": "The term often implies a positive potential outcome, but it can also suggest the need for action and decision-making to capitalize on the situation.",
-        "synonyms": [
-          "chance",
-          "prospect"
-        ],
-        "antonyms": [
-          "obstacle",
-          "hindrance"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "That's not what we're hearing from our employers, this is just enabling human beings to be even more productive. You used to put a Google Search on a skill on your resume because you grew up with Google.",
@@ -446,9 +365,7 @@
     "context": "Lenny asks about the tension between students training AI models that might eventually replace entry-level jobs. Garrett pushes back on fears about job displacement, explaining that employers using Handshake aren't reducing hiring. Instead, AI is making workers more productive, similar to how previous generations became skilled with Google search. He argues that young people who grow up using AI tools naturally will have significant advantages in the job market.",
     "vocabulary_highlights": [
       "enabling",
-      "productive",
-      "tension",
-      "displacement"
+      "productive"
     ],
     "topics": [
       "Career Development",
@@ -461,9 +378,9 @@
       "Community Building",
       "Career Development"
     ],
-    "text_ko": "고용주들한테서 듣는 얘기는 그게 아니에요. 이건 사람들을 훨씬 더 생산적으로 만들어 주는 도구일 뿐이에요. 예전에는 구글 검색(Google Search)을 이력서에 기술로 적곤 했는데, 구글과 함께 자라서 그랬죠. AI 네이티브(AI native)인 젊은 세대는 훨씬 더 큰 이점을 가지고 있어요.",
-    "text_zh": "我们从雇主那边听到的可不是这样，AI其实是让人变得更高效了。以前你们那代人简历上还会写\"熟练使用Google搜索\"，因为你们是跟着Google长大的。现在这些年轻人从小就接触AI，他们占大便宜了。",
-    "text_es": "Eso no es lo que escuchamos de nuestros empleadores, esto simplemente permite que las personas sean aún más productivas. Antes ponías \"búsqueda en Google\" como habilidad en tu currículum porque creciste con Google. Al ser nativos de la IA (AI native), los jóvenes tienen una ventaja enorme.",
+    "text_ko": "우리가 고용주들로부터 듣는 얘기는 그게 아니에요. 이건 단지 사람들이 훨씬 더 생산적으로 일할 수 있게 해주는 도구일 뿐이에요. 예전에는 구글과 함께 자랐기 때문에 이력서(resume)에 '구글 검색(Google Search)' 같은 스킬을 적곤 했어요.",
+    "text_zh": "但我们从雇主那里听到的不是这个意思，这其实是让人变得更有效率。以前你会在简历上写\"会用谷歌搜索\"这样的技能，因为你是伴随着谷歌长大的。",
+    "text_es": "Pero no es eso lo que nos dicen las empresas, esto simplemente permite que las personas sean aún más productivas. Antes ponías \"búsquedas en Google\" como habilidad en tu currículum porque creciste con Google.",
     "key_sentence": "this is just enabling human beings to be even more productive.",
     "text_trimmed": true,
     "original_text": "That's not what we're hearing from our employers, this is just enabling human beings to be even more productive. You used to put a Google Search on a skill on your resume because you grew up with Google. Being AI native, young people are at a huge advantage.",
@@ -496,35 +413,9 @@
           "unproductive",
           "inefficient"
         ]
-      },
-      {
-        "word": "tension",
-        "definition": "A state of mental or emotional strain, or a situation in which competing interests or forces are in conflict.",
-        "businessContext": "In business, 'tension' can refer to conflicts within teams, between departments, or in negotiations, often highlighting areas that require resolution for progress.",
-        "nuance": "While 'tension' can have negative connotations, it can also indicate a necessary dynamic that drives innovation and change.",
-        "synonyms": [
-          "stress",
-          "strain"
-        ],
-        "antonyms": [
-          "harmony",
-          "calm"
-        ]
-      },
-      {
-        "word": "displacement",
-        "definition": "The act of moving something from its usual or proper place, often resulting in a change in position or status.",
-        "businessContext": "In the context of business and technology, 'displacement' often refers to the replacement of traditional jobs or processes by new technologies or methods.",
-        "nuance": "The term can evoke feelings of loss or disruption, particularly in discussions about automation and workforce changes.",
-        "synonyms": [
-          "removal",
-          "relocation"
-        ],
-        "antonyms": [
-          "placement",
-          "installation"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

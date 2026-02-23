@@ -5,8 +5,6 @@
     "timestamp": "00:00:00",
     "context": "Lenny asks Tomer why he decided to completely rethink how product development works at LinkedIn and why other leaders need to pay attention to this transformation. Tomer explains that LinkedIn has unique visibility into the changing nature of work, and their data shows that 70% of the skills required for any given job will change by 2030. This rapid pace of change means companies must fundamentally reimagine their approach to building products to stay competitive.",
     "vocabulary_highlights": [
-      "transformational",
-      "rethink",
       "skills",
       "change"
     ],
@@ -21,42 +19,14 @@
       "Product Management",
       "User Experience"
     ],
-    "text_ko": "여러분의 일을 해내는 데 필요한 스킬은 2030년까지 약 70%가 바뀔 거예요. 그래서 이직을 고려하든 안 하든, 지금 하고 있는 일이 변하고 있다는 뜻이에요. 경쟁력을 유지하려면 기본 원리(first principles)로 돌아가 백지에서 다시 시작하듯 도면을 다시 그려보고, ‘무엇을 만드는 것(building)’이 무엇인지 다시 상상해봐야 해요.",
-    "text_zh": "你看啊，到2030年的时候，你现在这份工作需要的技能会有70%都变掉。所以不管你想不想换工作，反正工作本身已经在变了。想要保持竞争力，你得回到最基本的原理上，重新来过，重新思考什么叫做\"建设\"。",
-    "text_es": "Cuando miramos las habilidades que vas a necesitar para tu trabajo, para el 2030 van a cambiar en un 70%. O sea que quieras cambiar de trabajo o no, tu trabajo se está transformando. Para mantenerte competitivo, en realidad tienes que volver a lo básico, empezar desde cero y replantearte completamente lo que significa construir.",
+    "text_ko": "지금 하시는 직무(job)에 필요한 역량(skills)을 보면 2030년까지 약 70%가 달라질 거예요. 그래서 이직을 하든 안 하든 여러분의 직무는 이미 변하고 있어요.",
+    "text_zh": "就技能要求来说，到2030年，你这份工作所需的技能会改变70%。所以不管你打不打算换工作，你的岗位本身都会在变。",
+    "text_es": "Si analizamos las habilidades que exige tu trabajo, para 2030 habrán cambiado en un 70%. Así que, aunque no estés pensando en cambiar de empleo, tu puesto sí está cambiando.",
     "key_sentence": "by 2030, it will change by 70%.",
     "text_trimmed": true,
     "original_text": "When we look at the skills required to do your job, by 2030, it will change by 70%. So whether or not you're looking to change your job, your job is changing. In order to stay competitive, you actually have to go back to some first principles, go back to the drawing board and reimagine what it means to be building.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "transformational",
-        "definition": "Relating to or characterized by significant change or transformation, often resulting in a fundamental shift in approach or perspective.",
-        "businessContext": "In business and technology, 'transformational' often describes initiatives or strategies that fundamentally alter an organization's operations, culture, or market position.",
-        "nuance": "This term carries a positive connotation, suggesting improvement and innovation, and is often used in contexts where change is viewed as necessary for growth.",
-        "synonyms": [
-          "revolutionary",
-          "groundbreaking"
-        ],
-        "antonyms": [
-          "static",
-          "unchanging"
-        ]
-      },
-      {
-        "word": "rethink",
-        "definition": "To consider or think about something again, especially in order to change or improve it.",
-        "businessContext": "In a business setting, 'rethink' is often used when organizations evaluate their strategies, processes, or products to adapt to new market conditions or consumer needs.",
-        "nuance": "This term implies a critical reassessment and is often used in contexts where previous assumptions are challenged or need updating.",
-        "synonyms": [
-          "reassess",
-          "reevaluate"
-        ],
-        "antonyms": [
-          "accept",
-          "maintain"
-        ]
-      },
       {
         "word": "skills",
         "definition": "The abilities or expertise that enable an individual to perform tasks effectively and efficiently.",
@@ -85,7 +55,9 @@
           "consistency"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "We call it the full stack builder model. The goal itself is to empower great builders to take their idea and to take it to market, regardless of their role and the stack and which team they're on.",
@@ -94,9 +66,7 @@
     "context": "Lenny asks Tomer to explain the name and concept of the new program LinkedIn has developed. The full stack builder model is LinkedIn's radical approach to product development that enables individual contributors to take products from idea to launch regardless of their traditional function. Unlike traditional teams where product managers, designers, and engineers work in sequence, this model creates a seamless collaboration between humans and AI tools.",
     "vocabulary_highlights": [
       "empower",
-      "take to market",
-      "full stack",
-      "product development"
+      "full stack"
     ],
     "topics": [
       "Product Management",
@@ -109,9 +79,9 @@
       "Product Management",
       "User Experience"
     ],
-    "text_ko": "우리는 그걸 풀스택 빌더 모델(full stack builder model)이라고 불러요. 목표는 훌륭한 빌더들이 자신의 아이디어를 어떤 역할을 맡고 있든, 어떤 스택(stack)을 쓰고 있든, 어떤 팀에 속해 있든 상관없이 아이디어를 실현해 시장에 내놓을 수 있도록 역량을 실어 주는 거예요. 사람과 기계가 유연하게 상호작용하는 방식이에요.",
-    "text_zh": "我们叫它全栈构建者模式(full stack builder model)。目标就是让那些厉害的构建者能够把自己的想法推向市场，不管他们在哪个岗位、用什么技术栈(stack)、在哪个团队。这其实就是人和机器之间很流畅的互动。",
-    "text_es": "Lo llamamos el modelo de constructor integral (full stack builder). El objetivo en sí es empoderar a los grandes constructores para que tomen su idea y la lleven al mercado, sin importar cuál sea su rol, en qué parte del stack estén o en qué equipo trabajen. Es realmente una interacción fluida entre el humano y la máquina.",
+    "text_ko": "우리는 그걸 풀스택 빌더 모델(full stack builder model)이라고 불러요. 목표는 훌륭한 빌더들이 어떤 역할을 맡고 있든, 어떤 스택(stack)을 쓰든, 어떤 팀에 속해 있든 관계없이 자신의 아이디어를 실행해 시장에 내놓을 수 있게 힘을 실어주는 거예요.",
+    "text_zh": "我们称它为“全栈构建者模型”（full stack builder model）。目标就是赋能那些优秀的实干者，把想法做出来并推向市场——不管他们是什么角色、用的是什么技术栈（stack），或者在哪个团队里。",
+    "text_es": "Lo llamamos el modelo del creador full-stack (full stack builder). El objetivo es darles a los mejores creadores las herramientas para llevar su idea al mercado, sea cual sea su rol, el stack tecnológico (stack) o el equipo en el que estén.",
     "key_sentence": "The full stack builder model empowers builders to take ideas to market.",
     "text_trimmed": true,
     "original_text": "We call it the full stack builder model. The goal itself is to empower great builders to take their idea and to take it to market, regardless of their role and the stack and which team they're on. It's really fluid interaction between human and machine.",
@@ -132,20 +102,6 @@
         ]
       },
       {
-        "word": "take to market",
-        "definition": "To introduce a product or service to the marketplace, making it available for consumers to purchase.",
-        "businessContext": "This phrase is commonly used in product launches and marketing strategies, indicating the transition from development to sales and customer engagement.",
-        "nuance": "The phrase suggests not only the act of launching but also the strategic planning involved in ensuring the product meets market needs.",
-        "synonyms": [
-          "launch",
-          "commercialize"
-        ],
-        "antonyms": [
-          "withdraw",
-          "shelve"
-        ]
-      },
-      {
         "word": "full stack",
         "definition": "Referring to the complete set of technologies and layers involved in software development, from front-end user interfaces to back-end databases and servers.",
         "businessContext": "In tech startups, a 'full stack' approach allows teams to develop and manage all aspects of a product, enhancing flexibility and efficiency in development processes.",
@@ -158,22 +114,10 @@
           "partial",
           "limited"
         ]
-      },
-      {
-        "word": "product development",
-        "definition": "The process of designing, creating, and bringing a new product to market, encompassing all stages from ideation to launch.",
-        "businessContext": "In startups, effective product development is crucial for meeting customer needs and achieving competitive advantage in the marketplace.",
-        "nuance": "The term can imply a structured approach, but it may also encompass agile methodologies that allow for rapid iteration and adaptation.",
-        "synonyms": [
-          "product design",
-          "product innovation"
-        ],
-        "antonyms": [
-          "product stagnation",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Change management here is going to be a critical part, but it's not enough to give them the tools. You have to build the incentives programs, the motivation, the examples to how you do it.",
@@ -183,8 +127,7 @@
     "vocabulary_highlights": [
       "change management",
       "incentives programs",
-      "motivation",
-      "adoption challenges"
+      "motivation"
     ],
     "topics": [
       "Leadership & Management",
@@ -197,9 +140,9 @@
       "Product Management",
       "User Experience"
     ],
-    "text_ko": "여기서 변화 관리(change management)는 핵심인데, 도구만 주는 것으로는 부족해요. 인센티브 프로그램(incentive programs)과 동기 부여, 어떻게 하는지 보여주는 사례들을 만들어야 해요. 많은 회사들이 에이전트(agents)를 배포해 놓고 알아서 채택되길 기대하는데, 그렇게 되지 않아요.",
-    "text_zh": "变革管理(change management)在这里会是关键一环，但光给他们工具还不够。你得建立激励机制、调动积极性，还要给出具体的操作示例。我看到很多公司就是把代理工具(agents)一推出去，就指望企业会自动采用。这样搞肯定不行的。",
-    "text_es": "La gestión del cambio va a ser clave aquí, pero no basta con darles las herramientas. Tienes que crear programas de incentivos, la motivación, ejemplos de cómo hacerlo. Veo muchas empresas que lanzan sus agentes y simplemente esperan que las compañías los adopten. Así no funciona la cosa.",
+    "text_ko": "여기선 변화 관리(change management)가 굉장히 중요하지만, 단지 도구만 제공하는 것으론 부족해요. 인센티브 프로그램(incentive programs), 동기 부여 장치, 그리고 실제로 어떻게 하는지 보여주는 구체적인 실행 사례를 만들어야 해요.",
+    "text_zh": "变革管理(change management)在这儿很关键，但光给大家工具不够。你得把激励机制(incentives)建起来、想办法调动积极性、树立示范，教大家具体怎么做。",
+    "text_es": "Aquí la gestión del cambio (change management) va a ser clave, pero no basta con darles las herramientas. Hay que poner en marcha programas de incentivos, generar la motivación y dar ejemplos de cómo hacerlo.",
     "key_sentence": "it's not enough to give them the tools.",
     "text_trimmed": true,
     "original_text": "Change management here is going to be a critical part, but it's not enough to give them the tools. You have to build the incentives programs, the motivation, the examples to how you do it. I see a lot of companies roll out their agents and just expecting companies to adopt. It doesn't work this way.",
@@ -237,19 +180,10 @@
           "incentive"
         ],
         "antonyms": []
-      },
-      {
-        "word": "adoption challenges",
-        "definition": "Adoption challenges refer to the obstacles and difficulties encountered when implementing new practices, technologies, or systems within an organization.",
-        "businessContext": "In tech and startup environments, addressing adoption challenges is critical for ensuring that new solutions are embraced by users and integrated into existing workflows.",
-        "nuance": "The term suggests a focus on the barriers to acceptance rather than the benefits of the new initiative, and is often used in discussions about user experience and change management.",
-        "synonyms": [
-          "implementation hurdles",
-          "acceptance barriers"
-        ],
-        "antonyms": []
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Top talent has this tendency of continuously trying to get better at their craft. The key trait that I'm emphasizing for builders is where I want them to spend their time is where I think great builders should shine in.",
@@ -259,8 +193,7 @@
     "vocabulary_highlights": [
       "tendency",
       "emphasizing",
-      "trait",
-      "performers"
+      "trait"
     ],
     "topics": [
       "Learning & Growth",
@@ -320,22 +253,9 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "performers",
-        "definition": "Performers are individuals who execute tasks or roles, often in a context that requires skill, talent, or effectiveness. This term can apply to various fields, including arts, sports, and business.",
-        "businessContext": "In the business world, high performers are often recognized for their contributions and are essential to driving success and achieving organizational goals.",
-        "nuance": "The term 'performers' can carry a connotation of excellence, so it is typically used to describe individuals who exceed standard expectations or deliver outstanding results.",
-        "synonyms": [
-          "achievers",
-          "contributors"
-        ],
-        "antonyms": [
-          "underperformers",
-          "non-performers"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "We ended up building our own trust agent at LinkedIn.",
@@ -343,9 +263,6 @@
     "timestamp": "00:19:17",
     "context": "Lenny asks about the specific AI agents LinkedIn has built to automate parts of product development. Tomer explains that LinkedIn couldn't use off-the-shelf AI tools and had to build custom agents tailored to their specific needs. The trust agent is one example - it analyzes product specifications and identifies potential security vulnerabilities and harm vectors that could affect users. This agent was built by LinkedIn's head of trust and incorporates all their unique trust considerations.",
     "vocabulary_highlights": [
-      "automate",
-      "custom",
-      "product development",
       "trust agent"
     ],
     "topics": [
@@ -359,56 +276,14 @@
       "Product Management",
       "User Experience"
     ],
-    "text_ko": "결국 LinkedIn에서 저희만의 트러스트 에이전트(trust agent)를 만들게 되었어요. 그래서 스펙(spec)을 만들거나 아이디어를 구체화할 때 그 에이전트로 쭉 검토해 보면, 어떤 취약점이 있는지와 그로 인해 어떤 피해 벡터(harm vectors)가 생기거나 유발될 수 있는지를 알려줘요.",
-    "text_zh": "我们最后在LinkedIn自己搭建了一个信任代理(trust agent)。所以当你在做规划、构思想法的时候，你把这些过一遍信任代理，它基本上就能告诉你有哪些漏洞，可能会带来什么样的风险点，或者说因为这个决定可能会产生什么隐患。",
-    "text_es": "Terminamos creando nuestro propio agente de confianza en LinkedIn. Entonces, cuando armas una especificación, cuando desarrollas una idea, la pasas por el agente de confianza y básicamente te dice cuáles son tus vulnerabilidades, qué vectores de daño (harm vectors) potencialmente estás introduciendo o que se van a introducir como resultado de eso.",
+    "text_ko": "결국 링크드인에서 저희만의 신뢰 에이전트(trust agent)를 직접 구축하게 됐어요.",
+    "text_zh": "最后我们在 LinkedIn 自己开发了一个信任代理（trust agent）。",
+    "text_es": "Al final acabamos construyendo nuestro propio agente de confianza (trust agent) en LinkedIn.",
     "key_sentence": "We ended up building our own trust agent at LinkedIn.",
     "text_trimmed": true,
     "original_text": "We ended up building our own trust agent at LinkedIn. So when you build a spec, you build an idea, you walk through the trust agent and it'll basically tell you what are your vulnerabilities, what harm vectors potentially you're introducing or will be introduced as a result of that.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "automate",
-        "definition": "To use technology to perform tasks without human intervention, thereby increasing efficiency and consistency.",
-        "businessContext": "In business and tech, automation is often employed to streamline processes, reduce labor costs, and enhance productivity across various operations.",
-        "nuance": "While 'automate' suggests efficiency, it may also imply a reduction in workforce, so it should be used carefully in discussions about job impacts.",
-        "synonyms": [
-          "mechanize",
-          "computerize"
-        ],
-        "antonyms": [
-          "manual",
-          "hand-operated"
-        ]
-      },
-      {
-        "word": "custom",
-        "definition": "Tailored or made to meet specific requirements or preferences of an individual or organization.",
-        "businessContext": "In the context of business, custom products or services are often developed to satisfy unique client needs, enhancing customer satisfaction and loyalty.",
-        "nuance": "The term 'custom' conveys a sense of personalization, which can be a strong selling point, but it may also imply higher costs and longer delivery times.",
-        "synonyms": [
-          "bespoke",
-          "personalized"
-        ],
-        "antonyms": [
-          "standard",
-          "generic"
-        ]
-      },
-      {
-        "word": "product development",
-        "definition": "The process of creating a new product or improving an existing one, from initial concept through design, testing, and market launch.",
-        "businessContext": "In startups and tech companies, effective product development is crucial for innovation and competitiveness, often involving cross-functional teams to ensure market fit.",
-        "nuance": "While 'product development' emphasizes innovation, it also requires balancing creativity with practical considerations like cost and feasibility.",
-        "synonyms": [
-          "product design",
-          "product innovation"
-        ],
-        "antonyms": [
-          "product stagnation",
-          "product obsolescence"
-        ]
-      },
       {
         "word": "trust agent",
         "definition": "An individual or system that establishes and maintains trust between parties, often by ensuring transparency and reliability in interactions.",
@@ -423,19 +298,16 @@
           "betrayer"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Whether you're in an organization, you're waiting for your leader to roll this out or you're a leader trying to roll this out, I would not wait. If you're looking for a formal reorg or declaration to start building differently, you're waiting too long.",
     "speaker": "Tomer Cohen",
     "timestamp": "00:55:05",
     "context": "In his final advice, Lenny asks what leaders should know about implementing similar AI-powered product development changes. Tomer emphasizes urgency and personal agency rather than waiting for organizational permission. He argues that individuals should start experimenting with AI tools and adopting a full-stack builder mindset immediately, regardless of whether their company has formally announced such programs. He believes waiting for official reorganizations or declarations will put people behind in the rapidly changing landscape.",
-    "vocabulary_highlights": [
-      "roll out",
-      "urgency",
-      "implementing",
-      "personal agency"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Leadership & Management",
       "Strategy & Planning"
@@ -452,63 +324,7 @@
     "text_es": "Ya sea que estés en una organización esperando a que tu jefe implemente esto, o seas tú el líder tratando de implementarlo, yo no esperaría. Si estás esperando una reestructuración formal o una declaración oficial para empezar a construir de manera diferente, te estás tardando demasiado.",
     "key_sentence": "Don't wait for a formal reorg; start building differently now.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "roll out",
-        "definition": "To introduce or launch a new product, service, or initiative gradually or systematically.",
-        "businessContext": "In business, 'rolling out' often refers to the phased implementation of a new strategy or technology across different departments or locations.",
-        "nuance": "The term implies a careful and planned approach rather than an abrupt or uncoordinated launch.",
-        "synonyms": [
-          "launch",
-          "deploy"
-        ],
-        "antonyms": [
-          "withdraw",
-          "retract"
-        ]
-      },
-      {
-        "word": "urgency",
-        "definition": "The quality or state of requiring immediate attention or action.",
-        "businessContext": "In a business context, urgency can drive decision-making processes and prioritization of tasks, especially in fast-paced environments like startups.",
-        "nuance": "While urgency can motivate action, it may also lead to hasty decisions if not managed appropriately.",
-        "synonyms": [
-          "immediacy",
-          "promptness"
-        ],
-        "antonyms": [
-          "lethargy",
-          "delay"
-        ]
-      },
-      {
-        "word": "implementing",
-        "definition": "The act of putting a plan or decision into effect.",
-        "businessContext": "In business, implementing refers to the execution of strategies, policies, or technologies to achieve organizational goals.",
-        "nuance": "This term emphasizes the practical application of ideas rather than just their conceptualization.",
-        "synonyms": [
-          "executing",
-          "enforcing"
-        ],
-        "antonyms": [
-          "abandoning",
-          "neglecting"
-        ]
-      },
-      {
-        "word": "personal agency",
-        "definition": "The capacity of individuals to act independently and make their own choices.",
-        "businessContext": "In organizational settings, fostering personal agency can empower employees, encouraging innovation and proactive problem-solving.",
-        "nuance": "While personal agency is often viewed positively, it may clash with hierarchical structures in some organizations.",
-        "synonyms": [
-          "autonomy",
-          "self-determination"
-        ],
-        "antonyms": [
-          "subservience",
-          "dependency"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true
   }
 ]

@@ -5,8 +5,6 @@
     "timestamp": "00:00:00",
     "context": "Lenny asks about how software development will be different in the future with AI tools like Copilot. Inbal explains that developers will need to shift their mindset when working with AI-powered development tools. Instead of focusing primarily on writing code, they'll need to think more systematically about architecture, user experience, and how different systems connect together - skills that are currently more common among senior developers.",
     "vocabulary_highlights": [
-      "shift",
-      "mindset",
       "tools",
       "successful"
     ],
@@ -21,42 +19,14 @@
       "AI/ML Products",
       "Software Development"
     ],
-    "text_ko": "AI 도구(AI tools)를 써서 소프트웨어를 개발하는 사람은 사고 방식 자체를 달리 가져가야 해요. 이 도구들을 어떻게 활용해서 성공을 만들지부터 고민하기 시작해야 해요. 이제는 단순히 코드 작성(code writing)만이 아니라 더 큰 그림으로 사고를 확장해 연결된 경험(connected experience)과 연결된 시스템(connected systems)을 생각해야 해요. 그런 관점은 요즘 시니어 개발자들(senior developers) 쪽에서 더 많이 보이고, 주니어 개발자들(junior developers)에겐 점점 덜 보이고 있어요.",
-    "text_zh": "用AI工具来开发软件的人得转变一下思路。你得琢磨怎么用这些AI工具帮你做成事儿。现在不光是写代码那么简单了，你得把思维格局打开，要考虑大局，考虑用户体验的连贯性，考虑系统之间怎么打通。这种思维方式现在主要还是资深开发者有，初级开发者越来越缺这块儿。",
-    "text_es": "Quien usa herramientas de IA para desarrollar software necesita cambiar su forma de pensar. Tienes que empezar a entender cómo vas a usar estas herramientas de IA para tener éxito. Y ya no se trata solo de escribir código, sino de evolucionar tu mentalidad hacia el panorama general (big picture), hacia la experiencia conectada, hacia sistemas conectados - algo que hoy en día vemos más en desarrolladores senior y cada vez menos en los junior.",
+    "text_ko": "소프트웨어 개발(software development)에서 AI 도구(AI tools)를 사용하는 사람은 기존과는 다른 사고방식을 갖춰야 해요. 이제는 이 AI 도구들을 어떻게 활용해서 실제 성과를 내고 성공으로 연결할지 구체적으로 고민하기 시작해야 해요.",
+    "text_zh": "用人工智能(AI)工具做软件开发的人，需要换个思路。你得开始想清楚怎么用这些工具，才能真正帮你取得成功。",
+    "text_es": "Quienes usan herramientas de IA (AI tools) para desarrollar software deben adoptar un enfoque distinto. Empieza por analizar cómo estás aprovechando esas herramientas para que te ayuden a alcanzar tus objetivos.",
     "key_sentence": "Users of AI tools must form a different thinking for success.",
     "text_trimmed": true,
     "original_text": "The user of the AI tools to develop software needs to form a different thinking. You need to start figuring out how are you using these AI tools to help you be successful. And it's no longer just the actual code writing, it's really evolving your thinking to the big picture, to the connected experience, to connected systems, which today we just find it more in the world of more senior developers and less and less in the junior developers.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "shift",
-        "definition": "To change or move from one position, situation, or state to another.",
-        "businessContext": "In business, a 'shift' often refers to a strategic change in direction, such as altering a company's focus or adapting to market demands.",
-        "nuance": "While 'shift' implies a change, it can also suggest a gradual transition rather than an abrupt alteration.",
-        "synonyms": [
-          "change",
-          "transition"
-        ],
-        "antonyms": [
-          "stability",
-          "continuity"
-        ]
-      },
-      {
-        "word": "mindset",
-        "definition": "A set of beliefs or attitudes that shape how an individual thinks and behaves.",
-        "businessContext": "In a corporate environment, fostering a growth mindset can encourage innovation and adaptability among employees, essential for navigating challenges.",
-        "nuance": "The term often carries a connotation of being entrenched in one's views, making it important to encourage openness to new ideas.",
-        "synonyms": [
-          "attitude",
-          "perspective"
-        ],
-        "antonyms": [
-          "fixed mindset",
-          "narrow view"
-        ]
-      },
       {
         "word": "tools",
         "definition": "Instruments or software applications used to perform tasks or solve problems.",
@@ -85,7 +55,9 @@
           "failing"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "When we're looking into what's happening right now with AI, it really became table stakes on expectations among developers, and it's really central and critical for them to be able to do their job.",
@@ -95,8 +67,7 @@
     "vocabulary_highlights": [
       "table stakes",
       "central",
-      "critical",
-      "fundamental"
+      "critical"
     ],
     "topics": [
       "Product Management",
@@ -109,9 +80,9 @@
       "AI/ML Products",
       "Software Development"
     ],
-    "text_ko": "지금 AI 현황을 보면, 개발자들(developers) 사이에선 이제 '기본 요건(table stakes)'이 되었고, 그게 일을 하는 데 있어 정말 핵심이자 필수 조건이에요. 이미 약 92%의 개발자들이 AI 도구(AI tools)를 사용하고 있어요.",
-    "text_zh": "我们现在看AI这块儿，对开发者来说基本上已经是必备条件了，这对他们干活儿来说真的是核心需求。我们知道大概92%的开发者已经在用AI工具了。",
-    "text_es": "Cuando vemos lo que está pasando ahora mismo con la IA, realmente se volvió algo básico e indispensable en las expectativas de los desarrolladores, y es realmente central y crítico para que puedan hacer su trabajo. Sabemos que algo como el 92% de los desarrolladores ya están usando herramientas de IA.",
+    "text_ko": "지금 인공지능(AI) 쪽에서 무슨 일이 벌어지는지를 보면, 개발자들 사이에서는 이게 이제 기본 요건(table stakes)이 됐고, 그들이 제 일을 하려면 이게 정말 중심적이고 필수적이에요.",
+    "text_zh": "现在看人工智能（AI）发生的变化，对开发者来说，这已经成了基本要求（table stakes），而且对他们能不能把工作做好至关重要。",
+    "text_es": "Cuando miramos lo que está pasando ahora mismo con la IA, realmente se ha convertido en el requisito mínimo que esperan los desarrolladores (table stakes), y es clave para que puedan hacer su trabajo.",
     "key_sentence": "AI tools are table stakes for developers' job expectations.",
     "text_trimmed": true,
     "original_text": "When we're looking into what's happening right now with AI, it really became table stakes on expectations among developers, and it's really central and critical for them to be able to do their job. We know that something like 92% of developers are already using AI tools.",
@@ -158,22 +129,10 @@
           "insignificant",
           "trivial"
         ]
-      },
-      {
-        "word": "fundamental",
-        "definition": "Fundamental refers to something that is basic, foundational, or essential to the nature of a system or concept.",
-        "businessContext": "In the business realm, fundamental principles often underpin strategies, policies, and practices that guide organizational behavior and decision-making.",
-        "nuance": "While it denotes something essential, it can also suggest simplicity or a lack of complexity in its nature.",
-        "synonyms": [
-          "basic",
-          "core"
-        ],
-        "antonyms": [
-          "superficial",
-          "nonessential"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Most developers span less than 25, some say less than 20% of their time writing in code. So if we're able to give them half an hour back, one, they can write more code.",
@@ -181,10 +140,8 @@
     "timestamp": "13:03",
     "context": "Lenny suggests that companies might think they need fewer engineers if AI makes them 25% more efficient. Inbal pushes back on this idea, explaining that developers already spend very little time actually writing code due to all their other responsibilities like meetings, collaboration, and legacy system maintenance. She argues that AI efficiency gains should be used to improve developer happiness and enable more innovation rather than reduce headcount.",
     "vocabulary_highlights": [
-      "efficient",
       "developers",
-      "writing in code",
-      "time back"
+      "writing in code"
     ],
     "topics": [
       "Work-Life Balance",
@@ -197,28 +154,14 @@
       "AI/ML Products",
       "Software Development"
     ],
-    "text_ko": "대부분의 개발자들(developers)은 코드(code)를 작성하는 데에 25%도 채 쓰지 못하고, 어떤 분들은 20%도 안 쓴다고들 해요. 그래서 우리가 30분만 돌려줄 수 있다면, 첫째로 더 많은 코드를 작성할 수 있어요. 둘째로 한숨 돌릴 시간이 생겨 번아웃(burnout)을 막고 더 행복해져요. 셋째로 협업(collaboration)과 창의적 사고(creative thinking)에 더 많은 시간을 쓸 수 있어서 결국 혁신(innovation)을 촉발해요.",
-    "text_zh": "大部分开发者写代码的时间其实不到25%，有人说甚至不到20%。所以如果我们能给他们省出半小时，第一，他们可以写更多代码。第二，他们能歇口气，不会那么累，心情也更好。第三，给他们更多时间去协作和创新思考，这样就能激发更多创意。",
-    "text_es": "La mayoría de los desarrolladores dedican menos del 25% de su tiempo, algunos dicen que menos del 20%, escribiendo código. Entonces, si logramos devolverles media hora, primero, pueden escribir más código. Segundo, pueden tomarse un respiro para no quemarse y estar más contentos. Y tercero, les damos más tiempo para colaborar y pensar de forma creativa, lo que genera innovación.",
+    "text_ko": "대부분의 개발자들(developers)은 전체 근무 시간의 25%도 안, 어떤 조사에서는 20%도 안 되는 시간을 코딩(coding)에 쓴대요. 그래서 우리가 그들에게 30분만이라도 돌려줄 수 있다면, 우선 더 많은 코드를 작성할 수 있어요.",
+    "text_zh": "大多数开发者(developers)写代码的时间不到25%，有人甚至说不到20%。所以如果我们能把半小时还给他们，一来他们就能多写点代码(code)。",
+    "text_es": "La mayoría de los desarrolladores dedica menos del 25% —algunos hablan de menos del 20%— de su tiempo a escribir código (code). Así que, si logramos devolverles media hora, lo primero es que podrán escribir más código.",
     "key_sentence": "Most developers span less than 25, some say less than 20% of their time writing in code.",
     "text_trimmed": true,
     "original_text": "Most developers span less than 25, some say less than 20% of their time writing in code. So if we're able to give them half an hour back, one, they can write more code. Second, they can have a break and take a breath so we don't burn them out and they're more happy. Third, we give them more time for collaboration and creative thinking, so that sparks innovation.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "efficient",
-        "definition": "Achieving maximum productivity with minimum wasted effort or expense.",
-        "businessContext": "In business and technology, efficiency is crucial for optimizing processes, reducing costs, and improving overall performance.",
-        "nuance": "While 'efficient' often has a positive connotation, it can imply a focus on speed over quality if not balanced appropriately.",
-        "synonyms": [
-          "effective",
-          "productive"
-        ],
-        "antonyms": [
-          "inefficient",
-          "wasteful"
-        ]
-      },
       {
         "word": "developers",
         "definition": "Professionals who create software applications or systems by writing code and utilizing various programming languages.",
@@ -246,22 +189,10 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "time back",
-        "definition": "The concept of reclaiming or saving time that can be redirected towards productive activities.",
-        "businessContext": "In a business context, giving employees 'time back' can enhance productivity, allowing them to focus on core tasks that drive value.",
-        "nuance": "This phrase is often used informally and may imply a more casual approach to time management, contrasting with more formal time allocation strategies.",
-        "synonyms": [
-          "time saved",
-          "time regained"
-        ],
-        "antonyms": [
-          "time lost",
-          "time wasted"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "We are in a world that there are no right metrics. There is no one metric to rule them all. It's a combination of the things that you're looking to measure out of adopting AI.",
@@ -270,9 +201,7 @@
     "context": "Lenny asks about success metrics for Copilot and how GitHub measures productivity gains from AI tools. Inbal explains the complexity of measuring AI effectiveness in software development. She emphasizes that simple metrics like time saved or lines of code written don't capture the full value, since developers could potentially write poor quality code faster. The challenge is finding metrics that reflect true productivity and code quality improvements.",
     "vocabulary_highlights": [
       "metrics",
-      "measure",
-      "effectiveness",
-      "complexity"
+      "measure"
     ],
     "topics": [
       "Product Management",
@@ -285,9 +214,9 @@
       "AI/ML Products",
       "Software Development"
     ],
-    "text_ko": "우리는 정답인 메트릭(metrics)이 존재하지 않는 세상에 있어요. 모든 것을 해결해주는 단 하나의 메트릭은 없고요. AI(인공지능)를 도입해서 무엇을 측정하려는지에 따라 여러 항목을 조합해야 해요. 가장 쉬운 건 시간인데, 웃긴 얘기지만 시간만으로 성공 지표(success metrics)를 삼을 수는 없어요. 왜냐하면 정말 형편없는 코드(code)를 아주 빠르게 쓸 수도 있으니까요.",
-    "text_zh": "我们现在面临的情况是，没有什么标准的衡量指标。不存在一个万能的指标能解决所有问题。你得把各种你想要衡量的AI应用效果综合起来看。最容易衡量的就是时间，但是说出来可能有点搞笑，时间其实不能算是一个可靠的成功指标，因为你完全可以很快地写出一堆烂代码。",
-    "text_es": "Estamos en un mundo donde no existen las métricas perfectas. No hay una sola métrica que lo resuelva todo. Es una combinación de las cosas que buscas medir al adoptar IA. La más fácil es el tiempo, pero el tiempo es... va a sonar raro lo que voy a decir, pero el tiempo no se puede cuantificar como métrica de éxito porque puedes escribir código pésimo muy rápido.",
+    "text_ko": "정답 같은 지표는 없는 세상에 살고 있어요. 모든 걸 지배하는 단 하나의 지표는 없고요. AI 도입(adopting AI)으로 무엇을 측정하려는지에 따라 여러 지표(metrics)를 조합해야 해요.",
+    "text_zh": "现在这个时代没有放之四海而皆准的指标(metrics)，也没有哪一项指标能说了算。你得根据通过采用人工智能(AI)想要衡量的东西，把几项指标组合起来才行。",
+    "text_es": "Vivimos en un mundo donde no existen métricas \"correctas\". No hay una métrica única que lo resuelva todo. Al final es la combinación de los indicadores que quieras medir al adoptar IA (AI).",
     "key_sentence": "No one metric to rule them all exists for AI adoption.",
     "text_trimmed": true,
     "original_text": "We are in a world that there are no right metrics. There is no one metric to rule them all. It's a combination of the things that you're looking to measure out of adopting AI. The most easiest one is time, but time is, it's funny what I'm going to say, but time is not quantifiable as a success metrics because you can write really bad code really fast.",
@@ -320,36 +249,10 @@
           "ignore",
           "neglect"
         ]
-      },
-      {
-        "word": "effectiveness",
-        "definition": "Effectiveness refers to the degree to which something is successful in producing a desired result or outcome.",
-        "businessContext": "In business, assessing the effectiveness of campaigns, strategies, or technologies is vital for optimizing resources and achieving organizational goals.",
-        "nuance": "Effectiveness often emphasizes the achievement of objectives, while efficiency focuses on the resources used to achieve those objectives.",
-        "synonyms": [
-          "efficacy",
-          "success"
-        ],
-        "antonyms": [
-          "ineffectiveness",
-          "failure"
-        ]
-      },
-      {
-        "word": "complexity",
-        "definition": "Complexity is the state of having multiple interconnected parts, making something intricate and difficult to understand or analyze.",
-        "businessContext": "In technology and business, understanding complexity is crucial when developing systems, processes, or products, as it can impact usability and scalability.",
-        "nuance": "While complexity can indicate sophistication, it can also lead to challenges in implementation and communication, so it's important to balance complexity with clarity.",
-        "synonyms": [
-          "intricacy",
-          "complication"
-        ],
-        "antonyms": [
-          "simplicity",
-          "ease"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "If you try to structure innovation, you're losing that organic spark that is humanity. Imagine that someone say you have 15 minutes a day to be creative. I don't think it's the pull. So it's encouraging that thinking more than structured.",
@@ -359,8 +262,7 @@
     "vocabulary_highlights": [
       "structure",
       "innovation",
-      "encouraging",
-      "experimentation"
+      "encouraging"
     ],
     "topics": [
       "Leadership & Management",
@@ -420,22 +322,9 @@
           "discouraging",
           "dismissing"
         ]
-      },
-      {
-        "word": "experimentation",
-        "definition": "The process of testing new ideas or methods through trials to determine their effectiveness or feasibility.",
-        "businessContext": "In tech and startup environments, experimentation is vital for product development and market validation, allowing teams to iterate based on real-world feedback.",
-        "nuance": "Experimentation suggests a willingness to take risks and learn from failures, which is essential in dynamic industries but may be viewed as reckless in more traditional settings.",
-        "synonyms": [
-          "testing",
-          "trial-and-error"
-        ],
-        "antonyms": [
-          "certainty",
-          "conformity"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "And I've seen that when I started doing that without building that understanding of why we need to do a change or why this is a problem that we need to go and fix it, then you don't take people with you through that journey.",
@@ -444,7 +333,6 @@
     "context": "Lenny asks about Inbal's biggest career failure in a new segment called 'Failure Corner.' Inbal shares her early leadership experience at TomTom where she tried to drive too much change too quickly. She learned that her high-energy, action-oriented approach didn't work when she failed to explain the reasoning behind changes or get team buy-in first. This taught her the importance of change management and taking people along on the transformation journey.",
     "vocabulary_highlights": [
       "understanding",
-      "drive change",
       "take people with you",
       "journey"
     ],
@@ -459,9 +347,9 @@
       "AI/ML Products",
       "Software Development"
     ],
-    "text_ko": "제가 해보니 왜 변화를 해야 하는지, 왜 이 문제를 해결해야 하는지에 대한 이해를 먼저 만들지 않고 바로 시작하면 사람들을 그 여정에 함께 끌고 갈 수 없더라고요. 그래서 정말 잘 분석해봐야 해요. 모든 사람이 당신처럼 변화를 좋아하거나 '빨리빨리, 바로 해보자'라는 마인드셋(mindset)을 가진 건 아니거든요.",
-    "text_zh": "我发现如果一开始就直接动手，没有先让大家明白为什么要做这个改变，或者为什么这个问题必须得解决，那你就没法带着团队一起走。所以真的要想清楚，不是每个人都像你一样喜欢变化，不是每个人都有那种\"冲冲冲，干就完了\"的心态。",
-    "text_es": "Y he visto que cuando empecé a hacer eso sin construir primero esa comprensión de por qué necesitamos hacer un cambio o por qué esto es un problema que tenemos que resolver, entonces la gente no te sigue en ese proceso. Así que realmente hay que analizar que no todo el mundo aprecia el cambio como tú, no todo el mundo tiene esa mentalidad de \"vamos, vamos, vamos, hagámoslo\".",
+    "text_ko": "제가 해보니, 변화가 왜 필요한지, 왜 이 문제를 해결해야 하는지에 대한 이해를 먼저 만들지 않고 바로 행동을 시작하면 사람들을 그 변화의 여정에 함께 데려오지 못해요.",
+    "text_zh": "我发现，如果没先让大家明白为什么要做改变，或者为什么这是个必须解决的问题就开始行动，别人就不会跟着你走这段路。",
+    "text_es": "He visto que cuando empecé a hacer eso sin antes generar una comprensión de por qué había que cambiar o por qué aquello era un problema que había que resolver, no consigues que la gente te acompañe en ese proceso.",
     "key_sentence": "Understanding change is crucial to take people with you through that journey.",
     "text_trimmed": true,
     "original_text": "And I've seen that when I started doing that without building that understanding of why we need to do a change or why this is a problem that we need to go and fix it, then you don't take people with you through that journey. So really analyzing that not everyone appreciate change the way you are, not everyone has that mindset of the go, go, go, let's go do it.",
@@ -479,20 +367,6 @@
         "antonyms": [
           "misunderstanding",
           "ignorance"
-        ]
-      },
-      {
-        "word": "drive change",
-        "definition": "To actively promote or instigate alterations in processes, strategies, or organizational culture.",
-        "businessContext": "In a business setting, driving change is crucial for innovation and adaptation, often led by leaders or change agents to improve efficiency or respond to market demands.",
-        "nuance": "The phrase carries a proactive connotation, suggesting not just the initiation of change but also the motivation and leadership required to sustain it.",
-        "synonyms": [
-          "initiate transformation",
-          "lead change"
-        ],
-        "antonyms": [
-          "resist change",
-          "maintain status quo"
         ]
       },
       {
@@ -523,6 +397,8 @@
           "standstill"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

@@ -20,9 +20,9 @@
       "Growth Strategy",
       "Product Management"
     ],
-    "text_ko": "프로덕트 매니지먼트(product management)가 왜 아직도 상대적으로 덜 발달한 분야일까요? 이제 한 15~20년 정도 지났는데도, 현재의 프로덕트 매니지먼트는 진짜로 중요한 것들, 실제로 부가가치(value-added)를 만들어내는 부분에 제대로 닿지 못하고 있어요. 우리가 의사였다면 \"그건 절대 용납할 수 없다\"고 했을 거예요.",
-    "text_zh": "为什么产品管理到现在还是个相对不成熟的领域呢？我们都搞了15到20年了，但产品管理的现状就是抓不住真正重要的东西，真正有价值的东西。如果我们是医生的话，你肯定会说\"这完全不能接受啊\"。",
-    "text_es": "¿Por qué la gestión de productos sigue siendo una disciplina tan poco desarrollada? Ya llevamos como 15 o 20 años en esto, y hay algo en el estado actual del product management que no está llegando a lo realmente importante, a las cosas que realmente aportan valor. Si fuéramos médicos, dirías \"Eso es totalmente inaceptable.\"",
+    "text_ko": "왜 아직도 프로덕트 매니지먼트(product management)가 이렇게 비교적 덜 발달한 분야일까요? 벌써 15~20년이나 지났는데도, 지금의 프로덕트 매니지먼트에는 진짜 중요한 것들이나 진짜 가치를 만들어내는 부분에 제대로 다가가지 못하는 뭔가가 있는 것 같아요.",
+    "text_zh": "为什么产品管理(product management)到现在还算是个相对不成熟的领域？我们也折腾了差不多15到20年了，但现在的产品管理好像没抓住那些真正重要、真正能创造价值的点儿。",
+    "text_es": "¿Por qué la gestión de producto (product management) sigue siendo una disciplina tan poco desarrollada? Ya llevamos entre 15 y 20 años en esto, y hay algo en su estado actual que no está llegando a lo que de verdad importa, a lo que realmente aporta valor.",
     "key_sentence": "Product management remains a relatively undeveloped discipline, missing truly value-added things.",
     "text_trimmed": true,
     "original_text": "Why is it that product management is still such a relatively undeveloped discipline? We're like 15 to 20 years into this, and so there's something about the current state of product management that isn't getting at the truly important things, the truly value-added things. If we were doctors, you'd be like, \"That's totally unacceptable.\"",
@@ -84,7 +84,8 @@
           "insignificant"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "In everything always talk from the customer's perspective, from the market's perspective, from the competitor's perspective, the very small number of PMs do that.",
@@ -92,10 +93,7 @@
     "timestamp": "00:00:24",
     "context": "Lenny asks Shaun for the solution to help PMs level up and become great product managers. Shaun explains that the fundamental problem is most PMs spend too much time looking inside the building rather than outside. He emphasizes that PMs should always start from external perspectives - customer, market, and competitor viewpoints - but most get distracted by internal operational tasks and politics, which prevents them from being truly effective.",
     "vocabulary_highlights": [
-      "perspective",
-      "fundamental",
-      "product managers",
-      "level up"
+      "perspective"
     ],
     "topics": [
       "Product Management",
@@ -107,9 +105,9 @@
       "Growth Strategy",
       "Product Management"
     ],
-    "text_ko": "모든 일에서는 항상 고객 관점에서, 시장 관점에서, 경쟁자 관점에서 얘기해야 해요. 그렇게 하는 프로덕트 매니저들(PMs)은 극히 소수예요. 대부분은 사내 정치(internal politics)에 휘말리거나 스크럼 관리(scrum management)나 스크럼 실행(scrum execution), 제품 딜리버리(product delivery)에 끌려 들어가요. 그렇게는 절대 이길 수 없어요.",
-    "text_zh": "做任何事情都要站在客户角度、市场角度、竞争对手角度去考虑，但真正能做到这点的PM(产品经理)少之又少。他们总是被卷入内部斗争，被拖进敏捷管理或者产品交付这些事务性工作里，这样下去肯定是没戏的。",
-    "text_es": "En todo siempre tienes que hablar desde la perspectiva del cliente, desde la perspectiva del mercado, desde la perspectiva de la competencia - muy pocos PMs hacen eso. Se dejan arrastrar por las políticas internas, se meten en la gestión del scrum o la ejecución del scrum o la entrega del producto, y así simplemente no puedes ganar.",
+    "text_ko": "무엇을 하든 항상 고객 관점에서, 시장 관점에서, 경쟁자 관점에서 말해보세요. 그렇게 하는 제품 관리자들(PMs)은 정말 극소수예요.",
+    "text_zh": "所有事情都要从客户、市场和竞争对手的角度来说，可真正这么做的产品经理（PMs）寥寥无几。",
+    "text_es": "En todo lo que hagas, habla siempre desde la perspectiva del cliente, del mercado y de la competencia. Muy pocos responsables de producto (PMs) lo hacen.",
     "key_sentence": "the very small number of PMs do that.",
     "text_trimmed": true,
     "original_text": "In everything always talk from the customer's perspective, from the market's perspective, from the competitor's perspective, the very small number of PMs do that. They get dragged into internal politics, they get dragged into scrum management or scrum execution or product delivery, and you just can't win that way.",
@@ -128,50 +126,10 @@
           "narrow-mindedness",
           "bias"
         ]
-      },
-      {
-        "word": "fundamental",
-        "definition": "Serving as a basis or core; essential or foundational to a system or concept.",
-        "businessContext": "In the context of business, identifying fundamental principles is key to developing strategies that are sustainable and effective over the long term.",
-        "nuance": "The term 'fundamental' often carries a connotation of being indispensable, suggesting that without these elements, success is unlikely.",
-        "synonyms": [
-          "essential",
-          "basic"
-        ],
-        "antonyms": [
-          "superficial",
-          "secondary"
-        ]
-      },
-      {
-        "word": "product managers",
-        "definition": "Professionals responsible for guiding the development, marketing, and lifecycle of a product, ensuring it meets customer needs and business goals.",
-        "businessContext": "Product managers play a critical role in tech and startup environments by acting as a bridge between engineering, marketing, and sales to align product offerings with market demands.",
-        "nuance": "The role of product managers can vary significantly across organizations, often encompassing a blend of strategic and tactical responsibilities.",
-        "synonyms": [
-          "PMs",
-          "product leads"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "level up",
-        "definition": "To improve or enhance one's skills, capabilities, or position, often in a competitive context.",
-        "businessContext": "In business, 'leveling up' can refer to personal development, team performance enhancement, or scaling a product or service to meet higher standards.",
-        "nuance": "This phrase is often used in informal contexts but can imply a serious commitment to growth and improvement when used in professional discussions.",
-        "synonyms": [
-          "advance",
-          "upgrade"
-        ],
-        "antonyms": [
-          "diminish",
-          "decline"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Well, you've got this synthesis machine, which is this LLM thing that's going to help you do synthesis, but if it hasn't got all that data to do synthesis on top of, it's got nothing.",
@@ -179,10 +137,7 @@
     "timestamp": "00:00:40",
     "context": "Lenny asks about Shaun's hot take that AI will most impact product management through data management rather than models. Shaun explains that LLMs are essentially synthesis machines - they're very good at analyzing and synthesizing information, but they're completely dependent on the quality and recency of data fed to them. Without good data input, even the smartest LLM produces nothing valuable, making data management the critical bottleneck for AI success.",
     "vocabulary_highlights": [
-      "synthesis",
-      "data management",
-      "impact",
-      "essentially"
+      "synthesis"
     ],
     "topics": [
       "Product Management",
@@ -194,9 +149,9 @@
       "Growth Strategy",
       "Product Management"
     ],
-    "text_ko": "그러니까 합성 도구(synthesis machine)인 LLM(large language model)이 있어서 합성을 도와주긴 하는데요, 그게 작동하려면 바탕이 되는 데이터가 있어야 해요. 그런 데이터가 없다면 아무것도 할 수 없어요. 그래서 LLM은 주어진 데이터의 품질과 그 데이터의 최신성만큼만 성능을 낼 수 있어요.",
-    "text_zh": "你看，你有这个合成机器，就是这个大语言模型(LLM)，它能帮你做综合分析，但如果它没有足够的数据做基础，那就什么都干不了。所以说，LLM的效果完全取决于你给它什么样的数据，还有这些数据有多新。",
-    "text_es": "Bueno, tienes esta máquina de síntesis, que es esto del LLM que te va a ayudar a hacer síntesis, pero si no tiene todos esos datos sobre los cuales hacer la síntesis, no tiene nada. Entonces eso significa que los LLMs solo pueden ser tan buenos como los datos que les das y qué tan actualizados estén esos datos.",
+    "text_ko": "있잖아요, 합성 도구(synthesis machine)가 있고 그게 합성을 도와주는 대형 언어 모델(LLM) 같은 건데, 그걸로 합성할 데이터가 충분히 없으면 아무것도 못 해요.",
+    "text_zh": "你现在有个用来做合成的“机器”，也就是那个大模型(LLM)，本来能帮你把东西整合起来，但要是没有数据让它去整合，那它就派不上用场。",
+    "text_es": "Mira, tienes una especie de máquina de síntesis (synthesis machine), que es un modelo de lenguaje (LLM) que te ayuda a sintetizar, pero si no cuenta con todos esos datos sobre los que sintetizar, no tiene nada.",
     "key_sentence": "if it hasn't got all that data to do synthesis on top of, it's got nothing.",
     "text_trimmed": true,
     "original_text": "Well, you've got this synthesis machine, which is this LLM thing that's going to help you do synthesis, but if it hasn't got all that data to do synthesis on top of, it's got nothing. And so that means that LLMs can only be as good as the data they are given and how recent that data is.",
@@ -215,50 +170,10 @@
           "disintegration",
           "separation"
         ]
-      },
-      {
-        "word": "data management",
-        "definition": "The practice of collecting, storing, organizing, and maintaining data to ensure its accuracy, accessibility, and security.",
-        "businessContext": "In tech and startups, effective data management is crucial for making informed decisions, optimizing operations, and ensuring compliance with regulations.",
-        "nuance": "Data management encompasses a range of activities and technologies, and its effectiveness can significantly impact an organization's overall performance.",
-        "synonyms": [
-          "information management",
-          "data governance"
-        ],
-        "antonyms": [
-          "data mismanagement",
-          "disorganization"
-        ]
-      },
-      {
-        "word": "impact",
-        "definition": "The strong effect or influence that one thing has on another.",
-        "businessContext": "In business, assessing the impact of decisions, strategies, or market changes is essential for understanding potential outcomes and guiding future actions.",
-        "nuance": "Impact can be both positive and negative, and it is important to specify the context when discussing its implications.",
-        "synonyms": [
-          "effect",
-          "influence"
-        ],
-        "antonyms": [
-          "insignificance",
-          "influencelessness"
-        ]
-      },
-      {
-        "word": "essentially",
-        "definition": "In essence; fundamentally; used to indicate the most important aspect of something.",
-        "businessContext": "In discussions, particularly in strategic planning or analysis, 'essentially' helps to distill complex ideas into their core components for clarity.",
-        "nuance": "While 'essentially' simplifies concepts, it can sometimes overlook nuances, so it should be used when clarity is prioritized over detail.",
-        "synonyms": [
-          "fundamentally",
-          "basically"
-        ],
-        "antonyms": [
-          "superficially",
-          "incidentally"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "People really underestimate where the value is created in these applications and they just kind of get it completely wrong.",
@@ -352,9 +267,7 @@
     "context": "Lenny asks Shaun what makes PMs become great 10x product managers. Shaun explains that the biggest mistake most PMs make is spending time on internal operational tasks rather than focusing on external market insights. He emphasizes that PMs who get caught up in delivery mechanics and internal politics cannot achieve excellence because they're not addressing the core job of product management, which is finding reliable, differentiated value in the market.",
     "vocabulary_highlights": [
       "internal politics",
-      "product delivery",
-      "operational tasks",
-      "focus on"
+      "product delivery"
     ],
     "topics": [
       "Product Management",
@@ -366,9 +279,9 @@
       "Growth Strategy",
       "Product Management"
     ],
-    "text_ko": "사람들이 내부 정치(internal politics)에 말려들고, 스크럼 관리(scrum management)나 스크럼 실행(scrrum execution), 제품 전달(product delivery) 같은 전달 관련 업무에 끌려 들어가요. 그렇게는 이길 수 없어요. 근본적으로 맡은 일을 해결하지 못하면 A를 받을 수가 없어요.",
-    "text_zh": "他们被卷入内部政治斗争，被拖进敏捷管理(scrum management)或者敏捷执行(scrum execution)，还有产品交付这些执行层面的事情里，这样下去肯定是赢不了的。真的赢不了。你永远拿不到A，因为根本就没有解决核心问题。",
-    "text_es": "Se meten en las políticas internas, se dejan arrastrar por la gestión de scrum o la ejecución de scrum o la entrega de productos, o sea, todas esas cosas operativas, y así simplemente no puedes ganar. Así no puedes ganar. Nunca vas a sacar una A porque en el fondo no estás resolviendo el verdadero problema.",
+    "text_ko": "그들은 사내 정치에 휘말리고, 스크럼 관리(scrum management)나 스크럼 실행(scrum execution), 제품 딜리버리(product delivery) 같은 딜리버리 관련 업무에 끌려 들어가요. 그렇게 해서는 이길 수가 없어요. 정말 이길 수가 없어요.",
+    "text_zh": "你会被卷进内部政治，也会被拉去处理Scrum管理（scrum management）、Scrum执行（scrum execution）或者产品交付（product delivery）这些交付环节的事儿，这样根本赢不了，真的赢不了。",
+    "text_es": "Se ven arrastrados a la política interna, a la gestión o a la ejecución de Scrum (scrum management, scrum execution) o a la entrega del producto (product delivery), a elementos del proceso de entrega, y así no se puede ganar. No se puede ganar así.",
     "key_sentence": "You just can't win that way.",
     "text_trimmed": true,
     "original_text": "They get dragged into internal politics, they get dragged into scrum management or scrum execution or product delivery, like elements of the delivery thing and you just can't win that way. You just can't win that way. You can never get an A because you're fundamentally not solving the job.",
@@ -401,36 +314,10 @@
           "product stagnation",
           "product failure"
         ]
-      },
-      {
-        "word": "operational tasks",
-        "definition": "Routine activities that are essential for the day-to-day functioning of a business, including processes related to production, administration, and service delivery.",
-        "businessContext": "In a business context, operational tasks are critical for maintaining productivity and ensuring that organizational objectives are met efficiently and effectively.",
-        "nuance": "While operational tasks are necessary for smooth operations, they can sometimes detract from strategic initiatives if they consume too much time and resources.",
-        "synonyms": [
-          "routine operations",
-          "administrative tasks"
-        ],
-        "antonyms": [
-          "strategic initiatives",
-          "innovative projects"
-        ]
-      },
-      {
-        "word": "focus on",
-        "definition": "To concentrate attention or effort on a particular task, goal, or area of interest.",
-        "businessContext": "In business, focusing on specific objectives or projects is essential for prioritizing resources and ensuring that teams are aligned towards common goals.",
-        "nuance": "While it is important to focus on key priorities, excessive focus can lead to neglecting other important areas that may also require attention.",
-        "synonyms": [
-          "concentrate on",
-          "prioritize"
-        ],
-        "antonyms": [
-          "disregard",
-          "diversify"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "It's one thing to say you're spending a lot of time looking outside the building. It's a whole other thing to hear from the places you don't normally hear from. So avoid availability or confirmation bias.",
@@ -438,10 +325,7 @@
     "timestamp": "00:11:30",
     "context": "Lenny asks how someone can recognize if they're actually not doing enough external research, even if they think they are. Shaun explains that many PMs claim to talk to customers and look at data frequently, but they fall into the trap of only seeking familiar sources and perspectives. He emphasizes the importance of actively seeking out unfamiliar viewpoints and challenging your own assumptions to avoid confirmation bias and truly learn something new.",
     "vocabulary_highlights": [
-      "availability bias",
-      "confirmation bias",
-      "external research",
-      "recognize"
+      "confirmation bias"
     ],
     "topics": [
       "Product Management",
@@ -453,28 +337,14 @@
       "Growth Strategy",
       "Product Management"
     ],
-    "text_ko": "밖을 많이 보고 있다고 말하는 건 쉬운 일이에요. 그런데 평소 잘 듣지 않는 곳(혹은 사람들)으로부터 실제로 듣는 건 완전히 다른 얘기예요. 그래서 가용성 편향(availability bias)이나 확증 편향(confirmation bias)을 피하세요. 대부분 사람들은 늘 얘기하던 사람들한테만 가서 얘기하고, 특별히 새로 배울 게 별로 없어요.",
-    "text_zh": "嘴上说要多往外面看看是一回事，真正去听那些平时接触不到的声音又是另一回事。所以一定要避免可得性偏差(availability bias)和确认偏差(confirmation bias)。大多数时候人们就是找那些老面孔聊天，根本学不到什么新东西。",
-    "text_es": "Una cosa es decir que estás dedicando mucho tiempo a mirar hacia afuera de la empresa. Pero algo completamente distinto es escuchar voces de lugares donde normalmente no escuchas nada. Así que evita el sesgo de disponibilidad o el sesgo de confirmación (confirmation bias). La mayoría de las veces la gente va y habla con las mismas personas de siempre y no aprende nada realmente nuevo.",
+    "text_ko": "밖을 많이 살펴본다고 말하는 건 한 가지예요. 평소에 잘 듣지 못하던 곳의 목소리를 실제로 듣는 건 완전히 다른 얘기예요. 그러니까 가용성 편향(availability bias)이나 확증 편향(confirmation bias)에 빠지지 않도록 하세요.",
+    "text_zh": "说自己花很多时间走出去看外面的情况是一回事，能真正听到那些平时接触不到的声音又是另外一回事。所以别被可得性偏差(availability bias)或确认偏差(confirmation bias)牵着走。",
+    "text_es": "Una cosa es decir que pasas mucho tiempo mirando fuera de la empresa; otra muy distinta es escuchar a quienes normalmente no escuchas. Evita el sesgo de disponibilidad (availability bias) y el sesgo de confirmación (confirmation bias).",
     "key_sentence": "It's a whole other thing to hear from places avoiding availability or confirmation bias.",
     "text_trimmed": true,
     "original_text": "It's one thing to say you're spending a lot of time looking outside the building. It's a whole other thing to hear from the places you don't normally hear from. So avoid availability or confirmation bias. Most of the time people go talk to the people they always talk to and they learn nothing particularly new.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "availability bias",
-        "definition": "Availability bias is a cognitive bias that occurs when individuals rely on immediate examples that come to mind when evaluating a specific topic, concept, method, or decision.",
-        "businessContext": "In business settings, availability bias can lead decision-makers to overemphasize recent data or experiences, potentially skewing strategic choices and risk assessments.",
-        "nuance": "This bias often manifests in scenarios where recent events are more memorable, leading to a distorted perception of reality; it is important to recognize it to ensure more balanced decision-making.",
-        "synonyms": [
-          "recency effect",
-          "cognitive bias"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
       {
         "word": "confirmation bias",
         "definition": "Confirmation bias is the tendency to search for, interpret, and remember information in a way that confirms one’s preexisting beliefs or hypotheses.",
@@ -488,35 +358,9 @@
           "open-mindedness",
           "critical thinking"
         ]
-      },
-      {
-        "word": "external research",
-        "definition": "External research refers to the process of gathering information, data, or insights from sources outside an organization, such as market studies, academic papers, or competitor analysis.",
-        "businessContext": "In business, external research is essential for understanding market trends, customer preferences, and competitive landscapes, enabling informed strategic decisions.",
-        "nuance": "While external research can provide valuable insights, it is important to critically evaluate the credibility of sources to avoid misinformation; it complements internal data analysis.",
-        "synonyms": [
-          "market research",
-          "third-party analysis"
-        ],
-        "antonyms": [
-          "internal research",
-          "in-house analysis"
-        ]
-      },
-      {
-        "word": "recognize",
-        "definition": "To recognize means to identify someone or something from previous encounters or knowledge, or to acknowledge the existence or validity of something.",
-        "businessContext": "In a business context, recognizing employee contributions or market trends can enhance morale and drive strategic initiatives, fostering a culture of appreciation and responsiveness.",
-        "nuance": "The term carries a positive connotation when used in the context of acknowledgment, but can imply a lack of awareness when discussing missed opportunities; context is key.",
-        "synonyms": [
-          "acknowledge",
-          "identify"
-        ],
-        "antonyms": [
-          "ignore",
-          "overlook"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

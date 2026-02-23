@@ -6,9 +6,7 @@
     "context": "Austin is opening the podcast by explaining the dramatic shift in mobile app attribution that has fundamentally changed marketing technology. IDFA (Identifier for Advertisers) was Apple's unique identifier that allowed precise tracking of users from ads to app installs. PII stands for Personally Identifiable Information. Austin explains how the elimination of deterministic matching (precise, definitive tracking) has created a paradox where ad networks are becoming more sophisticated while marketers have less visibility into their spending effectiveness.",
     "vocabulary_highlights": [
       "deterministic",
-      "precision",
-      "fundamentally",
-      "attribution"
+      "precision"
     ],
     "topics": [
       "Growth & Marketing",
@@ -21,9 +19,9 @@
       "Growth Strategy",
       "Data Analytics"
     ],
-    "text_ko": "2010년부터 2020년까지는 결정론적 매칭(deterministic matching)의 황금기였어요. 광고를 내면 누가 앱을 설치했는지 아주 정확히 파악하기가 쉬웠죠. 이름은 몰라도 그 사람의 광고 식별자(IDFA)를 알고, 그걸 개인 식별 정보(PII, personally identifiable information)와 연결할 수 있었어요. 이제는 그게 안 돼요. 그래서 광고 네트워크(ad networks)들이 더 복잡하고 정교해지면서 흥미로워지고 있는데, 마케터들이 실제로 돈을 어떻게 쓰는지 이해하기는 훨씬 더 어려워졌어요.",
-    "text_zh": "从2010年到2020年，那是确定性匹配(deterministic matching)的黄金时代，跑个广告就能很精准地知道是谁下载了你的应用。虽然你可能不知道用户的真实姓名，但你能拿到他们的IDFA，然后把这个跟个人身份信息(PII)关联起来。现在这套玩法行不通了。这就意味着，广告网络(ad networks)变得越来越复杂、越来越高端，与此同时，营销人员却更难搞清楚自己的钱到底花到哪儿去了。",
-    "text_es": "Desde el 2010 hasta el 2020, tuvimos la época dorada del deterministic matching, donde era súper fácil lanzar un anuncio y entender con precisión exacta quién se descargó la app. Tal vez no sabías su nombre, pero sí sabías su IDFA y podías conectar eso con su información personal. Ya no se puede hacer eso. Entonces, lo que significa es que estas redes publicitarias se están volviendo más complejas, sofisticadas e interesantes, justo al mismo tiempo que se les hace más difícil a los marketers entender realmente en qué se están gastando el dinero.",
+    "text_ko": "2010년부터 2020년까지는 결정론적 매칭(deterministic matching)의 황금기였어요. 광고를 집행하면 누가 앱을 설치했는지 아주 정확히 파악하기가 정말 쉬웠어요.",
+    "text_zh": "2010到2020年这十年，可以说是确定性匹配(deterministic matching)的黄金时代，那时候投广告特别简单，能很精准地知道是谁安装了你的应用。",
+    "text_es": "Del 2010 al 2020 fueron los años dorados de la atribución determinística, donde era súper fácil lanzar un anuncio y saber con exactitud quién se descargó la app.",
     "key_sentence": "we had the golden years of deterministic matching where it was very easy to run an ad and understand with precision who installed the app.",
     "text_trimmed": true,
     "original_text": "From 2010 to 2020, we had the golden years of deterministic matching where it was very easy to run an ad and understand with precision who installed the app. Maybe you didn't know their name, but you actually would know their IDFA and you could tie that to their PII. You can't do that anymore. So, what that means is these ad networks are becoming more complex, sophisticated, and interesting, right at the same time that it's harder for marketers to really understand how they're spending money.",
@@ -56,36 +54,10 @@
           "imprecision",
           "vagueness"
         ]
-      },
-      {
-        "word": "fundamentally",
-        "definition": "In a basic or foundational manner; relating to the essential nature or underlying principles of something.",
-        "businessContext": "In business discussions, 'fundamentally' is often used to emphasize core values, principles, or changes that affect the overall strategy or operations.",
-        "nuance": "This term suggests a deep-rooted significance, so it should be used when discussing core issues rather than superficial aspects.",
-        "synonyms": [
-          "essentially",
-          "intrinsically"
-        ],
-        "antonyms": [
-          "superficially",
-          "incidentally"
-        ]
-      },
-      {
-        "word": "attribution",
-        "definition": "The process of identifying and assigning credit or responsibility for an outcome or result to a specific cause or source.",
-        "businessContext": "Attribution is vital in marketing to determine which channels or strategies are most effective in driving customer actions, such as purchases or app installations.",
-        "nuance": "Attribution can be complex, as it often involves analyzing multiple factors, and should be used carefully to avoid oversimplifying the impact of various influences.",
-        "synonyms": [
-          "assignment",
-          "crediting"
-        ],
-        "antonyms": [
-          "disregard",
-          "neglect"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Marketing technology is like this very amorphous, cross-functional discipline that lives at the crossroads of product and growth and engineering and marketing. It brings together processes and systems from a wide range of disciplines.",
@@ -94,7 +66,6 @@
     "context": "Lenny asks Austin to define what MarTech (Marketing Technology) is and what someone in MarTech does. Austin is explaining that MarTech is an interdisciplinary field that sits between multiple departments - product, growth, engineering, and marketing. He describes it as managing both third-party tools (external platforms like analytics or email tools) and first-party solutions (custom-built internal systems), similar to how a product manager approaches their role.",
     "vocabulary_highlights": [
       "cross-functional",
-      "interdisciplinary",
       "processes",
       "systems"
     ],
@@ -110,9 +81,9 @@
       "Growth Strategy",
       "Data Analytics"
     ],
-    "text_ko": "마케팅 테크(marketing technology)는 굉장히 모호하고 크로스펑셔널(cross-functional)한 분야로, 제품(product)과 그로스(growth), 엔지니어링, 마케팅이 만나는 교차점에 있어요. 다양한 영역의 프로세스와 시스템을 한데 모으는 역할을 하고요. 제 생각엔 마케팅 테크를 이해하는 가장 좋은 방식은, 그 역할과 초점이 시스템이나 서드파티(third-party) 혹은 퍼스트파티(first-party) 플랫폼에 있는 제품 매니저(product manager)라고 보는 거예요.",
-    "text_zh": "营销技术(marketing technology)这个东西其实挺模糊的，它是个跨部门的领域，处在产品、增长、工程和营销的交叉点上。它把各个不同领域的流程和系统都整合在一起。我觉得理解营销技术最好的方式就是，把它想象成一个产品经理，只不过这个产品经理专门负责系统平台，不管是第三方的还是自家的平台。",
-    "text_es": "La tecnología de marketing es como una disciplina muy fluida y transversal que está justo en el cruce entre producto, crecimiento, ingeniería y marketing. Junta procesos y sistemas de un montón de áreas diferentes. Y yo creo que realmente la forma de pensar en la tecnología de marketing es como un product manager cuyo rol específico y enfoque es el sistema o la plataforma, ya sea de terceros o propia.",
+    "text_ko": "마케팅 테크놀로지(marketing technology, 마테크)는 제품(product), 그로스(growth), 엔지니어링(engineering), 마케팅(marketing)이 만나는 교차점에 자리한 꽤 모호하고 교차 기능적인(cross-functional) 분야예요. 다양한 분야의 프로세스와 시스템을 한데 모아서 연결해 줘요.",
+    "text_zh": "营销技术这个领域比较模糊，跨部门性质很强，处在产品、增长、工程和营销的交叉点上。它把各个不同领域的流程和系统都整合到一起了。",
+    "text_es": "La tecnología de marketing es como una disciplina muy difusa y transversal que está en el cruce entre producto, crecimiento, ingeniería y marketing. Junta procesos y sistemas de un montón de áreas diferentes.",
     "key_sentence": "Marketing technology exists at the crossroads of product, growth, engineering, and marketing.",
     "text_trimmed": true,
     "original_text": "Marketing technology is like this very amorphous, cross-functional discipline that lives at the crossroads of product and growth and engineering and marketing. It brings together processes and systems from a wide range of disciplines. And I think really the way to think about marketing technology is it's a product manager whose specific role and focus is the system or the third party or first party platform.",
@@ -130,20 +101,6 @@
         "antonyms": [
           "single-functional",
           "departmental"
-        ]
-      },
-      {
-        "word": "interdisciplinary",
-        "definition": "Involving two or more academic, professional, or technical disciplines in a collaborative manner.",
-        "businessContext": "In the tech and startup environment, interdisciplinary approaches are essential for innovation, as they combine knowledge and methods from various fields to create comprehensive solutions.",
-        "nuance": "This term often suggests a deeper integration of knowledge and methodologies than simply cross-functional, and is typically used in academic or research contexts.",
-        "synonyms": [
-          "multidisciplinary",
-          "cross-disciplinary"
-        ],
-        "antonyms": [
-          "unidisciplinary",
-          "specialized"
         ]
       },
       {
@@ -174,7 +131,9 @@
           "isolation"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "And everybody thinks that marketing technology is just the third party tools, but actually it's designing, architecting and building that stuff on top of your third party tools. That's how you actually have a lot of velocity is thinking about not just build versus buy.",
@@ -184,8 +143,7 @@
     "vocabulary_highlights": [
       "architecting",
       "velocity",
-      "build versus buy",
-      "dedicated"
+      "build versus buy"
     ],
     "topics": [
       "Product Management",
@@ -199,9 +157,9 @@
       "Growth Strategy",
       "Data Analytics"
     ],
-    "text_ko": "사람들은 마케팅 기술(marketing technology)이 그냥 서드파티 툴(third-party tools)이라고만 생각하지만, 사실은 그 위에 무엇을 설계(designing)하고, 아키텍처(architecting)를 잡아서 실제로 구현(building)하는 일이에요. 속도(velocity)를 내려면 단순히 '구축 대 구매(build vs buy)'만 고민할 게 아니라, 지금은 '구축도 하고 구매도 하는(build and buy)' 접근이 필요해요. 툴을 사서 90%는 해결하고, 나머지 10%를 직접 만들어서 멋진 기능을 얹는 식이에요.",
-    "text_zh": "大家都觉得营销技术(marketing technology)就是那些第三方工具，但其实真正的核心是在这些第三方工具基础上去设计、架构和开发东西。要想真正提高效率，不能只想着是自己开发还是直接买，现在得两手抓——既要买也要开发。你买个工具能解决90%的问题，然后在上面开发点酷炫的功能把剩下10%搞定。",
-    "text_es": "Y todo el mundo piensa que la tecnología de marketing son solo las herramientas de terceros, pero en realidad se trata de diseñar, estructurar y construir cosas encima de esas herramientas que ya tienes. Así es como realmente logras mucha velocidad (velocity): no se trata solo de pensar en construir versus comprar. Ahora es construir y comprar a la vez. O sea, compras la herramienta para llegar al 90% del camino y luego construyes la parte genial encima con ese otro 10%.",
+    "text_ko": "사람들은 마케팅 테크(marketing technology)를 서드파티 도구(third-party tools)로만 생각하는 경향이 있어요. 그런데 실제로는 그 서드파티 도구 위에서 무엇을 설계하고, 아키텍처를 만들고, 직접 구축하는 게 핵심이에요. 진짜로 속도(velocity)를 내려면 단순히 직접 만들까 사서 쓸까(build versus buy)만 고민하는 게 아니라 전체 구조와 조합을 생각해야 해요.",
+    "text_zh": "大家都以为营销技术(marketing technology)就是那些第三方工具，但其实真正的核心是在这些第三方工具基础上去设计、搭建和开发东西。要想真正提速，关键不只是考虑自己开发还是直接买现成的。",
+    "text_es": "Y todo el mundo piensa que la tecnología de marketing son solo las herramientas de terceros, pero en realidad se trata de diseñar, estructurar y construir cosas encima de esas herramientas externas. Así es como realmente puedes tener mucha velocidad: no pensando solo en si desarrollar internamente o comprar algo ya hecho.",
     "key_sentence": "Velocity comes from building on top of third party tools, not just buying them.",
     "text_trimmed": true,
     "original_text": "And everybody thinks that marketing technology is just the third party tools, but actually it's designing, architecting and building that stuff on top of your third party tools. That's how you actually have a lot of velocity is thinking about not just build versus buy. It's build and buy now. So, you buy the tool to get 90% of the way there and then you build the cool thing on top with the other 10%.",
@@ -248,22 +206,10 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "dedicated",
-        "definition": "Devoted to a particular task, purpose, or service, often implying a strong commitment and focus.",
-        "businessContext": "In business, dedicated teams or resources are often assigned to specific projects or functions to ensure optimal performance and accountability.",
-        "nuance": "While 'dedicated' conveys a sense of commitment, it may also imply exclusivity, which can be viewed positively or negatively depending on the context.",
-        "synonyms": [
-          "committed",
-          "devoted"
-        ],
-        "antonyms": [
-          "dispersed",
-          "indifferent"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think all marketing technologists at some level are ICs. I think it's a great job personally, because I get to be an IC and a manager.",
@@ -271,9 +217,7 @@
     "timestamp": "00:18:25",
     "context": "Lenny asks whether MarTech people do the work themselves or build teams with engineers. Austin explains that MarTech professionals are Individual Contributors (ICs) who must maintain hands-on technical expertise. Unlike traditional management roles where you might delegate technical work, MarTech requires you to be the senior technical expert on both internal systems (first party) and external tools (third party), which means staying involved in the actual implementation work.",
     "vocabulary_highlights": [
-      "Individual Contributors",
       "technologists",
-      "maintain",
       "manager"
     ],
     "topics": [
@@ -287,28 +231,14 @@
       "Growth Strategy",
       "Data Analytics"
     ],
-    "text_ko": "저는 모든 마케팅 테크놀로지스트(marketing technologists)가 어느 정도는 다들 IC(Individual Contributor)라고 생각해요. 개인적으로 이 일은 정말 좋은 직무예요 — IC이면서 매니저를 겸할 수 있어서요. 그 역할에서는 IC로서 직접 기여해야 해요. 퍼스트파티(first-party)와 서드파티(third-party) 시스템 전반에 대해 가장 선임된 기술 전문가거든요. 그래서 서드파티 도구(third-party tools)가 어떻게 작동하는지 정말 잘 알아야 하고, 직접 해보지 않으면 그걸 알 수 없어요.",
-    "text_zh": "我觉得所有的营销技术专家(marketing technologist)某种程度上都是个人贡献者(IC)。我个人认为这是个很棒的工作，因为我既能做IC又能做管理。你必须得是个IC，因为你要成为所有第一方和第三方系统最资深的技术专家。所以你得真正了解第三方工具是怎么运作的，不亲自动手你是搞不明白的。",
-    "text_es": "Creo que todos los tecnólogos de marketing a cierto nivel son contribuidores individuales (ICs). Personalmente pienso que es un trabajo genial, porque puedo ser IC y gerente a la vez. Tienes que ser IC en el sentido de que eres el experto técnico más senior en todos los sistemas propios y de terceros. Entonces, tienes que saber muy bien cómo funcionan las herramientas de terceros y eso no lo aprendes sin meter las manos en la masa tú mismo.",
+    "text_ko": "저는 모든 마케팅 테크놀로지 전문가(marketing technologists)가 어느 정도는 개인 기여자(Individual Contributor)라고 생각해요. 개인적으로는 개인 기여자이자 매니저로 일할 수 있어서 이 직무가 정말 좋아요.",
+    "text_zh": "我觉得所有做营销技术的人，本质上都是个贡献者(IC)。我个人觉得这工作特别好，因为我既能做具体的事，又能带团队。",
+    "text_es": "Creo que todos los tecnólogos de marketing son, en el fondo, colaboradores individuales. Para mí es un trabajo genial, porque puedo ser tanto colaborador individual como manager.",
     "key_sentence": "I think it's a great job personally, because I get to be an IC and a manager.",
     "text_trimmed": true,
     "original_text": "I think all marketing technologists at some level are ICs. I think it's a great job personally, because I get to be an IC and a manager. You have to be an IC in that, you are the most senior technical expert on all first party and third party systems. So, you have to know really well how third party tools work and you don't know that without doing the work yourself.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "Individual Contributors",
-        "definition": "Individuals who contribute to a project or organization through their specialized skills and expertise, rather than through managerial roles.",
-        "businessContext": "In tech and startup environments, individual contributors are often responsible for executing specific tasks, such as coding, design, or analysis, without direct oversight of others.",
-        "nuance": "The term emphasizes the value of specialized skills and can imply a level of autonomy and responsibility in one's work.",
-        "synonyms": [
-          "ICs",
-          "specialists"
-        ],
-        "antonyms": [
-          "managers",
-          "supervisors"
-        ]
-      },
       {
         "word": "technologists",
         "definition": "Professionals who specialize in the application of technology to solve problems or create products, often possessing a deep understanding of technical systems.",
@@ -321,20 +251,6 @@
         "antonyms": [
           "non-technical staff",
           "generalists"
-        ]
-      },
-      {
-        "word": "maintain",
-        "definition": "To keep something in a specified state or condition through regular upkeep and management.",
-        "businessContext": "In a business context, maintaining systems, processes, or relationships is essential for ensuring operational efficiency and long-term success.",
-        "nuance": "The term can imply a proactive approach to preservation, rather than merely preventing decline or failure.",
-        "synonyms": [
-          "sustain",
-          "preserve"
-        ],
-        "antonyms": [
-          "neglect",
-          "abandon"
         ]
       },
       {
@@ -351,7 +267,9 @@
           "subordinate"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I almost view them like a true quarterback every [inaudible] says people are quarterbacks. But really marketing technology because it lives between so many departments, it plays that role of having to call plays and pull on different departments.",
@@ -359,8 +277,6 @@
     "timestamp": "00:19:10",
     "context": "Austin continues explaining the cross-functional nature of MarTech roles. He's describing how MarTech professionals need to coordinate across multiple departments - they might need to work with the head of revenue operations to change something in Salesforce, talk to the VP of product for platform changes, or rely on the data team for resources. The quarterback analogy emphasizes how they orchestrate plays across different functional areas rather than having direct authority over team members.",
     "vocabulary_highlights": [
-      "cross-functional",
-      "coordinate",
       "departments",
       "role"
     ],
@@ -381,34 +297,6 @@
     "key_sentence": "Marketing technology calls plays and pulls on different departments like a quarterback.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "cross-functional",
-        "definition": "Involving multiple departments or areas of expertise within an organization to achieve a common goal.",
-        "businessContext": "In business settings, cross-functional teams are often formed to leverage diverse skills and perspectives, enhancing collaboration and innovation across different functions.",
-        "nuance": "This term implies a collaborative approach that breaks down silos, but it may also suggest complexity in communication and decision-making.",
-        "synonyms": [
-          "interdisciplinary",
-          "multifunctional"
-        ],
-        "antonyms": [
-          "single-functional",
-          "departmental"
-        ]
-      },
-      {
-        "word": "coordinate",
-        "definition": "To organize and harmonize activities or efforts among different parties to ensure effective collaboration.",
-        "businessContext": "In a business environment, coordinating tasks among teams or departments is crucial for project management and achieving strategic objectives.",
-        "nuance": "While it suggests a level of organization, it can also imply the need for negotiation and compromise among various stakeholders.",
-        "synonyms": [
-          "synchronize",
-          "manage"
-        ],
-        "antonyms": [
-          "disorganize",
-          "conflict"
-        ]
-      },
       {
         "word": "departments",
         "definition": "Distinct divisions within an organization, each responsible for specific functions or areas of expertise.",
@@ -437,7 +325,8 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I tend to take a little bit of a different approach than most, which is like I think you should always be thinking about the future.",
@@ -445,10 +334,7 @@
     "timestamp": "00:23:12",
     "context": "Austin is explaining his philosophy for how growth managers should think about MarTech decisions beyond just immediate needs. He's addressing the balance between short-term execution and long-term planning. \"Over index towards the future\" means focusing too heavily on future needs at the expense of current priorities like achieving product-market fit. Austin advocates for making tool decisions that consider future scalability without sacrificing present objectives.",
     "vocabulary_highlights": [
-      "approach",
-      "execution",
-      "long-term",
-      "immediate"
+      "approach"
     ],
     "topics": [
       "Strategy & Planning",
@@ -462,9 +348,9 @@
       "Growth Strategy",
       "Data Analytics"
     ],
-    "text_ko": "저는 보통 사람들과 조금 다르게 접근해요. 항상 미래를 생각해야 한다고 보는 편인데, 그렇다고 해서 미래에 지나치게 치우친 설계 선택으로 제품-시장 적합도(product-market fit)를 놓치거나 잘못된 제품 결정을 내려도 된다는 건 아니에요. 다만 도구를 고르고 도입해서 구현할 때는 '아무것도 안 바꾸면 1년 뒤에 어떻게 될까?'를 항상 염두에 둬야 해요.",
-    "text_zh": "我的做法跟大多数人不太一样，我觉得应该时刻想着未来。当然这不是说你要过度迎合未来，搞得连产品市场契合度(product market fit)都找不到，或者做出一堆糟糕的产品决策。但是当你在搭建工具、选择工具、落地实施的时候，你得想想，如果我一年内什么都不改，会发生什么？",
-    "text_es": "Mi enfoque suele ser un poco diferente al de la mayoría. Yo creo que siempre hay que estar pensando en el futuro. Eso no significa que tengas que tomar decisiones de diseño que se enfoquen tanto en el futuro que termines perdiendo el product market fit o tomando malas decisiones de producto. Pero cuando configuras herramientas, las eliges y las implementas, tienes que preguntarte: ¿qué va a pasar dentro de un año si no cambio nada?",
+    "text_ko": "저는 대부분의 사람들과는 조금 다르게 접근하는 편이에요. 제 생각엔 항상 미래를 염두에 둬야 해요.",
+    "text_zh": "我的想法跟大多数人不太一样，我觉得应该时刻考虑未来的发展。",
+    "text_es": "Yo suelo tener un enfoque un poco distinto al de la mayoría, y es que creo que siempre hay que estar pensando en el futuro.",
     "key_sentence": "I think you should always be thinking about the future.",
     "text_trimmed": true,
     "original_text": "I tend to take a little bit of a different approach than most, which is like I think you should always be thinking about the future. That doesn't necessarily mean you should make design choices that over index towards the future so much that you miss product market fit or you make poor product decisions. But when you set up tools and you pick tools and you implement them, you should be thinking, what's going to happen a year from now if I don't change anything?",
@@ -483,50 +369,10 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "execution",
-        "definition": "The act of carrying out or putting into effect a plan, order, or course of action.",
-        "businessContext": "In a business context, execution refers to the implementation of strategies and plans, where effective execution is crucial for achieving desired outcomes and objectives.",
-        "nuance": "The term often emphasizes the importance of precision and efficiency, indicating that successful execution can differentiate between a good plan and a successful outcome.",
-        "synonyms": [
-          "implementation",
-          "performance"
-        ],
-        "antonyms": [
-          "abandonment",
-          "neglect"
-        ]
-      },
-      {
-        "word": "long-term",
-        "definition": "Referring to a time frame that extends far into the future, typically involving strategies or plans that require sustained effort and investment.",
-        "businessContext": "In business, long-term strategies are essential for sustainable growth and involve considerations such as market trends, customer loyalty, and resource allocation over extended periods.",
-        "nuance": "The term often connotes a commitment to enduring goals rather than short-term gains, highlighting the importance of foresight in planning.",
-        "synonyms": [
-          "sustained",
-          "prolonged"
-        ],
-        "antonyms": [
-          "short-term",
-          "immediate"
-        ]
-      },
-      {
-        "word": "immediate",
-        "definition": "Occurring or done at once; instant or urgent in nature, often requiring prompt attention or action.",
-        "businessContext": "In business, immediate actions may be necessary in crisis management or when responding to urgent market changes, highlighting the need for quick decision-making.",
-        "nuance": "While the term suggests urgency, it can also imply a lack of depth in planning, as immediate actions may not always consider long-term consequences.",
-        "synonyms": [
-          "instant",
-          "prompt"
-        ],
-        "antonyms": [
-          "delayed",
-          "prolonged"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think the most superhuman user acquisition people out there are engineers and they don't need a marketing technologist because they set up the tool themself. They know how the paid campaign runs and they just do it all.",
@@ -536,8 +382,7 @@
     "vocabulary_highlights": [
       "user acquisition",
       "marketing technologist",
-      "paid campaign",
-      "effective"
+      "paid campaign"
     ],
     "topics": [
       "Growth & Marketing",
@@ -551,9 +396,9 @@
       "Growth Strategy",
       "Data Analytics"
     ],
-    "text_ko": "제 생각에는 가장 대단한 사용자 확보(user acquisition) 담당자들은 엔지니어들이에요. 마케팅 테크놀로지스트(marketing technologist)가 따로 필요 없어요 — 도구를 스스로 세팅해 버리니까요. 유료 캠페인(paid campaign)이 어떻게 돌아가는지 알고, 그냥 전부 다 해버려요. 보통 이런 사람들은 작은 스타트업에서 만나는데, 공동창업자(co-founder)가 엔지니어에게 “페이스북 광고(Facebook ads) 어떻게 되는지 알아봐”라고 그냥 시키는 그런 곳이에요.",
-    "text_zh": "我觉得最牛的用户获取(user acquisition)高手其实都是工程师，他们根本不需要什么营销技术专家，因为工具都是自己搭建的。付费推广(paid campaign)怎么跑他们门儿清，什么都能自己搞定。你通常能在小创业公司见到这种大神，就是联合创始人跟工程师说一句：\"嘿，你去研究研究Facebook广告怎么玩。\"",
-    "text_es": "Creo que la gente más extraordinaria en adquisición de usuarios son los ingenieros, y no necesitan un tecnólogo de marketing porque ellos mismos configuran las herramientas. Saben cómo funcionan las campañas pagadas y simplemente lo hacen todo. Y normalmente encuentras a estos genios en startups pequeñas donde el cofundador le dice al ingeniero: \"Oye, averigua cómo funcionan los anuncios de Facebook.\"",
+    "text_ko": "제 생각엔 유저 획득(user acquisition) 분야에서 정말 뛰어난 사람들은 엔지니어들이에요. 이분들은 툴을 스스로 세팅해서 마케팅 테크놀로지스트(marketing technologist)가 따로 필요 없어요. 유료 캠페인(paid campaign)이 어떻게 돌아가는지 잘 알고, 그냥 다 직접 해요.",
+    "text_zh": "我觉得最厉害的用户获取(user acquisition)人才其实是工程师，他们根本不需要什么营销技术专家，因为工具都是自己搭建的。付费推广(paid campaign)怎么跑他们门儿清，全都自己搞定。",
+    "text_es": "Creo que los mejores en captación de usuarios (user acquisition) son los ingenieros, y no necesitan a alguien de marketing tecnológico porque ellos mismos configuran las herramientas. Saben perfectamente cómo funcionan las campañas pagadas y se encargan de todo.",
     "key_sentence": "Superhuman user acquisition people are engineers who set up tools themselves.",
     "text_trimmed": true,
     "original_text": "I think the most superhuman user acquisition people out there are engineers and they don't need a marketing technologist because they set up the tool themself. They know how the paid campaign runs and they just do it all. And you'll typically find these super humans at small startups where the engineer is just told by the co-founder, hey, go figure out how Facebook ads work.",
@@ -600,21 +445,9 @@
           "organic campaign",
           "unpaid promotion"
         ]
-      },
-      {
-        "word": "effective",
-        "definition": "Effective refers to the ability to produce a desired or intended result, particularly in achieving specific goals or outcomes.",
-        "businessContext": "In a business context, effective strategies and practices are essential for maximizing productivity, profitability, and overall success.",
-        "nuance": "While something may be effective, it is important to consider efficiency as well, which relates to how resources are utilized in achieving those results.",
-        "synonyms": [
-          "efficient",
-          "successful"
-        ],
-        "antonyms": [
-          "ineffective",
-          "inefficient"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

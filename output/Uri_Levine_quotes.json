@@ -5,10 +5,7 @@
     "timestamp": "00:00:09",
     "context": "Lenny introduces Uri by highlighting his impressive track record of co-founding 10 companies and building two unicorns including Waze. He notes that the biggest startup lesson Uri seems to have taken from all this experience is to fall in love with the problem. Uri explains that this passionate connection to a problem is essential not just personally, but also for inspiring others - your team, customers, and stakeholders - to join you on the entrepreneurial journey.",
     "vocabulary_highlights": [
-      "engage",
-      "impressive",
-      "track record",
-      "startup lesson"
+      "engage"
     ],
     "topics": [
       "Starting a Company",
@@ -21,9 +18,9 @@
       "Company Building",
       "Fundraising"
     ],
-    "text_ko": "그 문제에 푹 빠져보세요, 진짜로요. 그리고 사실 여러분이 하려는 건 다른 사람들까지 같은 문제에 빠지게 해서 함께 이 여정을 떠나 같은 길을 걷고 여러분의 리더십을 따르게 만드는 거예요.",
-    "text_zh": "要爱上这个问题，真的要爱上它，然后你要做的就是让其他人也爱上同一个问题，跟着你一起走这条路，认你这个领头人。",
-    "text_es": "Enamórate, enamórate completamente del problema, y entonces lo que realmente tienes que hacer es lograr que todos los demás también se enamoren de ese mismo problema, que se metan en este viaje, en este camino y que sigan tu liderazgo.",
+    "text_ko": "먼저 문제에 진심으로 빠지세요. 그다음엔 다른 사람들도 같은 문제에 빠지게 만드는 게 우리가 실제로 해야 할 일이에요.",
+    "text_zh": "先把问题当回事儿，然后设法把别人也拉进来，让大家都关心同一个问题。",
+    "text_es": "Enamórate del problema y, después, lo que realmente tienes que hacer es lograr que los demás también se enamoren de él.",
     "key_sentence": "Fall in love with the problem to engage everyone else in the journey.",
     "text_trimmed": true,
     "original_text": "Fall in love, fall in love, fall in love, fall in love with the problem, and then actually what you're trying to do is engage everyone else to fall in love with the same problem, to go into this journey, into this path and follow your leadership there.",
@@ -42,62 +39,17 @@
           "alienate",
           "disengage"
         ]
-      },
-      {
-        "word": "impressive",
-        "definition": "Evoking admiration through size, quality, or skill; remarkable.",
-        "businessContext": "In a business context, an impressive presentation, product, or performance can significantly influence investor interest and consumer perception.",
-        "nuance": "The term 'impressive' carries a positive connotation, but it can also imply that something is noteworthy due to its unexpectedness or contrast to the norm.",
-        "synonyms": [
-          "remarkable",
-          "striking"
-        ],
-        "antonyms": [
-          "unimpressive",
-          "ordinary"
-        ]
-      },
-      {
-        "word": "track record",
-        "definition": "A person's or organization's past performance or achievements in a particular area.",
-        "businessContext": "In business and investment, a strong track record can enhance credibility and attract investors or clients, as it demonstrates reliability and success.",
-        "nuance": "While a positive track record is generally seen as advantageous, a negative one can significantly hinder opportunities and trust.",
-        "synonyms": [
-          "history of performance",
-          "past achievements"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "startup lesson",
-        "definition": "A principle or insight gained from the experiences of starting and managing a new business venture.",
-        "businessContext": "Startup lessons often inform best practices and strategies for entrepreneurs, helping them navigate challenges and avoid common pitfalls in the early stages of business development.",
-        "nuance": "The term suggests a learning experience that is often hard-earned and may carry both positive and negative connotations depending on the outcome.",
-        "synonyms": [
-          "entrepreneurial insight",
-          "founder's lesson"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Every time that you hire someone new, mark your calendars for 30 days down the road and ask yourself one question, knowing what I know today, would I hire this person? If the answer is no, fire them immediately.",
     "speaker": "Uri Levine",
     "timestamp": "00:00:20",
     "context": "Lenny asks Uri about his advice on hiring and firing. Uri shares a very specific tactical approach for managing new hires effectively. He emphasizes that many startup failures stem from founders knowing within the first month that team members aren't the right fit, but failing to act on that knowledge. His solution is to create a systematic 30-day checkpoint to force this difficult but crucial decision.",
-    "vocabulary_highlights": [
-      "tactical",
-      "emphasize",
-      "manage",
-      "failure"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Leadership & Management",
       "Starting a Company"
@@ -114,64 +66,8 @@
     "text_es": "Cada vez que contrates a alguien nuevo, márcate en el calendario 30 días después y hazte una sola pregunta: con lo que sé hoy, ¿volvería a contratar a esta persona? Si la respuesta es no, córrela inmediatamente.",
     "key_sentence": "Mark your calendars 30 days later to evaluate new hires.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "tactical",
-        "definition": "Relating to actions carefully planned to achieve a specific end. It often involves short-term strategies that contribute to larger goals.",
-        "businessContext": "In business, 'tactical' refers to the implementation of specific actions or plans that support broader strategic objectives, such as marketing campaigns or operational improvements.",
-        "nuance": "While 'tactical' implies a focus on immediate actions, it should not be confused with 'strategic,' which encompasses long-term planning.",
-        "synonyms": [
-          "operational",
-          "practical"
-        ],
-        "antonyms": [
-          "strategic",
-          "theoretical"
-        ]
-      },
-      {
-        "word": "emphasize",
-        "definition": "To give special importance or prominence to something in speaking or writing. It often involves highlighting key points or priorities.",
-        "businessContext": "In a business setting, leaders often emphasize certain values, goals, or performance metrics to align team efforts and ensure clarity in communication.",
-        "nuance": "Using 'emphasize' suggests a deliberate choice to draw attention to a particular aspect, which can be critical in persuasive communication.",
-        "synonyms": [
-          "highlight",
-          "underscore"
-        ],
-        "antonyms": [
-          "downplay",
-          "ignore"
-        ]
-      },
-      {
-        "word": "manage",
-        "definition": "To be in charge of or to oversee the operation, organization, or administration of something. It involves coordinating resources and people to achieve objectives.",
-        "businessContext": "In business, effective management is crucial for ensuring that teams work efficiently and that projects are completed on time and within budget.",
-        "nuance": "The term 'manage' can imply a range of responsibilities from strategic oversight to day-to-day operations, and it often carries connotations of leadership and accountability.",
-        "synonyms": [
-          "administer",
-          "supervise"
-        ],
-        "antonyms": [
-          "neglect",
-          "abandon"
-        ]
-      },
-      {
-        "word": "failure",
-        "definition": "The lack of success in achieving a desired outcome or goal. It can refer to an unsuccessful attempt or a breakdown in a process.",
-        "businessContext": "In the business world, failure is often analyzed to understand mistakes and improve future performance, with a focus on learning from setbacks rather than assigning blame.",
-        "nuance": "While 'failure' has a negative connotation, it can also be viewed positively in contexts that value innovation and risk-taking, as it often leads to growth and improvement.",
-        "synonyms": [
-          "setback",
-          "defeat"
-        ],
-        "antonyms": [
-          "success",
-          "achievement"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true
   },
   {
     "text": "Most people are missing the most important slide of their presentation is the first slide. This slide is going to be presented for the longest period of time. This is the place that you're going to put your strongest point.",
@@ -179,10 +75,7 @@
     "timestamp": "00:00:36",
     "context": "Lenny transitions the conversation to fundraising advice. Uri shares a tactical insight about presentation structure that most entrepreneurs overlook. He explains that the first slide (usually just a title slide) and the last slide (usually just 'thank you') are displayed for the longest periods during a pitch meeting, yet founders typically waste these prime real estate moments instead of using them strategically to reinforce their strongest points.",
     "vocabulary_highlights": [
-      "presentation structure",
-      "tactical insight",
-      "strongest point",
-      "overlook"
+      "strongest point"
     ],
     "topics": [
       "Fundraising",
@@ -195,42 +88,14 @@
       "Company Building",
       "Fundraising"
     ],
-    "text_ko": "대부분의 사람들은 발표에서 가장 중요한 슬라이드를 놓치는데, 바로 첫 슬라이드예요. 첫 슬라이드는 청중에게 가장 오래 보이는 슬라이드라서 가장 강한 핵심을 여기에 담아야 해요. 그리고 두 번째로 중요한 건 마지막 슬라이드예요.",
-    "text_zh": "很多人都忽略了一个问题，就是演示文稿里最重要的其实是第一张PPT。这张PPT展示的时间是最长的，所以你得把最有说服力的观点放在这里。然后呢，第二重要的就是最后一张PPT了。",
-    "text_es": "La mayoría de la gente no se da cuenta de que la diapositiva más importante de su presentación es la primera. Esta diapositiva es la que van a ver por más tiempo. Aquí es donde tienes que poner tu punto más fuerte. Y la segunda diapositiva más importante es la última.",
+    "text_ko": "대부분 사람들은 발표에서 가장 중요한 슬라이드가 첫 슬라이드(slide)라는 걸 놓치고 있어요. 이 슬라이드는 청중 앞에 가장 오래 남는 화면이라서, 가장 강력한 포인트를 담아야 하는 자리예요.",
+    "text_zh": "很多人没意识到，PPT（slide）里最重要的一页其实是第一页。因为这一页会在屏幕上停留最久，所以要把你最有力、最关键的观点放在这里。",
+    "text_es": "La mayoría de la gente no se da cuenta de que la diapositiva más importante de su presentación es la primera. Esa diapositiva será la que más tiempo esté a la vista, así que ahí debes poner tu argumento más fuerte.",
     "key_sentence": "The first slide is prime real estate to reinforce your strongest point.",
     "text_trimmed": true,
     "original_text": "Most people are missing the most important slide of their presentation is the first slide. This slide is going to be presented for the longest period of time. This is the place that you're going to put your strongest point. Now the second most important slide is the last one.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "presentation structure",
-        "definition": "The organized framework of a presentation, outlining the sequence and flow of information to effectively convey a message to the audience.",
-        "businessContext": "In business settings, a well-defined presentation structure is crucial for ensuring clarity and engagement, often guiding the audience through complex information systematically.",
-        "nuance": "While a rigid structure can enhance clarity, overly strict adherence may stifle creativity and spontaneity in delivery.",
-        "synonyms": [
-          "presentation framework",
-          "presentation outline"
-        ],
-        "antonyms": [
-          "disorganized presentation",
-          "chaotic delivery"
-        ]
-      },
-      {
-        "word": "tactical insight",
-        "definition": "A deep understanding or analysis that informs strategic decisions and actions in a specific context, often leading to effective problem-solving.",
-        "businessContext": "In the business world, tactical insights are vital for making informed decisions that can improve operational efficiency and competitive advantage.",
-        "nuance": "Tactical insights often require a blend of data analysis and experiential knowledge, distinguishing them from mere observations or surface-level insights.",
-        "synonyms": [
-          "strategic insight",
-          "operational insight"
-        ],
-        "antonyms": [
-          "superficial observation",
-          "misguided assumption"
-        ]
-      },
       {
         "word": "strongest point",
         "definition": "The most compelling or persuasive argument or piece of evidence presented in a discussion or presentation.",
@@ -244,22 +109,10 @@
           "weakest point",
           "minor detail"
         ]
-      },
-      {
-        "word": "overlook",
-        "definition": "To fail to notice or consider something important, often resulting in missed opportunities or errors.",
-        "businessContext": "In a business environment, overlooking critical details can lead to strategic missteps or operational inefficiencies, making attention to detail essential.",
-        "nuance": "The term can imply negligence or unintentional disregard, and is often used in contexts where careful consideration is expected.",
-        "synonyms": [
-          "neglect",
-          "miss"
-        ],
-        "antonyms": [
-          "acknowledge",
-          "recognize"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "when you fall in love with the problem, then... the problem is going to serve as the North Star of your journey... you are way more likely to become successful.",
@@ -268,8 +121,7 @@
     "context": "Lenny asks Uri about whether there was a specific moment he realized that falling in love with the problem was the key insight, or if it developed progressively. Uri explains that this concept evolved over time as he recognized that entrepreneurship is fundamentally about value creation, and solving problems is the simplest way to create value. He describes how focusing on the problem provides strategic and storytelling advantages.",
     "vocabulary_highlights": [
       "North Star",
-      "journey",
-      "key insight"
+      "journey"
     ],
     "topics": [
       "Starting a Company",
@@ -282,9 +134,9 @@
       "Company Building",
       "Fundraising"
     ],
-    "text_ko": "문제 자체에 푹 빠지면, 그 문제가 당신 여정의 북극성(North Star)이 돼요. 북극성이 있으면 방향을 잃을 일이 줄고 목표에서 벗어나는 일이 적어져 성공할 가능성이 훨씬 커져요. 게다가 전하려는 이야기 자체도 훨씬 더 설득력 있고 매력적이에요.",
-    "text_zh": "所以当你真正爱上这个问题的时候，这个问题就会成为你前进路上的北极星(North Star)，有了北极星，你就不会偏离方向，成功的概率也会大大提高。而且你要讲的故事也会更有说服力。",
-    "text_es": "Entonces cuando te enamoras del problema, lo que pasa es que ese problema se va a convertir en tu estrella polar en este camino, y cuando tienes una estrella polar, te vas a desviar mucho menos del rumbo y tienes muchas más probabilidades de tener éxito. Pero además, la historia que vas a contar va a ser mucho más convincente.",
+    "text_ko": "해결하려는 문제에 푹 빠지면, 그 문제가 여정의 북극성(North Star)이 돼요. 그러면 성공할 가능성이 훨씬 높아져요.",
+    "text_zh": "当你真心着迷于这个问题时，它就会成为你前进路上的北极星(North Star)，你成功的可能性也会大大增加。",
+    "text_es": "Si te enamoras del problema, se convertirá en la brújula de tu camino y es mucho más probable que tengas éxito.",
     "key_sentence": "when you fall in love with the problem, then... the problem is going to serve as the North Star of your journey.",
     "text_trimmed": true,
     "original_text": "So when you fall in love with the problem, then what happened is that the problem is going to serve as the North Star of your journey, and when you have a North Star, you're going to make less deviation from the course and you are way more likely to become successful. But also the story that you are about to tell is way more compelling.",
@@ -317,22 +169,10 @@
           "stagnation",
           "standstill"
         ]
-      },
-      {
-        "word": "key insight",
-        "definition": "A crucial piece of information or understanding that significantly enhances decision-making or strategy.",
-        "businessContext": "Key insights are often derived from data analysis or market research and are essential for informing business strategies and innovations.",
-        "nuance": "The term suggests a depth of understanding that goes beyond surface-level observations, making it particularly valuable in strategic discussions, but may be overused in less analytical contexts.",
-        "synonyms": [
-          "critical understanding",
-          "essential finding"
-        ],
-        "antonyms": [
-          "misconception",
-          "ignorance"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "If you start your story with, 'Our company is,' or, 'Our system is,' and in the recent year everything is, 'Our AI system is,' or, 'Our AI company is.' But generally speaking, if you start your story with that, you focus on your solution.",
@@ -341,8 +181,6 @@
     "context": "Uri continues explaining why falling in love with the problem is crucial for entrepreneurs. He points out that he receives many emails from entrepreneurs weekly, and they all start by describing what they're building rather than why they're building it. He breaks down different ways to frame your startup story and explains why focusing on the problem or user value is more effective than focusing on your solution or technology.",
     "vocabulary_highlights": [
       "focus on",
-      "crucial",
-      "entrepreneurs",
       "solution"
     ],
     "topics": [
@@ -356,9 +194,9 @@
       "Company Building",
       "Fundraising"
     ],
-    "text_ko": "이야기를 '우리 회사는...'이나 '우리 시스템(system)은...'으로 시작하면, 요즘은 '우리 AI(Artificial Intelligence) 시스템은...'이나 '우리 AI(Artificial Intelligence) 회사는...'처럼 시작하는 경우가 많아요. 그런데 그렇게 말하면 솔루션(solution)에만 초점을 맞추게 돼요. 반면에 '우리가 해결하려는 문제는...'으로 시작하면 문제에 초점을 맞추고, '우리가 여러분에게 제공하는 가치는...'으로 시작하면 사용자(user)에 초점을 맞추게 돼요. 뒤의 두 가지가 솔루션 중심으로 말하는 것보다 훨씬 좋아요.",
-    "text_zh": "如果你一开口就说\"我们公司是...\"或者\"我们的系统是...\"，最近这一年大家都在说\"我们的AI系统是...\"或者\"我们的AI公司是...\"。但是说白了，你要是这样开头的话，你关注的就是你的解决方案。如果你换个说法，\"我们要解决的问题是...\"，那你关注的就是问题本身。要是你说\"我们为您创造的价值是...\"，那你关注的就是用户。后面这两种说法比只关注解决方案要好得多。",
-    "text_es": "Si empiezas tu historia con \"Nuestra empresa es\" o \"Nuestro sistema es\", y últimamente todo es \"Nuestro sistema de IA es\" o \"Nuestra empresa de IA es\"... Pero en general, si arrancas tu historia así, te estás enfocando en tu solución. Si empiezas la historia con \"El problema que resolvemos es\", entonces te enfocas en el problema. Si tu historia empieza con \"El valor que creamos para ti es\", entonces te enfocas en el usuario. Estas últimas dos opciones son muchísimo mejores que enfocarse en la solución.",
+    "text_ko": "이야기를 '우리 회사는...'이나 '우리 시스템은...'으로 시작하면, 요즘엔 '우리 인공지능(AI) 시스템은...'이나 '우리 인공지능(AI) 회사는...'처럼 말하는 경우가 많아요. 그런데 보통 그렇게 시작하면 이야기가 솔루션에만 초점을 맞추게 돼요.",
+    "text_zh": "如果你讲故事一开始就说“我们公司是……”，或者“我们的系统是……”，尤其最近大家总爱说“我们的人工智能（AI）系统是……”或“我们的人工智能（AI）公司是……”，那基本上就是把重点放在你们的解决方案上了。",
+    "text_es": "Si empiezas tu historia diciendo \"nuestra empresa es...\" o \"nuestro sistema es...\" —y últimamente \"nuestro sistema de inteligencia artificial (AI) es...\" o \"nuestra compañía de inteligencia artificial (AI) es...\"—, en realidad estás poniendo el foco en tu solución.",
     "key_sentence": "if you start your story with that, you focus on your solution.",
     "text_trimmed": true,
     "original_text": "If you start your story with, 'Our company is,' or, 'Our system is,' and in the recent year everything is, 'Our AI system is,' or, 'Our AI company is.' But generally speaking, if you start your story with that, you focus on your solution. If you start with the story with, 'The problem we are solving is,' Then you focus on the problem. If your story start with, 'The value that we create for you is,' then you focus on the user. The last two are way better than focus on the solution.",
@@ -379,34 +217,6 @@
         ]
       },
       {
-        "word": "crucial",
-        "definition": "Extremely important or essential, especially in determining the outcome of a situation.",
-        "businessContext": "In the context of business, 'crucial' often describes decisions, factors, or elements that are vital for success or failure.",
-        "nuance": "This term carries a sense of urgency and significance, making it suitable for high-stakes discussions but potentially overstated in less critical contexts.",
-        "synonyms": [
-          "critical",
-          "essential"
-        ],
-        "antonyms": [
-          "insignificant",
-          "trivial"
-        ]
-      },
-      {
-        "word": "entrepreneurs",
-        "definition": "Individuals who create, develop, and manage new business ventures, often taking on financial risks in the hope of profit.",
-        "businessContext": "In the startup ecosystem, 'entrepreneurs' are key players who drive innovation and economic growth through their ventures.",
-        "nuance": "While it generally has a positive connotation of innovation and risk-taking, it can also imply a lack of stability or reliance on personal initiative.",
-        "synonyms": [
-          "business owners",
-          "founders"
-        ],
-        "antonyms": [
-          "employees",
-          "workers"
-        ]
-      },
-      {
         "word": "solution",
         "definition": "A means of solving a problem or dealing with a difficult situation.",
         "businessContext": "In business and technology, 'solution' often refers to products or services designed to address specific challenges faced by customers or organizations.",
@@ -420,7 +230,9 @@
           "issue"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "So if you speak with a hundred people, but if you actually speak with 20 people that you don't know, you will get validated whether or not this problem is real or not. And look, it's not the only way to become successful, right?",
@@ -429,9 +241,7 @@
     "context": "Lenny asks Uri for signals and heuristics to help founders understand if a problem is big enough to warrant building a company around it. Uri explains his '100 people' validation approach, emphasizing that you need to get out of your comfort zone and talk to strangers, not just friends and family. He acknowledges that problem-solving isn't the only path to success, using the iPhone as an example of a revolutionary product that didn't solve an existing problem but created entirely new value.",
     "vocabulary_highlights": [
       "validated",
-      "successful",
-      "warrant",
-      "approach"
+      "successful"
     ],
     "topics": [
       "Starting a Company",
@@ -444,9 +254,9 @@
       "Company Building",
       "Fundraising"
     ],
-    "text_ko": "그러니까 100명하고 얘기한다고 해도, 실제로 모르는 사람 20명하고만 얘기해 보면 그 문제가 진짜인지 아닌지 확인할 수 있어요. 그리고 이게 성공하는 유일한 방법은 아니에요. 예를 들어 전 세계에서 가장 성공한 제품 중 하나인 아이폰(iPhone)을 보면, 그들이 시작할 때 정확히 어떤 문제가 있었냐고 물어보면 답은 시작할 때는 문제가 없었다는 거예요.",
-    "text_zh": "所以你要是跟一百个人聊过，但实际上只要跟20个你不认识的人好好聊聊，你就能验证出这个问题到底是不是真的存在。但话说回来，这也不是成功的唯一路子，对吧？你看世界上最成功的产品之一——iPhone，你问问自己，他们刚开始做的时候到底要解决什么问题？答案是，他们开始的时候根本就没有什么问题要解决。",
-    "text_es": "Entonces, si hablas con cien personas, pero realmente hablas con 20 personas que no conoces, vas a poder validar si este problema es real o no. Y mira, no es la única manera de triunfar, ¿verdad? Si te fijas en uno de los productos más exitosos del mundo, el iPhone, ¿no? Te preguntas, ¿cuál era exactamente el problema cuando empezaron? Y la respuesta es que no había ningún problema cuando empezaron.",
+    "text_ko": "그러니까 백 명과 이야기했다고 해도, 실제로 모르는 사람 스무 명과 직접 얘기해 보면 그 문제가 진짜인지 아닌지 검증돼요 (validated). 그리고 이게 성공하는 유일한 방법은 아니에요.",
+    "text_zh": "就是说，和一百个人聊过不代表什么。真正去和20个陌生人聊，你才能验证这个问题是不是真的存在。顺便说一句，这也不是通往成功的唯一办法，对吧？",
+    "text_es": "Entonces, puedes hablar con cien personas, pero si de verdad hablas con 20 personas que no conoces, eso te va a confirmar si el problema es real o no. Y mira, no es la única forma de tener éxito, ¿no?",
     "key_sentence": "Speak with 20 unknown people to get validated about the problem's reality.",
     "text_trimmed": true,
     "original_text": "So if you speak with a hundred people, but if you actually speak with 20 people that you don't know, you will get validated whether or not this problem is real or not. And look, it's not the only way to become successful, right? You look at one of the most successful products in the world, the iPhone, right? And you ask yourself, what was exactly the problem when they started? And the answer is that there was no problem when they started.",
@@ -479,48 +289,17 @@
           "unsuccessful",
           "failing"
         ]
-      },
-      {
-        "word": "warrant",
-        "definition": "To justify or necessitate a particular action or decision; to provide grounds for.",
-        "businessContext": "In business, a warrant may refer to the justification for pursuing a particular strategy or investment based on data or market analysis.",
-        "nuance": "Using 'warrant' implies a level of authority or necessity, suggesting that the action is not just optional but required.",
-        "synonyms": [
-          "justify",
-          "authorize"
-        ],
-        "antonyms": [
-          "prohibit",
-          "forbid"
-        ]
-      },
-      {
-        "word": "approach",
-        "definition": "A method or way of dealing with a situation or problem; a strategy or plan of action.",
-        "businessContext": "In business, an approach can refer to the strategic methods employed to achieve goals, such as marketing approaches or problem-solving approaches.",
-        "nuance": "The term can imply flexibility and adaptability, as different situations may require different approaches.",
-        "synonyms": [
-          "method",
-          "strategy"
-        ],
-        "antonyms": [
-          "disregard",
-          "neglect"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The biggest enemy of good enough is perfect. You don't need to be perfect. You need to be good enough in order to win the market, and the way that you are going to become good enough, by the way, is really simple.",
     "speaker": "Uri Levine",
     "timestamp": "00:17:07",
     "context": "Uri is explaining the multi-dimensional nature of the startup journey, particularly focusing on how it's a journey of failures where founders must try different approaches until something works. He emphasizes the importance of failing fast to allow more attempts at success. In this quote, he's addressing the perfectionism that often paralyzes entrepreneurs, explaining that the path to success is through iterative improvement rather than trying to build something perfect from the start.",
-    "vocabulary_highlights": [
-      "multi-dimensional",
-      "approaches",
-      "journey",
-      "founders"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Starting a Company",
       "Strategy & Planning"
@@ -532,70 +311,15 @@
       "Company Building",
       "Fundraising"
     ],
-    "text_ko": "완벽이 '충분히 좋은(good enough)'의 가장 큰 적이에요. 완벽할 필요는 없어요. 시장에서 이기려면 충분히 좋은 수준이면 돼요. 그리고 그 수준에 도달하는 방법은 사실 아주 단순해요. 처음엔 충분히 좋지 않은 상태로 시작해서 반복(iterate)해서 계속 개선하다 보면 결국 충분히 좋아져서 이기게 돼요.",
-    "text_zh": "做到\"够好\"的最大敌人就是追求完美。你不需要做到完美，只需要够好就能赢得市场。而且说实话，达到够好的方法特别简单——你从不够好开始，然后不断迭代(iterate)，一遍遍地改进，直到变得够好，这样你就赢了。",
-    "text_es": "El mayor enemigo de \"lo suficientemente bueno\" es la perfección. No necesitas ser perfecto. Lo que necesitas es ser lo suficientemente bueno para ganar el mercado, y la forma de llegar a ser lo suficientemente bueno, por cierto, es muy sencilla. Empiezas con algo que no está lo suficientemente bueno y vas iterando y iterando y iterando hasta que te vuelves lo suficientemente bueno, y entonces vas a ganar.",
+    "text_ko": "‘충분히 좋은(good enough)’의 가장 큰 적은 완벽주의예요. 완벽할 필요 없어요. 시장에서 이기려면 완벽함이 아니라 충분히 좋은 수준이면 돼요. 그리고 그 ‘충분히 좋은’ 수준에 도달하는 방법은 사실 아주 단순해요.",
+    "text_zh": "阻碍“够好”的最大敌人就是完美主义。你不必完美——想赢市场，够好就行，而且要变得够好，办法其实很简单。",
+    "text_es": "Lo que más perjudica a lo suficientemente bueno es la perfección. No tienes que ser perfecto. Necesitas ser lo suficientemente bueno para ganar cuota de mercado, y, por cierto, la forma de lograrlo es muy sencilla.",
     "key_sentence": "Good enough wins the market; iterate and iterate to achieve it.",
     "text_trimmed": true,
     "original_text": "The biggest enemy of good enough is perfect. You don't need to be perfect. You need to be good enough in order to win the market, and the way that you are going to become good enough, by the way, is really simple. You start with not good enough and you iterate and iterate and iterate until you become good enough and then you'll win.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "multi-dimensional",
-        "definition": "Having multiple aspects or facets that contribute to a complex whole.",
-        "businessContext": "In business, a multi-dimensional approach may refer to strategies that consider various factors such as market trends, consumer behavior, and technological advancements.",
-        "nuance": "This term often implies a sophisticated understanding of a situation, suggesting that simplistic solutions may be inadequate.",
-        "synonyms": [
-          "complex",
-          "layered"
-        ],
-        "antonyms": [
-          "one-dimensional",
-          "simple"
-        ]
-      },
-      {
-        "word": "approaches",
-        "definition": "Methods or strategies for dealing with a situation or problem.",
-        "businessContext": "In a business context, approaches can refer to various strategies employed to achieve goals, such as marketing approaches or management approaches.",
-        "nuance": "The term suggests flexibility and adaptability, indicating that there may be multiple valid ways to address an issue.",
-        "synonyms": [
-          "methods",
-          "strategies"
-        ],
-        "antonyms": [
-          "disregards",
-          "neglects"
-        ]
-      },
-      {
-        "word": "journey",
-        "definition": "The process of traveling from one place to another, often used metaphorically to describe a progression or development.",
-        "businessContext": "In business, the term 'journey' is frequently used to describe the customer journey, which outlines the steps a consumer takes from awareness to purchase.",
-        "nuance": "Using 'journey' conveys a sense of ongoing development and transformation rather than a static endpoint.",
-        "synonyms": [
-          "process",
-          "path"
-        ],
-        "antonyms": [
-          "destination",
-          "end"
-        ]
-      },
-      {
-        "word": "founders",
-        "definition": "Individuals who establish or create an organization, particularly a startup or business.",
-        "businessContext": "Founders are crucial in the startup ecosystem, as they are responsible for the initial vision, strategy, and direction of the company.",
-        "nuance": "The term often carries a sense of innovation and risk-taking, highlighting the entrepreneurial spirit required to launch new ventures.",
-        "synonyms": [
-          "creators",
-          "entrepreneurs"
-        ],
-        "antonyms": [
-          "employees",
-          "followers"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

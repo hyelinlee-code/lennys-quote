@@ -6,9 +6,7 @@
     "context": "Lenny asks Varun what skills people should be investing in more with the rise of AI building more and more of our products. Varun explains that beyond technical skills like understanding computer systems and problem-solving, the most undervalued skill is agency - the ability to take initiative and build things independently rather than just following well-defined instructions. He contrasts this with traditional education where students are told exactly what to do, arguing that society doesn't prioritize developing people who have real agency and want to create something meaningful.",
     "vocabulary_highlights": [
       "undervalued",
-      "agency",
-      "investing",
-      "skills"
+      "agency"
     ],
     "topics": [
       "Career Development",
@@ -21,9 +19,9 @@
       "Sales Strategy",
       "Growth Strategy"
     ],
-    "text_ko": "조금 과소평가되는 것 중 하나가 이런 자기 주도성(agency) 측면인 것 같아요. 이걸 많이 생각하는데, 대학이나 학교를 다니면서 P-set(문제 풀이 과제)에서 뭘 해야 할지 정확히 지시받는 사람이 많아요. 그들에게는 따라야 할 아주 딱 정해진 길만 주어지죠. 사회나 학교에서는 뭔가를 만들고 싶어하는 진짜 자기 주도성(agency)을 가진 사람들을 어떻게 키울지 우선순위로 두지 않는 것 같아요.",
-    "text_zh": "我觉得有一个东西可能被低估了，就是这种主动性。我经常想这个问题，就是很多人上大学的时候，做作业都是老师告诉你怎么做，给你安排得明明白白的路径。我觉得可能在社会上，包括在学校里，我们都没有重视怎么培养那些真正有主动性、想要去创造点什么的人，对吧？",
-    "text_es": "Creo que algo que tal vez no valoramos lo suficiente es este tema de la autonomía personal. Y pienso mucho en esto: tienes un montón de gente que puede pasar por la universidad, por toda su educación, y básicamente les dicen exactamente qué tienen que hacer en cada tarea. Les dan estos caminos súper, súper definidos, diría yo, que tienen que seguir. Creo que tal vez en la sociedad y en la educación no priorizamos cómo asegurarnos de formar gente con verdadera autonomía que realmente quiera construir algo, ¿no?",
+    "text_ko": "제 생각엔 이런 에이전시(agency) 부분이 약간 과소평가되고 있는 것 같아요.",
+    "text_zh": "我觉得有件事可能有点被低估了，就是代理机构(agency)这块。",
+    "text_es": "Creo que algo que quizá se infravalora un poco es este tipo de trabajo de agencia (agency piece).",
     "key_sentence": "this kind of agency piece.",
     "text_trimmed": true,
     "original_text": "I think one of the things that's maybe a little bit undervalued is this kind of agency piece. And I think about this a lot, which is, you have a lot of people that could go through college and go through school and they're basically told exactly what to do on a P-set. They're given these very, very, I would say, well-defined paths that they need to take. I think maybe in society and just school, we don't prioritize how do you make sure you get people with real agency that want to build something, right?",
@@ -56,36 +54,10 @@
           "subordination",
           "powerlessness"
         ]
-      },
-      {
-        "word": "investing",
-        "definition": "The act of allocating resources, usually money, in order to generate income or profit.",
-        "businessContext": "Investing is a fundamental concept in business, encompassing activities such as purchasing stocks, funding startups, or allocating capital to projects that are expected to yield returns.",
-        "nuance": "While often associated with financial markets, investing can also refer to time and effort spent on developing skills or relationships that may yield future benefits.",
-        "synonyms": [
-          "funding",
-          "capital allocation"
-        ],
-        "antonyms": [
-          "withdrawing",
-          "divesting"
-        ]
-      },
-      {
-        "word": "skills",
-        "definition": "The abilities and expertise that enable individuals to perform tasks effectively.",
-        "businessContext": "In the business world, skills are critical for job performance, innovation, and competitive advantage, and organizations often invest in training to enhance their workforce's capabilities.",
-        "nuance": "The term can refer to both hard skills, such as technical abilities, and soft skills, like communication and teamwork, which are equally important in a professional setting.",
-        "synonyms": [
-          "competencies",
-          "abilities"
-        ],
-        "antonyms": [
-          "incompetence",
-          "ineptitude"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I want the company to almost be like this dehydrated entity. Every hire is like a little bit of water, and we only go back and hire someone when we're back to being dehydrated.",
@@ -94,9 +66,7 @@
     "context": "Lenny asks Varun how he knows when it's time to hire someone at Codeium. Varun explains his hiring philosophy using a metaphor - he wants the company to operate lean like a dehydrated entity, where each new hire is like adding water. They only hire when teams are truly underwater and desperately need help, not when they have adequate resources. This prevents the politics and manufactured work that happens when companies hire before they actually need people.",
     "vocabulary_highlights": [
       "hire",
-      "entity",
-      "operate lean",
-      "philosophy"
+      "entity"
     ],
     "topics": [
       "Leadership & Management",
@@ -142,36 +112,9 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "operate lean",
-        "definition": "To manage a business or project with minimal waste and maximum efficiency, focusing on value creation.",
-        "businessContext": "In startups and tech environments, operating lean often involves adopting methodologies like Lean Startup, which prioritize rapid iteration and customer feedback to optimize resources.",
-        "nuance": "The phrase 'operate lean' suggests a strategic approach to resource management, often associated with innovation and agility, making it less suitable in contexts where extensive resources are available.",
-        "synonyms": [
-          "streamline",
-          "optimize"
-        ],
-        "antonyms": [
-          "overextend",
-          "waste"
-        ]
-      },
-      {
-        "word": "philosophy",
-        "definition": "A set of beliefs or principles that guide an individual's or organization's behavior and decision-making.",
-        "businessContext": "In business, a company's philosophy can shape its culture, values, and strategic direction, influencing everything from employee engagement to customer relations.",
-        "nuance": "The term 'philosophy' often conveys a deeper, more reflective approach to decision-making, making it appropriate in discussions about corporate ethics and long-term vision.",
-        "synonyms": [
-          "principle",
-          "doctrine"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "A lot of the bets we're making inside the company are for things that are not three, four weeks away. We should be cannibalizing the existing state of our product every six to 12 months.",
@@ -180,8 +123,6 @@
     "context": "Varun discusses what he considers the most counterintuitive aspect of building AI products. While users and the market focus on short-term weekly improvements, internally Codeium is making longer-term bets that aren't visible for months. He explains their philosophy of continuously disrupting their own product - every 6-12 months they should be building something that makes their current offering look outdated and obsolete in both functionality and design.",
     "vocabulary_highlights": [
       "cannibalizing",
-      "counterintuitive",
-      "longer-term",
       "existing state"
     ],
     "topics": [
@@ -195,9 +136,9 @@
       "Sales Strategy",
       "Growth Strategy"
     ],
-    "text_ko": "우리가 회사 안에서 하는 많은 베팅(bets)은 3~4주 안에 끝나는 일이 아니에요. 6~12개월마다 기존 제품을 카니발라이징(cannibalizing)할 수 있어야 해요. 매번 6~12개월마다 새로 나온 게 기존 제품을 우스꽝스럽게 만들고, 기존 제품의 폼팩터(form factor)가 어리숙해 보일 정도여야 해요.",
-    "text_zh": "我们公司内部下的很多赌注都不是三四个礼拜就能见效的。我们应该每隔六到十二个月就颠覆一下现有产品。每隔六到十二个月，就要让我们现在的产品看起来很傻，甚至让现有产品的外形设计看起来都很蠢。",
-    "text_es": "Muchas de las apuestas que estamos haciendo dentro de la empresa son para cosas que no van a pasar en tres o cuatro semanas. Deberíamos estar canibalizando el estado actual de nuestro producto cada seis o doce meses. Cada seis o doce meses, debería hacer que nuestro producto actual se vea ridículo. Casi debería hacer que el factor de forma (form factor) del producto existente se vea súper tonto.",
+    "text_ko": "회사 안에서 하는 많은 베팅들은 3~4주 안에 끝날 일이 아니에요. 우리는 6~12개월마다 기존 프로덕트(product)를 스스로 카니발라이징(cannibalizing)해서 대체해나가야 해요.",
+    "text_zh": "公司里很多赌注不是三四周就能见效的。我们应该每6到12个月就主动把现有产品替换掉（cannibalizing）。",
+    "text_es": "Muchas de las apuestas que hacemos en la empresa no son para dentro de tres o cuatro semanas. Deberíamos canibalizar (cannibalizing) lo que ya tenemos en el producto cada seis a doce meses.",
     "key_sentence": "Cannibalizing our product should make it look dumb every six to 12 months.",
     "text_trimmed": true,
     "original_text": "A lot of the bets we're making inside the company are for things that are not three, four weeks away. We should be cannibalizing the existing state of our product every six to 12 months. Every six to 12 months, it should make our existing product look silly. It should almost make the form factor of existing product look dumb.",
@@ -215,28 +156,6 @@
         "antonyms": []
       },
       {
-        "word": "counterintuitive",
-        "definition": "Something that goes against what one would expect or intuitively believe to be true.",
-        "businessContext": "In business, counterintuitive strategies may lead to unexpected outcomes that challenge conventional wisdom, often resulting in innovative solutions or market advantages.",
-        "nuance": "While counterintuitive approaches can be effective, they may require strong justification and evidence to gain buy-in from stakeholders.",
-        "synonyms": [
-          "paradoxical",
-          "unconventional"
-        ],
-        "antonyms": []
-      },
-      {
-        "word": "longer-term",
-        "definition": "Referring to a time frame that extends beyond the immediate future, often encompassing several months to years.",
-        "businessContext": "In strategic planning, a longer-term perspective is essential for setting sustainable goals and ensuring the longevity of a business's success.",
-        "nuance": "The term suggests a focus on enduring outcomes rather than short-term gains, which may require patience and investment.",
-        "synonyms": [
-          "sustained",
-          "prolonged"
-        ],
-        "antonyms": []
-      },
-      {
         "word": "existing state",
         "definition": "The current condition or status of a product, service, or system before any changes or improvements are made.",
         "businessContext": "Understanding the existing state is crucial for businesses when assessing areas for improvement or innovation, as it provides a baseline for measuring progress.",
@@ -247,7 +166,9 @@
         ],
         "antonyms": []
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The engineers are now able to produce more technology. The ROI of building technology has actually gone up. This actually means you hire more. The best thing to do is just get your hands dirty with all of these products.",
@@ -256,9 +177,7 @@
     "context": "Lenny asks about skills people should invest in with AI building more products. Varun argues against the common belief that AI will reduce demand for engineers. Instead, he explains that AI tools make engineers more productive, increasing the return on investment of building technology. This higher ROI actually justifies hiring more engineers, not fewer. He encourages people to get hands-on experience with AI tools because they can become force multipliers in their organizations in unexpected ways.",
     "vocabulary_highlights": [
       "ROI",
-      "produce",
-      "invest",
-      "demand"
+      "produce"
     ],
     "topics": [
       "Career Development",
@@ -271,9 +190,9 @@
       "Sales Strategy",
       "Growth Strategy"
     ],
-    "text_ko": "엔지니어들이 이제 더 많은 기술을 만들어낼 수 있어요. 기술을 만드는 것에 대한 투자수익률(ROI)이 실제로 올라갔고, 이건 결국 더 많이 채용해야 한다는 뜻이에요. 가장 좋은 방법은 이런 제품들을 직접 뛰어들어 써보고 손으로 다뤄보는 거예요. 그렇게 하면 당신은 조직에서 그들이 전혀 예상하지 못한 방식으로 영향력을 배가시키는 존재(force multiplier)가 될 수 있어요.",
-    "text_zh": "现在工程师们能开发出更多技术了。搞技术的投资回报率(ROI)其实是在上升的。这其实意味着你得多招人。最好的办法就是亲自上手去试试这些产品。你可能会成为组织里的力量倍增器(force multiplier)，发挥出他们想都想不到的作用。",
-    "text_es": "Los ingenieros ahora pueden desarrollar más tecnología. El ROI de crear tecnología en realidad ha subido. Esto significa que vas a contratar más gente. Lo mejor que puedes hacer es meterte de lleno con todos estos productos. Podrías ser un multiplicador de fuerza (force multiplier) para tu organización de maneras que ni siquiera se imaginaban.",
+    "text_ko": "엔지니어들이 이제 더 많은 기술(technology)을 만들어낼 수 있어요. 기술을 만드는 것의 투자수익률(ROI)이 실제로 올라갔어요. 그 말은 결국 사람을 더 뽑아야 한다는 뜻이에요. 가장 좋은 건 팔을 걷어붙이고 이 제품들을 직접 다뤄보는 거예요.",
+    "text_zh": "现在工程师能产出更多技术，构建技术的投资回报率(ROI)其实提高了。也就是说，你们得多招人。最好的做法就是自己上手，亲自把这些产品都试一遍。",
+    "text_es": "Ahora los ingenieros pueden producir más tecnología. De hecho, el retorno de la inversión (ROI) de desarrollar tecnología ha aumentado. Eso implica contratar a más gente. Lo mejor es arremangarse y ponerse a trabajar con todos estos productos.",
     "key_sentence": "ROI of building technology has increased; get your hands dirty with products.",
     "text_trimmed": true,
     "original_text": "The engineers are now able to produce more technology. The ROI of building technology has actually gone up. This actually means you hire more. The best thing to do is just get your hands dirty with all of these products. You could be a force multiplier to your organization in ways in which they never even anticipated.",
@@ -306,36 +225,10 @@
           "consume",
           "destroy"
         ]
-      },
-      {
-        "word": "invest",
-        "definition": "To invest is to allocate resources, typically money, with the expectation of generating a profit or achieving a beneficial return in the future.",
-        "businessContext": "In business, investing can involve funding projects, acquiring assets, or supporting startups, with the goal of enhancing growth and profitability.",
-        "nuance": "Investing carries an inherent risk, and the term is often associated with long-term strategies rather than short-term gains.",
-        "synonyms": [
-          "allocate",
-          "commit"
-        ],
-        "antonyms": [
-          "withdraw",
-          "divest"
-        ]
-      },
-      {
-        "word": "demand",
-        "definition": "Demand refers to the desire and ability of consumers to purchase goods or services at a given price within a certain timeframe.",
-        "businessContext": "Understanding demand is essential for businesses to forecast sales, manage inventory, and develop marketing strategies that align with consumer needs.",
-        "nuance": "Demand can fluctuate based on various factors, including market trends and economic conditions, making it a critical concept in supply chain management.",
-        "synonyms": [
-          "need",
-          "desire"
-        ],
-        "antonyms": [
-          "supply",
-          "abundance"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think one of the worst things is like, if someone comes here and doesn't like using these tools, we believe there are massive productivity improvements.",
@@ -344,9 +237,7 @@
     "context": "Lenny asks how Codeium conducts interviews in an era where AI tools like Windsurf can solve coding problems. Varun explains their approach to modern technical interviews - they actually encourage candidates to use AI tools during interviews because they believe in the productivity improvements these tools provide. However, they also conduct on-site interviews with whiteboarding to assess real-time problem-solving abilities and ensure candidates aren't just mechanically translating problems into AI prompts without genuine understanding.",
     "vocabulary_highlights": [
       "productivity improvements",
-      "tools",
-      "conducts",
-      "approach"
+      "tools"
     ],
     "topics": [
       "Leadership & Management",
@@ -359,9 +250,9 @@
       "Sales Strategy",
       "Growth Strategy"
     ],
-    "text_ko": "제가 생각하기에 제일 안 좋은 상황 중 하나는, 누군가가 여기 와서 이런 도구 쓰는 걸 싫어하는 거예요. 우리는 이런 도구들이 생산성을 엄청 끌어올린다고 보고 있어요. 그래서 사람들을 실제로 사무실(온사이트 on-site)로 불러 화이트보드 앞에서 문제를 어떻게 풀어가는지 같은 과정을 직접 보려고 해요. 즉석에서 어떻게 생각하는지 보길 원하고, 단지 우리가 말한 걸 음성 번역기(voice translator)에 넣어서 ChatGPT에 붙여 넣고 답만 뽑아내는 식이 아니길 바래요.",
-    "text_zh": "我觉得最糟糕的情况就是，如果有人来了之后不愿意用这些工具，我们是真心相信这些工具能大幅提升工作效率的。我们会把人请到公司现场，这样就能实实在在地看到他们怎么在白板上思考问题，还有其他各种表现。所以我们确实想看看他们的临场反应能力，希望他们不只是把我们说的话丢进语音翻译器，然后再扔给ChatGPT来找答案。",
-    "text_es": "Creo que una de las peores cosas es cuando alguien llega aquí y no le gusta usar estas herramientas, porque nosotros creemos que hay mejoras enormes de productividad. Por eso traemos a la gente a la empresa en persona para poder ver realmente cómo razonan los problemas en la pizarra y todo eso. Queremos ver cómo piensan sobre la marcha y ojalá que no estén simplemente tomando lo que decimos, metiéndolo en un traductor de voz y pegándolo en ChatGPT para sacar la respuesta.",
+    "text_ko": "제 생각에 가장 안 좋은 것 중 하나는, 누군가 여기 와서 이 툴들(tools)을 쓰는 걸 좋아하지 않으면 우리가 기대하는 엄청난 생산성 향상(productivity improvements)을 얻지 못하게 되는 거예요.",
+    "text_zh": "我觉得最糟的一点是，有人来了却不愿意用这些工具，而我们相信这些工具能大幅提高效率。",
+    "text_es": "Creo que una de las peores cosas es que, si alguien llega aquí y no quiere usar estas herramientas, estamos renunciando a mejoras masivas de productividad (productivity improvements).",
     "key_sentence": "we believe there are massive productivity improvements.",
     "text_trimmed": true,
     "original_text": "I think one of the worst things is like, if someone comes here and doesn't like using these tools, we believe there are massive productivity improvements. We do bring people into the company on site so we can actually see how they think through problems on a whiteboard and all these other pieces. So we do want to see how they think on their feet and hopefully they're not just taking what we're saying, putting it in a voice translator and sticking it into ChatGPT and getting the answer out.",
@@ -394,36 +285,10 @@
           "obstacles",
           "hindrances"
         ]
-      },
-      {
-        "word": "conducts",
-        "definition": "To carry out or direct an activity or process, often involving management or oversight.",
-        "businessContext": "In a business environment, 'conducts' is frequently used to describe the execution of meetings, research, or performance evaluations, emphasizing leadership and accountability.",
-        "nuance": "This term carries a formal tone and is often used in contexts where authority or oversight is implied; it is less common in casual conversation.",
-        "synonyms": [
-          "executes",
-          "manages"
-        ],
-        "antonyms": [
-          "neglects",
-          "abandons"
-        ]
-      },
-      {
-        "word": "approach",
-        "definition": "A method or way of dealing with a situation or problem, often characterized by a specific strategy or perspective.",
-        "businessContext": "In business discussions, an 'approach' refers to the strategic direction taken to achieve objectives, such as a marketing approach or problem-solving approach.",
-        "nuance": "The term suggests a thoughtful and planned method rather than a random or haphazard effort; it is often used in strategic planning contexts.",
-        "synonyms": [
-          "method",
-          "strategy"
-        ],
-        "antonyms": [
-          "disregard",
-          "neglect"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think maybe in society and just school, we don't prioritize how do you make sure you get people with real agency that want to build something, right?",
@@ -432,9 +297,7 @@
     "context": "Varun continues explaining why agency is an undervalued skill in the AI era. He critiques how society and educational systems don't prioritize developing people with genuine agency who want to create meaningful things. Instead, many people follow a predictable path of graduating college and joining large tech companies where they're given very specific, narrow tasks like positioning pixels on websites. He argues this lack of agency has been undervalued for about a decade and will become increasingly important.",
     "vocabulary_highlights": [
       "prioritize",
-      "agency",
-      "undervalued",
-      "developing"
+      "agency"
     ],
     "topics": [
       "Career Development",
@@ -447,9 +310,9 @@
       "Sales Strategy",
       "Growth Strategy"
     ],
-    "text_ko": "저는 사회나 학교에서 진짜로 뭔가를 만들고 싶어 하는 사람들의 주체성(agency)을 어떻게 확보할지 우선순위로 두지 않는 것 같아요. 그들의 목표가 단지 대학을 졸업해서 빅테크(big tech) 회사에 들어가 거기서 시키는 대로만 하는 것—예를 들어 어떤 웹사이트의 픽셀(pixel)을 어디에 놓으라고 지시받는 일—이 아니잖아요. 이런 스킬셋(skill set)이 요즘, 아마 지난 10년 정도 동안 특히 저평가돼 온 것 같아요.",
-    "text_zh": "我觉得可能在社会上，包括学校里，我们都没有重视一个问题：怎么培养那些真正有主动性、想要创造点什么的人才，对吧？他们的目标不应该只是从大学毕业，然后去大厂找个工作，每天被人安排得死死的，就负责在某个网页上调调像素位置什么的。我觉得这种能力可能被低估了，特别是最近这十年左右。",
-    "text_es": "Creo que tal vez en la sociedad y en las escuelas no le damos prioridad a cómo asegurarnos de formar gente con verdadera iniciativa que quiera construir algo, ¿no? Su objetivo no es solo graduarse de la universidad y luego conseguir trabajo en una empresa tecnológica grande donde les digan exactamente qué hacer o dónde poner cada pixel en una página web. Pienso que esa habilidad está subvalorada justo ahora, probablemente en los últimos diez años más o menos.",
+    "text_ko": "제 생각엔 사회나 학교에서 뭔가를 만들고 싶어하는 진짜 주체성(agency)을 가진 사람들을 어떻게 확보할지에 대해선 우선순위를 잘 두지 않는 것 같아요, 그렇죠?",
+    "text_zh": "我觉得也许在社会上，尤其在学校里，我们并没有把重心放在怎么保证能找到那些真正有主动性（agency）、想去做点事的人，对吧？",
+    "text_es": "Creo que, tanto en la sociedad como en la escuela, no damos prioridad a cómo asegurarnos de contar con personas con iniciativa real (agency) que quieran crear algo, ¿no?",
     "key_sentence": "we don't prioritize how do you make sure you get people with real agency that want to build something",
     "text_trimmed": true,
     "original_text": "I think maybe in society and just school, we don't prioritize how do you make sure you get people with real agency that want to build something, right? Their goal is not just to maybe graduate from college and then get a job at a big tech company where they're told exactly what to do or where to put the pixel for this one website. I think that's maybe a skill set that is undervalued just right now, probably in the last maybe 10 years or so.",
@@ -482,35 +345,9 @@
           "subjugation",
           "powerlessness"
         ]
-      },
-      {
-        "word": "undervalued",
-        "definition": "Regarded as less important or valuable than it actually is, often leading to insufficient recognition or compensation.",
-        "businessContext": "In the corporate world, certain roles or contributions may be undervalued, which can result in employee dissatisfaction and high turnover rates if not addressed.",
-        "nuance": "The term suggests a disparity between perceived and actual worth, and is often used in discussions about equity and recognition in the workplace.",
-        "synonyms": [
-          "underappreciated",
-          "overlooked"
-        ],
-        "antonyms": [
-          "valued",
-          "appreciated"
-        ]
-      },
-      {
-        "word": "developing",
-        "definition": "The process of growth, progress, or evolution in skills, ideas, or products, often involving incremental improvements.",
-        "businessContext": "In startups and tech companies, developing new products or services is a critical phase that requires innovation, research, and market testing to meet consumer needs.",
-        "nuance": "While developing suggests positive progress, it can also imply that something is still in a formative stage and may not yet be fully realized or effective.",
-        "synonyms": [
-          "evolving",
-          "growing"
-        ],
-        "antonyms": [
-          "stagnating",
-          "regressing"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

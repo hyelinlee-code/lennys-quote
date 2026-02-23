@@ -6,9 +6,7 @@
     "context": "Sachin is discussing his long-term vision for where Substack is heading as a product. He's explaining how the internet has historically failed to properly compensate quality writers, but Substack is changing this landscape. He mentions that beyond established writers like Matt Taibbi who joined early, there are now many newer writers finding success who don't even identify primarily as writers but are making substantial income from their work.",
     "vocabulary_highlights": [
       "economic model",
-      "supporting",
-      "compensate",
-      "quality"
+      "supporting"
     ],
     "topics": [
       "Product Management",
@@ -21,9 +19,9 @@
       "Consumer Products",
       "Growth Strategy"
     ],
-    "text_ko": "저는 정말 이제 막 인터넷에서 작가로 활동한다는 것의 황금기가 시작된 것 같다고 생각해요. 인터넷 역사 전체를 통틀어 좋은 글을 경제적으로 지원하는 모델은 대체로 형편없었어요. 그런데 지난 1년, 특히 몇 달 사이에 스스로를 작가라고 생각하지 않을 사람들조차 만든 정말 흥미로운 성공 사례들이 많이 생겼다고 봐요.",
-    "text_zh": "我觉得我们现在才刚刚进入互联网写作的黄金时代。说实话，从互联网诞生到现在，在网上写好内容的商业模式一直都挺糟糕的。但是最近一年多，甚至就这几个月，我看到了很多特别有意思的成功案例，而且这些人可能自己都不觉得自己是什么作家。",
-    "text_es": "Realmente creo que apenas estamos entrando en esta época dorada de lo que puede significar ser escritor en internet. El modelo económico para apoyar la buena escritura en línea ha sido bastante terrible durante toda la historia del internet. Pero en el último año más o menos, incluso en los últimos meses, creo que hemos visto muchas historias de éxito súper interesantes de escritores que ni siquiera se consideran a sí mismos como escritores.",
+    "text_ko": "저는 우리가 이제 막 인터넷에서 작가로 산다는 것의 의미가 새롭게 정의되는 황금기에 접어들기 시작했다고 정말 생각해요. 그동안 인터넷 역사 전반에 걸쳐 훌륭한 글을 경제적으로 뒷받침하는 모델은 대체로 형편없었어요.",
+    "text_zh": "我真心觉得，我们才刚刚开始进入网络写作者的黄金时代，才开始弄清楚在网上写作到底意味着什么。支持优秀网络写作的经济模式 (economic model) 在互联网的整个历史里一直都很差。",
+    "text_es": "Creo que apenas estamos empezando a entrar en lo que podría ser una edad de oro para ser escritor en internet. El modelo económico para financiar la escritura de calidad en internet ha sido, en general, bastante deficiente durante casi toda la historia de internet.",
     "key_sentence": "We're starting into a golden era of what it means to be a writer.",
     "text_trimmed": true,
     "original_text": "I really think that we're just starting into this golden era of what it might mean to be a writer on the internet. The economic model for supporting great writing on the internet has been generally pretty terrible for the entirety of the internet's history. But in the last year or so, even in the last few months, I think there's been so many really interesting success stories now from writers who might not even consider themselves writers.",
@@ -56,48 +54,17 @@
           "undermining",
           "opposing"
         ]
-      },
-      {
-        "word": "compensate",
-        "definition": "To compensate means to make up for a loss, deficiency, or imbalance by providing an equivalent or counterbalancing benefit or payment. It often involves financial remuneration or other forms of restitution.",
-        "businessContext": "In business, compensation can refer to employee salaries, benefits, or adjustments made to account for losses or to incentivize performance.",
-        "nuance": "Compensate can carry a connotation of rectifying a wrong or addressing an injustice, making it more than just a transactional term.",
-        "synonyms": [
-          "reimburse",
-          "offset"
-        ],
-        "antonyms": [
-          "penalize",
-          "deprive"
-        ]
-      },
-      {
-        "word": "quality",
-        "definition": "Quality refers to the standard of something as measured against other things of a similar kind; it encompasses attributes such as durability, reliability, and performance. It is often a key determinant of value.",
-        "businessContext": "In business, quality is critical for customer satisfaction, brand reputation, and competitive advantage, influencing production processes and service delivery.",
-        "nuance": "While 'quality' generally has a positive connotation, it can also imply a level of scrutiny or expectation that must be met.",
-        "synonyms": [
-          "caliber",
-          "standard"
-        ],
-        "antonyms": [
-          "inferiority",
-          "substandard"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "We're still pretty early, but we have something going now.",
     "speaker": "Sachin Monga",
     "timestamp": "00:07:25",
     "context": "Lenny asks Sachin about how Substack's product team is structured and how it might evolve as they scale. Sachin explains that when he joined Substack a year ago, they had zero product managers, but they've now built out a proper product organization. He describes their current structure of three full-stack teams aligned around different user types rather than product features.",
-    "vocabulary_highlights": [
-      "scale",
-      "structured",
-      "evolve",
-      "product managers"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Leadership & Management"
@@ -109,71 +76,16 @@
       "Consumer Products",
       "Growth Strategy"
     ],
-    "text_ko": "아직 꽤 초반이긴 한데, 지금은 뭔가 돌아가고 있어요. 저 외에 프로덕트 매니저(product manager, PM)가 4명 있고, 사실상 PM과 엔지니어링 매니저(engineering manager), 데이터 담당자(data person)나 디자이너, 엔지니어로 구성된 풀스택 제품팀(full-stack product team)이 세 팀 생겨서 일이 서서히 굴러가기 시작했어요. 드디어 이 과도기(transition phase)를 벗어나고 있는데, 정말 재밌어요.",
-    "text_zh": "我们现在还算比较早期，不过已经有点起色了。除了我之外，我们现在有四个产品经理，还有三个基本上算是全栈的产品团队(full stack product teams)，每个团队都配了产品经理(PM)、工程经理、数据分析师或者设计师，还有工程师，现在事情开始步入正轨了。我们终于从那个转型期走出来了，这个过程还挺有意思的。",
-    "text_es": "Todavía estamos bastante al inicio, pero ya tenemos algo en marcha. Tenemos cuatro product managers además de mí, y tenemos tres equipos de producto que son básicamente full stack con un PM y un engineering manager, alguien de datos o un diseñador, ingenieros y las cosas ya están empezando a fluir. Por fin estamos saliendo de esta fase de transición y ha sido súper divertido.",
+    "text_ko": "아직 초반이긴 하지만, 지금은 뭔가 잘 돌아가고 있어요.",
+    "text_zh": "我们还在起步阶段，不过现在已经开始有起色了。",
+    "text_es": "Todavía estamos en una fase muy temprana, pero ya tenemos algo en marcha.",
     "key_sentence": "We're still pretty early, but we have something going now.",
     "text_trimmed": true,
     "original_text": "We're still pretty early, but we have something going now. We have four product managers in addition to myself, and we have three essentially kind of full stack product teams now that have a PM and an engineering manager, a data person or a designer, engineers and things are starting to roll. We're finally emerging from this transition phase and it's been super fun.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "scale",
-        "definition": "To increase in size, capacity, or scope, often in a systematic manner.",
-        "businessContext": "In business and technology, scaling refers to the ability of a company to grow its operations and revenue without being hampered by its structure or available resources.",
-        "nuance": "While 'scale' often implies growth, it can also suggest the need for efficiency and sustainability in that growth.",
-        "synonyms": [
-          "expand",
-          "grow"
-        ],
-        "antonyms": [
-          "shrink",
-          "reduce"
-        ]
-      },
-      {
-        "word": "structured",
-        "definition": "Organized in a systematic way, often involving a clear framework or set of guidelines.",
-        "businessContext": "In a business context, a structured approach can enhance efficiency and clarity in processes, project management, and team dynamics.",
-        "nuance": "The term 'structured' can imply rigidity; it is important to balance structure with flexibility to adapt to changing circumstances.",
-        "synonyms": [
-          "organized",
-          "systematic"
-        ],
-        "antonyms": [
-          "unstructured",
-          "chaotic"
-        ]
-      },
-      {
-        "word": "evolve",
-        "definition": "To develop gradually, especially from a simple to a more complex form.",
-        "businessContext": "In the business world, companies must evolve to meet changing market demands, technological advancements, and consumer preferences.",
-        "nuance": "While 'evolve' suggests positive development, it can also imply that change is necessary to avoid stagnation or decline.",
-        "synonyms": [
-          "develop",
-          "progress"
-        ],
-        "antonyms": [
-          "stagnate",
-          "regress"
-        ]
-      },
-      {
-        "word": "product managers",
-        "definition": "Professionals responsible for the strategy, roadmap, and feature definition of a product or product line.",
-        "businessContext": "In tech startups, product managers play a crucial role in aligning product development with market needs and business objectives, often acting as a bridge between engineering, marketing, and sales teams.",
-        "nuance": "The role of product managers can vary significantly between organizations, with some focusing more on technical aspects while others emphasize market strategy.",
-        "synonyms": [
-          "product leads",
-          "product owners"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think the first thing was really treating my role in the beginning more as a facilitator than a decision maker when it comes to product. When I first joined, I felt like my main role was actually just solving that.",
@@ -183,8 +95,7 @@
     "vocabulary_highlights": [
       "facilitator",
       "decision maker",
-      "solving",
-      "approach"
+      "solving"
     ],
     "topics": [
       "Leadership & Management",
@@ -197,9 +108,9 @@
       "Consumer Products",
       "Growth Strategy"
     ],
-    "text_ko": "처음에는 제가 프로덕트(product)에 관해서는 의사결정자(decision maker)라기보다 퍼실리테이터(facilitator) 역할을 하는 게 더 맞다고 생각했어요. 합류 초반에는 제 주된 역할이 사실 그 문제를 푸는 것이라고 느꼈고요. 최소한 크리스가 각 팀이 뭘 하는지 잘 파악하고, 팀들이 크리스의 관점을 이해해서 크리스를 모델링(modeling)하고 그의 비전을 더 잘 반영할 수 있게 된다면 그건 큰 성공이에요.",
-    "text_zh": "我觉得最开始的时候，在产品这块儿，我更多是把自己当成一个协调者，而不是拍板的人。刚加入的时候，我觉得我的主要任务就是解决这个问题。换句话说，如果Chris能清楚地知道各个团队在干什么，各个团队也能理解他的想法，并且开始学会跟上他的节奏和愿景，那就算成功了。",
-    "text_es": "Creo que lo primero fue enfocar mi puesto más como facilitador que como el que toma las decisiones del producto. Cuando llegué, sentí que mi trabajo principal era resolver eso. Y aunque no lograra nada más, si Chris podía tener una idea clara de lo que estaban haciendo todos los equipos, y si los equipos entendían su perspectiva y empezaban a alinearse mejor con su visión, ya sería un éxito.",
+    "text_ko": "처음에는 제품(product)에 관해서 제 역할을 의사결정자(decision maker)라기보다 조율자(facilitator)로 보는 게 맞다고 생각했어요. 합류했을 때는 제 주된 역할이 사실 그 부분을 해결하는 것뿐이라고 느꼈어요.",
+    "text_zh": "关于产品，我一开始更把自己当成推动者(facilitator)，而不是决策者(decision maker)。刚加入那会儿，我觉得自己主要的工作就是把这事儿处理好。",
+    "text_es": "Creo que al principio enfoqué mi rol más como facilitador que como quien toma las decisiones sobre el producto (product). Cuando me uní, sentía que mi papel principal era precisamente resolver eso.",
     "key_sentence": "Treating my role as a facilitator was my main role in the beginning.",
     "text_trimmed": true,
     "original_text": "I think the first thing was really treating my role in the beginning more as a facilitator than a decision maker when it comes to product. When I first joined, I felt like my main role was actually just solving that. And if nothing else, if Chris could have a really good sense of what all the teams are doing and if the teams knew where he was coming from and could start to get better at modeling him and his vision, that would be a win.",
@@ -246,22 +157,10 @@
           "complicating",
           "exacerbating"
         ]
-      },
-      {
-        "word": "approach",
-        "definition": "An approach is a method or way of dealing with a situation or problem, often characterized by a particular perspective or strategy.",
-        "businessContext": "In business, different approaches can be adopted for project management, marketing strategies, or team dynamics, influencing the effectiveness of outcomes.",
-        "nuance": "The term can imply a systematic or philosophical stance, suggesting that there are multiple ways to tackle an issue depending on the context.",
-        "synonyms": [
-          "method",
-          "strategy"
-        ],
-        "antonyms": [
-          "disregard",
-          "neglect"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Maybe that leads into my answer to the second question, which is that's not really for everyone. I think there's almost like a personality type that has to be okay with being humbled all the time and feeling like you don't know what you're doing.",
@@ -270,9 +169,7 @@
     "context": "Lenny asks about what type of person isn't a good fit for the role of head of product at a fast-growing startup with a product-minded founder. Sachin explains that the constant change and growth at startups means processes become obsolete quickly, requiring someone comfortable with uncertainty. He contrasts this with working at more stable companies where you can master established processes and systems.",
     "vocabulary_highlights": [
       "personality type",
-      "humbled",
-      "constant change",
-      "fast-growing"
+      "humbled"
     ],
     "topics": [
       "Career Development",
@@ -285,9 +182,9 @@
       "Consumer Products",
       "Growth Strategy"
     ],
-    "text_ko": "그게 두 번째 질문에 대한 제 답이기도 한 것 같아요. 솔직히 그건 누구에게나 맞는 건 아니에요. 늘 겸손해질 준비가 되어 있고, 내가 뭘 하는지 모르는 것 같은 기분을 받아들일 수 있는 성향이어야 해요. 조금 더 안정적이고 일관된 회사에서는 정말 훌륭한 프로덕트 매니저(Product Manager)가 돼서 자기 일에 능숙해질 수 있고, 반대로 제가 말한 식의 성장 궤적(trajectory)에 있는 회사에서 잘하는 사람은 완전히 다른 종류의 일이에요.",
-    "text_zh": "这可能就引出了我对第二个问题的回答，就是这种工作真的不适合所有人。我觉得几乎需要某种特定的性格类型，要能接受总是被打脸，总是感觉自己不知道在干什么。你完全可以在一个比较稳定、规范的公司做个很棒的产品经理，把工作做得很好，但如果要在这种快速发展轨道上的公司干得出色，那基本上是完全不同的工作了。",
-    "text_es": "Quizás eso me lleva a la respuesta de la segunda pregunta, que es que esto realmente no es para todos. Creo que hay casi como un tipo de personalidad que tiene que estar bien con que te humillen todo el tiempo y sentir que no sabes lo que estás haciendo. Pienso que podrías ser un product manager increíble en una empresa que sea un poco más estable y consistente, y volverte realmente bueno en lo que haces, pero alguien que va a destacar en una empresa que está en esta trayectoria, pues es como un trabajo completamente diferente.",
+    "text_ko": "아마 그게 두 번째 질문에 대한 제 답으로 이어지는 것 같아요. 근데 그건 모든 사람에게 맞는 건 아니에요. 늘 겸손해지고 내가 뭘 하는지 모른다는 기분을 계속 견뎌낼 수 있는 성향이 있어야 해요.",
+    "text_zh": "这大概就是我对第二个问题的回答：这并不适合每个人。我觉得这更像是一种性格——得能接受不断被打击，常常觉得自己不太知道自己在干什么。",
+    "text_es": "Quizá eso me lleva a la respuesta de la segunda pregunta: no es para todo el mundo. Creo que se necesita casi un tipo de personalidad que esté bien con que te pongan en evidencia todo el tiempo y con la sensación de no saber qué estás haciendo.",
     "key_sentence": "Being humbled all the time is necessary for this trajectory.",
     "text_trimmed": true,
     "original_text": "Maybe that leads into my answer to the second question, which is that's not really for everyone. I think there's almost like a personality type that has to be okay with being humbled all the time and feeling like you don't know what you're doing. I think you could be an amazing product manager at a company that is a bit more stable and consistent and get really good at what you're doing and someone who's going to be really good at a company that is on a bit of this trajectory, it's kind of a different job.",
@@ -320,36 +217,10 @@
           "arrogant",
           "proud"
         ]
-      },
-      {
-        "word": "constant change",
-        "definition": "An ongoing state of flux where conditions, processes, or environments are continually evolving. This concept highlights the dynamic nature of modern life and work.",
-        "businessContext": "In the context of business and technology, constant change is a critical factor that organizations must navigate to remain competitive, requiring agility and innovation in strategies and operations.",
-        "nuance": "While 'constant change' can imply a positive drive for innovation, it may also suggest instability, so it is important to balance the need for change with the need for consistency.",
-        "synonyms": [
-          "continuous evolution",
-          "perpetual transformation"
-        ],
-        "antonyms": [
-          "stability",
-          "static condition"
-        ]
-      },
-      {
-        "word": "fast-growing",
-        "definition": "Characterized by rapid expansion or increase in size, revenue, or influence within a short period. This term is often used to describe companies or markets that are experiencing significant growth.",
-        "businessContext": "In business, 'fast-growing' typically refers to startups or sectors that demonstrate high potential for scalability and profitability, attracting investment and talent as a result.",
-        "nuance": "While 'fast-growing' is generally viewed positively, it can also imply challenges related to sustainability and management of resources, so it should be used with consideration of the broader context.",
-        "synonyms": [
-          "rapidly expanding",
-          "accelerating growth"
-        ],
-        "antonyms": [
-          "declining",
-          "stagnant"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "writers are in control over being able to deliver their best work on their terms to their audience, make money directly from their subscribers, and also that readers should be in control over their experience.",
@@ -357,9 +228,6 @@
     "timestamp": "00:20:20",
     "context": "Lenny asks how Substack prioritizes what to work on and what their North Star is. Sachin explains that Substack's founders start from core principles about how the internet should work, with people having control over their own destiny rather than being subject to algorithmic feeds. This principle of user control - both for writers and readers - guides their product decisions and prioritization framework.",
     "vocabulary_highlights": [
-      "prioritize",
-      "North Star",
-      "core principles",
       "control"
     ],
     "topics": [
@@ -373,56 +241,14 @@
       "Consumer Products",
       "Growth Strategy"
     ],
-    "text_ko": "지금 Substack에서 이게 의미하는 건, 작가들이 자기 방식대로 최고의 글을 독자들에게 전달하고 구독자로부터 바로 수익을 얻을 수 있다는 거예요. 동시에 독자들도 자신의 경험을 스스로 통제할 수 있어야 해요. Substack.com에 접속하거나 앱을 내려받으면, 아마도 TikTok을 열었을 때보다 훨씬 더 많은 주도권을 갖고 경험을 조절할 수 있어야 해요.",
-    "text_zh": "你想想这对Substack现在意味着什么，就是说写作者可以完全掌控自己的创作，按照自己的方式把最好的作品呈现给读者，直接从订阅用户那里赚钱。同样，读者也应该能掌控自己的使用体验。当你打开Substack.com或者下载他们的app时，你对这个体验的主导权要比你刷TikTok什么的大得多。",
-    "text_es": "Cuando piensas en lo que esto significa para Substack ahora mismo, significa que los escritores tienen el control para poder entregar su mejor trabajo bajo sus propias condiciones a su audiencia, ganar dinero directamente de sus suscriptores, y también que los lectores deberían tener control sobre su experiencia. Cuando llegas a Substack.com, esa experiencia debería ser algo sobre lo que tengas mucho más control o si te descargas la app, comparado con si abrieras TikTok o algo así.",
+    "text_ko": "작가들은 자신이 원하는 방식으로 최고의 작품을 독자들에게 전달할 주도권을 가지고, 구독자(subscribers)에게서 직접 수익을 얻을 수 있어야 해요. 동시에 독자들(readers)도 자신의 경험을 스스로 선택하고 통제할 수 있어야 해요.",
+    "text_zh": "作者可以自己掌控，按自己的方式把最好的作品呈现给受众、直接从订阅者(subscribers)那里赚钱；同时读者也能掌控自己的阅读体验。",
+    "text_es": "Que los escritores puedan ofrecer lo mejor de su trabajo en sus propias condiciones a su audiencia, generar ingresos directamente de sus suscriptores y que, además, los lectores tengan el control de su experiencia.",
     "key_sentence": "Writers are in control of delivering their best work on their terms.",
     "text_trimmed": true,
     "original_text": "When you think about what that means for Substack right now, that that means writers are in control over being able to deliver their best work on their terms to their audience, make money directly from their subscribers, and also that readers should be in control over their experience. When you show up to Substack.com, that experience should be something that you have a much greater degree of agency over or if you download the app than if you maybe opened up TikTok or something.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "prioritize",
-        "definition": "To arrange or deal with tasks or items in order of importance or urgency.",
-        "businessContext": "In business settings, prioritizing is essential for effective project management and resource allocation, ensuring that critical tasks are addressed first to meet strategic goals.",
-        "nuance": "While prioritizing often implies a systematic approach, it can also suggest a need to make difficult choices between competing demands.",
-        "synonyms": [
-          "rank",
-          "order"
-        ],
-        "antonyms": [
-          "deprioritize",
-          "neglect"
-        ]
-      },
-      {
-        "word": "North Star",
-        "definition": "A guiding principle or goal that provides direction and clarity for decision-making and strategy.",
-        "businessContext": "In startups and tech companies, a North Star metric often serves as a key performance indicator that aligns teams and drives focus towards achieving long-term objectives.",
-        "nuance": "The term conveys a sense of unwavering focus and aspiration, often used in contexts where clarity of purpose is crucial.",
-        "synonyms": [
-          "guiding principle",
-          "vision"
-        ],
-        "antonyms": [
-          "distraction",
-          "confusion"
-        ]
-      },
-      {
-        "word": "core principles",
-        "definition": "Fundamental beliefs or values that guide an organization’s actions and decisions.",
-        "businessContext": "In business, core principles shape company culture, influence strategic planning, and help maintain consistency in branding and customer relations.",
-        "nuance": "Core principles often reflect the ethical and moral foundations of a business, and should be communicated clearly to foster alignment among stakeholders.",
-        "synonyms": [
-          "fundamental values",
-          "foundational beliefs"
-        ],
-        "antonyms": [
-          "superficial policies",
-          "inconsistent practices"
-        ]
-      },
       {
         "word": "control",
         "definition": "The power to influence or direct behavior or the course of events.",
@@ -437,7 +263,9 @@
           "anarchy"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "What if we just ask writers, who do you recommend? What if we just put that in the subscribe flow and just made it as simple as possible?",
@@ -446,9 +274,7 @@
     "context": "Sachin is explaining how Substack's recommendation feature came to be. Rather than building an algorithmic system like Facebook's 'People You May Know', they decided to give writers full control by simply asking them who they recommend. Chris initially worried this approach would be difficult to execute because it required multiple steps - writers opting in, making good choices, and the system generating enough exposure for the recommendations to be meaningful.",
     "vocabulary_highlights": [
       "recommend",
-      "subscribe flow",
-      "algorithmic system",
-      "control"
+      "subscribe flow"
     ],
     "topics": [
       "Product Management",
@@ -461,9 +287,9 @@
       "Consumer Products",
       "Growth Strategy"
     ],
-    "text_ko": "그냥 작가들한테 \"누구 추천해요?\"라고 물어보면 어떨까요? 그걸 구독 흐름(subscribe flow)에 넣고 최대한 간단하게 만들면요. 처음 그 아이디어가 나왔을 때 Chris가 보인 반응은 \"그건 아마 해내기 진짜 힘들 거예요\"였던 것 같아요. 그게 성사되려면 더 많은 조건들이 맞아야 해요. 작가들이 옵트인(opt in)해야 하고, 좋은 사람들을 골라야 하고, 그 추천들을 독자들에게 잘 노출시켜서 충분한 노출 범위(surface area)를 만들어낼 방법을 찾아야 해요.",
-    "text_zh": "要不我们直接问作者，你推荐谁？要不我们就把这个加到订阅流程里，尽可能简化？我记得Chris当时听到这个想法的反应是，这事儿估计很难搞定。需要满足的条件太多了。你得让作者愿意参与进来，你得挑到合适的人，你还得想办法把这些推荐展示给读者，而且得有足够的曝光量。",
-    "text_es": "¿Y si simplemente les preguntamos a los escritores: a quién recomiendan? ¿Y si ponemos eso en el flujo de suscripción y lo hacemos lo más sencillo posible? Creo que la reacción inicial de Chris cuando surgió esa idea fue que probablemente sería muy difícil de ejecutar. Hay muchas más cosas que tienen que funcionar. Necesitas que los escritores se apunten voluntariamente. Necesitas elegir a la gente correcta. Necesitas encontrar una manera de mostrarles esas recomendaciones a los lectores de forma que genere bastante visibilidad.",
+    "text_ko": "작가분들한테 그냥 ‘누구 추천하세요?’라고 물어보면 어떨까요? 그걸 구독 플로우(subscribe flow)에 넣고 최대한 단순하게 만들면 어떨까요?",
+    "text_zh": "要不我们直接问作者：“你推荐谁？”然后把这件事放到订阅流程(subscribe flow)里，尽量简化，怎么样？",
+    "text_es": "¿Y si simplemente les preguntamos a los escritores: \"¿A quién nos recomiendan?\" ¿Y si lo incluimos en el flujo de suscripción (subscribe flow) y lo dejamos lo más sencillo posible?",
     "key_sentence": "What if we just ask writers, who do you recommend?",
     "text_trimmed": true,
     "original_text": "What if we just ask writers, who do you recommend? What if we just put that in the subscribe flow and just made it as simple as possible? I think Chris' reaction to that originally when that idea came up was that's probably just going to be really hard to pull off. There's a lot more things that have to be true. You need writers to opt in. You need to pick good people. You need to find a way to surface those recommendations to the readers in a way that's going to generate a good amount of surface area.",
@@ -496,36 +322,10 @@
           "unsubscribe process",
           "exit flow"
         ]
-      },
-      {
-        "word": "algorithmic system",
-        "definition": "A computational framework that uses algorithms to process data, make decisions, or automate tasks based on predefined rules.",
-        "businessContext": "Algorithmic systems are integral in data analysis, machine learning, and automated decision-making in various industries, enhancing efficiency and accuracy.",
-        "nuance": "The term often implies complexity and sophistication; however, it can also raise concerns about transparency and bias in decision-making.",
-        "synonyms": [
-          "automated system",
-          "computational model"
-        ],
-        "antonyms": [
-          "manual process",
-          "human decision-making"
-        ]
-      },
-      {
-        "word": "control",
-        "definition": "The power to influence or direct behavior or the course of events, often through management or regulation.",
-        "businessContext": "In a business context, control can refer to the mechanisms and policies implemented to ensure compliance, efficiency, and risk management within an organization.",
-        "nuance": "While 'control' suggests authority and oversight, it can also imply rigidity; thus, it should be balanced with empowerment and flexibility in leadership.",
-        "synonyms": [
-          "regulate",
-          "manage"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorder"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "My first piece of advice would be to just start it and see what happens. Start it. Have a way to start gathering subscribers. Put a link to it somewhere. Write one or two things.",
@@ -534,9 +334,7 @@
     "context": "Lenny asks what advice Sachin has for writers thinking about starting a newsletter or joining Substack. Sachin emphasizes the importance of simply beginning rather than overthinking the process. He suggests that people experiment with different content formats and leverage any existing audience they might have on other platforms, viewing it as a way to gain more control over their relationship with their audience.",
     "vocabulary_highlights": [
       "gathering",
-      "subscribers",
-      "importance",
-      "overthinking"
+      "subscribers"
     ],
     "topics": [
       "Starting a Company",
@@ -549,9 +347,9 @@
       "Consumer Products",
       "Growth Strategy"
     ],
-    "text_ko": "제일 먼저 드리고 싶은 조언은 그냥 시작해서 어떻게 되는지 지켜보는 거예요. 일단 시작하세요. 구독자(subscribers)를 모을 방법을 마련하고 링크를 어딘가에 걸어두세요. 글을 한두 개 써보세요. 글쓰기가 익숙하지 않으면 영상(video)을 올리거나 오디오(audio)를 녹음해서 작은 팟캐스트(podcast)로 만들어보세요. 일단 시작해서 반응을 보고, 특히 이미 다른 플랫폼에 팔로워(following)가 있다면 어느 정도 관심이 있는지 확인해 보세요.",
-    "text_zh": "我的第一个建议就是，别想太多，先干起来再说。直接开始做，想办法开始收集订阅用户(subscribers)，随便找个地方放个链接。先写个一两篇文章试试水。如果你不太会写的话，那就试试发个视频，或者录个音频，搞成小播客(podcast)也行。总之就是先开始，看看效果怎么样，看看大家对你要说的内容有没有兴趣，特别是如果你在其他平台(platforms)上已经有粉丝的话。",
-    "text_es": "Mi primer consejo sería que simplemente te lances y veas qué pasa. Arranca ya. Busca una manera de empezar a conseguir suscriptores. Pon un enlace en algún lado. Escribe una o dos cositas. Si no eres muy de escribir, prueba subiendo un video, graba algo de audio, conviértelo en un pequeño podcast. Básicamente solo empieza y mira qué tal va, a ver qué tipo de interés puede haber por ahí por lo que tienes que decir, sobre todo si ya tienes seguidores en otras plataformas también.",
+    "text_ko": "제 첫 번째 조언은 그냥 시작해 보고 어떻게 되는지 지켜보라는 거예요. 일단 시작하세요. 구독자(subscribers)를 모을 수 있는 방법을 마련해 두고, 어딘가에 링크를 걸어 두세요. 그리고 한두 개 정도 글을 써 보세요.",
+    "text_zh": "我的第一个建议就是先开始，别想太多，看看会怎样。先上线，想办法开始拉订阅者(subscribers)。把链接放到某个地方，先写一两篇内容就行。",
+    "text_es": "Mi primer consejo sería: simplemente ponlo en marcha y ve qué pasa. Ponlo en marcha. Ten alguna forma de empezar a captar suscriptores. Pon un enlace en algún sitio. Escribe una o dos cosas.",
     "key_sentence": "just start it and see what happens.",
     "text_trimmed": true,
     "original_text": "My first piece of advice would be to just start it and see what happens. Start it. Have a way to start gathering subscribers. Put a link to it somewhere. Write one or two things. If you're not much of a writer, try posting a video, recording some audio, turn into a little podcast. Just start basically and see what happens and see what kind of interest there might be out there for what you have to say, especially if you already have a following on other platforms as well.",
@@ -584,35 +382,9 @@
           "non-subscribers",
           "detractors"
         ]
-      },
-      {
-        "word": "importance",
-        "definition": "The quality of being significant or valuable in a particular context or situation.",
-        "businessContext": "Understanding the importance of various factors, such as market trends or customer feedback, is essential for strategic planning and decision-making in business.",
-        "nuance": "While 'importance' is a straightforward term, it can imply varying degrees of urgency or relevance depending on the context in which it is used.",
-        "synonyms": [
-          "significance",
-          "value"
-        ],
-        "antonyms": [
-          "insignificance",
-          "triviality"
-        ]
-      },
-      {
-        "word": "overthinking",
-        "definition": "The process of thinking about something too much or for too long, often leading to unnecessary stress or indecision.",
-        "businessContext": "In a business setting, overthinking can hinder productivity and innovation, as individuals may become paralyzed by analysis rather than taking action.",
-        "nuance": "While careful consideration is often necessary, overthinking can be viewed negatively as it may delay progress and lead to missed opportunities.",
-        "synonyms": [
-          "rumination",
-          "analysis paralysis"
-        ],
-        "antonyms": [
-          "decisiveness",
-          "simplicity"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

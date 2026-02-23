@@ -6,9 +6,7 @@
     "context": "Lenny asks Jerry about his famous piece of advice involving a question that contains the word 'complicit.' Jerry explains this as a foundational coaching question designed to help people recognize their own role in creating situations they claim to dislike. He emphasizes that 'complicit' doesn't mean 'responsible' - it's more like being an accomplice rather than the main perpetrator. The purpose is to help people discover their own agency and stop deluding themselves about patterns they unconsciously perpetuate.",
     "vocabulary_highlights": [
       "complicit",
-      "conditions",
-      "foundational",
-      "recognize"
+      "conditions"
     ],
     "topics": [
       "Coaching & Development",
@@ -22,9 +20,9 @@
       "Leadership Development",
       "Company Building"
     ],
-    "text_ko": "제가 자주 스스로에게 묻는 질문은 '내가 원하지 않는 상황을 만드는 데 내가 어떻게 일조했을까?'예요. 이 질문의 목적은 사실 당신의 주도성(agency)을 불러일으켜, 스스로를 약화시키는 방식(diluting yourself)을 들여다보게 하는 거예요. 아주 좋은 예로는, 저도 '항상 바쁘게 느끼고 싶지 않다'고 말하지만, 사실 일정이 꽉 차 있지 않으면 불안하고 초조해요.",
-    "text_zh": "我经常问自己一个问题：我是怎么参与创造了这些我嘴上说不想要的情况？问这个问题的目的其实是为了唤醒你的主观能动性，让你看看自己在哪些方面可能在削弱自己。一个很好的例子就是，我嘴上说不想总是感觉很忙，但实际上如果我的日程安排不是满满当当的，我反而会觉得心里没底，很不踏实。",
-    "text_es": "La pregunta que siempre me hago es: ¿en qué he contribuido yo mismo a crear las situaciones que digo que no quiero? El objetivo de esta pregunta es justamente despertar tu capacidad de acción, es ver de qué maneras te has estado saboteando a ti mismo. Un ejemplo perfecto sería: digo que no quiero sentirme ocupado todo el tiempo, pero la realidad es que me siento muy incómodo y descolocado si mi agenda no está repleta de actividades.",
+    "text_ko": "제가 자주 스스로에게 묻는 질문은 \"내가 원하지 않는다고 말하는 그런 환경을 만들어내는 데 내가 어떻게 일조했을까?\"예요.",
+    "text_zh": "我常问自己：我是不是在某种程度上，自己促成了那些我总说不想要的局面？",
+    "text_es": "A menudo me pregunto cómo he sido cómplice en crear las condiciones que digo que no quiero.",
     "key_sentence": "How have I been complicit in creating unwanted conditions?",
     "text_trimmed": true,
     "original_text": "The question that I often ask is how have I been complicit in creating the conditions I say I don't want. The purpose of this question is actually to evoke your own agency, is to look at the ways in which you may have been diluting yourself. A perfect example of that would be, I say I don't want to feel busy all the time, but the truth of the matter is I feel really unnerved and disconcerted if my agenda isn't jam-packed.",
@@ -57,36 +55,10 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "foundational",
-        "definition": "Serving as a basis or groundwork; essential for the development of something.",
-        "businessContext": "In startups, foundational elements such as company culture, mission, and values are crucial for long-term success and sustainability.",
-        "nuance": "The term suggests something that is not only important but also necessary for building upon, often used in strategic planning.",
-        "synonyms": [
-          "fundamental",
-          "basic"
-        ],
-        "antonyms": [
-          "superficial",
-          "peripheral"
-        ]
-      },
-      {
-        "word": "recognize",
-        "definition": "To identify someone or something from previous encounters or knowledge; to acknowledge the existence or validity of something.",
-        "businessContext": "In business, recognizing trends, opportunities, or employee contributions is vital for strategic planning and fostering a positive work environment.",
-        "nuance": "While it can mean simply acknowledging, it often implies a deeper understanding or appreciation, especially in professional settings.",
-        "synonyms": [
-          "acknowledge",
-          "identify"
-        ],
-        "antonyms": [
-          "ignore",
-          "overlook"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "We're socialized to bullshit not only ourselves, but everybody else, especially in the entrepreneurial community. All our companies are moving up into the right. Every product is working. We don't really have any problems because we're crushing it, and that's just a lie.",
@@ -94,10 +66,7 @@
     "timestamp": "00:00:00",
     "context": "Jerry discusses how people in business, particularly entrepreneurs, are conditioned to present false narratives about their success and wellbeing. He points out the culture of always claiming everything is going perfectly - companies are growing, products are successful, and there are no real problems. Jerry identifies this as a fundamental dishonesty that prevents people from addressing real issues and getting the help they need.",
     "vocabulary_highlights": [
-      "entrepreneurial",
-      "narrative",
-      "conditioned",
-      "success"
+      "entrepreneurial"
     ],
     "topics": [
       "Leadership & Management",
@@ -130,50 +99,9 @@
           "risk-averse",
           "conservative"
         ]
-      },
-      {
-        "word": "narrative",
-        "definition": "A spoken or written account of connected events; a story that conveys a particular perspective or message.",
-        "businessContext": "In business, a 'narrative' is often used to describe the overarching story or message that a company communicates to its stakeholders, influencing branding and marketing strategies.",
-        "nuance": "While narratives can be powerful tools for persuasion, they may also be viewed skeptically if perceived as exaggerated or misleading.",
-        "synonyms": [
-          "story",
-          "account"
-        ],
-        "antonyms": [
-          "fact",
-          "reality"
-        ]
-      },
-      {
-        "word": "conditioned",
-        "definition": "Having been trained or influenced to behave in a certain way or to respond to specific stimuli.",
-        "businessContext": "In the context of business, 'conditioned' often refers to how employees or consumers develop expectations and behaviors based on past experiences or company culture.",
-        "nuance": "This term can imply a lack of autonomy or critical thinking, suggesting that individuals may act based on learned responses rather than independent judgment.",
-        "synonyms": [
-          "trained",
-          "influenced"
-        ],
-        "antonyms": [
-          "unconditioned",
-          "spontaneous"
-        ]
-      },
-      {
-        "word": "success",
-        "definition": "The accomplishment of a goal or purpose, often measured by the achievement of desired outcomes or financial gain.",
-        "businessContext": "In business, 'success' is typically evaluated through metrics such as profitability, market share, or customer satisfaction, and is often a key focus for startups and established companies alike.",
-        "nuance": "The concept of success can vary widely among individuals and organizations, with some viewing it as financial wealth while others may define it in terms of social impact or personal fulfillment.",
-        "synonyms": [
-          "achievement",
-          "prosperity"
-        ],
-        "antonyms": [
-          "failure",
-          "setback"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "And when he woke up, he woke up to the four noble truths and the four noble truths are life is filled with suffering, that which we do to push away suffering increases suffering. The third noble truth is that there's an end to suffering.",
@@ -182,9 +110,7 @@
     "context": "Lenny asks Jerry how to help people feel comfortable with potentially losing financial comfort and material possessions when pursuing more meaningful work. Jerry responds by referencing Buddhist teachings, specifically the story of Buddha's enlightenment and the four noble truths. He explains these foundational Buddhist concepts to illustrate how our attempts to avoid discomfort through material acquisition often increase our suffering rather than reducing it.",
     "vocabulary_highlights": [
       "noble truths",
-      "suffering",
-      "meaningful work",
-      "financial comfort"
+      "suffering"
     ],
     "topics": [
       "Work-Life Balance",
@@ -198,9 +124,9 @@
       "Leadership Development",
       "Company Building"
     ],
-    "text_ko": "그가 깨어났을 때 사성제(four noble truths)를 알게 되었어요. 사성제는 삶이 고통으로 가득하다는 것, 고통을 밀어내려고 하는 행동이 오히려 그 고통을 더 키운다는 것, 셋째는 고통에는 끝이 있다는 것, 넷째는 그 끝에 이르는 길로 알려진 팔정도(eightfold path)예요.",
-    "text_zh": "他醒悟的时候，领悟了四圣谛。四圣谛就是：第一，人生充满痛苦；第二，我们越想摆脱痛苦，痛苦反而越多；第三，痛苦是可以结束的；第四，有一条八正道(eightfold path)可以让我们摆脱痛苦。",
-    "text_es": "Y cuando despertó, se dio cuenta de las cuatro nobles verdades: la primera es que la vida está llena de sufrimiento, la segunda es que todo lo que hacemos para evitar el sufrimiento en realidad lo aumenta. La tercera noble verdad es que sí se puede acabar con el sufrimiento. Y la cuarta es lo que se conoce como el sendero óctuple (eightfold path) para terminar con el sufrimiento.",
+    "text_ko": "그가 잠에서 깨어났을 때 그는 사성제(four noble truths)를 깨달았어요. 사성제는 인생이 고통(suffering)으로 가득하다는 것, 고통을 밀어내려고 하는 행동이 오히려 고통을 더 키운다는 것, 그리고 세 번째 사성제는 고통에는 끝이 있다는 거예요.",
+    "text_zh": "当他醒悟过来，就领悟了四圣谛：人生充满苦；为了赶走痛苦我们所做的事，反而会让痛苦更严重；第三个圣谛是，痛苦是可以结束的。",
+    "text_es": "Al despertar, se dio cuenta de las cuatro nobles verdades (four noble truths): que la vida está llena de sufrimiento; que lo que hacemos para alejar ese sufrimiento solo lo empeora; y que la tercera verdad noble es que el sufrimiento tiene fin.",
     "key_sentence": "He woke up to the four noble truths of suffering.",
     "text_trimmed": true,
     "original_text": "And when he woke up, he woke up to the four noble truths and the four noble truths are life is filled with suffering, that which we do to push away suffering increases suffering. The third noble truth is that there's an end to suffering. And the fourth noble truth is what's known as the eightfold path to the end of suffering.",
@@ -233,36 +159,10 @@
           "comfort",
           "well-being"
         ]
-      },
-      {
-        "word": "meaningful work",
-        "definition": "Work that is perceived as valuable and fulfilling, contributing positively to one's life or society.",
-        "businessContext": "In the corporate world, 'meaningful work' is increasingly recognized as a key factor in employee engagement and retention, driving organizations to create purpose-driven roles.",
-        "nuance": "The term emphasizes the importance of aligning personal values with professional responsibilities, often leading to higher job satisfaction.",
-        "synonyms": [
-          "purposeful work",
-          "fulfilling employment"
-        ],
-        "antonyms": [
-          "meaningless tasks",
-          "unfulfilling jobs"
-        ]
-      },
-      {
-        "word": "financial comfort",
-        "definition": "A state of financial security where an individual or organization has sufficient resources to meet their needs and pursue opportunities without undue stress.",
-        "businessContext": "In business, achieving 'financial comfort' is essential for sustainable growth, allowing companies to invest in innovation and employee welfare without the fear of financial instability.",
-        "nuance": "While it implies stability, it can also suggest complacency if not balanced with ambition and growth strategies.",
-        "synonyms": [
-          "financial security",
-          "economic stability"
-        ],
-        "antonyms": [
-          "financial distress",
-          "economic instability"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Teams are groups, and there are group dynamics that always happen.",
@@ -270,10 +170,7 @@
     "timestamp": "01:11:29",
     "context": "Lenny asks Jerry what often causes teams and companies to fail, noting that it's rarely due to lack of talent, strategy, or execution. Jerry explains that team dysfunction typically stems from unresolved personal issues that team members bring from their past. He describes how teams unconsciously recreate familiar dysfunctional patterns from their childhood families, and how specific roles like 'scapegoat' and 'truth-teller' emerge in groups when individuals haven't done the internal work to understand their own patterns.",
     "vocabulary_highlights": [
-      "dynamics",
-      "dysfunction",
-      "execution",
-      "strategy"
+      "dynamics"
     ],
     "topics": [
       "Leadership & Management",
@@ -287,9 +184,9 @@
       "Leadership Development",
       "Company Building"
     ],
-    "text_ko": "팀은 결국 집단이고, 늘 생기는 집단 역학(group dynamics)이 있어요. 희생양(scapegoat)이 등장하기도 하고, '지금 벌어지고 있는 일들에서 뭐가 진짜 문제인지 내가 말해줘야겠다'고 하는 진실을 말하는 사람(truth-teller)도 있어요. 개인이 근본적인 자기성찰 능력(radical self-inquiry skills)을 갖추지 못하면, 팀은 원가족(family of origin)의 반복적 패턴을 자주 되풀이하게 되는 경우가 많아요.",
-    "text_zh": "团队就是一个群体，群体里面总是会有各种各样的动态。肯定会有背锅的人，也会有那种敢说真话的人，就是那种会站出来说\"我来告诉你们到底哪里出了问题\"的人。如果团队成员没有深度自省的能力，那这个群体就很容易陷入重复的模式，往往还是从原生家庭带来的那些模式。",
-    "text_es": "Los equipos son grupos, y siempre se dan esas dinámicas grupales que ya conocemos. Está el chivo expiatorio, está el que dice las verdades y que tiene que saltar con \"déjame decirte qué es lo que realmente está mal con todo esto que pasa\". Sin las habilidades de autoexploración radical (radical self-inquiry) de cada persona, los grupos tienden a estar condenados a repetir patrones, muchas veces los mismos de su familia de origen.",
+    "text_ko": "팀은 사람들로 구성된 집단이에요. 그 안에서는 항상 집단 역학(group dynamics)이 작동해요.",
+    "text_zh": "团队本质上就是群体，群体动力(group dynamics)总会存在并起作用。",
+    "text_es": "Un equipo es, al fin y al cabo, un grupo, y siempre se dan dinámicas de grupo.",
     "key_sentence": "there are group dynamics that always happen.",
     "text_trimmed": true,
     "original_text": "Teams are groups, and there are group dynamics that always happen. There is the scapegoat, there is the truth-teller who has to say, 'Let me tell you what's really wrong with everything going on.' Without the individual's radical self-inquiry skills, groups tend to be condemned to repeating patterns oftentimes of their family of origin.",
@@ -308,50 +205,10 @@
           "stagnation",
           "inactivity"
         ]
-      },
-      {
-        "word": "dysfunction",
-        "definition": "Dysfunction refers to the impaired or abnormal functioning of a system, organization, or group, often leading to ineffective operations or outcomes. It indicates a breakdown in processes or relationships.",
-        "businessContext": "In a business context, dysfunction can manifest in teams through poor communication, lack of trust, or unresolved conflicts, ultimately hindering productivity and morale.",
-        "nuance": "The term 'dysfunction' carries a negative connotation and is typically used to describe serious issues that require intervention or restructuring.",
-        "synonyms": [
-          "malfunction",
-          "disorder"
-        ],
-        "antonyms": [
-          "functionality",
-          "efficiency"
-        ]
-      },
-      {
-        "word": "execution",
-        "definition": "Execution refers to the act of carrying out or putting into effect a plan, strategy, or task. It involves the practical implementation of ideas and decisions.",
-        "businessContext": "In business, effective execution is critical for achieving strategic goals and ensuring that initiatives are completed on time and within budget, often distinguishing successful organizations from their competitors.",
-        "nuance": "While 'execution' emphasizes the action of implementation, it can also imply the quality and effectiveness of how tasks are performed, making it a key focus in performance evaluations.",
-        "synonyms": [
-          "implementation",
-          "enactment"
-        ],
-        "antonyms": [
-          "abandonment",
-          "neglect"
-        ]
-      },
-      {
-        "word": "strategy",
-        "definition": "Strategy is a comprehensive plan designed to achieve specific long-term goals and objectives, often involving the allocation of resources and the consideration of competitive dynamics.",
-        "businessContext": "In the business world, strategy is essential for guiding decision-making, prioritizing initiatives, and positioning an organization effectively within its market.",
-        "nuance": "The term 'strategy' suggests a deliberate and thoughtful approach, often requiring flexibility and adaptation in response to changing conditions, making it distinct from mere tactics.",
-        "synonyms": [
-          "plan",
-          "approach"
-        ],
-        "antonyms": [
-          "improvisation",
-          "disorganization"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Carl Jung once said, 'Until you make the unconscious conscious, it will direct your life and you will call it fate.' Let's apply it here.",
@@ -359,10 +216,7 @@
     "timestamp": "01:13:35",
     "context": "Jerry continues explaining why teams fail, building on his point about unresolved personal issues creating team dysfunction. He quotes Carl Jung to illustrate how unconscious patterns control our behavior until we become aware of them. Jerry applies this psychological principle to team dynamics, explaining that groups will keep repeating dysfunctional patterns and scapegoating individual members unless they recognize and address the underlying unconscious dynamics at play.",
     "vocabulary_highlights": [
-      "unconscious",
-      "dysfunction",
-      "patterns",
-      "illustrate"
+      "unconscious"
     ],
     "topics": [
       "Leadership & Management",
@@ -376,9 +230,9 @@
       "Leadership Development",
       "Company Building"
     ],
-    "text_ko": "칼 융은 \"무의식(unconscious)을 의식(conscious)으로 만들기 전까지는 그게 당신의 삶을 이끌고, 당신은 그걸 운명이라고 부르게 될 거예요\"라고 말했어요. 여기서 적용해 보면, 팀 안에서 작동하는 무의식적 패턴(unconscious patterns)을 의식으로 끌어올리지 않으면 팀은 그 패턴을 계속 반복하고 결국 팀 안의 누구를 탓하게 될 거예요.",
-    "text_zh": "荣格曾经说过：\"你不把潜意识的东西意识化，它就会操控你的人生，而你还以为这是命运。\" 放到我们这里也是一样的道理。如果你不把团队里那些潜在的运作模式(unconscious patterns)给挖出来、看清楚，这个团队就会一直重复这些老毛病，到时候你肯定又要怪团队里的某个人了。",
-    "text_es": "Carl Jung dijo una vez: \"Mientras no hagas consciente lo inconsciente, esto dirigirá tu vida y tú lo llamarás destino.\" Apliquémoslo aquí. Mientras no te des cuenta de los patrones inconscientes que operan en el equipo, el grupo va a seguir repitiendo esos mismos patrones y tú vas a terminar echándole la culpa a alguien del equipo.",
+    "text_ko": "칼 융은 \"무의식(unconscious)을 의식(conscious)으로 만들기 전까지는 그것이 우리의 삶을 좌우하고, 우리는 그것을 운명이라고 부르게 될 거예요\"라고 말했어요. 여기에 적용해 볼게요.",
+    "text_zh": "荣格曾说过：‘除非你把潜意识变成有意识，否则它会左右你的人生，而你却把那当成命运。’那我们就把这句话放到这里来看看。",
+    "text_es": "Como dijo Carl Jung: \"Hasta que no lleves lo inconsciente a la conciencia, este dirigirá tu vida y tú lo llamarás destino.\" Vamos a aplicarlo aquí.",
     "key_sentence": "Until you make the unconscious conscious, it will direct your life and you will call it fate.",
     "text_trimmed": true,
     "original_text": "Carl Jung once said, 'Until you make the unconscious conscious, it will direct your life and you will call it fate.' Let's apply it here. Until you make conscious the unconscious patterns operating in the group, the group will continue to repeat those patterns and you will blame somebody in the group.",
@@ -397,50 +251,10 @@
           "conscious",
           "aware"
         ]
-      },
-      {
-        "word": "dysfunction",
-        "definition": "A failure to function normally or properly, often referring to a system or organization that is not operating effectively. It can also pertain to interpersonal relationships that hinder productivity.",
-        "businessContext": "In organizational settings, dysfunction can manifest as poor communication, lack of collaboration, or ineffective leadership, ultimately impacting performance and morale. Identifying dysfunction is crucial for implementing change management strategies.",
-        "nuance": "The term carries a negative connotation, often implying a need for intervention or restructuring to restore functionality.",
-        "synonyms": [
-          "malfunction",
-          "disruption"
-        ],
-        "antonyms": [
-          "functionality",
-          "efficiency"
-        ]
-      },
-      {
-        "word": "patterns",
-        "definition": "Repeated or predictable sequences or trends that can be observed in data, behavior, or processes. Patterns can indicate underlying principles or regularities.",
-        "businessContext": "In business analytics, identifying patterns in consumer behavior or market trends is essential for strategic planning and forecasting. Patterns can also inform product development and marketing strategies.",
-        "nuance": "While 'patterns' can suggest stability and predictability, they may also imply rigidity or resistance to change if not regularly reassessed.",
-        "synonyms": [
-          "trends",
-          "regularities"
-        ],
-        "antonyms": [
-          "anomalies",
-          "irregularities"
-        ]
-      },
-      {
-        "word": "illustrate",
-        "definition": "To clarify or explain a concept or idea by providing examples, visual representations, or detailed descriptions. It serves to enhance understanding and engagement.",
-        "businessContext": "In presentations and reports, professionals often illustrate key points with charts, graphs, or case studies to effectively communicate complex information to stakeholders. This practice aids in making data-driven decisions.",
-        "nuance": "While 'illustrate' is generally positive, it can imply a need for simplification or clarification, suggesting that the original concept may be too complex or abstract.",
-        "synonyms": [
-          "demonstrate",
-          "exemplify"
-        ],
-        "antonyms": [
-          "confuse",
-          "obscure"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "What I always hope from all of these intimate conversations that I try to do in podcasts is that people walk away going, 'Geez, I'm not alone.' We've made different references to the fact that it's a hard time.",
@@ -450,7 +264,6 @@
     "vocabulary_highlights": [
       "intimate",
       "hope",
-      "struggles",
       "conversations"
     ],
     "topics": [
@@ -465,9 +278,9 @@
       "Leadership Development",
       "Company Building"
     ],
-    "text_ko": "제가 팟캐스트(podcast)에서 이렇게 친밀한 대화를 나눌 때마다 늘 바라는 건, 사람들이 듣고 나서 '아, 나만 그런 게 아니구나'라고 느끼고 가는 거예요. 우리가 여러 번 지금이 힘든 시기라고 얘기했지만, 사실 인생은 늘 힘든 시기예요. 그리고 그중에서도 가장 힘든 건 이걸 나만 겪고 있는 것처럼 느껴지는 거예요.",
-    "text_zh": "我做播客(podcast)时总是希望通过这些深入的对话，让大家听完后会想：\"哎呀，原来我不是一个人在战斗。\" 我们刚才也提到了现在这个时期很艰难。但说实话，什么时候都不容易。最难熬的就是觉得只有我一个人在经历这些。",
-    "text_es": "Lo que siempre espero de todas estas conversaciones más íntimas que trato de hacer en los podcasts es que la gente se vaya pensando: \"Ay, no estoy solo en esto.\" Hemos mencionado varias veces que son tiempos difíciles. La verdad es que siempre son tiempos difíciles. Y lo que más duele es sentir que soy el único que está pasando por esto.",
+    "text_ko": "제가 팟캐스트에서 이렇게 사적인 대화를 나눌 때마다 늘 바라는 건, 사람들이 듣고 나서 '정말 나만 그런 게 아니구나' 하고 안도감을 느끼는 거예요. 우리가 여러 번 얘기했듯이 지금은 정말 힘든 시기예요.",
+    "text_zh": "我做这些播客里比较私人的对话，最希望听众听完会想：“天哪，我并不孤单。”我们也多次提到，现在确实挺难的。",
+    "text_es": "Lo que siempre busco con todas esas conversaciones íntimas que hago en los podcasts es que la gente salga con la sensación de: \"vaya, no estoy solo\". Ya hemos hablado varias veces de que es una época difícil.",
     "key_sentence": "Intimate conversations help people realize they're not alone.",
     "text_trimmed": true,
     "original_text": "What I always hope from all of these intimate conversations that I try to do in podcasts is that people walk away going, 'Geez, I'm not alone.' We've made different references to the fact that it's a hard time. The truth is it's always a hard time. And what makes it hardest is to feel like I'm the only one who's going through this.",
@@ -502,20 +315,6 @@
         ]
       },
       {
-        "word": "struggles",
-        "definition": "Efforts or difficulties encountered while trying to achieve a goal; challenges that require perseverance.",
-        "businessContext": "In a business context, 'struggles' often refer to obstacles faced during projects, market competition, or organizational changes that require strategic problem-solving.",
-        "nuance": "The term 'struggles' can evoke empathy and understanding, but it may also suggest a lack of competence if overused in professional discussions.",
-        "synonyms": [
-          "challenges",
-          "difficulties"
-        ],
-        "antonyms": [
-          "successes",
-          "ease"
-        ]
-      },
-      {
         "word": "conversations",
         "definition": "Exchanges of thoughts, ideas, or feelings between two or more people; a dialogue that can be formal or informal.",
         "businessContext": "In business, 'conversations' are crucial for networking, collaboration, and feedback, often driving decision-making and innovation.",
@@ -529,6 +328,8 @@
           "monologue"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

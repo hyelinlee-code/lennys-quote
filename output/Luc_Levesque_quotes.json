@@ -20,9 +20,9 @@
       "Growth Strategy",
       "Marketing Strategy"
     ],
-    "text_ko": "우리는 10배 엔지니어(10X engineer)에 대해서는 자주 얘기하지만, 10배 그로스 어드바이저(10X growth advisor)나 10배 그로스 담당자(10X growth person)에 대해서는 별로 얘기하지 않아요. 그런데 같은 역학이 적용돼요. 오히려 더 크게 적용된다고 주장할 수도 있는데, 적절한 그로스 어드바이저가 말 그대로 회사를 바꿔놓을 수 있기 때문이에요. 제가 뒤돌아보면 몇 번이나 경험한 건데, '아, 이게 건초 더미 속의 바늘이구나' 싶은 순간이 있어요. 그걸 실행하면 수백 퍼센트, 때로는 천 퍼센트가 넘는 증가(lift)를 보기도 해요.",
-    "text_zh": "我们总是在说10X工程师(10X engineer)，但很少提到10X增长顾问(10X growth advisor)或者10X增长专家(10X growth person)，其实道理是一样的。你甚至可以说增长顾问的影响更大，因为一个靠谱的增长顾问真的能彻底改变一家公司。我自己就经历过好几次，回头看的时候就觉得\"哎呀，这就是大海捞针找到的宝贝啊\"。一旦落地执行，效果立竿见影，提升几百个百分点，有时候甚至能达到一千多个百分点，只要你找对了人。",
-    "text_es": "Hablamos del ingeniero 10X y realmente no hablamos del asesor de crecimiento 10X o la persona de crecimiento 10X, pero la misma dinámica se aplica. Podrías argumentar que se aplica incluso más porque el asesor de crecimiento correcto puede tener literalmente un impacto que cambie la empresa. Es algo que he experimentado varias veces y que en retrospectiva dices, \"Okay, aquí está la aguja en el pajar.\" Y luego se implementa y puedes ver mejoras de cientos de porcentajes, a veces más del mil por ciento cuando lo haces bien.",
+    "text_ko": "우리는 10배 성과 엔지니어(10X engineer)에 대해서는 많이 얘기하지만, 10배 성장 어드바이저(10X growth advisor)나 10배 성장 담당자(10X growth person)에 대해서는 잘 얘기하지 않아요. 같은 원리가 그대로 적용돼요. 오히려 더 크게 적용된다고 주장할 수 있어요. 제대로 된 성장 어드바이저는 말 그대로 회사 판도를 바꿀 수 있는 영향을 미치니까요.",
+    "text_zh": "大家都在谈10倍工程师(10X engineer)，却很少有人关注10倍增长顾问(10X growth advisor)或10倍增长型人才(10X growth person)，但道理是一样的。甚至可以说，对增长顾问来说影响更大——合适的人真的能改变一家公司的命运。",
+    "text_es": "Hablamos del ingeniero 10X (10X engineer) y no hablamos tanto del asesor de crecimiento 10X (10X growth advisor) ni de la persona de crecimiento 10X (10X growth person), pero la misma dinámica se aplica. Se podría decir que aplica incluso más, porque el asesor de crecimiento adecuado puede tener un impacto que literalmente cambia la empresa.",
     "key_sentence": "The right growth advisor can have literally company changing impact.",
     "text_trimmed": true,
     "original_text": "We talk about the 10X engineer and we don't really talk about the 10X growth advisor or 10X growth person, but the same dynamic applies. You could argue it applies even more because the right growth advisor can have literally company changing impact. Something I've experienced several times in hindsight when you're like, \"Okay, here's the needle in the haystack.\" And then it's implemented and you can see hundreds of percentages, sometimes over a thousand percent lift when you get it right.",
@@ -84,7 +84,8 @@
           "marginal"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "It's one of those weird disciplines where the right person at the right time can literally say a sentence that changes the trajectory of your company. You can't say that for a lot of different disciplines, but this is one of them.",
@@ -92,10 +93,7 @@
     "timestamp": "00:00:00",
     "context": "Luc continues explaining why growth advisors can be so valuable to companies. He emphasizes that growth is unique among business disciplines because a single insight or recommendation from an experienced growth expert can fundamentally alter a company's path. This is different from other areas where impact typically requires sustained effort over time - in growth, one conversation or piece of advice can unlock massive improvements.",
     "vocabulary_highlights": [
-      "trajectory",
-      "discipline",
-      "insight",
-      "valuable"
+      "trajectory"
     ],
     "topics": [
       "Growth & Marketing",
@@ -126,50 +124,9 @@
           "stagnation",
           "decline"
         ]
-      },
-      {
-        "word": "discipline",
-        "definition": "A field of study or branch of knowledge, often characterized by specific methodologies and practices.",
-        "businessContext": "In a business context, 'discipline' can refer to a particular area of expertise or a systematic approach to achieving goals, such as financial discipline or marketing discipline.",
-        "nuance": "The term can also imply a level of rigor and adherence to established practices, making it suitable for discussions about professional standards.",
-        "synonyms": [
-          "field",
-          "domain"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorder"
-        ]
-      },
-      {
-        "word": "insight",
-        "definition": "The capacity to gain an accurate and deep understanding of someone or something, often leading to valuable conclusions.",
-        "businessContext": "In business, 'insight' is crucial for decision-making, as it allows leaders to understand market trends, customer behavior, and operational efficiencies.",
-        "nuance": "While 'insight' suggests a level of depth and clarity, it is often used in contexts where intuition and analysis combine to produce actionable knowledge.",
-        "synonyms": [
-          "understanding",
-          "perception"
-        ],
-        "antonyms": [
-          "ignorance",
-          "misunderstanding"
-        ]
-      },
-      {
-        "word": "valuable",
-        "definition": "Having worth or importance, often in terms of monetary value or significance to a particular context.",
-        "businessContext": "In business, 'valuable' is frequently used to describe assets, resources, or insights that contribute significantly to a company's success or competitive advantage.",
-        "nuance": "The term can be subjective, as what is considered 'valuable' may vary depending on the perspective of stakeholders or market conditions.",
-        "synonyms": [
-          "precious",
-          "beneficial"
-        ],
-        "antonyms": [
-          "worthless",
-          "insignificant"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I think what it highlights is something that Facebook does really, really well, which you get very quickly when you join Facebook and it's why they're such an execution machine and can build a lot of great product.",
@@ -178,9 +135,7 @@
     "context": "Luc is sharing a story about his first major review at Facebook with Mark Zuckerberg, where he was asked directly about when they would see results from his strategy. He explains that this experience taught him about Facebook's core cultural value of focusing on impact rather than activities or effort. This laser focus on measurable outcomes is what makes Facebook an \"execution machine\" capable of building great products consistently.",
     "vocabulary_highlights": [
       "execution",
-      "build",
-      "strategy",
-      "results"
+      "build"
     ],
     "topics": [
       "Leadership & Management",
@@ -192,9 +147,9 @@
       "Growth Strategy",
       "Marketing Strategy"
     ],
-    "text_ko": "제 생각에 이 말이 보여주는 건 페이스북이 정말 잘하는 한 가지예요. 페이스북에 들어가면 금방 느낄 수 있고, 그게 바로 그들이 실행력이 뛰어나 많은 훌륭한 제품을 만들 수 있는 이유예요. 이유는 딱 한 단어, 바로 임팩트(impact)에만 집중하기 때문이에요.",
-    "text_zh": "我觉得这说明了Facebook真正厉害的地方，你一进Facebook就能很快感受到，这也是为什么他们执行力这么强，能做出这么多好产品。因为他们就专注一个关键词——影响力(impact)。",
-    "text_es": "Creo que lo que resalta es algo que Facebook hace increíblemente bien, algo que captas muy rápido cuando entras a trabajar en Facebook y es la razón por la que son una máquina de ejecución tremenda y pueden crear productos buenísimos. Es porque se enfocan exclusivamente en esa palabra mágica, que es el impacto.",
+    "text_ko": "제 생각에는 이게 보여주는 건 페이스북이 정말 잘하는 한 가지예요. 페이스북에 합류하면 금방 알 수 있고, 그래서 그들이 실행의 기계(execution machine)처럼 빠르게 움직여 많은 훌륭한 제품을 만들어낼 수 있는 이유예요.",
+    "text_zh": "我觉得这说明了脸书(Facebook)有一件事做得特别好：你一加入就能很快感受到，这也就是他们执行力那么强、能做出很多优秀产品的原因。",
+    "text_es": "Creo que lo que pone de manifiesto es algo que Facebook hace muy, muy bien: se nota enseguida cuando te unes, y por eso son una máquina de ejecución (execution machine) capaz de sacar muchos productos excelentes.",
     "key_sentence": "it's why they're such an execution machine and can build a lot of great product.",
     "text_trimmed": true,
     "original_text": "I think what it highlights is something that Facebook does really, really well, which you get very quickly when you join Facebook and it's why they're such an execution machine and can build a lot of great product. It's because they focus exclusively on that magic word, which is impact.",
@@ -227,36 +182,10 @@
           "destroy",
           "dismantle"
         ]
-      },
-      {
-        "word": "strategy",
-        "definition": "A plan of action designed to achieve a long-term or overall aim.",
-        "businessContext": "In business, strategy involves setting goals, determining actions to achieve those goals, and mobilizing resources to execute the actions.",
-        "nuance": "The term 'strategy' often conveys a sense of foresight and planning, distinguishing it from more tactical or short-term approaches.",
-        "synonyms": [
-          "plan",
-          "approach"
-        ],
-        "antonyms": [
-          "improvisation",
-          "chaos"
-        ]
-      },
-      {
-        "word": "results",
-        "definition": "The outcomes or consequences of actions taken, often measured against specific objectives or benchmarks.",
-        "businessContext": "In a business context, results are critical for assessing performance, evaluating the effectiveness of strategies, and making informed decisions.",
-        "nuance": "While 'results' generally refers to positive outcomes, it can also encompass failures or setbacks, highlighting the importance of learning from all outcomes.",
-        "synonyms": [
-          "outcomes",
-          "consequences"
-        ],
-        "antonyms": [
-          "failures",
-          "setbacks"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The second one, which I had I suppose never experienced before, was that they made it very personal. I had these reasons why I couldn't leave. So initially I was excited by the opportunity, but I couldn't see myself moving to California for personal reasons.",
@@ -264,10 +193,8 @@
     "timestamp": "00:10:15",
     "context": "Lenny asks Luc about being personally recruited by Mark Zuckerberg to join Facebook. Luc is sharing the key lessons he learned from that recruitment process about how to effectively hire top talent. He explains that one crucial strategy was making the recruitment process personal by involving family members, recognizing that career decisions affect entire families, not just the individual being hired.",
     "vocabulary_highlights": [
-      "recruited",
       "opportunity",
-      "personal reasons",
-      "effectively"
+      "personal reasons"
     ],
     "topics": [
       "Leadership & Management",
@@ -279,28 +206,14 @@
       "Growth Strategy",
       "Marketing Strategy"
     ],
-    "text_ko": "두 번째로는, 제가 이전에 겪어본 적 없는 건데 그들이 접근을 아주 개인적으로 했어요. 저는 떠날 수 없는 개인적인 이유들이 있었거든요. 그래서 처음에는 그 기회가 흥미로웠지만 개인적인 사정 때문에 캘리포니아로 이사할 거라고는 상상이 잘 안 됐어요. 논의하는 과정에서 마크가 사실상 제 아내 안드레아까지 이 일에 끌어들였어요.",
-    "text_zh": "第二点，我之前从来没遇到过这种情况，就是他们把这事儿搞得特别个人化。我当时有一些个人原因没法离开现在的地方。一开始我对这个机会挺兴奋的，但是因为个人原因，我真的没法想象自己搬到加州去。后来聊着聊着，Mark基本上把我老婆也拉进来了，就是我的爱人Andrea。",
-    "text_es": "La segunda cosa, que supongo nunca había vivido antes, fue que lo hicieron muy personal. Yo tenía mis razones por las que no podía irme. Entonces al principio me emocionó la oportunidad, pero no me veía mudándome a California por temas personales. Y a través de las conversaciones, Mark básicamente involucró a mi esposa en esto, involucró a mi pareja, Andrea.",
+    "text_ko": "두 번째 건은, 솔직히 전에 겪어본 적이 없는 거였는데, 그들이 접근을 아주 개인적으로 했다는 점이에요. 저는 떠날 수 없는 개인적인 이유들이 있었거든요. 그래서 처음엔 그 기회가 마음에 들었지만, 개인적인 사정 때문에 캘리포니아로 이사할 수 있을 것 같지 않았어요.",
+    "text_zh": "第二点，应该是我以前没遇到过的——他们把事情弄得很个人化。我有一些脱不开身的私事。起初我对这个机会很兴奋，但因为这些私人原因，我根本想不到自己会搬去加州。",
+    "text_es": "La segunda, supongo que nunca la había experimentado antes, fue que lo hicieron muy personal. Tenía mis motivos para no irme. Al principio la oportunidad me entusiasmó, pero no me veía mudándome a California por motivos personales.",
     "key_sentence": "I couldn't see myself moving to California for personal reasons.",
     "text_trimmed": true,
     "original_text": "The second one, which I had I suppose never experienced before, was that they made it very personal. I had these reasons why I couldn't leave. So initially I was excited by the opportunity, but I couldn't see myself moving to California for personal reasons. And through discussions, Mark basically involved my wife, involved my spouse in this, Andrea.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "recruited",
-        "definition": "The past tense of recruit, meaning to enlist or hire someone for a job or role, often involving a selection process.",
-        "businessContext": "In business, recruiting is a critical function of human resources, where companies seek to attract and hire qualified candidates to fill positions.",
-        "nuance": "While 'recruited' implies a formal process, it can also suggest a sense of urgency or competition in acquiring talent.",
-        "synonyms": [
-          "hired",
-          "enlisted"
-        ],
-        "antonyms": [
-          "dismissed",
-          "released"
-        ]
-      },
       {
         "word": "opportunity",
         "definition": "A favorable set of circumstances that makes it possible to do something, often related to career or business advancement.",
@@ -328,22 +241,10 @@
           "professional reasons",
           "business considerations"
         ]
-      },
-      {
-        "word": "effectively",
-        "definition": "In a manner that produces a desired result or achieves a goal, often emphasizing efficiency and competence.",
-        "businessContext": "Effectiveness is a key performance indicator in business, where organizations strive to operate efficiently and achieve their objectives.",
-        "nuance": "While 'effectively' implies success in achieving goals, it can also suggest a need for strategic planning and resource management.",
-        "synonyms": [
-          "efficiently",
-          "successfully"
-        ],
-        "antonyms": [
-          "ineffectively",
-          "unsuccessfully"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Another great sign of excellence, and this was just through reflecting on stars on the team and thinking what makes them unique, what about them.",
@@ -353,8 +254,7 @@
     "vocabulary_highlights": [
       "excellence",
       "reflecting",
-      "unique",
-      "evaluating"
+      "unique"
     ],
     "topics": [
       "Leadership & Management",
@@ -366,9 +266,9 @@
       "Growth Strategy",
       "Marketing Strategy"
     ],
-    "text_ko": "탁월함을 알려주는 또 하나의 확실한 신호가 있어요. 팀의 스타들을 떠올리며 그들이 무엇이 특별한지 생각해봤는데, 그중 하나는 상사가 회사를 떠났다가 다시 돌아와 그 직원을 데려가려 할 때예요. 이건 정말 강력한 신호예요. 왜냐하면 그 사람의 실력을 제일 잘 아는 리더가 직접 움직였다는 뜻이니까요.",
-    "text_zh": "还有一个卓越员工的重要标志，这是我通过观察团队里的明星员工，思考他们的独特之处得出的。就是当某人的老板离开公司后，又回来挖他们，这绝对是个超强信号。你想想啊，这个领导最了解这个人到底有多厉害，对他的表现最有发言权，结果离职后还专门回来poach（挖角）他。",
-    "text_es": "Otra señal buenísima de excelencia, y esto me di cuenta simplemente reflexionando sobre las estrellas del equipo y pensando qué los hace únicos. Una de esas señales es cuando el jefe de alguien se va de la empresa y después regresa para llevárselo, eso es una señal súper fuerte porque si te pones a pensar en lo que acaba de pasar: el líder que sabe exactamente qué tan bueno es esta persona de la que estás hablando, el que más conoce el desempeño de esta persona, se fue de la empresa.",
+    "text_ko": "탁월함을 보여주는 또 하나의 좋은 징표였어요. 팀의 스타들을 떠올리며 그들이 어떤 점에서 독특한지, 무엇이 그들을 특별하게 만드는지 생각해본 결과였죠.",
+    "text_zh": "另一个体现卓越的明显信号是：回头看看团队里的那些“明星”，想想到底是什么让他们与众不同。",
+    "text_es": "Otra gran señal de excelencia: surgió simplemente al pensar en las estrellas del equipo y en qué las hace únicas.",
     "key_sentence": "what makes them unique, what about them.",
     "text_trimmed": true,
     "original_text": "Another great sign of excellence, and this was just through reflecting on stars on the team and thinking what makes them unique, what about them. One of them is when somebody's boss leaves the company and then comes back to poach them, that is such a strong signal because if you think of what just happened, the leader who knows exactly how good this person you're talking to is, they have the most knowledge of the performance of this individual, they left the company.",
@@ -415,22 +315,10 @@
           "common",
           "ordinary"
         ]
-      },
-      {
-        "word": "evaluating",
-        "definition": "Evaluating refers to the systematic assessment of something to determine its value, quality, or significance. This process often involves comparison against established criteria or benchmarks.",
-        "businessContext": "In the business realm, evaluating is essential for performance reviews, project assessments, and strategic planning, enabling organizations to make informed decisions based on data and outcomes.",
-        "nuance": "The term 'evaluating' carries a connotation of objectivity and thoroughness, which is crucial in professional settings to avoid bias and ensure fair assessments.",
-        "synonyms": [
-          "assessing",
-          "appraising"
-        ],
-        "antonyms": [
-          "neglecting",
-          "disregarding"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Growth advice is generally always applicable.",
@@ -439,9 +327,7 @@
     "context": "Lenny asks Luc to explain why founders should wait until they have product-market fit before focusing on growth, since this advice comes up frequently. Luc explains that while growth advice itself isn't harmful early on, actively growing a product that doesn't satisfy user needs can be damaging. When you use growth tactics to expose more people to a product that provides a poor experience, you're essentially burning through potential customers who are unlikely to return and try your product again later.",
     "vocabulary_highlights": [
       "applicable",
-      "product-market fit",
-      "growth advice",
-      "founders"
+      "growth advice"
     ],
     "topics": [
       "Growth & Marketing",
@@ -453,9 +339,9 @@
       "Growth Strategy",
       "Marketing Strategy"
     ],
-    "text_ko": "그로스 조언(growth advice)은 보통 거의 항상 적용돼요. 그리고 설령 제품-시장 적합성 전(pre-product-market fit)이라도 초기에 제품을 어떻게 만들지 생각하기 시작하는 건 해가 되지 않아요. 다만 어드바이저(advisor)나 그로스 담당자(growth person)를 너무 일찍 데려오면 자본을 낭비할 수는 있어요. 제가 보는 문제는 제품-시장 적합성(product-market fit)이 없는 상태에서 제품을 성장시키기 시작하면 오히려 해가 된다는 점이에요. 그 제품이 그로스 레버(growth levers)나 최적화(optimization)를 통해 시장에 노출되면 사용자에게 안 좋은 경험을 주게 되거든요.",
-    "text_zh": "关于增长的建议其实什么时候都用得上。如果你能早点开始考虑怎么打造产品，哪怕还没找到产品市场契合度(product market fit)，也不会有什么坏处，顶多就是太早请增长顾问或者招增长的人，多花点钱而已。但我看到的问题是，如果你开始推广一个还没找到产品市场契合度的产品，那反而是弊大于利。因为你的产品现在通过各种增长手段和优化被推到市场上，给用户的体验很糟糕。",
-    "text_es": "Los consejos de crecimiento normalmente siempre sirven. Y si puedes empezar a pensar en cómo hacer crecer tu producto desde temprano, aunque todavía no tengas product market fit, no vas a hacer ningún daño, pero tal vez estés malgastando algo de capital en un asesor o en alguien de growth demasiado pronto. El problema que veo es que si empiezas a hacer crecer un producto que no tiene product market fit, en realidad estás haciendo más daño que bien porque tienes un producto que ahora se está exponiendo al mercado a través de palancas de crecimiento (growth levers) y optimización que está dando una mala experiencia con tu producto.",
+    "text_ko": "성장 관련 조언은 대개 거의 항상 쓸 수 있어요.",
+    "text_zh": "增长方面的建议大多数情况下都管用。",
+    "text_es": "Los consejos para crecer suelen servir en casi cualquier contexto.",
     "key_sentence": "Growth advice is generally always applicable.",
     "text_trimmed": true,
     "original_text": "Growth advice is generally always applicable. And if you can start thinking about how to build your product early, even if it's pre-product market fit, you're not going to do any damage, but you may be wasting some capital on an advisor or a growth person too early. The problem that I see is if you start growing a product that doesn't have product market fit, you're actually doing more damage than good because you have a product that is now being exposed to the market through growth levers and through optimization that is giving a bad experience with your product.",
@@ -476,20 +362,6 @@
         ]
       },
       {
-        "word": "product-market fit",
-        "definition": "The degree to which a product satisfies a strong market demand.",
-        "businessContext": "Achieving product-market fit is crucial for startups as it indicates that the product meets the needs of its target customers, leading to sustainable growth.",
-        "nuance": "The term often implies not just initial acceptance but ongoing alignment between the product and market needs, which can evolve over time.",
-        "synonyms": [
-          "market alignment",
-          "customer fit"
-        ],
-        "antonyms": [
-          "product-market mismatch",
-          "market rejection"
-        ]
-      },
-      {
         "word": "growth advice",
         "definition": "Guidance or recommendations aimed at fostering business expansion and increasing revenue.",
         "businessContext": "In the startup ecosystem, growth advice can encompass strategies for scaling operations, improving customer acquisition, and enhancing product offerings.",
@@ -502,22 +374,10 @@
           "stagnation guidance",
           "contraction advice"
         ]
-      },
-      {
-        "word": "founders",
-        "definition": "Individuals who establish and develop a new business or organization.",
-        "businessContext": "Founders are often responsible for the vision, strategy, and initial operations of startups, playing a critical role in shaping the company's culture and direction.",
-        "nuance": "The term 'founders' carries a sense of innovation and entrepreneurship, often associated with risk-taking and a strong commitment to their venture.",
-        "synonyms": [
-          "entrepreneurs",
-          "co-founders"
-        ],
-        "antonyms": [
-          "employees",
-          "investors"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I mean, one example would be a company that I worked with. Now, a public company. At the time, they weren't. On day one, walked in, they presented their strategy, their plans, their funnels and their landing pages.",
@@ -527,8 +387,7 @@
     "vocabulary_highlights": [
       "strategy",
       "funnels",
-      "landing pages",
-      "impact"
+      "landing pages"
     ],
     "topics": [
       "Growth & Marketing",
@@ -540,9 +399,9 @@
       "Growth Strategy",
       "Marketing Strategy"
     ],
-    "text_ko": "예를 들면, 제가 함께 일했던 회사 하나가 있어요. 지금은 상장사(public company)이에요. 그때는 아니었죠. 첫날 들어가서 그들의 전략, 계획, 퍼널(funnel)과 랜딩 페이지(landing page)를 보여주더라고요. 금방 뭔가 좀 이상하다는 게 보이길래 \"왜 그렇게 하고 계세요?\"라고 물어봤더니, \"그게 더 보기 좋아서요\"라고 하더라고요. 그래서 제가 \"그럼 이렇게 해 보세요\"라고 했어요. 대화가 워낙 짧았던 게 기억에 남는데, 3주쯤 뒤에 연락이 닿아서 들어보니 그걸 적용했고, 그 한 번의 변경으로 큰 효과를 봤다고 하더라고요.",
-    "text_zh": "我记得有一个例子，是我合作过的一家公司。现在已经上市了，但当时还没有。第一天进去的时候，他们给我展示了他们的策略、计划、还有漏斗(funnel)和着陆页(landing page)。我很快就看出来他们有个地方做得不太对，就问他们：\"你们为什么要这么做？\"他们说：\"我们觉得这样看起来更好看。\"我就说：\"那你们试试用另一种方法。\"我记得特别清楚，因为当时聊得很简单，结果三周后我们再联系的时候，听说他们已经上线了，就这一个改动带来的效果特别大。",
-    "text_es": "Te doy un ejemplo de una empresa con la que trabajé. Ahora es una empresa que cotiza en bolsa, pero en ese momento no. El primer día que llegué, me presentaron su estrategia, sus planes, sus embudos (funnels) y sus páginas de aterrizaje (landing pages). Me di cuenta muy rápido de que había algo que estaban haciendo medio raro y les pregunté: \"Oye, ¿por qué lo están haciendo así?\" Y me dijeron: \"Pues es que creemos que se ve mejor de esta manera.\" Y yo les dije: \"Mira, mejor háganlo de esta otra forma.\" Me acuerdo porque fue una conversación súper corta, y tres semanas después nos conectamos y me dijeron que ya lo habían implementado y que ese cambio les había dado un impacto enorme.",
+    "text_ko": "예를 들면 제가 일했던 회사 하나가 있어요. 지금은 상장사예요. 당시에는 아니었는데, 첫날 들어가자마자 회사에서 전략과 계획, 퍼널(funnel)과 랜딩 페이지(landing page)를 다 보여줬어요.",
+    "text_zh": "就是说，举个例子，我以前合作过的一家公司。现在是上市公司，但那时候还不是。我第一天一进门，他们就把战略、计划、漏斗(funnels)和着陆页(landing pages)全都摆出来了。",
+    "text_es": "O sea, un ejemplo sería una empresa con la que trabajé. Ahora es pública, pero entonces no lo era. Nada más llegar, me presentaron su estrategia, sus planes, sus embudos (funnels) y sus páginas de aterrizaje (landing pages).",
     "key_sentence": "they presented their strategy, their plans, their funnels and their landing pages.",
     "text_trimmed": true,
     "original_text": "I mean, one example would be a company that I worked with. Now, a public company. At the time, they weren't. On day one, walked in, they presented their strategy, their plans, their funnels and their landing pages. I could see very quickly that there was something they were doing that was a little off and I asked them, \"Well, why are you doing it that way?\" And they said, \"Well, we think it just looks better that way.\" And I said, \"Well, just do it this other way.\" I remember this because it was such a short conversation and then three weeks later we connected and I heard they had rolled it out and it was a large impact that they had from this one change.",
@@ -589,21 +448,9 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "impact",
-        "definition": "The strong effect or influence that something has on a situation or person.",
-        "businessContext": "In business, impact often refers to the measurable outcomes of decisions, strategies, or initiatives, particularly in terms of financial performance or social change.",
-        "nuance": "While 'impact' generally has a positive connotation, it can also refer to negative consequences, depending on the context.",
-        "synonyms": [
-          "effect",
-          "influence"
-        ],
-        "antonyms": [
-          "insignificance",
-          "irrelevance"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

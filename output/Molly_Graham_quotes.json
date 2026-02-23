@@ -5,8 +5,6 @@
     "timestamp": "00:00:07",
     "context": "Lenny asks Molly about her experience working with high-performing founders and CEOs at major tech companies. Molly is explaining how the founder's personality shapes company culture, drawing from her experience at both Google and Facebook. She describes how Google felt academic and idea-focused like a university environment, while Facebook had the scrappy, ship-fast energy of a college hacker's workspace, directly reflecting Mark Zuckerberg's personality and approach.",
     "vocabulary_highlights": [
-      "company culture",
-      "high-performing",
       "defined",
       "personality"
     ],
@@ -26,34 +24,6 @@
     "key_sentence": "80% of a company's culture is literally defined by the founder's personality.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "company culture",
-        "definition": "The shared values, beliefs, and behaviors that shape how members of an organization interact and work together.",
-        "businessContext": "In business settings, company culture influences employee engagement, productivity, and overall organizational effectiveness, often impacting recruitment and retention strategies.",
-        "nuance": "While often discussed in positive terms, company culture can also reflect negative aspects, such as toxicity or disengagement, which should be addressed.",
-        "synonyms": [
-          "organizational culture",
-          "workplace culture"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "high-performing",
-        "definition": "Characterizing individuals or teams that consistently achieve exceptional results and exceed expectations in their performance.",
-        "businessContext": "In tech and startup environments, high-performing teams are crucial for innovation and rapid growth, often driving the success of projects and initiatives.",
-        "nuance": "The term is often used to highlight not just results, but also the collaborative dynamics and motivation that contribute to sustained high performance.",
-        "synonyms": [
-          "top-performing",
-          "exemplary"
-        ],
-        "antonyms": [
-          "underperforming",
-          "low-performing"
-        ]
-      },
       {
         "word": "defined",
         "definition": "Clearly specified or determined; having a precise meaning or outline.",
@@ -82,7 +52,8 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "So Chamath, when he pitched me on this job, actually drew me a picture on a whiteboard. He said, the way a lot of people do careers is a set of stairs. Just walk up the stairs and you'll get promoted every two years.",
@@ -90,9 +61,7 @@
     "timestamp": "00:00:39",
     "context": "Lenny asks about Molly's J-curve versus stairs career framework that helped Sarah Caldwell at OpenAI. Molly is telling the story of how Chamath Palihapitiya at Facebook recruited her from HR to work on mobile, explaining his philosophy on career growth. The J-curve represents taking risky career moves that initially feel like falling but eventually lead to much higher achievements than traditional step-by-step promotions.",
     "vocabulary_highlights": [
-      "framework",
       "promoted",
-      "recruited",
       "careers"
     ],
     "topics": [
@@ -105,28 +74,14 @@
       "Leadership Development",
       "Career Development"
     ],
-    "text_ko": "그래서 Chamath가 이 일을 제안할 때 화이트보드에 직접 그림을 그려 보여줬어요. 많은 사람들이 커리어를 계단처럼 생각해서 계단을 따라 걷기만 하면 2년마다 승진한다고들 하는데, 그건 지루하대요. 훨씬 더 재미있는 커리어는 절벽에서 뛰어내리는 것과 같아서, 뛰어내리면 분명히 떨어지지만 다시 기어올라가 보면 계단으로는 절대 닿을 수 없는 훨씬 더 높은 곳에 올라가게 된다고 했어요.",
-    "text_zh": "所以Chamath当时跟我推销这个工作的时候，在白板上给我画了个图。他说，很多人做职业规划就像爬楼梯一样，按部就班地往上走，每两年升个职。但这样太没意思了。真正有趣的职业发展应该像跳悬崖一样，你确实会摔下去，但是爬起来之后你会发现自己到了一个爬楼梯永远到不了的高度。",
-    "text_es": "Entonces Chamath, cuando me propuso este trabajo, me dibujó algo en la pizarra. Me dijo: \"La forma en que mucha gente maneja su carrera profesional es como una escalera. Solo subes escalón por escalón y te ascienden cada dos años. Pero eso es aburridísimo. Las carreras realmente emocionantes son como saltar de un acantilado - sí, te caes, pero después sales adelante y llegas mucho más lejos de lo que cualquier escalera te podría llevar.\"",
+    "text_ko": "그래서 Chamath가 저에게 이 일을 권할 때, 화이트보드에 직접 그림을 그려 보여줬어요. 그는 많은 사람들이 커리어를 계단처럼 생각한다고 했어요. 그냥 계단을 한 칸씩 올라가면 2년마다 승진한다고요.",
+    "text_zh": "Chamath跟我推这份工作的时候，居然在白板上给我画了个图。他说很多人的职业像一段楼梯，按着台阶往上走，两年就能升一次。",
+    "text_es": "Cuando Chamath me propuso este puesto, me dibujó un esquema en la pizarra. Me dijo que mucha gente ve la carrera como una escalera: subes peldaño a peldaño y te ascienden cada dos años.",
     "key_sentence": "the way a lot of people do careers is a set of stairs.",
     "text_trimmed": true,
     "original_text": "So Chamath, when he pitched me on this job, actually drew me a picture on a whiteboard. He said, the way a lot of people do careers is a set of stairs. Just walk up the stairs and you'll get promoted every two years. But that is boring. The much more fun careers are like jumping off cliffs and you do fall, but then you climb out way beyond where the stairs could ever get you.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "framework",
-        "definition": "A structured approach or system that provides guidance for understanding or addressing a particular issue or problem.",
-        "businessContext": "In business and technology, frameworks are often used to outline processes, methodologies, or standards that guide project development and decision-making.",
-        "nuance": "While 'framework' can refer to any structure, in business it often implies a formalized, strategic approach rather than an informal or ad-hoc method.",
-        "synonyms": [
-          "structure",
-          "system"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
-      },
       {
         "word": "promoted",
         "definition": "The act of advancing an employee to a higher position or rank within an organization, often accompanied by increased responsibilities and compensation.",
@@ -139,20 +94,6 @@
         "antonyms": [
           "demoted",
           "relegated"
-        ]
-      },
-      {
-        "word": "recruited",
-        "definition": "The process of identifying, attracting, and selecting candidates for employment within an organization.",
-        "businessContext": "Recruitment is a critical function in human resources, particularly in startups and tech companies where finding the right talent can significantly impact growth and innovation.",
-        "nuance": "While 'recruited' generally has a neutral connotation, it can imply a level of exclusivity or competition, especially in high-demand fields.",
-        "synonyms": [
-          "hired",
-          "enlisted"
-        ],
-        "antonyms": [
-          "fired",
-          "dismissed"
         ]
       },
       {
@@ -169,7 +110,9 @@
           "positions"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Your only goal as a manager, if you do nothing else, is clear roles and clear expectations. That's it.",
@@ -178,9 +121,7 @@
     "context": "Lenny asks about Molly's Waterline Model, a framework for diagnosing team problems that she learned from leading wilderness expeditions. The model suggests that 80% of team issues stem from structural problems rather than people problems, and you should 'snorkel before you scuba' - meaning address surface-level structural issues before diving into interpersonal problems. Molly is emphasizing that the most fundamental structural issue is usually unclear roles and expectations.",
     "vocabulary_highlights": [
       "clear expectations",
-      "roles",
-      "diagnosing",
-      "structural"
+      "roles"
     ],
     "topics": [
       "Leadership & Management",
@@ -192,9 +133,9 @@
       "Leadership Development",
       "Career Development"
     ],
-    "text_ko": "관리자라면 다른 걸 아무것도 못 하더라도 해야 할 유일한 목표는 역할을 분명히 하고 기대치를 명확히 하는 거예요. 그게 전부예요. 솔직히 지금까지 많은 팀을 맡아봤는데, 거의 항상 제가 들어가 보면 아무도 자기 일이 뭔지 모르고 성공이 어떤 모습인지도 모르는 경우가 많더라고요.",
-    "text_zh": "作为管理者，就算你什么都不做，也得把这两件事搞清楚：角色要明确，期望要清晰。就这么简单。说实话，我接手过很多团队，几乎每次去了都发现，大家根本不知道自己到底该干什么，也不知道怎么样才算做得好。",
-    "text_es": "Tu único objetivo como manager, si no haces nada más, es tener roles claros y expectativas claras. Ya está. Porque la verdad es que he tomado el mando de muchos equipos en mi vida y casi siempre llego y resulta que nadie sabe cuál es su chamba y nadie sabe cómo se ve el éxito.",
+    "text_ko": "관리자로서 다른 일을 다 못하더라도 꼭 해야 할 한 가지는 역할을 분명히 하고 기대치를 명확히 하는 거예요. 그게 전부예요.",
+    "text_zh": "作为经理，如果只能做一件事，那就是把角色和期望讲清楚。就这么简单。",
+    "text_es": "Como responsable (manager), tu único objetivo, si no haces nada más, es dejar claras las funciones y las expectativas. Eso es todo.",
     "key_sentence": "Your only goal as a manager is clear roles and clear expectations.",
     "text_trimmed": true,
     "original_text": "Your only goal as a manager, if you do nothing else, is clear roles and clear expectations. That's it. Because honestly, I've taken over a lot of teams in my life and almost always I show up and it turns out that no one knows what their job is and no one knows what success looks like.",
@@ -227,36 +168,10 @@
           "ambiguity",
           "N/A"
         ]
-      },
-      {
-        "word": "diagnosing",
-        "definition": "The process of identifying and analyzing problems or issues to determine their causes and potential solutions.",
-        "businessContext": "In business, diagnosing issues is essential for effective problem-solving and decision-making, particularly in areas like project management and operational efficiency.",
-        "nuance": "This term often carries a connotation of thoroughness and expertise, making it suitable for discussions about troubleshooting or strategic analysis.",
-        "synonyms": [
-          "analyzing",
-          "assessing"
-        ],
-        "antonyms": [
-          "ignoring",
-          "overlooking"
-        ]
-      },
-      {
-        "word": "structural",
-        "definition": "Relating to the arrangement or organization of parts within a whole, often referring to systems or frameworks.",
-        "businessContext": "In a business context, structural considerations can influence organizational design, workflow processes, and the allocation of resources.",
-        "nuance": "This term is typically used in discussions about organizational change or design, and it may imply a focus on foundational elements rather than superficial changes.",
-        "synonyms": [
-          "organizational",
-          "systematic"
-        ],
-        "antonyms": [
-          "unstructured",
-          "disorganized"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "No company needs more than three company goals and the point of company goals is to help people know what the most important things are to success. So, Facebook basically had three goals for the entire time I was there, it was five years.",
@@ -264,7 +179,6 @@
     "timestamp": "00:48:23",
     "context": "Lenny asks Molly about her six rules for creating clear goals and building alignment on teams. Molly is explaining her first rule that companies should have no more than three goals, using Facebook as an example. She's describing how Facebook maintained the same three simple goals - growth (monthly active users), engagement (user retention), and revenue - throughout her five-year tenure there, demonstrating how this clarity helped everyone understand priorities.",
     "vocabulary_highlights": [
-      "alignment",
       "goals",
       "important",
       "success"
@@ -279,28 +193,14 @@
       "Leadership Development",
       "Career Development"
     ],
-    "text_ko": "어떤 회사든 회사 목표는 세 가지를 넘길 필요가 없고, 목표의 목적은 사람들이 성공에 가장 중요한 게 무엇인지 알 수 있게 하는 거예요. 제가 거기 있는 동안(5년간) 페이스북은 기본적으로 세 가지 목표만 있었어요. 첫째는 성장(월간 활성 사용자, monthly active users — MAUs로 측정했고, 결국 외부에 보고되는 숫자였어요). 둘째는 참여도(engagement), 즉 사람들이 얼마나 자주 돌아와서 사이트를 사용하는지에 관한 거예요. 셋째는 수익(revenue)이었어요.",
-    "text_zh": "其实公司的目标不需要太多，三个就够了，设定公司目标就是为了让大家都清楚什么是最重要的。像Facebook吧，我在那儿待了五年，基本上就是这三个目标。第一个是增长，用月活用户(monthly active users)来衡量，也就是后来对外公布的MAU数据。第二个是用户粘性(engagement)，就是看用户多久回来用一次我们的产品。第三个就是营收。",
-    "text_es": "Ninguna empresa necesita más de tres objetivos corporativos, y el punto de tener objetivos es ayudar a la gente a saber cuáles son las cosas más importantes para el éxito. Facebook básicamente tuvo tres objetivos durante todo el tiempo que estuve ahí, fueron cinco años. Los tres objetivos eran estos: primero, crecimiento, que se medía como usuarios activos mensuales, ese era el número que reportábamos públicamente al final, los MAUs. El segundo objetivo era engagement, o sea, qué tan seguido regresa la gente a usar la plataforma, y el tercero era ingresos.",
+    "text_ko": "어떤 회사든 회사 목표는 세 가지를 넘을 필요가 없어요. 회사 목표의 요점은 사람들이 성공에 가장 중요한 게 무엇인지 알게 해주는 거예요. 그래서 제가 거기 있던 5년 내내 페이스북은 기본적으로 목표가 세 가지였어요.",
+    "text_zh": "一家公司的目标其实不该超过三个，目标的作用就是让大家知道哪些事对成功最关键。所以我在Facebook待的那五年里，公司基本上一直就只有这三条目标。",
+    "text_es": "No hace falta que una empresa tenga más de tres objetivos, y la función de esos objetivos es que la gente sepa qué es lo más importante para tener éxito. Así que, básicamente, Facebook tuvo tres objetivos durante los cinco años que estuve allí.",
     "key_sentence": "No company needs more than three goals to know what success looks like.",
     "text_trimmed": true,
     "original_text": "No company needs more than three company goals and the point of company goals is to help people know what the most important things are to success. So, Facebook basically had three goals for the entire time I was there, it was five years. So, the three goals were this, there was growth which was measured as monthly active users, that was the externally reported number eventually, MAUs. The second goal was engagement meaning how often do people come back and use the site and the third was revenue.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "alignment",
-        "definition": "The arrangement of elements in a straight line or in correct relative positions; in a business context, it refers to the agreement and coordination among team members or departments towards common objectives.",
-        "businessContext": "In business, alignment is crucial for ensuring that all employees understand and work towards the same goals, enhancing overall efficiency and effectiveness.",
-        "nuance": "While alignment suggests harmony and cooperation, a lack of alignment can lead to confusion and inefficiency within an organization.",
-        "synonyms": [
-          "congruence",
-          "harmony"
-        ],
-        "antonyms": [
-          "disagreement",
-          "disarray"
-        ]
-      },
       {
         "word": "goals",
         "definition": "Specific, measurable objectives that an individual or organization aims to achieve within a defined timeframe.",
@@ -343,7 +243,9 @@
           "setback"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "And there's this incredible set of emotions that come territorialistic, paired with excitement. Fear paired with joy. But eventually you pass the house off and then you go work on neighborhoods and you're sort of like, okay, dog parks, I'm good at dog parks.",
@@ -351,10 +253,7 @@
     "timestamp": "00:13:18",
     "context": "Lenny asks about Molly's famous 'giving away your Legos' framework for career growth in scaling companies. Molly uses a metaphor where work responsibilities are like building with Legos - you start building houses, get good at it, but then need to pass that work to someone else and move on to building dog parks and neighborhoods as the company scales. She's describing the complex emotions people feel when they have to give up work they've mastered and enjoyed.",
     "vocabulary_highlights": [
-      "territorialistic",
-      "framework",
-      "responsibilities",
-      "scaling"
+      "territorialistic"
     ],
     "topics": [
       "Career Development",
@@ -366,9 +265,9 @@
       "Leadership Development",
       "Career Development"
     ],
-    "text_ko": "그리고 정말 묘한 감정들이 몰려와요 — 영역적 감정(territorialistic)이 들면서도 신나고, 두려움이 기쁨과 섞이기도 해요. 그런데 결국엔 그 집을 넘겨주고 동네 일로 넘어가면, \"도그파크(dog parks)는 제가 잘해요. 이건 제가 맡을게요\" 하며 자신감이 붙고, 어느 순간 \"아, 난 진짜 동네를 만드는 사람으로 이 세상에 태어났나 봐요\"라는 생각까지 들어요.",
-    "text_zh": "这里面有一套特别复杂的情绪，既有地盘意识，又很兴奋。既害怕又开心。但最终你把房子交出去了，然后开始做整个社区，你就会想，好吧，狗公园这块我拿手，我能搞定。然后你又开始觉得，我真的很厉害，我就是为了建社区而生的。",
-    "text_es": "Y hay esta mezcla increíble de emociones que te vuelven territorial, pero también te emocionan. Miedo mezclado con alegría. Pero al final entregas la casa y te vas a trabajar en barrios enteros y es como que dices, okay, parques para perros, se me dan bien los parques para perros. Lo tengo controlado. Y otra vez llegas al punto de pensar, soy genial en esto. Nací para construir barrios.",
+    "text_ko": "그리고 영역성(territorialistic) 때문에 생기는 엄청난 감정들이 있어요. 흥분과 함께 오고, 두려움이 기쁨과 섞이기도 해요. 그런데 결국 그 집을 넘겨주면 동네 단위로 일하게 되고, 그러다 보면 '개 공원은 내가 잘해요' 하고 특정 분야에 자신감이 생겨요.",
+    "text_zh": "你会有种复杂的情绪——有点占有欲，又很兴奋。害怕和喜悦交织在一起。但最后你把房子交给别人，去做整个街区的事，慢慢你会想，像狗狗公园这种，我挺拿手的。",
+    "text_es": "Hay todo un abanico de emociones muy territoriales, mezcladas con ilusión. Miedo junto con alegría. Pero al final acabas cediendo la casa, te pones a trabajar por barrios y vas pensando: \"vale, parques para perros, eso se me da bien\".",
     "key_sentence": "Emotions can be territorialistic, paired with excitement and joy.",
     "text_trimmed": true,
     "original_text": "And there's this incredible set of emotions that come territorialistic, paired with excitement. Fear paired with joy. But eventually you pass the house off and then you go work on neighborhoods and you're sort of like, okay, dog parks, I'm good at dog parks. I got this. And then again, you get to the like, I'm great. I was put on earth to build neighborhoods.",
@@ -387,50 +286,10 @@
           "collaborative",
           "open"
         ]
-      },
-      {
-        "word": "framework",
-        "definition": "A structured approach or system that provides a foundation for understanding or addressing a particular issue or process.",
-        "businessContext": "In business and technology, frameworks are often used to guide project development, decision-making, and strategic planning.",
-        "nuance": "The term implies a level of flexibility within a defined structure, allowing for adaptation while maintaining core principles.",
-        "synonyms": [
-          "structure",
-          "system"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
-      },
-      {
-        "word": "responsibilities",
-        "definition": "Duties or obligations that an individual or organization is expected to fulfill.",
-        "businessContext": "In a corporate setting, clearly defined responsibilities are crucial for accountability and effective teamwork.",
-        "nuance": "The term often carries a weight of expectation and can imply a moral or ethical obligation beyond mere tasks.",
-        "synonyms": [
-          "duties",
-          "obligations"
-        ],
-        "antonyms": [
-          "freedom",
-          "exemption"
-        ]
-      },
-      {
-        "word": "scaling",
-        "definition": "The process of increasing the capacity or size of a business or system to accommodate growth or demand.",
-        "businessContext": "In startups, scaling is critical for transitioning from a small operation to a larger enterprise, often requiring strategic planning and resource allocation.",
-        "nuance": "While scaling can indicate growth, it also suggests the need for careful management to maintain quality and efficiency.",
-        "synonyms": [
-          "expanding",
-          "growing"
-        ],
-        "antonyms": [
-          "shrinking",
-          "contracting"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Growing more than 100% every year is a bad idea. The happiest growth rate is 50%, 100% is manageable. Anything more than doubling and you are signing yourself up for a world of pain. And I have seen this over and over and over again.",
@@ -438,10 +297,8 @@
     "timestamp": "01:17:44",
     "context": "Lenny asks about lessons Molly learned from high-performing leaders like Mark Zuckerberg and Cheryl Sandberg. Molly is sharing advice from Cheryl Sandberg about sustainable company growth rates in terms of headcount. She's explaining that while companies often want to triple their team size in a year, this creates chaos, duplication of roles, and inefficiency - it's better to grow more slowly and hire for quality rather than panic hiring.",
     "vocabulary_highlights": [
-      "sustainable",
       "manageable",
-      "growth rate",
-      "high-performing"
+      "growth rate"
     ],
     "topics": [
       "Leadership & Management",
@@ -459,20 +316,6 @@
     "key_sentence": "The happiest growth rate is 50%; anything more is a world of pain.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "sustainable",
-        "definition": "Capable of being maintained over the long term without depleting resources or causing harm to the environment.",
-        "businessContext": "In business, sustainability refers to practices that ensure long-term viability and ethical responsibility, often focusing on environmental, social, and economic impacts.",
-        "nuance": "While often associated with environmental practices, 'sustainable' can also imply a balanced approach to growth and resource management in business.",
-        "synonyms": [
-          "eco-friendly",
-          "viable"
-        ],
-        "antonyms": [
-          "unsustainable",
-          "depleting"
-        ]
-      },
       {
         "word": "manageable",
         "definition": "Able to be handled or controlled without excessive difficulty or stress.",
@@ -500,22 +343,9 @@
           "decline rate",
           "recession rate"
         ]
-      },
-      {
-        "word": "high-performing",
-        "definition": "Exhibiting exceptional efficiency, effectiveness, and results in achieving goals or objectives.",
-        "businessContext": "In business, 'high-performing' often describes teams, individuals, or organizations that consistently exceed expectations and deliver outstanding results.",
-        "nuance": "This term carries a positive connotation, suggesting not only success but also the capability to inspire and lead others in achieving excellence.",
-        "synonyms": [
-          "top-performing",
-          "exemplary"
-        ],
-        "antonyms": [
-          "underperforming",
-          "mediocre"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "The most valuable thing that happens as you fall is learning. And even on the other side of failure, you've learned a shit ton.",
@@ -525,8 +355,7 @@
     "vocabulary_highlights": [
       "valuable",
       "failure",
-      "learning",
-      "challenging"
+      "learning"
     ],
     "topics": [
       "Career Development",
@@ -538,9 +367,9 @@
       "Leadership Development",
       "Career Development"
     ],
-    "text_ko": "넘어질 때 가장 가치 있는 건 배움이에요. 그리고 실패를 겪은 뒤에도 배운 게 엄청 많아요. 저는 항상 말해요: 넘어지는 단계(falling phase)와 리스크를 감수하는 영역(risk-taking land)에서는 '프로페셔널 이디엇(professional idiot)'이 되는 걸 기꺼이 받아들이는 법을 배우는 게 가장 중요하다고요.",
-    "text_zh": "跌倒过程中最宝贵的就是学到东西。就算失败了，你也学到了一大堆。我总说，在跌倒和冒险这个阶段，最重要的就是要学会接受自己是个\"专业菜鸟\"。",
-    "text_es": "Lo más valioso que pasa cuando te caes es el aprendizaje. Y aún del otro lado del fracaso, has aprendido un chingo. Siempre digo que lo más importante en la fase de caída y en el mundo de tomar riesgos es aprender a aceptar ser un idiota profesional.",
+    "text_ko": "넘어질 때 가장 값진 건 배움이에요. 실패를 겪고 난 뒤에도 이미 엄청난 걸 배웠어요.",
+    "text_zh": "你跌倒的时候，最值钱的就是学到的东西；就算最后真的失败了，你也已经学到一大堆了。",
+    "text_es": "Lo más valioso de caer es lo que aprendes en el proceso. Incluso después de fracasar, te llevas un montón de aprendizaje.",
     "key_sentence": "The most valuable thing in the falling phase is learning a shit ton.",
     "text_trimmed": true,
     "original_text": "The most valuable thing that happens as you fall is learning. And even on the other side of failure, you've learned a shit ton. I always say, the most important thing to do in the falling phase and the risk taking land is to learn to embrace being a professional idiot.",
@@ -587,21 +416,9 @@
           "ignorance",
           "unawareness"
         ]
-      },
-      {
-        "word": "challenging",
-        "definition": "Difficult in a way that tests one's abilities or resources; demanding effort and skill.",
-        "businessContext": "In business, 'challenging' often describes tasks, projects, or market conditions that require innovative solutions and resilience from teams.",
-        "nuance": "While 'challenging' suggests difficulty, it can also carry a positive connotation, implying opportunities for growth and development.",
-        "synonyms": [
-          "demanding",
-          "testing"
-        ],
-        "antonyms": [
-          "easy",
-          "simple"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

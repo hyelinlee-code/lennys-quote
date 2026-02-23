@@ -21,9 +21,9 @@
       "Growth Strategy",
       "Data Analytics"
     ],
-    "text_ko": "숙제나 연습, 모의 작업으론 안 돼요. 프로덕트 매니지먼트(product management)를 잘하려면 실제 제품을, 실제 회사에서, 실제 고객을 대상으로, 실제 데이터를 가지고 직접 일해봐야 해요. 그러니까 어떤 교육이나 멘토링, 독서 등은 그 위에 얹어지는 보조적인 것일 뿐이에요.",
-    "text_zh": "你没法通过做作业、做练习题或者搞一些虚的东西来提升产品管理能力。你必须在真实的公司里，面对真实的客户，用真实的数据来做真实的产品，这样才能真正提高。所以什么培训啊、导师指导啊、看书学习啊这些，都只是锦上添花而已。",
-    "text_es": "No puedes hacer tareas teóricas. No puedes hacer ejercicios de práctica. No puedes trabajar con cosas inventadas. Tienes que trabajar en productos reales, en empresas reales, con clientes reales, con datos reales para mejorar en gestión de productos. Entonces cualquier tipo de capacitación, mentoría, lectura, etcétera que hagas es solo una capa adicional encima de eso.",
+    "text_ko": "숙제나 연습, 가짜 프로젝트로는 안 돼요. 프로덕트 매니지먼트(product management) 실력을 키우려면 진짜 고객과 진짜 데이터가 있는 실제 회사에서 실제 제품을 직접 다뤄봐야 해요.",
+    "text_zh": "你没法靠做作业来学会产品管理，也不能靠练习题，更不能靠那些假的案例。你必须在真正的公司里，做真正的产品，面对真正的客户，用真实的数据，这样才能真正提高产品管理能力。",
+    "text_es": "No puedes hacer tareas teóricas. No puedes hacer ejercicios de libro. No puedes trabajar con cosas inventadas. Tienes que trabajar en productos reales, en empresas reales, con clientes reales y con datos reales para mejorar como product manager.",
     "key_sentence": "Work on real products, not fake stuff, to improve product management.",
     "text_trimmed": true,
     "original_text": "You can't do homework. You can't do exercises. You can't do fake stuff. You have to work on real products at real companies with real customers, with real data to get better at product management. So any kind of training, mentorship, reading, et cetera that you do is just a layer on top of that.",
@@ -85,7 +85,8 @@
           "theoretical data"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "At the foundation of it is when I first got there, I thought what was important was modeling how things work in the real world. They're making things look right, so to speak.",
@@ -94,9 +95,7 @@
     "context": "Lenny asks Fareed what he learned from his time at Pixar Animation Studios that has informed how he builds products or thinks about his career. Fareed worked at Pixar for almost seven years on visual effects, software tools, and creative technology for films like Finding Nemo, Cars, Wall-E, and Up. He explains how this experience taught him to focus on the end user experience rather than technical perfection.",
     "vocabulary_highlights": [
       "modeling",
-      "foundation",
-      "informed",
-      "visual"
+      "foundation"
     ],
     "topics": [
       "Product Management",
@@ -109,9 +108,9 @@
       "Growth Strategy",
       "Data Analytics"
     ],
-    "text_ko": "처음 거기에 갔을 때는 현실에서 사물이 어떻게 작동하는지를 모델링(modeling)하는 게 중요하다고 생각했어요. 다시 말하면 보기만 그럴듯하게 만드는 거였죠. 그런데 거기서 배운 건 사실 우리가 하려는 건 시청자나 관객에게 최종 경험(end experience), 제품(product), 그리고 이야기를 전달하는 거라는 점이었어요.",
-    "text_zh": "最根本的是，我刚到那里的时候，觉得重要的是要模拟现实世界的运作方式，就是让东西看起来对，你懂的。但我在那里学到的是，其实你要做的是给观众、给你的受众交付一个完整的体验、产品和故事。",
-    "text_es": "Al final del día, cuando llegué ahí pensaba que lo importante era modelar cómo funcionan las cosas en el mundo real. O sea, hacer que las cosas se vean bien, por decirlo así. Lo que aprendí ahí es que en realidad, lo que buscas es entregar una experiencia completa, un producto y una historia a tus usuarios, a tu audiencia.",
+    "text_ko": "처음 거기 갔을 때, 제 생각엔 핵심이 현실에서 어떻게 작동하는지를 모델링(modeling)하는 것이라고 생각했어요. 그런데 그들은, 말하자면, 겉으로만 맞아 보이게 만드는 데에만 신경 쓰고 있었어요.",
+    "text_zh": "我刚到那儿的时候，觉得最重要的是要模拟现实世界的运作方式。就是说，要把东西做得看起来是对的。",
+    "text_es": "Al principio, cuando llegué, pensaba que lo importante era mostrar cómo funcionan las cosas en la vida real. O sea, hacer que todo se viera como debe ser.",
     "key_sentence": "what was important was modeling how things work in the real world.",
     "text_trimmed": true,
     "original_text": "At the foundation of it is when I first got there, I thought what was important was modeling how things work in the real world. They're making things look right, so to speak. What I learned there is that actually, you're trying to deliver an end experience, and product, and story to your viewers, to your audience.",
@@ -144,36 +143,10 @@
           "superstructure",
           "periphery"
         ]
-      },
-      {
-        "word": "informed",
-        "definition": "Informed describes a state of having or showing knowledge, awareness, or understanding about a particular subject or situation.",
-        "businessContext": "Informed decision-making is critical in business, as it relies on accurate data and insights to guide strategic choices and actions.",
-        "nuance": "The term suggests a level of expertise or comprehension that goes beyond surface-level knowledge, emphasizing the importance of thorough research.",
-        "synonyms": [
-          "knowledgeable",
-          "aware"
-        ],
-        "antonyms": [
-          "uninformed",
-          "ignorant"
-        ]
-      },
-      {
-        "word": "visual",
-        "definition": "Visual pertains to anything that can be seen or is related to sight, often involving images, graphics, or representations.",
-        "businessContext": "In business and tech, visual tools such as charts, graphs, and infographics are essential for data presentation and effective communication of complex information.",
-        "nuance": "The term often carries a connotation of clarity and engagement, suggesting that visual elements can enhance understanding and retention of information.",
-        "synonyms": [
-          "graphic",
-          "pictorial"
-        ],
-        "antonyms": [
-          "auditory",
-          "verbal"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I have not figured out how to do this well in a remote environment without throwing a lot of one-on-ones on people's calendars... but it's certainly not impossible.",
@@ -181,9 +154,6 @@
     "timestamp": "00:31:44",
     "context": "Fareed is discussing his framework for building curiosity and understanding across different levels of an organization - going 'two stack levels up, two stack levels down' to understand your manager's and their manager's priorities, as well as technical details below you. Lenny notes this advice doesn't necessarily require a lot more work, just research and thinking. Fareed acknowledges the challenge of doing this type of organizational learning in remote work environments.",
     "vocabulary_highlights": [
-      "framework",
-      "curiosity",
-      "understanding",
       "environment"
     ],
     "topics": [
@@ -197,56 +167,14 @@
       "Growth Strategy",
       "Data Analytics"
     ],
-    "text_ko": "어려운 건, 원격 근무 환경(remote environment)에서는 사람들 캘린더에 일대일 미팅(one-on-ones)을 잔뜩 잡아 넣지 않고는 이걸 잘 해내기가 쉽지 않다는 거예요. 가끔은 옆에서 대화 듣거나 점심 같이 어울리면서 질문하다가 해결되기도 하는데, 그런 기회가 원격에선 잘 안 생기거든요. 그래도 전혀 불가능한 건 아니에요.",
-    "text_zh": "我觉得难点在于，在远程办公的环境下，我还没想出怎么能做好这件事，又不用在大家日程里塞一堆一对一会议，因为有时候你就是通过听别人聊天、一起吃午饭、随便问问问题这些方式就能搞明白，但这肯定不是不可能的事。",
-    "text_es": "Creo que lo complicado de esto es que no he logrado hacerlo bien en un entorno remoto sin llenar el calendario de la gente con reuniones uno a uno, porque a veces te enterabas de estas cosas simplemente escuchando conversaciones, charlando en el almuerzo, haciendo preguntas y ese tipo de cosas, pero desde luego no es imposible.",
+    "text_ko": "원격 환경에서는 사람들 캘린더에 일대일 미팅(one-on-one)을 잔뜩 넣지 않고는 이걸 잘 해내는 방법을 아직 못 찾았어요. 그래도 전혀 불가능한 건 아니에요.",
+    "text_zh": "我还没想出来在远程办公的环境下怎么能做好这件事，不然就得在大家日程表上排一堆一对一会议...不过这肯定不是做不到的事。",
+    "text_es": "Todavía no he encontrado la forma de hacer esto bien trabajando a distancia sin llenar los calendarios de la gente con reuniones uno a uno... pero desde luego no es imposible.",
     "key_sentence": "Remote work complicates collaboration without throwing a lot of one-on-ones on calendars.",
     "text_trimmed": true,
     "original_text": "I think the hard part of this is I have not figured out how to do this well in a remote environment without throwing a lot of one-on-ones on people's calendars because sometimes you figured this out just by hearing conversations, hang out at lunch, and asking questions, and those kinds of things, but it's certainly not impossible.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "framework",
-        "definition": "A framework is a structured system or set of guidelines that provides a foundation for understanding or developing something. It often includes principles, practices, and tools that help organize thoughts and actions.",
-        "businessContext": "In business and technology, frameworks are used to guide project development, establish best practices, and ensure consistency across teams and processes. For example, a software development framework can streamline coding practices and improve collaboration among developers.",
-        "nuance": "While 'framework' suggests a supportive structure, it can also imply rigidity; it is best used when referring to established systems that require adherence to specific guidelines.",
-        "synonyms": [
-          "structure",
-          "system"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
-      },
-      {
-        "word": "curiosity",
-        "definition": "Curiosity is a strong desire to learn or know more about something, often driving exploration and inquiry. It is a fundamental trait that fosters innovation and problem-solving.",
-        "businessContext": "In the business world, curiosity is essential for fostering creativity and adaptability, encouraging employees to ask questions, seek new solutions, and stay ahead of market trends. Companies that promote a culture of curiosity often see higher levels of engagement and innovation.",
-        "nuance": "Curiosity is generally viewed positively, but it can be perceived as intrusive if it leads to excessive questioning or prying into others' affairs; it is best used in contexts that encourage open-mindedness and exploration.",
-        "synonyms": [
-          "inquisitiveness",
-          "interest"
-        ],
-        "antonyms": [
-          "indifference",
-          "apathy"
-        ]
-      },
-      {
-        "word": "understanding",
-        "definition": "Understanding refers to the ability to comprehend or grasp the meaning of something, often involving insight into complex concepts or situations. It implies a deep awareness that goes beyond surface-level knowledge.",
-        "businessContext": "In business, understanding is crucial for effective communication, collaboration, and decision-making. Leaders and teams must cultivate an understanding of market dynamics, customer needs, and internal processes to drive success.",
-        "nuance": "While 'understanding' denotes a positive grasp of information, it can also imply a lack of complete knowledge; it is best used when emphasizing comprehension that leads to informed actions.",
-        "synonyms": [
-          "comprehension",
-          "insight"
-        ],
-        "antonyms": [
-          "misunderstanding",
-          "ignorance"
-        ]
-      },
       {
         "word": "environment",
         "definition": "An environment refers to the surrounding conditions or context in which an entity operates, including physical, social, and cultural factors. It shapes interactions and influences behavior.",
@@ -261,7 +189,9 @@
           "vacuum"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think there's a framework thing, and then there's like, 'What practical advice?' So from a framework perspective, I think it's important to ask the question, 'For each of the things that I am responsible for, what category does this fall into?",
@@ -285,9 +215,9 @@
       "Growth Strategy",
       "Data Analytics"
     ],
-    "text_ko": "제 생각에는 프레임워크(framework)적인 얘기가 있고, 또 '실무적으로 어떤 조언을 해주냐'는 얘기가 따로 있는 것 같아요. 프레임워크 관점에서는 제가 맡은 각각의 일이 어떤 카테고리(category)에 속하는지, 그 일에서 무엇이 중요한지, 그리고 이전에 만들던 것들과 다르다면 그걸 어떻게 접근해서 만들어야 하는지를 묻는 게 중요하다고 생각해요.",
-    "text_zh": "我觉得这里面有个框架性的东西，然后就是\"有什么实用的建议？\"从框架的角度来说，我觉得很重要的一点是要问自己：\"我负责的每一件事，它属于哪个类别？它的重点是什么？考虑到这跟我之前做过的不一样，应该用什么样的思路去搭建？\"",
-    "text_es": "Mira, creo que hay dos niveles: el tema del marco conceptual y luego el \"¿qué hago en la práctica?\" Desde el punto de vista del framework, me parece clave preguntarse: \"De todas las cosas de las que soy responsable, ¿en qué categoría entra cada una? ¿Qué es lo importante aquí? ¿Cuáles son las mejores formas de enfocar la construcción de esto, considerando que es distinto a lo que he construido antes?\"",
+    "text_ko": "일단 프레임워크(framework)에 대한 얘기가 있고, 그 다음으로는 '그럼 실용적인 조언(practical advice)은 뭐냐?' 하는 질문도 있어요. 프레임워크 관점에서는 제가 책임지고 있는 각각의 것들이 어떤 카테고리(category)에 속하는지를 묻는 게 중요하다고 생각해요.",
+    "text_zh": "我觉得这里有两个层面，一个是框架思维，另一个是具体怎么操作。从框架角度来说，我觉得关键是要问自己这个问题：'我负责的每一件事，它到底属于哪个类别？'",
+    "text_es": "Creo que hay una parte de marco conceptual (framework), y luego está el tema de \"¿Qué consejo práctico puedo dar?\" Entonces, desde la perspectiva del marco conceptual, me parece importante hacerse la pregunta: \"Para cada una de las cosas de las que soy responsable, ¿en qué categoría encaja esto?\"",
     "key_sentence": "Ask what category does this fall into for each responsibility, a framework thing.",
     "text_trimmed": true,
     "original_text": "I think there's a framework thing, and then there's like, 'What practical advice?' So from a framework perspective, I think it's important to ask the question, 'For each of the things that I am responsible for, what category does this fall into? What's important about it? What are the right ways to think about building that, given that it is different than what I've built before?'",
@@ -349,7 +279,8 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "What are the resources we need to have the most impact on this problem?",
@@ -358,9 +289,7 @@
     "context": "Fareed is explaining the second major mistake new product managers make when transitioning from IC to manager roles, which is part of what he calls the 'Product Leader Canyon.' He's describing how ICs typically focus on maximizing value with given resources, but leaders need to identify what resources are actually needed to solve problems effectively and make the case for those resources.",
     "vocabulary_highlights": [
       "resources",
-      "impact",
-      "transitioning",
-      "product managers"
+      "impact"
     ],
     "topics": [
       "Leadership & Management",
@@ -373,9 +302,9 @@
       "Growth Strategy",
       "Data Analytics"
     ],
-    "text_ko": "리더(leader)라면 이제 \"'이 문제에 가장 큰 임팩트를 내려면 어떤 리소스(resources)가 필요할까?'라고 제안해야 해요.\" 저도 개인적으로 이걸 몇 번 망친 적이 있어요 — 핵심 단계(core)가 끝날 무렵이면 \"우린 엔지니어(engineers)가 넷밖에 없었으니까 이게 우리가 할 수 있는 전부였어\"라고 말하곤 했어요.",
-    "text_zh": "当你成为领导者的时候，你的职责就是要主动提出：\"我们需要什么资源才能最大程度地解决这个问题？\" 我觉得我个人在这方面搞砸过很多次，经常到最后总结的时候会说：\"是啊，但我们只有四个工程师，能做的就这些了。\"",
-    "text_es": "Cuando eres líder, ahora tu trabajo es plantear: '¿Qué recursos necesitamos para tener el mayor impacto en este problema?' Creo que yo personalmente la he regado un montón de veces donde al final del día termino diciendo: 'Sí, pero solo teníamos cuatro ingenieros, y esto es lo que pudimos hacer.'",
+    "text_ko": "이 문제에서 가장 큰 임팩트를 내려면 어떤 자원이 필요할까요?",
+    "text_zh": "要解决这个问题，我们需要哪些资源才能发挥最大作用？",
+    "text_es": "¿Qué recursos necesitamos para impactar más en este problema?",
     "key_sentence": "What are the resources we need to have the most impact on this problem?",
     "text_trimmed": true,
     "original_text": "When you're a leader, it's now your job to propose, 'What are the resources we need to have the most impact on this problem?' I think I personally have messed this up a bunch of times where at the end of the core, I'll be like, 'Yeah, but we only had four engineers, and this is what we could do.'",
@@ -408,36 +337,10 @@
           "insignificance",
           "irrelevance"
         ]
-      },
-      {
-        "word": "transitioning",
-        "definition": "Transitioning refers to the process of changing from one state, condition, or phase to another.",
-        "businessContext": "In business, transitioning is commonly associated with organizational changes, such as adopting new technologies, restructuring teams, or shifting market strategies.",
-        "nuance": "The term implies a process that may involve challenges and adjustments, and is often used in contexts where change is ongoing rather than instantaneous.",
-        "synonyms": [
-          "shifting",
-          "transforming"
-        ],
-        "antonyms": [
-          "stagnating",
-          "remaining"
-        ]
-      },
-      {
-        "word": "product managers",
-        "definition": "Product managers are professionals responsible for the strategy, roadmap, and feature definition of a product or product line.",
-        "businessContext": "In tech and startup environments, product managers play a crucial role in bridging the gap between engineering, marketing, and customer needs to ensure successful product development and launch.",
-        "nuance": "The role of product managers can vary significantly between organizations, often encompassing a blend of technical, business, and interpersonal skills.",
-        "synonyms": [
-          "product owners",
-          "product leads"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "You need to have some breadth, right, but it's like same problem, different industry. It's one way to think about depth that's focused.",
@@ -447,8 +350,7 @@
     "vocabulary_highlights": [
       "breadth",
       "depth",
-      "focused",
-      "potentially"
+      "focused"
     ],
     "topics": [
       "Career Development",
@@ -461,9 +363,9 @@
       "Growth Strategy",
       "Data Analytics"
     ],
-    "text_ko": "어느 정도 폭넓이(breadth)는 필요하지만, 결국 본질은 같아요 — 같은 문제인데 업계만 다른 경우(same problem, different industry)는 초점을 둔 깊이(depth)를 생각하는 한 방식이에요. 반대로 문제는 다른데 같은 업계인 경우(different problem, same industry)는 또 다른 방식이고요. 하지만 결국에는 당신만의 고유한 교차점(unique intersection)을 만들어서, 그걸 해낼 줄 아는 사람들 중에서 분명히 최상위권(top tier)에 있다는 걸 보여줄 수 있어야 해요.",
-    "text_zh": "你得有一定的广度，对吧，但其实是同样的问题，只是换了个行业。这是一种专注深度的思路。换个问题，但还是同一个行业，这又是另一种思路，但关键是你得找到一个独特的交集点，让你明显处在那个领域最顶尖的那批人当中。",
-    "text_es": "Necesitas tener cierta amplitud, ¿no?, pero es como el mismo problema en distinta industria. Es una forma de pensar en profundidad pero enfocada. Problema diferente, misma industria es otra manera de verlo, pero tienes que encontrar esa intersección única donde claramente estés entre los mejores que saben hacer eso.",
+    "text_ko": "어느 정도 폭넓은 경험(breadth)은 있어야 해요. 하지만 사실 같은 문제인데 업계만 다른 경우가 많아요. 그래서 깊이(depth)를 생각할 땐 이렇게 집중된(focused) 관점으로 보는 것도 하나의 방법이에요.",
+    "text_zh": "你得有点广度，对吧，但其实就是同样的问题，换个行业而已。这也是一种专注深度的思路。",
+    "text_es": "Necesitas tener cierta amplitud, ¿no?, pero es como el mismo problema en diferente industria. Es una manera de pensar en profundidad pero enfocada.",
     "key_sentence": "it's like same problem, different industry.",
     "text_trimmed": true,
     "original_text": "You need to have some breadth, right, but it's like same problem, different industry. It's one way to think about depth that's focused. Different problem, same industry is another way to think about it, but you have to come up with a unique intersection that is clearly you are in the top tier of the people who know how to do that.",
@@ -510,21 +412,9 @@
           "dispersed",
           "scattered"
         ]
-      },
-      {
-        "word": "potentially",
-        "definition": "Having the capacity to develop into something in the future; indicating possibility rather than certainty.",
-        "businessContext": "In business discussions, 'potentially' is often used to assess risks, opportunities, or outcomes that may arise from strategic decisions or market changes.",
-        "nuance": "The term suggests optimism and opportunity but should be used cautiously to avoid overpromising results.",
-        "synonyms": [
-          "possibly",
-          "likely"
-        ],
-        "antonyms": [
-          "definitely",
-          "certainly"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

@@ -6,9 +6,7 @@
     "context": "Lenny asks Marc about lessons from Salesforce's legendary launch event where they hired fake protesters outside a competitor's conference. Marc explains his approach to marketing and product launches, emphasizing the importance of experimentation. He describes how he tests multiple approaches simultaneously to discover what resonates with customers before committing resources to scale the most effective tactics into comprehensive strategies.",
     "vocabulary_highlights": [
       "tactic",
-      "strategy",
-      "approach",
-      "launch"
+      "strategy"
     ],
     "topics": [
       "Growth & Marketing",
@@ -54,36 +52,9 @@
           "tactic",
           "improvisation"
         ]
-      },
-      {
-        "word": "approach",
-        "definition": "A way of dealing with a situation or problem; a method or technique.",
-        "businessContext": "In business, an approach can refer to the overall methodology employed to tackle challenges, such as customer engagement or product development.",
-        "nuance": "The term 'approach' is often broader than 'tactic' and can encompass various strategies and methods used in a specific context.",
-        "synonyms": [
-          "methodology",
-          "framework"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "launch",
-        "definition": "To initiate or introduce a new product, service, or project into the market.",
-        "businessContext": "In a business context, launching refers to the critical phase when a company unveils its offerings to customers, often accompanied by marketing efforts.",
-        "nuance": "The term 'launch' carries a sense of excitement and anticipation, often associated with significant investment and planning.",
-        "synonyms": [
-          "introduce",
-          "unveil"
-        ],
-        "antonyms": [
-          "withdraw",
-          "retract"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I actually never look at the stock. I find the stock to be very distracting. The stock isn't the goal. That's not why we're doing this.",
@@ -92,9 +63,7 @@
     "context": "When Lenny mentions that Salesforce's stock is at an all-time high and asks what contributed to their continued growth, Marc reveals his philosophy about focusing on the business rather than financial metrics. He explains that he deliberately avoids monitoring stock prices because he believes the stock price should be a byproduct of building a great company, not the primary objective that drives decision-making.",
     "vocabulary_highlights": [
       "distracting",
-      "goal",
-      "focus",
-      "growth"
+      "goal"
     ],
     "topics": [
       "Leadership & Management",
@@ -140,36 +109,9 @@
           "aimlessness",
           "disorganization"
         ]
-      },
-      {
-        "word": "focus",
-        "definition": "The concentration of attention or effort on a particular task or objective.",
-        "businessContext": "Maintaining focus is crucial in business settings to ensure that resources are effectively utilized and that teams remain aligned with strategic priorities.",
-        "nuance": "While focus is often seen as a positive attribute, excessive focus can lead to tunnel vision, where broader perspectives are overlooked.",
-        "synonyms": [
-          "concentration",
-          "attention"
-        ],
-        "antonyms": [
-          "distraction",
-          "diversion"
-        ]
-      },
-      {
-        "word": "growth",
-        "definition": "The process of increasing in size, value, or importance, often measured in terms of revenue, market share, or user base.",
-        "businessContext": "In the business world, growth is a key indicator of success and sustainability, driving investment decisions and strategic planning.",
-        "nuance": "Growth can be organic, resulting from internal efforts, or inorganic, achieved through mergers and acquisitions; both types have different implications for a company's strategy.",
-        "synonyms": [
-          "expansion",
-          "development"
-        ],
-        "antonyms": [
-          "decline",
-          "recession"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "No, no, no, no, no. That's a mistake. You want the mindset of, 'Oh, the next thing is coming. I can't wait for the next thing.'",
@@ -177,10 +119,7 @@
     "timestamp": "00:50",
     "context": "Lenny expresses frustration about how founders struggle to keep up with rapid technological changes, saying they just got used to AI and now have to figure out agents. Marc strongly disagrees with this mindset, arguing that successful entrepreneurs should be excited about constant innovation rather than overwhelmed by it. He believes embracing continuous change and looking forward to new technological developments is essential for long-term success.",
     "vocabulary_highlights": [
-      "mindset",
-      "rapid",
-      "technological",
-      "frustration"
+      "mindset"
     ],
     "topics": [
       "Leadership & Management",
@@ -212,50 +151,9 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "rapid",
-        "definition": "Occurring within a short time; fast or quick in movement or progress.",
-        "businessContext": "In the tech industry, 'rapid' often describes the pace of innovation or development, such as rapid prototyping or rapid market changes.",
-        "nuance": "While 'rapid' conveys speed, it can also imply a sense of urgency that may not always be sustainable in business practices.",
-        "synonyms": [
-          "swift",
-          "expeditious"
-        ],
-        "antonyms": [
-          "slow",
-          "gradual"
-        ]
-      },
-      {
-        "word": "technological",
-        "definition": "Relating to or involving technology, especially in terms of its application and impact on society.",
-        "businessContext": "In a business context, 'technological' advancements can drive competitive advantage and influence market trends, making it crucial for companies to stay updated.",
-        "nuance": "The term often carries a positive connotation, suggesting innovation and progress, but can also imply challenges related to adaptation and integration.",
-        "synonyms": [
-          "digital",
-          "innovative"
-        ],
-        "antonyms": [
-          "traditional",
-          "obsolete"
-        ]
-      },
-      {
-        "word": "frustration",
-        "definition": "The feeling of being upset or annoyed, especially due to inability to change or achieve something.",
-        "businessContext": "Frustration can arise in the workplace due to obstacles in project completion or communication breakdowns, impacting employee morale and productivity.",
-        "nuance": "While 'frustration' is generally negative, it can also serve as a catalyst for change and improvement when addressed constructively.",
-        "synonyms": [
-          "irritation",
-          "exasperation"
-        ],
-        "antonyms": [
-          "satisfaction",
-          "contentment"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "In the beginner's mind, I have every possibility, but in the expert's mind, I have few, and in some cases, maybe none. So I've been doing this a long time. I've been writing software since I'm 15. I'm now 60. That's 45 years.",
@@ -264,9 +162,7 @@
     "context": "Marc discusses the importance of maintaining a beginner's mind even after decades of experience. He explains this concept from Zen Buddhism called 'Shoshin' - the idea that approaching situations with an open, eager attitude free from preconceptions leads to more creative solutions. Despite 45 years in software development, he actively cultivates this mindset through meditation and deliberately avoiding the trap of thinking he knows all the answers.",
     "vocabulary_highlights": [
       "possibility",
-      "expert",
-      "maintaining",
-      "approaching"
+      "expert"
     ],
     "topics": [
       "Leadership & Management",
@@ -279,9 +175,9 @@
       "AI/ML Products",
       "Growth Strategy"
     ],
-    "text_ko": "초심자 마음(beginner's mind)일 때는 모든 가능성이 열려 있어요. 하지만 전문가의 마음(expert's mind)으로는 가능성이 훨씬 줄고, 어떤 경우에는 아예 없을 수도 있어요. 저는 이 일을 오래 해왔어요. 15살 때부터 소프트웨어(software)를 개발해왔고, 지금은 60살이에요. 그러니까 45년이나 됐죠. 그래서 전문가의 마음을 갖고 싶지 않아요. 계속 초심자 마음을 유지하고 싶어요.",
-    "text_zh": "初学者的心态里，什么都有可能，但专家的心态里，可能性就很少了，有时候甚至完全没有。我做这行已经很久了，从15岁就开始写代码，现在60岁了，整整45年。我不想有专家心态，我要保持初学者心态。",
-    "text_es": "Con la mentalidad de principiante, tengo todas las posibilidades del mundo, pero con la mentalidad de experto, tengo pocas, y en algunos casos, tal vez ninguna. Mira, llevo mucho tiempo en esto. He estado programando desde los 15 años. Ahora tengo 60. Son 45 años. No quiero tener mentalidad de experto. Quiero mantener la mentalidad de principiante.",
+    "text_ko": "초심자 마인드일 때는 모든 가능성이 열려 있지만, 전문가 마인드일 때는 가능성이 많이 줄고, 어떤 경우에는 아예 없을 수도 있어요. 그래서 저는 이 일을 오래 해왔어요. 15살 때부터 소프트웨어를 개발해왔고, 지금은 60살이에요. 그러니까 45년이나 됐어요.",
+    "text_zh": "新手心态下，一切都有可能；但在专家心态里，可能性就少了，有时候甚至没有。话说我做这行挺久的——从15岁开始写软件，现在60岁了，已经整整45年。",
+    "text_es": "Con la mentalidad de principiante tengo todas las posibilidades; con la mentalidad de experto tengo pocas y, en algunos casos, quizá ninguna. Llevo mucho tiempo en esto: programo desde los 15, ahora tengo 60, así que son 45 años.",
     "key_sentence": "A beginner's mind offers every possibility, unlike an expert's mind.",
     "text_trimmed": true,
     "original_text": "In the beginner's mind, I have every possibility, but in the expert's mind, I have few, and in some cases, maybe none. So I've been doing this a long time. I've been writing software since I'm 15. I'm now 60. That's 45 years. I don't want to have an expert's mind. I want to have a beginner's mind.",
@@ -314,36 +210,10 @@
           "novice",
           "amateur"
         ]
-      },
-      {
-        "word": "maintaining",
-        "definition": "The act of keeping something in a specified state or condition, often involving ongoing effort and resources.",
-        "businessContext": "In a business context, 'maintaining' can refer to the continuous support of systems, processes, or relationships to ensure optimal performance and sustainability.",
-        "nuance": "While 'maintaining' suggests stability, it can also imply a lack of progress or innovation if not paired with growth initiatives.",
-        "synonyms": [
-          "sustaining",
-          "upholding"
-        ],
-        "antonyms": [
-          "neglecting",
-          "abandoning"
-        ]
-      },
-      {
-        "word": "approaching",
-        "definition": "Moving closer to a particular point in time, space, or condition; to come near or nearer to something.",
-        "businessContext": "In business, 'approaching' can describe strategies for entering new markets, engaging clients, or addressing challenges, often indicating a proactive stance.",
-        "nuance": "The term 'approaching' conveys a sense of anticipation and readiness, but it can also suggest a lack of immediacy or urgency in some contexts.",
-        "synonyms": [
-          "nearing",
-          "advancing"
-        ],
-        "antonyms": [
-          "departing",
-          "retreating"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I am looking to try to find the winning tactic and turn it into a winning strategy.",
@@ -353,7 +223,6 @@
     "vocabulary_highlights": [
       "tactic",
       "strategy",
-      "parallel experiments",
       "winning"
     ],
     "topics": [
@@ -368,9 +237,9 @@
       "AI/ML Products",
       "Growth Strategy"
     ],
-    "text_ko": "효과 있는 전술(winning tactic)을 찾아서 그걸 효과적인 전략(winning strategy)으로 만들려고 해요. 사실 어떤 게 이 제품 출시에서 가장 중요할지 모르겠어서, 옛말처럼 이것저것 많이 시도해 보고 있어요. 가능한 건 다 해봐서 뭐가 통하는지 보고 있어요.",
-    "text_zh": "我想找到那个制胜的策略，把它变成一套完整的打法。说实话，我也不知道在推这个产品的时候哪个点最关键，所以我就多试试呗，就是那句老话说的——广撒网，看看哪个能行得通。",
-    "text_es": "Estoy buscando encontrar la táctica que funcione y convertirla en una estrategia ganadora. La verdad es que no sé cuál de todas estas cosas va a ser lo más importante para lanzar este producto, así que estoy probando muchas cosas con esa filosofía de siempre. Estoy echando toda la carne al asador. Quiero ver qué es lo que va a cuajar.",
+    "text_ko": "승리로 이어지는 전술(tactic)을 찾아서 그걸 승리 전략(strategy)으로 만들려고 해요.",
+    "text_zh": "我想先试着找出制胜的战术(tactic)，再把它变成制胜的战略(strategy)。",
+    "text_es": "Estoy buscando la táctica ganadora para convertirla en una estrategia que funcione.",
     "key_sentence": "find the winning tactic and turn it into a winning strategy.",
     "text_trimmed": true,
     "original_text": "I am looking to try to find the winning tactic and turn it into a winning strategy. I don't know actually which one of those things is going to be the most important thing in launching this product, so I'm trying a lot of things with that old expression. I'm throwing everything against the wall. I'm looking at what's going to stick.",
@@ -405,20 +274,6 @@
         ]
       },
       {
-        "word": "parallel experiments",
-        "definition": "Simultaneous tests or trials conducted to evaluate different variables or approaches under similar conditions.",
-        "businessContext": "In tech and startup environments, parallel experiments are often used in product development and marketing to quickly assess the effectiveness of various strategies.",
-        "nuance": "This term suggests a systematic approach to innovation, emphasizing the importance of data-driven decision-making and agility.",
-        "synonyms": [
-          "concurrent tests",
-          "simultaneous trials"
-        ],
-        "antonyms": [
-          "single experiment",
-          "N/A"
-        ]
-      },
-      {
         "word": "winning",
         "definition": "Achieving success or a favorable outcome, often in a competitive context.",
         "businessContext": "In business, 'winning' can refer to surpassing competitors, achieving market leadership, or successfully executing a project that meets or exceeds objectives.",
@@ -432,7 +287,9 @@
           "failing"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "It's not just about the product. It's not just about sales. It's not just about marketing. It's about everything, so you better be ready to be an orchestra leader. You can't just be playing the clarinet.",
@@ -440,10 +297,7 @@
     "timestamp": "44:56",
     "context": "Lenny asks about advice for product-oriented founders who are hesitant to focus on sales and marketing. Marc responds by rejecting the idea that companies should be narrowly focused on just one area like product development. He uses the metaphor of an orchestra to explain that successful entrepreneurs must coordinate all aspects of their business - product, sales, marketing, finance, employees, and stakeholders - rather than excelling in just one area.",
     "vocabulary_highlights": [
-      "orchestra leader",
-      "narrowly focused",
-      "product-oriented",
-      "sales and marketing"
+      "orchestra leader"
     ],
     "topics": [
       "Leadership & Management",
@@ -475,50 +329,9 @@
           "follower",
           "disorganizer"
         ]
-      },
-      {
-        "word": "narrowly focused",
-        "definition": "Narrowly focused describes a perspective or approach that is limited in scope, concentrating on specific details or aspects rather than a broader view.",
-        "businessContext": "In business, being narrowly focused can refer to a strategy that targets a specific market segment or product feature, which may enhance expertise but can also limit growth opportunities.",
-        "nuance": "While a narrowly focused approach can lead to specialization and depth, it may also result in missed opportunities for innovation or broader market appeal.",
-        "synonyms": [
-          "specialized",
-          "concentrated"
-        ],
-        "antonyms": [
-          "broadly focused",
-          "generalized"
-        ]
-      },
-      {
-        "word": "product-oriented",
-        "definition": "Product-oriented refers to a business approach that prioritizes the development and features of a product over other considerations such as customer needs or market trends.",
-        "businessContext": "In tech and startups, a product-oriented strategy often emphasizes innovation and quality in product development, sometimes at the expense of customer engagement or marketing efforts.",
-        "nuance": "This term can imply a strong commitment to product excellence, but may also suggest a disconnect from market demands if customer feedback is not adequately integrated.",
-        "synonyms": [
-          "product-centric",
-          "feature-driven"
-        ],
-        "antonyms": [
-          "customer-oriented",
-          "market-driven"
-        ]
-      },
-      {
-        "word": "sales and marketing",
-        "definition": "Sales and marketing encompass the strategies and activities involved in promoting and selling products or services to customers.",
-        "businessContext": "In business, sales and marketing are critical functions that work together to drive revenue, with marketing generating leads and sales converting those leads into customers.",
-        "nuance": "While often used interchangeably, sales and marketing can represent distinct functions, with marketing focusing on brand awareness and customer engagement, while sales is more directly concerned with transactions.",
-        "synonyms": [
-          "business development",
-          "commercial strategy"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "My friend, Michael Bell, is probably the best entrepreneur I know. He says, 'There is no linear success.' So what that means is that stock chart that you just referred to, there's no up-and-to-the-right perfect chart where it's just one line.",
@@ -527,9 +340,7 @@
     "context": "Marc shares a difficult period from two years ago when Salesforce had to lay off 10% of their workforce after overhiring during the pandemic. He reflects on this failure and the broader lesson that entrepreneurship involves constant ups and downs. He quotes entrepreneur Michael Bell's wisdom that no company, not even Apple, experiences perfectly smooth growth - there will always be setbacks, economic changes, and unexpected challenges.",
     "vocabulary_highlights": [
       "entrepreneur",
-      "linear success",
-      "broader lesson",
-      "overhiring"
+      "linear success"
     ],
     "topics": [
       "Leadership & Management",
@@ -575,35 +386,8 @@
           "volatile success",
           "erratic performance"
         ]
-      },
-      {
-        "word": "broader lesson",
-        "definition": "A broader lesson refers to a general principle or insight that can be derived from a specific experience or situation.",
-        "businessContext": "In business discussions, identifying broader lessons can help teams apply insights from past experiences to future strategies and decision-making.",
-        "nuance": "This phrase suggests a deeper understanding that transcends the immediate context, encouraging reflection and learning.",
-        "synonyms": [
-          "general insight",
-          "wider implication"
-        ],
-        "antonyms": [
-          "specific detail",
-          "narrow focus"
-        ]
-      },
-      {
-        "word": "overhiring",
-        "definition": "Overhiring is the practice of recruiting more employees than necessary for a company's current operational needs, often leading to inefficiencies and increased costs.",
-        "businessContext": "In the tech and startup sectors, overhiring can occur during periods of rapid growth, but it may result in layoffs or restructuring when market conditions change.",
-        "nuance": "This term often carries a negative connotation, suggesting poor planning or misjudgment in workforce management.",
-        "synonyms": [
-          "excessive hiring",
-          "staff surplus"
-        ],
-        "antonyms": [
-          "understaffing",
-          "lean hiring"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

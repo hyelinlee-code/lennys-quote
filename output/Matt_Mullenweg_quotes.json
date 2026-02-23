@@ -4,12 +4,7 @@
     "speaker": "Matt Mullenweg",
     "timestamp": "00:00:08",
     "context": "Lenny asks Matt about how he deals with the negative sentiment from people who now see him as controversial due to the WP Engine dispute. Matt explains that while many people think he was universally beloved before this controversy, there have actually been critics within the WordPress community for years over various decisions like introducing new features. He's putting the current criticism in perspective by noting it's still a small percentage of people overall.",
-    "vocabulary_highlights": [
-      "negative sentiment",
-      "controversial",
-      "dispute",
-      "universal"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Leadership & Management",
       "Communication Skills"
@@ -26,64 +21,8 @@
     "text_es": "Si estabas al tanto de lo que pasaba internamente en WordPress, en realidad hay mucha gente que ha estado molesta conmigo a lo largo de los años. Antes, el 1% del mundo pensaba que era un desastre y ahora siento que ya subió al cuatro o 5%.",
     "key_sentence": "1% of the world thought I was terrible; now it's up to four or 5%.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "negative sentiment",
-        "definition": "A prevailing attitude or feeling that is unfavorable or critical towards a person, organization, or idea.",
-        "businessContext": "In business, negative sentiment can affect brand reputation, customer loyalty, and employee morale, often measured through surveys and social media analysis.",
-        "nuance": "While it indicates discontent, it can also highlight areas for improvement; however, excessive negative sentiment may deter potential customers.",
-        "synonyms": [
-          "dissatisfaction",
-          "hostility"
-        ],
-        "antonyms": [
-          "positive sentiment",
-          "approval"
-        ]
-      },
-      {
-        "word": "controversial",
-        "definition": "Causing or likely to cause public disagreement or heated debate.",
-        "businessContext": "In the tech industry, controversial decisions, such as data privacy policies or product launches, can lead to significant media attention and stakeholder reactions.",
-        "nuance": "While being controversial can attract attention, it may also alienate certain customer segments; thus, it should be approached with caution.",
-        "synonyms": [
-          "debatable",
-          "contentious"
-        ],
-        "antonyms": [
-          "uncontroversial",
-          "accepted"
-        ]
-      },
-      {
-        "word": "dispute",
-        "definition": "A disagreement or argument, often involving conflicting views or claims.",
-        "businessContext": "Disputes in business can arise over contracts, intellectual property, or workplace issues, and may require negotiation or legal intervention to resolve.",
-        "nuance": "Disputes can indicate underlying issues that need addressing; however, they can also escalate if not managed effectively.",
-        "synonyms": [
-          "conflict",
-          "controversy"
-        ],
-        "antonyms": [
-          "agreement",
-          "consensus"
-        ]
-      },
-      {
-        "word": "universal",
-        "definition": "Applicable or common to all cases or situations; widely accepted or recognized.",
-        "businessContext": "In a global marketplace, universal principles such as customer service standards or ethical practices can enhance brand consistency and trust across diverse markets.",
-        "nuance": "While 'universal' implies broad applicability, it may overlook cultural nuances that require tailored approaches in specific contexts.",
-        "synonyms": [
-          "global",
-          "widespread"
-        ],
-        "antonyms": [
-          "local",
-          "specific"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true
   },
   {
     "text": "Since 2019, WP Engine has kind of changed a bit. They started using the trademark, they're offering something called WordPress. They're referred to it as like a bastardized hacked up version of it. It's diluting our brand.",
@@ -92,9 +31,7 @@
     "context": "Lenny asks Matt to explain the high-level overview of what's happening with WP Engine. Matt describes how WP Engine was acquired by private equity firm Silver Lake in 2019, and since then has been using WordPress trademarks inappropriately while offering a modified version of WordPress that removes key features like post revisions to save money. This creates brand confusion and dilutes the WordPress trademark.",
     "vocabulary_highlights": [
       "diluting",
-      "trademark",
-      "acquired",
-      "private equity"
+      "trademark"
     ],
     "topics": [
       "Leadership & Management",
@@ -140,36 +77,9 @@
           "generic term",
           "common name"
         ]
-      },
-      {
-        "word": "acquired",
-        "definition": "To obtain or gain possession of something, often through purchase or merger.",
-        "businessContext": "In the corporate world, 'acquired' typically refers to a company that has been bought by another company, which can lead to changes in management, strategy, or product offerings.",
-        "nuance": "The term can imply a strategic move for growth or expansion, but in some contexts, it may also suggest a loss of independence for the acquired entity.",
-        "synonyms": [
-          "obtained",
-          "secured"
-        ],
-        "antonyms": [
-          "lost",
-          "divested"
-        ]
-      },
-      {
-        "word": "private equity",
-        "definition": "Investment funds that are not listed on public exchanges, typically used to acquire private companies or to take public companies private.",
-        "businessContext": "Private equity firms often invest in companies with the goal of improving their financial performance and eventually selling them for a profit, playing a significant role in mergers and acquisitions.",
-        "nuance": "While 'private equity' can suggest exclusivity and high returns, it may also carry connotations of aggressive restructuring or cost-cutting measures.",
-        "synonyms": [
-          "investment capital",
-          "buyout funds"
-        ],
-        "antonyms": [
-          "public equity",
-          "stock market investments"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "If you're really open and open source, sometimes you have to stand up the bullies and you have to fight to protect your open source ideals. Otherwise people could take advantage of it in a way that ultimately can destroy everything you've created.",
@@ -177,7 +87,6 @@
     "timestamp": "00:00:00",
     "context": "Matt explains why he took a confrontational approach with WP Engine despite his usual collaborative style. He's addressing criticism that he's become mean or aggressive, arguing that protecting open source principles sometimes requires standing up to companies that would exploit the open nature of these projects. He believes that failing to defend against such exploitation could ultimately harm the entire open source ecosystem he's spent decades building.",
     "vocabulary_highlights": [
-      "confrontational",
       "protect",
       "advantage",
       "ideals"
@@ -199,20 +108,6 @@
     "key_sentence": "You must stand up the bullies to protect your open source ideals.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "confrontational",
-        "definition": "Characterized by a tendency to challenge or oppose others, often in a direct and aggressive manner.",
-        "businessContext": "In business environments, a confrontational approach may arise during negotiations or conflict resolution, where parties openly challenge each other's positions.",
-        "nuance": "While being confrontational can sometimes lead to necessary discussions, it may also create a hostile atmosphere if not managed carefully.",
-        "synonyms": [
-          "aggressive",
-          "antagonistic"
-        ],
-        "antonyms": [
-          "cooperative",
-          "agreeable"
-        ]
-      },
       {
         "word": "protect",
         "definition": "To keep safe from harm or injury; to defend against potential threats.",
@@ -255,19 +150,15 @@
           "pragmatism"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "A lie gets around the world seven times before the truth has time to get out of bed.",
     "speaker": "Matt Mullenweg",
     "timestamp": "00:00:56",
     "context": "Lenny asks why so many people view Matt as the bad guy in the WP Engine controversy. Matt responds with this classic saying to explain how misinformation can spread much faster than corrections on social media. He's suggesting that false narratives about the situation have gained more traction than the actual facts, particularly on platforms like Twitter where controversial content gets promoted by algorithms.",
-    "vocabulary_highlights": [
-      "misinformation",
-      "spread",
-      "controversy",
-      "corrections"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Communication Skills",
       "Leadership & Management"
@@ -284,64 +175,8 @@
     "text_es": "Una mentira ya le ha dado siete vueltas al mundo mientras la verdad todavía se está levantando de la cama.",
     "key_sentence": "A lie gets around the world seven times before the truth gets out of bed.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "misinformation",
-        "definition": "Misinformation refers to false or inaccurate information that is spread, regardless of intent. It can lead to misunderstandings and misinterpretations in various contexts.",
-        "businessContext": "In business and technology, misinformation can negatively impact brand reputation, customer trust, and decision-making processes, especially in the age of social media where information spreads rapidly.",
-        "nuance": "While misinformation is often unintentional, it can still have serious consequences, making it important to verify information before sharing.",
-        "synonyms": [
-          "false information",
-          "disinformation"
-        ],
-        "antonyms": [
-          "fact",
-          "truth"
-        ]
-      },
-      {
-        "word": "spread",
-        "definition": "Spread refers to the act of distributing or disseminating information, ideas, or products across a wide audience. It can also denote the extent to which something is shared or circulated.",
-        "businessContext": "In a business context, the spread of information can influence marketing strategies, customer engagement, and the overall reach of a product or service.",
-        "nuance": "The term can imply both positive and negative connotations depending on the nature of the information being spread, such as beneficial news versus harmful rumors.",
-        "synonyms": [
-          "disseminate",
-          "circulate"
-        ],
-        "antonyms": [
-          "contain",
-          "restrict"
-        ]
-      },
-      {
-        "word": "controversy",
-        "definition": "Controversy refers to a prolonged public disagreement or heated discussion surrounding a particular topic, often involving differing opinions and strong emotions. It can arise from various issues, including ethical, political, or social matters.",
-        "businessContext": "In the business world, controversy can affect public perception, brand loyalty, and stakeholder relationships, making it crucial for companies to manage their public relations effectively.",
-        "nuance": "While controversy can generate attention and engagement, it can also lead to backlash, so businesses must navigate it carefully to avoid reputational damage.",
-        "synonyms": [
-          "debate",
-          "dispute"
-        ],
-        "antonyms": [
-          "consensus",
-          "agreement"
-        ]
-      },
-      {
-        "word": "corrections",
-        "definition": "Corrections refer to the act of rectifying or amending errors or inaccuracies in information or statements. They are essential for maintaining credibility and trustworthiness.",
-        "businessContext": "In a business setting, timely corrections are vital for addressing misinformation or mistakes in communications, reports, or marketing materials to uphold a company's integrity.",
-        "nuance": "The term implies a proactive approach to error management, emphasizing the importance of transparency and accountability in communication.",
-        "synonyms": [
-          "rectifications",
-          "amendments"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true
   },
   {
     "text": "Don't just build a product, build a movement. And to the extent that we've been successful, I think it's that we give people something to believe in, a philosophy, a worldview.",
@@ -435,8 +270,6 @@
     "timestamp": "00:36:44",
     "context": "Matt continues explaining his community-building philosophy, emphasizing that successful open source projects require much more than just good software. He's describing the comprehensive ecosystem needed around a product - events, forums, contribution opportunities, and regular communication channels. This holistic approach to community building has been key to WordPress's success in creating engaged contributors and users.",
     "vocabulary_highlights": [
-      "community-building",
-      "ecosystem",
       "contribute",
       "forums"
     ],
@@ -457,34 +290,6 @@
     "key_sentence": "It's not just software; consider office hours and town halls.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "community-building",
-        "definition": "The process of creating and nurturing a group of individuals who share common interests or goals, fostering a sense of belonging and collaboration.",
-        "businessContext": "In business and tech environments, community-building is essential for user engagement, customer loyalty, and fostering innovation through collaboration among users and stakeholders.",
-        "nuance": "While often associated with social initiatives, in a business context, community-building emphasizes strategic relationships and networking.",
-        "synonyms": [
-          "networking",
-          "relationship development"
-        ],
-        "antonyms": [
-          "isolation",
-          "alienation"
-        ]
-      },
-      {
-        "word": "ecosystem",
-        "definition": "A complex network of interconnected entities, including businesses, users, and technologies, that interact and depend on each other to thrive.",
-        "businessContext": "In the tech industry, an ecosystem often refers to the collaborative environment surrounding a product or service, including developers, partners, and customers that contribute to its success.",
-        "nuance": "The term implies a dynamic and interdependent relationship among various stakeholders, rather than a static structure.",
-        "synonyms": [
-          "network",
-          "framework"
-        ],
-        "antonyms": [
-          "solitary",
-          "independent"
-        ]
-      },
       {
         "word": "contribute",
         "definition": "To provide or supply something, such as ideas, resources, or effort, to a common goal or project.",
@@ -513,6 +318,7 @@
           "secrecy"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

@@ -5,10 +5,7 @@
     "timestamp": "00:04:41",
     "context": "Lenny asks Sam why he decided to focus on teaching proper etiquette and why people should pay attention to this topic. Sam explains his philosophy for choosing projects - he looks for things that are both entertaining and practically valuable. He believes that in today's noisy information environment, humor is essential for getting people's attention, but it must be paired with genuine utility to have lasting impact.",
     "vocabulary_highlights": [
-      "intersection",
-      "philosophy",
-      "focus on",
-      "engaging"
+      "intersection"
     ],
     "topics": [
       "Strategy & Planning",
@@ -21,9 +18,9 @@
       "Product Management",
       "Executive Coaching"
     ],
-    "text_ko": "저는 웃기면서도 쓸모 있는 것들, 그 교차점에 있는 걸 정말 좋아해요. 둘 다 필요하거든요. 웃긴 건 그냥 인생은 즐거워야 하니까요. 우리는 재미있고 흥미로운 일을 해야 해요. 그리고 솔직히 말하면 요즘은 잡음 속에서 눈에 띄기가 정말 힘들어요 (cut through the noise). 그래서 유머는 그걸 뚫고 나가는 좋은 방법이에요. 다만 웃기기만 한 유머는 별로 쓸모가 없어요.",
-    "text_zh": "我特别喜欢那种既搞笑又实用的东西，这两样缺一不可。搞笑是因为生活就应该有乐趣嘛，我们做的事情应该既好玩又有意思。另外，说实话，现在信息太多太杂了，想要突出重围真的很难。幽默是个很好的突破方式，但如果只是为了搞笑而搞笑，那就没什么用了。",
-    "text_es": "Me encanta trabajar en cosas que sean divertidas y útiles a la vez. Necesitas las dos cosas. Lo divertido porque hay que disfrutar la vida, ¿no? Deberíamos estar trabajando en proyectos que nos emocionen y nos parezcan interesantes. Y siendo honestos, hoy en día es súper difícil destacar entre tanto ruido. El humor es una manera genial de lograrlo, pero hacer chistes nada más por hacerlos no sirve de mucho.",
+    "text_ko": "저는 웃기면서도 쓸모 있는 것들에 정말 끌려요. 둘 다 필요하거든요. 그리고 웃긴 건 인생에서 즐거움을 느껴야 하니까요. 우리는 재미있고 흥미로운 일들을 해야 해요.",
+    "text_zh": "我特别喜欢那种既好笑又实用的东西，两个都得有。好笑这点很重要——人生总得有点乐子。我们应该做的，是那些既好玩又有意义的事。",
+    "text_es": "Me encantan las cosas que son a la vez divertidas y útiles. Se necesitan ambas. Y lo divertido, porque hay que disfrutar la vida. Deberíamos trabajar en cosas que sean divertidas e interesantes.",
     "key_sentence": "I really enjoy things at the intersection of hilarious and useful.",
     "text_trimmed": true,
     "original_text": "I really enjoy things at the intersection of hilarious and useful. You kind of need both. And hilarious just because you should have fun in life. We should be working on things that are fun and interesting. Also, candidly, if we're being more honest about it's very hard to cut through the noise these days. So you need humor is a great way to cut through it, but humor just for the sake of being funny is not that useful.",
@@ -42,50 +39,10 @@
           "separation",
           "divergence"
         ]
-      },
-      {
-        "word": "philosophy",
-        "definition": "A set of beliefs or principles that guide an individual's or organization's behavior and decision-making.",
-        "businessContext": "In a corporate setting, a company's philosophy can influence its culture, strategy, and approach to customer relations and employee engagement.",
-        "nuance": "The term can imply a deeper, more reflective approach to understanding values and ethics, rather than just practical considerations.",
-        "synonyms": [
-          "principle",
-          "doctrine"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "focus on",
-        "definition": "To concentrate attention or effort on a particular subject or task.",
-        "businessContext": "In business, 'focus on' is crucial for prioritizing resources and efforts to achieve specific goals or objectives effectively.",
-        "nuance": "While it denotes concentration, it can also imply the need to disregard less important tasks or distractions.",
-        "synonyms": [
-          "concentrate on",
-          "emphasize"
-        ],
-        "antonyms": [
-          "disregard",
-          "neglect"
-        ]
-      },
-      {
-        "word": "engaging",
-        "definition": "Attracting or holding interest or attention; captivating.",
-        "businessContext": "In marketing and product development, creating engaging content or experiences is vital for capturing customer interest and fostering loyalty.",
-        "nuance": "The term often carries a positive connotation, suggesting not just interest but also an emotional connection or involvement.",
-        "synonyms": [
-          "captivating",
-          "intriguing"
-        ],
-        "antonyms": [
-          "boring",
-          "uninspiring"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Understanding how to meet people, where they're at, build trust, mirror kind of expected behaviors. These are all tools. And so that's the deep truth. The shallow truth is it's kind of funny to teach Silicon Valley people etiquette.",
@@ -95,7 +52,6 @@
     "vocabulary_highlights": [
       "build trust",
       "expected behaviors",
-      "social skills",
       "etiquette"
     ],
     "topics": [
@@ -110,9 +66,9 @@
       "Product Management",
       "Executive Coaching"
     ],
-    "text_ko": "사람들을 어떻게 만나고, 그들이 지금 어떤 상황인지 파악하고, 신뢰를 쌓고, 기대되는 행동을 맞춰 보여주는 법을 아는 것 — 이 모든 게 도구예요. 그래서 그게 진짜 핵심이에요. 반면 피상적인 진실은 실리콘밸리 사람들에게 에티켓(etiquette)을 가르치는 게 좀 웃기다는 거예요. 오랫동안 이어져 온 이야기 흐름은 '이런 건 중요하지 않으니 그냥 제품(product)에만 집중해라'였죠.",
-    "text_zh": "要懂得怎么跟人打交道，了解别人的想法，建立信任，做一些大家期望看到的行为。这些都是工具嘛。这就是深层的道理。表面上看，教硅谷那些人礼仪挺有意思的。因为长期以来他们的观念就是，这些东西都不重要，专心做好产品就行了。",
-    "text_es": "Entender cómo conectar con la gente donde están, generar confianza, reflejar las conductas que esperan. Todo eso son herramientas. Y esa es la verdad profunda. La verdad superficial es que tiene su gracia enseñarle protocolo a la gente de Silicon Valley. Durante mucho tiempo la narrativa ha sido: nada de esto importa, solo enfócate en tu producto.",
+    "text_ko": "사람들을 어떻게 만나고, 그들이 어떤 상태인지 파악하고, 신뢰를 쌓고, 상대가 기대하는 행동을 맞춰 보여 주는 법을 이해하는 것 — 이 모든 게 도구예요. 그게 진짜 핵심이에요. 반면에 겉으로 보이는 얘기는 실리콘밸리 사람들에게 예절(etiquette)을 가르치는 게 좀 웃기다는 거예요.",
+    "text_zh": "要懂得怎么结识别人、了解他们处在哪儿、建立信任，并按对方期望的方式表现自己——这些都是工具。这才是更深层的道理。表面上看，教硅谷 (Silicon Valley) 的人礼仪 (etiquette) 有点好笑。",
+    "text_es": "Saber cómo conectar con la gente, en qué punto están, generar confianza y reflejar los comportamientos que esperan. Todo eso son herramientas. Esa es la verdad de fondo. La verdad superficial es que resulta un poco curioso enseñar etiqueta a la gente de Silicon Valley.",
     "key_sentence": "Meeting people where they're at builds trust and mirrors expected behaviors.",
     "text_trimmed": true,
     "original_text": "Understanding how to meet people, where they're at, build trust, mirror kind of expected behaviors. These are all tools. And so that's the deep truth. The shallow truth is it's kind of funny to teach Silicon Valley people etiquette. The whole narrative for so long has been, none of this matters, just focus on your product.",
@@ -147,20 +103,6 @@
         ]
       },
       {
-        "word": "social skills",
-        "definition": "The abilities that facilitate effective interaction and communication with others in social contexts.",
-        "businessContext": "In the business realm, strong social skills are crucial for networking, teamwork, and leadership, impacting overall organizational success.",
-        "nuance": "While often associated with interpersonal interactions, social skills can also encompass emotional intelligence and adaptability in various situations.",
-        "synonyms": [
-          "interpersonal skills",
-          "communication abilities"
-        ],
-        "antonyms": [
-          "social ineptitude",
-          "antisocial behavior"
-        ]
-      },
-      {
         "word": "etiquette",
         "definition": "The customary code of polite behavior in society or among members of a particular profession or group.",
         "businessContext": "In a corporate environment, understanding etiquette is vital for maintaining professionalism and fostering respectful interactions among colleagues and clients.",
@@ -174,7 +116,9 @@
           "impoliteness"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "You're at the Kleiner Perkins holiday party. You have all the venture capitalists in the world and all the CEOs. You're at your first company, you're young, maybe you're from a different country. You're like, 'Oh my God, this is my shot.",
@@ -182,10 +126,7 @@
     "timestamp": "00:07:18",
     "context": "Sam describes a scenario where a young founder attends a high-profile networking event filled with important investors and executives. He explains how the pressure and excitement can cause someone to approach networking in the wrong way - being overly eager and transactional rather than building genuine relationships. The 'energizer bunny' reference describes someone who is hyperactive and overwhelming in social situations.",
     "vocabulary_highlights": [
-      "venture capitalists",
-      "networking event",
-      "pressure",
-      "executives"
+      "venture capitalists"
     ],
     "topics": [
       "Networking",
@@ -198,9 +139,9 @@
       "Product Management",
       "Executive Coaching"
     ],
-    "text_ko": "클라이너 퍼킨스(Kleiner Perkins) 홀리데이 파티에 와 있다고 생각해 보세요. 온갖 벤처 투자자들(venture capitalists)과 수많은 CEO들이 모여 있어요. 당신은 첫 직장에서 일하는 젊은 사람일 수도 있고, 어쩌면 외국에서 온 사람일 수도 있죠. ‘세상에, 이게 내 기회야. 이 사람들 다 만나서 누구는 설득하고, 누구랑은 연결을 만들어야 해’라고 생각하며 너무 계산적이고 거래적(transactional)이 돼 버려요. 에너자이저 토끼처럼(energizer bunny) 지나치게 활기차게 굴면 사람 하나쯤은 질려서 떠나요.",
-    "text_zh": "你在凯鹏华盈(Kleiner Perkins)的年会上，满场都是全世界的风投(VC)和CEO。你刚创业，年纪轻，可能还是外国人。你心里想着：\"天哪，这是我的机会啊！这些人我都得聊聊，得说服这个，还得搭上那条线。\" 结果就变得特别功利。如果你像个小马达似的到处蹦跶，肯定会把人给吓跑的。",
-    "text_es": "Estás en la fiesta navideña de Kleiner Perkins. Tienes ahí a todos los capitalistas de riesgo del mundo y a todos los CEOs. Es tu primera empresa, eres joven, tal vez eres de otro país. Y piensas: \"Dios mío, esta es mi oportunidad. Tengo que hablar con toda esta gente, necesito convencer a este de aquello y hacer tal conexión.\" Se vuelve algo muy calculado, muy transaccional. Si llegas como un conejito de Energizer súper intenso, vas a espantar a más de uno.",
+    "text_ko": "클라이너 퍼킨스(Kleiner Perkins) 연말 파티에 와 있어요. 세상에 있는 모든 벤처 투자자들과 수많은 CEO들이 한자리에 모여 있죠. 당신은 첫 회사에 다니는 젊은 직원이고, 어쩌면 다른 나라에서 온 사람일 수도 있어요. 그래서 ‘오 마이 갓, 이게 내 기회다!’라고 생각하게 돼요.",
+    "text_zh": "你在 Kleiner Perkins 的年终派对上，全世界的风险投资人(venture capitalists)和各种 CEO(CEOs) 都在场。你那会儿还在第一家公司，年纪轻，可能来自别的国家。你会想，天哪，这是我的机会。",
+    "text_es": "Estás en la fiesta de fin de año de Kleiner Perkins. Tienes a todos los capitalistas de riesgo (venture capitalists) y a todos los CEOs del mundo. Estás en tu primera empresa, eres joven y quizá seas de otro país. Y piensas: «¡Dios mío, ésta es mi oportunidad!»",
     "key_sentence": "Oh my God, this is my shot.",
     "text_trimmed": true,
     "original_text": "You're at the Kleiner Perkins holiday party. You have all the venture capitalists in the world and all the CEOs. You're at your first company, you're young, maybe you're from a different country. You're like, 'Oh my God, this is my shot. I have all these people I need to talk to and I need to convince this person of that and make this connection.' It becomes very transactional. If you show up like a little energizer bunny, you're going to scare one off.",
@@ -219,50 +160,10 @@
           "angel investors",
           "N/A"
         ]
-      },
-      {
-        "word": "networking event",
-        "definition": "A gathering designed to facilitate the exchange of information and opportunities among professionals, often aimed at building business relationships.",
-        "businessContext": "Networking events are crucial in the business world, particularly in startups and tech, as they provide opportunities for entrepreneurs to connect with potential investors, partners, and mentors.",
-        "nuance": "While generally positive, the term can sometimes carry a connotation of superficiality if the focus is solely on self-promotion rather than genuine relationship-building.",
-        "synonyms": [
-          "professional gathering",
-          "business mixer"
-        ],
-        "antonyms": [
-          "solitary work",
-          "N/A"
-        ]
-      },
-      {
-        "word": "pressure",
-        "definition": "The exertion of force or influence that can compel someone to act or make decisions, often in a stressful context.",
-        "businessContext": "In the corporate environment, pressure can arise from deadlines, performance expectations, or competitive market conditions, influencing decision-making and employee morale.",
-        "nuance": "The term can imply a negative connotation when associated with stress, but it can also refer to the motivation that drives individuals to achieve their goals.",
-        "synonyms": [
-          "stress",
-          "tension"
-        ],
-        "antonyms": [
-          "relaxation",
-          "ease"
-        ]
-      },
-      {
-        "word": "executives",
-        "definition": "High-level managers or leaders within an organization responsible for making strategic decisions and overseeing operations.",
-        "businessContext": "Executives play a critical role in shaping company direction, culture, and performance, often representing the organization in external engagements and negotiations.",
-        "nuance": "The term typically conveys authority and responsibility, and is often used in discussions about leadership, corporate governance, and organizational structure.",
-        "synonyms": [
-          "C-suite",
-          "senior management"
-        ],
-        "antonyms": [
-          "employees",
-          "subordinates"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think understanding how to show up, take a beat, come in with a mindset, not of scarcity, but of abundance, understand how to give more than you take, understand how to build a relationship, not collect business cards.",
@@ -272,8 +173,7 @@
     "vocabulary_highlights": [
       "mindset",
       "abundance",
-      "build a relationship",
-      "extract value"
+      "build a relationship"
     ],
     "topics": [
       "Networking",
@@ -287,9 +187,9 @@
       "Product Management",
       "Executive Coaching"
     ],
-    "text_ko": "어떻게 나타나서 잠깐 멈춰서, 결핍(scarcity)이 아니라 풍요(abundance)의 마음가짐으로 임하는지, 받는 것보다 더 많이 주는 법, 명함을 수집하는 게 아니라 관계를 쌓는 법을 아는 것—이런 것들이 실제로 엄청난 도움이 돼요.",
-    "text_zh": "我觉得关键是要懂得怎么出现，先冷静一下，带着一种心态进场——不是那种稀缺思维，而是富足思维，要懂得多付出少索取，要懂得真正去建立关系，而不是光收集名片。这些东西其实对你帮助特别大。",
-    "text_es": "Creo que entender cómo presentarte, tomarte un momento para respirar, llegar con una mentalidad no de escasez, sino de abundancia, saber cómo dar más de lo que recibes, entender cómo construir relaciones de verdad, no solo coleccionar tarjetas de presentación. Estas son cosas que realmente te van a servir muchísimo.",
+    "text_ko": "저는 어떻게 나서야 할지, 한 박자 쉬어가며 부족함의 마인드셋(scarcity mindset)이 아니라 풍요의 마인드셋(abundance mindset)으로 접근하는 법을 알고, 받는 것보다 더 많이 주는 법을 알고, 명함을 수집하는 게 아니라 관계를 쌓는 법을 아는 게 중요하다고 생각해요.",
+    "text_zh": "我觉得关键在于你怎么出场：先缓一缓，调整心态，不要带着匮乏心态(scarcity)，而是带着丰盛心态(abundance)。要懂得先给出价值，多付出而不是只想着拿，是真正去建立关系，而不是在收集名片。",
+    "text_es": "Creo que se trata de saber presentarte: tomarte un momento y acercarte con una mentalidad de abundancia, no de escasez; dar más de lo que recibes y buscar construir relaciones, no coleccionar tarjetas de visita.",
     "key_sentence": "Adopt an abundance mindset to give more than you take and build relationships.",
     "text_trimmed": true,
     "original_text": "I think understanding how to show up, take a beat, come in with a mindset, not of scarcity, but of abundance, understand how to give more than you take, understand how to build a relationship, not collect business cards. These are things that actually serve you massively well.",
@@ -336,22 +236,10 @@
           "burn bridges",
           "alienate"
         ]
-      },
-      {
-        "word": "extract value",
-        "definition": "To extract value means to derive benefits or advantages from a resource, relationship, or situation, often through strategic actions.",
-        "businessContext": "In the business realm, extracting value can involve leveraging data, partnerships, or customer insights to enhance profitability and competitive advantage.",
-        "nuance": "This phrase can carry a negative connotation if perceived as exploitative, so it is best used in contexts emphasizing mutual benefit and ethical considerations.",
-        "synonyms": [
-          "derive benefit",
-          "gain advantage"
-        ],
-        "antonyms": [
-          "squander",
-          "waste"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I'd also say that, look, this goes back to technical differentiation where things are at.",
@@ -359,10 +247,7 @@
     "timestamp": "00:08:39",
     "context": "Lenny asks whether someone can be successful without knowing etiquette rules, and Sam acknowledges this is possible in rare cases. He uses the biblical reference 'manna from heaven' (meaning an unexpected gift or blessing) to describe startups that create something so revolutionary that social skills become irrelevant. However, he emphasizes this applies to very few companies - those that build truly groundbreaking products like Google.",
     "vocabulary_highlights": [
-      "technical differentiation",
-      "successful",
-      "context",
-      "acknowledge"
+      "technical differentiation"
     ],
     "topics": [
       "Starting a Company",
@@ -375,9 +260,9 @@
       "Product Management",
       "Executive Coaching"
     ],
-    "text_ko": "또 한 가지 말하자면, 이건 결국 기술적 차별화(technical differentiation)가 어디에 있느냐로 되돌아가요. 사실 만약 하늘에서 기적처럼 떨어져서 순수한 생각만으로 문자 그대로 다음 구글(Google)을 만들어낸다면, 그럴 때는 이 모든 게 아무래도 상관없어져요. 실제로 그런 일이 일어나기도 해요. 아주, 아주 드물게 일어나긴 하지만요.",
-    "text_zh": "我还想说，你看，这又回到了技术差异化的问题上。确实是这样，如果你真的能带来天赐良机，纯粹靠想法就发明出下一个谷歌那样的东西，那有时候这些都不重要了，就是这么回事。真的就是这样。这种情况非常非常少见，但确实会发生。",
-    "text_es": "Yo también diría que, mira, esto vuelve a la diferenciación técnica y dónde están las cosas. Es cierto que si traes el maná del cielo, si inventas algo que sea literalmente el próximo Google o lo que sea, salido de la pura imaginación, a veces nada de esto importa, punto. Así de simple. Pasa muy, muy rara vez, pero sí pasa.",
+    "text_ko": "저도 그렇게 말하고 싶어요. 결국 이건 기술적 차별화(technical differentiation), 즉 지금 상황이 어떤지에 달려 있어요.",
+    "text_zh": "我还想说，这又回到技术差异化(technical differentiation)的问题——看现在到底到了哪一步。",
+    "text_es": "Yo también diría que, mira, esto nos remite a la diferenciación técnica (technical differentiation) y en qué punto están las cosas.",
     "key_sentence": "this goes back to technical differentiation where things are at.",
     "text_trimmed": true,
     "original_text": "I'd also say that, look, this goes back to technical differentiation where things are at. It is true that if you bring manna from heaven, you invent something that is literally the next Google or whatever out of pure thought that sometimes none of this stuff matters, that's it. It's literally like that happens. It happens very, very rarely, but it does happen.",
@@ -396,50 +281,10 @@
           "homogeneity",
           "standardization"
         ]
-      },
-      {
-        "word": "successful",
-        "definition": "Successful describes the achievement of desired outcomes or goals, often resulting in positive recognition or financial gain. It indicates a favorable result in a given context.",
-        "businessContext": "In the business realm, a successful project or initiative is one that meets or exceeds its objectives, whether in terms of profitability, market share, or customer satisfaction.",
-        "nuance": "While often associated with financial success, the term can also encompass non-monetary achievements, such as social impact or brand reputation.",
-        "synonyms": [
-          "prosperous",
-          "triumphant"
-        ],
-        "antonyms": [
-          "unsuccessful",
-          "failing"
-        ]
-      },
-      {
-        "word": "context",
-        "definition": "Context refers to the circumstances or setting in which an event occurs or a statement is made, providing essential background information for understanding its significance. It encompasses the relevant factors that influence interpretation.",
-        "businessContext": "In business discussions, context is critical for making informed decisions, as it helps stakeholders understand the market environment, consumer behavior, and competitive landscape.",
-        "nuance": "The term can imply that understanding the broader situation is necessary to grasp the implications of a specific issue or statement, and it is often used to caution against misinterpretation.",
-        "synonyms": [
-          "framework",
-          "background"
-        ],
-        "antonyms": [
-          "isolation",
-          "disregard"
-        ]
-      },
-      {
-        "word": "acknowledge",
-        "definition": "To acknowledge means to recognize the existence, validity, or truth of something, often involving an admission or acceptance of a fact or situation. It implies a level of awareness and acceptance.",
-        "businessContext": "In a business setting, acknowledging contributions, challenges, or feedback is vital for fostering a collaborative environment and building trust among team members and stakeholders.",
-        "nuance": "While it can denote a simple recognition, it often carries a connotation of respect or validation, making it an important term in communication and leadership.",
-        "synonyms": [
-          "recognize",
-          "accept"
-        ],
-        "antonyms": [
-          "deny",
-          "ignore"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "You kind of want to show up with the self-confidence and the calm of abundance, being like, 'This is not going to be my only opportunity. This is an opportunity. I'm excited to be here. I'm engaged. This is part of the story.",
@@ -449,8 +294,7 @@
     "vocabulary_highlights": [
       "self-confidence",
       "opportunity",
-      "engaged",
-      "approach"
+      "engaged"
     ],
     "topics": [
       "Networking",
@@ -464,9 +308,9 @@
       "Product Management",
       "Executive Coaching"
     ],
-    "text_ko": "여유로운 자신감과 차분함으로 나타나면 좋아요. '이게 내 유일한 기회는 아니에요. 그냥 하나의 기회고, 여기 와서 기쁘고 적극적으로 참여하고 있어요. 이건 이야기의 한 부분일 뿐 전부는 아니에요.'",
-    "text_zh": "你要带着那种自信和从容的心态出现，就像——这不是我唯一的机会，这只是其中一个机会。我很兴奋能在这里，我很投入。这只是故事的一部分，不是全部。",
-    "text_es": "Quieres presentarte con esa confianza en ti mismo y esa tranquilidad de quien tiene opciones, con esa actitud de 'Esta no va a ser mi única oportunidad. Es una oportunidad más. Me emociona estar aquí. Estoy comprometido. Esto es parte de la historia, no toda la historia.'",
+    "text_ko": "어떻게 보면 당당하면서도 넉넉함에서 오는 차분함을 가지고 나타나는 게 좋아요. \"이건 제 유일한 기회가 아니에요. 그냥 하나의 기회예요. 여기 오게 되어 기대돼요. 적극적으로 참여하고 있어요. 이건 제 이야기의 일부예요.\"",
+    "text_zh": "你要带着自信和从容不迫的底气出场，心里想着：这不会是我唯一的机会。这只是一个机会。我很高兴能来，也很投入——这只是我这段经历的一部分。",
+    "text_es": "Lo ideal es que te presentes con la confianza y la tranquilidad de quien sabe que hay más oportunidades, como si dijeras: \"Esto no va a ser mi única oportunidad. Es una oportunidad. Me entusiasma estar aquí. Estoy presente y comprometido. Forma parte de mi historia.\"",
     "key_sentence": "Show up with the calm of abundance; this is part of the story.",
     "text_trimmed": true,
     "original_text": "You kind of want to show up with the self-confidence and the calm of abundance, being like, 'This is not going to be my only opportunity. This is an opportunity. I'm excited to be here. I'm engaged. This is part of the story. This is not the entire story.'",
@@ -513,22 +357,10 @@
           "disengaged",
           "apathetic"
         ]
-      },
-      {
-        "word": "approach",
-        "definition": "A method or way of dealing with a situation or problem; a strategy for achieving a goal.",
-        "businessContext": "In business, different approaches can be adopted for marketing, management, and problem-solving, influencing the effectiveness of operations and outcomes.",
-        "nuance": "The term can imply a personal or organizational style, and choosing the right approach often depends on the specific context and objectives.",
-        "synonyms": [
-          "method",
-          "strategy"
-        ],
-        "antonyms": [
-          "disregard",
-          "neglect"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The reality is etiquette ironically matters a lot. There is a deep truth to this. Especially when you're asking people to trust you with their data, trust you with their business.",
@@ -537,9 +369,7 @@
     "context": "Sam makes his core argument for why etiquette has become crucial for modern founders and tech professionals. As technology has moved from being a niche interest to something that affects everyone's livelihood, the stakes have gotten much higher. When you're asking people to trust you with sensitive business data or critical systems, your social presentation and trustworthiness become essential factors in their decision-making process.",
     "vocabulary_highlights": [
       "etiquette",
-      "crucial",
-      "trust",
-      "affects"
+      "trust"
     ],
     "topics": [
       "Leadership & Management",
@@ -553,9 +383,9 @@
       "Product Management",
       "Executive Coaching"
     ],
-    "text_ko": "사실 아이러니하게도 에티켓이 꽤 중요해요. 그 말엔 깊은 진실이 담겨 있어요. 특히 사람들에게 자신의 데이터(data)나 비즈니스(business)를 믿고 맡겨 달라고 할 때는 더 그렇죠. 그리고 기술(technology)이 더 이상 단순한 볼거리나 부수적인 것이 아니라 핵심 사안이 되면, 사람들은 일자리를 잃을까 봐 걱정해요.",
-    "text_zh": "现实情况是，礼貌礼节这些东西，说起来挺讽刺的，其实特别重要。这里面有很深层的道理。特别是当你要别人把数据交给你，把生意托付给你的时候。而且现在技术已经不是什么好玩的小把戏了，而是大事情，大家都担心会丢饭碗。",
-    "text_es": "La realidad es que, irónicamente, la etiqueta importa muchísimo. En esto hay una verdad muy profunda. Sobre todo cuando les estás pidiendo a las personas que confíen en ti con sus datos, que confíen en ti con su negocio. Y cuando la tecnología ya no es algo simpático de segundo plano, sino que es algo serio de verdad, la gente está preocupada por perder su trabajo.",
+    "text_ko": "사실 에티켓(etiquette)은 의외로 정말 중요해요. 이 말에는 중요한 진실이 담겨 있어요. 특히 사람들이 자신의 데이터(data)나 비즈니스(business)를 믿고 맡기게 하려면 더더욱 그렇죠.",
+    "text_zh": "说实话，礼节反而很重要，这话里有很深的道理。尤其是当你要别人信任你，把他们的数据(data)和业务(business)交给你时。",
+    "text_es": "La realidad es que, irónicamente, las formas importan mucho. Hay una verdad profunda detrás de esto. Sobre todo cuando les pides a tus clientes que te confíen sus datos y su negocio.",
     "key_sentence": "Etiquette ironically matters a lot, especially when asking for trust with data.",
     "text_trimmed": true,
     "original_text": "The reality is etiquette ironically matters a lot. There is a deep truth to this. Especially when you're asking people to trust you with their data, trust you with their business. And when technology is no longer some cute sideshow, but it's a major deal, people are worried about losing their jobs.",
@@ -576,20 +406,6 @@
         ]
       },
       {
-        "word": "crucial",
-        "definition": "Crucial means extremely important or essential, often to the success or failure of a situation.",
-        "businessContext": "In the business world, identifying crucial factors can determine strategic decisions, resource allocation, and overall project outcomes.",
-        "nuance": "The term 'crucial' implies a sense of urgency and necessity, suggesting that without addressing the crucial elements, success may be jeopardized.",
-        "synonyms": [
-          "critical",
-          "vital"
-        ],
-        "antonyms": [
-          "insignificant",
-          "trivial"
-        ]
-      },
-      {
         "word": "trust",
         "definition": "Trust is a firm belief in the reliability, truth, or ability of someone or something.",
         "businessContext": "In business, trust is foundational for building strong relationships with clients, partners, and employees, influencing collaboration and loyalty.",
@@ -602,21 +418,9 @@
           "distrust",
           "mistrust"
         ]
-      },
-      {
-        "word": "affects",
-        "definition": "Affects refers to having an influence on or making a change in something.",
-        "businessContext": "In business discussions, understanding how various factors affect outcomes is crucial for making informed decisions and strategic planning.",
-        "nuance": "The term 'affects' can imply both positive and negative influences, so context is important to clarify the nature of the impact being discussed.",
-        "synonyms": [
-          "influences",
-          "impacts"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

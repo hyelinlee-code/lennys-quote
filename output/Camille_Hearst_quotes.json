@@ -6,9 +6,7 @@
     "context": "Lenny inquires about Camille's role at Spotify as head of fan monetization. Camille explains that her team focuses on developing new ways to facilitate connections between artists and their fans. She emphasizes that even lesser-known artists have dedicated supporters and that Spotify aims to transform this enthusiasm into monetization opportunities for the artists.",
     "vocabulary_highlights": [
       "engaged",
-      "passionate",
-      "facilitate",
-      "connections"
+      "passionate"
     ],
     "topics": [
       "Growth & Marketing",
@@ -54,36 +52,9 @@
           "indifferent",
           "dispassionate"
         ]
-      },
-      {
-        "word": "facilitate",
-        "definition": "To make a process easier or more efficient by providing assistance or guidance.",
-        "businessContext": "In the context of business and technology, facilitating often involves enabling collaboration, communication, or the smooth execution of projects and initiatives.",
-        "nuance": "While 'facilitate' implies support, it does not suggest taking control; it emphasizes enabling others to achieve their objectives.",
-        "synonyms": [
-          "assist",
-          "enable"
-        ],
-        "antonyms": [
-          "hinder",
-          "obstruct"
-        ]
-      },
-      {
-        "word": "connections",
-        "definition": "Relationships or links between people, organizations, or ideas that can facilitate communication and collaboration.",
-        "businessContext": "In business, connections are crucial for networking, partnerships, and building customer relationships, often leading to new opportunities and growth.",
-        "nuance": "The term 'connections' can imply both personal and professional relationships, and its effectiveness often depends on the quality rather than the quantity of these links.",
-        "synonyms": [
-          "relationships",
-          "networks"
-        ],
-        "antonyms": [
-          "disconnections",
-          "isolation"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "To some degree, there has to be a value exchange that happens in order for a creative person to live from their art.",
@@ -92,9 +63,7 @@
     "context": "Lenny asks Camille about the best and worst parts of working with artists. Camille reflects on the difficulty artists face in wanting to share their work for free due to their passion for their craft. She highlights the necessity of a value exchange, meaning that artists need to receive compensation for their work to sustain their livelihoods.",
     "vocabulary_highlights": [
       "value exchange",
-      "creative",
-      "passion",
-      "craft"
+      "creative"
     ],
     "topics": [
       "Career Development",
@@ -140,36 +109,9 @@
           "unimaginative",
           "conventional"
         ]
-      },
-      {
-        "word": "passion",
-        "definition": "Passion is a strong feeling of enthusiasm or dedication towards a particular activity, cause, or field of interest.",
-        "businessContext": "In a business context, passion can drive entrepreneurs and employees to pursue their goals with vigor, often leading to greater innovation and commitment to their work.",
-        "nuance": "While passion is generally viewed positively, it can sometimes lead to burnout if not balanced with practical considerations.",
-        "synonyms": [
-          "enthusiasm",
-          "zeal"
-        ],
-        "antonyms": [
-          "indifference",
-          "apathy"
-        ]
-      },
-      {
-        "word": "craft",
-        "definition": "Craft refers to the skill and artistry involved in creating something, often emphasizing the manual or technical aspects of production.",
-        "businessContext": "In business, particularly in industries like manufacturing and design, craft signifies the quality and attention to detail that can differentiate products and enhance brand reputation.",
-        "nuance": "The term can imply a level of expertise and dedication, often associated with handmade or artisanal products, and may not apply to mass-produced items.",
-        "synonyms": [
-          "skill",
-          "artistry"
-        ],
-        "antonyms": [
-          "clumsiness",
-          "ineptitude"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "But I do think that this area continues to be untapped. I just don't see a world where... I think of Michelle Phan, right? She's basically a mini Disney and when you think of it like that, she's created IP.",
@@ -178,8 +120,7 @@
     "context": "Lenny prompts Camille to discuss the future of the creator economy. Camille argues that the potential for creators to thrive is far from exhausted, using the example of Michelle Phan, a successful content creator who has built a personal brand akin to a mini Disney. She emphasizes that creating intellectual property (IP) opens doors for various revenue streams and opportunities for creators.",
     "vocabulary_highlights": [
       "untapped",
-      "created",
-      "potential"
+      "created"
     ],
     "topics": [
       "Starting a Company",
@@ -225,22 +166,9 @@
           "destroyed",
           "abolished"
         ]
-      },
-      {
-        "word": "potential",
-        "definition": "The inherent ability or capacity for growth, development, or future success.",
-        "businessContext": "In business, 'potential' is frequently used to assess market opportunities, employee capabilities, or the future performance of products and services.",
-        "nuance": "While 'potential' suggests promise and opportunity, it can also imply uncertainty regarding whether that promise will be realized.",
-        "synonyms": [
-          "capability",
-          "possibility"
-        ],
-        "antonyms": [
-          "limitation",
-          "inability"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I think it was probably predictable to some degree that platforms would win because just of the nature of aggregation.",
@@ -249,9 +177,7 @@
     "context": "Lenny asks Camille about the trajectory of the creator economy and platforms. Camille reflects on the strong network effect that comes from aggregation, meaning that once a platform consolidates enough creators or consumers, it becomes difficult for new entrants to compete. She notes that established platforms are strategically enhancing features to retain creators and prevent them from leaving.",
     "vocabulary_highlights": [
       "predictable",
-      "trajectory",
-      "aggregation",
-      "network effect"
+      "aggregation"
     ],
     "topics": [
       "Growth & Marketing",
@@ -285,20 +211,6 @@
         ]
       },
       {
-        "word": "trajectory",
-        "definition": "The path or progression of an object or concept over time, often represented in a graphical format.",
-        "businessContext": "In a business context, trajectory is frequently used to describe the growth or decline of a company, product, or market segment, aiding in strategic planning.",
-        "nuance": "The term often implies a directional movement, suggesting that the subject is on a specific course towards an outcome, which can be positive or negative.",
-        "synonyms": [
-          "path",
-          "course"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
         "word": "aggregation",
         "definition": "The process of collecting and combining data or resources from various sources into a single, cohesive unit.",
         "businessContext": "In tech and business, aggregation is crucial for data analysis, market research, and creating platforms that consolidate information for user convenience.",
@@ -311,22 +223,9 @@
           "dispersal",
           "segregation"
         ]
-      },
-      {
-        "word": "network effect",
-        "definition": "A phenomenon where a product or service becomes more valuable as more people use it, leading to increased demand and user growth.",
-        "businessContext": "In the tech industry, network effects are a key driver for platforms like social media and marketplaces, where user participation enhances the overall value of the service.",
-        "nuance": "While network effects can lead to rapid growth and market dominance, they can also create challenges in maintaining quality and user satisfaction as the user base expands.",
-        "synonyms": [
-          "user effect",
-          "value increase"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "So one of the things that I've seen that I don't know if people realize is consistency and predictability of content creation.",
@@ -336,7 +235,6 @@
     "vocabulary_highlights": [
       "consistency",
       "predictability",
-      "crucial",
       "content creation"
     ],
     "topics": [
@@ -385,20 +283,6 @@
         ]
       },
       {
-        "word": "crucial",
-        "definition": "Of great importance; critical to the success or failure of a situation or decision.",
-        "businessContext": "In the corporate world, identifying crucial factors can determine the direction of projects, influence strategic decisions, and impact overall performance.",
-        "nuance": "The term 'crucial' conveys a sense of urgency and necessity, often implying that failure to address the issue could lead to significant consequences.",
-        "synonyms": [
-          "essential",
-          "vital"
-        ],
-        "antonyms": [
-          "insignificant",
-          "trivial"
-        ]
-      },
-      {
         "word": "content creation",
         "definition": "The process of generating relevant and valuable information or media to attract and engage a target audience.",
         "businessContext": "In the digital marketing landscape, content creation is essential for brand visibility, audience engagement, and driving conversions through various platforms.",
@@ -412,7 +296,8 @@
           "content deletion"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "What I learned and that we really emphasized during that time is this idea of having dual track agile going where you're doing discovery and delivery simultaneously.",

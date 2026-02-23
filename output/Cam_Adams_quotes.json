@@ -5,9 +5,6 @@
     "timestamp": "00:00:12",
     "context": "Lenny asks Cameron about the culture at Canva. Cameron describes a specific cultural principle called 'giving away your Lego', which emphasizes the importance of sharing knowledge and responsibilities within the team. This concept encourages employees to find fulfillment in mentoring others and contributing to collective success rather than clinging to individual tasks.",
     "vocabulary_highlights": [
-      "sharing knowledge",
-      "responsibilities",
-      "cultural principle",
       "experience"
     ],
     "topics": [
@@ -28,48 +25,6 @@
     "vocab_reparsed": true,
     "vocabulary": [
       {
-        "word": "sharing knowledge",
-        "definition": "The act of disseminating information, skills, or expertise to others, often to enhance understanding or performance.",
-        "businessContext": "In business and tech environments, sharing knowledge is crucial for fostering collaboration, innovation, and continuous improvement among team members.",
-        "nuance": "This phrase often implies a collaborative spirit and a willingness to mentor, rather than simply transferring information.",
-        "synonyms": [
-          "knowledge transfer",
-          "information sharing"
-        ],
-        "antonyms": [
-          "withholding information",
-          "N/A"
-        ]
-      },
-      {
-        "word": "responsibilities",
-        "definition": "Duties or obligations that an individual is expected to fulfill in a professional or organizational context.",
-        "businessContext": "In a business setting, clearly defined responsibilities are essential for accountability, role clarity, and effective team dynamics.",
-        "nuance": "While responsibilities can imply mandatory tasks, they can also encompass voluntary commitments that contribute to a team's success.",
-        "synonyms": [
-          "duties",
-          "obligations"
-        ],
-        "antonyms": [
-          "freedom",
-          "N/A"
-        ]
-      },
-      {
-        "word": "cultural principle",
-        "definition": "A foundational belief or value that shapes the behaviors, practices, and norms within an organization or community.",
-        "businessContext": "In startups and tech companies, cultural principles guide decision-making, influence team interactions, and help establish a cohesive work environment.",
-        "nuance": "Cultural principles often reflect the organization's identity and can be a source of competitive advantage when aligned with business goals.",
-        "synonyms": [
-          "core value",
-          "organizational belief"
-        ],
-        "antonyms": [
-          "cultural indifference",
-          "N/A"
-        ]
-      },
-      {
         "word": "experience",
         "definition": "The knowledge or skill acquired through practical involvement in a particular activity or field over time.",
         "businessContext": "In professional settings, experience is highly valued as it often correlates with expertise, decision-making ability, and leadership potential.",
@@ -83,7 +38,8 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "We don't really have managers, but everyone at Canva has a coach. They're constantly working with you to look at your skills, but also when it might be time to move on to the next level.",
@@ -91,8 +47,6 @@
     "timestamp": "00:00:25",
     "context": "Lenny inquires about the coaching structure at Canva. Cameron explains that instead of traditional managers, Canva employs a coaching model where each employee has a coach to help them assess their skills and identify opportunities for advancement. This approach fosters personal and professional growth, ensuring that employees have support as they navigate their careers.",
     "vocabulary_highlights": [
-      "coaching model",
-      "assess",
       "move on",
       "next level"
     ],
@@ -113,34 +67,6 @@
     "key_sentence": "Canva's coaching model helps you move on to the next level.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "coaching model",
-        "definition": "A structured approach to developing individuals' skills and competencies through guidance and feedback from a coach.",
-        "businessContext": "In business settings, a coaching model is often implemented to enhance employee performance, foster leadership skills, and promote personal growth within teams.",
-        "nuance": "The term implies a collaborative and supportive relationship, distinguishing it from traditional management styles that may be more directive.",
-        "synonyms": [
-          "mentorship framework",
-          "developmental model"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "assess",
-        "definition": "To evaluate or estimate the nature, ability, or quality of something.",
-        "businessContext": "In a business context, assessing can refer to analyzing employee performance, project outcomes, or market conditions to inform strategic decisions.",
-        "nuance": "The term often carries a formal connotation, suggesting a systematic approach to evaluation rather than casual observation.",
-        "synonyms": [
-          "evaluate",
-          "appraise"
-        ],
-        "antonyms": [
-          "ignore",
-          "neglect"
-        ]
-      },
       {
         "word": "move on",
         "definition": "To progress from one stage or situation to another, often implying a transition to something better or more advanced.",
@@ -169,7 +95,8 @@
           "initial stage"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I think there's probably a few different stories that would resonate with your audience because there's like business kind of stories of how the actual company's tracking. There's product stories of stuff we launched that didn't go anywhere.",
@@ -179,8 +106,7 @@
     "vocabulary_highlights": [
       "resonate",
       "tracking",
-      "launched",
-      "narrative"
+      "launched"
     ],
     "topics": [
       "Growth & Marketing",
@@ -240,22 +166,9 @@
           "withdrawn",
           "shelved"
         ]
-      },
-      {
-        "word": "narrative",
-        "definition": "A structured account or story that conveys information or a message, often used to engage an audience.",
-        "businessContext": "In business, 'narrative' is important for storytelling in marketing, branding, and presentations, helping to frame a company's mission and values effectively.",
-        "nuance": "While 'narrative' suggests a coherent and compelling story, it can also imply a crafted or selective presentation of facts, which may lead to skepticism if perceived as manipulative.",
-        "synonyms": [
-          "story",
-          "account"
-        ],
-        "antonyms": [
-          "disorder",
-          "confusion"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "Part of being in a startup is scaling, when you're scaling from zero users to a million to a hundred million, and when you're scaling from three founders to 10 employees to 100 employees to 4,000 employees.",
@@ -264,8 +177,6 @@
     "context": "Lenny asks Cameron about the cultural concept of 'giving away your Lego'. Cameron explains that as startups grow, the need for flexibility and collaboration increases. He emphasizes that scaling involves not only expanding user numbers but also adapting internal processes and team dynamics to support this growth.",
     "vocabulary_highlights": [
       "scaling",
-      "collaboration",
-      "flexibility",
       "employees"
     ],
     "topics": [
@@ -300,34 +211,6 @@
         ]
       },
       {
-        "word": "collaboration",
-        "definition": "The act of working together with one or more individuals or organizations to achieve a common goal.",
-        "businessContext": "In business, collaboration is essential for fostering innovation, improving productivity, and leveraging diverse skill sets among team members.",
-        "nuance": "Collaboration emphasizes teamwork and shared responsibility, contrasting with competition or individualism.",
-        "synonyms": [
-          "cooperation",
-          "partnership"
-        ],
-        "antonyms": [
-          "isolation",
-          "competition"
-        ]
-      },
-      {
-        "word": "flexibility",
-        "definition": "The ability to adapt to new, different, or changing requirements or conditions.",
-        "businessContext": "In the context of startups, flexibility is crucial for responding to market changes, customer feedback, and evolving business strategies.",
-        "nuance": "Flexibility can imply a willingness to pivot or change direction, which is often necessary in dynamic business environments.",
-        "synonyms": [
-          "adaptability",
-          "versatility"
-        ],
-        "antonyms": [
-          "rigidity",
-          "inflexibility"
-        ]
-      },
-      {
         "word": "employees",
         "definition": "Individuals who are hired to perform specific tasks or roles within an organization in exchange for compensation.",
         "businessContext": "Employees are vital to a company's operations, culture, and overall success, particularly in startups where each team member's contribution can significantly impact growth.",
@@ -341,7 +224,8 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "We've always been an incredibly product-led company. We always think first and foremost about the product.",
@@ -349,10 +233,7 @@
     "timestamp": "00:10:32",
     "context": "Lenny discusses the focus of Canva's board meetings, which prioritize product updates over financials. Cameron asserts that Canva's identity as a product-led company drives their decision-making process and strategic planning. This commitment to product excellence is integral to their success and aligns with their mission to create valuable experiences for users.",
     "vocabulary_highlights": [
-      "product-led",
-      "prioritize",
-      "decision-making",
-      "identity"
+      "product-led"
     ],
     "topics": [
       "Product Management",
@@ -384,50 +265,9 @@
           "sales-led",
           "marketing-led"
         ]
-      },
-      {
-        "word": "prioritize",
-        "definition": "To arrange or deal with tasks or items in order of importance or urgency.",
-        "businessContext": "In business settings, prioritizing is crucial for effective project management, resource allocation, and strategic planning, ensuring that the most critical tasks are addressed first.",
-        "nuance": "The term implies a systematic approach to decision-making and can suggest a need to balance competing demands; it is often used in contexts where time and resources are limited.",
-        "synonyms": [
-          "rank",
-          "emphasize"
-        ],
-        "antonyms": [
-          "neglect",
-          "deprioritize"
-        ]
-      },
-      {
-        "word": "decision-making",
-        "definition": "The process of making choices or reaching conclusions, particularly in a business context where various options and outcomes must be evaluated.",
-        "businessContext": "Effective decision-making is essential for leaders and managers in organizations, as it impacts strategy, operations, and overall business success.",
-        "nuance": "This term often implies a structured approach, incorporating analysis and evaluation, and is used in discussions about leadership and management practices.",
-        "synonyms": [
-          "choice-making",
-          "judgment"
-        ],
-        "antonyms": [
-          "indecision",
-          "confusion"
-        ]
-      },
-      {
-        "word": "identity",
-        "definition": "The characteristics, qualities, or beliefs that make a person or organization distinct from others.",
-        "businessContext": "In business, identity can refer to brand identity, which encompasses the visual, emotional, and cultural aspects that define how a company is perceived by its customers and stakeholders.",
-        "nuance": "The term carries significant weight in discussions about branding and corporate culture, and it is often used in contexts where differentiation from competitors is critical.",
-        "synonyms": [
-          "self-concept",
-          "brand persona"
-        ],
-        "antonyms": [
-          "anonymity",
-          "uniformity"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "Freemium for us wasn't so much a growth strategy or a monetization strategy as much as it spoke to our core mission of empowering the world to design.",
@@ -521,7 +361,6 @@
     "timestamp": "00:56:04",
     "context": "Lenny raises the topic of AI integration at Canva. Cameron explains that rather than developing their own large language models (LLMs), they focus on leveraging partnerships with established AI providers. This strategic decision allows Canva to utilize advanced technology without the significant resource investment, emphasizing the importance of collaboration in tech development.",
     "vocabulary_highlights": [
-      "leverage",
       "commodity",
       "resources",
       "providers"
@@ -543,20 +382,6 @@
     "key_sentence": "LLMs are a commodity; better providers have more resources than you.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "leverage",
-        "definition": "To use something to maximum advantage or to exert influence over a situation.",
-        "businessContext": "In business, leveraging often refers to utilizing assets, relationships, or resources to achieve greater outcomes or competitive advantages.",
-        "nuance": "While 'leverage' can imply a strategic advantage, it may also suggest a reliance on external factors, so it should be used carefully to avoid negative connotations.",
-        "synonyms": [
-          "utilize",
-          "capitalize"
-        ],
-        "antonyms": [
-          "squander",
-          "waste"
-        ]
-      },
       {
         "word": "commodity",
         "definition": "A basic good or service that is interchangeable with other goods of the same type, often used in trade.",
@@ -599,6 +424,7 @@
           "consumers"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

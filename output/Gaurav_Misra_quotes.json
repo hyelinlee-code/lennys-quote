@@ -6,9 +6,7 @@
     "context": "Lenny asks Gaurav about how their team handles longer-term projects and backend infrastructure when they're shipping features every week. Gaurav explains their approach to managing technical debt strategically. He argues that startups should intentionally take on technical debt to move faster than larger competitors, viewing it as leverage similar to financial debt that allows you to build products you couldn't otherwise create with a small team.",
     "vocabulary_highlights": [
       "technical debt",
-      "operate faster",
-      "longer-term projects",
-      "shipping features"
+      "operate faster"
     ],
     "topics": [
       "Strategy & Planning",
@@ -21,9 +19,9 @@
       "Engineering Leadership",
       "User Experience"
     ],
-    "text_ko": "솔직히 스타트업이라면 기술 부채(technical debt)를 어느 정도 감수하는 게 일이에요. 그게 더 큰 회사보다 빨리 움직일 수 있는 방법이거든요. 큰 회사들은 보통 기술 부채를 안 떠안고 바로 갚아버리거나, 예전 스타트업 시절에 쌓인 기술 부채를 지금 갚고 있는 경우가 많아요.",
-    "text_zh": "我觉得作为创业公司，你就应该承担技术债务(technical debt)，因为这样你才能比大公司跑得更快。大公司不会承担技术债务，他们通常马上就把债还了，要么就是在还他们创业时期欠下的技术债务。",
-    "text_es": "En realidad creo que como startup tu trabajo es asumir deuda técnica (technical debt) porque así es como puedes operar más rápido que una empresa grande. Las empresas grandes no asumen deuda técnica, la pagan inmediatamente por lo general, o están pagando la deuda técnica de cuando eran startups.",
+    "text_ko": "사실 저는 스타트업이라면 기술 부채(technical debt)를 일부러 떠안아야 한다고 생각해요. 그게 큰 회사보다 더 빠르게 움직일 수 있는 방법이거든요.",
+    "text_zh": "我觉得创业公司就应该承担技术债务(technical debt)，因为这样才能比大公司动作更快。",
+    "text_es": "La verdad es que como startup tu trabajo es acumular deuda técnica (technical debt) porque así es como puedes moverte más rápido que una empresa grande.",
     "key_sentence": "Startups take on technical debt to operate faster than bigger companies.",
     "text_trimmed": true,
     "original_text": "I actually think as a startup your job is to take on technical debt because that is how you operate faster than a bigger company. Bigger companies don't take on technical debt, they pay it usually right away, or they're paying back technical debt from the days when they were a startup.",
@@ -56,36 +54,10 @@
           "slow down",
           "decelerate"
         ]
-      },
-      {
-        "word": "longer-term projects",
-        "definition": "Longer-term projects are initiatives that require an extended period to complete, often involving complex planning and resource allocation.",
-        "businessContext": "In business, longer-term projects are typically associated with strategic goals that contribute to sustainable growth, requiring careful management to align with immediate operational needs.",
-        "nuance": "These projects may be perceived as less urgent compared to short-term tasks, but they are essential for building foundational capabilities and achieving long-term objectives.",
-        "synonyms": [
-          "strategic initiatives",
-          "extended projects"
-        ],
-        "antonyms": [
-          "short-term projects",
-          "immediate tasks"
-        ]
-      },
-      {
-        "word": "shipping features",
-        "definition": "Shipping features refers to the process of delivering new functionalities or updates of a product to users, often in a software context.",
-        "businessContext": "In tech startups, shipping features quickly is vital for maintaining user engagement and staying competitive, as it allows companies to iterate based on user feedback and market trends.",
-        "nuance": "While the term emphasizes speed, it is important to ensure that the features are well-tested and meet user needs to avoid negative impacts on user experience.",
-        "synonyms": [
-          "deploying features",
-          "releasing updates"
-        ],
-        "antonyms": [
-          "withholding features",
-          "delaying releases"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "We have what we think of as the public roadmap. This is basically what people have asked us for. There's all these surface areas where we receive user feedback, but these are all features that every competitor knows about.",
@@ -109,9 +81,9 @@
       "Engineering Leadership",
       "User Experience"
     ],
-    "text_ko": "저희에겐 공개 로드맵(public roadmap)이 있어요. 기본적으로 사람들이 요청해온 것들이고, 사용자 피드백(user feedback)이 들어오는 겉으로 드러나는 여러 영역(surface areas)이 있는데 그런 기능들은 사실 모든 경쟁사(competitors)가 다 알고 있어요. 사용자가 우리한테 요청하는 건 결국 다들 똑같이 요청하는 거라 경쟁에서 판도를 바꿀 결정적 요소(game changer)는 되지 못해요. 그래서 저희는 비공개 로드맵(secret roadmap)도 따로 갖고 있어요.",
-    "text_zh": "我们有一个公开路线图，基本上就是用户要求我们做的那些功能。我们有很多渠道收集用户反馈，但这些功能每个竞争对手都知道。用户跟我们提的需求，肯定也会跟其他家提。光做这些是没法在竞争中脱颖而出的，不会成为制胜法宝。所以我们还有第二个路线图，我们叫它秘密路线图。",
-    "text_es": "Tenemos lo que llamamos el roadmap público. Básicamente es lo que la gente nos ha pedido. Hay un montón de puntos donde recibimos feedback de usuarios, pero todas estas son funcionalidades que todos los competidores ya conocen. Si un usuario nos lo está pidiendo a nosotros, se lo está pidiendo a todo el mundo. No va a ser algo que cambie las reglas del juego para ganarle a tu competencia. Entonces tenemos un segundo roadmap que consideramos nuestro roadmap secreto.",
+    "text_ko": "우리가 말하는 공개 로드맵(public roadmap)이 있어요. 기본적으로 사람들이 요청해 온 것들이에요. 사용자 피드백(user feedback)이 들어오는 여러 접점(surface areas)이 있는데, 그런 건 모두 경쟁사들도 다 아는 기능(features)들이에요.",
+    "text_zh": "我们有一个所谓的公开路线图(public roadmap)。基本上就是用户要求我们做的那些功能。我们有各种渠道收集用户反馈，但问题是这些功能竞争对手都知道。",
+    "text_es": "Tenemos lo que llamamos nuestro roadmap público. Básicamente son todas las cosas que nos ha pedido la gente. Recibimos feedback de usuarios por todos lados, pero estas son funcionalidades que ya todos nuestros competidores conocen.",
     "key_sentence": "these are all features that every competitor knows about.",
     "text_trimmed": true,
     "original_text": "We have what we think of as the public roadmap. This is basically what people have asked us for. There's all these surface areas where we receive user feedback, but these are all features that every competitor knows about. If a user is asking us for it, they're asking everybody for it. It's not going to be a game changer in terms of winning against your competition. So we have a second roadmap which we think of as a secret roadmap.",
@@ -173,7 +145,8 @@
           "collaborator"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "He surrounded himself with the design team. That was sort of the central team in the company. And the design team was like 10, 12 people. Basically, pretty small, even at 5, 6,000 employees it was that small still.",
@@ -181,10 +154,7 @@
     "timestamp": "00:37:17",
     "context": "Lenny asks what made Snap successful as a consumer social product. Gaurav explains Snap's unique organizational structure where CEO Evan Spiegel maintained granular control through a small central design team. At 5,000-6,000 employees, the design team was only 10-12 people who functioned as both designers and product managers, giving the CEO direct oversight of every user-facing change in the app.",
     "vocabulary_highlights": [
-      "central team",
-      "organizational structure",
-      "granular control",
-      "consumer social product"
+      "central team"
     ],
     "topics": [
       "Leadership & Management",
@@ -197,9 +167,9 @@
       "Engineering Leadership",
       "User Experience"
     ],
-    "text_ko": "그는 디자인 팀을 곁에 두었어요. 그 팀이 회사에서 사실상 중심 팀 같은 역할이었어요. 디자인 팀은 대략 10명에서 12명 정도였고, 직원 수가 5천, 6천 명이 돼도 여전히 그 정도로 작았어요. 이건 평범한 디자이너들이 아니라 실제로 프로덕트 매니저(PM)이기도 한 디자이너들이었어요. 그게 바로 핵심 비결(secret sauce)이었어요.",
-    "text_zh": "他身边都是设计团队的人，这个团队算是公司的核心。设计团队也就10个、12个人，规模挺小的，就算公司有五六千员工了，设计团队还是那么点人。这些可不是一般的设计师，他们同时也是产品经理(PM)，这就是他们的杀手锏。",
-    "text_es": "Se rodeó del equipo de diseño. Ese era como el equipo central de la empresa. Y el equipo de diseño eran unas 10, 12 personas. Básicamente, bastante pequeño, incluso con 5 o 6 mil empleados seguía siendo así de chico. Estos no eran diseñadores comunes y corrientes. Eran diseñadores que también funcionaban como PMs (product managers). Ahí estaba la salsa secreta.",
+    "text_ko": "그는 디자인 팀을 자기 주변에 두었어요. 그게 회사의 중심 팀 같은 역할을 했어요. 디자인 팀은 한 10명, 12명 정도였어요. 기본적으로 꽤 작았고, 직원이 5천~6천명일 때도 여전히 그 정도였어요.",
+    "text_zh": "他身边围绕着设计团队，这基本上就是公司的核心团队。设计团队大概就10个、12个人，规模很小，即使公司有五六千员工的时候，设计团队还是保持这么小的规模。",
+    "text_es": "Se rodeó del equipo de diseño. Era como el equipo central de la empresa. Y el equipo de diseño eran unas 10, 12 personas. Básicamente, súper pequeño, incluso con 5, 6 mil empleados seguía siendo así de chiquito.",
     "key_sentence": "He surrounded himself with a small, exceptional design team; that's the secret sauce.",
     "text_trimmed": true,
     "original_text": "He surrounded himself with the design team. That was sort of the central team in the company. And the design team was like 10, 12 people. Basically, pretty small, even at 5, 6,000 employees it was that small still. These weren't your sort of average designers. These were designers who were actually PMs as well. That's what the secret sauce was.",
@@ -218,50 +188,10 @@
           "peripheral team",
           "support team"
         ]
-      },
-      {
-        "word": "organizational structure",
-        "definition": "Organizational structure is the system that outlines how certain activities are directed in order to achieve the goals of an organization, including roles, responsibilities, and communication flow.",
-        "businessContext": "In startups and tech companies, a well-defined organizational structure is crucial for ensuring efficient operations and clear reporting lines as the company scales.",
-        "nuance": "The term can reflect both formal hierarchies and informal networks within an organization, impacting culture and employee engagement.",
-        "synonyms": [
-          "organizational framework",
-          "company structure"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
-      },
-      {
-        "word": "granular control",
-        "definition": "Granular control refers to the ability to manage and manipulate specific components or aspects of a system with a high level of precision.",
-        "businessContext": "In tech and product management, granular control allows teams to fine-tune features and user experiences, leading to more tailored solutions for consumers.",
-        "nuance": "This term often conveys a sense of meticulousness and attention to detail, which is valued in high-stakes environments.",
-        "synonyms": [
-          "detailed control",
-          "fine-tuned management"
-        ],
-        "antonyms": [
-          "broad control",
-          "general oversight"
-        ]
-      },
-      {
-        "word": "consumer social product",
-        "definition": "A consumer social product is a digital platform or application designed to facilitate social interactions among users, often with a focus on sharing content and building communities.",
-        "businessContext": "In the tech industry, consumer social products are pivotal for engaging users and generating revenue through advertising and subscriptions.",
-        "nuance": "The phrase emphasizes the social aspect of the product, distinguishing it from purely transactional or utilitarian applications.",
-        "synonyms": [
-          "social media platform",
-          "community application"
-        ],
-        "antonyms": [
-          "enterprise software",
-          "business application"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "One of the insights that we had, which was unique was as the company gets bigger, you can actually create alignment by causing internal virality. If there's enough people in the company, it actually starts acting like a consumer base might.",
@@ -271,7 +201,6 @@
     "vocabulary_highlights": [
       "alignment",
       "internal virality",
-      "innovating at scale",
       "consumer base"
     ],
     "topics": [
@@ -285,9 +214,9 @@
       "Engineering Leadership",
       "User Experience"
     ],
-    "text_ko": "우리가 얻은 독특한 통찰 중 하나는, 회사가 커질수록 내부 확산(internal virality)을 통해 자연스럽게 방향이 맞춰진다는 거예요. 직원 수가 충분히 많아지면 회사가 소비자층(consumer base)처럼 행동하기 시작해요. 누군가에게 흥미로운 걸 공유하면 그 사람이 흥미를 느껴 다른 사람에게 또 공유하고, 회사 내부에서 바이럴(virality)이 생겨요.",
-    "text_zh": "我们有个挺独特的发现，就是公司越做越大的时候，你其实可以通过内部的病毒式传播(internal virality)来让大家步调一致。如果公司人够多的话，其实就跟消费者群体差不多了。你跟别人分享个有意思的东西，他们觉得确实不错，就会再传给其他人，这样在公司内部就能形成病毒式传播(virality)的效果。",
-    "text_es": "Una de las cosas que descubrimos, y que fue algo único, es que cuando la empresa crece, en realidad puedes crear alineación generando viralidad interna. Si hay suficiente gente en la compañía, empieza a comportarse como si fuera una base de consumidores. Si compartes algo interesante con alguien, esa persona se lo va a compartir a otra porque le parece interesante, y así puedes crear viralidad dentro de la empresa.",
+    "text_ko": "우리가 얻은 독특한 통찰 중 하나는, 회사가 커질수록 사내 확산(internal virality)을 일으켜 조직의 합의(alignment)를 만들어낼 수 있다는 점이에요. 구성원이 충분히 많아지면 회사 내부가 실제 소비자층(consumer base)처럼 움직이기 시작해요.",
+    "text_zh": "我们有个独特的洞察是，公司规模大了之后，其实可以通过内部传播来统一大家的想法。人多了之后，公司内部其实就像一个用户群体一样会产生传播效应。",
+    "text_es": "Una de las cosas que descubrimos, y que era bastante única, fue que cuando la empresa crece, puedes lograr que todos estén alineados creando viralidad interna. Si tienes suficiente gente en la compañía, empieza a comportarse como si fuera una base de consumidores.",
     "key_sentence": "Create internal virality to align a growing company like a consumer base.",
     "text_trimmed": true,
     "original_text": "One of the insights that we had, which was unique was as the company gets bigger, you can actually create alignment by causing internal virality. If there's enough people in the company, it actually starts acting like a consumer base might. If you share something interesting with someone, they will share it with somebody else because they think it's interesting and you can actually create virality inside a company.",
@@ -322,20 +251,6 @@
         ]
       },
       {
-        "word": "innovating at scale",
-        "definition": "The ability to develop and implement new ideas, products, or processes across a large organization or market effectively and efficiently.",
-        "businessContext": "In the tech industry, innovating at scale is essential for maintaining competitive advantage and meeting the demands of a growing customer base.",
-        "nuance": "This phrase emphasizes the challenge of balancing creativity with operational efficiency, and is often used in discussions about growth strategies.",
-        "synonyms": [
-          "scalable innovation",
-          "large-scale innovation"
-        ],
-        "antonyms": [
-          "localized innovation",
-          "small-scale innovation"
-        ]
-      },
-      {
         "word": "consumer base",
         "definition": "The group of individuals or organizations that regularly purchase or use a company's products or services.",
         "businessContext": "Understanding the consumer base is vital for businesses to tailor their marketing strategies and product offerings to meet customer needs.",
@@ -349,7 +264,9 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think PM is a very valuable function.",
@@ -358,9 +275,7 @@
     "context": "Lenny asks why Gaurav's current company operates with traditional PMs, engineers, and designers instead of the hybrid roles that worked at Snap. Gaurav reflects critically on Snap's no-PM approach, suggesting it may have been successful despite this structure rather than because of it. He emphasizes that the PM work still needs to be done by someone, and without clear ownership, important product management tasks may not happen at all.",
     "vocabulary_highlights": [
       "valuable",
-      "function",
-      "critical",
-      "approach"
+      "function"
     ],
     "topics": [
       "Product Management",
@@ -373,9 +288,9 @@
       "Engineering Leadership",
       "User Experience"
     ],
-    "text_ko": "저는 프로덕트 매니저(PM)가 정말 가치 있는 역할이라고 생각해요. 이 얘기 때문에 까일 수도 있지만, 솔직히 말하면 스냅에서 PM을 안 뽑은 결정이 오히려 잘된 선택이었을 수도 있다고 봐요. 결국 그 일을 누군가는 해야 하고, 사람이 충분하지 않으면 아무도 진짜로 그 책임을 지지 않아서 일이 제대로 안 돌아가거든요.",
-    "text_zh": "我觉得产品经理(PM)这个岗位真的很有价值。可能我这么说会被人喷，但我觉得说到底，Snap不招PM可能是那种看起来成功了但其实有问题的决定，因为总得有人干这活儿。如果没有足够的人手去做，那就没人真正负责这事儿，最后就搞不成了。",
-    "text_es": "Creo que PM es una función súper valiosa. De hecho, creo que puede ser que... y a lo mejor me van a crucificar por esto, pero creo que al final del día, no contratar PMs en Snap pudo haber sido una de esas decisiones donde la cosa funcionó a pesar de eso, porque alguien tiene que hacer ese trabajo. Si no tienes suficiente gente para hacerlo, entonces nadie realmente se hace cargo y al final no pasa nada.",
+    "text_ko": "저는 프로덕트 매니저(Product Manager)가 아주 가치 있는 역할이라고 생각해요.",
+    "text_zh": "我觉得产品经理(PM)这个岗位真的很有价值。",
+    "text_es": "Creo que el rol de PM es súper valioso.",
     "key_sentence": "PM is a very valuable function.",
     "text_trimmed": true,
     "original_text": "I think PM is a very valuable function. I think it may be actually, and maybe I'll get roasted for this, but I think at the end of the day, not hiring PMs at Snap might've been one of those decisions where it actually succeeded despite that and because someone needs to do that work. If you don't have enough people to do it, then nobody truly owns it and then it doesn't really happen.",
@@ -408,36 +323,10 @@
           "dysfunction",
           "malfunction"
         ]
-      },
-      {
-        "word": "critical",
-        "definition": "Of great importance; essential for the success or failure of a situation or process.",
-        "businessContext": "In business, 'critical' often describes key decisions, factors, or processes that can significantly impact the overall performance and sustainability of an organization.",
-        "nuance": "While 'critical' suggests urgency and importance, it can also carry a negative connotation if used in contexts involving failure or risk.",
-        "synonyms": [
-          "crucial",
-          "vital"
-        ],
-        "antonyms": [
-          "insignificant",
-          "minor"
-        ]
-      },
-      {
-        "word": "approach",
-        "definition": "A way of dealing with a situation or problem; a method or strategy employed to achieve a goal.",
-        "businessContext": "In business, 'approach' can refer to the strategic methods used to tackle projects, market products, or resolve conflicts, often tailored to specific circumstances.",
-        "nuance": "The term 'approach' can imply a level of flexibility and adaptability, suggesting that different situations may require different methods.",
-        "synonyms": [
-          "method",
-          "strategy"
-        ],
-        "antonyms": [
-          "disregard",
-          "neglect"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think from a user acquisition/marketing perspective, in a world five or seven years ago, if you were making something novel and you went to users and it was like, 'Oh, we got something better.' People are going to be like, 'Well, whatever.",
@@ -447,8 +336,7 @@
     "vocabulary_highlights": [
       "user acquisition",
       "novel",
-      "perspective",
-      "opportunities"
+      "perspective"
     ],
     "topics": [
       "Growth & Marketing",
@@ -461,9 +349,9 @@
       "Engineering Leadership",
       "User Experience"
     ],
-    "text_ko": "사용자 확보/마케팅(user acquisition/marketing) 관점에서 보면, 5~7년 전쯤엔 뭔가 새롭고 독창적인 걸 만들고 사용자한테 '우리가 더 나은 걸 만들었어요'라고 해도 사람들 반응이 '다들 다 더 낫다고 해요. 별로 신경 안 써요'였을 거예요. 근데 요즘엔 '이걸 인공지능(AI)으로 다시 설계했어요'라고만 해도 많은 사람이 '어떻게요?' '한번 써봐야겠다' 하고 반응해요.",
-    "text_zh": "我觉得从用户获取和营销的角度来看，要是在五六年前，如果你做了个新产品，跟用户说\"嘿，我们这个更牛\"，人家会想\"得了吧，谁都这么说，我才不信呢。\" 但现在不一样了，你只要说\"我们用AI(人工智能)重新设计了这个东西\"，很多人马上就会问\"怎么个用法？\"或者\"我得去看看\"。",
-    "text_es": "Yo creo que desde el punto de vista de captación de usuarios y marketing, hace cinco o siete años, si estabas creando algo nuevo y le decías a los usuarios \"Oye, tenemos algo mejor\", la gente te respondía \"Sí, claro. Todo el mundo dice que tiene algo mejor. Me da igual.\" Pero hoy en día, puedes llegar y simplemente decir \"Hemos repensado esto con IA\" y un montón de gente va a reaccionar como \"¿Ah sí? ¿Cómo?\" o \"A lo mejor debería echarle un vistazo.\"",
+    "text_ko": "제 생각엔 유저 획득/마케팅(user acquisition/marketing) 관점에서는, 5년이나 7년 전만 해도 뭔가 새롭고 독창적인 걸 만들어서 유저들에게 '우리가 더 나은 걸 만들었어요'라고 내놔도 사람들은 그냥 '음, 별로' 하고 넘겼을 거예요.",
+    "text_zh": "我觉得从用户获取和营销的角度来看，要是在五七年前，你做了个新产品，跑去跟用户说\"嘿，我们这个更好用\"，人们基本就是\"行吧，随便\"的态度。",
+    "text_es": "Creo que desde el punto de vista de captación de usuarios y marketing, hace cinco o siete años, si estabas creando algo novedoso y se lo presentabas a los usuarios diciéndoles \"Oye, tenemos algo mejor\", la gente te decía \"Bueno, da igual\".",
     "key_sentence": "if you were making something novel and you went to users and it was like, 'Oh, we got something better.",
     "text_trimmed": true,
     "original_text": "I think from a user acquisition/marketing perspective, in a world five or seven years ago, if you were making something novel and you went to users and it was like, 'Oh, we got something better.' People are going to be like, 'Well, whatever. Everybody says they got something better. I don't care.' But today, you can go and just say, 'We've rethought this thing with AI.' And a bunch of people will just be like, 'Well, how?' Or 'Maybe I should check this out.'",
@@ -510,21 +398,9 @@
           "narrow-mindedness",
           "bias"
         ]
-      },
-      {
-        "word": "opportunities",
-        "definition": "Opportunities are favorable circumstances or situations that allow for potential growth, advancement, or success.",
-        "businessContext": "Identifying and capitalizing on opportunities is essential for businesses to innovate, expand, and improve their competitive position in the market.",
-        "nuance": "While opportunities are generally seen as positive, they can also imply a sense of urgency or risk if not acted upon promptly.",
-        "synonyms": [
-          "prospects",
-          "possibilities"
-        ],
-        "antonyms": [
-          "challenges",
-          "obstacles"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

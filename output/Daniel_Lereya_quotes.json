@@ -7,7 +7,6 @@
     "vocabulary_highlights": [
       "treat it differently",
       "competitors",
-      "realized",
       "possible"
     ],
     "topics": [
@@ -22,9 +21,9 @@
       "Team Building",
       "Growth Strategy"
     ],
-    "text_ko": "우리 경쟁자들 중 몇몇은 우리가 상상만 하던 일을 실제로 해냈어요. 그래서 우리는 '이건 다르게 해야 해요'라고 했어요. 사실 그들은 우리에게 선물을 준 셈이에요 — 가능하다는 걸 보여줬거든요. 경쟁을 잘 활용하고, 그걸 받아들이며 야심 찬 목표를 세우고 자신을 믿으면 놀라운 일들을 해낼 수 있어요.",
-    "text_zh": "我们的竞争对手做了一些我们之前想都不敢想的事情。我们当时就想，\"行，我们得换个思路了。\" 竞争对手其实给了我们一个礼物，他们让我们看到了什么叫可能。你要利用你的竞争对手，了解他们，学习他们，然后给自己定个高目标，相信自己，你就能做出很牛的事情来。",
-    "text_es": "Algunos de nuestros competidores hicieron algo que nosotros ni nos imaginábamos. Dijimos, 'Bueno. Tenemos que enfocar esto de otra manera.' Nuestros competidores nos dieron un regalo. Nos demostraron que sí se puede. Aprovecha tu competencia, conócela bien, tómala como referencia, ponte metas ambiciosas, cree en ti mismo, y puedes lograr cosas increíbles.",
+    "text_ko": "경쟁사들 중 몇 곳이 우리가 상상만 하던 일을 실제로 해냈어요. 그래서 저희는 “알겠어요. 이건 다르게 접근해야 해요.”라고 했죠. 경쟁사들이 우리에게 선물을 준 셈이에요. 그들이 가능하다는 걸 보여줬거든요.",
+    "text_zh": "我们的竞争对手做了一些我们之前想都不敢想的事情。当时我们就想，'好，我们得换个思路了。'竞争对手其实给了我们一个礼物——他们让我们看到了这事儿原来是可能的。",
+    "text_es": "Algunos de nuestros competidores hicieron algo que nosotros ni nos imaginábamos. Dijimos, 'Bueno, tenemos que enfocarlo de otra manera.' Nuestros competidores nos regalaron algo. Nos enseñaron que sí se puede.",
     "key_sentence": "They showed us that it's possible.",
     "text_trimmed": true,
     "original_text": "Some of our competitors did something that we can only imagine. We said, 'Okay. We need to treat it differently.' We received a gift from our competitors. They showed us that it's possible. Use your competition, know it, and take it, and set ambitious goals, and believe in yourself, and you can do amazing things.",
@@ -59,20 +58,6 @@
         ]
       },
       {
-        "word": "realized",
-        "definition": "To become fully aware of something as a fact; to understand or grasp a concept or situation.",
-        "businessContext": "In a business context, realizing a concept often refers to the moment when a team or leader acknowledges a critical insight that can influence decision-making or strategy.",
-        "nuance": "This term often carries a sense of enlightenment or sudden clarity, which can be pivotal in discussions about innovation or problem-solving.",
-        "synonyms": [
-          "understood",
-          "recognized"
-        ],
-        "antonyms": [
-          "ignored",
-          "overlooked"
-        ]
-      },
-      {
         "word": "possible",
         "definition": "Capable of being done or achieved; feasible within the given circumstances.",
         "businessContext": "In business discussions, identifying what is possible can guide strategic planning and innovation, helping teams to set realistic goals and expectations.",
@@ -86,7 +71,9 @@
           "unfeasible"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "We really have an approach of very radical transparency about everything. Before we went public, we actually shared every bit of information with our employees. Instead of demoralizing people, I think that this is something that gives them a sense of deep partnership.",
@@ -96,8 +83,7 @@
     "vocabulary_highlights": [
       "radical transparency",
       "demoralizing",
-      "partnership",
-      "counterintuitive"
+      "partnership"
     ],
     "topics": [
       "Leadership & Management",
@@ -110,9 +96,9 @@
       "Team Building",
       "Growth Strategy"
     ],
-    "text_ko": "저희는 사실 모든 것에 대해 굉장히 급진적 투명성(radical transparency)을 지향해요. 상장(going public)하기 전에 직원들에게 모든 정보를 다 공유했어요. 그게 사람들 사기를 꺾는 대신 오히려 깊은 동반자 의식을 주는 것 같아요. 우리는 정말 모든 사람이 이 과제에 머리를 맞대길 바라요. 한 사람의 중앙화된 두뇌(centralized brain)와 일만 하는 많은 손들만 있는 구조가 아니라요.",
-    "text_zh": "我们的做法就是对所有事情都超级透明。在上市之前，我们其实把所有信息都跟员工分享了。这不但没有打击大家的积极性，我觉得反而让他们有一种深度合作的感觉。我们真的希望每个人都能动脑子参与到挑战中来，而不是只有一个大脑在中央指挥，其他人就是干活的。",
-    "text_es": "Tenemos un enfoque de transparencia radical en todo, de verdad. Antes de salir a bolsa, compartíamos absolutamente toda la información con nuestros empleados. En lugar de desmoralizar a la gente, creo que esto les da una sensación de ser socios de verdad. Queremos que todos pongan el cerebro en los desafíos, no solo un cerebro centralizado y un montón de manos trabajando.",
+    "text_ko": "우리는 정말 모든 것에 대해 아주 '급진적 투명성(radical transparency)'을 실천해요. 상장하기 전에 실제로 직원들에게 모든 정보를 다 공유했어요. 사람들의 사기를 꺾는 대신, 오히려 그게 직원들에게 깊은 동반자 의식을 느끼게 해준다고 생각해요.",
+    "text_zh": "我们的做法就是把所有事情都完全透明化。上市之前，我们真的是什么信息都跟员工分享。我觉得这样做不但不会打击大家的积极性，反而让他们觉得自己是真正的合伙人。",
+    "text_es": "Nosotros tenemos un enfoque de transparencia radical en todo. Antes de salir a bolsa, de verdad compartíamos toda la información con nuestros empleados. En lugar de desmoralizar a la gente, creo que esto les da una sensación de que son socios de verdad en el negocio.",
     "key_sentence": "Radical transparency fosters a sense of deep partnership among employees.",
     "text_trimmed": true,
     "original_text": "We really have an approach of very radical transparency about everything. Before we went public, we actually shared every bit of information with our employees. Instead of demoralizing people, I think that this is something that gives them a sense of deep partnership. We really want everyone's brains in the challenge, and not just one centralized brain and a lot of working hands.",
@@ -159,22 +145,10 @@
           "rivalry",
           "competition"
         ]
-      },
-      {
-        "word": "counterintuitive",
-        "definition": "Contrary to what one would intuitively expect; often surprising or unexpected in nature.",
-        "businessContext": "In business and technology, counterintuitive strategies or findings can challenge conventional wisdom, leading to innovative solutions or approaches that may initially seem illogical.",
-        "nuance": "The term suggests a deeper understanding of a situation, where the unexpected outcome may reveal important insights or opportunities.",
-        "synonyms": [
-          "unexpected",
-          "paradoxical"
-        ],
-        "antonyms": [
-          "intuitive",
-          "predictable"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "A great PM basically for me is someone that is relentless until he gets this impact, until he validates that this impact is in place. In some cases, doing the biggest impact is not developing another feature, it's about making the current value more accessible.",
@@ -183,7 +157,6 @@
     "context": "Lenny asks Daniel about focusing on impact rather than just building features. Daniel explains how Monday.com shifted from measuring teams by output to measuring by customer impact. He defines what makes a great product manager - someone who persistently pursues measurable impact rather than just shipping features. Daniel emphasizes that sometimes the highest impact comes from improving accessibility of existing features rather than building new ones.",
     "vocabulary_highlights": [
       "relentless",
-      "validate",
       "impact",
       "accessible"
     ],
@@ -219,20 +192,6 @@
         ]
       },
       {
-        "word": "validate",
-        "definition": "To confirm the accuracy or legitimacy of something through evidence or testing.",
-        "businessContext": "In a business context, validating a product or idea is crucial for ensuring it meets market needs and is viable before full-scale launch.",
-        "nuance": "Validation often carries a connotation of thoroughness and is used in contexts where empirical evidence is required to support claims.",
-        "synonyms": [
-          "authenticate",
-          "verify"
-        ],
-        "antonyms": [
-          "invalidate",
-          "disprove"
-        ]
-      },
-      {
         "word": "impact",
         "definition": "The strong effect or influence that something has on a situation or person.",
         "businessContext": "In business, measuring impact is essential for assessing the effectiveness of strategies, initiatives, or products on stakeholders and the market.",
@@ -260,7 +219,8 @@
           "unreachable"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I think there are fake speed, which means, trying to do the same work by skipping stages or not doing the high quality that you want, but there's the real speed, and speed of organizations, and speed of execution.",
@@ -269,9 +229,7 @@
     "context": "Lenny discusses the power of setting ambitious goals and how people might interpret this as working harder or longer hours. Daniel clarifies the difference between false speed (cutting corners or working more hours) versus real organizational speed. He explains that true speed comes from working smarter by focusing only on what will actually move key metrics and thinking differently about problem-solving approaches rather than just increasing effort.",
     "vocabulary_highlights": [
       "execution",
-      "ambitious goals",
-      "high quality",
-      "false speed"
+      "high quality"
     ],
     "topics": [
       "Product Management",
@@ -285,9 +243,9 @@
       "Team Building",
       "Growth Strategy"
     ],
-    "text_ko": "사실 '가짜 속도(fake speed)'가 있어요. 단계들을 건너뛰거나 원하는 수준의 품질을 포기하면서 같은 일을 빨리 끝내려는 거예요. 반면에 '진짜 속도(real speed)'가 있고, 조직의 속도(speed of organizations), 실행 속도(speed of execution)가 있어요. 많은 경우에는 일을 빨리 하는 것보다 일을 제대로 하는 게 중요해요. 무엇이 진짜 성과를 움직일지(move the needle)를 이해하고 그 일에만 집중해야 해요.",
-    "text_zh": "我觉得有一种假的速度，就是想要跳过某些阶段或者不按你想要的高质量标准去做，但真正的速度是组织的速度和执行的速度。很多时候，关键是要把事情做对。首先要搞清楚什么事情真正能起到关键作用，然后就专门做那些事。",
-    "text_es": "Creo que existe la velocidad falsa, o sea, tratar de hacer el mismo trabajo saltándote etapas o sin hacer el trabajo de calidad que realmente quieres, pero también está la velocidad real, la velocidad de las organizaciones y la velocidad de ejecución. Muchas veces se trata de hacer las cosas bien. Se trata de entender, primero, ¿qué es lo que realmente va a mover la aguja (move the needle)? Y trabajar solamente en eso.",
+    "text_ko": "제 생각에는 '가짜 속도(fake speed)'가 있어요. 단계들을 건너뛰거나 원하는 퀄리티를 내지 않고 같은 일을 빨리 해보려는 방식이죠. 반면에 진짜 속도(real speed)가 있고, 조직의 속도(speed of organizations)와 실행 속도(speed of execution)도 있어요.",
+    "text_zh": "我觉得有两种速度，一种是假速度，就是想偷工减料，跳过该做的步骤，或者不按你想要的高标准来做。但还有一种是真正的速度，就是组织运转的速度，还有执行力(execution)的速度。",
+    "text_es": "Creo que existe la velocidad falsa, o sea, tratar de hacer el mismo trabajo saltándose etapas o sin la calidad que realmente quieres, pero también está la velocidad real, la velocidad de las organizaciones, y la velocidad de ejecución.",
     "key_sentence": "there are fake speed, which means, trying to do the same work by skipping stages or not doing the high quality",
     "text_trimmed": true,
     "original_text": "I think there are fake speed, which means, trying to do the same work by skipping stages or not doing the high quality that you want, but there's the real speed, and speed of organizations, and speed of execution. Many times, it's about doing things right. It's about understanding, A, what is going to move the needle? And work only on that.",
@@ -308,20 +266,6 @@
         ]
       },
       {
-        "word": "ambitious goals",
-        "definition": "Targets or objectives that are challenging and require significant effort and resources to achieve.",
-        "businessContext": "In a business setting, ambitious goals are often set to drive innovation and growth, pushing teams to exceed standard expectations.",
-        "nuance": "While ambitious goals can inspire and motivate, they may also lead to stress or burnout if perceived as unattainable.",
-        "synonyms": [
-          "aspirational objectives",
-          "challenging targets"
-        ],
-        "antonyms": [
-          "modest goals",
-          "easy objectives"
-        ]
-      },
-      {
         "word": "high quality",
         "definition": "A standard of excellence that meets or exceeds expectations in terms of performance, durability, and reliability.",
         "businessContext": "In business, high quality is essential for customer satisfaction and brand reputation, influencing purchasing decisions and loyalty.",
@@ -334,22 +278,10 @@
           "low quality",
           "inferior standard"
         ]
-      },
-      {
-        "word": "false speed",
-        "definition": "A perception of rapid progress that is achieved by bypassing necessary steps or compromising on quality.",
-        "businessContext": "In the context of business and startups, false speed can lead to short-term gains but may ultimately harm long-term success and sustainability.",
-        "nuance": "The phrase carries a negative connotation, suggesting that what appears to be efficiency is actually a façade that could undermine credibility.",
-        "synonyms": [
-          "illusory speed",
-          "superficial progress"
-        ],
-        "antonyms": [
-          "deliberate pace",
-          "thoughtful progression"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Don't be afraid again to let go of things that you think are superpowers. Many times your superpowers that brought you to this point and made you successful, many times you think that if you let it go you won't be successful and it's frightening.",
@@ -373,9 +305,9 @@
       "Team Building",
       "Growth Strategy"
     ],
-    "text_ko": "자신을 슈퍼파워(superpowers)라고 생각하는 것들을 더 이상 놓는 걸 두려워하지 마세요. 지금까지 당신을 여기까지 데려오고 성공하게 만든 그런 능력들이 있어서, 그것을 버리면 앞으로 성공하지 못할까 봐 겁나는 경우가 많아요. 하지만 저는 지금 자신의 역할이 실제로 무엇인지 계속해서 점검하고 재평가해야 한다고 정말 느껴요.",
-    "text_zh": "别再害怕放掉那些你觉得是你超能力的东西。很多时候，那些让你走到今天、让你成功的超能力，你总觉得一旦放手就不会成功了，这挺吓人的。但是我真的觉得，你得不断地问问自己，你现在的角色到底是什么，真正的角色是什么？",
-    "text_es": "No tengas miedo de soltar esas cosas que crees que son tus superpoderes. Muchas veces esos superpoderes que te trajeron hasta aquí y te hicieron exitoso, muchas veces piensas que si los sueltas ya no vas a ser exitoso y da miedo. Pero, realmente siento que tienes que estar constantemente evaluando cuál es tu rol actual en realidad, o sea, ¿cuál es realmente el rol?",
+    "text_ko": "자신이 '슈퍼파워(superpowers)'라고 생각하는 것들을 놓는 걸 다시는 두려워하지 마세요. 많은 경우, 지금의 자리까지 데려다주고 성공하게 해준 그 능력들을 버리면 더 이상 성공하지 못할 거라고 생각해서 두려워하곤 해요.",
+    "text_zh": "别再害怕放弃那些你觉得是自己杀手锏的东西。很多时候，正是这些让你走到今天、让你成功的杀手锏，你总觉得一旦放手就不会成功了，这确实挺吓人的。",
+    "text_es": "No tengas miedo de soltar esas cosas que crees que son tu superpoder. Muchas veces esas fortalezas que te trajeron hasta aquí y te hicieron exitoso, muchas veces piensas que si las dejas ir ya no vas a tener éxito y da miedo.",
     "key_sentence": "Let go of things you think are superpowers and constantly evaluate your role.",
     "text_trimmed": true,
     "original_text": "Don't be afraid again to let go of things that you think are superpowers. Many times your superpowers that brought you to this point and made you successful, many times you think that if you let it go you won't be successful and it's frightening. But, I really feel that you need to constantly evaluate what your current role is actually, is actually what is the role?",
@@ -437,7 +369,8 @@
           "failing"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "I really love using the deadline trap and it makes you focused, it makes you sharper in thinking. And, we just had a recent example with the offering I was telling you about of enterprise work management, managing project at scale.",
@@ -447,8 +380,7 @@
     "vocabulary_highlights": [
       "focused",
       "sharper",
-      "enterprise",
-      "manage at scale"
+      "enterprise"
     ],
     "topics": [
       "Product Management",
@@ -462,9 +394,9 @@
       "Team Building",
       "Growth Strategy"
     ],
-    "text_ko": "저는 데드라인 트랩(deadline trap)을 정말 좋아해요. 그게 집중하게 만들고 사고를 더 날카롭게 해줘요. 그리고 전에 말씀드렸던 엔터프라이즈 업무 관리(enterprise work management), 대규모 프로젝트 관리(managing projects at scale) 관련 오퍼링(offering)에서 최근 그런 사례가 있었어요. 이건 기업용 제품(enterprise product)이니까 \"아직 출시할 수 없어요. 시간이 더 필요해요.\"라고 말할 만한 이유가 충분히 있죠.",
-    "text_zh": "我特别喜欢用截止日期来逼自己，这样能让你更专注，思路也更敏锐。我们最近就有个例子，就是我刚跟你说的那个企业工作管理的产品，做大规模项目管理的。这是个企业级产品，所以你有一万个理由说\"不行，还不能发布，我还需要更多时间。\"",
-    "text_es": "Me encanta usar la trampa del deadline y te hace enfocar, te agudiza el pensamiento. Y justo tuvimos un ejemplo reciente con la oferta de la que te hablaba de gestión empresarial de trabajo, manejar proyectos a gran escala. Y este es un producto enterprise. Entonces tienes todas las razones del mundo para decir: \"No, no lo puedo lanzar todavía. Necesito más tiempo.\"",
+    "text_ko": "저는 데드라인 트랩(deadline trap)을 정말 좋아해요. 집중하게 되고 생각도 더 날카로워져요. 그리고 아까 말씀드린 엔터프라이즈 워크 매니지먼트(enterprise work management), 즉 대규모 프로젝트 관리(managing projects at scale)에 대한 사례가 최근에 있었어요.",
+    "text_zh": "我特别喜欢用截止日期来逼自己，这样能让你更专注，思路也更清晰。我们最近就有个例子，就是我刚才说的那个企业级工作管理(enterprise work management)项目，管理大规模项目的那个。",
+    "text_es": "Me encanta usar la trampa del plazo límite (deadline trap) y te hace concentrarte más, te agudiza el pensamiento. Y justo tuvimos un ejemplo reciente con la oferta de la que te hablaba sobre gestión empresarial de trabajo, manejar proyectos a gran escala.",
     "key_sentence": "The deadline trap makes you sharper and focused despite all the reasons to delay.",
     "text_trimmed": true,
     "original_text": "I really love using the deadline trap and it makes you focused, it makes you sharper in thinking. And, we just had a recent example with the offering I was telling you about of enterprise work management, managing project at scale. And this is an enterprise product. So you have all the reasons in the world to say, 'No, I can't release it, yet. I need more time.'",
@@ -511,21 +443,9 @@
           "startup",
           "small business"
         ]
-      },
-      {
-        "word": "manage at scale",
-        "definition": "To oversee and coordinate operations or projects effectively across a large organization or multiple teams.",
-        "businessContext": "In a business context, managing at scale involves implementing systems and processes that can handle increased volume and complexity without sacrificing quality or efficiency.",
-        "nuance": "This phrase suggests not just handling larger quantities but also maintaining control and oversight across diverse operations, which can be challenging.",
-        "synonyms": [
-          "scale management",
-          "large-scale coordination"
-        ],
-        "antonyms": [
-          "manage at a small scale",
-          "local management"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

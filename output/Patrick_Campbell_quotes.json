@@ -5,10 +5,7 @@
     "timestamp": "00:00:00",
     "context": "Lenny asks Patrick about shipping and what mistakes people make when trying to ship faster. Patrick explains that real professionals ship consistently and at high frequency, regardless of their role. He argues that having a clear tempo framework - understanding what good looks like in terms of shipping cadence - is more crucial than organizational structure for creating productive teams.",
     "vocabulary_highlights": [
-      "professional",
-      "consistently",
-      "frequency",
-      "shipping"
+      "professional"
     ],
     "topics": [
       "Strategy & Planning",
@@ -21,9 +18,9 @@
       "Growth Strategy",
       "Team Building"
     ],
-    "text_ko": "약간 건방지게 들릴 수 있는데, 핵심은 진짜 프로는 출시(ship)를 한다는 거예요. 결국엔 마케터든 제품 담당자든 엔지니어든 운영 담당자든 피플 오퍼레이션(people ops)이든 상관없이, 진짜 프로는 자기 일이 무엇이든 꽤 높은 빈도로 출시(ship)를 해요. 제 생각엔 템포 프레임워크(tempo framework)가 조직 설계(org design)보다 더 중요해요.",
-    "text_zh": "这里最关键的一点就是，真正的专业人士都能交付成果。说到底，不管你是做市场的、产品的、工程师、运营，还是人事运营，真正专业的人都能持续交付，而且频率还挺高的。在我看来，你的节奏框架(tempo framework)比组织架构设计更重要。",
-    "text_es": "Lo que me molesta aquí es esa mentalidad de entregar trabajo profesional de verdad. Al final del día, los profesionales de verdad... me da igual si eres de marketing, de producto, ingeniero, de operaciones, de recursos humanos, los profesionales de verdad entregan resultados, y lo hacen con bastante frecuencia en lo que sea que estén haciendo. En mi opinión, tu ritmo de trabajo es más importante que cómo tengas estructurada la organización.",
+    "text_ko": "여기서 얄미운 건 바로 진짜 프로정신(professionalism)이라는 점이에요. 결국엔, 진짜...",
+    "text_zh": "这事最矫情的地方是，真正的专业人士会把东西交付（ship）。到头来，真正的...",
+    "text_es": "Lo infantil de todo esto es que los profesionales de verdad lanzan (ship). Al final del día, los que de verdad...",
     "key_sentence": "The bratty thing here is that real professional ship.",
     "text_trimmed": true,
     "original_text": "The bratty thing here is that real professional ship. At the end of the day, real... I don't care if you're a marketer or a product person, engineer, ops person, people ops, real professional ship, and they ship at a pretty high frequency for whatever they're doing. In my opinion, your tempo framework is more important than your org design.",
@@ -42,50 +39,10 @@
           "amateur",
           "novice"
         ]
-      },
-      {
-        "word": "consistently",
-        "definition": "In a manner that does not change; reliably and uniformly over time.",
-        "businessContext": "In business, 'consistently' is often used to describe the reliable performance of products, services, or employees, indicating a standard of quality that can be depended upon.",
-        "nuance": "The term suggests a level of predictability and stability, which is crucial for building trust with clients and stakeholders.",
-        "synonyms": [
-          "reliably",
-          "uniformly"
-        ],
-        "antonyms": [
-          "inconsistently",
-          "erratically"
-        ]
-      },
-      {
-        "word": "frequency",
-        "definition": "The rate at which something occurs over a particular period of time; how often an event happens.",
-        "businessContext": "In a business context, 'frequency' can refer to the regularity of customer interactions, sales cycles, or marketing campaigns, impacting strategic planning and resource allocation.",
-        "nuance": "Understanding frequency is essential for analyzing trends and making data-driven decisions, but it can also imply a need for adjustment if the frequency is too high or low.",
-        "synonyms": [
-          "rate",
-          "occurrence"
-        ],
-        "antonyms": [
-          "rarity",
-          "infrequency"
-        ]
-      },
-      {
-        "word": "shipping",
-        "definition": "The process of transporting goods from one location to another, often involving logistics and distribution management.",
-        "businessContext": "In e-commerce and supply chain management, 'shipping' is a critical component that affects customer satisfaction and operational efficiency, as it encompasses everything from packaging to delivery.",
-        "nuance": "While 'shipping' typically refers to physical goods, it can also metaphorically describe the delivery of services or digital products, highlighting the importance of timely execution.",
-        "synonyms": [
-          "delivery",
-          "transportation"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The basic idea is bootstrapping is for lifestyle businesses that want to cash flow. Funding is for companies trying to create a billion dollars in annual revenue. And that answer offends everybody.",
@@ -95,8 +52,7 @@
     "vocabulary_highlights": [
       "bootstrapping",
       "cash flow",
-      "annual revenue",
-      "contrarian"
+      "annual revenue"
     ],
     "topics": [
       "Fundraising",
@@ -109,9 +65,9 @@
       "Growth Strategy",
       "Team Building"
     ],
-    "text_ko": "기본적으로 부트스트래핑(bootstrapping)은 현금흐름(cash flow)을 원하느 라이프스타일 비즈니스(lifestyle businesses)를 위한 거예요. 펀딩(funding)은 연매출 10억 달러(billion dollars in annual revenue)를 만들려는 회사들을 위한 거고요. 이 말은 사람들 기분을 상하게 해요. 제 인디(indie) 친구들은 ‘그럼 Basecamp나 ProfitWell은요?’ 하고 반발할 거예요.",
-    "text_zh": "基本思路就是这样的：自力更生(bootstrapping)适合那些想要现金流的生活方式企业。而融资呢，是给那些想创造年收入十亿美金的公司用的。这个答案得罪所有人。我那些做独立开发的朋友肯定不爽，他们会说：\"那Basecamp怎么说？还有ProfitWell呢？\"",
-    "text_es": "La idea básica es que el bootstrapping es para negocios de estilo de vida que quieren generar flujo de caja. El financiamiento externo es para empresas que buscan crear mil millones de dólares en ingresos anuales. Y esa respuesta ofende a todo el mundo. Esa respuesta ofende a mis amigos indie, van a decir \"Oye, ¿y qué pasa con Basecamp [inaudible 00:12:43], ProfitWell?\"",
+    "text_ko": "요지는 부트스트래핑(bootstrapping)은 현금 흐름(cash flow)을 중요하게 여기는 라이프스타일 비즈니스(lifestyle businesses)에 맞고, 자금 조달(funding)은 연간 10억 달러 매출(billion dollars in annual revenue)을 목표로 하는 회사들을 위한 거예요. 그리고 그 대답은 다들 불편해해요.",
+    "text_zh": "一句话：靠自筹（bootstrapping）适合那种靠现金流（cash flow）维持生活的生意；融资（funding）是给那些想把公司做成年收入十亿美元的企业用的。说这话会得罪所有人。",
+    "text_es": "La idea básica es que arrancar sin financiación externa (bootstrapping) es para negocios de estilo de vida que buscan generar caja (cash flow). La financiación (funding) es para empresas que intentan llegar a mil millones de dólares en ingresos anuales. Y esa respuesta ofende a todo el mundo.",
     "key_sentence": "Bootstrapping suits lifestyle businesses; funding aims for billion-dollar revenue.",
     "text_trimmed": true,
     "original_text": "The basic idea is bootstrapping is for lifestyle businesses that want to cash flow. Funding is for companies trying to create a billion dollars in annual revenue. And that answer offends everybody. That answer offends the indie friends I have, they're going to be like, \"Oh, what about Basecamp [inaudible 00:12:43], ProfitWell?\"",
@@ -158,22 +114,10 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "contrarian",
-        "definition": "A contrarian is an individual or investor who takes a position that is opposite to the prevailing market sentiment or consensus.",
-        "businessContext": "In investment and business strategy, contrarians often seek opportunities in undervalued assets or markets that others may overlook, believing that the majority may be wrong.",
-        "nuance": "While being a contrarian can lead to significant rewards, it also carries risks, as going against the crowd can result in losses if the prevailing sentiment is correct.",
-        "synonyms": [
-          "dissenter",
-          "nonconformist"
-        ],
-        "antonyms": [
-          "follower",
-          "conformist"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The number one thing to figure out when you're thinking about the different pricing pieces, pound for pound, it's the pricing metric or the value metric. That's how you charge per user, per thousand visits, per thousand what's its, whatever it is.",
@@ -181,10 +125,8 @@
     "timestamp": "00:20:24",
     "context": "Lenny asks Patrick about pricing strategy and where founders should focus their efforts for maximum impact. Patrick, being one of the top experts on SaaS pricing, explains that the most important element to get right is the value metric - how you actually charge customers. This is the foundation that makes everything else in pricing work better, from acquisition to retention.",
     "vocabulary_highlights": [
-      "pricing strategy",
       "value metric",
-      "charge per user",
-      "maximum impact"
+      "charge per user"
     ],
     "topics": [
       "Strategy & Planning",
@@ -203,20 +145,6 @@
     "key_sentence": "Pound for pound, the pricing metric determines how you charge.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "pricing strategy",
-        "definition": "A pricing strategy is a method used by businesses to determine the best price for their products or services, balancing profitability with customer demand.",
-        "businessContext": "In business and tech environments, a well-defined pricing strategy is crucial for market positioning, revenue generation, and competitive advantage.",
-        "nuance": "The term implies a thoughtful approach to pricing rather than arbitrary price setting, often reflecting a company's overall business strategy.",
-        "synonyms": [
-          "pricing model",
-          "pricing approach"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
       {
         "word": "value metric",
         "definition": "A value metric is a quantifiable measure that reflects the value delivered to customers, often used to determine pricing based on usage or benefits received.",
@@ -244,22 +172,9 @@
           "flat rate",
           "N/A"
         ]
-      },
-      {
-        "word": "maximum impact",
-        "definition": "Maximum impact refers to the greatest effect or influence that an action, strategy, or initiative can achieve within a given context.",
-        "businessContext": "In business settings, achieving maximum impact is often a goal for marketing campaigns, product launches, and strategic initiatives to ensure optimal resource utilization.",
-        "nuance": "The phrase suggests a focus on effectiveness and efficiency, often used in discussions about prioritizing actions that yield the highest returns.",
-        "synonyms": [
-          "optimal effect",
-          "greatest influence"
-        ],
-        "antonyms": [
-          "minimal impact",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "Strategic retention is all the stuff that you as a great product leader, a great product team are doing.",
@@ -269,8 +184,7 @@
     "vocabulary_highlights": [
       "strategic",
       "retention",
-      "product leader",
-      "focus on"
+      "product leader"
     ],
     "topics": [
       "Product Management",
@@ -283,9 +197,9 @@
       "Growth Strategy",
       "Team Building"
     ],
-    "text_ko": "전략적 리텐션(strategic retention)은 훌륭한 제품 리더로서, 훌륭한 제품 팀으로서 하는 모든 일들이에요. 이상적 고객 프로필(ICP), 가치 실현 시간(time to value), 로드맵 작성(road mapping), 적절한 기능 선정, 미션 메트릭(mission metric) 찾아내기, 사소한 것까지 신경 쓰며 괴로워하는—제품 리더로서 겪는 자잘한 문제들(paper cuts) 같은 것들이요. 그런데 거기에만 너무 집중하고 편향되다 보면 보통 우리가 전술적 리텐션(tactical retention)이라고 부르는 걸 놓치게 되는 경우가 많아요.",
-    "text_zh": "战略留存就是你们作为优秀产品负责人和产品团队在做的所有事情。你们的ICP(理想客户画像)，缩短价值实现时间，产品路线图规划，做对的功能，找准你们的核心指标，为每个细节抠破头，这些都是优秀产品负责人要承受的各种折磨。但正因为你们太专注于这些，有了思维定式，往往就会错过我们说的战术留存这一块。",
-    "text_es": "La retención estratégica es todo lo que tú como líder de producto increíble, como equipo de producto increíble, están haciendo. Tus ICPs, tu tiempo de valor (time to value), el mapeo de ruta (road mapping), las funcionalidades correctas, definir tu métrica de misión (mission metric), preocuparte por cada detallito, todas esas pequeñas molestias de ser un gran líder de producto. Pero como estás tan enfocado y tan sesgado hacia eso, típicamente te pierdes esta cosa que llamamos retención táctica.",
+    "text_ko": "전략적 리텐션(Strategic retention)은 훌륭한 프로덕트 리더이자 훌륭한 프로덕트 팀인 여러분이 하는 모든 일이에요.",
+    "text_zh": "说白了，战略性留存（strategic retention）就是你作为优秀的产品负责人和出色的产品团队正在做的那些事情。",
+    "text_es": "La retención estratégica es todo lo que tú, como gran líder de producto (product leader), y tu equipo de producto (product team) están haciendo.",
     "key_sentence": "Strategic retention is all the stuff that you as a great product leader, a great product team are doing.",
     "text_trimmed": true,
     "original_text": "Strategic retention is all the stuff that you as a great product leader, a great product team are doing. Your ICPs, your time to value, road mapping, the right features, figuring out your mission metric, agonizing over every little thing, all the paper cuts of being a great product leader. But because you're so focused and so biased towards that, you miss out typically on this thing we call tactical retention.",
@@ -332,22 +246,10 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "focus on",
-        "definition": "To direct attention or effort towards a particular task, goal, or area of interest.",
-        "businessContext": "In business, 'focus on' emphasizes prioritizing certain projects or objectives to maximize effectiveness and resource utilization.",
-        "nuance": "While 'focus on' conveys determination, it can also suggest a potential neglect of other important areas if not balanced properly.",
-        "synonyms": [
-          "concentrate on",
-          "prioritize"
-        ],
-        "antonyms": [
-          "disregard",
-          "neglect"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "In my opinion, your tempo framework is more important than your org design.",
@@ -356,9 +258,7 @@
     "context": "Lenny asks Patrick about shipping and building productive teams. Patrick shares his framework for creating high-output teams by establishing clear tempo expectations. He explains that many smart teams fail to ship effectively not because of organizational structure, but because they lack alignment on what good performance looks like in terms of shipping frequency and output expectations.",
     "vocabulary_highlights": [
       "framework",
-      "productive",
-      "tempo",
-      "expectations"
+      "tempo"
     ],
     "topics": [
       "Leadership & Management",
@@ -371,9 +271,9 @@
       "Growth Strategy",
       "Team Building"
     ],
-    "text_ko": "제 생각에는 템포 프레임워크(tempo framework)가 조직 설계(org design)보다 더 중요해요. 그래서 만약 정말 똑똑해 보이는 팀이 있는데 항상 계획만 하고 실제로는 자주 결과물을 내지 못하거나, 리더십 레벨에서는 다들 이해하는 것 같은데 그 아래 팀들이 어딘가 다른 방향으로 움직인다면, 아마 충분한 정렬(alignment)이 안 돼 있는 거고 특히 템포 관점에서 무엇이 '잘하는 모습'인지에 대한 공감대가 부족한 거예요.",
-    "text_zh": "我觉得吧，节奏框架(tempo framework)比组织架构设计更重要。你肯定遇到过这种情况：有些团队看起来特别聪明，但总是在那儿规划规划的，实际出活儿不多；或者领导层都挺明白的，但下面的人、再下面的人，好像都在各干各的，方向不太一致。这种情况多半是大家没有达成共识，特别是在节奏把控上，什么叫\"做得好\"，大家心里都没个准儿。",
-    "text_es": "En mi opinión, tu marco de ritmo de trabajo es más importante que el diseño organizacional. Entonces, si alguna vez has tenido un equipo que parece súper inteligente, pero siempre están planeando o no entregan mucho, o has tenido problemas donde todos los líderes lo entienden, pero después el equipo que está debajo de ellos y así sucesivamente parece ir en otra dirección, probablemente no tienes suficiente alineación y no tienes suficiente alineación sobre cómo se ve un buen ritmo de trabajo.",
+    "text_ko": "개인적으로는 당신의 템포 프레임워크(tempo framework)가 조직 설계(org design)보다 더 중요하다고 봐요.",
+    "text_zh": "我觉得节奏框架（tempo framework）比组织设计（org design）更重要。",
+    "text_es": "A mi modo de ver, el marco de ritmo (tempo framework) pesa más que el diseño organizativo (org design).",
     "key_sentence": "your tempo framework is more important than your org design.",
     "text_trimmed": true,
     "original_text": "In my opinion, your tempo framework is more important than your org design. And so if you've ever had a team that seems really, really smart, but they're always planning or they don't really ship a lot, or you've had trouble where everyone kind of gets it at the leadership level, but then the team below them and below them seems to be kind of going in a different direction, you probably don't have enough alignment and you don't have enough alignment on what good looks like in terms of tempo.",
@@ -394,20 +294,6 @@
         ]
       },
       {
-        "word": "productive",
-        "definition": "Productive refers to the ability to generate significant output or results efficiently and effectively.",
-        "businessContext": "In a business context, productivity is often measured in terms of employee performance, project outcomes, and overall organizational efficiency.",
-        "nuance": "The term can sometimes carry a connotation of being overly focused on output, potentially neglecting quality or employee well-being.",
-        "synonyms": [
-          "efficient",
-          "effective"
-        ],
-        "antonyms": [
-          "unproductive",
-          "inefficient"
-        ]
-      },
-      {
         "word": "tempo",
         "definition": "Tempo refers to the speed or pace at which an activity or process occurs, often influencing the rhythm of work and productivity.",
         "businessContext": "In business, tempo can relate to project timelines, the pace of team collaboration, and the overall speed of decision-making processes.",
@@ -420,22 +306,10 @@
           "slowness",
           "lethargy"
         ]
-      },
-      {
-        "word": "expectations",
-        "definition": "Expectations are beliefs or assumptions about what will happen in the future, often guiding behavior and decision-making.",
-        "businessContext": "In a business environment, managing expectations is crucial for stakeholder satisfaction, project success, and team morale.",
-        "nuance": "Expectations can be both explicit and implicit, and failing to meet them can lead to disappointment or conflict, so clear communication is essential.",
-        "synonyms": [
-          "anticipations",
-          "assumptions"
-        ],
-        "antonyms": [
-          "disappointments",
-          "surprises"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Everything in your business, it does not matter what type of business you have, everything is used to drive someone to a point of conversion or justify the product or the price that you're offering up.",
@@ -444,9 +318,7 @@
     "context": "Lenny asks Patrick about customer research and his perspective on why companies often fail to do it properly. Patrick gives his \"85-year-old curmudgeonly man perspective\" on customer research, emphasizing that despite everyone talking about its importance, only one in five companies have proper buyer personas and only one in ten do regular customer research, even though it dramatically improves all business metrics.",
     "vocabulary_highlights": [
       "conversion",
-      "justify",
-      "perspective",
-      "customer research"
+      "justify"
     ],
     "topics": [
       "Product Management",
@@ -459,9 +331,9 @@
       "Growth Strategy",
       "Team Building"
     ],
-    "text_ko": "어떤 비즈니스를 운영하든 상관없이, 비즈니스의 모든 요소는 결국 누군가를 구매 같은 전환 지점(conversion)으로 이끌거나, 당신이 제시하는 제품이나 가격을 납득시키는 데 쓰여요. 그 고객은 결국 한 사람이고, 당신의 역할은 그들이 당신을 어떻게 인식하는지, 자신의 문제를 어떻게 바라보는지, 그리고 당신의 제품을 둘러싼 세상을 어떻게 생각하는지를 이해하는 거예요.",
-    "text_zh": "不管你做什么生意，所有的一切都是为了让客户最终下单买你的东西，或者让他们觉得你的产品和价格物有所值。那个客户是活生生的人，你要让他们最终转化(conversion)，你就得搞清楚他们怎么看你，怎么看他们自己遇到的问题，还有他们对你产品周围这个世界是怎么理解的。",
-    "text_es": "Todo en tu negocio, no importa qué tipo de empresa tengas, todo se usa para llevar a alguien a ese punto de conversión o para justificar el producto o el precio que estás ofreciendo. Ese cliente es un ser humano al que estás llevando a ese punto de conversión y tu trabajo es entender cómo te percibe a ti, cómo percibe su problema, cómo percibe el mundo que lo rodea, el mundo alrededor de tus productos.",
+    "text_ko": "사업에서 하는 모든 일은, 어떤 종류의 사업이든 상관없이, 결국 누군가를 전환(conversion) 지점으로 유도하거나 제시하는 제품이나 가격을 정당화(justify)하기 위해 사용돼요.",
+    "text_zh": "不论你做什么生意，所有环节都是为了把人推进到成交（conversion）这一刻，或者为你提供的产品和定价做背书。",
+    "text_es": "En cualquier negocio, sea cual sea, todo está ahí para llevar a alguien a una conversión (conversion) o para justificar el producto o el precio que ofreces.",
     "key_sentence": "Everything drives a point of conversion or justifies the product offered.",
     "text_trimmed": true,
     "original_text": "Everything in your business, it does not matter what type of business you have, everything is used to drive someone to a point of conversion or justify the product or the price that you're offering up. That customer is a human being you're driving to that point of conversion and it's your job to understand how they perceive you, how they perceive their problem, how they perceive the world around them, around your products.",
@@ -494,35 +366,9 @@
           "disprove",
           "invalidate"
         ]
-      },
-      {
-        "word": "perspective",
-        "definition": "A particular attitude or way of considering something, which can influence decision-making and understanding.",
-        "businessContext": "In business, perspective is crucial as it shapes how leaders and teams interpret market trends, customer needs, and competitive landscapes.",
-        "nuance": "The term often implies a subjective viewpoint, suggesting that different stakeholders may have varying perspectives on the same issue.",
-        "synonyms": [
-          "viewpoint",
-          "outlook"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "customer research",
-        "definition": "The process of gathering and analyzing information about consumers' needs, preferences, and behaviors to inform business strategies.",
-        "businessContext": "Customer research is essential for businesses to understand their target market, improve products, and tailor marketing efforts effectively.",
-        "nuance": "While it is a systematic approach, the term can also imply an ongoing effort to adapt to changing consumer dynamics.",
-        "synonyms": [
-          "market research",
-          "consumer analysis"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

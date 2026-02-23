@@ -5,9 +5,7 @@
     "timestamp": "00:06:32",
     "context": "Lenny asks whether performance marketing is something every company should be doing or if certain business models should focus on other growth channels like SEO, sales, or word of mouth instead. Timothy argues that the digital landscape has shifted dramatically, making paid advertising essential for virtually all businesses. He explains that organic reach has become increasingly difficult as platforms prioritize paid content, forcing companies to invest in paid channels just to maintain visibility.",
     "vocabulary_highlights": [
-      "performance marketing",
       "organic listing",
-      "growth channels",
       "introducing AI"
     ],
     "topics": [
@@ -20,28 +18,14 @@
       "Marketing Strategy",
       "Growth Strategy"
     ],
-    "text_ko": "솔직히 말하면요, 제 생각엔 유료 광고(paid)는 이제 모두를 위한 것 같아요. 각 플랫폼을 보면 구글은 인공지능(AI)을 도입했고, 상단 네 자리를 유료 광고(paid)가 차지해서 유기적 노출(organic listing)은 꽤 아래까지 내려가야 볼 수 있어요. 메타는 거의 페이포플레이(pay-for-play)나 다름없어요.",
-    "text_zh": "我直说吧，付费推广(paid)现在是人人都得做的。你看各个平台现在什么情况，谷歌加了AI功能，再加上付费广告占了前四个位置，你得往下翻好久才能看到自然排名的结果。Meta那边呢，基本上就是花钱才能玩得转了。",
-    "text_es": "Opinión controversial. Yo diría que la publicidad pagada es para todos. Si te fijas en cómo está funcionando cada plataforma, Google está introduciendo IA, y además con los anuncios pagados ocupando los primeros cuatro lugares, tienes que hacer scroll bastante para llegar a un resultado orgánico. Meta, ya es casi pagar para jugar (pay for play).",
+    "text_ko": "솔직히 말하면요, 제 생각엔 유료 광고(paid)는 이제 누구나 하는 거예요. 각 플랫폼이 어떻게 돌아가는지 보면, 구글이 AI를 도입한 데다 상위 네 자리를 유료 광고가 차지하고 있어서 오가닉(organic) 노출을 보려면 꽤 아래까지 스크롤해야 해요.",
+    "text_zh": "大胆说一句：我觉得付费（paid）适合每个人。你看看各个平台现在的做法——Google 推出了人工智能（AI），而且前四个位置都被付费广告（paid）占了，想看到自然结果（organic listing）得往下翻很久。",
+    "text_es": "Una opinión polémica: yo diría que la publicidad de pago (paid) es para todos. Si miras cómo se están moviendo las plataformas —Google metiendo inteligencia artificial (AI), y con los espacios pagados (paid) ocupando las cuatro primeras posiciones— tienes que bajar bastante para encontrar un resultado orgánico (organic listing).",
     "key_sentence": "paid is for everyone.",
     "text_trimmed": true,
     "original_text": "Hot take. I would say, paid is for everyone. If you look at the way each platform is doing, Google introducing AI, plus with paid taking up the first four spots, you have to scroll pretty far down to get to an organic listing. Meta, it's almost a pay for play now.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "performance marketing",
-        "definition": "Performance marketing refers to online marketing strategies where advertisers pay only for measurable results, such as clicks or conversions.",
-        "businessContext": "In business, performance marketing is often used to optimize advertising budgets by focusing on campaigns that yield direct returns on investment, making it a popular choice for startups and established companies alike.",
-        "nuance": "This term emphasizes accountability and results-driven approaches, contrasting with traditional marketing methods that may not directly link spending to outcomes.",
-        "synonyms": [
-          "results-driven marketing",
-          "pay-for-performance marketing"
-        ],
-        "antonyms": [
-          "brand marketing",
-          "N/A"
-        ]
-      },
       {
         "word": "organic listing",
         "definition": "An organic listing refers to a webpage that appears in search engine results due to its relevance to the search query, rather than through paid advertising.",
@@ -54,20 +38,6 @@
         "antonyms": [
           "paid listing",
           "advertisement"
-        ]
-      },
-      {
-        "word": "growth channels",
-        "definition": "Growth channels are various pathways or methods through which a business can acquire new customers or increase revenue.",
-        "businessContext": "In startups and tech companies, identifying and optimizing growth channels is crucial for scaling operations and achieving sustainable growth.",
-        "nuance": "The term suggests a strategic approach to growth, emphasizing the importance of selecting the most effective channels based on target audience and market conditions.",
-        "synonyms": [
-          "customer acquisition channels",
-          "revenue streams"
-        ],
-        "antonyms": [
-          "decline channels",
-          "N/A"
         ]
       },
       {
@@ -84,18 +54,16 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Instead of thinking about being on top of the page, and that's like ego marketing, I want to be number one. I want to be there all the time. It's about showing to the right person as often as possible.",
     "speaker": "Timothy Davis",
     "timestamp": "00:00:13",
     "context": "Lenny asks Timothy about common mistakes he finds when taking over performance marketing accounts from agencies. Timothy explains that many marketers focus on vanity metrics like ranking position rather than targeting effectiveness. He describes 'ego marketing' as the misguided desire to always appear first in search results, when the real goal should be reaching qualified prospects who are likely to convert.",
-    "vocabulary_highlights": [
-      "vanity metrics",
-      "performance marketing",
-      "ranking position"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Growth & Marketing",
       "Strategy & Planning"
@@ -111,50 +79,8 @@
     "text_es": "En lugar de obsesionarse con estar en la primera posición, que es como marketing de ego, \"quiero ser el número uno, quiero estar ahí siempre\", se trata de aparecer ante la persona correcta con la mayor frecuencia posible.",
     "key_sentence": "It's about showing to the right person as often as possible.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "vanity metrics",
-        "definition": "Vanity metrics are data points that may look impressive but do not necessarily correlate with meaningful business outcomes or performance, such as social media likes or website visits.",
-        "businessContext": "In business and tech, vanity metrics are often criticized for distracting companies from focusing on actionable metrics that drive growth and profitability.",
-        "nuance": "While vanity metrics can provide a sense of achievement, they should be used cautiously as they may lead to misguided strategies if relied upon too heavily.",
-        "synonyms": [
-          "superficial metrics",
-          "non-actionable metrics"
-        ],
-        "antonyms": [
-          "key performance indicators",
-          "actionable metrics"
-        ]
-      },
-      {
-        "word": "performance marketing",
-        "definition": "Performance marketing refers to online marketing and advertising programs in which advertisers pay only for measurable results, such as clicks, conversions, or sales.",
-        "businessContext": "In the startup and tech sectors, performance marketing is crucial for optimizing advertising budgets and ensuring that marketing efforts directly contribute to revenue generation.",
-        "nuance": "This approach emphasizes accountability and return on investment, making it particularly appealing to data-driven organizations.",
-        "synonyms": [
-          "results-driven marketing",
-          "outcome-based marketing"
-        ],
-        "antonyms": [
-          "brand marketing",
-          "awareness marketing"
-        ]
-      },
-      {
-        "word": "ranking position",
-        "definition": "Ranking position refers to the placement of a website or webpage in search engine results, indicating its visibility and accessibility to users searching for specific keywords.",
-        "businessContext": "In digital marketing and SEO, maintaining a high ranking position is essential for attracting organic traffic and enhancing brand visibility online.",
-        "nuance": "While a high ranking position is desirable, it is important to focus on the quality of traffic and engagement rather than just the position itself.",
-        "synonyms": [
-          "search ranking",
-          "SERP position"
-        ],
-        "antonyms": [
-          "low visibility",
-          "poor ranking"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true
   },
   {
     "text": "Each platform is different. The user behavior is different. Make sure you're not too hard on yourself if it doesn't work. It's okay to fail because we're either winning or we're learning.",
@@ -162,9 +88,7 @@
     "timestamp": "00:00:31",
     "context": "Lenny asks for tips on experimenting with new advertising platforms to test for signs of life. Timothy advises that marketers should expect some experiments to fail when testing new platforms, as each has unique user behaviors and requirements. He emphasizes the importance of maintaining a learning mindset rather than expecting immediate success, explaining that failed experiments still provide valuable insights for future optimization.",
     "vocabulary_highlights": [
-      "experimenting",
       "user behavior",
-      "expect",
       "fail"
     ],
     "topics": [
@@ -184,20 +108,6 @@
     "vocab_reparsed": true,
     "vocabulary": [
       {
-        "word": "experimenting",
-        "definition": "The process of trying out new ideas, methods, or products to determine their effectiveness or viability.",
-        "businessContext": "In business and tech, experimenting is crucial for innovation, allowing companies to test hypotheses and refine their offerings based on real-world feedback.",
-        "nuance": "While experimenting implies a trial-and-error approach, it carries a positive connotation of exploration and learning rather than mere guesswork.",
-        "synonyms": [
-          "testing",
-          "trialing"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
         "word": "user behavior",
         "definition": "The patterns and actions of individuals when interacting with products, services, or platforms, often analyzed to improve user experience.",
         "businessContext": "Understanding user behavior is essential for businesses to tailor their marketing strategies, enhance product design, and increase customer satisfaction.",
@@ -209,20 +119,6 @@
         "antonyms": [
           "N/A",
           "N/A"
-        ]
-      },
-      {
-        "word": "expect",
-        "definition": "To regard something as likely to happen or to anticipate a particular outcome based on prior knowledge or experience.",
-        "businessContext": "In a business setting, managing expectations is vital for stakeholders, as it helps align goals and reduces the risk of disappointment when outcomes differ from predictions.",
-        "nuance": "Expecting can imply a degree of confidence or assumption, and it is often used in contexts where outcomes are uncertain but hoped for.",
-        "synonyms": [
-          "anticipate",
-          "foresee"
-        ],
-        "antonyms": [
-          "doubt",
-          "disbelieve"
         ]
       },
       {
@@ -239,7 +135,8 @@
           "thrive"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I always say, where are your users? You will have some data that will allow you to understand that say right now, you're doing really well on TikTok. Some would argue that's an emerging channel right now. Great.",
@@ -248,9 +145,7 @@
     "context": "Lenny asks about signs that indicate a company has potential for paid marketing to become most of their growth, rather than just a small percentage. Timothy explains his data-driven approach to identifying promising channels by analyzing existing user behavior patterns. He suggests looking at current traffic sources and user engagement to determine which platforms warrant increased investment, then testing similar platforms that might work with repurposed content.",
     "vocabulary_highlights": [
       "emerging",
-      "data-driven",
-      "understand",
-      "potential"
+      "understand"
     ],
     "topics": [
       "Growth & Marketing",
@@ -262,9 +157,9 @@
       "Marketing Strategy",
       "Growth Strategy"
     ],
-    "text_ko": "제가 항상 묻는 질문이 있어요. 사용자들이 어디에 있나요? 데이터를 보면 예를 들어 지금 틱톡(TikTok)에서 정말 잘하고 있다는 걸 알 수 있을 거예요. 어떤 사람들은 틱톡을 지금 떠오르는 채널이라고도 말해요. 그게 잘 되고 있다면, 그 콘텐츠를 스냅(Snap) 같은 비슷한 플랫폼에 그대로 써서 반응을 보는 것도 괜찮아요.",
-    "text_zh": "我总是这样说，你的用户都在哪儿？你肯定有些数据能让你看出来，比如说现在你在TikTok上做得特别好。有人会说TikTok现在还算是个新兴渠道吧。那挺好的。如果你在那上面效果不错，那你可能可以试试...因为那些内容完全可以放到类似的平台上，比如Snap，看看效果怎么样。",
-    "text_es": "Siempre digo, ¿dónde están tus usuarios? Vas a tener datos que te van a permitir entender que digamos ahora mismo, te está yendo muy bien en TikTok. Algunos dirían que es un canal emergente en este momento. Perfecto. Si eso te está funcionando súper bien, tal vez puedas tomar... Porque ese contenido se podría usar en algo similar como Snap, a ver qué tal te va ahí.",
+    "text_ko": "저는 항상 '사용자들이 어디에 있나요?'라고 말해요. 어떤 데이터(data)를 보면 지금 틱톡에서 꽤 잘하고 있다는 걸 알 수 있어요. 어떤 사람들은 지금 틱톡이 신흥 채널(emerging channel)이라고 보기도 해요. 좋아요.",
+    "text_zh": "我常说，你的用户在哪儿？数据会告诉你这一点，比如现在你在抖音（TikTok）上做得很不错。有人会说那是个新兴渠道(channel)，很好。",
+    "text_es": "Siempre digo: ¿dónde están tus usuarios? Vas a tener datos (data) que te permitan ver que, por ejemplo, ahora mismo te está yendo muy bien en TikTok. Algunos dirían que ahora es un canal emergente (emerging channel). Genial.",
     "key_sentence": "Identify where your users are; TikTok is an emerging channel for engagement.",
     "text_trimmed": true,
     "original_text": "I always say, where are your users? You will have some data that will allow you to understand that say right now, you're doing really well on TikTok. Some would argue that's an emerging channel right now. Great. If that's doing really well for you, maybe you take... Because that content could be used on something similar like Snap, see how that does for you.",
@@ -285,20 +180,6 @@
         ]
       },
       {
-        "word": "data-driven",
-        "definition": "Guided or informed by data analysis rather than intuition or personal experience.",
-        "businessContext": "In the context of business, being 'data-driven' implies making decisions based on empirical evidence and analytics to optimize performance and strategy.",
-        "nuance": "This term emphasizes the importance of objective measurement and analysis, often suggesting a more scientific approach to decision-making.",
-        "synonyms": [
-          "analytics-based",
-          "evidence-based"
-        ],
-        "antonyms": [
-          "intuitive",
-          "subjective"
-        ]
-      },
-      {
         "word": "understand",
         "definition": "To grasp the meaning, significance, or nature of something.",
         "businessContext": "In a business setting, 'understand' often refers to comprehending market dynamics, consumer behavior, or data insights that inform strategic decisions.",
@@ -311,22 +192,10 @@
           "misunderstand",
           "ignore"
         ]
-      },
-      {
-        "word": "potential",
-        "definition": "Having the capacity to develop into something in the future; the possibility of growth or advancement.",
-        "businessContext": "In business, 'potential' often refers to opportunities for expansion, market growth, or the capability of a product or service to succeed.",
-        "nuance": "The term suggests an inherent quality that may not yet be realized, often used to inspire optimism about future outcomes.",
-        "synonyms": [
-          "capability",
-          "promise"
-        ],
-        "antonyms": [
-          "limitation",
-          "inability"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The number one thing I tell people all the time is use your own data, start with your own data. So take the existing customer base you have, load that up into the platform to build lookalikes. From there, you can do...",
@@ -334,8 +203,6 @@
     "timestamp": "00:12:22",
     "context": "Lenny asks for advice on running effective 'signs of life' tests when experimenting with new advertising platforms. Timothy recommends starting with lookalike audiences based on existing customer data rather than broad targeting. Lookalike audiences use platform algorithms to find users who behave similarly to a company's current customers, with percentages indicating how closely matched the targeting is - 1% being the most similar and 10% being broader.",
     "vocabulary_highlights": [
-      "leverage",
-      "lookalike",
       "platform",
       "existing"
     ],
@@ -349,42 +216,14 @@
       "Marketing Strategy",
       "Growth Strategy"
     ],
-    "text_ko": "제가 늘 가장 먼저 하는 조언은 자신의 데이터부터 쓰라는 거예요. 이미 보유한 기존 고객 데이터를 플랫폼에 올려서 룩어라이크(lookalikes)를 만들어 보세요. 예를 들면 메타(Meta)에서는 룩어라이크를 1%에서 최대 10%까지 설정할 수 있어요.",
-    "text_zh": "我经常跟大家说的第一点就是，用你们自己的数据，从自己的数据开始。把你们现有的客户群导入到平台里，去建立相似受众(lookalikes)。然后呢，我拿Meta举个例子吧，你可以设置1%，一直到10%都行。",
-    "text_es": "Lo primero que siempre le digo a la gente es que usen sus propios datos, que empiecen con lo que ya tienen. Entonces tomas tu base de clientes actual, la subes a la plataforma para crear audiencias similares (lookalikes). A partir de ahí, puedes hacer... y voy a usar Meta como ejemplo. Puedes hacer desde un 1% hasta un 10%.",
+    "text_ko": "제가 사람들에게 늘 제일 먼저 하는 말은 자사 데이터부터 활용하라는 거예요. 보유한 고객 데이터를 플랫폼에 올려 유사 고객(lookalikes)을 만드세요. 거기서부터 여러 가지를 해볼 수 있어요...",
+    "text_zh": "我常跟人强调的第一点就是：先用自己的数据。把你现有的客户数据导入平台(platform)，用来做相似受众(lookalikes)。接下来你就可以……",
+    "text_es": "Lo primero que siempre les digo es: usen sus propios datos; empiecen por los suyos. Tomen la base de clientes que ya tienen y súbanla a la plataforma para crear audiencias similares (lookalikes). A partir de ahí pueden...",
     "key_sentence": "Use your own data to build lookalikes; load that up into the platform.",
     "text_trimmed": true,
     "original_text": "The number one thing I tell people all the time is use your own data, start with your own data. So take the existing customer base you have, load that up into the platform to build lookalikes. From there, you can do... And I'll use Meta as the example. You can do a 1%, all the way up to a 10%.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "leverage",
-        "definition": "To use something to maximum advantage or to gain a favorable position.",
-        "businessContext": "In business, leveraging often refers to utilizing resources, assets, or data to enhance performance or achieve strategic goals.",
-        "nuance": "While 'leverage' implies a strategic use of resources, it can also suggest a degree of manipulation, so it should be used carefully in contexts where ethical considerations are important.",
-        "synonyms": [
-          "utilize",
-          "capitalize"
-        ],
-        "antonyms": [
-          "waste",
-          "squander"
-        ]
-      },
-      {
-        "word": "lookalike",
-        "definition": "A person or thing that closely resembles another, often used in marketing to describe a target audience similar to an existing customer base.",
-        "businessContext": "In digital marketing, lookalike audiences are created using data from existing customers to identify and target potential new customers with similar characteristics.",
-        "nuance": "The term 'lookalike' carries a positive connotation in marketing, suggesting a strategic approach to audience expansion, but it may imply a lack of originality.",
-        "synonyms": [
-          "similar audience",
-          "target clone"
-        ],
-        "antonyms": [
-          "divergent audience",
-          "unique segment"
-        ]
-      },
       {
         "word": "platform",
         "definition": "A framework or environment that enables the development and deployment of applications, services, or technologies.",
@@ -413,7 +252,9 @@
           "novel"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The biggest thing I want to focus on is what is your thought process when it comes to data? Because I can teach anyone how to do Google ads. I can teach anyone how to do Meta ads. That is not the hard part.",
@@ -421,10 +262,7 @@
     "timestamp": "00:41:12",
     "context": "Lenny asks what type of person Timothy looks for when hiring the first performance marketing specialist. Timothy explains his philosophy around hiring data-driven people over those with specific platform experience. He references the book 'The Signal and the Noise' to illustrate how advertising platforms provide overwhelming amounts of metrics, making it crucial to hire someone who can distinguish meaningful insights from irrelevant data points.",
     "vocabulary_highlights": [
-      "thought process",
-      "data-driven",
-      "philosophy",
-      "performance marketing"
+      "thought process"
     ],
     "topics": [
       "Leadership & Management",
@@ -436,9 +274,9 @@
       "Marketing Strategy",
       "Growth Strategy"
     ],
-    "text_ko": "제가 가장 중점적으로 보고 싶은 건 데이터(data)를 대할 때 어떤 사고 방식을 가지고 계신가 하는 거예요. 구글 광고(Google Ads)나 메타 광고(Meta Ads)는 누구에게나 가르쳐 줄 수 있어요. 그게 어려운 게 아니에요. 진짜 어려운 건 데이터(data)예요 — 광고 계정(accounts)들에는 잡음(noise)이 너무 많거든요.",
-    "text_zh": "我最想重点聊的是，你在处理数据的时候是怎么想的？因为Google广告怎么投、Meta广告怎么做，这些我都能教会任何人，这不是难点。真正难的是数据这块儿，因为那些账户里面杂七杂八的信息太多了，很容易被干扰。",
-    "text_es": "Lo más importante en lo que me quiero enfocar es: ¿cuál es tu proceso de pensamiento cuando se trata de datos? Porque a cualquier persona le puedo enseñar a hacer anuncios en Google. A cualquier persona le puedo enseñar a hacer anuncios en Meta. Esa no es la parte difícil. La parte difícil son los datos, porque hay muchísimo ruido en esas cuentas.",
+    "text_ko": "제가 가장 집중하고 싶은 건 데이터(data)를 다룰 때 어떤 생각을 하는지예요. 구글 광고(Google Ads) 하는 법은 누구에게나 가르쳐줄 수 있고, 메타 광고(Meta Ads)도 마찬가지예요. 그건 어려운 부분이 아니에요.",
+    "text_zh": "我最想关注的是：你看待数据的思路是什么？因为谷歌广告(Google ads)、Meta广告(Meta ads)我都能教会任何人，这并不是难点。",
+    "text_es": "Lo más importante en lo que quiero centrarme es: ¿cómo piensas a la hora de trabajar con los datos? Porque puedo enseñar a cualquiera a hacer anuncios en Google (Google Ads). Puedo enseñar a cualquiera a hacer anuncios en Meta (Meta Ads). Esa no es la parte difícil.",
     "key_sentence": "The biggest thing I want to focus on is what is your thought process when it comes to data?",
     "text_trimmed": true,
     "original_text": "The biggest thing I want to focus on is what is your thought process when it comes to data? Because I can teach anyone how to do Google ads. I can teach anyone how to do Meta ads. That is not the hard part. It is the data part that is the hard part because there is so much noise going on in those accounts.",
@@ -457,50 +295,10 @@
           "impulsiveness",
           "N/A"
         ]
-      },
-      {
-        "word": "data-driven",
-        "definition": "An approach that relies on data analysis and interpretation to guide decision-making and strategy development.",
-        "businessContext": "In the tech and startup world, being data-driven is essential for optimizing marketing campaigns, improving product features, and enhancing customer experiences based on empirical evidence.",
-        "nuance": "This term carries a positive connotation, suggesting a rational and objective basis for decisions, and is often contrasted with intuition-based approaches.",
-        "synonyms": [
-          "evidence-based",
-          "analytics-focused"
-        ],
-        "antonyms": [
-          "intuition-based",
-          "subjective"
-        ]
-      },
-      {
-        "word": "philosophy",
-        "definition": "A set of beliefs or principles that guide an individual's or organization's behavior and decision-making.",
-        "businessContext": "In business, a company's philosophy can shape its culture, influence its strategic direction, and define its values and ethics.",
-        "nuance": "While often associated with abstract thinking, in a business context, it refers to practical principles that drive operational practices and corporate identity.",
-        "synonyms": [
-          "principle",
-          "ethos"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "performance marketing",
-        "definition": "A type of digital marketing where advertisers pay only for measurable results, such as clicks or conversions, rather than for ad placements.",
-        "businessContext": "In the startup ecosystem, performance marketing is crucial for maximizing return on investment (ROI) and ensuring that marketing budgets are spent effectively based on quantifiable outcomes.",
-        "nuance": "This term emphasizes accountability and measurable success, making it particularly relevant in discussions about marketing efficiency and budget allocation.",
-        "synonyms": [
-          "results-driven marketing",
-          "pay-for-performance marketing"
-        ],
-        "antonyms": [
-          "brand marketing",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I'm a big believer in hiring smart people and then getting out of their way. But each week having one-on-ones with them, just spot checking things, just saying, 'Hey, I looked at this. This doesn't look right.",
@@ -508,10 +306,7 @@
     "timestamp": "00:36:03",
     "context": "Lenny asks Timothy to explain why he consistently outperforms agencies when taking over performance marketing accounts. Timothy describes his management philosophy of empowering team members while maintaining oversight through regular check-ins. He contrasts this with agencies that often spread their attention too thin across multiple clients, preventing them from diving deep into account optimization and maintaining consistent quality control.",
     "vocabulary_highlights": [
-      "empowering",
-      "spot checking",
-      "performance marketing",
-      "management philosophy"
+      "spot checking"
     ],
     "topics": [
       "Leadership & Management",
@@ -523,28 +318,14 @@
       "Marketing Strategy",
       "Growth Strategy"
     ],
-    "text_ko": "저는 유능한 사람들을 뽑아서 그냥 맡겨두는 걸 믿어요. 대신 매주 한 번씩 1대1(one-on-one)로 만나서 가볍게 체크만 해요. \"이거 제가 봤는데 뭔가 이상해 보여요. 무슨 일인가요?\" \"아, 그건 이 날에 해요.\" \"아, 좋아요. 그냥 잘 처리되고 있는지 확인하려고요.\"",
-    "text_zh": "我特别相信一点，就是招聪明人，然后别老管着他们。但每周还是要跟他们一对一聊聊，就是随便看看情况，比如说\"嗨，我看了一下这个，感觉有点不对劲，怎么回事？\"\"哦对，我那天会处理的。\"\"好的，没问题，就是确认一下你这边都搞定了。\"",
-    "text_es": "Yo creo mucho en contratar gente inteligente y luego dejarles hacer su trabajo. Pero cada semana tengo reuniones uno a uno con ellos, simplemente para revisar cosas, para decir, \"Oye, vi esto. No me parece bien. ¿Qué está pasando ahí?\" \"Ah sí, eso lo hago tal día.\" \"Perfecto. Solo quería asegurarme de que estás cubierto.\"",
+    "text_ko": "저는 유능한 사람을 뽑아 놓고는 그들이 알아서 일하게 놔두는 걸 정말 믿어요. 다만 매주 일대일 미팅(one-on-one)을 하면서 가볍게 스폿체크(spot checking)를 하고, \"이거 제가 봤는데 좀 이상해 보여요\"라고 말하곤 해요.",
+    "text_zh": "我很赞同招聪明人，然后放手让他们去做。不过我每周还是会和他们做一对一(one-on-ones)，顺便抽查一下，随口说一句：“我看了这个，好像不太对。”",
+    "text_es": "Creo firmemente en contratar a personas inteligentes y luego darles espacio para trabajar. Pero cada semana tengo reuniones uno a uno (one-on-ones) con cada persona, hago revisiones puntuales (spot checking) y les digo: \"Oye, miré esto y no me cuadra.\"",
     "key_sentence": "Hire smart people and get out of their way while spot checking things.",
     "text_trimmed": true,
     "original_text": "I'm a big believer in hiring smart people and then getting out of their way. But each week having one-on-ones with them, just spot checking things, just saying, 'Hey, I looked at this. This doesn't look right. What's going on there?' 'Oh yeah, I do that on this day.' 'Okay, great. Just making sure you're covered.'",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "empowering",
-        "definition": "Providing individuals with the authority, confidence, and resources to make decisions and take action.",
-        "businessContext": "In business, empowering employees fosters a culture of innovation and accountability, enabling teams to take ownership of their work and drive results.",
-        "nuance": "While empowering is generally positive, it can imply a lack of oversight if taken to an extreme, potentially leading to misalignment with organizational goals.",
-        "synonyms": [
-          "enabling",
-          "authorizing"
-        ],
-        "antonyms": [
-          "restricting",
-          "disempowering"
-        ]
-      },
       {
         "word": "spot checking",
         "definition": "The practice of randomly reviewing or inspecting a small portion of work or data to ensure quality and compliance.",
@@ -558,35 +339,9 @@
           "comprehensive review",
           "full audit"
         ]
-      },
-      {
-        "word": "performance marketing",
-        "definition": "A form of marketing that focuses on measurable results, such as clicks, leads, or sales, where advertisers pay based on performance outcomes.",
-        "businessContext": "In the digital landscape, performance marketing is crucial for startups and tech companies seeking to optimize their advertising spend and maximize return on investment.",
-        "nuance": "While performance marketing emphasizes accountability, it can sometimes lead to short-term thinking at the expense of brand building.",
-        "synonyms": [
-          "results-driven marketing",
-          "outcome-based marketing"
-        ],
-        "antonyms": [
-          "brand marketing",
-          "awareness marketing"
-        ]
-      },
-      {
-        "word": "management philosophy",
-        "definition": "A set of beliefs and principles that guide how an organization is managed and how its employees are treated.",
-        "businessContext": "In business, a management philosophy shapes company culture, influences decision-making processes, and affects employee engagement and productivity.",
-        "nuance": "Different management philosophies can lead to varying organizational outcomes; thus, it's important to align the philosophy with the company's goals and values.",
-        "synonyms": [
-          "leadership approach",
-          "organizational philosophy"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

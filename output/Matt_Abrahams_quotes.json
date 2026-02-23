@@ -6,7 +6,6 @@
     "context": "Lenny points out that most public speaking we do is on the spot rather than prepared talks. Matt responds by explaining one of the fundamental principles for getting better at spontaneous speaking. He argues that while it seems contradictory, you must actually prepare in order to be effective when speaking spontaneously, just like athletes and jazz musicians practice extensively to perform well in unpredictable situations.",
     "vocabulary_highlights": [
       "counterintuitive",
-      "fundamental",
       "prepare",
       "spontaneous"
     ],
@@ -41,20 +40,6 @@
         ]
       },
       {
-        "word": "fundamental",
-        "definition": "Essential or foundational; forming a necessary base or core of something.",
-        "businessContext": "Understanding fundamental principles is crucial in business, as they guide decision-making and strategy development.",
-        "nuance": "While 'fundamental' often refers to basic concepts, it can also imply a deeper significance in the context of business strategies or values.",
-        "synonyms": [
-          "essential",
-          "basic"
-        ],
-        "antonyms": [
-          "superficial",
-          "secondary"
-        ]
-      },
-      {
         "word": "prepare",
         "definition": "To make ready or equip oneself for a specific purpose or event.",
         "businessContext": "In a business setting, preparation is vital for successful project management, ensuring that teams are equipped with the necessary resources and knowledge.",
@@ -82,7 +67,8 @@
           "planned"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "Strive for connection over perfection by daring to be dull. Just answer the question. Just give the feedback. Just be engaged in the small talk.",
@@ -105,9 +91,9 @@
       "Executive Coaching",
       "Leadership Development"
     ],
-    "text_ko": "완벽함보다 연결을 목표로 하세요. 지루해지는 걸 감수할 용기를 내보세요. 그냥 질문에 답하세요. 그냥 피드백을 주세요. 그냥 가벼운 잡담에 참여하세요. 그러면 자기평가의 소음을 낮추고, 그 여유를 진짜 성공에 도움이 되는 일에 쓸 수 있어요.",
-    "text_zh": "与其追求完美，不如专注建立联系，敢于做个\"普通人\"。问什么答什么，该给反馈就给反馈，闲聊的时候就好好参与进去。这样做能让你不那么纠结自己的表现，把精力真正用在能让你成功的事情上。",
-    "text_es": "Busca conectar en lugar de ser perfecto, y atrévete a ser aburrido. Simplemente responde la pregunta. Simplemente da el feedback. Simplemente participa en la plática casual. Al hacer eso, reduces la autocrítica mental, liberando energía que puedes usar para realmente tener éxito.",
+    "text_ko": "완벽함보다 사람과의 연결을 우선하세요. 시시해 보이는 것도 감수할 용기를 내세요. 그냥 질문에 답하세요. 그냥 피드백을 주세요. 가벼운 잡담에도 그냥 참여하세요.",
+    "text_zh": "别把追求完美放在第一位，要更注重建立联系。勇于显得平淡：直接回答问题、直接给出反馈，闲聊时也真心参与就够了。",
+    "text_es": "Prioriza la conexión por encima de la perfección: atrévete a no intentar impresionar. Responde la pregunta. Da retroalimentación (feedback). Participa en la charla informal (small talk).",
     "key_sentence": "Strive for connection over perfection by daring to be dull and engaging.",
     "text_trimmed": true,
     "original_text": "Strive for connection over perfection by daring to be dull. Just answer the question. Just give the feedback. Just be engaged in the small talk. By doing that, you dial down the volume of self-evaluation, freeing up resources that can be used to really help you succeed.",
@@ -169,7 +155,8 @@
           "isolation"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "Visualization is a really useful technique and you see yourself not just in the moment of speaking, but getting up to the stage, seeing it being well received, thinking about how you step off the stage.",
@@ -179,8 +166,7 @@
     "vocabulary_highlights": [
       "technique",
       "visualization",
-      "received",
-      "manage"
+      "received"
     ],
     "topics": [
       "Communication Skills",
@@ -192,9 +178,9 @@
       "Executive Coaching",
       "Leadership Development"
     ],
-    "text_ko": "시각화(visualization)는 정말 유용한 기법이에요. 말하는 순간만 떠올리는 게 아니라 무대에 오르는 모습, 청중이 잘 받아주는 모습, 무대에서 내려오는 장면까지 미리 상상해 보는 거예요. 운동선수들이 늘 이렇게 하는 걸 보잖아요. 연구도 있어서 이런 연습이 두려움이나 긴장에 덜 민감해지게 만든다고 해요.",
-    "text_zh": "想象练习真的特别管用，你要想象的不只是站在台上讲话的那一刻，还要想象自己走上台、看到观众反应很好、然后怎么走下台，整个过程都要过一遍。你看那些运动员经常这么做，研究也证明了这样能让人没那么紧张。",
-    "text_es": "La visualización es una técnica súper útil donde te imaginas no solo el momento de hablar, sino también cómo subes al escenario, cómo tu presentación es bien recibida, cómo bajas del escenario después. Vemos que los deportistas hacen esto todo el tiempo, y hay buena investigación que demuestra que esto ayuda a desensibilizar a la gente.",
+    "text_ko": "시각화(visualization)은 정말 유용한 기법이에요. 말하는 그 순간뿐 아니라 무대에 오르는 모습, 관객에게 잘 받아들여지는 장면, 그리고 무대에서 내려오는 방식까지 미리 떠올려보게 해줘요.",
+    "text_zh": "可视化 (visualization) 是个很有用的技巧，你想象的不只是自己说话的那一刻，而是整个过程：上台、看到台下反应很好、以及你怎么从台上走下去。",
+    "text_es": "La visualización es una técnica muy útil: no solo te imaginas en el momento de hablar, sino también cómo subes al escenario, cómo la audiencia te recibe bien y cómo sales del escenario.",
     "key_sentence": "Visualization is a really useful technique and you see yourself not just in the moment of speaking.",
     "text_trimmed": true,
     "original_text": "Visualization is a really useful technique and you see yourself not just in the moment of speaking, but getting up to the stage, seeing it being well received, thinking about how you step off the stage. We see athletes do this kind of thing all the time, and there's good research to say that this desensitizes people.",
@@ -241,22 +227,10 @@
           "rejected",
           "dismissed"
         ]
-      },
-      {
-        "word": "manage",
-        "definition": "To be in charge of or to oversee the operation or administration of something, often involving planning and decision-making.",
-        "businessContext": "In business, 'manage' refers to the coordination of resources, teams, or projects to achieve organizational objectives efficiently.",
-        "nuance": "While 'manage' suggests control and oversight, it can also imply a collaborative approach, especially in modern business environments.",
-        "synonyms": [
-          "oversee",
-          "administer"
-        ],
-        "antonyms": [
-          "neglect",
-          "mismanage"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "When we communicate, especially spontaneously, we want to do it really well.",
@@ -264,10 +238,7 @@
     "timestamp": "00:11:09",
     "context": "Matt is explaining his \"dare to be dull\" philosophy in more detail. He describes how our desire to excel in communication creates mental pressure that actually hinders our performance. By comparing the brain to a computer's CPU, he illustrates how perfectionism consumes mental resources that could be better used for actual communication and connection.",
     "vocabulary_highlights": [
-      "communicate",
-      "excel",
-      "performance",
-      "hinders"
+      "communicate"
     ],
     "topics": [
       "Communication Skills",
@@ -279,9 +250,9 @@
       "Executive Coaching",
       "Leadership Development"
     ],
-    "text_ko": "우리가 소통할 때, 특히 즉흥적으로 대화할 때는 정말 잘하려고 해요. 질문에는 가장 좋은 답을 하려고 하고, 적절한 피드백을 주려고 하며, 스몰 토크(small talk)에서는 가장 흥미로운 사람이 되려고 하죠. 그래서 스스로에게 많은 압박을 주게 되고, 말하자면 우리의 인지적 대역폭(cognitive bandwidth)을 정말 많이 소모하고 있어요.",
-    "text_zh": "我们沟通的时候，特别是临场发挥的时候，总想表现得特别好。想给出最完美的答案，想提最到位的反馈，闲聊的时候也想成为最有意思的那个人，这样一来就给自己施加了很大压力。你可以这样想，这其实是在大量消耗我们的认知带宽(cognitive bandwidth)。",
-    "text_es": "Cuando nos comunicamos, sobre todo de forma espontánea, queremos hacerlo súper bien. Queremos dar la mejor respuesta posible, queremos dar el feedback correcto, queremos ser los más interesantes en la plática casual y eso nos pone mucha presión encima. Y puedes verlo así: realmente está agotando nuestra capacidad cognitiva (cognitive bandwidth).",
+    "text_ko": "소통할 때, 특히 즉흥적으로 할 때는 정말 잘하고 싶어해요.",
+    "text_zh": "沟通时，尤其是即兴交流的时候，我们都希望能把话说得好、说到位。",
+    "text_es": "A la hora de comunicarnos, y más aún cuando es espontáneo, queremos hacerlo de la mejor manera.",
     "key_sentence": "we want to do it really well.",
     "text_trimmed": true,
     "original_text": "When we communicate, especially spontaneously, we want to do it really well. We want to answer the question with the best answer, we want to give the right feedback, we want to be the most interesting in small talk and that puts a lot of pressure on ourselves. And you can think of it this way, it's really taxing our cognitive bandwidth.",
@@ -300,50 +271,10 @@
           "conceal",
           "withhold"
         ]
-      },
-      {
-        "word": "excel",
-        "definition": "To perform exceptionally well or to surpass others in a particular area or skill.",
-        "businessContext": "In the competitive business environment, individuals and organizations strive to excel in their respective fields to gain a competitive advantage and achieve success.",
-        "nuance": "The term 'excel' carries a positive connotation, suggesting not just competence but outstanding performance, and is often used in contexts of achievement and recognition.",
-        "synonyms": [
-          "outperform",
-          "thrive"
-        ],
-        "antonyms": [
-          "fail",
-          "languish"
-        ]
-      },
-      {
-        "word": "performance",
-        "definition": "The execution or accomplishment of a task or function, often measured against established standards or benchmarks.",
-        "businessContext": "In business, performance metrics are used to evaluate the efficiency and effectiveness of employees, teams, and overall organizational operations.",
-        "nuance": "The term 'performance' can refer to both qualitative and quantitative assessments, and is often associated with accountability and results-oriented evaluations.",
-        "synonyms": [
-          "execution",
-          "achievement"
-        ],
-        "antonyms": [
-          "inactivity",
-          "failure"
-        ]
-      },
-      {
-        "word": "hinders",
-        "definition": "To create obstacles or difficulties that impede progress or development.",
-        "businessContext": "In a business context, factors that hinder productivity or innovation can significantly affect a company's growth and competitiveness.",
-        "nuance": "The word 'hinders' suggests a more active role in creating barriers, and is often used in discussions about challenges that need to be addressed to facilitate improvement.",
-        "synonyms": [
-          "impedes",
-          "obstructs"
-        ],
-        "antonyms": [
-          "facilitates",
-          "promotes"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "So how we label the arousal matters and what Alison's research and others have followed up with suggests is that when we feel those symptoms of anxiety, rather than seeing it as negative, say, 'This is exciting. I get to share my point of view.",
@@ -351,8 +282,6 @@
     "timestamp": "00:14:18",
     "context": "Lenny asks about the technique of reframing nervousness as excitement. Matt explains research by Alison Wood Brooks showing that anxiety and excitement produce the same physiological response in our bodies - increased heart rate, shallow breathing, shakiness. The key difference is how we interpret these sensations. By consciously labeling the arousal as excitement rather than anxiety, we can actually improve our communication performance.",
     "vocabulary_highlights": [
-      "reframe",
-      "physiological response",
       "label",
       "point of view"
     ],
@@ -366,42 +295,14 @@
       "Executive Coaching",
       "Leadership Development"
     ],
-    "text_ko": "그래서 우리가 각성(arousal)을 어떻게 해석하느냐가 중요해요. 앨리슨의 연구와 그 후속 연구들이 보여주는 건, 불안한 증상이 느껴질 때 그걸 부정적으로 보지 말고 \"이거 신나네. 내 관점을 공유할 기회다. 내 가치를 보여줄 수 있겠네.\"라고 생각하라는 거예요. 그렇게 더 긍정적으로 보면 자연히 긴장이 풀려요.",
-    "text_zh": "所以我们怎么理解这种紧张感很关键。艾莉森的研究还有后续的一些研究都表明，当我们感到焦虑的时候，与其把它看成负面情绪，不如告诉自己\"这挺让人兴奋的，我可以分享我的观点，我可以展示我的价值\"。这样一来，把它往积极的方向想，自然就放松了。",
-    "text_es": "Entonces, cómo etiquetamos esa activación importa mucho, y lo que sugiere la investigación de Alison y otros estudios que han seguido es que cuando sentimos esos síntomas de ansiedad, en lugar de verlo como algo negativo, digamos: \"Esto es emocionante. Tengo la oportunidad de compartir mi punto de vista. Puedo demostrar mi valor.\" Y al hacerlo, al verlo de manera más positiva, automáticamente nos hace relajarnos.",
+    "text_ko": "이런 각성(arousal)을 어떻게 받아들이느냐가 중요해요. 앨리슨의 연구와 후속 연구들은 불안의 증상(symptoms of anxiety)을 느낄 때 그것을 부정적으로 보지 말고 “이건 신나는 일이에요. 제 관점을 나눌 기회예요”라고 말해 보라고 제안해요.",
+    "text_zh": "所以我们怎么给这种唤起（arousal）贴标签很关键。Alison 的研究和后续研究表明，当我们感觉到那些焦虑的症状时，与其把它当成负面的，不如对自己说：“这是兴奋，我有机会分享我的观点。”",
+    "text_es": "Así que importa cómo etiquetamos esa activación (arousal), y lo que sugiere la investigación de Alison y la de otros que la han seguido es que, cuando sentimos esos síntomas de ansiedad, en lugar de verlos como algo negativo, podemos decirnos: \"Esto es emocionante; tengo la oportunidad de compartir mi punto de vista.\"",
     "key_sentence": "rather than seeing it as negative, say, 'This is exciting.",
     "text_trimmed": true,
     "original_text": "So how we label the arousal matters and what Alison's research and others have followed up with suggests is that when we feel those symptoms of anxiety, rather than seeing it as negative, say, 'This is exciting. I get to share my point of view. I get to demonstrate my value.' And in so doing by seeing it as more positive, it causes us by definition to relax.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "reframe",
-        "definition": "To change the way something is viewed or considered, often by presenting it in a different context or perspective.",
-        "businessContext": "In business, reframing can be used to shift team members' perspectives on challenges, encouraging innovative solutions and fostering a more positive work environment.",
-        "nuance": "Reframing is often used in motivational contexts, but it should be applied carefully to avoid trivializing genuine concerns.",
-        "synonyms": [
-          "recontextualize",
-          "redefine"
-        ],
-        "antonyms": [
-          "maintain",
-          "perpetuate"
-        ]
-      },
-      {
-        "word": "physiological response",
-        "definition": "The body's automatic reaction to external stimuli, which can include changes in heart rate, breathing, and hormonal levels.",
-        "businessContext": "Understanding physiological responses is crucial in high-stress business environments, such as negotiations or presentations, where managing stress can impact performance.",
-        "nuance": "While often associated with stress or anxiety, physiological responses can also occur in positive situations, such as excitement or anticipation.",
-        "synonyms": [
-          "bodily reaction",
-          "physical response"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
       {
         "word": "label",
         "definition": "A term or phrase used to categorize or define something, often influencing perceptions and attitudes.",
@@ -430,7 +331,9 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "We are very susceptible to catastrophizing when we're very nervous about things, especially when we're exposed in front of people.",
@@ -439,9 +342,7 @@
     "context": "Matt is discussing mantras as anxiety management tools, sharing examples like \"I have value to add\" and \"Last time this went well.\" He explains how negative self-talk undermines our confidence, and how positive mantras can counter our tendency to imagine worst-case scenarios. The reference to \"Brady Bunch exposure\" playfully recalls their earlier discussion about the flawed advice of imagining audiences naked.",
     "vocabulary_highlights": [
       "susceptible",
-      "catastrophizing",
-      "negative self-talk",
-      "undermine"
+      "catastrophizing"
     ],
     "topics": [
       "Communication Skills",
@@ -453,9 +354,9 @@
       "Executive Coaching",
       "Leadership Development"
     ],
-    "text_ko": "사람들 앞에서 드러나야 하는 상황처럼 뭔가에 대해 몹시 긴장하면 우리는 파국화(catastrophizing)에 쉽게 빠져요. 앞서 얘기한 브래디 번치(Brady Bunch)식 노출을 말하는 건 아니고, 실제로 나가서 말하거나 소통할 때를 말하는 거예요. 그런 상황들이 의외로 잘 풀리는 경우가 많다는 걸 스스로 떠올리는 것만으로도 도움이 돼요.",
-    "text_zh": "我们特别容易往最坏处想，尤其是紧张的时候，特别是要在大家面前露面的时候。这里说的不是我们之前提到的那种家庭式的暴露，而是当我们要在台上讲话或者跟人沟通的时候。这时候提醒自己其实大部分情况下都会进行得很顺利，这样想会很有帮助。",
-    "text_es": "Tendemos mucho a ponernos en lo peor cuando estamos muy nerviosos por algo, sobre todo cuando estamos expuestos delante de la gente. No me refiero a esa exposición tipo familia perfecta de la que hablamos antes, sino cuando estamos ahí hablando o comunicándonos, y simplemente recordarnos que normalmente las cosas salen bien nos ayuda bastante.",
+    "text_ko": "우리는 어떤 일 때문에 몹시 긴장할 때, 특히 사람들 앞에서 노출될 것 같다고 느낄 때 파국화(catastrophizing)하기 쉬워요.",
+    "text_zh": "一紧张我们就容易往最坏里想，尤其是在别人面前觉得自己会被看见、显得很暴露或出丑的时候。",
+    "text_es": "Tendemos a pensar en lo peor cuando estamos muy nerviosos por algo, sobre todo cuando tenemos que exponernos ante otras personas.",
     "key_sentence": "We are susceptible to catastrophizing when nervous in front of others.",
     "text_trimmed": true,
     "original_text": "We are very susceptible to catastrophizing when we're very nervous about things, especially when we're exposed in front of people. Not in the Brady Bunch exposure we talked about earlier, but when we're out there speaking or communicating and simply reminding ourselves that often they go very well is helpful.",
@@ -488,36 +389,10 @@
           "realistic",
           "calm"
         ]
-      },
-      {
-        "word": "negative self-talk",
-        "definition": "The internal dialogue that reflects pessimistic thoughts about oneself, often leading to decreased self-esteem and motivation.",
-        "businessContext": "In the workplace, negative self-talk can impact an employee's performance and overall job satisfaction, potentially leading to burnout or disengagement.",
-        "nuance": "While it is important to acknowledge self-criticism, excessive negative self-talk can be detrimental and should be addressed to foster a positive work environment.",
-        "synonyms": [
-          "self-criticism",
-          "pessimism"
-        ],
-        "antonyms": [
-          "positive self-talk",
-          "self-affirmation"
-        ]
-      },
-      {
-        "word": "undermine",
-        "definition": "To weaken or damage something gradually or covertly, often diminishing its effectiveness or authority.",
-        "businessContext": "In a business context, actions that undermine a colleague's credibility or a project's success can create a toxic work environment and hinder collaboration.",
-        "nuance": "While 'undermine' typically has negative implications, it can also refer to constructive criticism that aims to improve a process or outcome when done transparently.",
-        "synonyms": [
-          "subvert",
-          "erode"
-        ],
-        "antonyms": [
-          "support",
-          "strengthen"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Those of us who study this believe it is innate to being human to feel nervous communicating in front of others. So sometimes just reminding yourself that you're not alone and that others have it can actually help reduce the pressure that we feel.",

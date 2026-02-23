@@ -91,8 +91,6 @@
     "timestamp": "00:00:18",
     "context": "Lenny references advice from Jenna Abel about focusing on competitive advantages rather than just problem-solving. Jeanne shares a crucial insight about customer buying behavior - that most enterprise customers are primarily motivated by risk reduction rather than potential gains. She explains that while founders love discussing future possibilities and innovation, this approach mainly appeals to other founders rather than typical enterprise buyers.",
     "vocabulary_highlights": [
-      "competitive advantages",
-      "customer buying behavior",
       "reduce risk",
       "understand"
     ],
@@ -107,42 +105,14 @@
       "Sales Strategy",
       "User Experience"
     ],
-    "text_ko": "고객의 약 80%는 더 큰 이익(upside)을 기대해서 사는 게 아니라, 고통을 피하거나 위험(risk)을 줄이기 위해 구매해요. 이건 스타트업 창업자들이 꼭 알아둬야 할 포인트예요. 우리 모두는 앞으로 가능해질 것들, 즉 '가능성의 예술(art of the possible)' 같은 얘기를 하길 좋아하지만, 그런 얘기는 실제로는 대개 다른 창업자에게만 공감되는 영업이에요.",
-    "text_zh": "80%的客户买产品都是为了避免麻烦或者降低风险，而不是为了获得更多收益，这一点创业者一定要搞清楚。我们都喜欢谈论各种可能性，谈论我们将来能实现什么，但这种销售话术(pitch)往往只对其他创业者有用。",
-    "text_es": "El 80% de los clientes compran para evitarse dolores de cabeza o reducir riesgos, no tanto por conseguir más beneficios, y esto es algo súper importante que los fundadores de startups tienen que entender. A todos nos encanta hablar de las posibilidades infinitas, de todo lo que vamos a hacer posible en el futuro, pero la realidad es que ese discurso le va a llegar más que nada a otro fundador.",
+    "text_ko": "고객의 80%는 더 큰 이익(upside)을 기대해서 구매하기보다는 고통을 피하거나 위험을 줄이기 위해 구매해요. 이건 스타트업 창업자들이 꼭 알아둬야 할 중요한 사실이에요.",
+    "text_zh": "80%的客户买东西，是为了避免痛点或降低风险，而不是为了追求更高的潜在收益——这点创业者得看清楚。",
+    "text_es": "El 80% de los clientes compran para evitar problemas o reducir riesgos, no tanto para obtener un mayor beneficio (upside); eso es algo que los fundadores de startups (startup founders) deberían tener muy claro.",
     "key_sentence": "80% of customers buy to avoid pain or reduce risk as opposed to increased upside.",
     "text_trimmed": true,
     "original_text": "80% of customers buy to avoid pain or reduce risk as opposed to increased upside, which is a good thing for startup founders to understand. We all love to talk about the art of the possible, everything we're going to enable in the future, but that's often really a sale that's going to resonate with another founder.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "competitive advantages",
-        "definition": "Factors that allow a company to produce goods or services better or more cheaply than its rivals, leading to greater sales or margins.",
-        "businessContext": "In business and startup environments, competitive advantages are crucial for differentiating a company from its competitors and can include unique technology, brand reputation, or cost leadership.",
-        "nuance": "The term implies a sustainable edge over competitors, and should be used when discussing long-term strategies rather than short-term tactics.",
-        "synonyms": [
-          "market edge",
-          "strategic advantage"
-        ],
-        "antonyms": [
-          "disadvantages",
-          "weaknesses"
-        ]
-      },
-      {
-        "word": "customer buying behavior",
-        "definition": "The decision-making processes and actions of consumers when purchasing products or services, influenced by various factors such as preferences, needs, and external stimuli.",
-        "businessContext": "Understanding customer buying behavior is essential for businesses to tailor their marketing strategies, product offerings, and customer service to meet consumer needs effectively.",
-        "nuance": "This phrase encompasses both rational and emotional aspects of purchasing decisions, making it important to use in discussions about market research and consumer psychology.",
-        "synonyms": [
-          "consumer purchasing habits",
-          "buying patterns"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
       {
         "word": "reduce risk",
         "definition": "To take actions that minimize the potential for loss or negative outcomes in business decisions or investments.",
@@ -171,19 +141,16 @@
           "ignore"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "it should take them 10 minutes to figure out you aren't a product manager.",
     "speaker": "Jeanne DeWitt Grosser",
     "timestamp": "00:01:17",
     "context": "Lenny mentions feedback from people who've worked with Jeanne about her superpower of building sales organizations that engineers appreciate. Jeanne explains her philosophy for creating sales teams that work well with technical teams. She describes her standard for sales excellence - that account executives should have such deep product knowledge and technical understanding that engineers would initially mistake them for product managers.",
-    "vocabulary_highlights": [
-      "superpower",
-      "philosophy",
-      "building",
-      "engineers"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Leadership & Management",
       "Communication Skills"
@@ -195,71 +162,16 @@
       "Sales Strategy",
       "User Experience"
     ],
-    "text_ko": "제가 영업팀에게 항상 제시하는 판별 기준은 이거예요. 우리 조직에서 영업 담당자(account executive)로 일하는 사람이 회사 엔지니어들(engineers) 10명 앞에 서 있으면, 그 사람들이 '이 사람은 제품 관리자(product manager)가 아니다'라는 걸 알아차리는 데 10분이면 충분해야 해요.",
-    "text_zh": "我一直给销售团队的试金石就是：如果你是我们组织里的客户经理(account executive)，我让你去跟公司10个工程师聊天，他们应该要花10分钟才能发现你其实不是产品经理。",
-    "text_es": "La prueba definitiva que siempre les doy a mi equipo de ventas es esta: si eres ejecutivo de cuentas en mi organización y te pongo frente a 10 ingenieros de nuestra empresa, deberían tardar 10 minutos en darse cuenta de que no eres product manager.",
+    "text_ko": "사람들이 당신이 프로덕트 매니저(product manager)이 아니란 걸 알아채는 데 10분쯤 걸려야 해요.",
+    "text_zh": "别人十分钟就能看出来你不是产品经理(product manager)。",
+    "text_es": "Debería bastarles con diez minutos para darse cuenta de que no eres responsable de producto (product manager).",
     "key_sentence": "you aren't a product manager.",
     "text_trimmed": true,
     "original_text": "The litmus test I have always given my sales team is if you are an account executive in my org and I put you in front of 10 engineers at our company, it should take them 10 minutes to figure out you aren't a product manager.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "superpower",
-        "definition": "A superpower refers to a nation or entity that has significant influence and capabilities, particularly in military, economic, and political spheres.",
-        "businessContext": "In business and tech, 'superpower' can describe a company's unique strengths or competitive advantages that set it apart in the market.",
-        "nuance": "While often used in a geopolitical context, in business it conveys a sense of exceptional capability or resourcefulness, and should be used to emphasize strengths rather than to imply arrogance.",
-        "synonyms": [
-          "dominance",
-          "advantage"
-        ],
-        "antonyms": [
-          "weakness",
-          "vulnerability"
-        ]
-      },
-      {
-        "word": "philosophy",
-        "definition": "Philosophy is the study of fundamental questions regarding existence, knowledge, values, reason, and the nature of reality.",
-        "businessContext": "In a business setting, philosophy often refers to the guiding principles or values that shape a company's culture and decision-making processes.",
-        "nuance": "While it can denote a formal academic discipline, in business it is often used more informally to describe a company's ethos or approach, and should be used thoughtfully to reflect core beliefs.",
-        "synonyms": [
-          "principle",
-          "belief system"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "building",
-        "definition": "Building refers to the act of constructing or developing physical structures or, in a broader sense, creating systems, organizations, or products.",
-        "businessContext": "In the tech industry, 'building' often pertains to the development of software, applications, or platforms, emphasizing the iterative process of creation and improvement.",
-        "nuance": "While it can refer to physical construction, in business contexts it is frequently associated with innovation and development, and should be used to highlight the active process of creation.",
-        "synonyms": [
-          "construction",
-          "development"
-        ],
-        "antonyms": [
-          "destruction",
-          "dismantling"
-        ]
-      },
-      {
-        "word": "engineers",
-        "definition": "Engineers are professionals who apply scientific and mathematical principles to design, develop, and analyze technological solutions and systems.",
-        "businessContext": "In the tech and startup sectors, engineers are crucial for product development, often collaborating with product managers and designers to create functional and efficient products.",
-        "nuance": "The term can imply a level of technical expertise and problem-solving ability, and is best used to denote individuals who are actively involved in the technical aspects of a project.",
-        "synonyms": [
-          "technicians",
-          "developers"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Often you're not only making that customer successful, but you're then taking all of that back to your product and engineering organization to figure out, okay, what was generalizable that we ought to build into our offering.",
@@ -269,7 +181,6 @@
     "vocabulary_highlights": [
       "generalizable",
       "offering",
-      "consultative",
       "engineering"
     ],
     "topics": [
@@ -283,9 +194,9 @@
       "Sales Strategy",
       "User Experience"
     ],
-    "text_ko": "대개 고객을 성공시키는 것뿐만 아니라, 그 경험을 다 프로덕트와 엔지니어링 조직(product and engineering organization)에 가져가서 어떤 부분은 일반화해서(generalizable) 우리 솔루션(offering)에 반영해야 하고, 어떤 부분은 시간이 지나면 결국 전문 서비스(professional service)로 남길지 판단하게 돼요.",
-    "text_zh": "很多时候你不光要帮客户把事情做成，还得把从客户那儿学到的东西带回产品和工程团队，然后大家一起琢磨，哪些东西是可以复制的、应该直接做到产品里去的，哪些东西到最后还是得走专业服务(professional service)这条路。",
-    "text_es": "Muchas veces no solo estás logrando que ese cliente tenga éxito, sino que también llevas todo eso de vuelta a tu equipo de producto e ingeniería para analizar: \"Oye, ¿qué de esto se puede generalizar y deberíamos integrar en nuestra oferta versus qué es algo que al final va a ser más bien un servicio profesional a largo plazo?\"",
+    "text_ko": "종종 단지 그 고객을 성공시키는 것뿐만 아니라, 그 모든 걸 제품·엔지니어링 조직(product and engineering organization)으로 다시 가져가서, 우리가 오퍼링(offering)에 반영해야 할 일반화할 수 있는(generalizable) 부분이 무엇인지 파악해요.",
+    "text_zh": "很多时候你不仅是在帮客户成功，还要把这些经验带回给产品和工程团队，判断哪些是可通用的、值得直接做进我们的产品/服务（offering）里。",
+    "text_es": "No solo ayudas a que ese cliente tenga éxito, sino que además llevas todo ese aprendizaje de vuelta al equipo de producto y de ingeniería (product and engineering) para ver qué se puede generalizar y qué deberíamos incorporar a nuestra oferta.",
     "key_sentence": "you're then taking all of that back to your product and engineering organization to figure out, okay, what was generalizable that we ought to build into our offering.",
     "text_trimmed": true,
     "original_text": "Often you're not only making that customer successful, but you're then taking all of that back to your product and engineering organization to figure out, okay, what was generalizable that we ought to build into our offering versus what is something that ultimately is going to be more of a professional service in the fullness of time.",
@@ -320,20 +231,6 @@
         ]
       },
       {
-        "word": "consultative",
-        "definition": "Characterized by a collaborative approach to problem-solving, often involving advice and guidance.",
-        "businessContext": "In a consultative selling approach, sales professionals engage with clients to understand their needs deeply before recommending solutions, fostering a partnership rather than a transactional relationship.",
-        "nuance": "This term implies a more personalized and strategic interaction, contrasting with more aggressive sales tactics that prioritize closing deals over understanding client needs.",
-        "synonyms": [
-          "advisory",
-          "collaborative"
-        ],
-        "antonyms": [
-          "directive",
-          "prescriptive"
-        ]
-      },
-      {
         "word": "engineering",
         "definition": "The application of scientific and mathematical principles to design, build, and maintain structures, machines, and systems.",
         "businessContext": "In the tech industry, 'engineering' often refers to software development and systems design, where technical teams create solutions that meet business requirements and enhance user experience.",
@@ -347,7 +244,9 @@
           "disassembly"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "So it wasn't like this was a multi-quarter process, it actually moved super quickly and then again now we just sort of keep that agent manager working with the agent to get it to a point where we say, 'Hey, we're ready to roll.'",
@@ -355,10 +254,7 @@
     "timestamp": "00:20:39",
     "context": "Lenny expresses amazement at Jeanne's story about reducing their SDR team from 10 people to 1 through AI automation. Jeanne explains the timeline and impact of implementing their lead agent - a single go-to-market engineer spent just 25-30% of their time over six weeks to create an AI system that could handle the workload of 10 sales development representatives, while maintaining the same conversion rates and improving response times.",
     "vocabulary_highlights": [
-      "multi-quarter",
-      "impact",
-      "implementing",
-      "roll out"
+      "multi-quarter"
     ],
     "topics": [
       "Growth & Marketing",
@@ -390,50 +286,9 @@
           "short-term",
           "immediate"
         ]
-      },
-      {
-        "word": "impact",
-        "definition": "The strong effect or influence that one thing has on another, particularly in a business context.",
-        "businessContext": "In business and tech, 'impact' is often used to assess the outcomes of decisions, strategies, or changes on performance metrics, stakeholders, or market conditions.",
-        "nuance": "While 'impact' can be positive or negative, it is frequently used in a positive context to highlight beneficial changes or outcomes.",
-        "synonyms": [
-          "influence",
-          "effect"
-        ],
-        "antonyms": [
-          "insignificance",
-          "irrelevance"
-        ]
-      },
-      {
-        "word": "implementing",
-        "definition": "The process of putting a plan or decision into effect, ensuring that it is executed as intended.",
-        "businessContext": "In business, 'implementing' is crucial for the successful execution of strategies, policies, or technologies, often involving coordination among various teams.",
-        "nuance": "This term emphasizes action and execution, and it is often used in contexts where careful planning and follow-through are necessary.",
-        "synonyms": [
-          "executing",
-          "enforcing"
-        ],
-        "antonyms": [
-          "neglecting",
-          "abandoning"
-        ]
-      },
-      {
-        "word": "roll out",
-        "definition": "To introduce or launch a new product, service, or initiative gradually or in phases.",
-        "businessContext": "In the tech and startup sectors, 'roll out' is commonly used to describe the phased introduction of software updates, marketing campaigns, or new features to ensure smooth adoption.",
-        "nuance": "This term suggests a strategic approach to launching, often implying that the process will be monitored and adjusted based on feedback.",
-        "synonyms": [
-          "launch",
-          "deploy"
-        ],
-        "antonyms": [
-          "withdraw",
-          "retract"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "it makes your organization less flexible because you basically have to decide 12 months in advance, these are things I value and particularly in this moment that could be different.",
@@ -442,9 +297,7 @@
     "context": "Lenny asks about Jeanne's hot take on sales compensation and hiring practices. Jeanne explains her concern with traditional sales compensation structures. While she supports pay-for-performance principles, she argues that rigid annual compensation plans reduce organizational agility by forcing companies to predetermine priorities a year in advance, which can be problematic in rapidly changing markets where companies need to pivot quickly.",
     "vocabulary_highlights": [
       "flexible",
-      "decide",
-      "compensation",
-      "performance"
+      "decide"
     ],
     "topics": [
       "Leadership & Management",
@@ -457,9 +310,9 @@
       "Sales Strategy",
       "User Experience"
     ],
-    "text_ko": "영업 보상(sales comp)에 대해선 고민이에요. 전적으로 성과 기반 보상(pay-for-performance)이라 저도 원칙적으로는 찬성이긴 한데, 조직의 유연성이 떨어져요. 사실상 1년 전에 '이게 우리가 중요하게 생각하는 것들이다'라고 미리 결정해야 하거든요. 특히 지금 같은 시기에는 그 우선순위가 달라질 수도 있는데요.",
-    "text_zh": "我对销售薪酬(sales comp)这块挺纠结的，因为它本质上就是按业绩付费，这个理念我肯定是支持的，但问题是这样一来你的组织就没那么灵活了，因为你基本上得提前12个月就定好，哪些东西是我看重的，特别是在现在这种时候，情况随时都可能变。",
-    "text_es": "Me cuesta trabajo con la compensación de ventas porque se trata de pagar por resultados, lo cual obviamente me parece genial, pero hace que tu organización sea menos flexible porque básicamente tienes que decidir con 12 meses de anticipación cuáles son las cosas que valoras, y especialmente en este momento eso podría ser diferente.",
+    "text_ko": "그렇게 하면 조직이 덜 유연해져요. 기본적으로 12개월이나 미리 '이게 우리가 중요하게 여기는 것들이다'라고 결정해야 하니까요. 특히 지금처럼 상황이 달라질 수 있는 시기에는 더 문제예요.",
+    "text_zh": "这会让组织不够灵活——说白了，你得提前12个月就把哪些事情是我看重的定下来，而像现在这种情况下，这些事情可能会变。",
+    "text_es": "Reduce la flexibilidad de tu organización porque te obliga a decidir con un año de antelación qué es lo que valoras, y especialmente en este momento eso podría ser distinto.",
     "key_sentence": "it makes your organization less flexible because you basically have to decide 12 months in advance",
     "text_trimmed": true,
     "original_text": "I struggle with sales comp because it's all about pay for performance, which I'm obviously a fan of, but it makes your organization less flexible because you basically have to decide 12 months in advance, these are things I value and particularly in this moment that could be different.",
@@ -492,35 +345,9 @@
           "hesitate",
           "waver"
         ]
-      },
-      {
-        "word": "compensation",
-        "definition": "Something, typically money, awarded to someone in recognition of loss, suffering, or injury; also refers to salary or wages paid to employees.",
-        "businessContext": "In the business world, compensation packages are crucial for attracting and retaining talent, and they often include salaries, bonuses, and benefits.",
-        "nuance": "While 'compensation' primarily refers to financial remuneration, it can also encompass non-monetary benefits, making it a broader term in HR discussions.",
-        "synonyms": [
-          "remuneration",
-          "reimbursement"
-        ],
-        "antonyms": [
-          "penalty",
-          "forfeiture"
-        ]
-      },
-      {
-        "word": "performance",
-        "definition": "The act of carrying out or accomplishing a task; a measure of how well an individual or organization meets established objectives.",
-        "businessContext": "Performance metrics are essential in business for evaluating employee effectiveness, operational efficiency, and overall organizational success.",
-        "nuance": "The term 'performance' can carry different connotations depending on context, such as individual versus team performance, and can imply accountability.",
-        "synonyms": [
-          "execution",
-          "achievement"
-        ],
-        "antonyms": [
-          "failure",
-          "underperformance"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

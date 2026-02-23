@@ -6,8 +6,6 @@
     "context": "Lenny asks Eli what people should do to be successful in the new paradigm where AI answers are changing how SEO works. Eli explains that SEO should be approached as a product challenge rather than just a marketing challenge. He argues that product managers should be the ones thinking about SEO because they need to understand what users are searching for and how to position the product for users who discover it through organic search rather than ads or social media.",
     "vocabulary_highlights": [
       "product managers",
-      "approached",
-      "challenge",
       "question"
     ],
     "topics": [
@@ -21,9 +19,9 @@
       "Marketing Strategy",
       "Growth Strategy"
     ],
-    "text_ko": "저는 검색엔진최적화(SEO)를 하나의 제품(product)으로 봐요. 그래서 이건 제품 관련 문제라 프로덕트 매니저들(product managers)이 고민해야 해요. 프로덕트 담당자들은 소셜 채널(social channel)에서 알게 되지 않고 광고(ad)에 끌리지도 않을 그런 사용자에게 이걸 어떻게 포지셔닝할지 생각해야 해요. 이런 사용자는 스스로 탐색하는 여정(self-discovery journey)을 하고 있어요.",
-    "text_zh": "我觉得SEO就是一个产品。产品经理们应该去考虑SEO这个问题，因为这本质上就是个产品问题。产品的人需要想想，我们怎么把这个东西推给那些不会从社交渠道了解到我们，也不会被广告吸引的用户？这些用户是在自己主动去找、去发现的。",
-    "text_es": "Yo veo el SEO como un producto. Los product managers son los que deberían estar pensando en el tema del SEO porque es una cuestión de producto. La gente de producto tiene que pensar en cómo le presentamos esto al usuario que no se va a enterar por redes sociales, que no lo va a atraer un anuncio. Este es un usuario que está en su propio proceso de descubrimiento.",
+    "text_ko": "저는 검색 엔진 최적화(SEO)를 하나의 제품이라고 생각해요. 제품 문제라서 프로덕트 매니저들이 이 검색 엔진 최적화(SEO) 문제를 고민해야 해요.",
+    "text_zh": "我觉得SEO就是个产品。产品经理才应该考虑SEO的问题，因为这本质上就是产品问题。",
+    "text_es": "Yo veo el SEO como un producto. Los product managers son los que deberían estar pensando en este tema de SEO porque al final es una cuestión de producto.",
     "key_sentence": "I think of SEO as a product.",
     "text_trimmed": true,
     "original_text": "I think of SEO as a product. The product managers are the people that should be thinking about this SEO question because it's a product question. Product people need to think about how do we position this to the user that is not going to find out about this from a social channel, that's not going to be attracted by an ad? This is a user that's doing their own self-discovery journey.",
@@ -44,34 +42,6 @@
         ]
       },
       {
-        "word": "approached",
-        "definition": "Approached refers to the act of coming near or addressing a particular issue, person, or situation.",
-        "businessContext": "In a business setting, this term is often used to describe how a company or individual initiates contact or engages with stakeholders, clients, or challenges.",
-        "nuance": "It carries a connotation of intentionality and can imply a thoughtful or strategic method of engagement.",
-        "synonyms": [
-          "contacted",
-          "engaged"
-        ],
-        "antonyms": [
-          "avoided",
-          "ignored"
-        ]
-      },
-      {
-        "word": "challenge",
-        "definition": "A challenge is a difficult task or situation that requires a solution or significant effort to overcome.",
-        "businessContext": "In the context of business and startups, challenges often refer to obstacles in achieving goals, such as market competition, resource limitations, or technological hurdles.",
-        "nuance": "The term can imply an opportunity for growth and innovation, suggesting that overcoming challenges can lead to positive outcomes.",
-        "synonyms": [
-          "obstacle",
-          "difficulty"
-        ],
-        "antonyms": [
-          "solution",
-          "ease"
-        ]
-      },
-      {
         "word": "question",
         "definition": "A question is an inquiry or a request for information, clarification, or a response regarding a specific topic.",
         "businessContext": "In business discussions, questions are essential for gathering insights, facilitating decision-making, and encouraging dialogue among team members.",
@@ -85,7 +55,9 @@
           "response"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Transparently, I thought this was going to be an apocalypse. So I shared about a year ago that it's going to be an apocalypse.",
@@ -93,10 +65,7 @@
     "timestamp": "00:15:31",
     "context": "Lenny asks what impact Eli has seen on SEO and search results as AI Overviews have rolled out. Eli admits he initially predicted a catastrophic impact on SEO traffic from AI answers in search results, but explains that the full impact hasn't been seen yet because Google only recently launched AI Overviews more broadly. He notes that Google had previously rolled back the feature after some embarrassing results when it first launched.",
     "vocabulary_highlights": [
-      "transparently",
-      "impact",
-      "predicted",
-      "catastrophic"
+      "transparently"
     ],
     "topics": [
       "Growth & Marketing",
@@ -108,9 +77,9 @@
       "Marketing Strategy",
       "Growth Strategy"
     ],
-    "text_ko": "솔직히 저는 이게 아포칼립스가 될 거라고 봤어요. 그래서 약 1년 전에 그렇게 얘기했어요. 아직 그 정도는 안 왔고, 안 왔다고 해서 ‘아포칼립스 아니다’라며 승리 선언하는 사람들도 많아요. 그런데 이번에 이렇게 출시된 걸 보니 트래픽(traffic)에 영향을 주기 시작할 것 같아요.",
-    "text_zh": "说实话，我当时觉得这玩意儿会是场灾难。所以大概一年前我就说过，这会是场灾难。但到现在我们还没看到，很多人就开始庆祝胜利了，说什么没有灾难发生。不过，这东西刚刚以一种新的方式推出，我觉得它开始会对流量产生冲击了。",
-    "text_es": "Para ser totalmente honesto, yo pensaba que esto iba a ser un apocalipsis. Así que hace como un año anduve diciendo que se venía el apocalipsis. Todavía no lo hemos visto, y mucha gente ya está cantando victoria diciendo que no hay apocalipsis porque aún no ha pasado nada. Pero esta cosa acaba de lanzarse de una manera que creo que ya va a empezar a afectar el tráfico.",
+    "text_ko": "솔직히 저는 이게 세상 종말인 줄 알았어요. 그래서 약 1년 전쯤 이게 종말이 될 거라고 공유했어요.",
+    "text_zh": "说实话，我当时觉得这会是场灾难。所以大概一年前我就跟大家说过，这事儿会很惨烈。",
+    "text_es": "Te voy a ser honesto, pensé que esto iba a ser un desastre total. Así que hace como un año ya andaba diciendo que se venía el apocalipsis.",
     "key_sentence": "it's going to be an apocalypse.",
     "text_trimmed": true,
     "original_text": "Transparently, I thought this was going to be an apocalypse. So I shared about a year ago that it's going to be an apocalypse. We have not seen it yet, and a lot of people are declaring victory that there's no apocalypse because we have not seen it yet. However, this thing just launched in a way that I think it will start impacting traffic.",
@@ -129,50 +98,10 @@
           "secretively",
           "ambiguously"
         ]
-      },
-      {
-        "word": "impact",
-        "definition": "The strong effect or influence that something has on a situation, person, or process.",
-        "businessContext": "In a business context, impact is often measured in terms of financial performance, market reach, or social influence, and is critical for assessing the success of initiatives.",
-        "nuance": "Impact can be both positive and negative, so it's important to specify the nature of the impact when discussing outcomes.",
-        "synonyms": [
-          "effect",
-          "influence"
-        ],
-        "antonyms": [
-          "insignificance",
-          "irrelevance"
-        ]
-      },
-      {
-        "word": "predicted",
-        "definition": "To declare or indicate in advance that something will happen based on analysis or evidence.",
-        "businessContext": "In business forecasting, predicted outcomes are essential for strategic planning, allowing companies to prepare for future trends and market shifts.",
-        "nuance": "Predictions carry a degree of uncertainty, so they should be supported by data and presented with appropriate qualifiers.",
-        "synonyms": [
-          "forecasted",
-          "projected"
-        ],
-        "antonyms": [
-          "unforeseen",
-          "unexpected"
-        ]
-      },
-      {
-        "word": "catastrophic",
-        "definition": "Involving or causing sudden great damage or suffering; extremely harmful or disastrous.",
-        "businessContext": "In risk management, catastrophic events are critical to consider, as they can lead to significant financial losses and operational disruptions.",
-        "nuance": "While 'catastrophic' conveys a sense of urgency and severity, it should be used carefully to avoid over-exaggeration in less severe situations.",
-        "synonyms": [
-          "disastrous",
-          "devastating"
-        ],
-        "antonyms": [
-          "beneficial",
-          "advantageous"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Up until AI Overviews, whoever won on that long form piece of content would get that first click. But now that doesn't exist anymore. You just go to Google and Google tells you, 'These are the tools. Oh, you're looking for a new CRM?",
@@ -180,9 +109,6 @@
     "timestamp": "00:00:06",
     "context": "Lenny asks Eli to help explain the distinction between top-of-funnel and mid-funnel searches in the context of AI's impact on SEO. Eli is explaining how AI Overviews are changing the search landscape by providing direct answers to broad, top-of-funnel queries. He uses the example of someone searching for podcast tools or CRM software, showing how Google now answers these general questions directly rather than sending users to ranking websites.",
     "vocabulary_highlights": [
-      "impact",
-      "distinction",
-      "landscape",
       "tools"
     ],
     "topics": [
@@ -195,56 +121,14 @@
       "Marketing Strategy",
       "Growth Strategy"
     ],
-    "text_ko": "AI 오버뷰(AI Overviews) 나오기 전까진 롱폼 콘텐츠(long-form content)에서 이긴 사람이 첫 클릭을 가져갔어요. 그런데 이제 그게 사라졌어요. 그냥 구글에 가면 구글이 “사용할 수 있는 도구들이 이거예요. 새 고객관계관리시스템(CRM)을 찾고 계신가요? CRM이 뭔지, CRM이 필요한지 아니면 단순히 캘린더만 있으면 되는지” 한 단락으로 알려줘요. 그걸 보고 나면 검색이 바로 퍼널 중간(middle of the funnel)으로 옮겨져 버려요.",
-    "text_zh": "在AI Overviews(AI概览)出来之前，谁的长内容做得好，谁就能拿到第一个点击。但现在这套玩法不管用了。你去Google搜索，Google直接告诉你：\"这些是工具。哦，你在找新的CRM？CRM就是这个意思。你想知道自己到底需要CRM还是只要个日历就够了？\"看到了吧，Google直接用一段话就把答案给你了，然后你的搜索就被引到别的地方去了，直接进入漏斗中段。",
-    "text_es": "Hasta que llegaron los AI Overviews, quien se llevara el primer lugar con ese contenido largo se quedaba con el primer clic. Pero ahora eso ya no existe. Simplemente vas a Google y Google te dice: \"Estas son las herramientas. ¿Ah, buscas un CRM nuevo? Esto es lo que es un CRM. ¿Quieres saber si necesitas un CRM o te basta con un calendario?\" Le echas un vistazo y Google te lo explica todo en un párrafo, y ahora ya redirigiste tu búsqueda a otra parte, directo al medio del embudo (middle of the funnel).",
+    "text_ko": "AI 오버뷰(AI Overviews)가 나오기 전까지는, 롱폼 콘텐츠(long-form content)에서 이긴 사람이 첫 클릭을 다 가져갔어요. 그런데 이제는 그런 게 없어졌어요. 그냥 구글에 가면 구글이 \"여기 도구들이 있어요. 아, 새 고객 관계 관리(CRM)를 찾고 계시네요?\"라고 알려줘요.",
+    "text_zh": "在AI概览(AI Overviews)出来之前，谁的长内容做得好，谁就能拿到第一个点击。但现在这套玩法已经不存在了。你直接去Google搜，Google就直接告诉你，\"就用这些工具。哦，你要找新的CRM系统(CRM)？\"",
+    "text_es": "Hasta que llegaron los AI Overviews, el que ganaba con ese contenido largo se llevaba el primer clic. Pero ahora eso ya no existe. Simplemente vas a Google y Google te dice: 'Estas son las herramientas. ¿Ah, estás buscando un CRM nuevo?",
     "key_sentence": "But now that doesn't exist anymore.",
     "text_trimmed": true,
     "original_text": "Up until AI Overviews, whoever won on that long form piece of content would get that first click. But now that doesn't exist anymore. You just go to Google and Google tells you, 'These are the tools. Oh, you're looking for a new CRM? This is what a CRM is. You want to know, do you need a CRM or do you just need a calendar?' Look at that and Google will just tell you in a paragraph, and now you've redirected your search somewhere else into middle of the funnel.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "impact",
-        "definition": "The strong effect or influence that one thing has on another.",
-        "businessContext": "In business, 'impact' often refers to the measurable effects of a strategy, decision, or product on performance metrics or market conditions.",
-        "nuance": "While 'impact' can imply a positive or negative effect, it is often used in a positive context to highlight beneficial outcomes.",
-        "synonyms": [
-          "effect",
-          "influence"
-        ],
-        "antonyms": [
-          "insignificance",
-          "irrelevance"
-        ]
-      },
-      {
-        "word": "distinction",
-        "definition": "A difference or contrast between similar things or people; also refers to a quality that sets someone or something apart.",
-        "businessContext": "In a business setting, 'distinction' can refer to unique selling propositions that differentiate a product or service from competitors.",
-        "nuance": "The term often carries a positive connotation, suggesting excellence or superiority in a particular area.",
-        "synonyms": [
-          "difference",
-          "disparity"
-        ],
-        "antonyms": [
-          "similarity",
-          "uniformity"
-        ]
-      },
-      {
-        "word": "landscape",
-        "definition": "The overall environment or context in which a particular industry or market operates, including competitors, trends, and regulations.",
-        "businessContext": "In business, understanding the 'landscape' is crucial for strategic planning and identifying opportunities or threats within a market.",
-        "nuance": "The term can imply a dynamic and evolving context, often requiring ongoing analysis and adaptation.",
-        "synonyms": [
-          "environment",
-          "ecosystem"
-        ],
-        "antonyms": [
-          "stagnation",
-          "monotony"
-        ]
-      },
       {
         "word": "tools",
         "definition": "Instruments or software applications that assist in performing tasks or achieving objectives.",
@@ -259,7 +143,9 @@
           "hindrances"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The biggest myth in SEO is that you could just build links, and link building is the secret source and the secret sauce to growing your SEO footprint.",
@@ -267,9 +153,7 @@
     "timestamp": "01:07:41",
     "context": "Lenny asks Eli about the relationship between brand building and SEO, especially in the world of AI. Eli explains one of the biggest misconceptions in SEO - that link building is the key to success. He argues that most link building strategies involve paying for guest posts or links on low-quality websites that don't actually help because they don't drive real traffic or engagement. Instead, he advocates for building genuine brand recognition and mentions.",
     "vocabulary_highlights": [
-      "misconception",
       "footprint",
-      "brand building",
       "link building"
     ],
     "topics": [
@@ -282,28 +166,14 @@
       "Marketing Strategy",
       "Growth Strategy"
     ],
-    "text_ko": "검색엔진 최적화(SEO)에서 가장 큰 미신은 '그냥 링크만 만들면 된다'는 거예요. 링크 빌딩(link building)이 SEO 입지(footprint)를 키우는 비밀의 비법이라는 건데, 그건 완전히 틀렸어요. 대부분 사람들이 링크를 만드는 방식은 게스트 포스트(guest posts)를 사거나 겉보기엔 권위 있어 보이지만 사실 권위가 낮은 사이트들(low authority websites)에 돈을 주고 링크를 다는 건데, 그런 사이트들은 아무도 읽지 않아서 사실 누구에게도 도움이 안 돼요.",
-    "text_zh": "SEO最大的误区就是以为光靠建链接就行，好像链接建设(link building)就是提升SEO效果的万能秘籍。这想法完全错了，因为大部分人建链接的方法就是花钱买客座文章(guest posts)，或者在一些看起来有点权威但其实很水的网站上付费发链接，这根本没什么用，因为压根没人看这些网站。",
-    "text_es": "El mito más grande en SEO es pensar que solo necesitas construir enlaces, que el link building es la fórmula secreta para hacer crecer tu posicionamiento. Eso está completamente equivocado, porque la mayoría de la gente construye enlaces comprando guest posts o pagando por enlaces en sitios web de baja autoridad que aparentan tener credibilidad, y al final no le sirve a nadie porque nadie está leyendo esos sitios.",
+    "text_ko": "SEO(검색엔진최적화)에서 가장 큰 오해는 '그냥 링크만 만들면 된다'고 생각하는 거예요. 링크 빌딩(link building)이 SEO 영향력(SEO footprint)을 키우는 비밀 병기이자 비결이라는 믿음이죠.",
+    "text_zh": "SEO最大的误区就是以为光靠建链接就行了，觉得link building就是SEO增长的秘密武器和制胜法宝。",
+    "text_es": "El mito más grande del SEO es pensar que solo tienes que conseguir enlaces, como si el link building fuera la fórmula mágica para hacer crecer tu posicionamiento.",
     "key_sentence": "Link building is not the secret source and the secret sauce for SEO footprint growth.",
     "text_trimmed": true,
     "original_text": "The biggest myth in SEO is that you could just build links, and link building is the secret source and the secret sauce to growing your SEO footprint. That's totally wrong, because the way most people build links is they buy these guest posts, or they pay for links on low authority websites that sort of look like they might have authority, and it doesn't really benefit anyone because no one's reading these sites.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "misconception",
-        "definition": "A misconception is a view or opinion that is incorrect based on faulty thinking or understanding.",
-        "businessContext": "In business and marketing, misconceptions can lead to poor decision-making and strategies that do not align with reality, such as misunderstandings about target audiences or market trends.",
-        "nuance": "While often used to describe a widely held but false belief, 'misconception' can imply a lack of knowledge rather than intentional misinformation.",
-        "synonyms": [
-          "fallacy",
-          "misunderstanding"
-        ],
-        "antonyms": [
-          "understanding",
-          "clarity"
-        ]
-      },
       {
         "word": "footprint",
         "definition": "In a business context, a footprint refers to the extent of a company's presence or impact in a particular market or area.",
@@ -316,20 +186,6 @@
         "antonyms": [
           "absence",
           "void"
-        ]
-      },
-      {
-        "word": "brand building",
-        "definition": "Brand building is the process of creating and strengthening a brand's identity, reputation, and market presence through strategic marketing efforts.",
-        "businessContext": "In startups and established companies alike, effective brand building is essential for customer loyalty, competitive differentiation, and long-term success.",
-        "nuance": "While often associated with marketing activities, brand building encompasses all aspects of a company's public perception and customer experience.",
-        "synonyms": [
-          "brand development",
-          "brand management"
-        ],
-        "antonyms": [
-          "brand erosion",
-          "brand neglect"
         ]
       },
       {
@@ -346,7 +202,9 @@
           "link decay"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think step one is the step that almost everyone misses on SEO, which is be the user. Try to understand who your user is. There've been so many companies, and SurveyMonkey was a great example.",
@@ -354,9 +212,7 @@
     "timestamp": "00:31:30",
     "context": "Lenny asks Eli for step-by-step advice for someone just starting with SEO in this new world of AI and LLMs. Eli emphasizes that the first and most crucial step that companies often skip is developing user empathy. He uses his experience at SurveyMonkey as an example, explaining how employees were given accounts but rarely used the product themselves, leading to a lack of understanding of customer motivations and search behavior.",
     "vocabulary_highlights": [
-      "crucial",
       "understand",
-      "developing",
       "example"
     ],
     "topics": [
@@ -369,28 +225,14 @@
       "Marketing Strategy",
       "Growth Strategy"
     ],
-    "text_ko": "제 생각에 첫 번째 단계는 대부분 사람들이 검색엔진최적화(SEO)에서 놓치는 부분인데, 바로 사용자 입장이 돼 보는 거예요. 누가 우리의 사용자인지 이해하려고 노력해 보세요. 정말 많은 회사들이 그랬고, SurveyMonkey가 좋은 예였어요. 제가 SurveyMonkey에서 7년 있었는데, 새로 들어오는 사람들은 온보딩(onboarded) 때 SurveyMonkey 계정을 하나 주고 설문 하나 해보라고 했어요.",
-    "text_zh": "我觉得做SEO(搜索引擎优化)第一步，也是几乎所有人都会忽略的一步，就是要站在用户的角度去思考。你得真正了解你的用户是谁。有太多公司都犯这个毛病，SurveyMonkey就是个很好的例子。我在SurveyMonkey待了七年，那时候每个新人入职，公司都会给你开个SurveyMonkey账户，然后告诉你应该去做个调查问卷。",
-    "text_es": "Creo que el primer paso es el que casi todo mundo se salta en SEO, y es ponerte en los zapatos del usuario. Trata de entender quién es tu usuario. He visto muchísimas empresas, y SurveyMonkey fue un ejemplo perfecto. Mira, estuve siete años en SurveyMonkey, y cuando llegaba gente nueva a la empresa, les daban una cuenta de SurveyMonkey y les decían que tenían que hacer una encuesta.",
+    "text_ko": "제 생각에는 첫 번째로 해야 할 일, 즉 대부분의 사람이 검색 엔진 최적화(SEO)에서 놓치는 단계는 바로 '사용자 입장이 돼 보는 것'이에요. 누가 당신의 사용자인지 이해하려고 노력해 보세요. SurveyMonkey가 그 좋은 예였어요.",
+    "text_zh": "我觉得做SEO第一步，也是几乎所有人都会忽略的一步，就是站在用户角度思考。你得真正了解你的用户是谁。有太多公司都犯这个毛病，SurveyMonkey就是个很好的例子。",
+    "text_es": "Creo que el primer paso, que casi todos se saltan en SEO, es ponerte en el lugar del usuario. Trata de entender realmente quién es tu usuario. Hemos visto muchísimas empresas, y SurveyMonkey fue un ejemplo perfecto.",
     "key_sentence": "step one is the step that almost everyone misses on SEO, which is be the user.",
     "text_trimmed": true,
     "original_text": "I think step one is the step that almost everyone misses on SEO, which is be the user. Try to understand who your user is. There've been so many companies, and SurveyMonkey was a great example. One, I spent seven years at SurveyMonkey, and when everyone got onboarded at SurveyMonkey, they gave you a SurveyMonkey account and told you that you should run a survey.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "crucial",
-        "definition": "Extremely important or essential; critical to the success or failure of something.",
-        "businessContext": "In business, identifying crucial factors can determine strategic decisions and influence overall outcomes, especially in competitive markets.",
-        "nuance": "While 'crucial' conveys urgency, it should be used carefully to avoid overstating the importance of less significant issues.",
-        "synonyms": [
-          "vital",
-          "essential"
-        ],
-        "antonyms": [
-          "insignificant",
-          "trivial"
-        ]
-      },
       {
         "word": "understand",
         "definition": "To grasp the meaning, significance, or nature of something; to comprehend.",
@@ -403,20 +245,6 @@
         "antonyms": [
           "misunderstand",
           "ignore"
-        ]
-      },
-      {
-        "word": "developing",
-        "definition": "The process of creating or improving something over time; evolving from a basic to a more advanced state.",
-        "businessContext": "In startups, developing a product or service involves iterative processes of design, testing, and refinement to meet market demands.",
-        "nuance": "This term often suggests ongoing progress and can imply both growth and the need for adaptation in response to feedback.",
-        "synonyms": [
-          "evolving",
-          "growing"
-        ],
-        "antonyms": [
-          "stagnating",
-          "regressing"
         ]
       },
       {
@@ -433,7 +261,9 @@
           "exception"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "If you can't answer the question about what is it that someone's going to do a search on, then don't do SEO because SEO is about appealing to that user.",
@@ -441,10 +271,7 @@
     "timestamp": "00:00:19",
     "context": "Continuing his explanation of the first step in SEO strategy, Eli provides a simple but powerful test for whether a company should invest in SEO at all. He argues that if you cannot clearly articulate what users would search for to find your product or solve their problem, then SEO is not the right channel to invest in. This connects to his broader theme that SEO should be user-focused rather than just technically focused.",
     "vocabulary_highlights": [
-      "articulate",
-      "appealing",
-      "invest",
-      "strategy"
+      "appealing"
     ],
     "topics": [
       "Strategy & Planning",
@@ -456,28 +283,14 @@
       "Marketing Strategy",
       "Growth Strategy"
     ],
-    "text_ko": "사람들이 무엇을 검색할지 답할 수 없다면 검색엔진최적화(SEO)를 하지 마세요. SEO는 결국 그 사용자에게 어필하는 작업이에요. 반대로 사용자가 당신의 제품을 찾으려고 할 때 어떤 행동을 해야 하는지 이해할 수 있다면, 그게 SEO의 첫걸음이에요.",
-    "text_zh": "如果你连用户会搜什么都不知道，那就别做SEO(搜索引擎优化)了，因为SEO就是要抓住用户的心。你得先搞清楚用户会怎么搜你的产品，这才是做SEO的第一步。",
-    "text_es": "Si no puedes responder qué es lo que alguien va a buscar en Google, entonces mejor no te metas con SEO porque el SEO se trata de conectar con ese usuario. Si logras entender qué debería hacer el usuario cuando busca tu producto o lo que sea que tengas, ahí tienes el primer paso para el SEO.",
+    "text_ko": "사용자가 무엇을 검색할지 답을 못 하겠다면, 검색엔진최적화(SEO)를 하지 마세요. SEO는 결국 그 사용자를 겨냥하는 일이니까요.",
+    "text_zh": "如果你连用户会搜什么都不知道，那就别做SEO了，因为SEO说白了就是要迎合用户的搜索习惯。",
+    "text_es": "Si no puedes responder qué es lo que la gente va a buscar, entonces mejor no hagas SEO porque el SEO se trata de conectar con ese usuario.",
     "key_sentence": "SEO is about appealing to that user; understanding their search is the first step.",
     "text_trimmed": true,
     "original_text": "If you can't answer the question about what is it that someone's going to do a search on, then don't do SEO because SEO is about appealing to that user. If you can understand what the user should do around looking for whatever product you have, then that's the first step for SEO.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "articulate",
-        "definition": "To express an idea or feeling fluently and coherently.",
-        "businessContext": "In business settings, being articulate is crucial for effective communication, whether in presentations, meetings, or written correspondence.",
-        "nuance": "While 'articulate' emphasizes clarity and fluency, it can imply a level of sophistication in communication that may not be necessary in all contexts.",
-        "synonyms": [
-          "eloquent",
-          "expressive"
-        ],
-        "antonyms": [
-          "inarticulate",
-          "mumbling"
-        ]
-      },
       {
         "word": "appealing",
         "definition": "Attractive or interesting; capable of arousing a desire or interest.",
@@ -491,35 +304,9 @@
           "unappealing",
           "repulsive"
         ]
-      },
-      {
-        "word": "invest",
-        "definition": "To allocate resources, usually money, with the expectation of generating an income or profit.",
-        "businessContext": "In the context of startups and business growth, investing can refer to funding new projects, technologies, or ventures to enhance future profitability.",
-        "nuance": "The word 'invest' implies a long-term commitment and risk, distinguishing it from mere spending or purchasing.",
-        "synonyms": [
-          "allocate",
-          "commit"
-        ],
-        "antonyms": [
-          "withdraw",
-          "divest"
-        ]
-      },
-      {
-        "word": "strategy",
-        "definition": "A plan of action designed to achieve a long-term or overall aim.",
-        "businessContext": "In business and tech environments, a well-defined strategy is crucial for guiding decision-making and resource allocation to reach organizational goals.",
-        "nuance": "While 'strategy' suggests a comprehensive and often formalized approach, it can also imply flexibility and adaptability in execution.",
-        "synonyms": [
-          "plan",
-          "tactic"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

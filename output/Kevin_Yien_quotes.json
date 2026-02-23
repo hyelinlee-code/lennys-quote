@@ -7,7 +7,6 @@
     "vocabulary_highlights": [
       "stakeholders",
       "alignment",
-      "compelling",
       "internal"
     ],
     "topics": [
@@ -55,20 +54,6 @@
         ]
       },
       {
-        "word": "compelling",
-        "definition": "Evoking interest, attention, or admiration in a powerful way; persuasive.",
-        "businessContext": "In marketing and product development, a compelling value proposition or narrative can significantly influence customer engagement and decision-making.",
-        "nuance": "The term often carries a positive connotation, suggesting that something is not only interesting but also worthy of consideration or action.",
-        "synonyms": [
-          "engaging",
-          "persuasive"
-        ],
-        "antonyms": [
-          "uninteresting",
-          "dull"
-        ]
-      },
-      {
         "word": "internal",
         "definition": "Relating to or occurring within an organization or entity, rather than with external factors or stakeholders.",
         "businessContext": "In a business context, internal processes, communications, and dynamics are crucial for operational efficiency and team cohesion.",
@@ -82,7 +67,8 @@
           "outward"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "We all talk about product sense. To me, it's just a fancy way of saying you can make good decisions with insufficient data.",
@@ -92,8 +78,7 @@
     "vocabulary_highlights": [
       "product sense",
       "make good decisions",
-      "insufficient data",
-      "mystical quality"
+      "insufficient data"
     ],
     "topics": [
       "Product Management",
@@ -106,9 +91,9 @@
       "Product Management",
       "Team Building"
     ],
-    "text_ko": "모두들 프로덕트 센스(product sense)에 대해 얘기하죠. 제겐 그게 불충분한 데이터로도 좋은 결정을 내릴 수 있다는 말을 멋있게 포장한 표현일 뿐이에요. PM들(PMs)은 결정을 내리는 연습을 가능한 한 많이 하고, 그 결정의 근거를 문서로 남기며, 무엇보다 그 결정이 실제로 어떤 결과를 냈는지를 직접 확인해 봐야 해요.",
-    "text_zh": "大家都在谈产品感觉(product sense)，在我看来，这不过是个花哨的说法，说白了就是你能在信息不够的情况下做出正确决策。产品经理需要尽可能多地练习做决策，把决策的理由记录下来，然后最关键的是要看到这些决策的结果。",
-    "text_es": "Todos hablamos del sentido de producto (product sense). Para mí, es solo una forma elegante de decir que puedes tomar buenas decisiones cuando no tienes suficiente información. Los PMs necesitan practicar lo más posible tomando decisiones, documentando el por qué detrás de esas decisiones, y luego - y esto es clave - ver qué resultados dan.",
+    "text_ko": "다들 '프로덕트 센스(product sense)'에 대해 얘기하죠. 제게는 그게 데이터가 충분하지 않아도 좋은 결정을 내릴 수 있다는 걸 멋있게 포장한 말일 뿐이에요.",
+    "text_zh": "大家都在说产品直觉 (product sense)。在我看来，这不过是个高大上的说法，意思就是在数据不够的时候还能做出靠谱的决策。",
+    "text_es": "Todos hablamos mucho sobre el sentido del producto (product sense). Para mí, no es más que una forma elegante de decir que puedes tomar buenas decisiones con información limitada.",
     "key_sentence": "Product sense is a fancy way of saying you can make decisions with insufficient data.",
     "text_trimmed": true,
     "original_text": "We all talk about product sense. To me, it's just a fancy way of saying you can make good decisions with insufficient data. PMs need as many reps as possible in making decisions, documenting the rationale behind those decisions, and then crucially seeing the outcome of them.",
@@ -155,22 +140,10 @@
           "sufficient data",
           "comprehensive information"
         ]
-      },
-      {
-        "word": "mystical quality",
-        "definition": "An elusive or enchanting characteristic that evokes a sense of wonder or intrigue, often difficult to define or quantify.",
-        "businessContext": "In branding and marketing, a product or service with a 'mystical quality' can create a strong emotional connection with consumers, enhancing its desirability and market appeal.",
-        "nuance": "While this phrase can be used positively to describe unique attributes, it may also imply a lack of clarity or transparency, which can be risky in business communications.",
-        "synonyms": [
-          "enigmatic charm",
-          "captivating allure"
-        ],
-        "antonyms": [
-          "mundane quality",
-          "ordinary characteristic"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "When you get to offer stage, I send an email and I say all the terrible things that are probably going to reinforce their fears.",
@@ -178,10 +151,7 @@
     "timestamp": "00:00:28",
     "context": "Lenny introduces Kevin's unique hiring approach called the 'unsell email.' Kevin describes how he sends candidates an honest email at the offer stage outlining all the potential downsides and challenges of the role. His philosophy is that if someone remains equally enthusiastic after learning about these negatives upfront, they're likely to be an excellent long-term hire who won't be surprised or disappointed later.",
     "vocabulary_highlights": [
-      "reinforce",
-      "potential downsides",
-      "honest",
-      "approach"
+      "reinforce"
     ],
     "topics": [
       "Leadership & Management",
@@ -193,9 +163,9 @@
       "Product Management",
       "Team Building"
     ],
-    "text_ko": "오퍼 단계(offer stage)에 이르면, 저는 이메일로 아마도 그들의 걱정을 더 부추길 만한 안 좋은 점들을 전부 솔직하게 적어요. 그런 걸 처음부터 얘기해주고 그 이메일을 끝까지 읽고도 여전히 똑같이 기쁘게 합류하려 한다면, 그런 사람은 A+ 인재(A+ hire)를 찾은 거예요.",
-    "text_zh": "到了发offer这个阶段，我会发封邮件，把所有可能让他们更担心的坏消息都说一遍。如果你能提前把这些都告诉他们，他们看完整封邮件后还是一样兴奋地想加入你们，那恭喜你找到了一个A+级别的人才。",
-    "text_es": "Cuando llegamos a la etapa de oferta, mando un email donde les digo todas las cosas terribles que probablemente van a confirmar sus miedos. Si puedes decirles eso de frente y pueden leer todo el email y aún así siguen igual de emocionados por unirse a ti, ahí tienes una contratación de primera.",
+    "text_ko": "오퍼 단계(offer stage)에 이르면 이메일을 보내서, 아마 그들의 우려를 더 강화할 만한 안 좋은 얘기들을 전부 해요.",
+    "text_zh": "到了发offer（offer stage）那步，我会发封邮件，把那些可能会让他们更担心的所有问题都摆出来。",
+    "text_es": "Cuando se llega a la fase de oferta (offer stage), les mando un correo y les digo todas las peores cosas que probablemente solo van a confirmar sus temores.",
     "key_sentence": "I send an email and I say all the terrible things that are probably going to reinforce their fears.",
     "text_trimmed": true,
     "original_text": "When you get to offer stage, I send an email and I say all the terrible things that are probably going to reinforce their fears. If you can tell them that upfront and they can read that whole email and still be equally excited to join you, find yourself a A+ hire.",
@@ -214,50 +184,10 @@
           "weaken",
           "undermine"
         ]
-      },
-      {
-        "word": "potential downsides",
-        "definition": "Possible negative consequences or risks that may arise from a decision, action, or situation.",
-        "businessContext": "Identifying potential downsides is crucial in risk management, as it allows businesses to prepare for and mitigate adverse effects on operations or strategy.",
-        "nuance": "The phrase suggests a cautious approach, emphasizing the need for thorough analysis before proceeding with a plan.",
-        "synonyms": [
-          "risks",
-          "disadvantages"
-        ],
-        "antonyms": [
-          "benefits",
-          "advantages"
-        ]
-      },
-      {
-        "word": "honest",
-        "definition": "Truthful and sincere in expression, without deceit or fraud.",
-        "businessContext": "Honesty is vital in business communications, fostering trust and transparency between stakeholders, employees, and customers.",
-        "nuance": "While honesty is generally valued, it should be balanced with tact to avoid unnecessary conflict or discomfort in professional settings.",
-        "synonyms": [
-          "truthful",
-          "sincere"
-        ],
-        "antonyms": [
-          "dishonest",
-          "deceitful"
-        ]
-      },
-      {
-        "word": "approach",
-        "definition": "A method or way of dealing with a situation or problem, often involving a specific strategy or perspective.",
-        "businessContext": "In business, the choice of approach can significantly influence project outcomes, team dynamics, and stakeholder engagement.",
-        "nuance": "The term can imply a level of flexibility and adaptability, suggesting that different situations may require different methods.",
-        "synonyms": [
-          "method",
-          "strategy"
-        ],
-        "antonyms": [
-          "disregard",
-          "neglect"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "We are not even beneath the dust on the surface when it comes to what's going to change.",
@@ -266,9 +196,7 @@
     "context": "Lenny asks Kevin about interesting uses of AI in his work. Kevin shares a story about his 7-year-old daughter using Midjourney and asking 'Did I draw that?' after generating an image. He realizes that for her generation, AI image generation is just another tool like a crayon. Kevin uses this powerful metaphor to express how little we understand about the transformative potential of AI technology.",
     "vocabulary_highlights": [
       "change",
-      "surface",
-      "interesting",
-      "realize"
+      "surface"
     ],
     "topics": [
       "Learning & Growth",
@@ -313,36 +241,9 @@
           "depth",
           "substance"
         ]
-      },
-      {
-        "word": "interesting",
-        "definition": "Arousing curiosity or attention; engaging in a way that captures interest.",
-        "businessContext": "In the context of business, 'interesting' is often used to describe innovative ideas, market trends, or unique value propositions that warrant further exploration.",
-        "nuance": "While 'interesting' is generally positive, it can also imply a lack of depth or seriousness, so it should be used carefully in formal evaluations.",
-        "synonyms": [
-          "engaging",
-          "intriguing"
-        ],
-        "antonyms": [
-          "boring",
-          "uninspiring"
-        ]
-      },
-      {
-        "word": "realize",
-        "definition": "To become fully aware of something as a fact; to understand clearly.",
-        "businessContext": "In business, 'realize' often refers to the moment when stakeholders comprehend the implications of data or strategic decisions, leading to action.",
-        "nuance": "The term can suggest a sudden insight or recognition, which may carry a sense of urgency or importance in decision-making contexts.",
-        "synonyms": [
-          "recognize",
-          "understand"
-        ],
-        "antonyms": [
-          "ignore",
-          "overlook"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "When you are building a product, you have this team, engineers, designers, so much potential. The purpose of product management, not the person, but the practice, is to convert that potential into as much realized value for someone as possible, right? Minimum loss.",
@@ -435,10 +336,8 @@
     "timestamp": "00:15:14",
     "context": "Lenny asks Kevin how to become a great writer, since Kevin believes writing skills are crucial for PMs. Kevin acknowledges that AI tools are changing the landscape but still emphasizes the importance of consuming quality content. He quotes celebrity chef Anthony Bourdain's philosophy about food - that to create good work, you must consume a lot of work, including some that isn't great, to develop your taste and judgment.",
     "vocabulary_highlights": [
-      "crucial",
       "advent",
-      "mimic",
-      "landscape"
+      "mimic"
     ],
     "topics": [
       "Communication Skills",
@@ -450,28 +349,14 @@
       "Product Management",
       "Team Building"
     ],
-    "text_ko": "이런 부분은 대형 언어 모델(large language models)의 등장과 남의 말투를 실제로 그대로 흉내 낼 수 있는 능력 때문에 좀 달라지고 있는 것 같아요. 저는 앤서니 부르댕의 관점에서 영감을 받아요. 제가 정확한 말을 그대로 옮기진 못하겠지만, 요지는 “좋은 음식을 만드는 법을 알려면 음식을 많이 먹어봐야 하고, 가끔은 맛없는 식사도 감수할 줄 알아야 한다”였어요.",
-    "text_zh": "我觉得随着大语言模型(large language models)的出现，这种情况正在发生变化，现在确实可以直接模仿别人的语调了。但我还是很认同安东尼·波登那一派的观点，他有句话我可能说得不够准确，大概意思是：\"想要做出好吃的菜，你就得多吃，而且要做好偶尔踩雷的准备。\"",
-    "text_es": "Creo que esto está cambiando un poco con la llegada de los modelos de lenguaje grandes y la capacidad de imitar el tono de otra persona. Pero me inspiro en la filosofía de Anthony Bourdain, y él tiene una frase - no la voy a citar exactamente pero es algo así como: \"Si quieres saber cocinar bien, tienes que comer mucho, y tienes que estar dispuesto a comerte una mala comida de vez en cuando.\"",
+    "text_ko": "대규모 언어 모델(large language models)의 등장으로 실제로 다른 사람의 말투를 그대로 흉내 낼 수 있게 되면서 이런 부분들이 일부 바뀌고 있는 것 같아요.",
+    "text_zh": "我觉得情况正在变化，随着大型语言模型（large language models）的兴起，我们现在真的可以直接模仿别人的语气了。",
+    "text_es": "Creo que parte de esto está cambiando con la llegada de los modelos de lenguaje a gran escala (large language models) y la capacidad real de simplemente imitar el tono de otra persona.",
     "key_sentence": "the ability to actually just mimic someone else's tone.",
     "text_trimmed": true,
     "original_text": "I think some of this is changing with the advent of large language models and the ability to actually just mimic someone else's tone. But I take inspiration from the camp of Anthony Bourdain, and he has, I'm going to butcher the exact quote but it's something like, 'If you want to know how to make good food, you have to eat a lot of food, and you have to be willing to have a bad meal every now and again.'",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "crucial",
-        "definition": "Of great importance; critical to the success or failure of something.",
-        "businessContext": "In business settings, 'crucial' often describes decisions, strategies, or factors that significantly impact outcomes, such as market entry or product development.",
-        "nuance": "While 'crucial' implies a high level of importance, it can also suggest urgency, so it should be used when emphasizing the necessity of timely action.",
-        "synonyms": [
-          "essential",
-          "vital"
-        ],
-        "antonyms": [
-          "insignificant",
-          "trivial"
-        ]
-      },
       {
         "word": "advent",
         "definition": "The arrival or introduction of a notable person, event, or phenomenon.",
@@ -499,22 +384,10 @@
           "create",
           "originate"
         ]
-      },
-      {
-        "word": "landscape",
-        "definition": "The overall environment or context in which events occur, particularly in reference to a specific field or industry.",
-        "businessContext": "In business discussions, 'landscape' often refers to the competitive environment, market conditions, or technological advancements that shape strategic planning.",
-        "nuance": "The term 'landscape' conveys a broad view of the situation, making it useful for discussions that require an understanding of multiple factors influencing a given context.",
-        "synonyms": [
-          "environment",
-          "framework"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I explicitly do not mean read a bunch of other PM artifacts. You're not going to become a better writer by reading PRDs or whatever it is or support articles. It needs to be writing that compels.",
@@ -524,8 +397,7 @@
     "vocabulary_highlights": [
       "artifacts",
       "compels",
-      "explicitly",
-      "product management"
+      "explicitly"
     ],
     "topics": [
       "Communication Skills",
@@ -537,9 +409,9 @@
       "Product Management",
       "Team Building"
     ],
-    "text_ko": "다른 PM 산출물(PM artifacts)을 잔뜩 읽어보라는 뜻은 분명히 아니에요. PRD들(PRDs)이나 그런 지원 문서(support articles)를 읽는다고 글쓰기 실력이 좋아지진 않아요. 사람을 사로잡는 글, 즉 읽는 이를 설득하고 행동하게 만드는 글이어야 해요. 그게 제가 계속 강조하는 핵심이에요. 결국 그게 당신이 궁극적으로 하려는 일이니까요.",
-    "text_zh": "我明确说的不是让你去读一堆产品经理的文档资料。你不可能通过读PRD（产品需求文档）或者支持文章什么的就变成更好的写手。你需要读的是那些真正打动人的文字。这就是我想强调的核心点，因为归根到底，这就是你要做的事情。",
-    "text_es": "No me refiero para nada a leer un montón de documentos de gestión de producto. No vas a mejorar como escritor leyendo PRDs o lo que sea, o artículos de soporte. Tiene que ser escritura que enganche, que atrape. A eso es a lo que volvería siempre porque al fin y al cabo, eso es lo que estás tratando de lograr.",
+    "text_ko": "제가 분명히 말하는 건 다른 PM 관련 산출물(PM artifacts)을 잔뜩 읽으라는 뜻이 절대 아니에요. 제품 요구사항 문서(PRD)나 지원 문서(support articles)를 읽는다고 글쓰기 실력이 늘진 않아요. 중요한 건 사람을 사로잡고 움직이게 하는 글이에요.",
+    "text_zh": "我说的不是叫你去翻看一堆别人的产品经理的产出物(PM artifacts)。光看产品需求文档(PRDs)或者其他支持文章(support articles)，并不会让你写得更好。你需要的是那种能真正打动人的写作。",
+    "text_es": "No me refiero a que te pongas a leer un montón de artefactos de PM (PM artifacts). No vas a mejorar como redactor solo por leer PRDs (PRDs) u otros artículos de soporte. Tiene que ser un texto que realmente enganche y convenza.",
     "key_sentence": "You won't become a better writer by reading PM artifacts; it needs to be writing that compels.",
     "text_trimmed": true,
     "original_text": "I explicitly do not mean read a bunch of other PM artifacts. You're not going to become a better writer by reading PRDs or whatever it is or support articles. It needs to be writing that compels. That's the theme I would go back to because that's what you're trying to do at the end of the day.",
@@ -586,21 +458,9 @@
           "implicitly",
           "vaguely"
         ]
-      },
-      {
-        "word": "product management",
-        "definition": "Product management is the process of guiding a product's development, from conception through launch and beyond, ensuring it meets customer needs and business goals.",
-        "businessContext": "In tech and startups, product management involves cross-functional collaboration among engineering, marketing, and sales teams to deliver successful products that align with market demands.",
-        "nuance": "The role of product management can vary significantly between organizations, sometimes encompassing strategic planning, user experience design, and market analysis.",
-        "synonyms": [
-          "product oversight",
-          "product strategy"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

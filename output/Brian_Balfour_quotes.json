@@ -7,8 +7,7 @@
     "vocabulary_highlights": [
       "necessary",
       "sufficient",
-      "distribution",
-      "growth"
+      "distribution"
     ],
     "topics": [
       "Product Management",
@@ -69,34 +68,16 @@
           "collection",
           "consolidation"
         ]
-      },
-      {
-        "word": "growth",
-        "definition": "The process of increasing in size, number, value, or strength; often measured in terms of revenue, market share, or user base.",
-        "businessContext": "In the startup ecosystem, growth is a primary objective, often driven by strategies like customer acquisition, product development, and market expansion.",
-        "nuance": "Growth can be organic or inorganic, with the latter involving mergers and acquisitions, and it is often associated with sustainability and scalability.",
-        "synonyms": [
-          "expansion",
-          "development"
-        ],
-        "antonyms": [
-          "decline",
-          "recession"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "The cycles seem to be getting shorter and shorter, so you actually have a smaller amount of time to play the game.",
     "speaker": "Brian Balfour",
     "timestamp": "00:00:16",
     "context": "Lenny inquires about the implications of changing growth channels and platforms. Brian explains that the competitive landscape is evolving rapidly, with cycles of innovation and market adaptation occurring at an accelerated pace. This means companies have less time to capitalize on new opportunities before they become saturated.",
-    "vocabulary_highlights": [
-      "competitive landscape",
-      "cycles of innovation",
-      "market adaptation",
-      "evolving"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Strategy & Planning",
       "Growth & Marketing",
@@ -114,64 +95,8 @@
     "text_es": "Los ciclos parecen estar acortándose, por lo que en realidad tienes menos tiempo para jugar el juego.",
     "key_sentence": "Cycles are getting shorter and shorter, limiting the smaller amount of time to play the game.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "competitive landscape",
-        "definition": "The competitive landscape refers to the dynamic environment in which businesses operate, characterized by the presence and actions of competitors within a specific market. It encompasses the strategies, strengths, and weaknesses of rival companies and their impact on market positioning.",
-        "businessContext": "In business and tech, understanding the competitive landscape is crucial for strategic planning, as it helps companies identify opportunities and threats while shaping their marketing and operational strategies.",
-        "nuance": "This term conveys a sense of ongoing rivalry and is often used in strategic discussions; it may be less appropriate in contexts where competition is minimal or irrelevant.",
-        "synonyms": [
-          "competitive environment",
-          "market competition"
-        ],
-        "antonyms": [
-          "monopoly",
-          "N/A"
-        ]
-      },
-      {
-        "word": "cycles of innovation",
-        "definition": "Cycles of innovation refer to the recurring patterns of development and introduction of new ideas, products, or technologies within a market or industry. These cycles often involve phases of research, development, launch, and eventual obsolescence.",
-        "businessContext": "In the tech industry, cycles of innovation are critical for maintaining competitive advantage, as companies must continuously adapt and evolve their offerings to meet changing consumer demands and technological advancements.",
-        "nuance": "This phrase suggests a rhythmic progression and is best used when discussing trends in technology or product development; it may not apply to industries with slower innovation rates.",
-        "synonyms": [
-          "innovation cycles",
-          "innovation waves"
-        ],
-        "antonyms": [
-          "stagnation",
-          "N/A"
-        ]
-      },
-      {
-        "word": "market adaptation",
-        "definition": "Market adaptation refers to the process by which a company adjusts its strategies, products, or services in response to changes in market conditions, consumer preferences, or competitive pressures. It is essential for maintaining relevance and achieving growth.",
-        "businessContext": "In startup environments, market adaptation is often necessary to pivot business models or offerings based on feedback and market research, ensuring that the company remains aligned with customer needs.",
-        "nuance": "This term emphasizes flexibility and responsiveness; it is particularly relevant in fast-paced industries but may be less applicable in more stable markets.",
-        "synonyms": [
-          "market responsiveness",
-          "business adaptation"
-        ],
-        "antonyms": [
-          "market rigidity",
-          "N/A"
-        ]
-      },
-      {
-        "word": "evolving",
-        "definition": "Evolving refers to the gradual development or change of a process, idea, or entity over time, often in response to external influences or internal growth. It implies a continuous improvement or transformation.",
-        "businessContext": "In business, the concept of evolving is often applied to products, services, or organizational structures, highlighting the need for companies to adapt and innovate to stay competitive in a rapidly changing environment.",
-        "nuance": "This term carries a positive connotation of progress and improvement; it is best used in contexts where growth and change are viewed favorably.",
-        "synonyms": [
-          "developing",
-          "progressing"
-        ],
-        "antonyms": [
-          "stagnating",
-          "regressing"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true
   },
   {
     "text": "It ends up being a prisoner's dilemma. Don't trick yourself into thinking that you can't play the game.",
@@ -179,10 +104,7 @@
     "timestamp": "00:00:14",
     "context": "Lenny highlights the risks of missing out on new opportunities, and Brian explains that the situation resembles a prisoner's dilemma, where companies must decide whether to engage with emerging platforms or risk being left behind. He advises that it is crucial for businesses to actively participate in these new channels to meet evolving customer expectations and stay competitive.",
     "vocabulary_highlights": [
-      "prisoner's dilemma",
-      "engage",
-      "opportunities",
-      "risks"
+      "prisoner's dilemma"
     ],
     "topics": [
       "Growth & Marketing",
@@ -215,50 +137,9 @@
           "cooperative outcome",
           "mutual benefit"
         ]
-      },
-      {
-        "word": "engage",
-        "definition": "To participate or become involved in a particular activity or interaction, often with the intention of fostering relationships or achieving specific outcomes.",
-        "businessContext": "In a business context, engaging with customers or stakeholders is crucial for building loyalty, gathering feedback, and enhancing collaboration within teams.",
-        "nuance": "The term carries a proactive connotation, suggesting a deeper level of involvement rather than mere participation; it is often used in marketing and leadership discussions.",
-        "synonyms": [
-          "involve",
-          "participate"
-        ],
-        "antonyms": [
-          "disengage",
-          "alienate"
-        ]
-      },
-      {
-        "word": "opportunities",
-        "definition": "Favorable circumstances or situations that provide the potential for advancement, growth, or profit, often requiring timely action to capitalize on them.",
-        "businessContext": "In business, identifying and seizing opportunities is essential for innovation, market expansion, and competitive advantage, often driving strategic planning and decision-making.",
-        "nuance": "The term implies a sense of urgency and potential, and it is often used in discussions about market trends, investment, and entrepreneurship.",
-        "synonyms": [
-          "prospects",
-          "possibilities"
-        ],
-        "antonyms": [
-          "challenges",
-          "obstacles"
-        ]
-      },
-      {
-        "word": "risks",
-        "definition": "The potential for loss, damage, or negative consequences that may arise from a decision or action, often assessed in terms of probability and impact.",
-        "businessContext": "In business, understanding and managing risks is crucial for strategic planning, investment decisions, and operational efficiency, as it helps organizations navigate uncertainties.",
-        "nuance": "The term often has a negative connotation, but it can also imply the potential for reward; it is commonly used in discussions about risk management and strategic decision-making.",
-        "synonyms": [
-          "hazards",
-          "uncertainties"
-        ],
-        "antonyms": [
-          "safety",
-          "certainty"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "The key thing for everybody to know is that as new distribution platforms emerge, they follow the same four-step cycle.",
@@ -352,10 +233,7 @@
     "timestamp": "00:08:39",
     "context": "Brian explains that one effective strategy for startups to gain a competitive edge is to leverage new distribution platforms that frequently arise. Startups often have the agility to capitalize on these opportunities faster than established competitors, providing them with a unique advantage in the market.",
     "vocabulary_highlights": [
-      "leverage",
-      "capitalize",
-      "emerge",
-      "agility"
+      "emerge"
     ],
     "topics": [
       "Strategy & Planning",
@@ -376,34 +254,6 @@
     "vocab_reparsed": true,
     "vocabulary": [
       {
-        "word": "leverage",
-        "definition": "To use something to maximum advantage or to exert influence over a situation or entity.",
-        "businessContext": "In business, leveraging often refers to utilizing resources, such as capital or technology, to enhance productivity or competitive advantage.",
-        "nuance": "While 'leverage' can imply a strategic advantage, it can also suggest a reliance on borrowed resources, which may carry financial risks.",
-        "synonyms": [
-          "utilize",
-          "exploit"
-        ],
-        "antonyms": [
-          "squander",
-          "waste"
-        ]
-      },
-      {
-        "word": "capitalize",
-        "definition": "To take advantage of a situation or opportunity for gain or profit.",
-        "businessContext": "In the context of startups, capitalizing often involves recognizing emerging trends or technologies and acting swiftly to benefit from them.",
-        "nuance": "This term carries a proactive connotation, suggesting not just recognition but also decisive action to benefit from opportunities.",
-        "synonyms": [
-          "exploit",
-          "seize"
-        ],
-        "antonyms": [
-          "miss",
-          "ignore"
-        ]
-      },
-      {
         "word": "emerge",
         "definition": "To come into view or existence, often after a period of development or change.",
         "businessContext": "In the tech industry, new distribution platforms often emerge as a result of innovation, creating new opportunities for startups to enter the market.",
@@ -416,22 +266,9 @@
           "disappear",
           "vanish"
         ]
-      },
-      {
-        "word": "agility",
-        "definition": "The ability to move quickly and easily, often in response to changing circumstances or environments.",
-        "businessContext": "In a business context, agility refers to a company's capacity to adapt swiftly to market changes or new opportunities, which is crucial for startups in a dynamic landscape.",
-        "nuance": "Agility implies not just speed but also flexibility and responsiveness, making it a valued trait in fast-paced industries.",
-        "synonyms": [
-          "flexibility",
-          "adaptability"
-        ],
-        "antonyms": [
-          "inflexibility",
-          "rigidity"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "What we see is essentially three groups of folks. We call them the catalysts, the converts, and the anchors.",
@@ -439,10 +276,7 @@
     "timestamp": "01:10:01",
     "context": "Brian discusses the different groups of employees within companies undergoing AI adoption. He categorizes them into catalysts, who lead the charge; converts, who can adapt with guidance; and anchors, who resist change. He emphasizes that understanding these dynamics is crucial for facilitating successful transformations within organizations.",
     "vocabulary_highlights": [
-      "catalysts",
-      "adopt",
-      "adapt",
-      "guidance"
+      "catalysts"
     ],
     "topics": [
       "Coaching & Development",
@@ -475,49 +309,8 @@
           "obstacles",
           "impediments"
         ]
-      },
-      {
-        "word": "adopt",
-        "definition": "To adopt means to take up, accept, or start to use something, such as a new idea, method, or policy. It implies a decision to embrace and integrate something into one's practices or beliefs.",
-        "businessContext": "In the business realm, companies may adopt new technologies or strategies to remain competitive or improve operations, often following industry trends or customer demands.",
-        "nuance": "The term 'adopt' carries a connotation of approval and commitment, suggesting that the entity is not just trying something temporarily but is integrating it into their core practices.",
-        "synonyms": [
-          "embrace",
-          "implement"
-        ],
-        "antonyms": [
-          "reject",
-          "abandon"
-        ]
-      },
-      {
-        "word": "adapt",
-        "definition": "To adapt means to modify or adjust something in response to changing conditions or new information. It involves a level of flexibility and responsiveness to external factors.",
-        "businessContext": "In the context of business, organizations must adapt their strategies, products, or services to meet evolving market demands or to respond to competitive pressures.",
-        "nuance": "While 'adapt' suggests a necessary change for survival or improvement, it can also imply a reactive stance rather than a proactive one, so it is important to use it in contexts where flexibility is required.",
-        "synonyms": [
-          "modify",
-          "adjust"
-        ],
-        "antonyms": [
-          "stagnate",
-          "remain unchanged"
-        ]
-      },
-      {
-        "word": "guidance",
-        "definition": "Guidance refers to advice or information aimed at resolving a problem or facilitating decision-making. It often involves directing someone towards a course of action or providing support.",
-        "businessContext": "In business settings, guidance can come from mentors, leaders, or consultants who help teams navigate challenges, make strategic decisions, or implement changes effectively.",
-        "nuance": "The term 'guidance' implies a supportive role, suggesting that the person providing it has expertise or experience, and it is typically used in contexts where direction is needed rather than in situations of direct control.",
-        "synonyms": [
-          "advice",
-          "direction"
-        ],
-        "antonyms": [
-          "misguidance",
-          "confusion"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

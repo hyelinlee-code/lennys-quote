@@ -7,7 +7,6 @@
     "vocabulary_highlights": [
       "doubling",
       "user counts",
-      "incredible growth",
       "space on the wall"
     ],
     "topics": [
@@ -55,20 +54,6 @@
         ]
       },
       {
-        "word": "incredible growth",
-        "definition": "A remarkable or extraordinary increase in size, number, or value over a specific period.",
-        "businessContext": "In the business realm, 'incredible growth' often describes startups that achieve rapid scaling, attracting attention from investors and competitors alike.",
-        "nuance": "While 'incredible growth' is generally viewed positively, it can also raise concerns about sustainability and long-term viability.",
-        "synonyms": [
-          "exponential growth",
-          "remarkable expansion"
-        ],
-        "antonyms": [
-          "stagnation",
-          "decline"
-        ]
-      },
-      {
         "word": "space on the wall",
         "definition": "Physical area available for displaying information or data, often used metaphorically to represent limits in capacity or resources.",
         "businessContext": "In a startup setting, 'space on the wall' can refer to the tangible representation of growth metrics, such as user counts, and the need for continuous adaptation as the business scales.",
@@ -82,19 +67,15 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "But weirdly, it was sort of like you see the videos where there's the mushroom cloud in the distance. You see it. But you don't hear, or notice it. It was also clear that winter was coming.",
     "speaker": "Drew Houston",
     "timestamp": "00:00:26",
     "context": "Drew is explaining how major tech companies like Apple, Microsoft, and Google started launching competing products around 2011-2012. He uses a vivid metaphor comparing their competitive threats to seeing a distant nuclear explosion - you can see the mushroom cloud but don't immediately feel the impact. The phrase 'winter was coming' refers to Drew sensing that difficult times lay ahead for Dropbox despite not seeing immediate effects in their user numbers.",
-    "vocabulary_highlights": [
-      "competitive threats",
-      "launching",
-      "context",
-      "metaphor"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Strategy & Planning",
       "Decision Making"
@@ -110,64 +91,8 @@
     "text_es": "Pero qué raro, era como cuando ves esos videos donde hay una explosión nuclear a lo lejos. La ves ahí. Pero no escuchas nada, ni te das cuenta del impacto. También estaba clarísimo que se venían tiempos difíciles.",
     "key_sentence": "The mushroom cloud in the distance signaled that winter was coming.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "competitive threats",
-        "definition": "Potential challenges posed by rival companies that could undermine a business's market position or profitability.",
-        "businessContext": "In business strategy discussions, identifying competitive threats is crucial for developing effective marketing and operational plans to maintain an edge in the marketplace.",
-        "nuance": "The term often implies a sense of urgency and the need for proactive measures to mitigate risks from competitors.",
-        "synonyms": [
-          "market challenges",
-          "rival risks"
-        ],
-        "antonyms": [
-          "competitive advantages",
-          "market opportunities"
-        ]
-      },
-      {
-        "word": "launching",
-        "definition": "The act of introducing a new product, service, or initiative to the market.",
-        "businessContext": "In startups, launching is a critical phase that involves marketing strategies, customer engagement, and performance metrics to ensure the success of the new offering.",
-        "nuance": "While 'launching' typically denotes a positive and proactive action, it can also carry the weight of risk if the launch does not meet expectations.",
-        "synonyms": [
-          "introduction",
-          "rollout"
-        ],
-        "antonyms": [
-          "withdrawal",
-          "retraction"
-        ]
-      },
-      {
-        "word": "context",
-        "definition": "The circumstances or background information that surround a particular event, situation, or concept, providing meaning and understanding.",
-        "businessContext": "In business communication, understanding the context is essential for effective decision-making and strategy formulation, as it influences how information is interpreted.",
-        "nuance": "Context can significantly alter the perception of a message, making it important to consider when discussing sensitive topics or complex issues.",
-        "synonyms": [
-          "background",
-          "framework"
-        ],
-        "antonyms": [
-          "isolation",
-          "disregard"
-        ]
-      },
-      {
-        "word": "metaphor",
-        "definition": "A figure of speech that describes an object or action in a way that isn’t literally true but helps explain an idea or make a comparison.",
-        "businessContext": "In presentations and marketing, metaphors are often used to simplify complex ideas and make them more relatable to the audience, enhancing engagement and understanding.",
-        "nuance": "While metaphors can be powerful tools for communication, they should be used judiciously to avoid confusion or misinterpretation.",
-        "synonyms": [
-          "analogy",
-          "symbol"
-        ],
-        "antonyms": [
-          "literal expression",
-          "fact"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true
   },
   {
     "text": "Less than a year later, Google Photos launches. And not only does it provide a lot of the same value, but they also gave you free unlimited storage for life. And so, they just totally nuked our business model.",
@@ -175,10 +100,8 @@
     "timestamp": "00:00:45",
     "context": "Drew is describing a pivotal moment in 2015 when Google launched Google Photos with free unlimited storage, directly competing with Dropbox's Carousel photo-sharing product. This was devastating because Google could afford to give away what Dropbox was trying to monetize. Drew uses strong language to emphasize how completely this undermined their strategy - Google didn't just compete, they 'totally nuked' Dropbox's ability to charge for photo storage.",
     "vocabulary_highlights": [
-      "pivotal",
       "business model",
-      "unlimited storage",
-      "competing"
+      "unlimited storage"
     ],
     "topics": [
       "Strategy & Planning",
@@ -196,20 +119,6 @@
     "key_sentence": "Google Photos totally nuked our business model with free unlimited storage.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "pivotal",
-        "definition": "Of crucial importance in relation to the development or success of something else.",
-        "businessContext": "In business, a pivotal decision or moment can significantly influence the direction of a company or project, often determining its success or failure.",
-        "nuance": "While 'pivotal' suggests importance, it also implies that the outcome may hinge on that specific element, making it a strong term for critical situations.",
-        "synonyms": [
-          "critical",
-          "essential"
-        ],
-        "antonyms": [
-          "insignificant",
-          "minor"
-        ]
-      },
       {
         "word": "business model",
         "definition": "A framework for how a company creates, delivers, and captures value, outlining its revenue generation strategy.",
@@ -237,22 +146,9 @@
           "limited storage",
           "restricted capacity"
         ]
-      },
-      {
-        "word": "competing",
-        "definition": "Engaging in a contest or rivalry to achieve a goal, often in a business context where companies vie for market share or customer loyalty.",
-        "businessContext": "In a competitive market, businesses must differentiate themselves through unique offerings, pricing strategies, or customer service to attract and retain clients.",
-        "nuance": "The term implies an active effort to outperform others, and it can carry a connotation of aggression or rivalry, depending on the context.",
-        "synonyms": [
-          "rivaling",
-          "contending"
-        ],
-        "antonyms": [
-          "cooperating",
-          "collaborating"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "So it killed Carousel, killed Mailbox, went all-in on productivity. And I wish I could say, 'Then, everything got better.' It was the opposite, actually. The narrative completely flipped on the company. Suddenly, your employees don't want to wear your T-shirt anymore.",
@@ -260,7 +156,6 @@
     "timestamp": "00:01:02",
     "context": "Drew is explaining his difficult strategic decision in 2015 to shut down Dropbox's photo-sharing app Carousel and email client Mailbox to focus entirely on workplace productivity tools. Instead of solving their problems, this pivot made things worse - the company's reputation declined dramatically, employee morale plummeted, and even workers became embarrassed to be associated with the Dropbox brand, symbolized by not wanting to wear company merchandise.",
     "vocabulary_highlights": [
-      "strategic decision",
       "productivity",
       "narrative",
       "employees"
@@ -281,20 +176,6 @@
     "key_sentence": "The narrative completely flipped; employees no longer wanted to wear your T-shirt.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "strategic decision",
-        "definition": "A choice made after careful consideration of the long-term goals and direction of an organization.",
-        "businessContext": "In business, strategic decisions often involve resource allocation, market positioning, and competitive advantage, impacting the overall success of the company.",
-        "nuance": "This term implies a level of foresight and planning, distinguishing it from routine or operational decisions.",
-        "synonyms": [
-          "tactical choice",
-          "long-term decision"
-        ],
-        "antonyms": [
-          "impulsive choice",
-          "short-term decision"
-        ]
-      },
       {
         "word": "productivity",
         "definition": "The measure of efficiency in converting inputs into outputs, often quantified as the ratio of output to input in a given time period.",
@@ -337,7 +218,8 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "But I'm very busy, but I'm not really productive. I'm not putting in a lot of creative input. Then the company's not getting a lot of creative output. It just seems like lose, lose, lose all around.",
@@ -347,8 +229,7 @@
     "vocabulary_highlights": [
       "productive",
       "creative input",
-      "creative output",
-      "fundamental problem"
+      "creative output"
     ],
     "topics": [
       "Leadership & Management",
@@ -407,22 +288,9 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "fundamental problem",
-        "definition": "A core issue or challenge that underlies and drives other related problems within a system or organization.",
-        "businessContext": "Identifying the fundamental problem is critical in business strategy, as it allows teams to address root causes rather than just symptoms, leading to more sustainable solutions.",
-        "nuance": "The term suggests a deep-seated issue that may require significant changes or resources to resolve, and should be used with caution to avoid oversimplifying complex situations.",
-        "synonyms": [
-          "core issue",
-          "root cause"
-        ],
-        "antonyms": [
-          "superficial problem",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "You end up fighting wars on three or four fronts against the big kahunas that have infinite cash, and can do whatever they want.",
@@ -430,10 +298,7 @@
     "timestamp": "00:00:45",
     "context": "Drew is describing the strategic challenge Dropbox faced when trying to compete in multiple product areas simultaneously - file storage, photo sharing, productivity tools, and enterprise solutions. Each area put them in direct competition with tech giants like Google, Apple, Microsoft, and Meta. These companies had vastly superior resources and could afford to operate at losses or give away products for free to eliminate competition, making Dropbox's multi-front strategy extremely difficult to sustain.",
     "vocabulary_highlights": [
-      "strategic",
-      "compete",
-      "infinite",
-      "product areas"
+      "infinite"
     ],
     "topics": [
       "Strategy & Planning",
@@ -452,34 +317,6 @@
     "vocab_reparsed": true,
     "vocabulary": [
       {
-        "word": "strategic",
-        "definition": "Relating to the identification of long-term or overall aims and interests and the means of achieving them.",
-        "businessContext": "In business, 'strategic' often refers to planning and decision-making that align with the company's long-term goals, such as market positioning or resource allocation.",
-        "nuance": "While 'strategic' implies careful planning, it can also suggest a level of manipulation or tactical maneuvering, so it should be used in contexts where foresight and planning are emphasized.",
-        "synonyms": [
-          "tactical",
-          "calculated"
-        ],
-        "antonyms": [
-          "random",
-          "haphazard"
-        ]
-      },
-      {
-        "word": "compete",
-        "definition": "To strive against others to gain something, such as market share, customers, or resources.",
-        "businessContext": "In the business world, companies compete to attract customers, innovate products, and secure a larger market presence, often leading to price wars and marketing battles.",
-        "nuance": "The term 'compete' can carry a connotation of rivalry and aggression, so it is best used in contexts where the competitive nature of the market is being discussed.",
-        "synonyms": [
-          "contend",
-          "vie"
-        ],
-        "antonyms": [
-          "cooperate",
-          "collaborate"
-        ]
-      },
-      {
         "word": "infinite",
         "definition": "Limitless or endless in extent, quantity, or degree; not finite.",
         "businessContext": "In a business context, 'infinite' often describes resources, such as capital or opportunities, that appear boundless, allowing for extensive growth and expansion.",
@@ -492,21 +329,8 @@
           "finite",
           "limited"
         ]
-      },
-      {
-        "word": "product areas",
-        "definition": "Specific categories or segments of products offered by a company, often differentiated by features, target markets, or applications.",
-        "businessContext": "In business strategy, identifying distinct product areas helps companies focus their marketing efforts and tailor their offerings to meet the needs of different customer segments.",
-        "nuance": "The term 'product areas' is often used in discussions of product management and development, emphasizing the need for clarity in product lines and market focus.",
-        "synonyms": [
-          "product categories",
-          "product segments"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

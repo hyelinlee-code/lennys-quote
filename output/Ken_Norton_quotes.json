@@ -6,9 +6,7 @@
     "context": "This quote appears at the very beginning of the episode as Ken introduces the foundational challenge of product management. Ken is establishing the core tension that product managers face throughout their careers - they must lead and influence without traditional hierarchical power. This sets up one of his key themes about why product management is such excellent training for executive leadership roles.",
     "vocabulary_highlights": [
       "leadership",
-      "formal authority",
-      "foundational challenge",
-      "core tension"
+      "formal authority"
     ],
     "topics": [
       "Product Management",
@@ -21,9 +19,9 @@
       "Product Management",
       "Career Development"
     ],
-    "text_ko": "제가 생각하기에 프로덕트 매니지먼트(product management)의 가장 흥미로운 점 중 하나는 처음부터 리더라는 거예요. 리더십은 조직 곳곳에 있지만, 그 역할이 바로 당신에게 주어져 있어요. 공식적인 권한이 없을 수도 있지만 그래도 리더로서 이끌어야 한다고 기대받아요.",
-    "text_zh": "我觉得产品管理(product management)特别有意思的一点就是，你从第一天开始就得当领导。虽然到处都有各种领导，但这就是你的活儿——你就是个领导。你手里没什么实权，但你就得起到领导作用，大家就指望你来带头。",
-    "text_es": "Una de las cosas que me parece súper emocionante de la gestión de productos es que desde el primer día ya eres líder. Hay liderazgo por todos lados, pero ese es tu trabajo. Eres líder. No tienes autoridad formal, pero eres líder. Se espera que lideres.",
+    "text_ko": "제가 생각하기에 프로덕트 매니지먼트(product management)의 흥미로운 부분 중 하나는 시작하는 날부터 리더라는 점이에요. 리더십이 조직 곳곳에 있긴 하지만, 그게 바로 당신의 일이에요. 정식 권한(formal authority)은 없을 수 있어도, 그래도 리더예요.",
+    "text_zh": "我觉得产品管理（product management）最吸引人的地方之一，就是从第一天起你就是个领导。到处都要体现领导力，而这正是你的工作——你就是领导。虽然你没有正式的权力（formal authority），但你依然要去带头。",
+    "text_es": "Una de las cosas que me parece más emocionante de la gestión de producto (product management) es que, desde el primer día, eres líder. El liderazgo está presente en todas partes, y ese es precisamente tu trabajo: liderar. No tienes autoridad formal, pero aun así eres líder.",
     "key_sentence": "You're a leader without formal authority in product management.",
     "text_trimmed": true,
     "original_text": "Part of what I think is pretty exciting about product management is you are a leader from day one in product management. There's leadership all over the place, but that's your job. You're a leader. You don't have any formal authority, but you're a leader. You're expected to lead.",
@@ -56,36 +54,10 @@
           "informal influence",
           "N/A"
         ]
-      },
-      {
-        "word": "foundational challenge",
-        "definition": "A fundamental issue or obstacle that must be addressed to establish a strong base for future development or success.",
-        "businessContext": "In startups and product management, identifying foundational challenges is critical for creating viable products and ensuring sustainable growth.",
-        "nuance": "This term often implies that overcoming these challenges is essential for long-term success, making it a priority in strategic planning.",
-        "synonyms": [
-          "core issue",
-          "fundamental obstacle"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "core tension",
-        "definition": "An inherent conflict or contradiction within a system or organization that can drive both challenges and opportunities.",
-        "businessContext": "In product management and organizational dynamics, understanding core tensions can help teams navigate competing priorities and foster innovation.",
-        "nuance": "Core tensions are often seen as natural and can be leveraged for growth, rather than simply viewed as problems to be resolved.",
-        "synonyms": [
-          "central conflict",
-          "fundamental tension"
-        ],
-        "antonyms": [
-          "harmony",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I started to simultaneously recognize the shortcomings of giving advice, because it seemed like, well, I can meet with these folks, I could tell them what I did, I could tell them what Google did, and that'll answer all their questions.",
@@ -94,9 +66,7 @@
     "context": "Lenny asks Ken how he transitioned from being a Google executive to becoming a full-time executive coach. Ken explains his realization while working at Google Ventures that traditional advice-giving has significant limitations. He discovered that simply telling portfolio founders what worked at Google wasn't effective because it lacked context for their specific situations, leading him to discover the power of coaching over mentoring.",
     "vocabulary_highlights": [
       "shortcomings",
-      "simultaneously",
-      "traditional",
-      "realization"
+      "simultaneously"
     ],
     "topics": [
       "Coaching & Development",
@@ -109,9 +79,9 @@
       "Product Management",
       "Career Development"
     ],
-    "text_ko": "저는 동시에 조언하는 것의 한계도 느끼기 시작했어요. 사람들을 만나서 제가 했던 방식이나 구글이 했던 걸 얘기해주면 그들의 모든 질문이 해결될 것 같았는데, 조언이 생각만큼 힘이 세지 않다는 걸 깨닫게 됐어요. 약간 솜사탕 같아요.",
-    "text_zh": "我开始同时意识到给建议这事儿的局限性，因为感觉就是，我可以和这些人见面，可以告诉他们我是怎么做的，可以告诉他们谷歌是怎么做的，这样就能解决他们所有问题了。但你慢慢发现，建议其实没有你想象的那么有用。有点像棉花糖一样，看起来挺大一团，其实没什么实质内容。",
-    "text_es": "Empecé a darme cuenta de las limitaciones que tiene dar consejos, porque pensaba: \"Bueno, puedo reunirme con esta gente, les cuento lo que hice yo, les cuento lo que hizo Google, y eso va a resolver todas sus dudas.\" Te das cuenta de que los consejos no son tan poderosos como uno cree. Es como el algodón de azúcar.",
+    "text_ko": "저는 동시에 조언을 해주는 것의 한계도 느끼기 시작했어요. 왜냐하면 제가 이분들을 만나 제가 했던 일이나 구글이 했던 일을 말해주면 그분들의 모든 질문이 해결될 것처럼 보였거든요.",
+    "text_zh": "我也开始意识到，光给建议其实有不少问题。表面上看，好像只要我跟这些人见个面，跟他们说说我当时怎么做的，或者告诉他们Google怎么做的，就能回答他们所有的问题。",
+    "text_es": "Al mismo tiempo me fui dando cuenta de que dar consejos tiene sus límites, porque parecía que, bueno, podía reunirme con estas personas, contarles lo que yo hice, explicarles lo que hizo Google, y con eso se resolvían todas sus dudas.",
     "key_sentence": "I started to simultaneously recognize the shortcomings of giving advice.",
     "text_trimmed": true,
     "original_text": "I started to simultaneously recognize the shortcomings of giving advice, because it seemed like, well, I can meet with these folks, I could tell them what I did, I could tell them what Google did, and that'll answer all their questions. You start to realize advice is not as powerful as you might think it is. It's a little bit like cotton candy.",
@@ -144,36 +114,10 @@
           "sequentially",
           "independently"
         ]
-      },
-      {
-        "word": "traditional",
-        "definition": "Relating to customs, practices, or methods that have been established over time.",
-        "businessContext": "In the context of business, traditional approaches may refer to established practices in management, marketing, or operations that contrast with modern or innovative methods.",
-        "nuance": "The term can carry a positive connotation of reliability or a negative one of being outdated, depending on the context.",
-        "synonyms": [
-          "conventional",
-          "classical"
-        ],
-        "antonyms": [
-          "modern",
-          "innovative"
-        ]
-      },
-      {
-        "word": "realization",
-        "definition": "The act of becoming fully aware of something as a fact; the process of making something real or concrete.",
-        "businessContext": "In business, realization often refers to the moment when a concept or idea is understood or when a project moves from planning to execution.",
-        "nuance": "It can imply a significant moment of clarity or insight, making it suitable for discussions about strategic decisions or personal growth.",
-        "synonyms": [
-          "awareness",
-          "recognition"
-        ],
-        "antonyms": [
-          "ignorance",
-          "unawareness"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "There's a sense of what got me here isn't going to get me there. That's oftentimes when they reach out for coaching.",
@@ -182,9 +126,7 @@
     "context": "Lenny asks Ken what types of clients he works with and when people typically come to him for coaching. Ken explains that his clients are usually senior product leaders (CPOs, VPs of product) who are facing career milestones or transitions. These leaders have already mastered the technical aspects of their roles but recognize they need to do deeper personal development work to reach the next level of effectiveness.",
     "vocabulary_highlights": [
       "reach out",
-      "coaching",
-      "senior",
-      "product leaders"
+      "coaching"
     ],
     "topics": [
       "Coaching & Development",
@@ -198,9 +140,9 @@
       "Product Management",
       "Career Development"
     ],
-    "text_ko": "여기까지 데려다 준 방식으론 앞으로는 안 될 것 같다는 느낌이 들어요. 그럴 때 코칭(coaching)을 찾으시는 경우가 많죠. 제 고객분들도 스스로를 많이 돌아보는 편이고 훌륭한 멘토와 조언자들로 둘러싸여 있어서 도와줄 사람이 많은데, 결국 다음 단계로 가려면 많은 부분이 내면의 작업(internal work)이라는 걸 깨닫고 계세요.",
-    "text_zh": "有种感觉就是，过去让我成功的那套东西，未来可能就不管用了。通常这个时候他们就会找教练。我觉得我的客户都挺会自我反思的，身边也有很多优秀的导师和顾问，生活中不缺能帮到他们的人，但他们意识到，要想更上一层楼，很多功夫其实得在自己身上下，得做内在的修炼。",
-    "text_es": "Hay una sensación de que lo que me trajo hasta aquí no me va a llevar hasta allá. Ahí es cuando muchas veces buscan coaching. Creo que mis clientes también son muy introspectivos y están rodeados de excelentes mentores y asesores, tienen todo tipo de gente en su vida que los puede ayudar, pero se dan cuenta de que gran parte del trabajo va a ser trabajo interno lo que los va a llevar al siguiente nivel.",
+    "text_ko": "지금까지 저를 여기까지 이끌어준 방식으로는 앞으로 원하는 곳까지는 못 가겠다는 느낌이 들어요. 많은 분들이 바로 그때 코칭(coaching)을 찾으세요.",
+    "text_zh": "会有一种感觉：把我带到现在的那些做法，帮不上忙让我走到下一步。很多时候就是在这种情况下，他们会去找教练(coaching)求助。",
+    "text_es": "Cuando sienten que lo que les trajo hasta aquí no les va a llevar a donde quieren llegar, muchas veces recurren al asesoramiento (coaching).",
     "key_sentence": "What got me here isn't going to get me there; internal work is essential.",
     "text_trimmed": true,
     "original_text": "There's a sense of what got me here isn't going to get me there. That's oftentimes when they reach out for coaching. I think my clients are also very introspective and surrounded by great mentors and advisors and have all sorts of people in their life who can help them, but are realizing that a lot of the work is going to be internal work that's going to get them to the next level.",
@@ -233,36 +175,10 @@
           "neglect",
           "abandonment"
         ]
-      },
-      {
-        "word": "senior",
-        "definition": "Referring to an individual who holds a higher rank or position within an organization, often characterized by greater experience and responsibility.",
-        "businessContext": "In business, 'senior' typically describes roles such as senior managers or senior executives, who are expected to lead teams and make strategic decisions.",
-        "nuance": "The term carries connotations of authority and expertise, and is often used to differentiate between levels of experience and responsibility within a corporate hierarchy.",
-        "synonyms": [
-          "experienced",
-          "advanced"
-        ],
-        "antonyms": [
-          "junior",
-          "novice"
-        ]
-      },
-      {
-        "word": "product leaders",
-        "definition": "Individuals or teams responsible for guiding the development and strategy of a product, ensuring it meets market needs and aligns with business objectives.",
-        "businessContext": "In the tech and startup sectors, product leaders play a crucial role in defining product vision, prioritizing features, and collaborating with cross-functional teams to deliver successful products.",
-        "nuance": "This term emphasizes leadership in product management, suggesting a proactive role in innovation and market responsiveness, as opposed to simply managing existing products.",
-        "synonyms": [
-          "product managers",
-          "product executives"
-        ],
-        "antonyms": [
-          "product followers",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "But then suddenly you're put in a place where you realize that the rules of the game aren't so black and white. Maybe there's a long delay now between when you get to see what you did and the score of it.",
@@ -271,8 +187,6 @@
     "context": "Ken is using a video game analogy to explain the transition from individual contributor to senior leader. He describes how early career feels like learning to play a structured game with clear rules and immediate feedback, but senior leadership roles are much more ambiguous. The transition is jarring because suddenly others expect you to set the rules rather than just follow them, which requires a fundamental mindset shift.",
     "vocabulary_highlights": [
       "black and white",
-      "transition",
-      "structured",
       "realize"
     ],
     "topics": [
@@ -286,9 +200,9 @@
       "Product Management",
       "Career Development"
     ],
-    "text_ko": "그런데 어느 순간 갑자기 게임의 규칙이 그렇게 단순히 흑백논리로 설명할 수 없다는 걸 깨닫게 되는 상황에 놓여요. 자기가 한 일과 그에 대한 평가(score)를 확인하는 사이에 긴 지연이 생길 수 있어요. 일들이 예기치 않게 돌아가기 시작해요. 가장 무서운 건 둘러보면 모두가 당신을 게임의 설계자인 것처럼 쳐다보는데, 당신은 그저 게임을 하고 있다고 생각하고 있었다는 거예요.",
-    "text_zh": "但突然间你发现，游戏规则其实没那么非黑即白。可能现在你做了什么事情，要等很久才能看到结果和反馈。事情开始变得出人意料。最可怕的是，你环顾四周，发现所有人都在看着你，好像你就是游戏规则的制定者一样，可你以为自己只是个玩家而已。",
-    "text_es": "Pero de repente te encuentras en una situación donde te das cuenta de que las reglas del juego no son tan claras como pensabas. A lo mejor ahora hay un retraso enorme entre cuando haces algo y cuando ves los resultados. Las cosas empiezan a comportarse de maneras que no esperabas. Y lo que más miedo da es cuando volteas a ver a tu alrededor y todos te están viendo como si fueras tú quien diseñó el juego, cuando en realidad pensabas que solo estabas jugando.",
+    "text_ko": "그런데 어느 순간 갑자기 게임의 룰(rules of the game)이 그렇게 흑백이 아니라는 걸 깨닫게 돼요. 이제는 내가 뭘 했는지와 그게 어떻게 평가되는지 사이에 꽤 긴 시차가 있을 수도 있어요.",
+    "text_zh": "但突然你会发现自己处在一种境地：游戏规则并不像想象中那样黑白分明。也许从你做了某件事到看到它的评分(score)，现在会有很长的延迟。",
+    "text_es": "Pero de repente te encuentras en una situación en la que te das cuenta de que las reglas del juego no son tan blanco y negro. Puede que ahora pase mucho tiempo entre el momento en que ves lo que hiciste y la valoración (score) que recibes.",
     "key_sentence": "The rules of the game aren't black and white; expect long delays and surprises.",
     "text_trimmed": true,
     "original_text": "But then suddenly you're put in a place where you realize that the rules of the game aren't so black and white. Maybe there's a long delay now between when you get to see what you did and the score of it. Things start to behave in unexpected ways. The most frightening part about it is you look around and everyone is looking at you like you're the designer of the game, and you thought you were playing.",
@@ -309,34 +223,6 @@
         ]
       },
       {
-        "word": "transition",
-        "definition": "The process of changing from one state or condition to another, often involving a series of steps.",
-        "businessContext": "In a business context, 'transition' is frequently used to describe shifts in strategy, leadership, or operational processes that require careful management to ensure continuity.",
-        "nuance": "It implies a period of adjustment and can denote both positive and negative changes depending on context.",
-        "synonyms": [
-          "changeover",
-          "shift"
-        ],
-        "antonyms": [
-          "stagnation",
-          "stability"
-        ]
-      },
-      {
-        "word": "structured",
-        "definition": "Organized in a systematic way, often with clearly defined components or processes.",
-        "businessContext": "In business environments, a 'structured' approach to projects or teams can enhance efficiency and clarity, ensuring that roles and responsibilities are well-defined.",
-        "nuance": "While it suggests order and efficiency, it may also imply rigidity, which can stifle creativity in certain contexts.",
-        "synonyms": [
-          "organized",
-          "systematic"
-        ],
-        "antonyms": [
-          "unstructured",
-          "chaotic"
-        ]
-      },
-      {
         "word": "realize",
         "definition": "To become fully aware of something as a fact; to understand or grasp the significance of an idea or situation.",
         "businessContext": "In business, 'realize' often refers to the moment when stakeholders understand the implications of data or decisions, which can lead to strategic pivots or innovations.",
@@ -350,7 +236,9 @@
           "overlook"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Are you responding to the world from a place of fear... or are you responding to the world from a place of openness, possibility, curiosity, passion, growth, purpose?",
@@ -358,10 +246,7 @@
     "timestamp": "00:19:10",
     "context": "Lenny asks Ken about a key concept he's been developing around leadership mindset shifts. Ken explains his framework of 'creative versus reactive' leadership, which distinguishes between two fundamental ways leaders can approach challenges. This framework, adapted from various leadership theories, identifies whether leaders operate from fear and defensiveness (reactive) or from openness and possibility (creative).",
     "vocabulary_highlights": [
-      "mindset",
-      "possibility",
-      "framework",
-      "fundamental"
+      "possibility"
     ],
     "topics": [
       "Leadership & Management",
@@ -374,28 +259,14 @@
       "Product Management",
       "Career Development"
     ],
-    "text_ko": "세상에 반응할 때 두려움에서 출발해서 문제와 위협만 보고, 옳으려고 하고 사람들에게 잘 보이고 싶어하며 방어적으로 반응하세요? 아니면 마음을 열고 가능성을 보며 호기심과 열정, 성장과 목적 의식으로 반응하세요?",
-    "text_zh": "你面对这个世界的时候，是带着恐惧心理吗？总是看到问题和威胁，想要证明自己是对的，想要被人喜欢，处处防备，什么都往内收？还是说你是以开放的心态面对世界，看到各种可能性，保持好奇心，充满激情，追求成长和目标？",
-    "text_es": "¿Estás reaccionando al mundo desde el miedo, donde solo ves problemas y amenazas, donde quieres tener la razón, quieres caer bien, te pones a la defensiva con una mentalidad cerrada, o estás respondiendo al mundo desde la apertura, las posibilidades, la curiosidad, la pasión, el crecimiento y el propósito?",
+    "text_ko": "세상에 반응할 때 두려움에서 반응하고 있어요... 아니면 열린 마음, 가능성, 호기심, 열정, 성장, 목적 같은 마음가짐으로 반응하고 있어요?",
+    "text_zh": "你对这个世界的反应，是被恐惧左右，还是以开放的心态、看到可能性、保持好奇、充满热情、追求成长、并带着使命感去回应？",
+    "text_es": "¿Respondes al mundo desde un lugar de miedo... o desde un lugar de apertura, posibilidad, curiosidad, pasión, crecimiento y propósito?",
     "key_sentence": "Responding from a place of fear limits growth; choose a place of openness instead.",
     "text_trimmed": true,
     "original_text": "Are you responding to the world from a place of fear, where you see problems and threats, you want to be right, you want to be liked, you're defensive as an inward approach, or are you responding to the world from a place of openness, possibility, curiosity, passion, growth, purpose?",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "mindset",
-        "definition": "A mindset refers to a set of beliefs or attitudes that shape how an individual perceives and responds to situations. It influences decision-making and behavior, particularly in challenging circumstances.",
-        "businessContext": "In business, a growth mindset is often emphasized as it encourages innovation, resilience, and adaptability among employees, which are crucial for success in dynamic markets.",
-        "nuance": "While 'mindset' can denote a positive or negative outlook, it is often used in a motivational context to promote proactive thinking rather than a fixed or defeatist attitude.",
-        "synonyms": [
-          "attitude",
-          "perspective"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
       {
         "word": "possibility",
         "definition": "Possibility refers to the potential for something to happen or be achieved; it embodies the idea of opportunity and potential outcomes.",
@@ -409,36 +280,10 @@
           "impossibility",
           "certainty"
         ]
-      },
-      {
-        "word": "framework",
-        "definition": "A framework is a structured approach or system that provides guidance for understanding and addressing complex issues or processes. It often includes principles, guidelines, and best practices.",
-        "businessContext": "In business and technology, frameworks are essential for project management, software development, and strategic planning, as they help teams align their efforts and ensure consistency.",
-        "nuance": "While 'framework' suggests a solid structure, it also implies flexibility, allowing for adaptation and customization based on specific needs or contexts.",
-        "synonyms": [
-          "structure",
-          "system"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
-      },
-      {
-        "word": "fundamental",
-        "definition": "Fundamental refers to something that is basic, essential, or foundational to a system or concept. It denotes the core principles that underpin more complex ideas.",
-        "businessContext": "In business strategy, understanding fundamental principles such as market demand, customer needs, and financial viability is crucial for making informed decisions and achieving long-term success.",
-        "nuance": "The term often conveys a sense of importance and necessity, suggesting that without these fundamentals, success or understanding may not be achievable.",
-        "synonyms": [
-          "essential",
-          "basic"
-        ],
-        "antonyms": [
-          "superficial",
-          "secondary"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "For me, the key to that was letting go of needing to be liked and redefining it as an admiration that takes place over time.",
@@ -446,10 +291,7 @@
     "timestamp": "00:26:35",
     "context": "Lenny asks Ken for specific advice on how to shift from the reactive 'need to be liked' mindset to a more creative leadership approach. Ken shares his personal transformation from seeking immediate approval to focusing on long-term respect and admiration. This represents his shift from reactive leadership (needing instant validation) to creative leadership (operating from purpose and long-term vision).",
     "vocabulary_highlights": [
-      "redefining",
-      "transformation",
-      "mindset",
-      "leadership"
+      "redefining"
     ],
     "topics": [
       "Leadership & Management",
@@ -462,9 +304,9 @@
       "Product Management",
       "Career Development"
     ],
-    "text_ko": "저에게 그 핵심은 '호감을 얻어야 한다'는 집착을 내려놓고, 그걸 시간이 흐르며 쌓이는 존경으로 재정의한 거예요. 그래서 '지금 이 방을 나갈 때 모두가 나를 좋아했으면 좋겠다'가 아니라, '10년 뒤에도 사람들이 \"그 사람과 주저 없이 다시 일하겠다\"고 말하는 그런 리더가 되고 싶다'는 걸 깨달았어요.",
-    "text_zh": "对我来说，关键是要放下那种\"必须被人喜欢\"的想法，把它重新定义为一种需要时间积累的敬佩。所以我不再想着\"离开这个房间时每个人都得喜欢我\"，而是开始意识到，我要做那种十年后别人会说\"我绝对愿意再和那家伙合作\"的领导者。",
-    "text_es": "Para mí, la clave estuvo en dejar de necesitar que me cayera bien a todo el mundo y redefinirlo como una admiración que se construye con el tiempo. En lugar de pensar \"quiero salir de esta reunión cayéndole bien a todos\", empecé a darme cuenta de que quería ser el tipo de líder del que, diez años después, la gente dijera: \"Con ese tipo trabajaría otra vez sin dudarlo.\"",
+    "text_ko": "저에게 그 핵심은 '좋아해 달라'는 욕구를 내려놓고, 그걸 시간이 지나면서 생기는 존경으로 재정의한 거예요.",
+    "text_zh": "对我来说，关键是别再执着于一定要被别人喜欢，而把这事看成是会随着时间慢慢累积起来的欣赏。",
+    "text_es": "Para mí, la clave fue dejar de necesitar que me acepten y verlo como una admiración que se gana con el tiempo.",
     "key_sentence": "Letting go of needing to be liked redefines leadership as admiration over time.",
     "text_trimmed": true,
     "original_text": "For me, the key to that was letting go of needing to be liked and redefining it as an admiration that takes place over time. So rather than I want to leave this room with everyone liking me, I started to realize I want to be the type of leader where, a decade later, people say, 'I would work with that guy again in a heartbeat.'",
@@ -483,50 +325,10 @@
           "maintaining",
           "preserving"
         ]
-      },
-      {
-        "word": "transformation",
-        "definition": "A thorough or dramatic change in form, appearance, or character.",
-        "businessContext": "In a business context, transformation often refers to a comprehensive overhaul of processes, culture, or technology to improve efficiency and competitiveness.",
-        "nuance": "This term carries a connotation of depth and significance, suggesting that the change is not merely superficial but fundamental.",
-        "synonyms": [
-          "metamorphosis",
-          "revolution"
-        ],
-        "antonyms": [
-          "stagnation",
-          "stasis"
-        ]
-      },
-      {
-        "word": "mindset",
-        "definition": "A set of beliefs or attitudes that shape how an individual perceives and responds to situations.",
-        "businessContext": "In business, mindset can influence leadership styles, employee engagement, and organizational culture, impacting overall performance and innovation.",
-        "nuance": "This term often implies a fixed or growth-oriented perspective, and should be used to discuss underlying attitudes rather than surface behaviors.",
-        "synonyms": [
-          "attitude",
-          "perspective"
-        ],
-        "antonyms": [
-          "indifference",
-          "apathy"
-        ]
-      },
-      {
-        "word": "leadership",
-        "definition": "The action of leading a group or organization, often characterized by the ability to inspire and guide others towards achieving goals.",
-        "businessContext": "In the business world, effective leadership is crucial for driving team performance, fostering a positive culture, and navigating challenges.",
-        "nuance": "This term can encompass various styles and approaches, and should be used to highlight the qualities that differentiate effective leaders from others.",
-        "synonyms": [
-          "guidance",
-          "direction"
-        ],
-        "antonyms": [
-          "followership",
-          "subordination"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think probably the number one category, I'm not sure it's necessarily a problem, but maybe category or problems, is how much all of the challenges that senior executives are dealing with come down to people versus product.",
@@ -535,9 +337,7 @@
     "context": "Lenny asks Ken about the most common blind spots he sees in product leaders. Ken identifies that senior product executives often underestimate how much of their role becomes about managing people rather than managing products. While early-career product managers focus on user research, optimization, and product features, senior leaders spend most of their time on persuasion, team dynamics, and organizational challenges.",
     "vocabulary_highlights": [
       "challenges",
-      "executives",
-      "underestimate",
-      "managing"
+      "executives"
     ],
     "topics": [
       "Product Management",
@@ -550,9 +350,9 @@
       "Product Management",
       "Career Development"
     ],
-    "text_ko": "제 생각엔 아마도 가장 큰 범주(문제인지 정확하진 않지만)는 고위 임원들(senior executives)이 다루는 거의 모든 과제가 제품(product)보다 사람 문제로 귀결된다는 점이에요. 제품(product)을 설계하고 최적화하고 유저 디스커버리(user discovery)나 테스트(testing)를 해보는 건 재밌지만, 막상 임원과 마주 앉아 보면 결국 다 사람 얘기예요.",
-    "text_zh": "我觉得可能最主要的一个方面吧，我不确定这算不算问题，但可能是最大的问题或者说挑战，就是高管们面临的所有难题，归根结底都是人的问题而不是产品问题。就是说，设计产品啊、做优化啊、用户调研啊、测试什么的，这些听起来都挺有意思的，但是你真的坐下来跟高管聊的时候，发现讨论的全都是人的事儿。",
-    "text_es": "Creo que probablemente la categoría número uno, no estoy seguro de que sea necesariamente un problema, pero tal vez la categoría de problemas más importante, es qué tanto todos los desafíos que enfrentan los altos ejecutivos se reducen a temas de personas versus producto. O sea, está padrísimo pensar en diseñar productos, optimizar, hacer research de usuarios y probar cosas, pero cuando te sientas con un ejecutivo, todo gira en torno a las personas.",
+    "text_ko": "제 생각엔 아마 가장 큰 카테고리(꼭 문제라고만 하긴 어렵지만)는 고위 경영진들(senior executives)이 겪는 거의 모든 과제가 결국 사람 문제냐 제품 문제냐로 귀결된다는 점인 것 같아요.",
+    "text_zh": "我觉得首要的一类——我不确定这一定能算是个“问题”，也许更像一种分类——就是高管 (senior executives) 面临的很多挑战，很多都归结到“人”还是“产品 (product)”的问题上。",
+    "text_es": "Creo que la categoría número uno —y no estoy seguro de que sea necesariamente un problema, quizá más bien una categoría de problemas— es hasta qué punto todos los retos que enfrentan los altos directivos se reducen a personas frente a producto.",
     "key_sentence": "Challenges for executives come down to people, not just product.",
     "text_trimmed": true,
     "original_text": "I think probably the number one category, I'm not sure it's necessarily a problem, but maybe category or problems, is how much all of the challenges that senior executives are dealing with come down to people versus product. So it's like it's fun to think about designing products, optimizing, doing user discovery, and testing what, but it's like you sit down with an executive and it's all about people.",
@@ -585,35 +385,9 @@
           "subordinates",
           "employees"
         ]
-      },
-      {
-        "word": "underestimate",
-        "definition": "To assess or evaluate something as being less significant or important than it actually is.",
-        "businessContext": "In a business context, underestimating can lead to poor decision-making, such as misjudging market demand or the capabilities of competitors.",
-        "nuance": "This term often carries a cautionary tone, suggesting that failing to recognize the true value or impact of something can result in negative consequences.",
-        "synonyms": [
-          "underrate",
-          "misjudge"
-        ],
-        "antonyms": [
-          "overestimate",
-          "appreciate"
-        ]
-      },
-      {
-        "word": "managing",
-        "definition": "The process of planning, organizing, leading, and controlling resources to achieve specific goals.",
-        "businessContext": "In business, managing involves overseeing teams, projects, and operations to ensure efficiency and effectiveness in achieving organizational objectives.",
-        "nuance": "While managing often implies a formal role, it can also refer to informal leadership or coordination among peers.",
-        "synonyms": [
-          "administering",
-          "supervising"
-        ],
-        "antonyms": [
-          "neglecting",
-          "abandoning"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

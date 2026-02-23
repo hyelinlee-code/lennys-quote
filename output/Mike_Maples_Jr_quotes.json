@@ -6,9 +6,7 @@
     "context": "Lenny asks Mike about the three key elements he's discovered that characterize most breakthrough startup ideas. Mike explains his framework for understanding what separates successful startups from those that fail. He emphasizes that startups can't win by playing by the same rules as established companies - they need to leverage different types of power to create unfair advantages.",
     "vocabulary_highlights": [
       "inflections",
-      "asymmetric",
-      "framework",
-      "breakthrough"
+      "asymmetric"
     ],
     "topics": [
       "Starting a Company",
@@ -53,36 +51,9 @@
           "symmetric",
           "equal"
         ]
-      },
-      {
-        "word": "framework",
-        "definition": "A framework is a structured approach or system that provides guidance and support for organizing concepts, processes, or methodologies.",
-        "businessContext": "In the business and tech sectors, frameworks are used to develop strategies, manage projects, or implement systems, ensuring consistency and clarity.",
-        "nuance": "While frameworks provide a solid foundation, they can also be perceived as restrictive if they do not allow for flexibility or innovation.",
-        "synonyms": [
-          "structure",
-          "model"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
-      },
-      {
-        "word": "breakthrough",
-        "definition": "A breakthrough is a significant and sudden advance or discovery that leads to substantial progress or change in a particular field.",
-        "businessContext": "In the startup ecosystem, breakthroughs often refer to innovative products, technologies, or business models that disrupt existing markets and create new opportunities.",
-        "nuance": "The term conveys a sense of achievement and transformation, often associated with overcoming challenges or barriers.",
-        "synonyms": [
-          "advancement",
-          "innovation"
-        ],
-        "antonyms": [
-          "setback",
-          "failure"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "The way inventions happen is people get their hands dirty, being awake to the possibility that secrets are there. If you're living in the future and you notice what's missing, your intuition about what to build is far more likely to be right.",
@@ -90,10 +61,7 @@
     "timestamp": "00:00:15",
     "context": "Lenny references Mike's concept of 'secrets' - insights that founders discover through hands-on exploration. Mike explains that breakthrough inventions don't come from theoretical thinking but from actively experimenting with new technologies and being alert to unexpected discoveries. He argues that founders who immerse themselves in emerging trends are better positioned to identify what products need to be built.",
     "vocabulary_highlights": [
-      "intuition",
-      "breakthrough",
-      "insights",
-      "hands-on exploration"
+      "intuition"
     ],
     "topics": [
       "Starting a Company",
@@ -124,50 +92,9 @@
           "reasoning",
           "analysis"
         ]
-      },
-      {
-        "word": "breakthrough",
-        "definition": "A significant and dramatic development or discovery that leads to progress or advancement.",
-        "businessContext": "In the tech industry, breakthroughs can refer to innovative technologies or processes that disrupt existing markets and create new opportunities.",
-        "nuance": "Breakthroughs often imply a sudden and impactful change, distinguishing them from incremental improvements.",
-        "synonyms": [
-          "advancement",
-          "innovation"
-        ],
-        "antonyms": [
-          "setback",
-          "failure"
-        ]
-      },
-      {
-        "word": "insights",
-        "definition": "Deep understandings or realizations about a particular subject or situation, often derived from analysis or observation.",
-        "businessContext": "In a business context, insights are crucial for strategic planning, marketing, and product development, as they inform decisions based on customer behavior and market trends.",
-        "nuance": "Insights are often seen as actionable knowledge, distinguishing them from mere data or information.",
-        "synonyms": [
-          "understanding",
-          "awareness"
-        ],
-        "antonyms": [
-          "ignorance",
-          "misunderstanding"
-        ]
-      },
-      {
-        "word": "hands-on exploration",
-        "definition": "Active engagement in practical activities to gain firsthand experience and understanding.",
-        "businessContext": "In startups, hands-on exploration is essential for product development, allowing teams to test ideas and iterate based on real-world feedback.",
-        "nuance": "This phrase emphasizes experiential learning, contrasting with theoretical or passive approaches to knowledge acquisition.",
-        "synonyms": [
-          "practical experience",
-          "active involvement"
-        ],
-        "antonyms": [
-          "theoretical study",
-          "passive observation"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "So startup never beats a big company by executing better. The way startups win is because it proposes a radically different future. Disorients the incumbent and chaotically moves people to that different future.",
@@ -261,9 +188,7 @@
     "context": "Mike shares his realization that led to writing his book about pattern breakers. After discovering he had forgotten about owning shares in Twitch (which sold for $970 million), he began analyzing his most successful investments. He found that 80% of his biggest returns came from companies that pivoted, and these successful companies often ignored conventional startup advice and best practices.",
     "vocabulary_highlights": [
       "best practices",
-      "business model",
-      "realization",
-      "analyzing"
+      "business model"
     ],
     "topics": [
       "Starting a Company",
@@ -308,36 +233,9 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "realization",
-        "definition": "Realization refers to the act of becoming fully aware of something or the process of making something real or tangible.",
-        "businessContext": "In a business context, realization often pertains to the acknowledgment of market opportunities or the successful implementation of strategies that lead to tangible results.",
-        "nuance": "The term can carry a sense of sudden insight or clarity, often associated with strategic pivots or critical business decisions.",
-        "synonyms": [
-          "recognition",
-          "actualization"
-        ],
-        "antonyms": [
-          "misunderstanding",
-          "N/A"
-        ]
-      },
-      {
-        "word": "analyzing",
-        "definition": "Analyzing is the process of examining data or information in detail to understand its components, relationships, and implications.",
-        "businessContext": "In business and technology, analyzing data is essential for making informed decisions, optimizing processes, and identifying trends.",
-        "nuance": "The term suggests a systematic approach to investigation, often implying critical thinking and the use of analytical tools or methodologies.",
-        "synonyms": [
-          "examining",
-          "evaluating"
-        ],
-        "antonyms": [
-          "ignoring",
-          "overlooking"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "But what we need to understand is there need to be these underlying forces underneath the idea to give it the power to escape the gravitational pull of the present. That's what we want.",
@@ -346,9 +244,7 @@
     "context": "Mike explains why his framework focuses on underlying forces rather than just execution. He introduces the concept that successful startups need powerful foundational elements that can overcome the natural tendency for things to stay the same. These forces give startups the energy needed to break free from existing patterns and create new markets, even if their initial product implementation isn't perfect.",
     "vocabulary_highlights": [
       "underlying forces",
-      "gravitational pull",
-      "foundational elements",
-      "overcome"
+      "gravitational pull"
     ],
     "topics": [
       "Starting a Company",
@@ -360,9 +256,9 @@
       "Venture Capital",
       "Company Building"
     ],
-    "text_ko": "핵심은, 그 아이디어가 지금의 중력(gravitational pull of the present)에서 벗어날 수 있게 해줄 밑바탕의 힘들이 있어야 한다는 거예요. 그게 우리가 원하는 거예요. 우리가 관찰할 수 있는 일련의 힘들이 있어서, 그 힘들이 그 아이디어를 추구할 만한 가치가 있게 만들고 제품을 궁극적인 목표까지 이끌어갈 만한 이유가 되어줘야 해요.",
-    "text_zh": "但是我们要明白的是，一个想法要想摆脱现状的束缚，背后必须要有一些根本性的驱动力在支撑。这就是我们想要的。我们需要一套能够观察到的力量，让这个想法值得我们去追求，值得我们把产品一步步做到最理想的状态。",
-    "text_es": "Pero lo que tenemos que entender es que tienen que haber estas fuerzas de fondo que impulsen la idea para darle el poder de escapar de la inercia del presente. Eso es lo que buscamos. Queremos un conjunto de elementos que podamos observar que hagan que valga la pena perseguirlo y que valga la pena llevar el producto hasta donde realmente queremos que llegue.",
+    "text_ko": "하지만 우리가 이해해야 할 건, 어떤 아이디어가 현재의 중력(gravitational pull of the present)에 묶이지 않고 벗어나려면 그 아이디어 밑바탕에 그런 근본적인 동력들(underlying forces)이 있어야 한다는 거예요. 그게 바로 우리가 원하는 거예요.",
+    "text_zh": "我们得弄清楚，想法背后必须有一些底层的驱动力，才能让它有足够的能量摆脱现状的引力。这就是我们想要的。",
+    "text_es": "Lo que tenemos que entender es que deben existir fuerzas subyacentes detrás de la idea para darle el impulso que le permita romper la inercia del presente. Eso es lo que queremos.",
     "key_sentence": "Ideas need underlying forces to escape the gravitational pull of the present.",
     "text_trimmed": true,
     "original_text": "But what we need to understand is there need to be these underlying forces underneath the idea to give it the power to escape the gravitational pull of the present. That's what we want. We want a set of powers that we could observe that make it worth pursuing and make it worth navigating the product to the ultimate place.",
@@ -395,36 +291,10 @@
           "repulsion",
           "distraction"
         ]
-      },
-      {
-        "word": "foundational elements",
-        "definition": "Core components or principles that serve as the basis for a system, structure, or idea.",
-        "businessContext": "In business strategy, identifying foundational elements is crucial for establishing a solid framework that supports growth and sustainability.",
-        "nuance": "This term suggests a level of importance and stability, making it appropriate for discussions about long-term planning and structural integrity.",
-        "synonyms": [
-          "core components",
-          "essential principles"
-        ],
-        "antonyms": [
-          "superficial details",
-          "non-essential factors"
-        ]
-      },
-      {
-        "word": "overcome",
-        "definition": "To successfully deal with or conquer a challenge, obstacle, or difficulty.",
-        "businessContext": "In a business setting, overcoming challenges is essential for innovation, growth, and maintaining competitive advantage in a dynamic market.",
-        "nuance": "This term carries a connotation of resilience and determination, making it suitable for motivational contexts or discussions about strategic pivots.",
-        "synonyms": [
-          "conquer",
-          "surmount"
-        ],
-        "antonyms": [
-          "succumb",
-          "yield"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Most people don't realize that the thing that's underneath us or the thing that's in our hands or the thing that's in our pocket might have a power that when unleashed could change the future.",
@@ -432,10 +302,7 @@
     "timestamp": "00:17:59",
     "context": "Mike discusses how great founders have a unique ability to recognize the potential of new technologies or capabilities that others overlook. He's explaining the concept of inflections - external events that create new possibilities for radical change. Using the wheel as an historical example, he points out that most people miss transformative opportunities that are right in front of them.",
     "vocabulary_highlights": [
-      "unleashed",
-      "potential",
-      "recognize",
-      "inflections"
+      "unleashed"
     ],
     "topics": [
       "Starting a Company",
@@ -447,9 +314,9 @@
       "Venture Capital",
       "Company Building"
     ],
-    "text_ko": "대부분 사람들은 발밑에 있거나 손에 들려 있거나 주머니에 있는 것들이 그 힘을 발휘하면 미래를 바꿀 수 있는 잠재력을 가지고 있다는 걸 잘 몰라요. 그리고 정말 훌륭한 창업자들의 특별한 점 중 하나는 우리가 미처 알아채지 못한 것들을 발견하고 알아보는 능력이 있다는 거예요.",
-    "text_zh": "大多数人都没意识到，我们身边的东西，手里拿的东西，或者兜里装的东西，可能蕴含着巨大的能量，一旦释放出来就能改变未来。而那些厉害的创始人特别之处就在于，他们能发现我们看不到的东西，能注意到我们注意不到的点。",
-    "text_es": "La mayoría de la gente no se da cuenta de que eso que tenemos debajo de nuestros pies, o en nuestras manos, o en el bolsillo, puede tener un poder que si lo liberamos, podría cambiar el futuro. Y es una de las cosas más especiales de los grandes fundadores: que logran reconocer, se fijan en cosas que nosotros ni vemos.",
+    "text_ko": "대부분 사람들은 우리 발밑에 있거나 손에 들고 있거나 주머니에 넣어 둔 것들이 제대로 힘을 발휘하면 미래를 바꿀 수도 있다는 걸 잘 몰라요.",
+    "text_zh": "很多人都没意识到，我们脚下、手里或口袋里的东西，说不定一旦被激活就能改变未来。",
+    "text_es": "La mayoría de la gente no se da cuenta de que lo que está bajo nuestros pies, lo que sostenemos en las manos o lo que llevamos en el bolsillo puede tener un poder que, si se libera, cambie el futuro.",
     "key_sentence": "Power right under our nose can change the future when unleashed.",
     "text_trimmed": true,
     "original_text": "Most people don't realize that the thing that's underneath us or the thing that's in our hands or the thing that's in our pocket might have a power that when unleashed could change the future. And it's one of the very special things about founders that are great is they recognize, they notice things that we don't know.",
@@ -468,50 +335,10 @@
           "restrained",
           "controlled"
         ]
-      },
-      {
-        "word": "potential",
-        "definition": "The inherent ability or capacity for growth, development, or future success.",
-        "businessContext": "In a business context, 'potential' is frequently used to assess market opportunities, employee capabilities, or the future performance of products and services.",
-        "nuance": "While 'potential' is generally positive, it can imply that something has not yet been realized or achieved.",
-        "synonyms": [
-          "capability",
-          "possibility"
-        ],
-        "antonyms": [
-          "limitation",
-          "inability"
-        ]
-      },
-      {
-        "word": "recognize",
-        "definition": "To identify or acknowledge something as being valid or important.",
-        "businessContext": "In the business world, 'recognize' is often used in the context of acknowledging achievements, identifying market trends, or validating customer needs.",
-        "nuance": "This term suggests a level of awareness and understanding, and is often used in formal or professional settings.",
-        "synonyms": [
-          "acknowledge",
-          "identify"
-        ],
-        "antonyms": [
-          "ignore",
-          "overlook"
-        ]
-      },
-      {
-        "word": "inflections",
-        "definition": "Variations in form or tone that indicate a change in meaning or function.",
-        "businessContext": "In business communication, 'inflections' can refer to the nuances in speech or writing that convey different meanings or emotional undertones, which are crucial for effective messaging.",
-        "nuance": "This term often relates to subtle changes that can significantly affect interpretation, making it important in negotiations and presentations.",
-        "synonyms": [
-          "variations",
-          "modulations"
-        ],
-        "antonyms": [
-          "stagnation",
-          "uniformity"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "But most of the great startups that I've seen have that attribute to them, and the reason is that a great startup, unlike a conventional company that proposes the future as an extension of the present, so that ...",
@@ -521,8 +348,7 @@
     "vocabulary_highlights": [
       "attribute",
       "conventional",
-      "extension",
-      "non-consensus"
+      "extension"
     ],
     "topics": [
       "Starting a Company",
@@ -534,9 +360,9 @@
       "Venture Capital",
       "Company Building"
     ],
-    "text_ko": "제가 본 대부분의 훌륭한 스타트업(startup)들은 그런 특징을 가지고 있어요. 그 이유는 이래요. 훌륭한 스타트업은 현재를 연장선으로 삼아 미래를 제시하는 전형적인 회사(conventional company)와 달라요. 보통 회사들은 현재에서 출발해 미래를 예측(forecast)하고 그걸 앞으로 투영하지만, 위대한 창업자들(founders) — 즉 패턴을 깨는 사람들(pattern breakers)은 '내가 크게 성공하려면 미래가 근본적으로 달라져야 한다'고 전제하고, 그런 근본적으로 다른 미래를 찾아서 거기서부터 역으로 설계(back cast/backcasting)해요.",
-    "text_zh": "但是我见过的那些很牛的创业公司，基本上都有这个特质。原因就在于，优秀的创业公司跟传统公司不一样——传统公司把未来看成是现在的延续，就是说...普通公司做预测的时候，会说\"我从现在往前看，推测未来会是什么样\"。但是那些厉害的创始人，那些打破常规的人(pattern breakers)，他们是反推的(back cast)。他们会说\"要想成为大赢家，未来肯定得跟现在完全不一样，所以我要去寻找那些颠覆性的未来，然后从那个未来往回推\"。",
-    "text_es": "Pero la mayoría de las startups exitosas que he visto tienen esa característica, y la razón es que una gran startup, a diferencia de una empresa convencional que ve el futuro como una extensión del presente... Las empresas normales hacen pronósticos, dicen \"voy a mirar hacia adelante desde el presente y proyectar cómo va a ser el futuro\". Los grandes fundadores, los que rompen patrones (pattern breakers), hacen lo contrario, dicen \"para que yo pueda triunfar en grande, el futuro tiene que ser radicalmente diferente, así que voy a buscar futuros radicalmente diferentes y trabajar hacia atrás desde esos futuros radicalmente diferentes\".",
+    "text_ko": "제가 본 훌륭한 스타트업(startup)들 대부분이 그런 특성을 가지고 있어요. 그 이유는 훌륭한 스타트업은 기존 기업들이 미래를 현재의 연장선으로 제시하는 방식과 달라서요...",
+    "text_zh": "但我见过的大多数优秀创业公司都有这个特点，原因是优秀的初创公司不像传统公司那样把未来当作现在的延续，所以...",
+    "text_es": "La mayoría de las grandes empresas emergentes (startups) que he visto comparten esa característica, y la razón es que una gran startup, a diferencia de una empresa convencional que ve el futuro como una mera continuación del presente, ...",
     "key_sentence": "a great startup, unlike a conventional company that proposes the future as an extension of the present",
     "text_trimmed": true,
     "original_text": "But most of the great startups that I've seen have that attribute to them, and the reason is that a great startup, unlike a conventional company that proposes the future as an extension of the present, so that ... Normal companies forecast, they say, I'm going to look forward from the present and forward project what the future will be. Great founders, pattern breakers back cast, they say, it's a given that the future has to be radically different for me to be a big winner, and so, I'm going to look for radically different futures and work backwards from those radically different futures.",
@@ -583,21 +409,9 @@
           "reduction",
           "contraction"
         ]
-      },
-      {
-        "word": "non-consensus",
-        "definition": "A situation where there is a lack of agreement or uniformity among a group regarding a particular issue or decision.",
-        "businessContext": "In startup environments, 'non-consensus' can indicate differing opinions among team members or stakeholders, which may lead to challenges in decision-making and strategic direction.",
-        "nuance": "While 'non-consensus' can highlight diversity of thought, it may also suggest potential conflict or indecision, which can hinder progress if not managed effectively.",
-        "synonyms": [
-          "disagreement",
-          "divergence"
-        ],
-        "antonyms": [
-          "consensus",
-          "agreement"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

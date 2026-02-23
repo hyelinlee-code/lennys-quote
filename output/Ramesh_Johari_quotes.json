@@ -20,9 +20,9 @@
       "Marketplace",
       "Data Analytics"
     ],
-    "text_ko": "그래서 저희는 시장 반대편에 있는 더 경험 많은 분들로 진짜로 연결해 줄 맞춤형 기능(custom bespoke features)을 몇 가지 만들기로 했어요. 그리고 얼마 지나지 않아 지표(metrics)가 좋아지기 시작했죠. 그런데 살펴보니, 잠깐만요, 반대편에 있던 기존 사용자들의 경험은 오히려 나빠지고 있더라고요. 그래서 저희가 이랬다저랬다 하게 된 거예요.",
-    "text_zh": "所以我们就决定搞一些定制化的功能，专门把他们导向到市场另一边那些更有经验的人那里去。效果不错。然后你猜怎么着，很快那些指标数据就开始好看起来了。但是我们一看，就发现\"等等，现在市场另一边那些老用户的体验反而变差了\"，这样一来就像坐过山车一样，左摇右摆的。",
-    "text_es": "Entonces lo que decidimos hacer fue crear algunas funciones personalizadas a medida que realmente iban a dirigirlos hacia gente más experimentada del otro lado del mercado. Perfecto. Y luego, sí, como era de esperarse, muy pronto esas métricas empezaron a verse mejor. Pero después estamos viendo todo esto y pensamos, \"Un momento. Ahora los usuarios que ya estaban del otro lado están teniendo una experiencia peor,\" entonces como que te das cuenta de que estás dando bandazos de un lado para otro.",
+    "text_ko": "그래서 저희는 시장 반대편에 있는 더 경험 많은 분들로 자연스럽게 연결해 줄 맞춤형 기능(custom bespoke features)을 몇 가지 만들기로 했어요. 좋았어요. 그리고, 네, 신기하게도 얼마 지나지 않아 그 지표(metrics)들이 좋아지기 시작했어요.",
+    "text_zh": "所以我们决定做一些定制化功能(custom bespoke features)，把他们更直接引导到市场那头更有经验的人那里。结果，没过多久那些指标就开始好转了。",
+    "text_es": "Lo que decidimos fue desarrollar algunas funcionalidades a medida para dirigirlos hacia profesionales más experimentados en el otro lado del mercado. Bien. Y, para sorpresa nuestra, en poco tiempo esas métricas (metrics) empezaron a mejorar.",
     "key_sentence": "build some custom bespoke features that were really going to direct them to more experienced folks on the other side of the market.",
     "text_trimmed": true,
     "original_text": "So what we decided to do is build some custom bespoke features that were really going to direct them to more experienced folks on the other side of the market. Good. And then, yeah, lo and behold, pretty soon those metrics start to look better. But then we're looking at it, we're like, \"Wait a second. Now the existing folks on the other side are having a worse experience,\" so you kind of whiplash around.",
@@ -84,7 +84,8 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "The most important one is this. What I've found talking to people who want to start what they think is a marketplace is that they think too much about a marketplace before they're a marketplace. That in my view is the biggest failure mode.",
@@ -93,9 +94,7 @@
     "context": "Lenny asks Ramesh about common flaws when founders try to start marketplace businesses, noting that certain types like cleaners or car wash marketplaces often fail. Ramesh explains that the biggest mistake founders make is focusing too early on marketplace dynamics before they have the scale and liquidity to actually function as a marketplace. He believes founders should first solve immediate problems and build one side of the market before worrying about marketplace mechanics.",
     "vocabulary_highlights": [
       "failure mode",
-      "founders",
-      "marketplace",
-      "context"
+      "marketplace"
     ],
     "topics": [
       "Starting a Company",
@@ -128,20 +127,6 @@
         ]
       },
       {
-        "word": "founders",
-        "definition": "Individuals who establish a new business or organization, often taking on significant risk and responsibility for its success.",
-        "businessContext": "In startup culture, founders are typically seen as visionaries who drive innovation and are pivotal in shaping the company's direction and culture.",
-        "nuance": "The term implies a sense of ownership and commitment, and is often used in contexts that highlight entrepreneurial spirit and leadership.",
-        "synonyms": [
-          "entrepreneurs",
-          "creators"
-        ],
-        "antonyms": [
-          "employees",
-          "N/A"
-        ]
-      },
-      {
         "word": "marketplace",
         "definition": "A platform or environment where buyers and sellers can engage in the exchange of goods or services.",
         "businessContext": "In the tech industry, a marketplace can refer to digital platforms that facilitate transactions, such as e-commerce websites or app stores.",
@@ -154,22 +139,9 @@
           "monopoly",
           "N/A"
         ]
-      },
-      {
-        "word": "context",
-        "definition": "The circumstances or factors surrounding a particular event, situation, or concept that help to clarify its meaning.",
-        "businessContext": "In business discussions, context is essential for understanding market conditions, customer needs, and the implications of strategic decisions.",
-        "nuance": "The term suggests that meaning can change based on surrounding factors, making it important to consider in analytical discussions.",
-        "synonyms": [
-          "background",
-          "framework"
-        ],
-        "antonyms": [
-          "isolation",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "So in their example, as they evolved, they actually shifted their monetization model away from billing specifically for this friction of allowing you to pay with credit cards, instead to now billing for how you were interviewing and contacting sitters.",
@@ -192,9 +164,9 @@
       "Marketplace",
       "Data Analytics"
     ],
-    "text_ko": "그들의 사례에서는 서비스가 진화하면서 수익화 모델(monetization model)을 바꿨어요. 원래는 신용카드로 결제하게 해 주는 데서 생기는 마찰(friction)에 대해 따로 과금했는데, 나중에는 시터와 인터뷰하고 연락하는 방식 자체에 대해 과금하는 쪽으로 전환했어요. 그걸 위해 두 가지 계획을 세웠는데, 하나는 사용한 만큼 지불(pay-as-you-go)하는 메뉴이고, 다른 하나는 구독(subscription)형 옵션이었어요.",
-    "text_zh": "拿他们的例子来说，随着业务发展，他们其实调整了变现模式(monetization model)，不再专门针对信用卡支付这个痛点收费，而是改为按你面试和联系保姆的次数来收费。他们搞了个两套方案：一个是按次付费的套餐，另一个是订阅制(subscription)的选择。",
-    "text_es": "Entonces en su ejemplo, conforme fueron evolucionando, en realidad cambiaron su modelo de monetización y dejaron de cobrar específicamente por esa fricción de permitirte pagar con tarjetas de crédito, para ahora cobrar por cómo entrevistabas y contactabas a las niñeras. Tenían un plan de dos partes para eso: uno con un menú de pago por uso (pay as you go), y otro más tipo suscripción.",
+    "text_ko": "그래서 그들의 예에서는 서비스가 진화하면서, 신용카드로 결제하게 해주는 데 따른 '마찰'(friction)에 대해 따로 과금(billing)하던 수익 모델(monetization model)에서 벗어나, 대신 돌보미들과 어떻게 인터뷰하고 연락하는지에 대해 과금하는 쪽으로 바꿨어요.",
+    "text_zh": "所以在他们的例子里，随着业务演进，他们其实把变现方式（monetization model）从以前专门为让用户用信用卡付费这种“摩擦”收费，改成按你怎么去面试和联系保姆（sitter）来收费。",
+    "text_es": "En su ejemplo, a medida que fueron evolucionando, cambiaron su modelo de monetización (monetization model): dejaron de cobrar específicamente por la fricción que suponía permitir pagar con tarjeta de crédito y empezaron a cobrar por cómo entrevistabas y contactabas a las niñeras.",
     "key_sentence": "they actually shifted their monetization model away from billing specifically for this friction of allowing you to pay with credit cards",
     "text_trimmed": true,
     "original_text": "So in their example, as they evolved, they actually shifted their monetization model away from billing specifically for this friction of allowing you to pay with credit cards, instead to now billing for how you were interviewing and contacting sitters. They had a two-part plan for that. One with a pay as you go menu, one with a more of a subscription option.",
@@ -256,7 +228,8 @@
           "neglecting"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "So when you start, you had better be thinking, \"What's my value proposition in a world in which I don't have that scaled liquidity on both sides?\" And that's bespoke. It means different things.",
@@ -266,8 +239,7 @@
     "vocabulary_highlights": [
       "value proposition",
       "scaled liquidity",
-      "bespoke",
-      "marketplace"
+      "bespoke"
     ],
     "topics": [
       "Starting a Company",
@@ -326,22 +298,9 @@
           "standardized",
           "mass-produced"
         ]
-      },
-      {
-        "word": "marketplace",
-        "definition": "A marketplace is a platform or environment where buyers and sellers can interact to exchange goods, services, or information.",
-        "businessContext": "In the context of e-commerce and technology, online marketplaces have revolutionized how businesses reach customers and how consumers access a variety of products and services.",
-        "nuance": "The term can refer to both physical and digital spaces, and is often used to emphasize the diversity of offerings and the competitive dynamics within that space.",
-        "synonyms": [
-          "platform",
-          "exchange"
-        ],
-        "antonyms": [
-          "monopoly",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "So one thing you said was, \"That's what you tell marketplace founders.\" I mean, something I've actually pressed hard on in my own way of thinking about this is that maybe we shouldn't talk about the concept of a marketplace founder. Really there's founders.",
@@ -350,9 +309,7 @@
     "context": "Lenny mentions that he gives similar advice to marketplace founders about focusing on non-marketplace specific problems. Ramesh pushes back on the very concept of labeling someone as a \"marketplace founder.\" He believes that in today's digital economy, virtually any business could become a platform or marketplace as it scales, so founders shouldn't limit themselves by thinking of themselves specifically as marketplace builders from the start.",
     "vocabulary_highlights": [
       "concept",
-      "founder",
-      "press hard on",
-      "labeling"
+      "founder"
     ],
     "topics": [
       "Starting a Company",
@@ -397,36 +354,9 @@
           "employee",
           "follower"
         ]
-      },
-      {
-        "word": "press hard on",
-        "definition": "To insist strongly or exert significant pressure on a particular issue or topic.",
-        "businessContext": "In business discussions, to 'press hard on' a point indicates a determination to explore, challenge, or emphasize a specific aspect of strategy or operations.",
-        "nuance": "This phrase suggests a proactive and assertive approach, often used in negotiations or when advocating for a particular idea.",
-        "synonyms": [
-          "emphasize",
-          "insist on"
-        ],
-        "antonyms": [
-          "ignore",
-          "downplay"
-        ]
-      },
-      {
-        "word": "labeling",
-        "definition": "The act of assigning a name or category to something, often to clarify its identity or purpose.",
-        "businessContext": "In marketing and product development, labeling is crucial for defining target audiences and positioning products in the marketplace.",
-        "nuance": "While labeling can provide clarity, it may also carry connotations of oversimplification or stereotyping, so it should be used thoughtfully.",
-        "synonyms": [
-          "categorization",
-          "classification"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "That meant that the longer that goes on, the less value the platform is adding into that relationship, but you're still pulling 10% of all the dollars. So what does that lead to?",
@@ -436,8 +366,7 @@
     "vocabulary_highlights": [
       "value",
       "relationship",
-      "platform",
-      "model"
+      "platform"
     ],
     "topics": [
       "Strategy & Planning",
@@ -449,9 +378,9 @@
       "Marketplace",
       "Data Analytics"
     ],
-    "text_ko": "그 말은 시간이 갈수록 플랫폼이 그 관계에 더해주는 가치가 줄어드는데도 여전히 전체 거래액의 10%를 가져간다는 뜻이에요. 그럼 그게 뭐로 이어질까요? 대부분의 마켓플레이스 CEO들이 잘 아는 탈중개(disintermediation) 현상이 생기는데, 원래 두 당사자 사이에서 중개하던 플랫폼을 당사자들이 직접 만나서 거래하면서 “이제 너 필요 없어요”라고 하는 상황이에요.",
-    "text_zh": "这就意味着，时间越长，平台在这种关系中创造的价值就越少，但你还是要抽取所有交易金额的10%。那这会导致什么呢？有一个词，大部分平台CEO都很熟悉，叫做去中介化(disintermediation)，就是说你本来是在两方之间做中介的，现在去中介化就是他们基本上会说：\"嘿，我们不再需要你了。\"",
-    "text_es": "Eso significaba que mientras más tiempo pasara, menos valor agregaba la plataforma a esa relación, pero seguías cobrando el 10% de todo el dinero. Entonces, ¿a qué lleva esto? A una palabra que la mayoría de los CEOs de marketplaces conocen muy bien: desintermediación (disintermediation). O sea, antes tú hacías de intermediario entre las dos partes, pero con la desintermediación básicamente te dicen: \"Oye, ya no te necesitamos.\"",
+    "text_ko": "그게 오래 갈수록 플랫폼(platform)이 그 관계에 주는 가치가 줄어드는데도, 여전히 전체 거래액의 10%를 떼어가요. 그러면 결국 어떻게 되겠어요?",
+    "text_zh": "这意味着，拖得越久，平台(platform)为这段关系创造的价值就越少，但你还在抽走全部交易额的10%。那会导致什么？",
+    "text_es": "Eso quiere decir que cuanto más tiempo pase, menos valor aporta la plataforma a esa relación, pero tú sigues cobrando el 10% de los ingresos. ¿Y eso a qué conduce?",
     "key_sentence": "the longer that goes on, the less value the platform is adding into that relationship",
     "text_trimmed": true,
     "original_text": "That meant that the longer that goes on, the less value the platform is adding into that relationship, but you're still pulling 10% of all the dollars. So what does that lead to? A word that most marketplace CEOs know well is disintermediation, which is where you were intermediating between the two parties, and now disintermediation means that essentially they're like, \"Hey, we don't need you anymore.\"",
@@ -498,22 +427,10 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "model",
-        "definition": "A simplified representation or framework used to understand, analyze, or predict the behavior of a system or process.",
-        "businessContext": "In business, models can refer to business models that outline how a company creates, delivers, and captures value, or financial models used for forecasting and analysis.",
-        "nuance": "The term suggests a level of abstraction and can indicate theoretical versus practical applications, depending on the context.",
-        "synonyms": [
-          "framework",
-          "schema"
-        ],
-        "antonyms": [
-          "reality",
-          "actuality"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "You have to recognize when you run marketplaces that many of the changes that are most consequential create winners and losers.",
@@ -523,8 +440,7 @@
     "vocabulary_highlights": [
       "consequential",
       "marketplaces",
-      "winners and losers",
-      "management"
+      "winners and losers"
     ],
     "topics": [
       "Strategy & Planning",
@@ -536,9 +452,9 @@
       "Marketplace",
       "Data Analytics"
     ],
-    "text_ko": "마켓플레이스(marketplaces)를 운영할 때는, 가장 큰 영향을 미치는 변화들이 종종 승자(winners)와 패자(losers)를 만들어낸다는 걸 알아야 해요. 그리고 그런 변화에 유연하게 대응하는 건, 그 과정에서 생긴 승자들이 만든 패자들보다 당신의 비즈니스에 더 중요한지 판단하는 일이에요.",
-    "text_zh": "做平台生意你得明白，很多重大变化都会造成有人得利有人受损。能不能适应这些变化，关键看你创造出来的受益方对你生意的重要性，是不是比那些在过程中利益受损的一方更重要。",
-    "text_es": "Cuando manejas marketplaces tienes que darte cuenta de que muchos de los cambios más importantes van a crear ganadores y perdedores. Y adaptarte a esos cambios se trata de reconocer si los ganadores que has creado son más importantes para tu negocio que los perdedores que generaste en el proceso.",
+    "text_ko": "마켓플레이스(marketplaces)를 운영할 때는 가장 중대한 변화들이 종종 누군가에게는 득이 되고 다른 사람에게는 손해가 된다는 걸 인정해야 해요.",
+    "text_zh": "做平台(marketplaces)的时候，你得意识到，很多最关键的变化会分出赢家和输家。",
+    "text_es": "Si gestionas plataformas (marketplaces), debes tener claro que muchos de los cambios más decisivos crean ganadores y perdedores.",
     "key_sentence": "many of the changes that are most consequential create winners and losers.",
     "text_trimmed": true,
     "original_text": "You have to recognize when you run marketplaces that many of the changes that are most consequential create winners and losers. And rolling with those changes is about recognizing whether the winners you've created are more important to your business than the losers you've created in the process.",
@@ -585,21 +501,9 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "management",
-        "definition": "The process of planning, organizing, leading, and controlling resources to achieve specific goals.",
-        "businessContext": "In business settings, 'management' encompasses various functions, including strategic planning, resource allocation, and team leadership, crucial for organizational success.",
-        "nuance": "While it generally refers to overseeing operations, 'management' can also imply a hierarchical structure and the authority to make decisions.",
-        "synonyms": [
-          "administration",
-          "leadership"
-        ],
-        "antonyms": [
-          "mismanagement",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

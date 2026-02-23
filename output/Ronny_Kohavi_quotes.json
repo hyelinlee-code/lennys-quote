@@ -4,12 +4,7 @@
     "speaker": "Ronny Kohavi",
     "timestamp": "00:00:00",
     "context": "Lenny asks whether you can be too experiment-driven, mentioning concerns that experimentation leads only to micro-optimizations and prevents big innovations. Ronny responds by advocating for testing everything through experiments, explaining that even seemingly minor changes like small bug fixes can have unexpected impacts on user behavior and business metrics.",
-    "vocabulary_highlights": [
-      "experiment-driven",
-      "micro-optimizations",
-      "innovations",
-      "advocating"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Strategy & Planning"
@@ -20,71 +15,16 @@
       "Growth Strategy",
       "Data Analytics"
     ],
-    "text_ko": "저는 '모든 것을 테스트하기(test everything)' 방식을 아주 강하게 지지해요. 즉, 코드 변경이나 새로 도입하는 기능은 모두 어떤 형태로든 실험(experiment)을 통해 검증돼야 해요. 다시 말하지만, 제가 경험해 보니 작은 버그 수정이나 사소한 변경조차 때로는 예상치 못한 영향을 줄 수 있더라고요.",
-    "text_zh": "我的态度很明确，我是\"全面测试\"的忠实拥护者，也就是说你做的任何代码修改、引入的任何功能都必须放到实验(experiment)里去验证。因为我发现了一个很意外的现象，就是哪怕是修个小bug、做个小改动，有时候都会产生让人意想不到的影响。",
-    "text_es": "Tengo muy claro que soy súper fan de testear todo, o sea, cualquier cambio de código que hagas, cualquier funcionalidad nueva que introduzcas tiene que estar en algún experimento. Porque otra vez, he visto este resultado medio sorprendente de que hasta las correcciones de bugs más pequeñas, hasta los cambios más mínimos a veces pueden tener un impacto sorprendente e inesperado.",
+    "text_ko": "저는 'test everything'(모든 것 테스트) 철학의 열렬한 신봉자라는 걸 분명히 말하고 싶어요. 어떤 코드 변경이든, 어떤 기능을 도입하든 반드시 실험(experiment) 안에서 검증해야 해요.",
+    "text_zh": "我很清楚自己非常支持“全部测试”（test everything）的做法：你做的任何代码改动、上线的任何新功能，都要以某个实验（experiment）来验证。",
+    "text_es": "Quiero dejar claro que soy un gran defensor de \"test everything\" (test everything): cualquier cambio de código (code change) que hagas o cualquier funcionalidad (feature) que introduzcas tiene que estar dentro de algún experimento (experiment).",
     "key_sentence": "any code change that you make, any feature that you introduce has to be in some experiment.",
     "text_trimmed": true,
     "original_text": "I'm very clear that I'm a big fan of test everything, which is any code change that you make, any feature that you introduce has to be in some experiment. Because again, I've observed this sort of surprising result that even small bug fixes, even small changes can sometimes have surprising, unexpected impact.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "experiment-driven",
-        "definition": "Referring to a methodology that prioritizes testing and experimentation to inform decisions and improvements.",
-        "businessContext": "In business and tech environments, being experiment-driven means making data-backed decisions based on the results of A/B testing or other experimental approaches to enhance products or services.",
-        "nuance": "This term often implies a culture of continuous improvement and adaptability, which is crucial in fast-paced industries.",
-        "synonyms": [
-          "test-oriented",
-          "data-driven"
-        ],
-        "antonyms": [
-          "intuition-based",
-          "assumption-driven"
-        ]
-      },
-      {
-        "word": "micro-optimizations",
-        "definition": "Small, incremental improvements made to a process, product, or system that enhance efficiency or performance.",
-        "businessContext": "In startups and tech companies, micro-optimizations can lead to significant gains over time, particularly in user experience and operational efficiency.",
-        "nuance": "While beneficial, focusing too much on micro-optimizations can detract from larger strategic goals or innovations.",
-        "synonyms": [
-          "incremental improvements",
-          "fine-tuning"
-        ],
-        "antonyms": [
-          "macro-changes",
-          "overhauls"
-        ]
-      },
-      {
-        "word": "innovations",
-        "definition": "New ideas, methods, or products that significantly improve or transform existing practices or technologies.",
-        "businessContext": "In the business world, innovations are crucial for maintaining competitive advantage and meeting evolving customer needs.",
-        "nuance": "The term often carries a positive connotation, suggesting creativity and forward-thinking, but can also imply risk and uncertainty.",
-        "synonyms": [
-          "breakthroughs",
-          "advancements"
-        ],
-        "antonyms": [
-          "stagnation",
-          "conformity"
-        ]
-      },
-      {
-        "word": "advocating",
-        "definition": "The act of publicly supporting or recommending a particular cause, policy, or idea.",
-        "businessContext": "In a corporate setting, advocating can involve promoting a product, service, or company values to stakeholders, customers, or the public.",
-        "nuance": "This term suggests a proactive stance and can imply a level of passion or commitment to the cause being supported.",
-        "synonyms": [
-          "championing",
-          "promoting"
-        ],
-        "antonyms": [
-          "opposing",
-          "disavowing"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "You have to allocate sometimes to these high risk, high reward ideas. We're going to try something that's most likely to fail. But if it does win, it's going to be a home run.",
@@ -93,9 +33,7 @@
     "context": "Continuing his response about experimentation strategy, Ronny explains that teams need a portfolio approach to experiments. While some experiments should focus on incremental improvements with higher success rates, teams must also dedicate resources to ambitious, risky ideas that have low probability of success but could deliver breakthrough results if they work.",
     "vocabulary_highlights": [
       "allocate",
-      "high risk, high reward",
-      "portfolio approach",
-      "incremental improvements"
+      "high risk, high reward"
     ],
     "topics": [
       "Product Management",
@@ -108,9 +46,9 @@
       "Growth Strategy",
       "Data Analytics"
     ],
-    "text_ko": "가끔은 하이 리스크 하이 리턴(high risk, high reward)인 아이디어에 자원을 배분해야 해요. 실패할 가능성이 가장 높은 걸 시도해 보려고 해요. 하지만 성공하면 홈런(home run)이 될 거예요. 그리고 대부분은 실패할 거라는 걸 이해하고 받아들일 준비가 돼 있어야 해요.",
-    "text_zh": "有时候你得在这些高风险高回报的想法上投点钱。我们要尝试一些很可能失败的东西，但如果成功了，那就是全垒打(home run)。你必须做好心理准备，接受大部分都会失败这个现实。",
-    "text_es": "A veces tienes que apostar por esas ideas de alto riesgo y alta recompensa. Vamos a intentar algo que probablemente va a fracasar. Pero si funciona, va a ser un pelotazo. Y tienes que estar preparado para entender y aceptar que la mayoría van a fallar.",
+    "text_ko": "때때로 고위험·고보상(high risk, high reward) 아이디어에 자원을 할당해야 해요. 이번엔 성공 가능성이 낮은 시도를 해볼 거예요. 그런데 만약 성공하면 큰 성과, 즉 홈런(home run)이 될 거예요.",
+    "text_zh": "有时候得把资源投到那些高风险高回报的点子上。我们要试一个很可能会翻车的做法，但要是成功了，那就是一记全垒打。",
+    "text_es": "A veces hay que destinar recursos a ideas de alto riesgo y alta recompensa (high risk, high reward). Vamos a probar algo que probablemente fracase. Pero si sale bien, será un éxito rotundo (home run).",
     "key_sentence": "Allocate to high risk, high reward ideas for potential home runs.",
     "text_trimmed": true,
     "original_text": "You have to allocate sometimes to these high risk, high reward ideas. We're going to try something that's most likely to fail. But if it does win, it's going to be a home run. And you have to be ready to understand and agree that most will fail.",
@@ -143,36 +81,10 @@
           "low risk, low reward",
           "safe investment"
         ]
-      },
-      {
-        "word": "portfolio approach",
-        "definition": "A strategy that involves managing a collection of investments or projects to diversify risk and optimize returns.",
-        "businessContext": "In finance and project management, a portfolio approach allows organizations to balance high-risk and low-risk investments, ensuring stability and growth across various sectors.",
-        "nuance": "This approach emphasizes the importance of diversification and can be used to mitigate risks associated with individual investments or projects.",
-        "synonyms": [
-          "diversified strategy",
-          "investment mix"
-        ],
-        "antonyms": [
-          "concentrated investment",
-          "single investment"
-        ]
-      },
-      {
-        "word": "incremental improvements",
-        "definition": "Small, gradual enhancements made to a product, process, or service over time.",
-        "businessContext": "In business and technology, incremental improvements are often part of continuous improvement strategies, focusing on refining existing offerings rather than making radical changes.",
-        "nuance": "This term suggests a methodical and patient approach to innovation, which may be preferred in stable industries where drastic changes could disrupt operations.",
-        "synonyms": [
-          "gradual enhancements",
-          "step-by-step improvements"
-        ],
-        "antonyms": [
-          "radical changes",
-          "disruptive innovation"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "And it's amazing how many times I've seen people come up with new designs or a radical new idea. And they believe in it, and that's okay.",
@@ -180,10 +92,7 @@
     "timestamp": "00:00:38",
     "context": "Ronny continues discussing the balance between incremental and revolutionary experiments. He acknowledges that it's natural for people to believe strongly in their big ideas, but emphasizes the importance of setting realistic expectations about failure rates, especially for ambitious experiments that attempt major changes to user experiences.",
     "vocabulary_highlights": [
-      "incremental",
-      "revolutionary",
-      "believe in",
-      "emphasize"
+      "believe in"
     ],
     "topics": [
       "Product Management",
@@ -196,42 +105,14 @@
       "Growth Strategy",
       "Data Analytics"
     ],
-    "text_ko": "사람들이 새로운 디자인이나 파격적인 아이디어를 떠올리는 걸 얼마나 자주 보는지 정말 놀라워요. 그리고 그걸 믿는 것도 괜찮아요. 다만 저는 항상 이렇게 얘기해요: \"큰 도전을 하려면 시도는 해보되, 80%는 실패할 준비를 하세요.\"",
-    "text_zh": "我见过太多人想出新设计或者很颠覆性的想法，他们特别相信自己的点子，这没问题。但我总是提醒他们：如果你想搞个大的，可以试试看，但要做好失败的准备——十有八九都会失败的。",
-    "text_es": "Y es increíble cuántas veces he visto a gente que se le ocurren diseños nuevos o una idea súper innovadora. Y se la creen a muerte, y está bien. Pero siempre les estoy advirtiendo: 'Si van a por algo grande, pruébenlo, pero prepárense para fallar el 80% de las veces.'",
+    "text_ko": "정말 놀라운 건 사람들이 새로운 디자인이나 파격적인 아이디어를 내는 걸 제가 생각보다 자주 본다는 거예요. 그리고 그들이 그걸 믿는다고 해도 괜찮아요.",
+    "text_zh": "我见过很多次有人想出新的设计或激进的新点子，他们相信自己的想法，这没问题。",
+    "text_es": "Me sorprende cuántas veces veo a personas que proponen diseños nuevos o ideas radicales. Creen en ellas, y eso está bien.",
     "key_sentence": "And they believe in it, and that's okay.",
     "text_trimmed": true,
     "original_text": "And it's amazing how many times I've seen people come up with new designs or a radical new idea. And they believe in it, and that's okay. I'm just cautioning them all the time to say, 'If you go for something big, try it out, but be ready to fail 80% of the time.'",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "incremental",
-        "definition": "Referring to a gradual or small-scale change or improvement, often in a step-by-step manner.",
-        "businessContext": "In business and technology, incremental changes are often preferred for product development, allowing for manageable risk and continuous improvement over time.",
-        "nuance": "While 'incremental' suggests a cautious approach, it may imply a lack of ambition compared to more radical changes.",
-        "synonyms": [
-          "gradual",
-          "progressive"
-        ],
-        "antonyms": [
-          "radical",
-          "revolutionary"
-        ]
-      },
-      {
-        "word": "revolutionary",
-        "definition": "Describing a significant and transformative change that fundamentally alters the existing state of affairs.",
-        "businessContext": "In the startup ecosystem, revolutionary ideas can disrupt markets and create entirely new industries, often attracting significant investment and attention.",
-        "nuance": "The term 'revolutionary' carries a strong connotation of innovation and boldness, often implying a break from tradition.",
-        "synonyms": [
-          "transformative",
-          "groundbreaking"
-        ],
-        "antonyms": [
-          "incremental",
-          "conservative"
-        ]
-      },
       {
         "word": "believe in",
         "definition": "To have confidence in the truth, existence, or reliability of something or someone.",
@@ -245,22 +126,10 @@
           "doubt",
           "disbelieve"
         ]
-      },
-      {
-        "word": "emphasize",
-        "definition": "To give special importance or prominence to something in speaking or writing.",
-        "businessContext": "In presentations and reports, emphasizing key points can help stakeholders understand priorities and make informed decisions.",
-        "nuance": "While 'emphasize' suggests highlighting important aspects, overuse can lead to dilution of the message's impact.",
-        "synonyms": [
-          "highlight",
-          "stress"
-        ],
-        "antonyms": [
-          "downplay",
-          "minimize"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Of these experiments, 92% failed to improve the metric that we were trying to move. So only 8% of our ideas actually were successful at moving the key metrics.",
@@ -353,9 +222,7 @@
     "timestamp": "00:17:01",
     "context": "Lenny suggests using AI to create product roadmaps from experiment patterns, which leads Ronny to discuss the importance of institutional memory in experimentation. He explains that many companies fail to capture and share learnings from their experiments, missing opportunities to build organizational knowledge that could inform future decisions and prevent repeating mistakes.",
     "vocabulary_highlights": [
-      "experimentation",
       "summarize",
-      "institutional memory",
       "learnings"
     ],
     "topics": [
@@ -368,28 +235,14 @@
       "Growth Strategy",
       "Data Analytics"
     ],
-    "text_ko": "제가 보기엔 어떤 회사들이 하는 실수 중 하나가 실험은 많이 해두고 정작 배운 점을 되돌아보거나 정리하지 않는 거예요. 그래서 저는 제도화된 학습(institutional learning)에 많은 공을 들였고, 가장 놀라웠던 실험들을 모아 분기별 회의(quarterly meeting)를 여는 일을 실제로 하고 있어요.",
-    "text_zh": "我觉得有些公司犯的一个错误就是，做了一大堆实验但从来不回头总结学到了什么。所以我其实在制度化学习这块下了很大功夫，每个季度都开会专门讲那些最让人意外的实验结果。",
-    "text_es": "Creo que uno de los errores que cometen algunas empresas es que lanzan un montón de experimentos y nunca regresan a hacer un resumen de lo que aprendieron. Así que yo le he puesto mucho empeño a esta idea del aprendizaje institucional, de hacer esa junta trimestral de los experimentos más sorprendentes.",
+    "text_ko": "제 생각에는 어떤 회사들이 실수로 많이 하는 것 중 하나가 실험(experiments)을 잔뜩 해 놓고 그 배운 점(learnings)을 돌아와서 정리하지 않는 거예요.",
+    "text_zh": "我觉得有些公司常犯的一个错误，就是做了很多实验（experiments），却不回头总结学到的东西（learnings）。",
+    "text_es": "Creo que uno de los errores que cometen algunas empresas es lanzar muchos experimentos y luego no volver para resumir lo aprendido (learnings).",
     "key_sentence": "they launch a lot of experiments and never go back and summarize the learnings.",
     "text_trimmed": true,
     "original_text": "I think one of the mistakes that some company makes is they launch a lot of experiments and never go back and summarize the learnings. So I've actually put a lot of effort in this idea of institutional learning, of doing the quarterly meeting of the most surprising experiments.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "experimentation",
-        "definition": "The process of conducting tests or trials to discover or validate new ideas, products, or processes.",
-        "businessContext": "In business and technology, experimentation is often used to test hypotheses about customer behavior or product features, allowing companies to make data-driven decisions.",
-        "nuance": "While experimentation implies a systematic approach to testing, it can also suggest a degree of uncertainty or risk, making it important to communicate clearly about the objectives and expected outcomes.",
-        "synonyms": [
-          "testing",
-          "trial"
-        ],
-        "antonyms": [
-          "certainty",
-          "stagnation"
-        ]
-      },
       {
         "word": "summarize",
         "definition": "To condense and present the main points or findings of a larger body of information in a concise manner.",
@@ -402,20 +255,6 @@
         "antonyms": [
           "expand",
           "elaborate"
-        ]
-      },
-      {
-        "word": "institutional memory",
-        "definition": "The collective knowledge and experiences retained within an organization, often passed down through employees and documented processes.",
-        "businessContext": "Institutional memory is vital for maintaining continuity and efficiency in business operations, as it helps new employees learn from past successes and failures.",
-        "nuance": "While institutional memory can enhance organizational learning, it may also lead to resistance to change if outdated practices are overly relied upon.",
-        "synonyms": [
-          "organizational knowledge",
-          "corporate memory"
-        ],
-        "antonyms": [
-          "forgetfulness",
-          "amnesia"
         ]
       },
       {
@@ -432,7 +271,9 @@
           "misunderstandings"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Document it. We had a large deck internally of these successes and failures, and we encourage people to look at them. The other thing that's very beneficial is just to have your whole history of experiments and do some ability to search by keywords.",
@@ -440,9 +281,7 @@
     "timestamp": "00:19:23",
     "context": "Lenny asks for practical advice on how teams can remember surprising experiment results when people leave the company years later. Ronny recommends systematic documentation and searchable experiment histories, noting that at Microsoft they were running 20-25,000 experiments per year, making searchability crucial for finding relevant past learnings before launching new experiments.",
     "vocabulary_highlights": [
-      "systematic",
       "document",
-      "searchable",
       "experiments"
     ],
     "topics": [
@@ -462,20 +301,6 @@
     "vocab_reparsed": true,
     "vocabulary": [
       {
-        "word": "systematic",
-        "definition": "Characterized by methodical planning and organization; following a structured approach to achieve a specific goal.",
-        "businessContext": "In business and tech environments, a systematic approach is crucial for project management, ensuring that processes are efficient and outcomes are measurable.",
-        "nuance": "While 'systematic' implies thoroughness, it can also suggest rigidity; it's important to balance structure with flexibility in dynamic settings.",
-        "synonyms": [
-          "methodical",
-          "organized"
-        ],
-        "antonyms": [
-          "chaotic",
-          "random"
-        ]
-      },
-      {
         "word": "document",
         "definition": "A written or electronic record that provides information or evidence regarding a particular subject or activity.",
         "businessContext": "In business, documentation is essential for maintaining clear communication, tracking progress, and ensuring compliance with regulations.",
@@ -487,20 +312,6 @@
         "antonyms": [
           "erase",
           "delete"
-        ]
-      },
-      {
-        "word": "searchable",
-        "definition": "Capable of being searched or queried to retrieve specific information or data efficiently.",
-        "businessContext": "In the context of databases and digital content, being searchable enhances accessibility and usability, allowing users to find relevant information quickly.",
-        "nuance": "While 'searchable' suggests ease of access, it can also imply that the information is well-organized; poorly structured data may be technically searchable but difficult to navigate.",
-        "synonyms": [
-          "accessible",
-          "retrievable"
-        ],
-        "antonyms": [
-          "obscure",
-          "hidden"
         ]
       },
       {
@@ -517,6 +328,7 @@
           "stability"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

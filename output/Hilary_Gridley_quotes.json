@@ -6,9 +6,7 @@
     "context": "Lenny asks Hilary about helping team members learn to take a punch and deal with hardship. Hilary explains that product leadership is particularly challenging because you're constantly making decisions without clear right answers while everyone looks to you for clarity. This advice came from her former boss when she started reporting directly to a CEO during a pivotal career moment.",
     "vocabulary_highlights": [
       "product leadership",
-      "control",
-      "decision making",
-      "hardship"
+      "control"
     ],
     "topics": [
       "Leadership & Management",
@@ -54,36 +52,9 @@
           "chaos",
           "anarchy"
         ]
-      },
-      {
-        "word": "decision making",
-        "definition": "Decision making is the cognitive process of selecting a course of action from multiple alternatives.",
-        "businessContext": "In business, effective decision making is vital for leaders to navigate challenges, allocate resources, and drive organizational success.",
-        "nuance": "This term often implies a systematic approach, but can also encompass intuitive or rapid decisions made under pressure.",
-        "synonyms": [
-          "judgment",
-          "choice"
-        ],
-        "antonyms": [
-          "indecision",
-          "confusion"
-        ]
-      },
-      {
-        "word": "hardship",
-        "definition": "Hardship refers to severe suffering or deprivation, often resulting from difficult circumstances.",
-        "businessContext": "In the context of business, hardship can describe challenges that companies face, such as economic downturns or operational setbacks, which require resilience and adaptability.",
-        "nuance": "This term carries a weight of struggle and can evoke empathy, making it suitable for discussions about overcoming obstacles in a professional context.",
-        "synonyms": [
-          "adversity",
-          "difficulty"
-        ],
-        "antonyms": [
-          "ease",
-          "comfort"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I try to focus them less around how you litigate another person's impression of you and more on what is the action that you can take to counter program the narrative that you are afraid that this other person has of you.",
@@ -93,8 +64,7 @@
     "vocabulary_highlights": [
       "litigate",
       "counter program",
-      "narrative",
-      "focus on"
+      "narrative"
     ],
     "topics": [
       "Leadership & Management",
@@ -107,9 +77,9 @@
       "Team Building",
       "Marketing Strategy"
     ],
-    "text_ko": "저는 사람들이 다른 사람이 자신을 어떻게 보는지에 대해 다투는 데 덜 신경 쓰게 하고, 대신 상대가 자신에 대해 갖고 있을 것 같아 두려운 그 서사를 바꾸기 위해 어떤 행동을 취할 수 있을지에 더 초점을 맞추게 해요(counter-program the narrative). 다음에 당신은 스스로 아는 그 사람이라는 걸 보여주기 위해 무엇을 할 건가요?",
-    "text_zh": "我试着让他们少纠结于怎么去跟别人争辩你给人的印象，而是更多地想想，你能采取什么实际行动来扭转你担心别人对你的那种看法。接下来你打算做什么来证明，你就是你自己心里清楚的那个人？",
-    "text_es": "Trato de enfocarlos menos en cómo vas a pelear contra lo que otra persona piensa de ti y más en qué acciones concretas puedes tomar para cambiar esa narrativa que te da miedo que tengan de ti. ¿Qué vas a hacer ahora para demostrar que eres la persona que sabes que realmente eres?",
+    "text_ko": "저는 사람들이 다른 사람이 자신에 대해 갖는 인상을 법정에서 다투듯 변호하려 하기보다, 그 사람이 자신에 대해 갖고 있을까 봐 두려워하는 내러티브를 어떻게 반대로 재구성할 수 있을지(counter-program the narrative), 그리고 그걸 위해 어떤 행동을 취할 수 있을지에 더 집중하게 해요.",
+    "text_zh": "我建议他们别老想着怎么去争辩别人对你的看法，而是要想想你能采取什么实际行动来扭转你担心别人对你形成的那种印象。",
+    "text_es": "Trato de que se enfoquen menos en cómo defenderse de lo que otra persona piensa de ellos y más en qué acciones concretas pueden tomar para cambiar esa narrativa que les preocupa que el otro tenga sobre ellos.",
     "key_sentence": "Focus on actions to counter program the narrative others have of you.",
     "text_trimmed": true,
     "original_text": "I try to focus them less around how you litigate another person's impression of you and more on what is the action that you can take to counter program the narrative that you are afraid that this other person has of you. What are you going to do next to demonstrate that you are the person that you know yourself to be?",
@@ -156,22 +126,10 @@
           "fact",
           "reality"
         ]
-      },
-      {
-        "word": "focus on",
-        "definition": "To direct attention or resources towards a specific task, issue, or goal.",
-        "businessContext": "In a business setting, focusing on key performance indicators or strategic objectives is essential for effective management and decision-making.",
-        "nuance": "While 'focus on' implies prioritization, it may also suggest a need to limit distractions, so it is often used in contexts where clarity and direction are necessary.",
-        "synonyms": [
-          "concentrate on",
-          "emphasize"
-        ],
-        "antonyms": [
-          "disregard",
-          "neglect"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I would really love it if more people were like, 'Screw it. I'm going to do something that's probably going to fail. It's important and it's worth doing and I'm going to do it well.'",
@@ -179,9 +137,6 @@
     "timestamp": "00:00:28",
     "context": "Lenny asks about the importance of helping people learn to take on hard challenges. Hilary explains that in today's uncertain environment with AI disruption and layoffs, people are gravitating toward safe choices they're likely to succeed at. She wishes more people would embrace difficult, important problems even if they might fail.",
     "vocabulary_highlights": [
-      "take on",
-      "uncertain environment",
-      "hard challenges",
       "worth doing"
     ],
     "topics": [
@@ -202,48 +157,6 @@
     "vocab_reparsed": true,
     "vocabulary": [
       {
-        "word": "take on",
-        "definition": "To accept or undertake a responsibility, challenge, or task.",
-        "businessContext": "In business settings, 'take on' often refers to assuming new projects, roles, or risks that may contribute to growth or innovation.",
-        "nuance": "This phrase conveys a sense of initiative and willingness to engage with difficult situations, but can imply potential overcommitment if used excessively.",
-        "synonyms": [
-          "assume",
-          "undertake"
-        ],
-        "antonyms": [
-          "shirk",
-          "avoid"
-        ]
-      },
-      {
-        "word": "uncertain environment",
-        "definition": "A situation characterized by unpredictability and lack of clarity regarding future outcomes or conditions.",
-        "businessContext": "In the context of startups and business strategy, an uncertain environment often requires agile decision-making and risk management to navigate potential challenges.",
-        "nuance": "This term highlights the inherent risks in business ventures and may suggest a need for flexibility and adaptability in planning.",
-        "synonyms": [
-          "volatile landscape",
-          "ambiguous context"
-        ],
-        "antonyms": [
-          "stable environment",
-          "predictable conditions"
-        ]
-      },
-      {
-        "word": "hard challenges",
-        "definition": "Difficult tasks or obstacles that require significant effort, skill, or determination to overcome.",
-        "businessContext": "In the business world, hard challenges often drive innovation and growth, pushing teams to develop creative solutions and enhance their capabilities.",
-        "nuance": "While 'hard challenges' can imply a daunting task, they are often viewed positively as opportunities for development and achievement.",
-        "synonyms": [
-          "tough obstacles",
-          "significant hurdles"
-        ],
-        "antonyms": [
-          "easy tasks",
-          "simple problems"
-        ]
-      },
-      {
         "word": "worth doing",
         "definition": "Justifiable or valuable enough to merit the effort or resources required to accomplish it.",
         "businessContext": "In business discussions, identifying something as 'worth doing' often involves evaluating its potential return on investment or impact on organizational goals.",
@@ -257,7 +170,8 @@
           "unproductive activity"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "People think that the game is all about influencing the CEO, influencing the people around them. You come up thinking like you're the protagonist. But in the story of work, you are probably not the protagonist. You're not special.",
@@ -266,9 +180,7 @@
     "context": "Lenny asks about when your leader tells you to do something you disagree with. Hilary shares advice she received from a former Coinbase CPO about reporting to CEOs. Many people mistakenly think their job is to convince the CEO of their vision, but actually the job is to understand the CEO's vision and operationalize it effectively.",
     "vocabulary_highlights": [
       "influencing",
-      "protagonist",
-      "context",
-      "reporting"
+      "protagonist"
     ],
     "topics": [
       "Leadership & Management",
@@ -314,48 +226,16 @@
           "antagonist",
           "supporting character"
         ]
-      },
-      {
-        "word": "context",
-        "definition": "The circumstances or background information surrounding an event, statement, or idea that helps clarify its meaning.",
-        "businessContext": "Understanding context is vital in business for effective communication, decision-making, and strategic planning, as it shapes how information is interpreted.",
-        "nuance": "Context can vary widely; thus, it is important to consider the specific environment or situation when discussing business matters.",
-        "synonyms": [
-          "background",
-          "framework"
-        ],
-        "antonyms": [
-          "isolation",
-          "disregard"
-        ]
-      },
-      {
-        "word": "reporting",
-        "definition": "The act of presenting information or data in a structured format, often for analysis or decision-making purposes.",
-        "businessContext": "In business, reporting is essential for tracking performance, compliance, and informing stakeholders about progress and outcomes.",
-        "nuance": "While reporting can imply transparency and accountability, it may also suggest a bureaucratic process that some may find cumbersome.",
-        "synonyms": [
-          "documenting",
-          "communicating"
-        ],
-        "antonyms": [
-          "concealing",
-          "withholding"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I think there's so much cool stuff we're doing right now.",
     "speaker": "Hilary Gridley",
     "timestamp": "00:26:16",
     "context": "Lenny mentions Hilary's view that too many PMs are playing on easy mode. Hilary explains her 'hot take' that while she appreciates discussions about craft and taste in product management, she wishes more people with genuine love for building products would tackle harder problems like building for underserved populations rather than just building for people like themselves at well-funded companies.",
-    "vocabulary_highlights": [
-      "product management",
-      "discussions",
-      "craft",
-      "taste"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Career Development"
@@ -367,71 +247,16 @@
       "Team Building",
       "Marketing Strategy"
     ],
-    "text_ko": "지금 우리가 하고 있는 일들 중 정말 멋진 것들이 많다고 생각해요. 그리고 만약 진짜로 단순히 제품 관리(product management)를 순수하게 사랑해서 하는 사람이라면, 왜 자기와 똑같은 사람들—같은 배경에 있고 가격 걱정도 별로 하지 않는, 다른 회사에 파는(B2B) 고객들—을 위해서만 제품을 만드는 걸까요? 저는 제품을 진심으로 사랑하는 사람들이 그 열정을 저소득층을 위한 제품 개발이나 사회복지(social services) 같은 분야에 더 썼으면 해요. 그런 곳들이 정말로 그런 노력을 절실히 필요로 하거든요.",
-    "text_zh": "我觉得我们现在做的很多东西都挺酷的。但如果你真的是纯粹热爱这个行业，真的喜欢产品管理(product management)，那你为什么要给和你一模一样的人做产品呢？在一个卖给其他公司、完全不用担心定价的公司里，给那些跟你背景完全相同的人做产品？我特别希望那些真正热爱产品管理的人能把这份热情用到为低收入人群做产品上，为社会服务做产品，做这些真正需要这种专业能力的事情。",
-    "text_es": "Creo que estamos haciendo un montón de cosas increíbles ahora mismo. Y si de verdad estás en esto por pura pasión, porque te encanta la gestión de productos (product management), ¿por qué construyes productos solo para gente exactamente igual a ti, que tiene exactamente las mismas cosas que tú, en una empresa que le vende a otras empresas y no se preocupa por los precios? Ojalá que la gente que tiene esta pasión genuina por la gestión de productos pudiera enfocarla más en construir para personas de bajos ingresos, para servicios sociales, ese tipo de cosas que realmente, realmente necesitan ese trabajo.",
+    "text_ko": "지금 우리가 하고 있는 일들이 정말 멋진 게 많다고 생각해요.",
+    "text_zh": "我觉得我们现在做的这些事情都挺酷的。",
+    "text_es": "Creo que estamos haciendo muchas cosas increíbles en este momento.",
     "key_sentence": "I think there's so much cool stuff we're doing right now.",
     "text_trimmed": true,
     "original_text": "I think there's so much cool stuff we're doing right now. And if you are really in it just for pure love of the game, you just love product management, why are you building products for people exactly like you who have all your exact same at a company that sells to other companies that doesn't worry about pricing? I wish that the people who have this pure love of product management would see more of that applied to building for low income people, building for social services, things like that, that really, really need that kind of work.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "product management",
-        "definition": "The process of overseeing the development, marketing, and lifecycle of a product from conception to market launch and beyond.",
-        "businessContext": "In business and tech settings, product management involves coordinating cross-functional teams to ensure that a product meets customer needs and business goals.",
-        "nuance": "This term implies a strategic role that requires both technical knowledge and an understanding of market dynamics, often used in discussions about innovation and product strategy.",
-        "synonyms": [
-          "product development",
-          "product oversight"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "discussions",
-        "definition": "The act of talking about something with others to exchange ideas, opinions, or information.",
-        "businessContext": "In a business context, discussions are critical for collaboration, decision-making, and brainstorming sessions among team members or stakeholders.",
-        "nuance": "While often seen as informal, discussions can also be structured and formal, such as in meetings or negotiations, depending on the context.",
-        "synonyms": [
-          "conversations",
-          "dialogues"
-        ],
-        "antonyms": [
-          "silence",
-          "disagreement"
-        ]
-      },
-      {
-        "word": "craft",
-        "definition": "To create or construct something with skill and careful attention to detail.",
-        "businessContext": "In business, particularly in creative industries, 'craft' refers to the meticulous process of developing high-quality products or services, often emphasizing artistry and skill.",
-        "nuance": "This term conveys a sense of artistry and dedication, and is often used positively to highlight the quality of work, as opposed to mass production.",
-        "synonyms": [
-          "create",
-          "design"
-        ],
-        "antonyms": [
-          "destroy",
-          "neglect"
-        ]
-      },
-      {
-        "word": "taste",
-        "definition": "The ability to discern and appreciate quality, style, or flavor in various contexts, including aesthetics and consumer preferences.",
-        "businessContext": "In marketing and product development, understanding consumer taste is crucial for creating products that resonate with target audiences and align with current trends.",
-        "nuance": "While 'taste' can refer to personal preference, in business it often implies a broader understanding of market trends and cultural influences, making it a key factor in branding and design.",
-        "synonyms": [
-          "preference",
-          "aesthetic"
-        ],
-        "antonyms": [
-          "dislike",
-          "indifference"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "When I approach these conversations, I always try to think of them as, even if I don't agree with the feedback, if I don't agree with the decision, what is the insight that I'm missing? How am I wrong about this?",
@@ -440,9 +265,7 @@
     "context": "Lenny asks about Hilary's approach to transparency and helping team members understand how leaders think. Hilary explains her method for building mental models of how different people in the organization think. Rather than looking for reasons to disagree with decisions, she tries to understand what would need to be true for the other person to be right.",
     "vocabulary_highlights": [
       "insight",
-      "transparency",
-      "approach",
-      "mental models"
+      "approach"
     ],
     "topics": [
       "Leadership & Management",
@@ -455,9 +278,9 @@
       "Team Building",
       "Marketing Strategy"
     ],
-    "text_ko": "이런 대화를 할 때 저는 항상, 설령 피드백(feedback)에 동의하지 않거나 결정에 동의하지 않더라도 제가 놓치고 있는 인사이트(insight)가 뭔지 생각하려고 해요. 제가 어디서 잘못 생각하고 있는 걸까? 다른 사람이 옳으려면 어떤 게 사실이어야 할까? 이런 식으로요.",
-    "text_zh": "每次遇到这种对话，我都会这样想：就算我不认同这个反馈，不赞成这个决定，但我是不是漏掉了什么关键信息？我哪里想错了？换个角度，要怎样的情况下，对方说的才是对的？",
-    "text_es": "Cuando me meto en estas conversaciones, siempre trato de pensar: aunque no esté de acuerdo con el feedback, aunque no me guste la decisión, ¿qué se me está escapando? ¿En qué me estoy equivocando? O sea, ¿qué tendría que ser cierto para que esta otra persona tenga razón?",
+    "text_ko": "이런 대화를 할 때 저는 항상 이렇게 생각하려고 해요: 설령 피드백(feedback)에 동의하지 않거나 결정(decision)에 동의하지 않더라도, 내가 놓치고 있는 인사이트(insight)는 무엇일까? 제가 이 부분에서 어떻게 잘못 생각하고 있는 걸까요?",
+    "text_zh": "每次遇到这种对话，我都会这么想：就算我不认同这个反馈，就算我不同意这个决定，那我是不是漏掉了什么关键信息？我哪里想错了？",
+    "text_es": "Cuando tengo este tipo de conversaciones, siempre trato de pensar: aunque no esté de acuerdo con los comentarios o con la decisión, ¿qué es lo que no estoy viendo? ¿En qué me estoy equivocando?",
     "key_sentence": "what is the insight that I'm missing?",
     "text_trimmed": true,
     "original_text": "When I approach these conversations, I always try to think of them as, even if I don't agree with the feedback, if I don't agree with the decision, what is the insight that I'm missing? How am I wrong about this? In ways like, what would be true for this other person to be right?",
@@ -478,20 +301,6 @@
         ]
       },
       {
-        "word": "transparency",
-        "definition": "The quality of being open and honest, allowing stakeholders to see the processes and decisions behind actions.",
-        "businessContext": "In corporate environments, transparency fosters trust among employees, customers, and investors, and is essential for effective communication and accountability.",
-        "nuance": "While transparency is generally viewed positively, excessive transparency can sometimes lead to information overload or breaches of confidentiality.",
-        "synonyms": [
-          "openness",
-          "clarity"
-        ],
-        "antonyms": [
-          "opacity",
-          "secrecy"
-        ]
-      },
-      {
         "word": "approach",
         "definition": "A method or way of dealing with a situation or problem, often reflecting one's perspective or strategy.",
         "businessContext": "In business, different approaches can influence project management, team dynamics, and customer engagement strategies.",
@@ -504,21 +313,9 @@
           "disregard",
           "neglect"
         ]
-      },
-      {
-        "word": "mental models",
-        "definition": "Cognitive frameworks that individuals use to understand and interpret the world around them, influencing decision-making and behavior.",
-        "businessContext": "In business, mental models shape how leaders and teams perceive challenges, assess risks, and develop strategies, often affecting organizational culture.",
-        "nuance": "Mental models can be deeply ingrained and may require conscious effort to change, especially when they limit innovative thinking.",
-        "synonyms": [
-          "frameworks",
-          "paradigms"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

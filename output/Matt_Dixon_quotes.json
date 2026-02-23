@@ -7,8 +7,7 @@
     "vocabulary_highlights": [
       "machine learning",
       "qualified pipelines",
-      "closed loss",
-      "data collection"
+      "closed loss"
     ],
     "topics": [
       "Growth & Marketing",
@@ -19,9 +18,9 @@
     "speaker_expertise": [
       "Sales Strategy"
     ],
-    "text_ko": "우리는 250만 건이 넘는 영업 통화를 모아 대규모 머신러닝 플랫폼(machine learning platform)으로 분석했어요. 그 결과 평균 영업사원의 적격 파이프라인(qualified pipelines) 중 약 40~60%가 결국 'closed loss, no decision'(closed loss, no decision)로 처리된다는 걸 발견했어요. 영업사원 관점에서 보면 거래의 약 46%는 많은 시간과 에너지, 자원을 들여 기회를 쫓다가 결국 상대가 연락을 끊어 아무 결정도 못 내리는 경우라는 뜻이에요.",
-    "text_zh": "我们收集了两百五十万通销售电话，用机器学习平台(machine learning platform)大规模地分析了这些数据。我们发现，普通销售人员有资质的销售管道(qualified pipeline)中，大概有40%到60%最终都会被标记为败单，客户没做决定就没下文了。你想想看，作为销售，你46%的单子都是这样——你投入大把时间、精力和资源去跟进这些机会，到头来客户直接把你晾在那儿，音信全无。",
-    "text_es": "Recopilamos dos millones y medio de llamadas de ventas y las analizamos usando una plataforma de machine learning a gran escala. Lo que descubrimos es que entre el 40 y 60% de las oportunidades calificadas del vendedor promedio terminan marcándose como pérdida cerrada, sin decisión. Si lo piensas como vendedor, en el 46% de tus deals vas a invertir muchísimo tiempo, energía y recursos persiguiendo estas oportunidades donde al final simplemente te van a hacer ghosting.",
+    "text_ko": "우리는 250만 건 이상의 영업 콜을 모아 대규모 머신러닝 플랫폼(machine learning platform)으로 분석해봤어요. 그 결과 평균 영업사원의 퀄리파이드 파이프라인(qualified pipelines) 중 약 40~60%가 최종적으로 클로즈드 로스(closed loss)·노 디시전(no decision)으로 표시되더라고요.",
+    "text_zh": "我们收集了250万通销售通话，并用机器学习平台(machine learning platform)做了大规模分析。结果显示，平均每个销售人员的合格商机(qualified pipelines)中，大约有40%到60%最终会被标为输单/无决定(closed loss, no decision)。",
+    "text_es": "Recopilamos dos millones y medio de llamadas de ventas y las estudiamos a gran escala con una plataforma de aprendizaje automático (machine learning). Lo que descubrimos es que entre el 40% y el 60% del pipeline calificado (qualified pipeline) del representante de ventas promedio termina marcado como \"cerrado — pérdida, sin decisión\" (closed loss, no decision).",
     "key_sentence": "46% of qualified pipelines will be marked as closed loss, no decision.",
     "text_trimmed": true,
     "original_text": "We collected two and a half million sales calls and studied them with a machine learning platform at scale. What we found is that anywhere between 40 and 60% of the average salesperson's qualified pipelines will be ultimately marked as closed loss, no decision. If you think about as a salesperson, that for 46% of your deals, you're going to spend a lot of time, energy, resources pursuing these opportunities where you eventually just get ghosted.",
@@ -68,22 +67,10 @@
           "closed won",
           "successful sale"
         ]
-      },
-      {
-        "word": "data collection",
-        "definition": "The systematic gathering of information for analysis and decision-making purposes, often involving various methodologies and tools.",
-        "businessContext": "In business, data collection is essential for market research, performance analysis, and strategic planning, enabling organizations to make informed decisions.",
-        "nuance": "The term suggests a structured approach to gathering information, which can vary in complexity and scope depending on the objectives.",
-        "synonyms": [
-          "information gathering",
-          "data acquisition"
-        ],
-        "antonyms": [
-          "data loss",
-          "information neglect"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Dialing up the FOMO backfires 87% of the time. They're not afraid of missing out, they're afraid of messing up. What salespeople have been armed to do is go out and dial up the FOMO and make the customer sweat a little bit.",
@@ -92,9 +79,7 @@
     "context": "Matt explains a key insight from analyzing millions of sales calls about why traditional sales tactics fail. When customers hesitate before making a purchase decision, most salespeople try to create urgency by emphasizing what the customer will miss out on (FOMO - fear of missing out). However, Matt's research shows this approach actually makes things worse 87% of the time because customers aren't worried about missing opportunities - they're terrified of being personally blamed if the purchase decision goes wrong.",
     "vocabulary_highlights": [
       "backfires",
-      "salespeople",
-      "hesitate",
-      "tactics"
+      "salespeople"
     ],
     "topics": [
       "Growth & Marketing",
@@ -105,9 +90,9 @@
     "speaker_expertise": [
       "Sales Strategy"
     ],
-    "text_ko": "놓칠까 봐 두려움(FOMO)을 부추기면 87%의 경우에 역효과가 나요. 사람들은 단순히 놓치는 게 무서운 게 아니라, 망칠까 봐 더 무서워해요. 영업사원들은 FOMO를 부풀려서 고객을 좀 초조하게 만들라고 훈련받아 왔어요. 그런데 사실 놓칠까 봐 두려움(FOMO)보다 망칠까 봐 두려움(FOMU)이 더 중요해요. FOMU는 일을 망치거나 실수할까 봐 느끼는 두려움이에요.",
-    "text_zh": "一味地制造饥饿营销，十次有八九次都会适得其反。客户真正担心的不是错过机会，而是怕做错决定。销售们现在的套路就是拼命制造紧迫感，让客户心里着急。其实客户更在乎的是别搞砸了，而不是怕错过什么。真正起作用的是\"怕搞砸心理\"(FOMU)，而不是\"错失恐惧\"(FOMO)。",
-    "text_es": "Intensificar el FOMO falla el 87% de las veces. No tienen miedo de perderse algo, tienen miedo de cagarla. A los vendedores los han entrenado para salir y crear más FOMO, para hacer que el cliente sude un poco. Pero en realidad el FOMU importa más que el FOMO. El FOMU es el miedo de cagarla (fear of messing up).",
+    "text_ko": "놓칠까 봐 불안함(FOMO)을 더 자극하면 87%의 경우 역효과가 나요. 사람들은 놓치는 걸 두려워하는 게 아니라, 결정을 잘못해 망칠까 봐 더 걱정해요. 그런데 영업사원들은 바로 그걸 하도록 훈련받아서 FOMO를 부추기고 고객을 조금 긴장시키게 해요.",
+    "text_zh": "放大错失恐惧(FOMO)的做法在87%的情况下会适得其反。客户并不是怕错过，他们是怕把事情搞砸。现在的销售被教成要去放大这种FOMO，让客户出点汗。",
+    "text_es": "Avivar el miedo a perderse algo (FOMO) resulta contraproducente el 87% de las veces. No les da miedo perderse algo; les da miedo equivocarse. A los vendedores se les ha dicho que salgan a avivar ese miedo y a meterle un poco de presión al cliente.",
     "key_sentence": "They're not afraid of missing out, they're afraid of messing up.",
     "text_trimmed": true,
     "original_text": "Dialing up the FOMO backfires 87% of the time. They're not afraid of missing out, they're afraid of messing up. What salespeople have been armed to do is go out and dial up the FOMO and make the customer sweat a little bit. The FOMU actually matters more than the FOMO. The FOMU is the fear of messing up.",
@@ -140,36 +125,10 @@
           "customers",
           "buyers"
         ]
-      },
-      {
-        "word": "hesitate",
-        "definition": "To pause before taking action or making a decision, often due to uncertainty or indecision.",
-        "businessContext": "In a business context, hesitation can indicate a lack of confidence in a product or service, potentially leading to lost sales opportunities.",
-        "nuance": "Hesitation can be perceived negatively, suggesting indecisiveness, but it can also reflect careful consideration before making important decisions.",
-        "synonyms": [
-          "pause",
-          "waver"
-        ],
-        "antonyms": [
-          "decide",
-          "act"
-        ]
-      },
-      {
-        "word": "tactics",
-        "definition": "Specific methods or strategies employed to achieve a particular goal or objective.",
-        "businessContext": "In business, tactics are often used in marketing and sales strategies to influence consumer behavior and drive results.",
-        "nuance": "The term suggests a practical approach to achieving objectives, often in contrast to broader strategies or plans.",
-        "synonyms": [
-          "strategies",
-          "methods"
-        ],
-        "antonyms": [
-          "theory",
-          "principle"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The first thing is we've got to judge their level of indecision. The second thing is we've got to offer a recommendation.",
@@ -178,9 +137,7 @@
     "context": "Lenny asks Matt about his JOLT method for improving sales processes based on his research insights. Matt explains that JOLT is an acronym for a four-step approach to help customers overcome their fear of making bad decisions. The method addresses the core problem that customers want to buy but can't because they're paralyzed by fear of failure, so salespeople need to systematically reduce that fear and guide them toward a decision they feel confident about.",
     "vocabulary_highlights": [
       "recommendation",
-      "indecision",
-      "approach",
-      "overcome"
+      "indecision"
     ],
     "topics": [
       "Growth & Marketing",
@@ -191,9 +148,9 @@
     "speaker_expertise": [
       "Sales Strategy"
     ],
-    "text_ko": "첫 번째로는 그들의 결정 장애 수준을 파악해야 해요. 두 번째로는 추천을 해줘야 하고요. 세 번째로는 그들이 우리를 신뢰하게 만들어야 해요. 이걸 '탐색 제한(limit the exploration)'이라고 부르고요. 마지막으로는 거래의 리스크를 줄여야 해요. 위험 요소를 덜어내는 게 중요해요.",
-    "text_zh": "首先呢，我们得看看他们到底有多纠结。然后我们得给个建议，让他们知道该怎么办。第三点就是要让他们开始信任我们，我们叫这个\"限制探索\"(limit the exploration)。最后这个T就是要给这个deal降降风险，把一些风险因素先排除掉。",
-    "text_es": "Lo primero que tenemos que hacer es evaluar qué tan indecisos están. Lo segundo es darles una recomendación clara. Lo tercero es lograr que empiecen a confiar en nosotros, y a esto le decimos limitar la exploración (limit the exploration), y la T es que tenemos que quitar el riesgo del negocio. Tenemos que eliminar parte del riesgo de la ecuación.",
+    "text_ko": "먼저 그들이 어느 정도 망설이고 있는지 파악해야 해요. 그다음엔 우리가 추천안(recommendation)을 제시해야 해요.",
+    "text_zh": "第一，我们要判断他们犹豫不决到什么程度，第二，我们要给出建议。",
+    "text_es": "Lo primero es evaluar su grado de indecisión. Lo segundo, ofrecerles una recomendación.",
     "key_sentence": "we've got to judge their level of indecision.",
     "text_trimmed": true,
     "original_text": "The first thing is we've got to judge their level of indecision. The second thing is we've got to offer a recommendation. The third thing is we've got to get them to start trusting us and we call it limit the exploration, and the T is we've got to de-risk the deal. We've got to take some risk off the table.",
@@ -226,36 +183,10 @@
           "certainty",
           "decisiveness"
         ]
-      },
-      {
-        "word": "approach",
-        "definition": "A method or way of dealing with a situation or problem; a strategy for addressing a particular issue.",
-        "businessContext": "In the business world, different approaches can be employed to tackle challenges, such as innovative marketing approaches or collaborative team approaches to project management.",
-        "nuance": "The term 'approach' can imply a thoughtful or systematic method, and is often used to convey flexibility in adapting strategies to different circumstances.",
-        "synonyms": [
-          "method",
-          "strategy"
-        ],
-        "antonyms": [
-          "neglect",
-          "avoidance"
-        ]
-      },
-      {
-        "word": "overcome",
-        "definition": "To successfully deal with or gain control over a challenge or obstacle.",
-        "businessContext": "In business, overcoming challenges such as market competition or internal resistance is essential for achieving goals and driving growth.",
-        "nuance": "The term 'overcome' suggests a proactive and resilient attitude, often associated with personal or organizational growth after facing difficulties.",
-        "synonyms": [
-          "conquer",
-          "surmount"
-        ],
-        "antonyms": [
-          "succumb",
-          "yield"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Most salespeople are trying to figure out what's keeping the customer up at night. The challenger approach is about showing the customer what should be keeping them up at night. What's a risk that they don't know about but you do.",
@@ -264,9 +195,7 @@
     "context": "Matt contrasts traditional sales approaches with his Challenger Sale methodology. Traditional salespeople focus on identifying existing customer problems and pain points. The Challenger approach flips this - instead of just responding to what customers already know they need, top salespeople proactively educate customers about risks and opportunities they haven't considered yet. This works because salespeople talk to many more customers and have broader market insight than any individual buyer.",
     "vocabulary_highlights": [
       "challenger approach",
-      "risk",
-      "pain points",
-      "identify"
+      "risk"
     ],
     "topics": [
       "Growth & Marketing",
@@ -277,9 +206,9 @@
     "speaker_expertise": [
       "Sales Strategy"
     ],
-    "text_ko": "대부분의 영업 담당자들(salespeople)은 고객이 밤에 잠 못 이루게 하는 게 뭔지 알아내려고 해요. 챌린저 접근법(challenger approach)은 고객이 실제로 신경 써야 할 문제를 알려주는 거예요. 고객은 모르는데 당신은 알고 있는 리스크(risk)가 무엇인지 찾아내는 거죠. 당신은 그들에게 외부 세상을 보여주는 창이고, 바로 그걸 챌린저들(challengers)은 정말 잘 이해해요.",
-    "text_zh": "大多数销售都在琢磨客户现在最头疼什么问题。但挑战者销售法(challenger approach)不一样，是要让客户意识到他们应该担心什么。就是那些他们还没发现、但你知道的风险点。你其实就是他们了解外面世界的一扇窗，这就是挑战者真正懂的道理。",
-    "text_es": "La mayoría de los vendedores están tratando de descubrir qué es lo que no deja dormir al cliente. El enfoque retador (challenger approach) se trata de mostrarle al cliente qué debería quitarle el sueño. ¿Cuál es ese riesgo que ellos no conocen pero tú sí? Tú eres su ventana al mundo exterior, y eso es lo que los retadores realmente entienden.",
+    "text_ko": "대부분의 영업사원들은 고객이 밤잠을 설치게 하는 게 뭔지 알아내려고 해요. 챌린저 접근법(challenger approach)은 고객이 잠 못 이루게 해야 할 문제를 보여주는 거예요. 고객은 모르는데 당신은 알고 있는 위험은 뭐예요?",
+    "text_zh": "大多数销售都在想办法弄清楚，到底是什么让客户夜里睡不着。挑战者方法(Challenger approach)则是在向客户指出，真正该让他们担心的是什么。有什么风险是他们还没意识到、但你已经看见的？",
+    "text_es": "La mayoría de los vendedores intentan averiguar qué les quita el sueño a los clientes. El enfoque challenger (Challenger) consiste en mostrarles aquello que en realidad debería quitarles el sueño. ¿Qué riesgo no ven ellos pero sí tú?",
     "key_sentence": "The challenger approach is about showing the customer what should be keeping them up at night.",
     "text_trimmed": true,
     "original_text": "Most salespeople are trying to figure out what's keeping the customer up at night. The challenger approach is about showing the customer what should be keeping them up at night. What's a risk that they don't know about but you do. You are a window into the outside world for them, and that's what challengers really understand.",
@@ -312,36 +241,10 @@
           "safety",
           "certainty"
         ]
-      },
-      {
-        "word": "pain points",
-        "definition": "Specific problems or challenges that customers face, which create discomfort or dissatisfaction and need to be addressed.",
-        "businessContext": "Identifying pain points is essential in sales and marketing, as it allows businesses to tailor their solutions to meet the specific needs of their target audience, thereby enhancing customer satisfaction.",
-        "nuance": "The term is often used in a customer-centric context, emphasizing the importance of empathy and understanding in developing effective products or services.",
-        "synonyms": [
-          "challenges",
-          "frustrations"
-        ],
-        "antonyms": [
-          "solutions",
-          "benefits"
-        ]
-      },
-      {
-        "word": "identify",
-        "definition": "To recognize or establish the characteristics, qualities, or significance of something.",
-        "businessContext": "In a business setting, identifying key factors such as market trends, customer needs, or operational inefficiencies is crucial for strategic planning and decision-making.",
-        "nuance": "While 'identify' is often used in a straightforward context, it can imply a deeper analysis or understanding of complex issues when used in strategic discussions.",
-        "synonyms": [
-          "recognize",
-          "determine"
-        ],
-        "antonyms": [
-          "ignore",
-          "overlook"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Indecision stems from their fear of failure. The omission bias is the fact that people don't want to be blamed for making decisions that lead to a loss.",
@@ -350,9 +253,7 @@
     "context": "Matt explains the psychological research behind customer indecision, drawing from cognitive psychology studies. He describes 'omission bias' - a powerful human tendency where people prefer losses that happen from inaction over losses that result from their active decisions. This bias is even stronger than status quo bias (preferring to keep things the same). Understanding this helps explain why customers who want to buy a product still hesitate - they're not worried about missing benefits, they're terrified of being personally blamed if their purchase decision leads to problems.",
     "vocabulary_highlights": [
       "indecision",
-      "omission bias",
-      "psychological",
-      "cognitive"
+      "omission bias"
     ],
     "topics": [
       "Decision Making",
@@ -363,9 +264,9 @@
     "speaker_expertise": [
       "Sales Strategy"
     ],
-    "text_ko": "우유부단함은 실패에 대한 두려움에서 나와요. 생략 편향(omission bias)은 사람들이 손실로 이어지는 결정을 내렸다고 비난받는 걸 원하지 않는다는 뜻이에요. 아무것도 안 해서 생기는 손실도 있고, 뭔가 해서 생기는 손실도 있어요. 사람들은 놓치는 건 괜찮다고 생각하지만, 실수해서 비난받는 건 참기 어려워해요.",
-    "text_zh": "犹豫不决其实就是怕搞砸。有个偏见叫\"不作为偏差\"(omission bias)，就是说人们不想因为自己的决定导致损失而被人指责。损失有两种，一种是我们什么都不做造成的，另一种是我们采取行动造的。在人的心理上，大家都能接受错过机会，但是接受不了自己搞砸了还要被人埋怨。",
-    "text_es": "La indecisión viene del miedo al fracaso. El sesgo de omisión (omission bias) es que la gente no quiere que la culpen por tomar decisiones que llevan a pérdidas. Hay pérdidas que pasan cuando no hacemos nada, y hay pérdidas que pasan porque sí hicimos algo. En la mente humana, la gente acepta perderse oportunidades. Lo que no aceptan es meter la pata y que los señalen.",
+    "text_ko": "우유부단함은 실패에 대한 두려움에서 비롯돼요. 부작위 편향(omission bias)은 사람들이 손실로 이어지는 결정을 내려 비난받는 걸 피하려고 차라리 아무 행동도 하지 않으려는 성향을 말해요.",
+    "text_zh": "犹豫不决往往源于害怕失败。不作为偏见（omission bias）是指人们宁可不做决定，也不愿意因为自己的决定导致损失而被怪罪。",
+    "text_es": "La indecisión nace del miedo a fracasar. El sesgo de omisión (omission bias) consiste en que la gente prefiere no tomar decisiones porque no quiere que le echen la culpa si acaban en pérdidas.",
     "key_sentence": "The omission bias is the fact that people don't want to be blamed for making decisions that lead to a loss.",
     "text_trimmed": true,
     "original_text": "Indecision stems from their fear of failure. The omission bias is the fact that people don't want to be blamed for making decisions that lead to a loss. There are losses that happen when we do nothing, and then there are losses that happened because we did something. In the human mind, people are okay with missing out. They are not okay with messing up and being blamed.",
@@ -398,36 +299,10 @@
           "proactive decision-making",
           "risk-taking"
         ]
-      },
-      {
-        "word": "psychological",
-        "definition": "Psychological pertains to the mental processes and emotional factors that influence behavior and decision-making. It encompasses aspects of human cognition, emotion, and social interactions.",
-        "businessContext": "Understanding psychological factors is crucial in marketing and human resources, as they can significantly impact consumer behavior and employee motivation.",
-        "nuance": "The term often implies a deeper exploration of human behavior beyond surface-level observations, making it relevant in discussions of organizational culture and consumer psychology.",
-        "synonyms": [
-          "mental",
-          "emotional"
-        ],
-        "antonyms": [
-          "physical",
-          "tangible"
-        ]
-      },
-      {
-        "word": "cognitive",
-        "definition": "Cognitive refers to the mental processes involved in gaining knowledge and understanding, including perception, reasoning, and judgment. It is related to how individuals think and learn.",
-        "businessContext": "In business, cognitive science is applied to improve user experience, enhance learning and development programs, and optimize decision-making processes.",
-        "nuance": "Cognitive often emphasizes the analytical and rational aspects of thought, distinguishing it from emotional or instinctual responses in decision-making contexts.",
-        "synonyms": [
-          "intellectual",
-          "mental"
-        ],
-        "antonyms": [
-          "emotional",
-          "irrational"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "We found a technique called pings and echoes that high performers use.",
@@ -436,9 +311,7 @@
     "context": "Matt describes a specific technique discovered in their research for the first step of the JOLT method - judging a customer's level of indecision. The 'pings and echoes' technique works like sonar - salespeople send out a 'ping' by suggesting what many customers worry about at this stage, then listen for the customer's response (the 'echo') to understand their specific concerns. This approach works because customers often won't directly admit they're indecisive or afraid, so salespeople need a subtle way to surface these concerns without embarrassing the customer.",
     "vocabulary_highlights": [
       "high performers",
-      "technique",
-      "judging",
-      "indecision"
+      "technique"
     ],
     "topics": [
       "Growth & Marketing",
@@ -449,9 +322,9 @@
     "speaker_expertise": [
       "Sales Strategy"
     ],
-    "text_ko": "우리는 성과가 높은 사람들이 쓰는 '핑스 앤 에코스(pings and echoes)'라는 기법을 발견했어요. 이 방법은 영업 담당자가 고객을 곤란하게 하려는 게 아니라, 자신이 말로 정리한 게 실제로 구매자의 고민인지 확인(또는 부정)받으려는 식으로 표현해 보는 거예요. 이 시점에서 대부분의 고객들, 즉 당신 같은 분들은 이걸 생각하고 있거나 저걸 걱정하고 계신 경우가 많아요.",
-    "text_zh": "我们发现高绩效销售员会用一个叫\"试探回应(pings and echoes)\"的技巧。具体是这样的：销售员会把客户可能的顾虑说出来，但不是为了让客户难堪，而是想确认一下自己说的是不是真的击中了客户的痛点。比如会说\"像您这样的客户，现在多半都在考虑这个问题\"或者\"都在担心那个事情\"。",
-    "text_es": "Descubrimos una técnica que usan los vendedores top que se llama \"pings and echoes\" (señales y respuestas). Funciona así: el vendedor trata de expresar algo, pero no para poner en evidencia al cliente, sino para conseguir que le confirme o le diga que no - que lo que está planteando realmente le preocupa al comprador. En este punto, la mayoría de clientes como usted están pensando en esto o les preocupa aquello.",
+    "text_ko": "성과가 높은 사람들이 쓰는 '핑과 에코(pings and echoes)'라는 기법을 발견했어요.",
+    "text_zh": "我们发现表现优秀的人常用一个技巧：先提醒一下、再确认反馈（pings and echoes）。",
+    "text_es": "Descubrimos una técnica llamada \"pings y echoes\" (pings and echoes) que usan los que mejor rinden.",
     "key_sentence": "pings and echoes that high performers use.",
     "text_trimmed": true,
     "original_text": "We found a technique called pings and echoes that high performers use. The way this works is that a salesperson will try to articulate but in a non, not to out the customer, but to get confirmation or refutation that what they've articulated is actually a concern for their buyer. At this point, most customers like you, are thinking about this or they're worried about that.",
@@ -484,36 +357,10 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "judging",
-        "definition": "The act of forming an opinion or evaluation about someone or something based on certain criteria or standards.",
-        "businessContext": "In business environments, judging can occur during performance reviews, project evaluations, or when making hiring decisions, often influencing organizational dynamics.",
-        "nuance": "Judging can carry a negative connotation if perceived as biased or unfair; thus, it is important to approach it with objectivity and fairness.",
-        "synonyms": [
-          "evaluating",
-          "assessing"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "indecision",
-        "definition": "The inability to make a choice or decision, often resulting from uncertainty or conflicting options.",
-        "businessContext": "Indecision can hinder progress in business settings, affecting project timelines, team dynamics, and overall strategic direction.",
-        "nuance": "While indecision can indicate careful consideration, it often has a negative connotation, suggesting a lack of confidence or decisiveness.",
-        "synonyms": [
-          "hesitation",
-          "uncertainty"
-        ],
-        "antonyms": [
-          "decisiveness",
-          "certainty"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "What great salespeople do though is they know that while they'll stand by those claims, those case studies, those proof points, they try to kind of under-promise and over-deliver.",
@@ -535,9 +382,9 @@
     "speaker_expertise": [
       "Sales Strategy"
     ],
-    "text_ko": "훌륭한 세일즈맨들은 자신이 한 주장이나 사례 연구, 증거를 지키는 동시에, 약속은 조금 낮게 하고 실제로는 더 많은 가치를 제공하려고 해요. 그래서 저는 우리가 비즈니스 케이스를 5배 향상에 맞춰서 만들면 좋겠어요. 왜냐하면 저희의 모든 프로젝트에서 최소한 그 정도는 보장하거든요. 그럼 그 목표를 초과 달성할 수 있도록 준비해보죠.",
-    "text_zh": "不过优秀的销售都懂一个道理，虽然他们会坚持自己说的那些承诺、案例研究和证明材料，但他们会尽量少承诺、多兑现。我更愿意这样做：咱们围绕5倍的提升来构建你的商业论证，因为在我们100%的实施案例中，至少都能达到这个水平。然后，我们再在这个基础上超额交付。",
-    "text_es": "Lo que hacen los vendedores realmente buenos es que saben que aunque van a respaldar esas afirmaciones, esos casos de estudio, esos puntos de prueba, tratan de prometer menos y entregar más. Lo que prefiero que hagamos es construir tu caso de negocio alrededor de una mejora de 5X porque vemos al menos eso en el 100% de nuestras implementaciones. Entonces, preparémonos para superar esas expectativas.",
+    "text_ko": "훌륭한 영업사원들은 그런 주장들이나 사례 연구(case studies), 증빙 포인트(proof points)를 지지하고 책임진다는 건 알지만, 약속은 일부러 낮게 잡아 기대 이상으로 보여주려고 해요 (under-promise and over-deliver).",
+    "text_zh": "优秀的销售人员知道，虽然他们会为那些说法、那些案例 (case studies) 和证明点 (proof points) 负责，但会尽量少承诺、多兑现。",
+    "text_es": "Lo que hacen los mejores vendedores es que saben que, aunque respalden esas afirmaciones, esos casos de éxito (case studies) y esas evidencias (proof points), tienden a prometer menos y luego entregar más.",
     "key_sentence": "Great salespeople under-promise and over-deliver while standing by those claims.",
     "text_trimmed": true,
     "original_text": "What great salespeople do though is they know that while they'll stand by those claims, those case studies, those proof points, they try to kind of under-promise and over-deliver. What I'd rather we do is build your business case around a 5X improvement because we see that at least that, in 100% of our implementations. Then, let's set up to over-deliver against that.",
@@ -599,6 +446,7 @@
           "hypothetical scenarios"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   }
 ]

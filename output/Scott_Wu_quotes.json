@@ -5,9 +5,7 @@
     "timestamp": "00:00:00",
     "context": "Lenny is asking Scott about how Cognition, the company that builds Devin, uses their own AI engineer internally. Scott explains how their small engineering team of 15 people leverages multiple Devin instances to accelerate their development process. This demonstrates the practical application of AI engineers in a real production environment, where each human engineer manages multiple AI assistants simultaneously.",
     "vocabulary_highlights": [
-      "leverage",
       "building",
-      "engineering",
       "team"
     ],
     "topics": [
@@ -21,28 +19,14 @@
       "Product Management",
       "Team Building"
     ],
-    "text_ko": "우리 팀 전체는 한 해에 대략 엔지니어 15명 정도밖에 안 돼요. Devin을 만들 때 우리는 Devin을 진짜 많이 활용해요. 팀원 대부분은 한 번에 최대 다섯 개의 Devin을 다루고 있고, 그래서 Devin은 매달 코드베이스(code bases)에 수백 건의 풀 리퀘스트(pull requests)를 프로덕션(production)으로 머지(merge)해요.",
-    "text_zh": "我们整个团队一年也就15个工程师左右。我们在开发Devin的时候大量使用Devin本身。团队里大部分人都是同时和最多5个Devin一起干活，所以每个月Devin都会往生产环境合并几百个pull request到Devin的代码库里。",
-    "text_es": "Nuestro equipo completo son como 15 ingenieros al año nada más. Usamos Devin un montón cuando estamos desarrollando Devin. La mayoría del equipo definitivamente está trabajando con hasta cinco Devins a la vez, y entonces Devin fusiona como varios cientos de pull requests a producción en las bases de código de Devin cada mes.",
+    "text_ko": "우리 팀은 연간 엔지니어가 고작 15명 정도예요. Devin을 개발할 때는 Devin 자체를 엄청 많이 써요.",
+    "text_zh": "我们整个团队每年也就大约15名工程师。打造这个产品(Devin)的时候，我们大量借助它。",
+    "text_es": "En total, el equipo suele ser de apenas unos 15 ingenieros al año. Dependemos muchísimo de Devin cuando lo estamos construyendo.",
     "key_sentence": "We use a ton of Devin when we're building Devin.",
     "text_trimmed": true,
     "original_text": "Our whole team is only like 15 engineers a year. We use a ton of Devin when we're building Devin. Most folks on the team are definitely working with up to five Devins at once, and so Devin merges like several hundred pull requests into production in the Devin code bases every month.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "leverage",
-        "definition": "To use something to maximum advantage or effectiveness.",
-        "businessContext": "In business, leveraging often refers to utilizing resources, skills, or relationships to enhance performance or achieve strategic goals.",
-        "nuance": "While 'leverage' can imply a strategic advantage, it can also suggest a reliance on external resources, so it should be used carefully to avoid negative connotations.",
-        "synonyms": [
-          "utilize",
-          "capitalize"
-        ],
-        "antonyms": [
-          "squander",
-          "waste"
-        ]
-      },
       {
         "word": "building",
         "definition": "The process of constructing or developing something, often referring to products or systems in a business context.",
@@ -55,20 +39,6 @@
         "antonyms": [
           "destroying",
           "dismantling"
-        ]
-      },
-      {
-        "word": "engineering",
-        "definition": "The application of scientific and mathematical principles to design and create structures, machines, and systems.",
-        "businessContext": "In a business setting, engineering encompasses the technical aspects of product development, ensuring that solutions are feasible, efficient, and meet user needs.",
-        "nuance": "The term 'engineering' can imply a rigorous, methodical approach to problem-solving, which is essential in tech industries but may not resonate in more creative fields.",
-        "synonyms": [
-          "design",
-          "construction"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
         ]
       },
       {
@@ -85,7 +55,9 @@
           "solo"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "AI is going to be the biggest technology shift of our lives... One of the things which is already I'd say different in AI, is just how explosive the technology can be. There's no weight on hardware distribution.",
@@ -95,7 +67,6 @@
     "vocabulary_highlights": [
       "explosive",
       "technology shift",
-      "adoption",
       "distribution"
     ],
     "topics": [
@@ -108,9 +79,9 @@
       "Product Management",
       "Team Building"
     ],
-    "text_ko": "인공지능(AI)은 우리 삶에서 겪게 될 가장 큰 기술적 전환일 거예요. 지난 50년 동안 있었던 큰 기술 혁명들—개인용 컴퓨터(personal computer), 인터넷(internet), 휴대전화(mobile phone)—은 모두 유통에서 큰 비중을 차지한 하드웨어 요소가 있었어요. 그런데 인공지능(AI)은 이미 다른 점이 하나 있어요: 기술 자체가 얼마나 폭발적으로 확산될 수 있는지예요. 하드웨어 유통(hardware distribution)에 얽매여 있지 않거든요.",
-    "text_zh": "AI会是我们这辈子遇到的最大的技术变革。你看过去50年那些重大的科技革命，比如个人电脑、互联网、手机，它们都有一个共同点，就是硬件是很重要的一块，硬件的普及决定了技术能推广到什么程度。但AI这次不一样，我觉得最明显的区别就是这技术爆发力太强了，完全不受硬件分发的限制。",
-    "text_es": "La IA va a ser el cambio tecnológico más grande de nuestras vidas. Fíjate que todas las grandes revoluciones tecnológicas que hemos tenido en los últimos 50 años - como la computadora personal, el internet, el celular - todas tenían ese componente de hardware que era clave para su distribución. Pero algo que ya veo diferente con la IA es lo explosivo que puede ser esta tecnología. No depende para nada de la distribución de hardware.",
+    "text_ko": "인공지능(AI)은 우리 삶에서 일어날 가장 큰 기술적 변화 중 하나가 될 거예요. 이미 AI에서 달라진 점 중 하나는 이 기술이 얼마나 폭발적으로 확장될 수 있는지예요. 사실상 하드웨어 배포(hardware distribution)에 따른 제약이 거의 없기 때문이에요.",
+    "text_zh": "人工智能 (AI) 将会是我们这一代人经历的最大技术变革。现在已经能看到的不同之一，就是它的爆发力非常强，能以爆发式速度发展，而且不再受硬件分发 (hardware distribution) 的制约。",
+    "text_es": "La IA (AI) va a ser el mayor cambio tecnológico de nuestras vidas. Una de las cosas que, diría yo, ya la hacen diferente es lo explosiva que puede llegar a ser esta tecnología. Ya no supone un lastre la distribución del hardware (hardware distribution).",
     "key_sentence": "AI is the biggest technology shift, with explosive potential and no weight on hardware distribution.",
     "text_trimmed": true,
     "original_text": "AI is going to be the biggest technology shift of our lives, so most of the big tech revolutions that we've had over the last 50 years, like personal computer, and the internet, and the mobile phone, they all had this big hardware component that was a big part of the distribution. One of the things which is already I'd say different in AI, is just how explosive the technology can be. There's no weight on hardware distribution.",
@@ -145,20 +116,6 @@
         ]
       },
       {
-        "word": "adoption",
-        "definition": "The process of accepting and integrating a new idea, product, or technology into use by individuals or organizations.",
-        "businessContext": "In business, 'adoption' is crucial for the success of new technologies, as it determines how quickly and widely a product is embraced by the market.",
-        "nuance": "While 'adoption' generally has a positive connotation, it can also imply resistance or challenges in the integration process, depending on the context.",
-        "synonyms": [
-          "acceptance",
-          "integration"
-        ],
-        "antonyms": [
-          "rejection",
-          "abandonment"
-        ]
-      },
-      {
         "word": "distribution",
         "definition": "The process of delivering products or services from producers to consumers, encompassing logistics, supply chain management, and sales channels.",
         "businessContext": "Effective distribution strategies are essential for businesses to ensure that their products reach the target market efficiently and effectively.",
@@ -172,19 +129,16 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think there's going to be way more programmers and way more engineers a few years from now. Pretty quickly.",
     "speaker": "Scott Wu",
     "timestamp": "00:01:02",
     "context": "Lenny asks how the role of being an engineer and building software is changing. Scott argues against the common fear that AI will reduce the need for programmers. Instead, he believes AI will actually increase demand for engineers by making programming more accessible and powerful. He emphasizes that programming fundamentally remains about instructing computers what to do, which becomes more valuable as AI capabilities expand.",
-    "vocabulary_highlights": [
-      "engineer",
-      "programmer",
-      "role",
-      "reduce"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Career Development"
     ],
@@ -195,71 +149,16 @@
       "Product Management",
       "Team Building"
     ],
-    "text_ko": "제 생각에는 앞으로 몇 년 안에 프로그래머(programmer)랑 엔지니어(engineer)가 훨씬 더 많아질 거예요. 꽤 빠르게요. 프로그래머라는 개념의 형태(form factor)는 분명히 바뀔 텐데, 결국 이 분야는 컴퓨터(computer)에게 무엇을 하라고 지시할 수 있는 능력에 관한 거예요. 그런 관점에서 보면 인공지능(AI)이 더 강력해질수록 프로그래밍(programming)은 점점 더 중요해질 거라고 정말 생각해요.",
-    "text_zh": "我觉得再过几年，程序员和工程师的数量会大幅增加，而且会很快。当程序员的形式肯定会变，但说到底，这个行业本质上就是要能告诉电脑该做什么。从这个角度看，我真的认为随着AI越来越强大，编程只会变得越来越重要。",
-    "text_es": "Creo que va a haber muchísimos más programadores e ingenieros en unos años. Bastante rápido, la verdad. Obviamente va a cambiar completamente lo que significa ser programador, pero al final del día, claro, la disciplina se trata simplemente de poder decirle a tu computadora qué tiene que hacer. Y desde esa perspectiva, realmente creo que la programación va a ser cada vez más importante mientras la IA se vuelve más poderosa.",
+    "text_ko": "제 생각엔 앞으로 몇 년 안에 개발자랑 엔지니어가 훨씬 더 많이 늘어날 거예요. 생각보다 꽤 빨리요.",
+    "text_zh": "我觉得未来几年，程序员(programmers)和工程师(engineers)会多得多，而且来得很快。",
+    "text_es": "Creo que en pocos años habrá muchos más programadores e ingenieros, y pasará bastante rápido.",
     "key_sentence": "I think there's going to be way more programmers and way more engineers a few years from now.",
     "text_trimmed": true,
     "original_text": "I think there's going to be way more programmers and way more engineers a few years from now. Pretty quickly. The form factor of what it means to be a programmer obviously is going to change, but at the end of the day, of course the discipline is all about just being able to tell your computer what's do. And so in that lens, I really think that programming is only going to become more and more important as AI gets more powerful.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "engineer",
-        "definition": "A professional who applies scientific and mathematical principles to design, develop, and analyze technological solutions and systems.",
-        "businessContext": "In business and tech environments, engineers are crucial for product development, system optimization, and ensuring technical feasibility of projects.",
-        "nuance": "The term 'engineer' often implies a formal education and expertise in a specific field, such as software, civil, or mechanical engineering.",
-        "synonyms": [
-          "developer",
-          "designer"
-        ],
-        "antonyms": [
-          "layperson",
-          "amateur"
-        ]
-      },
-      {
-        "word": "programmer",
-        "definition": "A specialist who writes, tests, and maintains the code that enables software applications to function.",
-        "businessContext": "Programmers are essential in tech startups for creating software solutions, debugging issues, and implementing new features to meet user needs.",
-        "nuance": "While often used interchangeably with 'developer,' 'programmer' may emphasize the coding aspect more than the overall software development process.",
-        "synonyms": [
-          "coder",
-          "software engineer"
-        ],
-        "antonyms": [
-          "non-programmer",
-          "N/A"
-        ]
-      },
-      {
-        "word": "role",
-        "definition": "The function or position that an individual holds within an organization, encompassing their responsibilities and duties.",
-        "businessContext": "Understanding roles within a team is vital for effective collaboration, project management, and ensuring that all tasks are covered in a business setting.",
-        "nuance": "The term 'role' can imply a formal designation but may also refer to informal contributions or expectations within a group.",
-        "synonyms": [
-          "position",
-          "function"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "reduce",
-        "definition": "To make something smaller or less in amount, degree, or size.",
-        "businessContext": "In business, to reduce costs or waste is often a key objective for improving profitability and operational efficiency.",
-        "nuance": "The term 'reduce' can carry a negative connotation if it implies cutting essential services or quality, so it should be used thoughtfully.",
-        "synonyms": [
-          "decrease",
-          "diminish"
-        ],
-        "antonyms": [
-          "increase",
-          "expand"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "And then the other thing that we felt very strongly about was that the product experience was going to shift from what I'll call text completion to agents basically.",
@@ -268,8 +167,6 @@
     "context": "Scott is explaining Cognition's founding thesis and why they chose to focus on autonomous coding agents rather than simpler AI coding tools. He describes their early belief that AI would evolve beyond basic text completion (like GitHub Copilot) toward fully autonomous systems. This represents a fundamental shift from AI tools that assist with writing code to AI systems that can independently complete entire software engineering tasks.",
     "vocabulary_highlights": [
       "product experience",
-      "autonomous",
-      "evolve",
       "agents"
     ],
     "topics": [
@@ -283,9 +180,9 @@
       "Product Management",
       "Team Building"
     ],
-    "text_ko": "그리고 우리가 특히 확신했던 또 하나는 제품 경험이 제가 '텍스트 완성(text completion)'이라고 부르는 것에서 기본적으로 '에이전트(agents)'로 전환될 거라는 점이에요. 우리가 정말로 예상한 큰 변화는 일종의 텍스트-투-텍스트 모델(text-to-text model)에서 벗어나 스스로 결정을 내리고 현실 세계와 상호작용하며 피드백(feedback)을 받아들여 반복(iterate)하고 여러 단계를 거쳐 문제를 해결할 수 있는 실제 자율 시스템(autonomous system)으로 옮겨간다는 거예요.",
-    "text_zh": "然后还有一点我们特别坚信的就是，产品体验会从我说的文本补全转向智能体(agents)。我们真正感受到的大变化是，从这种文本到文本的模式转向真正的自主系统，这个系统能做决策，能跟现实世界交互，能接收反馈，能不断迭代，还能通过多个步骤来解决问题。",
-    "text_es": "Y después, lo otro en lo que teníamos clarísimo es que la experiencia del producto iba a cambiar de lo que yo llamaría completar texto a básicamente agentes. El gran cambio que realmente veíamos venir era pasar de este modelo de texto a texto a un sistema autónomo de verdad que puede tomar decisiones, que puede interactuar con el mundo real, que puede recibir feedback, que puede iterar y dar varios pasos para resolver problemas.",
+    "text_ko": "또 한 가지 저희가 강하게 느낀 건 제품 경험이, 제가 '텍스트 완성(text completion)'이라고 부르는 것에서 '에이전트(agents)'로 사실상 바뀔 거라는 점이에요.",
+    "text_zh": "另外我们很确定一点：产品体验会从我所说的文本补全（text completion）转向以智能体（agents）为主。",
+    "text_es": "Otra cosa en la que estábamos muy convencidos era que la experiencia del producto iba a cambiar, básicamente, de lo que yo llamaría completado de texto (text completion) a agentes (agents).",
     "key_sentence": "We felt very strongly about shifting from a text to text model to autonomous systems.",
     "text_trimmed": true,
     "original_text": "And then the other thing that we felt very strongly about was that the product experience was going to shift from what I'll call text completion to agents basically. The big shift that we really felt we would see is moving from kind of this text to text model to an actual autonomous system that can make decisions, that can interact with the real world, that can take in feedback, that can iterate and take multiple steps to solve problems.",
@@ -306,34 +203,6 @@
         ]
       },
       {
-        "word": "autonomous",
-        "definition": "Functioning independently without human intervention, often referring to systems or technologies that can operate on their own.",
-        "businessContext": "In tech and startups, autonomous systems are pivotal in fields like artificial intelligence and robotics, where they can enhance efficiency and reduce operational costs.",
-        "nuance": "While 'autonomous' suggests independence, it may also imply a level of reliability and sophistication that not all systems possess.",
-        "synonyms": [
-          "self-governing",
-          "independent"
-        ],
-        "antonyms": [
-          "dependent",
-          "subordinate"
-        ]
-      },
-      {
-        "word": "evolve",
-        "definition": "To develop gradually, especially in response to changing conditions or environments, leading to a more advanced state.",
-        "businessContext": "In a business context, companies must evolve their products and strategies to adapt to market trends and consumer demands to remain competitive.",
-        "nuance": "The term 'evolve' carries a positive connotation of growth and improvement, suggesting a natural progression rather than forced change.",
-        "synonyms": [
-          "develop",
-          "progress"
-        ],
-        "antonyms": [
-          "stagnate",
-          "regress"
-        ]
-      },
-      {
         "word": "agents",
         "definition": "Entities or systems that perform tasks or make decisions on behalf of others, often utilizing artificial intelligence to automate processes.",
         "businessContext": "In technology, agents are increasingly used in customer service and data analysis, streamlining operations and enhancing user interactions.",
@@ -347,19 +216,16 @@
           "human agents"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think there are certain things that it is much better at than a human. There are certain things that it's much worse at than a human.",
     "speaker": "Scott Wu",
     "timestamp": "00:07:52",
     "context": "Lenny asks Scott to compare Devin's current capabilities to human engineers using a seniority framework. Scott introduces the concept of 'jagged intelligence' - the idea that AI systems have very uneven capabilities, excelling dramatically in some areas while performing poorly in others. He explains that much of their learning has focused not just on improving Devin's coding abilities, but on figuring out optimal human-AI collaboration workflows.",
-    "vocabulary_highlights": [
-      "capabilities",
-      "framework",
-      "intelligence",
-      "uneven"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Learning & Growth",
       "Strategy & Planning"
@@ -371,71 +237,16 @@
       "Product Management",
       "Team Building"
     ],
-    "text_ko": "저는 어떤 일들은 사람보다 훨씬 잘하는 부분이 분명히 있다고 생각해요. 반대로 어떤 일들은 사람보다 훨씬 못하는 부분도 있어요. 그리고 지난 1년 동안 우리는 특히 코딩 에이전트(coding agents)뿐만 아니라 에이전트(agents) 전반에 대해, 에이전트를 우리의 워크플로(workflow)의 일부로서 어떻게 함께 일하고 상호작용하게 할지에 대해 많은 걸 배웠어요.",
-    "text_zh": "我觉得AI在某些方面确实比人强很多，但在另一些方面又比人差得远。这一年下来我们学到了不少东西，特别是不光是代码智能体(coding agents)，而是各种智能体(agents)，就是怎么把这些智能体融入到我们的工作流程里，大家该怎么跟它们配合。",
-    "text_es": "Creo que hay ciertas cosas en las que es mucho mejor que los humanos. Hay otras en las que es mucho peor que nosotros. Y creo que durante el último año hemos aprendido muchísimo, especialmente no solo sobre los agentes de programación sino sobre los agentes en general, realmente desarrollando cómo todos nosotros deberíamos trabajar e interactuar con los agentes como parte de nuestro flujo de trabajo.",
+    "text_ko": "제 생각에는 어떤 건 사람보다 훨씬 잘하고, 어떤 건 사람보다 훨씬 못해요.",
+    "text_zh": "我觉得在某些方面它比人强得多，但在另一些方面又远比不上人。",
+    "text_es": "Creo que hay tareas que hace mucho mejor que una persona, y otras en las que lo hace mucho peor.",
     "key_sentence": "There are certain things that it's much worse at than a human.",
     "text_trimmed": true,
     "original_text": "I think there are certain things that it is much better at than a human. There are certain things that it's much worse at than a human. And I think over the last year we've learned a lot especially about not just coding agents but agents in general just really building out how all of us should be working and interacting with agents as part of our flow.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "capabilities",
-        "definition": "The skills, resources, or abilities that enable an individual or organization to perform tasks or achieve objectives.",
-        "businessContext": "In business and technology, capabilities often refer to the specific functions or features that a product or service can offer, which can influence competitive advantage.",
-        "nuance": "While 'capabilities' can imply a positive potential, it may also suggest limitations when discussing what is not possible.",
-        "synonyms": [
-          "abilities",
-          "competencies"
-        ],
-        "antonyms": [
-          "inabilities",
-          "limitations"
-        ]
-      },
-      {
-        "word": "framework",
-        "definition": "A structured approach or system that provides a foundation for understanding, analyzing, or developing a particular concept or process.",
-        "businessContext": "In business and tech, frameworks are often used to guide project management, software development, or strategic planning, ensuring consistency and efficiency.",
-        "nuance": "The term can imply a rigid structure, but it may also suggest flexibility depending on the context in which it is applied.",
-        "synonyms": [
-          "structure",
-          "system"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
-      },
-      {
-        "word": "intelligence",
-        "definition": "The ability to acquire and apply knowledge and skills, often associated with cognitive functions such as reasoning, problem-solving, and learning.",
-        "businessContext": "In the context of business and technology, intelligence can refer to data-driven insights, artificial intelligence, or competitive intelligence that inform decision-making.",
-        "nuance": "While 'intelligence' generally has a positive connotation, it can also imply a comparison with others, particularly when discussing human versus machine capabilities.",
-        "synonyms": [
-          "insight",
-          "acumen"
-        ],
-        "antonyms": [
-          "ignorance",
-          "stupidity"
-        ]
-      },
-      {
-        "word": "uneven",
-        "definition": "Not uniform, consistent, or equal in quality, quantity, or degree; characterized by irregularity or disparity.",
-        "businessContext": "In business, 'uneven' can describe market conditions, performance metrics, or resource allocation that vary significantly across different areas or periods.",
-        "nuance": "The term often carries a negative connotation, suggesting instability or unpredictability, and is typically used to highlight disparities that need addressing.",
-        "synonyms": [
-          "irregular",
-          "disparate"
-        ],
-        "antonyms": [
-          "consistent",
-          "uniform"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "computers are obviously getting more and more intelligence and are able to do more and more... there may come a day where computers truly do everything that we do and humans are not responsible for any of it.",
@@ -444,9 +255,7 @@
     "context": "Lenny asks Scott how the act of being an engineer is changing for companies using Devin today. Scott provides his philosophical perspective on AI's role in programming, emphasizing that software engineering has always been about instructing computers through layers of abstraction. He acknowledges the possibility of full automation while focusing on the current reality where humans remain essential to the programming process.",
     "vocabulary_highlights": [
       "responsible",
-      "intelligence",
-      "philosophical",
-      "engineering"
+      "intelligence"
     ],
     "topics": [
       "Strategy & Planning",
@@ -459,9 +268,9 @@
       "Product Management",
       "Team Building"
     ],
-    "text_ko": "제가 보기에 우리가 늘 그렇게 생각해온 방식은 추상화 계층(layers of abstraction)과 여러 도구들이 있다는 거예요. 한마디로 말하면, 인공지능(AI)을 대체로 이렇게 생각해요. 그러니까 컴퓨터가 점점 더 지능을 갖추고 할 수 있는 일이 늘어나고 있고, 어쩌면 언젠가는 컴퓨터가 우리가 하는 모든 일을 진짜로 다 해내서 인간은 아무런 책임도 지지 않는 날이 올 수도 있다고 생각해요.",
-    "text_zh": "我觉得我们一直以来的想法就是，技术有很多层级，也有各种工具，从宏观角度来说，我对AI的理解就是，电脑明显是越来越聪明了，能干的事也越来越多，说不定哪天电脑真的能把我们人类做的所有事都包了，到时候可能就不需要人来负责任何事情了。",
-    "text_es": "Mira, yo creo que siempre lo hemos visto así: hay diferentes niveles de abstracción (layers of abstraction) y hay herramientas, y si lo digo a grandes rasgos, pienso en la IA en general como... bueno, es obvio que las computadoras cada vez son más inteligentes y pueden hacer más y más cosas, y es posible que llegue el día en que las computadoras realmente hagan todo lo que hacemos nosotros y los humanos ya no seamos responsables de nada.",
+    "text_ko": "컴퓨터와 인공지능(AI)이 점점 더 똑똑해지고 할 수 있는 일도 늘어나고 있어요. 언젠가 컴퓨터가 우리가 하는 모든 일을 진짜로 다 하게 돼서 사람은 전혀 책임을 지지 않는 날이 올지도 몰라요.",
+    "text_zh": "现在电脑显然越来越聪明，能做的事也越来越多……说不定有一天电脑会把我们现在做的所有工作都接手了，人类不再需要为这些事负责。",
+    "text_es": "Cada vez es más evidente que las computadoras son más inteligentes y capaces de hacer más cosas... Puede llegar un día en que realmente hagan todo lo que hacemos y los humanos no tengamos nada que ver.",
     "key_sentence": "AI has layers of abstraction, and computers may one day do everything, leaving humans not responsible.",
     "text_trimmed": true,
     "original_text": "I think the way that we've always thought about it is there's layers of abstraction and there's tools, and one way I would say it at a high level is kind of I think of AI in general as, yeah, I mean computers are obviously getting more and more intelligence and are able to do more and more and it's possible there may come a day where computers truly do everything that we do and humans are not responsible for any of it.",
@@ -494,48 +303,17 @@
           "ignorance",
           "stupidity"
         ]
-      },
-      {
-        "word": "philosophical",
-        "definition": "Relating to the study of fundamental nature of knowledge, reality, and existence; often involves critical thinking and reasoning.",
-        "businessContext": "In a business setting, a philosophical approach may influence corporate culture, ethical decision-making, and long-term strategic planning.",
-        "nuance": "This term can suggest a deep, reflective approach to problems, often implying a consideration of ethical implications and broader impacts.",
-        "synonyms": [
-          "theoretical",
-          "reflective"
-        ],
-        "antonyms": [
-          "practical",
-          "empirical"
-        ]
-      },
-      {
-        "word": "engineering",
-        "definition": "The application of scientific and mathematical principles to design and build structures, machines, and systems.",
-        "businessContext": "In the tech industry, engineering is critical for developing software and hardware solutions, driving innovation, and ensuring product functionality.",
-        "nuance": "The term often implies a systematic and methodical approach to problem-solving, and can also connote creativity in design and functionality.",
-        "synonyms": [
-          "design",
-          "construction"
-        ],
-        "antonyms": [
-          "destruction",
-          "dismantling"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "One of the ways that we've kind of thought about Devin in building Devin is really allowing engineers to go from bricklayer to architect, so to speak.",
     "speaker": "Scott Wu",
     "timestamp": "00:24:21",
     "context": "Scott is describing how Devin changes the role of software engineers by handling routine implementation tasks. The 'bricklayer to architect' metaphor illustrates how engineers can shift from hands-on coding work to high-level design and specification. Scott emphasizes that humans remain in control of decision-making and architectural choices while AI handles the detailed implementation work, effectively multiplying human productivity.",
-    "vocabulary_highlights": [
-      "shift",
-      "metaphor",
-      "implementation",
-      "role"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Career Development",
       "Strategy & Planning"
@@ -547,70 +325,15 @@
       "Product Management",
       "Team Building"
     ],
-    "text_ko": "우리가 Devin을 만들면서 생각한 것 중 하나는 엔지니어들이 벽돌공에서 건축가로 역할을 전환할 수 있게 해주는 거예요. 많은 부분이 결국 상위 수준의 지시(high-level directing)를 할 수 있는 단계에 이르고, 원하는 대로 정확히 지정(specify)할 수 있게 되는 거죠. 핵심은 여전히 사람이 주도권을 가지고 전체 사양(full specification)을 직접 작성할 수 있다는 점이고, 다만 하루나 한 시간 같은 짧은 시간 안에 할 수 있는 일과 만들 수 있는 것들의 규모를 훨씬 더 키워준다는 거예요.",
-    "text_zh": "我们在开发Devin的时候，有个想法就是让工程师能够从搬砖工变成架构师，这么说吧。很大程度上就是让你能够做高层次的指导工作，基本上可以完全按照你想要的方式去指定需求。我觉得这还是要让人来掌控全局，让人能够做完整的需求规划，只不过是把你一天或者一小时内能完成的工作量和能搭建的东西成倍放大。",
-    "text_es": "Una de las formas en que hemos pensado en Devin al desarrollarlo es realmente permitir que los ingenieros pasen de ser albañiles a ser arquitectos, por decirlo así. Mucho de esto se trata de llegar al punto donde puedes hacer la dirección de alto nivel y básicamente especificar las cosas exactamente como las quieres. Creo que se trata mucho de seguir teniendo al humano en control y que el humano pueda hacer toda la especificación, pero simplemente multiplicar la magnitud de lo que puedes hacer y lo que puedes construir en un día o en una hora o el tiempo que sea.",
+    "text_ko": "Devin을 만들면서 우리가 Devin을 대해 생각한 방식 중 하나는, 엔지니어들이 말하자면 단순한 벽돌공에서 아키텍트(architect)로 역할을 확장할 수 있게 하는 것이었어요.",
+    "text_zh": "做 Devin 时，我们的一个初衷是，让工程师不只是搬砖，而是能晋升为架构师，可以这么说。",
+    "text_es": "Una de las ideas que tuvimos al construir Devin fue permitir que los ingenieros pasaran de ejecutores a arquitectos, por así decirlo.",
     "key_sentence": "allowing engineers to go from bricklayer to architect, so to speak.",
     "text_trimmed": true,
     "original_text": "One of the ways that we've kind of thought about Devin in building Devin is really allowing engineers to go from bricklayer to architect, so to speak. A lot of it is just getting to the point where you can do the high-level directing and you can basically specify things exactly how you want. I think it's very much about still having the human in control and having the human able to do the full specification, but just multiplying the magnitude of what you can do and what you can build in one day or one hour or however long.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "shift",
-        "definition": "To change position, direction, or focus; a movement from one state to another.",
-        "businessContext": "In business, a shift often refers to a change in strategy, market focus, or organizational structure that can impact operations and outcomes.",
-        "nuance": "While 'shift' implies a change, it can also suggest a gradual transition rather than an abrupt alteration.",
-        "synonyms": [
-          "change",
-          "transition"
-        ],
-        "antonyms": [
-          "stability",
-          "consistency"
-        ]
-      },
-      {
-        "word": "metaphor",
-        "definition": "A figure of speech that implies a comparison between two unlike entities, suggesting that one embodies the qualities of the other.",
-        "businessContext": "Metaphors are frequently used in business communication to simplify complex ideas, making them more relatable and understandable for stakeholders.",
-        "nuance": "Using a metaphor can enhance clarity and engagement, but it should be used judiciously to avoid confusion or misinterpretation.",
-        "synonyms": [
-          "analogy",
-          "symbol"
-        ],
-        "antonyms": [
-          "literal",
-          "fact"
-        ]
-      },
-      {
-        "word": "implementation",
-        "definition": "The process of putting a decision or plan into effect; execution of a strategy or system.",
-        "businessContext": "In a business or tech environment, implementation refers to the actual deployment of new processes, technologies, or policies that were previously planned.",
-        "nuance": "Implementation can involve challenges and requires careful planning and resource allocation to ensure success.",
-        "synonyms": [
-          "execution",
-          "deployment"
-        ],
-        "antonyms": [
-          "abandonment",
-          "neglect"
-        ]
-      },
-      {
-        "word": "role",
-        "definition": "The function or position that an individual or entity occupies within a particular context or organization.",
-        "businessContext": "In business, roles define responsibilities and expectations for employees, teams, and departments, influencing collaboration and productivity.",
-        "nuance": "Understanding one's role is crucial for effective teamwork; however, roles can evolve over time as organizations change.",
-        "synonyms": [
-          "function",
-          "position"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

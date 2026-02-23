@@ -4,12 +4,7 @@
     "speaker": "Christopher Lochhead",
     "timestamp": "00:00:00",
     "context": "Lenny asks Chris to share his thoughts on the current landscape for creators and entrepreneurs. Chris emphasizes that today is an unprecedented time for innovation and entrepreneurship, encouraging individuals to pursue their passions and make a significant impact. He highlights the importance of working on exponential changes rather than incremental improvements.",
-    "vocabulary_highlights": [
-      "unprecedented",
-      "innovation",
-      "entrepreneurship",
-      "landscape"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Career Development",
       "Starting a Company"
@@ -20,83 +15,23 @@
       "Marketing Strategy",
       "Company Building"
     ],
-    "text_ko": "당신이 정말로 큰 변화를 만들고 싶고, 혁신하고, 새로운 가치를 창출하고 싶다면, 그리고 나중에 돌아봤을 때 \"내가 이 팀의 일원이었고, 저런 일도 했었지\"라고 자랑스럽게 말할 수 있는 전설적인 커리어를 원한다면, 지금이 역사상 가장 좋은 시점이에요. 제가 하고 싶은 말은, 미래는 당신이 필요하다는 거예요.",
-    "text_zh": "如果你希望创造显著的影响，想要创新，想要在原本没有的地方创造新价值，想要拥有一个传奇的职业生涯，回首往事时能够自豪地说：“我参与了这个和那个，我在这个团队中。”那么，现在是历史上最好的时机。我想对你说的是，未来需要你。",
-    "text_es": "Si eres alguien que desea hacer una diferencia exponencial, que quiere innovar, crear nuevo valor donde antes no existía, y tener una carrera legendaria de la cual puedas mirar atrás y decir: \"Yo formé parte de esto y aquello, y estuve en este equipo\", ahora es el mejor momento en la historia. Y lo que te diría es que el futuro te necesita.",
+    "text_ko": "지금은 역사상 가장 멋진 시기예요. 제가 여러분께 드리고 싶은 말은, 미래가 여러분을 필요로 한다는 거예요.",
+    "text_zh": "现在是历史上最好的时代。我想说的是，未来需要你们。",
+    "text_es": "Ahora vivimos el mejor momento de la historia. Y lo que te diría es: el futuro te necesita.",
     "key_sentence": "the future needs you.",
     "text_trimmed": true,
     "original_text": "If you are somebody for whom you want to make an exponential difference, you want to innovate, you want to create new value where there wasn't, you want to have a legendary career where you could look back on your career and go, you know what? I was part of this and that, and I was on this team, now's the greatest time in history. And what I would say to you is, the future needs you.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "unprecedented",
-        "definition": "Never done or known before; without previous example.",
-        "businessContext": "In business, 'unprecedented' often describes market conditions, innovations, or challenges that have never been encountered, requiring novel strategies and responses.",
-        "nuance": "While it conveys a sense of extraordinary change or occurrence, it can also imply a level of unpredictability that may induce caution.",
-        "synonyms": [
-          "extraordinary",
-          "unmatched"
-        ],
-        "antonyms": [
-          "commonplace",
-          "ordinary"
-        ]
-      },
-      {
-        "word": "innovation",
-        "definition": "The process of creating new ideas, products, or methods that improve upon existing standards.",
-        "businessContext": "In the business and tech sectors, 'innovation' is crucial for competitive advantage, driving growth and meeting evolving consumer needs.",
-        "nuance": "It often carries a positive connotation, suggesting progress and improvement, but can also imply disruption to established practices.",
-        "synonyms": [
-          "advancement",
-          "breakthrough"
-        ],
-        "antonyms": [
-          "stagnation",
-          "regression"
-        ]
-      },
-      {
-        "word": "entrepreneurship",
-        "definition": "The act of starting and managing a new business venture, often characterized by risk-taking and innovation.",
-        "businessContext": "In the startup ecosystem, 'entrepreneurship' is celebrated as a key driver of economic growth, job creation, and technological advancement.",
-        "nuance": "While it embodies ambition and creativity, it can also suggest uncertainty and the potential for failure.",
-        "synonyms": [
-          "business ownership",
-          "venture creation"
-        ],
-        "antonyms": [
-          "employment",
-          "inactivity"
-        ]
-      },
-      {
-        "word": "landscape",
-        "definition": "The overall environment or context in which a particular activity or industry operates, including competitors, market trends, and regulatory factors.",
-        "businessContext": "In business strategy, understanding the 'landscape' is essential for identifying opportunities and threats within a given market or sector.",
-        "nuance": "It implies a dynamic and ever-changing environment, making it important to stay informed and adaptable.",
-        "synonyms": [
-          "environment",
-          "ecosystem"
-        ],
-        "antonyms": [
-          "stagnation",
-          "uniformity"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "when the world gets my better, the world will beat a path to my door.",
     "speaker": "Christopher Lochhead",
     "timestamp": "00:12:23",
     "context": "Chris discusses a common mindset among entrepreneurs where they choose to compete in established markets instead of creating new categories. He points out that many mistakenly believe that having a superior product or service will guarantee success. This mindset often leads to fierce competition for a small share of the market rather than innovating and defining a new market space.",
-    "vocabulary_highlights": [
-      "established markets",
-      "compete",
-      "mindset",
-      "categories"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Strategy & Planning",
       "Starting a Company"
@@ -107,71 +42,16 @@
       "Marketing Strategy",
       "Company Building"
     ],
-    "text_ko": "그들이 내리는 결정은 '내가 할 일은 수요가 있는 시장에서 더 나은 제품/서비스/브랜드, 어쩌면 더 나은 비즈니스 모델로 경쟁하는 거야.' 라는 거예요. 그리고 세상이 내 더 나은 걸 알게 되면, 사람들이 내 문 앞에 줄을 설 거예요.",
-    "text_zh": "他们做出的决定是：“我将要做的是，在有需求的市场中，凭借更好的产品/服务/品牌，甚至可能是更好的商业模式进行竞争。”当世界看到我的优势时，必定会主动找上我。",
-    "text_es": "La decisión que toman es: \"Lo que voy a hacer es competir en un mercado con demanda, con un mejor producto/servicio/marca, tal vez con un mejor modelo de negocio.\" Y cuando el mundo reconozca mi superioridad, vendrá a buscarme.",
+    "text_ko": "제가 세상을 더 좋게 만든다면, 사람들이 줄지어 제 문 앞까지 찾아올 거예요.",
+    "text_zh": "当我把产品做到极致的时候，客户自然会找上门来。",
+    "text_es": "Cuando mi trabajo sea lo mejor que hay, el mundo vendrá a buscarme.",
     "key_sentence": "A better product/service/brand will make the world beat a path to my door.",
     "text_trimmed": true,
     "original_text": "The decision they make is, 'What I'm going to do, is I am going to compete in a market with demand, with a better product/service/brand, maybe a better business model.' And when the world gets my better, the world will beat a path to my door.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "established markets",
-        "definition": "Markets that have a long-standing presence and are characterized by stable demand and competition.",
-        "businessContext": "In business, established markets often represent sectors where companies have a clear understanding of consumer behavior and competitive dynamics, making it challenging for new entrants to gain a foothold.",
-        "nuance": "The term suggests a sense of reliability and predictability, but it can also imply saturation and limited growth opportunities.",
-        "synonyms": [
-          "mature markets",
-          "traditional markets"
-        ],
-        "antonyms": [
-          "emerging markets",
-          "nascent markets"
-        ]
-      },
-      {
-        "word": "compete",
-        "definition": "To strive against others to achieve a goal, often in terms of market share, customers, or resources.",
-        "businessContext": "In a business context, companies compete to attract customers, innovate products, and increase profitability, often leading to price wars or enhanced service offerings.",
-        "nuance": "While 'compete' has a straightforward meaning, it can carry a connotation of rivalry and aggression, which may not always be appropriate in collaborative business environments.",
-        "synonyms": [
-          "contend",
-          "vie"
-        ],
-        "antonyms": [
-          "cooperate",
-          "collaborate"
-        ]
-      },
-      {
-        "word": "mindset",
-        "definition": "A set of beliefs or attitudes that shape how an individual or group perceives and responds to situations.",
-        "businessContext": "In business, a growth mindset is often encouraged to foster innovation and resilience among employees, impacting overall organizational culture and performance.",
-        "nuance": "The term often implies a fixed way of thinking, but it can also be used positively to describe adaptability and openness to change.",
-        "synonyms": [
-          "attitude",
-          "perspective"
-        ],
-        "antonyms": [
-          "stagnation",
-          "narrow-mindedness"
-        ]
-      },
-      {
-        "word": "categories",
-        "definition": "Classifications or groupings that help organize products, services, or concepts based on shared characteristics.",
-        "businessContext": "In marketing and product development, understanding categories is crucial for positioning, targeting, and differentiating offerings in the marketplace.",
-        "nuance": "While 'categories' can refer to broad classifications, it can also imply a need for specificity and clarity in defining market segments.",
-        "synonyms": [
-          "classifications",
-          "types"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Nobody legendary ever did that. Not a one. We all know who Bob Marley is. We don't know who the 17th greatest reggae musician or band in the world is.",
@@ -179,10 +59,7 @@
     "timestamp": "00:13:16",
     "context": "Chris argues that the most admired figures in various fields, including business and arts, are those who have created new categories rather than competing within existing ones. He uses Bob Marley as an example of a legendary artist who stands out because he defined his own category, while the lesser-known figures remain largely forgotten. This underscores the significance of category design in achieving lasting recognition.",
     "vocabulary_highlights": [
-      "legendary",
-      "admired",
-      "competing",
-      "categories"
+      "legendary"
     ],
     "topics": [
       "Leadership & Management",
@@ -213,50 +90,9 @@
           "unknown",
           "insignificant"
         ]
-      },
-      {
-        "word": "admired",
-        "definition": "Regarded with respect or warm approval, often due to qualities such as skill, integrity, or accomplishments.",
-        "businessContext": "In the corporate world, individuals or companies that are 'admired' are often seen as role models, influencing best practices and leadership styles.",
-        "nuance": "While 'admired' is generally positive, it can also suggest a degree of distance, as admiration does not necessarily imply personal connection.",
-        "synonyms": [
-          "esteemed",
-          "valued"
-        ],
-        "antonyms": [
-          "despised",
-          "disregarded"
-        ]
-      },
-      {
-        "word": "competing",
-        "definition": "Engaging in a contest or rivalry, often to achieve a goal or gain an advantage over others.",
-        "businessContext": "In the business landscape, 'competing' refers to companies or products vying for market share, customer loyalty, or innovation dominance.",
-        "nuance": "The term can imply both healthy rivalry and cutthroat tactics, so it's important to clarify the nature of the competition when using it.",
-        "synonyms": [
-          "rivaling",
-          "contending"
-        ],
-        "antonyms": [
-          "cooperating",
-          "collaborating"
-        ]
-      },
-      {
-        "word": "categories",
-        "definition": "Distinct groups or classes into which items, ideas, or individuals are organized based on shared characteristics or criteria.",
-        "businessContext": "In business, 'categories' are often used to segment markets, products, or services, helping organizations tailor their strategies and offerings to specific audiences.",
-        "nuance": "While 'categories' can provide clarity, over-categorization may lead to rigidity, so it's essential to remain flexible in how items are classified.",
-        "synonyms": [
-          "classifications",
-          "groups"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "You either stay in your niche and get diminished over time, or you uplevel and you go to play for the whole enchilada.",
@@ -265,9 +101,7 @@
     "context": "Chris explains the choices available to companies once they find initial success in a niche market. He warns that staying confined to a niche can lead to stagnation, while expanding to capture the broader market ('the whole enchilada') can lead to significant growth. This highlights the importance of evolving beyond initial success to maintain relevance and competitiveness.",
     "vocabulary_highlights": [
       "uplevel",
-      "niche",
-      "stagnation",
-      "capture"
+      "niche"
     ],
     "topics": [
       "Growth & Marketing",
@@ -312,36 +146,9 @@
           "mainstream",
           "general market"
         ]
-      },
-      {
-        "word": "stagnation",
-        "definition": "A state of inactivity or lack of growth, often characterized by a halt in progress or development.",
-        "businessContext": "In a business context, stagnation can refer to a company's failure to innovate or expand, leading to decreased competitiveness and market share.",
-        "nuance": "The term often carries negative implications, suggesting missed opportunities and a need for revitalization or change.",
-        "synonyms": [
-          "standstill",
-          "dormancy"
-        ],
-        "antonyms": [
-          "growth",
-          "progress"
-        ]
-      },
-      {
-        "word": "capture",
-        "definition": "To successfully obtain or seize something, often referring to market share, customer interest, or data.",
-        "businessContext": "In business, 'capture' is frequently used in the context of acquiring customers or market segments, as well as gathering valuable insights through data analytics.",
-        "nuance": "The term implies a strategic effort to gain control or influence, and can be used in both positive and competitive contexts.",
-        "synonyms": [
-          "acquire",
-          "seize"
-        ],
-        "antonyms": [
-          "lose",
-          "release"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "Problems create categories, and you either have to A, solve a new problem, or B, reframe, name and claim an existing problem in a different way.",
@@ -350,9 +157,7 @@
     "context": "Chris discusses the fundamental relationship between problems and categories in business. He emphasizes that successful companies either solve a new problem or creatively reframe an existing one. This insight is crucial for entrepreneurs seeking to innovate and differentiate themselves in the market.",
     "vocabulary_highlights": [
       "reframe",
-      "claim",
-      "fundamental",
-      "emphasize"
+      "claim"
     ],
     "topics": [
       "Product Management",
@@ -397,48 +202,16 @@
           "deny",
           "retract"
         ]
-      },
-      {
-        "word": "fundamental",
-        "definition": "Serving as a basic, essential, or foundational element of a system or concept.",
-        "businessContext": "Understanding fundamental principles is crucial in business strategy, as they guide decision-making and operational frameworks.",
-        "nuance": "The term 'fundamental' often implies a deep-rooted importance, and should be used when discussing core values or essential components of a business model.",
-        "synonyms": [
-          "essential",
-          "foundational"
-        ],
-        "antonyms": [
-          "superficial",
-          "secondary"
-        ]
-      },
-      {
-        "word": "emphasize",
-        "definition": "To give special importance or prominence to something in speaking or writing.",
-        "businessContext": "In business communication, emphasizing key points can enhance clarity and persuade stakeholders by highlighting critical information.",
-        "nuance": "While emphasizing is important for effective communication, overemphasis can lead to misunderstandings or perceptions of bias.",
-        "synonyms": [
-          "highlight",
-          "underscore"
-        ],
-        "antonyms": [
-          "downplay",
-          "minimize"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "Thinking about thinking is the most important kind of thinking.",
     "speaker": "Christopher Lochhead",
     "timestamp": "00:39:08",
     "context": "Chris introduces the concept of 'thinking about thinking' as a foundational principle in category design. He suggests that entrepreneurs must reflect critically on their thought processes and assumptions to foster innovative thinking. This approach encourages breaking free from conventional mindsets to cultivate unique and impactful ideas.",
-    "vocabulary_highlights": [
-      "foundational",
-      "reflect critically",
-      "assumptions",
-      "entrepreneurs"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Learning & Growth",
       "Strategy & Planning"
@@ -454,76 +227,15 @@
     "text_es": "Reflexionar sobre cómo pensamos es el tipo de pensamiento más importante.",
     "key_sentence": "Thinking about thinking is the most important kind of thinking.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "foundational",
-        "definition": "Serving as the basis or groundwork for something; essential for the development or establishment of a system or concept.",
-        "businessContext": "In business, foundational principles or strategies are critical for building a sustainable organization and guiding decision-making processes.",
-        "nuance": "This term often implies a strong, underlying importance and is typically used in discussions about core values or strategies.",
-        "synonyms": [
-          "fundamental",
-          "essential"
-        ],
-        "antonyms": [
-          "superficial",
-          "peripheral"
-        ]
-      },
-      {
-        "word": "reflect critically",
-        "definition": "To think deeply and analytically about one's own thoughts, decisions, and actions, often questioning their validity and implications.",
-        "businessContext": "In a business environment, reflecting critically can lead to better strategic decisions and innovations by encouraging leaders to evaluate past performances and assumptions.",
-        "nuance": "This phrase suggests a thorough and often challenging examination of ideas, making it suitable for discussions about improvement and learning.",
-        "synonyms": [
-          "analyze",
-          "evaluate"
-        ],
-        "antonyms": [
-          "accept blindly",
-          "ignore"
-        ]
-      },
-      {
-        "word": "assumptions",
-        "definition": "Beliefs or statements taken for granted without proof, often serving as the basis for reasoning or decision-making.",
-        "businessContext": "In business, assumptions can significantly influence strategies and outcomes, making it crucial for leaders to identify and validate them.",
-        "nuance": "While assumptions can streamline decision-making, they may also lead to errors if left unexamined, so careful consideration is advised.",
-        "synonyms": [
-          "premises",
-          "presumptions"
-        ],
-        "antonyms": [
-          "facts",
-          "certainties"
-        ]
-      },
-      {
-        "word": "entrepreneurs",
-        "definition": "Individuals who create, develop, and manage new business ventures, often taking on financial risks in the hope of profit.",
-        "businessContext": "Entrepreneurs are vital to the economy as they drive innovation, create jobs, and contribute to market competition.",
-        "nuance": "This term carries a connotation of creativity and risk-taking, and is often used in discussions about startups and economic growth.",
-        "synonyms": [
-          "business owners",
-          "founders"
-        ],
-        "antonyms": [
-          "employees",
-          "followers"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true
   },
   {
     "text": "If you're lucky enough to make it to the top of a mountain, throw down a fucking rope.",
     "speaker": "Christopher Lochhead",
     "timestamp": "01:42:09",
     "context": "Chris shares a personal motto that emphasizes the importance of helping others once you've achieved success. He underscores the value of mentorship and support, especially for those who face challenges. This message resonates with the theme of community and collaboration in the entrepreneurial journey.",
-    "vocabulary_highlights": [
-      "mentorship",
-      "support",
-      "achieve",
-      "value"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Coaching & Development",
       "Leadership & Management"
@@ -539,63 +251,7 @@
     "text_es": "Si tienes la suerte de llegar a la cima de una montaña, tiende una cuerda.",
     "key_sentence": "If you reach the top, throw down a rope.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "mentorship",
-        "definition": "The guidance provided by a mentor, often involving advice, support, and encouragement to help someone develop their skills and knowledge.",
-        "businessContext": "In business settings, mentorship is crucial for fostering talent, enhancing employee performance, and facilitating knowledge transfer within organizations.",
-        "nuance": "Mentorship implies a relationship that is often informal and based on trust, as opposed to formal training or coaching.",
-        "synonyms": [
-          "guidance",
-          "coaching"
-        ],
-        "antonyms": [
-          "neglect",
-          "abandonment"
-        ]
-      },
-      {
-        "word": "support",
-        "definition": "Assistance or backing provided to someone or something, often in the form of resources, encouragement, or emotional reinforcement.",
-        "businessContext": "In a business environment, support can refer to both tangible resources, such as funding or tools, and intangible aspects like morale and teamwork.",
-        "nuance": "Support can be both proactive and reactive; it is important to gauge when to offer help versus when to encourage independence.",
-        "synonyms": [
-          "assistance",
-          "backing"
-        ],
-        "antonyms": [
-          "obstruction",
-          "hindrance"
-        ]
-      },
-      {
-        "word": "achieve",
-        "definition": "To successfully reach a desired goal or outcome through effort, skill, or perseverance.",
-        "businessContext": "In the business world, achieving targets or milestones is often a key performance indicator for individuals and teams, reflecting their effectiveness and productivity.",
-        "nuance": "Achieve carries a sense of accomplishment and often implies overcoming challenges, making it more impactful than simply 'doing' something.",
-        "synonyms": [
-          "attain",
-          "accomplish"
-        ],
-        "antonyms": [
-          "fail",
-          "abandon"
-        ]
-      },
-      {
-        "word": "value",
-        "definition": "The importance, worth, or usefulness of something, often assessed in terms of its benefits or contributions.",
-        "businessContext": "In business, value is a critical concept that drives decision-making, influencing pricing strategies, customer satisfaction, and overall competitive advantage.",
-        "nuance": "Value can be subjective and context-dependent, varying between stakeholders and situations, thus requiring careful consideration in discussions.",
-        "synonyms": [
-          "worth",
-          "importance"
-        ],
-        "antonyms": [
-          "worthlessness",
-          "insignificance"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true
   }
 ]

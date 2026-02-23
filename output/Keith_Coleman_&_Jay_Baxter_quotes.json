@@ -92,7 +92,6 @@
     "vocabulary_highlights": [
       "philosophical",
       "participate",
-      "polarized",
       "understand"
     ],
     "topics": [
@@ -141,20 +140,6 @@
         ]
       },
       {
-        "word": "polarized",
-        "definition": "Divided into sharply contrasting groups or opinions; often refers to a situation where there is a clear and significant disagreement.",
-        "businessContext": "In a business setting, polarization can occur in team dynamics or market segments, affecting collaboration, decision-making, and customer relations.",
-        "nuance": "While it can indicate a strong stance on issues, polarization may also suggest a lack of compromise or dialogue, which can be detrimental in collaborative environments.",
-        "synonyms": [
-          "divided",
-          "split"
-        ],
-        "antonyms": [
-          "unified",
-          "harmonized"
-        ]
-      },
-      {
         "word": "understand",
         "definition": "To grasp the meaning, significance, or nature of something; to comprehend fully.",
         "businessContext": "Understanding customer needs and market trends is vital for businesses to develop effective strategies and products that resonate with their target audience.",
@@ -168,7 +153,8 @@
           "ignore"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "If I were to start a company in that company, it would be even leaner than I would've made it before.",
@@ -176,10 +162,7 @@
     "timestamp": "00:01:13",
     "context": "Lenny asks Keith what might surprise people about working for Elon Musk within X. Keith shares how his experience at X has changed his perspective on team structure and company operations. He explains that seeing what small teams can accomplish has made him realize he would build future companies with even leaner teams than he previously thought possible.",
     "vocabulary_highlights": [
-      "leaner",
-      "perspective",
-      "team structure",
-      "company operations"
+      "leaner"
     ],
     "topics": [
       "Leadership & Management",
@@ -192,9 +175,9 @@
       "Data Analytics",
       "Product Management"
     ],
-    "text_ko": "사내에서 회사를 시작한다면, 예전에 제가 만들었을 때보다 훨씬 더 린(lean)하게 만들었을 거예요. 작은 인원으로도 팀이 이렇게 많은 걸 해내는 모습에 정말 놀랐고, 그게 소규모라서 가능한 것 같아요.",
-    "text_zh": "如果让我在那个公司里重新创业的话，我会做得比以前更精简。我真的很惊讶，就这么小的团队居然能搞定这么多事情，我觉得正是因为团队小——",
-    "text_es": "Si tuviera que arrancar una empresa en ese sector, la haría aún más ágil de lo que la hubiera hecho antes. Me ha sorprendido increíblemente todo lo que el equipo logra conseguir siendo tan pocos, y creo que precisamente por ser un grupo pequeño-",
+    "text_ko": "그 회사 안에서 새 회사를 만든다면, 예전에 만들었을 때보다 훨씬 더 린(lean)하게 운영했을 거예요.",
+    "text_zh": "要是我在那家公司里创个公司，我会把它弄得比以前更精益(lean)。",
+    "text_es": "Si tuviera que montar una empresa dentro de esa compañía, la haría aún más ajustada (lean) que la que habría montado antes.",
     "key_sentence": "it would be even leaner than I would've made it before.",
     "text_trimmed": true,
     "original_text": "If I were to start a company in that company, it would be even leaner than I would've made it before. I've been amazed with just how much the team is able to accomplish with a small group and I think because of a small group-",
@@ -213,50 +196,10 @@
           "bulkier",
           "overstaffed"
         ]
-      },
-      {
-        "word": "perspective",
-        "definition": "A particular attitude or way of considering something; a viewpoint.",
-        "businessContext": "In business discussions, 'perspective' often refers to the different viewpoints stakeholders may have regarding strategies, operations, or market conditions.",
-        "nuance": "The term can imply a subjective viewpoint, so it's important to clarify that it may not represent an objective truth.",
-        "synonyms": [
-          "viewpoint",
-          "outlook"
-        ],
-        "antonyms": [
-          "narrow-mindedness",
-          "bias"
-        ]
-      },
-      {
-        "word": "team structure",
-        "definition": "The arrangement of roles, responsibilities, and relationships within a team.",
-        "businessContext": "In organizational settings, 'team structure' is crucial for defining how tasks are allocated, how communication flows, and how decisions are made within a team.",
-        "nuance": "The term can suggest a hierarchical or flat organization, and the choice of structure can significantly impact team dynamics and performance.",
-        "synonyms": [
-          "organizational structure",
-          "team hierarchy"
-        ],
-        "antonyms": [
-          "disorganization",
-          "chaos"
-        ]
-      },
-      {
-        "word": "company operations",
-        "definition": "The day-to-day activities and processes that a company undertakes to produce goods or services.",
-        "businessContext": "In a business context, 'company operations' encompass everything from supply chain management to customer service, and are critical for achieving strategic objectives.",
-        "nuance": "The term implies a focus on efficiency and effectiveness, and can sometimes be used to highlight areas needing improvement or optimization.",
-        "synonyms": [
-          "business processes",
-          "operational activities"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "people's agreement with the core claims in the post does change if they see it with a note versus without.",
@@ -264,10 +207,7 @@
     "timestamp": "00:00:36",
     "context": "Jay is explaining the effectiveness of Community Notes in response to Lenny's question about dealing with polarized users. He's addressing the concern that fact-checking might not actually change people's minds about controversial topics. Jay cites independent research showing that Community Notes do measurably impact how much people agree with claims in posts when they see additional context versus when they don't.",
     "vocabulary_highlights": [
-      "core claims",
-      "effectiveness",
-      "polarized",
-      "fact-checking"
+      "core claims"
     ],
     "topics": [
       "Product Management",
@@ -279,9 +219,9 @@
       "AI/ML Products",
       "Data Analytics"
     ],
-    "text_ko": "저희와 전혀 관련 없는 외부 연구에서, 커뮤니티 노트(Community Note)가 있는 게시물과 없는 게시물을 비교해 보니 사람들이 그 게시물의 핵심 주장에 동의하는 정도가 실제로 달라진다고 밝혀졌어요.",
-    "text_zh": "有一些完全独立的第三方研究发现，如果你拿同一条帖子，一个版本带社区笔记(Community Note)，一个版本不带，用户看到带笔记的版本时，对帖子核心观点的认同度确实会发生变化。",
-    "text_es": "Ha habido estudios externos realizados por gente completamente independiente a nosotros que han encontrado que si tomas una publicación con o sin una Nota Comunitaria (Community Note), efectivamente el nivel de acuerdo de las personas con las afirmaciones principales del post sí cambia cuando la ven con la nota versus sin ella.",
+    "text_ko": "사람들이 그 게시물의 핵심 주장(core claims)에 동의하는 정도는 노트(note)가 붙어 있는지 여부에 따라 달라져요.",
+    "text_zh": "看到帖子时有没有附带说明，确实会影响人们对帖子核心观点的认同。",
+    "text_es": "La gente no opina igual sobre las afirmaciones clave de la publicación (post) según la vea con una nota o sin ella.",
     "key_sentence": "Independent studies show notes change agreement with core claims versus without.",
     "text_trimmed": true,
     "original_text": "There have been external studies run by people totally independent of us who have found that if you take a post with or without a Community Note, that actually people's agreement with the core claims in the post does change if they see it with a note versus without.",
@@ -300,50 +240,10 @@
           "peripheral details",
           "secondary claims"
         ]
-      },
-      {
-        "word": "effectiveness",
-        "definition": "Effectiveness is the degree to which something is successful in producing a desired result or outcome.",
-        "businessContext": "In a business context, effectiveness is often measured through key performance indicators (KPIs) to evaluate the success of strategies, campaigns, or processes.",
-        "nuance": "Effectiveness is distinct from efficiency, as it focuses on achieving goals rather than the resources used to achieve them.",
-        "synonyms": [
-          "efficacy",
-          "success"
-        ],
-        "antonyms": [
-          "ineffectiveness",
-          "failure"
-        ]
-      },
-      {
-        "word": "polarized",
-        "definition": "Polarized describes a situation where opinions or beliefs are sharply divided into opposing factions or extremes.",
-        "businessContext": "In the tech industry, polarized opinions can emerge around controversial topics such as data privacy, leading to divided customer bases and influencing product development.",
-        "nuance": "While polarization can indicate strong feelings about an issue, it may also hinder constructive dialogue and collaboration.",
-        "synonyms": [
-          "divided",
-          "split"
-        ],
-        "antonyms": [
-          "unified",
-          "harmonized"
-        ]
-      },
-      {
-        "word": "fact-checking",
-        "definition": "Fact-checking is the process of verifying the accuracy of information or claims to ensure they are truthful and reliable.",
-        "businessContext": "In business communications, especially in public relations and marketing, fact-checking is crucial to maintain credibility and avoid misinformation that could harm a brand's reputation.",
-        "nuance": "While fact-checking is essential for credibility, it should be conducted with care to avoid bias and ensure impartiality.",
-        "synonyms": [
-          "verification",
-          "validation"
-        ],
-        "antonyms": [
-          "misinformation",
-          "falsehood"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think the key thing, really, that we do is we actually look for agreement from people who have disagreed in the past.",
@@ -352,9 +252,7 @@
     "context": "Lenny asks for a deeper understanding of how the Community Notes algorithm works, noting that it's absurd that it works at all. Jay explains that many people misunderstand the system, thinking it's either immediate posting or simple majority voting. He clarifies that the key innovation is their 'bridging-based agreement algorithm' that specifically seeks consensus between users who typically disagree with each other.",
     "vocabulary_highlights": [
       "agreement",
-      "disagreed",
-      "understanding",
-      "misunderstand"
+      "disagreed"
     ],
     "topics": [
       "Product Management",
@@ -366,9 +264,9 @@
       "AI/ML Products",
       "Data Analytics"
     ],
-    "text_ko": "정말 핵심은 저희가 하는 일이 과거에 의견이 달랐던 사람들에게서 합의를 찾아보는 거예요. 사람들이 의외로 합의를 이루면 그게 메모를 전반적으로 훨씬 더 중립적이고 정확하며 잘 작성되게 해요.",
-    "text_zh": "我觉得关键在于，我们其实专门去找那些以前意见不合的人，看他们能不能达成一致。我们发现，当这些人真的能出人意料地取得共识时，这样写出来的notes就特别中性、准确，整体质量也特别高。",
-    "text_es": "Yo creo que lo clave de lo que hacemos es que realmente buscamos consenso entre personas que antes no estaban de acuerdo. Y lo que vemos es que cuando la gente llega a ese tipo de acuerdo inesperado, eso es lo que hace que las notas sean tan neutrales, precisas y bien redactadas en general.",
+    "text_ko": "제 생각에는 우리가 실제로 하는 핵심은 과거에 반대했던 사람들한테서도 동의를 얻으려고 노력하는 거예요.",
+    "text_zh": "我觉得最关键的一点是，我们会主动去争取那些曾经反对过我们的人达成一致。",
+    "text_es": "Creo que, en realidad, lo más importante que hacemos es buscar el acuerdo de personas que antes no estaban de acuerdo.",
     "key_sentence": "we actually look for agreement from people who have disagreed in the past.",
     "text_trimmed": true,
     "original_text": "I think the key thing, really, that we do is we actually look for agreement from people who have disagreed in the past. And what we see is when people actually have that sort of surprising agreement, that's what makes the notes so neutral and accurate and well-written, really, overall.",
@@ -401,36 +299,10 @@
           "agreed",
           "concurred"
         ]
-      },
-      {
-        "word": "understanding",
-        "definition": "A shared comprehension or insight regarding a particular subject, often resulting from discussions or negotiations.",
-        "businessContext": "In business, fostering mutual understanding is crucial for effective teamwork, collaboration, and conflict resolution among diverse groups.",
-        "nuance": "This term implies a deeper level of connection and empathy, suggesting that parties not only comprehend the facts but also appreciate each other's perspectives.",
-        "synonyms": [
-          "comprehension",
-          "insight"
-        ],
-        "antonyms": [
-          "misunderstanding",
-          "confusion"
-        ]
-      },
-      {
-        "word": "misunderstand",
-        "definition": "To interpret or perceive something incorrectly, leading to confusion or miscommunication.",
-        "businessContext": "In the workplace, misunderstandings can lead to errors, inefficiencies, and strained relationships, making clear communication essential for success.",
-        "nuance": "This term often suggests a failure in communication rather than a lack of knowledge, and it can be used to address situations where clarification is needed.",
-        "synonyms": [
-          "misinterpret",
-          "misconstrue"
-        ],
-        "antonyms": [
-          "understand",
-          "comprehend"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Every post is eligible for notes. We shouldn't exempt Elon. We shouldn't exempt government figures. We should be like everyone... Even advertisers can get notes.",
@@ -440,8 +312,7 @@
     "vocabulary_highlights": [
       "eligible",
       "exempt",
-      "advertisers",
-      "principles"
+      "advertisers"
     ],
     "topics": [
       "Product Management",
@@ -501,22 +372,9 @@
           "consumers",
           "N/A"
         ]
-      },
-      {
-        "word": "principles",
-        "definition": "Fundamental truths or propositions that serve as the foundation for a system of belief or behavior.",
-        "businessContext": "In business, 'principles' often refer to core values or ethical standards that guide decision-making and corporate culture.",
-        "nuance": "While 'principles' suggest a strong moral or ethical foundation, they can also be seen as rigid if not adaptable to changing circumstances.",
-        "synonyms": [
-          "values",
-          "standards"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "We try to make notes as fast as we can, so we want them to appear instantly if possible.",
@@ -524,10 +382,7 @@
     "timestamp": "00:16:11",
     "context": "Lenny mentions loving the feature where users get notified if they liked a post that later received a Community Note, so they don't remember false information. Keith explains their approach to timing - while they aim for instant notes, there's always a delay between when misleading content is posted and when the community can research, write, and approve corrective context through their consensus process.",
     "vocabulary_highlights": [
-      "instantly",
-      "approach",
-      "feature",
-      "notify"
+      "instantly"
     ],
     "topics": [
       "Product Management",
@@ -540,9 +395,9 @@
       "Data Analytics",
       "Product Management"
     ],
-    "text_ko": "우리는 가능한 한 빨리 노트를 만들려고 해서, 가능하면 즉시 보이길 원해요. 하지만 글이 공개되는 시점과 사람들이 상황을 파악해서 노트를 올리는 시점 사이에는 어쩔 수 없이 시간 차가 생겨요.",
-    "text_zh": "我们尽量快速地做笔记，最好能做到即时显示。但不可避免的是，从帖子发布到大家搞清楚情况再到把笔记发出来，这中间肯定会有个时间差。",
-    "text_es": "Tratamos de crear las notas lo más rápido posible, así que queremos que aparezcan al instante si se puede. Pero inevitablemente va a haber un desfase entre cuando se publica un post y cuando la gente se da cuenta de lo que está pasando y cuando logran sacar la nota.",
+    "text_ko": "저희는 메모를 최대한 빨리 작성하려고 해요. 그래서 가능하면 메모가 즉시 나타났으면 좋겠어요.",
+    "text_zh": "我们尽量快速记笔记，所以希望它们能尽可能马上显示出来。",
+    "text_es": "Tratamos de anotar lo más rápido posible, por eso queremos que las notas aparezcan al instante cuando se pueda.",
     "key_sentence": "we want them to appear instantly if possible.",
     "text_trimmed": true,
     "original_text": "We try to make notes as fast as we can, so we want them to appear instantly if possible. But inevitably, there's going to be a time gap between when a post goes live and when people figure out what's going on and when they get the note out there.",
@@ -561,49 +416,9 @@
           "gradually",
           "delayed"
         ]
-      },
-      {
-        "word": "approach",
-        "definition": "A way of dealing with a situation or problem; a method or strategy.",
-        "businessContext": "In a business setting, 'approach' can refer to the specific tactics employed to achieve goals, such as marketing approaches or problem-solving approaches.",
-        "nuance": "The term can imply a thoughtful or strategic method, but may also suggest a lack of flexibility if used in a rigid context.",
-        "synonyms": [
-          "method",
-          "strategy"
-        ],
-        "antonyms": [
-          "disregard",
-          "neglect"
-        ]
-      },
-      {
-        "word": "feature",
-        "definition": "A distinctive attribute or aspect of a product or service.",
-        "businessContext": "In the tech industry, 'feature' often refers to specific functionalities that enhance user experience and differentiate products in a competitive market.",
-        "nuance": "While 'feature' typically has a positive connotation, it can also imply complexity if a product has too many features that overwhelm users.",
-        "synonyms": [
-          "characteristic",
-          "attribute"
-        ],
-        "antonyms": [
-          "flaw",
-          "deficiency"
-        ]
-      },
-      {
-        "word": "notify",
-        "definition": "To inform someone about something; to give notice or alert.",
-        "businessContext": "In business operations, 'notify' is commonly used in communication protocols, such as alerting team members about updates or changes in project status.",
-        "nuance": "The term carries a formal tone and is often used in official communications, making it less suitable for casual conversations.",
-        "synonyms": [
-          "inform",
-          "alert"
-        ],
-        "antonyms": [
-          "conceal",
-          "ignore"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

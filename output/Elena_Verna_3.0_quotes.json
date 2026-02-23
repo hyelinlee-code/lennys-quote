@@ -7,7 +7,6 @@
     "vocabulary_highlights": [
       "misconception",
       "growth team",
-      "tactics",
       "startups"
     ],
     "topics": [
@@ -21,9 +20,9 @@
       "Growth Strategy",
       "Monetization"
     ],
-    "text_ko": "우리는 테크(tech) 업계에서 살고 있어요. 항상 스타트업(startups)이 많고, 스타트업들은 당연히 성장하려고 해요. 그런데 업계에는 성장을 위해 그로스 팀(growth team)이 꼭 필요하다는 큰 오해가 있어요. 제품-시장 적합성(product-market fit)을 찾아서 그걸 어떻게 배포(distribution)할지는 다른 사람에게 아웃소싱(outsource)할 수 있는 일이 아니에요.",
-    "text_zh": "我们就在科技圈里混，到处都是初创公司，而且都想着要做大做强。但是这个行业有个特别大的误区，就是觉得想要实现增长，就得搞个增长团队(growth team)。但其实要搞清楚你的产品市场匹配度(product market fit)，还有怎么去推广分发，这些事儿你是没法外包给别人的。",
-    "text_es": "Nosotros vivimos en el mundo tech. Siempre hay un montón de startups y obviamente todas buscan crecer. Hay un malentendido enorme en el sector de que para empezar a crecer necesitas un equipo de crecimiento (growth team). Para descifrar tu product market fit y cómo distribuirlo, eso no es algo que puedas tercerizar o delegar a alguien más.",
+    "text_ko": "우리는 테크(tech) 업계에 살아요. 늘 스타트업(startups)이 많고, 당연히 대부분은 성장하려고 하죠. 그런데 업계에는 성장을 일으키려면 그로스 팀(growth team)이 있어야 한다는 큰 오해가 있어요.",
+    "text_zh": "我们都在科技圈混，到处都是创业公司，显然都想要快速发展。但这个行业有个很大的误区，就是觉得要想实现增长，必须得有个专门的增长团队(growth team)。",
+    "text_es": "Trabajamos en el mundo tech. Siempre hay un montón de startups y obviamente todas buscan crecer. Hay un malentendido enorme en el sector de que para empezar a crecer necesitas sí o sí un equipo de growth.",
     "key_sentence": "A huge misconception is that growth can be outsourced to somebody.",
     "text_trimmed": true,
     "original_text": "We live in tech. There's always lots of startups and startups obviously looking to grow. There is a huge misconception in the field that in order to get growth going, you need a growth team. To figure out your product market fit and how to distribute it, it's not something that you can outsource to somebody.",
@@ -58,20 +57,6 @@
         ]
       },
       {
-        "word": "tactics",
-        "definition": "Tactics are specific actions or strategies designed to achieve a particular goal or objective, often within a larger plan.",
-        "businessContext": "In the context of startups, tactics are crucial for executing marketing campaigns, product launches, and operational improvements to achieve growth targets.",
-        "nuance": "While tactics are often seen as short-term actions, they should align with broader strategic goals to be effective.",
-        "synonyms": [
-          "strategies",
-          "approaches"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
         "word": "startups",
         "definition": "Startups are newly established businesses, typically in the technology sector, that aim to develop a scalable business model and often seek investment to fuel rapid growth.",
         "businessContext": "In the tech industry, startups are characterized by their innovative approaches and high-risk, high-reward potential, often disrupting existing markets.",
@@ -85,7 +70,9 @@
           "conglomerates"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Never ever once have I seen a rebrand or redesign, especially of UK marketing site produce good performance results.",
@@ -95,8 +82,7 @@
     "vocabulary_highlights": [
       "rebrand",
       "redesign",
-      "performance results",
-      "growth tactic"
+      "performance results"
     ],
     "topics": [
       "Growth & Marketing",
@@ -109,9 +95,9 @@
       "Growth Strategy",
       "Monetization"
     ],
-    "text_ko": "저는 리브랜딩(rebrand)이나 리디자인(redesign), 특히 영국 마케팅 사이트(marketing site) 쪽에서 좋은 성과를 낸 걸 한 번도 본 적이 없어요. 새로 오는 CMO(최고마케팅책임자)들은 자기 개인 취향을 반영하듯 웹사이트나 브랜드를 손대고, '고객 획득(acquisition)이 늘어날 거예요'라고 약속하곤 하는데 실제로는 의미 있는 결과로 이어지는 경우가 거의 없어요.",
-    "text_zh": "我从来没见过重新做品牌或者redesign网站，特别是英国那些营销网站，能真正带来好效果的。新来的CMO总是按照自己的喜好来搞网站设计或者品牌形象，嘴上说什么客户获取会大幅提升，结果每次都是雷声大雨点小，根本没什么实际效果。",
-    "text_es": "Nunca, pero nunca he visto que un cambio de marca o rediseño, especialmente de sitios web de marketing en Reino Unido, dé buenos resultados de rendimiento. Llega un CMO nuevo y se pone a diseñar su sitio web o la marca como si fuera reflejo de sus gustos personales, y muchas veces prometen que va a subir la captación de clientes (acquisition) y al final no se materializa en nada que valga la pena.",
+    "text_ko": "리브랜딩(rebrand)이나 리디자인(redesign), 특히 영국 마케팅 사이트(UK marketing site) 쪽이 좋은 퍼포먼스를 낸 걸 단 한 번도 본 적이 없어요.",
+    "text_zh": "我从来没见过重新包装品牌或者改版设计能带来好效果的，特别是英国那些营销网站，一次都没有。",
+    "text_es": "Nunca en mi vida he visto que cambiar la marca o rediseñar, sobre todo de sitios de marketing del Reino Unido, dé buenos resultados de rendimiento.",
     "key_sentence": "Never ever once have I seen a rebrand or redesign, especially of UK marketing site produce good performance results.",
     "text_trimmed": true,
     "original_text": "Never ever once have I seen a rebrand or redesign, especially of UK marketing site produce good performance results. New CMO comes in designing their website or designing the brand as if it was reflection of their personal taste, and oftentimes it's promised with our acquisition is going to go up and it never materializes into anything meaningful.",
@@ -158,22 +144,10 @@
           "failures",
           "shortcomings"
         ]
-      },
-      {
-        "word": "growth tactic",
-        "definition": "A strategic approach or method employed by a business to increase its market share, revenue, or customer base.",
-        "businessContext": "In startups and tech companies, growth tactics are essential for scaling operations and achieving sustainable development in competitive markets.",
-        "nuance": "The term implies a proactive and often innovative approach to expansion, distinguishing it from passive growth strategies.",
-        "synonyms": [
-          "expansion strategy",
-          "scaling method"
-        ],
-        "antonyms": [
-          "contraction strategy",
-          "reduction plan"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "If every single one of your initiatives that you're doing on growth is an experiment that's a problem. It's almost like a disease, like a paralyzing disease.",
@@ -181,10 +155,7 @@
     "timestamp": "01:05:59",
     "context": "Elena introduces her third point about growth tactics that don't work - over-experimenting on every growth initiative. She argues that when growth teams feel compelled to test everything scientifically before implementation, it becomes counterproductive. This creates a 'paralyzing disease' that slows down progress and prevents teams from taking action based on intuition and experience.",
     "vocabulary_highlights": [
-      "initiative",
-      "experiment",
-      "compelled",
-      "tactics"
+      "experiment"
     ],
     "topics": [
       "Growth & Marketing",
@@ -204,20 +175,6 @@
     "vocab_reparsed": true,
     "vocabulary": [
       {
-        "word": "initiative",
-        "definition": "An initiative is a strategic plan or action designed to achieve a specific goal or improve a situation.",
-        "businessContext": "In business, initiatives are often launched to drive growth, enhance efficiency, or foster innovation within an organization.",
-        "nuance": "While 'initiative' implies a proactive approach, it can also suggest a lack of thorough planning if overused or poorly executed.",
-        "synonyms": [
-          "program",
-          "project"
-        ],
-        "antonyms": [
-          "inactivity",
-          "apathy"
-        ]
-      },
-      {
         "word": "experiment",
         "definition": "An experiment is a systematic procedure undertaken to test a hypothesis or demonstrate a known fact.",
         "businessContext": "In the context of startups and tech, experiments are frequently used to validate ideas, products, or marketing strategies through trial and error.",
@@ -230,36 +187,9 @@
           "certainty",
           "establishment"
         ]
-      },
-      {
-        "word": "compelled",
-        "definition": "Compelled refers to being driven or forced to take a particular action due to external pressures or internal motivations.",
-        "businessContext": "In a business setting, employees may feel compelled to meet deadlines or adhere to company policies, often influenced by organizational culture or leadership.",
-        "nuance": "The word often implies a lack of choice, which can carry negative connotations if used to describe employee motivation.",
-        "synonyms": [
-          "obliged",
-          "forced"
-        ],
-        "antonyms": [
-          "free",
-          "unconstrained"
-        ]
-      },
-      {
-        "word": "tactics",
-        "definition": "Tactics are specific actions or strategies employed to achieve a particular objective, often as part of a larger plan.",
-        "businessContext": "In business, tactics are crucial for executing strategies effectively, whether in marketing, sales, or operational processes.",
-        "nuance": "The term 'tactics' suggests a focus on short-term actions, which may not always align with long-term strategic goals.",
-        "synonyms": [
-          "strategies",
-          "approaches"
-        ],
-        "antonyms": [
-          "strategies",
-          "plans"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "My north star metric is insights per minute. That's what I try to use whenever I have any live meetings with people so it squarely fits within what I'm optimizing for.",
@@ -269,8 +199,7 @@
     "vocabulary_highlights": [
       "north star metric",
       "optimizing",
-      "insights",
-      "digesting"
+      "insights"
     ],
     "topics": [
       "Communication Skills",
@@ -330,22 +259,9 @@
           "ignorance",
           "confusion"
         ]
-      },
-      {
-        "word": "digesting",
-        "definition": "Digesting refers to the process of breaking down and comprehending information or data. It involves analyzing and assimilating content to derive meaning or understanding.",
-        "businessContext": "In business contexts, digesting information is essential for effective communication, decision-making, and strategic planning, as it allows individuals and teams to process complex data and insights.",
-        "nuance": "The term often implies a thoughtful and thorough consideration of information, rather than a superficial or hasty review.",
-        "synonyms": [
-          "processing",
-          "comprehending"
-        ],
-        "antonyms": [
-          "misunderstanding",
-          "overlooking"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "You have a lot of renowned interest in growth hacks, like what is the sure things to get growth. In the age of social media everybody and anybody tries to share their tips and tricks.",
@@ -353,10 +269,7 @@
     "timestamp": "00:00:00",
     "context": "Lenny asks Elena to frame her list of growth tactics that never work. Elena explains that growth is a relatively new field with many newcomers seeking shortcuts and 'sure things' to drive growth. She describes how social media has amplified the problem, with people sharing tips and tricks that are often taken out of context or are too specific to be applied as general patterns across different businesses.",
     "vocabulary_highlights": [
-      "growth hacks",
-      "tactics",
-      "shortcuts",
-      "drive growth"
+      "growth hacks"
     ],
     "topics": [
       "Growth & Marketing",
@@ -369,9 +282,9 @@
       "Growth Strategy",
       "Monetization"
     ],
-    "text_ko": "많은 사람들이 성장 해킹(growth hacks)에 큰 관심이 있어요. 무엇이 확실히 성장을 가져다주는지 알고 싶어하죠. 소셜미디어 시대엔 누구나 자기만의 팁과 요령을 공유하려 하고, 그런데 그중 상당수가 맥락에 전혀 맞지 않거나 특정 사례에만 해당해서 일반적인 패턴으로 적용되기 어려운 경우가 많아요.",
-    "text_zh": "你对增长黑客(growth hacks)特别感兴趣，想知道到底什么招数能确保增长。现在这个社交媒体时代，什么人都在分享自己的小窍门和套路。但很多时候这些东西要么完全不着边际，要么就是针对某个特定案例的，根本没法当作通用模式来用。",
-    "text_es": "Veo que tienes mucho interés en los growth hacks, como cuáles son las fórmulas seguras para crecer. En la era de las redes sociales, todo el mundo quiere compartir sus trucos y consejos. Muchas veces son cosas completamente fuera de contexto o muy específicas de un caso particular que en realidad no se pueden aplicar como un patrón general.",
+    "text_ko": "성장 해킹(growth hacks)에 대해 ‘뭘 하면 확실히 성장하나’ 하는 관심이 정말 많아요. 소셜 미디어(social media) 시대라서 누구나 자기만의 팁과 요령을 공유하려 들죠.",
+    "text_zh": "你们对增长黑客(growth hacks)特别感兴趣，就是想知道有什么绝招能保证增长。现在这个社交媒体时代，随便什么人都在分享他们的小窍门和套路。",
+    "text_es": "Tienes mucho interés en los trucos de crecimiento (growth hacks), como cuáles son las fórmulas seguras para crecer. En la era de las redes sociales, todo el mundo trata de compartir sus consejos y técnicas.",
     "key_sentence": "everybody and anybody tries to share their tips and tricks.",
     "text_trimmed": true,
     "original_text": "You have a lot of renowned interest in growth hacks, like what is the sure things to get growth. In the age of social media everybody and anybody tries to share their tips and tricks. Oftentimes things that are completely out of context or they are very specific to one example and actually do not apply as a pattern.",
@@ -390,50 +303,10 @@
           "stagnation techniques",
           "N/A"
         ]
-      },
-      {
-        "word": "tactics",
-        "definition": "Specific actions or strategies designed to achieve a particular goal or objective.",
-        "businessContext": "In business, tactics are often part of a larger strategic plan, focusing on the implementation of specific initiatives to drive performance and results.",
-        "nuance": "The term 'tactics' often conveys a sense of short-term focus, contrasting with broader strategic planning.",
-        "synonyms": [
-          "strategies",
-          "approaches"
-        ],
-        "antonyms": [
-          "strategic vision",
-          "N/A"
-        ]
-      },
-      {
-        "word": "shortcuts",
-        "definition": "Methods or techniques that allow for quicker or easier completion of tasks, often bypassing standard procedures.",
-        "businessContext": "In a business context, shortcuts can be used to enhance efficiency, but they may also risk quality or compliance if not applied judiciously.",
-        "nuance": "While 'shortcuts' can imply efficiency, they may also carry a negative connotation of cutting corners or neglecting important processes.",
-        "synonyms": [
-          "expedients",
-          "quick fixes"
-        ],
-        "antonyms": [
-          "thorough processes",
-          "N/A"
-        ]
-      },
-      {
-        "word": "drive growth",
-        "definition": "To actively promote or facilitate an increase in business metrics such as revenue, user base, or market presence.",
-        "businessContext": "In business, driving growth is a primary objective for leaders and marketers, often involving a combination of strategies, marketing efforts, and product development.",
-        "nuance": "The phrase 'drive growth' suggests a proactive and dynamic approach, emphasizing the importance of initiative and leadership in achieving business success.",
-        "synonyms": [
-          "stimulate growth",
-          "accelerate expansion"
-        ],
-        "antonyms": [
-          "impede growth",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The longer you wait, the better it is because...your entire company will be trained to be responsible for growth.",
@@ -443,8 +316,7 @@
     "vocabulary_highlights": [
       "responsible",
       "growth",
-      "entire",
-      "delaying"
+      "entire"
     ],
     "topics": [
       "Leadership & Management",
@@ -457,9 +329,9 @@
       "Growth Strategy",
       "Monetization"
     ],
-    "text_ko": "기다릴수록 오히려 좋아요. 그렇게 해야 회사 전체가 성장에 책임을 지는 방식으로 훈련돼요. 반대로 성장팀(growth team) 하나만 따로 떼어놓고 ‘저 팀이 성장시키겠지’ 이렇게 해버리면 나머지 회사는 뭘 하는 건가요? 솔직히, 기다릴수록 더 좋아요.",
-    "text_zh": "等得越久其实越好，因为这样你整个公司的人都会被训练成对增长负责，而不是搞个增长团队(growth team)放在那里当孤岛，然后说\"增长就是他们的事儿\"，那公司其他人在干嘛呢？说真的，晚一点组建专门的增长团队反而更好。",
-    "text_es": "Mientras más esperes, mejor, porque así toda tu empresa va a estar entrenada para hacerse cargo del crecimiento, en lugar de crear esta islita con un equipo de crecimiento (growth team) y decir \"ellos se van a encargar de crecer\", ¿y qué hace el resto de la empresa? En serio, mientras más esperes, mejor.",
+    "text_ko": "기다릴수록 오히려 더 좋아요. 그 이유는 그 사이 회사 전체가 성장(growth)을 책임지는 조직으로 훈련되기 때문이에요.",
+    "text_zh": "等得越久越好，因为...整个公司的人都会被训练成对增长负责任",
+    "text_es": "Mientras más esperes, mejor, porque... toda tu empresa va a estar preparada para hacerse cargo del crecimiento.",
     "key_sentence": "The longer you wait, the better your company is trained to be responsible for growth.",
     "text_trimmed": true,
     "original_text": "The longer you wait, the better it is because that way your entire company will be trained to be responsible for growth as opposed to putting this one island with a growth team and saying, 'They're going to be growing,' and what is the rest of the company doing? Honestly, the longer you wait, the better.",
@@ -506,21 +378,9 @@
           "partial",
           "incomplete"
         ]
-      },
-      {
-        "word": "delaying",
-        "definition": "Causing something to happen at a later time than originally planned.",
-        "businessContext": "Delaying decisions or actions in a business setting can impact project timelines, resource allocation, and overall productivity.",
-        "nuance": "While sometimes necessary for strategic reasons, excessive delaying can be viewed negatively, suggesting indecision or inefficiency.",
-        "synonyms": [
-          "postponing",
-          "deferring"
-        ],
-        "antonyms": [
-          "accelerating",
-          "expediting"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

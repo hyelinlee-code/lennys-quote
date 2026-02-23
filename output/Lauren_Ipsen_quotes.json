@@ -5,10 +5,8 @@
     "timestamp": "00:05:52",
     "context": "Lenny asks Lauren to walk through her career background and how she got to where she is now. Lauren explains her early career in executive search, describing how she worked across different industries from consumer tech companies to defense contractors. She mentions having ADD and how the variety of work kept her engaged and stimulated across multiple sectors.",
     "vocabulary_highlights": [
-      "executive search",
       "consumer mobile",
-      "build outs",
-      "industries"
+      "build outs"
     ],
     "topics": [
       "Career Development"
@@ -20,28 +18,14 @@
       "Team Building",
       "Leadership Development"
     ],
-    "text_ko": "그래서 임원 서치(exec search) 쪽으로 들어갔는데, 초반에는 컨슈머 모바일 확장(consumer mobile build outs)에 정말 집중했어요. Twitter랑 Reddit, TaskRabbit, Nextdoor, Postmates 같은 데랑 많이 일했는데, 그게 아마 제 일의 85%쯤이었어요. 에이전시 쪽에서는 나머지 15%가 좀 생소한 쪽이었고, 자율 비행 헬리콥터를 국방부(Department of Defense)에 파는 일도 있었고 소매업이나 로보틱스 관련 일도 있었어요. 다들 되게 흥미로웠지만, 저처럼 주의력결핍장애(ADD)가 심한 사람한테는 이렇게 다양한 산업에서 계속 자극을 받는 게 엄청 신나면서도 한편으론 이걸 다 완전히 마스터하진 못하겠다는 느낌이 들더라고요.",
-    "text_zh": "所以呢，我就进了猎头这行，一开始主要专注做消费者移动端的团队搭建。当时跟Twitter、Reddit、TaskRabbit、Nextdoor、Postmates这些公司合作特别多，你能想到的基本都有，这大概占了我85%的工作量。然后呢，在代理这块，剩下15%都是些比较冷门的项目，比如卖给国防部的自主直升机，还有零售和机器人相关的，都挺有意思的。但对我这种严重ADD(注意力缺陷)的人来说，能接触这么多不同行业确实很刺激，但也让我觉得好像哪个都没法真正精通。",
-    "text_es": "Entonces, me metí en búsqueda ejecutiva, y al principio me enfoqué mucho en el desarrollo de aplicaciones móviles para consumidores. Trabajaba bastante con Twitter, Reddit, TaskRabbit, Nextdoor, Postmates, ya sabes, de todo. Y eso era como el 85% de lo que hacía. Y después, del lado de la agencia, el 15% restante eran cosas súper específicas: helicópteros autónomos que se vendían al Departamento de Defensa, retail, robótica... todo súper interesante. Pero para mí, que tengo un déficit de atención brutal, era increíble poder estar tan estimulado por tantas industrias diferentes, aunque sentía que no podía realmente dominar esto.",
+    "text_ko": "그래서 임원 서치(exec search) 쪽으로 들어왔고, 초반에는 소비자용 모바일 확장(consumer mobile build-outs)에 정말 집중했어요. Twitter, Reddit, TaskRabbit, Nextdoor, Postmates 같은 곳들과 많이 일했고, 그런 일이 제 업무의 대략 85%였어요.",
+    "text_zh": "后来进了高管猎头（exec search）这行，早期主要集中做面向消费者的移动端扩建（build-outs）。那阵子我跟 Twitter、Reddit、TaskRabbit、Nextdoor、Postmates 这些公司合作做了很多，差不多占了我工作量的85%。",
+    "text_es": "Me metí en la búsqueda de ejecutivos (exec search) y, al principio, me centré mucho en el desarrollo de productos móviles para consumidores. Trabajé bastante con Twitter, Reddit, TaskRabbit, Nextdoor, Postmates y similares; eso era como el 85% de mi trabajo.",
     "key_sentence": "was really focused early on on consumer mobile build outs.",
     "text_trimmed": true,
     "original_text": "So, got into exec search, was really focused early on on consumer mobile build outs. Was doing a lot of work with Twitter and Reddit and TaskRabbit and Nextdoor, Postmates, you name it, and that was probably 85% of the work I was doing. And then as, on the agency side, 15% was obscure, autonomous helicopters selling into the Department of Defense and then retail and robotics, and it was all very fascinating, but for me, who has wicked bad ADD, it was amazing to be able to be so stimulated by so many different industries and feel like I couldn't really master this.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "executive search",
-        "definition": "A specialized recruitment service that helps organizations find and hire senior-level executives and other highly qualified professionals.",
-        "businessContext": "In business and tech environments, executive search firms are often engaged to identify candidates for critical leadership roles, ensuring a strategic fit with the company's culture and objectives.",
-        "nuance": "The term implies a high level of professionalism and discretion, often associated with positions that require significant expertise and experience.",
-        "synonyms": [
-          "headhunting",
-          "senior recruitment"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
       {
         "word": "consumer mobile",
         "definition": "Refers to mobile technology and applications designed specifically for end-users, focusing on enhancing the consumer experience.",
@@ -69,22 +53,10 @@
           "contraction",
           "downsizing"
         ]
-      },
-      {
-        "word": "industries",
-        "definition": "Distinct sectors of the economy that are characterized by a specific type of business activity, such as technology, healthcare, or finance.",
-        "businessContext": "Understanding various industries is crucial for businesses to identify market opportunities, competitive landscapes, and potential partnerships.",
-        "nuance": "The term can imply a broad categorization of economic activities, and is often used in discussions about market trends and economic analysis.",
-        "synonyms": [
-          "sectors",
-          "fields"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think especially for founders that haven't hired for this caliber of talent in the past, it's really easy to be distracted by shiny objects and look at huge names.",
@@ -108,9 +80,9 @@
       "Team Building",
       "Leadership Development"
     ],
-    "text_ko": "특히 창업자분들 중에서 이런 수준의 인재를 채용해본 적이 없는 분들은 화려한 이름에 쉽게 눈이 가는 경우가 많아요. 구글이나 유튜브의 CPO 같은 사람들을 찾고 싶어 하시는데, 그게 브랜드 인지도를 높일 수 있는 멋진 기회처럼 보이거든요. 실제로 그런 면도 있긴 해요. 하지만 사실, 그런 분들은 종종 실제 일에서 멀리 떨어져 있고, 그들이 세운 훌륭한 팀이 실제로 현장에서 일하는 경우가 많아요.",
-    "text_zh": "我觉得特别是那些以前没招过这种级别人才的创始人，特别容易被那些闪闪发光的大名头给迷住眼。你就想着要去挖Google、YouTube的CPO啊什么的，觉得这对品牌认知度来说简直是天大的机会。确实，在某种程度上是这样的。但事实是什么呢？这些大牛往往已经脱离具体工作很久了，他们手下有一帮很能干的执行团队，真正在一线干活、深入细节的其实是这些人。",
-    "text_es": "Creo que especialmente para los fundadores que nunca han contratado talento de este nivel, es súper fácil distraerse con cosas que brillan y fijarse solo en los nombres grandes. Quieren conseguir a los CPOs de Google y YouTube o lo que sea porque parece que sería una oportunidad increíble para el reconocimiento de marca. Y hasta cierto punto, lo es. Pero la realidad es que muchas veces esos individuos están bastante alejados del trabajo del día a día y tienen un equipazo de ejecutores que han puesto en su lugar, que son los que realmente están metidos en la trinchera haciendo el trabajo pesado.",
+    "text_ko": "특히 지금까지 이런 수준의 인재를 채용해 본 적이 없는 창업자분들은 화려한 것들에 쉽게 눈이 팔리고 유명한 이름에만 끌리기 쉬워요.",
+    "text_zh": "我觉得，尤其是那些以前没招过这种级别人才的创始人，很容易被花里胡哨的东西分心，总盯着大牌看。",
+    "text_es": "Creo que, sobre todo para los fundadores que no han contratado antes talento de este nivel, suele ser muy fácil dejarse distraer por cosas llamativas (shiny objects) y fijarse en grandes nombres.",
     "key_sentence": "Founders often get distracted by shiny objects instead of this caliber of talent.",
     "text_trimmed": true,
     "original_text": "I think especially for founders that haven't hired for this caliber of talent in the past, it's really easy to be distracted by shiny objects and look at huge names. You want to find the CPOs of Google and YouTube or what have you because that seems like it would be such an incredible opportunity for brand recognition. And to an extent, it is. But the fact of the matter is, oftentimes those individuals are pretty far from the work and have a great team of executors that they've put into place that are actually the ones that are in the weeds.",
@@ -172,7 +144,8 @@
           "obscure entities"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "Just because this is the best talent, that doesn't necessarily mean they are the best talent for this role today.",
@@ -180,10 +153,7 @@
     "timestamp": "00:12:46",
     "context": "Lauren is discussing the importance of hiring the right person for the specific role and stage of the company, rather than just hiring the most impressive candidate on paper. She emphasizes that the best talent in general may not be the best talent for a particular role at a particular time. This follows her earlier point about founders being distracted by big names from major tech companies.",
     "vocabulary_highlights": [
-      "necessarily",
-      "specific",
-      "impressive",
-      "emphasizes"
+      "necessarily"
     ],
     "topics": [
       "Leadership & Management",
@@ -196,9 +166,9 @@
       "Team Building",
       "Leadership Development"
     ],
-    "text_ko": "단지 최고의 인재라는 이유만으로 그 사람이 지금 이 역할에 가장 적합하다고는 할 수 없어요. 그 점을 더 강조하자면, 채용을 시작해서 시니어 프로덕트 리더(senior product leader)를 뽑으려고 할 때, 창업자들(founders)이 직접 하든 리크루터(recruiter)와 함께 하든 채용 과정 초기에 무엇을 확실히 정리하고 확정해놔야 한다고 조언하시겠어요?",
-    "text_zh": "就算是顶尖人才，也不见得就适合现在这个岗位。在这个基础上我想再问一下，比如说你要招一个资深的产品负责人，你觉得创始人在启动招聘流程的时候，不管是自己招还是找猎头，都应该先把哪些事情想清楚、搞定？",
-    "text_es": "Solo porque este sea el mejor talento disponible, no significa necesariamente que sea el mejor talento para este puesto en este momento. Entonces, para profundizar en eso, digamos que estás contratando y sabes que vas a empezar a buscar un líder senior de producto, ¿qué les sugieres a los fundadores que definan bien y tengan claro desde el inicio del proceso de contratación, ya sea que lo hagan solos o con un reclutador?",
+    "text_ko": "그 사람이 최고의 인재라고 해도, 꼭 지금 이 역할에 가장 적합하다고는 할 수 없어요.",
+    "text_zh": "就算是最优秀的人才，也不一定是现在这个岗位的最佳人选。",
+    "text_es": "Solo porque alguien sea el mejor talento no significa que sea el más adecuado para este puesto en este momento.",
     "key_sentence": "that doesn't necessarily mean they are the best talent for this role today.",
     "text_trimmed": true,
     "original_text": "Just because this is the best talent, that doesn't necessarily mean they are the best talent for this role today. So to double down on that, say you are hiring and you know you're going to start hiring a senior product leader, what is it that you suggest founders nail down and iron out when they're kicking off the hiring process, either on their own or with a recruiter?",
@@ -217,50 +187,10 @@
           "optionally",
           "discretionarily"
         ]
-      },
-      {
-        "word": "specific",
-        "definition": "Clearly defined or identified; precise and detailed.",
-        "businessContext": "In business settings, being 'specific' is crucial for setting clear objectives, defining roles, and outlining project requirements to avoid ambiguity.",
-        "nuance": "While 'specific' conveys clarity, it can also imply a limitation, so it should be used when clarity is essential but avoided when flexibility is needed.",
-        "synonyms": [
-          "particular",
-          "definite"
-        ],
-        "antonyms": [
-          "general",
-          "vague"
-        ]
-      },
-      {
-        "word": "impressive",
-        "definition": "Evoking admiration through size, quality, or skill; remarkable.",
-        "businessContext": "In the corporate world, 'impressive' is often used to describe achievements, presentations, or talent that stand out and capture attention, influencing decisions.",
-        "nuance": "While 'impressive' carries a positive connotation, it can also imply that something is notable but may not be relevant or suitable for a specific context.",
-        "synonyms": [
-          "remarkable",
-          "striking"
-        ],
-        "antonyms": [
-          "unimpressive",
-          "ordinary"
-        ]
-      },
-      {
-        "word": "emphasizes",
-        "definition": "To give special importance or prominence to something in speaking or writing.",
-        "businessContext": "In business communication, 'emphasizes' is used to highlight key points, strategies, or values that are critical for stakeholders to understand and prioritize.",
-        "nuance": "This term suggests a deliberate focus on certain aspects, so it should be used when wanting to draw attention to important elements while being careful not to overemphasize and dilute the message.",
-        "synonyms": [
-          "stresses",
-          "highlights"
-        ],
-        "antonyms": [
-          "downplays",
-          "minimizes"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Regardless of whether or not you're hiring, you should always be keeping a pulse on the market. That is the most important thing. And I think that should be the case for both candidates and folks that are hiring.",
@@ -283,9 +213,9 @@
       "Team Building",
       "Leadership Development"
     ],
-    "text_ko": "채용을 하고 있든 안 하고 있든 항상 시장을 주시하고 있어야 해요. 그게 가장 중요해요. 이건 지원자든 채용하는 사람(혹은 회사)이든 모두에게 해당된다고 생각해요. 회사 관점이든 지원자 관점이든 ‘좋은 모습이 무엇인지’를 전혀 모르는 상태로 자신을 두면 안 되거든요.",
-    "text_zh": "不管你现在招不招人，都要时刻关注市场动态，这是最重要的。我觉得求职者和招聘方都应该这样。你绝对不能让自己陷入那种完全不知道什么是好标准的状况，不管是从公司角度还是从候选人角度来说都是这样。",
-    "text_es": "Sin importar si estás contratando o no, siempre tienes que estar al tanto de cómo está el mercado. Eso es lo más importante. Y creo que eso aplica tanto para los candidatos como para los que están contratando. O sea, nunca te quieres meter en una situación donde no tienes ni idea de qué es lo que está bien, ya sea desde el punto de vista de la empresa o desde el punto de vista del candidato.",
+    "text_ko": "채용을 하든 안 하든 항상 시장을 주시해야 해요. 그게 가장 중요해요. 지원자든 채용 담당자든 모두 마찬가지라고 생각해요.",
+    "text_zh": "不管你有没有在招人，都应该时刻关注市场动态。这才是最关键的。我觉得无论是求职者还是招聘方都应该这样做。",
+    "text_es": "Da igual si estás contratando o no: siempre conviene tener el pulso del mercado. Eso es lo más importante. Y creo que eso debería valer tanto para los candidatos como para quienes contratan.",
     "key_sentence": "you should always be keeping a pulse on the market.",
     "text_trimmed": true,
     "original_text": "Regardless of whether or not you're hiring, you should always be keeping a pulse on the market. That is the most important thing. And I think that should be the case for both candidates and folks that are hiring. Like, you never want to put yourself in a position where you have no idea what good looks like, whether that's from a company standpoint or from a candidate standpoint.",
@@ -333,7 +263,8 @@
           "layoff"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "I think breadth is incredibly important. It's so critical, especially if someone has an end goal of wanting to step into a product leadership role to have been able to have touched lots of different components, as opposed to specializing in one specific thing.",
@@ -357,9 +288,9 @@
       "Team Building",
       "Leadership Development"
     ],
-    "text_ko": "저는 폭넓은 경험이 정말 중요하다고 생각해요. 특히 제품 리더십 역할(product leadership role)을 목표로 한다면, 한 가지에만 전문화되기보다 여러 영역을 직접 다뤄본 경험이 있는 게 훨씬 도움이 돼요. 그래서 앞으로 기회를 최대한 살리려면 가능한 많은 경험을 쌓는 게 중요해요.",
-    "text_zh": "我觉得知识面广特别重要。这一点太关键了，尤其是如果有人最终想做到产品负责人的位置，那就得接触过各种不同的模块，而不是只专精某一个领域。所以我觉得这很重要，要确保给自己未来创造更多的机会。",
-    "text_es": "Creo que tener amplitud de experiencia es súper importante. Es clave, sobre todo si alguien tiene como meta llegar a un puesto de liderazgo en producto, haber podido tocar muchos componentes diferentes, en lugar de especializarse en una sola cosa. Así que yo diría que eso es muy importante, asegurarte de que estás maximizando las oportunidades para ti más adelante.",
+    "text_ko": "저는 폭넓은 경험이 정말 중요하다고 생각해요. 특히 궁극적으로 제품 리더십(product leadership) 역할로 나아가고 싶다면, 특정 분야 하나만 파고들기보다 여러 구성 요소를 직접 다뤄본 경험이 훨씬 중요해요.",
+    "text_zh": "我觉得接触面的广度特别重要。尤其是想往产品领导岗位(product leadership role)走的人，最好能接触过很多不同的环节，而不是只专注在某一项技能上。",
+    "text_es": "Creo que tener una visión amplia importa muchísimo. Es clave, sobre todo si alguien aspira a dar el salto a un rol de liderazgo de producto (product leadership role): haber trabajado en muchas áreas distintas en lugar de especializarse en una sola.",
     "key_sentence": "Breadth is critical for stepping into a product leadership role and maximizing opportunities.",
     "text_trimmed": true,
     "original_text": "I think breadth is incredibly important. It's so critical, especially if someone has an end goal of wanting to step into a product leadership role to have been able to have touched lots of different components, as opposed to specializing in one specific thing. So I would say that's very important, to be able to make sure that you're maximizing opportunities for yourself down the road.",
@@ -421,19 +352,15 @@
           "entirety"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "There's also something to be said about staying somewhere too long though. And I will say that.",
     "speaker": "Lauren Ipsen",
     "timestamp": "00:41:01",
     "context": "Lenny asks about how often people should move between companies to optimize for future opportunities. Lauren discusses the balance between job hopping (which looks bad) and staying too long at a company. She warns against being 'loyal to a fault' when a company is clearly failing - staying at a sinking ship out of personal loyalty to the person who hired you can hurt your career in the long run.",
-    "vocabulary_highlights": [
-      "optimize",
-      "balance",
-      "job hopping",
-      "opportunities"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Career Development",
       "Decision Making"
@@ -445,71 +372,16 @@
       "Team Building",
       "Leadership Development"
     ],
-    "text_ko": "한곳에 너무 오래 머무르는 것도 문제라는 말이 있어요. 솔직히 말하면, 가끔 충성심이 지나쳐서 오히려 독이 되는 사람들을 보게 돼요. 회사가 망해가고 임원들이 다 떠나가서 상황이 뻔히 보이는데도, ‘나를 뽑아준 정말 좋은 사람’이라는 이유로 그 사람을 위해서라도 어떻게든 버티려고 하는 거죠. 사람을 아끼는 마음은 이해되지만, 경력에서는 때로는 좀 더 자신에게 이기적일 필요가 있고 장기적으로 자기에게 무엇이 최선인지 생각해야 해요.",
-    "text_zh": "不过待在一个地方太久也有问题。我得说，有时候你会发现有些人忠诚得过了头，公司都快完蛋了，高管都跑光了，墙上的字都写得明明白白的了，他们还死抓着不放，就因为当初是个不错的老板招的他们，想着要让事情成功，因为他们在乎那个人。我觉得有时候在职业生涯中，你确实得自私一点，多想想从长远来看什么对你最好。",
-    "text_es": "Pero también hay que decir algo sobre quedarse demasiado tiempo en un lugar. Y lo voy a decir. Creo que a veces te encuentras con gente que es leal hasta el punto de hacerse daño, y las empresas se han ido a pique y todos los ejecutivos se han largado y está clarísimo lo que va a pasar, pero ellos siguen aferrados al hecho de que los contrató alguien muy bueno y quieren que funcione porque les importa esa persona, y creo que a veces en tu carrera tienes que ser un poquito más egoísta y pensar en lo que va a ser mejor para ti a largo plazo.",
+    "text_ko": "다만 한자리에 너무 오래 머무르는 건 좋지 않다는 말도 있어요. 그건 제가 인정해요.",
+    "text_zh": "不过待在一个地方太久确实不太好，这点我得承认。",
+    "text_es": "También hay algo que decir sobre quedarse demasiado tiempo en el mismo sitio. Y lo digo yo.",
     "key_sentence": "There's also something to be said about staying somewhere too long though.",
     "text_trimmed": true,
     "original_text": "There's also something to be said about staying somewhere too long though. And I will say that. I think sometimes you find people that are almost loyal to a fault, and companies have tanked and all executives have left and the writing's on the wall, and they're holding onto the fact that they were hired by a really good guy or gal and they want to make it work because they care about the human being, and I think sometimes in your career you do have to be a little bit more selfish and think about what's going to be best for you in the long haul.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "optimize",
-        "definition": "To make the best or most effective use of a resource or situation.",
-        "businessContext": "In business and technology, optimizing processes or systems can lead to increased efficiency and cost savings.",
-        "nuance": "While 'optimize' suggests improvement, it can also imply a focus on short-term gains over long-term sustainability.",
-        "synonyms": [
-          "enhance",
-          "refine"
-        ],
-        "antonyms": [
-          "deteriorate",
-          "waste"
-        ]
-      },
-      {
-        "word": "balance",
-        "definition": "A state of equilibrium or equal distribution of weight, importance, or resources.",
-        "businessContext": "In business, achieving a balance between work and personal life is crucial for employee satisfaction and productivity.",
-        "nuance": "The term often conveys the idea of finding a compromise or middle ground, which can be challenging in competitive environments.",
-        "synonyms": [
-          "equilibrium",
-          "stability"
-        ],
-        "antonyms": [
-          "imbalance",
-          "disparity"
-        ]
-      },
-      {
-        "word": "job hopping",
-        "definition": "The practice of frequently changing jobs, typically within a short time frame.",
-        "businessContext": "In the tech industry, job hopping can be seen as a way to gain diverse experience and increase salary potential, though it may raise concerns about commitment.",
-        "nuance": "While job hopping can indicate ambition and adaptability, it may also be perceived negatively by some employers who value loyalty.",
-        "synonyms": [
-          "career shifting",
-          "frequent job changes"
-        ],
-        "antonyms": [
-          "job stability",
-          "long-term employment"
-        ]
-      },
-      {
-        "word": "opportunities",
-        "definition": "Favorable circumstances or situations that allow for advancement or progress.",
-        "businessContext": "In business, identifying and capitalizing on opportunities is essential for growth and competitive advantage.",
-        "nuance": "The term often implies a proactive approach to seizing potential benefits, but can also suggest a risk if not carefully evaluated.",
-        "synonyms": [
-          "prospects",
-          "possibilities"
-        ],
-        "antonyms": [
-          "limitations",
-          "obstacles"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "So I think it's essential that you remember that this is another human being on the other end of things and that you should treat them with the same level of respect that you would expect to be treated.",
@@ -519,8 +391,7 @@
     "vocabulary_highlights": [
       "essential",
       "respect",
-      "treat",
-      "candidates"
+      "treat"
     ],
     "topics": [
       "Communication Skills",
@@ -533,9 +404,9 @@
       "Team Building",
       "Leadership Development"
     ],
-    "text_ko": "그래서 이건 정말 중요한 것 같아요. 상대방도 결국 다른 인간이라는 걸 잊지 말고, 내가 받고 싶은 만큼의 존중을 그들에게도 해줘야 해요. 요즘 제가 여러 번 채용 과정을 겪으면서 이게 더 확실해졌어요. 거래 같은 느낌의 채용 전화는 정말 기분이 나쁘고, 그래서 이력서에 '레딧에서 뭐든지' 같은 식으로 적고 싶어지게 만들죠. 그냥 그런 상황을 피하고 싶어지는 거예요.",
-    "text_zh": "所以我觉得特别重要的一点是，你得记住电话那头也是个活生生的人，你得用你希望别人对待你的方式去对待他们。我自己也经历过找工作的招聘流程后，这一点就更明显了。那种特别公事公办的招聘电话真的会让你很反感，甚至想在简历上写一些我刚才提到的那种话，比如\"在Reddit随便干了点什么\"之类的，因为你就是不想搭理这种事儿。",
-    "text_es": "Entonces creo que es fundamental que recuerdes que del otro lado hay otra persona, un ser humano, y que la tienes que tratar con el mismo respeto con el que tú esperas que te traten. Esto se me hizo aún más claro ahora que he pasado por mis propios procesos de búsqueda de trabajo, donde yo era el que buscaba otros puestos, y una llamada de reclutamiento súper transaccional te cae pésimo y te dan ganas de poner cosas en tu currículum como las que acabo de mencionar, tipo \"Lo que sea en Reddit\" o algo así, porque simplemente no quieres lidiar con eso.",
+    "text_ko": "그러니까 상대방도 결국 사람이라는 걸 꼭 기억하고, 자신이 받기를 기대하는 것과 같은 존중으로 대해야 해요.",
+    "text_zh": "记住，对方也是个人，应该用你希望别人对你那样的尊重去对待他们。",
+    "text_es": "Creo que es esencial que recuerdes que al otro lado hay una persona y que la trates con el mismo respeto con el que te gustaría que te trataran.",
     "key_sentence": "you should treat them with the same level of respect that you would expect to be treated.",
     "text_trimmed": true,
     "original_text": "So I think it's essential that you remember that this is another human being on the other end of things and that you should treat them with the same level of respect that you would expect to be treated. This has become even more apparent now that I have gone through some of my own recruiting cycles where I was looking for different jobs, and a transactional recruiting call just will rub you so the wrong way and will make you want to put things on your resume like I just alluded to that say things like, 'Whatever at Reddit,' or what have you because you just don't want to deal with it.",
@@ -582,21 +453,9 @@
           "neglect",
           "mistreat"
         ]
-      },
-      {
-        "word": "candidates",
-        "definition": "Individuals who are being considered for a position, role, or opportunity, especially in a recruitment context.",
-        "businessContext": "In hiring processes, candidates are evaluated based on their qualifications, experiences, and fit for the company culture, making effective candidate assessment crucial for successful recruitment.",
-        "nuance": "The term 'candidates' often carries a formal tone and is typically used in professional settings, distinguishing them from general applicants or participants.",
-        "synonyms": [
-          "applicants",
-          "contenders"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

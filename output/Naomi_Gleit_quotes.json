@@ -5,7 +5,6 @@
     "timestamp": "00:10:12",
     "context": "Lenny asks Naomi about her journey from landing at Facebook as employee #29 to becoming a product manager. Naomi explains that even though she started in a marketing role, she always knew she wanted to work on building products. She describes how she systematically worked toward her goal of becoming a PM by volunteering to help with product projects after her regular work hours, essentially doing the job before she officially got it.",
     "vocabulary_highlights": [
-      "product manager",
       "engineers",
       "build products",
       "technical"
@@ -19,28 +18,14 @@
       "Product Management",
       "Leadership Development"
     ],
-    "text_ko": "제가 페이스북에 갔을 때, 뭔가를 만들고 싶다는 걸 알았어요. 기술적인 배경이 없는 저로서는 엔지니어나 코더가 될 수는 없었고, 엔지니어들과 코더들과 함께 제품을 만들고 싶었어요. 그래서 제품 관리(product management)가 저한테 맞는 역할이라고 생각했고, 항상 PM이 되는 게 제 꿈이었어요. 결국 PM이 된 건 운이 아니라는 걸 확신해요.",
-    "text_zh": "我到Facebook的时候，就知道自己想做产品。我本身不是技术出身，当不了工程师或者程序员。但我想跟工程师和程序员一起合作，把产品做出来。我觉得产品管理这个岗位很适合我，所以我一直的目标就是当PM(product manager)，我能做上PM不是运气好，是有规划的。",
-    "text_es": "Cuando llegué a Facebook, sabía que quería construir cosas. Como no era muy técnica, no iba a ser ingeniera ni programadora. Quería trabajar con los ingenieros y programadores para desarrollar productos. Pensé que la gestión de productos era lo mío, así que mi sueño siempre fue ser PM (product manager) y no fue casualidad que terminara siendo PM.",
+    "text_ko": "페이스북에 합류했을 때, 저는 무언가를 직접 만들어 보고 싶다는 걸 알았어요. 기술 쪽은 아니었기 때문에 엔지니어(engineer)나 코더(coder)가 되진 못했죠. 대신 그분들과 함께 제품을 만들어 보고 싶었어요.",
+    "text_zh": "刚到 Facebook 的时候，我就知道自己想做产品。因为我不是技术出身，也没打算当工程师(engineer)或程序员(coder)。我想和工程师(engineer)、程序员(coder)一起把产品做出来。",
+    "text_es": "Cuando llegué a Facebook, tenía claro que quería construir. Como no era muy técnico, no me veía como ingeniero ni como programador. Quería colaborar con ingenieros (engineers) y programadores (coders) para crear productos.",
     "key_sentence": "I wanted to work with the engineers and the coders to build products.",
     "text_trimmed": true,
     "original_text": "When I got to Facebook, I knew I wanted to build. As someone who wasn't really technical, I wasn't going to be an engineer or a coder. I wanted to work with the engineers and the coders to build products. I thought product management was the right function for me, and so my dream was always to be a PM and it wasn't luck as to how I ended up becoming a PM.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "product manager",
-        "definition": "A product manager is a professional responsible for the strategy, roadmap, and feature definition of a product or product line. They act as a liaison between various stakeholders, including engineering, marketing, and sales teams.",
-        "businessContext": "In tech and startup environments, product managers play a crucial role in guiding the development process, ensuring that the final product meets market needs and aligns with business goals.",
-        "nuance": "The term often implies a blend of technical knowledge and business acumen, and is typically used in contexts where cross-functional collaboration is essential.",
-        "synonyms": [
-          "product owner",
-          "product lead"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
       {
         "word": "engineers",
         "definition": "Engineers are professionals who apply scientific and mathematical principles to design, develop, and maintain structures, systems, or products. They often specialize in fields such as software, mechanical, or electrical engineering.",
@@ -83,7 +68,9 @@
           "general"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I ended up going, sort of the analogy, I went to the second floor most days after work, asked if there were any projects that I could help out with. It was very early days.",
@@ -91,10 +78,7 @@
     "timestamp": "00:11:08",
     "context": "Naomi continues explaining how she transitioned from marketing to product management at Facebook. She describes her strategy of volunteering for PM-related work after hours - literally going to the second floor where PMs worked and asking to help with projects. Because it was early days at Facebook with limited resources, there was always extra work available, allowing her to gain PM experience before formally applying for the role.",
     "vocabulary_highlights": [
-      "transitioned",
-      "volunteering",
-      "projects",
-      "strategy"
+      "projects"
     ],
     "topics": [
       "Career Development"
@@ -105,42 +89,14 @@
       "Product Management",
       "Leadership Development"
     ],
-    "text_ko": "결국, 비유하자면 퇴근 후 거의 매일 2층에 올라가서 도와줄 프로젝트가 있냐고 물어보곤 했어요. 초기 단계라 할 일이 사람보다 항상 많았어요. 그래서 결국 몇몇 프로젝트를 맡아 프로그램 관리(program management)를 돕고 제품 피드백(product feedback)도 주게 됐어요. 정식으로 제품 매니저(product manager)로 지원할 때쯤에는 이미 몇 달 동안 자발적으로, 거의 비공식적으로 그 일을 해오고 있었어요.",
-    "text_zh": "我当时就是，打个比方吧，基本上每天下班后都会跑到二楼去问问有没有什么项目能帮上忙的。那时候公司刚起步，活儿总是比人多，永远忙不过来。慢慢地我就接了几个项目，帮着做项目管理，提一些产品建议什么的。等到我真正正式申请产品经理这个职位的时候，其实我已经义务干了好几个月了，虽然没有正式的头衔，但基本上就是在做这个工作。",
-    "text_es": "Terminé haciendo algo así como... para que me entiendas, me iba al segundo piso casi todos los días después del trabajo, preguntando si había algún proyecto en el que pudiera echar una mano. Era muy al principio de todo. Siempre había más trabajo que gente para hacerlo. Y bueno, poco a poco fui agarrando algunos proyectos, ayudando con la gestión de programas, dando mi feedback sobre productos, y cuando por fin apliqué formalmente para ser product manager, ya llevaba varios meses haciendo el trabajo de manera voluntaria, casi informal.",
+    "text_ko": "결국엔, 비유하자면 저는 퇴근 후 거의 매일 2층에 올라가서 도와줄 수 있는 프로젝트가 있는지 물어봤어요. 그때는 정말 초창기였어요.",
+    "text_zh": "最后我就去了——可以这么比喻，我下班后大多数时间都会跑上二楼，问有没有什么项目需要我帮忙。那时候还刚起步。",
+    "text_es": "Al final acabé yendo, por así decirlo: subía al segundo piso la mayoría de los días después del trabajo y preguntaba si había algún proyecto en el que pudiera echar una mano. Todo estaba aún en sus inicios.",
     "key_sentence": "I went to the second floor most days after work, asked if there were any projects that I could help out with.",
     "text_trimmed": true,
     "original_text": "I ended up going, sort of the analogy, I went to the second floor most days after work, asked if there were any projects that I could help out with. It was very early days. There was always more to do than people to do it. And so eventually I picked up a few projects, helping with program management, giving my product feedback, and by the time that I actually applied formally to be a product manager, I had been doing the job voluntarily, almost informally for a few months.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "transitioned",
-        "definition": "To undergo a change from one state or condition to another.",
-        "businessContext": "In business, 'transitioned' often refers to the process of shifting roles, responsibilities, or strategies within an organization, particularly during periods of change or restructuring.",
-        "nuance": "This term implies a smooth or planned change, and is often used in contexts where adaptation is necessary; it may not be suitable for abrupt or chaotic changes.",
-        "synonyms": [
-          "shifted",
-          "converted"
-        ],
-        "antonyms": [
-          "stagnated",
-          "remained"
-        ]
-      },
-      {
-        "word": "volunteering",
-        "definition": "Offering one's services or time freely for a cause or organization without expecting payment.",
-        "businessContext": "In a business or startup environment, volunteering can refer to employees or individuals contributing their skills to projects or initiatives, often to gain experience or support community engagement.",
-        "nuance": "While it generally carries a positive connotation of altruism, it may imply a lack of formal recognition or compensation, which can be a point of contention in professional settings.",
-        "synonyms": [
-          "donating time",
-          "offering assistance"
-        ],
-        "antonyms": [
-          "withdrawing",
-          "neglecting"
-        ]
-      },
       {
         "word": "projects",
         "definition": "Temporary endeavors undertaken to create a unique product, service, or result.",
@@ -154,34 +110,17 @@
           "operations",
           "routine tasks"
         ]
-      },
-      {
-        "word": "strategy",
-        "definition": "A plan of action designed to achieve a long-term or overall aim.",
-        "businessContext": "In business, strategy refers to the comprehensive approach an organization takes to achieve its goals, including market positioning, resource allocation, and competitive advantage.",
-        "nuance": "This term suggests a deliberate and well-thought-out approach, and is often used in contexts requiring foresight and planning; it may not be appropriate for ad-hoc or reactive decisions.",
-        "synonyms": [
-          "tactics",
-          "plan"
-        ],
-        "antonyms": [
-          "improvisation",
-          "chaos"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "So I've always said that there is the biggest gap of anybody I know between what people think of Mark and who Mark really is.",
     "speaker": "Naomi Gleit",
     "timestamp": "00:14:56",
     "context": "Lenny asks Naomi about Mark Zuckerberg's transformation in recent years, noting how he's become much cooler and more charismatic publicly. Naomi explains that this isn't actually a transformation - it's the real Mark that she's always known becoming more visible to the public. She attributes this to Mark becoming more comfortable and confident in public speaking and showing his authentic personality rather than being scripted and careful.",
-    "vocabulary_highlights": [
-      "transformation",
-      "charismatic",
-      "perception",
-      "public image"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Leadership & Management"
     ],
@@ -191,71 +130,16 @@
       "Product Management",
       "Leadership Development"
     ],
-    "text_ko": "제가 항상 말해온 건, 제가 아는 사람들 중에서 마크에 대해 사람들이 생각하는 것과 실제 마크 사이에 가장 큰 간극이 있다는 거예요. 제가 지난 20년 동안 알던 마크가 바로 이 사람인데, 이제 세상도 제가 운 좋게 봐온 모습을 드디어 보기 시작한 것 같아요. 우리가 얘기해온 그 간극이 정말로 좁혀지기 시작하고 있어요.",
-    "text_zh": "所以我一直都说，在我认识的所有人当中，马克给大家的印象和他本人的差距是最大的。我觉得这就是我这20年来认识的那个马克，现在全世界终于能看到我有幸看到的那一面了。我们之前说的那个差距，现在真的开始缩小了。",
-    "text_es": "Siempre he dicho que Mark es la persona con la mayor diferencia que conozco entre lo que la gente piensa de él y cómo es en realidad. Creo que este es el Mark que he conocido durante los últimos 20 años y el mundo por fin está empezando a ver lo que yo he tenido la suerte de ver. Esa brecha de la que hemos hablado realmente se está empezando a cerrar.",
+    "text_ko": "저는 항상 이렇게 말해요: 제가 아는 사람들 중에서 사람들이 마크에 대해 생각하는 이미지와 마크의 실제 모습 사이의 괴리가 가장 크다고요.",
+    "text_zh": "我一直说，在我认识的人里，没有人比马克在别人眼里的样子和真实的他差得更远。",
+    "text_es": "Siempre he dicho que, de todos los que conozco, Mark es el que tiene la mayor diferencia entre lo que la gente piensa de él y lo que realmente es.",
     "key_sentence": "There's the biggest gap of anybody I know between perceptions and reality.",
     "text_trimmed": true,
     "original_text": "So I've always said that there is the biggest gap of anybody I know between what people think of Mark and who Mark really is. And so I think this is the Mark that I've known for the past 20 years and the world is finally getting to see what I've been lucky enough to see. And that gap that we've talked about is really starting to close.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "transformation",
-        "definition": "The process of significant change in form, structure, or appearance, often leading to improved performance or efficiency.",
-        "businessContext": "In business, transformation often refers to organizational change initiatives aimed at enhancing operational effectiveness, adapting to market demands, or integrating new technologies.",
-        "nuance": "While 'transformation' implies a positive change, it can also suggest upheaval or disruption, particularly in contexts where resistance to change exists.",
-        "synonyms": [
-          "conversion",
-          "metamorphosis"
-        ],
-        "antonyms": [
-          "stagnation",
-          "maintenance"
-        ]
-      },
-      {
-        "word": "charismatic",
-        "definition": "Possessing a compelling charm or appeal that inspires devotion in others.",
-        "businessContext": "In a business setting, charismatic leaders can motivate teams, attract clients, and foster a strong organizational culture through their personal influence and communication skills.",
-        "nuance": "While 'charismatic' often has positive connotations, it can also imply superficiality if the charm does not translate into genuine leadership or results.",
-        "synonyms": [
-          "charming",
-          "appealing"
-        ],
-        "antonyms": [
-          "uncharismatic",
-          "dull"
-        ]
-      },
-      {
-        "word": "perception",
-        "definition": "The way in which something is regarded, understood, or interpreted by individuals or groups.",
-        "businessContext": "In business, perception can significantly impact brand reputation, customer loyalty, and employee engagement, as it shapes how stakeholders view the organization and its offerings.",
-        "nuance": "Perception is subjective and can differ widely among individuals, making it crucial for businesses to actively manage and influence public perception.",
-        "synonyms": [
-          "viewpoint",
-          "interpretation"
-        ],
-        "antonyms": [
-          "reality",
-          "fact"
-        ]
-      },
-      {
-        "word": "public image",
-        "definition": "The perception of an individual or organization as viewed by the general public, often shaped by media, communication, and branding efforts.",
-        "businessContext": "A strong public image is vital for businesses as it can enhance credibility, attract customers, and influence investor confidence, making reputation management a key strategic focus.",
-        "nuance": "While a positive public image can lead to increased trust and loyalty, it can also be fragile and susceptible to negative events or miscommunication.",
-        "synonyms": [
-          "reputation",
-          "brand image"
-        ],
-        "antonyms": [
-          "bad reputation",
-          "negative perception"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "And the most precious person in an organization is the disagreeable giver.",
@@ -264,9 +148,7 @@
     "context": "Naomi is explaining the composition of Mark Zuckerberg's leadership team (called 'small group') and why it works so effectively. She references Adam Grant's framework about agreeable vs. disagreeable people and givers vs. takers. She explains that the most dangerous person is an 'agreeable taker' (nice but self-interested) while the most valuable is a 'disagreeable giver' - someone who will challenge ideas and push back when necessary because they're motivated by what's best for the company.",
     "vocabulary_highlights": [
       "disagreeable",
-      "giver",
-      "composition",
-      "framework"
+      "giver"
     ],
     "topics": [
       "Leadership & Management"
@@ -277,9 +159,9 @@
       "Product Management",
       "Leadership Development"
     ],
-    "text_ko": "조직에서 가장 소중한 사람은 'disagreeable giver'(반대하면서도 기여하는 사람)이에요. 이런 사람들은 회사에 가장 이로운 일을 하려고 진짜 동기가 강한데, 듣기 좋은 말만 하진 않아요. 때로는 반박도 하고, 필요하면 어떤 일에 대해 싸워가며 밀어붙이기도 해요.",
-    "text_zh": "组织里最宝贵的人其实是那些\"不好说话的给予者\"。这些人是真心想为公司好的，但他们可能不太好相处，因为他们不会只说你爱听的话。该反对的时候他们会反对，该争取的时候他们会据理力争。",
-    "text_es": "Y la persona más valiosa en una organización es el que da pero incomoda. Son esas personas que realmente están motivadas a hacer lo mejor para la empresa, pero pueden ser un poco incómodas en el sentido de que tal vez no te digan lo que quieres escuchar. Pueden cuestionar las cosas, pueden pelear por sus ideas.",
+    "text_ko": "조직에서 가장 소중한 사람은 까칠하지만 도와주는 사람이에요.",
+    "text_zh": "在组织里，最值得珍惜的人，就是那些难相处但肯付出的人。",
+    "text_es": "Y la persona más valiosa en una organización es quien aporta, aunque sea difícil de tratar.",
     "key_sentence": "And the most precious person in an organization is the disagreeable giver.",
     "text_trimmed": true,
     "original_text": "And the most precious person in an organization is the disagreeable giver. Those are the people who are really motivated to do what's best for the company, but they can be a little bit disagreeable in the sense that they may not say what you want to hear. They may push back on things, they may fight for things.",
@@ -312,36 +194,10 @@
           "taker",
           "receiver"
         ]
-      },
-      {
-        "word": "composition",
-        "definition": "The act or process of combining various elements to form a whole; can also refer to the arrangement of parts in a particular structure.",
-        "businessContext": "In business, composition can refer to the structure of a team, product, or strategy, emphasizing how different components work together to achieve objectives.",
-        "nuance": "While often used in creative contexts, composition can also apply to organizational structures and processes, highlighting the importance of synergy among elements.",
-        "synonyms": [
-          "structure",
-          "arrangement"
-        ],
-        "antonyms": [
-          "disorganization",
-          "disarray"
-        ]
-      },
-      {
-        "word": "framework",
-        "definition": "A basic structure underlying a system, concept, or text, providing support and guidance for development or analysis.",
-        "businessContext": "In business and tech, frameworks are essential for guiding project development, decision-making processes, and strategic planning, ensuring consistency and alignment with goals.",
-        "nuance": "Frameworks can be formal or informal and are often tailored to specific needs; they provide a foundation while allowing flexibility in execution.",
-        "synonyms": [
-          "structure",
-          "system"
-        ],
-        "antonyms": [
-          "chaos",
-          "anarchy"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "What we found was the churn in resurrection lines were actually much larger than the new user line, which implied to us that retention and driving those two lines was actually our biggest lever to drive net growth.",
@@ -350,7 +206,6 @@
     "context": "Naomi is explaining Facebook's legendary growth team approach and how they discovered the importance of retention. She describes their 'growth accounting' framework which tracked daily net growth as new users minus users who went stale plus users who 'resurrected' (returned after 30 days of inactivity). This analysis revealed that user retention was a much bigger factor in growth than acquisition, leading to their focus on engagement metrics like the famous '7 friends in 10 days' activation goal.",
     "vocabulary_highlights": [
       "retention",
-      "leverage",
       "net growth",
       "implied"
     ],
@@ -385,20 +240,6 @@
         ]
       },
       {
-        "word": "leverage",
-        "definition": "To use something to maximum advantage or to exert influence over a situation or resource.",
-        "businessContext": "In business settings, companies often leverage their assets, relationships, or data to enhance performance or gain competitive advantages.",
-        "nuance": "Leverage can imply a strategic use of resources, but it may also suggest a reliance on external factors that could be risky if not managed properly.",
-        "synonyms": [
-          "utilize",
-          "capitalize"
-        ],
-        "antonyms": [
-          "waste",
-          "squander"
-        ]
-      },
-      {
         "word": "net growth",
         "definition": "The overall increase in a company's value or customer base after accounting for losses, such as customer churn or attrition.",
         "businessContext": "Net growth is a key performance indicator for businesses, reflecting their ability to expand while managing losses effectively.",
@@ -426,7 +267,8 @@
           "stated"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "One of my Naomi-isms is really understand, identify, and execute. That framework came from 2009 where the growth team at the time, it was fledgling and it just started, was focused on only instrumenting data.",
@@ -436,8 +278,7 @@
     "vocabulary_highlights": [
       "execute",
       "framework",
-      "instrumenting",
-      "informed decisions"
+      "instrumenting"
     ],
     "topics": [
       "Product Management",
@@ -496,22 +337,9 @@
           "ignoring",
           "overlooking"
         ]
-      },
-      {
-        "word": "informed decisions",
-        "definition": "Choices made based on relevant data, analysis, and understanding of the situation or context.",
-        "businessContext": "Informed decisions are essential in business, as they rely on empirical evidence and insights to minimize risks and maximize outcomes.",
-        "nuance": "The phrase suggests a thorough consideration of available information, contrasting with decisions made impulsively or without adequate knowledge.",
-        "synonyms": [
-          "data-driven choices",
-          "evidence-based decisions"
-        ],
-        "antonyms": [
-          "impulsive choices",
-          "uninformed decisions"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I really believe in frameworks for things that helps drive extreme clarity. I work on a lot of different projects.",
@@ -521,8 +349,7 @@
     "vocabulary_highlights": [
       "frameworks",
       "drive",
-      "clarity",
-      "complex"
+      "clarity"
     ],
     "topics": [
       "Product Management",
@@ -534,9 +361,9 @@
       "Product Management",
       "Leadership Development"
     ],
-    "text_ko": "저는 사안을 아주 분명하게 해 주는 프레임워크(framework)를 정말 믿어요. 저는 다양한 프로젝트를 많이 진행해요. 새 프로젝트를 본격적으로 시작할 때(ramping up)면 항상 \"이 프로젝트에 대해 제가 알아야 할 걸 어디서 배우지?\"라고 생각해요. 다섯 명에게 물어보면 다섯 가지 다른 답을 듣게 되는데, 그건 용납할 수 없어요.",
-    "text_zh": "我特别相信用框架来做事，这样能让思路特别清晰。我手头项目很多，经常要启动新项目的时候，我就想\"我得去哪儿了解这个项目需要掌握的东西？\"结果问五个人，得到五个不同的答案。这绝对不行。",
-    "text_es": "De verdad creo mucho en tener marcos de trabajo para las cosas que te ayuden a lograr una claridad total. Trabajo en un montón de proyectos diferentes. Muchas veces cuando estoy arrancando un proyecto nuevo, me pregunto: \"¿Dónde puedo aprender lo que necesito saber sobre este proyecto?\" Le pregunto a cinco personas diferentes y recibo cinco respuestas distintas. Eso es inaceptable.",
+    "text_ko": "저는 일을 훨씬 더 분명하게 만드는 프레임워크(frameworks)를 정말 믿어요. 여러 가지 프로젝트를 많이 진행해요.",
+    "text_zh": "我很看重那种能把事情说清楚的框架（frameworks）。我参与很多不同的项目。",
+    "text_es": "Creo firmemente en los marcos de trabajo (frameworks) porque ayudan a conseguir una claridad total. Trabajo en muchos proyectos distintos.",
     "key_sentence": "I really believe in frameworks for things that helps drive extreme clarity.",
     "text_trimmed": true,
     "original_text": "I really believe in frameworks for things that helps drive extreme clarity. I work on a lot of different projects. A lot of times I'm ramping up a new project, I'm like, 'Where can I learn what I need to learn about this project?' I ask five different people, get five different answers. That is unacceptable.",
@@ -583,21 +410,9 @@
           "confusion",
           "ambiguity"
         ]
-      },
-      {
-        "word": "complex",
-        "definition": "Complex describes something that consists of many interconnected parts, making it intricate and often difficult to understand.",
-        "businessContext": "In the business world, complexity can arise in processes, systems, or projects, requiring careful management and strategic thinking to navigate effectively.",
-        "nuance": "While 'complex' can suggest sophistication and depth, it may also imply challenges or obstacles that need to be addressed, so it should be used judiciously.",
-        "synonyms": [
-          "intricate",
-          "complicated"
-        ],
-        "antonyms": [
-          "simple",
-          "straightforward"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

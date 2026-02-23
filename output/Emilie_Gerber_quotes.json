@@ -5,10 +5,7 @@
     "timestamp": "00:00:00",
     "context": "Lenny asks Emilie about different publications and what each one is best suited for story-wise. Emilie is explaining why she loves getting into tactical PR advice, contrasting it with the typical high-level PR discussions. She emphasizes that while theoretical conversations about PR disasters are common, startups need concrete, actionable steps to actually secure media coverage for their companies.",
     "vocabulary_highlights": [
-      "tactical",
-      "public relations",
-      "advice",
-      "contrast"
+      "tactical"
     ],
     "topics": [
       "Growth & Marketing",
@@ -19,9 +16,9 @@
     "speaker_expertise": [
       "Marketing Strategy"
     ],
-    "text_ko": "홍보(PR) 쪽에선 이렇게 실무적인 전술까지 들어가는 경우가 거의 없어요. 대부분 이론적인 얘기나 큰 실수 사례만 분석하죠. 그런데 결국, 회사 언론 보도(coverage)를 받으려는 스타트업(startup)이라면 실제로 어떤 단계들을 밟아야 하는지 정확히 알아야 해요.",
-    "text_zh": "做PR的时候，很少有人会讲得这么具体。大家总是在那儿聊理论，分析那些大翻车案例，但说到底，如果你是个创业公司，想让媒体报道你们，你得知道具体怎么操作才行。",
-    "text_es": "Nadie se pone tan específico con las relaciones públicas. Siempre hay mucha conversación teórica y análisis de las grandes metidas de pata, but at the end of the day, si eres una startup que quiere cobertura mediática para tu empresa, necesitas saber cuáles son los pasos concretos que tienes que dar para lograrlo.",
+    "text_ko": "PR에서는 이렇게까지 전술적으로(tactical) 접근하는 사람이 거의 없어요.",
+    "text_zh": "搞公关的从来不会这么具体到战术层面。",
+    "text_es": "Nadie se pone tan específico cuando se trata de relaciones públicas.",
     "key_sentence": "No one ever gets this tactical in PR.",
     "text_trimmed": true,
     "original_text": "No one ever gets this tactical in PR. There's just so much theoretical conversation and examining the big blunders, but at the end of the day, if you're a startup that wants to get coverage for your company, you need to know actually the steps to take to do it.",
@@ -40,50 +37,10 @@
           "strategic",
           "long-term"
         ]
-      },
-      {
-        "word": "public relations",
-        "definition": "The practice of managing and disseminating information from an organization to the public to shape its image and build relationships. It involves communication strategies to influence public perception.",
-        "businessContext": "In startups and established companies alike, public relations is crucial for managing brand reputation, engaging with stakeholders, and handling crises effectively.",
-        "nuance": "Public relations can sometimes be viewed skeptically as mere spin, so it's important to balance transparency with promotional efforts.",
-        "synonyms": [
-          "communications",
-          "media relations"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "advice",
-        "definition": "Guidance or recommendations concerning prudent future action, often based on expertise or experience. It is typically offered to help someone make informed decisions.",
-        "businessContext": "In business settings, advice can come from mentors, consultants, or colleagues and is often sought in areas like strategy, operations, or career development.",
-        "nuance": "While advice is generally well-intentioned, it can be perceived as intrusive if unsolicited, so context and delivery matter.",
-        "synonyms": [
-          "guidance",
-          "recommendation"
-        ],
-        "antonyms": [
-          "misguidance",
-          "misadvice"
-        ]
-      },
-      {
-        "word": "contrast",
-        "definition": "The state of being strikingly different from something else in juxtaposition or close association. It highlights differences between two or more elements.",
-        "businessContext": "In business analysis, contrast is often used to compare performance metrics, market strategies, or product features to identify strengths and weaknesses.",
-        "nuance": "Using 'contrast' effectively can enhance clarity in communication, but overusing it may lead to confusion if not clearly defined.",
-        "synonyms": [
-          "differentiation",
-          "comparison"
-        ],
-        "antonyms": [
-          "similarity",
-          "conformity"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "You can get so in the weeds with your own messaging that you want to set up this massive problem statement, you want to make it a huge trend story, but if you're very straightforward and you're pattern matching, it's generally actually going to work.",
@@ -93,8 +50,7 @@
     "vocabulary_highlights": [
       "problem statement",
       "straightforward",
-      "pattern matching",
-      "overcomplicate"
+      "pattern matching"
     ],
     "topics": [
       "Fundraising",
@@ -152,22 +108,9 @@
           "randomness",
           "chaos"
         ]
-      },
-      {
-        "word": "overcomplicate",
-        "definition": "To make something more complex than necessary, often leading to confusion or inefficiency.",
-        "businessContext": "In project management and product development, overcomplicating processes or communications can hinder progress and dilute the effectiveness of a team's efforts.",
-        "nuance": "It is advisable to strive for simplicity in solutions and communications, as overcomplication can alienate stakeholders and obscure key messages.",
-        "synonyms": [
-          "overelaborate",
-          "confound"
-        ],
-        "antonyms": [
-          "simplify",
-          "clarify"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I'm of the belief that it does not matter as much as many people think it does. And I explained this on calls where they ask, 'Oh, tell me about your Rolodex, or who is your relationships with?' First of all, media's changing so fast.",
@@ -176,8 +119,6 @@
     "context": "Lenny asks about the importance of having warm connections to reporters versus cold outreach. Emilie is challenging the common assumption that success in PR depends heavily on having existing relationships with journalists. She argues that the media landscape changes too rapidly for relationship-based strategies to be sustainable, and that well-executed cold outreach can be just as effective as warm introductions.",
     "vocabulary_highlights": [
       "relationships",
-      "outreach",
-      "assumption",
       "changing"
     ],
     "topics": [
@@ -210,34 +151,6 @@
         ]
       },
       {
-        "word": "outreach",
-        "definition": "The act of reaching out to individuals or groups to provide information, services, or support, often with the goal of engagement or assistance.",
-        "businessContext": "In a business context, outreach can involve marketing efforts, community engagement, or customer service initiatives aimed at expanding a company's reach and influence.",
-        "nuance": "Outreach often carries a connotation of proactive engagement, suggesting a willingness to connect and assist, which can be seen as positive in corporate social responsibility contexts.",
-        "synonyms": [
-          "engagement",
-          "contact"
-        ],
-        "antonyms": [
-          "withdrawal",
-          "isolation"
-        ]
-      },
-      {
-        "word": "assumption",
-        "definition": "A belief or statement taken for granted without proof, often serving as the basis for further reasoning or action.",
-        "businessContext": "In business, assumptions can shape strategies, decisions, and forecasts, but they must be regularly evaluated to avoid miscalculations.",
-        "nuance": "While assumptions can be necessary for decision-making, they can also lead to errors if not critically assessed, so caution is advised when relying on them.",
-        "synonyms": [
-          "presumption",
-          "hypothesis"
-        ],
-        "antonyms": [
-          "certainty",
-          "fact"
-        ]
-      },
-      {
         "word": "changing",
         "definition": "The process of becoming different or undergoing transformation, often in response to external or internal factors.",
         "businessContext": "In the business world, changing refers to the dynamic nature of markets, technologies, and consumer preferences, necessitating adaptability and innovation.",
@@ -251,7 +164,8 @@
           "remaining"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "A lot of companies want to position themselves as category creators, and I actually hate that. It doesn't work. It doesn't land with press, and most of the time it's not totally true.",
@@ -261,7 +175,6 @@
     "vocabulary_highlights": [
       "position themselves",
       "category creators",
-      "PR strategy",
       "land with press"
     ],
     "topics": [
@@ -308,20 +221,6 @@
         ]
       },
       {
-        "word": "PR strategy",
-        "definition": "A planned approach to managing public relations and communications to shape public perception and build a positive image.",
-        "businessContext": "A well-crafted PR strategy is essential for businesses to communicate effectively with stakeholders, manage crises, and enhance brand reputation.",
-        "nuance": "While a strong PR strategy can bolster a company's image, it should be authentic and transparent to avoid backlash if perceived as disingenuous.",
-        "synonyms": [
-          "public relations plan",
-          "communication strategy"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
         "word": "land with press",
         "definition": "To successfully gain the attention or approval of media outlets and journalists.",
         "businessContext": "In the context of business, landing with the press is crucial for generating media coverage, which can significantly impact brand visibility and public perception.",
@@ -335,7 +234,8 @@
           "go unnoticed"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "And so instead, it's actually really great when you can talk about how you are doing what X household name does, but better for X reasons, and that works so well. I'll put that in subject lines.",
@@ -343,9 +243,7 @@
     "timestamp": "00:41:24",
     "context": "Following her criticism of category creation, Emilie explains her preferred alternative approach for positioning companies in PR pitches. Instead of claiming to create new categories, she recommends positioning startups as better alternatives to well-known incumbents. This gives reporters an immediate frame of reference and makes the story easier to understand and write about.",
     "vocabulary_highlights": [
-      "positioning",
       "subject lines",
-      "alternative approach",
       "household name"
     ],
     "topics": [
@@ -357,28 +255,14 @@
     "speaker_expertise": [
       "Marketing Strategy"
     ],
-    "text_ko": "그래서 오히려, ‘우리가 그 유명 브랜드(household name)가 하는 일을 똑같이 하지만 X 이유 때문에 더 잘한다’고 말할 수 있으면 진짜 좋아요. 그게 정말 잘 먹혀요. 저는 그걸 이메일 제목(subject lines)에 넣을 거예요. 예를 들어 ‘우리 회사가 X 접근법(approach)으로 Salesforce에 도전한다’ 같은 식으로요.",
-    "text_zh": "所以换个思路，其实这样说特别好使：我们做的事儿跟某某大牌公司一样，但是我们在这几个方面做得更好，这招真的很管用。我会直接把这个写在邮件标题里，比如说\"某某公司用X方法挑战Salesforce\"这样的。",
-    "text_es": "Y entonces, la verdad es que funciona genial cuando puedes hablar de cómo estás haciendo lo mismo que hace X empresa conocida, pero mejor por X razones, y eso funciona súper bien. Lo pongo en los asuntos de los emails. Pongo \"empresa compitiendo contra Salesforce con X enfoque\".",
+    "text_ko": "그래서 대신, X라는 잘 알려진 브랜드가 하는 일을 우리가 하되 X가지 이유로 더 잘한다고 말할 수 있다면 정말 좋아요. 그게 정말 잘 통해요. 그걸 메일 제목(subject lines)에 넣을게요.",
+    "text_zh": "所以最好的做法是，你可以说我们做的跟某某大牌公司一样的事情，但是我们在哪几个方面做得更好，这招特别管用。我经常把这个写在邮件标题里。",
+    "text_es": "Y entonces, la verdad es que funciona súper bien cuando puedes decir que haces lo mismo que [nombre reconocido], pero mejor por estas razones, y eso conecta muchísimo. Eso lo pongo directo en los asuntos de los emails.",
     "key_sentence": "Talking about doing what a household name does, but better, works well.",
     "text_trimmed": true,
     "original_text": "And so instead, it's actually really great when you can talk about how you are doing what X household name does, but better for X reasons, and that works so well. I'll put that in subject lines. I'll put company taking on whatever Salesforce with X approach.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "positioning",
-        "definition": "The process of establishing a brand or product in a specific market segment to create a distinct image in the minds of consumers.",
-        "businessContext": "In business and marketing, effective positioning helps differentiate a company’s offerings from competitors, influencing customer perception and buying decisions.",
-        "nuance": "Positioning often implies strategic choices that reflect a company’s values and target audience, making it essential for brand identity.",
-        "synonyms": [
-          "branding",
-          "market placement"
-        ],
-        "antonyms": [
-          "confusion",
-          "obscurity"
-        ]
-      },
       {
         "word": "subject lines",
         "definition": "The brief text that summarizes the content of an email or message, typically displayed in the recipient's inbox.",
@@ -391,20 +275,6 @@
         "antonyms": [
           "N/A",
           "N/A"
-        ]
-      },
-      {
-        "word": "alternative approach",
-        "definition": "A different method or strategy for addressing a problem or achieving a goal, often used when traditional methods are inadequate.",
-        "businessContext": "In startups and innovation, exploring alternative approaches can lead to creative solutions and competitive advantages in the market.",
-        "nuance": "This phrase suggests flexibility and openness to new ideas, which is particularly valued in dynamic business environments.",
-        "synonyms": [
-          "different strategy",
-          "non-traditional method"
-        ],
-        "antonyms": [
-          "conventional approach",
-          "standard procedure"
         ]
       },
       {
@@ -421,7 +291,9 @@
           "obscure brand"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think doing social well is very hard. So you gave Aaron from Vox as an example, that was all 100% him. I think I helped with one tweet once about a Microsoft partnership that we did, and I was so excited.",
@@ -429,10 +301,7 @@
     "timestamp": "01:10:31",
     "context": "Lenny asks about the difference between going after traditional media versus building your own social media following. Emilie is explaining why social media success is difficult to replicate or outsource, using Aaron Levie (CEO of Box) as an example of someone who naturally excels at social media. She emphasizes that effective social media presence typically can't be easily created by hiring an agency - it needs to come naturally to the executive.",
     "vocabulary_highlights": [
-      "partnership",
-      "replicate",
-      "outsourcing",
-      "success"
+      "partnership"
     ],
     "topics": [
       "Growth & Marketing",
@@ -462,49 +331,8 @@
           "division",
           "separation"
         ]
-      },
-      {
-        "word": "replicate",
-        "definition": "To replicate means to make an exact copy or reproduce something, often referring to processes, products, or research findings.",
-        "businessContext": "In the tech industry, replicating successful business models or software solutions can be a strategy for scaling operations or entering new markets.",
-        "nuance": "While 'replicate' suggests fidelity to the original, it can also imply a lack of innovation; thus, it should be used when the emphasis is on accuracy rather than creativity.",
-        "synonyms": [
-          "duplicate",
-          "reproduce"
-        ],
-        "antonyms": [
-          "innovate",
-          "originate"
-        ]
-      },
-      {
-        "word": "outsourcing",
-        "definition": "Outsourcing is the practice of delegating specific business processes or functions to external service providers, often to reduce costs or improve efficiency.",
-        "businessContext": "In a globalized economy, many companies outsource tasks such as customer service, IT support, and manufacturing to leverage expertise and cost advantages from different regions.",
-        "nuance": "Outsourcing can carry a negative connotation related to job loss or quality concerns, so it is important to frame it positively when discussing strategic benefits.",
-        "synonyms": [
-          "contracting out",
-          "externalization"
-        ],
-        "antonyms": [
-          "insourcing",
-          "in-house production"
-        ]
-      },
-      {
-        "word": "success",
-        "definition": "Success refers to the achievement of desired outcomes or goals, often measured by financial performance, market share, or customer satisfaction.",
-        "businessContext": "In business, success can be quantified through various metrics, including revenue growth, profitability, and brand recognition, and is a primary objective for companies and entrepreneurs.",
-        "nuance": "The concept of success can vary widely among individuals and organizations, so it is essential to clarify what metrics or criteria define success in a given context.",
-        "synonyms": [
-          "achievement",
-          "accomplishment"
-        ],
-        "antonyms": [
-          "failure",
-          "setback"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

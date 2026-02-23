@@ -7,8 +7,7 @@
     "vocabulary_highlights": [
       "misconceptions",
       "context",
-      "outcome",
-      "analyzing"
+      "outcome"
     ],
     "topics": [
       "Product Management",
@@ -20,9 +19,9 @@
       "Product Management",
       "Marketing Strategy"
     ],
-    "text_ko": "제가 보기에는 고객이 해결하려는 과제(Jobs to Be Done, JTBD)에 대해 가장 큰 오해 중 하나가 이걸 고통과 이득(pain and gain)으로만 보는 거예요. 사실은 맥락(context)과 결과(outcome)에 관한 건데요. 누군가의 이야기를 듣고 비합리적으로 느껴지면 사람들은 “세상에, 그건 예외야. 그런 일이 일어나지 않아”라고 말하죠. 그런데 알고 보면 그 사람의 맥락이 있으면 겉으로 비합리적으로 보이는 행동도 충분히 합리적이에요.",
-    "text_zh": "我觉得关于\"待完成任务\"(Jobs to Be Done)最大的误解之一，就是大家总认为这是关于痛点和收益，而不是情境和结果。当你听到某个人的故事，觉得很不合理的时候，就会有人说\"天哪，这是个例外情况，不可能的。\"但你会发现，正是那个具体情境让看似不合理的事情变得合理了。",
-    "text_es": "Creo que uno de los mayores malentendidos sobre Jobs to Be Done es pensar que se trata de dolor y beneficio en lugar de contexto y resultado. Cuando escuchas la historia de alguien y parece ilógica, la gente dice \"Ay, Dios mío, eso es una anomalía. Eso no pasa.\" Pero lo que te das cuenta es que el contexto hace que lo ilógico tenga sentido.",
+    "text_ko": "제 생각엔 Jobs to Be Done(해야 할 일)에 대한 가장 큰 오해 중 하나가 그걸 고통과 이득(pain and gain)으로만 보는 거예요. 사실은 고객의 맥락(context)과 원하는 결과(outcome)에 관한 이야기거든요.",
+    "text_zh": "我觉得关于\"需求驱动创新\"(Jobs to Be Done)最大的误解就是，大家以为它讲的是痛点和收益，其实它说的是具体情境和最终结果。",
+    "text_es": "Creo que uno de los malentendidos más grandes sobre Jobs to Be Done es pensar que se trata de dolores y beneficios, cuando en realidad se trata del contexto y el resultado que busca el cliente.",
     "key_sentence": "Misconceptions around Jobs to Be Done ignore context, making the irrational rational.",
     "text_trimmed": true,
     "original_text": "I think one of the biggest misconceptions around Jobs to Be Done is this notion that it's pain and gain as opposed to context and outcome. When you hear somebody's story and it seems irrational, like we'll have people go, \"Oh my God, that's an anomaly. That doesn't happen.\" But what you realize is that the context makes the irrational rational.",
@@ -69,22 +68,10 @@
           "cause",
           "initiation"
         ]
-      },
-      {
-        "word": "analyzing",
-        "definition": "Analyzing involves examining data or information in detail to understand its components and derive insights.",
-        "businessContext": "In a business setting, analyzing data is essential for making informed decisions, identifying trends, and optimizing processes.",
-        "nuance": "The term suggests a systematic approach to understanding complex information, and it is often associated with critical thinking and problem-solving.",
-        "synonyms": [
-          "examining",
-          "evaluating"
-        ],
-        "antonyms": [
-          "ignoring",
-          "overlooking"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "But it's not just the pain. See, what we're taught in business school was pain and gain, but the reality is it's the context.",
@@ -92,10 +79,7 @@
     "timestamp": "00:09:51",
     "context": "Lenny challenges Bob about how Jobs to Be Done differs from simply looking for customer pain points, which most founders claim they already do. Bob clarifies that the framework goes beyond identifying pain - it requires understanding the specific situational context that makes customers value one solution over another at a particular moment. He explains this creates a \"vector of progress\" that helps companies understand true customer motivation.",
     "vocabulary_highlights": [
-      "context",
-      "framework",
-      "identify",
-      "pain points"
+      "context"
     ],
     "topics": [
       "Product Management",
@@ -107,9 +91,9 @@
       "Product Management",
       "Marketing Strategy"
     ],
-    "text_ko": "근데 문제는 단순히 고통(pain)만 있는 게 아니에요. 보세요, 비즈니스 스쿨에서는 '고통과 이득(pain and gain)'이라고 가르치지만, 실제로는 맥락(context)이 더 중요한 경우가 많아요. 제가 아프다거나 하는 게 아니라, 그 상황의 맥락 때문에 지금 이걸 다른 것보다 훨씬 더 가치 있게 느끼는 거예요. 그래서 요점은 단순히 고통과 이득이 아니라 맥락(context)과 결과(outcomes)에 있다는 거예요.",
-    "text_zh": "但这不仅仅是痛点的问题。你看，商学院教我们的是痛点和收益(pain and gain)，但现实情况是要看具体环境。不是说我有什么痛点，而是当下的环境让我觉得这个东西比其他的更有价值。所以关键在于，这不只是痛点和收益的问题，而是要看具体情况和最终结果。",
-    "text_es": "Pero no se trata solo del dolor. Mira, lo que nos enseñan en las escuelas de negocios era dolor y ganancia (pain and gain), pero la realidad es que todo depende del contexto. No es que esté sufriendo, sino que es el contexto lo que me hace valorar esto en este momento mucho más que cualquier otra cosa. Entonces parte de esto es que no se trata únicamente de dolor y ganancia, sino de contexto y resultados.",
+    "text_ko": "근데 고통만 있는 건 아니에요. 비즈니스 스쿨에서 배운 건 '고통과 이득(pain and gain)'이었는데, 실제로 중요한 건 맥락(context)이에요.",
+    "text_zh": "但不只是痛点的问题。你看，商学院教的那套是有痛点就有商机，但实际情况是得看具体场景。",
+    "text_es": "Pero no es solo el dolor. Mira, lo que nos enseñan en las escuelas de negocios es dolor y ganancia, pero la realidad es que todo depende del contexto.",
     "key_sentence": "It's not just pain and gain; context and outcomes matter more.",
     "text_trimmed": true,
     "original_text": "But it's not just the pain. See, what we're taught in business school was pain and gain, but the reality is it's the context. It's not that I'm in pain, but it's the context that makes me value this in the moment that much more than something else. And so part of this is it's not just about pain and gain, it's about context and outcomes.",
@@ -128,50 +112,10 @@
           "isolation",
           "detachment"
         ]
-      },
-      {
-        "word": "framework",
-        "definition": "A structured approach or system that provides a foundation for understanding or addressing a particular issue or set of issues.",
-        "businessContext": "In the business world, frameworks are often used to guide strategic planning, project management, and decision-making processes.",
-        "nuance": "The term 'framework' suggests a systematic and organized method, which can be more effective than ad-hoc approaches.",
-        "synonyms": [
-          "structure",
-          "model"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
-      },
-      {
-        "word": "identify",
-        "definition": "To recognize or establish the characteristics or qualities of something or someone.",
-        "businessContext": "In business, identifying key factors such as customer needs or market trends is essential for developing successful products and services.",
-        "nuance": "The term 'identify' often implies a thorough analysis or investigation, distinguishing it from mere recognition.",
-        "synonyms": [
-          "determine",
-          "recognize"
-        ],
-        "antonyms": [
-          "overlook",
-          "ignore"
-        ]
-      },
-      {
-        "word": "pain points",
-        "definition": "Specific problems or challenges that customers or businesses face, which can hinder their success or satisfaction.",
-        "businessContext": "Identifying pain points is critical for businesses as it allows them to tailor solutions that address customer needs and improve overall satisfaction.",
-        "nuance": "The phrase 'pain points' conveys a sense of urgency and importance, often used in discussions about customer experience and product development.",
-        "synonyms": [
-          "challenges",
-          "frustrations"
-        ],
-        "antonyms": [
-          "solutions",
-          "benefits"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "But here's the other part is that there's this waterline that there's these other forces. Every time I show somebody something new, it actually creates anxiety, right? Anxiety of the new, and I call this F3.",
@@ -180,9 +124,7 @@
     "context": "Lenny asks Bob to explain the \"vector\" concept in more detail. Bob draws a diagram showing four forces that influence customer behavior: F1 (push from current situation), F2 (pull toward new outcome), F3 (anxiety about the new solution), and F4 (habit of staying with current solution). He explains that customers will only change when the push and pull forces exceed the anxiety and habit forces - this \"waterline\" concept helps companies understand why customers don't switch even when presented with better options.",
     "vocabulary_highlights": [
       "forces",
-      "anxiety",
-      "influence",
-      "behavior"
+      "anxiety"
     ],
     "topics": [
       "Product Management",
@@ -195,9 +137,9 @@
       "Product Management",
       "Marketing Strategy"
     ],
-    "text_ko": "그리고 또 한 가지는, 수면선(waterline) 같은 경계 아래에서 다른 힘들이 작용한다는 점이에요. 누군가에게 새로운 걸 보여줄 때마다 사실 불안이 생겨요 — 새로움에 대한 불안이죠. 저는 이걸 F3라고 부릅니다. 그리고 또 하나는 그들이 기존의 방식을 떠나게 만들어야 한다는 거예요. 저는 그걸 '현재의 습관(habit of the present)'이라고 불러요.",
-    "text_zh": "但是还有另一个方面，就是有个水位线，有其他一些力量在起作用。每次我给别人展示新东西的时候，实际上都会产生焦虑，对吧？对新事物的焦虑，我把这个叫做F3。然后另一个问题是，我得让他们放弃旧的东西。所以我把这个叫做当下的习惯(habit of the present)。",
-    "text_es": "Pero mira, aquí está la otra parte: hay como una línea bajo el agua donde actúan otras fuerzas. Cada vez que le muestro algo nuevo a alguien, en realidad les genera ansiedad, ¿no? La ansiedad de lo nuevo, y a esto yo le llamo F3. Y luego está la otra cosa: tengo que lograr que dejen lo viejo. A esto le digo el hábito del presente.",
+    "text_ko": "근데 또 다른 부분은 워터라인(waterline)처럼 보이지 않는 다른 힘들이 있다는 거예요. 누군가에게 새로운 걸 보여줄 때마다 실제로 불안이 생겨요, 그렇죠? 새로움에 대한 불안, 저는 이걸 F3이라고 불러요.",
+    "text_zh": "但是还有另外一个方面，就是有个分水岭，有其他的力量在起作用。每次我给别人展示新东西的时候，实际上都会产生焦虑，对吧？对新事物的焦虑，我把这个叫做F3。",
+    "text_es": "Pero aquí viene la otra parte: hay como una línea divisoria donde actúan otras fuerzas. Cada vez que le muestro algo nuevo a alguien, en realidad le genera ansiedad, ¿no? La ansiedad de lo nuevo, y a esto yo le llamo F3.",
     "key_sentence": "Every time I show somebody something new, it actually creates anxiety, right?",
     "text_trimmed": true,
     "original_text": "But here's the other part is that there's this waterline that there's these other forces. Every time I show somebody something new, it actually creates anxiety, right? Anxiety of the new, and I call this F3. And then the other thing is I have to get them to leave old thing. So I call this habit of the present.",
@@ -230,36 +172,10 @@
           "calmness",
           "confidence"
         ]
-      },
-      {
-        "word": "influence",
-        "definition": "Influence refers to the capacity to have an effect on the character, development, or behavior of someone or something.",
-        "businessContext": "In business, influence is crucial for leadership, marketing, and negotiation, as it can determine how decisions are made and how stakeholders are engaged.",
-        "nuance": "The term can carry both positive and negative connotations, depending on whether the influence is perceived as beneficial or manipulative.",
-        "synonyms": [
-          "impact",
-          "sway"
-        ],
-        "antonyms": [
-          "indifference",
-          "powerlessness"
-        ]
-      },
-      {
-        "word": "behavior",
-        "definition": "Behavior is the manner in which an individual or group acts in response to external or internal stimuli.",
-        "businessContext": "Understanding employee behavior is essential in organizational development, as it can affect teamwork, productivity, and overall company culture.",
-        "nuance": "The term is often used in a neutral sense, but can also imply a need for change or improvement in specific contexts.",
-        "synonyms": [
-          "conduct",
-          "action"
-        ],
-        "antonyms": [
-          "inaction",
-          "apathy"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The very first thing I would say is I never trust anybody telling me things they're going to do because they can't assure it, and it usually never happens.",
@@ -267,10 +183,7 @@
     "timestamp": "00:36:25",
     "context": "Lenny asks how to distinguish between customers who complain but won't actually switch versus those who will genuinely adopt a new solution. Bob explains that customer intentions about future behavior are unreliable - people often say they'll switch but don't follow through. His phrase \"Bitchin' ain't switchin'\" captures this insight that complaints don't predict actual behavior change. He emphasizes studying people who have already made changes rather than those who say they will.",
     "vocabulary_highlights": [
-      "assure",
-      "distinguish",
-      "genuinely",
-      "intentions"
+      "assure"
     ],
     "topics": [
       "Product Management",
@@ -282,9 +195,9 @@
       "Product Management",
       "Marketing Strategy"
     ],
-    "text_ko": "먼저 말씀드리자면, 누군가 '이렇게 하겠다'고 말하면 저는 잘 믿지 않아요. 확실히 약속할 수 없고, 보통 결국 안 하더라고요. 그래서 제가 자주 하는 말이 '불평한다고 바뀌진 않아요'(Bitchin' ain't switchin')예요. 불평만 한다고 누가 행동으로 옮기지는 않아요.",
-    "text_zh": "我首先要说的是，我从来不相信别人跟我说他们要做什么事，因为他们根本没法保证，而且通常都不会真的去做。所以我有句话叫\"光抱怨没用\"。就是说人们虽然对某件事各种抱怨，但这不代表他们真的会采取什么行动。",
-    "text_es": "Lo primero que diría es que nunca le creo a nadie cuando me dice las cosas que va a hacer, porque no pueden garantizarlo, y por lo general nunca pasa. Entonces tengo una frase: \"Quejarse no es cambiar.\" El hecho de que la gente se queje de algo no significa que vayan a hacer algo al respecto.",
+    "text_ko": "먼저 드리고 싶은 말은, 저한테 '이렇게 할게요'라고 말하는 사람은 잘 믿지 않아요. 확신을 줄 수 있는 것도 아니고 보통 그 말대로 되지 않더라고요.",
+    "text_zh": "我首先要说的是，我从来不相信别人跟我说他们要做什么事，因为他们也不能保证，而且通常都做不到。",
+    "text_es": "Lo primero que te diría es que nunca me fío de alguien que me dice lo que va a hacer, porque no lo puede garantizar y normalmente nunca pasa.",
     "key_sentence": "I never trust anybody telling me things they're going to do because they can't assure it.",
     "text_trimmed": true,
     "original_text": "The very first thing I would say is I never trust anybody telling me things they're going to do because they can't assure it, and it usually never happens. So the phrase I have 'Bitchin' ain't switchin'.' Just because people bitch about something doesn't mean they're going to do anything about it.",
@@ -303,50 +216,10 @@
           "doubt",
           "dispel"
         ]
-      },
-      {
-        "word": "distinguish",
-        "definition": "To recognize or point out the differences between two or more items or concepts.",
-        "businessContext": "In a competitive market, companies must distinguish their products or services from those of competitors to attract customers and establish a unique brand identity.",
-        "nuance": "The term often implies a deeper understanding or analysis, making it suitable for discussions about strategy or differentiation.",
-        "synonyms": [
-          "differentiate",
-          "discern"
-        ],
-        "antonyms": [
-          "confuse",
-          "blend"
-        ]
-      },
-      {
-        "word": "genuinely",
-        "definition": "In a truthful and sincere manner; without pretense or deceit.",
-        "businessContext": "Genuine communication is essential in business relationships, as it fosters trust and encourages open dialogue among team members and clients.",
-        "nuance": "This term carries a positive connotation, suggesting authenticity, and is often used to emphasize sincerity in statements or actions.",
-        "synonyms": [
-          "sincerely",
-          "authentically"
-        ],
-        "antonyms": [
-          "insincerely",
-          "falsely"
-        ]
-      },
-      {
-        "word": "intentions",
-        "definition": "Plans or aims that guide actions; the purpose behind an action or decision.",
-        "businessContext": "Understanding the intentions behind a business strategy or negotiation can help stakeholders align their goals and expectations effectively.",
-        "nuance": "While intentions can be positive, they may also be scrutinized for authenticity, especially in negotiations or partnerships.",
-        "synonyms": [
-          "purposes",
-          "objectives"
-        ],
-        "antonyms": [
-          "unintended",
-          "accidental"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The method itself is not based on traditional research or market research, asking people what it is.",
@@ -355,9 +228,7 @@
     "context": "Lenny asks about the difference between what customers say they want versus what they actually purchase. Bob explains that his Jobs to Be Done approach uses interview techniques borrowed from criminal and intelligence interrogation rather than traditional market research surveys. Instead of asking hypothetical questions about preferences, he focuses on getting detailed stories about actual purchase decisions, emphasizing that customer behavior follows causal patterns rather than being random.",
     "vocabulary_highlights": [
       "traditional",
-      "research",
-      "approach",
-      "interview techniques"
+      "research"
     ],
     "topics": [
       "Product Management",
@@ -369,9 +240,9 @@
       "Product Management",
       "Marketing Strategy"
     ],
-    "text_ko": "이 방법 자체는 전통적인 조사나 시장조사(market research)처럼 사람들에게 그게 뭔지 단순히 묻는 방식이 아니에요. 사실은 범죄 수사나 정보기관 심문(criminal and intelligence interrogation)에서 쓰이는 방식에 기반해서, 사람들이 “오늘 왜 집을 사기로 했는지”나 “오늘 왜 학교로 돌아가기로 결심했는지” 같은 결정을 내리게 된 이야기를 말하게 하는 거예요. 즉, 그건 우연히 일어나는 게 아니에요.",
-    "text_zh": "这个方法本身不是基于传统的调研或市场调研，问人家这个那个的。它实际上是基于刑侦和情报审讯的套路，就是让你跟我讲故事——你是怎么决定\"今天就是我买房的日子\"或者\"今天就是我重新上学的日子\"。这可不是随便问问的。",
-    "text_es": "El método en sí no se basa en investigación tradicional o estudios de mercado, preguntándole a la gente qué es lo que quiere. En realidad se basa en técnicas de interrogatorio criminal y de inteligencia para que me cuentes la historia de cómo decidiste que \"hoy es el día que compro una casa\" o \"hoy es el día que regreso a estudiar\". No es algo al azar.",
+    "text_ko": "이 방법 자체는 전통적인 리서치나 시장조사(market research)처럼 사람들에게 '그게 무엇인지' 물어보는 방식에 기반하지 않아요.",
+    "text_zh": "这个方法本身不是基于传统调研或者市场调研那套，去问用户这是什么东西。",
+    "text_es": "El método en sí no se basa en investigación tradicional ni en estudios de mercado, preguntándole a la gente qué es lo que quiere.",
     "key_sentence": "The method itself is not based on traditional research or market research.",
     "text_trimmed": true,
     "original_text": "The method itself is not based on traditional research or market research, asking people what it is. It's actually based on criminal and intelligence interrogation about telling me the story about how you decided today's the day I bought a house or today's the day I went back to school. It's not random.",
@@ -404,36 +275,10 @@
           "ignorance",
           "neglect"
         ]
-      },
-      {
-        "word": "approach",
-        "definition": "A way of dealing with a situation or problem; a method or technique.",
-        "businessContext": "In business, an 'approach' can refer to strategies employed in project management, customer engagement, or product development.",
-        "nuance": "The choice of 'approach' can reflect a company's values or culture, with some approaches being more collaborative or innovative than others.",
-        "synonyms": [
-          "method",
-          "strategy"
-        ],
-        "antonyms": [
-          "disregard",
-          "neglect"
-        ]
-      },
-      {
-        "word": "interview techniques",
-        "definition": "Methods and strategies used to conduct interviews effectively, often to gather information or assess candidates.",
-        "businessContext": "In recruitment and market research, effective interview techniques are essential for obtaining accurate insights and evaluating potential employees or customer feedback.",
-        "nuance": "The effectiveness of interview techniques can vary based on context and objectives, and using the wrong technique may lead to biased or incomplete information.",
-        "synonyms": [
-          "interview methods",
-          "questioning strategies"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "There's three levels of information we have to get or three sources of energy that I talk about. There's what I call functional energy, which is usually time, space, effort, knowledge, right? There's emotional energy, which is how I feel.",
@@ -442,9 +287,7 @@
     "context": "Lenny asks for tactical advice on how to start implementing Jobs to Be Done. Bob recommends interviewing recent customers about their purchase decisions and explains that successful interviews must capture three types of energy that drive customer behavior. Functional energy involves practical constraints like time and effort, emotional energy covers feelings and frustrations, and social energy relates to how customers want to be perceived by others. Understanding all three energy sources provides complete insight into customer motivation.",
     "vocabulary_highlights": [
       "functional",
-      "emotional",
-      "implementing",
-      "tactical"
+      "emotional"
     ],
     "topics": [
       "Product Management",
@@ -456,9 +299,9 @@
       "Product Management",
       "Marketing Strategy"
     ],
-    "text_ko": "제가 말하는 정보의 레벨이나 에너지 원천이 세 가지 있어요. 첫 번째는 제가 '기능적 에너지(functional energy)'라고 부르는 건데, 보통 시간, 공간, 노력, 지식 같은 것들이에요. 두 번째는 '감정적 에너지(emotional energy)'로, 내가 어떻게 느끼는지에 관한 거예요. 그리고 세 번째는 '사회적 측면(social aspects)'인데, 다른 사람들이 나를 어떻게 보길 원하는지 또는 실제로 어떻게 보는지에 관한 거예요.",
-    "text_zh": "我们要获取的信息有三个层面，或者说我讲的三种能量来源。第一种我叫功能性能量(functional energy)，通常就是时间、空间、精力、知识这些，对吧？第二种是情感能量(emotional energy)，就是我的感受如何。第三种是社交层面的，就是我希望别人怎么看我，或者别人实际上是怎么看我的。",
-    "text_es": "Mira, hay tres niveles de información que tenemos que conseguir, o tres fuentes de energía de las que hablo. Está lo que yo llamo energía funcional, que normalmente es tiempo, espacio, esfuerzo, conocimiento, ¿verdad? Está la energía emocional, que es cómo me siento. Y luego están los aspectos sociales, cómo quiero que otros me perciban o cómo me perciben los demás.",
+    "text_ko": "얻어야 할 정보는 세 가지 수준(levels of information)이 있거나, 제가 말하는 에너지의 원천(sources of energy)도 세 가지예요. 제가 '기능적 에너지(functional energy)'라고 부르는 건 보통 시간, 공간, 노력, 지식 같은 것들이에요. 그리고 '감정적 에너지(emotional energy)'는 제가 어떻게 느끼는지에 대한 거예요.",
+    "text_zh": "我们要获取的信息有三个层面，或者说我讲的三种能量来源。第一种叫功能性能量(functional energy)，通常就是时间、空间、精力、知识，对吧？第二种是情感能量(emotional energy)，就是我的感受怎么样。",
+    "text_es": "Hay tres niveles de información que tenemos que conseguir, o tres fuentes de energía de las que hablo. Está lo que yo llamo energía funcional, que normalmente es tiempo, espacio, esfuerzo, conocimiento, ¿no? Y está la energía emocional, que es cómo me siento.",
     "key_sentence": "Three sources of energy include functional energy, emotional energy, and social aspects.",
     "text_trimmed": true,
     "original_text": "There's three levels of information we have to get or three sources of energy that I talk about. There's what I call functional energy, which is usually time, space, effort, knowledge, right? There's emotional energy, which is how I feel. And then there's social aspects, how I want others to perceive me or how others perceive me.",
@@ -491,35 +334,9 @@
           "rational",
           "logical"
         ]
-      },
-      {
-        "word": "implementing",
-        "definition": "The process of putting a plan, decision, or agreement into effect or action.",
-        "businessContext": "In business and technology, 'implementing' refers to the execution of strategies, policies, or systems, often requiring careful planning and resource allocation to ensure success.",
-        "nuance": "The term 'implementing' suggests a transition from theory to practice, so it is best used when discussing actionable steps rather than mere ideas or concepts.",
-        "synonyms": [
-          "executing",
-          "enforcing"
-        ],
-        "antonyms": [
-          "neglecting",
-          "abandoning"
-        ]
-      },
-      {
-        "word": "tactical",
-        "definition": "Relating to actions or strategies that are designed to achieve a specific end, often in a short-term context.",
-        "businessContext": "In business, 'tactical' decisions are typically made to address immediate challenges or opportunities, often as part of a broader strategic plan.",
-        "nuance": "While 'tactical' implies a focus on short-term goals, it is important to ensure that such actions align with long-term objectives, making it crucial to use in contexts that require a balance between immediate and future planning.",
-        "synonyms": [
-          "strategic",
-          "operational"
-        ],
-        "antonyms": [
-          "strategic",
-          "long-term"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

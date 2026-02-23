@@ -4,12 +4,7 @@
     "speaker": "Sander Schulhoff",
     "timestamp": "00:00:00",
     "context": "At the opening of this podcast, Sander makes his most provocative statement about AI security. AI guardrails are large language models trained to classify whether inputs and outputs to AI systems are valid or malicious, essentially acting as security filters. Sander, who runs AI red teaming competitions and works with leading AI labs on model defenses, has found through extensive testing that these guardrails are easily bypassed by determined attackers and provide a false sense of security.",
-    "vocabulary_highlights": [
-      "provocative",
-      "determine",
-      "classify",
-      "security"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Decision Making"
@@ -19,83 +14,23 @@
     "speaker_expertise": [
       "AI/ML Products"
     ],
-    "text_ko": "AI 가드레일(guardrails)은 작동하지 않아요. 한 번 더 말할게요. 가드레일은 작동하지 않아요. 누군가가 GPT-5를 속이려고 결심만 한다면, 그 가드레일을 금방 돌파할 거예요. 아무 문제도 아니에요. 이런 가드레일 제공자들이 \"우리는 모든 걸 잡아낸다\"라고 말할 때, 그건 완전한 거짓말이에요.",
-    "text_zh": "AI的安全防护根本不管用。我再说一遍，这些防护措施压根就不起作用。如果有人铁了心要绕过GPT-5的限制，那些guardrail对他们来说就是小菜一碟。那些做安全防护的厂商说\"我们能拦截所有问题\"，这纯粹是在忽悠人。",
-    "text_es": "Las barreras de seguridad de la IA no funcionan. Lo voy a decir una vez más. Las barreras de seguridad no funcionan. Si alguien está lo suficientemente decidido a engañar a GPT-5, va a sortear esa barrera sin problema alguno. Cuando estos proveedores de barreras de seguridad (guardrails) dicen \"Lo detectamos todo\", es una mentira completa.",
+    "text_ko": "AI 가드레일(guardrails)은 효과가 없어요. 다시 한 번 말할게요. 가드레일은 효과가 없어요. 누군가 GPT-5를 속일 만큼 결심했다면 그 가드레일을 우회하거나 무력화할 거예요. 문제없어요.",
+    "text_zh": "AI 那些所谓的安全护栏（guardrails）根本不管用。我再说一遍：安全护栏（guardrails）根本不管用。如果有人铁了心要骗过 GPT-5（GPT-5），他们总能把这些护栏绕过去，完全没问题。",
+    "text_es": "Las medidas de contención para la IA (AI guardrails) no funcionan. Lo voy a repetir: no funcionan. Si alguien está tan decidido a burlar a GPT‑5, va a saltarse esa medida sin problema.",
     "key_sentence": "AI guardrails do not work.",
     "text_trimmed": true,
     "original_text": "AI guardrails do not work. I'm going to say that one more time. Guardrails do not work. If someone is determined enough to trick GPT-5, they're going to deal with that guardrail. No problem. When these guardrail providers say, \"We catch everything,\" that's a complete lie.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "provocative",
-        "definition": "Causing a strong reaction, often intentionally, by stimulating thought or discussion.",
-        "businessContext": "In business and tech, provocative ideas or strategies can challenge the status quo and inspire innovation or debate among stakeholders.",
-        "nuance": "While often used positively to denote stimulating ideas, it can also carry a negative connotation if perceived as overly confrontational or controversial.",
-        "synonyms": [
-          "stimulating",
-          "challenging"
-        ],
-        "antonyms": [
-          "unremarkable",
-          "uninspiring"
-        ]
-      },
-      {
-        "word": "determine",
-        "definition": "To establish or conclude something after consideration or investigation.",
-        "businessContext": "In a business context, determining factors such as market trends or customer needs is crucial for strategic decision-making and planning.",
-        "nuance": "The term can imply a sense of finality or decisiveness, often used in contexts where outcomes are based on analysis or data.",
-        "synonyms": [
-          "ascertain",
-          "decide"
-        ],
-        "antonyms": [
-          "confuse",
-          "hesitate"
-        ]
-      },
-      {
-        "word": "classify",
-        "definition": "To arrange or organize items into categories based on shared characteristics or criteria.",
-        "businessContext": "In tech and data management, classifying information helps streamline processes and improve data retrieval and analysis.",
-        "nuance": "While often used in a neutral sense, it can imply a level of judgment or hierarchy in how items are categorized.",
-        "synonyms": [
-          "categorize",
-          "organize"
-        ],
-        "antonyms": [
-          "disorganize",
-          "scatter"
-        ]
-      },
-      {
-        "word": "security",
-        "definition": "The state of being free from danger or threat, often involving measures taken to protect assets or information.",
-        "businessContext": "In the tech industry, security is paramount, encompassing cybersecurity measures to protect sensitive data and maintain user trust.",
-        "nuance": "The term can refer to both physical security and cybersecurity, and is often associated with risk management and compliance.",
-        "synonyms": [
-          "safety",
-          "protection"
-        ],
-        "antonyms": [
-          "vulnerability",
-          "exposure"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "You can patch a bug, but you can't patch a brain. If you find some bug in your software and you go and patch it, you can be maybe 99.99% sure that bug is solved. Try to do that in your AI system.",
     "speaker": "Sander Schulhoff",
     "timestamp": "00:00:25",
     "context": "Sander explains why AI security is fundamentally different from traditional cybersecurity. In traditional software, when you identify and fix a bug, you can be confident it's permanently resolved. However, AI systems based on neural networks don't work like traditional code - they're more like 'brains' that can be tricked in countless unpredictable ways, making it nearly impossible to definitively solve security vulnerabilities.",
-    "vocabulary_highlights": [
-      "fundamentally",
-      "identify",
-      "confident",
-      "permanently"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Strategy & Planning"
@@ -105,71 +40,16 @@
     "speaker_expertise": [
       "AI/ML Products"
     ],
-    "text_ko": "버그(bug)는 패치(patch)할 수 있지만, 두뇌(brain)는 패치할 수 없어요. 소프트웨어(software)에서 버그를 찾아 패치하면 그 버그가 거의 99.99% 해결됐다고 확신할 수 있어요. 그런데 그걸 AI 시스템(AI system)에 적용해 보세요 — 패치해도 문제가 여전히 99.99% 남아 있을 가능성이 높아요.",
-    "text_zh": "软件有bug你可以打个补丁修复，但是AI的\"大脑\"可不是说补就能补的。软件出了问题，你打个补丁，基本上99.99%能确定这个bug就解决了。但AI系统就不一样了，你以为修好了，其实99.99%的情况下问题还在那儿呢。",
-    "text_es": "Puedes parchear un bug, pero no puedes parchear un cerebro. Si encuentras algún error en tu software y lo vas a parchear, puedes estar tal vez 99.99% seguro de que ese bug está resuelto. Ahora trata de hacer eso mismo con tu sistema de IA. Puedes estar 99.99% seguro de que el problema sigue ahí.",
+    "text_ko": "버그는 패치할 수 있지만, 뇌는 패치할 수 없어요. 소프트웨어(software)에서 버그(bug)를 찾아 패치(patch)하면 그 버그가 거의 99.99% 해결됐다고 확신할 수 있어요. 그걸 AI 시스템(AI system)에서 해보세요.",
+    "text_zh": "",
+    "text_es": "Puedes parchear un fallo (bug), pero no un cerebro. Si encuentras un fallo en tu software y lo parcheas, puedes estar prácticamente 99,99% seguro de que está solucionado. Intenta hacer eso en tu sistema de IA (AI).",
     "key_sentence": "You can patch a bug, but you can't patch a brain with 99.99% surety.",
     "text_trimmed": true,
     "original_text": "You can patch a bug, but you can't patch a brain. If you find some bug in your software and you go and patch it, you can be maybe 99.99% sure that bug is solved. Try to do that in your AI system. You can be 99.99% sure that the problem is still there.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "fundamentally",
-        "definition": "In a basic and essential way; at the core or root of something.",
-        "businessContext": "In business discussions, 'fundamentally' is often used to highlight core principles or values that drive decision-making and strategy.",
-        "nuance": "This term implies a deep-seated truth or principle, and should be used when discussing foundational aspects rather than superficial details.",
-        "synonyms": [
-          "essentially",
-          "intrinsically"
-        ],
-        "antonyms": [
-          "superficially",
-          "secondarily"
-        ]
-      },
-      {
-        "word": "identify",
-        "definition": "To recognize or establish the identity of something or someone.",
-        "businessContext": "In a business or tech context, 'identify' is frequently used in relation to pinpointing problems, opportunities, or key stakeholders in a project.",
-        "nuance": "While it can mean simply recognizing something, it often carries a connotation of deeper analysis or understanding, especially in strategic discussions.",
-        "synonyms": [
-          "recognize",
-          "determine"
-        ],
-        "antonyms": [
-          "ignore",
-          "overlook"
-        ]
-      },
-      {
-        "word": "confident",
-        "definition": "Having a strong belief or assurance in oneself or in a particular outcome.",
-        "businessContext": "In business settings, being 'confident' can refer to a leader's conviction in their decisions or the reliability of a product or service.",
-        "nuance": "Confidence can convey a sense of authority and trustworthiness, but excessive confidence may also be perceived as arrogance.",
-        "synonyms": [
-          "assured",
-          "self-reliant"
-        ],
-        "antonyms": [
-          "insecure",
-          "uncertain"
-        ]
-      },
-      {
-        "word": "permanently",
-        "definition": "In a way that lasts or is intended to last indefinitely; not temporary.",
-        "businessContext": "In tech and business, 'permanently' is often used when discussing changes, such as software updates or policy implementations that are intended to be lasting.",
-        "nuance": "This term suggests a finality that should be used carefully, as it implies that there will be no reverting to a previous state.",
-        "synonyms": [
-          "indefinitely",
-          "forever"
-        ],
-        "antonyms": [
-          "temporarily",
-          "briefly"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I found through running these events is that they are terribly, terribly insecure and frankly, they don't work. They just don't work.",
@@ -177,10 +57,7 @@
     "timestamp": "00:07:34",
     "context": "Lenny asks Sander about the problem he discovered with AI security defenses. Sander has been running AI red teaming competitions for years, studying various defense mechanisms including AI guardrails. Through these competitions, where teams attempt to break AI systems, he has consistently found that guardrails - which are supposed to detect and block malicious inputs and outputs - are easily defeated by attackers.",
     "vocabulary_highlights": [
-      "insecure",
-      "defense mechanisms",
-      "competitions",
-      "studying"
+      "insecure"
     ],
     "topics": [
       "Product Management",
@@ -210,62 +87,16 @@
           "secure",
           "confident"
         ]
-      },
-      {
-        "word": "defense mechanisms",
-        "definition": "Psychological strategies used to cope with reality and maintain self-image by protecting oneself from anxiety or perceived threats.",
-        "businessContext": "In the workplace, defense mechanisms may manifest in behaviors such as denial or rationalization, which can affect team dynamics and decision-making processes.",
-        "nuance": "While often viewed negatively, understanding defense mechanisms can help leaders address underlying issues within teams and promote healthier communication.",
-        "synonyms": [
-          "coping strategies",
-          "psychological barriers"
-        ],
-        "antonyms": [
-          "openness",
-          "vulnerability"
-        ]
-      },
-      {
-        "word": "competitions",
-        "definition": "Contests or events in which individuals or organizations compete against each other to achieve a goal or win a prize.",
-        "businessContext": "In a business context, competitions can refer to rival companies vying for market share, customer loyalty, or innovation supremacy, influencing strategic planning and marketing efforts.",
-        "nuance": "Competitions can foster innovation and improvement, but excessive focus on competition may lead to unhealthy rivalries or unethical practices.",
-        "synonyms": [
-          "contests",
-          "rivalries"
-        ],
-        "antonyms": [
-          "collaboration",
-          "cooperation"
-        ]
-      },
-      {
-        "word": "studying",
-        "definition": "The act of devoting time and attention to acquiring knowledge on a subject, often through reading, research, or practice.",
-        "businessContext": "In the business realm, studying can refer to market research, competitor analysis, or skill development, which are essential for informed decision-making and strategic growth.",
-        "nuance": "While 'studying' typically implies formal education, it can also encompass informal learning and continuous professional development, which are crucial in fast-paced industries.",
-        "synonyms": [
-          "learning",
-          "researching"
-        ],
-        "antonyms": [
-          "neglecting",
-          "ignoring"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "The number of possible attacks against another LLM is equivalent to the number of possible prompts. Each possible prompt could be an attack. And for a model like GPT-5, the number of possible attacks is one followed by a million zeros.",
     "speaker": "Sander Schulhoff",
     "timestamp": "00:31:03",
     "context": "Sander explains why measuring the effectiveness of AI guardrails is fundamentally flawed. When guardrail companies claim they catch \"99% of attacks,\" they're working with a virtually infinite attack space. Since every possible text prompt could potentially be crafted as an attack, the search space for potential exploits is astronomically large - far beyond what any security system can realistically test against or defend.",
-    "vocabulary_highlights": [
-      "fundamentally",
-      "effectiveness",
-      "virtually",
-      "infinite"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Strategy & Planning"
@@ -280,64 +111,8 @@
     "text_es": "El número de posibles ataques contra otro modelo de lenguaje (LLM) es equivalente al número de prompts posibles. Cualquier prompt podría ser un ataque. Y para un modelo como GPT-5, estamos hablando de un número de ataques posibles que es un uno seguido de un millón de ceros.",
     "key_sentence": "The number of possible attacks is equivalent to one followed by a million zeros.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "fundamentally",
-        "definition": "In a basic and essential way; at the core or root of something.",
-        "businessContext": "In business discussions, 'fundamentally' is often used to emphasize the core principles or underlying truths that drive decisions, strategies, or market behaviors.",
-        "nuance": "This term conveys a sense of depth and importance, suggesting that the point being made is not just superficial but rather intrinsic to understanding the issue.",
-        "synonyms": [
-          "essentially",
-          "intrinsically"
-        ],
-        "antonyms": [
-          "superficially",
-          "peripherally"
-        ]
-      },
-      {
-        "word": "effectiveness",
-        "definition": "The degree to which something successfully produces a desired result or outcome.",
-        "businessContext": "In business and technology, 'effectiveness' is often measured in terms of performance metrics, assessing how well strategies, products, or services achieve their intended goals.",
-        "nuance": "While closely related to efficiency, 'effectiveness' focuses more on the success of achieving objectives rather than the resources used.",
-        "synonyms": [
-          "efficacy",
-          "success"
-        ],
-        "antonyms": [
-          "ineffectiveness",
-          "failure"
-        ]
-      },
-      {
-        "word": "virtually",
-        "definition": "Almost or nearly; in essence but not in fact.",
-        "businessContext": "In tech and business, 'virtually' is commonly used to describe scenarios or conditions that are not physically present but functionally equivalent, such as virtual meetings or virtual teams.",
-        "nuance": "This term can imply a sense of approximation, suggesting that while something may not be entirely true, it is close enough to be considered so in a practical context.",
-        "synonyms": [
-          "nearly",
-          "practically"
-        ],
-        "antonyms": [
-          "actually",
-          "literally"
-        ]
-      },
-      {
-        "word": "infinite",
-        "definition": "Limitless or endless in extent, number, or size; having no boundaries.",
-        "businessContext": "In the context of technology and startups, 'infinite' often refers to possibilities, data, or resources that can be scaled without apparent limits, such as cloud computing resources or market opportunities.",
-        "nuance": "While 'infinite' suggests boundlessness, it is often used in a theoretical sense, as practical limitations usually exist.",
-        "synonyms": [
-          "boundless",
-          "limitless"
-        ],
-        "antonyms": [
-          "finite",
-          "limited"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true
   },
   {
     "text": "The smartest artificial intelligence researchers in the world are working at Frontier Labs like OpenAI, Google, Anthropic. They can't solve this problem. They haven't been able to solve this problem in the last couple years of large language models being popular.",
@@ -346,8 +121,6 @@
     "context": "Sander is explaining why enterprise AI security companies' claims to solve prompt injection and jailbreaking don't make sense. He argues that if the most advanced AI research teams at leading companies like OpenAI, Google, and Anthropic - who have the best researchers and unlimited resources - cannot solve adversarial robustness, it's unrealistic to expect smaller enterprise security companies to have cracked this fundamental problem.",
     "vocabulary_highlights": [
       "artificial intelligence",
-      "enterprise",
-      "claims",
       "large language models"
     ],
     "topics": [
@@ -380,34 +153,6 @@
         ]
       },
       {
-        "word": "enterprise",
-        "definition": "An enterprise is a large organization or business, often characterized by its complex structure and significant resources, aimed at achieving specific goals or objectives.",
-        "businessContext": "In the context of business, enterprises typically engage in large-scale operations, often involving multiple departments and diverse product lines, and may require strategic planning and management to navigate market challenges.",
-        "nuance": "The term 'enterprise' can imply a sense of ambition and initiative, often associated with innovation and growth, distinguishing it from smaller businesses or startups.",
-        "synonyms": [
-          "corporation",
-          "firm"
-        ],
-        "antonyms": [
-          "small business",
-          "N/A"
-        ]
-      },
-      {
-        "word": "claims",
-        "definition": "Claims refer to assertions or statements made by individuals or organizations, often regarding the truth of a product's features, benefits, or performance.",
-        "businessContext": "In business, claims are crucial in marketing and advertising, as they can influence consumer perceptions and purchasing decisions; however, they must be substantiated to avoid legal repercussions.",
-        "nuance": "While claims can be positive or negative, they carry a weight of responsibility; unsubstantiated claims can lead to mistrust and damage a brand's reputation.",
-        "synonyms": [
-          "assertions",
-          "statements"
-        ],
-        "antonyms": [
-          "denials",
-          "N/A"
-        ]
-      },
-      {
         "word": "large language models",
         "definition": "Large language models (LLMs) are advanced AI systems designed to understand and generate human language, trained on vast datasets to perform tasks such as translation, summarization, and content generation.",
         "businessContext": "In the tech industry, LLMs are utilized for applications ranging from chatbots and virtual assistants to content creation and data analysis, significantly enhancing productivity and user engagement.",
@@ -421,7 +166,8 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "There's not an incredible amount of value in just doing AI red teaming. And I suppose there'll be... I don't know if I want to say that. It's possible that there will be less value in just doing classical cybersecurity work.",
@@ -431,7 +177,6 @@
     "vocabulary_highlights": [
       "value",
       "cybersecurity",
-      "opportunities",
       "classical"
     ],
     "topics": [
@@ -443,9 +188,9 @@
     "speaker_expertise": [
       "AI/ML Products"
     ],
-    "text_ko": "AI 레드팀(AI red teaming)만으로는 큰 가치가 나오지 않아요. 그리고... 굳이 말해야 할지 모르겠지만, 어쩌면 기존 사이버보안 업무(classical cybersecurity work)만으로도 가치는 줄어들 수 있어요. 하지만 그 둘이 만나는 지점은 정말, 정말 중요한 일이 될 거예요.",
-    "text_zh": "光做AI红队测试(red teaming)其实价值没那么大。我觉得可能... 我不知道该不该这么说。可能单纯做传统的网络安全工作价值也会变小。但是这两个领域的交汇点，那绝对是个超级重要的岗位。",
-    "text_es": "No hay un valor increíble en simplemente hacer red teaming de IA. Y supongo que habrá... no sé si quiero decir esto. Es posible que haya menos valor en solo hacer trabajo clásico de ciberseguridad. Pero donde se juntan esas dos cosas, ahí va a estar un trabajo de grandísima importancia.",
+    "text_ko": "그냥 AI 레드팀(AI red teaming)만 하는 것으로는 엄청난 가치가 나오진 않아요. 그리고 이 말을 해도 되나 싶긴 한데요, 어쩌면 전통적인 사이버보안 업무(classical cybersecurity work)만으로 얻는 가치도 줄어들 수 있어요.",
+    "text_zh": "光做AI红队测试(AI red teaming)本身，价值其实不大。我也不知道该不该这么说，但光做传统网络安全工作(classical cybersecurity work)的价值可能也会更低。",
+    "text_es": "No aporta mucho valor limitarse únicamente al red teaming de IA (AI red teaming). Y supongo que... no sé si quiero decirlo, pero puede que también haya menos valor en ceñirse al trabajo clásico de ciberseguridad (classical cybersecurity work).",
     "key_sentence": "There's not an incredible amount of value in just doing AI red teaming.",
     "text_trimmed": true,
     "original_text": "There's not an incredible amount of value in just doing AI red teaming. And I suppose there'll be... I don't know if I want to say that. It's possible that there will be less value in just doing classical cybersecurity work. But where those two meet is, it's just going to be a job of great, great importance.",
@@ -480,20 +225,6 @@
         ]
       },
       {
-        "word": "opportunities",
-        "definition": "Situations or conditions favorable for achieving a desired outcome, often related to business growth or innovation.",
-        "businessContext": "In a business context, identifying opportunities is crucial for strategic planning, market expansion, and competitive advantage, as they can lead to new revenue streams or partnerships.",
-        "nuance": "The term 'opportunities' often carries a positive connotation, suggesting potential for success, but it can also imply risk if not properly assessed.",
-        "synonyms": [
-          "prospects",
-          "possibilities"
-        ],
-        "antonyms": [
-          "challenges",
-          "obstacles"
-        ]
-      },
-      {
         "word": "classical",
         "definition": "Relating to traditional methods or established principles, often contrasted with modern or innovative approaches.",
         "businessContext": "In the context of cybersecurity, 'classical' methods may refer to conventional practices that have been used historically, which may be less effective against contemporary threats.",
@@ -507,6 +238,8 @@
           "innovative"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

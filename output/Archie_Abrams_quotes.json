@@ -7,7 +7,6 @@
     "vocabulary_highlights": [
       "conversion rate",
       "funnel stages",
-      "metrics",
       "seductive"
     ],
     "topics": [
@@ -19,9 +18,9 @@
     "speaker_expertise": [
       "Growth Strategy"
     ],
-    "text_ko": "팀들이 자연스럽게 세상을 퍼널(funnel) 단계나 여정의 각 지점으로 나누다 보면, 자기 맡은 퍼널 구간만 보고 그 구간의 전환율(conversion rate)만 들여다보게 되는 유혹에 빠져요. 그래서 팀은 그 전환율을 노스스타(north star)처럼 삼아 최적화하려고 하죠. 그런데 실제로는 전환율을 올리려면 자기 단계 바로 전 단계에서 그 행동을 더 어렵게 만들어(진입 장벽을 높여) 거기서 빠져나가게 하는 편이 훨씬 쉬운 경우가 거의 대부분이에요.",
-    "text_zh": "当团队很自然地把整个流程分解成不同的漏斗阶段(funnel stages)或者客户旅程的不同节点时，就特别容易陷入这样的思维陷阱：只盯着自己负责的那部分漏斗，关注通过自己这一环的转化率怎么样，对吧？然后团队就开始把提高这个转化率当成自己的北极星(north star)来优化。但实际操作中，几乎总是有一个更简单的套路——就是在你负责的环节前面那一步设置更高的门槛，这样你的转化率自然就上去了。",
-    "text_es": "Cuando los equipos dividen naturalmente el mundo en diferentes etapas del embudo (funnel) o distintos puntos del proceso, se vuelve muy tentador enfocarse solo en mi parte del embudo y preguntar \"¿cuál es mi tasa de conversión en esta etapa?\", ¿no? Y entonces el equipo empieza a optimizar esa tasa de conversión como si fuera su estrella polar (north star). Pero en la práctica, casi siempre resulta más fácil simplemente hacer más difícil el paso justo antes de tu etapa del embudo para aumentar tu tasa de conversión.",
+    "text_ko": "팀들이 자연스럽게 전체를 서로 다른 퍼널 단계(funnel stages)나 여정의 여러 지점(journey)으로 나누다 보면, 내가 맡은 퍼널 부분만 보고 그 부분의 전환율(conversion rate)만 따지는 데 쉽게 빠져들어요, 그렇죠?",
+    "text_zh": "当你的团队很自然地把整个流程分成不同的漏斗阶段(funnel stages)或者客户旅程的不同节点时，就很容易陷入一个误区——只盯着自己负责的那部分漏斗，只关心我这一块的转化率怎么样，对吧？",
+    "text_es": "Cuando los equipos dividen naturalmente el mundo en diferentes etapas del embudo o distintos puntos del customer journey, es muy tentador enfocarse solo en mi parte del embudo y preguntarse cuál es mi tasa de conversión en esa parte específica, ¿no?",
     "key_sentence": "it gets very seductive to look at my part of the funnel and what's my conversion rate through that part of the funnel",
     "text_trimmed": true,
     "original_text": "When you have teams naturally break up the world into different funnel stages or different points in the journey, it gets very seductive to look at my part of the funnel and what's my conversion rate through that part of the funnel, right? And then the team starts to optimize for that conversion rate as their north star. But in practice, it's actually almost always easier to just make it harder to do the thing right before your step in the funnel to increase your conversion rate.",
@@ -56,20 +55,6 @@
         ]
       },
       {
-        "word": "metrics",
-        "definition": "Quantifiable measures used to assess the performance, efficiency, and success of various business activities.",
-        "businessContext": "In business and technology, metrics are essential for data-driven decision-making, allowing teams to track progress and evaluate strategies.",
-        "nuance": "While metrics provide valuable insights, they should be interpreted in context to avoid misleading conclusions based solely on numbers.",
-        "synonyms": [
-          "measurements",
-          "indicators"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
         "word": "seductive",
         "definition": "Having an alluring quality that attracts or entices, often leading to a strong desire or temptation.",
         "businessContext": "In a business context, the term can describe strategies or metrics that are appealing but may distract from broader objectives or critical analysis.",
@@ -83,7 +68,9 @@
           "repulsive"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Most businesses do ultimately fail. And so the way we look at it is can we lower the barriers to getting started and get as many people in the door trying their hand at entrepreneurship?",
@@ -92,9 +79,7 @@
     "context": "Lenny asks why Shopify seems to optimize for churn rather than retention like most SaaS companies. Archie explains Shopify's unique philosophy around entrepreneurship and business failure. Unlike traditional SaaS companies that want to retain every customer, Shopify focuses on making it easy for people to start businesses, knowing that many will fail but the successful ones will generate massive value that makes the entire cohort profitable.",
     "vocabulary_highlights": [
       "lower the barriers",
-      "entrepreneurship",
-      "optimize",
-      "retention"
+      "entrepreneurship"
     ],
     "topics": [
       "Starting a Company",
@@ -105,9 +90,9 @@
     "speaker_expertise": [
       "Growth Strategy"
     ],
-    "text_ko": "대부분의 사업은 결국 실패하기 마련이에요. 그래서 저희는 시작 장벽을 낮춰서 가능한 한 많은 분들이 창업에 도전해 보게 하는 게 중요하다고 봐요. 그렇게 하면 물론 처음엔 많은 사업과 많은 분들이 성공하지 못할 수도 있지만, 그중 일부는 나중에 Allbirds나 FIGS처럼 엄청나게 성장하는 사업체가 될 거예요.",
-    "text_zh": "大部分生意最终都是会失败的。所以我们的想法就是，能不能把创业的门槛降低一点，让更多人进来试试水，尝试一下创业？如果我们能做到这点，虽然说这些生意、这些创业者里面很多人第一次可能不会那么成功，但我们肯定会有一批商家最后做成非常大的企业，像Allbirds、FIGS这种级别的公司。",
-    "text_es": "La mayoría de los negocios al final fracasan. Entonces, nosotros lo vemos así: ¿podemos bajar las barreras para empezar y lograr que entre la mayor cantidad de gente posible a probar suerte con el emprendimiento? Si hacemos eso, claro, muchos de esos negocios, muchas de esas personas tal vez en su primer intento no van a tener tanto éxito, pero vamos a tener un grupo de comerciantes que van a llegar a convertirse en empresas súper grandes, como los Allbirds del mundo, FIGS, y así.",
+    "text_ko": "대부분의 사업은 결국 실패해요. 그래서 우리는 시작 장벽을 낮춰서 가능한 한 많은 사람들이 창업(entrepreneurship)에 도전해볼 수 있게 하자고 봐요.",
+    "text_zh": "大部分生意最终都会失败，这是现实。所以我们的想法是，能不能降低创业门槛，让更多人进来试试水，体验一下创业？",
+    "text_es": "La realidad es que la mayoría de los negocios terminan fracasando. Entonces lo que nosotros nos preguntamos es: ¿podemos hacer que sea más fácil empezar y lograr que más gente se anime a probar suerte con el emprendimiento?",
     "key_sentence": "can we lower the barriers to getting started and get as many people in the door trying their hand at entrepreneurship?",
     "text_trimmed": true,
     "original_text": "Most businesses do ultimately fail. And so the way we look at it is can we lower the barriers to getting started and get as many people in the door trying their hand at entrepreneurship? If we do that, again, many of those businesses, many of those folks will maybe on their first attempt not be as successful, but we're going to have a set of merchants who go on to become extremely big businesses, the Allbirds of the world, FIGS, etc.",
@@ -140,36 +125,10 @@
           "employment",
           "job security"
         ]
-      },
-      {
-        "word": "optimize",
-        "definition": "To make the best or most effective use of a resource or situation, often through systematic adjustments and improvements.",
-        "businessContext": "In a business setting, optimizing processes, resources, or strategies is crucial for enhancing efficiency, reducing costs, and maximizing profitability.",
-        "nuance": "The term suggests a continuous improvement mindset and is often used in the context of data analysis and performance metrics.",
-        "synonyms": [
-          "enhance",
-          "improve"
-        ],
-        "antonyms": [
-          "deteriorate",
-          "worsen"
-        ]
-      },
-      {
-        "word": "retention",
-        "definition": "The ability to keep customers or employees engaged and loyal to a brand or organization over time.",
-        "businessContext": "High retention rates are vital for businesses, as they indicate customer satisfaction and loyalty, which can lead to increased revenue and reduced marketing costs.",
-        "nuance": "While often used in customer service contexts, retention can also apply to employee engagement and organizational culture.",
-        "synonyms": [
-          "loyalty",
-          "engagement"
-        ],
-        "antonyms": [
-          "attrition",
-          "loss"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think there's probably two things that have been very common. And I would say in quite a few cases, you get a lift on a metric up front, a more short-term metric.",
@@ -178,9 +137,7 @@
     "context": "Lenny asks about Shopify's practice of running long-term holdout experiments to see if initial positive results hold up over time. Archie explains what they've learned from looking at experiments a year or more later. He describes how many experiments that show immediate positive impact on short-term metrics like conversions or first sales actually show no lasting effect on the business's core metric of GMV (Gross Merchandise Value) when measured over longer time periods.",
     "vocabulary_highlights": [
       "metric",
-      "short-term",
-      "experiment",
-      "initial"
+      "short-term"
     ],
     "topics": [
       "Growth & Marketing",
@@ -191,9 +148,9 @@
     "speaker_expertise": [
       "Growth Strategy"
     ],
-    "text_ko": "아마 자주 나타나는 현상이 두 가지 정도 있는 것 같아요. 그리고 꽤 많은 경우에서, 초반에는 단기 지표(metric)가 올라가는 걸 보게 돼요. 예를 들어 유료 구매자 수(paying shopper)나 Shopify에서 첫 판매(first sale)를 한 사람이 늘어나고요. 그런데 1년쯤 지나서 보면, 그 코호트(cohort)에서는 총거래액(GMV)에 대한 실제 추가 상승이 전혀 없어요.",
-    "text_zh": "我觉得主要有两个很常见的情况。很多时候你会发现，前期的数据确实有提升，比如那些短期指标——付费用户数量啊，在Shopify上首次成交的用户数啊，这些都会涨。但是你一年后再看，这批用户在GMV上其实没有带来什么增量提升。",
-    "text_es": "Creo que hay probablemente dos cosas que han sido muy comunes. Y diría que en bastantes casos, ves una mejora en una métrica al principio, una métrica más a corto plazo. El número de personas que se convierten en compradores de pago, el número de personas que hacen su primera venta en Shopify. Y después, cuando lo revisas un año más tarde, en realidad no hay ningún aumento incremental en el GMV de esa cohorte.",
+    "text_ko": "제 생각에는 아마 두 가지가 꽤 흔한 것 같아요. 그리고 꽤 많은 경우 초반에 지표(metric)가 올라가는 걸 보는데, 그건 주로 단기 지표예요.",
+    "text_zh": "我觉得可能有两个比较常见的情况。而且我想说，在很多案例中，你前期确实能看到某个指标有提升，通常是比较短期的指标。",
+    "text_es": "Creo que hay probablemente dos cosas que han sido muy comunes. Y diría que en bastantes casos, ves una mejora en una métrica al principio, una métrica más a corto plazo.",
     "key_sentence": "You get a lift on a metric up front, but no incremental lift later.",
     "text_trimmed": true,
     "original_text": "I think there's probably two things that have been very common. And I would say in quite a few cases, you get a lift on a metric up front, a more short-term metric. Number of people who become a paying shopper, number of people who make their first sale in Shopify. And then you look a year later, and there's actually no incremental lift on GMV from that cohort.",
@@ -226,48 +183,17 @@
           "long-term",
           "sustained"
         ]
-      },
-      {
-        "word": "experiment",
-        "definition": "A systematic procedure undertaken to test a hypothesis or demonstrate a known fact.",
-        "businessContext": "In startups and tech, experiments are often used to validate ideas, test new features, or assess market responses, facilitating data-driven decision-making.",
-        "nuance": "While 'experiment' suggests a trial or test, in business it often implies a structured approach to innovation and learning from failures.",
-        "synonyms": [
-          "trial",
-          "test"
-        ],
-        "antonyms": [
-          "certainty",
-          "conclusion"
-        ]
-      },
-      {
-        "word": "initial",
-        "definition": "Pertaining to the beginning or first stage of a process or development.",
-        "businessContext": "In business, the initial phase of a project or product launch is critical for setting the foundation for future growth and success.",
-        "nuance": "The term 'initial' often conveys a sense of preliminary assessment, which may evolve as more data or insights are gathered.",
-        "synonyms": [
-          "preliminary",
-          "first"
-        ],
-        "antonyms": [
-          "final",
-          "subsequent"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I can actually causally change your ability to become successful, because I've given you a little bit more time to try that idea a little bit longer.",
     "speaker": "Archie Abrams",
     "timestamp": "00:16:43",
     "context": "Lenny asks for an example of experiments that revealed valuable merchant segments that weren't initially obvious. Archie explains how reducing 'monetary friction' - things like trial costs, subscription fees, or other financial barriers - can have unexpected long-term benefits. He describes how providing financial relief to new entrepreneurs can causally impact their success by giving them more time to develop their business ideas and build momentum before giving up.",
-    "vocabulary_highlights": [
-      "monetary friction",
-      "experiment",
-      "valuable",
-      "segment"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Starting a Company",
       "Growth & Marketing"
@@ -277,71 +203,16 @@
     "speaker_expertise": [
       "Growth Strategy"
     ],
-    "text_ko": "비즈니스 케이스(business case) 관점에서 보면, 제가 약간의 금전적 지원(monetary boost)을 해주고 그 금전적 장벽(monetary friction)을 낮춰주면 사람들이 성공할 수 있는 가능성을 실제로 바꿀 수 있어요. 그게 아이디어를 조금 더 오래 시도해볼 시간과, 예를 들어 사업을 Shopify로 옮길 기회를 줬기 때문이에요. 그런 실험에서는 대개 금전적 장벽을 낮춰주지 않았다면 포기했을 사람들 집단을 활성화시켰다는 걸 보게 돼요.",
-    "text_zh": "你想想商业场景下，如果我给你一点资金上的帮助，降低一下资金门槛，其实就能直接影响到你成功的可能性，因为这样你就有更多时间去试验你的想法，有机会把生意迁移到Shopify上。这种实验经常能看到一个现象，就是你基本上释放了一批人的潜力，如果不降低资金门槛的话，他们可能早就放弃了",
-    "text_es": "Si lo piensas desde el punto de vista del negocio, si te doy un pequeño empujón financiero y reduzco esa barrera económica, en realidad puedo cambiar directamente tu capacidad de tener éxito, porque te he dado un poco más de tiempo para probar esa idea por más tiempo. Te he dado esa oportunidad de migrar tu negocio a Shopify. Y muy seguido en ese tipo de experimentos ves que básicamente has desbloqueado a todo un grupo de personas que probablemente se habrían rendido sin reducir esa fricción monetaria (monetary friction).",
+    "text_ko": "사실 제가 당신의 성공 가능성에 인과적으로(causally) 영향을 미칠 수 있어요. 제가 그 아이디어를 좀 더 오래 시도해볼 수 있는 시간을 더 줬으니까요.",
+    "text_zh": "其实我能直接影响到你能不能成功，因为我多给了你一点时间，让你可以把这个想法再试试看。",
+    "text_es": "En realidad puedo cambiar tu capacidad de tener éxito de manera directa, porque te he dado un poquito más de tiempo para que pruebes esa idea un poco más.",
     "key_sentence": "I can actually causally change your ability to become successful, because I've given you a little bit more time.",
     "text_trimmed": true,
     "original_text": "If you think about in a business case, if I give you a little monetary boost and reduce that monetary friction, I can actually causally change your ability to become successful, because I've given you a little bit more time to try that idea a little bit longer. I've given you that opportunity to move your business over to Shopify. And so often in those types of experiments you see that you've basically unlocked a class of people who might've given up without reducing that monetary friction",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "monetary friction",
-        "definition": "Monetary friction refers to the barriers or inefficiencies in the financial system that prevent the smooth flow of money and credit. These frictions can lead to delays in transactions and affect economic performance.",
-        "businessContext": "In business and finance, monetary friction can impact investment decisions, liquidity, and overall market efficiency, often requiring companies to adapt their strategies to mitigate these effects.",
-        "nuance": "The term is often used in discussions about economic policy and financial markets, highlighting the importance of addressing these frictions to enhance economic growth.",
-        "synonyms": [
-          "financial friction",
-          "liquidity constraint"
-        ],
-        "antonyms": [
-          "monetary efficiency",
-          "financial fluidity"
-        ]
-      },
-      {
-        "word": "experiment",
-        "definition": "An experiment is a systematic procedure undertaken to test a hypothesis or demonstrate a known fact, often involving controlled conditions to isolate variables. It is a fundamental method for scientific inquiry and innovation.",
-        "businessContext": "In the context of startups and technology, experiments are crucial for validating business models, testing product features, and understanding customer behavior through A/B testing and pilot programs.",
-        "nuance": "While 'experiment' suggests a trial-and-error approach, it also implies a structured methodology, making it suitable for both scientific and business contexts.",
-        "synonyms": [
-          "trial",
-          "test"
-        ],
-        "antonyms": [
-          "certainty",
-          "conclusion"
-        ]
-      },
-      {
-        "word": "valuable",
-        "definition": "Valuable describes something that has worth, significance, or usefulness, often in terms of monetary value or importance to an individual or organization. It can also refer to intangible assets such as knowledge or relationships.",
-        "businessContext": "In business, identifying valuable resources, whether they are human capital, intellectual property, or market insights, is essential for strategic planning and competitive advantage.",
-        "nuance": "The term can convey both tangible and intangible aspects, making it versatile in discussions about assets, investments, and contributions to success.",
-        "synonyms": [
-          "precious",
-          "beneficial"
-        ],
-        "antonyms": [
-          "worthless",
-          "insignificant"
-        ]
-      },
-      {
-        "word": "segment",
-        "definition": "To segment means to divide a larger group or market into smaller, more manageable parts based on specific criteria, such as demographics, behaviors, or preferences. This process allows for targeted marketing and tailored strategies.",
-        "businessContext": "In marketing and product development, segmenting the audience enables businesses to create personalized experiences and optimize resource allocation for maximum impact.",
-        "nuance": "While 'segment' often refers to market divisions, it can also apply to various contexts, such as product features or customer journeys, emphasizing the importance of specificity.",
-        "synonyms": [
-          "divide",
-          "classify"
-        ],
-        "antonyms": [
-          "unify",
-          "aggregate"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "orienting every team to think about the total number of people... who got to the end of their part of the journey is a very powerful way to incentivize people to do the right thing.",
@@ -351,7 +222,6 @@
     "vocabulary_highlights": [
       "incentivize",
       "orienting",
-      "metrics",
       "powerful"
     ],
     "topics": [
@@ -363,9 +233,9 @@
     "speaker_expertise": [
       "Growth Strategy"
     ],
-    "text_ko": "그리고 우리는 장기적인 GMV(총거래액)와 성공한 판매자 수에 집중하다 보니, 모든 팀이 비율이 아니라 '자기가 담당한 여정의 끝까지 도달한 사람의 총수'를 생각하도록 유도하는 게 정말 강력한 인센티브가 돼요. 그렇게 하면 사람들을 제대로 정착시키는 쪽으로 행동하게 되고, 자기 바로 앞 단계의 퍼널(funnel)을 조여서 로컬 전환율(conversion rate)만 좋아 보이게 하려는 식의 행동을 막을 수 있어요. 그건 제일 골칫거리예요. 그런데 팀들이 전환율 같은 비율에만 너무 집착하면 의도적이든 무의식적이든 그런 식으로 하는 경우를 많이 보게 돼요.",
-    "text_zh": "因为我们关注的是长期GMV和成功商家的数量，所以我们让每个团队都去想总人数——不是转化率，而是有多少人最终完成了他们那部分流程的总人数。这样激励大家做正确的事情，真正帮用户搞定设置，而不是搞那种\"我要把我前面那个漏斗环节卡紧一点，好让我这边的局部转化率好看一些\"的操作。这种做法简直是我最头疼的，但我看到很多团队，要么明着要么暗着都在这么干，就因为他们太盯着转化率这个指标了。",
-    "text_es": "Y como nos enfocamos en ese GMV a largo plazo, en el número de comerciantes que tienen éxito, orientar a cada equipo para que piense en el número total de personas, no en la tasa, sino en el número total de personas que llegaron al final de su parte del proceso es una manera muy poderosa de incentivar a la gente a hacer lo correcto en términos de configurar bien a las personas, en lugar de hacer eso de \"voy a estrechar el embudo (funnel) justo antes de mi paso para hacer que mi tasa de conversión local se vea mejor,\" que es mi pesadilla pero algo que veo que muchos equipos hacen, implícita o explícitamente, cuando se enfocan demasiado en las tasas como forma de ver el mundo.",
+    "text_ko": "모든 팀이 자신들이 담당한 여정(journey)의 끝까지 도달한 사람들의 총 수를 생각하도록 만드는 건 사람들이 옳은 일을 하도록 동기를 부여하는(incentivize) 아주 강력한 방법이에요.",
+    "text_zh": "让每个团队都去关注有多少用户最终完成了他们负责的那部分流程，这样做特别管用，能让大家主动去做对的事情。",
+    "text_es": "hacer que todos los equipos se enfoquen en cuánta gente realmente llegó hasta el final de su parte del proceso es una forma muy efectiva de motivar a la gente a hacer lo correcto.",
     "key_sentence": "Orienting every team to focus on total people incentivizes doing the right thing.",
     "text_trimmed": true,
     "original_text": "And because we focus on that long-term GMV, number of merchants who are successful, orienting every team to think about the total number of people, not the rate, but the total number of people who got to the end of their part of the journey is a very powerful way to incentivize people to do the right thing in terms of getting people set up versus do the, 'I'm going to constrict the funnel step right before me to make my local conversion rate look better,' which is the bane of my existence but something I see a lot of teams, implicitly or explicitly do when they get too focused on rates as a way to think about the world.",
@@ -400,20 +270,6 @@
         ]
       },
       {
-        "word": "metrics",
-        "definition": "Quantitative measures used to assess performance, progress, or success in various areas of business.",
-        "businessContext": "Metrics are critical in business for evaluating the effectiveness of strategies, tracking key performance indicators (KPIs), and making data-driven decisions.",
-        "nuance": "While 'metrics' typically refer to numerical data, it is important to ensure they are relevant and actionable to avoid misleading conclusions.",
-        "synonyms": [
-          "measurements",
-          "indicators"
-        ],
-        "antonyms": [
-          "qualitative data",
-          "N/A"
-        ]
-      },
-      {
         "word": "powerful",
         "definition": "Having great strength, influence, or effectiveness in achieving a desired result.",
         "businessContext": "In business, describing a strategy or tool as 'powerful' often indicates its significant impact on performance, decision-making, or competitive advantage.",
@@ -427,7 +283,9 @@
           "ineffective"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "And in practice, I talked about it's actually almost always easier to just make it harder to do the thing right before your step in the funnel to increase your conversion rate.",
@@ -437,7 +295,6 @@
     "vocabulary_highlights": [
       "conversion rate",
       "funnel",
-      "growth metrics",
       "increase"
     ],
     "topics": [
@@ -449,9 +306,9 @@
     "speaker_expertise": [
       "Growth Strategy"
     ],
-    "text_ko": "실제로는 전환율(conversion rate)을 올리려면 퍼널(funnel)에서 내 단계 바로 전에 그 행동을 일부러 더 어렵게 만드는 게 거의 항상 더 쉬운 방법이라고 말했어요. 예를 들어 가입(sign up)을 더 어렵게 하면 가입에서 활성화(activated rate)로 이어지는 비율을 올리는 건 훨씬 쉬워요. 통과한 사람이 줄고, 남은 사람들은 의도(intent)가 더 높은 사람들이니까요.",
-    "text_zh": "实际操作中我发现，要提高转化率(conversion rate)，最简单的方法其实是把漏斗(funnel)前一步的门槛设高一点。比如说，我把注册门槛提高了，那注册到激活的转化率自然就上去了，因为能通过注册这关的人本来就少了，而且这些人的意向都更强。",
-    "text_es": "Y en la práctica, hablé de que casi siempre es más fácil hacer que sea más difícil realizar la acción justo antes de tu paso en el embudo (funnel) para aumentar tu tasa de conversión. Si hago que sea más difícil registrarse, va a ser muy fácil aumentar la tasa de registro a activación, porque simplemente tengo menos gente y las personas que lograron pasar tienen una intención mucho más alta.",
+    "text_ko": "실제로 제가 말했듯이, 전환율(conversion rate)을 높이려면 퍼널(funnel)에서 해당 단계 바로 앞의 행동을 일부러 더 어렵게 만들어 놓는 게 거의 항상 더 쉬워요.",
+    "text_zh": "实际操作中我发现，要提高转化率的话，往往最简单的办法就是让用户在你这一步之前的那个环节更难操作一些。",
+    "text_es": "Y en la práctica, de lo que hablé es que casi siempre es más fácil hacer que el paso anterior en tu embudo (funnel) sea más difícil para aumentar tu tasa de conversión.",
     "key_sentence": "Making it harder to do the thing increases conversion rate through higher intent.",
     "text_trimmed": true,
     "original_text": "And in practice, I talked about it's actually almost always easier to just make it harder to do the thing right before your step in the funnel to increase your conversion rate. If I make it harder to sign up, it's going to be very easy to increase sign up to activated rate, because I just have fewer people and the people who made it through our higher intent.",
@@ -486,20 +343,6 @@
         ]
       },
       {
-        "word": "growth metrics",
-        "definition": "Quantitative measures used to assess the performance and expansion of a business over time.",
-        "businessContext": "In startups and tech companies, growth metrics are vital for tracking progress, making informed decisions, and attracting investors by demonstrating potential scalability.",
-        "nuance": "While growth metrics provide valuable insights, they should be interpreted in context, as rapid growth can sometimes mask underlying issues.",
-        "synonyms": [
-          "performance indicators",
-          "business metrics"
-        ],
-        "antonyms": [
-          "decline metrics",
-          "recession indicators"
-        ]
-      },
-      {
         "word": "increase",
         "definition": "To become or make greater in size, amount, intensity, or degree.",
         "businessContext": "In a business context, 'increase' often refers to growth in sales, revenue, or market share, and is a key objective for companies aiming to expand.",
@@ -513,6 +356,8 @@
           "decline"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

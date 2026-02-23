@@ -4,12 +4,7 @@
     "speaker": "Christine Itwaru",
     "timestamp": "00:00:00",
     "context": "Christine shares her perspective on the importance of understanding customer experiences as a product manager. She emphasizes that spending time observing customers and their frustrations is crucial for a product manager to develop empathy and a passion for improving the product. This connection to customer pain points is essential for creating effective and valuable products.",
-    "vocabulary_highlights": [
-      "crucial",
-      "understanding",
-      "observing",
-      "frustrations"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Customer Experience"
@@ -20,71 +15,16 @@
       "Product Management",
       "User Experience"
     ],
-    "text_ko": "전 총리로서 말씀드리자면, 고객과 시간을 보내고 그들의 어려움을 지켜보는 걸 절대 포기하지 않을 거예요. 제가 제품에 사랑에 빠진 이유도 12년 전 내부 고객이 키보드와 마우스와 씨름하는 모습을 보면서였어요. 그때 '이 사람은 도대체 뭐하고 있는 거지?'라는 생각이 들었거든요.",
-    "text_zh": "作为一名前总理，我绝不会放弃与客户交流和观察他们的痛点。正是因为我在12年前看到我的内部客户与键盘和鼠标斗争，我才爱上了产品。当时我心里想：“天哪，这家伙在干什么？”",
-    "text_es": "Hablando como un ex primer ministro, nunca renunciaría a pasar tiempo con los clientes y observar sus dificultades. Así fue como me enamoré del producto; hace 12 años vi a mi cliente interno luchando con el teclado y el mouse, y pensé: 'Oh, Dios mío. ¿Qué está haciendo este tipo?'",
+    "text_ko": "전 제품 관리자(PM)로서 저는 고객과 직접 시간을 보내며 그들의 고충을 직접 확인하는 일을 절대 포기하지 않을 거예요.",
+    "text_zh": "作为前产品经理，我觉得跟客户待在一起、看他们的痛点，这个时间绝对不能省。",
+    "text_es": "Como ex-gerente de producto, jamás dejaría de pasar tiempo con los clientes y ver de primera mano sus problemas.",
     "key_sentence": "I would not ever give up spending time with customers and watching their pain.",
     "text_trimmed": true,
     "original_text": "Speaking as a former PM, I would not ever give up spending time with customers and watching their pain. That's how I fell in love with product was I saw my internal customer 12 years back now fighting with the keyboard, fighting with the mouse, and I was just like, 'Oh, my gosh. What's this guy doing?'",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "crucial",
-        "definition": "Extremely important or essential for success or a particular outcome.",
-        "businessContext": "In business, 'crucial' often refers to decisions, strategies, or relationships that are vital for achieving objectives or maintaining competitive advantage.",
-        "nuance": "While 'crucial' implies a high level of importance, it can also suggest urgency or criticality in decision-making.",
-        "synonyms": [
-          "critical",
-          "essential"
-        ],
-        "antonyms": [
-          "insignificant",
-          "trivial"
-        ]
-      },
-      {
-        "word": "understanding",
-        "definition": "The ability to comprehend or grasp the meaning, significance, or nature of something.",
-        "businessContext": "In a business setting, 'understanding' often refers to insights gained from market research, customer feedback, or team dynamics that inform strategic decisions.",
-        "nuance": "This term can imply a deeper level of insight beyond mere knowledge, often suggesting empathy or awareness of nuances.",
-        "synonyms": [
-          "comprehension",
-          "insight"
-        ],
-        "antonyms": [
-          "misunderstanding",
-          "ignorance"
-        ]
-      },
-      {
-        "word": "observing",
-        "definition": "The act of watching or monitoring something carefully to gain information or insights.",
-        "businessContext": "In business, 'observing' is crucial for gathering data on customer behavior, market trends, or operational efficiency, often leading to informed decision-making.",
-        "nuance": "While 'observing' suggests passive watching, it can also imply active engagement and analysis, especially in a research context.",
-        "synonyms": [
-          "monitoring",
-          "watching"
-        ],
-        "antonyms": [
-          "ignoring",
-          "neglecting"
-        ]
-      },
-      {
-        "word": "frustrations",
-        "definition": "Feelings of annoyance or disappointment resulting from an inability to achieve something or from unmet expectations.",
-        "businessContext": "In the workplace, 'frustrations' can arise from various sources, such as project delays, communication breakdowns, or customer dissatisfaction, and addressing them is key to maintaining morale and productivity.",
-        "nuance": "The term often conveys a sense of emotional response to challenges, making it important to address these feelings constructively in a business environment.",
-        "synonyms": [
-          "annoyances",
-          "disappointments"
-        ],
-        "antonyms": [
-          "satisfaction",
-          "contentment"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "One is it is a thing you do. Product operations for a VP or a head of product or a product manager is the creation of some system that allows you to thrive or allows your team to thrive in product management.",
@@ -264,8 +204,7 @@
     "vocabulary_highlights": [
       "alignment",
       "extent",
-      "prepare",
-      "communication"
+      "prepare"
     ],
     "topics": [
       "Product Management",
@@ -324,22 +263,9 @@
           "neglect",
           "disorganize"
         ]
-      },
-      {
-        "word": "communication",
-        "definition": "The act of conveying information or expressing thoughts and feelings through verbal, written, or non-verbal means.",
-        "businessContext": "Effective communication is vital in business for collaboration, negotiation, and maintaining relationships with clients and stakeholders, influencing overall success.",
-        "nuance": "The term 'communication' encompasses both the message and the medium, highlighting the importance of clarity and understanding in exchanges.",
-        "synonyms": [
-          "conveyance",
-          "discourse"
-        ],
-        "antonyms": [
-          "silence",
-          "miscommunication"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I think maybe that is because I have a product background.",
@@ -347,9 +273,6 @@
     "timestamp": "00:06:28",
     "context": "Christine shares her perspective on the evolving understanding of product operations, noting that for individuals without a product management background, the concept may seem novel. She attributes her deep understanding of product operations to her own experience in product management, while acknowledging that those from other fields may find the transition into product ops more challenging, as they familiarize themselves with new responsibilities and frameworks.",
     "vocabulary_highlights": [
-      "perspective",
-      "evolving",
-      "concept",
       "background"
     ],
     "topics": [
@@ -362,56 +285,14 @@
       "Product Management",
       "User Experience"
     ],
-    "text_ko": "저는 제품 배경이 있어서 그런 것 같아요. 그래서 그 고통을 정말 잘 느꼈는데, 대부분 제가 이야기하는 분들은 제품 배경이 없고 컨설팅이나 기술 쪽에서 성공을 거둔 분들이 많아요. 그분들은 마케팅 쪽에서도 올 수 있고, 그런 분들에게는 이 분야가 상대적으로 새롭게 느껴질 거예요. 왜냐하면 이제 막 그 영역에 발을 들여놓기 시작하니까요.",
-    "text_zh": "我认为这可能是因为我有产品背景。因此，我对这种痛点感受得非常深刻。不过，我必须说，大多数我交谈的人没有产品背景，他们来自咨询、技术成功或其他市场营销领域，确实会觉得这相对较新，因为他们开始逐渐深入这个领域。",
-    "text_es": "Creo que eso se debe a que tengo un trasfondo en productos (product background). Por lo tanto, sentí ese dolor de manera muy aguda, pero debo decir que para la mayoría de las personas con las que siempre hablo, que no tienen ese trasfondo en productos, vienen de consultoría (consulting) o de éxito técnico (technical success) o de algún otro grupo de marketing, se siente relativamente nuevo porque están comenzando a adentrarse un poco en ese espacio.",
+    "text_ko": "아마 그건 제가 제품 쪽 경력이 있어서 그런 것 같아요.",
+    "text_zh": "我觉得可能是因为我之前做产品出身的缘故。",
+    "text_es": "Creo que tal vez es porque vengo del lado de producto.",
     "key_sentence": "I have a product background.",
     "text_trimmed": true,
     "original_text": "I think maybe that is because I have a product background. So, I felt that pain very acutely, but I will say for the majority of people I always speak to who don't have that product background, they're coming from consulting or from technical success or from some other group marketing maybe, it does feel relatively new because they're starting to dive into that space a little bit.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "perspective",
-        "definition": "A particular attitude or way of considering something; a viewpoint. It involves the interpretation of information based on individual experiences and biases.",
-        "businessContext": "In business, perspective is crucial for understanding market trends, customer needs, and team dynamics, often influencing strategic decisions and innovation.",
-        "nuance": "While 'perspective' can imply a subjective viewpoint, it is often valued in discussions for its ability to provide diverse insights; however, it should be used carefully to avoid bias.",
-        "synonyms": [
-          "viewpoint",
-          "standpoint"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "evolving",
-        "definition": "Gradually developing or changing over time, often in response to new information or circumstances. It suggests a dynamic process of growth or adaptation.",
-        "businessContext": "In the tech industry, products and strategies are often described as evolving to meet changing consumer demands and technological advancements, highlighting the need for agility.",
-        "nuance": "The term 'evolving' carries a positive connotation of progress and improvement, but it can imply instability if used in contexts where consistency is expected.",
-        "synonyms": [
-          "developing",
-          "progressing"
-        ],
-        "antonyms": [
-          "stagnant",
-          "static"
-        ]
-      },
-      {
-        "word": "concept",
-        "definition": "An abstract idea or a general notion that serves as a foundation for understanding or creating something. It often represents a theoretical framework or model.",
-        "businessContext": "In business, a concept can refer to a new product idea, marketing strategy, or business model that is being developed or tested before full implementation.",
-        "nuance": "While 'concept' suggests creativity and innovation, it can also imply a lack of practical application if not followed by execution or implementation.",
-        "synonyms": [
-          "idea",
-          "notion"
-        ],
-        "antonyms": [
-          "reality",
-          "fact"
-        ]
-      },
       {
         "word": "background",
         "definition": "The circumstances or situation prevailing at a particular time or the history of a person or organization that influences their current state. It encompasses experience, education, and context.",
@@ -426,7 +307,9 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I keep mentioning that more mature product ops folks end up being a very good strategic advisor to leaders in product and to the product teams and that continues to be my belief.",
@@ -435,9 +318,7 @@
     "context": "Christine asserts that as product operations roles mature, individuals in these positions become valuable strategic advisors to product leaders and teams. This evolution highlights the potential for product ops to not only streamline processes but also to influence strategic decision-making within organizations, showcasing the importance of this role in driving overall business success.",
     "vocabulary_highlights": [
       "strategic advisor",
-      "mature",
-      "product operations",
-      "evolution"
+      "mature"
     ],
     "topics": [
       "Leadership & Management",
@@ -482,35 +363,8 @@
           "immature",
           "inexperienced"
         ]
-      },
-      {
-        "word": "product operations",
-        "definition": "The function within an organization that focuses on the management and optimization of product development processes and workflows.",
-        "businessContext": "In tech startups, product operations teams ensure that product development aligns with business objectives and customer needs, facilitating communication between various departments.",
-        "nuance": "The term emphasizes a systematic approach to product management, distinguishing it from more general product management roles.",
-        "synonyms": [
-          "product management",
-          "product development"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "evolution",
-        "definition": "The gradual development or change of a product, process, or organization over time, often in response to market demands or technological advancements.",
-        "businessContext": "In business, evolution refers to the continuous improvement and adaptation of products and strategies to remain competitive in a dynamic environment.",
-        "nuance": "While 'evolution' suggests positive growth, it can also imply a slow or reactive approach rather than proactive innovation.",
-        "synonyms": [
-          "development",
-          "progression"
-        ],
-        "antonyms": [
-          "stagnation",
-          "regression"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

@@ -92,7 +92,6 @@
     "context": "Lenny asks about Dharmesh's unique approach to preparing keynote speeches. Dharmesh explains how he applies engineering principles to public speaking by measuring audience engagement. He records his practice talks, transcribes them, and uses custom software to calculate laughs per minute (LPM) - a metric borrowed from stand-up comedy - to optimize his presentations for maximum audience attention.",
     "vocabulary_highlights": [
       "metric",
-      "audience engagement",
       "custom software",
       "points"
     ],
@@ -128,20 +127,6 @@
         ]
       },
       {
-        "word": "audience engagement",
-        "definition": "The interaction and involvement of an audience with a content creator or brand, often measured through various forms of feedback and participation.",
-        "businessContext": "In marketing and media, audience engagement is vital for understanding customer preferences and improving content strategies to foster loyalty and retention.",
-        "nuance": "The term suggests a deeper connection beyond mere viewership or attendance, emphasizing active participation and emotional investment.",
-        "synonyms": [
-          "customer interaction",
-          "user engagement"
-        ],
-        "antonyms": [
-          "audience disengagement",
-          "apathy"
-        ]
-      },
-      {
         "word": "custom software",
         "definition": "Tailored software solutions designed and developed to meet the specific needs and requirements of a particular user or organization.",
         "businessContext": "In tech startups and businesses, custom software can provide a competitive advantage by addressing unique challenges and enhancing operational efficiency.",
@@ -169,7 +154,8 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "Some of the best startup advice I've heard is startups should focus on one thing and be really, really exceptionally world-class at that one thing. And one of our early zigs is we are going to do exactly the opposite of that.",
@@ -179,7 +165,6 @@
     "vocabulary_highlights": [
       "exceptionally",
       "world-class",
-      "contrarian",
       "focus on"
     ],
     "topics": [
@@ -228,20 +213,6 @@
         ]
       },
       {
-        "word": "contrarian",
-        "definition": "A person who opposes or rejects popular opinion or prevailing trends.",
-        "businessContext": "In business and investment, a contrarian approach involves making decisions that go against the prevailing market sentiment, often seeking opportunities in overlooked or undervalued areas.",
-        "nuance": "While being contrarian can lead to innovative strategies, it can also carry risks if not supported by sound reasoning or analysis.",
-        "synonyms": [
-          "dissenter",
-          "nonconformist"
-        ],
-        "antonyms": [
-          "follower",
-          "conformist"
-        ]
-      },
-      {
         "word": "focus on",
         "definition": "To concentrate attention or effort on a specific task, subject, or goal.",
         "businessContext": "In startup environments, 'focus on' is crucial for prioritizing resources and strategies to achieve specific objectives, often leading to greater efficiency and effectiveness.",
@@ -255,7 +226,8 @@
           "neglect"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I think too many founders, once they get to a... They are very apprehensive of going public and going through the IPO process and being a publicly traded company because they think... I mean, that's like the beginning of the end.",
@@ -349,9 +321,6 @@
     "timestamp": "01:20:44",
     "context": "Lenny asks Dharmesh about his process for defining and maintaining HubSpot's culture. Dharmesh shares his framework that culture should be treated as a product with employees as customers. This means regularly surveying employees like you would customers, iterating on culture based on feedback, and never considering culture 'finished' - just like you would never stop improving a customer-facing product.",
     "vocabulary_highlights": [
-      "framework",
-      "maintaining",
-      "treat",
       "culture"
     ],
     "topics": [
@@ -372,48 +341,6 @@
     "vocab_reparsed": true,
     "vocabulary": [
       {
-        "word": "framework",
-        "definition": "A framework is a structured system or set of guidelines that provides support and organization for developing or implementing projects, processes, or policies.",
-        "businessContext": "In business and technology, frameworks are often used to guide project management, software development, and strategic planning, ensuring consistency and efficiency.",
-        "nuance": "While 'framework' suggests a supportive structure, it may imply rigidity; thus, it is important to balance adherence to the framework with flexibility in execution.",
-        "synonyms": [
-          "structure",
-          "system"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorder"
-        ]
-      },
-      {
-        "word": "maintaining",
-        "definition": "Maintaining refers to the process of preserving or keeping something in its existing state, ensuring it continues to function effectively.",
-        "businessContext": "In a business setting, maintaining can relate to sustaining operational efficiency, customer relationships, or product quality over time.",
-        "nuance": "The term often implies ongoing effort and vigilance; it is important to use it when discussing long-term strategies rather than one-time actions.",
-        "synonyms": [
-          "sustaining",
-          "upholding"
-        ],
-        "antonyms": [
-          "neglecting",
-          "abandoning"
-        ]
-      },
-      {
-        "word": "treat",
-        "definition": "To treat means to handle, deal with, or consider someone or something in a specific manner, often implying a level of care or respect.",
-        "businessContext": "In the context of business culture, treating employees well can enhance morale and productivity, while treating customers with respect can improve loyalty and satisfaction.",
-        "nuance": "The word carries a positive connotation when used in contexts of care and respect, but can be negative if it implies condescension or superficiality.",
-        "synonyms": [
-          "handle",
-          "regard"
-        ],
-        "antonyms": [
-          "mistreat",
-          "disregard"
-        ]
-      },
-      {
         "word": "culture",
         "definition": "Culture refers to the shared values, beliefs, and practices that characterize a group or organization, influencing behavior and decision-making.",
         "businessContext": "In business, culture shapes the work environment, affects employee engagement, and can be a key factor in attracting and retaining talent.",
@@ -427,7 +354,8 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "Within a closed system, entropy increases over time. We don't have to get into the [inaudible 00:37:50] of this. In lay person's terms, the second law of thermodynamics, I'm paraphrasing here, is that, 'Over time, unless you intervene, everything goes to crap.'",
@@ -437,8 +365,7 @@
     "vocabulary_highlights": [
       "intervene",
       "entropy",
-      "system",
-      "disorder"
+      "system"
     ],
     "topics": [
       "Leadership & Management",
@@ -498,21 +425,8 @@
           "disorder",
           "chaos"
         ]
-      },
-      {
-        "word": "disorder",
-        "definition": "A state of confusion or lack of order within a system, often leading to inefficiency or dysfunction.",
-        "businessContext": "In business, disorder can manifest as miscommunication, unstructured processes, or poor organizational culture, hindering performance and growth.",
-        "nuance": "While 'disorder' generally has a negative connotation, it can also be used to describe a necessary phase of change or innovation before achieving order.",
-        "synonyms": [
-          "chaos",
-          "disarray"
-        ],
-        "antonyms": [
-          "order",
-          "organization"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

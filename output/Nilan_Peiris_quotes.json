@@ -6,9 +6,7 @@
     "context": "Lenny is discussing with Nilan how to drive word-of-mouth growth for products. Nilan is explaining that most teams stop when their product simply works, or they focus on incremental improvements like conversion rate optimization. However, to get customers to actively recommend your product to others, you need to exceed their expectations dramatically. He argues that you must create experiences that customers never knew were possible before - essentially doing something completely new rather than just improving existing solutions.",
     "vocabulary_highlights": [
       "conversion rate",
-      "incremental improvements",
-      "recommendation",
-      "word-of-mouth growth"
+      "recommendation"
     ],
     "topics": [
       "Product Management",
@@ -21,9 +19,9 @@
       "User Experience",
       "Product Strategy"
     ],
-    "text_ko": "어떤 사람들은 전환율(conversion rate)에만 신경 쓰면서 \"이걸 정말 깔끔하게 만들 거야\"라고 해요. 그건 좋아요, 어느 정도 성장도 얻고요. 하지만 추천(recommendation)까지 가려면 사용자를 완전히 놀라게 해야 해요. 이전에는 그런 게 가능하다고도 생각하지 못했던 경험을 줘야 해요. 그리고 아무도 해본 적 없는 걸 해냈을 때 비로소 그게 따라와요.",
-    "text_zh": "有些人就盯着转化率(conversion rate)，想着\"我要把这个做得特别特别炫\"。这也挺好的，能带来一些增长。但是要想让用户主动推荐你，那就得让他们彻底震撼到。你得给他们一种他们以前想都想不到的体验。当你做出了前无古人的东西时，那就对了。",
-    "text_es": "Hay gente que se enfoca solo en la tasa de conversión, como \"voy a hacer esto súper pulido y elegante.\" Y está bien, logras crecer un poco más. Pero para llegar a que te recomienden, tienes que dejar a tus usuarios completamente impresionados (blow their socks off). Tienes que darles una experiencia que ni sabían que era posible. Y cuando estás en ese punto de hacer algo que nadie ha hecho antes, ahí es cuando lo logras.",
+    "text_ko": "어떤 사람들은 전환율(conversion rate)에만 집중해요. \"정말정말 세련되게 만들 거야\" 이렇게요. 그건 좋아요 — 성장도 좀 더 나와요. 그런데 진짜 추천(recommendation)을 얻으려면 사용자들을 완전히 놀라게 해서 강한 인상을 남겨야 해요.",
+    "text_zh": "有些人只盯着转化率（conversion rate），想着“我要把这做得特别顺滑、特别有质感。”这确实能带来点增长，但要做到用户愿意主动推荐你，你得把他们彻底惊艳。",
+    "text_es": "Algunas personas se centran en la tasa de conversión (conversion rate), tipo: \"voy a dejar esto súper, súper pulido\". Y eso está bien — consigues un poco más de crecimiento. Pero para llegar a la recomendación (recommendation), tienes que dejar boquiabiertos a tus usuarios.",
     "key_sentence": "To get recommendations, you must blow your user socks off with unique experiences.",
     "text_trimmed": true,
     "original_text": "Some people focus on conversion rate, like, \"I'm going to make this really, really slick.\" And that's cool. You get a bit more growth. But to get to recommendation, you're going to blow your user socks off. You have to give them an experience they didn't know was previously possible. And when you are in that place of doing something that no one has ever done before, that's when you get it.",
@@ -44,20 +42,6 @@
         ]
       },
       {
-        "word": "incremental improvements",
-        "definition": "Small, gradual enhancements made to a product, service, or process over time, rather than large, radical changes.",
-        "businessContext": "In startups and tech environments, incremental improvements are often employed in agile methodologies to refine offerings based on user feedback and performance metrics.",
-        "nuance": "This approach emphasizes continuous development and adaptability, contrasting with disruptive innovation that seeks to overhaul existing systems.",
-        "synonyms": [
-          "gradual enhancements",
-          "stepwise advancements"
-        ],
-        "antonyms": [
-          "radical changes",
-          "disruptive innovations"
-        ]
-      },
-      {
         "word": "recommendation",
         "definition": "A suggestion or endorsement made by an individual or organization, often based on personal experience or expertise.",
         "businessContext": "In business, recommendations can significantly influence consumer behavior, often driving sales and fostering brand loyalty through trust and credibility.",
@@ -70,22 +54,10 @@
           "disapproval",
           "rejection"
         ]
-      },
-      {
-        "word": "word-of-mouth growth",
-        "definition": "A marketing phenomenon where customers share their positive experiences with a product or service, leading to organic growth through personal referrals.",
-        "businessContext": "In startups, word-of-mouth growth is often a key strategy for scaling, as it relies on authentic customer advocacy rather than paid advertising.",
-        "nuance": "This type of growth is highly valued for its cost-effectiveness and credibility, though it can be unpredictable and relies heavily on customer satisfaction.",
-        "synonyms": [
-          "organic growth",
-          "referral growth"
-        ],
-        "antonyms": [
-          "paid advertising",
-          "forced promotion"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "So building a brand led money transfer business, the brand's got to be pretty damn good, right? You're going to feel pretty special afterwards, in order to have less money afterwards.",
@@ -94,9 +66,7 @@
     "context": "Lenny asks about the biggest shift that helped Wise grow word-of-mouth significantly. Nilan explains why word-of-mouth was essential for Wise's business model. Since money is the ultimate commodity and customers end up with less money after using any money transfer service, building a brand-led business in this space requires an exceptionally good customer experience. He's outlining the challenge of finding marketing channels that can scale broadly while having very low distribution costs, which led them to focus on word-of-mouth growth.",
     "vocabulary_highlights": [
       "brand",
-      "money transfer",
-      "word-of-mouth",
-      "business model"
+      "money transfer"
     ],
     "topics": [
       "Growth & Marketing",
@@ -109,9 +79,9 @@
       "User Experience",
       "Product Strategy"
     ],
-    "text_ko": "그래서 브랜드 주도형 송금 비즈니스(brand-led money transfer business)를 만들려면 브랜드가 정말 좋아야 해요, 그렇죠? 결국 돈이 줄어들 텐데도 사람들이 '나 특별하네'라고 느껴야 하니까요. 그래서 우리가 항상 찾는 건 어떤 채널(channels)이 엄청 확장 가능(scalable)하고 전체 고객층(audience)에 닿을 수 있으면서 배포 비용(distribution cost)이 아주 낮은지예요.",
-    "text_zh": "所以要做品牌驱动的转账业务，这个品牌得相当牛才行，对吧？用户花了钱之后还得觉得特别值，钱虽然少了但心里美滋滋的。所以我们一直在找的就是，哪些渠道既能大规模推广，又能覆盖我们所有的目标用户，但是推广成本还特别低。",
-    "text_es": "Entonces, para construir un negocio de transferencias de dinero basado en marca, la marca tiene que estar súper buena, ¿no? El cliente se tiene que sentir muy especial después, para justificar que se quede con menos dinero. Así que lo que siempre buscamos es qué canales por ahí son súper escalables, que puedan llegar a toda nuestra audiencia, pero que tengan un costo de distribución increíblemente bajo.",
+    "text_ko": "브랜드 주도형 송금 사업(brand-led money transfer business)을 만들려면 브랜드가 정말 끝내줘야 해요, 그렇죠? 결국엔 돈은 덜 남는데도 ‘그래도 기분은 특별하잖아’ 하면서 스스로 위로하게 될 거예요.",
+    "text_zh": "所以想把汇款业务做成以品牌为主导(brand-led money transfer business)，品牌得足够出色，对吧？最后你会觉得自己很了不起，但手里的钱反而更少了。",
+    "text_es": "Si vas a montar un negocio de transferencias de dinero centrado en la marca (brand-led money transfer business), la marca tiene que ser realmente buena, ¿no? Te vas a sentir muy especial… para luego quedarte con menos dinero.",
     "key_sentence": "the brand's got to be pretty damn good, right?",
     "text_trimmed": true,
     "original_text": "So building a brand led money transfer business, the brand's got to be pretty damn good, right? You're going to feel pretty special afterwards, in order to have less money afterwards. So what we're looking for always, but what channels out there are super scalable, and can reach our entire audience, but have an incredibly low distribution cost.",
@@ -144,36 +114,10 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "word-of-mouth",
-        "definition": "Word-of-mouth refers to the informal communication of information about a product or service from person to person, often based on personal experiences and recommendations.",
-        "businessContext": "In marketing, word-of-mouth is a powerful tool for building brand awareness and trust, as consumers often rely on peer recommendations over traditional advertising.",
-        "nuance": "While it can be a positive force for a brand, negative word-of-mouth can also spread quickly and harm a company's reputation.",
-        "synonyms": [
-          "referral",
-          "buzz"
-        ],
-        "antonyms": [
-          "advertising",
-          "promotion"
-        ]
-      },
-      {
-        "word": "business model",
-        "definition": "A business model outlines how a company creates, delivers, and captures value, detailing the revenue streams, customer segments, and operational structure.",
-        "businessContext": "Understanding and articulating a business model is essential for startups to attract investors and for established companies to adapt to changing market conditions.",
-        "nuance": "The term can imply various frameworks, such as subscription-based, freemium, or direct sales, and is critical for strategic planning.",
-        "synonyms": [
-          "operating model",
-          "revenue model"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "We only got the advocacy when we were eight to 10 times cheaper. That's when people started talking about it. So the bar is all the way up there. And to put that in context, that means figuring out how to move money instantly.",
@@ -182,9 +126,7 @@
     "context": "Nilan is explaining a key insight about driving word-of-mouth for Wise. When entering new markets, they discovered that being marginally better (like pricing at 5.9% versus competitors at 6%) would get customers to use their service, but wouldn't generate recommendations. Only when they achieved dramatically better pricing - 8 to 10 times cheaper than alternatives - did customers become evangelical and start talking about the product. This taught them that the bar for recommendation is extremely high, requiring breakthrough improvements rather than incremental ones.",
     "vocabulary_highlights": [
       "advocacy",
-      "context",
-      "marginally",
-      "drive"
+      "context"
     ],
     "topics": [
       "Product Management",
@@ -197,9 +139,9 @@
       "User Experience",
       "Product Strategy"
     ],
-    "text_ko": "우리는 가격이 8~10배쯤 더 낮았을 때만 고객들의 지지(advocacy)를 얻었어요. 그때야 사람들이 입소문을 내기 시작했죠. 그래서 기준이 훨씬 높아졌어요. 좀 더 풀어 말하면, 돈을 즉시 옮기는 방법(move money instantly)을 찾아야 한다는 뜻이에요. 즉 단가를 6에서 0.35까지 완전히 낮추는 방법을 찾아야 해요.",
-    "text_zh": "只有当我们的价格便宜了8到10倍的时候，才真正赢得了用户的支持。那时候大家才开始议论我们。所以说这个门槛是相当高的。具体来说就是，我们得想办法实现瞬时转账，还得把价格从6块钱一路降到3毛5。",
-    "text_es": "Solo conseguimos que la gente nos recomendara cuando éramos 8 o 10 veces más baratos. Ahí fue cuando empezaron a hablar de nosotros. O sea, el listón está súper alto. Y para que te hagas una idea de lo que significa esto, hablamos de conseguir que el dinero se mueva al instante. Hablamos de bajar el precio desde seis hasta 0.35.",
+    "text_ko": "사람들이 얘기하기 시작한 건 우리가 8~10배나 더 싸졌을 때뿐이에요. 그때야 고객 추천(advocacy)이 나왔죠. 그래서 기준이 아주 높아진 거예요. 맥락을 더하면, 결국 돈을 즉시 이체하는 방법(즉시 자금 이체, move money instantly)을 찾아내야 한다는 뜻이에요.",
+    "text_zh": "只有当我们的价格便宜到8到10倍，才会有人开始主动推荐(advocacy)。那时候大家才开始讨论它。所以门槛被拉得很高。换句话说，这就得想明白怎么做到资金即时到账(move money instantly)。",
+    "text_es": "Solo conseguimos apoyo (advocacy) cuando éramos entre ocho y diez veces más baratos. Fue entonces cuando empezó a correr la voz. Así que el listón está por las nubes. Y para que te hagas una idea, eso significa averiguar cómo mover dinero al instante.",
     "key_sentence": "Advocacy only emerged when we were all the way down to 0.35.",
     "text_trimmed": true,
     "original_text": "We only got the advocacy when we were eight to 10 times cheaper. That's when people started talking about it. So the bar is all the way up there. And to put that in context, that means figuring out how to move money instantly. That means figuring out how to drop the price all the way from six all the way down to 0.35.",
@@ -232,36 +174,10 @@
           "isolation",
           "disregard"
         ]
-      },
-      {
-        "word": "marginally",
-        "definition": "Marginally means to a small extent or degree; it indicates a slight difference or change.",
-        "businessContext": "In business analysis, marginally is often used to describe incremental improvements in performance metrics, costs, or market share that may not be significant but are still noteworthy.",
-        "nuance": "This term can imply that while changes are present, they may not be impactful enough to warrant major strategic shifts or decisions.",
-        "synonyms": [
-          "slightly",
-          "minimally"
-        ],
-        "antonyms": [
-          "significantly",
-          "substantially"
-        ]
-      },
-      {
-        "word": "drive",
-        "definition": "Drive refers to the motivation or force that propels individuals or organizations to achieve goals or objectives.",
-        "businessContext": "In a business setting, drive can be associated with leadership, innovation, and the pursuit of growth, often reflecting a company's culture and ambition.",
-        "nuance": "While drive is generally seen as a positive trait, it can also suggest a relentless pursuit that may overlook important ethical considerations or team dynamics.",
-        "synonyms": [
-          "motivation",
-          "initiative"
-        ],
-        "antonyms": [
-          "apathy",
-          "indifference"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "It's this thing around growth rate. So, especially product net growth, which is what we're talking about. So you can imagine, we're going to open a new market to Indonesia, and the fastest way to do it is to take...",
@@ -271,8 +187,7 @@
     "vocabulary_highlights": [
       "growth rate",
       "net growth",
-      "open a new market",
-      "drive word-of-mouth growth"
+      "open a new market"
     ],
     "topics": [
       "Growth & Marketing",
@@ -285,9 +200,9 @@
       "User Experience",
       "Product Strategy"
     ],
-    "text_ko": "바로 성장률(growth rate)에 관한 얘기예요. 특히 우리가 말하는 건 제품 순성장(product net growth)이구요. 예를 들어 우리가 인도네시아 시장을 새로 열려 한다고 하면, 가장 빠른 방법은… 이미 누군가가 인도네시아로 진출하는 방법을 알아냈잖아요. 그 인프라를 가져다가 우리 서비스에 붙이면, '이건 할 수 있겠다' 해서 사용자 몇 명은 얻을 수 있어요. 근데 그게 하키스틱(hockey stick)처럼 확 폭발적으로 성장하진 않아요.",
-    "text_zh": "就是关于增长率的问题。特别是产品净增长，这就是我们在讨论的。你可以想象，我们要进入印尼这个新市场，最快的方式就是找到...别人已经摸清了怎么进入印尼市场。我们拿过来那套基础设施，然后接到Wise平台上，你知道吧？我们确实可以这么做，也能获得一些用户。但是这样不会出现爆发式增长(hockey stick growth)。",
-    "text_es": "Es esto del ritmo de crecimiento. O sea, especialmente el crecimiento neto del producto, que es de lo que estamos hablando. Entonces te puedes imaginar, vamos a abrir un nuevo mercado en Indonesia, y la forma más rápida de hacerlo es tomar... Alguien más ya se las ingenió para entrar a Indonesia. Tomamos esa infraestructura, y la conectamos a Wise, ¿sabes qué? Podemos hacer esto, vamos a conseguir algunos usuarios. Pero no crece como palo de hockey (hockey stick).",
+    "text_ko": "이건 성장률에 관한 얘기예요. 특히 지금 말하는 건 제품 순성장(product net growth)이구요. 인도네시아처럼 새 시장에 진출한다고 상상해보세요. 그럴 때 가장 빠른 방법은 ... 하는 거예요.",
+    "text_zh": "关键在于增长率这事儿。尤其是产品净增长（product net growth），也就是我们在说的那个。你可以想象，我们要进军印尼这个新市场，最快的办法就是...",
+    "text_es": "Es toda esta cuestión de la tasa de crecimiento. Sobre todo del crecimiento neto del producto (product net growth), que es de lo que estamos hablando. Así que imagínate: vamos a abrir un nuevo mercado en Indonesia, y la forma más rápida de hacerlo es...",
     "key_sentence": "the fastest way to do it is to take...",
     "text_trimmed": true,
     "original_text": "It's this thing around growth rate. So, especially product net growth, which is what we're talking about. So you can imagine, we're going to open a new market to Indonesia, and the fastest way to do it is to take... Someone else has figured out how to move to Indonesia. We take that infrastructure, and we'll plug it into Wise, you know what? We can do this, we'll get some users. But it doesn't grow like a hockey stick.",
@@ -334,22 +249,10 @@
           "exit a market",
           "N/A"
         ]
-      },
-      {
-        "word": "drive word-of-mouth growth",
-        "definition": "To encourage and facilitate organic promotion of a product or service through customer recommendations and discussions, rather than through paid advertising.",
-        "businessContext": "In the business and tech sectors, driving word-of-mouth growth is often seen as a cost-effective marketing strategy that can lead to increased brand loyalty and customer acquisition.",
-        "nuance": "This phrase suggests a focus on customer satisfaction and engagement, as positive experiences are crucial for generating genuine word-of-mouth referrals.",
-        "synonyms": [
-          "foster organic growth",
-          "encourage customer referrals"
-        ],
-        "antonyms": [
-          "suppress word-of-mouth",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "So it comes from a very logical place, how do I get users quickly? I can take a shortcut in doing this, but that, you kind of realize is wasted effort. So the step then becomes this much harder question of these types of questions.",
@@ -359,7 +262,6 @@
     "vocabulary_highlights": [
       "shortcut",
       "wasted effort",
-      "acquire",
       "logical"
     ],
     "topics": [
@@ -373,9 +275,9 @@
       "User Experience",
       "Product Strategy"
     ],
-    "text_ko": "이건 굉장히 논리적인 출발이에요. '어떻게 하면 사용자들을 빨리 모을 수 있을까?'에서 시작하죠. 지름길을 써서 해볼 수도 있는데, 그게 결국엔 쓸데없는 수고였다는 걸 깨닫게 돼요. 그래서 다음 단계는 훨씬 더 어려운 질문들로 옮겨가요. 예를 들어, 시장에 자금을 유입시키는 데(moving money into a market)의 이론상 최소 비용(theoretical minimum cost)은 얼마일까? 이론상 최대 속도(theoretical maximum speed)는 어느 정도일까?",
-    "text_zh": "所以这个想法其实很合理，就是我怎么能快速获客？我可以走捷径，但后来你会发现这其实是白费功夫。然后问题就变成了更难回答的那种，比如说，把资金投入市场的理论最低成本是多少？理论上的最高速度又是什么？",
-    "text_es": "Entonces viene de un lugar muy lógico, ¿cómo consigo usuarios rápido? Puedo tomar un atajo para hacer esto, pero eso, te das cuenta de que es esfuerzo perdido. Entonces el paso se convierte en esta pregunta mucho más difícil, este tipo de preguntas. Como ¿cuál es el costo teórico mínimo para mover dinero a un mercado? ¿Cuál es la velocidad teórica máxima?",
+    "text_ko": "그래서 출발점은 아주 논리적이에요. ‘어떻게 하면 빠르게 사용자를 확보할까?’라고 생각하죠. 이걸 위해 지름길(shortcut)을 택할 수도 있는데, 그러다 보면 그게 결국엔 헛수고라는 걸 깨닫게 돼요. 그래서 그다음엔 훨씬 더 어렵고 복잡한, 이런 종류의 질문들을 고민해야 해요.",
+    "text_zh": "这出发点很合理：怎么能快速获取用户(users)？可以走捷径，但你会意识到那是在浪费力气。于是下一步反而成了一个更难的问题——像这种问题该怎么解决？",
+    "text_es": "Surge de algo muy lógico: ¿cómo consigo usuarios rápido? Podría tomar un atajo para lograrlo, pero te das cuenta de que al final es un esfuerzo desperdiciado. Entonces lo que viene es una pregunta mucho más difícil de ese tipo.",
     "key_sentence": "but that, you kind of realize is wasted effort.",
     "text_trimmed": true,
     "original_text": "So it comes from a very logical place, how do I get users quickly? I can take a shortcut in doing this, but that, you kind of realize is wasted effort. So the step then becomes this much harder question of these types of questions. Like what is the theoretical minimum cost for moving money into a market? What is the theoretical maximum speed?",
@@ -410,20 +312,6 @@
         ]
       },
       {
-        "word": "acquire",
-        "definition": "To gain possession of something, typically through effort, purchase, or learning.",
-        "businessContext": "In business, acquiring can refer to obtaining assets, companies, or knowledge that enhance capabilities or market position.",
-        "nuance": "The term often implies a strategic intention behind the gain, such as growth or competitive advantage.",
-        "synonyms": [
-          "obtain",
-          "secure"
-        ],
-        "antonyms": [
-          "relinquish",
-          "lose"
-        ]
-      },
-      {
         "word": "logical",
         "definition": "Characterized by clear, sound reasoning or consistent principles that lead to rational conclusions.",
         "businessContext": "In the business realm, logical thinking is crucial for decision-making, problem-solving, and strategic planning, ensuring that actions are based on evidence and rationality.",
@@ -437,7 +325,9 @@
           "irrational"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "You can't split test your way to love. So, this experiment led product management approach, where you throw a bunch of things on the wall, and then you kind of see what sticks, and generally we don't advocate this.",
@@ -446,7 +336,6 @@
     "context": "Lenny and Nilan are discussing Wise's approach to product development and experimentation. Nilan is explaining why Wise doesn't rely heavily on A/B testing and experiment-driven product management. He argues that constantly running experiments to see what works is ineffective for building products that customers will love and recommend. Instead of this \"throw things at the wall\" approach, he advocates for building conviction about what matters to customers through direct customer feedback and insights before building features, since engineering resources are expensive and limited.",
     "vocabulary_highlights": [
       "product management",
-      "experiment-driven",
       "advocate",
       "approach"
     ],
@@ -461,9 +350,9 @@
       "User Experience",
       "Product Strategy"
     ],
-    "text_ko": "A/B 테스트(A/B test)만으로 사용자의 '사랑'을 얻을 수는 없어요. 그래서 여러 가지를 닥치는 대로 시도해 보고 뭐가 통하는지 보는 실험 주도형 제품 관리 접근법(experiment-led product management)은 보통 추천하지 않아요. 물론 어느 정도 그런 일이 일어나긴 하지만, 전반적으로 권장하지 않아요. 주된 이유는 엔지니어링(engineering)이 비용이 많이 들고, 고객에게 정말 중요한 게 무엇인지는 다른 방법으로도 충분히 파악할 수 있기 때문이에요.",
-    "text_zh": "你不能靠A/B测试来获得用户的喜爱。所以说，这种实验导向的产品管理方式，就是往墙上扔一堆东西，然后看看哪个能粘住，我们一般不太推荐这么做。当然了，这种情况肯定会有一些，但总的来说我们不建议这样。主要是因为开发成本很高，而且你其实可以通过别的方式来搞清楚客户真正在意什么。",
-    "text_es": "No puedes hacer A/B testing para conseguir que la gente se enamore de tu producto. Entonces, este enfoque experimental en gestión de producto, donde lanzas un montón de cosas a ver qué funciona, pues en general no lo recomendamos. Obvio que algo de esto siempre pasa, pero por lo general no lo recomendamos. Principalmente porque el desarrollo es caro, y en realidad puedes averiguar qué les importa a los clientes por otros medios.",
+    "text_ko": "사용자의 사랑을 스플릿 테스트(split test)로 얻을 수는 없어요. 그래서 여러 가지를 벽에 막 던져보고 뭐가 붙는지 보는, 이른바 실험 주도형 제품 관리 접근법(experiment led product management approach)은 보통 우리가 권하지 않아요.",
+    "text_zh": "靠 A/B 测试(split test) 是让用户真正喜欢起来的办法。 所以那种以实验为主导的产品管理方法(experiment-led product management approach)，就是把很多点子都试一遍，看看哪个能站得住脚——我们一般不建议这么干。",
+    "text_es": "No vas a lograr que los usuarios lo amen solo con pruebas A/B (split tests). Por eso, ese enfoque de gestión de producto (product management) dirigido por experimentos —en el que lanzas un montón de cosas a ver cuál pega— no es algo que, en general, recomendemos.",
     "key_sentence": "You can't split test your way to love.",
     "text_trimmed": true,
     "original_text": "You can't split test your way to love. So, this experiment led product management approach, where you throw a bunch of things on the wall, and then you kind of see what sticks, and generally we don't advocate this. Obviously there's a bit of it that happens, but generally don't advocate it. Mainly because engineering is expensive, and you can actually figure out what matters to customers through other means.",
@@ -481,20 +370,6 @@
         "antonyms": [
           "N/A",
           "N/A"
-        ]
-      },
-      {
-        "word": "experiment-driven",
-        "definition": "A methodology that emphasizes the use of experiments to guide decision-making and validate hypotheses.",
-        "businessContext": "In startups, an experiment-driven approach is often used to test product features or marketing strategies before full-scale implementation, minimizing risk and optimizing resources.",
-        "nuance": "This term suggests a reliance on empirical evidence rather than intuition, making it suitable for data-centric environments but potentially limiting in creative or subjective contexts.",
-        "synonyms": [
-          "data-driven",
-          "evidence-based"
-        ],
-        "antonyms": [
-          "intuition-based",
-          "guesswork"
         ]
       },
       {
@@ -525,7 +400,9 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "And closing this delta between what you've done, and what's perceived to be done is what I call product marketing within the product. And that in its own right is a discipline, I've learned.",
@@ -533,10 +410,8 @@
     "timestamp": "01:07:21",
     "context": "Nilan is sharing insights about a breakthrough that 3x'd their referral sharing rates. He discovered that customers were getting great value from Wise but weren't fully aware of how much value they were receiving. For example, customers saved money but didn't believe the actual savings amount, or received instant transfers without realizing they were instant. The key was creating visual comparisons and animations within the product to help customers understand the true value they received, which then made them more likely to share with others.",
     "vocabulary_highlights": [
-      "closing the delta",
       "perceived",
-      "discipline",
-      "value"
+      "discipline"
     ],
     "topics": [
       "Product Management",
@@ -555,20 +430,6 @@
     "key_sentence": "Closing this delta between actions and perceptions is product marketing in its own right.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "closing the delta",
-        "definition": "The process of reducing the gap between the current state and the desired state in a project or initiative.",
-        "businessContext": "In business and tech, 'closing the delta' often refers to aligning actual performance with expected outcomes, particularly in product development and marketing strategies.",
-        "nuance": "This phrase implies a proactive approach to addressing discrepancies, and is best used in discussions about performance improvement or strategic alignment.",
-        "synonyms": [
-          "bridging the gap",
-          "aligning outcomes"
-        ],
-        "antonyms": [
-          "expanding the gap",
-          "diverging"
-        ]
-      },
       {
         "word": "perceived",
         "definition": "Regarded or understood in a particular way, often based on subjective interpretation rather than objective reality.",
@@ -596,21 +457,8 @@
           "chaos",
           "disorder"
         ]
-      },
-      {
-        "word": "value",
-        "definition": "The importance, worth, or usefulness of something, often assessed in terms of benefits relative to costs.",
-        "businessContext": "In business, 'value' is a key concept that drives decision-making, influencing pricing strategies, customer satisfaction, and competitive positioning.",
-        "nuance": "This term can refer to both tangible and intangible benefits, and is often used in discussions about customer perception and product differentiation.",
-        "synonyms": [
-          "worth",
-          "benefit"
-        ],
-        "antonyms": [
-          "worthlessness",
-          "insignificance"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

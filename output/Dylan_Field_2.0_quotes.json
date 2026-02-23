@@ -6,9 +6,7 @@
     "context": "Lenny asks Dylan about his approach to maintaining startup pace at Figma, specifically how he finds \"padding\" where teams may be overestimating timelines. Dylan explains his method for questioning project timelines and estimates. He emphasizes coming from a place of genuine curiosity rather than skepticism, and acknowledges that often there are legitimate constraints he wasn't aware of that justify longer timelines.",
     "vocabulary_highlights": [
       "underlying",
-      "challenge",
-      "overestimating",
-      "timelines"
+      "challenge"
     ],
     "topics": [
       "Leadership & Management",
@@ -21,9 +19,9 @@
       "User Experience",
       "B2B SaaS"
     ],
-    "text_ko": "그건 단순히 호기심에서 비롯된 것 같아요. 그리고 실제로 진행되고 있는 근본적인 일(underlying work)을 더 잘 이해할수록 더 나은 결정을 내릴 수 있어요. 동시에 \"정말 이렇게 오래 걸리는 건가요? 그렇다면 왜죠? 제가 뭔가 놓치고 있는 건 아닐까요?\"라고 더 많이 질문하고 도전할 수 있어요. 대개 제가 모르는 추가 제약 때문에 일이 더 복잡해지거나, 결과물을 내고 대규모로 확장하려면(at scale) 더 많은 어려움이 따르기도 해요.",
-    "text_zh": "我觉得这主要还是出于好奇心吧，你越是能真正了解底层在做什么工作，你就越能做出更好的决策，同时也能更好地质疑和追问，\"真的需要这么长时间吗？如果是的话，为什么？是不是我漏掉了什么？\"很多时候，确实是我漏掉了一些东西，而事情之所以更难，是因为我们有一些我不知道的额外限制，这些限制是为了让产品能够推出并且规模化。",
-    "text_es": "Creo que todo viene de la curiosidad, y mientras más puedas entender realmente el trabajo que se está haciendo por debajo, mejores decisiones vas a poder tomar, pero también más vas a poder cuestionar y decir, \"Bueno, ¿en serio va a tomar tanto tiempo, y si es así, por qué? ¿Se me está escapando algo?\" Muchas veces sí se me escapan cosas y las cosas son más complicadas porque hay restricciones adicionales que no conozco para poder sacar algo y escalarlo.",
+    "text_ko": "실제로 진행되고 있는 밑바탕 작업(underlying work)을 더 잘 이해할수록 더 나은 결정을 내릴 수 있고, 동시에 \"정말 그렇게 오래 걸리나요? 그렇다면 왜 그런가요?\"라고 더 과감하게 물어볼 수 있어요.",
+    "text_zh": "你越是能真正理解下面具体在做什么工作，你就越能做出更好的决策，同时也越能提出质疑，比如说\"真的需要这么长时间吗？如果是的话，为什么？\"",
+    "text_es": "mientras más entiendas realmente el trabajo de fondo que se está haciendo, mejores decisiones vas a poder tomar, pero también vas a poder cuestionar más y decir, 'Oye, ¿de verdad va a tomar tanto tiempo, y si es así, por qué?'",
     "key_sentence": "Understanding underlying work leads to better decisions and challenges.",
     "text_trimmed": true,
     "original_text": "I think it's just coming from a place of curiosity, and the more that you can actually understand about underlying work that's being done, the better decisions that you can make, but also the more you can challenge and say, \"Okay, is it really going to take this long, and if so, why? Is there something I'm missing?\" Oftentimes, there are things I'm missing and things are either harder because we have additional constraints I don't know about in order to get something out and at scale.",
@@ -56,36 +54,10 @@
           "accept",
           "endorse"
         ]
-      },
-      {
-        "word": "overestimating",
-        "definition": "The act of assessing something as greater in value, importance, or duration than it actually is.",
-        "businessContext": "In project management, overestimating resources or timelines can lead to budget overruns and missed deadlines, affecting overall project success.",
-        "nuance": "This term often carries a negative connotation, suggesting a lack of realism or understanding in planning.",
-        "synonyms": [
-          "exaggerating",
-          "overvaluing"
-        ],
-        "antonyms": [
-          "underestimating",
-          "downplaying"
-        ]
-      },
-      {
-        "word": "timelines",
-        "definition": "A schedule that outlines the expected duration and sequence of events or tasks within a project.",
-        "businessContext": "Timelines are critical in project management, helping teams allocate resources effectively and meet deadlines.",
-        "nuance": "While timelines are essential for planning, they can also create pressure; flexibility may be required to adapt to unforeseen circumstances.",
-        "synonyms": [
-          "schedules",
-          "deadlines"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think first of all it's like evals are hard. We talked about that earlier. Secondly, the jobs don't just stay the same. They change. Take prompting, and as an engineer there's a range of prompting abilities.",
@@ -93,10 +65,8 @@
     "timestamp": "01:10:33",
     "context": "Lenny mentions research showing AI approaching human performance on certain jobs and asks about job displacement concerns. Dylan responds by explaining why jobs won't simply disappear even as AI capabilities improve. He argues that evaluating AI performance is difficult and that jobs evolve rather than disappear, using engineering as an example where new skills like effective prompting become important.",
     "vocabulary_highlights": [
-      "job displacement",
       "prompting abilities",
-      "range",
-      "performance"
+      "range"
     ],
     "topics": [
       "Learning & Growth",
@@ -109,28 +79,14 @@
       "User Experience",
       "B2B SaaS"
     ],
-    "text_ko": "먼저, 평가(evals)는 어렵다고 생각해요. 그건 아까도 얘기했죠. 둘째로, 업무는 그대로 있지 않고 계속 변해요. 프롬프트 작성(prompting)을 예로 들면 엔지니어마다 프롬프트를 다루는 능력의 범위가 있어요. 작업을 어떻게 분해(discretize)하고 나누느냐가 중요해요. 모델이 실제로 할 수 있는 것보다 더 많은 걸 할 수 있다고 가정하면 곤란해질 거예요.",
-    "text_zh": "我觉得首先吧，评估(evals)确实挺难的，这个咱们之前也聊过。其次呢，工作岗位不是一成不变的，会变化。比如说提示工程(prompting)，作为工程师，你的提示能力(prompting abilities)有高有低。你怎么拆解任务、怎么分工，这个很关键。如果你高估了模型的能力，觉得它能做的比实际能做的更多，那你肯定要吃亏。",
-    "text_es": "Mira, primero que nada, creo que las evaluaciones son complicadas. Ya hablamos de eso antes. Y segundo, los trabajos no se quedan igual, van cambiando. Toma el prompting por ejemplo - como ingeniero hay diferentes niveles de habilidad para hacer prompts. La forma en que divides y organizas tus tareas importa mucho. Si asumes que un modelo puede hacer más de lo que realmente puede, te va a ir mal.",
+    "text_ko": "무엇보다 먼저, evals(평가)는 어렵다고 생각해요. 그건 아까도 얘기했어요. 둘째로, 직무는 그대로 있지 않고 계속 바뀌어요. 프롬프트(prompting)를 예로 들면, 엔지니어마다 그걸 다루는 능력의 폭이 있어요.",
+    "text_zh": "我觉得首先是评估这个事情本身就很难搞，前面我们也聊过了。其次呢，工作岗位也不是一成不变的，会变化。就拿提示工程(prompting)来说吧，作为工程师，在这方面的能力水平也是有高有低的。",
+    "text_es": "Creo que primero que nada, el tema de las evaluaciones es complicado. Ya hablamos de eso antes. Y segundo, los trabajos no se quedan igual. Van cambiando. Fíjate en el prompting, y como ingeniero hay todo un rango de habilidades en prompting que puedes tener.",
     "key_sentence": "the jobs don't just stay the same. They change.",
     "text_trimmed": true,
     "original_text": "I think first of all it's like evals are hard. We talked about that earlier. Secondly, the jobs don't just stay the same. They change. Take prompting, and as an engineer there's a range of prompting abilities. The way you discreetize and split up your tasks matters. If you assume that a model can do more than it can do, then you're going to have a bad time.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "job displacement",
-        "definition": "Job displacement refers to the loss of employment due to factors such as technological advancements, economic shifts, or organizational changes.",
-        "businessContext": "In business and tech environments, job displacement often arises from automation or restructuring, prompting companies to consider workforce retraining and reskilling initiatives.",
-        "nuance": "While job displacement can have negative connotations, it may also lead to new opportunities for innovation and career development.",
-        "synonyms": [
-          "employment loss",
-          "workforce reduction"
-        ],
-        "antonyms": [
-          "job creation",
-          "employment growth"
-        ]
-      },
       {
         "word": "prompting abilities",
         "definition": "Prompting abilities refer to the capacity to elicit responses or actions through cues or stimuli, particularly in the context of artificial intelligence or human-computer interaction.",
@@ -158,22 +114,10 @@
           "narrowness",
           "limitation"
         ]
-      },
-      {
-        "word": "performance",
-        "definition": "Performance refers to the execution or accomplishment of a task, often measured against established standards or benchmarks.",
-        "businessContext": "In corporate settings, performance is frequently evaluated through metrics such as productivity, efficiency, and quality, influencing decisions on promotions, bonuses, and resource allocation.",
-        "nuance": "While performance typically has a positive connotation, it can also imply pressure to meet expectations, especially in high-stakes environments.",
-        "synonyms": [
-          "execution",
-          "effectiveness"
-        ],
-        "antonyms": [
-          "ineffectiveness",
-          "failure"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "We're no longer in this era of good enough is fine. Good enough is not enough. It's mediocre. If you want to win in the game of software, you need to differentiate through design. Craft matters.",
@@ -182,9 +126,7 @@
     "context": "Dylan is explaining his vision for how software companies can succeed in today's competitive landscape. He argues that the standards have risen significantly - what used to be acceptable quality is now considered mediocre. His main thesis is that superior design and craftsmanship have become the primary ways to stand out and win in the software industry.",
     "vocabulary_highlights": [
       "differentiate",
-      "mediocre",
-      "standards",
-      "competitive"
+      "mediocre"
     ],
     "topics": [
       "Strategy & Planning",
@@ -230,36 +172,9 @@
           "excellent",
           "superior"
         ]
-      },
-      {
-        "word": "standards",
-        "definition": "Established levels of quality or attainment that serve as a benchmark for measuring performance or compliance.",
-        "businessContext": "In the tech industry, standards are critical for ensuring interoperability, safety, and quality assurance among products and services.",
-        "nuance": "While 'standards' can refer to formal regulations, it can also imply informal expectations within a company culture, making context important.",
-        "synonyms": [
-          "criteria",
-          "benchmarks"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "competitive",
-        "definition": "Relating to or characterized by a strong desire to be more successful than others in a particular field or market.",
-        "businessContext": "A competitive landscape in business requires companies to continually innovate and improve their offerings to maintain or gain market share.",
-        "nuance": "This term often implies a proactive and aggressive approach to achieving success, and should be used in contexts discussing market dynamics.",
-        "synonyms": [
-          "rivalrous",
-          "cutthroat"
-        ],
-        "antonyms": [
-          "cooperative",
-          "collaborative"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "About a month before the launch of FigJam at Config, it was like, \"Okay, we built a thing.\" It's just lacking something. The soul isn't there. Let's go differentiate by making FigJam fun. The team was like, \"What?",
@@ -268,9 +183,7 @@
     "context": "Lenny asks Dylan about counterintuitive decisions he made at Figma. Dylan shares the story of FigJam, their whiteboarding tool, and how a month before launch he realized the product lacked \"soul.\" He made the controversial decision to differentiate the product by making it fun, which the team initially questioned. This decision proved successful and became a defining characteristic of FigJam.",
     "vocabulary_highlights": [
       "differentiate",
-      "counterintuitive",
-      "launch",
-      "product"
+      "launch"
     ],
     "topics": [
       "Product Management",
@@ -283,9 +196,9 @@
       "User Experience",
       "B2B SaaS"
     ],
-    "text_ko": "컨피그(Config)에서 피그잼(FigJam)을 런칭하기 한 달쯤 전이었어요. '좋아, 일단 뭔가 만들었네.' 근데 뭔가 부족했어요. 영혼이 없었죠. '피그잼을 재밌게 만들어서 차별화하자'고 했어요. 팀은 '뭐? 재밌게 만드는 걸 우리 차별점으로 삼는다고?'라고 반응했어요. 돌이켜보면 그 결정은 완전히 옳았어요.",
-    "text_zh": "在Config大会发布FigJam的前一个月，我们就觉得，\"好吧，东西是做出来了。\"但总感觉缺了点什么，没有灵魂。后来我们想，要不就让FigJam变得有趣一点，用这个来做差异化。团队当时都懵了，\"什么？我们要把'有趣'当作差异化优势？\"现在回头看，这个决定绝对是对的。",
-    "text_es": "Como un mes antes del lanzamiento de FigJam en Config, dijimos \"Bueno, ya tenemos el producto armado.\" Pero le faltaba algo. No tenía alma. Entonces dijimos \"Vamos a diferenciarnos haciendo que FigJam sea divertido.\" El equipo se quedó como \"¿En serio? ¿Vamos a hacer que lo divertido sea nuestro diferenciador?\" Mirándolo ahora, fue la decisión perfecta.",
+    "text_ko": "Config에서 FigJam을 공개하기 한 달쯤 전이었어요. “음, 만들긴 했는데 뭔가 부족해.” 영혼이 없는 느낌이었죠. “그럼 FigJam을 재미있게 만들어서 차별화하자.” 그러자 팀이 “뭐라고요?” 하고 반응했어요.",
+    "text_zh": "Config大会推出FigJam的前一个月，我们就觉得，\"好吧，东西是做出来了。\"但就是缺点什么。没有灵魂。那咱们就让FigJam变得有趣一点，用这个来做差异化。团队的反应就是，\"啥？",
+    "text_es": "Como un mes antes del lanzamiento de FigJam en Config, dijimos \"Bueno, ya construimos algo.\" Pero le falta algo. No tiene alma. Vamos a diferenciarnos haciendo que FigJam sea divertido. El equipo se quedó como \"¿Qué?",
     "key_sentence": "The soul isn't there; making FigJam fun was the right differentiator.",
     "text_trimmed": true,
     "original_text": "About a month before the launch of FigJam at Config, it was like, \"Okay, we built a thing.\" It's just lacking something. The soul isn't there. Let's go differentiate by making FigJam fun. The team was like, \"What? We're going to make fun our differentiator?\" In retrospect, it was absolutely the right move.",
@@ -306,20 +219,6 @@
         ]
       },
       {
-        "word": "counterintuitive",
-        "definition": "Contrary to what one would intuitively expect; not aligning with common sense or initial assumptions.",
-        "businessContext": "In business strategy, counterintuitive decisions may lead to innovative solutions that challenge conventional wisdom, often resulting in competitive advantages.",
-        "nuance": "This term can carry a negative connotation if used to describe decisions that seem illogical, but it can also be viewed positively when it leads to successful outcomes.",
-        "synonyms": [
-          "unexpected",
-          "paradoxical"
-        ],
-        "antonyms": [
-          "intuitive",
-          "logical"
-        ]
-      },
-      {
         "word": "launch",
         "definition": "To officially introduce a new product, service, or initiative to the market or public.",
         "businessContext": "Launching a product involves strategic planning, marketing, and execution to ensure that it reaches the target audience effectively and achieves desired sales goals.",
@@ -332,22 +231,10 @@
           "withdraw",
           "retract"
         ]
-      },
-      {
-        "word": "product",
-        "definition": "An item or service that is created and offered to meet the needs or demands of consumers.",
-        "businessContext": "In business, a product can be tangible, like a physical good, or intangible, like a software application, and is central to a company's value proposition.",
-        "nuance": "The term can encompass a wide range of offerings, and its meaning may shift based on context, such as distinguishing between consumer products and B2B solutions.",
-        "synonyms": [
-          "offering",
-          "merchandise"
-        ],
-        "antonyms": [
-          "service",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "That frees up designer time to go explore more deeply... and it allows anyone to add to that first conversation of, where should we go?",
@@ -356,9 +243,7 @@
     "context": "Lenny asks about emerging use cases for Figma Make in AI app prototyping, particularly for product teams. Dylan explains how AI tools are changing the traditional workflow between product managers and designers. Instead of PMs requesting mockups from designers, they can now create prototypes themselves using AI, which allows designers to focus on more complex design challenges while enabling broader participation in early product discussions.",
     "vocabulary_highlights": [
       "frees up",
-      "explore more deeply",
-      "emerging use cases",
-      "traditional workflow"
+      "explore more deeply"
     ],
     "topics": [
       "Product Management",
@@ -371,9 +256,9 @@
       "User Experience",
       "B2B SaaS"
     ],
-    "text_ko": "이제 제품 관리자(PMs)들이 디자이너(designer)에게 \"이거 대신 그려줄래?\"라고 안 말해요. 덕분에 디자이너들은 더 깊이 파고들어야 할 부분을 탐색할 시간이 생기고, 누구나 \"우리가 어디로 가야 하지?\"라는 첫 대화에 의견을 보탤 수 있게 돼요.",
-    "text_zh": "产品经理现在不会再跟设计师说\"嘿，你能帮我画个草图吗？\"这样设计师就有时间去深挖那些真正需要研究的东西，而且团队里任何人都能参与到\"我们应该往哪个方向走\"这个最初的讨论中来。",
-    "text_es": "Los gerentes de producto ya no les dicen a los diseñadores \"Oye, ¿me puedes dibujar esto?\" Eso libera tiempo del diseñador para que pueda profundizar más en las cosas que realmente necesita investigar, y permite que cualquiera aporte a esa primera conversación de \"¿hacia dónde deberíamos ir?\"",
+    "text_ko": "그럼 디자이너의 여유 시간이 생겨 더 깊이 탐색해볼 수 있고, 누구나 '우리가 어디로 가야 할까?'라는 첫 대화에 참여해 의견을 더할 수 있어요.",
+    "text_zh": "这样设计师就能腾出时间去深入研究...而且任何人都可以参与到最初那个讨论中来，就是我们应该往哪个方向走？",
+    "text_es": "Eso libera tiempo a los diseñadores para que puedan profundizar más... y permite que cualquiera pueda aportar a esa primera conversación de, ¿hacia dónde deberíamos ir?",
     "key_sentence": "Frees up designer time to explore deeply in the first conversation.",
     "text_trimmed": true,
     "original_text": "PMs are no longer saying to the designer, \"Hey, can you draw this thing out for me?\" That frees up designer time to go explore more deeply the stuff they need to go into and it allows anyone to add to that first conversation of, where should we go?",
@@ -406,36 +291,10 @@
           "skim over",
           "glance at"
         ]
-      },
-      {
-        "word": "emerging use cases",
-        "definition": "New applications or scenarios in which a product, service, or technology can be effectively utilized.",
-        "businessContext": "In tech and startup environments, identifying emerging use cases is crucial for innovation and market positioning, as they can indicate new opportunities for growth and development.",
-        "nuance": "This term implies a forward-looking perspective, often associated with trends and potential rather than established practices.",
-        "synonyms": [
-          "novel applications",
-          "new scenarios"
-        ],
-        "antonyms": [
-          "obsolete uses",
-          "traditional applications"
-        ]
-      },
-      {
-        "word": "traditional workflow",
-        "definition": "A conventional sequence of processes or tasks that are typically followed to complete a project or achieve an objective.",
-        "businessContext": "In many organizations, traditional workflows are established methods that guide operations, though they may be challenged by newer, more agile approaches.",
-        "nuance": "This phrase can carry a connotation of rigidity or resistance to change, making it less favorable in discussions about innovation or modernization.",
-        "synonyms": [
-          "conventional process",
-          "standard procedure"
-        ],
-        "antonyms": [
-          "agile workflow",
-          "flexible process"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Have we seen productivity increases? Yeah, but that is not something that has made our new headcount we want for engineering to go down. We're hiring.",
@@ -445,8 +304,7 @@
     "vocabulary_highlights": [
       "productivity",
       "headcount",
-      "engineering",
-      "automation"
+      "engineering"
     ],
     "topics": [
       "Leadership & Management",
@@ -506,21 +364,8 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "automation",
-        "definition": "The use of technology to perform tasks with minimal human intervention, often aimed at increasing efficiency and reducing costs.",
-        "businessContext": "In business, automation is increasingly adopted to streamline operations, enhance productivity, and improve accuracy in processes.",
-        "nuance": "While automation can lead to significant efficiency gains, it may also raise concerns about job displacement and the need for workforce reskilling.",
-        "synonyms": [
-          "mechanization",
-          "robotization"
-        ],
-        "antonyms": [
-          "manual labor",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

@@ -6,9 +6,7 @@
     "context": "Lenny asks Karina what people most misunderstand about how AI models are created. Karina explains that model training involves a careful balance of teaching models contradictory information - like telling them they don't have physical bodies while also teaching them to perform functions like setting alarms. She emphasizes that the process requires constant debugging and balancing between making models helpful versus preventing harmful behavior.",
     "vocabulary_highlights": [
       "data quality",
-      "model training",
-      "careful balance",
-      "contradictory information"
+      "model training"
     ],
     "topics": [
       "Product Management",
@@ -21,9 +19,9 @@
       "User Experience",
       "Data Analytics"
     ],
-    "text_ko": "모델 학습(model training)은 과학이라기보다 예술에 더 가깝다고 생각해요. 그리고 여러 면에서 저희 모델 트레이너(model trainers)들은 데이터 품질에 대해 많은 고민을 해요. 모델 학습에서 가장 중요한 것 중 하나는, 원하는 특정 상호작용 모델의 행동(interaction model behavior)을 만들어내기 위해 어떻게 하면 최고 품질의 데이터를 확보하느냐 하는 거예요.",
-    "text_zh": "模型训练说白了更像是门艺术，而不是纯科学。我们做模型训练的人，其实很大程度上都在琢磨数据质量这个事儿。在模型训练里头，最关键的就是怎么保证数据质量够高，这样才能训出你想要的那种交互行为。",
-    "text_es": "El entrenamiento de modelos es más un arte que una ciencia. Y de muchas maneras nosotros, como entrenadores de modelos (model trainers), pensamos muchísimo en la calidad de los datos. Una de las cosas más importantes en el entrenamiento de modelos es cómo te aseguras de tener datos de la más alta calidad para crear el comportamiento específico que quieres en tu modelo de interacción.",
+    "text_ko": "모델 학습(model training)은 과학이라기보다 예술에 더 가깝다고 생각해요. 그리고 여러 면에서 저희 모델 트레이너(model trainers)들은 데이터 품질(data quality)을 많이 신경 써요.",
+    "text_zh": "模型训练 (model training) 更像是一门艺术，而不是一门科学。作为模型训练者 (model trainers)，我们很多时候都把注意力放在数据质量上。",
+    "text_es": "El entrenamiento de modelos (model training) es más un arte que una ciencia. Y, en muchos sentidos, nosotros, como entrenadores de modelos (model trainers), prestamos mucha atención a la calidad de los datos.",
     "key_sentence": "Model training is more an art than a science, focusing on data quality.",
     "text_trimmed": true,
     "original_text": "Model training is more an art than a science. And in a lot of ways we, as model trainers, think a lot about data quality. It's one of the most important things in model training is like how do you ensure the highest quality data for certain interaction model behavior that you want to create?",
@@ -56,36 +54,10 @@
           "model testing",
           "model evaluation"
         ]
-      },
-      {
-        "word": "careful balance",
-        "definition": "A careful balance refers to a state of equilibrium achieved by weighing different factors or considerations to reach an optimal outcome.",
-        "businessContext": "In business strategy, maintaining a careful balance between competing priorities, such as cost and quality, is vital for sustainable growth and customer satisfaction.",
-        "nuance": "The phrase implies a thoughtful and deliberate approach, often used in contexts where trade-offs are necessary and must be managed skillfully.",
-        "synonyms": [
-          "delicate equilibrium",
-          "measured approach"
-        ],
-        "antonyms": [
-          "extreme imbalance",
-          "reckless disregard"
-        ]
-      },
-      {
-        "word": "contradictory information",
-        "definition": "Contradictory information refers to data or statements that are in conflict with one another, leading to confusion or uncertainty.",
-        "businessContext": "In business environments, encountering contradictory information can hinder decision-making processes and necessitate further investigation to clarify discrepancies.",
-        "nuance": "This term often carries a negative connotation, suggesting a lack of clarity or reliability in the information being presented, which can undermine trust.",
-        "synonyms": [
-          "conflicting data",
-          "inconsistent information"
-        ],
-        "antonyms": [
-          "consistent information",
-          "harmonious data"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "When you taught the model, some of the self-knowledge of you actually don't have a physical body to operate in the physical world, the model would get extremely confused.",
@@ -94,9 +66,7 @@
     "context": "Lenny asks what people misunderstand about model creation. Karina shares a specific example from training Claude 3 where they discovered conflicts in the training data. The model was taught it has no physical body, but also learned function calls for tasks like setting alarms, creating confusion about what it could actually do. This illustrates the complex debugging process required in model training.",
     "vocabulary_highlights": [
       "self-knowledge",
-      "confused",
-      "training data",
-      "model creation"
+      "confused"
     ],
     "topics": [
       "Product Management",
@@ -109,9 +79,9 @@
       "User Experience",
       "Data Analytics"
     ],
-    "text_ko": "모델(model)에게 '자기 자신은 실제 세계에서 작동할 물리적 몸이 없다'는 식의 자기 지식(self-knowledge)을 알려주면, 모델이 아주 혼란스러워해요. 그래서 물리적 몸이 없으니 알람을 설정할 수 있는지 같은 문제에서 특히 엄청 헷갈려해요.",
-    "text_zh": "你在训练模型的时候，如果告诉它一些关于自己的认知，比如说它其实没有实体身体，不能在现实世界里操作，模型就会特别懵圈。所以模型就会对自己能不能设闹钟这种事情特别纠结，因为它在现实世界里根本就没有身体嘛。",
-    "text_es": "Cuando entrenaste el modelo, parte del autoconocimiento de que en realidad no tienes un cuerpo físico para operar en el mundo físico, el modelo se confundía muchísimo. Entonces el modelo se volvía súper confuso sobre si puede poner una alarma, pero no tiene un cuerpo en el mundo físico.",
+    "text_ko": "모델(model)을 가르칠 때, '나는 실제로 물리적 세계에서 활동할 물리적 몸이 없다'는 식의 자기 인식(self-knowledge)을 포함하면 그 모델이 엄청 혼란스러워해요.",
+    "text_zh": "在你训练模型(model)的时候，如果把你那部分“没有实体、无法在现实世界行动”的自我认知(self-knowledge)也教给它，它就会非常困惑。",
+    "text_es": "Cuando entrenabas al modelo, algunas nociones de su autoconocimiento (self-knowledge) —como la de no tener un cuerpo físico para operar en el mundo real— lo confundían muchísimo.",
     "key_sentence": "The model would get extremely confused without self-knowledge of a physical body.",
     "text_trimmed": true,
     "original_text": "When you taught the model, some of the self-knowledge of you actually don't have a physical body to operate in the physical world, the model would get extremely confused. And so the model would get extremely confused about whether it can set an alarm, but it doesn't have a body in the physical world.",
@@ -144,36 +114,10 @@
           "clear",
           "understood"
         ]
-      },
-      {
-        "word": "training data",
-        "definition": "Training data is a set of examples used to teach a machine learning model how to make predictions or decisions based on input data.",
-        "businessContext": "In tech startups, training data is essential for developing algorithms that drive artificial intelligence applications, influencing product performance and user experience.",
-        "nuance": "The quality and quantity of training data can significantly impact the effectiveness of a model, making it critical to select appropriate datasets for training.",
-        "synonyms": [
-          "dataset",
-          "input data"
-        ],
-        "antonyms": [
-          "test data",
-          "validation data"
-        ]
-      },
-      {
-        "word": "model creation",
-        "definition": "Model creation refers to the process of developing a mathematical or computational representation of a system or phenomenon based on data analysis.",
-        "businessContext": "In the tech industry, model creation is a fundamental step in building predictive analytics tools, enabling businesses to forecast trends and make data-driven decisions.",
-        "nuance": "Model creation requires a balance between complexity and interpretability, as overly complex models may be difficult to understand or implement effectively.",
-        "synonyms": [
-          "model development",
-          "model building"
-        ],
-        "antonyms": [
-          "model destruction",
-          "model simplification"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think there are two questions here. We can unpack one at a time. But people say we are hitting the data wall.",
@@ -181,10 +125,7 @@
     "timestamp": "00:08:21",
     "context": "Lenny asks about the concern that AI models will stop getting smarter because they're running out of training data. Karina addresses the misconception about the 'data wall' - the idea that models can't improve further because they've already been trained on all available internet data. She argues this view is too narrow and focuses only on pre-training phases.",
     "vocabulary_highlights": [
-      "unpack",
-      "hitting the wall",
-      "misconception",
-      "training data"
+      "unpack"
     ],
     "topics": [
       "Learning & Growth",
@@ -197,9 +138,9 @@
       "User Experience",
       "Data Analytics"
     ],
-    "text_ko": "여기에는 두 가지 질문이 있는 것 같아요. 하나씩 차근차근 풀어볼게요. 그런데 사람들은 우리가 '데이터 장벽(data wall)'에 부딪히고 있다고 말해요. 제 생각엔 사람들이 인터넷 전체를 학습해 다음 토큰을 예측하도록 훈련된, 이른바 사전 학습된 대형 모델(pre-trained large models) 관점으로 더 생각하는 것 같아요.",
-    "text_zh": "我觉得这里有两个问题，我们可以一个一个来分析。但是大家都在说我们碰到了数据墙(data wall)。我觉得人们更多想到的是那种在整个互联网上训练的预训练大模型(pre-trained large models)，用来预测下一个token的那种。",
-    "text_es": "Creo que aquí hay dos preguntas. Las podemos desglosar una por una. Pero la gente dice que estamos llegando al muro de datos (data wall). Creo que la gente piensa más en términos de modelos grandes preentrenados que se entrenan con todo el internet para predecir el siguiente token.",
+    "text_ko": "여기서 질문이 두 개 있는 것 같아요. 하나씩 차근차근 풀어볼게요. 그런데 사람들은 우리가 데이터 장벽(data wall)에 부딪히고 있다고 말해요.",
+    "text_zh": "我觉得这儿有两个问题，我们可以一个个拆开来说。不过大家都说我们正碰到数据瓶颈（data wall）。",
+    "text_es": "Creo que aquí hay dos preguntas. Podemos ir abordándolas una por una. Pero la gente dice que nos estamos topando con el muro de datos (data wall).",
     "key_sentence": "We can unpack one at a time; people say we are hitting the data wall.",
     "text_trimmed": true,
     "original_text": "I think there are two questions here. We can unpack one at a time. But people say we are hitting the data wall. I think people think more in the terms of pre-trained large models that are trained on the entire internet to predict the next token.",
@@ -218,50 +159,10 @@
           "combine",
           "simplify"
         ]
-      },
-      {
-        "word": "hitting the wall",
-        "definition": "Reaching a point of exhaustion or a barrier that impedes progress, often in a project or initiative.",
-        "businessContext": "In tech and startup environments, 'hitting the wall' can refer to encountering significant challenges or limitations in data processing, innovation, or project development.",
-        "nuance": "This phrase carries a sense of urgency and frustration, and is typically used in informal discussions; in formal reports, one might say 'encountering significant obstacles.'",
-        "synonyms": [
-          "reaching a limit",
-          "encountering a barrier"
-        ],
-        "antonyms": [
-          "making progress",
-          "advancing"
-        ]
-      },
-      {
-        "word": "misconception",
-        "definition": "A view or opinion that is incorrect based on faulty thinking or understanding.",
-        "businessContext": "In business settings, addressing misconceptions is crucial for effective communication and strategy development, as they can lead to misguided decisions or actions.",
-        "nuance": "While 'misconception' is generally negative, it can be used constructively to highlight areas for education or clarification; however, it should be used carefully to avoid sounding accusatory.",
-        "synonyms": [
-          "fallacy",
-          "misunderstanding"
-        ],
-        "antonyms": [
-          "understanding",
-          "clarity"
-        ]
-      },
-      {
-        "word": "training data",
-        "definition": "A dataset used to teach machine learning models to recognize patterns and make predictions.",
-        "businessContext": "In tech and data science, training data is essential for developing algorithms that drive decision-making processes, product recommendations, and predictive analytics.",
-        "nuance": "The quality and relevance of training data are critical; poor training data can lead to inaccurate models, so it is important to emphasize its significance in discussions about AI and machine learning.",
-        "synonyms": [
-          "dataset",
-          "learning data"
-        ],
-        "antonyms": [
-          "test data",
-          "validation data"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "But I think what's happening right now with new paradigm of o1 series is that the scaling in post-training itself is not hitting the wall.",
@@ -271,8 +172,7 @@
     "vocabulary_highlights": [
       "paradigm",
       "scaling",
-      "hitting the wall",
-      "data limitations"
+      "hitting the wall"
     ],
     "topics": [
       "Learning & Growth",
@@ -285,9 +185,9 @@
       "User Experience",
       "Data Analytics"
     ],
-    "text_ko": "제 생각에는 지금 o1 시리즈(o1 series)의 새로운 패러다임에서 벌어지는 건, 사후 훈련(post-training) 자체의 스케일링(scaling)이 한계에 닿지 않고 있다는 거예요. 그 이유는 기본적으로 우리가 사전 학습된 모델(pre-trained models)에 쓰던 원시 데이터셋(raw data sets)에서, 사후 훈련 환경에서는 강화학습(reinforcement learning)을 통해 모델에 가르칠 수 있는 태스크(tasks)가 무한히 많아졌기 때문이에요.",
-    "text_zh": "但我觉得现在o1系列这个新范式(paradigm)出现后，后训练(post-training)阶段的扩展其实还没碰到瓶颈。主要原因就是，我们从预训练模型(pre-trained models)的原始数据集，转向了后训练阶段通过强化学习(reinforcement learning)能教给模型的无限多任务，这个变化挺大的。",
-    "text_es": "Pero creo que lo que está pasando ahora con el nuevo paradigma de la serie o1 es que el escalamiento en el post-entrenamiento no está llegando al límite. Y eso es porque básicamente pasamos de conjuntos de datos en bruto de modelos pre-entrenados a una cantidad infinita de tareas que le puedes enseñar al modelo en el mundo del post-entrenamiento a través del aprendizaje por refuerzo (reinforcement learning).",
+    "text_ko": "제 생각엔 지금 o1 시리즈(o1 series)의 새로운 패러다임에서 벌어지고 있는 건, 사후 학습(post-training)에서의 스케일링(scaling) 자체가 아직 한계에 부딪히지 않았다는 점이에요.",
+    "text_zh": "我觉得就o1系列（o1 series）的新模式来说，后训练（post-training）本身的扩展还没碰到瓶颈。",
+    "text_es": "Pero creo que ahora mismo, con el nuevo paradigma de la serie o1, el escalado (scaling) en el post-entrenamiento (post-training) no está tocando techo.",
     "key_sentence": "The new paradigm shows scaling in post-training is not hitting the wall.",
     "text_trimmed": true,
     "original_text": "But I think what's happening right now with new paradigm of o1 series is that the scaling in post-training itself is not hitting the wall. And that's because basically we went from raw data sets from pre-trained models to infinite amount of tasks that you can teach the model in the post-training world via reinforcement learning.",
@@ -334,22 +234,10 @@
           "breaking through",
           "overcoming obstacles"
         ]
-      },
-      {
-        "word": "data limitations",
-        "definition": "Data limitations refer to the constraints or restrictions associated with the availability, quality, or scope of data that can impact analysis and decision-making.",
-        "businessContext": "In business and technology, recognizing data limitations is essential for accurate forecasting, strategic planning, and ensuring that insights derived from data are valid and actionable.",
-        "nuance": "This term suggests a cautionary approach, indicating that conclusions drawn from data should be tempered by an awareness of its potential shortcomings.",
-        "synonyms": [
-          "data constraints",
-          "data restrictions"
-        ],
-        "antonyms": [
-          "data abundance",
-          "data richness"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Creative thinking and you kind of want to generate a bunch of ideas and filter through them and not just build the best product experience.",
@@ -374,9 +262,9 @@
       "User Experience",
       "Data Analytics"
     ],
-    "text_ko": "창의적 사고에서는 아이디어를 많이 내서 그중에서 걸러내는 과정이 필요해요. 단순히 최고의 제품 경험(product experience)만 만드는 게 아니죠. 솔직히 모델(model)한테 미적 감각(aesthetic)이나 뛰어난 비주얼 디자인(visual design), 글을 쓸 때 아주 창의적으로 표현하는 법을 가르치는 건 정말, 정말 어렵다고 생각해요.",
-    "text_zh": "创意思维就是你得想出一堆点子，然后从中筛选，而不是只盯着做最好的产品体验。我觉得要教模型怎么做出有美感的东西，或者真正好的视觉设计，或者写出特别有创意的文案，这些真的超级难。",
-    "text_es": "El pensamiento creativo, ¿sabes?, como que quieres generar un montón de ideas y filtrarlas, no solo crear la mejor experiencia de producto. Creo que en realidad es súper, súper difícil enseñarle al modelo cómo ser estético o tener un diseño visual realmente bueno, o cómo ser extremadamente creativo en la forma de escribir.",
+    "text_ko": "창의적으로 생각할 때는 여러 아이디어를 많이 내서 하나하나 걸러 보는 게 좋아요. 그냥 최고의 제품 경험(product experience)만 만드는 데 그치면 안 돼요.",
+    "text_zh": "做创意思考的时候，你会想先把一堆点子抛出来、筛一筛，而不是只想着把产品体验(product experience)做得最好。",
+    "text_es": "Con pensamiento creativo, lo que quieres es generar un montón de ideas, filtrarlas y no quedarte solo en construir la mejor experiencia de producto (product experience).",
     "key_sentence": "Creative thinking involves generating a bunch of ideas and filtering through them.",
     "text_trimmed": true,
     "original_text": "Creative thinking and you kind of want to generate a bunch of ideas and filter through them and not just build the best product experience. I think it's actually really, really hard to teach the model how to be aesthetic or really good visual design or how to be extremely creative in the way they write.",
@@ -438,7 +326,8 @@
           "rigid thinking"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "For Canvas, for example, it came down to three main behaviors. It was how do you trigger Canvas for prompts like, 'Write me a long essay,' when the user intention is mostly iterating over long documents?",
@@ -448,8 +337,7 @@
     "vocabulary_highlights": [
       "trigger",
       "user intention",
-      "iterating",
-      "collaborative"
+      "iterating"
     ],
     "topics": [
       "Product Management",
@@ -462,9 +350,9 @@
       "User Experience",
       "Data Analytics"
     ],
-    "text_ko": "예를 들어 캔버스(Canvas)의 경우, 핵심 행동이 크게 세 가지로 정리됐어요. '긴 에세이를 써줘' 같은 프롬프트(prompt)는 사용자가 주로 긴 문서를 반복해서 다듬으려는 의도일 때 캔버스(Canvas)를 언제 불러올지, '코드 한 조각 작성해줘' 같은 경우는 언제 불러올지, 반대로 '대통령에 대해 더 알려줄래?'처럼 일반적인 질문에는 언제 캔버스(Canvas)를 띄우지 말아야 할지에 관한 것이었어요.",
-    "text_zh": "拿Canvas来说吧，主要就是三个行为模式。比如什么时候该触发Canvas，像用户说\"帮我写篇长文章\"，但其实用户想要的是在长文档上反复修改；或者\"帮我写段代码\"；还有什么时候不该触发Canvas，比如用户问\"你能跟我说说某某总统...\"这种，就是一些常规问题。",
-    "text_es": "Con Canvas, por ejemplo, se reducía a tres comportamientos principales. Era cómo activar Canvas para comandos como \"Escríbeme un ensayo largo\", cuando la intención del usuario es principalmente iterar sobre documentos extensos. O \"Escríbeme un código\", o cuándo no activar Canvas para comandos como \"¿Me puedes contar más sobre el Presidente...?\" No sé, algunas de las preguntas generales.",
+    "text_ko": "예를 들어 Canvas의 경우는 결국 세 가지 주요 행동으로 정리됐어요. 사용자의 의도가 주로 긴 문서를 반복해서 다루는 것일 때, '긴 에세이를 써줘' 같은 프롬프트(prompt)로 Canvas를 어떻게 활성화(activate)하느냐가 관건이었어요.",
+    "text_zh": "拿 Canvas 举例，我们把它归结为三种主要行为。问题是，当用户的目的主要是反复修改长文档时，像“给我写一篇长文”这样的提示（prompts）应该怎么触发 Canvas？",
+    "text_es": "En Canvas, por ejemplo, todo se redujo a tres comportamientos clave. La pregunta era: ¿cómo activas Canvas para peticiones (prompts) como \"Escríbeme un ensayo largo\" (Write me a long essay) cuando la intención del usuario es más bien iterar sobre documentos largos?",
     "key_sentence": "Canvas behaviors came down to user intention and iterating over long documents.",
     "text_trimmed": true,
     "original_text": "For Canvas, for example, it came down to three main behaviors. It was how do you trigger Canvas for prompts like, 'Write me a long essay,' when the user intention is mostly iterating over long documents? Or, 'Write me a piece of code,' or when to not trigger Canvas for prompts like, 'Can you tell me more about President...' I don't know, some of the general questions.",
@@ -511,21 +399,9 @@
           "stagnating",
           "ceasing"
         ]
-      },
-      {
-        "word": "collaborative",
-        "definition": "Involving two or more parties working together towards a common goal or outcome.",
-        "businessContext": "Collaboration is a key component in modern business practices, particularly in project management and team dynamics, where diverse skills and perspectives enhance problem-solving.",
-        "nuance": "The term 'collaborative' often connotes a positive and inclusive approach, suggesting that teamwork is essential for innovation and success.",
-        "synonyms": [
-          "cooperative",
-          "joint"
-        ],
-        "antonyms": [
-          "individual",
-          "competitive"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

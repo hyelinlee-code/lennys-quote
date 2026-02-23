@@ -20,9 +20,9 @@
       "Product Management",
       "Team Building"
     ],
-    "text_ko": "제품 관리의 핵심은 역량 기반이에요. 즉, 고객을 가장 잘 대변하는 사람이 조직 내에 있어야 하고, 고객과 사용자에 대한 깊은 이해가 필요해요. 그리고 데이터, 산업, 비즈니스, 제품 자체에 대해서도 잘 알아야 해요.",
-    "text_zh": "产品管理的核心是基于能力的，这意味着在一个组织中，有人能够最好地代表客户，具备对客户和用户的深刻理解，同时对数据、行业、业务和产品本身也有深入的了解。",
-    "text_es": "El núcleo de la gestión de productos se basa en competencias, lo que significa que hay alguien en la organización que representa mejor al cliente, que tiene un profundo conocimiento de los clientes y los usuarios, así como un amplio entendimiento de tus datos, tu industria, tu negocio y el producto en sí.",
+    "text_ko": "프로덕트 매니지먼트(product management)의 핵심은 역량 기반(competency-based)이에요. 즉 조직 안에 고객을 가장 잘 대변하고 고객과 사용자에 대해 깊이 아는 사람이 있어야 한다는 뜻이에요.",
+    "text_zh": "产品管理的核心其实就是看能力，也就是说公司里得有那么一个人，最能代表客户的声音，对客户和用户有很深的了解。",
+    "text_es": "El núcleo de la gestión de productos se basa en competencias, o sea que tiene que haber alguien en la organización que represente mejor al cliente, que conozca a fondo a los clientes y a los usuarios.",
     "key_sentence": "Product management is competency-based, representing the customer with deep knowledge.",
     "text_trimmed": true,
     "original_text": "The core of product management is competency-based, meaning there is someone in an organization that represents the customer the best, that has a deep knowledge of the customers and your users, that has a deep knowledge of your data, your industry, your business and the product itself.",
@@ -84,7 +84,8 @@
           "chaos"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "I often say to him, I say, 'Well, Bob said put up manager.' And it's often interesting to executives when I try to explain that way. I say that's the competent level that we're talking about here.",
@@ -93,9 +94,7 @@
     "context": "In response to Lenny's question about the dislike for product managers, Christian illustrates how executives often trust long-serving employees over product managers due to their perceived competence. He uses the example of a hypothetical Bob, who has been with the company for a long time and is trusted to make decisions, to emphasize that product managers must demonstrate their competency to be respected and trusted in their decision-making.",
     "vocabulary_highlights": [
       "competent",
-      "executives",
-      "perceived",
-      "illustrate"
+      "executives"
     ],
     "topics": [
       "Leadership & Management",
@@ -140,36 +139,9 @@
           "subordinates",
           "employees"
         ]
-      },
-      {
-        "word": "perceived",
-        "definition": "Regarded or interpreted in a particular way by individuals or groups.",
-        "businessContext": "In business, how a product, service, or brand is perceived by consumers can significantly influence market success and customer loyalty.",
-        "nuance": "The term suggests that perception may not always align with reality, highlighting the importance of branding and communication.",
-        "synonyms": [
-          "viewed",
-          "recognized"
-        ],
-        "antonyms": [
-          "ignored",
-          "overlooked"
-        ]
-      },
-      {
-        "word": "illustrate",
-        "definition": "To explain or make something clear by providing examples, diagrams, or visual representations.",
-        "businessContext": "In presentations and reports, professionals often illustrate concepts to enhance understanding and engage their audience effectively.",
-        "nuance": "While 'illustrate' can refer to visual aids, it can also encompass verbal explanations that clarify complex ideas.",
-        "synonyms": [
-          "demonstrate",
-          "exemplify"
-        ],
-        "antonyms": [
-          "confuse",
-          "obscure"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "There is this period of humility that I challenge all product managers to have, this period of learning, recognizing what you do not know.",
@@ -179,8 +151,7 @@
     "vocabulary_highlights": [
       "humility",
       "challenge",
-      "recognizing",
-      "effective"
+      "recognizing"
     ],
     "topics": [
       "Coaching & Development",
@@ -239,22 +210,9 @@
           "ignoring",
           "overlooking"
         ]
-      },
-      {
-        "word": "effective",
-        "definition": "Producing a desired or intended result; capable of achieving goals efficiently.",
-        "businessContext": "In business and technology, being effective means implementing strategies, processes, or tools that yield successful outcomes and drive performance.",
-        "nuance": "While 'effective' suggests success, it does not necessarily imply efficiency; thus, a solution can be effective but not efficient.",
-        "synonyms": [
-          "efficient",
-          "successful"
-        ],
-        "antonyms": [
-          "ineffective",
-          "unproductive"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I always practically advise product managers in this kind of scenario, build relationships with people. You earn their trust by asking them to do two things. One, you're either going to teach me or I'm going to help you.",
@@ -262,10 +220,7 @@
     "timestamp": "00:09:51",
     "context": "Christian shares practical advice for product managers to build trust and rapport within their teams. He emphasizes the importance of relationship-building by either asking colleagues to teach them or offering to help them. This collaborative approach fosters trust and helps product managers learn from those around them, enhancing their effectiveness in their roles.",
     "vocabulary_highlights": [
-      "build relationships",
-      "earn trust",
-      "practical advice",
-      "rapport"
+      "build relationships"
     ],
     "topics": [
       "Networking",
@@ -296,50 +251,9 @@
           "alienate",
           "estrange"
         ]
-      },
-      {
-        "word": "earn trust",
-        "definition": "To gain the confidence and reliance of others through consistent actions, integrity, and transparency.",
-        "businessContext": "Earning trust is vital in business relationships, as it leads to stronger collaborations, better teamwork, and increased customer loyalty.",
-        "nuance": "This phrase suggests a gradual process that requires effort and authenticity, rather than an immediate or assumed status.",
-        "synonyms": [
-          "gain credibility",
-          "establish reliability"
-        ],
-        "antonyms": [
-          "lose trust",
-          "betray confidence"
-        ]
-      },
-      {
-        "word": "practical advice",
-        "definition": "Guidance that is realistic, actionable, and applicable to real-world situations, often based on experience or expertise.",
-        "businessContext": "In a business setting, practical advice is essential for decision-making, problem-solving, and strategic planning, as it provides clear steps to achieve desired outcomes.",
-        "nuance": "This phrase implies that the advice is not just theoretical but can be directly implemented in everyday scenarios.",
-        "synonyms": [
-          "actionable insights",
-          "realistic recommendations"
-        ],
-        "antonyms": [
-          "theoretical guidance",
-          "abstract suggestions"
-        ]
-      },
-      {
-        "word": "rapport",
-        "definition": "A harmonious relationship characterized by mutual understanding, trust, and respect between individuals.",
-        "businessContext": "Building rapport is essential in business for effective communication, negotiation, and teamwork, as it fosters a collaborative atmosphere.",
-        "nuance": "This term often implies a deeper emotional connection that enhances interpersonal interactions, beyond mere professional acquaintance.",
-        "synonyms": [
-          "connection",
-          "relationship"
-        ],
-        "antonyms": [
-          "disconnection",
-          "antagonism"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "The holy grail of product work is really a reference customer. This is somebody that has used your solution or your product, loves it enough to tell people about it.",
@@ -348,9 +262,7 @@
     "context": "Lenny asks Christian about the most effective method for discovering what to build in product management. Christian highlights the importance of reference customers—those who not only use the product but also advocate for it to others. He underscores that reference customers are critical because their endorsement can significantly influence future customers and validate the product's value.",
     "vocabulary_highlights": [
       "reference customer",
-      "solution",
-      "effective method",
-      "product management"
+      "solution"
     ],
     "topics": [
       "Product Management",
@@ -395,36 +307,9 @@
           "problem",
           "issue"
         ]
-      },
-      {
-        "word": "effective method",
-        "definition": "An effective method is a systematic approach or technique that successfully achieves desired outcomes or results.",
-        "businessContext": "In business, identifying and implementing effective methods is crucial for optimizing processes, improving productivity, and ensuring successful project outcomes.",
-        "nuance": "This phrase emphasizes not just any method, but one that has been proven to work well; it is often used in discussions about best practices and efficiency.",
-        "synonyms": [
-          "efficient technique",
-          "successful approach"
-        ],
-        "antonyms": [
-          "ineffective method",
-          "inefficient technique"
-        ]
-      },
-      {
-        "word": "product management",
-        "definition": "Product management is the organizational function responsible for guiding the development, marketing, and lifecycle of a product, ensuring it meets customer needs and business goals.",
-        "businessContext": "In tech and startup environments, product management plays a critical role in aligning cross-functional teams and making strategic decisions about product features and market positioning.",
-        "nuance": "The term encompasses a broad range of activities, from market research to product launch, and is often associated with a collaborative and iterative approach to product development.",
-        "synonyms": [
-          "product development",
-          "product strategy"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "You will get all the answers, the research, the failure, the mistakes, all the evidence. You know the difference between what people say, this is what they do.",
@@ -432,10 +317,7 @@
     "timestamp": "00:47:00",
     "context": "In discussing the discovery process in product management, Christian emphasizes the importance of hands-on problem-solving over traditional research methods. He argues that direct engagement with customers will yield real insights and evidence about their needs, contrasting this with the often unreliable nature of what customers verbally express they want.",
     "vocabulary_highlights": [
-      "evidence",
-      "discovery process",
-      "hands-on problem-solving",
-      "traditional research methods"
+      "evidence"
     ],
     "topics": [
       "Product Management",
@@ -466,49 +348,8 @@
           "disproof",
           "contradiction"
         ]
-      },
-      {
-        "word": "discovery process",
-        "definition": "A systematic approach to identifying and understanding new information, insights, or innovations in a particular field.",
-        "businessContext": "In startups and tech, the discovery process is essential for product development, allowing teams to explore user needs and market gaps before launching solutions.",
-        "nuance": "This term often implies a methodical and iterative approach, contrasting with more linear or rigid methodologies.",
-        "synonyms": [
-          "exploration phase",
-          "innovation cycle"
-        ],
-        "antonyms": [
-          "conclusion phase",
-          "finalization process"
-        ]
-      },
-      {
-        "word": "hands-on problem-solving",
-        "definition": "An active approach to addressing challenges that involves direct engagement and practical application of skills and knowledge.",
-        "businessContext": "In tech and startups, hands-on problem-solving is valued for its ability to quickly iterate solutions and adapt to real-world challenges through experimentation.",
-        "nuance": "This phrase suggests a proactive and experiential learning style, which may be preferred over theoretical or abstract approaches in dynamic environments.",
-        "synonyms": [
-          "practical problem-solving",
-          "experiential learning"
-        ],
-        "antonyms": [
-          "theoretical problem-solving",
-          "passive analysis"
-        ]
-      },
-      {
-        "word": "traditional research methods",
-        "definition": "Established techniques for gathering and analyzing data, often characterized by structured approaches such as surveys, interviews, and statistical analysis.",
-        "businessContext": "In business contexts, traditional research methods are used to gather reliable data for market analysis, consumer behavior studies, and academic research.",
-        "nuance": "While these methods are reliable, they may be perceived as less innovative compared to modern, agile research techniques that leverage technology and real-time data.",
-        "synonyms": [
-          "conventional research techniques",
-          "standard research approaches"
-        ],
-        "antonyms": [
-          "innovative research methods",
-          "agile research techniques"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

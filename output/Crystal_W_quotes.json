@@ -6,9 +6,7 @@
     "context": "Crystal is introducing herself and her path to joining Gojek, the ride-hailing company that became Southeast Asia's largest super app. She's explaining how she took a major career risk by cold-emailing Gojek and moving to Indonesia to work for what was then a very early-stage startup. The quote illustrates the unconventional, massive-scale hiring approach they used to rapidly onboard drivers - literally renting a stadium to hire tens of thousands of people at once.",
     "vocabulary_highlights": [
       "solvable",
-      "risk",
-      "hiring",
-      "major"
+      "risk"
     ],
     "topics": [
       "Starting a Company",
@@ -21,9 +19,9 @@
       "Growth Strategy",
       "B2B SaaS"
     ],
-    "text_ko": "충분히 해결할 수 있는 문제라고 생각했어요. 결국 우리는 몇 주 만에 6만 명의 기사들을 뽑기 위해 경기장까지 빌렸어요. 돌이켜보면 확실히 큰 리스크(risk)였던 것 같아요. 처음 그곳에 갔을 땐 사무실이 집 같아서 ‘아, 큰 실수를 한 건 아닐까’ 싶었는데, 그 작은 규모—하루 4,000건의 주문—에서도 이미 굉장히 빠르게 성장하고 있었어요.",
-    "text_zh": "我觉得这个问题完全可以解决。后来我们直接租了个体育场，两周内就招了6万名司机。现在回头看，确实挺冒险的。我到那儿一看，公司就在一个民房里办公，当时心想完蛋了，估计做了个超级错误的决定。不过我们增长得确实很快，哪怕那时候规模还很小，一天也有4000单了。",
-    "text_es": "Yo sentía que era un problema que se podía resolver perfectamente. Y terminamos rentando un estadio para contratar 60,000 conductores en un par de semanas. Entonces, viéndolo en retrospectiva, definitivamente fue un riesgo. Cuando llegué allí estaba en una casa y me di cuenta de que probablemente había cometido un error enorme, pero ya estábamos creciendo súper rápido, incluso a esa pequeña escala de 4,000 pedidos por día.",
+    "text_ko": "저는 그게 충분히 해결할 수 있는 문제라고 생각했어요. 결국 몇 주 만에 6만 명의 기사님을 모으기 위해 경기장을 통째로 빌렸어요. 돌이켜보면 분명히 큰 위험이었어요.",
+    "text_zh": "我当时觉得这个问题完全可以解决。后来我们直接租了个体育场，几周内就招了6万个司机。现在回头看，确实是挺冒险的。",
+    "text_es": "Me pareció que era un problema que tenía solución. Y al final terminamos rentando un estadio para contratar 60,000 conductores en un par de semanas. Así que mirando hacia atrás, definitivamente fue un riesgo.",
     "key_sentence": "It was a problem very solvable, but I made a huge mistake.",
     "text_trimmed": true,
     "original_text": "I felt like it was a problem that was very solvable. And we ended up renting a stadium to just hire 60,000 drivers in a couple of weeks. So I think looking back, it was certainly a risk. When I got there it was in a house and I realized I've probably made a huge mistake, but we were growing very quickly already, even at that small scale of 4,000 orders per day.",
@@ -56,36 +54,10 @@
           "certainty",
           "safety"
         ]
-      },
-      {
-        "word": "hiring",
-        "definition": "The process of seeking, selecting, and employing individuals for specific roles within an organization.",
-        "businessContext": "Effective hiring practices are essential for building a competent workforce and can significantly impact a company's culture and performance.",
-        "nuance": "The term can imply not just filling a position but also finding the right fit for the organization's values and goals.",
-        "synonyms": [
-          "recruitment",
-          "employment"
-        ],
-        "antonyms": [
-          "firing",
-          "layoff"
-        ]
-      },
-      {
-        "word": "major",
-        "definition": "Significant in size, extent, or importance; of great consequence.",
-        "businessContext": "In a business context, major decisions can affect the overall direction of a company and often require careful consideration and analysis.",
-        "nuance": "The term can also suggest a level of urgency or priority in addressing issues or opportunities.",
-        "synonyms": [
-          "significant",
-          "substantial"
-        ],
-        "antonyms": [
-          "minor",
-          "insignificant"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I literally emailed someone after Googling HR at Gojek and said, 'I'm willing to move to Indonesia, take a bet on me.' And they actually did. So I got extremely lucky. Five years fly by insanely fast.",
@@ -93,10 +65,7 @@
     "timestamp": "00:06:55",
     "context": "Lenny asks Crystal about her unusual career path from investment banking to becoming a key growth leader at Gojek. Crystal explains how she made the transition by cold-emailing startups in Southeast Asia, including Gojek, and asking them to take a chance on her despite having no traditional tech background. She describes her rapid career progression once she joined, building multiple teams from the ground up.",
     "vocabulary_highlights": [
-      "take a bet on",
-      "cold-emailing",
-      "growth leader",
-      "transition"
+      "take a bet on"
     ],
     "topics": [
       "Career Development",
@@ -109,9 +78,9 @@
       "Growth Strategy",
       "B2B SaaS"
     ],
-    "text_ko": "실제로 고젝의 인사(HR)를 구글링해보고 누군가에게 이메일을 보냈어요. \"인도네시아로 이사할 의향이 있으니 저한테 한 번 기회를 주세요.\"라고요. 그리고 진짜 그렇게 해주셨어요. 정말 운이 좋았어요. 5년은 순식간에 지나가더라고요. 그동안 데이터 팀(data team)을 완전히 처음부터 만들어봤어요.",
-    "text_zh": "我直接谷歌搜了Gojek的HR邮箱，给他们发邮件说：\"我愿意搬到印尼去，赌我一把吧。\" 没想到他们真的同意了，我运气太好了。五年时间眨眼就过去了，我从零开始把数据团队给搭建起来了。",
-    "text_es": "Literalmente le mandé un email a alguien después de buscar en Google \"HR en Gojek\" y le dije: \"Estoy dispuesto a mudarme a Indonesia, apuesten por mí.\" Y de verdad lo hicieron. Así que tuve una suerte increíble. Cinco años se pasan volando. Pasé por todo el proceso de armar el equipo de datos desde cero.",
+    "text_ko": "Gojek 인사(HR)를 구글링해서 누군가에게 진짜 이메일을 보냈어요. \"인도네시아로 이사할 의향이 있으니 저한테 한 번 기회를 주세요\"라고 했고요. 그런데 진짜로 그렇게 해주셨고, 그래서 운이 엄청 좋았어요. 5년은 정말 순식간에 지나가요.",
+    "text_zh": "我当时就是谷歌搜了一下Gojek的HR邮箱，直接发邮件说：\"我愿意搬到印尼去，赌我一把吧。\"结果他们真的答应了。我运气太好了。五年一眨眼就过去了。",
+    "text_es": "Literalmente le mandé un email a alguien después de buscar en Google \"HR Gojek\" y le dije: \"Estoy dispuesto a mudarme a Indonesia, dense una oportunidad conmigo.\" Y la verdad es que sí me la dieron. O sea, tuve una suerte increíble. Cinco años se pasan volando.",
     "key_sentence": "I got extremely lucky taking a bet on me.",
     "text_trimmed": true,
     "original_text": "I literally emailed someone after Googling HR at Gojek and said, 'I'm willing to move to Indonesia, take a bet on me.' And they actually did. So I got extremely lucky. Five years fly by insanely fast. I went through building out the data team from scratch.",
@@ -130,50 +99,10 @@
           "play it safe",
           "avoid"
         ]
-      },
-      {
-        "word": "cold-emailing",
-        "definition": "The practice of sending unsolicited emails to potential clients or contacts in order to establish a business relationship.",
-        "businessContext": "Cold-emailing is commonly used in sales and marketing to generate leads and reach out to prospects who may not be familiar with the sender's company or services.",
-        "nuance": "While cold-emailing can be an effective outreach strategy, it may also be perceived as intrusive if not done thoughtfully and respectfully.",
-        "synonyms": [
-          "unsolicited emailing",
-          "prospecting via email"
-        ],
-        "antonyms": [
-          "warm emailing",
-          "referral emailing"
-        ]
-      },
-      {
-        "word": "growth leader",
-        "definition": "An individual or organization that drives and manages the expansion of a business, often focusing on scaling operations and increasing revenue.",
-        "businessContext": "In startups and tech companies, a growth leader is crucial for identifying new market opportunities and implementing strategies to achieve rapid growth.",
-        "nuance": "This term often carries a connotation of innovation and agility, suggesting that the individual is not only focused on metrics but also on creative solutions for growth.",
-        "synonyms": [
-          "growth strategist",
-          "business developer"
-        ],
-        "antonyms": [
-          "decline manager",
-          "stagnation overseer"
-        ]
-      },
-      {
-        "word": "transition",
-        "definition": "The process of changing from one state, condition, or phase to another, often involving adjustments and adaptations.",
-        "businessContext": "In a business context, transition can refer to changes in leadership, company structure, or strategic direction, requiring careful management to ensure continuity.",
-        "nuance": "The term implies a period of adjustment and can carry a sense of uncertainty, making it important to communicate effectively during such changes.",
-        "synonyms": [
-          "changeover",
-          "shift"
-        ],
-        "antonyms": [
-          "stability",
-          "continuity"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "We would do things as simple as wanting to test a subscription feature, which was just released in Singapore a couple weeks ago. We ended up saying, 'We have this voucher system that we can distribute vouchers in the back end.",
@@ -181,10 +110,8 @@
     "timestamp": "00:13:22",
     "context": "Lenny asks Crystal about scrappy growth tactics that Asian startups use which US companies could learn from. Crystal is explaining Gojek's approach of doing things that don't scale to validate ideas quickly. She's describing how they tested a subscription service concept without building any new technology - instead using existing systems like WhatsApp groups and manual backend processes to create a 'Wizard of Oz' experience that mimicked the final product.",
     "vocabulary_highlights": [
-      "validate",
       "distribute",
-      "subscription feature",
-      "scrappy growth tactics"
+      "subscription feature"
     ],
     "topics": [
       "Growth & Marketing",
@@ -197,28 +124,14 @@
       "Growth Strategy",
       "B2B SaaS"
     ],
-    "text_ko": "우리는 싱가포르에서 몇 주 전에 막 출시된 구독 기능(subscription feature)을 테스트해 보고 싶다 같은 정말 단순한 일도 했어요. 결국에는 “백엔드(back end)에서 바우처를 배포할 수 있는 바우처 시스템(voucher system)이 있고, 운전자들 전화번호는 당연히 알고 있으니까 그냥 그들을 WhatsApp 그룹(WhatsApp group)에 추가하면 어떨까요?”라고 말했어요.",
-    "text_zh": "我们会做一些很简单的事情，比如想测试一个订阅功能，这个功能几周前刚在新加坡上线。最后我们就说，\"我们有这个优惠券系统，可以在后台发放优惠券。我们肯定知道司机的手机号码。为什么不直接把他们拉到一个微信群里呢？\"",
-    "text_es": "Hacíamos cosas tan sencillas como querer probar una función de suscripción que acabábamos de lanzar en Singapur hace un par de semanas. Al final dijimos: \"Tenemos este sistema de cupones donde podemos distribuir cupones desde el back end. Obviamente conocemos los números de teléfono de nuestros conductores. ¿Por qué no los agregamos simplemente a un grupo de WhatsApp?\"",
+    "text_ko": "저희는 몇 주 전에 싱가포르에서 막 출시된 구독 기능(subscription feature)을 테스트해보고 싶다 같은 단순한 일도 했어요. 결국 “백엔드(back end)에서 바우처를 배포할 수 있는 바우처 시스템(voucher system)이 있다”라고 말하게 됐죠.",
+    "text_zh": "我们做的事情其实很简单，就是想测试一下订阅功能，这个功能几周前刚在新加坡上线。结果我们就说，'我们有个优惠券系统，可以在后台发放优惠券。'",
+    "text_es": "Hacíamos cosas tan sencillas como querer probar una función de suscripción que acababa de salir en Singapur hace un par de semanas. Al final dijimos: \"Tenemos este sistema de cupones donde podemos distribuir cupones desde el back end.\"",
     "key_sentence": "We can distribute vouchers in the back end via WhatsApp.",
     "text_trimmed": true,
     "original_text": "We would do things as simple as wanting to test a subscription feature, which was just released in Singapore a couple weeks ago. We ended up saying, 'We have this voucher system that we can distribute vouchers in the back end. We obviously know our driver's phone numbers. Why don't we just add them to a WhatsApp group?'",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "validate",
-        "definition": "To confirm the accuracy or legitimacy of something, often through testing or verification.",
-        "businessContext": "In business and tech, validating a product or feature is crucial to ensure it meets user needs and functions as intended before full-scale launch.",
-        "nuance": "While 'validate' often implies a formal process, it can also refer to informal checks or assessments in early-stage projects.",
-        "synonyms": [
-          "authenticate",
-          "verify"
-        ],
-        "antonyms": [
-          "invalidate",
-          "disprove"
-        ]
-      },
       {
         "word": "distribute",
         "definition": "To spread or deliver something across a range of locations or to various recipients.",
@@ -246,22 +159,10 @@
           "one-time purchase",
           "free access"
         ]
-      },
-      {
-        "word": "scrappy growth tactics",
-        "definition": "Innovative and resourceful strategies employed to achieve growth, often with limited resources or budget.",
-        "businessContext": "Startups frequently utilize scrappy growth tactics to gain traction and market presence without significant financial investment, relying on creativity and agility.",
-        "nuance": "This phrase carries a connotation of resilience and ingenuity, often used in contrast to more traditional, resource-heavy growth strategies.",
-        "synonyms": [
-          "bootstrapped strategies",
-          "guerrilla marketing"
-        ],
-        "antonyms": [
-          "corporate strategies",
-          "luxury growth tactics"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The only thing better than knowing... If you have data of what your customers are doing, that is the best data you could ever get.",
@@ -269,9 +170,7 @@
     "timestamp": "00:16:35",
     "context": "Lenny asks whether Crystal advises startups to be more scrappy and do things that don't scale, given that US culture is different from Southeast Asia. Crystal responds by emphasizing the critical importance of getting real customer behavior data rather than just theorizing about what might work. She argues that any product idea that can't be tested experimentally isn't worth pursuing, regardless of how logical it might seem on paper.",
     "vocabulary_highlights": [
-      "critical",
       "data",
-      "scale",
       "customers"
     ],
     "topics": [
@@ -286,28 +185,14 @@
       "Growth Strategy",
       "B2B SaaS"
     ],
-    "text_ko": "알고 있는 것보다 더 좋은 건 고객들이 실제로 어떤 행동을 하는지에 대한 데이터예요. 그게 사실 얻을 수 있는 가장 좋은 데이터예요. 그래서 검증된 가설(tested hypothesis)이 없다면, 실험을 해볼 방법(run an experiment)이 떠오르지 않으면 솔직히 그 아이디어는 거의 쓸모없어요.",
-    "text_zh": "有一个道理大家都懂...如果你能拿到客户行为数据，那绝对是最值钱的数据了。所以说，如果你连个靠谱的假设都没有，连个实验都不知道怎么设计，那说实话，这个想法基本上就是废的。",
-    "text_es": "Lo único mejor que saber... Si tienes datos de lo que están haciendo tus clientes, esos son los mejores datos que puedes conseguir. Y entonces, si no tienes una hipótesis probada, si no se te ocurre una manera de hacer un experimento, pues la verdad es que esa idea no sirve para nada.",
+    "text_ko": "아는 것보다 더 좋은 건, 고객이 실제로 무엇을 하고 있는지에 대한 데이터(data)를 갖고 있는 거예요. 그건 당신이 얻을 수 있는 최고의 데이터예요.",
+    "text_zh": "最好的数据就是了解你的客户在做什么，这比什么都管用。",
+    "text_es": "Si tienes datos de lo que están haciendo tus clientes, esos son los mejores datos que puedes conseguir.",
     "key_sentence": "If you have data of what your customers are doing, that is the best data you could ever get.",
     "text_trimmed": true,
     "original_text": "The only thing better than knowing... If you have data of what your customers are doing, that is the best data you could ever get. And so if you don't have a tested hypothesis, if you can't think of a way to run an experiment, then honestly that idea is pretty useless.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "critical",
-        "definition": "Of great importance or significance; essential for the success or failure of a situation.",
-        "businessContext": "In business, 'critical' often refers to factors or decisions that are pivotal to achieving objectives or maintaining operations.",
-        "nuance": "While 'critical' can imply urgency, it can also denote a level of scrutiny or evaluation, as in 'critical analysis.'",
-        "synonyms": [
-          "crucial",
-          "vital"
-        ],
-        "antonyms": [
-          "insignificant",
-          "minor"
-        ]
-      },
       {
         "word": "data",
         "definition": "Facts, statistics, or information collected for analysis or reference.",
@@ -320,20 +205,6 @@
         "antonyms": [
           "ignorance",
           "N/A"
-        ]
-      },
-      {
-        "word": "scale",
-        "definition": "To increase in size, capacity, or scope; often refers to the ability to grow efficiently.",
-        "businessContext": "In startups, 'scale' refers to the capacity to grow operations and revenue without a corresponding increase in costs.",
-        "nuance": "While 'scale' usually has a positive connotation of growth, it can also imply challenges related to maintaining quality and service.",
-        "synonyms": [
-          "expand",
-          "grow"
-        ],
-        "antonyms": [
-          "shrink",
-          "decrease"
         ]
       },
       {
@@ -350,7 +221,9 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "So mathematically speaking, you're going to get the same level of trends, but the precision at which you understand those trends will become more deep if you have more data.",
@@ -359,9 +232,7 @@
     "context": "Lenny asks how early-stage startups should approach experimentation when they have limited users and data. Crystal gives a counterintuitive response that you can and should run experiments even with very small sample sizes like 30 people. She explains the mathematical principle that while larger samples give you more precision, the fundamental trends and insights you discover will be similar regardless of whether you have 30 users or 300.",
     "vocabulary_highlights": [
       "precision",
-      "understand",
-      "counterintuitive",
-      "experiment"
+      "understand"
     ],
     "topics": [
       "Growth & Marketing",
@@ -374,9 +245,9 @@
       "Growth Strategy",
       "B2B SaaS"
     ],
-    "text_ko": "수학적으로 보면 추세(trends)의 전반적인 수준은 비슷하게 나와요. 다만 데이터가 많아질수록 그 추세를 이해하는 정밀도(precision)는 높아지고, 더 큰 규모(larger scales)에서 얻는 근본적인 정보(underlying information)는 크게 달라지지 않아요.",
-    "text_zh": "从数学角度来讲，你得到的趋势程度其实是一样的，但如果数据更多的话，你对这些趋势的理解会更加精准、更深入。不过呢，在更大规模下，你从中获得的核心信息其实不会有太大差别。",
-    "text_es": "Matemáticamente hablando, vas a obtener el mismo nivel de tendencias, pero la precisión con la que entiendes esas tendencias va a ser mucho más profunda si tienes más datos. Pero la información de fondo que sacas de ahí no va a ser muy diferente a gran escala.",
+    "text_ko": "그러니까 수학적으로 보면(mathematically speaking), 추세(trends) 자체는 비슷하게 나타나요. 하지만 데이터가 많아질수록 그 추세를 이해하는 정밀도(precision)는 훨씬 높아져요.",
+    "text_zh": "从数学角度来说，趋势的大方向不会变，但是数据越多，你对这些趋势的理解就会越精准，越深入。",
+    "text_es": "Hablando en términos matemáticos, vas a obtener el mismo nivel de tendencias, pero la precisión con la que entiendes esas tendencias va a ser mucho más profunda si tienes más datos.",
     "key_sentence": "Mathematically speaking, more data deepens understanding of trends.",
     "text_trimmed": true,
     "original_text": "So mathematically speaking, you're going to get the same level of trends, but the precision at which you understand those trends will become more deep if you have more data. But the underlying information that you're getting out of that won't be very different at larger scales.",
@@ -409,36 +280,10 @@
           "misunderstand",
           "confuse"
         ]
-      },
-      {
-        "word": "counterintuitive",
-        "definition": "Contrary to what one would intuitively expect; something that goes against common sense or initial assumptions. Counterintuitive ideas often challenge conventional wisdom.",
-        "businessContext": "In business and innovation, counterintuitive findings can lead to breakthrough strategies or solutions, prompting leaders to rethink established practices.",
-        "nuance": "The term is often used to highlight surprising results or conclusions that may not align with typical expectations, making it valuable in discussions of innovation or strategy.",
-        "synonyms": [
-          "paradoxical",
-          "unexpected"
-        ],
-        "antonyms": [
-          "intuitive",
-          "expected"
-        ]
-      },
-      {
-        "word": "experiment",
-        "definition": "A scientific procedure undertaken to test a hypothesis or demonstrate a known fact. Experiments involve systematic observation and measurement.",
-        "businessContext": "In the business world, particularly in startups and tech, experiments are used to validate ideas, test market responses, and refine products or services based on empirical data.",
-        "nuance": "While the term typically refers to scientific methods, in business it can also imply a trial-and-error approach to innovation and learning from outcomes.",
-        "synonyms": [
-          "trial",
-          "test"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "So to say, oh, this is the thing, instrumentation is what's wrong, I think it's a very actionable thing. It's probably one of the most solvable problems out there. It just takes some time and mental model shifts to do it well.",
@@ -534,7 +379,6 @@
     "vocabulary_highlights": [
       "metric gathering",
       "act on",
-      "analytics efforts",
       "real world"
     ],
     "topics": [
@@ -583,20 +427,6 @@
         ]
       },
       {
-        "word": "analytics efforts",
-        "definition": "The initiatives and activities undertaken to analyze data in order to extract meaningful insights and inform decision-making.",
-        "businessContext": "Analytics efforts are crucial in business for optimizing operations, enhancing customer experiences, and driving strategic growth through data-driven insights.",
-        "nuance": "This term conveys a proactive approach to data analysis, emphasizing the importance of continuous improvement and adaptation based on findings.",
-        "synonyms": [
-          "data analysis initiatives",
-          "analytical activities"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
         "word": "real world",
         "definition": "The practical, everyday environment in which people live and work, as opposed to theoretical or abstract concepts.",
         "businessContext": "In business discussions, referring to the 'real world' emphasizes the importance of applying theories and strategies to tangible situations and outcomes.",
@@ -610,6 +440,7 @@
           "abstract context"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

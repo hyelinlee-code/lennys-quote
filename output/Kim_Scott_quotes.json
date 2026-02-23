@@ -4,12 +4,7 @@
     "speaker": "Kim Scott",
     "timestamp": "00:00:00",
     "context": "Lenny asks Kim about how to solicit feedback effectively from colleagues and employees. Kim explains that asking generic questions like 'Do you have any feedback for me?' is ineffective because people will just say everything is fine. She shares her go-to question but emphasizes that leaders must adapt the language to sound authentic to their own communication style, otherwise people won't believe they genuinely want honest feedback.",
-    "vocabulary_highlights": [
-      "solicit",
-      "feedback",
-      "generic",
-      "ineffective"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Leadership & Management",
       "Communication Skills",
@@ -21,71 +16,16 @@
       "Leadership Development",
       "User Experience"
     ],
-    "text_ko": "제가 자주 하는 질문은 \"제가 뭘 더 하거나 멈추면 같이 일하기 더 쉬워질까요?\"예요. 그런데 그 문장을 그대로 적어 두지는 마세요. 김 스콧처럼 말하면 당신답지 않게 들려서 사람들이 진심으로 답을 해주지 않을 거예요. 당신만의 말투로 진짜 자연스럽게 물어야 해요.",
-    "text_zh": "我喜欢问的一个问题是：\"我可以做什么，或者停止做什么，来让大家跟我合作起来更轻松？\"不过别照搬我这个问题，因为如果你说话像金·斯科特(Kim Scott)而不像你自己，别人就不会相信你真的想听到答案。这话得从你嘴里说出来才有说服力。",
-    "text_es": "La pregunta que me gusta hacer es: '¿Qué podría hacer o dejar de hacer para que sea más fácil trabajar conmigo?' Pero no te copies mi pregunta tal cual, porque si suenas como Kim Scott y no como tú mismo, la gente no va a creer que de verdad quieres saber la respuesta. Tiene que sonar auténtico, que suene a ti.",
+    "text_ko": "저와 함께 일하기가 더 편해지도록 제가 뭘 더 하고, 뭘 안 하면 좋을까요?",
+    "text_zh": "我应该做些什么，或者别再做哪些事，才能让和我合作更顺利？",
+    "text_es": "¿Qué puedo hacer o dejar de hacer para que sea más fácil trabajar conmigo?",
     "key_sentence": "What could I do to make it easier to work with me sounds authentic.",
     "text_trimmed": true,
     "original_text": "The question that I like to ask is, 'What could I do or stop doing that would make it easier to work with me?' But do not write down my question because if you sound like Kim Scott and not like yourself, then other people are not going to believe you want the answer. It needs to sound authentic to you.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "solicit",
-        "definition": "To seek or request something from someone, often in a formal manner.",
-        "businessContext": "In business, soliciting can refer to requesting feedback, proposals, or donations, and is often used in sales and marketing strategies.",
-        "nuance": "While 'solicit' can imply a formal request, it may carry a slightly negative connotation if perceived as overly aggressive or intrusive.",
-        "synonyms": [
-          "request",
-          "seek"
-        ],
-        "antonyms": [
-          "offer",
-          "provide"
-        ]
-      },
-      {
-        "word": "feedback",
-        "definition": "Information or criticism about a person's performance or a product's effectiveness, intended to guide future improvements.",
-        "businessContext": "In a business setting, feedback is crucial for employee development, product enhancement, and customer satisfaction, often gathered through surveys or performance reviews.",
-        "nuance": "Feedback can be constructive or negative, and its delivery is important; positive feedback can motivate, while negative feedback should be handled delicately.",
-        "synonyms": [
-          "input",
-          "response"
-        ],
-        "antonyms": [
-          "silence",
-          "indifference"
-        ]
-      },
-      {
-        "word": "generic",
-        "definition": "Not specific or unique; applicable to a broad category rather than a particular instance.",
-        "businessContext": "In business, 'generic' often describes products or services that lack distinctive features, which can affect branding and market positioning.",
-        "nuance": "While 'generic' can imply a lack of quality or uniqueness, it can also refer to cost-effective alternatives that meet basic needs.",
-        "synonyms": [
-          "standard",
-          "common"
-        ],
-        "antonyms": [
-          "specific",
-          "unique"
-        ]
-      },
-      {
-        "word": "ineffective",
-        "definition": "Not producing the desired effect or result; lacking in efficiency or success.",
-        "businessContext": "In a corporate environment, identifying ineffective strategies or practices is essential for improving productivity and achieving business goals.",
-        "nuance": "The term 'ineffective' suggests a need for change or improvement, and can be used to critique processes, communication, or leadership styles.",
-        "synonyms": [
-          "unproductive",
-          "inefficient"
-        ],
-        "antonyms": [
-          "effective",
-          "efficient"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "If I march into a room and I say, 'Lenny, I'm going to tell you the truth.' I'm kind of implying I've got a pipeline to God and you don't know anything. And that's not what this is all about.",
@@ -93,10 +33,7 @@
     "timestamp": "00:15:31",
     "context": "Lenny asks Kim for specific language and phrases to use when giving direct feedback without making people defensive. Kim explains why she uses the term 'candor' instead of 'truth' when giving feedback. She emphasizes that effective feedback should be humble and conversational rather than authoritative, because claiming to know 'the truth' creates an adversarial dynamic instead of collaborative dialogue.",
     "vocabulary_highlights": [
-      "implying",
-      "candor",
-      "direct feedback",
-      "defensive"
+      "implying"
     ],
     "topics": [
       "Communication Skills",
@@ -108,9 +45,9 @@
       "Leadership Development",
       "User Experience"
     ],
-    "text_ko": "제가 방에 들어가서 '레니, 내가 진실을 말해줄게'라고 하면, 마치 제가 신과 직통으로 연결돼 있고 레니는 아무것도 모르는 사람인 것처럼 비춰져요. 그런데 그게 이 일의 취지가 아니에요. 이건 독백이 아니라 대화예요.",
-    "text_zh": "如果我走进房间就说，\"小李，我来告诉你真相。\"这样说话其实就是在暗示我掌握了绝对真理，而你什么都不懂。但事情不是这样的。我们要的是对话，不是一个人在那儿独白。",
-    "text_es": "Si llego a una sala y le digo a Lenny, \"Te voy a decir la verdad\", como que estoy dando a entender que tengo línea directa con Dios y que tú no sabes nada. Y no se trata de eso. Esto es un diálogo, no un monólogo.",
+    "text_ko": "제가 방에 막 들어가서 \"레니, 내가 진실을 말해줄게\"라고 하면, 그건 마치 제가 신과 직통 연결돼 있고 레니는 아무것도 모른다는 식으로 암시하는 거예요. 그런데 그게 이 일이 하려는 바는 아니에요.",
+    "text_zh": "要是我大摇大摆走进房间，对Lenny说，“Lenny，我要告诉你真相。”那其实就是在暗示我好像跟上帝有直通线，而你什么都不懂。但这不是重点。",
+    "text_es": "Si entro a una sala y digo: \"Lenny, te voy a decir la verdad\", estoy dando a entender que tengo una línea directa con Dios y que tú no sabes nada. Y no se trata de eso.",
     "key_sentence": "This is a dialogue, not a monologue, not a pipeline to God.",
     "text_trimmed": true,
     "original_text": "If I march into a room and I say, 'Lenny, I'm going to tell you the truth.' I'm kind of implying I've got a pipeline to God and you don't know anything. And that's not what this is all about. This is a dialogue, not a monologue.",
@@ -129,50 +66,10 @@
           "stating",
           "declaring"
         ]
-      },
-      {
-        "word": "candor",
-        "definition": "The quality of being open, honest, and straightforward in communication.",
-        "businessContext": "Candor is highly valued in business environments as it fosters transparency and trust among team members and stakeholders.",
-        "nuance": "While candor is generally positive, it can sometimes be misinterpreted as bluntness or insensitivity if not balanced with tact.",
-        "synonyms": [
-          "frankness",
-          "openness"
-        ],
-        "antonyms": [
-          "dishonesty",
-          "evasion"
-        ]
-      },
-      {
-        "word": "direct feedback",
-        "definition": "Clear and straightforward responses or evaluations regarding someone's performance or behavior.",
-        "businessContext": "Direct feedback is essential in performance reviews and team dynamics, as it helps individuals understand their strengths and areas for improvement.",
-        "nuance": "While direct feedback is often constructive, it can be perceived as harsh if not delivered with consideration for the recipient's feelings.",
-        "synonyms": [
-          "immediate feedback",
-          "straightforward critique"
-        ],
-        "antonyms": [
-          "indirect feedback",
-          "vague comments"
-        ]
-      },
-      {
-        "word": "defensive",
-        "definition": "Being protective or resistant to criticism, often resulting in a refusal to accept feedback or change.",
-        "businessContext": "In a business setting, being defensive can hinder open communication and collaboration, as it may create an atmosphere of tension and avoidance.",
-        "nuance": "While a defensive stance can be a natural reaction to perceived threats, it is generally counterproductive in professional environments where growth and learning are encouraged.",
-        "synonyms": [
-          "protective",
-          "guarded"
-        ],
-        "antonyms": [
-          "receptive",
-          "open-minded"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Six seconds is a really long time. Almost nobody can endure six full seconds of silence. So they'll probably tell you something. So now you've dragged this poor soul out on a conversational limb that they never wanted to go on.",
@@ -180,10 +77,7 @@
     "timestamp": "00:43:59",
     "context": "Kim is explaining her framework for soliciting feedback from colleagues and employees. After asking for feedback, she recommends counting to six seconds of silence to embrace the discomfort, because most people cannot tolerate that much silence and will eventually share something. She describes this as putting the other person in an uncomfortable but necessary position to get honest feedback.",
     "vocabulary_highlights": [
-      "endure",
-      "soliciting",
-      "embrace",
-      "discomfort"
+      "endure"
     ],
     "topics": [
       "Communication Skills",
@@ -215,50 +109,9 @@
           "succumb",
           "yield"
         ]
-      },
-      {
-        "word": "soliciting",
-        "definition": "The act of requesting or seeking something, often in a formal or systematic manner.",
-        "businessContext": "In a business context, soliciting can refer to the process of seeking clients, donations, or feedback, often through proposals or direct outreach.",
-        "nuance": "While 'soliciting' can have a neutral connotation in business, it may carry negative implications in other contexts, such as soliciting donations in a way that feels intrusive.",
-        "synonyms": [
-          "requesting",
-          "seeking"
-        ],
-        "antonyms": [
-          "offering",
-          "providing"
-        ]
-      },
-      {
-        "word": "embrace",
-        "definition": "To accept or support something willingly and enthusiastically.",
-        "businessContext": "In the corporate world, 'embrace' often refers to adopting new technologies, practices, or changes in strategy that can lead to innovation and growth.",
-        "nuance": "Using 'embrace' suggests a proactive and positive attitude towards change, as opposed to mere acceptance or compliance.",
-        "synonyms": [
-          "adopt",
-          "welcome"
-        ],
-        "antonyms": [
-          "reject",
-          "resist"
-        ]
-      },
-      {
-        "word": "discomfort",
-        "definition": "A state of unease or mild pain, often associated with physical or emotional distress.",
-        "businessContext": "In a business setting, discomfort can arise during difficult conversations, negotiations, or when addressing sensitive topics, and may impact team dynamics or decision-making.",
-        "nuance": "While 'discomfort' indicates a negative feeling, it can also be a catalyst for growth and change when addressed constructively.",
-        "synonyms": [
-          "unease",
-          "discontent"
-        ],
-        "antonyms": [
-          "comfort",
-          "ease"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "A person takes a huge risk, especially if this person is your employee. A person takes a huge risk to give you critical feedback. And if you do not reward that risk richly, you're never going to get any feedback again.",
@@ -268,8 +121,7 @@
     "vocabulary_highlights": [
       "critical feedback",
       "reward",
-      "risk",
-      "candor"
+      "risk"
     ],
     "topics": [
       "Leadership & Management",
@@ -329,34 +181,16 @@
           "safety",
           "certainty"
         ]
-      },
-      {
-        "word": "candor",
-        "definition": "The quality of being open, honest, and straightforward in communication.",
-        "businessContext": "Candor is valued in business environments as it fosters trust, transparency, and effective collaboration among team members.",
-        "nuance": "While candor is generally positive, it must be balanced with tact to avoid offending others or creating conflict.",
-        "synonyms": [
-          "frankness",
-          "openness"
-        ],
-        "antonyms": [
-          "dishonesty",
-          "insincerity"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "We all behave like assholes sometimes. And it's a big problem for us as well as for the people around us. And here's my story, when I acted like a jerk, what's yours?",
     "speaker": "Kim Scott",
     "timestamp": "01:00:07",
     "context": "Lenny asks Kim how to help leaders who have low self-awareness and believe obnoxious aggression is the only way to give feedback. Kim explains her approach of first sharing her own stories of when she made mistakes and acted poorly, then asking them for similar examples. This creates a safe space for self-reflection without judgment, helping leaders develop a growth mindset about their behavior.",
-    "vocabulary_highlights": [
-      "self-awareness",
-      "obnoxious aggression",
-      "feedback",
-      "approach"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Leadership & Management",
       "Coaching & Development",
@@ -368,71 +202,16 @@
       "Leadership Development",
       "User Experience"
     ],
-    "text_ko": "우리 모두 가끔 정말 못되게 굴 때가 있어요. 그건 우리 자신에게도, 주변 사람들에게도 큰 문제예요. 제 얘기 하나 해볼게요 — 제가 못되게 굴었을 때가 있었어요. 여러분은 어때요? 사람들이 그런 자기 인식을 '강요된 깨달음(inflicted insight)'이라며 부담이라고 할 때도 있는데, 보통은 오히려 그런 자각 때문에 마음이 더 가벼워져요.",
-    "text_zh": "我们每个人有时候都会表现得很混蛋，这对我们自己和周围的人来说都是大问题。我来分享一下我当混蛋的经历，你们呢？你知道吗，这种自我认知，有些人觉得深刻的自省(inflicted insight)是种负担，但其实这种自我认知通常会让人感觉轻松很多。",
-    "text_es": "Todos nos portamos como unos patanes a veces. Y es un gran problema tanto para nosotros como para la gente que nos rodea. Y aquí tienes mi historia, de cuando me comporté como un idiota, ¿cuál es la tuya? Y la gente, ese tipo de autoconocimiento, a veces hablan del insight doloroso como si fuera una carga, pero normalmente ese tipo de autoconocimiento hace que la gente se sienta más liviana.",
+    "text_ko": "우리 모두 가끔은 정말 못되게 행동할 때가 있어요. 그건 우리 자신에게도, 주변 사람들에게도 큰 문제예요. 제가 먼저 얘기할게요 — 제가 무례하게 굴었을 때의 이야기예요. 당신 얘기는요?",
+    "text_zh": "我们有时候都会表现得像个混蛋。这不仅是我们自己的问题，对周围的人也很麻烦。我来说个我当混蛋的经历——你的呢？什么时候你也这样？",
+    "text_es": "Todos actuamos como unos idiotas a veces. Y eso es un gran problema, tanto para nosotros como para quienes nos rodean. Te cuento la mía: cuando actué como un idiota. ¿Cuál es la tuya?",
     "key_sentence": "We all behave like assholes sometimes.",
     "text_trimmed": true,
     "original_text": "We all behave like assholes sometimes. And it's a big problem for us as well as for the people around us. And here's my story, when I acted like a jerk, what's yours? And people, that kind of self-awareness, sometimes people talk about inflicted insight like it's some kind of burden, but usually that kind of self-awareness makes people feel lighter.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "self-awareness",
-        "definition": "The conscious knowledge of one's own character, feelings, motives, and desires.",
-        "businessContext": "In business settings, self-awareness is crucial for effective leadership and team dynamics, as it enables individuals to understand their impact on others and improve interpersonal relationships.",
-        "nuance": "While self-awareness is generally viewed positively, excessive self-criticism can lead to indecision or anxiety, making it important to balance self-reflection with confidence.",
-        "synonyms": [
-          "self-consciousness",
-          "introspection"
-        ],
-        "antonyms": [
-          "ignorance",
-          "unawareness"
-        ]
-      },
-      {
-        "word": "obnoxious aggression",
-        "definition": "A form of hostility characterized by overtly rude or offensive behavior that is intended to belittle or undermine others.",
-        "businessContext": "In the workplace, obnoxious aggression can create a toxic environment, hinder collaboration, and lead to high employee turnover if not addressed promptly.",
-        "nuance": "This term carries a strong negative connotation and is typically used to describe behavior that is not only aggressive but also socially unacceptable.",
-        "synonyms": [
-          "hostile behavior",
-          "rude aggression"
-        ],
-        "antonyms": [
-          "constructive criticism",
-          "supportive communication"
-        ]
-      },
-      {
-        "word": "feedback",
-        "definition": "Information or criticism about a person's performance or behavior, intended to guide improvement.",
-        "businessContext": "In business and tech environments, feedback is essential for employee development, product iteration, and fostering a culture of continuous improvement.",
-        "nuance": "While feedback is generally constructive, it can be perceived negatively if not delivered thoughtfully, emphasizing the importance of context and delivery.",
-        "synonyms": [
-          "input",
-          "evaluation"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "approach",
-        "definition": "A way of dealing with a situation or problem; a method or procedure.",
-        "businessContext": "In business, the term 'approach' often refers to strategic methods for tackling challenges, whether in project management, marketing, or customer relations.",
-        "nuance": "The choice of approach can significantly affect outcomes, and it is important to adapt one's approach based on the specific context and objectives.",
-        "synonyms": [
-          "method",
-          "strategy"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "It's not disagreement that poses a risk to our relationships. It's unspoken disagreement. Many, I don't know about you Lenny, but a lot of my best professional relationships began with a good respectful disagreement.",

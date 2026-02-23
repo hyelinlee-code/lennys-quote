@@ -6,9 +6,7 @@
     "context": "Lenny asks Alisa about her advice that a leader's job is not to make employees happy. Alisa explains that many founders and leaders, especially those new to management, mistakenly prioritize keeping everyone happy over driving business results. She describes how this misguided approach leads to avoiding difficult conversations and performance issues, ultimately harming the company's success.",
     "vocabulary_highlights": [
       "drive towards results",
-      "prioritize",
-      "leader",
-      "management"
+      "leader"
     ],
     "topics": [
       "Leadership & Management",
@@ -20,9 +18,9 @@
       "Executive Coaching",
       "Leadership Development"
     ],
-    "text_ko": "지금 모두가 사랑하는 리더가 되려고 노력하고 있지만, 사실 우리가 정말로 해야 하는 것은 결과를 이끌어내는 거예요. 이 직원이 계속해서 일을 잘 하지 못하는데, 그 사람을 밀어붙이기 싫어서 힘든 피드백을 주지 않으려는 경우가 많죠. 그래서 그냥 잘 되길 바라는 것만으로는 안 돼요. 결국, 이런 태도가 회사의 몰락으로 이어질 수 있어요.",
-    "text_zh": "他们现在试图成为大家都喜欢的领导，但实际上更需要的是，我们必须专注于结果。这个员工在工作中表现不佳，你不想给他们施加压力，因为你不想让他们不高兴。你也不想给他们带来困难的反馈，因此你只是希望事情能好转。最终，这会导致公司的衰败。",
-    "text_es": "Están tratando de ser el líder que todos aman, pero lo que realmente necesita suceder con frecuencia es que debemos enfocarnos en los resultados. Este empleado que sigue sin desempeñar bien su trabajo, no quieres presionarlo porque no quieres molestarlo. No quieres darle retroalimentación difícil, así que simplemente seguirás esperando que las cosas se resuelvan. En última instancia, eso lleva a la caída de tu empresa.",
+    "text_ko": "요즘은 다들 모두에게 사랑받는 리더가 되려고 하는데, 실제로 더 자주 필요한 건 결과를 향해 적극적으로 밀고 나가는 거예요.",
+    "text_zh": "他们现在想当那种人人都喜欢的领导，但很多时候真正需要的是，我们得专注于出结果。",
+    "text_es": "Ahora están tratando de ser el líder que le cae bien a todo el mundo, pero la realidad es que muchas veces lo que necesitamos es enfocarnos en conseguir resultados.",
     "key_sentence": "what really needs to happen very often is, we need to drive towards results.",
     "text_trimmed": true,
     "original_text": "They're trying now to be the leader who everyone loves, but what really needs to happen very often is, we need to drive towards results. This employee continuing to not really do a great job at their job, you don't want to push them because you don't want to upset them. You don't want to give them difficult feedback, so you're just going to keep hoping it works out. Ultimately, that leads to the demise of your company.",
@@ -43,20 +41,6 @@
         ]
       },
       {
-        "word": "prioritize",
-        "definition": "To arrange or deal with tasks or responsibilities in order of importance or urgency.",
-        "businessContext": "In a business environment, prioritizing is crucial for effective time management and resource allocation, ensuring that critical tasks are completed first.",
-        "nuance": "This term implies a strategic decision-making process, often requiring trade-offs between competing demands.",
-        "synonyms": [
-          "rank",
-          "order"
-        ],
-        "antonyms": [
-          "ignore",
-          "deprioritize"
-        ]
-      },
-      {
         "word": "leader",
         "definition": "An individual who guides or directs a group, organization, or project, often influencing others through vision and motivation.",
         "businessContext": "In corporate settings, a leader is expected to inspire teams, drive change, and make strategic decisions that align with the organization's goals.",
@@ -69,22 +53,10 @@
           "follower",
           "subordinate"
         ]
-      },
-      {
-        "word": "management",
-        "definition": "The process of planning, organizing, leading, and controlling resources within an organization to achieve specific goals.",
-        "businessContext": "In business, management encompasses various functions, including strategic planning, human resources, and financial oversight, all aimed at optimizing performance.",
-        "nuance": "While often associated with authority, management also implies a collaborative approach to guiding teams and projects towards success.",
-        "synonyms": [
-          "administration",
-          "supervision"
-        ],
-        "antonyms": [
-          "disorganization",
-          "chaos"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Hope for the future is so important. I know this is going to be challenging for you to hear, not going to promote you, but I want you to know this.",
@@ -94,8 +66,7 @@
     "vocabulary_highlights": [
       "challenging",
       "important",
-      "promote",
-      "conversation"
+      "promote"
     ],
     "topics": [
       "Communication Skills",
@@ -108,9 +79,9 @@
       "Executive Coaching",
       "Leadership Development"
     ],
-    "text_ko": "미래에 대한 희망은 정말 중요해요. 이 말을 듣기 힘들 수도 있다는 걸 알아요. 승진은 없겠지만, 이 점은 꼭 알고 있었으면 해요. 당신이 여기서 경력을 쌓는 게 저에게 정말 중요하고, 그래서 계속해서 당신이 기술을 쌓고 발전할 수 있는 기회를 찾는 데 도와주고 싶어요.",
-    "text_zh": "对未来的希望非常重要。我知道这对你来说可能很难接受，我不会给你晋升，但我希望你明白这一点。对我来说，你在这里的职业成功非常重要，因此我希望继续帮助你寻找机会，以提升你的技能和职业发展。",
-    "text_es": "La esperanza en el futuro es fundamental. Sé que esto puede ser difícil de escuchar, no te voy a promover, pero quiero que lo sepas. Me importa mucho que puedas tener éxito en tu carrera aquí, y por eso quiero seguir ayudándote a encontrar oportunidades para desarrollar tus habilidades y avanzar.",
+    "text_ko": "미래에 대한 희망은 정말 중요해요. 말씀드리기 힘들겠지만, 이번에는 승진 대상이 아니에요. 그래도 이 점은 꼭 알아줬으면 해요.",
+    "text_zh": "对未来要有希望，这点特别重要。我知道接下来这话你听了肯定不好受——我们不会提拔你，但我必须得让你知道这个情况。",
+    "text_es": "Mira, es muy importante que tengas esperanza en el futuro. Sé que lo que te voy a decir va a ser difícil de escuchar - no te vamos a ascender - pero quiero que sepas esto.",
     "key_sentence": "Hope for the future is important, even when it's challenging for you to hear.",
     "text_trimmed": true,
     "original_text": "Hope for the future is so important. I know this is going to be challenging for you to hear, not going to promote you, but I want you to know this. It's really important to me that you're able to succeed in your career here, and so I want to continue to help you find opportunities to build your skills and to advance.",
@@ -157,22 +128,10 @@
           "demote",
           "discourage"
         ]
-      },
-      {
-        "word": "conversation",
-        "definition": "A spoken exchange of thoughts, ideas, or feelings between two or more people.",
-        "businessContext": "In business, effective conversation is key for collaboration, negotiation, and relationship building among team members and stakeholders.",
-        "nuance": "While 'conversation' typically implies a casual dialogue, in a business context it can also refer to formal discussions that drive decision-making.",
-        "synonyms": [
-          "dialogue",
-          "discussion"
-        ],
-        "antonyms": [
-          "silence",
-          "disconnection"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "What I want to say to everybody is, sometimes you need to have patience and sometimes you need to look at the process.",
@@ -181,9 +140,7 @@
     "context": "Alisa shares a story about working with a CEO whose product launch kept getting delayed. The CEO believed he needed patience, but Alisa discovered underlying process problems involving an inexperienced product manager and team conflicts. She emphasizes that leaders must distinguish between situations requiring patience versus those needing process intervention, and stay close enough to operations to make this critical distinction.",
     "vocabulary_highlights": [
       "patience",
-      "process",
-      "underlying",
-      "inexperience"
+      "process"
     ],
     "topics": [
       "Leadership & Management",
@@ -196,9 +153,9 @@
       "Executive Coaching",
       "Leadership Development"
     ],
-    "text_ko": "제가 여러분에게 하고 싶은 말은, 가끔은 인내심이 필요하고, 가끔은 과정을 살펴봐야 한다는 거예요. 그리고 리더로서 여러분은 그 차이를 아는 지혜가 필요하다고 생각해요. 동시에 상황을 잘 파악해서, 이게 인내심의 문제인지 아니면 과정의 문제인지 알아차리는 것도 중요해요.",
-    "text_zh": "我想对大家说的是，有时候需要耐心，有时候需要关注过程。作为领导者，我认为你需要具备智慧来分辨两者的不同，同时也要时刻关注情况，以识别这是耐心的问题还是过程的问题。",
-    "text_es": "Lo que quiero decirles a todos es que a veces es necesario tener paciencia y otras veces hay que enfocarse en el proceso. Creo que, como líder, es fundamental tener la sabiduría para saber la diferencia, pero también estar atento para reconocer si se trata de un problema de paciencia o de proceso.",
+    "text_ko": "여러분께 드리고 싶은 말은, 때로는 기다릴 줄 알아야 하고 때로는 과정을 꼼꼼히 살펴봐야 한다는 거예요.",
+    "text_zh": "我想跟大家说的是，有时候你得有耐心，有时候你得看重过程。",
+    "text_es": "Lo que quiero decirles a todos es que a veces hay que tener paciencia y a veces hay que fijarse en cómo van las cosas.",
     "key_sentence": "sometimes you need to have patience and sometimes you need to look at the process.",
     "text_trimmed": true,
     "original_text": "What I want to say to everybody is, sometimes you need to have patience and sometimes you need to look at the process. And I think you, as the leader, need to have the wisdom to know the difference, but also your finger on the pulse to recognize, is this an issue with patience or an issue with process?",
@@ -231,36 +188,10 @@
           "disorder",
           "chaos"
         ]
-      },
-      {
-        "word": "underlying",
-        "definition": "Existing beneath the surface; fundamental or foundational to a situation or concept.",
-        "businessContext": "Identifying underlying issues in a business context can help in diagnosing problems and developing effective solutions.",
-        "nuance": "While 'underlying' often has a neutral connotation, it can imply that there are hidden complexities that need to be addressed.",
-        "synonyms": [
-          "fundamental",
-          "basic"
-        ],
-        "antonyms": [
-          "superficial",
-          "obvious"
-        ]
-      },
-      {
-        "word": "inexperience",
-        "definition": "The lack of practical experience or knowledge in a particular area or field.",
-        "businessContext": "In the startup world, inexperience can be a double-edged sword; it may lead to innovative ideas but can also result in costly mistakes.",
-        "nuance": "While inexperience can be seen as a disadvantage, it can also be associated with fresh perspectives and a willingness to learn.",
-        "synonyms": [
-          "novice",
-          "unfamiliarity"
-        ],
-        "antonyms": [
-          "expertise",
-          "experience"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "My three questions to end the meeting are, what did we decide here? Who needs to do what by when? And who else needs to know? And if you can capture those, articulate those as deliverables, I promise you, you're going to have better meetings.",
@@ -269,9 +200,7 @@
     "context": "Lenny asks Alisa about her advice for making meetings more effective. Alisa explains that many meetings fail because there's no continuity between sessions - teams keep re-meeting and re-deciding the same issues. Her three-question framework ensures meetings end with clear outcomes, accountability, and communication plans, preventing the common problem of endless unproductive meeting cycles.",
     "vocabulary_highlights": [
       "articulate",
-      "deliverables",
-      "continuity",
-      "effective"
+      "deliverables"
     ],
     "topics": [
       "Communication Skills",
@@ -317,36 +246,9 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "continuity",
-        "definition": "The unbroken and consistent existence or operation of something over a period of time.",
-        "businessContext": "In business, continuity is essential for maintaining operations during transitions, such as mergers or changes in leadership, and is often addressed in risk management strategies.",
-        "nuance": "While 'continuity' suggests stability, it can also imply resistance to change, which may not always be beneficial in a dynamic business environment.",
-        "synonyms": [
-          "consistency",
-          "stability"
-        ],
-        "antonyms": [
-          "disruption",
-          "interruption"
-        ]
-      },
-      {
-        "word": "effective",
-        "definition": "Successful in producing a desired or intended result.",
-        "businessContext": "In a business context, effectiveness is often measured by the achievement of goals and objectives, making it a key performance indicator for teams and individuals.",
-        "nuance": "While 'effective' focuses on results, it may not account for the efficiency of the processes used to achieve those results.",
-        "synonyms": [
-          "efficient",
-          "successful"
-        ],
-        "antonyms": [
-          "ineffective",
-          "unproductive"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "According to Noam, Noam Wasserstein, 65% of startups fail because of conflict with founders or the founding team. So it's really essential to get this right, and I agree that people step into this relationship with a lot less care than they should.",
@@ -356,8 +258,7 @@
     "vocabulary_highlights": [
       "essential",
       "conflict",
-      "relationship",
-      "co-founders"
+      "relationship"
     ],
     "topics": [
       "Starting a Company",
@@ -417,22 +318,9 @@
           "disconnection",
           "estrangement"
         ]
-      },
-      {
-        "word": "co-founders",
-        "definition": "Individuals who jointly establish a company or organization.",
-        "businessContext": "Co-founders play a pivotal role in shaping the vision, culture, and operational strategies of a startup, often sharing responsibilities and decision-making.",
-        "nuance": "The term 'co-founders' emphasizes collaboration and shared ownership, which can be crucial in establishing trust and accountability within a startup.",
-        "synonyms": [
-          "joint founders",
-          "founding partners"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I got onto the floor, my hardwood floors in my Brookline condo, and I just balled in the fetal position. I just balled and balled and balled for an hour. It wasn't 10 minutes, it was an hour.",
@@ -450,13 +338,14 @@
       "Executive Coaching",
       "Leadership Development"
     ],
-    "text_ko": "저는 브룩라인 콘도의 나무 바닥에 무릎을 꿇고 fetal position(태아 자세)으로 웅크리고 있었어요. 한 시간 동안 계속 울었어요. 10분이 아니라 정말 한 시간 동안이었죠. 너무 무섭고 속상했어요. 이걸 잘 해낼 수 있을까?",
-    "text_zh": "我躺在布鲁克莱恩公寓的木地板上，蜷缩成 fetal position（胎儿姿势），哭了整整一个小时。不是十分钟，而是一个小时。我感到非常害怕和沮丧。我能否让这一切成功呢？",
-    "text_es": "Me tiré al suelo, en el piso de madera de mi condominio en Brookline, y simplemente me acurruqué en posición fetal. Lloré y lloré durante una hora. No fueron 10 minutos, fueron una hora. Estaba tan asustado y molesto. ¿Voy a poder hacer que esto funcione?",
+    "text_ko": "브룩라인에 있는 제 콘도의 원목 마루에 주저앉아 태아 자세로 몸을 웅크리고 한 시간 내내 계속 펑펑 울었어요. 10분이 아니라 진짜 한 시간이었어요.",
+    "text_zh": "我直接躺在了我布鲁克莱恩公寓的木地板上，像婴儿一样蜷缩着，就这么哭，一直哭一直哭，整整哭了一个小时。不是十分钟，是整整一个小时。",
+    "text_es": "Me tiré al suelo, al piso de madera de mi departamento en Brookline, y me hice bolita en posición fetal. Lloré y lloré sin parar durante una hora entera. No fueron 10 minutos, fue una hora completa.",
     "key_sentence": "I just balled in the fetal position.",
     "text_trimmed": true,
     "original_text": "I got onto the floor, my hardwood floors in my Brookline condo, and I just balled in the fetal position. I just balled and balled and balled for an hour. It wasn't 10 minutes, it was an hour. And I was so frightened and just upset. Am I going to be able to make this work?",
     "vocab_reparsed": true,
-    "vocabulary": []
+    "vocabulary": [],
+    "translations_regenerated": true
   }
 ]

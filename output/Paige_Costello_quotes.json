@@ -20,9 +20,9 @@
       "Product Management",
       "Marketing Strategy"
     ],
-    "text_ko": "제가 드리고 싶은 말은 인사이트(insight)를 가져오라는 거예요. 고객을 알아야 해요. 시장을 알아야 해요. 경쟁자를 알아야 해요. 숫자를 알아야 해요. 제품(product)을 알아야 해요. 만약 그 자리에서 고객이 제품을 쓰는 모습을 직접 지켜봤고, 특정 툴(tool)이 어떤 차원(dimension)에서 훨씬 낫거나 못한지에 대해 자신 있고 명확한 관점(point of view)을 말할 수 있는 사람이라면, 상대방의 기능 영역(functional domain)을 알 필요도 없고 그들이 전문인 분야의 전문성(expertise)을 알 필요도 없어요. 그런 사람은 사람들로 하여금 호기심을 갖게 하고 당신을 신뢰하게 만들며, 당신이 굳이 밀어붙이지 않아도 그 기회(opportunity)가 분명히 존재한다고 바로 믿게 만들 수 있어요.",
-    "text_zh": "我想说的就是，你得带着洞察力来。要了解你的客户，了解你的市场，了解你的竞争对手，了解你的数据，了解你的产品。如果你能成为房间里那个真正观察过客户怎么使用产品的人，能说出为什么某个工具在某个方面明显更好或更差，而且你说得很有底气很清楚，这时候你不需要懂别人专业领域的东西，不需要在他们擅长的地方也成为专家，你照样能提供让人眼前一亮的洞察，让大家对你产生好奇心，信任你，马上就相信确实存在这样一个机会——而且你不是在推销什么，这就是事实。",
-    "text_es": "Lo que yo diría es: trae perspectiva a la mesa. Conoce a tu cliente a fondo. Conoce tu mercado. Conoce a tu competencia. Conoce tus números. Conoce tu producto. Si puedes ser esa persona en la sala que realmente ha visto cómo los clientes usan el producto y tiene una opinión fundamentada sobre por qué una herramienta es significativamente mejor o peor en cierto aspecto, y puedes comunicarlo con confianza y claridad, no necesitas dominar el área funcional de la otra persona ni ser experto en lo suyo. Puedes aportar esa perspectiva que despierta curiosidad en la gente, que genera confianza, y que inmediatamente les hace ver que hay una oportunidad real que no estás tratando de vender, sino que simplemente existe.",
+    "text_ko": "제가 하고 싶은 말은 인사이트(insight)를 가져오라는 거예요. 고객(customer), 시장(market), 경쟁사(competitors), 숫자(numbers), 제품(product)을 정확히 파악해야 해요.",
+    "text_zh": "我想说的是：带着洞察去做。弄清楚你的客户、你的市场、你的竞争对手、你的关键数据(numbers)和你的产品。",
+    "text_es": "Yo diría: aporta una perspectiva clave (insight). Conoce bien a tu cliente, a tu mercado, a tus competidores, tus números y tu producto.",
     "key_sentence": "Bring the insight to know thy customer, market, and competitors.",
     "text_trimmed": true,
     "original_text": "The thing I would say is bring the insight. Know thy customer. Know thy market. Know thy competitors. Know thy numbers. Know thy product. If you can be the person in the room who has watched customers use the product and has a point of view about why one tool is significantly better or worse in a given dimension, and you can do that with confidence and clarity, and you don't need to know the other person's functional domain, and you don't need the expertise in what they're experts at, you can bring insight that makes people curious, and trust you, and just immediately believe that there's an opportunity that you're not advocating for that just is true.",
@@ -84,7 +84,8 @@
           "N/A"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "Your brain is so accustomed to having a scarcity mindset as opposed to creating alternative options or seeing a different path.",
@@ -94,7 +95,6 @@
     "vocabulary_highlights": [
       "scarcity mindset",
       "alternative options",
-      "limited options",
       "different path"
     ],
     "topics": [
@@ -108,9 +108,9 @@
       "Product Management",
       "Marketing Strategy"
     ],
-    "text_ko": "우리의 뇌는 대안을 만들거나 다른 길을 찾아보는 대신, 결핍 마인드셋(scarcity mindset)에 너무 익숙해져 있어요. 사실 핵심은 '반대가 어떻게 사실일 수 있을까?'라는 질문을 해보는 거예요. 제가 그 질문을 스스로에게 던졌을 때 어깨가 확 내려가고 훨씬 편안해졌어요. '아, 저도 둘 다 할 수 있겠네. 괜찮을 거예요.'라고 느꼈어요.",
-    "text_zh": "你的大脑已经习惯了匮乏思维(scarcity mindset)，而不是去想其他的选择或者看到不同的路径。其实有这样一个概念：\"反过来想会怎样？\"当我开始挑战自己，问自己\"反过来想会怎样？\"的时候，我整个人都放松下来了。肩膀也不那么紧绷了，感觉轻松多了。我就想，\"哦对啊，我完全可以两个都做，没什么大不了的。\"",
-    "text_es": "Tu cerebro está tan acostumbrado a tener una mentalidad de escasez en lugar de crear alternativas o ver un camino diferente. En realidad, existe esta idea de \"¿Cómo podría ser cierto lo contrario?\" En el momento que me desafié y me dije \"¿Cómo podría ser cierto lo contrario?\" se me relajaron los hombros. Me sentí más tranquilo. Fue como \"Ah, sí, puedo hacer ambas cosas. Va a estar bien.\"",
+    "text_ko": "당신의 머리는 대안을 만들어내거나 다른 길을 찾아보는 것보다 결핍 마인드셋(scarcity mindset)에 훨씬 더 익숙해져 있어요.",
+    "text_zh": "你已经太习惯用匮乏心态 (scarcity mindset) 来看问题了，不去想着找替代方案，也看不到别的路。",
+    "text_es": "Tu mente está tan acostumbrada a la mentalidad de escasez que no crea alternativas ni ve otros caminos.",
     "key_sentence": "Your brain is so accustomed to having a scarcity mindset as opposed to creating alternative options.",
     "text_trimmed": true,
     "original_text": "Your brain is so accustomed to having a scarcity mindset as opposed to creating alternative options or seeing a different path. Effectively, there's this notion of, \"How might the opposite be true?\" The moment I challenged myself and said, \"How might the opposite be true?\" my shoulders dropped. I felt more relaxed. I was like, \"Oh, yeah, I can do both. It will be fine.\"",
@@ -145,20 +145,6 @@
         ]
       },
       {
-        "word": "limited options",
-        "definition": "A situation where there are few choices available, often resulting in constrained decision-making.",
-        "businessContext": "Limited options can arise in competitive markets or during resource shortages, impacting a company's ability to innovate or respond to customer needs effectively.",
-        "nuance": "This phrase often suggests a negative scenario, indicating a lack of flexibility or potential drawbacks in a decision-making process.",
-        "synonyms": [
-          "restricted choices",
-          "few alternatives"
-        ],
-        "antonyms": [
-          "abundant options",
-          "wide range"
-        ]
-      },
-      {
         "word": "different path",
         "definition": "An alternative route or course of action that diverges from the conventional or expected approach.",
         "businessContext": "In business, choosing a different path can lead to unique strategies that differentiate a company from its competitors and foster innovation.",
@@ -172,19 +158,16 @@
           "conventional route"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "spend time watching customers use the product firsthand... you really just need that front row seat with customers.",
     "speaker": "Paige Costello",
     "timestamp": "00:24:46",
     "context": "Lenny asks how to gain the customer insights needed to build trust and credibility as a product manager. Paige emphasizes the importance of directly observing customers using your product rather than relying solely on research reports. She warns that in companies with strong internal usage cultures (dogfooding), teams can become disconnected from how real customers actually behave, making firsthand customer observation even more critical for product success.",
-    "vocabulary_highlights": [
-      "insights",
-      "credibility",
-      "observe",
-      "importance"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Learning & Growth"
@@ -195,71 +178,16 @@
       "Product Management",
       "Marketing Strategy"
     ],
-    "text_ko": "새 역할을 맡으면 연구자와 친해지고 고객이 제품을 쓰는 모습을 현장에서 직접 오래 지켜보세요. 고객들이 보고하는 것이나 연구에서 다루려는 내용과 실제 관찰되는 건 꽤 다를 수 있거든요. 결국 고객 곁에서 직접 보는 앞줄 자리가 필요해요. 그러면 조직이 누구를 잘 도와주고 못 도와주는지, 사람들이 제품을 실제로 어떻게 쓰는지와 팀들이 내부적으로 쓰는 방식의 차이를 빠르게 파악하는 데 생각보다 많은 노력이 들지 않는다는 걸 금방 알게 될 거예요. 특히 도그푸딩 문화(dogfooding culture)가 강한 조직일수록 그 차이는 더 큽니다.",
-    "text_zh": "刚到新岗位的时候，一定要跟研究员搞好关系，多花时间直接观察用户怎么用产品，因为他们汇报的内容或者研究的东西，可能跟你实际看到的完全不一样。你真的需要跟用户面对面接触。其实你不用做太多，就能很快搞清楚公司到底为哪些用户解决得好，哪些解决得不好，还有用户真实的使用习惯跟你们团队内部的使用习惯差别有多大，特别是那些很喜欢内部试用产品(dogfooding)的公司。",
-    "text_es": "Cuando agarres un puesto nuevo, hazte súper amigo de alguien de investigación y dedica tiempo a ver de primera mano cómo los clientes usan el producto, porque lo que tal vez reporten o lo que estén tratando de estudiar puede ser muy diferente de lo que tú observes. Pero de verdad necesitas ese asiento en primera fila con los clientes. Es increíble lo poco que tienes que hacer para ponerte al día rápido y entender para quién está resolviendo bien la organización y para quién mal, y cómo la gente realmente usa tu producto versus cómo lo usan tus equipos, especialmente en organizaciones donde hay mucha cultura de dogfooding.",
+    "text_ko": "시간을 할애해 고객들이 제품을 직접 사용하는 모습을 관찰하세요. 고객들 바로 옆에서 지켜보는 '맨 앞자리'면 충분해요.",
+    "text_zh": "花时间亲自看客户怎么用产品。其实你只需要坐在客户的前排，近距离观察就行。",
+    "text_es": "Dedica tiempo a ver de primera mano cómo los clientes usan el producto. De verdad, lo único que necesitas es estar en primera fila con ellos.",
     "key_sentence": "you really just need that front row seat with customers.",
     "text_trimmed": true,
     "original_text": "When you take a new role, become best friends with a researcher, and spend time watching customers use the product firsthand because what they maybe report on or are trying to do a study about might be very different from what you observe, but you really just need that front row seat with customers. It's amazing how little you have to do to quickly catch up to understanding who the organization is solving for well and poorly, and how people really use your product versus how your teams use your product, especially in organizations where there are heavy dogfooding cultures.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "insights",
-        "definition": "Insights are deep understandings or realizations about a particular subject or situation, often derived from analysis or observation.",
-        "businessContext": "In business and tech, insights are crucial for making informed decisions, as they help identify customer needs, market trends, and areas for improvement.",
-        "nuance": "While 'insights' imply a level of depth and understanding, it is important to ensure they are based on data or thorough observation rather than assumptions.",
-        "synonyms": [
-          "understandings",
-          "revelations"
-        ],
-        "antonyms": [
-          "ignorance",
-          "misconceptions"
-        ]
-      },
-      {
-        "word": "credibility",
-        "definition": "Credibility refers to the quality of being trusted and believed in, often based on expertise, reliability, and integrity.",
-        "businessContext": "In business, credibility is essential for building relationships with customers, investors, and stakeholders, as it influences trust and decision-making.",
-        "nuance": "Credibility can be easily lost through misinformation or unethical practices, making it vital to maintain transparency and consistency.",
-        "synonyms": [
-          "trustworthiness",
-          "reliability"
-        ],
-        "antonyms": [
-          "discredit",
-          "distrust"
-        ]
-      },
-      {
-        "word": "observe",
-        "definition": "To observe means to watch attentively in order to gain information or insight about a subject or situation.",
-        "businessContext": "In a business context, observing customer behavior can provide valuable data that informs product development and marketing strategies.",
-        "nuance": "While 'observe' suggests passive watching, it can also imply active engagement when seeking to understand complex behaviors or interactions.",
-        "synonyms": [
-          "monitor",
-          "witness"
-        ],
-        "antonyms": [
-          "ignore",
-          "overlook"
-        ]
-      },
-      {
-        "word": "importance",
-        "definition": "Importance refers to the significance or value of something in a particular context, often determining its priority or relevance.",
-        "businessContext": "Recognizing the importance of customer feedback can drive innovation and improve product offerings, making it a key focus for startups and established companies alike.",
-        "nuance": "While 'importance' denotes a high level of significance, it is often relative and can vary based on individual perspectives or organizational goals.",
-        "synonyms": [
-          "significance",
-          "value"
-        ],
-        "antonyms": [
-          "triviality",
-          "insignificance"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Always answer the question that they should have asked. I was pretty surprised by that advice because it was very profound in the moment because I think when you're a student and you are accustomed... If you're an achiever, you like to get As.",
@@ -269,8 +197,7 @@
     "vocabulary_highlights": [
       "profound",
       "achiever",
-      "accustomed",
-      "high-stakes"
+      "accustomed"
     ],
     "topics": [
       "Communication Skills",
@@ -283,9 +210,9 @@
       "Product Management",
       "Marketing Strategy"
     ],
-    "text_ko": "항상 상대가 물어봤어야 할 질문에 답해 주세요. 그 말을 듣고 좀 놀랐어요 — 그 순간에는 꽤 깊게 와닿았거든요. 학생 시절, 성적(A)을 잘 받는 데 익숙한 사람이라면 질문을 들으면 그냥 그 질문에 답하는 습관이 있잖아요. 하지만 제가 거기서 배운 건, 회의나 대화에서는 사실 한 단계 위의 관점, 즉 다른 전략적 포인트(point of strategy)를 갖고 더 중요한 쟁점이나 큰 그림(big picture), 질문한 사람이 보지 못했거나 고려하지 않았을지도 모르는 대안까지 챙겨야 한다는 거예요.",
-    "text_zh": "要回答他们本来应该问的问题。当时听到这个建议我挺意外的，因为那一刻感觉特别有道理。我觉得当你还是学生的时候，你已经习惯了...如果你是那种追求优秀的人，喜欢拿A，你可能听到问题就直接回答了。但我从中学到的是，其实还有另一个层面，另一种策略思维——在开会或者聊天的时候，要确保你说的是更重要的点，更大的格局，或者是提问的人可能没看到或者没考虑到的其他可能性。",
-    "text_es": "Siempre responde la pregunta que realmente deberían haber hecho. Me sorprendió bastante ese consejo porque fue muy profundo en ese momento, porque creo que cuando eres estudiante y estás acostumbrado... Si eres de los que siempre busca destacar, te gusta sacar buenas notas. Probablemente vas a escuchar una pregunta y la contestas tal como te la hicieron. Pero lo que aprendí de eso es que en realidad hay otro nivel, otro punto estratégico cuando estás en una junta o en una conversación: asegurarte de que estás cubriendo el punto más importante, el panorama general, la alternativa que quizás la persona que hizo la pregunta no vio o no consideró.",
+    "text_ko": "항상 그들이 물어봤어야 할 질문에 답하세요. 그 조언에 저는 꽤 놀랐어요. 그 순간 정말 깊게 와닿았거든요. 학생일 때 익숙해진 습관 때문인 것 같아요. 성취형이라면 A 학점을 받는 걸 좋아하잖아요.",
+    "text_zh": "总是去回答他们本该问的问题。那句话当时让我挺惊讶，也很有启发——我觉得当你还是学生、习惯按题目走的时候，如果你是那种拼成绩的人，你就想拿A（A）。",
+    "text_es": "Siempre responde a la pregunta que deberían haber hecho. Ese consejo me sorprendió bastante; en su momento me pareció muy profundo, porque cuando eres estudiante y estás acostumbrado... Si eres de los que quieren destacar, te obsesionas con sacar las mejores notas.",
     "key_sentence": "Answer the question they should have asked for another altitude in strategy.",
     "text_trimmed": true,
     "original_text": "Always answer the question that they should have asked. I was pretty surprised by that advice because it was very profound in the moment because I think when you're a student and you are accustomed... If you're an achiever, you like to get As. You're probably going to hear a question and answer it. But what I learned from that was that there's actually another altitude, another point of strategy when you're in a meeting or in a conversation to make sure that you're covering the more important point, the bigger picture, the alternative that the person asking the question maybe didn't see or consider.",
@@ -332,22 +259,10 @@
           "unaccustomed",
           "inexperienced"
         ]
-      },
-      {
-        "word": "high-stakes",
-        "definition": "Involving a high level of risk or significant consequences; situations where the outcomes are critical and impactful.",
-        "businessContext": "High-stakes negotiations often require careful strategy and preparation, as the results can greatly affect the future of a business or partnership.",
-        "nuance": "This term is often used in contexts where the pressure is intense, and it may imply that the stakes are too high for casual or unprepared engagement.",
-        "synonyms": [
-          "critical",
-          "high-pressure"
-        ],
-        "antonyms": [
-          "low-stakes",
-          "safe"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I would say this illusion that you have to be all-knowing and super confident sets you up to be in a place of advocacy instead of inquiry.",
@@ -357,8 +272,7 @@
     "vocabulary_highlights": [
       "advocacy",
       "inquiry",
-      "illusion",
-      "pressure"
+      "illusion"
     ],
     "topics": [
       "Product Management",
@@ -371,9 +285,9 @@
       "Product Management",
       "Marketing Strategy"
     ],
-    "text_ko": "제가 보기엔 '모든 걸 다 알고 완전 자신감 있어야 해'라는 착각이 오히려 당신을 탐구(inquiry) 대신 옹호(advocacy)의 위치에 놓이게 해요. 그래서 경력이 짧은 PM들(Product Managers)이나 익숙한 분야가 아닌 다른 영역에서 일하는 사람들은 빨리 프로(pro)가 되고 싶어해요. 그런데 '프로'라는 건 보통 바로 그 지름길을 택하려는 거고, 그게 오히려 당신을 더 똑똑하게 만들어 줄 정보나 대화를 줄여버릴 수 있어요.",
-    "text_zh": "我觉得这种认为自己必须什么都懂、超级自信的错觉，会让你变成只会争辩而不会提问的人。所以那些刚入行的产品经理(PM)，或者是刚换到不熟悉领域的PM，都特别想快速变成专家。但是所谓的专家就是想走捷径，这样反而会错过很多让你变聪明的信息和讨论机会。",
-    "text_es": "Yo diría que esa ilusión de que tienes que saberlo todo y ser súper seguro te lleva a ponerte en modo defensa en lugar de estar preguntando y aprendiendo. Entonces los PMs que están empezando en sus carreras o que están en un área diferente a la que están acostumbrados, realmente quieren verse como profesionales muy rápido. Y ser \"pro\" significa tratar de ir directo al grano, pero eso puede limitar la información y las conversaciones que te hacen más inteligente.",
+    "text_ko": "제가 보기에는 모든 걸 다 알아야 하고 지나치게 확신해야 한다는 착각이 오히려 탐구(inquiry) 대신 옹호(advocacy)의 입장에 서게 만들어요.",
+    "text_zh": "我觉得那种非得无所不知、特别自信的错觉，会让你更容易为自己辩护(advocacy)，而不是带着好奇心去探究(inquiry)。",
+    "text_es": "Diría que esa ilusión de tener que saberlo todo y aparentar total seguridad te coloca en una posición de defensa (advocacy) en lugar de una de indagación (inquiry).",
     "key_sentence": "this illusion that you have to be all-knowing and super confident sets you up to be in a place of advocacy instead of inquiry.",
     "text_trimmed": true,
     "original_text": "I would say this illusion that you have to be all-knowing and super confident sets you up to be in a place of advocacy instead of inquiry. So PMs who are newer in their careers or who are in a different space than they're accustomed to working really want to be pro really fast. What pro means is trying to cut that straight path, and that can reduce information and conversation that makes you smarter.",
@@ -420,34 +334,17 @@
           "reality",
           "truth"
         ]
-      },
-      {
-        "word": "pressure",
-        "definition": "Pressure refers to the exertion of force or influence on someone or something, often resulting in stress or urgency.",
-        "businessContext": "In a business context, pressure can arise from deadlines, competition, or stakeholder expectations, influencing decision-making and performance.",
-        "nuance": "While pressure can drive productivity, excessive pressure may lead to burnout or poor decision-making, making it important to manage effectively.",
-        "synonyms": [
-          "stress",
-          "coercion"
-        ],
-        "antonyms": [
-          "relaxation",
-          "ease"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I would go to my meetings with a stack of Post-Its, and I would write what I wish I was saying on Post-Its and see if someone else would say it first.",
     "speaker": "Paige Costello",
     "timestamp": "00:49:57",
     "context": "Paige shares a mistake she made when transitioning from individual contributor to manager - the challenge of giving guidance without micromanaging. She describes a technique she developed using Post-It notes to control her impulse to immediately share her thoughts in meetings. By writing down what she wanted to say and waiting to see if others would contribute first, she learned to create space for her team to speak up while still ensuring important points got covered.",
-    "vocabulary_highlights": [
-      "guidance",
-      "micromanaging",
-      "technique",
-      "individual contributor"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Leadership & Management",
       "Coaching & Development"
@@ -458,70 +355,15 @@
       "Product Management",
       "Marketing Strategy"
     ],
-    "text_ko": "회의에 포스트잇(Post-its)을 잔뜩 들고 가서, 하고 싶었던 말들을 포스트잇에 적어놔서 누가 먼저 그 말을 하는지 지켜봤어요. 회의가 끝날 때까지도 그중 한두 장이 쓸 만하다고 판단되면 제가 그때 꺼내 말했죠. 다만 스스로를 잘 통제해야 해요. 다른 사람이 대신해주지 않으니까요 — 아무리 친근하게 보여도 사람들은 당신이 상사라는 걸 알거든요.",
-    "text_zh": "我开会的时候会带一摞便利贴，把想说的话先写在上面，看看会不会有别人先说出来。如果到会议结束时，我觉得手里还有一两张便利贴上的内容值得说，我才会开口。但你得自己管住自己，因为没人会替你做这件事——不管你觉得自己多么平易近人，别人心里都清楚你是老板。",
-    "text_es": "Yo iba a las reuniones con un montón de Post-Its, y escribía lo que quería decir en los papelitos para ver si alguien más lo decía primero. Entonces, si al final de la reunión todavía tenía uno o dos Post-Its que valían la pena, los decía. Pero tienes que controlarte solo porque nadie más lo va a hacer - no importa qué tan accesible te creas, los demás saben que tú eres el jefe.",
+    "text_ko": "회의에 포스트잇(Post-It) 한 더미를 들고 가서, 하고 싶은 말을 미리 적어두고 누가 먼저 그 말을 하는지 지켜봤어요.",
+    "text_zh": "我去开会的时候会带一叠便利贴(Post-Its)，把我想说但没说出来的话写在上面，等着看有没有人先说出来。",
+    "text_es": "Iba a las reuniones con una pila de notas adhesivas (Post-Its); escribía en ellas lo que me gustaría decir y esperaba a ver si alguien más lo decía primero.",
     "key_sentence": "I would write what I wish I was saying on Post-Its and see if someone else would say it first.",
     "text_trimmed": true,
     "original_text": "I would go to my meetings with a stack of Post-Its, and I would write what I wish I was saying on Post-Its and see if someone else would say it first. Then, if by the end of the meeting, I had decided that I still had a Post-It or two that was worthwhile, I would say them. But you've got to police yourself because no one else will do it because no matter how accessible you think you are, other people know that you're the boss.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "guidance",
-        "definition": "Advice or information aimed at resolving a problem or difficulty; direction.",
-        "businessContext": "In business settings, guidance often refers to the support provided by leaders or mentors to help employees navigate challenges and make informed decisions.",
-        "nuance": "While guidance implies support and direction, it should not be confused with authoritarian control; it is more about facilitation than dictation.",
-        "synonyms": [
-          "advice",
-          "direction"
-        ],
-        "antonyms": [
-          "confusion",
-          "misguidance"
-        ]
-      },
-      {
-        "word": "micromanaging",
-        "definition": "The act of closely observing or controlling the work of subordinates to an excessive degree.",
-        "businessContext": "In a corporate environment, micromanaging can lead to decreased employee morale and productivity, as it undermines trust and autonomy.",
-        "nuance": "Micromanaging is generally viewed negatively, as it suggests a lack of confidence in employees' abilities and can stifle creativity.",
-        "synonyms": [
-          "overseeing",
-          "controlling"
-        ],
-        "antonyms": [
-          "delegating",
-          "empowering"
-        ]
-      },
-      {
-        "word": "technique",
-        "definition": "A specific method or way of doing something, often involving skill or expertise.",
-        "businessContext": "In business and technology, techniques are often developed to improve processes, enhance productivity, or solve specific problems.",
-        "nuance": "While 'technique' can imply a systematic approach, it may also suggest a level of sophistication or specialization in execution.",
-        "synonyms": [
-          "method",
-          "approach"
-        ],
-        "antonyms": [
-          "incompetence",
-          "ineptitude"
-        ]
-      },
-      {
-        "word": "individual contributor",
-        "definition": "An employee who is responsible for their own work and contributions, rather than managing others.",
-        "businessContext": "In many organizations, individual contributors play a crucial role in executing tasks and projects, often bringing specialized skills to the team.",
-        "nuance": "The term emphasizes the value of personal contribution and expertise, distinguishing these roles from managerial positions.",
-        "synonyms": [
-          "team member",
-          "staff member"
-        ],
-        "antonyms": [
-          "manager",
-          "supervisor"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

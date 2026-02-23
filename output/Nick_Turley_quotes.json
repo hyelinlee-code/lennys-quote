@@ -6,9 +6,7 @@
     "context": "Lenny asks Nick about the development philosophy at OpenAI and how they approach product releases. Nick explains that AI products have unique characteristics where the most valuable features and improvements only become clear after users interact with the product in the real world. He emphasizes that unlike traditional software where you can predict user behavior, AI capabilities are often emergent and unpredictable, making rapid iteration essential for learning what actually works.",
     "vocabulary_highlights": [
       "polish",
-      "ship",
-      "development philosophy",
-      "valuable features"
+      "ship"
     ],
     "topics": [
       "Product Management",
@@ -54,36 +52,9 @@
           "delay",
           "withhold"
         ]
-      },
-      {
-        "word": "development philosophy",
-        "definition": "A set of guiding principles and beliefs that inform the approach to product development and design.",
-        "businessContext": "In tech and startups, a development philosophy shapes how teams prioritize features, manage workflows, and respond to user feedback, influencing overall project success.",
-        "nuance": "This term often reflects a company's culture and values, making it important to align development philosophy with broader organizational goals.",
-        "synonyms": [
-          "development approach",
-          "design philosophy"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "valuable features",
-        "definition": "Attributes or functionalities of a product that provide significant benefits to users, enhancing its overall utility and appeal.",
-        "businessContext": "Identifying and prioritizing valuable features is crucial in product management, as they directly impact user satisfaction and market competitiveness.",
-        "nuance": "The term suggests a focus on user needs and market demands, making it essential to differentiate between essential and non-essential features in product development.",
-        "synonyms": [
-          "key functionalities",
-          "essential attributes"
-        ],
-        "antonyms": [
-          "superfluous features",
-          "unnecessary attributes"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I just really want to jump to the punchline, 'Why can't we do this now?' I always felt like part of my role here is to just set the pace and the resting heartbeat.",
@@ -91,10 +62,7 @@
     "timestamp": "00:00:38",
     "context": "Lenny asks about Nick's principle of 'maximally accelerated' development that Kevin Weil mentioned. Nick explains his philosophy of cutting through blockers and instilling urgency in teams by always questioning why something can't be done immediately. He describes his role as setting the tempo for the entire organization, using the metaphor of a 'resting heartbeat' to describe the natural pace at which teams operate when not under specific pressure.",
     "vocabulary_highlights": [
-      "set the pace",
-      "instilling urgency",
-      "cutting through blockers",
-      "maximally accelerated"
+      "set the pace"
     ],
     "topics": [
       "Leadership & Management",
@@ -126,50 +94,9 @@
           "fall behind",
           "lag"
         ]
-      },
-      {
-        "word": "instilling urgency",
-        "definition": "The act of creating a sense of immediacy or importance around a task or objective.",
-        "businessContext": "In a business environment, instilling urgency can drive teams to prioritize tasks and meet deadlines, particularly in fast-paced industries like tech and startups.",
-        "nuance": "This phrase carries a motivational connotation and is often used in contexts where quick action is necessary; however, it should be used judiciously to avoid causing undue stress.",
-        "synonyms": [
-          "creating immediacy",
-          "fostering promptness"
-        ],
-        "antonyms": [
-          "promoting complacency",
-          "encouraging delay"
-        ]
-      },
-      {
-        "word": "cutting through blockers",
-        "definition": "The process of identifying and overcoming obstacles that hinder progress or productivity.",
-        "businessContext": "In business, cutting through blockers is essential for maintaining workflow and ensuring that projects move forward without unnecessary delays.",
-        "nuance": "This phrase implies a proactive and decisive approach to problem-solving; it is best used in discussions about overcoming challenges in project management.",
-        "synonyms": [
-          "overcoming obstacles",
-          "removing barriers"
-        ],
-        "antonyms": [
-          "creating obstacles",
-          "hinder progress"
-        ]
-      },
-      {
-        "word": "maximally accelerated",
-        "definition": "Achieving the highest possible speed or efficiency in a process or operation.",
-        "businessContext": "In a business context, maximally accelerated refers to optimizing processes to achieve rapid results, often seen in high-stakes environments like startups or tech innovations.",
-        "nuance": "This phrase suggests an extreme level of efficiency and urgency; it is best used when discussing ambitious goals or high-performance expectations.",
-        "synonyms": [
-          "fully expedited",
-          "rapidly enhanced"
-        ],
-        "antonyms": [
-          "minimally slowed",
-          "delayed"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I'm baffled by how much it took off, even more baffled by how many people have copied. Chat was the simplest way to ship at that time.",
@@ -263,9 +190,6 @@
     "timestamp": "00:01:06",
     "context": "Lenny asks Nick about the future direction of ChatGPT and what a more evolved version might look like. Nick uses a computer history analogy to explain that the current chat interface, while successful, is still a primitive way to interact with AI - similar to how MS-DOS was functional but not intuitive. He suggests that there will eventually be a breakthrough in AI interface design that will be as transformative as the graphical user interface was to personal computers, making the interaction much more natural and powerful.",
     "vocabulary_highlights": [
-      "evolved",
-      "interface",
-      "analogy",
       "obvious"
     ],
     "topics": [
@@ -286,48 +210,6 @@
     "vocab_reparsed": true,
     "vocabulary": [
       {
-        "word": "evolved",
-        "definition": "Developed gradually, especially from a simple to a more complex form.",
-        "businessContext": "In business and technology, 'evolved' often refers to the progression of products, services, or strategies as they adapt to changing market demands or technological advancements.",
-        "nuance": "While 'evolved' suggests positive growth and improvement, it can imply that the previous state was inadequate or outdated.",
-        "synonyms": [
-          "developed",
-          "progressed"
-        ],
-        "antonyms": [
-          "regressed",
-          "stagnated"
-        ]
-      },
-      {
-        "word": "interface",
-        "definition": "A point where two systems, subjects, or organizations meet and interact.",
-        "businessContext": "In tech and business, 'interface' commonly refers to user interfaces in software or the interaction between different systems or departments within an organization.",
-        "nuance": "The term can imply a focus on usability and design in technology, whereas in other contexts, it may simply refer to any interaction point.",
-        "synonyms": [
-          "interaction",
-          "connection"
-        ],
-        "antonyms": [
-          "disconnection",
-          "separation"
-        ]
-      },
-      {
-        "word": "analogy",
-        "definition": "A comparison between two things, typically for the purpose of explanation or clarification.",
-        "businessContext": "In business discussions, 'analogy' is often used to simplify complex concepts by relating them to familiar ideas, which can enhance understanding during presentations or strategy discussions.",
-        "nuance": "While analogies can clarify, they can also oversimplify or misrepresent the complexities of a situation if not used carefully.",
-        "synonyms": [
-          "comparison",
-          "metaphor"
-        ],
-        "antonyms": [
-          "contrast",
-          "difference"
-        ]
-      },
-      {
         "word": "obvious",
         "definition": "Easily perceived or understood; clear, self-evident.",
         "businessContext": "In business settings, 'obvious' may refer to insights or trends that are apparent to stakeholders, often used to emphasize the need for action or change.",
@@ -341,7 +223,8 @@
           "unclear"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "Amazing ideas come from anywhere. The thing about running a research lab is you really don't tell people what to research. That's not what you do.",
@@ -349,10 +232,7 @@
     "timestamp": "01:03:11",
     "context": "Lenny asks about the most counterintuitive lessons Nick has learned building products at OpenAI compared to traditional tech companies like Dropbox and Instacart. Nick explains how OpenAI inherited a research culture where innovation emerges organically from empowered individuals rather than top-down direction. He contrasts this with typical corporate structures where product managers act as gatekeepers, arguing that OpenAI's approach of letting smart people pursue their ideas has been crucial to their success.",
     "vocabulary_highlights": [
-      "counterintuitive",
-      "research lab",
-      "traditional",
-      "building products"
+      "research lab"
     ],
     "topics": [
       "Leadership & Management",
@@ -372,20 +252,6 @@
     "vocab_reparsed": true,
     "vocabulary": [
       {
-        "word": "counterintuitive",
-        "definition": "Contrary to what one would intuitively expect; something that goes against common sense or initial assumptions.",
-        "businessContext": "In business and innovation, counterintuitive ideas can lead to breakthroughs by challenging conventional wisdom, often resulting in unique solutions or strategies.",
-        "nuance": "While counterintuitive concepts may seem illogical at first, they can be highly valuable in fostering creativity and encouraging out-of-the-box thinking.",
-        "synonyms": [
-          "unexpected",
-          "paradoxical"
-        ],
-        "antonyms": [
-          "intuitive",
-          "expected"
-        ]
-      },
-      {
         "word": "research lab",
         "definition": "A controlled environment where scientific research and experimentation are conducted, often equipped with specialized tools and resources.",
         "businessContext": "In tech startups and pharmaceutical companies, research labs are crucial for developing new products, conducting experiments, and driving innovation through empirical data.",
@@ -398,36 +264,9 @@
           "office",
           "workspace"
         ]
-      },
-      {
-        "word": "traditional",
-        "definition": "Relating to long-established customs, practices, or methods that are typically passed down through generations.",
-        "businessContext": "In business, traditional approaches may refer to established practices in management, marketing, or production that contrast with modern or innovative strategies.",
-        "nuance": "While 'traditional' can carry a sense of reliability, it may also imply resistance to change or innovation, depending on the context.",
-        "synonyms": [
-          "conventional",
-          "classical"
-        ],
-        "antonyms": [
-          "modern",
-          "innovative"
-        ]
-      },
-      {
-        "word": "building products",
-        "definition": "The process of creating and developing tangible items or solutions that meet specific needs or demands in the market.",
-        "businessContext": "In startups, building products involves iterative design and development cycles, focusing on user feedback to refine offerings and ensure market fit.",
-        "nuance": "The phrase 'building products' emphasizes the active and ongoing nature of product development, often highlighting collaboration and adaptability.",
-        "synonyms": [
-          "product development",
-          "product creation"
-        ],
-        "antonyms": [
-          "product destruction",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "You're either in a mode of explorer where you have a bunch of unknowns and you're testing to see whether or not you like it, or you're exploiting, where you actually have found something that's really rich and really deep.",
@@ -435,10 +274,7 @@
     "timestamp": "01:29:15",
     "context": "Lenny asks Nick for advice he'd give to people making career decisions, particularly in light of how Nick followed curiosity and smart people rather than chasing money. Nick explains his philosophy using an 'explore versus exploit' framework borrowed from decision theory. In the exploration phase, you're testing different opportunities to discover what energizes you and where you can excel, while in the exploitation phase, you go deep on something valuable you've already identified.",
     "vocabulary_highlights": [
-      "explore",
-      "exploit",
-      "unknowns",
-      "curiosity"
+      "unknowns"
     ],
     "topics": [
       "Career Development",
@@ -458,34 +294,6 @@
     "vocab_reparsed": true,
     "vocabulary": [
       {
-        "word": "explore",
-        "definition": "To investigate or examine something in detail to gain knowledge or understanding.",
-        "businessContext": "In business and tech, exploring often refers to the process of researching new markets, technologies, or ideas to identify potential opportunities for innovation or growth.",
-        "nuance": "While 'explore' conveys a sense of curiosity and open-mindedness, it may imply a lack of certainty or direction compared to more definitive actions.",
-        "synonyms": [
-          "investigate",
-          "examine"
-        ],
-        "antonyms": [
-          "ignore",
-          "overlook"
-        ]
-      },
-      {
-        "word": "exploit",
-        "definition": "To utilize something effectively or to take advantage of a resource or opportunity for maximum benefit.",
-        "businessContext": "In a business context, exploiting can refer to leveraging existing assets, technologies, or market positions to generate profit or competitive advantage.",
-        "nuance": "The term can carry a negative connotation if it implies unethical practices or taking unfair advantage of a situation or resource.",
-        "synonyms": [
-          "utilize",
-          "leverage"
-        ],
-        "antonyms": [
-          "waste",
-          "squander"
-        ]
-      },
-      {
         "word": "unknowns",
         "definition": "Factors or variables that are not yet understood or identified, often posing challenges or uncertainties.",
         "businessContext": "In startups and innovation, unknowns represent risks or areas that require further research and experimentation to navigate effectively.",
@@ -498,34 +306,16 @@
           "certainties",
           "knowns"
         ]
-      },
-      {
-        "word": "curiosity",
-        "definition": "A strong desire to learn or know more about something, often driving exploration and inquiry.",
-        "businessContext": "In the business world, curiosity is essential for fostering innovation, encouraging creative problem-solving, and adapting to changing market conditions.",
-        "nuance": "Curiosity is generally viewed positively, as it promotes growth and discovery, but excessive curiosity without focus may lead to distractions.",
-        "synonyms": [
-          "inquisitiveness",
-          "interest"
-        ],
-        "antonyms": [
-          "indifference",
-          "apathy"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "We set out to build a super assistant. It was supposed to be a hackathon code base.",
     "speaker": "Nick Turley",
     "timestamp": "00:00:11",
     "context": "Lenny asks about the early origins of ChatGPT and how it evolved from an internal experiment to the most successful consumer product in history. Nick reveals that ChatGPT emerged from a hackathon project where the team was trying to build various AI assistant concepts. The 'super assistant' was their original vision - an AI that could help with any task and understand your goals without requiring detailed explanations each time.",
-    "vocabulary_highlights": [
-      "emerged",
-      "experiment",
-      "evolved",
-      "project"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Starting a Company"
@@ -542,63 +332,7 @@
     "text_es": "Nos propusimos crear un súper asistente. Se suponía que iba a ser solo código de hackathon.",
     "key_sentence": "We set out to build a super assistant as a hackathon code base.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "emerged",
-        "definition": "To come into view or existence; to become apparent or prominent.",
-        "businessContext": "In business and tech, 'emerged' often refers to new trends, technologies, or companies that have gained recognition or market presence.",
-        "nuance": "This term carries a sense of gradual development and can imply a positive transformation or breakthrough.",
-        "synonyms": [
-          "appeared",
-          "surfaced"
-        ],
-        "antonyms": [
-          "disappeared",
-          "vanished"
-        ]
-      },
-      {
-        "word": "experiment",
-        "definition": "A scientific procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact.",
-        "businessContext": "In startups and tech, 'experiment' refers to testing new ideas, products, or processes to gather data and inform decision-making.",
-        "nuance": "While 'experiment' suggests a methodical approach, it can also imply risk-taking and innovation in uncertain environments.",
-        "synonyms": [
-          "trial",
-          "test"
-        ],
-        "antonyms": [
-          "certainty",
-          "conformity"
-        ]
-      },
-      {
-        "word": "evolved",
-        "definition": "To develop gradually, especially from a simple to a more complex form.",
-        "businessContext": "In the context of business, 'evolved' often describes the growth or transformation of products, services, or strategies over time.",
-        "nuance": "This term suggests a natural progression and improvement, often associated with adaptability and responsiveness to change.",
-        "synonyms": [
-          "developed",
-          "advanced"
-        ],
-        "antonyms": [
-          "stagnated",
-          "regressed"
-        ]
-      },
-      {
-        "word": "project",
-        "definition": "A planned set of interrelated tasks to be executed over a fixed period and within certain cost and other limitations.",
-        "businessContext": "In business and tech, a 'project' typically refers to initiatives aimed at achieving specific goals, often involving collaboration and resource allocation.",
-        "nuance": "The term can imply a structured approach to achieving objectives, but may also suggest complexity and the need for careful management.",
-        "synonyms": [
-          "initiative",
-          "undertaking"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true
   }
 ]

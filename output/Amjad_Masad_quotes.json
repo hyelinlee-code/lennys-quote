@@ -7,8 +7,7 @@
     "vocabulary_highlights": [
       "bottleneck",
       "fitting in",
-      "making things",
-      "skills"
+      "making things"
     ],
     "topics": [
       "Product Management",
@@ -21,9 +20,9 @@
       "AI/ML Products",
       "Community Building"
     ],
-    "text_ko": "보통 아이디어가 잘 맞지 않아서 막히는 경우가 많아요. 그 아이디어를 빨리 만들어야 하는데 말이죠. 이제 그 막힘을 없애면 실제로 만드는 게 훨씬 쉬워져요. 그러니까 이제는 아이디어를 얼마나 빨리 낼 수 있는지가 제한이 되는 거예요.",
-    "text_zh": "通常情况下，你会在想法无法适应的地方遇到瓶颈，因为这些想法需要被实现，并且需要快速实现。现在，你打破了这个瓶颈。因此，实际制作东西变得容易多了。实际上，你的限制变成了你生成想法的速度。",
-    "text_es": "Normalmente, te encuentras en un punto crítico (bottleneck) cuando tus ideas no encajan porque necesitan ser realizadas y de manera rápida. Ahora, al abrir ese punto crítico, hacer las cosas se vuelve mucho más fácil. De hecho, te limitas por la rapidez con la que puedes generar ideas.",
+    "text_ko": "보통 문제는 아이디어가 들어맞지 않는 지점이에요. 그 아이디어들을 실제로 만들어야 하고, 그것도 빨리 만들어야 하니까 병목 현상(bottleneck)이 생기는 거죠. 그 병목을 풀어주면 실제로 무언가를 만드는 일이 훨씬 쉬워져요.",
+    "text_zh": "一般来说，卡住你的地方就是想法落不了地，因为需要快速做出来。现在这个瓶颈打开了，实际做东西就容易多了。",
+    "text_es": "Normalmente, el cuello de botella (bottleneck) está en que tus ideas no encajan porque necesitas hacerlas realidad y además rápido. Ahora abres ese cuello de botella. Entonces hacer las cosas se vuelve mucho más fácil.",
     "key_sentence": "Open up that bottleneck to make generating ideas easier.",
     "text_trimmed": true,
     "original_text": "Typically, you're bottlenecked where your ideas are not fitting in because they need to be made and they need to be made quickly. Now, you open up that bottleneck. So now actually making things is a lot easier. Actually, you become limited by how fast you can generate ideas.",
@@ -70,22 +69,10 @@
           "destroying",
           "neglecting"
         ]
-      },
-      {
-        "word": "skills",
-        "definition": "Skills are the abilities or expertise that enable an individual to perform tasks effectively and efficiently.",
-        "businessContext": "In the business world, skills are critical for job performance and can be categorized into hard skills (technical abilities) and soft skills (interpersonal abilities), both of which are essential for career advancement.",
-        "nuance": "The term can imply a level of proficiency that is acquired through practice and experience, distinguishing it from innate talent.",
-        "synonyms": [
-          "capabilities",
-          "competencies"
-        ],
-        "antonyms": [
-          "incompetence",
-          "ineptitude"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I could imagine whatever five years from now, someone running a billion-dollar company with zero employees where it's like the support is handled by AI, the development is handled by AI, and you're just building and creating this thing.",
@@ -94,7 +81,6 @@
     "context": "Lenny comments that people are unaware of how far AI development has progressed. Amjad responds by painting a picture of the near future where AI capabilities could reach the point where all traditional business functions could be automated. He envisions a scenario where customer support, software development, and other core business operations are entirely handled by AI, leaving the founder to focus purely on vision and creation.",
     "vocabulary_highlights": [
       "development",
-      "capabilities",
       "support",
       "creating"
     ],
@@ -130,20 +116,6 @@
         ]
       },
       {
-        "word": "capabilities",
-        "definition": "The skills, resources, and competencies that enable an organization to perform effectively and achieve its objectives.",
-        "businessContext": "In a business context, capabilities refer to what a company can do, including its technological, operational, and human resources, which are essential for strategic planning and execution.",
-        "nuance": "The term often implies a potential for growth or improvement, and is typically used in discussions about competitive advantages or operational efficiency.",
-        "synonyms": [
-          "competencies",
-          "resources"
-        ],
-        "antonyms": [
-          "inabilities",
-          "limitations"
-        ]
-      },
-      {
         "word": "support",
         "definition": "Assistance or resources provided to help someone or something function effectively.",
         "businessContext": "In business, support can refer to customer service, technical assistance, or the resources allocated to help teams achieve their goals, often critical for maintaining customer satisfaction and operational efficiency.",
@@ -171,7 +143,8 @@
           "dismantling"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "One of the reasons for the difficulty is that it is very fragmented, so you would need to download what's called an IDE. It's basically a code editor.",
@@ -180,9 +153,7 @@
     "context": "Lenny asks Amjad to explain what Replit is and what problem it solves. Amjad explains that traditional software development is extremely difficult because it requires managing many separate tools and processes. He breaks down the technical barriers that prevent people from learning to code, including setting up development environments, managing dependencies, and deploying applications - all of which Replit aims to simplify into one unified platform.",
     "vocabulary_highlights": [
       "fragmented",
-      "manage",
-      "editor",
-      "traditional"
+      "editor"
     ],
     "topics": [
       "Product Management",
@@ -194,9 +165,9 @@
       "AI/ML Products",
       "Community Building"
     ],
-    "text_ko": "어려운 이유 중 하나는 너무 분산되어 있어서, IDE라고 하는 걸 다운로드해야 해요. 기본적으로 코드 편집기 같은 거예요. 그리고 런타임도 다운로드해야 하는데, 보통 Python이나 JavaScript 같은 거죠. 오픈 소스 패키지를 설정할 패키지 매니저도 알아내야 하고, 그 모든 걸 다 한 다음에는 배포하는 방법, 공유하는 방법도 알아내야 해요.",
-    "text_zh": "其中一个困难的原因是这个领域非常分散，因此你需要下载一个称为IDE（集成开发环境）的工具。它基本上是一个代码编辑器。你还需要下载运行时环境，基本上是Python或JavaScript，并且需要弄清楚一个包管理器（package manager）来配置你的开源包。一旦完成这些，你还需要弄清楚如何部署（deploy）以及如何分享（share）它。",
-    "text_es": "Una de las razones de la dificultad es que está muy fragmentado, por lo que necesitarías descargar lo que se llama un IDE (entorno de desarrollo integrado). Básicamente, es un editor de código. Necesitas descargar el runtime, que puede ser Python o JavaScript, y averiguar un gestor de paquetes para configurar tus paquetes de código abierto. Una vez que hayas hecho todo eso, tendrás que descubrir cómo implementarlo y cómo compartirlo.",
+    "text_ko": "어려운 이유 중 하나는 워낙 파편화되어 있어서 통합 개발 환경(IDE)이라고 하는 걸 내려받아야 하기 때문이에요. 기본적으로는 코드 편집기(code editor)예요.",
+    "text_zh": "难搞的原因之一就是太零散了，你得下载一个叫IDE的东西，其实就是个代码编辑器(code editor)。",
+    "text_es": "Una de las razones por las que es tan complicado es que está muy fragmentado, entonces tendrías que descargar lo que se llama un IDE. Básicamente es un editor de código.",
     "key_sentence": "One of the reasons for the difficulty is that it is very fragmented.",
     "text_trimmed": true,
     "original_text": "One of the reasons for the difficulty is that it is very fragmented, so you would need to download what's called an IDE. It's basically a code editor. You need to download the runtime, basically Python or JavaScript, need to figure out a package manager to configure your kind of open source packages, and once you've done all of that, you need to figure out how to deploy it, how to share it.",
@@ -217,20 +188,6 @@
         ]
       },
       {
-        "word": "manage",
-        "definition": "To oversee, control, or direct the operations or activities of a person, group, or organization.",
-        "businessContext": "Effective management is crucial in business settings to ensure that resources are utilized efficiently and objectives are met.",
-        "nuance": "The term 'manage' can imply a level of authority and responsibility, and it is often used in contexts where leadership and decision-making are required.",
-        "synonyms": [
-          "administer",
-          "supervise"
-        ],
-        "antonyms": [
-          "neglect",
-          "abandon"
-        ]
-      },
-      {
         "word": "editor",
         "definition": "A software application or tool used for creating and modifying text or code.",
         "businessContext": "In the tech industry, an editor is essential for developers to write and debug code, significantly impacting productivity and project timelines.",
@@ -243,22 +200,10 @@
           "viewer",
           "reader"
         ]
-      },
-      {
-        "word": "traditional",
-        "definition": "Relating to long-established customs, practices, or methods that are typically passed down through generations.",
-        "businessContext": "In a business context, traditional methods may refer to established practices that contrast with modern, innovative approaches, such as digital marketing versus print advertising.",
-        "nuance": "While 'traditional' often carries a sense of reliability and stability, it can also imply resistance to change or innovation.",
-        "synonyms": [
-          "conventional",
-          "classical"
-        ],
-        "antonyms": [
-          "modern",
-          "innovative"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "What gets me excited is a lot of these CEOs are building the future concept, the next product they're going to build, the next, say, company they're going to build. And so it unlocks the creativity and again, sort of unblocks them from that.",
@@ -266,10 +211,8 @@
     "timestamp": "00:39:59",
     "context": "Lenny asks about how non-technical people within startups and companies are using Replit. Amjad describes how CEOs and founders, who are often creative visionaries but lack coding skills, are using the platform. Previously, these leaders were bottlenecked by having to communicate their ideas through other people who then had to build them, but now they can directly prototype and test their future product concepts.",
     "vocabulary_highlights": [
-      "unlock",
       "creativity",
-      "concept",
-      "visionary"
+      "concept"
     ],
     "topics": [
       "Starting a Company",
@@ -288,20 +231,6 @@
     "key_sentence": "Unlocks the creativity and unblocks them from that future concept.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "unlock",
-        "definition": "To open or make accessible something that was previously restricted or unavailable.",
-        "businessContext": "In business, 'unlock' often refers to enabling potential, resources, or opportunities that can lead to innovation or growth.",
-        "nuance": "While 'unlock' generally has a positive connotation of revealing potential, it can imply that something was previously constrained or limited.",
-        "synonyms": [
-          "release",
-          "unleash"
-        ],
-        "antonyms": [
-          "lock",
-          "restrict"
-        ]
-      },
       {
         "word": "creativity",
         "definition": "The ability to generate original ideas, solutions, or artistic expressions through imaginative thinking.",
@@ -329,22 +258,9 @@
           "reality",
           "fact"
         ]
-      },
-      {
-        "word": "visionary",
-        "definition": "A person who is able to envision the future and create innovative ideas or plans that can lead to significant change.",
-        "businessContext": "Visionaries in business are often leaders or entrepreneurs who anticipate market trends and inspire others to pursue groundbreaking initiatives.",
-        "nuance": "The term 'visionary' carries a positive connotation of foresight and creativity, but it can also suggest impracticality if ideas are not grounded in reality.",
-        "synonyms": [
-          "futurist",
-          "dreamer"
-        ],
-        "antonyms": [
-          "realist",
-          "pragmatist"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I think a very important scale that's perhaps harder to develop but it's worth working on is being generative, being more generative, being able to generate new ideas quickly, because you can think about it as a factory line.",
@@ -353,9 +269,7 @@
     "context": "Lenny asks what skills product managers, engineers, or designers should focus on more as AI tools become more powerful. Amjad emphasizes that the most crucial skill to develop is being 'generative' - the ability to rapidly come up with new ideas. He uses a factory line metaphor where ideas are the input, production is the middle step, and consumption is the output, explaining that AI removes the production bottleneck.",
     "vocabulary_highlights": [
       "generative",
-      "develop",
-      "crucial",
-      "emphasize"
+      "develop"
     ],
     "topics": [
       "Career Development",
@@ -401,36 +315,9 @@
           "stagnate",
           "regress"
         ]
-      },
-      {
-        "word": "crucial",
-        "definition": "Of great importance; critical to the success or failure of something.",
-        "businessContext": "In business, identifying crucial factors can help prioritize resources and strategies that significantly impact outcomes, such as market trends or customer needs.",
-        "nuance": "While synonymous with 'important,' 'crucial' often conveys a sense of urgency or necessity, suggesting that failure to address the issue could lead to serious consequences.",
-        "synonyms": [
-          "essential",
-          "vital"
-        ],
-        "antonyms": [
-          "insignificant",
-          "trivial"
-        ]
-      },
-      {
-        "word": "emphasize",
-        "definition": "To give special importance or prominence to something in speaking or writing.",
-        "businessContext": "In a business setting, leaders often emphasize key messages to ensure that team members understand priorities and align their efforts accordingly.",
-        "nuance": "The term carries a connotation of intentionality, suggesting that the speaker or writer is highlighting something they believe is particularly noteworthy or deserving of attention.",
-        "synonyms": [
-          "highlight",
-          "stress"
-        ],
-        "antonyms": [
-          "downplay",
-          "ignore"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I have this that's been called not by me, dubbed as Amjad's Law, which is the return on investment for learn to code is doubling every six months.",
@@ -439,9 +326,7 @@
     "context": "Amjad continues explaining what skills people should develop in the AI era. He introduces 'Amjad's Law' - his observation that the value of basic coding knowledge is exponentially increasing as AI tools become more powerful. Rather than traditional computer science education, he advocates for learning AI-native skills like prompting, code reading, and debugging to effectively collaborate with AI development tools.",
     "vocabulary_highlights": [
       "return on investment",
-      "doubling",
-      "exponentially",
-      "skills"
+      "doubling"
     ],
     "topics": [
       "Career Development",
@@ -453,9 +338,9 @@
       "AI/ML Products",
       "Community Building"
     ],
-    "text_ko": "제가 '암자드의 법칙(Amjad's Law)'이라고 부르는 게 있는데요, 코딩을 배우는 데 투자한 수익이 매 6개월마다 두 배로 늘어난다는 거예요. 사실, 그 기술을 조금만 배우면, AI를 어떻게 활용하는지, 코드를 읽는 방법, 그리고 디버깅하는 방법을 익힐 수 있어요.",
-    "text_zh": "我有一个被称为阿姆贾德法则（Amjad's Law）的观点，认为学习编程的投资回报率每六个月翻一番。实际上，只需掌握一些相关技能，比如如何与人工智能（AI）进行有效对话、阅读代码和调试代码，就能获得显著的收益。",
-    "text_es": "Tengo algo que se ha denominado, no por mí, como la Ley de Amjad, que establece que el retorno de inversión (ROI) por aprender a programar se duplica cada seis meses. En realidad, solo aprender un poco de esa habilidad, como cómo interactuar con la inteligencia artificial (IA), leer código y ser capaz de depurarlo, puede marcar una gran diferencia.",
+    "text_ko": "제가 붙인 이름은 아니고 사람들이 '암자드의 법칙(Amjad's Law)'이라고 부르는 게 있어요. 코딩을 배우는 것(learn to code)에 대한 투자수익률(ROI, return on investment)이 6개월마다 두 배가 된다는 법칙이에요.",
+    "text_zh": "有人把这个叫做\"阿姆贾德定律\"，不是我自己起的名字，就是说学编程的投资回报率(ROI)每六个月翻一倍。",
+    "text_es": "Tengo esto que no lo llamé yo, pero le pusieron la Ley de Amjad, que dice que el retorno de inversión de aprender a programar se duplica cada seis meses.",
     "key_sentence": "Dubbed as Amjad's Law, the return on investment is doubling every six months.",
     "text_trimmed": true,
     "original_text": "I have this that's been called not by me, dubbed as Amjad's Law, which is the return on investment for learn to code is doubling every six months. And really just learning a little bit of that skill, learning a bit of skill about how to prompt AI, how to read code, and be able to debug it.",
@@ -488,36 +373,10 @@
           "halving",
           "decreasing"
         ]
-      },
-      {
-        "word": "exponentially",
-        "definition": "Exponentially describes a rapid increase that occurs at an accelerating rate, often represented mathematically as a function where the growth rate is proportional to the current value.",
-        "businessContext": "In technology and startup environments, exponential growth is often sought after, particularly in user acquisition or revenue generation, as it indicates a scalable and successful business model.",
-        "nuance": "The term 'exponentially' can imply a sense of urgency or excitement, but it may also raise expectations that could lead to disappointment if not met.",
-        "synonyms": [
-          "rapidly",
-          "accelerated"
-        ],
-        "antonyms": [
-          "linearly",
-          "gradually"
-        ]
-      },
-      {
-        "word": "skills",
-        "definition": "Skills are the abilities or expertise that enable individuals to perform tasks effectively, often acquired through education, training, or experience.",
-        "businessContext": "In the business and tech sectors, skills are critical for workforce development, innovation, and maintaining competitive advantage, with a strong emphasis on continuous learning and upskilling.",
-        "nuance": "The term 'skills' can encompass both hard skills, such as technical abilities, and soft skills, like communication, making it a versatile term in professional contexts.",
-        "synonyms": [
-          "competencies",
-          "expertise"
-        ],
-        "antonyms": [
-          "incompetence",
-          "ignorance"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The way we work is going to change rapidly, and it's important to be resilient to that change.",
@@ -526,9 +385,7 @@
     "context": "Lenny asks if there's anything else helpful for people to think about. Amjad gives advice to founders and company leaders about adapting to rapid AI advancement. He explains that traditional business planning approaches like fixed roadmaps are becoming problematic because AI capabilities are advancing so quickly that companies need to be able to pivot immediately when new AI tools or capabilities become available.",
     "vocabulary_highlights": [
       "resilient",
-      "adapt",
-      "change",
-      "traditional"
+      "change"
     ],
     "topics": [
       "Leadership & Management",
@@ -540,9 +397,9 @@
       "AI/ML Products",
       "Community Building"
     ],
-    "text_ko": "우리가 일하는 방식이 빠르게 변할 거예요. 그래서 그 변화에 잘 적응하는 게 중요해요. 요즘 특히 어려운 점은 로드맵을 만드는 거예요. AI와 관련된 일을 하든, AI가 영향을 미칠 수 있는 어떤 일이든, 정말 빠르게 반응할 수 있어야 해요.",
-    "text_zh": "我们的工作方式将迅速改变，适应这种变化至关重要。我认为现在特别困难的一点是制定路线图（roadmaps），尤其是在人工智能（AI）领域，实际上任何可能受到人工智能影响的领域，都需要能够快速做出反应。",
-    "text_es": "La forma en que trabajamos va a cambiar rápidamente, y es importante ser resilientes ante ese cambio. Una de las cosas que considero realmente difícil en este momento es tener hojas de ruta (roadmaps), especialmente si estás trabajando en inteligencia artificial (AI), pero en realidad, cualquier cosa que la inteligencia artificial pueda afectar requiere que puedas reaccionar con rapidez.",
+    "text_ko": "업무 방식이 빠르게 바뀌고 있어서 그 변화에 유연하게 대응할 수 있는 회복력(resilience)이 중요해요.",
+    "text_zh": "我们的工作方式会变得很快，关键是要能适应这种变化。",
+    "text_es": "La forma en que trabajamos va a cambiar muy rápido, y es clave ser resilientes ante ese cambio.",
     "key_sentence": "Be resilient to that change and react to it really quickly.",
     "text_trimmed": true,
     "original_text": "The way we work is going to change rapidly, and it's important to be resilient to that change. One thing that I think is really difficult now is having roadmaps, especially if you're doing anything in AI, but really anything that AI could affect, you want to be able to react to it really quickly.",
@@ -563,20 +420,6 @@
         ]
       },
       {
-        "word": "adapt",
-        "definition": "To adjust or modify something to suit new conditions or environments; to change in response to evolving circumstances.",
-        "businessContext": "In the context of startups and technology, adapting is crucial for staying competitive and meeting the changing demands of consumers and markets.",
-        "nuance": "Adaptation can imply a proactive approach to change, suggesting a willingness to innovate rather than merely react.",
-        "synonyms": [
-          "modify",
-          "adjust"
-        ],
-        "antonyms": [
-          "resist",
-          "stagnate"
-        ]
-      },
-      {
         "word": "change",
         "definition": "The act or process of making something different; a transformation or alteration in state or condition.",
         "businessContext": "Change is a constant in business environments, often driven by technological advancements, market dynamics, or shifts in consumer behavior.",
@@ -589,21 +432,9 @@
           "stability",
           "consistency"
         ]
-      },
-      {
-        "word": "traditional",
-        "definition": "Relating to customs, practices, or beliefs that have been established over time; often contrasted with modern or innovative approaches.",
-        "businessContext": "In business, traditional practices may refer to long-standing methods of operation, which can be challenged by new, disruptive technologies or strategies.",
-        "nuance": "While traditional methods can provide stability, they may also be viewed as outdated in rapidly evolving industries.",
-        "synonyms": [
-          "conventional",
-          "established"
-        ],
-        "antonyms": [
-          "innovative",
-          "modern"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

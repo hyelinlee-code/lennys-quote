@@ -6,9 +6,7 @@
     "context": "Lenny asks Bob why he decided to join Apple. Bob explains his motivation for seeking out historically significant opportunities and describes Apple's culture of continuous improvement. He emphasizes how everyone at Apple, regardless of their role, maintains a mindset focused on incremental betterment of their work - from major products to small details like the patented pizza boxes in their cafeteria.",
     "vocabulary_highlights": [
       "opportunities",
-      "constantly",
-      "continuous improvement",
-      "culture"
+      "constantly"
     ],
     "topics": [
       "Career Development",
@@ -53,36 +51,9 @@
           "occasionally",
           "intermittently"
         ]
-      },
-      {
-        "word": "continuous improvement",
-        "definition": "An ongoing effort to enhance products, services, or processes through incremental and breakthrough improvements.",
-        "businessContext": "In business settings, continuous improvement is a key principle in methodologies like Lean and Six Sigma, aimed at increasing efficiency and quality.",
-        "nuance": "This concept emphasizes a culture of ongoing enhancement rather than one-time fixes, fostering a mindset of innovation.",
-        "synonyms": [
-          "incremental improvement",
-          "ongoing enhancement"
-        ],
-        "antonyms": [
-          "stagnation",
-          "decline"
-        ]
-      },
-      {
-        "word": "culture",
-        "definition": "The shared values, beliefs, and practices that shape the behaviors and interactions of a group or organization.",
-        "businessContext": "In business, culture influences employee engagement, collaboration, and overall organizational effectiveness, often being a focal point for leadership development.",
-        "nuance": "Culture can be both a strength and a challenge; it is crucial to align it with business goals while being mindful of its complexities.",
-        "synonyms": [
-          "environment",
-          "ethos"
-        ],
-        "antonyms": [
-          "chaos",
-          "anarchy"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "It wasn't a successful stint at Pinterest. I just bounced off the culture. I came in thinking I was supposed to behave the way I behaved at Apple, which is very direct, fighting hard.",
@@ -92,8 +63,7 @@
     "vocabulary_highlights": [
       "culture",
       "behave",
-      "direct",
-      "fit"
+      "direct"
     ],
     "topics": [
       "Career Development",
@@ -152,22 +122,9 @@
           "indirect",
           "evasive"
         ]
-      },
-      {
-        "word": "fit",
-        "definition": "The degree to which an individual aligns with the values, culture, and expectations of an organization or team.",
-        "businessContext": "In recruitment and team dynamics, assessing 'fit' is crucial for ensuring that new hires will integrate well into the existing culture and contribute positively to team performance.",
-        "nuance": "While 'fit' often implies compatibility, it can also suggest a preference for homogeneity, which may lead to a lack of diversity if not approached thoughtfully.",
-        "synonyms": [
-          "compatibility",
-          "alignment"
-        ],
-        "antonyms": [
-          "misalignment",
-          "incompatibility"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "I've never seen somebody graft it on after the fact. It's there at the beginning in the root DNA or doesn't exist. Saying a company is design-led does not mean it's designer-led.",
@@ -175,10 +132,7 @@
     "timestamp": "00:00:17",
     "context": "Bob explains his philosophy about design culture in companies. He argues that truly design-centric companies must have design thinking embedded from their founding - it cannot be added later. He also clarifies an important distinction: a company can prioritize design thinking and methodology without necessarily being led by people with designer titles.",
     "vocabulary_highlights": [
-      "design-led",
-      "embedded",
-      "philosophy",
-      "culture"
+      "design-led"
     ],
     "topics": [
       "Leadership & Management",
@@ -209,50 +163,9 @@
           "function-led",
           "N/A"
         ]
-      },
-      {
-        "word": "embedded",
-        "definition": "Incorporated or integrated into a system or environment, making it an intrinsic part of the whole.",
-        "businessContext": "In technology and business, embedded systems or features are those that are built into a product, enhancing functionality and user experience without being externally added.",
-        "nuance": "The term often conveys a sense of permanence and essentiality, suggesting that the embedded element is crucial to the overall operation.",
-        "synonyms": [
-          "integrated",
-          "inherent"
-        ],
-        "antonyms": [
-          "external",
-          "N/A"
-        ]
-      },
-      {
-        "word": "philosophy",
-        "definition": "A set of beliefs or principles that guide an individual's or organization's approach to various aspects of life or business.",
-        "businessContext": "In a business context, a company's philosophy shapes its culture, decision-making processes, and strategic direction, influencing everything from employee engagement to customer relations.",
-        "nuance": "This term often implies a deeper, more reflective approach to values and ethics, distinguishing it from mere policies or practices.",
-        "synonyms": [
-          "principle",
-          "doctrine"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "culture",
-        "definition": "The shared values, beliefs, and practices that characterize an organization or group, influencing behavior and interactions.",
-        "businessContext": "In business, organizational culture affects employee morale, productivity, and overall success, as it shapes how teams collaborate and how customers perceive the brand.",
-        "nuance": "Culture can be both explicit and implicit, often evolving over time and requiring conscious effort to cultivate and maintain.",
-        "synonyms": [
-          "environment",
-          "ethos"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "Almost everyone living in a modern economy now is going to have hundreds of interactions with a phone or with a computer. And unfortunately, a lot of those interactions are not going to be great.",
@@ -260,10 +173,7 @@
     "timestamp": "00:00:00",
     "context": "Bob makes a compelling argument about the moral responsibility of people who build digital products. He points out that in today's world, people have countless daily interactions with software and technology, and many of these experiences are frustrating or confusing. He believes product creators have a duty to improve these interactions and restore positive emotional energy to users' lives.",
     "vocabulary_highlights": [
-      "interactions",
-      "compelling",
-      "moral responsibility",
-      "digital products"
+      "interactions"
     ],
     "topics": [
       "Product Management",
@@ -275,9 +185,9 @@
       "Product Design",
       "User Experience"
     ],
-    "text_ko": "현대 경제에 사는 거의 모든 사람들은 이제 휴대폰이나 컴퓨터와 수백 번씩 상호작용해요. 안타깝게도 그중 많은 상호작용이 별로 좋지 않을 거예요. 프로덕트 담당자(product people)로서 우리는 그 감정적 에너지(emotional energy)를 사람들의 삶에 다시 불어넣어야 할 책임이 있어요.",
-    "text_zh": "现在生活在现代经济环境下的人，基本上每天都要跟手机或电脑打几百次交道。但说实话，这里面很多体验都挺糟心的。我们做产品的人有责任把那种积极的情感体验重新带回到大家的生活中去。",
-    "text_es": "Casi todo el mundo que vive en una economía moderna hoy en día va a tener cientos de interacciones con el teléfono o con la computadora. Y desafortunadamente, muchas de esas interacciones no van a ser buenas. Como gente de producto, tenemos la obligación de devolverle esa energía emocional a la vida de las personas.",
+    "text_ko": "지금의 현대 경제에서 사는 거의 모든 사람들은 스마트폰이나 컴퓨터와 수백 번의 상호작용(interactions)을 하게 돼요. 안타깝게도 그중 많은 상호작용이 그다지 만족스럽지 못할 거예요.",
+    "text_zh": "现在生活在现代经济环境中的人，基本上每天都要跟手机或电脑打无数次交道。但遗憾的是，这些体验很多时候都不怎么样。",
+    "text_es": "Hoy en día, casi todos los que vivimos en una economía moderna vamos a tener cientos de interacciones con el teléfono o con la computadora. Y desafortunadamente, muchas de esas interacciones no van a ser muy buenas.",
     "key_sentence": "a lot of those interactions are not going to be great.",
     "text_trimmed": true,
     "original_text": "Almost everyone living in a modern economy now is going to have hundreds of interactions with a phone or with a computer. And unfortunately, a lot of those interactions are not going to be great. We have an obligation as product people to put that emotional energy back into people's lives.",
@@ -296,50 +206,10 @@
           "disengagements",
           "isolation"
         ]
-      },
-      {
-        "word": "compelling",
-        "definition": "Compelling describes something that evokes interest, attention, or admiration in a powerful way, often due to its persuasive or attractive qualities.",
-        "businessContext": "In marketing and product development, a compelling narrative or feature can significantly influence consumer decisions and drive sales by capturing the audience's attention.",
-        "nuance": "While 'compelling' generally has a positive connotation, it can also imply a sense of urgency or necessity that may not always be appropriate in every context.",
-        "synonyms": [
-          "engaging",
-          "persuasive"
-        ],
-        "antonyms": [
-          "uninteresting",
-          "uninspiring"
-        ]
-      },
-      {
-        "word": "moral responsibility",
-        "definition": "Moral responsibility refers to the obligation to act ethically and consider the impact of one's actions on others, society, and the environment.",
-        "businessContext": "In corporate governance and social responsibility initiatives, businesses are increasingly held accountable for their moral responsibilities, influencing their reputation and stakeholder relationships.",
-        "nuance": "The term carries a weight of ethical obligation that can vary in interpretation across cultures and industries, making it essential to approach with sensitivity.",
-        "synonyms": [
-          "ethical obligation",
-          "social responsibility"
-        ],
-        "antonyms": [
-          "amoral indifference",
-          "irresponsibility"
-        ]
-      },
-      {
-        "word": "digital products",
-        "definition": "Digital products are intangible goods that are created, stored, and distributed electronically, such as software, e-books, online courses, and digital media.",
-        "businessContext": "In the tech industry, digital products are a key focus for innovation and revenue generation, often requiring ongoing updates and customer engagement to maintain value.",
-        "nuance": "The term 'digital products' can imply a wide range of offerings, from high-quality software solutions to lower-value items, so clarity in context is important.",
-        "synonyms": [
-          "virtual products",
-          "online services"
-        ],
-        "antonyms": [
-          "physical products",
-          "tangible goods"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Design is trying to imagine the future you want to live in and then take the steps to make it real.",
@@ -347,10 +217,7 @@
     "timestamp": "00:00:17",
     "context": "Lenny asks Bob for his unique perspective on what design actually is. Bob provides a philosophical definition that goes beyond visual aesthetics. He describes design as a forward-looking mindset focused on creating desired future states, contrasting it with other disciplines like science (which observes to understand) and engineering (which solves step-by-step problems).",
     "vocabulary_highlights": [
-      "forward-looking",
-      "perspective",
-      "imagine",
-      "aesthetics"
+      "imagine"
     ],
     "topics": [
       "Product Management",
@@ -362,42 +229,14 @@
       "Product Design",
       "User Experience"
     ],
-    "text_ko": "디자인은 자신이 살고 싶은 미래를 상상하고 그걸 현실로 만들기 위해 실제로 한 걸음씩 행동하는 과정이에요. 거의 불교적인 방식처럼 일종의 '의도적인 삶(intentionality)'을 사는 거고요, 이 점에서 세상을 관찰해서 이해하려는 과학과는 달라요.",
-    "text_zh": "设计就是要去想象你想要的未来生活，然后一步步把它变成现实。这其实是一种很有目的性的生活方式，有点像佛教那种mindfulness(正念)的感觉，跟科学不一样——科学更多是通过观察去理解世界。",
-    "text_es": "El diseño es intentar imaginar el futuro en el que quieres vivir y luego dar los pasos para hacerlo realidad. Es vivir con cierto tipo de intencionalidad, casi de manera budista, que es diferente de la ciencia, que es observacional y trata de entender.",
+    "text_ko": "디자인은 자신이 살고 싶은 미래를 상상하고, 그걸 현실로 만들기 위해 한 걸음씩 실천해 나가는 과정이에요.",
+    "text_zh": "设计就是先想象出你想要的未来生活，然后一步步把它变成现实。",
+    "text_es": "El diseño es tratar de imaginar el futuro en el que quieres vivir y luego dar los pasos para hacerlo realidad.",
     "key_sentence": "Design is trying to imagine the future you want to live in and then take the steps to make it real.",
     "text_trimmed": true,
     "original_text": "Design is trying to imagine the future you want to live in and then take the steps to make it real. It's living with a certain type of intentionality in almost a Buddhist type way, which is different from science, which is observational trying to understand.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "forward-looking",
-        "definition": "Characterized by an optimistic and proactive approach to future developments and opportunities.",
-        "businessContext": "In business, being forward-looking often refers to strategic planning that anticipates market trends and prepares for future challenges and innovations.",
-        "nuance": "This term carries a positive connotation, suggesting innovation and adaptability, and is often used in contexts emphasizing growth and vision.",
-        "synonyms": [
-          "proactive",
-          "visionary"
-        ],
-        "antonyms": [
-          "short-sighted",
-          "reactive"
-        ]
-      },
-      {
-        "word": "perspective",
-        "definition": "A particular attitude or way of considering something, often shaped by individual experiences and beliefs.",
-        "businessContext": "In a business setting, perspective is crucial for understanding diverse viewpoints, which can enhance decision-making and foster collaboration among team members.",
-        "nuance": "While it generally denotes a viewpoint, it can imply a depth of understanding or insight, making it important to use in discussions that value diversity of thought.",
-        "synonyms": [
-          "viewpoint",
-          "outlook"
-        ],
-        "antonyms": [
-          "narrow-mindedness",
-          "bias"
-        ]
-      },
       {
         "word": "imagine",
         "definition": "To form a mental image or concept of something that is not present or has not yet occurred.",
@@ -411,34 +250,17 @@
           "dismiss",
           "ignore"
         ]
-      },
-      {
-        "word": "aesthetics",
-        "definition": "A set of principles concerned with the nature and appreciation of beauty, especially in art and design.",
-        "businessContext": "In business, aesthetics play a critical role in product design, branding, and marketing, as they can significantly influence consumer perceptions and preferences.",
-        "nuance": "While it primarily relates to beauty and visual appeal, it can also encompass functionality and user experience, making it important to use in discussions about design quality.",
-        "synonyms": [
-          "design",
-          "artistry"
-        ],
-        "antonyms": [
-          "ugliness",
-          "displeasure"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "When design thinking became big, I was always really confused because I didn't know how else you could think.",
     "speaker": "Bob Baxley",
     "timestamp": "00:15:55",
     "context": "Bob reflects on the popular concept of 'design thinking' that became trendy in business circles. He explains his confusion about treating design thinking as a special methodology, since to him, this forward-looking, intentional approach to problem-solving was simply his natural way of thinking. This reveals how some people intuitively approach challenges with a design mindset.",
-    "vocabulary_highlights": [
-      "methodology",
-      "concept",
-      "reflect",
-      "treat"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Strategy & Planning"
@@ -449,70 +271,15 @@
       "Product Design",
       "User Experience"
     ],
-    "text_ko": "디자인 씽킹(design thinking)이 유행했을 때 저는 정말 혼란스러웠어요. 다른 식으로 생각할 수 있다는 걸 몰랐으니까요. 그건 원래 제 자연스러운 사고 방식이었고, 제게 디자인은 살고 싶은 미래를 상상하고 그걸 현실로 만들기 위해 한 걸음씩 실천해 나가는 거예요.",
-    "text_zh": "当设计思维(design thinking)火起来的时候，我特别纳闷，因为我不知道还能怎么想问题。这就是我天生的思维方式嘛——设计就是要想象你想要的未来生活，然后一步步把它变成现实。",
-    "text_es": "Cuando el design thinking se puso de moda, siempre me quedé muy confundido porque no sabía de qué otra manera se podía pensar. Así era como yo pensaba naturalmente, o sea, que el diseño trata de imaginar el futuro en el que quieres vivir y luego dar los pasos para hacerlo realidad.",
+    "text_ko": "디자인 씽킹(design thinking)이 대세가 됐을 때 저는 항상 정말 헷갈렸어요. 다른 식으로 생각할 수 있다는 게 어떻게 가능한지 잘 모르겠더라고요.",
+    "text_zh": "当设计思维(design thinking)火起来的时候，我一直很困惑，因为我不知道除了这样思考还能怎么思考。",
+    "text_es": "Cuando el design thinking se puso de moda, yo siempre estaba súper confundido porque no sabía de qué otra manera se podía pensar.",
     "key_sentence": "I didn't know how else you could think; design imagines and realizes the future.",
     "text_trimmed": true,
     "original_text": "When design thinking became big, I was always really confused because I didn't know how else you could think. That was just how I naturally thought, which is design is trying to imagine the future you want to live in and then take the steps to make it real.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "methodology",
-        "definition": "A systematic, theoretical analysis of the methods applied to a field of study or practice.",
-        "businessContext": "In business and tech, methodology refers to the structured approaches used for project management, product development, or research, such as Agile or Waterfall methodologies.",
-        "nuance": "While often used interchangeably with 'method,' 'methodology' implies a deeper theoretical framework and is typically used in formal contexts.",
-        "synonyms": [
-          "approach",
-          "system"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "concept",
-        "definition": "An abstract idea or a general notion that represents something in the mind.",
-        "businessContext": "In business, a concept often refers to a new product idea, business model, or marketing strategy that is being developed or proposed.",
-        "nuance": "The term 'concept' suggests a foundational idea that may still be in the early stages of development, making it less concrete than 'product' or 'solution.'",
-        "synonyms": [
-          "idea",
-          "notion"
-        ],
-        "antonyms": [
-          "reality",
-          "fact"
-        ]
-      },
-      {
-        "word": "reflect",
-        "definition": "To think deeply or carefully about something, often leading to insights or conclusions.",
-        "businessContext": "In a business setting, to reflect can mean evaluating past performance, decisions, or strategies to inform future actions and improvements.",
-        "nuance": "While 'reflect' can imply a thoughtful process, it may also suggest a passive consideration rather than active problem-solving.",
-        "synonyms": [
-          "consider",
-          "ponder"
-        ],
-        "antonyms": [
-          "ignore",
-          "dismiss"
-        ]
-      },
-      {
-        "word": "treat",
-        "definition": "To regard or consider in a specified way; to handle or deal with something.",
-        "businessContext": "In business, 'treat' can refer to how customers, employees, or issues are managed, such as treating customer feedback seriously or treating employees with respect.",
-        "nuance": "The term carries a connotation of care or consideration, and is often used in contexts where relationships or interactions are emphasized.",
-        "synonyms": [
-          "handle",
-          "manage"
-        ],
-        "antonyms": [
-          "neglect",
-          "abuse"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

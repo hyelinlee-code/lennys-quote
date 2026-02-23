@@ -21,9 +21,9 @@
       "Venture Capital",
       "Product Management"
     ],
-    "text_ko": "답변을 준비하기 위해, Make Time의 간단한 역사를 말씀드릴게요. 존과 저는 10년 넘게 스타트업과 함께 일하면서, '시간을 디자인하는' 작업을 해왔어요. 그 과정에서 제품 시장 적합성(product market fit)을 찾거나 확장하는 데 도움을 줬죠. 그래서 구글 벤처스에서 디자인 스프린트(design sprint)를 개발하게 되었고, 그에 관한 책이 바로 '스프린트(Sprint)'예요.",
-    "text_zh": "先简单说说《腾出时间》这本书的背景。十多年来，我和约翰一直在做\"时间设计\"这件事，帮助初创公司找到或扩大产品市场匹配度(product market fit)。所以我们在谷歌风投开发了设计冲刺(design sprint)方法，《冲刺》那本书讲的就是这个。",
-    "text_es": "Para contextualizarte, te voy a dar un resumen súper breve de la historia de Make Time. Durante más de una década, John y yo hemos estado, entre comillas, diseñando el tiempo como parte de nuestro trabajo con startups, ayudándoles a encontrar o expandir el ajuste producto-mercado (product market fit). Así que desarrollamos un sprint de diseño (design sprint) en Google Ventures, que es de lo que trata el libro Sprint.",
+    "text_ko": "답을 드리기 전에 Make Time의 아주 짧은 역사를 먼저 말씀드릴게요. 지난 10년 넘게 존과 저는 소위 '시간을 설계한다'는 방식으로 스타트업들과 함께 일하면서 그들이 제품-시장 적합성(product-market fit)을 찾거나 확장할 수 있게 도와왔어요.",
+    "text_zh": "为交代清楚答案，我先简短介绍一下 Make Time 的来龙去脉。十多年来，我和 John 在和创业公司合作时，可以说一直在做所谓的“时间设计”，帮他们找到或扩大产品与市场的契合(product market fit)。",
+    "text_es": "Para poner en contexto la respuesta, te voy a contar una historia súper breve de Make Time. Y durante más de una década, John y yo hemos estado, entre comillas, «diseñando el tiempo» como parte de nuestro trabajo con startups, ayudándoles a encontrar o ampliar el encaje producto‑mercado (product-market fit).",
     "key_sentence": "We designed time to help startups find or expand product market fit.",
     "text_trimmed": true,
     "original_text": "To set the answer up, I'll give you a super brief history of Make Time. And for over a decade, John and I have been, in quotes, designing time as part of our work with startups, helping them find or expand product market fit. So, we developed a design sprint at Google Ventures, which the Sprint book is about.",
@@ -85,7 +85,8 @@
           "corporate enterprises"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "So, even though we are not productivity gurus, this hasn't been like this thing we were doing forever, it's not our full-time job, but we thought we want to share this framework.",
@@ -94,9 +95,7 @@
     "context": "Jake continues explaining the origin story of their Make Time book. He emphasizes that they aren't traditional productivity experts - this wasn't their main career focus, but rather emerged as a side project to share practical lessons they discovered while working with startups on design sprints and applying those insights to their personal productivity.",
     "vocabulary_highlights": [
       "framework",
-      "productivity",
-      "emerged",
-      "career focus"
+      "productivity"
     ],
     "topics": [
       "Learning & Growth",
@@ -109,9 +108,9 @@
       "Venture Capital",
       "Product Management"
     ],
-    "text_ko": "저희는 생산성 전문가(productivity gurus)는 아니고, 오래전부터 해오던 일도 아니고 전업으로 하는 일도 아니었어요. 다만 이 프레임워크(framework)를 다른 사람들과 나누고 싶었어요. 그래서 Make Time이라는 책과 그보다 먼저 시작한 블로그는 우리가 배운 걸 공유하려는 사이드 프로젝트(side project)였고요. 그런데 의외로 많은 분들에게 공감을 얻은 것 같아요.",
-    "text_zh": "所以，虽然我们不是什么生产力大师，这也不是我们一直在做的事情，也不是我们的全职工作，但我们觉得想把这套方法分享出来。所以，《腾出时间》这本书，还有之前的博客，就是我们的一个副业项目，想分享一下我们学到的东西。看起来确实引起了很多人的共鸣。",
-    "text_es": "Entonces, aunque no somos gurús de la productividad, esto no es algo que hayamos estado haciendo toda la vida, no es nuestro trabajo de tiempo completo, pero pensamos que queríamos compartir este marco de trabajo (framework). Así que Make Time, el libro y el blog que lo precedió, fue como este proyecto paralelo para compartir lo que aprendimos. Y sí, parece que ha conectado con un montón de gente.",
+    "text_ko": "그래서 저희는 생산성 전문가도 아니고, 이걸 오래 해온 것도 아니고, 전업으로 하는 일도 아니지만, 이 프레임워크(framework)를 공유하고 싶었어요.",
+    "text_zh": "所以我们虽然不是生产力大师(productivity gurus)，也没一直做这件事、也不是全职在做，但还是想把这个框架分享给大家。",
+    "text_es": "Así que, aunque no somos gurús de la productividad (productivity gurus), esto no es algo que llevemos haciendo siempre ni es nuestro trabajo a tiempo completo; aun así, pensamos que valía la pena compartir este marco (framework).",
     "key_sentence": "we are not productivity gurus",
     "text_trimmed": true,
     "original_text": "So, even though we are not productivity gurus, this hasn't been like this thing we were doing forever, it's not our full-time job, but we thought we want to share this framework. So, Make Time, the book and the blog that proceeded it was just kind this side project to share what we learned. And yeah, it seems like it is resonated with a bunch of people.",
@@ -144,36 +143,10 @@
           "inefficiency",
           "unproductiveness"
         ]
-      },
-      {
-        "word": "emerged",
-        "definition": "To come into view or become apparent after being hidden or less visible.",
-        "businessContext": "In the context of business, 'emerged' often describes new trends, technologies, or market leaders that have gained prominence over time.",
-        "nuance": "This term suggests a gradual process of development or recognition, making it suitable for discussing trends rather than sudden changes.",
-        "synonyms": [
-          "surfaced",
-          "arose"
-        ],
-        "antonyms": [
-          "disappeared",
-          "vanished"
-        ]
-      },
-      {
-        "word": "career focus",
-        "definition": "The specific direction or area of specialization that an individual chooses to pursue in their professional life.",
-        "businessContext": "In career development, having a clear career focus helps individuals align their skills, experiences, and goals with job opportunities and industry demands.",
-        "nuance": "This phrase conveys a sense of intentionality and purpose in one's professional journey, making it more suitable for discussions about long-term planning rather than casual job changes.",
-        "synonyms": [
-          "career path",
-          "professional direction"
-        ],
-        "antonyms": [
-          "career ambiguity",
-          "indecision"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "Our perspective is basically that those are the defaults. Just like our software that we use, apps that we use have defaults, those are the defaults of life, of the companies that we work in, the culture that we live in.",
@@ -182,9 +155,7 @@
     "context": "Lenny asks about what people get wrong with productivity, and John explains their core philosophy. He argues that most productivity advice focuses on being more efficient at existing tasks (emails, meetings), but their approach is about changing the fundamental defaults of how we structure our time, similar to how software has default settings that can be customized.",
     "vocabulary_highlights": [
       "defaults",
-      "perspective",
-      "core philosophy",
-      "productivity"
+      "perspective"
     ],
     "topics": [
       "Decision Making",
@@ -197,9 +168,9 @@
       "Venture Capital",
       "Leadership Development"
     ],
-    "text_ko": "저희 관점은 그런 것들이 바로 기본값(defaults)이라는 거예요. 우리가 쓰는 소프트웨어(software)나 앱(apps)에 기본값이 있듯이, 삶이나 우리가 다니는 회사, 우리가 속한 문화에도 그런 기본값이 있다는 뜻이에요. 그래서 해결책은 그 기본값을 바꾸고, 이런 사고방식을 완전히 뒤집는 거예요.",
-    "text_zh": "我们的观点其实很简单，那些就是默认设置。就像我们用的软件、APP都有默认设置一样，这些就是生活的默认设置，包括我们工作的公司、我们身处的文化环境。所以解决方案其实就是要改变这些默认设置，把这种思维方式彻底颠覆过来。",
-    "text_es": "Nuestra perspectiva es básicamente que esas son las configuraciones por defecto. Igual que el software que usamos, las aplicaciones que manejamos tienen sus ajustes predeterminados, esos son los defaults de la vida, de las empresas donde trabajamos, de la cultura en la que vivimos. Entonces, la solución en realidad es cambiar esos defaults y darle la vuelta completa a esta forma de pensar.",
+    "text_ko": "우리 관점은 기본적으로 그런 것들이 '기본값(defaults)'이라는 거예요. 우리가 쓰는 소프트웨어(software)나 앱(apps)에 미리 정해진 설정이 있듯이, 삶의 방식이나 우리가 일하는 회사들, 우리가 속한 문화에도 그런 기본값들이 있다는 얘기예요.",
+    "text_zh": "我们的观点很简单：那些就是默认(defaults)。就像我们用的软件和应用有默认设置一样，生活、我们工作的公司、我们所处的文化也都有这些默认。",
+    "text_es": "Lo vemos así: eso viene por defecto. Igual que los programas (software) y las aplicaciones (apps) que usamos, la vida, las empresas donde trabajamos y la cultura en la que vivimos tienen esos ajustes por defecto (defaults).",
     "key_sentence": "those are the defaults of life, of the companies that we work in, the culture that we live in.",
     "text_trimmed": true,
     "original_text": "Our perspective is basically that those are the defaults. Just like our software that we use, apps that we use have defaults, those are the defaults of life, of the companies that we work in, the culture that we live in. And so, the solution is actually to change those defaults and to really flip this way of thinking on its head.",
@@ -232,36 +203,10 @@
           "narrow-mindedness",
           "bias"
         ]
-      },
-      {
-        "word": "core philosophy",
-        "definition": "Core philosophy refers to the fundamental beliefs and values that guide an organization’s actions and decisions.",
-        "businessContext": "In the business world, a company's core philosophy shapes its culture, brand identity, and strategic direction, influencing everything from employee behavior to customer interactions.",
-        "nuance": "While a strong core philosophy can unify and motivate a workforce, it may also limit flexibility if it becomes too rigid or dogmatic.",
-        "synonyms": [
-          "fundamental principles",
-          "guiding beliefs"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
-      },
-      {
-        "word": "productivity",
-        "definition": "Productivity is the measure of efficiency in converting inputs into outputs, often evaluated in terms of time, resources, or labor.",
-        "businessContext": "In business and technology, productivity is a key performance indicator that organizations strive to enhance through various means, such as process optimization and employee engagement.",
-        "nuance": "While high productivity is generally desirable, it is important to balance it with employee well-being to avoid burnout and maintain long-term effectiveness.",
-        "synonyms": [
-          "efficiency",
-          "output"
-        ],
-        "antonyms": [
-          "inefficiency",
-          "unproductiveness"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The idea of the busy bandwagon is just this expectation that everybody's busy.",
@@ -270,8 +215,6 @@
     "context": "Lenny asks about the concepts of 'busy bandwagon' and 'infinity pools' that prevent people from making time for important things. Jake explains the busy bandwagon as a cultural expectation in the US where being busy is the default response and almost a badge of honor, creating internal pressure to always appear busy and reactive to others' demands.",
     "vocabulary_highlights": [
       "expectation",
-      "cultural",
-      "important",
       "bandwagon"
     ],
     "topics": [
@@ -285,9 +228,9 @@
       "Venture Capital",
       "Product Management"
     ],
-    "text_ko": "바쁜 밴드왜건(busy bandwagon)이라는 생각은 결국 모두가 바쁘다고 기대하는 거예요. 미국에는 그런 경향이 있는데요, 해외에 좀 다녀와서 사람들과 얘기해 보면 돌아오면 더 확실히 느껴져요. 예를 들어 '요즘 어때? 뭐 해?'라고 물어보면 다들 '아, 나 바빠요'라고들 해요.",
-    "text_zh": "忙碌跟风(busy bandwagon)这个概念就是说，大家都觉得每个人都应该很忙。在美国，有这么一种现象，我觉得如果你出国待一段时间，跟当地人聊聊，然后回来你就会发现——就是当你问别人\"嘿，最近怎么样？在忙什么呢？\"他们就会说\"哎呀，忙死了。\"",
-    "text_es": "La idea de esta moda de estar ocupado es simplemente esa expectativa de que todo el mundo está súper ocupado. Y en Estados Unidos, hay como una cosa que creo que si viajas al extranjero y hablas con la gente un rato, y luego regresas, te das cuenta, que es como si le preguntas a alguien: \"Oye, ¿cómo te va? ¿Qué tal todo?\" Y te van a decir: \"Ay, hermano, estoy ocupadísimo.\"",
+    "text_ko": "바쁘다는 밴드왜건(busy bandwagon)은 그냥 모두가 바쁘다고 기대하는 거예요.",
+    "text_zh": "所谓“忙碌从众”（busy bandwagon），就是大家默认别人都很忙。",
+    "text_es": "Lo que hay detrás de la moda de estar siempre ocupado es la expectativa de que todo el mundo esté ocupado.",
     "key_sentence": "The busy bandwagon creates an expectation that everyone is busy.",
     "text_trimmed": true,
     "original_text": "The idea of the busy bandwagon is just this expectation that everybody's busy. And in the United States, there's kind of this thing that I think if you travel abroad and talk to people for a while, then you come back, you'll notice, which is like if you ask someone, 'Hey, how's it going? What are you up to?' And they'll be like, 'Oh man, I'm busy.'",
@@ -308,34 +251,6 @@
         ]
       },
       {
-        "word": "cultural",
-        "definition": "Relating to the ideas, customs, and social behavior of a particular people or society.",
-        "businessContext": "In the context of business, cultural considerations are crucial for global operations, affecting marketing strategies, team dynamics, and corporate identity.",
-        "nuance": "The term 'cultural' often implies a deeper understanding of values and practices, which can vary significantly across different regions or demographics.",
-        "synonyms": [
-          "societal",
-          "ethnic"
-        ],
-        "antonyms": [
-          "universal",
-          "homogeneous"
-        ]
-      },
-      {
-        "word": "important",
-        "definition": "Of great significance or value; likely to have a profound effect on success or outcomes.",
-        "businessContext": "In business, identifying important factors such as key performance indicators (KPIs) is essential for measuring success and guiding strategic initiatives.",
-        "nuance": "While 'important' conveys significance, it can be subjective; what is important to one stakeholder may not be to another.",
-        "synonyms": [
-          "crucial",
-          "vital"
-        ],
-        "antonyms": [
-          "trivial",
-          "insignificant"
-        ]
-      },
-      {
         "word": "bandwagon",
         "definition": "A popular trend or activity that many people join or support, often without critical evaluation.",
         "businessContext": "In the business world, the 'bandwagon effect' can influence consumer behavior, leading companies to adopt popular strategies or products to remain competitive.",
@@ -349,7 +264,9 @@
           "nonconformist"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "And so, when you put these two things together, the busy bandwagon and the infinity pool, you kind of have this, it's like a flywheel, but bad. You feel like you really need to be busy, you really need to be on top of everything.",
@@ -357,8 +274,6 @@
     "timestamp": "00:13:14",
     "context": "John is explaining how the busy bandwagon (cultural pressure to be busy) combines with infinity pools (endlessly refreshing content like social media and email) to create a destructive cycle. He describes how these two forces work together - the internal pressure to stay busy meets apps designed to capture attention, creating what he calls 'a flywheel, but bad.'",
     "vocabulary_highlights": [
-      "cultural pressure",
-      "destructive cycle",
       "on top of",
       "infinity pool"
     ],
@@ -373,42 +288,14 @@
       "Venture Capital",
       "Leadership Development"
     ],
-    "text_ko": "그래서 이 두 가지, 바쁜 밴드왜건(busy bandwagon)과 인피니티 풀(infinity pool)을 합치면, 말하자면 플라이휠(flywheel) 같은 효과가 나는데 좋은 플라이휠이 아니라 안 좋은 쪽이에요. 정말 바쁘지 않으면 안 될 것 같고, 모든 걸 다 챙겨야 한다는 압박을 느끼게 돼요. 그러면 그걸 노리듯 수많은 앱·서비스·제품이 바로 달려들 준비를 하고 있어요.",
-    "text_zh": "所以说，当你把这两个东西放在一起——忙碌的从众心理(busy bandwagon)和无限信息池(infinity pool)，就形成了一种恶性循环，就像飞轮(flywheel)一样，但是是坏的那种。你会觉得自己必须得忙起来，什么事都得跟上节奏。然后呢，就有一大堆应用、服务和产品在那儿等着，随时准备\"收割\"你。",
-    "text_es": "Entonces, cuando juntas estas dos cosas, el rollo de estar siempre ocupado y esa piscina infinita de contenido, tienes como una especie de rueda que se retroalimenta, pero para mal. Sientes que de verdad necesitas estar ocupado todo el tiempo, que tienes que estar al día con todo. Y ahí tienes un montón de apps, servicios y productos listos para aprovecharse de eso.",
+    "text_ko": "그래서 이 두 가지, 바쁜 밴드왜건(busy bandwagon)과 인피니티 풀(infinity pool)을 합치면 일종의 플라이휠(flywheel) 같긴 한데, 안 좋은 쪽이에요. 계속 바쁘지 않으면 안 될 것 같고, 모든 걸 다 챙기고 있어야 할 것 같은 느낌이에요.",
+    "text_zh": "把这两样东西放一起——大家都跟着忙的那股从众风潮 (busy bandwagon) 和无边泳池 (infinity pool)——就会形成一种有点像飞轮 (flywheel) 的循环，不过是糟糕的那种。你会觉得非得一直忙着，什么事都要亲自盯着。",
+    "text_es": "Así que cuando juntas estas dos cosas —la moda de estar ocupado (busy bandwagon) y la piscina infinita (infinity pool)— se forma algo así como una rueda de inercia (flywheel), pero para mal: te hace sentir que tienes que estar siempre ocupado y que debes estar encima de todo.",
     "key_sentence": "The busy bandwagon and infinity pool create a flywheel, but bad.",
     "text_trimmed": true,
     "original_text": "And so, when you put these two things together, the busy bandwagon and the infinity pool, you kind of have this, it's like a flywheel, but bad. You feel like you really need to be busy, you really need to be on top of everything. And then, you've got this whole collection of apps and services and products there that are ready to pounce on that.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "cultural pressure",
-        "definition": "The social expectations and norms that influence individuals' behaviors and decisions within a particular culture or society.",
-        "businessContext": "In business settings, cultural pressure can affect workplace dynamics, employee performance, and organizational culture, often pushing individuals to conform to prevailing practices or attitudes.",
-        "nuance": "While cultural pressure can foster unity and shared values, it may also lead to stress and burnout if individuals feel compelled to meet unrealistic expectations.",
-        "synonyms": [
-          "social pressure",
-          "societal influence"
-        ],
-        "antonyms": [
-          "individual autonomy",
-          "personal freedom"
-        ]
-      },
-      {
-        "word": "destructive cycle",
-        "definition": "A repeating pattern of behavior or events that leads to negative outcomes, often perpetuating harm or dysfunction.",
-        "businessContext": "In a business context, a destructive cycle can manifest in poor management practices, low employee morale, and declining performance, creating a self-reinforcing loop of negativity.",
-        "nuance": "The term is often used to highlight the urgency for intervention, as recognizing and breaking a destructive cycle is crucial for recovery and improvement.",
-        "synonyms": [
-          "vicious cycle",
-          "negative feedback loop"
-        ],
-        "antonyms": [
-          "positive cycle",
-          "virtuous circle"
-        ]
-      },
       {
         "word": "on top of",
         "definition": "To be in control of or fully aware of a situation, often implying effective management or oversight.",
@@ -437,7 +324,9 @@
           "finite pool"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "At any given point in time, I probably give myself a B to B-, and sometimes it's a C and sometimes it's a D, and sometimes it's an A, and I'm really plugging away, but it's totally an ongoing challenge.",
@@ -445,10 +334,7 @@
     "timestamp": "00:17:28",
     "context": "Lenny asks Jake and John about their own productivity and how well they follow their Make Time framework. Jake gives an honest assessment of his own performance, rating himself between B- and D most days. He emphasizes that productivity is an ongoing challenge and he doesn't want to present himself as having it all figured out perfectly.",
     "vocabulary_highlights": [
-      "ongoing challenge",
-      "honest assessment",
-      "productivity",
-      "framework"
+      "ongoing challenge"
     ],
     "topics": [
       "Learning & Growth",
@@ -461,9 +347,9 @@
       "Venture Capital",
       "Product Management"
     ],
-    "text_ko": "지금 이 순간 제 자신을 평가해보면 보통 B에서 B- 정도라고 생각해요. 가끔은 C, 때로는 D일 때도 있고, 또 어떤 땐 A를 준다고 느낄 때도 있어요. 정말 열심히 하고 있지만 계속되는 도전이에요. 그래서 제가 여기서 '48시간 동안 드론(drone)으로 저만 따라다니면 이게 바로 일하는 방식의 정답이라고 생각하게 될 거예요'라고 말하진 않겠어요.",
-    "text_zh": "不管什么时候，我给自己打分的话，大概就是B到B-吧，有时候是C，有时候是D，偶尔能拿个A，我一直在努力，但这真的是个持续的挑战。所以我不会坐在这儿跟你说，嘿，你跟着我48小时，然后就觉得我做的就是标准答案。",
-    "text_es": "En cualquier momento dado, probablemente me pondría un B o B-, y a veces es un C y a veces un D, y de vez en cuando un A, y sigo dale que dale, pero es un desafío constante. Así que no voy a sentarme aquí y decir, sí, sígueme con un dron por 48 horas y vas a pensar que así es exactamente como debes hacer las cosas.",
+    "text_ko": "어떤 시점에선 제 자신에게 아마 B에서 B- 정도 점수를 주는 것 같아요. 가끔은 C나 D일 때도 있고, 또 가끔은 A일 때도 있어요. 정말 열심히 하고 있긴 한데, 계속되는 도전이에요.",
+    "text_zh": "说实话，我平时给自己打分大概是B到B-，有时候是C，有时候是D，偶尔能到A。我一直在努力，但这确实是个不断的挑战。",
+    "text_es": "En un momento dado me pondría probablemente una B o B-; otras veces un C, otras un D y a veces una A. Estoy dándolo todo, pero sigue siendo un reto constante.",
     "key_sentence": "it's totally an ongoing challenge.",
     "text_trimmed": true,
     "original_text": "At any given point in time, I probably give myself a B to B-, and sometimes it's a C and sometimes it's a D, and sometimes it's an A, and I'm really plugging away, but it's totally an ongoing challenge. So, I'm not going to sit here and say, yeah, just follow me with a drone for 48 hours and you'll think that's exactly how you should do things.",
@@ -482,50 +368,10 @@
           "resolved problem",
           "completed task"
         ]
-      },
-      {
-        "word": "honest assessment",
-        "definition": "A truthful and objective evaluation of a situation, performance, or outcome.",
-        "businessContext": "In a business context, an honest assessment is crucial for performance reviews, project evaluations, and strategic planning, ensuring that decisions are based on accurate information.",
-        "nuance": "This term emphasizes the importance of transparency and integrity in evaluations, suggesting that sugarcoating results can lead to misguided decisions.",
-        "synonyms": [
-          "candid evaluation",
-          "truthful analysis"
-        ],
-        "antonyms": [
-          "biased review",
-          "deceptive appraisal"
-        ]
-      },
-      {
-        "word": "productivity",
-        "definition": "The measure of efficiency in converting inputs into outputs, often quantified in terms of output per unit of input over a specific period.",
-        "businessContext": "In the business and tech sectors, productivity is a key performance indicator that organizations strive to improve through various methods, including technology adoption and process optimization.",
-        "nuance": "While productivity often focuses on quantitative measures, it can also encompass qualitative aspects such as employee satisfaction and work-life balance.",
-        "synonyms": [
-          "efficiency",
-          "output"
-        ],
-        "antonyms": [
-          "inefficiency",
-          "unproductiveness"
-        ]
-      },
-      {
-        "word": "framework",
-        "definition": "A structured approach or system that provides a foundation for understanding, analyzing, or addressing a particular issue or set of issues.",
-        "businessContext": "In business and technology, frameworks are often used to guide project management, strategic planning, and software development, offering a standardized method for tackling complex problems.",
-        "nuance": "While frameworks provide valuable guidance, they should be adaptable to specific contexts rather than rigidly followed, allowing for innovation and flexibility.",
-        "synonyms": [
-          "structure",
-          "system"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The notion what the highlight is, start your day out and you imagine it's the end of the day, you're looking back on the day. If someone asked you, 'What was the highlight of your day,' what would you say?",
@@ -534,9 +380,7 @@
     "context": "Jake is explaining the concept of a 'highlight' - the central component of their Make Time framework. This is about choosing one main thing you want to accomplish each day by imagining what you'd want to tell someone was the best part of your day. It's the anchor that helps you structure your time around what truly matters to you.",
     "vocabulary_highlights": [
       "notion",
-      "highlight",
-      "accomplish",
-      "framework"
+      "highlight"
     ],
     "topics": [
       "Strategy & Planning",
@@ -549,9 +393,9 @@
       "Venture Capital",
       "Product Management"
     ],
-    "text_ko": "하루를 시작할 때 마치 그날이 이미 끝나서 되돌아보고 있는 것처럼 상상해 보세요. 누군가가 \"오늘의 하이라이트가 뭐였어요?\"라고 물으면 뭐라고 답하고 싶으세요? 오늘 하루가 끝날 때 \"오늘의 하이라이트는 이거였어요\"라고 말하고 싶게 만드는 건 뭘까요?",
-    "text_zh": "这个概念就是说，一天开始的时候，你想象一下今天已经结束了，你在回顾这一天。如果有人问你\"今天最棒的事情是什么\"，你会怎么回答？今天结束的时候，你希望能说什么是今天的亮点？",
-    "text_es": "La idea es esta: empiezas tu día imaginándote que ya es el final del día y estás viendo hacia atrás. Si alguien te preguntara \"¿Qué fue lo mejor de tu día?\", ¿qué responderías? ¿Qué quieres poder decir al final de hoy que fue lo mejor del día?",
+    "text_ko": "이건 하루의 하이라이트가 무엇인지 미리 정해보는 개념이에요. 하루를 시작할 때 마치 하루가 끝나서 뒤돌아보고 있는 것처럼 상상해보세요. 누군가 '오늘 하루의 하이라이트가 뭐였어요?'라고 물어본다면 뭐라고 대답하겠어요?",
+    "text_zh": "有个想法是：一开始就想象这一天已经结束、你在回顾当天。如果有人问你“你今天的亮点是什么？”，你会怎么回答？",
+    "text_es": "La idea de pensar cuál sería lo más destacado: empiezas la jornada imaginando que ya es el final y haces balance. Si alguien te preguntara, «¿Cuál fue lo mejor de tu día?», ¿qué dirías?",
     "key_sentence": "Looking back on the day, what was the highlight you want to remember?",
     "text_trimmed": true,
     "original_text": "The notion what the highlight is, start your day out and you imagine it's the end of the day, you're looking back on the day. If someone asked you, 'What was the highlight of your day,' what would you say? What do you want to say at the end of today was the highlight of today?",
@@ -584,36 +428,10 @@
           "downplay",
           "minimize"
         ]
-      },
-      {
-        "word": "accomplish",
-        "definition": "To accomplish means to successfully achieve or complete a task, goal, or objective, often through effort and skill. It implies a sense of fulfillment upon reaching a desired outcome.",
-        "businessContext": "In the context of project management, accomplishing milestones is critical for tracking progress and ensuring that objectives are met within deadlines.",
-        "nuance": "The term often conveys a sense of achievement and can be used in both formal and informal contexts to denote success.",
-        "synonyms": [
-          "achieve",
-          "attain"
-        ],
-        "antonyms": [
-          "fail",
-          "abandon"
-        ]
-      },
-      {
-        "word": "framework",
-        "definition": "A framework is a structured approach or system that provides guidance and support for understanding or addressing a particular issue or set of tasks. It often includes principles, guidelines, and best practices.",
-        "businessContext": "In strategic planning, a framework is essential for aligning team efforts and ensuring that all members understand the processes and objectives necessary for success.",
-        "nuance": "The term 'framework' suggests a comprehensive and organized structure, which is particularly useful in complex projects or initiatives requiring clarity and consistency.",
-        "synonyms": [
-          "structure",
-          "system"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "So, most days, the first half of the day before lunch is my focus time, and I protect that very, very intensely, and then use that time to work on whatever my highlight is.",
@@ -622,8 +440,6 @@
     "context": "John is describing his personal implementation of the Make Time framework as a venture capitalist. He explains how he structures his calendar to prioritize focused work time for his daily highlight, despite the naturally chaotic and meeting-heavy environment of VC work. This shows how to apply the highlight concept in a demanding professional context.",
     "vocabulary_highlights": [
       "focus time",
-      "prioritize",
-      "implementation",
       "highlight"
     ],
     "topics": [
@@ -658,34 +474,6 @@
         ]
       },
       {
-        "word": "prioritize",
-        "definition": "To arrange or deal with tasks in order of importance or urgency.",
-        "businessContext": "In the fast-paced environment of startups and tech companies, prioritizing tasks is essential for effective resource allocation and meeting deadlines.",
-        "nuance": "Prioritizing often involves making difficult choices and trade-offs, highlighting the need for strategic decision-making.",
-        "synonyms": [
-          "rank",
-          "order"
-        ],
-        "antonyms": [
-          "ignore",
-          "deprioritize"
-        ]
-      },
-      {
-        "word": "implementation",
-        "definition": "The process of putting a plan or decision into effect; executing a strategy or project.",
-        "businessContext": "Successful implementation is critical in business as it determines whether strategies and innovations translate into tangible results.",
-        "nuance": "Implementation carries a sense of urgency and action, often associated with overcoming challenges to achieve desired outcomes.",
-        "synonyms": [
-          "execution",
-          "enactment"
-        ],
-        "antonyms": [
-          "abandonment",
-          "neglect"
-        ]
-      },
-      {
         "word": "highlight",
         "definition": "To emphasize or make something stand out, often to draw attention to its significance or importance.",
         "businessContext": "In presentations and reports, highlighting key achievements or data points is vital for effective communication and persuasion.",
@@ -699,7 +487,8 @@
           "minimize"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "This thing, I think we basically are steered toward becoming reaction machines and this notion of, 'I'm going to have an empty inbox. I'm going to do every task. I'm going to be a fast responder, I'm going to be in every meeting.",
@@ -707,8 +496,6 @@
     "timestamp": "01:16:07",
     "context": "Jake is explaining why people struggle with productivity and fall into reactive patterns. He describes how the desire to be helpful and responsive leads people to become 'reaction machines' - constantly responding to others' demands rather than focusing on their own important work. This reactive mode prevents people from doing meaningful, proactive work.",
     "vocabulary_highlights": [
-      "productivity",
-      "reactive patterns",
       "fast responder",
       "notion"
     ],
@@ -723,42 +510,14 @@
       "Venture Capital",
       "Product Management"
     ],
-    "text_ko": "제 생각에는 결국 우리를 반응만 하는 기계(reaction machines)로 몰아가는 것 같아요. '인박스를 비워야 해(inbox zero). 모든 업무를 다 해내고, 답장은 빨리 하고, 모든 회의에 참석해야 해. 남을 도우려는 마음에서 그런 거고, 그게 정상적인 방식이라는 생각' 말이에요.",
-    "text_zh": "我觉得这事儿吧，我们基本上都被推着变成了反应机器，就是那种想法——\"我要把邮箱清空，每个任务都要做，要秒回消息，每个会都要参加。我这么做是因为想帮助别人，觉得就应该这样。\"",
-    "text_es": "Mira, creo que básicamente nos están convirtiendo en máquinas de reaccionar, con esa mentalidad de \"voy a tener el correo vacío, voy a hacer todas las tareas, voy a responder súper rápido, voy a estar en todas las reuniones. Lo voy a hacer porque quiero ayudar a los demás, y así es como funciona esto.\"",
+    "text_ko": "제 생각에는 우리는 기본적으로 반응 기계(reaction machines)가 되도록 몰리고 있는 것 같아요. '받은 편지함(empty inbox)을 비울 거야. 할 일은 다 해낼 거야. 답장은 빨리할 거야. 모든 회의에 다 들어갈 거야.' 같은 생각이요.",
+    "text_zh": "我觉得我们基本上被推着变成“反应机器”（reaction machines），大家都往那种思路走：要把收件箱清空（empty inbox）、把每项任务都做完、尽量快速回复（fast responder）、参加每一个会议……",
+    "text_es": "Creo que esto nos está empujando a convertirnos en máquinas reactivas, con la mentalidad de: \"voy a mantener la bandeja de entrada vacía (empty inbox), voy a hacer todas las tareas, voy a responder rápido (fast responder), voy a estar en todas las reuniones.\"",
     "key_sentence": "We are steered toward becoming reaction machines and fast responders.",
     "text_trimmed": true,
     "original_text": "This thing, I think we basically are steered toward becoming reaction machines and this notion of, 'I'm going to have an empty inbox. I'm going to do every task. I'm going to be a fast responder, I'm going to be in every meeting. I'm going to do that because I want to help other people, and that's the way it works.'",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "productivity",
-        "definition": "The measure of efficiency in converting inputs into outputs, often quantified in terms of work completed over a specific time frame.",
-        "businessContext": "In business settings, productivity is crucial for assessing employee performance, optimizing processes, and maximizing resource utilization to achieve organizational goals.",
-        "nuance": "While productivity is generally viewed positively, an excessive focus on it can lead to burnout or a neglect of quality in favor of quantity.",
-        "synonyms": [
-          "efficiency",
-          "output"
-        ],
-        "antonyms": [
-          "inefficiency",
-          "waste"
-        ]
-      },
-      {
-        "word": "reactive patterns",
-        "definition": "Behavioral tendencies that prioritize responding to immediate stimuli or crises rather than planning or acting proactively.",
-        "businessContext": "In a business environment, reactive patterns can hinder strategic decision-making and lead to a cycle of constant firefighting rather than long-term planning.",
-        "nuance": "While being reactive can be necessary in certain situations, over-reliance on this approach may indicate a lack of foresight or strategic vision.",
-        "synonyms": [
-          "responsive behavior",
-          "crisis management"
-        ],
-        "antonyms": [
-          "proactive strategies",
-          "strategic planning"
-        ]
-      },
       {
         "word": "fast responder",
         "definition": "An individual or entity that quickly reacts to inquiries, issues, or changes, often seen as a desirable trait in customer service and team dynamics.",
@@ -787,6 +546,8 @@
           "certainty"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

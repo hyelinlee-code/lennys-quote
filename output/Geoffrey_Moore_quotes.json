@@ -5,8 +5,6 @@
     "timestamp": "00:00:00",
     "context": "Lenny asks Geoffrey about the importance of starting very focused with your initial target audience. Geoffrey explains why companies should resist the urge to go after any customer when trying to cross the chasm - the gap between early adopters and mainstream pragmatic customers. He uses a bonfire analogy to illustrate that scattered efforts won't create sustainable momentum, just as moving a match around won't light a log.",
     "vocabulary_highlights": [
-      "target audience",
-      "resist the urge",
       "revenue",
       "tendency"
     ],
@@ -19,42 +17,14 @@
     "speaker_expertise": [
       "Go-to-Market"
     ],
-    "text_ko": "캐즘(chasm)에 빠져 있으면 흔히 \"그냥 고객만 더 있으면 돼요. 찾을 수 있는 고객이면 누구든 받아야 해요\"라고 생각해요. 매출이 필요하니까요. 그런데 그건 성냥을 들고 통나무 밑을 왔다 갔다 문지르는 것과 같아요. 통나무에 불이 붙지 않아요. 그럼 어떻게 불을 붙이나요? 작은 땔감(kindling)과 구겨 둔 종이 조금을 넣고 성냥을 한 곳에 대고 가만히 붙여서 불이 붙을 때까지 기다려야 해요.",
-    "text_zh": "当你处在鸿沟期(chasm)的时候，往往会想\"我就是需要更多客户，只要能找到客户我都要\"，因为我们需要收入嘛。但这就像拿根火柴在木头下面来回划，是点不着火的。那怎么生火呢？你得先放点引火物，比如揉成团的纸，然后把火柴固定在一个地方，一直烧到火真正燃起来。",
-    "text_es": "La tendencia cuando estás en el abismo es pensar \"necesito más clientes, debería aceptar cualquier cliente que encuentre\" porque necesitamos ingresos. Es como tomar un fósforo y pasarlo de un lado a otro debajo de un tronco. No va a prender el tronco. Entonces, ¿cómo prendes un fuego? Bueno, lo prendes poniendo un poco de leña seca, papelitos arrugados, y mantienes el fósforo en un solo lugar hasta que el fuego comience.",
+    "text_ko": "캐즘(chasm)에 있을 땐 흔히 “그냥 고객만 더 있으면 돼. 닥치는 대로 아무 고객이나 받아야 해”라는 생각이 들어요. 당장 매출이 필요하니까요. 그런데 그건 성냥불을 켜서 통나무 밑에서 이리저리 비벼대는 것과 같아요.",
+    "text_zh": "掉进鸿沟(chasm)的时候，大家都会想\"我就是需要更多客户，不管什么客户我都要\"，因为我们需要收入嘛。这就像拿火柴在木头下面来回划一样。",
+    "text_es": "La tendencia cuando estás en el abismo es pensar \"necesito más clientes, debería aceptar cualquier cliente que encuentre\" porque necesitamos ingresos. Es como tomar un fósforo y pasarlo de un lado a otro debajo de un tronco.",
     "key_sentence": "Taking any customer in the chasm won't ignite your business.",
     "text_trimmed": true,
     "original_text": "The tendency when you're in the chasm is, \"I just need more customers. I should take any customer I could find,\" because we need revenue. It's like taking a match and running it back and forth under a log. It's not going to light the log. So how do you start a fire? Well, you start it by putting a little kindling, little crumpled up paper, and you hold the match in one place until the fire starts.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "target audience",
-        "definition": "A specific group of consumers identified as the intended recipient of a marketing message or product.",
-        "businessContext": "In business and marketing, understanding the target audience is crucial for tailoring strategies that effectively reach and engage potential customers.",
-        "nuance": "The term implies a focused approach rather than a broad one, suggesting that not all consumers are equally valuable or relevant to a particular product or service.",
-        "synonyms": [
-          "target market",
-          "audience segment"
-        ],
-        "antonyms": [
-          "general public",
-          "broad audience"
-        ]
-      },
-      {
-        "word": "resist the urge",
-        "definition": "To consciously refrain from acting on a strong impulse or desire.",
-        "businessContext": "In a business context, resisting the urge often relates to avoiding impulsive decisions that may lead to negative consequences, such as overextending resources or compromising quality.",
-        "nuance": "This phrase carries a sense of self-control and discipline, often used in discussions about strategic decision-making.",
-        "synonyms": [
-          "withstand temptation",
-          "exercise restraint"
-        ],
-        "antonyms": [
-          "give in",
-          "succumb"
-        ]
-      },
       {
         "word": "revenue",
         "definition": "The total income generated from the sale of goods or services before any expenses are deducted.",
@@ -83,7 +53,9 @@
           "aversion"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The Crossing the Chasm model is, \"Can you create a viable repeatable business?\" And in order to do that, you need to have an ecosystem of partners work with you in order to consolidate your position.",
@@ -106,9 +78,9 @@
     "speaker_expertise": [
       "Go-to-Market"
     ],
-    "text_ko": "크로싱 더 채즘(Crossing the Chasm) 모델은 '지속 가능하고 반복 가능한 비즈니스를 만들 수 있느냐?'를 묻는 모델이에요. 그렇게 하려면 파트너로 구성된 생태계(partner ecosystem)가 함께 움직여 회사의 입지를 공고히 해줘야 해요. 그런데 왜 아무도 모르는 스타트업과 그런 파트너 생태계가 굳이 협력하겠어요? 답은 그 스타트업이 특정 시장 세그먼트(market segment)에서 1위로 자리잡아야 한다는 거예요.",
-    "text_zh": "跨越鸿沟(Crossing the Chasm)模型其实就是在问，\"你能不能打造一个可持续、可复制的生意？\"要做到这一点，你得有一个生态圈，让各种合作伙伴愿意跟你一起干，这样才能巩固你的地位。但问题来了，凭什么这些生态伙伴要跟一个没人听过的小创业公司合作呢？答案很简单——除非你已经在某个细分市场里做到了老大的位置。",
-    "text_es": "El modelo de Crossing the Chasm se trata de \"¿Puedes crear un negocio viable y repetible?\" Y para lograr eso, necesitas tener todo un ecosistema de socios que trabajen contigo para consolidar tu posición. Bueno, pero ¿por qué un ecosistema va a querer trabajar con una startup que nadie conoce? La respuesta sería si ya hubieras consolidado un segmento de mercado donde fueras el número uno.",
+    "text_ko": "크로싱 더 캐즘 모델(Crossing the Chasm model)은 ‘실행 가능하고 반복 가능한 비즈니스(viable, repeatable business)를 만들 수 있느냐’는 질문을 던지는 모델이에요. 그리고 그렇게 하려면 입지를 공고히 하기 위해 파트너 생태계(partner ecosystem)가 당신과 함께 협력해야 해요.",
+    "text_zh": "跨越鸿沟(Crossing the Chasm)模式问的是：\"你能不能打造一个可持续、可复制的生意？\"要做到这一点，你得建立一个合作伙伴生态圈，大家一起配合才能巩固你的市场地位。",
+    "text_es": "El modelo de Crossing the Chasm se trata de \"¿Puedes crear un negocio viable y que se pueda repetir?\" Y para lograr eso, necesitas tener todo un ecosistema de socios que trabajen contigo para consolidar tu posición en el mercado.",
     "key_sentence": "you need to have an ecosystem of partners work with you in order to consolidate your position.",
     "text_trimmed": true,
     "original_text": "The Crossing the Chasm model is, \"Can you create a viable repeatable business?\" And in order to do that, you need to have an ecosystem of partners work with you in order to consolidate your position. Well, why would an ecosystem work with some startup that nobody's ever heard of? The answer would be if you had consolidated a market segment where you were number one.",
@@ -170,19 +142,15 @@
           "separate"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "Before the chasm, the customers you work with are people who say, \"We believe what you believe.\" So in other words, they're on the same side.",
     "speaker": "Geoffrey Moore",
     "timestamp": "00:09:49",
     "context": "Lenny explains the root of Crossing the Chasm - that pragmatists wait for references and social proof while visionaries want to use the future first. Geoffrey clarifies the fundamental shift in customer motivation across the technology adoption lifecycle. Early customers (visionaries) are excited about your vision and want to partner with you, while later customers (pragmatists) are primarily concerned with solving their practical business problems.",
-    "vocabulary_highlights": [
-      "pragmatists",
-      "social proof",
-      "fundamental shift",
-      "visionaries"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Growth & Marketing",
@@ -193,71 +161,16 @@
     "speaker_expertise": [
       "Go-to-Market"
     ],
-    "text_ko": "캐즘(chasm) 이전에 함께 일하는 고객들은 \"당신이 믿는 걸 우리도 믿어요\"라고 말하는 사람들이에요. 다시 말해 같은 편이죠. 캐즘(chasm) 이후에는 \"그건 잘 모르겠지만, 당신이 가진 건 필요해요\"라고 말해요. 즉 \"당신이 믿는 걸 우리도 믿어요\"라고 팔던 비전가들(visionaries)에게 파는 방식에서, \"당신이 가진 게 필요해요\"라고 팔아야 하는 실용주의자들(pragmatists)에게 파는 방식으로 바뀌는 거예요.",
-    "text_zh": "在跨越鸿沟之前，你服务的客户会说\"我们跟你想的一样\"。换句话说，他们跟你是一伙的。跨越鸿沟之后，他们会说\"这个我还不太确定，但是我们需要你这个东西\"。所以就是从\"我们跟你想的一样\"——这是你跟那些有远见的人做生意的方式，转变到\"我们需要你这个东西\"——这是你跟那些务实派做生意的方式。",
-    "text_es": "Antes del abismo, los clientes con los que trabajas son personas que te dicen: \"Creemos en lo mismo que tú\". O sea, están de tu lado. Después del abismo, te dicen: \"No estoy tan seguro de eso, pero necesitamos lo que tienes\". Entonces es pasar de \"Creemos en lo mismo que tú\", que es como le vendes a los visionarios, a \"Necesitamos lo que tienes\", que es como le vendes a los pragmáticos.",
+    "text_ko": "캐즘(chasm) 이전에는 함께 일하는 고객들이 \"당신이 믿는 걸 우리도 믿어요\"라고 말하는 사람들이에요. 그러니까 같은 편이에요.",
+    "text_zh": "在跨越鸿沟之前，跟你合作的客户都是那种会说\"我们跟你想的一样\"的人。换句话说，你们本来就是一路人。",
+    "text_es": "Antes del abismo, los clientes con los que trabajas son personas que te dicen: \"Nosotros creemos en lo mismo que tú\". O sea, están de tu lado.",
     "key_sentence": "We believe what you believe.",
     "text_trimmed": true,
     "original_text": "Before the chasm, the customers you work with are people who say, \"We believe what you believe.\" So in other words, they're on the same side. After the chasm, they say, \"I'm not sure about that, but we need what you have.\" So transitioning from, \"We believe what you believe,\" which is how you sell to visionaries to, \"We need what you have,\" which is how you sell to pragmatists.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "pragmatists",
-        "definition": "Individuals who are practical and focused on results rather than theories or ideals.",
-        "businessContext": "In business, pragmatists are often decision-makers who prioritize actionable solutions and measurable outcomes over abstract concepts.",
-        "nuance": "The term carries a positive connotation, suggesting a realistic approach, and is often used in contrast to idealists.",
-        "synonyms": [
-          "realists",
-          "practical thinkers"
-        ],
-        "antonyms": [
-          "idealists",
-          "dreamers"
-        ]
-      },
-      {
-        "word": "social proof",
-        "definition": "The psychological phenomenon where individuals look to the behavior and opinions of others to guide their own actions.",
-        "businessContext": "In marketing and sales, social proof is leveraged through testimonials, reviews, and case studies to build trust and influence potential customers.",
-        "nuance": "While generally positive, over-reliance on social proof can lead to groupthink or herd behavior, which may not always be beneficial.",
-        "synonyms": [
-          "social validation",
-          "peer influence"
-        ],
-        "antonyms": [
-          "individualism",
-          "independence"
-        ]
-      },
-      {
-        "word": "fundamental shift",
-        "definition": "A significant change in the underlying principles or structure of a system or process.",
-        "businessContext": "In the context of business strategy, a fundamental shift may refer to a major pivot in operations, market focus, or technology that alters the trajectory of a company.",
-        "nuance": "This term implies a deep and often disruptive change, and should be used when the change is not merely incremental but transformative.",
-        "synonyms": [
-          "paradigm shift",
-          "major change"
-        ],
-        "antonyms": [
-          "stagnation",
-          "continuity"
-        ]
-      },
-      {
-        "word": "visionaries",
-        "definition": "Individuals who have a clear, imaginative, and often innovative perspective on the future, capable of inspiring others.",
-        "businessContext": "In startups and entrepreneurship, visionaries are crucial for driving innovation and setting long-term goals that can motivate teams and attract investors.",
-        "nuance": "While often admired, the term can also imply a disconnect from practical realities, so it should be used carefully to avoid suggesting impracticality.",
-        "synonyms": [
-          "dreamers",
-          "innovators"
-        ],
-        "antonyms": [
-          "pragmatists",
-          "realists"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "The key formula, and this is the formula... If there's one sort of takeaway from founders listening at this point, you want to have a target segment that is big enough to matter, small enough to lead and a good fit with your crown jewels.",
@@ -267,7 +180,6 @@
     "vocabulary_highlights": [
       "target segment",
       "crown jewels",
-      "narrow down",
       "fit"
     ],
     "topics": [
@@ -279,9 +191,9 @@
     "speaker_expertise": [
       "Go-to-Market"
     ],
-    "text_ko": "핵심 공식이에요. 정말로, 공식은 이렇습니다. 지금 이걸 듣고 있는 창업자분들께 한 가지 꼭 기억하실 점이 있다면, 타깃 세그먼트(target segment)는 충분히 중요할 만큼 커야 하고, 여러분이 주도할 수 있을 만큼 작아야 하며, 여러분의 핵심 자산(crown jewels)과 잘 맞아야 해요. 그게 공식이에요.",
-    "text_zh": "关键的公式就是这样的...如果创始人们要从这里带走一个核心观点的话，就是你要找到一个目标细分市场(target segment)，这个市场要足够大、有意义，但又要足够小、你能做到头部，而且还要跟你的核心优势特别匹配。这就是公式。",
-    "text_es": "La fórmula clave, y esta es la fórmula... Si hay algo que los fundadores que nos escuchan se tienen que llevar de aquí, es que necesitan un segmento objetivo que sea lo suficientemente grande como para que valga la pena, lo suficientemente pequeño como para poder dominarlo, y que encaje bien con sus joyas de la corona (crown jewels). Esa es la fórmula.",
+    "text_ko": "핵심 공식이자 포인트예요. 창업자분들이 지금 이걸 듣고 한 가지 만 가져간다면, 여러분의 타깃 세그먼트(target segment)는 의미가 있을 만큼 충분히 크면서도 여러분이 선도할 수 있을 만큼 작고, 여러분의 핵심 자산(crown jewels)과 잘 맞아야 해요.",
+    "text_zh": "核心公式就是这个...如果创始人们要记住一个要点的话，就是你的目标客户群要足够大、有意义，但又要足够小、你能做到头部，而且还得跟你的核心优势特别匹配。",
+    "text_es": "La fórmula clave, y esta es LA fórmula... Si hay algo que los fundadores tienen que llevarse de esto, es que necesitan un segmento objetivo que sea lo suficientemente grande como para que valga la pena, lo suficientemente pequeño como para poder dominarlo, y que encaje bien con sus fortalezas principales (crown jewels).",
     "key_sentence": "Target a segment that is big enough to matter and small enough to lead.",
     "text_trimmed": true,
     "original_text": "The key formula, and this is the formula... If there's one sort of takeaway from founders listening at this point, you want to have a target segment that is big enough to matter, small enough to lead and a good fit with your crown jewels. That's the formula.",
@@ -316,20 +228,6 @@
         ]
       },
       {
-        "word": "narrow down",
-        "definition": "To reduce the number of options or possibilities to a more manageable or specific selection.",
-        "businessContext": "In decision-making processes, businesses often narrow down choices to focus on the most viable options, enhancing efficiency and clarity.",
-        "nuance": "This phrase suggests a process of elimination and refinement, often used in strategic planning or problem-solving discussions.",
-        "synonyms": [
-          "refine",
-          "limit"
-        ],
-        "antonyms": [
-          "broaden",
-          "expand"
-        ]
-      },
-      {
         "word": "fit",
         "definition": "The degree to which a product, service, or strategy aligns with the needs and preferences of a target audience or market.",
         "businessContext": "In business, assessing fit is crucial for ensuring that offerings resonate with customers and meet market demands, influencing product development and marketing strategies.",
@@ -343,7 +241,9 @@
           "incompatibility"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "You're looking for the 10th one. The 10th one is one who says, \"I'm so tired of the status quo. I'm looking for people that are visionary like me.",
@@ -352,9 +252,7 @@
     "context": "Lenny asks about the common advice to avoid working with big companies because they'll push you around and force custom development. Geoffrey explains how to identify the right type of executive sponsor at large companies. He describes the persona-based approach to finding visionary leaders who are frustrated with the status quo and willing to take risks on new technology, rather than typical company people who follow standard processes.",
     "vocabulary_highlights": [
       "status quo",
-      "visionary",
-      "identify",
-      "executive"
+      "visionary"
     ],
     "topics": [
       "Leadership & Management",
@@ -366,9 +264,9 @@
     "speaker_expertise": [
       "Go-to-Market"
     ],
-    "text_ko": "당신이 찾는 건 바로 열 번째 사람이에요. 그 사람은 이렇게 말해요. \"저는 현상 유지(status quo)에 너무 지쳤어요. 저처럼 비전 있는 사람들을 찾고 있어요. 동료들하고 얘기하는 것보다 당신과 얘기하는 게 더 좋아요. 당신은 달라서 저도 달라지고 싶거든요. 세계 시장에서 한 발 앞서 도약(leapfrog)하고 싶어요. 반면 어떤 사람들은 그냥 에스컬레이터에 올라탄 채 가만히 있으려 해요.\"",
-    "text_zh": "你要找的是第十个人。第十个人会说：\"我真的受够了现状了。我在找和我一样有远见的人。我更愿意跟你聊天，而不是跟我那些同行聊，因为你不一样，我也想变得不一样。我想实现跨越式发展，而那些人只想待在舒适圈里原地踏步。\"",
-    "text_es": "Buscas al décimo. El décimo es el que te dice: \"Ya estoy harto del status quo. Busco gente visionaria como yo. Me gusta más hablar contigo que con mis colegas porque eres diferente y yo quiero ser diferente. Quiero saltar por encima del mundo, y esta gente solo quiere quedarse en la escalera mecánica.\"",
+    "text_ko": "당신이 찾고 있는 건 열 번째 사람이에요. 그 열 번째 사람은 \"현상 유지(status quo)에 정말 지쳤어요. 저처럼 비전 있는 사람들(visionary)을 찾고 있어요\"라고 말하는 사람이에요.",
+    "text_zh": "你要找的是第十个人。第十个人会说：\"我真的受够了现状，我要找和我一样有远见的人。\"",
+    "text_es": "Buscas al décimo. Ese décimo es alguien que dice: \"Ya estoy harto de que todo siga igual. Busco gente con visión como yo.\"",
     "key_sentence": "I'm so tired of the status quo. I'm looking for people that are visionary like me.",
     "text_trimmed": true,
     "original_text": "You're looking for the 10th one. The 10th one is one who says, \"I'm so tired of the status quo. I'm looking for people that are visionary like me. I like talking to you better than I like talking to my peers because you're different and I want to be different. I want to leapfrog the world, and these people just want to stay on the escalator.\"",
@@ -401,36 +299,10 @@
           "realist",
           "pragmatist"
         ]
-      },
-      {
-        "word": "identify",
-        "definition": "To recognize or establish the identity of something or someone; to determine the characteristics or qualities of.",
-        "businessContext": "In business, identifying key market trends or customer needs is essential for strategic planning and decision-making.",
-        "nuance": "The term can imply a thorough analysis or understanding, but may also suggest a more superficial recognition in less formal contexts.",
-        "synonyms": [
-          "recognize",
-          "determine"
-        ],
-        "antonyms": [
-          "ignore",
-          "overlook"
-        ]
-      },
-      {
-        "word": "executive",
-        "definition": "A person with senior managerial responsibilities in an organization, often involved in strategic decision-making and leadership.",
-        "businessContext": "Executives play a critical role in setting the vision and direction of a company, as well as managing resources and operations.",
-        "nuance": "The term often conveys authority and high-level responsibility, but can also imply detachment from day-to-day operations.",
-        "synonyms": [
-          "manager",
-          "administrator"
-        ],
-        "antonyms": [
-          "employee",
-          "staff"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "All you really care about is cashflow positive. I just want to be able to keep doing what I'm doing. So you don't care about the actual GAAP accounting at all.",
@@ -439,8 +311,6 @@
     "context": "Lenny asks about Geoffrey's insight that you know you've crossed the chasm when you can survive without more venture funding, specifically wondering about the profit element. Geoffrey clarifies that crossing the chasm is about achieving operational sustainability rather than formal profitability. The goal is to reach a point where the company can continue operating and growing without requiring additional external funding, focusing on cash flow rather than accounting profits.",
     "vocabulary_highlights": [
       "cashflow positive",
-      "venture funding",
-      "profit element",
       "GAAP accounting"
     ],
     "topics": [
@@ -474,34 +344,6 @@
         ]
       },
       {
-        "word": "venture funding",
-        "definition": "Capital provided by investors to startup companies and small businesses with perceived long-term growth potential, typically in exchange for equity.",
-        "businessContext": "Venture funding is a critical source of financing for startups in the technology sector, enabling them to scale operations and innovate without immediate profitability.",
-        "nuance": "While venture funding can accelerate growth, it often comes with high expectations for returns and can lead to loss of control for founders.",
-        "synonyms": [
-          "venture capital",
-          "startup funding"
-        ],
-        "antonyms": [
-          "bootstrapping",
-          "self-funding"
-        ]
-      },
-      {
-        "word": "profit element",
-        "definition": "The portion of a company's revenue that contributes to its overall profit, after accounting for costs and expenses.",
-        "businessContext": "In business analysis, understanding the profit element helps companies identify which products or services are most profitable and inform strategic decisions.",
-        "nuance": "This term is often used in discussions about pricing strategies and cost management, highlighting the importance of maximizing profitability.",
-        "synonyms": [
-          "profit margin",
-          "contribution margin"
-        ],
-        "antonyms": [
-          "loss component",
-          "cost burden"
-        ]
-      },
-      {
         "word": "GAAP accounting",
         "definition": "Generally Accepted Accounting Principles (GAAP) are a set of rules and standards used in the United States for financial reporting and accounting practices.",
         "businessContext": "GAAP accounting ensures consistency and transparency in financial statements, which is essential for investors and stakeholders to assess a company's financial health.",
@@ -515,19 +357,15 @@
           "alternative accounting methods"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "In the bowling alley, it's never about you. And that is so hard for a series of entrepreneurs because they want to give a demo, they want to tell the story, they want to share their vision. The answer is, \"We don't care.",
     "speaker": "Geoffrey Moore",
     "timestamp": "00:41:51",
     "context": "Lenny clarifies that compelling reason to buy refers to the customer's pain point, not the company's sales pitch. Geoffrey explains the fundamental shift in sales approach needed for the bowling alley phase (crossing the chasm). He emphasizes that pragmatic customers experiencing serious business problems don't want product demos or company vision - they want solutions to their specific challenges and need consultative conversations focused on their situation.",
-    "vocabulary_highlights": [
-      "compelling",
-      "fundamental",
-      "pain point",
-      "sales pitch"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Communication Skills",
       "Product Management",
@@ -538,58 +376,15 @@
     "speaker_expertise": [
       "Go-to-Market"
     ],
-    "text_ko": "볼링장에서는 절대 당신에 대한 것이 아니에요. 이게 많은 기업가들에게 정말 힘든 부분인데, 그들은 데모를 보여주고 싶어하고, 이야기를 나누고 싶어하고, 자신의 비전을 공유하고 싶어하거든요. 하지만 대답은 이거예요, \"우리는 관심 없어요. 당신의 이야기를 듣고 싶지 않아요. 데모도 싫고, 당신이 누구인지도 모르겠고, 관심도 없어요. 지금 나는 어려운 상황이에요. 우리는 나에 대해 이야기해야 해요. 당신에 대해 이야기하고 싶지 않아요.\"",
-    "text_zh": "在保龄球馆里，永远不是以你为中心的。这对很多创业者来说特别难接受，因为他们就想做产品演示(demo)，想讲自己的故事，想分享自己的愿景。但现实是：\"我们不在乎这些。我们不想听你的故事。我们讨厌看演示，我也不知道你是谁，也不关心。我现在有麻烦，咱们得聊聊我的问题。我们不想聊你的事儿。\"",
-    "text_es": "Mira, en el mundo de las ventas, nunca se trata de ti. Y esto les cuesta horrores a muchos emprendedores porque quieren hacer su presentación, quieren contar su historia, quieren compartir su visión. Pero la realidad es: \"Nos da igual. No queremos escuchar tu rollo. Odiamos las demos, no sé quién eres y me importa un bledo. Yo tengo problemas. Necesitamos hablar de mí. No queremos hablar de ti.\"",
+    "text_ko": "볼링장에서는 결코 당신 얘기가 중심이 아니에요. 이게 여러 번 창업해본 사람들한테는 너무 힘든데, 데모(demo) 보여주고, 자기 이야기를 들려주고, 비전을 공유하고 싶어하기 때문이에요. 답은 \"우린 관심 없어요\"예요.",
+    "text_zh": "在保龄球馆里，重点从来不是你自己。这对很多创业者来说特别难接受，因为他们就想做产品演示，想讲自己的故事，想分享自己的愿景。但现实是——\"我们不在乎这些。\"",
+    "text_es": "En el mundo de los negocios, nunca se trata de ti. Y eso es súper difícil para muchos emprendedores porque quieren hacer su demo, quieren contar su historia, quieren compartir su visión. Pero la realidad es que \"nos da igual\".",
     "key_sentence": "In the bowling alley, it's never about you; it's about the customer's needs.",
     "text_trimmed": true,
     "original_text": "In the bowling alley, it's never about you. And that is so hard for a series of entrepreneurs because they want to give a demo, they want to tell the story, they want to share their vision. The answer is, \"We don't care. We don't want to hear your story. We hate demos, and I don't know who you are and I don't care. I'm in trouble. We need to talk about me. We don't want to talk about you.\"",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "compelling",
-        "definition": "Evoking interest, attention, or admiration in a powerfully irresistible way.",
-        "businessContext": "In business, a compelling argument or presentation can significantly influence decision-making and persuade stakeholders to take action.",
-        "nuance": "While 'compelling' suggests strong appeal, it is often used in contexts where emotional engagement is crucial, such as marketing or storytelling.",
-        "synonyms": [
-          "engaging",
-          "persuasive"
-        ],
-        "antonyms": []
-      },
-      {
-        "word": "fundamental",
-        "definition": "Forming a necessary base or core; of central importance.",
-        "businessContext": "In a business setting, understanding fundamental principles is essential for effective strategy development and operational success.",
-        "nuance": "The term 'fundamental' implies a foundational aspect that is critical to the functioning or understanding of a system or concept.",
-        "synonyms": [
-          "essential",
-          "basic"
-        ],
-        "antonyms": []
-      },
-      {
-        "word": "pain point",
-        "definition": "A specific problem or issue that customers experience, which creates a need for a solution.",
-        "businessContext": "Identifying pain points is crucial for businesses as it allows them to tailor their products or services to meet customer needs effectively.",
-        "nuance": "The term often conveys a sense of urgency and importance, highlighting areas where customers feel dissatisfaction or frustration.",
-        "synonyms": [
-          "challenge",
-          "problem area"
-        ],
-        "antonyms": []
-      },
-      {
-        "word": "sales pitch",
-        "definition": "A presentation or speech designed to persuade an audience to purchase a product or service.",
-        "businessContext": "A well-crafted sales pitch is vital in business, as it can make the difference between closing a deal and losing a potential customer.",
-        "nuance": "While 'sales pitch' is generally understood, it can carry a negative connotation if perceived as overly aggressive or insincere.",
-        "synonyms": [
-          "sales presentation",
-          "elevator pitch"
-        ],
-        "antonyms": []
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]

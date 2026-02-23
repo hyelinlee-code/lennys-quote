@@ -21,9 +21,9 @@
       "Product Management",
       "AI/ML Products"
     ],
-    "text_ko": "모든 문제는 우리 문제라고 생각하고, 철저한 책임감과 주인의식을 가지는 태도가 우리에게 비즈니스가 명시적으로 요구하지 않았던 기회를 찾는 데 큰 도움이 됐어요. 우리가 왜 그 문제를 해결하는 게 비즈니스에 중요할 수 있는지를 잘 파악할 수 있었거든요.",
-    "text_zh": "这种将每个问题视为我们自己问题的态度，以及激进的责任感和主人翁意识，帮助我们发现了一些业务可能并没有明确要求我们解决的机会，但我们能够推测出这些问题对业务的重要性。",
-    "text_es": "Esa actitud de considerar que cada problema es nuestro problema, junto con una mentalidad de responsabilidad radical y de propiedad, nos ayudó a identificar oportunidades que tal vez el negocio no nos estaba pidiendo explícitamente que resolviéramos, pero pudimos triangular por qué podría ser importante para la empresa que nosotros lo solucionáramos.",
+    "text_ko": "우리는 모든 문제를 우리 문제로 받아들였고, 철저한 책임감(radical accountability)과 오너십(ownership mentality) 덕분에 비즈니스가 명시적으로 해결하라고 요청하지 않았던 부분에서도 기회를 찾아낼 수 있었어요.",
+    "text_zh": "所有问题都是我们的问题，彻底负责任的心态让我们发现了一些商机，可能是业务部门没有明确要求我们去解决的。",
+    "text_es": "Todos los problemas son nuestros problemas, y tener esa mentalidad de asumir la responsabilidad total nos ayudó a encontrar oportunidades que tal vez el negocio no nos estaba pidiendo resolver directamente.",
     "key_sentence": "Radical accountability helped us find opportunities not explicitly asking to be solved.",
     "text_trimmed": true,
     "original_text": "That attitude of saying that every problem is our problem and radical accountability and ownership mentality helped us find opportunities that maybe the business wasn't explicitly asking us to solve, but we were able to triangulate why it might be important for the business for us to solve it.",
@@ -85,7 +85,8 @@
           "vaguely"
         ]
       }
-    ]
+    ],
+    "translations_regenerated": true
   },
   {
     "text": "We intentionally put out a lot of free software, and the idea is that this software is not sort of gimmicky. It's not designed to run out of value on day one.",
@@ -95,8 +96,7 @@
     "vocabulary_highlights": [
       "intentionally",
       "value",
-      "gimmicky",
-      "product-led growth"
+      "gimmicky"
     ],
     "topics": [
       "Product Management",
@@ -109,9 +109,9 @@
       "Product Management",
       "AI/ML Products"
     ],
-    "text_ko": "우리는 의도적으로 많은 무료 소프트웨어를 제공해요. 이 소프트웨어는 단순한 gimmick이 아니고, 첫날부터 가치가 떨어지도록 설계된 게 아니에요. 오히려 가장 작은 고객들도 지속 가능한 방식으로 가치를 얻을 수 있도록 만들어졌어요.",
-    "text_zh": "我们故意推出了大量免费的软件，这些软件并不是花哨的 gimmicky 产品。它们并不是在第一天就失去价值，而是旨在让我们最小的客户以可持续的方式获得一些实际的价值。",
-    "text_es": "Nosotros lanzamos intencionadamente una gran cantidad de software gratuito, y la idea es que este software no sea simplemente un truco (gimmick). No está diseñado para perder su valor desde el primer día. En realidad, está concebido para que nuestros clientes más pequeños puedan obtener un valor sostenible de él.",
+    "text_ko": "우리는 일부러 많은 무료 소프트웨어(free software)를 공개해요. 그 소프트웨어들이 단지 겉치레(gimmicky)인 건 아니고, 출시 첫날부터 가치가 없어지도록 만든 것도 아니에요.",
+    "text_zh": "我们有意发布了很多免费软件，想法就是这些软件不是那种噱头产品，不是设计成用一天就没价值了的东西。",
+    "text_es": "Sacamos mucho software gratuito a propósito, y la idea es que no sea algo que te deje colgado. No está diseñado para que se quede obsoleto al día siguiente.",
     "key_sentence": "this software is not sort of gimmicky.",
     "text_trimmed": true,
     "original_text": "We intentionally put out a lot of free software, and the idea is that this software is not sort of gimmicky. It's not designed to run out of value on day one. It's actually designed so that our smallest customers can get some value out of it in a sustainable way.",
@@ -158,22 +158,10 @@
           "substantive",
           "meaningful"
         ]
-      },
-      {
-        "word": "product-led growth",
-        "definition": "A business strategy that relies on the product itself as the primary driver of customer acquisition, retention, and expansion.",
-        "businessContext": "In tech startups, 'product-led growth' emphasizes creating a product that delivers immediate value to users, encouraging them to share and promote it organically.",
-        "nuance": "This approach contrasts with sales-led or marketing-led strategies, and is often associated with SaaS companies that prioritize user experience and product quality.",
-        "synonyms": [
-          "product-centric growth",
-          "user-driven growth"
-        ],
-        "antonyms": [
-          "sales-led growth",
-          "marketing-led growth"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "One of the traits that I look for in PMs that I hire onto my teams... is relentless curiosity, this insatiable desire to understand things and a lack of fear in admitting when they don't understand things.",
@@ -182,9 +170,7 @@
     "context": "Lenny asks Chris about the key traits he values in product managers. Chris emphasizes that relentless curiosity is crucial, as it enables PMs to seek understanding and admit gaps in their knowledge. This trait fosters a culture of learning and innovation within teams, allowing them to address complex challenges effectively.",
     "vocabulary_highlights": [
       "relentless",
-      "curiosity",
-      "crucial",
-      "admit"
+      "curiosity"
     ],
     "topics": [
       "Coaching & Development",
@@ -230,36 +216,9 @@
           "indifference",
           "apathy"
         ]
-      },
-      {
-        "word": "crucial",
-        "definition": "Of great importance; critical to the success or failure of a situation or outcome.",
-        "businessContext": "In the context of business, identifying crucial factors can determine strategic decisions, resource allocation, and overall project success.",
-        "nuance": "While 'crucial' implies high importance, it is often used in contexts where urgency or immediate action is required.",
-        "synonyms": [
-          "essential",
-          "vital"
-        ],
-        "antonyms": [
-          "insignificant",
-          "trivial"
-        ]
-      },
-      {
-        "word": "admit",
-        "definition": "To acknowledge the truth or existence of something, often reluctantly or with difficulty.",
-        "businessContext": "In the workplace, admitting to a lack of understanding or a mistake is vital for fostering a culture of transparency, learning, and accountability.",
-        "nuance": "While admitting can be seen as a sign of weakness, it is often valued in professional environments as a step towards growth and improvement.",
-        "synonyms": [
-          "acknowledge",
-          "confess"
-        ],
-        "antonyms": [
-          "deny",
-          "refuse"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "If you're doing product-led growth the right way, then you're trying to balance the science and sort of taking a somewhat hygienic approach to validating assumptions and hypotheses with being really ambitious.",
@@ -353,10 +312,7 @@
     "timestamp": "00:23:00",
     "context": "Lenny inquires about Chris's career journey in product management. Chris reflects on how his second role marked a pivotal moment in his career, where he finally grasped the essence of product management by working closely with users and utilizing data to drive decisions. This experience transformed his understanding and approach to the field.",
     "vocabulary_highlights": [
-      "inflection point",
-      "pivotal",
-      "grasped",
-      "essence"
+      "inflection point"
     ],
     "topics": [
       "Career Development",
@@ -388,50 +344,9 @@
           "stagnation",
           "continuity"
         ]
-      },
-      {
-        "word": "pivotal",
-        "definition": "Pivotal describes something of crucial importance that is central to the success or outcome of a situation. It often implies that the element in question is a key factor in determining results.",
-        "businessContext": "In a business context, a pivotal decision or role can significantly influence the direction of a project, team, or company, often determining its overall success.",
-        "nuance": "While 'pivotal' suggests importance, it also implies that the subject is indispensable, making it a strong term to use when emphasizing critical elements.",
-        "synonyms": [
-          "critical",
-          "essential"
-        ],
-        "antonyms": [
-          "insignificant",
-          "minor"
-        ]
-      },
-      {
-        "word": "grasped",
-        "definition": "Grasped refers to the act of understanding or comprehending something fully. It implies a deep or thorough understanding of a concept or situation.",
-        "businessContext": "In business, when someone has grasped a concept or strategy, it indicates that they have not only understood it but can also apply it effectively in practice.",
-        "nuance": "This term conveys a sense of mastery or clarity, often used in contexts where deep understanding is necessary for effective decision-making.",
-        "synonyms": [
-          "understood",
-          "comprehended"
-        ],
-        "antonyms": [
-          "misunderstood",
-          "confused"
-        ]
-      },
-      {
-        "word": "essence",
-        "definition": "Essence refers to the intrinsic nature or indispensable quality of something that determines its character. It captures the fundamental nature of a concept or entity.",
-        "businessContext": "In business discussions, identifying the essence of a brand or product can help clarify its core values and market positioning, guiding strategic decisions.",
-        "nuance": "The term suggests a focus on the most important attributes, making it suitable for discussions that require distillation of complex ideas into their fundamental components.",
-        "synonyms": [
-          "core",
-          "substance"
-        ],
-        "antonyms": [
-          "superficiality",
-          "periphery"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   },
   {
     "text": "If you're a smaller team, you kind of have an acute understanding of the pain points that are like today's buyers that you need to put out.",
@@ -440,9 +355,7 @@
     "context": "Lenny discusses the importance of understanding customer pain points in product-led growth. Chris suggests that smaller teams often have a better grasp of the challenges faced by contemporary buyers. Recognizing these pain points allows companies to tailor their solutions more effectively, enhancing customer engagement and satisfaction.",
     "vocabulary_highlights": [
       "acute understanding",
-      "pain points",
-      "contemporary buyers",
-      "product-led growth"
+      "pain points"
     ],
     "topics": [
       "Product Management",
@@ -488,35 +401,8 @@
           "benefits",
           "advantages"
         ]
-      },
-      {
-        "word": "contemporary buyers",
-        "definition": "Consumers who are currently active in the market and whose preferences and behaviors are shaped by modern trends and technologies.",
-        "businessContext": "Understanding contemporary buyers is essential for businesses to align their marketing strategies and product offerings with current consumer expectations and behaviors.",
-        "nuance": "This term emphasizes the evolving nature of consumer behavior and is best used when discussing trends in marketing or product development.",
-        "synonyms": [
-          "modern consumers",
-          "current market participants"
-        ],
-        "antonyms": [
-          "traditional buyers",
-          "historical consumers"
-        ]
-      },
-      {
-        "word": "product-led growth",
-        "definition": "A business strategy that relies on the product itself as the primary driver of customer acquisition, retention, and expansion.",
-        "businessContext": "In tech startups, product-led growth focuses on creating a product that delivers value and encourages users to share it, often leading to organic growth without heavy reliance on traditional sales tactics.",
-        "nuance": "This approach is particularly relevant in software and SaaS industries, where user experience and product functionality can significantly influence market success.",
-        "synonyms": [
-          "product-driven growth",
-          "user-centric growth"
-        ],
-        "antonyms": [
-          "sales-led growth",
-          "marketing-led growth"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true
   }
 ]

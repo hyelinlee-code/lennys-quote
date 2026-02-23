@@ -5,10 +5,7 @@
     "timestamp": "00:00:00",
     "context": "At the beginning of the podcast, Noah explains Slack's approach to product innovation and avoiding incremental thinking. He describes how product teams can get trapped in constant small improvements without seeing bigger opportunities. The metaphor of \"getting to the next hill\" refers to moving beyond immediate tasks to see the broader landscape of possibilities that exists beyond current projects.",
     "vocabulary_highlights": [
-      "incremental",
-      "innovation",
-      "metaphor",
-      "approach"
+      "metaphor"
     ],
     "topics": [
       "Product Management",
@@ -22,42 +19,14 @@
       "AI/ML Products",
       "Product Design"
     ],
-    "text_ko": "우리가 자주 쓰는 정신적 은유가 하나 있어요 — '다음 언덕으로 가는 것'이요. 원문 표현은 '더 큰 바위에 베팅하세요 (Take bigger boulder bets)'예요. 팀들은 종종 그 언덕을 기어오르느라 길을 잃어서, 그 뒤에 엄청나게 크고 아름다운 산맥이 펼쳐져 있다는 걸 깨닫지 못하곤 해요. 우리는 시간이 지나면서 새로운 영역이 본격적으로 성숙하기 전에 그곳에서 초기 단계로 키운 팀들을 처음부터 만들어 옮겨 배치해 왔어요.",
-    "text_zh": "我们经常用一个比喻来形容这种思维模式，就是\"登上下一座山头\"。具体的说法是\"押注更大的石头\"(Take bigger boulder bets)。我觉得团队往往会埋头苦干爬山，却没意识到山后面还有一片巨大的、美不胜收的山脉。我们一直以来都会从零开始组建新团队，让他们在新领域孵化项目，等这些领域成熟起来。",
-    "text_es": "Tenemos esta metáfora mental de la que hablamos mucho: llegar a la siguiente colina. La frase exacta es \"apostar por rocas más grandes\" (take bigger boulder bets). Creo que los equipos a menudo se pierden arrastrándose por esa colina, sin darse cuenta de que hay una cordillera enorme e increíblemente hermosa detrás, donde con el tiempo hemos creado equipos completamente nuevos que se incubaron en áreas nuevas antes de que esas áreas maduraran.",
+    "text_ko": "우리가 자주 하는 얘기 중에 마음속 은유(mental metaphor) 하나 있어요: 바로 '다음 언덕으로 가는 것(getting to the next hill)'이에요.",
+    "text_zh": "我们常提的一个心理比喻就是“翻过下一座山头”。",
+    "text_es": "Hay una metáfora mental de la que hablamos mucho: llegar a la siguiente colina.",
     "key_sentence": "getting to the next hill.",
     "text_trimmed": true,
     "original_text": "We have this mental metaphor that we talk a lot about, getting to the next hill. The actual wording is \"Take bigger boulder bets.\" I think teams can often get lost crawling up that hill, not realizing that there's a huge, incredibly beautiful range behind it where we've over time freighted new teams from scratch that incubated in a new area before the areas mature.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "incremental",
-        "definition": "Relating to small, gradual changes or improvements rather than large, radical shifts.",
-        "businessContext": "In business, incremental changes are often preferred for risk management, allowing companies to adapt and improve processes or products without significant upheaval.",
-        "nuance": "While 'incremental' suggests a careful, measured approach, it may imply a lack of ambition compared to more disruptive strategies.",
-        "synonyms": [
-          "gradual",
-          "progressive"
-        ],
-        "antonyms": [
-          "radical",
-          "revolutionary"
-        ]
-      },
-      {
-        "word": "innovation",
-        "definition": "The process of creating new ideas, products, or methods that significantly improve or transform existing practices.",
-        "businessContext": "In the tech and startup sectors, innovation is crucial for competitive advantage, driving growth and attracting investment.",
-        "nuance": "Innovation often carries a positive connotation of creativity and forward-thinking, but it can also imply risk and uncertainty.",
-        "synonyms": [
-          "novelty",
-          "advancement"
-        ],
-        "antonyms": [
-          "stagnation",
-          "conformity"
-        ]
-      },
       {
         "word": "metaphor",
         "definition": "A figure of speech that describes an object or action in a way that isn’t literally true, often used to illustrate a concept or idea.",
@@ -71,22 +40,10 @@
           "literal",
           "fact"
         ]
-      },
-      {
-        "word": "approach",
-        "definition": "A way of dealing with a situation or problem; a method or strategy.",
-        "businessContext": "In business, the choice of approach can determine the success of projects, influencing everything from management styles to marketing strategies.",
-        "nuance": "The term 'approach' suggests a level of flexibility and adaptability, but may also imply a lack of decisiveness if not clearly defined.",
-        "synonyms": [
-          "method",
-          "strategy"
-        ],
-        "antonyms": [
-          "disregard",
-          "neglect"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think the biggest probably lesson learned, frankly, is that we were really close with the Instagram folks early on. They were big developers on our platform. They used the Foursquare API before they were bought by Facebook.",
@@ -94,10 +51,8 @@
     "timestamp": "00:09:09",
     "context": "Lenny asks Noah whether Foursquare could have built a massive consumer business or if pivoting to B2B data was inevitable. Noah reflects on what went wrong with Foursquare's social strategy. He explains that they focused on location-based sharing (person + place) while Instagram succeeded with experience-based sharing (person + moment), which sometimes included location but wasn't dependent on it.",
     "vocabulary_highlights": [
-      "pivoting",
       "platform",
-      "developers",
-      "strategy"
+      "developers"
     ],
     "topics": [
       "Product Management",
@@ -110,28 +65,14 @@
       "AI/ML Products",
       "Product Design"
     ],
-    "text_ko": "솔직히 말하면, 가장 큰 교훈은 우리가 초기에 인스타그램 팀과 정말 가까웠다는 거예요. 그들은 우리 플랫폼에서 큰 개발자였고, 페이스북에 인수되기 전에 Foursquare API를 사용했어요. 지금 생각해보면, 우리가 '원자 단위(atomic unit)'가 사람과 그 사람이 있는 장소에 대한 이야기라는 생각을 좀 잘못한 것 같아요. 사실, 물리적인 장소에 연결해야 한다기보다, 사람들이 세상에서 경험하고 있는 순간이나 경험을 공유하는 게 더 중요했을 수도 있죠.",
-    "text_zh": "我觉得最大的教训，说实话，就是我们早期跟Instagram那帮人关系特别铁。他们算是我们平台上的大开发者，在被Facebook收购之前一直在用我们的Foursquare API。现在回头看，我觉得我们当时的想法有点问题——我们以为最基本的单位应该是一个人在谈论他所在的地方，必须得绑定到一个实体的地点，而不是一个人在分享他在世界上正在经历的某个瞬间或体验。",
-    "text_es": "Creo que la lección más grande que aprendimos, la verdad, es que teníamos una relación muy estrecha con la gente de Instagram desde el principio. Eran grandes desarrolladores en nuestra plataforma. Usaban el API de Foursquare antes de que Facebook los comprara. Pienso que, visto en retrospectiva, nos equivocamos un poco al creer que la unidad básica sería una persona hablando de un lugar donde está y que tenías que vincularla a un lugar físico, en lugar de una persona compartiendo un momento o una experiencia que está viviendo en el mundo.",
+    "text_ko": "솔직히 제가 생각하기에 가장 큰 교훈은 초기에 인스타그램 쪽과 우리가 정말 가까웠다는 점이에요. 그들은 우리 플랫폼에서 중요한 개발자들이었고, 페이스북에 인수되기 전에 포스퀘어 API(Foursquare API)를 사용했어요.",
+    "text_zh": "老实说，我觉得最重要的一个教训，大概就是我们当年和 Instagram（Instagram）团队走得很近。他们当时是我们平台上很重要的开发者，在被 Facebook（Facebook）收购之前就一直在用 Foursquare 的 API（Foursquare API）。",
+    "text_es": "Creo que, para ser sincero, la lección más importante fue que desde el principio teníamos muy buena relación con la gente de Instagram. Eran de los desarrolladores (developers) más importantes de nuestra plataforma y usaban la interfaz de programación (API) de Foursquare antes de que Facebook la comprara.",
     "key_sentence": "we were really close with the Instagram folks early on.",
     "text_trimmed": true,
     "original_text": "I think the biggest probably lesson learned, frankly, is that we were really close with the Instagram folks early on. They were big developers on our platform. They used the Foursquare API before they were bought by Facebook. I think in hindsight we were a little bit mistaken to believe that the idea that the atomic unit would be a person talking about a place that they're at and you have to have a physical place to tie it to versus a person sharing a moment or an experience that they're having in the world.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "pivoting",
-        "definition": "Pivoting refers to the act of making a fundamental change in a business strategy or direction, often in response to market feedback or challenges.",
-        "businessContext": "In startup environments, pivoting is a common practice when initial business models do not yield expected results, prompting companies to explore new avenues for growth or customer engagement.",
-        "nuance": "While pivoting can indicate flexibility and responsiveness, it may also suggest a lack of initial clarity or focus in the business approach.",
-        "synonyms": [
-          "reorienting",
-          "adjusting"
-        ],
-        "antonyms": [
-          "stagnating",
-          "maintaining"
-        ]
-      },
       {
         "word": "platform",
         "definition": "A platform is a foundational technology or service that enables the development and deployment of applications, products, or services, often facilitating interactions between users and providers.",
@@ -159,22 +100,10 @@
           "users",
           "clients"
         ]
-      },
-      {
-        "word": "strategy",
-        "definition": "Strategy refers to a comprehensive plan or approach designed to achieve specific goals or objectives, often involving the allocation of resources and assessment of competitive dynamics.",
-        "businessContext": "In business, a well-defined strategy guides decision-making processes, shapes marketing efforts, and influences operational practices to gain a competitive advantage.",
-        "nuance": "While strategy implies long-term planning, it can also be adapted to reflect short-term tactical shifts in response to market conditions.",
-        "synonyms": [
-          "plan",
-          "tactics"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I would say to folks in general, if you're joining company and the CEO does the role that is your functional area of expertise, it's probably the area where you'll learn the most because they're hopefully world class at it.",
@@ -184,8 +113,7 @@
     "vocabulary_highlights": [
       "functional area",
       "expertise",
-      "world class",
-      "product-minded"
+      "world class"
     ],
     "topics": [
       "Career Development",
@@ -198,9 +126,9 @@
       "AI/ML Products",
       "Product Design"
     ],
-    "text_ko": "일반적으로 드리는 말인데요, 입사해서 최고경영자(CEO)가 여러분의 전문 업무 영역(functional area)을 직접 맡고 있다면 그 분야에서 가장 많이 배우게 될 가능성이 커요 — 보통 그분들이 그 일에 대해 세계적 수준이니까요. 다만 동시에 가장 답답함을 느낄 때도 많은데, 그건 스스로 영향력을 발휘하기 어려워 자율성(agency)이 줄어든다고 느끼기 때문이에요.",
-    "text_zh": "我觉得大家要知道，如果你加入一家公司，而CEO恰好是你这个专业领域的专家，那这块儿你肯定能学到最多东西，因为他们在这方面应该是顶尖的。但同时呢，这也是最容易让你憋屈的地方，因为你会觉得自己没什么发挥空间，很多事情做不了主。",
-    "text_es": "Yo les diría en general, si te unes a una empresa donde el CEO maneja el área que es tu especialidad, probablemente sea donde más vas a aprender porque se supone que es un crack en eso. Pero también va a ser donde más te frustres a veces, porque vas a sentir que tienes menos autonomía para tomar decisiones.",
+    "text_ko": "일반적으로 사람들에게 이렇게 말하고 싶어요. 회사에 합류할 때 최고경영자(CEO)가 당신의 전문 분야(functional area)를 직접 맡고 있다면, 그게 아마 당신이 가장 많이 배우는 분야일 거예요. 그분이 그 일을 세계적 수준으로 잘할 가능성이 크기 때문이에요.",
+    "text_zh": "我一般会跟大家说，如果你要加入的公司里，首席执行官（CEO）亲自负责的恰好是你擅长的那个职能领域，那通常就是你能学到最多的地方，因为你可以指望他们在这方面是世界级的。",
+    "text_es": "Diría, en general, que si entras a una empresa y el CEO desempeña el rol de tu área funcional (functional area), probablemente sea el área donde más vas a aprender, porque con suerte será de primer nivel (world-class) en eso.",
     "key_sentence": "Joining a company with a CEO in your functional area of expertise offers less agency.",
     "text_trimmed": true,
     "original_text": "I would say to folks in general, if you're joining company and the CEO does the role that is your functional area of expertise, it's probably the area where you'll learn the most because they're hopefully world class at it. But also, one will you'll be the most frustrated at times because you're going to feel like you have less agency.",
@@ -247,22 +175,10 @@
           "subpar",
           "mediocre"
         ]
-      },
-      {
-        "word": "product-minded",
-        "definition": "A mindset focused on understanding and prioritizing the needs and experiences of users in relation to a product's development and lifecycle.",
-        "businessContext": "In tech and startup environments, being product-minded is essential for creating solutions that resonate with customers and drive business success.",
-        "nuance": "This term suggests a proactive approach to product development, emphasizing empathy for the user experience and a commitment to continuous improvement.",
-        "synonyms": [
-          "customer-centric",
-          "user-focused"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think what we would wind up doing with Stewart at Slack, for example, is we would get the entire development team, engineers design product, user research and Stewart together in a room and we almost do a bug bash together.",
@@ -270,10 +186,7 @@
     "timestamp": "00:15:26",
     "context": "Noah explains how to successfully involve product-minded founders in the final stages of product development. He describes Slack's collaborative approach where the entire team, including founder Stewart Butterfield, would gather to review and refine products before launch. A \"bug bash\" is a collaborative session where team members test software together to find and fix issues.",
     "vocabulary_highlights": [
-      "collaborative",
-      "involve",
-      "development team",
-      "product-minded"
+      "development team"
     ],
     "topics": [
       "Product Management",
@@ -286,42 +199,14 @@
       "AI/ML Products",
       "Product Design"
     ],
-    "text_ko": "예를 들어 Slack에서 Stewart랑 같이 일할 때는 결국 개발팀 전체 — 엔지니어, 디자이너, 프로덕트팀, 유저 리서치(user research)와 Stewart를 한자리에 모아서 거의 다 같이 버그 배시(bug bash)를 했어요. 요지는 '우리 모두 같이 하는 거예요. 최고의 제품을 만들려고 하는데, 훌륭한 소프트웨어를 만드는 과정은 원래 되게 지저분하니까 그 지저분한 걸 다 같이 치워나가자'는 느낌이었어요.",
-    "text_zh": "我觉得我们在Slack和Stewart合作的时候，基本上就是把整个开发团队——工程师、设计师、产品经理、用户研究，还有Stewart，所有人都拉到一个房间里，然后一起做bug bash。就是那种\"咱们一起搞定这事儿\"的感觉。我们就想做出最好的产品，但是做好软件这事儿本来就很乱，所以大家一起收拾这个烂摊子。",
-    "text_es": "Creo que lo que terminábamos haciendo con Stewart en Slack, por ejemplo, era juntar a todo el equipo de desarrollo - ingenieros, diseño, producto, investigación de usuarios y Stewart - todos en una sala y básicamente hacíamos como un bug bash juntos. La idea era \"Lo vamos a hacer todos juntos. Estamos tratando de hacer el mejor producto posible, crear buen software es súper desordenado y todos estamos tratando de limpiar ese desorden juntos.\"",
+    "text_ko": "예를 들어 Slack의 스튜어트와 함께라면 개발팀 전체—엔지니어, 디자이너, 제품팀, 사용자 리서치(user research) 담당자와 스튜어트를 한 방에 모아놓고 사실상 함께 버그 바시(bug bash)를 하곤 해요.",
+    "text_zh": "我觉得像跟 Slack 那边的 Stewart 合作时，我们会把整个开发团队、工程师、设计、产品、用户研究这些人连同 Stewart 一起叫到一个房间，然后大家一起集中找 bug（bug bash）。",
+    "text_es": "Creo que, por ejemplo, con Stewart en Slack lo que acabaríamos haciendo sería reunir en una sala a todo el equipo de desarrollo —ingeniería, diseño, producto e investigación de usuarios— y prácticamente hacer entre todos una revisión masiva de errores (bug bash).",
     "key_sentence": "We wind up doing a bug bash together to clean up the mess collaboratively.",
     "text_trimmed": true,
     "original_text": "I think what we would wind up doing with Stewart at Slack, for example, is we would get the entire development team, engineers design product, user research and Stewart together in a room and we almost do a bug bash together. The idea was like, \"We're doing it all together. We're trying to make the best product possible, making great softwares really messy and we're all trying to clean up the mess together.\"",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "collaborative",
-        "definition": "Involving two or more parties working together to achieve a common goal.",
-        "businessContext": "In business and tech environments, a collaborative approach often enhances innovation and problem-solving by leveraging diverse perspectives and expertise.",
-        "nuance": "While 'collaborative' implies teamwork, it can also suggest a need for compromise and shared responsibility, which may not be suitable in every competitive context.",
-        "synonyms": [
-          "cooperative",
-          "joint"
-        ],
-        "antonyms": [
-          "individual",
-          "competitive"
-        ]
-      },
-      {
-        "word": "involve",
-        "definition": "To include or engage someone or something as a necessary part or participant in a process or activity.",
-        "businessContext": "In project management and team dynamics, to involve stakeholders ensures that their insights and needs are considered, leading to better outcomes.",
-        "nuance": "The term 'involve' can imply varying degrees of engagement, from passive participation to active contribution, depending on the context.",
-        "synonyms": [
-          "engage",
-          "entail"
-        ],
-        "antonyms": [
-          "exclude",
-          "omit"
-        ]
-      },
       {
         "word": "development team",
         "definition": "A group of professionals, typically including software engineers, designers, and product managers, responsible for creating and improving products or services.",
@@ -335,22 +220,10 @@
           "N/A",
           "N/A"
         ]
-      },
-      {
-        "word": "product-minded",
-        "definition": "Having a focus on the product's value, user experience, and market fit, often prioritizing customer needs in decision-making.",
-        "businessContext": "In startups and tech firms, being product-minded is essential for aligning development efforts with market demands and ensuring successful product launches.",
-        "nuance": "This term suggests a proactive approach to product management, which may contrast with a purely technical or sales-driven mindset.",
-        "synonyms": [
-          "user-centric",
-          "market-oriented"
-        ],
-        "antonyms": [
-          "N/A",
-          "N/A"
-        ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "What we started doing with these complaints storms and idea was really simple, which is we'd get a team together often Stewart myself would also join and we'd actually start off with other products first in adjacent spaces and we'd say, \"Okay.",
@@ -359,8 +232,6 @@
     "context": "Lenny asks Noah about Slack's \"Complaint-Storms\" process. Noah explains this method for helping teams look at their product with fresh eyes and build empathy for new users. The process involves teams critically examining customer journeys in competing products first, then applying the same critical lens to their own product to identify pain points and areas for improvement.",
     "vocabulary_highlights": [
       "adjacent",
-      "empathy",
-      "process",
       "team"
     ],
     "topics": [
@@ -374,9 +245,9 @@
       "AI/ML Products",
       "Product Design"
     ],
-    "text_ko": "우리가 이런 불만 폭주(complaints storms)랑 아이디어로 뭘 시작한 건 사실 되게 단순했어요. 팀을 모았고, 종종 스튜어트도 저도 같이 참여해서 실제로는 인접한 영역의 다른 제품들부터 먼저 살펴봤어요. 그리고 \"좋아요, 우리 팀이 웹사이트에 들어온 순간부터 고객 여정(customer journey)을 쭉 따라가자\"라고 했죠. 예를 들어 직장용 제품(workplace product)이라면 첫 계정을 만들고, 처음 몇 명의 사용자를 온보딩(onboard)하고, 가치를 느끼는 지점(point of value)에 도달하는 것까지요.",
-    "text_zh": "我们应对这些投诉风暴的做法其实很简单，就是把团队拉到一起，我和Stewart也经常会参与进来，然后我们会先从相关领域的其他产品开始着手，大家一起梳理整个用户旅程——从用户刚进入网站那一刻开始，比如说是个企业级产品的话，就跟着用户走完开通第一个账户、让前几个用户上手使用、一直到他们真正体验到产品价值的整个过程。",
-    "text_es": "Lo que empezamos a hacer con estas oleadas de quejas y la idea era súper sencillo - juntábamos un equipo, muchas veces Stewart y yo también nos metíamos, y arrancábamos primero con otros productos de espacios relacionados. Decíamos, \"Bueno, como grupo vamos a repasar todo el recorrido del cliente (customer journey) desde que aterriza en la web hasta, digamos si es un producto para empresas, activar su primera cuenta, subir a los primeros usuarios, y llegar hasta ese punto donde ven el valor real.\"",
+    "text_ko": "우리가 이런 불만 폭주(complaints storms)와 아이디어로 시작할 때 한 일은 정말 단순했어요. 팀을 모으고 스튜어트도 자주, 저도 함께 참여했는데, 실제로 먼저 인접 분야(adjacent spaces)의 다른 제품들부터 살펴보면서 \"좋아요.\"라고 말하곤 했어요.",
+    "text_zh": "我们开始用这些“投诉风暴”(complaints storms)和想法着手做的事其实很简单：把团队凑在一起，Stewart 常来，我也会参加。我们通常先从相近领域的其他产品下手，然后会说，“好。”",
+    "text_es": "Lo que empezamos a hacer con estas oleadas de quejas (complaints storms) fue muy sencillo: reuníamos a un equipo —a menudo Stewart se unía y yo también— y, en realidad, empezábamos por otros productos en áreas afines y decíamos: \"vale\".",
     "key_sentence": "we'd actually start off with other products first in adjacent spaces",
     "text_trimmed": true,
     "original_text": "What we started doing with these complaints storms and idea was really simple, which is we'd get a team together often Stewart myself would also join and we'd actually start off with other products first in adjacent spaces and we'd say, \"Okay. As a group we're going to go through the customer journey from the moment you land on the website through, let's say it's a workplace product, getting your first account going, getting the first couple of users on board, getting to the point of value.\"",
@@ -397,34 +268,6 @@
         ]
       },
       {
-        "word": "empathy",
-        "definition": "The ability to understand and share the feelings of another person.",
-        "businessContext": "In the workplace, empathy is crucial for effective leadership, team collaboration, and customer relations, as it fosters a supportive environment and enhances communication.",
-        "nuance": "Empathy goes beyond sympathy; it involves actively engaging with others' perspectives and emotions, making it vital in conflict resolution and team dynamics.",
-        "synonyms": [
-          "compassion",
-          "understanding"
-        ],
-        "antonyms": [
-          "indifference",
-          "apathy"
-        ]
-      },
-      {
-        "word": "process",
-        "definition": "A series of actions or steps taken to achieve a particular end.",
-        "businessContext": "In business, a 'process' refers to structured activities that organizations implement to improve efficiency, ensure quality, and achieve strategic objectives.",
-        "nuance": "While 'process' implies a systematic approach, it can also suggest rigidity; thus, it's important to balance process adherence with flexibility for innovation.",
-        "synonyms": [
-          "procedure",
-          "method"
-        ],
-        "antonyms": [
-          "disorder",
-          "chaos"
-        ]
-      },
-      {
         "word": "team",
         "definition": "A group of individuals working collaboratively towards a common goal.",
         "businessContext": "In a business setting, a 'team' is essential for leveraging diverse skills and perspectives, driving projects forward, and fostering innovation through collaboration.",
@@ -438,7 +281,9 @@
           "lone wolf"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think teams can often get lost crawling up that hill, not realizing that there's a huge, incredibly beautiful range behind it. Take bigger boulder bets. Get to the next hill to see what the horizon wants around you.",
@@ -446,8 +291,6 @@
     "timestamp": "00:00:00",
     "context": "Lenny asks how Slack enables innovation and zero-to-one bets despite being a large company. Noah explains Slack's strategic philosophy using a mountain climbing metaphor. He describes how teams can get trapped focusing on immediate incremental improvements (\"crawling up that hill\") without seeing the much larger opportunities that exist beyond their current scope.",
     "vocabulary_highlights": [
-      "strategic",
-      "innovation",
       "horizon",
       "boulder bets"
     ],
@@ -463,42 +306,14 @@
       "AI/ML Products",
       "Product Design"
     ],
-    "text_ko": "팀들이 종종 그 언덕을 기어 올라가느라 정작 그 뒤에 엄청 크고 정말 멋진 산맥이 있다는 걸 모를 때가 많아요. 더 큰 바위 같은 베팅(boulder bets)을 해보세요. 다음 언덕까지 올라가서 주변의 지평선이 무엇을 보여주는지 확인해 보세요. 우리가 전략을 생각하는 방식이 바로 그거예요.",
-    "text_zh": "我觉得团队经常会陷在眼前这点小坡上爬不出来，根本没意识到后面还有一片超级美的大好河山。要敢于下大注，爬到下一个山头去看看周围到底有什么机会。这就是我们在战略上的思路。",
-    "text_es": "Creo que los equipos muchas veces se quedan atascados subiendo esa cuesta, sin darse cuenta de que hay una cordillera enorme e increíblemente hermosa detrás. Hay que apostar por cosas más grandes, por proyectos que realmente muevan la aguja. Llegar a la siguiente colina para ver qué oportunidades te esperan en el horizonte. Así es como lo vemos estratégicamente.",
+    "text_ko": "팀들은 종종 그 언덕을 기어 오르다 길을 잃고, 그 뒤에 거대한 멋진 산맥이 있다는 걸 깨닫지 못해요. 더 과감한 베팅(boulder bets)을 해보세요. 다음 언덕까지 올라가서 지평선을 보면 주변에 어떤 기회들이 있는지 알 수 있어요.",
+    "text_zh": "很多团队常常在眼前这座小坡上耗着，没看到背后有一大片更宏大、更漂亮的天地。要敢下更大的赌注（boulder bets）。爬到下一个山头，看看地平线周围有哪些机会。",
+    "text_es": "Creo que los equipos a menudo se pierden arrastrándose cuesta arriba por esa colina, sin darse cuenta de que detrás hay una cordillera enorme e increíblemente hermosa. Hagan apuestas más grandes (boulder bets). Suban a la siguiente colina para ver qué hay en el horizonte.",
     "key_sentence": "Take bigger boulder bets to see what the horizon wants around you.",
     "text_trimmed": true,
     "original_text": "I think teams can often get lost crawling up that hill, not realizing that there's a huge, incredibly beautiful range behind it. Take bigger boulder bets. Get to the next hill to see what the horizon wants around you. That's how we think about it strategically.",
     "vocab_reparsed": true,
     "vocabulary": [
-      {
-        "word": "strategic",
-        "definition": "Relating to the identification of long-term or overall aims and interests and the means of achieving them.",
-        "businessContext": "In business, 'strategic' often refers to planning and decision-making processes that align with an organization's long-term goals and competitive positioning.",
-        "nuance": "While 'strategic' implies careful planning, it can sometimes suggest a level of complexity or forethought that may not be present in more tactical decisions.",
-        "synonyms": [
-          "tactical",
-          "calculated"
-        ],
-        "antonyms": [
-          "random",
-          "haphazard"
-        ]
-      },
-      {
-        "word": "innovation",
-        "definition": "The process of translating an idea or invention into a good or service that creates value or for which customers will pay.",
-        "businessContext": "In the business world, innovation is crucial for staying competitive, as it involves developing new products, services, or processes that meet changing market demands.",
-        "nuance": "Innovation often carries a positive connotation of progress and improvement, but it can also imply risk and uncertainty in its implementation.",
-        "synonyms": [
-          "creativity",
-          "advancement"
-        ],
-        "antonyms": [
-          "stagnation",
-          "conformity"
-        ]
-      },
       {
         "word": "horizon",
         "definition": "The line at which the earth's surface and the sky appear to meet; metaphorically, it refers to the limit of one's knowledge, experience, or interest.",
@@ -527,19 +342,16 @@
           "cautious approaches"
         ]
       }
-    ]
+    ],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   },
   {
     "text": "I think when we have those teams, I think it's important to just give them space to run, to give them ... get a gel free card for maybe the normal process of, \"Okay.",
     "speaker": "Noah Weiss",
     "timestamp": "00:39:49",
     "context": "Noah continues explaining how Slack structures innovation teams to work on new product areas like AI. He emphasizes giving these teams freedom from normal corporate processes and focusing on learning velocity rather than traditional planning cycles. The goal is rapid prototyping and user learning that eventually leads to breakthrough products that exceed customer expectations.",
-    "vocabulary_highlights": [
-      "innovation",
-      "corporate processes",
-      "freedom",
-      "learning"
-    ],
+    "vocabulary_highlights": [],
     "topics": [
       "Product Management",
       "Leadership & Management",
@@ -552,70 +364,15 @@
       "AI/ML Products",
       "Product Design"
     ],
-    "text_ko": "그런 팀들이 있을 때는 그냥 마음껏 해볼 수 있는 여지를 주는 게 중요하다고 생각해요. 예를 들어 분기별 계획 검토(quarterly reviews) 같은 평소의 프로세스에서 잠시 자유로울 수 있는 일종의 면죄부를 줘서, 중요한 건 학습 속도(pace of learning)라는 느낌이 들게 해야 해요. 얼마나 빨리 프로토타이핑(prototyping)하고 사용자에게서 얼마나 빨리 배우느냐, 그걸 공개적으로 파일럿(pilot)해보고 결국 사람들을 완전히 놀라게 하는 멋진 결과물을 출시(launch)하는 속도가 핵심이에요.",
-    "text_zh": "我觉得当我们有这样的团队时，重要的是要给他们足够的空间去发挥，给他们一张免死金牌，让他们可以跳过那些常规流程，比如\"好吧，我们的季度规划评审\"这些，让他们感觉学习的节奏才是最重要的。你们原型做得多快？从用户那里学到东西的速度有多快？然后公开试点，最后推出一个让人眼前一亮的产品。",
-    "text_es": "Creo que cuando tenemos esos equipos, es importante simplemente darles espacio para que corran, darles... como una carta libre para salirse del proceso normal de \"bueno, nuestras revisiones trimestrales de planificación\" y hacer que sientan que lo que importa es el ritmo de aprendizaje. Qué tan rápido están haciendo prototipos, qué tan rápido están aprendiendo de los usuarios y luego poder hacerlo públicamente como piloto y después sacar algo al mercado que sea increíble, que deje a la gente con la boca abierta.",
+    "text_ko": "그런 팀이 생기면 그냥 마음껏 달려보라고 여지를 주는 게 중요하다고 생각해요. 평소 프로세스에서 잠깐 벗어날 수 있는 일종의 면죄부(get-out-of-jail-free card)를 줘야 해요.",
+    "text_zh": "我觉得有那样的团队时，重要的是放手给他们空间去运作，甚至在某些常规流程上给他们一张免死金牌(get-out-of-jail-free card)。",
+    "text_es": "Creo que cuando tenemos esos equipos, es importante darles espacio para que actúen, darles una especie de carta blanca para saltarse el proceso normal de “vale…”.",
     "key_sentence": "it's important to just give them space to run, to give them ... get a gel free card for maybe the normal process",
     "text_trimmed": true,
     "original_text": "I think when we have those teams, I think it's important to just give them space to run, to give them ... get a gel free card for maybe the normal process of, \"Okay. Our planning quarterly reviews\" and make it feel something that is the pace of learning is what matters. How fast are you prototyping, how fast are you learning from users and then getting to do that publicly and pilot and then get something to launch that's amazing, blows people away.",
     "vocab_reparsed": true,
-    "vocabulary": [
-      {
-        "word": "innovation",
-        "definition": "The process of creating new ideas, products, or methods that improve efficiency or effectiveness.",
-        "businessContext": "In business and technology, innovation is critical for maintaining competitive advantage and driving growth through the development of novel solutions.",
-        "nuance": "While innovation often implies technological advancements, it can also refer to new business models or processes that enhance organizational performance.",
-        "synonyms": [
-          "creativity",
-          "invention"
-        ],
-        "antonyms": [
-          "stagnation",
-          "conformity"
-        ]
-      },
-      {
-        "word": "corporate processes",
-        "definition": "The structured activities and workflows that organizations implement to achieve their objectives and manage operations effectively.",
-        "businessContext": "In a corporate setting, well-defined processes are essential for ensuring consistency, efficiency, and compliance across various departments.",
-        "nuance": "The term can imply a formalized approach, which may sometimes stifle flexibility and adaptability in rapidly changing environments.",
-        "synonyms": [
-          "business procedures",
-          "operational workflows"
-        ],
-        "antonyms": [
-          "chaos",
-          "disorganization"
-        ]
-      },
-      {
-        "word": "freedom",
-        "definition": "The power or right to act, speak, or think as one wants without hindrance or restraint.",
-        "businessContext": "In the workplace, freedom can refer to the autonomy employees have in decision-making and creativity, which can foster innovation and job satisfaction.",
-        "nuance": "While freedom is generally viewed positively, excessive freedom without guidance can lead to a lack of direction and accountability.",
-        "synonyms": [
-          "autonomy",
-          "liberty"
-        ],
-        "antonyms": [
-          "constraint",
-          "restriction"
-        ]
-      },
-      {
-        "word": "learning",
-        "definition": "The acquisition of knowledge or skills through experience, study, or teaching.",
-        "businessContext": "In business, continuous learning is vital for employee development and adapting to market changes, often facilitated through training programs and knowledge sharing.",
-        "nuance": "Learning can encompass both formal education and informal experiences, and its importance is increasingly recognized in fostering a culture of innovation.",
-        "synonyms": [
-          "education",
-          "training"
-        ],
-        "antonyms": [
-          "ignorance",
-          "unlearning"
-        ]
-      }
-    ]
+    "vocabulary": [],
+    "vocabulary_filtered": true,
+    "translations_regenerated": true
   }
 ]
